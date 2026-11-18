@@ -32,7 +32,11 @@ PER_RUN = int(os.environ.get("SHORTS_PER_RUN", "1"))
 def font(lang, size, bold=True):
     try:
         eng = ImageFont.Layout.RAQM if ImageFont.core.HAVE_RAQM else ImageFont.Layout.BASIC
-        return ImageFont.truetype((FONT if bold else FONT_REG)[lang], size, layout_engine=eng)
+        f = ImageFont.truetype((FONT if bold else FONT_REG)[lang], size, layout_engine=eng)
+        if lang == "ml":
+            f._ml = True
+            f._en = ImageFont.truetype((FONT if bold else FONT_REG)["en"], size, layout_engine=eng)
+        return f
     except Exception:
         return ImageFont.load_default()
 
@@ -46,11 +50,34 @@ def bg():
     return img
 
 
+def _is_ml(w):
+    return any("\u0d00" <= ch <= "\u0d7f" for ch in w)
+
+
+def _wf(f, w):
+    """Per-word font: Malayalam words use the Malayalam font, everything else the Latin font."""
+    if getattr(f, "_ml", False) and not _is_ml(w):
+        return f._en
+    return f
+
+
+def put(d, xy, text, f, fill):
+    x, y = xy
+    for w in text.split(" "):
+        wf = _wf(f, w)
+        d.text((x, y), w, font=wf, fill=fill)
+        x += d.textlength(w + " ", font=wf)
+
+
+def tlen(d, text, f):
+    return sum(d.textlength(w + " ", font=_wf(f, w)) for w in text.split(" "))
+
+
 def wrap(d, text, f, width):
     words, lines, cur = text.split(), [], ""
     for w in words:
         t = (cur + " " + w).strip()
-        if d.textlength(t, font=f) <= width:
+        if tlen(d, t, f) <= width:
             cur = t
         else:
             lines.append(cur)
@@ -74,22 +101,22 @@ def frame(lang, s, scene):
     y = 300
     if scene == "hook":
         for ln in wrap(d, s["headline"], font(lang, 78), W - 120)[:6]:
-            d.text((60, y), ln, font=font(lang, 78), fill="#ffffff"); y += 100
+            put(d, (60, y), ln, font(lang, 78), "#ffffff"); y += 100
         y += 30
         for ln in wrap(d, s["hook"], font(lang, 50, False), W - 120)[:5]:
-            d.text((60, y), ln, font=font(lang, 50, False), fill="#00f5d4"); y += 68
+            put(d, (60, y), ln, font(lang, 50, False), "#00f5d4"); y += 68
     elif scene == "what":
         for ln in wrap(d, s["what"], font(lang, 54, False), W - 120)[:14]:
-            d.text((60, y), ln, font=font(lang, 54, False), fill="#ffffff"); y += 74
+            put(d, (60, y), ln, font(lang, 54, False), "#ffffff"); y += 74
     elif scene == "why":
-        d.text((60, y), WHY[lang], font=font(lang, 46), fill="#ffd60a"); y += 90
+        put(d, (60, y), WHY[lang], font(lang, 46), "#ffd60a"); y += 90
         for ln in wrap(d, s["why"], font(lang, 58), W - 120)[:12]:
-            d.text((60, y), ln, font=font(lang, 58), fill="#ffffff"); y += 80
+            put(d, (60, y), ln, font(lang, 58), "#ffffff"); y += 80
     else:  # cta
         y = 700
         for t, f, col in ((CTA[lang][0], font(lang, 64), "#ffffff"), (CTA[lang][1], font(lang, 40, False), "#00f5d4")):
             for ln in wrap(d, t, f, W - 120):
-                d.text(((W - d.textlength(ln, font=f)) / 2, y), ln, font=f, fill=col); y += 90
+                put(d, ((W - tlen(d, ln, f)) / 2, y), ln, f, col); y += 90
         d.text((60, 1650), f"Source: {s['source']}", font=font("en", 30, False), fill="#bbbbbb")
     d.text((60, H - 120), f"Source: {s['source']}  ·  AI-assisted rewrite", font=font("en", 28, False), fill="#9a8fb8")
     return img

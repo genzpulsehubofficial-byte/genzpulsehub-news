@@ -37,7 +37,7 @@ Return ONLY valid JSON, no markdown:
          "what": "2-3 short sentences: what happened",
          "why": "1-2 sentences: why it matters to a young Indian / what they should do",
          "tags": ["3-5 short hashtags without #"]}},
- "ml": {{"headline": "same in natural spoken Malayalam (keep English tech words like UPI, app, AI as-is)",
+ "ml": {{"headline": "same in natural spoken Malayalam script. Translate everything into Malayalam; only brand names and tech words like UPI, app, AI, BGMI may stay in English",
          "hook": "...", "what": "...", "why": "...", "tags": ["..."]}}
 }}
 
