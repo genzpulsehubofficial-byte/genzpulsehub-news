@@ -1,0 +1,37 @@
+{
+ "id": "1a1ad8d28fe3",
+ "created": "2026-11-18T19:43:01+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/lpst-rank-holders-decide-to-continue-stir-as-keralam-govt-undecided-on-125-teacher-student-ratio/article71715861.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala teachers push for 1:25 class ratio, talks ongoing",
+  "hook": "Students may see smaller classes if the demand holds.",
+  "what": "A group of LPST rank‑holders said they will keep protesting until the state decides on a 1‑teacher‑to‑25‑students rule. They met Education Minister N. Samsudheen, who said the issue needs more dialogue because other sections could raise similar demands. The minister added that discussions will continue.",
+  "why": "Smaller class sizes could improve learning for teens. Stay tuned for updates as the decision may affect school environments.",
+  "tags": [
+   "Kerala",
+   "education",
+   "teachers",
+   "students",
+   "policy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം അധ്യാപകർ 1:25 ക്ലാസ് അനുപാതം ആവശ്യപ്പെടുന്നു, ചർച്ചകൾ തുടരുന്നു",
+  "hook": "ക്ലാസ് ചെറുതാകുമെങ്കിൽ വിദ്യാർത്ഥികൾക്ക് പഠനം മെച്ചപ്പെടാം.",
+  "what": "LPST റാങ്ക്‑ഹോൾഡർമാർ 1‑അധ്യാപകൻ‑ക്ക്‑25‑വിദ്യാർത്ഥി അനുപാതം തീരുമാനമാകുന്നതുവരെ പ്രതിഷേധം തുടരുമെന്ന് പ്രഖ്യാപിച്ചു. അവർ വിദ്യാഭ്യാസ മന്ത്രിയായ എൻ. സമ്സുദീൻനെ കണ്ടുമുട്ടി, മറ്റ് വിഭാഗങ്ങളും സമാന ആവശ്യങ്ങൾ ഉയർത്താൻ സാധ്യതയുള്ളതിനാൽ കൂടുതൽ ചർച്ചകൾ ആവശ്യമെന്ന് അദ്ദേഹം പറഞ്ഞു. ചർച്ചകൾ തുടരുമെന്ന് മന്ത്രിയെ അറിയിച്ചു.",
+  "why": "ക്ലാസ് വലുപ്പം കുറയുന്നത് യുവ വിദ്യാർത്ഥികളുടെ പഠന ഗുണനിലവാരത്തെ ബാധിക്കും. തീരുമാനത്തെക്കുറിച്ച് അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "അധ്യാപകർ",
+   "വിദ്യാർത്ഥികൾ",
+   "നയം"
+  ]
+ }
+}
