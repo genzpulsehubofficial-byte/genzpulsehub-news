@@ -31,7 +31,8 @@ PER_RUN = int(os.environ.get("SHORTS_PER_RUN", "1"))
 
 def font(lang, size, bold=True):
     try:
-        return ImageFont.truetype((FONT if bold else FONT_REG)[lang], size)
+        eng = ImageFont.Layout.RAQM if ImageFont.core.HAVE_RAQM else ImageFont.Layout.BASIC
+        return ImageFont.truetype((FONT if bold else FONT_REG)[lang], size, layout_engine=eng)
     except Exception:
         return ImageFont.load_default()
 
