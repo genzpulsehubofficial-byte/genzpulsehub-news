@@ -87,8 +87,8 @@ def cloudflare(prompt):
 CHAIN = [("gemini", gemini), ("groq", groq), ("openrouter", openrouter),
          ("github_models", github_models), ("cloudflare", cloudflare)]
 
-_cooldown = {}  # provider -> time it failed, skip for this run after 2 failures
 _fails = {}
+ERRORS = {}  # provider -> last error (for status.json)
 
 
 def ask(prompt):
@@ -102,6 +102,10 @@ def ask(prompt):
                 return out, name
         except Exception as e:
             _fails[name] = _fails.get(name, 0) + 1
-            errors.append(f"{name}: {str(e)[:120]}")
+            msg = str(e)[:200]
+            if hasattr(e, 'response') and e.response is not None:
+                msg += ' | ' + e.response.text[:200]
+            ERRORS[name] = msg
+            errors.append(f"{name}: {msg}")
             time.sleep(1)
     raise AllFailed("; ".join(errors))
