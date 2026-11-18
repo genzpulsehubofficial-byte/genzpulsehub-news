@@ -1,0 +1,37 @@
+{
+ "id": "5f610461989a",
+ "created": "2026-11-18T20:43:08+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/sip-investment-patience-pays-as-staying-invested-for-10-years-could-help-you-avoid-losses-what-21-year-study-revealed-11795007979745.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "10-year SIPs avoided losses in major indices, study finds",
+  "hook": "Stick with SIPs for a decade, and you could dodge losses.",
+  "what": "A Motilal Oswal analysis of market data from 2005 to 2026 showed that staying invested in SIPs for ten years eliminated negative returns for the Nifty 100, Midcap 150 and Nifty 500. Small‑cap SIPs still carried the chance of loss.",
+  "why": "For Gen Z investors, a longer SIP horizon can protect against market dips, so consider planning at least a ten‑year term.",
+  "tags": [
+   "SIP",
+   "Investing",
+   "LongTerm",
+   "Stocks",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "10 വര്‍ഷത്തെ SIPs‑ല്‍ നഷ്ടം ഇല്ല, പഠനം പറയുന്നു",
+  "hook": "ദശാബ്ദം വരെ SIP പിടിച്ചാല്‍ നഷ്ടം ഒഴിവാക്കാം",
+  "what": "2005‑2026 വരെ ഡാറ്റ പരിശോധിച്ച Motilal Oswal പഠനം, Nifty 100, Midcap 150, Nifty 500 എന്നിവയില്‍ 10 വര്‍ഷത്തെ SIP നിക്ഷേപം നെഗറ്റീവ് റിട്ടേണ്‍ നല്‍കാത്തതായി കണ്ടെത്തി. ചെറുക്യാപ് SIP‑കളില്‍ ഇപ്പോഴും നഷ്ടം സംഭവിക്കാം.",
+  "why": "പുതിയ നിക്ഷേപകര്‍ക്ക് ദീര്‍ഘകാല SIP പ്ലാന്‍ ചെയ്യുന്നത് മാര്‍ക്കറ്റ് ഇടിവില്‍ നിന്നും സംരക്ഷണം നല്‍കും; കുറഞ്ഞത് പത്ത് വര്‍ഷത്തെ ലക്ഷ്യം വെക്കാം.",
+  "tags": [
+   "SIP",
+   "Investing",
+   "LongTerm",
+   "Stocks",
+   "Finance"
+  ]
+ }
+}

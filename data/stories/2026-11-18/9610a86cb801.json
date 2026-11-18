@@ -1,0 +1,37 @@
+{
+ "id": "9610a86cb801",
+ "created": "2026-11-18T20:44:01+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "British hackers sentenced for GTA breach and crypto theft",
+  "hook": "Gamers and crypto fans, this could affect your online safety.",
+  "what": "Two hackers from the UK have been handed long prison terms after breaking into the makers of Grand Theft Auto and stealing large sums of cryptocurrency. The court highlighted both the game data breach and the crypto fraud.",
+  "why": "It shows that cyber crimes targeting popular games and digital money are taken seriously, so protect your accounts and avoid shady links.",
+  "tags": [
+   "gaming",
+   "cybersecurity",
+   "crypto",
+   "law",
+   "UK"
+  ]
+ },
+ "ml": {
+  "headline": "ബ്രിട്ടീഷ് ഹാക്കർമാർ GTA ബ്രിച്ച്, ക്രിപ്റ്റോ തട്ടവിൽ ശിക്ഷിതർ",
+  "hook": "ഗെയിം, ക്രിപ്റ്റോ ആരാധകർ, നിങ്ങളുടെ ഓൺലൈൻ സുരക്ഷയെക്കുറിച്ച് ചിന്തിക്കൂ.",
+  "what": "യുകെയിൽ നിന്നുള്ള രണ്ട് ഹാക്കർമാർ ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ നിർമ്മാതാക്കളിൽ പ്രവേശിക്കുകയും വലിയ ക്രിപ്റ്റോ തുക ചൂഷണം ചെയ്യുകയും ചെയ്തതിന് ദീർഘകാല ജയിൽ ശിക്ഷ ലഭിച്ചു. കോടതി ഗെയിം ഡാറ്റാ ലംഘനവും ക്രിപ്റ്റോ തട്ടവവും രണ്ടും ചൂണ്ടിക്കാട്ടി.",
+  "why": "പോപ്പുലർ ഗെയിമുകളും ഡിജിറ്റൽ കറൻസികളും ലക്ഷ്യമാക്കുന്ന സൈബർ കുറ്റങ്ങൾ ഗൗരവമായി കാണപ്പെടുന്നു; അതിനാൽ നിങ്ങളുടെ അക്കൗണ്ടുകൾ സുരക്ഷിതമാക്കുക, സംശയകരമായ ലിങ്കുകൾ ഒഴിവാക്കുക.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "സൈബർസെക്യൂരിറ്റി",
+   "ക്രിപ്റ്റോ",
+   "നിയമം",
+   "UK"
+  ]
+ }
+}
