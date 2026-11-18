@@ -1,5 +1,100 @@
 [
  {
+  "id": "bd18228c2f9e",
+  "created": "2026-11-18T22:58:00+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/eknath-shinde-tears-sonia-gandhis-book-over-savarkar-references-seeks-ban-in-maharashtra/article71717132.ece",
+  "headline": "Shiv Sena protests Sonia Gandhi memoir, demands page removal",
+  "hook": "A book controversy sparks a political showdown in Maharashtra",
+  "what": "Shiv Sena members ripped out two pages of Sonia Gandhi’s memoir, objecting to references to Savarkar. The party asked publisher HarperCollins to withdraw those pages. Congress condemned the protest, while Uddhav Sena leaders responded to the Shinde faction.",
+  "why": "The clash highlights how historical narratives can fuel political tension, urging young readers to seek balanced information. Stay informed through reliable sources.",
+  "tags": [
+   "ShivSena",
+   "SoniaGandhi",
+   "bookprotest",
+   "Maharashtra",
+   "politics"
+  ]
+ },
+ {
+  "id": "4ec9a2c1636e",
+  "created": "2026-11-18T22:58:02+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/telangana-govt-family-insurance-scheme-rs-5-lakh-cover-on-nov-19-check-eligibility-how-to-apply-and-documents-needed-11795017171262.html",
+  "headline": "Telangana launches free ₹5 lakh family insurance on Nov 19",
+  "hook": "One earning member gets life cover at no cost for eligible families",
+  "what": "The state will begin registering families for the Indiramma Family Insurance Scheme on November 19. Premiums are fully funded by the government, offering a ₹5 lakh death benefit to the nominated beneficiary of the insured earner.",
+  "why": "It provides financial safety for young households; eligible families can apply using their ration‑card details.",
+  "tags": [
+   "Telangana",
+   "Insurance",
+   "Family",
+   "Indiramma",
+   "FreeCover"
+  ]
+ },
+ {
+  "id": "92075c436584",
+  "created": "2026-11-18T22:58:05+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/big-relief-how-defence-pensioners-abroad-can-submit-life-certificates-through-authorised-indian-bank-officials-11795016553617.html",
+  "headline": "Defence pensioners abroad can now file life certificates via Indian banks",
+  "hook": "No more embassy trips – just drop by your local Indian bank.",
+  "what": "SPARSH pensioners living outside India no longer need to visit Indian embassies for their yearly life certificate. They can get the certificate manually attested by authorized officials of Indian banks operating abroad. These attested certificates are now accepted.",
+  "why": "The change speeds up pension processing for families of defence personnel overseas. If you have a relative on a defence pension abroad, advise them to approach the nearest Indian bank for attestation.",
+  "tags": [
+   "defence",
+   "pension",
+   "overseas",
+   "banks",
+   "SPARSH"
+  ]
+ },
+ {
+  "id": "3439be5ca604",
+  "created": "2026-11-18T22:58:07+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+  "headline": "AI takeover fears: Altman urges human control",
+  "hook": "Tech leaders say we must keep AI in check.",
+  "what": "Sam Altman and Greg Brockman responded to talks about AI taking over decision‑making. They said the discussion is growing in Silicon Valley. They also noted it’s hard to ensure advanced AI stays under human oversight.",
+  "why": "For youngsters, it highlights the need to learn about AI safety and stay informed as the tech evolves. Keep an eye on developments and consider studying AI ethics.",
+  "tags": [
+   "AI",
+   "tech",
+   "future",
+   "safety",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "c9e7c57017a6",
+  "created": "2026-11-18T22:58:10+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Mashable",
+  "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
+  "headline": "GTA 6 merch hits stores on launch day",
+  "hook": "Fans lined up for hours to snag the new gear.",
+  "what": "Rockstar and West Coast Customs released official GTA 6 clothing and accessories, including shirts, hats, a Ferrari ClubAlfa.it item and a ’95 Grotti Cheetah replica. A pop‑up shop in London attracted long queues, with shoppers rushing to buy what remained.",
+  "why": "Gaming fans can now wear the game’s style, and early buyers might need to act fast for limited stock. Indian teens interested in gaming culture can check online stores for availability.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "merch",
+   "fashion",
+   "popup"
+  ]
+ },
+ {
   "id": "87f478ede3c2",
   "created": "2026-11-18T21:47:59+05:30",
   "category": "kerala",

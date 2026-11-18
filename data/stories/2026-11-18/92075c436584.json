@@ -1,0 +1,37 @@
+{
+ "id": "92075c436584",
+ "created": "2026-11-18T22:58:05+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/big-relief-how-defence-pensioners-abroad-can-submit-life-certificates-through-authorised-indian-bank-officials-11795016553617.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Defence pensioners abroad can now file life certificates via Indian banks",
+  "hook": "No more embassy trips – just drop by your local Indian bank.",
+  "what": "SPARSH pensioners living outside India no longer need to visit Indian embassies for their yearly life certificate. They can get the certificate manually attested by authorized officials of Indian banks operating abroad. These attested certificates are now accepted.",
+  "why": "The change speeds up pension processing for families of defence personnel overseas. If you have a relative on a defence pension abroad, advise them to approach the nearest Indian bank for attestation.",
+  "tags": [
+   "defence",
+   "pension",
+   "overseas",
+   "banks",
+   "SPARSH"
+  ]
+ },
+ "ml": {
+  "headline": "Defence pensioners abroad-ൽ ഇനി Indian banks വഴി life certificate submit ചെയ്യാം",
+  "hook": "Embassy visit വേണ്ട, അടുത്ത Indian bank-ൽ തന്നെ ചെയ്യാം",
+  "what": "SPARSH pensioners overseas-ൽ annual life certificate നേടാൻ Indian embassy പോകേണ്ടി വരില്ല. Indian banks‑ലെ authorised officials‑ന് manual certificate attestation ചെയ്യിക്കാം, അത് അംഗീകരിക്കും.",
+  "why": "ഇത് families‑ന് process ലളിതമാക്കും, pension time‑ലേയ്ക്ക് delay ഇല്ലാതാക്കും. നിങ്ങളുടെ relative defence pensioner abroad‑ൽ ഉണ്ടെങ്കിൽ, അടുത്ത Indian bank‑ൽ attestation ചെയ്യാൻ പറയൂ.",
+  "tags": [
+   "defence",
+   "pension",
+   "overseas",
+   "banks",
+   "SPARSH"
+  ]
+ }
+}
