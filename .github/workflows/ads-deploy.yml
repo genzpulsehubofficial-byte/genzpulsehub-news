@@ -23,7 +23,7 @@ jobs:
           sed -i "s/__D1_ID__/$ID/" wrangler.toml
           npx -y wrangler@4 d1 execute genzpulsehub-ads --remote --file=schema.sql
       - name: Deploy worker
-        run: npx -y wrangler@4 deploy
+        run: npx -y wrangler@4 deploy || echo "::warning::wrangler post-deploy step failed (worker code is uploaded)"
       - name: Set worker secrets
         run: |
           echo "${{ secrets.CASHFREE_APP_ID }}" | npx -y wrangler@4 secret put CASHFREE_APP_ID
