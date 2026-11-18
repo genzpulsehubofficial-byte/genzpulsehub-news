@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Advertise on GenZ Pulse Hub — reach Indian Gen Z 24/7</title>
+<meta name="description" content="Book ads on GenZ Pulse Hub's 24/7 live news, website and Instagram. Pay online, goes live automatically.">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;background:#0b0618;color:#f3f0ff}
+header{padding:14px 18px;background:linear-gradient(90deg,#1a0533,#05213d)}a.logo{font-weight:900;font-size:22px;background:linear-gradient(90deg,#ff3cac,#ffd60a);-webkit-background-clip:text;color:transparent;text-decoration:none}
+main{max-width:860px;margin:auto;padding:20px}h1{font-size:30px;margin:6px 0}.sub{opacity:.8}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin:18px 0}
+.opt{background:#140c28;border:2px solid #2a1a4a;border-radius:12px;padding:14px;cursor:pointer}.opt.sel{border-color:#00f5d4}
+.opt b{display:block}.opt small{opacity:.75}
+label{display:block;margin:12px 0 4px;font-weight:600;font-size:14px}input,textarea,select{width:100%;padding:11px;border-radius:9px;border:1px solid #3a2a5a;background:#140c28;color:#fff;font:inherit}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}.total{font-size:22px;font-weight:800;margin:18px 0 6px}
+button{background:linear-gradient(90deg,#ff3cac,#ffd60a);border:0;color:#1a0533;font-weight:900;padding:14px 22px;border-radius:10px;font-size:16px;cursor:pointer;width:100%}
+.note{font-size:12px;opacity:.65;margin-top:10px}.err{color:#ff6b8b;font-weight:600;margin-top:10px}
+</style></head><body>
+<header><a class="logo" href="/">GenZ Pulse Hub</a></header>
+<main>
+<h1>Advertise to Indian Gen Z, 24/7</h1>
+<p class="sub">Your brand on our live news stream, website and Instagram. Book online, pay securely, and it goes live automatically on the next free date.</p>
+<div class="grid" id="opts"></div>
+<form id="f">
+<div class="row"><div><label>Language / channel</label><select name="lang" id="lang"><option value="en">English</option><option value="ml">Malayalam</option><option value="both">Both (25% off)</option></select></div>
+<div id="dwrap"><label>How many days</label><input type="number" name="days" id="days" min="1" max="60" value="1"></div></div>
+<label>Brand name</label><input name="brand" maxlength="60" required>
+<label>Ad line (max 80 characters, shown on air)</label><input name="text" maxlength="80" required>
+<label>Details for sponsored story / article (optional)</label><textarea name="details" rows="3" maxlength="1200"></textarea>
+<label>Link (https://)</label><input name="link" type="url" placeholder="https://yourbrand.com" required>
+<label>Logo image link (optional)</label><input name="logo" type="url" placeholder="https://…/logo.png">
+<div class="row"><div><label>Your name</label><input name="name" required></div><div><label>Phone (10 digits)</label><input name="phone" pattern="[0-9]{10}" required></div></div>
+<label>Email (receipt + renewal reminders)</label><input name="email" type="email" required>
+<div class="total" id="total">₹—</div><div class="note" id="start"></div>
+<button type="submit" id="btn">Check & pay securely</button>
+<div class="err" id="err"></div>
+<p class="note">Every ad is labelled "Sponsored". We don't accept betting, crypto/trading tips, loan apps, MLM, adult, alcohol/tobacco, political or misleading ads — these are rejected automatically before payment. Payments by Cashfree (UPI, cards, net banking).</p>
+</form></main>
+<script src="https://sdk.cashfree.com/js/v3/cashfree.js"></script>
+<script>
+const API="__ADS_API__";let P={},sel="ticker";
+const opts=document.getElementById('opts'),days=document.getElementById('days'),lang=document.getElementById('lang');
+async function quote(){const r=await fetch(`${API}/api/quote?placement=${sel}&days=${days.value}&lang=${lang.value}`).then(r=>r.json());
+document.getElementById('total').textContent='₹'+r.amount.toLocaleString('en-IN');document.getElementById('start').textContent=r.next_start?('Earliest start: '+r.next_start):'Fully booked for the next 4 months';}
+fetch(API+'/api/placements').then(r=>r.json()).then(j=>{P=j.placements;opts.innerHTML=Object.entries(P).map(([k,v])=>`<div class="opt${k===sel?' sel':''}" data-k="${k}"><b>${v.name}</b><small>${v.once?('₹'+v.once+' once'):(v.day?('₹'+v.day+'/day · '):'')+(v.week?('₹'+v.week+'/week'):'')}</small></div>`).join('');
+opts.onclick=e=>{const o=e.target.closest('.opt');if(!o)return;sel=o.dataset.k;[...opts.children].forEach(c=>c.classList.toggle('sel',c===o));document.getElementById('dwrap').style.display=P[sel].unit==='day'?'':'none';if(P[sel].unit!=='day')days.value=P[sel].unit==='week'?7:1;quote();};quote();});
+days.oninput=lang.onchange=quote;
+document.getElementById('f').onsubmit=async e=>{e.preventDefault();const b=Object.fromEntries(new FormData(e.target));b.placement=sel;const btn=document.getElementById('btn'),err=document.getElementById('err');
+btn.disabled=true;btn.textContent='Checking your ad…';err.textContent='';
+try{const r=await fetch(API+'/api/order',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(b)});const j=await r.json();
+if(!r.ok)throw new Error(j.error||'Something went wrong');btn.textContent='Opening payment…';
+Cashfree({mode:"production"}).checkout({paymentSessionId:j.payment_session_id,redirectTarget:"_self"});}
+catch(x){err.textContent=x.message;btn.disabled=false;btn.textContent='Check & pay securely';}};
+</script></body></html>

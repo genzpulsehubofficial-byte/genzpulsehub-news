@@ -1,0 +1,8 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Payment status — GenZ Pulse Hub</title>
+<style>body{margin:0;font-family:Inter,system-ui,sans-serif;background:#0b0618;color:#f3f0ff;display:grid;place-items:center;min-height:100vh;text-align:center;padding:20px}h1{font-size:28px}a{color:#00f5d4}</style></head>
+<body><div><h1 id="h">Checking your payment…</h1><p id="p"></p><p><a href="/">Back to GenZ Pulse Hub</a></p></div>
+<script>const API="__ADS_API__";const o=new URLSearchParams(location.search).get('order');
+async function check(n){const j=await fetch(API+'/api/status?order='+encodeURIComponent(o)).then(r=>r.json()).catch(()=>({}));
+if(j.status==='paid'||j.status==='live'){document.getElementById('h').textContent='🎉 Paid — your ad is booked!';document.getElementById('p').textContent=`${j.brand} runs ${j.start} → ${j.end}. A receipt is on its way to your email.`;}
+else if(n<10)setTimeout(()=>check(n+1),3000);else{document.getElementById('h').textContent='Payment not confirmed yet';document.getElementById('p').textContent='If money was deducted, it will confirm automatically within a few minutes, or be refunded by Cashfree.';}}
+check(0);</script></body></html>

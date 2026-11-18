@@ -10,6 +10,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "public")
 SITE = os.environ.get("SITE_URL", "https://genzpulsehub.pages.dev")
+ADS_API = os.environ.get("ADS_API", "https://genzpulsehub-ads.genzpulsehub-official.workers.dev")
 YT = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
 IG = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 FB = {"en": "61596319547043", "ml": "61596419862358"}
@@ -142,10 +143,17 @@ def main():
     write("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
     write("/favicon.svg", '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#1a0533"/>'
           '<text x="32" y="42" font-size="30" font-weight="900" text-anchor="middle" fill="#ffd60a" font-family="Arial">GZ</text></svg>')
-    write("/ads.js", "/* filled by the ad system (Phase 4) */")
-    # advertise page placeholder until Phase 4 Worker is live
-    adv = os.path.join(ROOT, "site", "advertise.html")
-    write("/advertise/", open(adv).read() if os.path.exists(adv) else page("en", "Advertise", "Advertise", "<h1>Advertise with GenZ Pulse Hub</h1><p>Coming soon.</p>", "/advertise/"))
+    # static files (advertise pages, ads.js) with the ads API url filled in
+    static = os.path.join(ROOT, "site", "static")
+    for dirpath, _, files in os.walk(static):
+        for fn in files:
+            src = os.path.join(dirpath, fn)
+            dst = os.path.join(OUT, os.path.relpath(src, static))
+            os.makedirs(os.path.dirname(dst), exist_ok=True)
+            with open(src) as f:
+                txt = f.read().replace("__ADS_API__", ADS_API)
+            with open(dst, "w") as f:
+                f.write(txt)
     print(f"built {len(urls)} pages from {len(stories)} stories at {datetime.now():%H:%M}")
 
 
