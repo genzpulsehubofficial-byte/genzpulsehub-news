@@ -1,0 +1,37 @@
+{
+ "id": "38e640f5c8dc",
+ "created": "2026-11-19T03:51:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Kitco",
+ "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE43b3JrcGdsOTVjUndOSjM0NWdzWmQyQ3dibWNBM1h4NVA5N0FlTzBTWGFXMURsUTR5RzVqbktoRVJlM2IzZEd3NVMzV0xFWnlCYU1IVDB1bkcxTzVaYW1ZYzYtem9lQUdmaVF5U0dlcXRicW93c0F3TXJiWHBsbkQtT19kTTg0d3d4aTNIdGJqd3FBUXVQb1ZZNmNOTFNINmJjaDlzUUZKZWdMdWhDYWdLT0lCMDVGNnFz?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold stays low as Fed vows to curb inflation",
+  "hook": "Fed minutes keep gold under pressure.",
+  "what": "The Federal Reserve’s meeting minutes indicated a continued focus on reducing inflation. As a result, gold prices stayed under pressure.",
+  "why": "Lower gold prices can affect savings and investment choices for young Indians. Keep an eye on market moves before planning any gold purchases.",
+  "tags": [
+   "gold",
+   "inflation",
+   "Fed",
+   "markets",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "ഫെഡ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാൻ പ്രതിജ്ഞാബദ്ധം, സ്വർണം താഴ്ന്ന നിലയിൽ",
+  "hook": "ഫെഡ്‌ മിനിറ്റ്‌സ് സ്വർണ്ണം മർദ്ദത്തിൽ നിലനിർത്തുന്നു.",
+  "what": "ഫെഡറൽ റിസർവിന്റെ യോഗമിനിറ്റ്‌സ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാനുള്ള ശ്രമം തുടരുമെന്ന് സൂചിപ്പിച്ചു. അതിനാൽ സ്വർണ്ണവിലകൾ മർദ്ദത്തിൽ തുടരുന്നു.",
+  "why": "താഴ്ന്ന സ്വർണ്ണവിലകൾ യുവജനങ്ങളുടെ സേവിംഗ്സും നിക്ഷേപവും ബാധിക്കാം. സ്വർണ്ണം വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "ഇൻഫ്ലേഷൻ",
+   "ഫെഡ്",
+   "മാർക്കറ്റ്",
+   "നിക്ഷേപം"
+  ]
+ }
+}

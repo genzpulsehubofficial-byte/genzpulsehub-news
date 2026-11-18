@@ -1,5 +1,100 @@
 [
  {
+  "id": "6b4b11d8558c",
+  "created": "2026-11-19T03:51:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+  "headline": "Anthropic IPO-യുടെ വില $83, ലക്ഷ്യ പരിധി മുകളിലായി",
+  "hook": "മാർക്കറ്റ് അസ്ഥിരതയുണ്ടെങ്കിലും, നിക്ഷേപകർ AI-യിൽ വലിയ വിശ്വാസം കാണിക്കുന്നു.",
+  "what": "Anthropic IPO-യുടെ ഓരോ ഷെയറിനും $83 എന്ന വില നിശ്ചയിച്ചു, ഇത് $70‑$78 എന്ന മുൻപരിധിയെക്കാൾ ഉയർന്നതാണ്. ഈ വിലയിടപാട്, Nvidia-യുടെ CEO പുറപ്പെടലിനുശേഷം വ്യവസായത്തിൽ ഉണ്ടായ ആശങ്കകളെ മറികടന്ന്, AI കമ്പനിയിലേക്കുള്ള ശക്തമായ ആവശ്യം കാണിക്കുന്നു.",
+  "why": "ടെക് കരിയർ ആഗ്രഹിക്കുന്ന യുവജനങ്ങൾക്ക്, AI സ്റ്റാർട്ടപ്പുകളിൽ നിക്ഷേപകരുടെ ആത്മവിശ്വാസം തുടരുന്നതായി ഇത് സൂചിപ്പിക്കുന്നു, ഭാവിയിൽ കൂടുതൽ അവസരങ്ങളും ഫണ്ടിംഗും പ്രതീക്ഷിക്കാം.",
+  "tags": [
+   "AI",
+   "IPO",
+   "സ്റ്റാർട്ടപ്പ്",
+   "നിക്ഷേപകർ",
+   "ടെക്"
+  ]
+ },
+ {
+  "id": "df751380d9ea",
+  "created": "2026-11-19T03:51:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+  "headline": "Anduril CEO‑ന് മൂന്ന് ദിവസത്തെ അടിയന്തിര കിറ്റ് നിര്‍ദ്ദേശം",
+  "hook": "ഒരു പ്രമുഖ ടെക് സ്ഥാപകൻ, ഏത് സാഹചര്യത്തിലും തയ്യാറാകാൻ പറയുകയാണ്.",
+  "what": "Anduril സ്ഥാപകനായ Palmer Luckey, എല്ലാ അമേരിക്കക്കാരും മൂന്ന് ദിവസത്തെ ഭക്ഷണം, വെള്ളം, മരുന്ന് എന്നിവയുടെ സ്റ്റോക്ക് ഉണ്ടാക്കണമെന്ന് ചൊല്ലി. ഈ നിർദ്ദേശം അദ്ദേഹം ബുധനാഴ്ച പങ്കുവെച്ചു.",
+  "why": "അപകടം വന്നാൽ കുറച്ച് ദിവസത്തെ സാധനങ്ങൾ ഉണ്ടെങ്കിൽ സുരക്ഷിതമായി നിൽക്കാം; ഇപ്പോൾ തന്നെ ഒരു അടിയന്തിര കിറ്റ് തയ്യാറാക്കുക.",
+  "tags": [
+   "prepper",
+   "അടിയന്തിര",
+   "Anduril",
+   "സ്വയംപര്യാപ്തി",
+   "സുരക്ഷ"
+  ]
+ },
+ {
+  "id": "1ef7b261d345",
+  "created": "2026-11-19T03:51:15+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
+  "headline": "UEF, IIT-M ചേർന്ന് 2026 തമിഴ്നാട് ഗ്രോത്ത് കോൺക്ലേവ്",
+  "hook": "പത്ത് പ്രധാന മേഖലകളിൽ വളർച്ചയും തൊഴിൽ അവസരങ്ങളും സൃഷ്ടിക്കാൻ സംസ്ഥാനത്തെ പുതിയ പദ്ധതി.",
+  "what": "University of Economic Forum (UEF)യും Indian Institute of Technology Madras (IIT-M)യും 2026 തമിഴ്നാട് ഗ്രോത്ത് കോൺക്ലേവ് സംഘടിപ്പിക്കാൻ പങ്കാളിത്തം പ്രഖ്യാപിച്ചു. ഈ ഇവന്റ് പത്ത് മുൻഗണനാ മേഖലകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കും.",
+  "why": "വിവിധ മേഖലകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത് വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും പുതിയ അവസരങ്ങൾ നേടാൻ സഹായിക്കും. കോൺക്ലേവ് വഴി ഇന്റേൺഷിപ്പ്, പ്രോജക്റ്റ്, സഹകരണം എന്നിവ പരിശോധിക്കുക.",
+  "tags": [
+   "തമിഴ്നാട്",
+   "വളർച്ച",
+   "IITMadras",
+   "UEF",
+   "യുവാവസരങ്ങൾ"
+  ]
+ },
+ {
+  "id": "38e640f5c8dc",
+  "created": "2026-11-19T03:51:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Kitco",
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE43b3JrcGdsOTVjUndOSjM0NWdzWmQyQ3dibWNBM1h4NVA5N0FlTzBTWGFXMURsUTR5RzVqbktoRVJlM2IzZEd3NVMzV0xFWnlCYU1IVDB1bkcxTzVaYW1ZYzYtem9lQUdmaVF5U0dlcXRicW93c0F3TXJiWHBsbkQtT19kTTg0d3d4aTNIdGJqd3FBUXVQb1ZZNmNOTFNINmJjaDlzUUZKZWdMdWhDYWdLT0lCMDVGNnFz?oc=5",
+  "headline": "ഫെഡ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാൻ പ്രതിജ്ഞാബദ്ധം, സ്വർണം താഴ്ന്ന നിലയിൽ",
+  "hook": "ഫെഡ്‌ മിനിറ്റ്‌സ് സ്വർണ്ണം മർദ്ദത്തിൽ നിലനിർത്തുന്നു.",
+  "what": "ഫെഡറൽ റിസർവിന്റെ യോഗമിനിറ്റ്‌സ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാനുള്ള ശ്രമം തുടരുമെന്ന് സൂചിപ്പിച്ചു. അതിനാൽ സ്വർണ്ണവിലകൾ മർദ്ദത്തിൽ തുടരുന്നു.",
+  "why": "താഴ്ന്ന സ്വർണ്ണവിലകൾ യുവജനങ്ങളുടെ സേവിംഗ്സും നിക്ഷേപവും ബാധിക്കാം. സ്വർണ്ണം വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "ഇൻഫ്ലേഷൻ",
+   "ഫെഡ്",
+   "മാർക്കറ്റ്",
+   "നിക്ഷേപം"
+  ]
+ },
+ {
+  "id": "e4be984b82dd",
+  "created": "2026-11-19T03:51:24+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSV9CbEl6amFyOG5RWDJhT3hvcmU0X3NGU0FULW9MQWVLbFR0VlFkaEkzMWpnTUZHOE5DQklYY0VWM2dqUXRJOEVtMm1WNVAyQmtFSW5TRDVTOFZWeGdOWS1xSUpVLXB5Q0s1dWF3NEwwZXRpa2tsSzQyU3lzeXdIUWY4NDJJa3N3ZFdKeU1kUDY5bHJ2UTkyQ3FfZHlCMElBeU41aVZYeFRKWktlZHREX0l5NkZrckQ5ekpjbmVLQng4YjZ6MWc?oc=5",
+  "headline": "മഹാനദി കോൾഫീൽഡ്സ് $245 മില്യൺ ADIA, LIC‑ൽ നിന്ന് IPO ആങ്കർ",
+  "hook": "വലിയ നിക്ഷേപകർ കോൾഫീൽഡ്സിന്റെ IPO‑ക്ക് പിന്തുണ, മാർക്കറ്റിൽ എന്ത് മാറ്റം?",
+  "what": "കോൾ ഇന്ത്യയുടെ ഉപകമ്പനി മഹാനദി കോൾഫീൽഡ്സ്, അബു ധാബി ഇൻവെസ്റ്റ്മെന്റ് അതോറിറ്റി (ADIA)യും ലൈഫ് ഇൻഷുറൻസ് കോർപ്പറേഷൻ (LIC)യും ചേർന്ന് $245 മില്യൺ ആങ്കർ നിക്ഷേപം ഉറപ്പിച്ചു. കമ്പനി IPO വില ബാൻഡ് ₹129‑136 ആയി നിശ്ചയിച്ചു, മൊത്തം ₹9,000 കോടി സമാഹരിക്കാൻ ലക്ഷ്യമിടുന്നു. ആങ്കർ നിക്ഷേപകർ Rs 2,295 കോടി പങ്കുവച്ചു.",
+  "why": "ഇത് ഖനിജ മേഖലയിലെ നിക്ഷേപ ആത്മവിശ്വാസം കാണിക്കുന്നു, സ്റ്റോക്ക് മാർക്കറ്റിൽ പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം. യുവ നിക്ഷേപകർ വരാനിരിക്കുന്ന ലിസ്റ്റിംഗ് ശ്രദ്ധിച്ച്, സാധ്യതയുള്ള നിക്ഷേപം പരിഗണിക്കാം.",
+  "tags": [
+   "MCL",
+   "IPO",
+   "നിക്ഷേപം",
+   "മാർക്കറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
   "id": "e92fd948c817",
   "created": "2026-11-19T02:54:54+05:30",
   "category": "trending",
@@ -657,101 +752,6 @@
    "റിവാർഡ്സ്",
    "ടാക്സ്",
    "ജന്ജെ"
-  ]
- },
- {
-  "id": "1a1ad8d28fe3",
-  "created": "2026-11-18T19:43:01+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/lpst-rank-holders-decide-to-continue-stir-as-keralam-govt-undecided-on-125-teacher-student-ratio/article71715861.ece",
-  "headline": "കേരളം അധ്യാപകർ 1:25 ക്ലാസ് അനുപാതം ആവശ്യപ്പെടുന്നു, ചർച്ചകൾ തുടരുന്നു",
-  "hook": "ക്ലാസ് ചെറുതാകുമെങ്കിൽ വിദ്യാർത്ഥികൾക്ക് പഠനം മെച്ചപ്പെടാം.",
-  "what": "LPST റാങ്ക്‑ഹോൾഡർമാർ 1‑അധ്യാപകൻ‑ക്ക്‑25‑വിദ്യാർത്ഥി അനുപാതം തീരുമാനമാകുന്നതുവരെ പ്രതിഷേധം തുടരുമെന്ന് പ്രഖ്യാപിച്ചു. അവർ വിദ്യാഭ്യാസ മന്ത്രിയായ എൻ. സമ്സുദീൻനെ കണ്ടുമുട്ടി, മറ്റ് വിഭാഗങ്ങളും സമാന ആവശ്യങ്ങൾ ഉയർത്താൻ സാധ്യതയുള്ളതിനാൽ കൂടുതൽ ചർച്ചകൾ ആവശ്യമെന്ന് അദ്ദേഹം പറഞ്ഞു. ചർച്ചകൾ തുടരുമെന്ന് മന്ത്രിയെ അറിയിച്ചു.",
-  "why": "ക്ലാസ് വലുപ്പം കുറയുന്നത് യുവ വിദ്യാർത്ഥികളുടെ പഠന ഗുണനിലവാരത്തെ ബാധിക്കും. തീരുമാനത്തെക്കുറിച്ച് അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "കേരളം",
-   "വിദ്യാഭ്യാസം",
-   "അധ്യാപകർ",
-   "വിദ്യാർത്ഥികൾ",
-   "നയം"
-  ]
- },
- {
-  "id": "b1dd08013ad3",
-  "created": "2026-11-18T19:43:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVo4R08zb1NLcnBSUHZjUEl2NV9jZGZ1SG1oTXZNakY3MXliTVZIcDIzUHo1U0pwdElJSGQ3aUR2MHc1cUdJUURGQ3RCSzVJM0owUWE3SmEwMHNERXhVMEt0VVFFQVlGMDA1VXBURl9jX1JRVGpKYTBJUTViRm1yenJEM2FyN01TZ2ZseVdsSEVrWVI5RGRUb3MzVEtQemN1MUdoa1B2VHdPRjNPMXhPbmZla2FkTFE?oc=5",
-  "headline": "ഇന്ത്യ 162.5% ഡ്യൂട്ടി സ്കോച്ച് ഇറക്കുമതിക്ക്",
-  "hook": "സ്കോച്ച് പ്രേമികളേ, വില ഉയരാൻ തയ്യാറാകൂ!",
-  "what": "യുകെയിൽ നിന്നുള്ള ബൾക്ക് സ്കോച്ച് വിസ്കി ഇറക്കുമതിയിൽ 162.5% ഡ്യൂട്ടി, ടാക്സ് ഇന്ത്യ ഏർപ്പെടുത്തുന്നു. ഇത് ഒരു ട്രേഡ് ഉടമ്പടി തർക്കത്തിന്റെ ഭാഗമാണെങ്കിലും, ഉടൻ പരിഹാരം കാണുമെന്ന പ്രതീക്ഷയുണ്ട്. അലൈഡ് ബ്ലെൻഡേഴ്സിന് 5.69 ലക്ഷം രൂപ മൂല്യമുള്ള സാധനങ്ങൾക്ക് സീജർ നോട്ടീസ് ലഭിച്ചു, കൊമേഴ്സ് സെക്രട്ടറി ഇന്ത്യ യു‌കെയുമായി സമ്മതിച്ച ഡ്യൂട്ടി ഇളവുകൾ പാലിക്കും എന്ന് പറഞ്ഞു.",
-  "why": "വില ഉയർന്നാൽ സ്കോച്ച് ബാറുകളിലും സ്റ്റോറുകളിലും ചെലവ് കൂടും, അതിനാൽ വാങ്ങാൻ ആലോചിക്കുന്നവർക്കു വില മാറ്റങ്ങൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "സ്കോച്ച്",
-   "ടാരിഫ്",
-   "വിസ്കി",
-   "ഇന്ത്യ",
-   "യുകെ"
-  ]
- },
- {
-  "id": "fd2242737b6c",
-  "created": "2026-11-18T19:41:53+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/odisha-andhra-prepare-shelters-evacuations-ahead-of-nov-20-cyclone-akvan-landfall-101795009673205.html",
-  "headline": "സൈക്ക്ലോണ്‍ അക്വാന്‍ നാളെ ഉച്ചയ്ക്ക് ആന്ധ്രയും ഒഡീഷയും കടക്കും",
-  "hook": "മഴക്കാറ്റ് മുന്നറിയിപ്പ്, സ്കൂളുകള്‍ അടയ്ക്കാം, യാത്രാ പദ്ധതികള്‍ മാറ്റാം",
-  "what": "ഇന്ത്യാ കാലാവസ്ഥാ വകുപ്പ് പ്രകാരം, സൈക്ക്ലോണ്‍ അക്വാന്‍ നാളെ ഉച്ചയ്ക്ക് ആന്ധ്രപ്രദേശത്തിന്റെ വടക്കന്‍ തീരവും ഒഡീഷയുടെ തെക്കന്‍ തീരവും കടക്കുമെന്നു പറയുന്നു. ഇരുവര്‍ഗ്ഗ സംസ്ഥാനങ്ങളിലെ അധികാരികള്‍ അഭയം ഒരുക്കി, ഒഴിപ്പിക്കല്‍ പദ്ധതികള്‍ തയ്യാറാക്കുന്നു.",
-  "why": "വിദ്യാർത്ഥികളും കുടുംബങ്ങളും പ്രാദേശിക അറിയിപ്പുകൾ ശ്രദ്ധിച്ച്, തീരപ്രദേശങ്ങളിലേക്കുള്ള യാത്ര ഒഴിവാക്കി, ഒഴിപ്പിക്കൽ നിർദ്ദേശങ്ങൾ പാലിക്കാൻ തയ്യാറാകണം.",
-  "tags": [
-   "cyclone",
-   "weather",
-   "Andhra",
-   "Odisha",
-   "alert"
-  ]
- },
- {
-  "id": "e0910895ccf7",
-  "created": "2026-11-18T19:41:57+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
-  "headline": "Humyn Labs-ന് റോബോട്ട് ഡാറ്റാ വിപുലീകരണത്തിന് $47 മില്യണ്‍ ഫണ്ടിംഗ്",
-  "hook": "റോബോട്ട് പരിശീലനത്തിന് വലിയ നിധി ലഭിച്ചു.",
-  "what": "ഫിസിക്കൽ AI സ്റ്റാർട്ടപ്പ് Humyn Labs $47 മില്യണ്‍ (ഏകദേശം ₹439 കോടി) സമാഹരിച്ചു. ഈ പണം ഡാറ്റ ശേഖരണം വർദ്ധിപ്പിക്കാനും റോബോട്ടുകൾ വിന്യസിക്കാനും ഉപയോഗിക്കും.",
-  "why": "AI‑റോബോട്ടിക് മേഖലയിലെ വളർച്ച പുതിയ ജോലികളും സാങ്കേതിക അവസരങ്ങളും സൃഷ്ടിക്കും. യുവാക്കൾക്ക് ഈ ട്രെൻഡ് ശ്രദ്ധിക്കാം.",
-  "tags": [
-   "startup",
-   "AI",
-   "robotics",
-   "funding",
-   "tech"
-  ]
- },
- {
-  "id": "74151bb1e36e",
-  "created": "2026-11-18T19:42:00+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Al Jazeera",
-  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VqQjVlSDhlRmd0TWpGQ1JhTkxjNjQybzkyV0l5cHhxaUtrSVlaMFc2VmthNWlsQkNGTTRkVTVPSEJEVllVTlVVcGllQllJa0p2enBoWmF0XzNyOTUzOXAxYWhRRmxTWFN1ZnpDQzFubWtUeS1vaFhrUXpjZlYwbFNDUGNVamVFTU9fV096ZVhBeDhXT1VwNWVBUUdaeDI1NlR1X0NrcGZyc01HV3BSLVp30gG3AUFVX3lxTFBnRlBaUHdOaGdmU0x4bE5XMERuS2M1OGdfZmR5a3VsYlBMNTNzQWhkeWtkdmFydEF2aERTVE5iTHV5a1p2c25PMVhidzM4U0RRQTNrN2tCN1g5bmFCV2hRcVhwRkNBSWNwMGVQbnEweHhHd2dGTWM4aGdSUUJNNF9LTmFVNEhTVEk5WGNVVXFGSlIwdXpqTVQ3NzVXdTROYmVMVmx4VnNGc2UzaEhpRUJaUElmUzNaRQ?oc=5",
-  "headline": "Grand Theft Auto VI ഗ്ലോബൽ ലോഞ്ച്, അത്ഭുതകരം എന്ന് വിലയിരുത്തി",
-  "hook": "പുതിയ GTA ഒടുവിൽ ലോകമെമ്പാടും ലഭ്യമാകുന്നു.",
-  "what": "വളരെ പ്രതീക്ഷിക്കപ്പെട്ട Grand Theft Auto VI ഇപ്പോൾ ഗ്ലോബൽ ആയി പുറത്തിറങ്ങി. പ്രാരംഭ അവലോകനങ്ങൾ അത് അത്യന്തം ഇംപ്രസീവ്, വിശ്വസനീയവും അസാധാരണവുമായ ലോകം ഉള്ളതെന്ന് പറയുന്നു.",
-  "why": "ഗെയിമർമാർക്ക് പുതിയ തുറന്ന ലോകം അനുഭവിക്കാൻ അവസരം. റിലീസ് വിവരങ്ങളും പ്ലാറ്റ്ഫോം അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "GTA6",
-   "ഗെയിമിംഗ്",
-   "ഗ്ലോബൽ",
-   "അവലോകനം",
-   "ViceCity"
   ]
  }
 ]

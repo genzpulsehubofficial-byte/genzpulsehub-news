@@ -1,0 +1,37 @@
+{
+ "id": "df751380d9ea",
+ "created": "2026-11-19T03:51:12+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anduril CEO urges three‑day emergency kits for all",
+  "hook": "A top tech founder says be ready for any crisis.",
+  "what": "Palmer Luckey, the founder of defense startup Anduril, said every American should keep food, water and medicine enough for three days. He made the comment on Wednesday.",
+  "why": "Having a short‑term emergency stash can help you stay safe during sudden disruptions, so consider setting one up now.",
+  "tags": [
+   "prepper",
+   "emergency",
+   "Anduril",
+   "selfreliance",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "Anduril CEO‑ന് മൂന്ന് ദിവസത്തെ അടിയന്തിര കിറ്റ് നിര്‍ദ്ദേശം",
+  "hook": "ഒരു പ്രമുഖ ടെക് സ്ഥാപകൻ, ഏത് സാഹചര്യത്തിലും തയ്യാറാകാൻ പറയുകയാണ്.",
+  "what": "Anduril സ്ഥാപകനായ Palmer Luckey, എല്ലാ അമേരിക്കക്കാരും മൂന്ന് ദിവസത്തെ ഭക്ഷണം, വെള്ളം, മരുന്ന് എന്നിവയുടെ സ്റ്റോക്ക് ഉണ്ടാക്കണമെന്ന് ചൊല്ലി. ഈ നിർദ്ദേശം അദ്ദേഹം ബുധനാഴ്ച പങ്കുവെച്ചു.",
+  "why": "അപകടം വന്നാൽ കുറച്ച് ദിവസത്തെ സാധനങ്ങൾ ഉണ്ടെങ്കിൽ സുരക്ഷിതമായി നിൽക്കാം; ഇപ്പോൾ തന്നെ ഒരു അടിയന്തിര കിറ്റ് തയ്യാറാക്കുക.",
+  "tags": [
+   "prepper",
+   "അടിയന്തിര",
+   "Anduril",
+   "സ്വയംപര്യാപ്തി",
+   "സുരക്ഷ"
+  ]
+ }
+}

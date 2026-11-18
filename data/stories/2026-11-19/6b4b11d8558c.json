@@ -1,0 +1,37 @@
+{
+ "id": "6b4b11d8558c",
+ "created": "2026-11-19T03:51:09+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic IPO lands at $83, topping its target range",
+  "hook": "Investors bet big on AI even as market wobbles.",
+  "what": "Anthropic set its IPO price at $83 per share, higher than the $70‑$78 range it had hinted at. The pricing shows strong demand for the AI firm despite recent industry uncertainty.",
+  "why": "For young Indians eyeing tech careers, it signals continued investor confidence in AI startups, suggesting more opportunities and funding in the sector.",
+  "tags": [
+   "AI",
+   "IPO",
+   "startup",
+   "investors",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic IPO-യുടെ വില $83, ലക്ഷ്യ പരിധി മുകളിലായി",
+  "hook": "മാർക്കറ്റ് അസ്ഥിരതയുണ്ടെങ്കിലും, നിക്ഷേപകർ AI-യിൽ വലിയ വിശ്വാസം കാണിക്കുന്നു.",
+  "what": "Anthropic IPO-യുടെ ഓരോ ഷെയറിനും $83 എന്ന വില നിശ്ചയിച്ചു, ഇത് $70‑$78 എന്ന മുൻപരിധിയെക്കാൾ ഉയർന്നതാണ്. ഈ വിലയിടപാട്, Nvidia-യുടെ CEO പുറപ്പെടലിനുശേഷം വ്യവസായത്തിൽ ഉണ്ടായ ആശങ്കകളെ മറികടന്ന്, AI കമ്പനിയിലേക്കുള്ള ശക്തമായ ആവശ്യം കാണിക്കുന്നു.",
+  "why": "ടെക് കരിയർ ആഗ്രഹിക്കുന്ന യുവജനങ്ങൾക്ക്, AI സ്റ്റാർട്ടപ്പുകളിൽ നിക്ഷേപകരുടെ ആത്മവിശ്വാസം തുടരുന്നതായി ഇത് സൂചിപ്പിക്കുന്നു, ഭാവിയിൽ കൂടുതൽ അവസരങ്ങളും ഫണ്ടിംഗും പ്രതീക്ഷിക്കാം.",
+  "tags": [
+   "AI",
+   "IPO",
+   "സ്റ്റാർട്ടപ്പ്",
+   "നിക്ഷേപകർ",
+   "ടെക്"
+  ]
+ }
+}
