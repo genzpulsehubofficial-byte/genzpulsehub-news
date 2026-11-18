@@ -94,8 +94,21 @@ def frame(lang, s, scene):
     return img
 
 
-async def tts(text, voice, path):
+async def _edge(text, voice, path):
     await edge_tts.Communicate(text, voice, rate="+8%").save(path)
+
+
+def tts_file(text, lang, path):
+    """Microsoft neural voice first; Google TTS as free fallback."""
+    try:
+        asyncio.run(_edge(text, VOICE[lang], path))
+        if os.path.getsize(path) > 1000:
+            return "edge"
+    except Exception as e:
+        print("edge-tts failed, using gTTS:", str(e)[:80])
+    from gtts import gTTS
+    gTTS(text, lang=lang, tld="co.in" if lang == "en" else "com").save(path)
+    return "gtts"
 
 
 def dur(path):
@@ -113,7 +126,7 @@ def render(lang, s, outdir):
     parts = []
     for i, (name, text) in enumerate(scenes):
         a, im, v = f"{tmp}/{i}.mp3", f"{tmp}/{i}.png", f"{tmp}/{i}.mp4"
-        asyncio.run(tts(text, VOICE[lang], a))
+        tts_file(text, lang, a)
         frame(lang, s, name).save(im)
         d = dur(a) + 0.35
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-i", im, "-i", a, "-t", f"{d:.2f}",

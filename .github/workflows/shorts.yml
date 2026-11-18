@@ -29,7 +29,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core >/dev/null
-      - run: pip install -q edge-tts==7.0.2 pillow requests
+      - run: pip install -q -U edge-tts gTTS pillow requests
       - name: Media bucket (create once, public URL)
         id: media
         run: |
