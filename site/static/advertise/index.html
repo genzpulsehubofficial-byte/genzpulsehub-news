@@ -8,7 +8,7 @@ header{padding:14px 18px;background:linear-gradient(90deg,#1a0533,#05213d)}a.log
 main{max-width:860px;margin:auto;padding:20px}h1{font-size:30px;margin:6px 0}.sub{opacity:.8}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin:18px 0}
 .opt{background:#140c28;border:2px solid #2a1a4a;border-radius:12px;padding:14px;cursor:pointer}.opt.sel{border-color:#00f5d4}
-.opt b{display:block}.opt small{opacity:.75}
+.opt b{display:block}.opt.soon{opacity:.45;cursor:not-allowed}.cs{font-size:10px;background:#3a2a5a;padding:2px 6px;border-radius:4px;margin-left:4px}.opt small{opacity:.75}
 label{display:block;margin:12px 0 4px;font-weight:600;font-size:14px}input,textarea,select{width:100%;padding:11px;border-radius:9px;border:1px solid #3a2a5a;background:#140c28;color:#fff;font:inherit}
 .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}.total{font-size:22px;font-weight:800;margin:18px 0 6px}
 button{background:linear-gradient(90deg,#ff3cac,#ffd60a);border:0;color:#1a0533;font-weight:900;padding:14px 22px;border-radius:10px;font-size:16px;cursor:pointer;width:100%}
@@ -17,7 +17,7 @@ button{background:linear-gradient(90deg,#ff3cac,#ffd60a);border:0;color:#1a0533;
 <header><a class="logo" href="/">GenZ Pulse Hub</a></header>
 <main>
 <h1>Advertise to Indian Gen Z, 24/7</h1>
-<p class="sub">Your brand on our live news stream, website and Instagram. Book online, pay securely, and it goes live automatically on the next free date.</p>
+<p class="sub">Your brand on our website and Instagram now — live-stream placements open soon. Book online, pay securely, and it goes live automatically on the next free date.</p>
 <div class="grid" id="opts"></div>
 <form id="f">
 <div class="row"><div><label>Language / channel</label><select name="lang" id="lang"><option value="en">English</option><option value="ml">Malayalam</option><option value="both">Both (25% off)</option></select></div>
@@ -36,12 +36,12 @@ button{background:linear-gradient(90deg,#ff3cac,#ffd60a);border:0;color:#1a0533;
 </form></main>
 <script src="https://sdk.cashfree.com/js/v3/cashfree.js"></script>
 <script>
-const API="__ADS_API__";let P={},sel="ticker";
+const API="__ADS_API__";let P={},sel="site_banner";
 const opts=document.getElementById('opts'),days=document.getElementById('days'),lang=document.getElementById('lang');
 async function quote(){const r=await fetch(`${API}/api/quote?placement=${sel}&days=${days.value}&lang=${lang.value}`).then(r=>r.json());
 document.getElementById('total').textContent='₹'+r.amount.toLocaleString('en-IN');document.getElementById('start').textContent=r.next_start?('Earliest start: '+r.next_start):'Fully booked for the next 4 months';}
-fetch(API+'/api/placements').then(r=>r.json()).then(j=>{P=j.placements;opts.innerHTML=Object.entries(P).map(([k,v])=>`<div class="opt${k===sel?' sel':''}" data-k="${k}"><b>${v.name}</b><small>${v.once?('₹'+v.once+' once'):(v.day?('₹'+v.day+'/day · '):'')+(v.week?('₹'+v.week+'/week'):'')}</small></div>`).join('');
-opts.onclick=e=>{const o=e.target.closest('.opt');if(!o)return;sel=o.dataset.k;[...opts.children].forEach(c=>c.classList.toggle('sel',c===o));document.getElementById('dwrap').style.display=P[sel].unit==='day'?'':'none';if(P[sel].unit!=='day')days.value=P[sel].unit==='week'?7:1;quote();};quote();});
+fetch(API+'/api/placements').then(r=>r.json()).then(j=>{P=j.placements;opts.innerHTML=Object.entries(P).sort((a,b)=>!!a[1].soon-!!b[1].soon).map(([k,v])=>`<div class="opt${k===sel?' sel':''}${v.soon?' soon':''}" data-k="${k}"><b>${v.name}${v.soon?' <span class=cs>Coming soon</span>':''}</b><small>${v.once?('₹'+v.once+' once'):(v.day?('₹'+v.day+'/day · '):'')+(v.week?('₹'+v.week+'/week'):'')}</small></div>`).join('');
+opts.onclick=e=>{const o=e.target.closest('.opt');if(!o||o.classList.contains('soon'))return;sel=o.dataset.k;[...opts.children].forEach(c=>c.classList.toggle('sel',c===o));document.getElementById('dwrap').style.display=P[sel].unit==='day'?'':'none';if(P[sel].unit!=='day')days.value=P[sel].unit==='week'?7:1;quote();};quote();});
 days.oninput=lang.onchange=quote;
 document.getElementById('f').onsubmit=async e=>{e.preventDefault();const b=Object.fromEntries(new FormData(e.target));b.placement=sel;const btn=document.getElementById('btn'),err=document.getElementById('err');
 btn.disabled=true;btn.textContent='Checking your ad…';err.textContent='';

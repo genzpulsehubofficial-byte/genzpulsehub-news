@@ -4,16 +4,16 @@
 //       -> daily cron: start/expire ads, reminders (3d, 1d, ended, win-back) -> Discord + email queue.
 
 const PLACEMENTS = {
-  ticker:       { name: "Live ticker ad", day: 299, week: 1499, max: 5, unit: "day" },
-  segment:      { name: "Sponsored segment", day: 499, week: 2499, max: 1, unit: "day" },
-  banner:       { name: "Live screen banner", day: 799, week: 3999, max: 1, unit: "day" },
-  video:        { name: "Video ad (15-30s)", day: 1499, week: 7499, max: 2, unit: "day" },
-  story:        { name: "Sponsored story (60s on air)", once: 999, max: 3, unit: "once" },
+  ticker:       { name: "Live ticker ad", day: 299, week: 1499, max: 5, unit: "day" , soon: true },
+  segment:      { name: "Sponsored segment", day: 499, week: 2499, max: 1, unit: "day" , soon: true },
+  banner:       { name: "Live screen banner", day: 799, week: 3999, max: 1, unit: "day" , soon: true },
+  video:        { name: "Video ad (15-30s)", day: 1499, week: 7499, max: 2, unit: "day" , soon: true },
+  story:        { name: "Sponsored story (60s on air)", once: 999, max: 3, unit: "once" , soon: true },
   site_banner:  { name: "Website banner", day: 199, week: 999, max: 1, unit: "day" },
   site_article: { name: "Sponsored article", once: 1499, max: 3, unit: "once" },
   insta:        { name: "Instagram story shout-out", once: 499, max: 2, unit: "once" },
   job:          { name: "Featured job listing", once: 499, max: 5, unit: "once" },
-  bundle:       { name: "Mega bundle (1 week)", week: 5999, max: 1, unit: "week" },
+  bundle:       { name: "Mega bundle (1 week)", week: 5999, max: 1, unit: "week" , soon: true },
 };
 const BOTH_LANG_DISCOUNT = 0.75;   // 25% off when buying English + Malayalam together
 const BANNED = /bet(ting)?|casino|gambl|satta|lottery|crypto|bitcoin|forex|loan app|instant loan|mlm|network marketing|adult|escort|dating|vape|tobacco|alcohol|liquor|guaranteed (returns|profit|income)|100% (cure|guarantee)|weight loss miracle|political party|vote for|election/i;
@@ -134,6 +134,7 @@ export default {
           name: String(b.name || "").slice(0, 80), placement: b.placement, lang: ["en", "ml", "both"].includes(b.lang) ? b.lang : "en",
           duration: Math.min(Math.max(+b.days || 1, 1), 60), logo: String(b.logo || "").slice(0, 400) };
         if (!PLACEMENTS[ad.placement]) return json({ error: "Choose a placement." }, 400);
+        if (PLACEMENTS[ad.placement].soon) return json({ error: "This placement opens when our 24/7 live stream launches. Coming soon!" }, 400);
         if (!ad.brand || !ad.text || !/^\S+@\S+\.\S+$/.test(ad.email) || ad.phone.length !== 10)
           return json({ error: "Please fill brand, ad text, a valid email and 10-digit phone." }, 400);
         const check = await aiCheck(env, ad);
