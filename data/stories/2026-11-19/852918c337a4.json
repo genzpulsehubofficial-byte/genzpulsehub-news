@@ -1,0 +1,35 @@
+{
+ "id": "852918c337a4",
+ "created": "2026-11-19T00:58:23+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "News-Medical",
+ "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUNQYTBmQThTc2x4OFJzNDlUZGVVTkNEQ0oyOHlVMWhvbFM1VzVyTDlCUnFGYm9RSVhWWlhRamN6RzZ4U1pTWFB4Q0l5NWlKNGhRY3Q0Y0JCbHZoZ09COW1OY2JvdzBEU2xXVGF4aTg2a0Y5YmV5aWRZSzhfX3o4NXctNzluNnRWTzBJeEx4MkF1TC1MbjFIWW5oajhEbE4wOVNFMEVYTnNtUkJhWW9ZVUZEUkdCUkZkY1YtQjJTWG5kQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Targeted treatment and prevention can curb child obesity",
+  "hook": "Simple steps could stop obesity early for teens",
+  "what": "Experts say focused treatment and preventive actions can address childhood obesity. Two specific measures are suggested for young people.",
+  "why": "Knowing these steps helps teens and families act early to stay healthy.",
+  "tags": [
+   "child health",
+   "obesity",
+   "prevention",
+   "treatment"
+  ]
+ },
+ "ml": {
+  "headline": "Targeted treatment um prevention childhood obesity കുറയ്ക്കാം",
+  "hook": "സിംപിൾ സ്റ്റെപ്പുകൾ കൊണ്ട് ഒബീസിറ്റി തടയാം",
+  "what": "വിദഗ്ധർ പറയുന്നു, ഫോകസ്ഡ് treatment ഉം preventive actions ഉം കുട്ടികളുടെ obesity tackle ചെയ്യാം. യുവജനങ്ങൾക്ക് രണ്ട് പ്രത്യേക measures ഉണ്ട്.",
+  "why": "ഇവയെക്കുറിച്ച് അറിയുന്നത്, teens-നും families-നും early ആയി healthy ആയിരിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "കുട്ടി ആരോഗ്യ",
+   "obesity",
+   "prevention",
+   "treatment"
+  ]
+ }
+}

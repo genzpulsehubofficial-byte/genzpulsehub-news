@@ -1,0 +1,35 @@
+{
+ "id": "7a7739deeca5",
+ "created": "2026-11-19T00:58:20+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/democrat-hakeem-jeffries-set-to-be-first-african-american-house-speaker-12346248#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Hakeem Jeffries Poised to Become First Black House Speaker",
+  "hook": "A historic leadership shift could shape policies that affect youth.",
+  "what": "Democratic leader Hakeem Jeffries is expected to be elected as the first African‑American Speaker of the U.S. House of Representatives. He said he is not taking the upcoming vote for granted.",
+  "why": "The decision could influence U.S. policies on education, climate and tech that impact Indian students and startups. Stay informed about global political changes.",
+  "tags": [
+   "USPolitics",
+   "Historic",
+   "YouthImpact",
+   "GlobalNews"
+  ]
+ },
+ "ml": {
+  "headline": "Hakeem Jeffries ആദ്യ ആഫ്രിക്കന്‍-അമേരിക്കന്‍ ഹൗസ് സ്പീക്കര്‍",
+  "hook": "ഇത് യുവജനങ്ങളുടെ ജീവിതത്തെ ബാധിക്കുന്ന ചരിത്രപരമായ മാറ്റം",
+  "what": "ഡെമോക്രാറ്റിക് നേതാവ് Hakeem Jeffries, യു.എസ്. ഹൗസ് ഓഫ് റിപ്പബ്ലിക്കന്‍സ് ആദ്യ ആഫ്രിക്കന്‍-അമേരിക്കന്‍ സ്പീക്കറായി തിരഞ്ഞെടുക്കപ്പെടാൻ സാധ്യതയുണ്ട്. വോട്ടിന് മുമ്പ് അദ്ദേഹം എല്ലാം ഉറപ്പില്ലെന്ന് പറഞ്ഞു.",
+  "why": "ഈ തെരഞ്ഞെടുപ്പ് വിദ്യാഭ്യാസം, കാലാവസ്ഥ, ടെക് നയങ്ങൾ എന്നിവയിൽ സ്വാധീനം ചെലുത്താം, അതിനാൽ ലോകത്തെ രാഷ്ട്രീയവാർത്തകൾ അറിയുക പ്രധാനമാണ്.",
+  "tags": [
+   "USPolitics",
+   "Historic",
+   "YouthImpact",
+   "GlobalNews"
+  ]
+ }
+}

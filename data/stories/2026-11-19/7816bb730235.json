@@ -1,0 +1,35 @@
+{
+ "id": "7816bb730235",
+ "created": "2026-11-19T00:58:13+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/pm-modi-meets-prince-william-and-princess-catherine-discusses-india-uk-ties-12346040#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Modi meets British royals, talks India-UK partnership",
+  "hook": "India's PM chats with Prince William and Kate on future ties",
+  "what": "Prime Minister Narendra Modi met Prince William and Princess Catherine in London. They discussed strengthening India‑UK relations. Modi also praised the Earthshot Prize’s environmental work.",
+  "why": "The dialogue could boost collaborations in education, technology and climate projects that affect youth. Keep an eye on upcoming joint initiatives.",
+  "tags": [
+   "IndiaUK",
+   "royals",
+   "climate",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "മോഡി രാജകുമാരന്മാരെ കണ്ടു, ഇന്ത്യ‑യുകെ ബന്ധം ചർച്ച",
+  "hook": "പ്രധാനമന്ത്രി രാജകുമാരന്മാരുമായി ഇന്ത്യ‑യുകെ സഹകരണം ചർച്ച ചെയ്തു",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ലണ്ടനിൽ പ്രിൻസ് വില്യം, പ്രിൻസസ് കതറിൻ എന്നിവരുമായി കൂടിക്കാഴ്ച നടത്തി. ഇന്ത്യ‑യുകെ ബന്ധം ശക്തിപ്പെടുത്താൻ ചർച്ച ചെയ്തു. മോഡി 'Earthshot Prize'യുടെ പ്രവർത്തനത്തെ പ്രശംസിച്ചു.",
+  "why": "ഇത് യുവതലമുറക്ക് വിദ്യാഭ്യാസം, സാങ്കേതികം, പരിസ്ഥിതി പദ്ധതികളിൽ പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാൻ സഹായിക്കും. ഭാവിയിലെ സംയുക്ത പദ്ധതികളിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "IndiaUK",
+   "royals",
+   "climate",
+   "Youth"
+  ]
+ }
+}
