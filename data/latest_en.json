@@ -1,5 +1,100 @@
 [
  {
+  "id": "fd2242737b6c",
+  "created": "2026-11-18T19:41:53+05:30",
+  "category": "trending",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/odisha-andhra-prepare-shelters-evacuations-ahead-of-nov-20-cyclone-akvan-landfall-101795009673205.html",
+  "headline": "Cyclone Akvan set to hit Andhra & Odisha by noon",
+  "hook": "Storm alerts could close schools and halt travel plans.",
+  "what": "The India Meteorological Department says Cyclone Akvan will move across the north coast of Andhra Pradesh and the south coast of Odisha around midday on Nov 20. Authorities in both states are readying shelters and planning evacuations.",
+  "why": "Students and families should stay updated on local advisories, avoid coastal travel, and be ready to follow any evacuation orders.",
+  "tags": [
+   "cyclone",
+   "weather",
+   "Andhra",
+   "Odisha",
+   "alert"
+  ]
+ },
+ {
+  "id": "e0910895ccf7",
+  "created": "2026-11-18T19:41:57+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+  "headline": "Humyn Labs secures $47 million for robot data push",
+  "hook": "A startup just got big cash to boost robot training.",
+  "what": "Physical AI startup Humyn Labs announced it has raised $47 million, about ₹439 crore. The money will be used to expand data collection and deploy more robots.",
+  "why": "More robot data can accelerate AI automation, creating new tech jobs for youth. Keep an eye on emerging AI hardware trends.",
+  "tags": [
+   "startup",
+   "AI",
+   "robotics",
+   "funding",
+   "tech"
+  ]
+ },
+ {
+  "id": "74151bb1e36e",
+  "created": "2026-11-18T19:42:00+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VqQjVlSDhlRmd0TWpGQ1JhTkxjNjQybzkyV0l5cHhxaUtrSVlaMFc2VmthNWlsQkNGTTRkVTVPSEJEVllVTlVVcGllQllJa0p2enBoWmF0XzNyOTUzOXAxYWhRRmxTWFN1ZnpDQzFubWtUeS1vaFhrUXpjZlYwbFNDUGNVamVFTU9fV096ZVhBeDhXT1VwNWVBUUdaeDI1NlR1X0NrcGZyc01HV3BSLVp30gG3AUFVX3lxTFBnRlBaUHdOaGdmU0x4bE5XMERuS2M1OGdfZmR5a3VsYlBMNTNzQWhkeWtkdmFydEF2aERTVE5iTHV5a1p2c25PMVhidzM4U0RRQTNrN2tCN1g5bmFCV2hRcVhwRkNBSWNwMGVQbnEweHhHd2dGTWM4aGdSUUJNNF9LTmFVNEhTVEk5WGNVVXFGSlIwdXpqTVQ3NzVXdTROYmVMVmx4VnNGc2UzaEhpRUJaUElmUzNaRQ?oc=5",
+  "headline": "Grand Theft Auto VI launches globally, hailed as impressive",
+  "hook": "The new GTA is finally hitting screens worldwide.",
+  "what": "Grand Theft Auto VI, the much‑awaited sequel, has started its global rollout. Early reviews describe it as one of the most impressive games, with a world that feels both believable and unbelievable.",
+  "why": "For gamers, it means a fresh open‑world experience to explore. Keep an eye on release updates and platforms to jump in when it arrives.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "globalLaunch",
+   "reviews",
+   "ViceCity"
+  ]
+ },
+ {
+  "id": "443ad7033a40",
+  "created": "2026-11-18T19:42:01+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Coimbatore/man-killed-by-wild-elephant-in-pandalur/article71716324.ece",
+  "headline": "Man killed by wild elephant in Pandalur",
+  "hook": "A sudden elephant attack claims a life in Pandalur.",
+  "what": "A man was fatally injured after a wild elephant attacked him in Pandalur. The incident occurred in a forested area. Local authorities are investigating the cause.",
+  "why": "Wild animal encounters can happen near forest zones, reminding youths to stay alert and follow safety guidelines when near wildlife habitats.",
+  "tags": [
+   "elephant",
+   "Pandalur",
+   "wildlife",
+   "safety",
+   "news"
+  ]
+ },
+ {
+  "id": "ae1e0fe275e9",
+  "created": "2026-11-18T19:42:03+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/epfo-whatsapp-service-goes-viral-with-1-crore-users-in-14-days-how-to-check-pf-balance-download-passbook-11795007967228.html",
+  "headline": "EPFO WhatsApp bot reaches 1 crore users in 14 days",
+  "hook": "Check your PF balance with just a ‘Hi’ on WhatsApp.",
+  "what": "The Employees' Provident Fund Organisation launched a WhatsApp service that attracted 10 million users within two weeks. By texting ‘Hi’ to +91 8796441800, members can view their current balance, see the last five transactions and download the EPF passbook.",
+  "why": "Young workers can now access their retirement savings instantly, without logging into a portal. Save time by using the chat to stay updated on your PF funds.",
+  "tags": [
+   "EPFO",
+   "WhatsApp",
+   "PF",
+   "Finance",
+   "GenZ"
+  ]
+ },
+ {
   "id": "e5af9800ec75",
   "created": "2026-11-18T18:56:03+05:30",
   "category": "entertainment",

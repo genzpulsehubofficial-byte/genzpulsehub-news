@@ -1,0 +1,37 @@
+{
+ "id": "443ad7033a40",
+ "created": "2026-11-18T19:42:01+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/Coimbatore/man-killed-by-wild-elephant-in-pandalur/article71716324.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Man killed by wild elephant in Pandalur",
+  "hook": "A sudden elephant attack claims a life in Pandalur.",
+  "what": "A man was fatally injured after a wild elephant attacked him in Pandalur. The incident occurred in a forested area. Local authorities are investigating the cause.",
+  "why": "Wild animal encounters can happen near forest zones, reminding youths to stay alert and follow safety guidelines when near wildlife habitats.",
+  "tags": [
+   "elephant",
+   "Pandalur",
+   "wildlife",
+   "safety",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "പാണ്ടലൂരിൽ വന്യ ആനയുടെ ആക്രമണത്തിൽ മനുഷ്യൻ മരണം",
+  "hook": "പാണ്ടലൂരിൽ ആനയുടെ അപ്രതീക്ഷിത ആക്രമണം ഒരു ജീവൻ എടുത്തു.",
+  "what": "പാണ്ടലൂരിലെ ഒരു വന്യ ആന ഒരു മനുഷ്യനെ ആക്രമിച്ച് കൊല്ലി. സംഭവം ഒരു കാടു പ്രദേശത്ത് സംഭവിച്ചു. പ്രാദേശിക അധികാരികൾ കാരണങ്ങൾ അന്വേഷിക്കുന്നു.",
+  "why": "കാടു പ്രദേശങ്ങളിലെ വന്യജീവികളുമായി ഇടപെടൽ അപകടകരം, അതിനാൽ സുരക്ഷാ മാർഗങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "ആന",
+   "പാണ്ടലൂർ",
+   "വന്യജീവി",
+   "സുരക്ഷ",
+   "വാർത്ത"
+  ]
+ }
+}

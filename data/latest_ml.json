@@ -1,5 +1,100 @@
 [
  {
+  "id": "fd2242737b6c",
+  "created": "2026-11-18T19:41:53+05:30",
+  "category": "trending",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/odisha-andhra-prepare-shelters-evacuations-ahead-of-nov-20-cyclone-akvan-landfall-101795009673205.html",
+  "headline": "സൈക്ക്ലോണ്‍ അക്വാന്‍ നാളെ ഉച്ചയ്ക്ക് ആന്ധ്രയും ഒഡീഷയും കടക്കും",
+  "hook": "മഴക്കാറ്റ് മുന്നറിയിപ്പ്, സ്കൂളുകള്‍ അടയ്ക്കാം, യാത്രാ പദ്ധതികള്‍ മാറ്റാം",
+  "what": "ഇന്ത്യാ കാലാവസ്ഥാ വകുപ്പ് പ്രകാരം, സൈക്ക്ലോണ്‍ അക്വാന്‍ നാളെ ഉച്ചയ്ക്ക് ആന്ധ്രപ്രദേശത്തിന്റെ വടക്കന്‍ തീരവും ഒഡീഷയുടെ തെക്കന്‍ തീരവും കടക്കുമെന്നു പറയുന്നു. ഇരുവര്‍ഗ്ഗ സംസ്ഥാനങ്ങളിലെ അധികാരികള്‍ അഭയം ഒരുക്കി, ഒഴിപ്പിക്കല്‍ പദ്ധതികള്‍ തയ്യാറാക്കുന്നു.",
+  "why": "വിദ്യാർത്ഥികളും കുടുംബങ്ങളും പ്രാദേശിക അറിയിപ്പുകൾ ശ്രദ്ധിച്ച്, തീരപ്രദേശങ്ങളിലേക്കുള്ള യാത്ര ഒഴിവാക്കി, ഒഴിപ്പിക്കൽ നിർദ്ദേശങ്ങൾ പാലിക്കാൻ തയ്യാറാകണം.",
+  "tags": [
+   "cyclone",
+   "weather",
+   "Andhra",
+   "Odisha",
+   "alert"
+  ]
+ },
+ {
+  "id": "e0910895ccf7",
+  "created": "2026-11-18T19:41:57+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+  "headline": "Humyn Labs-ന് റോബോട്ട് ഡാറ്റാ വിപുലീകരണത്തിന് $47 മില്യണ്‍ ഫണ്ടിംഗ്",
+  "hook": "റോബോട്ട് പരിശീലനത്തിന് വലിയ നിധി ലഭിച്ചു.",
+  "what": "ഫിസിക്കൽ AI സ്റ്റാർട്ടപ്പ് Humyn Labs $47 മില്യണ്‍ (ഏകദേശം ₹439 കോടി) സമാഹരിച്ചു. ഈ പണം ഡാറ്റ ശേഖരണം വർദ്ധിപ്പിക്കാനും റോബോട്ടുകൾ വിന്യസിക്കാനും ഉപയോഗിക്കും.",
+  "why": "AI‑റോബോട്ടിക് മേഖലയിലെ വളർച്ച പുതിയ ജോലികളും സാങ്കേതിക അവസരങ്ങളും സൃഷ്ടിക്കും. യുവാക്കൾക്ക് ഈ ട്രെൻഡ് ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "startup",
+   "AI",
+   "robotics",
+   "funding",
+   "tech"
+  ]
+ },
+ {
+  "id": "74151bb1e36e",
+  "created": "2026-11-18T19:42:00+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VqQjVlSDhlRmd0TWpGQ1JhTkxjNjQybzkyV0l5cHhxaUtrSVlaMFc2VmthNWlsQkNGTTRkVTVPSEJEVllVTlVVcGllQllJa0p2enBoWmF0XzNyOTUzOXAxYWhRRmxTWFN1ZnpDQzFubWtUeS1vaFhrUXpjZlYwbFNDUGNVamVFTU9fV096ZVhBeDhXT1VwNWVBUUdaeDI1NlR1X0NrcGZyc01HV3BSLVp30gG3AUFVX3lxTFBnRlBaUHdOaGdmU0x4bE5XMERuS2M1OGdfZmR5a3VsYlBMNTNzQWhkeWtkdmFydEF2aERTVE5iTHV5a1p2c25PMVhidzM4U0RRQTNrN2tCN1g5bmFCV2hRcVhwRkNBSWNwMGVQbnEweHhHd2dGTWM4aGdSUUJNNF9LTmFVNEhTVEk5WGNVVXFGSlIwdXpqTVQ3NzVXdTROYmVMVmx4VnNGc2UzaEhpRUJaUElmUzNaRQ?oc=5",
+  "headline": "Grand Theft Auto VI ഗ്ലോബൽ ലോഞ്ച്, അത്ഭുതകരം എന്ന് വിലയിരുത്തി",
+  "hook": "പുതിയ GTA ഒടുവിൽ ലോകമെമ്പാടും ലഭ്യമാകുന്നു.",
+  "what": "വളരെ പ്രതീക്ഷിക്കപ്പെട്ട Grand Theft Auto VI ഇപ്പോൾ ഗ്ലോബൽ ആയി പുറത്തിറങ്ങി. പ്രാരംഭ അവലോകനങ്ങൾ അത് അത്യന്തം ഇംപ്രസീവ്, വിശ്വസനീയവും അസാധാരണവുമായ ലോകം ഉള്ളതെന്ന് പറയുന്നു.",
+  "why": "ഗെയിമർമാർക്ക് പുതിയ തുറന്ന ലോകം അനുഭവിക്കാൻ അവസരം. റിലീസ് വിവരങ്ങളും പ്ലാറ്റ്ഫോം അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "ഗ്ലോബൽ",
+   "അവലോകനം",
+   "ViceCity"
+  ]
+ },
+ {
+  "id": "443ad7033a40",
+  "created": "2026-11-18T19:42:01+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Coimbatore/man-killed-by-wild-elephant-in-pandalur/article71716324.ece",
+  "headline": "പാണ്ടലൂരിൽ വന്യ ആനയുടെ ആക്രമണത്തിൽ മനുഷ്യൻ മരണം",
+  "hook": "പാണ്ടലൂരിൽ ആനയുടെ അപ്രതീക്ഷിത ആക്രമണം ഒരു ജീവൻ എടുത്തു.",
+  "what": "പാണ്ടലൂരിലെ ഒരു വന്യ ആന ഒരു മനുഷ്യനെ ആക്രമിച്ച് കൊല്ലി. സംഭവം ഒരു കാടു പ്രദേശത്ത് സംഭവിച്ചു. പ്രാദേശിക അധികാരികൾ കാരണങ്ങൾ അന്വേഷിക്കുന്നു.",
+  "why": "കാടു പ്രദേശങ്ങളിലെ വന്യജീവികളുമായി ഇടപെടൽ അപകടകരം, അതിനാൽ സുരക്ഷാ മാർഗങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "ആന",
+   "പാണ്ടലൂർ",
+   "വന്യജീവി",
+   "സുരക്ഷ",
+   "വാർത്ത"
+  ]
+ },
+ {
+  "id": "ae1e0fe275e9",
+  "created": "2026-11-18T19:42:03+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/epfo-whatsapp-service-goes-viral-with-1-crore-users-in-14-days-how-to-check-pf-balance-download-passbook-11795007967228.html",
+  "headline": "EPFO WhatsApp ബോട്ട് 14 ദിവസത്തില്‍ 1 കോടി യൂസര്‍",
+  "hook": "WhatsApp‑ലേക്ക് ‘Hi’ അയച്ച് PF ബാലൻസ് നോക്കൂ.",
+  "what": "Employees' Provident Fund Organisation ആരംഭിച്ച WhatsApp സേവനം രണ്ട് ആഴ്ചയില്‍ 1 കോടി ആളുകള്‍ ഉപയോഗിച്ചു. +91 8796441800‑ലേക്ക് ‘Hi’ മെസേജ് അയച്ചാല്‍ ബാലൻസ്, അവസാനത്തെ അഞ്ച് ട്രാന്‍സാക്ഷന്‍ എന്നിവയും EPF പാസ്‌ബുക്ക് ഡൗണ്‍ലോഡും ലഭിക്കും.",
+  "why": "പുതിയ തലമുറക്ക് PF വിവരങ്ങള്‍ ഉടന്‍ ലഭ്യമാകുന്നത് സമയം ലാഭിക്കും. പോര്‍ട്ടല്‍ തുറക്കാതെ തന്നെ നിങ്ങളുടെ സംരക്ഷണം പരിശോധിക്കാം.",
+  "tags": [
+   "EPFO",
+   "WhatsApp",
+   "PF",
+   "Finance",
+   "GenZ"
+  ]
+ },
+ {
   "id": "e5af9800ec75",
   "created": "2026-11-18T18:56:03+05:30",
   "category": "entertainment",

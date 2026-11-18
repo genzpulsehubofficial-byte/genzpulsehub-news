@@ -1,0 +1,37 @@
+{
+ "id": "74151bb1e36e",
+ "created": "2026-11-18T19:42:00+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2VqQjVlSDhlRmd0TWpGQ1JhTkxjNjQybzkyV0l5cHhxaUtrSVlaMFc2VmthNWlsQkNGTTRkVTVPSEJEVllVTlVVcGllQllJa0p2enBoWmF0XzNyOTUzOXAxYWhRRmxTWFN1ZnpDQzFubWtUeS1vaFhrUXpjZlYwbFNDUGNVamVFTU9fV096ZVhBeDhXT1VwNWVBUUdaeDI1NlR1X0NrcGZyc01HV3BSLVp30gG3AUFVX3lxTFBnRlBaUHdOaGdmU0x4bE5XMERuS2M1OGdfZmR5a3VsYlBMNTNzQWhkeWtkdmFydEF2aERTVE5iTHV5a1p2c25PMVhidzM4U0RRQTNrN2tCN1g5bmFCV2hRcVhwRkNBSWNwMGVQbnEweHhHd2dGTWM4aGdSUUJNNF9LTmFVNEhTVEk5WGNVVXFGSlIwdXpqTVQ3NzVXdTROYmVMVmx4VnNGc2UzaEhpRUJaUElmUzNaRQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Grand Theft Auto VI launches globally, hailed as impressive",
+  "hook": "The new GTA is finally hitting screens worldwide.",
+  "what": "Grand Theft Auto VI, the much‑awaited sequel, has started its global rollout. Early reviews describe it as one of the most impressive games, with a world that feels both believable and unbelievable.",
+  "why": "For gamers, it means a fresh open‑world experience to explore. Keep an eye on release updates and platforms to jump in when it arrives.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "globalLaunch",
+   "reviews",
+   "ViceCity"
+  ]
+ },
+ "ml": {
+  "headline": "Grand Theft Auto VI ഗ്ലോബൽ ലോഞ്ച്, അത്ഭുതകരം എന്ന് വിലയിരുത്തി",
+  "hook": "പുതിയ GTA ഒടുവിൽ ലോകമെമ്പാടും ലഭ്യമാകുന്നു.",
+  "what": "വളരെ പ്രതീക്ഷിക്കപ്പെട്ട Grand Theft Auto VI ഇപ്പോൾ ഗ്ലോബൽ ആയി പുറത്തിറങ്ങി. പ്രാരംഭ അവലോകനങ്ങൾ അത് അത്യന്തം ഇംപ്രസീവ്, വിശ്വസനീയവും അസാധാരണവുമായ ലോകം ഉള്ളതെന്ന് പറയുന്നു.",
+  "why": "ഗെയിമർമാർക്ക് പുതിയ തുറന്ന ലോകം അനുഭവിക്കാൻ അവസരം. റിലീസ് വിവരങ്ങളും പ്ലാറ്റ്ഫോം അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "ഗ്ലോബൽ",
+   "അവലോകനം",
+   "ViceCity"
+  ]
+ }
+}
