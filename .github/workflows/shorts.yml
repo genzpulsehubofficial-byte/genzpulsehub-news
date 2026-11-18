@@ -1,0 +1,62 @@
+name: shorts
+
+on:
+  schedule:
+    # 4 Shorts/Reels per language per day (IST 8:30, 12:30, 17:30, 20:30)
+    - cron: "0 3 * * *"
+    - cron: "0 7 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shorts
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core >/dev/null
+      - run: pip install -q edge-tts==7.0.2 pillow requests
+      - name: Media bucket (create once, public URL)
+        id: media
+        run: |
+          npx -y wrangler@4 r2 bucket create genzpulsehub-media >/dev/null 2>&1 || true
+          npx -y wrangler@4 r2 bucket dev-url enable genzpulsehub-media -y >/dev/null 2>&1 || true
+          npx -y wrangler@4 r2 bucket lifecycle add genzpulsehub-media expire-3d --expire-days 3 -y >/dev/null 2>&1 || true
+          URL=$(npx -y wrangler@4 r2 bucket dev-url get genzpulsehub-media 2>/dev/null | grep -o 'https://[^ ]*r2.dev' | head -1)
+          echo "url=$URL" >> $GITHUB_OUTPUT
+      - name: Render
+        run: python shorts/render.py
+      - name: Publish
+        env:
+          MEDIA_BASE_URL: ${{ steps.media.outputs.url }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_EN: ${{ secrets.YT_REFRESH_EN }}
+          YT_REFRESH_ML: ${{ secrets.YT_REFRESH_ML }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: python shorts/publish.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: shorts
+          path: out/shorts/**/*.mp4
+          retention-days: 3
+      - name: Save posted log
+        run: |
+          git config user.name "genzpulsehub-bot"; git config user.email "genzpulsehub.official@gmail.com"
+          git add data/posted.json 2>/dev/null; git diff --cached --quiet || git commit -m "shorts: posted log"
+          git pull --rebase -q || true; git push -q || true
