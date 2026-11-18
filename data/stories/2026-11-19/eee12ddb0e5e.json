@@ -1,0 +1,37 @@
+{
+ "id": "eee12ddb0e5e",
+ "created": "2026-11-19T04:50:01+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Prince William and Kate meet PM Modi to end India tour",
+  "hook": "Royal couple wraps up their Indian visit with a meeting of the Prime Minister.",
+  "what": "Prince William and Princess Kate met Prime Minister Narendra Modi as their official tour of India concluded. The meeting marked the final engagement of their visit.",
+  "why": "The encounter highlights the diplomatic ties between the UK and India, a point of interest for young Indians following global affairs.",
+  "tags": [
+   "royals",
+   "India",
+   "UK",
+   "Modi",
+   "tour"
+  ]
+ },
+ "ml": {
+  "headline": "പ്രിൻസ് വില്യം, കെറ്റ് മോദിയുമായി ഇന്ത്യാ ടൂറിന്റെ അവസാനത്തിൽ കൂടിക്കാഴ്ച",
+  "hook": "രാജകുമാര ദമ്പതികൾ ഇന്ത്യാ സന്ദർശനം അവസാനിപ്പിക്കാൻ പ്രധാനമന്ത്രിയെ കണ്ടുമുട്ടി.",
+  "what": "പ്രിൻസ് വില്യം, പ്രിൻസസ് കെറ്റ് ഇന്ത്യാ ഔദ്യോഗിക സന്ദർശനം അവസാനിപ്പിക്കുമ്പോൾ പ്രധാനമന്ത്രിയായ നരേന്ദ്ര മോദിയുമായി കൂടിക്കാഴ്ച നടത്തി. ഇത് അവരുടെ യാത്രയുടെ അവസാന ഔദ്യോഗിക പരിപാടി ആയിരുന്നു.",
+  "why": "ഇത് യുകെ-ഇന്ത്യാ ബന്ധങ്ങളുടെ പ്രാധാന്യം കാണിക്കുന്നു, യുവജനങ്ങൾക്ക് അന്തർദേശീയ സംഭവവികാസങ്ങൾ അറിയാൻ സഹായകമാണ്.",
+  "tags": [
+   "രാജകുമാരങ്ങൾ",
+   "ഇന്ത്യ",
+   "യുകെ",
+   "മോഡി",
+   "യാത്ര"
+  ]
+ }
+}

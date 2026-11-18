@@ -1,5 +1,100 @@
 [
  {
+  "id": "ebee197c44b5",
+  "created": "2026-11-19T04:49:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "headline": "Nadella, Nvidia‑യുടെ ഇടക്കാല CEO Colette Kress‑നെ പിന്തുണക്കുന്നു",
+  "hook": "Microsoft‑യുടെ ബോസ്, പുതിയ Nvidia നേതാവിനോട് ആത്മവിശ്വാസം പ്രകടിപ്പിച്ചു.",
+  "what": "Satya Nadella, Jensen Huang പുറപ്പെടുന്നതിന് ശേഷം താൽക്കാലിക CEO Colette Kress‑നെ വിശ്വസിക്കുന്നു എന്ന് പറഞ്ഞു. അവൾ Nvidia‑യുടെ ഇടക്കാലം നയിക്കുന്നു.",
+  "why": "ഇത് AI ചിപ്പുകൾ നിർമ്മിക്കുന്ന കമ്പനിയിലെ സ്ഥിരതയെ സൂചിപ്പിക്കുന്നു, ടെക് മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് പ്രാധാന്യമുണ്ട്.",
+  "tags": [
+   "Nvidia",
+   "Microsoft",
+   "AI",
+   "ടെക്",
+   "നേതൃത്വം"
+  ]
+ },
+ {
+  "id": "f7885a7f892b",
+  "created": "2026-11-19T04:49:53+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "headline": "AI ഏജന്റുകൾ വെബ് പരസ്യ മോഡലുകൾ മാറ്റും",
+  "hook": "Microsoft പറയുന്നു ബോട്ടുകൾ ഓൺലൈൻ ഷോപ്പിംഗ് മാറ്റാൻ പോകുന്നു.",
+  "what": "Microsoft‑യുടെ CEO AI ഏജന്റുകൾ ഇന്റർനെറ്റിലെ പരസ്യ അടിസ്ഥാന വരുമാനം തകർക്കാം എന്ന് പറഞ്ഞു. Amazon പോലുള്ള കമ്പനികൾ ഉപഭോക്താക്കളെ നേടാനുള്ള തന്ത്രം പുനഃപരിശോധിക്കേണ്ടി വരും.",
+  "why": "ഇത് യുവാക്കൾക്ക് പരസ്യങ്ങളില്ലാതെ ഉൽപ്പന്നങ്ങൾ കണ്ടെത്താൻ പുതിയ മാർഗങ്ങൾ നൽകാം. AI‑യുടെ വളർച്ചയിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "വെബ്",
+   "പരസ്യം",
+   "ഇ‑കോമേഴ്സ്",
+   "Microsoft"
+  ]
+ },
+ {
+  "id": "db618a8d3c6c",
+  "created": "2026-11-19T04:49:56+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
+  "headline": "BJP മത്തുരാ ക്ഷേത്രം ചർച്ചയിൽ, അകത്തെ അസന്തോഷം മറയ്ക്കുന്നു",
+  "hook": "കക്ഷി ക്ഷേത്രം ഉയർത്തുന്നത് അകത്തെ പ്രശ്നങ്ങൾ മറയ്ക്കാൻ ആണെന്ന് വിശകലകർ പറയുന്നു.",
+  "what": "BJP വീണ്ടും ക്രിഷ്ണ ജന്മഭൂമി വിഷയത്തെ മുന്നോട്ടു കൊണ്ടുവന്നു. നിരീക്ഷകർ പറയുന്നു, ഈ ചുവടു പാർട്ടി അംഗങ്ങളിലെ UGC സമത്വ നിയമങ്ങൾ, SIR പ്രവർത്തനം, കൂട്ടാളികളുമായി സീറ്റ് പങ്കിടൽ എന്നിവയിലുള്ള അസന്തോഷം മറയ്ക്കാൻ ശ്രമം.",
+  "why": "യുവാക്കൾക്ക്, രാഷ്ട്രീയ വാദങ്ങൾ എങ്ങനെ അകത്തെ സംഘർഷം മറയ്ക്കാൻ ഉപയോഗിക്കാം എന്ന് മനസിലാക്കാൻ ഇത് ഒരു ഉദാഹരണമാണ്, അതിനാൽ വിവരങ്ങൾ പരിശോധിച്ച് നിലപാട് രൂപപ്പെടുത്തണം.",
+  "tags": [
+   "politics",
+   "BJP",
+   "Mathura",
+   "UGC",
+   "youth"
+  ]
+ },
+ {
+  "id": "eee12ddb0e5e",
+  "created": "2026-11-19T04:50:01+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+  "headline": "പ്രിൻസ് വില്യം, കെറ്റ് മോദിയുമായി ഇന്ത്യാ ടൂറിന്റെ അവസാനത്തിൽ കൂടിക്കാഴ്ച",
+  "hook": "രാജകുമാര ദമ്പതികൾ ഇന്ത്യാ സന്ദർശനം അവസാനിപ്പിക്കാൻ പ്രധാനമന്ത്രിയെ കണ്ടുമുട്ടി.",
+  "what": "പ്രിൻസ് വില്യം, പ്രിൻസസ് കെറ്റ് ഇന്ത്യാ ഔദ്യോഗിക സന്ദർശനം അവസാനിപ്പിക്കുമ്പോൾ പ്രധാനമന്ത്രിയായ നരേന്ദ്ര മോദിയുമായി കൂടിക്കാഴ്ച നടത്തി. ഇത് അവരുടെ യാത്രയുടെ അവസാന ഔദ്യോഗിക പരിപാടി ആയിരുന്നു.",
+  "why": "ഇത് യുകെ-ഇന്ത്യാ ബന്ധങ്ങളുടെ പ്രാധാന്യം കാണിക്കുന്നു, യുവജനങ്ങൾക്ക് അന്തർദേശീയ സംഭവവികാസങ്ങൾ അറിയാൻ സഹായകമാണ്.",
+  "tags": [
+   "രാജകുമാരങ്ങൾ",
+   "ഇന്ത്യ",
+   "യുകെ",
+   "മോഡി",
+   "യാത്ര"
+  ]
+ },
+ {
+  "id": "a1c029e4d683",
+  "created": "2026-11-19T04:50:04+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricinfo",
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
+  "headline": "ന്യൂസിലാന്റ് ടെസ്റ്റിൽ ഇന്ത്യ സിറാജും ജഡ്ജയും ഒഴിവാക്കി",
+  "hook": "വെല്ലിംഗ്‌ടൺ മത്സരത്തിന് മുൻപ് ടീമിൽ അപ്രതീക്ഷിത മാറ്റം",
+  "what": "പുതിയ ടെസ്റ്റിന് ഇന്ത്യയുടെ തിരഞ്ഞെടുപ്പുകാർ മോഹംദ് സിറാജും രവീന്ദ്ര ജഡ്ജയും സ്ക്വാഡിൽ നിന്ന് ഒഴിവാക്കി. താസ്‌വം ജയിച്ച് ഇന്ത്യ ഫീൽഡ് ചെയ്യാൻ തീരുമാനിച്ചു, വെല്ലിംഗ്‌ടണിൽ ആദ്യ ഇൻംഗ്സ്‌ബോൾ ചെയ്തു.",
+  "why": "ഇത് യുവ ക്രിക്കറ്റ് ആരാധകർക്ക് പുതിയ നാല് പെയ്സ് ആക്രമണം എങ്ങനെയെന്ന് കാണാൻ അവസരമാണ്, സീരീസിന്റെ ഫലത്തെ ബാധിക്കാം.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ന്യൂസിലാൻഡ്",
+   "ടെസ്റ്റ്",
+   "തിരഞ്ഞെടുപ്പ്"
+  ]
+ },
+ {
   "id": "6b4b11d8558c",
   "created": "2026-11-19T03:51:09+05:30",
   "category": "tech",
@@ -658,100 +753,6 @@
    "TechNews",
    "Industry",
    "Startups"
-  ]
- },
- {
-  "id": "36339e727d5c",
-  "created": "2026-11-18T21:48:20+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/telangana/vakiti-srihari-releases-brochure-on-khelo-india-youth-games/article71716137.ece",
-  "headline": "വകിതി ശ്രീഹരി പുറത്തിറക്കി കെലോ ഇന്ത്യ യുവ ഗെയിംസ് ബ്രോഷർ",
-  "hook": "ഇന്ത്യയുടെ യുവ സ്പോർട്സ് ഇവന്റിന്റെ പുതിയ ഗൈഡ് നോക്കൂ",
-  "what": "വകിതി ശ്രീഹരി കെലോ ഇന്ത്യ യുവ ഗെയിംസ് സംബന്ധിച്ച ഒരു ബ്രോഷർ പുറത്തിറക്കി. ഈ പ്രസിദ്ധീകരണം ഇവന്റിന്റെ വിവരങ്ങൾ നൽകുന്നു.",
-  "why": "യുവതാരങ്ങൾ വരാനിരിക്കുന്ന മത്സരങ്ങളും പങ്കാളിത്ത മാർഗങ്ങളും അറിയാൻ ഇത് സഹായിക്കും.",
-  "tags": [
-   "KheloIndia",
-   "YouthSports",
-   "Brochure",
-   "VakitiSrihari"
-  ]
- },
- {
-  "id": "5f610461989a",
-  "created": "2026-11-18T20:43:08+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/sip-investment-patience-pays-as-staying-invested-for-10-years-could-help-you-avoid-losses-what-21-year-study-revealed-11795007979745.html",
-  "headline": "10 വര്‍ഷത്തെ SIPs‑ല്‍ നഷ്ടം ഇല്ല, പഠനം പറയുന്നു",
-  "hook": "ദശാബ്ദം വരെ SIP പിടിച്ചാല്‍ നഷ്ടം ഒഴിവാക്കാം",
-  "what": "2005‑2026 വരെ ഡാറ്റ പരിശോധിച്ച Motilal Oswal പഠനം, Nifty 100, Midcap 150, Nifty 500 എന്നിവയില്‍ 10 വര്‍ഷത്തെ SIP നിക്ഷേപം നെഗറ്റീവ് റിട്ടേണ്‍ നല്‍കാത്തതായി കണ്ടെത്തി. ചെറുക്യാപ് SIP‑കളില്‍ ഇപ്പോഴും നഷ്ടം സംഭവിക്കാം.",
-  "why": "പുതിയ നിക്ഷേപകര്‍ക്ക് ദീര്‍ഘകാല SIP പ്ലാന്‍ ചെയ്യുന്നത് മാര്‍ക്കറ്റ് ഇടിവില്‍ നിന്നും സംരക്ഷണം നല്‍കും; കുറഞ്ഞത് പത്ത് വര്‍ഷത്തെ ലക്ഷ്യം വെക്കാം.",
-  "tags": [
-   "SIP",
-   "Investing",
-   "LongTerm",
-   "Stocks",
-   "Finance"
-  ]
- },
- {
-  "id": "9610a86cb801",
-  "created": "2026-11-18T20:44:01+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-  "headline": "ബ്രിട്ടീഷ് ഹാക്കർമാർ GTA ബ്രിച്ച്, ക്രിപ്റ്റോ തട്ടവിൽ ശിക്ഷിതർ",
-  "hook": "ഗെയിം, ക്രിപ്റ്റോ ആരാധകർ, നിങ്ങളുടെ ഓൺലൈൻ സുരക്ഷയെക്കുറിച്ച് ചിന്തിക്കൂ.",
-  "what": "യുകെയിൽ നിന്നുള്ള രണ്ട് ഹാക്കർമാർ ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ നിർമ്മാതാക്കളിൽ പ്രവേശിക്കുകയും വലിയ ക്രിപ്റ്റോ തുക ചൂഷണം ചെയ്യുകയും ചെയ്തതിന് ദീർഘകാല ജയിൽ ശിക്ഷ ലഭിച്ചു. കോടതി ഗെയിം ഡാറ്റാ ലംഘനവും ക്രിപ്റ്റോ തട്ടവവും രണ്ടും ചൂണ്ടിക്കാട്ടി.",
-  "why": "പോപ്പുലർ ഗെയിമുകളും ഡിജിറ്റൽ കറൻസികളും ലക്ഷ്യമാക്കുന്ന സൈബർ കുറ്റങ്ങൾ ഗൗരവമായി കാണപ്പെടുന്നു; അതിനാൽ നിങ്ങളുടെ അക്കൗണ്ടുകൾ സുരക്ഷിതമാക്കുക, സംശയകരമായ ലിങ്കുകൾ ഒഴിവാക്കുക.",
-  "tags": [
-   "ഗെയിമിംഗ്",
-   "സൈബർസെക്യൂരിറ്റി",
-   "ക്രിപ്റ്റോ",
-   "നിയമം",
-   "UK"
-  ]
- },
- {
-  "id": "97265c555bef",
-  "created": "2026-11-18T20:44:04+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradeshs-amended-semiconductor-policy-matches-100-of-centres-capital-support/article71715972.ece",
-  "headline": "Andhra Pradesh കേന്ദ്ര ചിപ്പ് ഫണ്ടിംഗ് പൊരുത്തപ്പെടുത്തി, 80% ചെലവ് പിന്തുണ",
-  "hook": "സംസ്ഥാനത്തെ ലക്ഷ്യം ഇന്ത്യയുടെ മുഴുവൻ ചിപ്പ് നിർമ്മാണ കേന്ദ്രമാകുക.",
-  "what": "പുതുക്കിയ സെമികണ്ടക്ടർ നയം ഇന്ത്യാ സെമികണ്ടക്ടർ മിഷന്റെ രണ്ടാം ഘട്ടത്തോട് പൊരുത്തപ്പെടുന്നു. ചിപ്പ് ഡിസൈൻ, ഫാബ്, പാക്കേജിംഗ് പദ്ധതികളിലെ യോഗ്യ ചെലവിന്റെ 80% വരെ സാമ്പത്തിക സഹായം നൽകും.",
-  "why": "യുവ ടെക്ക് വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും കൂടുതൽ ജോലി, പരിശീലന അവസരങ്ങൾ നേടാൻ കഴിയും. ഇന്റേൺഷിപ്പ്, സ്കിൽ പ്രോഗ്രാമുകൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "semiconductor",
-   "AndhraPradesh",
-   "chipmaking",
-   "techpolicy",
-   "startup"
-  ]
- },
- {
-  "id": "9a07b9cae0ee",
-  "created": "2026-11-18T20:44:06+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/hdfc-bank-slashes-bizblack-metal-credit-card-tax-payment-rewards-by-40-what-changes-for-users-from-december-21-11795007371116.html",
-  "headline": "HDFC BizBlack Metal ന്റെ ടാക്സ് റിവാർഡ്സ് 40% കുറവ്",
-  "hook": "ടാക്സ് പേയ്‌മെന്റിൽ പോയിന്റുകൾ കുറയാൻ പോകുന്നു.",
-  "what": "ഡിസംബർ 21 മുതൽ HDFC ബാങ്ക് BizBlack Metal കാർഡിൽ ഇൻകം‑ടാക്സ്, GST പേയ്‌മെന്റിന് ലഭിക്കുന്ന ബേസ് റിവാർഡ് പോയിന്റുകൾ 40% കുറയ്ക്കും. കൂടാതെ ആക്‌സിലറേറ്റഡ് റിവാർഡ്സിന് കർശനമായ യോഗ്യതാ മാനദണ്ഡങ്ങളും വരുന്നു.",
-  "why": "പോയിന്റുകൾ കുറയുന്നത് നിങ്ങളുടെ റിവാർഡ് പ്ലാനിനെ ബാധിക്കും, അതിനാൽ പുതിയ നിബന്ധനകൾ പരിശോധിച്ച് മറ്റ് മാർഗങ്ങൾ പരിഗണിക്കുക.",
-  "tags": [
-   "HDFC",
-   "ക്രെഡിറ്റ്‌കാർഡ്",
-   "റിവാർഡ്സ്",
-   "ടാക്സ്",
-   "ജന്ജെ"
   ]
  }
 ]

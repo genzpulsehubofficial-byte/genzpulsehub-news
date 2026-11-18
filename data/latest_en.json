@@ -1,5 +1,100 @@
 [
  {
+  "id": "ebee197c44b5",
+  "created": "2026-11-19T04:49:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+  "headline": "Nadella backs Nvidia's interim CEO Colette Kress",
+  "hook": "Microsoft's chief says the new Nvidia leader has his support.",
+  "what": "Satya Nadella said he trusts Colette Kress, who is running Nvidia temporarily after Jensen Huang stepped down. He voiced confidence in her leadership.",
+  "why": "For young tech enthusiasts, it signals stability at a key AI chip maker, affecting future collaborations and job prospects in the sector.",
+  "tags": [
+   "Nvidia",
+   "Microsoft",
+   "AI",
+   "tech",
+   "leadership"
+  ]
+ },
+ {
+  "id": "f7885a7f892b",
+  "created": "2026-11-19T04:49:53+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "headline": "AI agents set to shake up web ad models",
+  "hook": "Microsoft says bots could change how we shop online.",
+  "what": "Microsoft's chief executive says AI agents may upend advertising‑based revenue on the internet. He warns that firms such as Amazon will need to adjust their customer‑acquisition tactics.",
+  "why": "For young users, this could mean new ways to discover products without ads. Keep an eye on emerging AI tools that might replace traditional ads.",
+  "tags": [
+   "AI",
+   "web",
+   "advertising",
+   "ecommerce",
+   "Microsoft"
+  ]
+ },
+ {
+  "id": "db618a8d3c6c",
+  "created": "2026-11-19T04:49:56+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
+  "headline": "BJP pushes Mathura temple issue amid internal unrest",
+  "hook": "Party’s temple focus may hide deeper grievances.",
+  "what": "The BJP has revived the Krishna Janmabhoomi debate. Analysts say the move aims to divert attention from growing dissatisfaction among its workers over new UGC equity guidelines, the SIR initiative, and seat‑sharing talks with allies.",
+  "why": "For young Indians, it shows how political narratives can shift to sidestep internal challenges, urging them to stay critical of party messaging.",
+  "tags": [
+   "politics",
+   "BJP",
+   "Mathura",
+   "UGC",
+   "youth"
+  ]
+ },
+ {
+  "id": "eee12ddb0e5e",
+  "created": "2026-11-19T04:50:01+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
+  "headline": "Prince William and Kate meet PM Modi to end India tour",
+  "hook": "Royal couple wraps up their Indian visit with a meeting of the Prime Minister.",
+  "what": "Prince William and Princess Kate met Prime Minister Narendra Modi as their official tour of India concluded. The meeting marked the final engagement of their visit.",
+  "why": "The encounter highlights the diplomatic ties between the UK and India, a point of interest for young Indians following global affairs.",
+  "tags": [
+   "royals",
+   "India",
+   "UK",
+   "Modi",
+   "tour"
+  ]
+ },
+ {
+  "id": "a1c029e4d683",
+  "created": "2026-11-19T04:50:04+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricinfo",
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
+  "headline": "India drops Siraj, Jadeja for NZ opening Test",
+  "hook": "A surprise lineup change ahead of the Wellington match.",
+  "what": "India's selectors omitted fast bowler Mohammed Siraj and all‑rounder Ravindra Jadeja from the squad for the first Test against New Zealand. After winning the toss, India chose to bowl first in Wellington.",
+  "why": "Young fans should watch how the new four‑bowler attack performs, as it could shape India's chances in the series.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "selection"
+  ]
+ },
+ {
   "id": "6b4b11d8558c",
   "created": "2026-11-19T03:51:09+05:30",
   "category": "tech",
@@ -658,100 +753,6 @@
    "TechNews",
    "Industry",
    "Startups"
-  ]
- },
- {
-  "id": "36339e727d5c",
-  "created": "2026-11-18T21:48:20+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/telangana/vakiti-srihari-releases-brochure-on-khelo-india-youth-games/article71716137.ece",
-  "headline": "Vakiti Srihari Unveils Khelo India Youth Games Brochure",
-  "hook": "Check out the new guide on India's youth sports event",
-  "what": "Vakiti Srihari has launched a brochure about the Khelo India Youth Games. The publication provides information on the event.",
-  "why": "Young athletes can learn about upcoming competitions and how to get involved.",
-  "tags": [
-   "KheloIndia",
-   "YouthSports",
-   "Brochure",
-   "VakitiSrihari"
-  ]
- },
- {
-  "id": "5f610461989a",
-  "created": "2026-11-18T20:43:08+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/sip-investment-patience-pays-as-staying-invested-for-10-years-could-help-you-avoid-losses-what-21-year-study-revealed-11795007979745.html",
-  "headline": "10-year SIPs avoided losses in major indices, study finds",
-  "hook": "Stick with SIPs for a decade, and you could dodge losses.",
-  "what": "A Motilal Oswal analysis of market data from 2005 to 2026 showed that staying invested in SIPs for ten years eliminated negative returns for the Nifty 100, Midcap 150 and Nifty 500. Small‑cap SIPs still carried the chance of loss.",
-  "why": "For Gen Z investors, a longer SIP horizon can protect against market dips, so consider planning at least a ten‑year term.",
-  "tags": [
-   "SIP",
-   "Investing",
-   "LongTerm",
-   "Stocks",
-   "Finance"
-  ]
- },
- {
-  "id": "9610a86cb801",
-  "created": "2026-11-18T20:44:01+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-  "headline": "British hackers sentenced for GTA breach and crypto theft",
-  "hook": "Gamers and crypto fans, this could affect your online safety.",
-  "what": "Two hackers from the UK have been handed long prison terms after breaking into the makers of Grand Theft Auto and stealing large sums of cryptocurrency. The court highlighted both the game data breach and the crypto fraud.",
-  "why": "It shows that cyber crimes targeting popular games and digital money are taken seriously, so protect your accounts and avoid shady links.",
-  "tags": [
-   "gaming",
-   "cybersecurity",
-   "crypto",
-   "law",
-   "UK"
-  ]
- },
- {
-  "id": "97265c555bef",
-  "created": "2026-11-18T20:44:04+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradeshs-amended-semiconductor-policy-matches-100-of-centres-capital-support/article71715972.ece",
-  "headline": "Andhra Pradesh matches central chip funding, offers 80% cost support",
-  "hook": "State aims to become India's all‑in‑one chip hub.",
-  "what": "The revised semiconductor policy aligns with the second phase of the India Semiconductor Mission. It promises financial aid covering up to 80% of eligible expenses for chip design, fabrication and packaging projects.",
-  "why": "Young tech enthusiasts may see more local jobs and skill‑training programmes in chip manufacturing and related startups. Watch for new internships and courses.",
-  "tags": [
-   "semiconductor",
-   "AndhraPradesh",
-   "chipmaking",
-   "techpolicy",
-   "startup"
-  ]
- },
- {
-  "id": "9a07b9cae0ee",
-  "created": "2026-11-18T20:44:06+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/hdfc-bank-slashes-bizblack-metal-credit-card-tax-payment-rewards-by-40-what-changes-for-users-from-december-21-11795007371116.html",
-  "headline": "HDFC cuts BizBlack Metal tax rewards by 40%",
-  "hook": "Your credit‑card points for tax payments are about to drop.",
-  "what": "From December 21, HDFC Bank will lower the base reward points earned on income‑tax and GST payments made with the BizBlack Metal card. The bank also announced tighter eligibility for accelerated rewards on this card.",
-  "why": "Young users who rely on credit‑card points will see slower point accumulation, so they should review the new terms and consider alternative ways to earn rewards.",
-  "tags": [
-   "HDFC",
-   "creditcard",
-   "rewards",
-   "tax",
-   "genz"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "f7885a7f892b",
+ "created": "2026-11-19T04:49:53+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI agents set to shake up web ad models",
+  "hook": "Microsoft says bots could change how we shop online.",
+  "what": "Microsoft's chief executive says AI agents may upend advertising‑based revenue on the internet. He warns that firms such as Amazon will need to adjust their customer‑acquisition tactics.",
+  "why": "For young users, this could mean new ways to discover products without ads. Keep an eye on emerging AI tools that might replace traditional ads.",
+  "tags": [
+   "AI",
+   "web",
+   "advertising",
+   "ecommerce",
+   "Microsoft"
+  ]
+ },
+ "ml": {
+  "headline": "AI ഏജന്റുകൾ വെബ് പരസ്യ മോഡലുകൾ മാറ്റും",
+  "hook": "Microsoft പറയുന്നു ബോട്ടുകൾ ഓൺലൈൻ ഷോപ്പിംഗ് മാറ്റാൻ പോകുന്നു.",
+  "what": "Microsoft‑യുടെ CEO AI ഏജന്റുകൾ ഇന്റർനെറ്റിലെ പരസ്യ അടിസ്ഥാന വരുമാനം തകർക്കാം എന്ന് പറഞ്ഞു. Amazon പോലുള്ള കമ്പനികൾ ഉപഭോക്താക്കളെ നേടാനുള്ള തന്ത്രം പുനഃപരിശോധിക്കേണ്ടി വരും.",
+  "why": "ഇത് യുവാക്കൾക്ക് പരസ്യങ്ങളില്ലാതെ ഉൽപ്പന്നങ്ങൾ കണ്ടെത്താൻ പുതിയ മാർഗങ്ങൾ നൽകാം. AI‑യുടെ വളർച്ചയിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "വെബ്",
+   "പരസ്യം",
+   "ഇ‑കോമേഴ്സ്",
+   "Microsoft"
+  ]
+ }
+}
