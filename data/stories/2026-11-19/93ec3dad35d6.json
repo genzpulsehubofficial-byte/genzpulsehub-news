@@ -1,0 +1,37 @@
+{
+ "id": "93ec3dad35d6",
+ "created": "2026-11-19T01:58:36+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Snapchat adds AI helpers for easy AR lens creation",
+  "hook": "Create cool AR filters just by typing what you imagine",
+  "what": "Snapchat announced that developers can now use AI assistants such as Claude Code and Cursor to build AR lenses. Users can simply describe the desired effect in plain language and the AI handles the entire creation process.",
+  "why": "This makes designing AR filters faster for young creators, letting them experiment without coding skills. Teens can try the new tools to bring their ideas to life on Snapchat.",
+  "tags": [
+   "Snapchat",
+   "AR",
+   "AI",
+   "Creators",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "Snapchat‑ൽ AI സഹായികളോടെ AR Lens സൃഷ്ടി എളുപ്പം",
+  "hook": "നിങ്ങൾ ചിന്തിക്കുന്നതെല്ലാം ടൈപ്പ് ചെയ്ത് കൂൾ AR ഫിൽറ്റർ ഉണ്ടാക്കൂ",
+  "what": "Snapchat ഡെവലപ്പർമാർക്ക് Claude Code, Cursor പോലുള്ള AI സഹായികളിലൂടെ AR Lens നിർമ്മിക്കാൻ പുതിയ സൗകര്യം നൽകി. ലെൻസ് എന്ത് വേണമെന്നു സാധാരണ ഭാഷയിൽ പറഞ്ഞാൽ AI മുഴുവൻ പ്രക്രിയ കൈകാര്യം ചെയ്യും.",
+  "why": "ഇത് കോഡിംഗ് അറിവില്ലാതെ സൃഷ്ടികൾ വേഗത്തിൽ ചെയ്യാൻ സഹായിക്കും, അതിനാൽ യുവ സൃഷ്ടാക്കൾക്ക് അവരുടെ ആശയങ്ങൾ Snapchat‑ൽ ജീവന്‍ നൽകാം.",
+  "tags": [
+   "Snapchat",
+   "AR",
+   "AI",
+   "Creators",
+   "Tech"
+  ]
+ }
+}

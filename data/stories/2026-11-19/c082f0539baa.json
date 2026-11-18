@@ -1,0 +1,37 @@
+{
+ "id": "c082f0539baa",
+ "created": "2026-11-19T01:58:33+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sam Altman unbothered by Andrew Garfield playing him",
+  "hook": "He isn’t surprised by a film that casts Andrew Garfield as him",
+  "what": "Sam Altman said his life feels so strange that a movie about him doesn’t shock him. He added that being portrayed by Andrew Garfield isn’t even among his top ten weird moments.",
+  "why": "It shows how tech leaders are becoming part of pop culture, a trend young Indians may notice in entertainment.",
+  "tags": [
+   "SamAltman",
+   "AndrewGarfield",
+   "TechMovies",
+   "AI",
+   "PopCulture"
+  ]
+ },
+ "ml": {
+  "headline": "Sam Altman-ന് Andrew Garfield-ന്റെ ചിത്രം തണുപ്പായി",
+  "hook": "Andrew Garfield അവനെ അഭിനയിക്കുന്ന സിനിമയിലും അവന്‍ അത്ഭുതമില്ല",
+  "what": "Sam Altman പറഞ്ഞു, തന്റെ ജീവിതം അത്ര വിചിത്രമാണെന്നു, അവനെക്കുറിച്ചുള്ള സിനിമയിലും അവന്‍ അത്ര ആശ്ചര്യമില്ലെന്ന്. Andrew Garfield അവനെ അവതരിപ്പിക്കുന്നത്‌ അവന്റെ ഏറ്റവും വിചിത്രമായ 10 കാര്യങ്ങളിൽ ഒന്നല്ലെന്ന് അദ്ദേഹം പറഞ്ഞു.",
+  "why": "ഇത് ടെക് വ്യക്തികൾ എങ്ങനെ പൊപ്പ്കൾച്ചറിലേയ്ക്ക് കടക്കുന്നു എന്ന് കാണിക്കുന്നു, യുവാക്കൾക്ക് ടെക്‑എന്റർടെയിൻമെന്റ് ബന്ധം മനസ്സിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "SamAltman",
+   "AndrewGarfield",
+   "TechMovies",
+   "AI",
+   "PopCulture"
+  ]
+ }
+}

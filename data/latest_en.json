@@ -1,5 +1,118 @@
 [
  {
+  "id": "b82656081c2f",
+  "created": "2026-11-19T01:58:20+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/pm-modi-meets-prince-and-princess-of-wales-discusses-boosting-uk-india-ties/article71717432.ece",
+  "headline": "Modi meets British royals, pledges stronger UK‑India ties",
+  "hook": "They discussed climate innovation and deeper cooperation.",
+  "what": "Prime Minister Narendra Modi met the Prince and Princess of Wales. The leaders talked about boosting relations between the United Kingdom and India. Modi praised the Earthshot Prize for encouraging new ideas to tackle environmental challenges.",
+  "why": "Closer UK‑India ties could bring more education and job options for Indian youth. Highlighting the Earthshot Prize shows a focus on climate solutions that affect the next generation.",
+  "tags": [
+   "UKIndia",
+   "Earthshot",
+   "environment",
+   "youth",
+   "diplomacy"
+  ]
+ },
+ {
+  "id": "b5b127a3b2d9",
+  "created": "2026-11-19T01:58:29+05:30",
+  "category": "entertainment",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/gta-6-launch-live-updates-release-time-download-gameplay-price-latest-news-key-announcements-reviews-12346071#publisher=newsstand",
+  "headline": "GTA 6 Hits India After 13-Year Wait",
+  "hook": "The long‑awaited open‑world saga finally lands in India.",
+  "what": "Rockstar Games released Grand Theft Auto VI, and it is now available in India. The game returns to the series’ iconic Vice City and expands to the new Leonida region.",
+  "why": "Indian gamers can now explore the new open‑world setting on consoles and PCs. Pre‑orders and early access are open, so fans can dive in now.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "India",
+   "ViceCity",
+   "Leonida"
+  ]
+ },
+ {
+  "id": "c082f0539baa",
+  "created": "2026-11-19T01:58:33+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+  "headline": "Sam Altman unbothered by Andrew Garfield playing him",
+  "hook": "He isn’t surprised by a film that casts Andrew Garfield as him",
+  "what": "Sam Altman said his life feels so strange that a movie about him doesn’t shock him. He added that being portrayed by Andrew Garfield isn’t even among his top ten weird moments.",
+  "why": "It shows how tech leaders are becoming part of pop culture, a trend young Indians may notice in entertainment.",
+  "tags": [
+   "SamAltman",
+   "AndrewGarfield",
+   "TechMovies",
+   "AI",
+   "PopCulture"
+  ]
+ },
+ {
+  "id": "93ec3dad35d6",
+  "created": "2026-11-19T01:58:36+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+  "headline": "Snapchat adds AI helpers for easy AR lens creation",
+  "hook": "Create cool AR filters just by typing what you imagine",
+  "what": "Snapchat announced that developers can now use AI assistants such as Claude Code and Cursor to build AR lenses. Users can simply describe the desired effect in plain language and the AI handles the entire creation process.",
+  "why": "This makes designing AR filters faster for young creators, letting them experiment without coding skills. Teens can try the new tools to bring their ideas to life on Snapchat.",
+  "tags": [
+   "Snapchat",
+   "AR",
+   "AI",
+   "Creators",
+   "Tech"
+  ]
+ },
+ {
+  "id": "ffd749ad2d4e",
+  "created": "2026-11-19T01:58:39+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEt4VDF6T1VQYkJjcF9tQS1zWm5zS3RtZ1VlY1hJRkRicDNZV243V2wyYVpFTU5GV2UxRklIVUpkc1I1Mnpya05xbEJmRWVITmp3bDN1VGg0MGN0NDQ5NlgtSGR6ZzQ0WW8zdVJzQWx2WkRKLVdvd0xKaFZOOGJVMjhiZWp5eldHY2tZYXpiTTBCQmdKNmVkVVF0VmU1UV9tZURaaDNwLVI3Q3NwZWNSU1ByZUpSY2xOdy1B0gHAAUFVX3lxTFBhTlBFQWM0RS1yRnItZ3M2MUk5MTZjZnVpWXhxeHBXZlQ5eEdTV1dyM1BKMUowMU5UOXhrUnZyQy00OEFvUjJEQlZFa2ZPNnZDWWt4YmhaMEludEQ1Y2Z0cGVXRTNMQ1BVU2JqcUVoTUdsdHJJMk9NMHJyTm5fbExvbUZGR3phRndsVTBFZlJmUXpnWkUycEt0Ul9jSTM3aEJJcEx5VGVERWZYaU11d2dJckxuRnJWNWJLR1N4WFdrcQ?oc=5",
+  "headline": "Man duped of ₹1L in Green Gas cyber scam",
+  "hook": "Watch out: fake Green Gas offers can drain your cash fast",
+  "what": "A man fell victim to a cyber fraud linked to Green Gas. He lost ₹1 lakh in the scam.",
+  "why": "The case warns about online scams that promise cheap gas. Young users should verify any such offers before sending money.",
+  "tags": [
+   "cyberscam",
+   "financialsafety",
+   "youngmoney",
+   "india"
+  ]
+ },
+ {
+  "id": "84b35ad75746",
+  "created": "2026-11-19T01:58:42+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Investing.com",
+  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXJnVHk2bFlNVEdPZXlZcS1xV3ZIX1pYdzBMUkpKMDBYN2RzN0lVYzBSUWRuSWhNVWo2ZmZKZmFIUDhWXzl3dU54S3lILWtuTVNHSFk2aTZTbWF4ZjlLb25SeDQzZWtNY1IzQklMVjlEc09jME9HQmpGbHdxZFFNLXBQQ0s5bHpFcDZVZWdrM1BJSnNiNW91SHh1enVtQ05uUHR4ZkVMaFluTklwS2liR1FBTElsZG1sSWg0?oc=5",
+  "headline": "Nvidia lifts outlook, Anthropic IPO draws attention",
+  "hook": "Big chip maker ups its game while AI startup eyes the market",
+  "what": "Nvidia announced higher earnings guidance for the coming period. At the same time, investors are watching the upcoming IPO of Anthropic. The news is influencing market activity.",
+  "why": "Tech stocks affect the broader market, which can impact savings and investment options for youth. Keep an eye on these developments if you’re interested in tech careers or investing.",
+  "tags": [
+   "Nvidia",
+   "Anthropic",
+   "IPO",
+   "TechStocks",
+   "Markets"
+  ]
+ },
+ {
   "id": "7816bb730235",
   "created": "2026-11-19T00:58:13+05:30",
   "category": "headlines",
@@ -639,119 +752,6 @@
    "corporate",
    "news",
    "india"
-  ]
- },
- {
-  "id": "1acba6e47686",
-  "created": "2026-11-18T18:57:12+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Indian Television Dot Com",
-  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2Z5S0RqRG9uNmtBTVlnSEV2b0c5Mkx2N1RxekpWa094OW9VQmpqSUFFaTJ1MnhDalF6dVgwVHpfTTR4M0V0aEViWUJyTktpNlJfQ3AwWFhIZXZOU094X1dwNzVRWTExdVRqcV9tRkd0cjJ6S3lYRVJnUnJoS1FOM0RXQXBsNGJBSjNfTkpZZVZUOXZCT3ROM3c5LUtzcU5PcEhVag?oc=5",
-  "headline": "BGMI teams up with Samay Raina for comedy in-game event",
-  "hook": "Your favorite battle royale just got a funny twist with Samay Raina!",
-  "what": "BGMI announced a partnership with comedian Samay Raina. The collaboration will bring a comedy‑themed feature inside the game. Players can look forward to humorous content linked to the creator.",
-  "why": "The tie‑up adds fresh entertainment for gamers and Samay Raina fans, encouraging them to try the new content. Keep an eye on BGMI updates to join the event when it launches.",
-  "tags": [
-   "BGMI",
-   "SamayRaina",
-   "Gaming",
-   "Comedy",
-   "India"
-  ]
- },
- {
-  "id": "b520d4a92188",
-  "created": "2026-11-18T18:57:15+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/no-valid-vehicle-insurance-toll-plazas-may-soon-flag-your-car-trigger-10-000-fine-know-about-pilot-that-is-underway-11795003322006.html",
-  "headline": "Toll booths to flag uninsured cars, fine ₹10k",
-  "hook": "Your ride could be fined at a toll if insurance lapses.",
-  "what": "The National Highways Authority of India is trialling a system at Delhi's Mundka toll that checks a vehicle's third‑party insurance against the Vahan database. If no valid cover is found, the owner gets an SMS alert and may face a ₹10,000 penalty.",
-  "why": "Young drivers should keep their insurance up to date to avoid surprise fines at tolls. Verify your policy before hitting the road.",
-  "tags": [
-   "toll",
-   "insurance",
-   "youngdrivers",
-   "India",
-   "fine"
-  ]
- },
- {
-  "id": "5d3a453ab03d",
-  "created": "2026-11-18T18:57:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-  "headline": "Nvidia outlines when it will fund neoclouds",
-  "hook": "The chip giant says it won’t back loans without its own cash.",
-  "what": "Nvidia said it will only guarantee a data‑center loan if the neocloud project secures separate financing, completes construction, and installs Nvidia equipment. Otherwise the company won’t be financially liable.",
-  "why": "For students eyeing cloud‑computing careers, this shows Nvidia’s backing depends on solid funding and hardware setup, so understanding financing basics is useful.",
-  "tags": [
-   "Nvidia",
-   "neocloud",
-   "dataCenter",
-   "techFunding",
-   "startup"
-  ]
- },
- {
-  "id": "9b2cea67e7fb",
-  "created": "2026-11-18T18:26:13+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "MobiGyaan",
-  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1DQXlJMDJ6Wi13WnIwdkM5Ti1VTUZ6Zk9kUzBEZzV1WXpRcEVxWjdMMFFGTmJMd3FRTmtiMDdFeFNpX1lPbWtfeUZtVzYyRXdEZHFpRFlYS2FJVE9odEl1WmRESjdCUGVFRHI5cnIwNmVSRHJnMXlTdHhjcmFUQTVLZkw5YlRULVVGVGowYkY?oc=5",
-  "headline": "BGMI rolls out 4.7 update with new maps and event",
-  "hook": "New Arctic map and Samay Raina challenge now live!",
-  "what": "The latest BGMI 4.7 patch adds the Arctic Chronicles map, an Erangel Subzero version, and a special Samay Raina in‑game event. Players can download the update now.",
-  "why": "Fresh maps keep the battle royale exciting, and the event offers extra rewards that many gamers chase.",
-  "tags": [
-   "BGMI",
-   "update",
-   "gaming",
-   "ArcticChronicles",
-   "SamayRaina"
-  ]
- },
- {
-  "id": "1e86786cdb2d",
-  "created": "2026-11-18T18:26:42+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/cpim-workers-disrupt-mla-kunhikrishnan-speech-kannur-ptiq5d1thzz",
-  "headline": "CPI(M) members interrupt MLA's speech at Kannur event",
-  "hook": "A political showdown erupted during a local cooperative celebration.",
-  "what": "At a Cooperative Week program in Kannur, MLA V Kunhikrishnan was speaking when people identified as CPI(M) workers disrupted the event. The Congress party sharply condemned the interruption.",
-  "why": "The incident shows how political tensions can spill into community gatherings, affecting everyday life. Teens should stay aware of local politics and promote peaceful civic participation.",
-  "tags": [
-   "Kannur",
-   "CooperativeWeek",
-   "PoliticalTension",
-   "Kerala"
-  ]
- },
- {
-  "id": "5718a501027c",
-  "created": "2026-11-18T18:26:44+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/investigation-into-air-india-crash-that-killed-260-in-final-stage-india-says-101794998626429.html",
-  "headline": "Air India crash probe enters final stage, 260 dead",
-  "hook": "India says the investigation is almost finished after a tragic loss.",
-  "what": "The inquiry into the Air India accident that killed 260 people is now in its concluding phase, officials announced. The crash remains one of the deadliest in the country's aviation history.",
-  "why": "Finding the cause can lead to safer flights, which matters for young Indians who travel often. Stay updated on travel safety guidelines.",
-  "tags": [
-   "airindia",
-   "crash",
-   "investigation",
-   "aviation",
-   "safety"
   ]
  }
 ]
