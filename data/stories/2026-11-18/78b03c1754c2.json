@@ -1,0 +1,37 @@
+{
+ "id": "78b03c1754c2",
+ "created": "2026-11-18T21:48:13+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/sahara-india-refund-status-govt-transfers-221-crore-has-your-money-arrived-how-to-check-11795015810828.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sahara refunds ₹221 crore in a week, check status now",
+  "hook": "Your pending Sahara refund could be just a click away",
+  "what": "The government released about ₹221.45 crore in Sahara refunds over the past seven days. Claimants can verify receipt through the official portal.",
+  "why": "If you applied for a Sahara refund, confirming receipt ensures you don’t miss the payment. Use the online status checker and follow the steps if the money is still pending.",
+  "tags": [
+   "SaharaRefund",
+   "MoneyMatters",
+   "YouthFinance",
+   "IndiaNews",
+   "RefundCheck"
+  ]
+ },
+ "ml": {
+  "headline": "Sahara-യുടെ റീഫണ്ട് ₹221 കോടി, ഒരു ആഴ്ചയിൽ, സ്ഥിതി പരിശോധിക്കുക",
+  "hook": "നിങ്ങളുടെ Sahara റീഫണ്ട് കാത്തിരിക്കുകയാണോ? ഒരു ക്ലിക്കിൽ അറിയാം",
+  "what": "സർക്കാർ കഴിഞ്ഞ ഏഴ് ദിവസത്തിൽ Sahara റീഫണ്ടായി ഏകദേശം ₹221.45 കോടി വിതരണം ചെയ്തു. അപേക്ഷകർ ഔദ്യോഗിക പോർട്ടലിൽ തങ്ങളുടെ പണം ലഭിച്ചോ എന്ന് പരിശോധിക്കാം.",
+  "why": "റീഫണ്ട് ലഭിച്ചോ എന്ന് ഉറപ്പാക്കുന്നത് നഷ്ടം ഒഴിവാക്കാൻ സഹായിക്കും. ഓൺലൈൻ സ്റ്റാറ്റസ് ചെക്കർ ഉപയോഗിച്ച് പണം ലഭിച്ചില്ലെങ്കിൽ നടപടികൾ പിന്തുടരുക.",
+  "tags": [
+   "SaharaRefund",
+   "MoneyMatters",
+   "YouthFinance",
+   "IndiaNews",
+   "RefundCheck"
+  ]
+ }
+}

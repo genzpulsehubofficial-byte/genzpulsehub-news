@@ -1,0 +1,37 @@
+{
+ "id": "f816757e046d",
+ "created": "2026-11-18T21:48:18+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI leaders react as Nvidia co‑founder Jensen steps down",
+  "hook": "A top AI pioneer exits amid controversy—what it means for tech.",
+  "what": "Jensen Huang, the founder and former chief executive of Nvidia, resigned last week. His exit follows a series of scandals, one involving a reported relationship with a suspected Chinese intelligence operative. OpenAI chief Sam Altman said the AI field would be hard to picture without Jensen's influence.",
+  "why": "His departure could shift dynamics in AI hardware and software development, affecting tools and platforms many teens use. Keep an eye on upcoming changes in AI products and job opportunities.",
+  "tags": [
+   "AI",
+   "Nvidia",
+   "TechNews",
+   "Industry",
+   "Startups"
+  ]
+ },
+ "ml": {
+  "headline": "AI ലോകം ഞെട്ടി, Nvidia സഹസ്ഥാപകൻ ജെൻസൻ രാജിവച്ചു",
+  "hook": "ഒരു പ്രധാന AI വ്യക്തി വിവാദത്തിൽ നിന്ന് പുറത്ത്—ഇത് ടെക്ക് രംഗത്തെ എന്ത് മാറ്റം കൊണ്ടുവരും?",
+  "what": "Nvidiaയുടെ സ്ഥാപകനും മുൻ സിഇഒയുമായ ജെൻസൻ ഹുവാങ് കഴിഞ്ഞ ആഴ്ച രാജിവെച്ചു. അദ്ദേഹത്തിന്റെ രാജി ഒരു ചൈനീസ് ചോരക്കാരിയുമായി ബന്ധം ഉൾപ്പെടുന്ന നിരവധി വിവാദങ്ങളോടെ വന്നതാണ്. OpenAIയുടെ സാം ആൾട്ട്മാൻ, AI മേഖലയെ ജെൻസൻ ഇല്ലാതെ ചിന്തിക്കാൻ ബുദ്ധിമുട്ടാണെന്ന് പറഞ്ഞു.",
+  "why": "അവന്റെ വിട AI ഹാർഡ്‌വെയർ, സോഫ്റ്റ്‌വെയർ വികസനത്തിൽ മാറ്റം വരുത്താം, ഇത് യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകൾക്കും അവസരങ്ങൾക്കും സ്വാധീനം ചെലുത്തും. പുതിയ AI ഉൽപ്പന്നങ്ങളും ജോലികളുമെക്കുറിച്ച് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "Nvidia",
+   "TechNews",
+   "Industry",
+   "Startups"
+  ]
+ }
+}

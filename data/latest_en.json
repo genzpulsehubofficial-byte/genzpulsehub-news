@@ -1,5 +1,118 @@
 [
  {
+  "id": "87f478ede3c2",
+  "created": "2026-11-18T21:47:59+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hc-drop-adopted-prefix-official-records-pti0rmnucwb",
+  "headline": "Kerala HC orders removal of ‘adopted’ tag in records",
+  "hook": "Your birth certificate could get a simple edit soon.",
+  "what": "The Kerala High Court told the state to delete the word ‘adopted’ before son or daughter in official documents. It also instructed an update of the e-District portal to reflect the change.",
+  "why": "This could streamline identity paperwork for many young people and avoid unnecessary labels. Check your records if you see the prefix.",
+  "tags": [
+   "Kerala",
+   "HighCourt",
+   "eDistrict",
+   "records",
+   "adoption"
+  ]
+ },
+ {
+  "id": "e13ff49abc12",
+  "created": "2026-11-18T21:48:08+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/manipur/captain-dies-after-army-vehicle-plunges-into-itam-river-in-imphal-east/article71715979.ece",
+  "headline": "Army captain killed as vehicle sinks in Imphal river",
+  "hook": "A troop convoy accident in Manipur leaves a captain dead.",
+  "what": "A vehicle from the 8th Bihar Regiment fell into the Itam River in Imphal East, killing the captain on board. Three other soldiers were injured in the incident.",
+  "why": "The tragedy underscores the dangers faced by the armed forces and calls for greater attention to safety measures. Young readers should stay aware and respect the sacrifices of the troops.",
+  "tags": [
+   "army",
+   "Manipur",
+   "accident",
+   "youth",
+   "safety"
+  ]
+ },
+ {
+  "id": "9d9aab5384e9",
+  "created": "2026-11-18T21:48:10+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "UC Today",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVhMU1JpTWo1MkpXZ0NWNWZNYTVzcHNEbDFORzRGaTBpbkhCY1ViajFZM0N0X3EwNzhZX1V6bjRLOWx0U3VNVE9idDNKSFl4U1hfb1k0cGpmWm9jUzgwSm92X1hkclRILTZJVHZQMmVPU1VzaFU1aDJDdFpGTDlPLXpSUjZXa0ZtN1djelRVSkZvbnNJTFRWWmpSUjl3ZWR2c3Rrb1dEWjlrTTZ2MkdfYw?oc=5",
+  "headline": "Google launches free Gemini Tasks in six countries",
+  "hook": "Your AI can now handle calls and shop for you—for free.",
+  "what": "Google has introduced the free “Tasks” feature for its Gemini AI agent across six nations, including India. The tool helps users with phone calls, online purchases and other personal tasks.",
+  "why": "Young users can use a built‑in assistant to save time on routine chores and focus on studies or hobbies. Try it via the Gemini app or supported Google services.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AIassistant",
+   "Free",
+   "India"
+  ]
+ },
+ {
+  "id": "78b03c1754c2",
+  "created": "2026-11-18T21:48:13+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/sahara-india-refund-status-govt-transfers-221-crore-has-your-money-arrived-how-to-check-11795015810828.html",
+  "headline": "Sahara refunds ₹221 crore in a week, check status now",
+  "hook": "Your pending Sahara refund could be just a click away",
+  "what": "The government released about ₹221.45 crore in Sahara refunds over the past seven days. Claimants can verify receipt through the official portal.",
+  "why": "If you applied for a Sahara refund, confirming receipt ensures you don’t miss the payment. Use the online status checker and follow the steps if the money is still pending.",
+  "tags": [
+   "SaharaRefund",
+   "MoneyMatters",
+   "YouthFinance",
+   "IndiaNews",
+   "RefundCheck"
+  ]
+ },
+ {
+  "id": "f816757e046d",
+  "created": "2026-11-18T21:48:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+  "headline": "AI leaders react as Nvidia co‑founder Jensen steps down",
+  "hook": "A top AI pioneer exits amid controversy—what it means for tech.",
+  "what": "Jensen Huang, the founder and former chief executive of Nvidia, resigned last week. His exit follows a series of scandals, one involving a reported relationship with a suspected Chinese intelligence operative. OpenAI chief Sam Altman said the AI field would be hard to picture without Jensen's influence.",
+  "why": "His departure could shift dynamics in AI hardware and software development, affecting tools and platforms many teens use. Keep an eye on upcoming changes in AI products and job opportunities.",
+  "tags": [
+   "AI",
+   "Nvidia",
+   "TechNews",
+   "Industry",
+   "Startups"
+  ]
+ },
+ {
+  "id": "36339e727d5c",
+  "created": "2026-11-18T21:48:20+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/vakiti-srihari-releases-brochure-on-khelo-india-youth-games/article71716137.ece",
+  "headline": "Vakiti Srihari Unveils Khelo India Youth Games Brochure",
+  "hook": "Check out the new guide on India's youth sports event",
+  "what": "Vakiti Srihari has launched a brochure about the Khelo India Youth Games. The publication provides information on the event.",
+  "why": "Young athletes can learn about upcoming competitions and how to get involved.",
+  "tags": [
+   "KheloIndia",
+   "YouthSports",
+   "Brochure",
+   "VakitiSrihari"
+  ]
+ },
+ {
   "id": "5f610461989a",
   "created": "2026-11-18T20:43:08+05:30",
   "category": "money",

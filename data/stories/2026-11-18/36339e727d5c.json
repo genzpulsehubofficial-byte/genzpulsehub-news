@@ -1,0 +1,35 @@
+{
+ "id": "36339e727d5c",
+ "created": "2026-11-18T21:48:20+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/vakiti-srihari-releases-brochure-on-khelo-india-youth-games/article71716137.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Vakiti Srihari Unveils Khelo India Youth Games Brochure",
+  "hook": "Check out the new guide on India's youth sports event",
+  "what": "Vakiti Srihari has launched a brochure about the Khelo India Youth Games. The publication provides information on the event.",
+  "why": "Young athletes can learn about upcoming competitions and how to get involved.",
+  "tags": [
+   "KheloIndia",
+   "YouthSports",
+   "Brochure",
+   "VakitiSrihari"
+  ]
+ },
+ "ml": {
+  "headline": "വകിതി ശ്രീഹരി പുറത്തിറക്കി കെലോ ഇന്ത്യ യുവ ഗെയിംസ് ബ്രോഷർ",
+  "hook": "ഇന്ത്യയുടെ യുവ സ്പോർട്സ് ഇവന്റിന്റെ പുതിയ ഗൈഡ് നോക്കൂ",
+  "what": "വകിതി ശ്രീഹരി കെലോ ഇന്ത്യ യുവ ഗെയിംസ് സംബന്ധിച്ച ഒരു ബ്രോഷർ പുറത്തിറക്കി. ഈ പ്രസിദ്ധീകരണം ഇവന്റിന്റെ വിവരങ്ങൾ നൽകുന്നു.",
+  "why": "യുവതാരങ്ങൾ വരാനിരിക്കുന്ന മത്സരങ്ങളും പങ്കാളിത്ത മാർഗങ്ങളും അറിയാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "KheloIndia",
+   "YouthSports",
+   "Brochure",
+   "VakitiSrihari"
+  ]
+ }
+}

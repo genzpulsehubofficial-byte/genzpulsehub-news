@@ -1,0 +1,37 @@
+{
+ "id": "9d9aab5384e9",
+ "created": "2026-11-18T21:48:10+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "UC Today",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVhMU1JpTWo1MkpXZ0NWNWZNYTVzcHNEbDFORzRGaTBpbkhCY1ViajFZM0N0X3EwNzhZX1V6bjRLOWx0U3VNVE9idDNKSFl4U1hfb1k0cGpmWm9jUzgwSm92X1hkclRILTZJVHZQMmVPU1VzaFU1aDJDdFpGTDlPLXpSUjZXa0ZtN1djelRVSkZvbnNJTFRWWmpSUjl3ZWR2c3Rrb1dEWjlrTTZ2MkdfYw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Google launches free Gemini Tasks in six countries",
+  "hook": "Your AI can now handle calls and shop for you—for free.",
+  "what": "Google has introduced the free “Tasks” feature for its Gemini AI agent across six nations, including India. The tool helps users with phone calls, online purchases and other personal tasks.",
+  "why": "Young users can use a built‑in assistant to save time on routine chores and focus on studies or hobbies. Try it via the Gemini app or supported Google services.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AIassistant",
+   "Free",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Google-ന്‌ ആറു രാജ്യങ്ങളിൽ Gemini Tasks സൗജന്യമായി",
+  "hook": "നിങ്ങളുടെ AI ഇനി കോളുകളും ഷോപ്പിംഗും സൗജന്യമായി ചെയ്യുന്നു.",
+  "what": "Google Gemini AI‑യുടെ “Tasks” ഫീച്ചർ ആറു രാജ്യങ്ങളിൽ, ഇന്ത്യ ഉൾപ്പെടെ, സൗജന്യമായി അവതരിപ്പിച്ചു. ഇത് കോളുകൾ, ഓൺലൈൻ വാങ്ങലുകൾ തുടങ്ങിയ കാര്യങ്ങളിൽ സഹായിക്കും.",
+  "why": "പഠനമോ ഹോബി സമയമോ ലാഭിക്കാൻ, യുവാക്കൾക്ക് ഈ വ്യക്തിഗത AI അസിസ്റ്റന്റ് ഉപയോഗിക്കാം. Gemini ആപ്പ് അല്ലെങ്കിൽ Google സേവനങ്ങളിൽ നിന്ന് പരീക്ഷിക്കാം.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AIassistant",
+   "Free",
+   "India"
+  ]
+ }
+}
