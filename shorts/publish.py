@@ -157,7 +157,8 @@ def main():
             except Exception as e:
                 res[name] = f"error: {str(e)[:200]}"
                 discord(f"⚠️ {name} post failed ({lang}): {str(e)[:200]}")
-        posted.setdefault(lang, {})[s["id"]] = {"at": time.strftime("%Y-%m-%d %H:%M"), **res}
+        if any(str(v).startswith(("https://", "ig:", "fb:")) for v in res.values()):
+            posted.setdefault(lang, {})[s["id"]] = {"at": time.strftime("%Y-%m-%d %H:%M"), **res}
         print(lang, s["id"], json.dumps(res))
     # keep last 300 per language
     for lang in posted:
