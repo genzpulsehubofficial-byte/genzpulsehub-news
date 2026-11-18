@@ -1,5 +1,100 @@
 [
  {
+  "id": "890e2f7b3ac9",
+  "created": "2026-11-18T23:50:20+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+  "headline": "Google adds private AI chat mode to Search",
+  "hook": "Chat with AI without leaving a trace",
+  "what": "Google introduced temporary threads in Search's AI Mode that work like incognito. The conversations are not saved to your search history and do not affect future recommendations.",
+  "why": "It lets you ask AI questions privately, useful for sensitive queries. Use it when you want help without changing your profile.",
+  "tags": [
+   "Google",
+   "AI",
+   "Search",
+   "Privacy",
+   "Tech"
+  ]
+ },
+ {
+  "id": "5cc9ea23f861",
+  "created": "2026-11-18T23:50:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/they-tore-bal-thackeray-s-image-row-erupts-after-shiv-sena-members-rip-pages-of-sonia-gandhi-s-book-101795013047298.html",
+  "headline": "Shiv Sena members rip Sonia Gandhi book, party denies allegations",
+  "hook": "A book tearing sparks a fresh political spat.",
+  "what": "Some Shiv Sena activists tore pages of a book written by Sonia Gandhi. The incident was linked to claims that a Bal Thackeray photo was also ripped. Shiv Sena leader Shaina NC rejected the accusations, saying the opposition is distorting facts.",
+  "why": "The clash highlights ongoing political tensions that can shape public discourse. Stay aware of how parties frame events in the media.",
+  "tags": [
+   "politics",
+   "ShivSena",
+   "SoniaGandhi",
+   "news",
+   "India"
+  ]
+ },
+ {
+  "id": "5bff78cd52ff",
+  "created": "2026-11-18T23:50:26+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/upi-pin-alone-doesnt-prove-transaction-consent-telangana-consumer-commission-orders-sbi-to-pay-85-000-key-details-11795023315198.html",
+  "headline": "SBI ordered to refund ₹55k and pay ₹30k in UPI fraud case",
+  "hook": "A consumer panel says a UPI PIN alone isn’t enough proof of consent.",
+  "what": "The Telangana State Consumer Disputes Redressal Commission told State Bank of India to return ₹55,000 lost in a UPI fraud and to pay ₹30,000 as compensation and litigation costs. The order highlights that entering a UPI PIN does not automatically confirm user consent.",
+  "why": "Young users rely heavily on UPI, so they should double‑check transaction details and know that banks can be held liable for fraud.",
+  "tags": [
+   "UPI",
+   "SBI",
+   "ConsumerRights",
+   "Fraud",
+   "Telangana"
+  ]
+ },
+ {
+  "id": "db14af63122f",
+  "created": "2026-11-18T23:50:29+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "GamesIndustry.biz",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelZ6dnh5WXl0ZGx0SmRYMTdpWEE0MkpwTnZuVnA2a3RxTTc1Zm16UDdJeWxKd1ZYakdRQWtmd3A2TDJVNGdULWhTejREY21JTlJGaThLQlBENXA4enBuTzVBYnoxdTVVc0IzeEFNVVpqYlIyOF9zVU5XcC1NbkVfczdOQk9NaWRDdjFFTENR?oc=5",
+  "headline": "Arknights: Endfield crowned Google Play’s 2026 Game of Year",
+  "hook": "Your next binge‑gaming pick just got a trophy.",
+  "what": "Google Play announced its top picks for 2026 in India. The strategy game Arknights: Endfield was awarded Game of the Year. Adobe Premiere was also highlighted as a leading app.",
+  "why": "Being featured by Google Play can boost visibility and downloads, so gamers should check it out. It signals quality for anyone hunting fresh mobile games.",
+  "tags": [
+   "gaming",
+   "GooglePlay",
+   "Arknights",
+   "2026",
+   "GameOfTheYear"
+  ]
+ },
+ {
+  "id": "a20a6198c1eb",
+  "created": "2026-11-18T23:50:32+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHY2LXp4eXNubkFqcjB3SWlscVJHMXMxYUF0WjNUVDZZaFd3NHZZaGxvQUtmYXg5bEVNR0FKZ1FnLVpWLTJSUjNxMWxzVzFabTVzM1QzT0VoRlEzbUc4Qkw0NVJKX01hWWJXN3o1amkySTRKd3FMeHhKSDQ0TTV6TlhNZllZQk14RFRwU3RKdW1Rdw?oc=5",
+  "headline": "Emirates Eagles face Yas Lions in Abu Dhabi T10 Match 27",
+  "hook": "T10 showdown: Which team will dominate the pitch today?",
+  "what": "The Abu Dhabi T10 League’s 27th match pits the Emirates Eagles against the Yas Lions. Cricket platforms like CricTracker and Dream11 have released match predictions.",
+  "why": "Fans can follow live scores and use the predictions to guide fantasy cricket picks.",
+  "tags": [
+   "cricket",
+   "T10",
+   "AbuDhabi",
+   "EmiratesEagles",
+   "YasLions"
+  ]
+ },
+ {
   "id": "bd18228c2f9e",
   "created": "2026-11-18T22:58:00+05:30",
   "category": "headlines",
@@ -659,77 +754,6 @@
    "Gaming",
    "NewRelease",
    "GrandTheftAuto"
-  ]
- },
- {
-  "id": "cae4c76f6b99",
-  "created": "2026-11-18T18:17:38+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/making-a-will-why-a-medical-certificate-can-help-11794896060165.html",
-  "headline": "Medical Certificate Helps",
-  "hook": "Did you know a medical check can secure your will?",
-  "what": "A medical assessment can help prove you're fit to make a will. This is especially useful for older people. It's not required by law, though.",
-  "why": "It matters because it can prevent disputes over your will. Getting a medical certificate can give you peace of mind.",
-  "tags": [
-   "will",
-   "medical",
-   "certificate",
-   "testamentary",
-   "capacity"
-  ]
- },
- {
-  "id": "85d2502c3c95",
-  "created": "2026-11-18T18:17:46+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gratuity-before-5-years-of-service-check-when-employees-qualify-karnataka-high-court-ruling-explained-11794996487253.html",
-  "headline": "Gratuity Eligibility Changed",
-  "hook": "You might be eligible for gratuity even before 5 years of service",
-  "what": "A recent court ruling has clarified that employees who resign before 5 years can still qualify for gratuity. The decision depends on actual working days and applicable provisions. Employees should not assume they are ineligible for gratuity if they leave before 5 years.",
-  "why": "This ruling matters to young Indians as it affects their employment benefits. They should be aware of the Payment of Gratuity Act provisions to understand their eligibility.",
-  "tags": [
-   "gratuity",
-   "employment benefits",
-   "job rights"
-  ]
- },
- {
-  "id": "d7e8747787db",
-  "created": "2026-11-18T18:18:01+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFllQTFTNnpXSXhyejBKbnhfVmh4ajNURC1lREtmSGF1dnlkeEJpbnlMbjhVYU5CbTlLS2tBUTJIMU51TVZFQUdrNzhxSVYxWVlhM0xEQjlwZU9oTmNsUHdmYzVueGwxTVdveDRrNkQxQ045bG1fM2tIWTZLY2xIZFF0UlJDMzgwTjg3d0hIQnlUMWFZQ1lZZVh1UkRfQXBuSjZwTTJGdGRGUzlUaUZibGp1UzE4UHNLRkVmMXpaVVVrU1o4SXhJUlVrcVYyV1c1THBmUDlNRjQ?oc=5",
-  "headline": "Air India Crash Probe Nears End",
-  "hook": "Investigation into Air India crash nearing completion",
-  "what": "The Centre has announced that the investigation into the Air India crash is almost complete. A report is still awaited. The investigation has been ongoing to determine the cause of the crash.",
-  "why": "The completion of the investigation is crucial to understanding the circumstances surrounding the crash. Young Indians can expect to learn more about the incident once the report is released.",
-  "tags": [
-   "Air India",
-   "crash",
-   "investigation",
-   "report"
-  ]
- },
- {
-  "id": "15fcec3ce732",
-  "created": "2026-11-18T18:18:09+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/union-minister-piyush-goyal-meets-top-italian-ceos-in-rome-to-boost-investment-tech-partnerships/article71715785.ece",
-  "headline": "India Seeks Investment Boost",
-  "hook": "Top Italian CEOs meet with Indian minister to discuss partnerships",
-  "what": "A meeting was held between Indian and Italian business leaders to explore investment opportunities. The goal is to increase bilateral trade. Indian and Italian companies are working together to achieve this target.",
-  "why": "This partnership could lead to new opportunities for young Indians. It may also increase trade between the two countries.",
-  "tags": [
-   "India Italy Partnership",
-   "Investment",
-   "Trade"
   ]
  }
 ]

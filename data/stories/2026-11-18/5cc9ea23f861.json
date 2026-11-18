@@ -1,0 +1,37 @@
+{
+ "id": "5cc9ea23f861",
+ "created": "2026-11-18T23:50:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/they-tore-bal-thackeray-s-image-row-erupts-after-shiv-sena-members-rip-pages-of-sonia-gandhi-s-book-101795013047298.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Shiv Sena members rip Sonia Gandhi book, party denies allegations",
+  "hook": "A book tearing sparks a fresh political spat.",
+  "what": "Some Shiv Sena activists tore pages of a book written by Sonia Gandhi. The incident was linked to claims that a Bal Thackeray photo was also ripped. Shiv Sena leader Shaina NC rejected the accusations, saying the opposition is distorting facts.",
+  "why": "The clash highlights ongoing political tensions that can shape public discourse. Stay aware of how parties frame events in the media.",
+  "tags": [
+   "politics",
+   "ShivSena",
+   "SoniaGandhi",
+   "news",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Shiv Sena അംഗങ്ങൾ Sonia Gandhiയുടെ പുസ്തകം കുത്തി, പാർട്ടി നിരാകരിച്ചു",
+  "hook": "പുസ്തകം ചീറൽ പുതിയ രാഷ്ട്രീയ തർക്കം സൃഷ്ടിച്ചു.",
+  "what": "Shiv Senaയിലെ ചില അംഗങ്ങൾ Sonia Gandhiയുടെ പുസ്തകത്തിന്റെ ചില പേജുകൾ ചീറിയതായി റിപ്പോർട്ട് ചെയ്തു. അതിനോടൊപ്പം Bal Thackerayയുടെ ഫോട്ടോയും ചീറിയെന്ന ആരോപണവും ഉയർന്നു. Shiv Sena നേതാവ് Shaina NC ഈ ആരോപണങ്ങൾ നിരാകരിച്ചു, വിരുദ്ധപക്ഷം സംഭവത്തെ വളച്ചുകെട്ടുന്നു എന്ന് പറഞ്ഞു.",
+  "why": "ഇത് രാഷ്ട്രീയ സംഘർഷം എങ്ങനെ മീഡിയയിൽ പ്രത്യക്ഷപ്പെടുന്നുവെന്ന് കാണിക്കുന്നു. വാർത്തകളിൽ നിന്നു സത്യവസ്തു കണ്ടെത്താൻ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "ShivSena",
+   "SoniaGandhi",
+   "വാർത്ത",
+   "India"
+  ]
+ }
+}

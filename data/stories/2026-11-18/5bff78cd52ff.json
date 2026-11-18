@@ -1,0 +1,37 @@
+{
+ "id": "5bff78cd52ff",
+ "created": "2026-11-18T23:50:26+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/upi-pin-alone-doesnt-prove-transaction-consent-telangana-consumer-commission-orders-sbi-to-pay-85-000-key-details-11795023315198.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SBI ordered to refund ₹55k and pay ₹30k in UPI fraud case",
+  "hook": "A consumer panel says a UPI PIN alone isn’t enough proof of consent.",
+  "what": "The Telangana State Consumer Disputes Redressal Commission told State Bank of India to return ₹55,000 lost in a UPI fraud and to pay ₹30,000 as compensation and litigation costs. The order highlights that entering a UPI PIN does not automatically confirm user consent.",
+  "why": "Young users rely heavily on UPI, so they should double‑check transaction details and know that banks can be held liable for fraud.",
+  "tags": [
+   "UPI",
+   "SBI",
+   "ConsumerRights",
+   "Fraud",
+   "Telangana"
+  ]
+ },
+ "ml": {
+  "headline": "SBI-ക്ക് ₹55k തിരിച്ചു, ₹30k നഷ്ടപരിഹാരം – UPI തട്ടിപ്പ് കേസിൽ",
+  "hook": "UPI PIN മാത്രം സമ്മതം എന്ന് ബാങ്ക് തെളിയിക്കാൻ കഴിയില്ല.",
+  "what": "തെലങ്കാനയിലെ ഉപഭോക്തൃ വിവാദ കമ്മീഷൻ SBI-യെ ₹55,000 തിരിച്ചു നൽകാനും, ₹30,000 നഷ്ടപരിഹാരവും വിചാരണ ചെലവുകളും നൽകാനും നിർദ്ദേശിച്ചു. PIN മാത്രം ഇടുന്നത് ഉപയോക്താവിന്റെ സമ്മതം എന്ന് കാണിക്കാൻ മതിയല്ലെന്ന് ഈ തീരുമാനം സൂചിപ്പിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾ UPI ഉപയോഗിക്കുമ്പോൾ ഇടപാട് സ്ഥിരീകരണം ശ്രദ്ധിക്കണം, ബാങ്കുകൾക്ക് ഉത്തരവാദിത്വം ഉണ്ടെന്ന് അറിയണം.",
+  "tags": [
+   "UPI",
+   "SBI",
+   "ConsumerRights",
+   "Fraud",
+   "Telangana"
+  ]
+ }
+}

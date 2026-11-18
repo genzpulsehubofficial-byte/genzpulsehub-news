@@ -1,5 +1,100 @@
 [
  {
+  "id": "890e2f7b3ac9",
+  "created": "2026-11-18T23:50:20+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+  "headline": "Google Search‑ൽ AI ചാറ്റിന്‌ സ്വകാര്യ മോഡ്",
+  "hook": "ട്രെയിൻ ചെയ്യാതെ AI‑യോട് ചോദിക്കാം",
+  "what": "Google Search‑ൽ AI മോഡിൽ താൽക്കാലിക ത്രെഡുകൾ ചേർത്തു. ഈ ചാറ്റുകൾ തിരച്ചിൽ ചരിത്രത്തിൽ സൂക്ഷിക്കപ്പെടില്ല, ഭാവി ശുപാർശകളിലും ബാധിക്കില്ല.",
+  "why": "സ്വകാര്യത ഉറപ്പാക്കാൻ, സ്വകാര്യ ചോദ്യങ്ങൾക്ക് ഇത് ഉപയോഗിക്കാം. നിങ്ങളുടെ പ്രൊഫൈലിനെ ബാധിക്കാതെ AI‑യോട് ചോദിക്കൂ.",
+  "tags": [
+   "Google",
+   "AI",
+   "Search",
+   "Privacy",
+   "Tech"
+  ]
+ },
+ {
+  "id": "5cc9ea23f861",
+  "created": "2026-11-18T23:50:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/they-tore-bal-thackeray-s-image-row-erupts-after-shiv-sena-members-rip-pages-of-sonia-gandhi-s-book-101795013047298.html",
+  "headline": "Shiv Sena അംഗങ്ങൾ Sonia Gandhiയുടെ പുസ്തകം കുത്തി, പാർട്ടി നിരാകരിച്ചു",
+  "hook": "പുസ്തകം ചീറൽ പുതിയ രാഷ്ട്രീയ തർക്കം സൃഷ്ടിച്ചു.",
+  "what": "Shiv Senaയിലെ ചില അംഗങ്ങൾ Sonia Gandhiയുടെ പുസ്തകത്തിന്റെ ചില പേജുകൾ ചീറിയതായി റിപ്പോർട്ട് ചെയ്തു. അതിനോടൊപ്പം Bal Thackerayയുടെ ഫോട്ടോയും ചീറിയെന്ന ആരോപണവും ഉയർന്നു. Shiv Sena നേതാവ് Shaina NC ഈ ആരോപണങ്ങൾ നിരാകരിച്ചു, വിരുദ്ധപക്ഷം സംഭവത്തെ വളച്ചുകെട്ടുന്നു എന്ന് പറഞ്ഞു.",
+  "why": "ഇത് രാഷ്ട്രീയ സംഘർഷം എങ്ങനെ മീഡിയയിൽ പ്രത്യക്ഷപ്പെടുന്നുവെന്ന് കാണിക്കുന്നു. വാർത്തകളിൽ നിന്നു സത്യവസ്തു കണ്ടെത്താൻ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "ShivSena",
+   "SoniaGandhi",
+   "വാർത്ത",
+   "India"
+  ]
+ },
+ {
+  "id": "5bff78cd52ff",
+  "created": "2026-11-18T23:50:26+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/upi-pin-alone-doesnt-prove-transaction-consent-telangana-consumer-commission-orders-sbi-to-pay-85-000-key-details-11795023315198.html",
+  "headline": "SBI-ക്ക് ₹55k തിരിച്ചു, ₹30k നഷ്ടപരിഹാരം – UPI തട്ടിപ്പ് കേസിൽ",
+  "hook": "UPI PIN മാത്രം സമ്മതം എന്ന് ബാങ്ക് തെളിയിക്കാൻ കഴിയില്ല.",
+  "what": "തെലങ്കാനയിലെ ഉപഭോക്തൃ വിവാദ കമ്മീഷൻ SBI-യെ ₹55,000 തിരിച്ചു നൽകാനും, ₹30,000 നഷ്ടപരിഹാരവും വിചാരണ ചെലവുകളും നൽകാനും നിർദ്ദേശിച്ചു. PIN മാത്രം ഇടുന്നത് ഉപയോക്താവിന്റെ സമ്മതം എന്ന് കാണിക്കാൻ മതിയല്ലെന്ന് ഈ തീരുമാനം സൂചിപ്പിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾ UPI ഉപയോഗിക്കുമ്പോൾ ഇടപാട് സ്ഥിരീകരണം ശ്രദ്ധിക്കണം, ബാങ്കുകൾക്ക് ഉത്തരവാദിത്വം ഉണ്ടെന്ന് അറിയണം.",
+  "tags": [
+   "UPI",
+   "SBI",
+   "ConsumerRights",
+   "Fraud",
+   "Telangana"
+  ]
+ },
+ {
+  "id": "db14af63122f",
+  "created": "2026-11-18T23:50:29+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "GamesIndustry.biz",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelZ6dnh5WXl0ZGx0SmRYMTdpWEE0MkpwTnZuVnA2a3RxTTc1Zm16UDdJeWxKd1ZYakdRQWtmd3A2TDJVNGdULWhTejREY21JTlJGaThLQlBENXA4enBuTzVBYnoxdTVVc0IzeEFNVVpqYlIyOF9zVU5XcC1NbkVfczdOQk9NaWRDdjFFTENR?oc=5",
+  "headline": "Arknights: Endfield-ന് Google Play‑യുടെ 2026 ഗെയിം ഓഫ് ദി ഇയര്‍",
+  "hook": "പുതിയ ഗെയിം ഹിറ്റ് നോക്കാന്‍ സമയം കിട്ടി!",
+  "what": "Google Play ഇന്ത്യയില്‍ 2026‑ലെ ടോപ്പ് ആപ്പുകളും ഗെയിമുകളും പ്രഖ്യാപിച്ചു. സ്റ്റ്രാറ്റജി ഗെയിം Arknights: Endfield-ന് ഗെയിം ഓഫ് ദി ഇയര്‍ പുരസ്കാരം ലഭിച്ചു. Adobe Premiere-നും മികച്ച ആപ്പായി പേര് ലഭിച്ചു.",
+  "why": "Google Play‑യുടെ ശുപാര്‍ശ ഗെയിമിന്റെ ദൃശ്യതയും ഡൗണ്‍ലോഡുകളും വര്‍ദ്ധിപ്പിക്കും, അതിനാല്‍ യുവ ഗെയിമര്‍മാര്‍ ഇതു പരീക്ഷിക്കാം.",
+  "tags": [
+   "gaming",
+   "GooglePlay",
+   "Arknights",
+   "2026",
+   "GameOfTheYear"
+  ]
+ },
+ {
+  "id": "a20a6198c1eb",
+  "created": "2026-11-18T23:50:32+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHY2LXp4eXNubkFqcjB3SWlscVJHMXMxYUF0WjNUVDZZaFd3NHZZaGxvQUtmYXg5bEVNR0FKZ1FnLVpWLTJSUjNxMWxzVzFabTVzM1QzT0VoRlEzbUc4Qkw0NVJKX01hWWJXN3o1amkySTRKd3FMeHhKSDQ0TTV6TlhNZllZQk14RFRwU3RKdW1Rdw?oc=5",
+  "headline": "Emirates Eagles vs Yas Lions: Abu Dhabi T10 മാച്ച് 27",
+  "hook": "T10 ത്രില്ലർ, ഏത് ടീം പിച്ച് കീഴടക്കും?",
+  "what": "Abu Dhabi T10 ലീഗിന്റെ 27‑ാം മാച്ചിൽ Emirates Eagles, Yas Lions തമ്മിൽ മത്സരിക്കുന്നു. CricTracker, Dream11 തുടങ്ങിയ പ്ലാറ്റ്ഫോമുകളിൽ മാച്ച് പ്രവചനം ലഭ്യമാണ്.",
+  "why": "ലൈവ് സ്കോറുകൾ പിന്തുടർന്ന്, ഫാന്റസി ക്രിക്കറ്റ് തിരഞ്ഞെടുപ്പുകൾക്ക് പ്രവചനങ്ങൾ ഉപയോഗിക്കാം.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T10",
+   "AbuDhabi",
+   "EmiratesEagles",
+   "YasLions"
+  ]
+ },
+ {
   "id": "bd18228c2f9e",
   "created": "2026-11-18T22:58:00+05:30",
   "category": "headlines",
@@ -659,77 +754,6 @@
    "ഗെയിമിംഗ്",
    "പുതിയത്",
    "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ"
-  ]
- },
- {
-  "id": "cae4c76f6b99",
-  "created": "2026-11-18T18:17:38+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/making-a-will-why-a-medical-certificate-can-help-11794896060165.html",
-  "headline": "oorja certificate sahaayichu",
-  "hook": "ningalude will swatantramaayaanu, athu kondu medical check up edukkenda",
-  "what": "medical assessment ningalude will adyaapikkaan swatantramaayaanu prove cheyyaan. Ithu vaayossellaalukalke viitam. Ennaal law nokunde.",
-  "why": "ithu mahatvapoornaanu, ningalude will thanniye kuravukal vannu. oru medical certificate edukkenda, manassu shanthamaanu.",
-  "tags": [
-   "will",
-   "medical",
-   "oorja",
-   "certificate",
-   "swatantrama"
-  ]
- },
- {
-  "id": "85d2502c3c95",
-  "created": "2026-11-18T18:17:46+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gratuity-before-5-years-of-service-check-when-employees-qualify-karnataka-high-court-ruling-explained-11794996487253.html",
-  "headline": "5 varsham munp illelum gratuity labhippikkenda",
-  "hook": "5 varsham munp illelum gratuity labhicchuvennamennu manassila",
-  "what": "Uttaraadhikaranattinte thiriwal um gratuityyude yogyatha oru employee 5 varsham munp illel resign cheythaalum labhicchuvennamennu paripadiyunnatu. Niyamavum avashyakatakalum anusaarichu. 5 varsham munp illel resign cheythit randu employee gratuityyude yogyatha illa enn manassila",
-  "why": "Ithu yuvavargalude udheshikkunna avadhikalal sthira pankhilla. Avargal Payment of Gratuity Act-ile peedanamulla avadhikalam manassila",
-  "tags": [
-   "gratuity",
-   "thozhil varum",
-   "udhavanavakasangal"
-  ]
- },
- {
-  "id": "d7e8747787db",
-  "created": "2026-11-18T18:18:01+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFllQTFTNnpXSXhyejBKbnhfVmh4ajNURC1lREtmSGF1dnlkeEJpbnlMbjhVYU5CbTlLS2tBUTJIMU51TVZFQUdrNzhxSVYxWVlhM0xEQjlwZU9oTmNsUHdmYzVueGwxTVdveDRrNkQxQ045bG1fM2tIWTZLY2xIZFF0UlJDMzgwTjg3d0hIQnlUMWFZQ1lZZVh1UkRfQXBuSjZwTTJGdGRGUzlUaUZibGp1UzE4UHNLRkVmMXpaVVVrU1o4SXhJUlVrcVYyV1c1THBmUDlNRjQ?oc=5",
-  "headline": "Air India Crash Anveshanam Fag Endil",
-  "hook": "Air India crash investigation umakkanam samayam kettu",
-  "what": "Kendrabhoothal Air India crash anveshanam purnaavasthayil erikkunnu. Report innale varan pokunnu. Crash yude karanam arinjekkukaan anveshanam nadakkunnu.",
-  "why": "Anveshanam samapikkuka anu crash yude sthithi manasilaakkan. Report publish aakkum pothum, yuvavargal arinjekkum.",
-  "tags": [
-   "Air India",
-   "crash",
-   "anveshanam",
-   "report"
-  ]
- },
- {
-  "id": "15fcec3ce732",
-  "created": "2026-11-18T18:18:09+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/union-minister-piyush-goyal-meets-top-italian-ceos-in-rome-to-boost-investment-tech-partnerships/article71715785.ece",
-  "headline": "Indiaykku Nivesham Varddhippikkalle",
-  "hook": "Italian CEOs um Indian ministrumayum sambashichu partnershipinekkurichu",
-  "what": "Indian, Italian business leaders thalamuraykku investment avasarangal anveshikkunnu. Bilateral trade varddhippikkan pattuvallathinayie. Indian, Italian companies samavayam cheythu targetil nokkunnathu.",
-  "why": "Ithu young Indianukalukku puthiya avasarangal undakkum. Rathri, randu rashtrangalumayude trade varddhippikalle.",
-  "tags": [
-   "India Italy Samavayam",
-   "Nivesham",
-   "Trade"
   ]
  }
 ]

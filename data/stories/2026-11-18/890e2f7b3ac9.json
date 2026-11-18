@@ -1,0 +1,37 @@
+{
+ "id": "890e2f7b3ac9",
+ "created": "2026-11-18T23:50:20+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google adds private AI chat mode to Search",
+  "hook": "Chat with AI without leaving a trace",
+  "what": "Google introduced temporary threads in Search's AI Mode that work like incognito. The conversations are not saved to your search history and do not affect future recommendations.",
+  "why": "It lets you ask AI questions privately, useful for sensitive queries. Use it when you want help without changing your profile.",
+  "tags": [
+   "Google",
+   "AI",
+   "Search",
+   "Privacy",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "Google Search‑ൽ AI ചാറ്റിന്‌ സ്വകാര്യ മോഡ്",
+  "hook": "ട്രെയിൻ ചെയ്യാതെ AI‑യോട് ചോദിക്കാം",
+  "what": "Google Search‑ൽ AI മോഡിൽ താൽക്കാലിക ത്രെഡുകൾ ചേർത്തു. ഈ ചാറ്റുകൾ തിരച്ചിൽ ചരിത്രത്തിൽ സൂക്ഷിക്കപ്പെടില്ല, ഭാവി ശുപാർശകളിലും ബാധിക്കില്ല.",
+  "why": "സ്വകാര്യത ഉറപ്പാക്കാൻ, സ്വകാര്യ ചോദ്യങ്ങൾക്ക് ഇത് ഉപയോഗിക്കാം. നിങ്ങളുടെ പ്രൊഫൈലിനെ ബാധിക്കാതെ AI‑യോട് ചോദിക്കൂ.",
+  "tags": [
+   "Google",
+   "AI",
+   "Search",
+   "Privacy",
+   "Tech"
+  ]
+ }
+}
