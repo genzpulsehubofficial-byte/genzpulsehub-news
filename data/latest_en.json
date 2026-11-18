@@ -1,0 +1,91 @@
+[
+ {
+  "id": "31555f192345",
+  "created": "2026-11-18T18:16:22+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+  "headline": "GTA 6 Released Worldwide",
+  "hook": "Get ready to experience one of the most impressive games ever made",
+  "what": "The worldwide release of Grand Theft Auto 6 has begun, with reviews now coming in. Critics are praising the game as a masterpiece and a gaming triumph. The game is being described as a mix of a love story and a crime thriller.",
+  "why": "This release matters to young gamers in India who have been eagerly waiting to experience the latest installment of the popular series. They can now check out the reviews and decide if they want to play the game.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "NewRelease",
+   "GrandTheftAuto"
+  ]
+ },
+ {
+  "id": "cae4c76f6b99",
+  "created": "2026-11-18T18:17:38+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/making-a-will-why-a-medical-certificate-can-help-11794896060165.html",
+  "headline": "Medical Certificate Helps",
+  "hook": "Did you know a medical check can secure your will?",
+  "what": "A medical assessment can help prove you're fit to make a will. This is especially useful for older people. It's not required by law, though.",
+  "why": "It matters because it can prevent disputes over your will. Getting a medical certificate can give you peace of mind.",
+  "tags": [
+   "will",
+   "medical",
+   "certificate",
+   "testamentary",
+   "capacity"
+  ]
+ },
+ {
+  "id": "85d2502c3c95",
+  "created": "2026-11-18T18:17:46+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/gratuity-before-5-years-of-service-check-when-employees-qualify-karnataka-high-court-ruling-explained-11794996487253.html",
+  "headline": "Gratuity Eligibility Changed",
+  "hook": "You might be eligible for gratuity even before 5 years of service",
+  "what": "A recent court ruling has clarified that employees who resign before 5 years can still qualify for gratuity. The decision depends on actual working days and applicable provisions. Employees should not assume they are ineligible for gratuity if they leave before 5 years.",
+  "why": "This ruling matters to young Indians as it affects their employment benefits. They should be aware of the Payment of Gratuity Act provisions to understand their eligibility.",
+  "tags": [
+   "gratuity",
+   "employment benefits",
+   "job rights"
+  ]
+ },
+ {
+  "id": "d7e8747787db",
+  "created": "2026-11-18T18:18:01+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFllQTFTNnpXSXhyejBKbnhfVmh4ajNURC1lREtmSGF1dnlkeEJpbnlMbjhVYU5CbTlLS2tBUTJIMU51TVZFQUdrNzhxSVYxWVlhM0xEQjlwZU9oTmNsUHdmYzVueGwxTVdveDRrNkQxQ045bG1fM2tIWTZLY2xIZFF0UlJDMzgwTjg3d0hIQnlUMWFZQ1lZZVh1UkRfQXBuSjZwTTJGdGRGUzlUaUZibGp1UzE4UHNLRkVmMXpaVVVrU1o4SXhJUlVrcVYyV1c1THBmUDlNRjQ?oc=5",
+  "headline": "Air India Crash Probe Nears End",
+  "hook": "Investigation into Air India crash nearing completion",
+  "what": "The Centre has announced that the investigation into the Air India crash is almost complete. A report is still awaited. The investigation has been ongoing to determine the cause of the crash.",
+  "why": "The completion of the investigation is crucial to understanding the circumstances surrounding the crash. Young Indians can expect to learn more about the incident once the report is released.",
+  "tags": [
+   "Air India",
+   "crash",
+   "investigation",
+   "report"
+  ]
+ },
+ {
+  "id": "15fcec3ce732",
+  "created": "2026-11-18T18:18:09+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/union-minister-piyush-goyal-meets-top-italian-ceos-in-rome-to-boost-investment-tech-partnerships/article71715785.ece",
+  "headline": "India Seeks Investment Boost",
+  "hook": "Top Italian CEOs meet with Indian minister to discuss partnerships",
+  "what": "A meeting was held between Indian and Italian business leaders to explore investment opportunities. The goal is to increase bilateral trade. Indian and Italian companies are working together to achieve this target.",
+  "why": "This partnership could lead to new opportunities for young Indians. It may also increase trade between the two countries.",
+  "tags": [
+   "India Italy Partnership",
+   "Investment",
+   "Trade"
+  ]
+ }
+]

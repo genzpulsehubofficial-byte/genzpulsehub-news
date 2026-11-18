@@ -1,0 +1,35 @@
+{
+ "id": "31555f192345",
+ "created": "2026-11-18T18:16:22+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vWmp6X0UtMGhZTTh0S3JfaGhBNVgzTHNVLXRGSks2VEY5cEZfcG1WTHZvd2ZBNUZBY0ZpUGxtUjU1YmV3bHNGVjhDVEQtZUR0eWJ3Yzln?oc=5",
+ "source_count": 2,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "GTA 6 Released Worldwide",
+  "hook": "Get ready to experience one of the most impressive games ever made",
+  "what": "The worldwide release of Grand Theft Auto 6 has begun, with reviews now coming in. Critics are praising the game as a masterpiece and a gaming triumph. The game is being described as a mix of a love story and a crime thriller.",
+  "why": "This release matters to young gamers in India who have been eagerly waiting to experience the latest installment of the popular series. They can now check out the reviews and decide if they want to play the game.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "NewRelease",
+   "GrandTheftAuto"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6 ലോകമെമ്പാടും റിലീസായി",
+  "hook": "ഏറ്റവും മികച്ച ഗെയിമുകളിലൊന്നായി വിശേഷിപ്പിക്കപ്പെടുന്ന ഗെയിമിനെ ആസ്വദിക്കാൻ തയ്യാറേക്കുക",
+  "what": "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ 6 ന്റെ ലോകമെമ്പാടും റിലീസ് ആരംഭിച്ചു, അവലോകനങ്ങൾ ഇപ്പോൾ വരികയാണ്. വിമർശകർ ഈ ഗെയിമിനെ ഒരു മാസ്റ്റർപീസ് എന്നും ഗെയിമിംഗ് വിജയം എന്നും വിശേഷിപ്പിക്കുന്നു. ഒരു പ്രണയകഥയുടെയും കുറ്റകൃത്യ ത്രില്ലറുടെയും മിശ്രമമായി ഗെയിമിനെ വിശേഷിപ്പിക്കുന്നു.",
+  "why": "ജനപ്രിയ പരമ്പരയുടെ ഏറ്റവും പുതിയ ഇൻസ്റ്റാൾമെന്റ് അനുഭവിക്കാൻ ആഗ്രഹിക്കുന്ന ഇന്ത്യയിലെ യുവ ഗെയ്മർമാർക്ക് ഈ റിലീസ് പ്രധാനമാണ്. അവർക്ക് ഇപ്പോൾ അവലോകനങ്ങൾ പരിശോധിക്കാം, ഗെയിമ് കളിക്കാൻ ആഗ്രഹിക്കുന്നുവോ എന്ന് തീരുമാനിക്കാം.",
+  "tags": [
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "പുതിയത്",
+   "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ"
+  ]
+ }
+}
