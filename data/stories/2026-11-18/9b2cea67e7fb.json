@@ -1,0 +1,37 @@
+{
+ "id": "9b2cea67e7fb",
+ "created": "2026-11-18T18:26:13+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "MobiGyaan",
+ "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1DQXlJMDJ6Wi13WnIwdkM5Ti1VTUZ6Zk9kUzBEZzV1WXpRcEVxWjdMMFFGTmJMd3FRTmtiMDdFeFNpX1lPbWtfeUZtVzYyRXdEZHFpRFlYS2FJVE9odEl1WmRESjdCUGVFRHI5cnIwNmVSRHJnMXlTdHhjcmFUQTVLZkw5YlRULVVGVGowYkY?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "BGMI rolls out 4.7 update with new maps and event",
+  "hook": "New Arctic map and Samay Raina challenge now live!",
+  "what": "The latest BGMI 4.7 patch adds the Arctic Chronicles map, an Erangel Subzero version, and a special Samay Raina in‑game event. Players can download the update now.",
+  "why": "Fresh maps keep the battle royale exciting, and the event offers extra rewards that many gamers chase.",
+  "tags": [
+   "BGMI",
+   "update",
+   "gaming",
+   "ArcticChronicles",
+   "SamayRaina"
+  ]
+ },
+ "ml": {
+  "headline": "BGMI-യുടെ 4.7 അപ്ഡേറ്റ്, പുതിയ മാപ്പുകളും ഇവന്റും",
+  "hook": "Arctic Chronicles, Erangel Subzero, Samay Raina ഇവന്റ് ഇപ്പോൾ!",
+  "what": "4.7 അപ്ഡേറ്റിൽ Arctic Chronicles മാപ്പും Erangel Subzero വേർഷനും, Samay Raina സ്പെഷ്യൽ ഇവന്റും ചേർന്നു. ഗെയിമർമാർ ഉടൻ ഡൗൺലോഡ് ചെയ്യാം.",
+  "why": "പുതിയ മാപ്പുകൾ ഗെയിംപ്ലേയെ പുതുക്കും, ഇവന്റ്‌ വഴി അധിക റിവാർഡുകൾ നേടാം.",
+  "tags": [
+   "BGMI",
+   "അപ്ഡേറ്റ്",
+   "ഗെയിമിംഗ്",
+   "ArcticChronicles",
+   "SamayRaina"
+  ]
+ }
+}

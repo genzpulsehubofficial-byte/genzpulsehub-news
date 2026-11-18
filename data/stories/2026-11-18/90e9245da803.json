@@ -1,0 +1,37 @@
+{
+ "id": "90e9245da803",
+ "created": "2026-11-18T18:26:49+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/internet/sponsored/get-more-done-with-adobe-acrobat-s-25-free-pdf-web-tools-no-sign-ups-required-to-try-12344502",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Adobe Acrobat launches 25+ free PDF tools online",
+  "hook": "Edit, convert and manage PDFs instantly—no account needed",
+  "what": "Adobe Acrobat now offers more than 25 PDF utilities on its website for free. Users can try the tools without signing up.",
+  "why": "Students can handle school PDFs without paying for software. Visit Adobe’s site to use the tools right away.",
+  "tags": [
+   "Adobe",
+   "PDF",
+   "FreeTools",
+   "Students",
+   "Productivity"
+  ]
+ },
+ "ml": {
+  "headline": "Adobe Acrobat പുറത്തിറക്കിയ 25+ സൗജന്യ PDF ഉപകരണങ്ങൾ",
+  "hook": "അക്കൗണ്ട് ഇല്ലാതെ PDF എഡിറ്റ്, കൺവേർട്ട്, മാനേജ് ചെയ്യാം",
+  "what": "Adobe Acrobat വെബ്സൈറ്റിൽ 25-ലധികം PDF ഉപകരണങ്ങൾ സൗജന്യമായി ലഭ്യമാണ്. അക്കൗണ്ട് സൃഷ്ടിക്കാതെ ഉപകരണങ്ങൾ പരീക്ഷിക്കാം.",
+  "why": "വിദ്യാർത്ഥികൾക്ക് സ്കൂൾ PDFകൾ സൗജന്യമായി കൈകാര്യം ചെയ്യാൻ സഹായിക്കും. Adobe സൈറ്റ് തുറന്ന് ഉപകരണങ്ങൾ ഉപയോഗിക്കുക.",
+  "tags": [
+   "Adobe",
+   "PDF",
+   "സൗജന്യം",
+   "വിദ്യാർത്ഥി",
+   "ഉപകരണം"
+  ]
+ }
+}

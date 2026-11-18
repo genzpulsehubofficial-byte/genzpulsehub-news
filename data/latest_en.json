@@ -1,5 +1,118 @@
 [
  {
+  "id": "9b2cea67e7fb",
+  "created": "2026-11-18T18:26:13+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "MobiGyaan",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1DQXlJMDJ6Wi13WnIwdkM5Ti1VTUZ6Zk9kUzBEZzV1WXpRcEVxWjdMMFFGTmJMd3FRTmtiMDdFeFNpX1lPbWtfeUZtVzYyRXdEZHFpRFlYS2FJVE9odEl1WmRESjdCUGVFRHI5cnIwNmVSRHJnMXlTdHhjcmFUQTVLZkw5YlRULVVGVGowYkY?oc=5",
+  "headline": "BGMI rolls out 4.7 update with new maps and event",
+  "hook": "New Arctic map and Samay Raina challenge now live!",
+  "what": "The latest BGMI 4.7 patch adds the Arctic Chronicles map, an Erangel Subzero version, and a special Samay Raina in‑game event. Players can download the update now.",
+  "why": "Fresh maps keep the battle royale exciting, and the event offers extra rewards that many gamers chase.",
+  "tags": [
+   "BGMI",
+   "update",
+   "gaming",
+   "ArcticChronicles",
+   "SamayRaina"
+  ]
+ },
+ {
+  "id": "1e86786cdb2d",
+  "created": "2026-11-18T18:26:42+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/cpim-workers-disrupt-mla-kunhikrishnan-speech-kannur-ptiq5d1thzz",
+  "headline": "CPI(M) members interrupt MLA's speech at Kannur event",
+  "hook": "A political showdown erupted during a local cooperative celebration.",
+  "what": "At a Cooperative Week program in Kannur, MLA V Kunhikrishnan was speaking when people identified as CPI(M) workers disrupted the event. The Congress party sharply condemned the interruption.",
+  "why": "The incident shows how political tensions can spill into community gatherings, affecting everyday life. Teens should stay aware of local politics and promote peaceful civic participation.",
+  "tags": [
+   "Kannur",
+   "CooperativeWeek",
+   "PoliticalTension",
+   "Kerala"
+  ]
+ },
+ {
+  "id": "5718a501027c",
+  "created": "2026-11-18T18:26:44+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/investigation-into-air-india-crash-that-killed-260-in-final-stage-india-says-101794998626429.html",
+  "headline": "Air India crash probe enters final stage, 260 dead",
+  "hook": "India says the investigation is almost finished after a tragic loss.",
+  "what": "The inquiry into the Air India accident that killed 260 people is now in its concluding phase, officials announced. The crash remains one of the deadliest in the country's aviation history.",
+  "why": "Finding the cause can lead to safer flights, which matters for young Indians who travel often. Stay updated on travel safety guidelines.",
+  "tags": [
+   "airindia",
+   "crash",
+   "investigation",
+   "aviation",
+   "safety"
+  ]
+ },
+ {
+  "id": "546e93ffa3fd",
+  "created": "2026-11-18T18:26:46+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/entire-stolen-gold-in-chala-robbery-case-recovered-police/article71715673.ece",
+  "headline": "All stolen gold in Chala case retrieved",
+  "hook": "Police have found the missing gold across three spots.",
+  "what": "Authorities say they recovered almost 206 gold sovereigns that were taken in the Chala robbery. The recovery happened at three separate locations.",
+  "why": "It shows police can track down stolen valuables, reassuring anyone worried about asset safety. Stay alert and report any suspicious activity.",
+  "tags": [
+   "gold",
+   "recovery",
+   "police",
+   "Chala",
+   "crime"
+  ]
+ },
+ {
+  "id": "90e9245da803",
+  "created": "2026-11-18T18:26:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/internet/sponsored/get-more-done-with-adobe-acrobat-s-25-free-pdf-web-tools-no-sign-ups-required-to-try-12344502",
+  "headline": "Adobe Acrobat launches 25+ free PDF tools online",
+  "hook": "Edit, convert and manage PDFs instantly—no account needed",
+  "what": "Adobe Acrobat now offers more than 25 PDF utilities on its website for free. Users can try the tools without signing up.",
+  "why": "Students can handle school PDFs without paying for software. Visit Adobe’s site to use the tools right away.",
+  "tags": [
+   "Adobe",
+   "PDF",
+   "FreeTools",
+   "Students",
+   "Productivity"
+  ]
+ },
+ {
+  "id": "7134756cd8fe",
+  "created": "2026-11-18T18:26:51+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Mashable",
+  "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VR3p4b1BpYTdlQ3laRjJuSnhCYmNCWGZ4VFFOVzJaLUs1NENGX3FYYllzYUdnNFZlOXdMTk9XVmx5cEthSm5wZzhxenF4V2hfZHAyYTlNNU1yTVdfV3dKODhtWlBORHVGMEh1Vkd3WUY?oc=5",
+  "headline": "Update PS5 now to play GTA 6 on launch day",
+  "hook": "Don’t let a missing patch stall your GTA 6 debut.",
+  "what": "Sony released a security update for the PS5 a day before GTA 6 launches. A researcher claimed the update blocks a vulnerability that could expose the game’s code. Installing it now avoids launch‑day issues.",
+  "why": "Skipping the update may cause delays or prevent you from starting the game when it releases. Update your console via Settings → System Software → Update.",
+  "tags": [
+   "PS5",
+   "GTA6",
+   "gaming",
+   "update",
+   "India"
+  ]
+ },
+ {
   "id": "31555f192345",
   "created": "2026-11-18T18:16:22+05:30",
   "category": "entertainment",

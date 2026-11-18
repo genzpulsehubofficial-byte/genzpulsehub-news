@@ -1,0 +1,37 @@
+{
+ "id": "7134756cd8fe",
+ "created": "2026-11-18T18:26:51+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Mashable",
+ "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VR3p4b1BpYTdlQ3laRjJuSnhCYmNCWGZ4VFFOVzJaLUs1NENGX3FYYllzYUdnNFZlOXdMTk9XVmx5cEthSm5wZzhxenF4V2hfZHAyYTlNNU1yTVdfV3dKODhtWlBORHVGMEh1Vkd3WUY?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Update PS5 now to play GTA 6 on launch day",
+  "hook": "Don’t let a missing patch stall your GTA 6 debut.",
+  "what": "Sony released a security update for the PS5 a day before GTA 6 launches. A researcher claimed the update blocks a vulnerability that could expose the game’s code. Installing it now avoids launch‑day issues.",
+  "why": "Skipping the update may cause delays or prevent you from starting the game when it releases. Update your console via Settings → System Software → Update.",
+  "tags": [
+   "PS5",
+   "GTA6",
+   "gaming",
+   "update",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "PS5 അപ്ഡേറ്റ് ചെയ്യൂ, GTA 6 ലോഞ്ച് ദിനം കളിക്കാൻ",
+  "hook": "പാച്ച് ഇല്ലാതെ GTA 6 കളിക്കാൻ സമയം നഷ്ടമാക്കരുത്.",
+  "what": "Sony, GTA 6 റിലീസിന് ഒരു ദിവസം മുമ്പ് PS5‑ക്കായി സുരക്ഷാ അപ്ഡേറ്റ് പുറത്തിറക്കി. ഒരു സുരക്ഷാ ഗവേഷകൻ ഗെയിം ബൈനറി ഫർമ്വെയറിലേയ്ക്ക് ചോർത്തിയെന്നു ആരോപിച്ചു, ഈ പാച്ച് ആ ദുരുപയോഗം തടയുന്നു. ഇപ്പോൾ തന്നെ അപ്ഡേറ്റ് ചെയ്താൽ ലോഞ്ച് ദിനത്തിൽ പ്രശ്നങ്ങൾ ഒഴിവാക്കാം.",
+  "why": "അപ്ഡേറ്റ് ചെയ്യാതെ ഇരിക്കുകയാണെങ്കിൽ ഗെയിം ആരംഭിക്കാൻ വൈകല്യങ്ങൾ നേരിടാം. Settings → System Software → Update വഴി അപ്ഡേറ്റ് ചെയ്യുക.",
+  "tags": [
+   "PS5",
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "അപ്ഡേറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}
