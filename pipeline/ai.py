@@ -1,94 +1,140 @@
-"""Free AI fallback chain. Returns (text, provider) or raises AllFailed."""
+"""Free AI fallback chain with automatic model discovery.
+
+Each provider asks its own API which models exist right now and picks the best free one,
+so retired model names never break the pipeline. Returns (text, provider) or raises AllFailed.
+"""
+import json
 import os
+import re
 import time
 import requests
 
 T = 60
+ERRORS = {}   # provider -> last error (keys stripped) for status.json
+MODELS = {}   # provider -> model chosen this run
+_fails = {}
 
 
 class AllFailed(Exception):
     pass
 
 
-def _openai_style(url, key, model, prompt, extra_headers=None):
+def _redact(s):
+    s = re.sub(r"([?&](key|token)=)[^&\s\"']+", r"\1***", str(s))
+    for k in ("GEMINI_API_KEY", "GROQ_API_KEY", "OPENROUTER_API_KEY", "CLOUDFLARE_API_TOKEN", "GITHUB_TOKEN"):
+        v = os.environ.get(k)
+        if v:
+            s = s.replace(v, "***")
+    return s
+
+
+def _chat(url, key, model, prompt, extra=None):
     h = {"Authorization": f"Bearer {key}", "Content-Type": "application/json"}
-    h.update(extra_headers or {})
+    h.update(extra or {})
     r = requests.post(url, headers=h, timeout=T, json={
-        "model": model, "temperature": 0.4,
-        "messages": [{"role": "user", "content": prompt}],
-    })
+        "model": model, "temperature": 0.4, "messages": [{"role": "user", "content": prompt}]})
     r.raise_for_status()
     return r.json()["choices"][0]["message"]["content"]
 
 
+def _pick(names, prefer):
+    names = sorted(set(names), reverse=True)
+    for pat in prefer:
+        for n in names:
+            if re.search(pat, n):
+                return n
+    return names[0] if names else None
+
+
+def _gemini_model(key):
+    r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                     params={"key": key, "pageSize": 200}, timeout=30)
+    r.raise_for_status()
+    ok = [m["name"].split("/", 1)[1] for m in r.json().get("models", [])
+          if "generateContent" in m.get("supportedGenerationMethods", [])]
+    ok = [n for n in ok if "flash" in n and not re.search(r"image|tts|audio|live|thinking|exp|preview|lite", n)]
+    return _pick(ok, [r"^gemini-[\d.]+-flash$", r"flash-latest", r"flash"])
+
+
+def _groq_model(key):
+    r = requests.get("https://api.groq.com/openai/v1/models", headers={"Authorization": f"Bearer {key}"}, timeout=30)
+    r.raise_for_status()
+    ids = [m["id"] for m in r.json()["data"] if m.get("active", True)]
+    ids = [i for i in ids if not re.search(r"whisper|guard|tts|orpheus|prompt|vision|compound", i)]
+    return _pick(ids, [r"llama-?4.*maverick", r"llama.*70b", r"gpt-oss-120b", r"qwen", r"llama"])
+
+
+def _openrouter_models():
+    r = requests.get("https://openrouter.ai/api/v1/models", timeout=30)
+    r.raise_for_status()
+    free = [m["id"] for m in r.json()["data"]
+            if m["id"].endswith(":free") and str(m.get("pricing", {}).get("prompt", "1")) in ("0", "0.0")]
+    order = []
+    for pat in [r"llama.*70b", r"deepseek", r"qwen", r"gemma", r"mistral", r"."]:
+        order += [i for i in sorted(free, reverse=True) if re.search(pat, i) and i not in order]
+    return order[:4]
+
+
 def gemini(prompt):
-    key = os.environ.get("GEMINI_API_KEY")
-    if not key:
-        raise RuntimeError("no key")
-    last = None
-    for model in ("gemini-2.5-flash", "gemini-flash-latest", "gemini-2.0-flash"):
-        try:
-            r = requests.post(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                params={"key": key}, timeout=T,
-                json={"contents": [{"parts": [{"text": prompt}]}],
-                      "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}})
-            r.raise_for_status()
-            return r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        except Exception as e:  # try next model name
-            last = e
-    raise last
+    key = os.environ["GEMINI_API_KEY"]
+    m = MODELS.get("gemini") or _gemini_model(key)
+    MODELS["gemini"] = m
+    r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent",
+                      params={"key": key}, timeout=T,
+                      json={"contents": [{"parts": [{"text": prompt}]}],
+                            "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}})
+    r.raise_for_status()
+    return r.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def groq(prompt):
-    key = os.environ.get("GROQ_API_KEY")
-    if not key:
-        raise RuntimeError("no key")
-    return _openai_style("https://api.groq.com/openai/v1/chat/completions", key,
-                         "llama-3.3-70b-versatile", prompt)
+    key = os.environ["GROQ_API_KEY"]
+    m = MODELS.get("groq") or _groq_model(key)
+    MODELS["groq"] = m
+    return _chat("https://api.groq.com/openai/v1/chat/completions", key, m, prompt)
 
 
 def openrouter(prompt):
-    key = os.environ.get("OPENROUTER_API_KEY")
-    if not key:
-        raise RuntimeError("no key")
+    key = os.environ["OPENROUTER_API_KEY"]
     last = None
-    for model in ("meta-llama/llama-3.3-70b-instruct:free", "deepseek/deepseek-chat-v3-0324:free",
-                  "google/gemma-3-27b-it:free"):
+    for m in ([MODELS["openrouter"]] if MODELS.get("openrouter") else _openrouter_models()):
         try:
-            return _openai_style("https://openrouter.ai/api/v1/chat/completions", key, model, prompt,
-                                 {"HTTP-Referer": "https://genzpulsehub.dpdns.org", "X-Title": "GenZ Pulse Hub"})
+            out = _chat("https://openrouter.ai/api/v1/chat/completions", key, m, prompt,
+                        {"HTTP-Referer": "https://genzpulsehub.dpdns.org", "X-Title": "GenZ Pulse Hub"})
+            MODELS["openrouter"] = m
+            return out
+        except Exception as e:
+            last = e
+    raise last or RuntimeError("no free models")
+
+
+def github_models(prompt):
+    key = os.environ["GITHUB_TOKEN"]
+    last = None
+    for m in ("openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/Llama-3.3-70B-Instruct"):
+        try:
+            out = _chat("https://models.github.ai/inference/chat/completions", key, m, prompt)
+            MODELS["github_models"] = m
+            return out
         except Exception as e:
             last = e
     raise last
 
 
-def github_models(prompt):
-    key = os.environ.get("GITHUB_TOKEN")
-    if not key:
-        raise RuntimeError("no key")
-    return _openai_style("https://models.github.ai/inference/chat/completions", key,
-                         "openai/gpt-4o-mini", prompt)
-
-
 def cloudflare(prompt):
-    key, acct = os.environ.get("CLOUDFLARE_API_TOKEN"), os.environ.get("CLOUDFLARE_ACCOUNT_ID")
-    if not key or not acct:
-        raise RuntimeError("no key")
-    r = requests.post(
-        f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/meta/llama-3.3-70b-instruct-fp8-fast",
-        headers={"Authorization": f"Bearer {key}"}, timeout=T,
-        json={"messages": [{"role": "user", "content": prompt}], "max_tokens": 2048})
+    key, acct = os.environ["CLOUDFLARE_API_TOKEN"], os.environ["CLOUDFLARE_ACCOUNT_ID"]
+    m = "@cf/meta/llama-3.3-70b-instruct-fp8-fast"
+    r = requests.post(f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/{m}",
+                      headers={"Authorization": f"Bearer {key}"}, timeout=T,
+                      json={"messages": [{"role": "user", "content": prompt}], "max_tokens": 2048})
     r.raise_for_status()
+    MODELS["cloudflare"] = m
     res = r.json()["result"]["response"]
-    return res if isinstance(res, str) else __import__("json").dumps(res)
+    return res if isinstance(res, str) else json.dumps(res, ensure_ascii=False)
 
 
 CHAIN = [("gemini", gemini), ("groq", groq), ("openrouter", openrouter),
          ("github_models", github_models), ("cloudflare", cloudflare)]
-
-_fails = {}
-ERRORS = {}  # provider -> last error (for status.json)
 
 
 def ask(prompt):
@@ -103,9 +149,10 @@ def ask(prompt):
         except Exception as e:
             _fails[name] = _fails.get(name, 0) + 1
             msg = str(e)[:200]
-            if hasattr(e, 'response') and e.response is not None:
-                msg += ' | ' + e.response.text[:200]
+            if getattr(e, "response", None) is not None:
+                msg += " | " + e.response.text[:200]
+            msg = _redact(msg)
             ERRORS[name] = msg
             errors.append(f"{name}: {msg}")
             time.sleep(1)
-    raise AllFailed("; ".join(errors))
+    raise AllFailed(_redact("; ".join(errors)))

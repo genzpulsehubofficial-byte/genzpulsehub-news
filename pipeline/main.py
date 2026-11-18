@@ -13,7 +13,7 @@ import feedparser
 import requests
 
 sys.path.insert(0, os.path.dirname(__file__))
-from ai import ask, AllFailed, ERRORS  # noqa: E402
+from ai import ask, AllFailed, ERRORS, MODELS  # noqa: E402
 from sources import FEEDS, CATEGORY_WEIGHT, BLOCK_WORDS  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -226,7 +226,7 @@ def main():
                 shutil.rmtree(os.path.join(sd, day), ignore_errors=True)
 
     status = {"last_run": now().astimezone(IST).isoformat(timespec="seconds"), "fetched": len(items),
-              "made": len(made), "providers": providers, "dead_feeds": bad_feeds, "ai_all_failed": all_failed, "ai_errors": ERRORS}
+              "made": len(made), "providers": providers, "dead_feeds": bad_feeds, "ai_all_failed": all_failed, "ai_errors": ERRORS, "models": MODELS}
     save(os.path.join(DATA, "status.json"), status)
     print(json.dumps(status, indent=1))
 
