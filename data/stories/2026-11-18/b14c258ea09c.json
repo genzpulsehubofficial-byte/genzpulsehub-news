@@ -1,0 +1,37 @@
+{
+ "id": "b14c258ea09c",
+ "created": "2026-11-18T18:57:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court notices contempt case against lawyer over CJI remarks",
+  "hook": "A prominent lawyer is facing court action for comments on the chief justice.",
+  "what": "The apex court issued a notice in a contempt proceeding against a lawyer who spoke about the chief justice. The Solicitor General backed the Supreme Court Bar Association’s filing, saying the court’s dignity must be upheld.",
+  "why": "It underscores the need to respect judicial authority, a principle that impacts every citizen. Keep in mind legal limits when sharing strong opinions online.",
+  "tags": [
+   "SupremeCourt",
+   "Law",
+   "Contempt",
+   "India",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "Supreme Court‑ൽ CJI കുറിച്ച് വാദിച്ച അഭിഭാഷകനു contempt notice",
+  "hook": "പ്രമുഖ അഭിഭാഷകനു CJI‑യെപ്പറ്റി പറഞ്ഞതിനാൽ കോടതി നടപടി ആരംഭിച്ചു.",
+  "what": "മഹാന്യായം CJI‑യെക്കുറിച്ച് അഭിപ്രായം പ്രകടിപ്പിച്ച ഒരു അഭിഭാഷകനെതിരെ contempt കേസ്‌ക്കായി notice പുറപ്പെടുവിച്ചു. സോലിസിറ്റർ ജനറൽ, Supreme Court Bar Association‑യുടെ അപേക്ഷ പിന്തുണച്ച്, കോടതിയുടെ മഹത്വം സംരക്ഷിക്കണം എന്ന് പറഞ്ഞു.",
+  "why": "ന്യായവ്യവസ്ഥയുടെ മാന്യതയെ മാനിക്കുന്നത് എല്ലാവർക്കും പ്രധാനമാണ്. ശക്തമായ അഭിപ്രായങ്ങൾ പങ്കിടുമ്പോൾ നിയമപരിധി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "SupremeCourt",
+   "Law",
+   "Contempt",
+   "India",
+   "Youth"
+  ]
+ }
+}

@@ -1,5 +1,119 @@
 [
  {
+  "id": "e5af9800ec75",
+  "created": "2026-11-18T18:56:03+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/",
+  "headline": "Blinkit sells GTA 6 download codes in 11 Indian cities",
+  "hook": "Grab your GTA 6 code before the game hits stores.",
+  "what": "Blinkit, the quick‑commerce app owned by Eternal, has begun delivering digital codes for Grand Theft Auto VI. The service is available in eleven cities across India, letting users get the game before its official launch.",
+  "why": "Teen gamers can secure the game early without waiting for retail release. Check the Blinkit app for availability in your city.",
+  "tags": [
+   "gaming",
+   "GTA6",
+   "Blinkit",
+   "quickcommerce",
+   "India"
+  ]
+ },
+ {
+  "id": "b14c258ea09c",
+  "created": "2026-11-18T18:57:06+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
+  "headline": "Supreme Court notices contempt case against lawyer over CJI remarks",
+  "hook": "A prominent lawyer is facing court action for comments on the chief justice.",
+  "what": "The apex court issued a notice in a contempt proceeding against a lawyer who spoke about the chief justice. The Solicitor General backed the Supreme Court Bar Association’s filing, saying the court’s dignity must be upheld.",
+  "why": "It underscores the need to respect judicial authority, a principle that impacts every citizen. Keep in mind legal limits when sharing strong opinions online.",
+  "tags": [
+   "SupremeCourt",
+   "Law",
+   "Contempt",
+   "India",
+   "Youth"
+  ]
+ },
+ {
+  "id": "8b3f4df726c5",
+  "created": "2026-11-18T18:57:08+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
+  "headline": "Bombay HC revokes sanction to prosecute ex-ICICI CEO",
+  "hook": "Court says the bank skipped steps before moving against its former boss.",
+  "what": "The Bombay High Court set aside ICICI Bank’s approval to file criminal charges against its former chief executive, Chanda Kochhar. She had argued that the bank did not follow the required procedure in granting the sanction.",
+  "why": "It shows that even large corporations must follow proper legal processes, a reminder for young people about the importance of due‑process. Stay updated on corporate governance as it can influence the banking sector and job market.",
+  "tags": [
+   "banking",
+   "legal",
+   "corporate",
+   "news",
+   "india"
+  ]
+ },
+ {
+  "id": "1acba6e47686",
+  "created": "2026-11-18T18:57:12+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Indian Television Dot Com",
+  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2Z5S0RqRG9uNmtBTVlnSEV2b0c5Mkx2N1RxekpWa094OW9VQmpqSUFFaTJ1MnhDalF6dVgwVHpfTTR4M0V0aEViWUJyTktpNlJfQ3AwWFhIZXZOU094X1dwNzVRWTExdVRqcV9tRkd0cjJ6S3lYRVJnUnJoS1FOM0RXQXBsNGJBSjNfTkpZZVZUOXZCT3ROM3c5LUtzcU5PcEhVag?oc=5",
+  "headline": "BGMI teams up with Samay Raina for comedy in-game event",
+  "hook": "Your favorite battle royale just got a funny twist with Samay Raina!",
+  "what": "BGMI announced a partnership with comedian Samay Raina. The collaboration will bring a comedy‑themed feature inside the game. Players can look forward to humorous content linked to the creator.",
+  "why": "The tie‑up adds fresh entertainment for gamers and Samay Raina fans, encouraging them to try the new content. Keep an eye on BGMI updates to join the event when it launches.",
+  "tags": [
+   "BGMI",
+   "SamayRaina",
+   "Gaming",
+   "Comedy",
+   "India"
+  ]
+ },
+ {
+  "id": "b520d4a92188",
+  "created": "2026-11-18T18:57:15+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/no-valid-vehicle-insurance-toll-plazas-may-soon-flag-your-car-trigger-10-000-fine-know-about-pilot-that-is-underway-11795003322006.html",
+  "headline": "Toll booths to flag uninsured cars, fine ₹10k",
+  "hook": "Your ride could be fined at a toll if insurance lapses.",
+  "what": "The National Highways Authority of India is trialling a system at Delhi's Mundka toll that checks a vehicle's third‑party insurance against the Vahan database. If no valid cover is found, the owner gets an SMS alert and may face a ₹10,000 penalty.",
+  "why": "Young drivers should keep their insurance up to date to avoid surprise fines at tolls. Verify your policy before hitting the road.",
+  "tags": [
+   "toll",
+   "insurance",
+   "youngdrivers",
+   "India",
+   "fine"
+  ]
+ },
+ {
+  "id": "5d3a453ab03d",
+  "created": "2026-11-18T18:57:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+  "headline": "Nvidia outlines when it will fund neoclouds",
+  "hook": "The chip giant says it won’t back loans without its own cash.",
+  "what": "Nvidia said it will only guarantee a data‑center loan if the neocloud project secures separate financing, completes construction, and installs Nvidia equipment. Otherwise the company won’t be financially liable.",
+  "why": "For students eyeing cloud‑computing careers, this shows Nvidia’s backing depends on solid funding and hardware setup, so understanding financing basics is useful.",
+  "tags": [
+   "Nvidia",
+   "neocloud",
+   "dataCenter",
+   "techFunding",
+   "startup"
+  ]
+ },
+ {
   "id": "9b2cea67e7fb",
   "created": "2026-11-18T18:26:13+05:30",
   "category": "entertainment",

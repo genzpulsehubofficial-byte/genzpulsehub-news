@@ -1,0 +1,37 @@
+{
+ "id": "e5af9800ec75",
+ "created": "2026-11-18T18:56:03+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Blinkit sells GTA 6 download codes in 11 Indian cities",
+  "hook": "Grab your GTA 6 code before the game hits stores.",
+  "what": "Blinkit, the quick‑commerce app owned by Eternal, has begun delivering digital codes for Grand Theft Auto VI. The service is available in eleven cities across India, letting users get the game before its official launch.",
+  "why": "Teen gamers can secure the game early without waiting for retail release. Check the Blinkit app for availability in your city.",
+  "tags": [
+   "gaming",
+   "GTA6",
+   "Blinkit",
+   "quickcommerce",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Blinkit‑ൽ 11 നഗരങ്ങളിൽ GTA 6 കോഡ്‌ ഡൗൺലോഡ്",
+  "hook": "ഗെയിം പുറത്തിറങ്ങുന്നതിന് മുമ്പ് നിങ്ങളുടെ GTA 6 കോഡ് പിടിച്ചെടുക്കൂ.",
+  "what": "Eternal ഉടമസ്ഥതയിലുള്ള ക്വിക്ക് കോമേഴ്സ് ആപ്പ് Blinkit, Grand Theft Auto VI ഡൗൺലോഡ് കോഡുകൾ വിതരണം ചെയ്യാൻ തുടങ്ങി. ഇന്ത്യയിലെ പതിനൊന്ന് നഗരങ്ങളിൽ ഇത് ലഭ്യമാണ്, ഔദ്യോഗിക റിലീസ് മുമ്പേ ഗെയിം നേടാം.",
+  "why": "യുവജന ഗെയിമർമാർക്ക് റീട്ടെയിൽ കാത്തിരിക്കാതെ നേരത്തെ ഗെയിം കൈവശം വെയ്ക്കാം. നിങ്ങളുടെ നഗരത്തിൽ Blinkit ആപ്പ് പരിശോധിക്കുക.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "GTA6",
+   "Blinkit",
+   "ക്വിക്ക്കോമേഴ്സ്",
+   "India"
+  ]
+ }
+}
