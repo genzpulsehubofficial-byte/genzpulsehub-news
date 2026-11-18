@@ -1,0 +1,37 @@
+{
+ "id": "08878e7f9981",
+ "created": "2026-11-19T02:54:59+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/rockstar-gta-6-goes-live-in-india-after-13-year-wait-101795023807656.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 finally launches in India after 13 years",
+  "hook": "Dive back into Vice City and explore the new Leonida region now!",
+  "what": "Rockstar Games released GTA 6 for Indian gamers after a 13‑year wait. The game returns to Vice City, a fictional city inspired by Miami, and adds a larger state called Leonida.",
+  "why": "Players can now experience the latest open‑world adventure on their consoles or PCs. Check platform stores for availability and system requirements.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "India",
+   "ViceCity",
+   "Leonida"
+  ]
+ },
+ "ml": {
+  "headline": "13 വര്‍ഷത്തിന് ശേഷം GTA 6 ഇന്ത്യയില്‍ ലഭ്യമായി",
+  "hook": "വൈസ് സിറ്റി തിരികെ, പുതിയ ലിയോനിഡാ പ്രദേശം പരിശോധിക്കൂ!",
+  "what": "റോക്ക്സ്റ്റാര്‍ ഗെയിംസ് 13 വര്‍ഷത്തെ കാത്തിരിപ്പ് കഴിഞ്ഞു GTA 6 ഇന്ത്യയില്‍ പുറത്തിറക്കി. ഗെയിം വൈസ് സിറ്റി (മിയാമി മോഡല്‍)യും പുതിയ ലിയോനിഡാ സംസ്ഥാനവും ഉള്‍പ്പെടുത്തുന്നു.",
+  "why": "ഇന്ത്യന്‍ ഗെയിമര്‍മാര്‍ക്ക് പുതിയ തുറന്ന ലോകം അനുഭവിക്കാന്‍ അവസരം. പ്ലാറ്റ്ഫോം സ്റ്റോറുകളില്‍ ലഭ്യതയും ആവശ്യമായ സിസ്റ്റം സ്പെക്‌സും പരിശോധിക്കുക.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "India",
+   "ViceCity",
+   "Leonida"
+  ]
+ }
+}

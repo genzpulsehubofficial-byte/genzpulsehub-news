@@ -1,0 +1,37 @@
+{
+ "id": "65922122e09e",
+ "created": "2026-11-19T02:55:01+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "AP News",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Grand Theft Auto VI finally launches after 13-year wait",
+  "hook": "The long‑awaited GTA VI hits global shelves today.",
+  "what": "Grand Theft Auto VI is now available worldwide, ending a 13‑year gap since the previous title. The game has generated massive hype and early reviews are rolling in.",
+  "why": "Gamers can now play the new release; checking reviews will show if it meets the hype.",
+  "tags": [
+   "gaming",
+   "GTA",
+   "newrelease",
+   "teenplayers",
+   "hype"
+  ]
+ },
+ "ml": {
+  "headline": "Grand Theft Auto VI 13 വര്‍ഷത്തെ കാത്തിരിപ്പ് ശേഷം പുറത്തിറങ്ങി",
+  "hook": "ദീർഘകാലം കാത്തിരുന്ന GTA VI ഇന്ന് ലോകവ്യാപകമായി ലഭ്യമാണ്.",
+  "what": "Grand Theft Auto VI ഇപ്പോൾ ലോകമെമ്പാടും ലഭ്യമാണ്, മുൻ പതിപ്പിനുശേഷം 13 വർഷം കഴിഞ്ഞു. ഗെയിംക്ക് വലിയ ആവേശം ഉണ്ടായിരുന്നു, ആദ്യ അവലോകനങ്ങൾ പുറപ്പെടുന്നു.",
+  "why": "ഗെയിമർമാർക്ക് പുതിയ അനുഭവം ലഭിക്കും; അവലോകനങ്ങൾ പരിശോധിച്ച് അത് പ്രതീക്ഷകൾ നിറവേറ്റുന്നോ എന്ന് കാണാം.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "GTA",
+   "പുതിയറിവി",
+   "ടീൻ",
+   "ഹൈപ്പ്"
+  ]
+ }
+}

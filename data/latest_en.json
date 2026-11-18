@@ -1,5 +1,100 @@
 [
  {
+  "id": "e92fd948c817",
+  "created": "2026-11-19T02:54:54+05:30",
+  "category": "trending",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/muslims-set-to-become-worlds-largest-religion-by-2035-12346356#publisher=newsstand",
+  "headline": "Islam projected to top Christianity by 2035",
+  "hook": "A shift in global faith numbers is on the horizon.",
+  "what": "A recent report says Islam will overtake Christianity as the biggest religion worldwide by 2035.",
+  "why": "Knowing demographic trends helps young Indians stay aware of cultural changes; keep an eye on global shifts.",
+  "tags": [
+   "religion",
+   "demographics",
+   "global",
+   "future",
+   "trends"
+  ]
+ },
+ {
+  "id": "08878e7f9981",
+  "created": "2026-11-19T02:54:59+05:30",
+  "category": "entertainment",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/rockstar-gta-6-goes-live-in-india-after-13-year-wait-101795023807656.html",
+  "headline": "GTA 6 finally launches in India after 13 years",
+  "hook": "Dive back into Vice City and explore the new Leonida region now!",
+  "what": "Rockstar Games released GTA 6 for Indian gamers after a 13‑year wait. The game returns to Vice City, a fictional city inspired by Miami, and adds a larger state called Leonida.",
+  "why": "Players can now experience the latest open‑world adventure on their consoles or PCs. Check platform stores for availability and system requirements.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "India",
+   "ViceCity",
+   "Leonida"
+  ]
+ },
+ {
+  "id": "65922122e09e",
+  "created": "2026-11-19T02:55:01+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "AP News",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
+  "headline": "Grand Theft Auto VI finally launches after 13-year wait",
+  "hook": "The long‑awaited GTA VI hits global shelves today.",
+  "what": "Grand Theft Auto VI is now available worldwide, ending a 13‑year gap since the previous title. The game has generated massive hype and early reviews are rolling in.",
+  "why": "Gamers can now play the new release; checking reviews will show if it meets the hype.",
+  "tags": [
+   "gaming",
+   "GTA",
+   "newrelease",
+   "teenplayers",
+   "hype"
+  ]
+ },
+ {
+  "id": "8e391d01ed13",
+  "created": "2026-11-19T02:55:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Guardian",
+  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0JOdEZKczVINzYyUXlHSmRkczc3eVZBcFNqTVFKNjl4OEh1NlR4UUtaZURuWFFVU3Q5b0dUQ2RJVm8tZ3JrN1RpRldpRjN0eVFTSHhKX3FTNVZzbnZMdVNKSFJ1NWVhdGp3enNVQ093OHQwak9FTm1HMG1XRWZ2YlR1ei05SFVsZVQ3ekRvR2IyaDFmMy1yWTZEUQ?oc=5",
+  "headline": "PlayStation Network glitches hit users before GTA VI drop",
+  "hook": "Your PS5 might be offline just as GTA VI lands.",
+  "what": "PlayStation’s online service experienced widespread outages affecting thousands of gamers. The issue surfaced only hours before the highly anticipated GTA VI release.",
+  "why": "The downtime could delay players from accessing the new game or online features, so check for updates or try restarting the console.",
+  "tags": [
+   "PlayStation",
+   "GTA6",
+   "networkoutage",
+   "gaming",
+   "PS5"
+  ]
+ },
+ {
+  "id": "0722aca17e49",
+  "created": "2026-11-19T02:55:06+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczVCdUh0RWVWbno3OWtodzRJNnRqdF9wUGpQRjliOFZ3bndJYXNYaWhVOWFYeVRPTHNfNlpTSm5tQTNsSmhxeTlwS0NnOVYxbnI4RHVTMDJYT2VWTklwYjJ4S1p6LTZuX0JPVWw4UjlCaFU5S3JhMTBUSXdTTHhJU0FSS0dyZmZrT01hYjZfYkZtMi1uVjF0VFZDSGRyNEhjWnByekZwTlk0bHlXeUxCNEszWnQ?oc=5",
+  "headline": "Semaglutide shown to curb binge eating and boost body confidence",
+  "hook": "A diabetes drug may help with eating habits and self‑image.",
+  "what": "A recent study found that the GLP‑1 medication semaglutide lowered binge‑eating symptoms and reduced body dissatisfaction. Participants reported improved eating‑behavior scores after using the drug.",
+  "why": "If you struggle with overeating or negative body image, emerging research suggests semaglutide could be a therapeutic option, but medical advice is essential before considering it.",
+  "tags": [
+   "health",
+   "eatingdisorder",
+   "semaglutide",
+   "bodypositivity",
+   "research"
+  ]
+ },
+ {
   "id": "b82656081c2f",
   "created": "2026-11-19T01:58:20+05:30",
   "category": "headlines",
@@ -657,101 +752,6 @@
    "globalLaunch",
    "reviews",
    "ViceCity"
-  ]
- },
- {
-  "id": "443ad7033a40",
-  "created": "2026-11-18T19:42:01+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Coimbatore/man-killed-by-wild-elephant-in-pandalur/article71716324.ece",
-  "headline": "Man killed by wild elephant in Pandalur",
-  "hook": "A sudden elephant attack claims a life in Pandalur.",
-  "what": "A man was fatally injured after a wild elephant attacked him in Pandalur. The incident occurred in a forested area. Local authorities are investigating the cause.",
-  "why": "Wild animal encounters can happen near forest zones, reminding youths to stay alert and follow safety guidelines when near wildlife habitats.",
-  "tags": [
-   "elephant",
-   "Pandalur",
-   "wildlife",
-   "safety",
-   "news"
-  ]
- },
- {
-  "id": "ae1e0fe275e9",
-  "created": "2026-11-18T19:42:03+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/epfo-whatsapp-service-goes-viral-with-1-crore-users-in-14-days-how-to-check-pf-balance-download-passbook-11795007967228.html",
-  "headline": "EPFO WhatsApp bot reaches 1 crore users in 14 days",
-  "hook": "Check your PF balance with just a ‘Hi’ on WhatsApp.",
-  "what": "The Employees' Provident Fund Organisation launched a WhatsApp service that attracted 10 million users within two weeks. By texting ‘Hi’ to +91 8796441800, members can view their current balance, see the last five transactions and download the EPF passbook.",
-  "why": "Young workers can now access their retirement savings instantly, without logging into a portal. Save time by using the chat to stay updated on your PF funds.",
-  "tags": [
-   "EPFO",
-   "WhatsApp",
-   "PF",
-   "Finance",
-   "GenZ"
-  ]
- },
- {
-  "id": "e5af9800ec75",
-  "created": "2026-11-18T18:56:03+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/",
-  "headline": "Blinkit sells GTA 6 download codes in 11 Indian cities",
-  "hook": "Grab your GTA 6 code before the game hits stores.",
-  "what": "Blinkit, the quick‑commerce app owned by Eternal, has begun delivering digital codes for Grand Theft Auto VI. The service is available in eleven cities across India, letting users get the game before its official launch.",
-  "why": "Teen gamers can secure the game early without waiting for retail release. Check the Blinkit app for availability in your city.",
-  "tags": [
-   "gaming",
-   "GTA6",
-   "Blinkit",
-   "quickcommerce",
-   "India"
-  ]
- },
- {
-  "id": "b14c258ea09c",
-  "created": "2026-11-18T18:57:06+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-contempt-plea-against-lawyer-over-remarks-about-cji/article71715528.ece",
-  "headline": "Supreme Court notices contempt case against lawyer over CJI remarks",
-  "hook": "A prominent lawyer is facing court action for comments on the chief justice.",
-  "what": "The apex court issued a notice in a contempt proceeding against a lawyer who spoke about the chief justice. The Solicitor General backed the Supreme Court Bar Association’s filing, saying the court’s dignity must be upheld.",
-  "why": "It underscores the need to respect judicial authority, a principle that impacts every citizen. Keep in mind legal limits when sharing strong opinions online.",
-  "tags": [
-   "SupremeCourt",
-   "Law",
-   "Contempt",
-   "India",
-   "Youth"
-  ]
- },
- {
-  "id": "8b3f4df726c5",
-  "created": "2026-11-18T18:57:08+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece",
-  "headline": "Bombay HC revokes sanction to prosecute ex-ICICI CEO",
-  "hook": "Court says the bank skipped steps before moving against its former boss.",
-  "what": "The Bombay High Court set aside ICICI Bank’s approval to file criminal charges against its former chief executive, Chanda Kochhar. She had argued that the bank did not follow the required procedure in granting the sanction.",
-  "why": "It shows that even large corporations must follow proper legal processes, a reminder for young people about the importance of due‑process. Stay updated on corporate governance as it can influence the banking sector and job market.",
-  "tags": [
-   "banking",
-   "legal",
-   "corporate",
-   "news",
-   "india"
   ]
  }
 ]
