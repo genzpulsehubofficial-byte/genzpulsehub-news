@@ -1,0 +1,37 @@
+{
+ "id": "0d6e5d1a8eb2",
+ "created": "2026-11-19T14:03:26+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/bridge-over-bhakra-canal-collapses-in-patiala-as-two-trucks-cross-one-catches-fire-101795075342485.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bridge over Bhakra Canal collapses, truck catches fire, no injuries",
+  "hook": "A morning bridge collapse sparked a fire but left everyone safe",
+  "what": "Around 6 a.m. near Pasiana village in Patiala, a bridge over the Bhakra Canal gave way as two trucks were crossing. One of the trucks ignited after the collapse. Officials reported no injuries.",
+  "why": "The incident underscores the need for regular checks on infrastructure used by commuters. Stay informed about road safety alerts before heading out.",
+  "tags": [
+   "bridge",
+   "Patiala",
+   "safety",
+   "news",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഭാക്രാ കനാൽ പാലം തകർന്നു, ട്രക്ക് തീപിടിച്ചു, പരിക്കില്ല",
+  "hook": "പുലർച്ചെ സംഭവിച്ച പാലം തകർച്ചയിൽ തീപിടിച്ചെങ്കിലും, ആരും പരിക്കേൽപ്പിയില്ല",
+  "what": "പട്ടിയാലയിലെ പാശിയാന ഗ്രാമം സമീപം രാവിലെ 6 മണിക്ക്, ഭാക്രാ കനാലിന്റെ മേൽപ്പാലം രണ്ട് ട്രക്കുകൾ കടക്കുമ്പോൾ തകർന്നു. തകർച്ചയിൽ ഒരു ട്രക്ക് തീപിടിച്ചു. അധികാരികൾക്ക് പരിക്കുകളൊന്നും ഇല്ലെന്ന് അറിയിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള സംഭവങ്ങൾ അടിസ്ഥാനപരമായ സൌകര്യപരിശോധനയുടെ പ്രാധാന്യം കാണിക്കുന്നു. യാത്ര ചെയ്യുന്നതിന് മുമ്പ് റോഡ് സുരക്ഷാ അപ്ഡേറ്റുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "പാലം",
+   "പട്ടിയാല",
+   "സുരക്ഷ",
+   "വാർത്ത",
+   "ഇന്ത്യ"
+  ]
+ }
+}

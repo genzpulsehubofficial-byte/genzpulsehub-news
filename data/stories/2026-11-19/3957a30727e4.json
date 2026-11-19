@@ -1,0 +1,37 @@
+{
+ "id": "3957a30727e4",
+ "created": "2026-11-19T14:03:39+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/mutual-funds-received-53-of-mahanadi-coalfields-ipo-anchor-book-which-schemes-will-own-coal-india-subsidiary-shares-11795071487832.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Mutual Funds Grab Over Half of Mahanadi Coal IPO",
+  "hook": "Your fund could own a slice of India's coal giant.",
+  "what": "Domestic mutual funds were allotted about 53% of the Mahanadi Coalfields IPO through 29 schemes. The Nippon India Small Cap Fund received the biggest chunk.",
+  "why": "Since the IPO shares sit in fund portfolios, they may sway the funds' net asset values, affecting investors' returns.",
+  "tags": [
+   "mutualfunds",
+   "IPO",
+   "MahanadiCoal",
+   "investing",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "മ്യൂച്ച്വല്‍ ഫണ്ടുകള്‍ മഹാനദി കോള്‍ IPO‑യുടെ പകുതി പിടിച്ചു",
+  "hook": "നിങ്ങളുടെ ഫണ്ട് ഇന്ത്യയുടെ വലിയ കോള്‍ കമ്പനിയിലൊരു പങ്ക് കൈവശം വയ്ക്കാം.",
+  "what": "ദേശീയ മ്യൂച്ച്വല്‍ ഫണ്ടുകള്‍ക്ക് 29 സ്കീമുകളിലൂടെ മഹാനദി കോള്‍ഫീല്‍ഡ്സ് IPO‑യുടെ ഏകദേശം 53% അലോക്കേറ്റ് ചെയ്തു. നിപ്പോണ്‍ ഇന്ത്യ സ്‍മോള്‍ ക്യാപ് ഫണ്ട് ഏറ്റവും കൂടുതല്‍ ഷെയറുകള്‍ നേടി.",
+  "why": "IPO ഷെയറുകള്‍ ഫണ്ടുകളുടെ പോര്‍ട്ട്ഫോളിയോയില്‍ ഉള്‍പ്പെടുന്നതുകൊണ്ട്, ഫണ്ടുകളുടെ NAV‑കളില്‍ മാറ്റം വരാം, അതിനാല്‍ നിക്ഷേപകരുടെ ലാഭം ബാധിക്കാം.",
+  "tags": [
+   "മ്യൂച്ച്വല്‍ഫണ്ട്",
+   "IPO",
+   "മഹാനദികോള്",
+   "ഇന്‍വെസ്റ്റിംഗ്",
+   "ഫിനാന്‍സ്"
+  ]
+ }
+}

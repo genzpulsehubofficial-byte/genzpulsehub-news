@@ -1,0 +1,37 @@
+{
+ "id": "cc1897391526",
+ "created": "2026-11-19T14:03:28+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "Deccan Chronicle",
+ "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlFQYVkzWnVNWWFZSF93N3FPRlJCaGlpZUlLNTBpRHA1cWFMeFRLQy12a3RPazJQazlOSGN2bUlGZWJHTUNTbkg1cFpJMUZXbTVuSjdUZUZzTGU4WnVpR01UQVo0SWd5MGpFUWNpSFA0VkhyZ1FJd0p0STY1OGxTd1UzcjFyd1BRaUszanVhTlJZTXctX2REcGswdGVoSUdIQXFYTWtvazFHOUxKMEVmZG9NR010b2E5RWZxN1NwNVZKQWhVREdHamZ0NnUyRDhnN3c?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Modi Uses GTA VI Visuals to Criticise Congress",
+  "hook": "A gaming reference sparks a political jab.",
+  "what": "Prime Minister Narendra Modi posted a GTA VI image saying India has ‘leveled up’ from GTA V. The post targeted the opposition UPA. Congress responded by mocking the comparison.",
+  "why": "It shows how leaders blend pop culture with politics, a trend teens see on social media.",
+  "tags": [
+   "Modi",
+   "GTA",
+   "Politics",
+   "Congress",
+   "SocialMedia"
+  ]
+ },
+ "ml": {
+  "headline": "മോഡി ഗ്ടിഎ VI ചിത്രങ്ങളിലൂടെ കോൺഗ്രസ്‌നെ വിമർശിച്ചു",
+  "hook": "ഗെയിമിംഗ് റഫറൻസ് രാഷ്ട്രീയ ചര്‍ച്ചയ്ക്ക് ഇന്ധനം",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഗ്ടിഎ VI ചിത്രം പങ്കുവെച്ച് ഇന്ത്യ ‘ലെവൽ‑അപ്പ്’ ചെയ്തെന്ന് പറഞ്ഞു, ഗ്ടിഎ V‑യുമായി താരതമ്യം ചെയ്തു. ഇത് എതിർപ്പുള്ള യു.പി.എ.യെ ലക്ഷ്യം വെച്ചതായിരുന്നു. കോൺഗ്രസ് അതിനെ പരിഹസിച്ചു.",
+  "why": "രാഷ്ട്രീയവേദികളിൽ പോപ്പ്‑കൾച്ചർ എങ്ങനെ ഉപയോഗിക്കുന്നു എന്ന് ഇത് കാണിക്കുന്നു; യുവാക്കൾക്ക് സോഷ്യൽ മീഡിയയിലെ ഇത്തരം പോസ്റ്റുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Modi",
+   "GTA",
+   "Rajyam",
+   "Congress",
+   "SocialMedia"
+  ]
+ }
+}

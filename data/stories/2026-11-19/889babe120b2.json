@@ -1,0 +1,37 @@
+{
+ "id": "889babe120b2",
+ "created": "2026-11-19T14:03:34+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/noida-consumer-forum-pulls-up-builder-for-failing-to-provide-home-loan-documents-orders-flat-handover-within-30-days-11795074202412.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Noida consumer board orders builder to hand over flat in 30 days",
+  "hook": "Your home loan could stall if paperwork is missing.",
+  "what": "The Noida consumer commission told JSS Buildcon to deliver a flat worth ₹77.35 lakh within a month. The builder had allegedly kept back documents required for a ₹64 lakh home‑loan, leading to the buyer’s allotment being cancelled.",
+  "why": "Young buyers must ensure all loan paperwork is provided promptly to avoid delays. Check with builders for complete documentation before signing.",
+  "tags": [
+   "consumerrights",
+   "homeloan",
+   "Noida",
+   "property",
+   "youngbuyers"
+  ]
+ },
+ "ml": {
+  "headline": "നോയിഡാ ഉപഭോക്തൃ കമ്മീഷന്‍ 30 ദിവസത്തിനുള്ളില്‍ ഫ്ലാറ്റ് കൈമാറാന്‍ നിര്‍ദ്ദേശം",
+  "hook": "ഡോക്യുമെന്റുകള്‍ ഇല്ലാതെ ഹോം ലോണ്‍ നിർത്താം.",
+  "what": "നോയിഡാ ഉപഭോക്തൃ കമ്മീഷന്‍ JSS Buildcon‑നെ 77.35 ലക്ഷം രൂപ മൂല്യമുള്ള ഫ്ലാറ്റ് ഒരു മാസത്തിനുള്ളില്‍ കൈമാറാന്‍ ഉത്തരവിട്ടു. നിര്‍മാതാവ് 64 ലക്ഷം രൂപ ഹോം ലോണ്‍ ലഭിക്കാന്‍ ആവശ്യമായ രേഖകള്‍ നല്‍കാത്തതുകൊണ്ട് വാങ്ങുന്നവരുടെ അലോക്കേഷന്‍ റദ്ദാക്കി.",
+  "why": "യുവ വാങ്ങുന്നവര്‍ ലോണ്‍ പ്രക്രിയയില്‍ വൈകല്‍ ഒഴിവാക്കാന്‍ എല്ലാ രേഖകളും പൂര്‍ണ്ണമായി ലഭ്യമാണോ എന്ന് ഉറപ്പാക്കണം. കരാര്‍ ഒപ്പിടുന്നതിന് മുമ്പ് ബില്‍ഡറിനോട് ഡോക്യുമെന്റേഷന്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "ഉപഭോക്താവകാശം",
+   "ഹോംലോണ്‍",
+   "നോയിഡാ",
+   "പ്രോപ്പര്‍ട്ടി",
+   "യുവവാങ്ങുന്നവര്‍"
+  ]
+ }
+}
