@@ -1,0 +1,37 @@
+{
+ "id": "4fe05a9d5cd8",
+ "created": "2026-11-19T10:26:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/trump-putin-xi-trilateral-meet-in-china-today-whats-on-agenda-12346996#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump, Xi, Putin to Meet at Shenzhen Summit",
+  "hook": "Three world leaders gather in China for a historic talk",
+  "what": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are scheduled to convene in Shenzhen for a trilateral summit today.",
+  "why": "The meeting could influence global relations, so staying informed helps young Indians understand international events.",
+  "tags": [
+   "global",
+   "summit",
+   "politics",
+   "China",
+   "leaders"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ്, ഷി, പുടിൻ ഷെൻഷെൻ ശിഖരയോഗം",
+  "hook": "മൂന്ന് ലോക നേതാക്കൾ ചൈനയിൽ ചരിത്രപരമായ കൂടിക്കാഴ്ച നടത്തുന്നു",
+  "what": "അമേരിക്കയുടെ പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ്, ചൈനയുടെ പ്രസിഡന്റ് ഷി ജിൻപിംഗ്, റഷ്യയുടെ പ്രസിഡന്റ് വ്ലാദിമിർ പുടിൻ ഇന്ന് ഷെൻഷെൻ നഗരത്തിൽ ത്രികക്ഷി ശിഖരയോഗം നടത്താൻ നിശ്ചയിച്ചു.",
+  "why": "ഈ കൂടിക്കാഴ്ച അന്താരാഷ്ട്ര ബന്ധങ്ങളെ ബാധിക്കാം, അതിനാൽ യുവാക്കൾക്ക് ലോക സംഭവങ്ങൾ അറിയുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "ഗ്ലോബൽ",
+   "ശിഖരയോഗം",
+   "രാഷ്ട്രീയം",
+   "ചൈന",
+   "നേതാക്കൾ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "1b885e8c2daf",
+ "created": "2026-11-19T10:26:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Elon Musk calls his $500mn US midterm spend 'foolish'",
+  "hook": "The billionaire admits his huge political cash splash was a mistake.",
+  "what": "Elon Musk said he feels \"pretty foolish\" about the record amount he spent on the US midterm elections. He said he donated nearly $500 million to Republican candidates and now regrets it. He also said he is not aligned with MAGA and sees himself as a moderate.",
+  "why": "It shows how even tech moguls can misjudge political influence, reminding young voters to scrutinise big money in elections. Stay aware of how campaign funding works.",
+  "tags": [
+   "politics",
+   "USelection",
+   "ElonMusk",
+   "money",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "എലോൺ മസ്‌ക് തന്റെ $500 മില്യൺ യു.എസ്. മിഡ്‌ടേം ചെലവിനെ 'മൂഢം' എന്ന് വിളിച്ചു",
+  "hook": "ബില്യണർ തന്റെ വലിയ രാഷ്ട്രീയ നിക്ഷേപം പിഴവാണെന്ന് സമ്മതിച്ചു.",
+  "what": "എലോൺ മസ്‌ക് യു.എസ്. മിഡ്‌ടേം തിരഞ്ഞെടുപ്പിൽ റെക്കോർഡ് ചെലവു ചെയ്തതിനെ 'മൂഢം' എന്ന് പറഞ്ഞു. അദ്ദേഹം റിപ്പബ്ലിക്കൻ സ്ഥാനാർത്ഥികൾക്ക് ഏകദേശം $500 മില്യൺ ദാനം ചെയ്തതിൽ ഖേദം പ്രകടിപ്പിച്ചു. കൂടാതെ, അദ്ദേഹം സ്വയം 'മാഗാ'യല്ല, മിതവാദി എന്ന് പ്രഖ്യാപിച്ചു.",
+  "why": "വലിയ പണം രാഷ്ട്രീയത്തിൽ എങ്ങനെ ഉപയോഗിക്കുന്നു എന്ന് കാണിക്കുന്ന ഉദാഹരണമാണ് ഇത്, യുവജനങ്ങൾക്ക് വിവരങ്ങളോടെ തിരഞ്ഞെടുപ്പുകൾ വിലയിരുത്താൻ സഹായിക്കും.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "അമേരിക്ക",
+   "എലോൺമസ്‌ക്",
+   "ധനം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

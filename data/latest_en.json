@@ -1,5 +1,119 @@
 [
  {
+  "id": "289ac784e1ee",
+  "created": "2026-11-19T10:26:42+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/icici-hdfc-bank-increase-credit-card-limits-for-select-customers-heres-how-you-can-check-offers-and-eligibility-11795059052398.html",
+  "headline": "ICICI and HDFC Boost Credit Card Limits for Some Users",
+  "hook": "Your card limit could jump up – check now!",
+  "what": "ICICI Bank and HDFC Bank are offering higher credit limits to selected cardholders, with some customers seeing limits more than double. Eligible users can view the offer through their bank’s app or online portal.",
+  "why": "A larger limit can help with bigger purchases or emergencies, but it also means higher potential debt. Log in to your account to see if you qualify.",
+  "tags": [
+   "creditcards",
+   "bankoffers",
+   "youthfinance",
+   "limitincrease",
+   "banking"
+  ]
+ },
+ {
+  "id": "1b885e8c2daf",
+  "created": "2026-11-19T10:26:50+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5",
+  "headline": "Elon Musk calls his $500mn US midterm spend 'foolish'",
+  "hook": "The billionaire admits his huge political cash splash was a mistake.",
+  "what": "Elon Musk said he feels \"pretty foolish\" about the record amount he spent on the US midterm elections. He said he donated nearly $500 million to Republican candidates and now regrets it. He also said he is not aligned with MAGA and sees himself as a moderate.",
+  "why": "It shows how even tech moguls can misjudge political influence, reminding young voters to scrutinise big money in elections. Stay aware of how campaign funding works.",
+  "tags": [
+   "politics",
+   "USelection",
+   "ElonMusk",
+   "money",
+   "youth"
+  ]
+ },
+ {
+  "id": "4fe05a9d5cd8",
+  "created": "2026-11-19T10:26:52+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/trump-putin-xi-trilateral-meet-in-china-today-whats-on-agenda-12346996#publisher=newsstand",
+  "headline": "Trump, Xi, Putin to Meet at Shenzhen Summit",
+  "hook": "Three world leaders gather in China for a historic talk",
+  "what": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are scheduled to convene in Shenzhen for a trilateral summit today.",
+  "why": "The meeting could influence global relations, so staying informed helps young Indians understand international events.",
+  "tags": [
+   "global",
+   "summit",
+   "politics",
+   "China",
+   "leaders"
+  ]
+ },
+ {
+  "id": "783365075b49",
+  "created": "2026-11-19T10:26:54+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "News18",
+  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHNIcGpBSmFrS2lKbTcyYkN5bVVHalBHOS1RRGdpMEt0aXp5Y05nLU81Z0xDVTZYbjQ4b3Uzekx1dlBwRHNRWTNxUE5xRl9qOElXbG85ZUE5MGE2VF8xV3ZfYWFSbklVMXBPUXFEeVJISThUUmcyVWtPZDlMNk9iMEFjZmVrSlZtZy10cGtNVVJ0SUtKZ1hsdkVTMjB0Q3BoTnlVZg?oc=5",
+  "headline": "India opens New Zealand Test series 2026",
+  "hook": "First innings action kicks off the two‑match showdown.",
+  "what": "India and New Zealand faced off in the opening Test of their 2026 series in New Zealand. The match is part of a two‑Test schedule.",
+  "why": "The series will shape India's overseas performance and offers fans a chance to follow live scores and player form.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "TestSeries",
+   "2026"
+  ]
+ },
+ {
+  "id": "a5cb16af7124",
+  "created": "2026-11-19T10:26:56+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tripura/election-affidavit-case-tripura-court-directs-police-to-book-minister-tinku-roy/article71718714.ece",
+  "headline": "Tripura court orders police to charge Minister Tinku Roy",
+  "hook": "A state minister faces police action over a fake election form.",
+  "what": "The Tripura court instructed police to file a case against Minister Tinku Roy. He is alleged to have submitted false credentials in his election affidavit to the Election Commission.",
+  "why": "This highlights the importance of honesty in election documents, reminding young voters to verify candidate claims. Stay aware of political accountability.",
+  "tags": [
+   "politics",
+   "election",
+   "Tripura",
+   "affidavit",
+   "accountability"
+  ]
+ },
+ {
+  "id": "96555a39e842",
+  "created": "2026-11-19T10:26:58+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/cpim-workers-booked-disrupting-payyanur-mla-speech-kannur-ptisjegwfxk",
+  "headline": "Eight CPI(M) members charged for disrupting MLA's speech in Kannur",
+  "hook": "A political rally turned chaotic as workers were arrested.",
+  "what": "Police in Kannur filed a case against eight CPI(M) activists. They are accused of interrupting a speech by UDF-backed MLA V Kunhikrishnan and assaulting a staff member. The investigation is ongoing.",
+  "why": "It highlights how political tensions can spill into public events, reminding young people to stay informed about local politics and safety. Keep an eye on community updates.",
+  "tags": [
+   "Kannur",
+   "CPI(M)",
+   "MLA",
+   "politics",
+   "Kerala"
+  ]
+ },
+ {
   "id": "364532bb6dd7",
   "created": "2026-11-19T09:21:15+05:30",
   "category": "headlines",
@@ -643,120 +757,6 @@
    "Investing",
    "Stocks",
    "India"
-  ]
- },
- {
-  "id": "e92fd948c817",
-  "created": "2026-11-19T02:54:54+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/muslims-set-to-become-worlds-largest-religion-by-2035-12346356#publisher=newsstand",
-  "headline": "Islam projected to top Christianity by 2035",
-  "hook": "A shift in global faith numbers is on the horizon.",
-  "what": "A recent report says Islam will overtake Christianity as the biggest religion worldwide by 2035.",
-  "why": "Knowing demographic trends helps young Indians stay aware of cultural changes; keep an eye on global shifts.",
-  "tags": [
-   "religion",
-   "demographics",
-   "global",
-   "future",
-   "trends"
-  ]
- },
- {
-  "id": "08878e7f9981",
-  "created": "2026-11-19T02:54:59+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/rockstar-gta-6-goes-live-in-india-after-13-year-wait-101795023807656.html",
-  "headline": "GTA 6 finally launches in India after 13 years",
-  "hook": "Dive back into Vice City and explore the new Leonida region now!",
-  "what": "Rockstar Games released GTA 6 for Indian gamers after a 13‑year wait. The game returns to Vice City, a fictional city inspired by Miami, and adds a larger state called Leonida.",
-  "why": "Players can now experience the latest open‑world adventure on their consoles or PCs. Check platform stores for availability and system requirements.",
-  "tags": [
-   "GTA6",
-   "Gaming",
-   "India",
-   "ViceCity",
-   "Leonida"
-  ]
- },
- {
-  "id": "65922122e09e",
-  "created": "2026-11-19T02:55:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "AP News",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU5oVy1LNFdSWUFIbTV3RkNqQlJNWWdlb3pJNUxOV3ZRMU02TjFOV0VBUGVoRDhLOEU0SHpSTl9YMEwtN1pVSV9rQ0I0cUZvRFptd1NGUks3ci0zekpiSmZKMmJobUZfcTZpS1YyVkZCbVR4U3RKQ1F6TUlXU2x5VmdDZ2V1empCQVViM3NNVDhPc1NtMU5IeENVZWlNQQ?oc=5",
-  "headline": "Grand Theft Auto VI finally launches after 13-year wait",
-  "hook": "The long‑awaited GTA VI hits global shelves today.",
-  "what": "Grand Theft Auto VI is now available worldwide, ending a 13‑year gap since the previous title. The game has generated massive hype and early reviews are rolling in.",
-  "why": "Gamers can now play the new release; checking reviews will show if it meets the hype.",
-  "tags": [
-   "gaming",
-   "GTA",
-   "newrelease",
-   "teenplayers",
-   "hype"
-  ]
- },
- {
-  "id": "8e391d01ed13",
-  "created": "2026-11-19T02:55:03+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Guardian",
-  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT0JOdEZKczVINzYyUXlHSmRkczc3eVZBcFNqTVFKNjl4OEh1NlR4UUtaZURuWFFVU3Q5b0dUQ2RJVm8tZ3JrN1RpRldpRjN0eVFTSHhKX3FTNVZzbnZMdVNKSFJ1NWVhdGp3enNVQ093OHQwak9FTm1HMG1XRWZ2YlR1ei05SFVsZVQ3ekRvR2IyaDFmMy1yWTZEUQ?oc=5",
-  "headline": "PlayStation Network glitches hit users before GTA VI drop",
-  "hook": "Your PS5 might be offline just as GTA VI lands.",
-  "what": "PlayStation’s online service experienced widespread outages affecting thousands of gamers. The issue surfaced only hours before the highly anticipated GTA VI release.",
-  "why": "The downtime could delay players from accessing the new game or online features, so check for updates or try restarting the console.",
-  "tags": [
-   "PlayStation",
-   "GTA6",
-   "networkoutage",
-   "gaming",
-   "PS5"
-  ]
- },
- {
-  "id": "0722aca17e49",
-  "created": "2026-11-19T02:55:06+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "News-Medical",
-  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczVCdUh0RWVWbno3OWtodzRJNnRqdF9wUGpQRjliOFZ3bndJYXNYaWhVOWFYeVRPTHNfNlpTSm5tQTNsSmhxeTlwS0NnOVYxbnI4RHVTMDJYT2VWTklwYjJ4S1p6LTZuX0JPVWw4UjlCaFU5S3JhMTBUSXdTTHhJU0FSS0dyZmZrT01hYjZfYkZtMi1uVjF0VFZDSGRyNEhjWnByekZwTlk0bHlXeUxCNEszWnQ?oc=5",
-  "headline": "Semaglutide shown to curb binge eating and boost body confidence",
-  "hook": "A diabetes drug may help with eating habits and self‑image.",
-  "what": "A recent study found that the GLP‑1 medication semaglutide lowered binge‑eating symptoms and reduced body dissatisfaction. Participants reported improved eating‑behavior scores after using the drug.",
-  "why": "If you struggle with overeating or negative body image, emerging research suggests semaglutide could be a therapeutic option, but medical advice is essential before considering it.",
-  "tags": [
-   "health",
-   "eatingdisorder",
-   "semaglutide",
-   "bodypositivity",
-   "research"
-  ]
- },
- {
-  "id": "b82656081c2f",
-  "created": "2026-11-19T01:58:20+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/pm-modi-meets-prince-and-princess-of-wales-discusses-boosting-uk-india-ties/article71717432.ece",
-  "headline": "Modi meets British royals, pledges stronger UK‑India ties",
-  "hook": "They discussed climate innovation and deeper cooperation.",
-  "what": "Prime Minister Narendra Modi met the Prince and Princess of Wales. The leaders talked about boosting relations between the United Kingdom and India. Modi praised the Earthshot Prize for encouraging new ideas to tackle environmental challenges.",
-  "why": "Closer UK‑India ties could bring more education and job options for Indian youth. Highlighting the Earthshot Prize shows a focus on climate solutions that affect the next generation.",
-  "tags": [
-   "UKIndia",
-   "Earthshot",
-   "environment",
-   "youth",
-   "diplomacy"
   ]
  }
 ]
