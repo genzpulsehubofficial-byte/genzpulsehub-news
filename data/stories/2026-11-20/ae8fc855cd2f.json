@@ -1,0 +1,35 @@
+{
+ "id": "ae8fc855cd2f",
+ "created": "2026-11-20T04:57:11+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times",
+ "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "World’s first direct brain stem‑cell trial in Alzheimer’s patients",
+  "hook": "Scientists have safely delivered stem cells straight into the brains of people with Alzheimer’s.",
+  "what": "A Phase 1 study injected stem cells directly into the brains (intracerebroventricular) of Alzheimer’s patients. The trial reported safety and changes in disease biomarkers.",
+  "why": "The results could point to new treatment options in the future, so staying aware of such research matters for young Indians.",
+  "tags": [
+   "Alzheimer",
+   "StemCell",
+   "Research",
+   "Health"
+  ]
+ },
+ "ml": {
+  "headline": "അൽസൈമർ രോഗികളിൽ മസ്തിഷ്കത്തിലേക്ക് സ്റ്റം സെല്ലുകൾ ആദ്യമായി ഇഞ്ചെക്ട്",
+  "hook": "ശാസ്ത്രജ്ഞർ സുരക്ഷിതമായി സ്റ്റം സെല്ലുകൾ നേരിട്ട് അൽസൈമർ രോഗികളുടെ മസ്തിഷ്കത്തിൽ ചേർത്തു.",
+  "what": "ഒരു ഫേസ് 1 പരീക്ഷയിൽ, അൽസൈമർ രോഗികളിൽ സ്റ്റം സെല്ലുകൾ ഇൻട്രാസെറിബ്രോവെന്റ്രിക്കുലർ ആയി നൽകപ്പെട്ടു. പരീക്ഷയിൽ സുരക്ഷയും ബയോമാർക്കർ മാറ്റങ്ങളും കാണപ്പെട്ടു.",
+  "why": "ഇത് ഭാവിയിലെ ചികിത്സാ മാർഗ്ഗങ്ങൾക്ക് വഴിയൊരുക്കാം, യുവജനങ്ങൾ ഈ ഗവേഷണം പിന്തുടരാം.",
+  "tags": [
+   "അൽസൈമർ",
+   "സ്റ്റംസെൽ",
+   "ഗവേഷണം",
+   "ആരോഗ്യം"
+  ]
+ }
+}

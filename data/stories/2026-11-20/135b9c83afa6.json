@@ -1,0 +1,37 @@
+{
+ "id": "135b9c83afa6",
+ "created": "2026-11-20T04:57:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Phys.org",
+ "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU21BYTFSVHg5ckdLcUdKT2gtZDBiX3UzelRVTWtvTXdCN2g1RWxsTFFhc2hzelBLVjR6alNQX0kwT2dIQlVFa2VVY3UtY2p3TFVsODJvV3lFYkZyNlVYMmxlcmZnRThxcUg5YjI1SQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Scientists outline ways to spot tiny primordial black holes",
+  "hook": "Could hidden mini black holes be the next big discovery?",
+  "what": "Researchers propose detection methods for tiny primordial black holes, if they exist. The strategies involve observing specific cosmic signals.",
+  "why": "Finding such objects would reshape our understanding of the early universe, inspiring interest in space science among youth.",
+  "tags": [
+   "space",
+   "astronomy",
+   "blackholes",
+   "science",
+   "research"
+  ]
+ },
+ "ml": {
+  "headline": "ശാസ്ത്രജ്ഞർ ചെറു പ്രാഥമിക ബ്ലാക്ക് ഹോളുകൾ കണ്ടെത്താനുള്ള മാർഗങ്ങൾ വെളിപ്പെടുത്തി",
+  "hook": "മറഞ്ഞിരിക്കുന്ന ചെറു ബ്ലാക്ക് ഹോളുകൾ അടുത്ത വലിയ കണ്ടെത്തലാകുമോ?",
+  "what": "ഗവേഷകർ ചെറു പ്രാഥമിക ബ്ലാക്ക് ഹോളുകൾ നിലവിലുണ്ടെങ്കിൽ കണ്ടെത്താനുള്ള മാർഗങ്ങൾ നിർദ്ദേശിച്ചു. ഈ രീതികളിൽ പ്രത്യേക കോസ്മിക് സിഗ്നലുകൾ നിരീക്ഷിക്കുന്നത് ഉൾപ്പെടുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള വസ്തുക്കൾ കണ്ടെത്തുന്നത് പ്രാരംഭ ബ്രഹ്മാണ്ഡത്തെക്കുറിച്ചുള്ള അറിവ് മാറ്റും, യുവാക്കളെ ആകാശ ശാസ്ത്രത്തിൽ ആകർഷിക്കും.",
+  "tags": [
+   "space",
+   "astronomy",
+   "blackholes",
+   "science",
+   "research"
+  ]
+ }
+}

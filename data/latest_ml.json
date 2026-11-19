@@ -1,5 +1,117 @@
 [
  {
+  "id": "2dadfab2f9e5",
+  "created": "2026-11-20T04:56:55+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/india-japan-22-dialogue-drills-indian-firing-ranges-rajnath-singh-jaishankar-shinjiro-koizumi-toshimitsu-motegi-10970647/",
+  "headline": "ജപ്പാൻ സൈന്യം ഇന്ത്യയിലെ ഫയർിംഗ് റേഞ്ചുകളിൽ പരിശീലനം",
+  "hook": "ഇന്ത്യയിൽ ജപ്പാൻ സൈന്യത്തിന്റെ ആദ്യ പരിശീലനം",
+  "what": "ജപ്പാൻ സൈന്യം ഇന്ത്യയിലെ ഫയർിംഗ് റേഞ്ചുകളിൽ പരിശീലന അഭ്യാസങ്ങൾ നടത്തും. ഇത് ഇന്ത്യയിൽ ജപ്പാൻ സൈന്യത്തിന്റെ ആദ്യ പരിശീലനമാണ്.",
+  "why": "ഇത് ഇന്ത്യ-ജപ്പാൻ പ്രതിരോധ സഹകരണത്തെ ശക്തിപ്പെടുത്തുന്നു, പ്രദേശിക സുരക്ഷയിലും യുവജനങ്ങളുടെ തൊഴിൽ അവസരങ്ങളിലും സ്വാധീനം ചെലുത്താം.",
+  "tags": [
+   "JapanIndia",
+   "defence",
+   "military drills",
+   "cooperation"
+  ]
+ },
+ {
+  "id": "2d5322692ac8",
+  "created": "2026-11-20T04:57:04+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/stones-eggs-hurled-at-my-car-by-bjp-supporters-in-bengals-nadia-tmc-mp-mahua-moitra/article71719304.ece",
+  "headline": "എംപി മഹൂവ മോത്രി കോൺവോയ്‌ക്ക് ആക്രമണം, ബി.ജെ.പി. അത് സ്റ്റണ്ട് എന്ന് പറഞ്ഞു",
+  "hook": "രാഷ്ട്രീയ സംഘർഷം, കോൺവോയ്‌ക്ക് സംഭവത്തെക്കുറിച്ച് ആരോപണങ്ങൾ ചുറ്റി.",
+  "what": "നിയമസഭ അംഗമായ മഹൂവ മോത്രി, ബി.ജെ.പി. പിന്തുണക്കാർ അവരുടെ കോൺവോയ്‌ക്ക് ആക്രമണം നടത്തിയതായി അവകാശപ്പെട്ടു. ബി.ജെ.പി. നേതാക്കൾ, ഇത് സോഷ്യൽ മീഡിയയിൽ ശ്രദ്ധ നേടാൻ സ്റ്റെംറ് ആണെന്ന് മറുപടി നൽകി.",
+  "why": "ഇത് രാഷ്ട്രീയ തീവ്രതയും സോഷ്യൽ മീഡിയയുടെ പങ്കും കാണിക്കുന്നു, യുവാക്കൾ വിവരങ്ങൾ പരിശോധിച്ച് മാത്രം പങ്കിടണം.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "മഹൂവമോത്രി",
+   "ബി.ജെ.പി",
+   "സോഷ്യൽമീഡിയ",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "135b9c83afa6",
+  "created": "2026-11-20T04:57:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Phys.org",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU21BYTFSVHg5ckdLcUdKT2gtZDBiX3UzelRVTWtvTXdCN2g1RWxsTFFhc2hzelBLVjR6alNQX0kwT2dIQlVFa2VVY3UtY2p3TFVsODJvV3lFYkZyNlVYMmxlcmZnRThxcUg5YjI1SQ?oc=5",
+  "headline": "ശാസ്ത്രജ്ഞർ ചെറു പ്രാഥമിക ബ്ലാക്ക് ഹോളുകൾ കണ്ടെത്താനുള്ള മാർഗങ്ങൾ വെളിപ്പെടുത്തി",
+  "hook": "മറഞ്ഞിരിക്കുന്ന ചെറു ബ്ലാക്ക് ഹോളുകൾ അടുത്ത വലിയ കണ്ടെത്തലാകുമോ?",
+  "what": "ഗവേഷകർ ചെറു പ്രാഥമിക ബ്ലാക്ക് ഹോളുകൾ നിലവിലുണ്ടെങ്കിൽ കണ്ടെത്താനുള്ള മാർഗങ്ങൾ നിർദ്ദേശിച്ചു. ഈ രീതികളിൽ പ്രത്യേക കോസ്മിക് സിഗ്നലുകൾ നിരീക്ഷിക്കുന്നത് ഉൾപ്പെടുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള വസ്തുക്കൾ കണ്ടെത്തുന്നത് പ്രാരംഭ ബ്രഹ്മാണ്ഡത്തെക്കുറിച്ചുള്ള അറിവ് മാറ്റും, യുവാക്കളെ ആകാശ ശാസ്ത്രത്തിൽ ആകർഷിക്കും.",
+  "tags": [
+   "space",
+   "astronomy",
+   "blackholes",
+   "science",
+   "research"
+  ]
+ },
+ {
+  "id": "5096944ef06e",
+  "created": "2026-11-20T04:57:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+  "headline": "IconSwapper‑ന്‍ Mac ഐക്കണുകള്‍ ആനിമേറ്റ് ചെയ്ത് AI ഡാറ്റ കാണിക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ഒരു ചലനാത്മക ഡാഷ്ബോർഡാക്കി മാറ്റൂ.",
+  "what": "IconSwapper എന്ന പുതിയ Mac ആപ്പ് സാധാരണ ഐക്കണുകൾക്ക് പകരം ആനിമേറ്റഡ് രൂപം നൽകുന്നു, അതിൽ റിയൽ‑ടൈം AI ഉപയോഗ ഡാറ്റ കാണാം. ഉപയോക്താക്കൾക്ക് ഐക്കണുകളുടെ രൂപം മാറ്റാനും കളിയുള്ള കസ്റ്റമൈസേഷൻ ചെയ്യാനും കഴിയും. ഇത് ഡെസ്ക്ടോപ്പിനെ കൂടുതൽ രസകരമാക്കാൻ രൂപകൽപ്പന ചെയ്തതാണ്.",
+  "why": "പേഴ്സണലൈസേഷൻ ഇഷ്ടപ്പെടുന്ന യുവജനങ്ങൾക്ക് AI പ്രവർത്തനം ഒരു നോട്ടത്തിൽ കാണാൻ ഇത് സഹായിക്കും. ഇൻസ്റ്റാൾ ചെയ്ത് നിങ്ങളുടെ workflow‑ലേക്ക് ഒരു ഫൺ, ഇൻഫോ ലെയർ ചേർക്കൂ.",
+  "tags": [
+   "Mac",
+   "AI",
+   "കസ്റ്റമൈസേഷൻ",
+   "ഉൽപ്പാദകത്വം",
+   "ആപ്പുകൾ"
+  ]
+ },
+ {
+  "id": "ae8fc855cd2f",
+  "created": "2026-11-20T04:57:11+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Times",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5",
+  "headline": "അൽസൈമർ രോഗികളിൽ മസ്തിഷ്കത്തിലേക്ക് സ്റ്റം സെല്ലുകൾ ആദ്യമായി ഇഞ്ചെക്ട്",
+  "hook": "ശാസ്ത്രജ്ഞർ സുരക്ഷിതമായി സ്റ്റം സെല്ലുകൾ നേരിട്ട് അൽസൈമർ രോഗികളുടെ മസ്തിഷ്കത്തിൽ ചേർത്തു.",
+  "what": "ഒരു ഫേസ് 1 പരീക്ഷയിൽ, അൽസൈമർ രോഗികളിൽ സ്റ്റം സെല്ലുകൾ ഇൻട്രാസെറിബ്രോവെന്റ്രിക്കുലർ ആയി നൽകപ്പെട്ടു. പരീക്ഷയിൽ സുരക്ഷയും ബയോമാർക്കർ മാറ്റങ്ങളും കാണപ്പെട്ടു.",
+  "why": "ഇത് ഭാവിയിലെ ചികിത്സാ മാർഗ്ഗങ്ങൾക്ക് വഴിയൊരുക്കാം, യുവജനങ്ങൾ ഈ ഗവേഷണം പിന്തുടരാം.",
+  "tags": [
+   "അൽസൈമർ",
+   "സ്റ്റംസെൽ",
+   "ഗവേഷണം",
+   "ആരോഗ്യം"
+  ]
+ },
+ {
+  "id": "04239425c6a1",
+  "created": "2026-11-20T04:57:14+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "FXStreet",
+  "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVpqRXppeXVjWm5DTEFsdkVEV2EyYWFKZUJHVlZIb2JuZjFKOXN5RldlSGNpZWlVemp2b20tMGFnSkJmZ2ZLaE9nTWttd3VFcE1sWG02elVzUm1ZMzhkWW5jUV81VUI2NjE1ZjZfUVpXLTM1RUtpTW1SOEIxQnZHNUxycS03UU12M3VKalliTUNBWFg5U1NKcHZIRy1sWkwy?oc=5",
+  "headline": "യു.എസ്. പലിശ നിരക്ക് പ്രതീക്ഷകൾ മൂലം സ്വർണം 1‑വർഷം കുറഞ്ഞു",
+  "hook": "അമേരിക്കൻ ബോണ്ട്‌വിലയും ഡോളറിന്റെ ശക്തിയും സ്വർണ്ണത്തെ താഴേക്ക് തള്ളുന്നു.",
+  "what": "സ്വർണ്ണവില ഒരു വർഷത്തെ കുറഞ്ഞ നിലയിലേക്ക് ഇടിഞ്ഞു, ട്രഷറി യീൽഡുകളും ഡോളറിന്റെ ഉയർച്ചയും കാരണം. മൂന്നാം തുടർച്ചയായ ദിവസമായി ഫ്യൂച്ചറുകൾ ₹3,016 കുറച്ച് ഏകദേശം ₹1.31 ലക്ഷം प्रति 10 ഗ്രാം ആയി. വിദഗ്ധർ പറയുന്നു, വെള്ളി, ചെമ്പ് എന്നിവയും ഇടിഞ്ഞു.",
+  "why": "സ്വർണ്ണം പലരുടെ സേവിംഗ്സും നിക്ഷേപവും ബാധിക്കും, അതിനാൽ യുവാവുകൾ മാർക്കറ്റിലെ മാറ്റങ്ങൾ ശ്രദ്ധിക്കണം. യുഎസ് പലിശ പ്രതീക്ഷകൾ പരിഗണിച്ച്, സ്വർണ്ണം വാങ്ങുന്നതിന് മുമ്പ് മറ്റ് ആസ്തികളിൽ വൈവിധ്യം ഉറപ്പാക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "മാർക്കറ്റ്",
+   "നിക്ഷേപം",
+   "ഇന്ത്യ",
+   "വരുമാനം"
+  ]
+ },
+ {
   "id": "6f0f2d869f0f",
   "created": "2026-11-20T04:02:58+05:30",
   "category": "tech",
@@ -638,120 +750,6 @@
    "എസ്ഡബ്ല്യുപി",
    "ഫിനാൻസ്",
    "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "296595aaade3",
-  "created": "2026-11-19T21:45:15+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-swp-option-who-stands-to-benefit-from-monthly-pf-payouts-after-retirement-explained-11795100208871.html",
-  "headline": "EPFO-യുടെ പുതിയ SWP: 5 ലക്ഷം രൂപ PF ഉള്ളവർക്കു മാസവിതരണം",
-  "hook": "പെൻഷൻ കഴിഞ്ഞു സ്ഥിരം വരുമാനം വേണമോ? ഇനി PF-യിൽ നിന്ന് മാസാന്തം പണം ലഭിക്കും.",
-  "what": "എംപ്ലോയീസ് പ്രൊവിഡന്റ് ഫണ്ട് ഓർഗനൈസേഷൻ (EPFO) ഒരു സിസ്റ്റമാറ്റിക് വിതരണ പദ്ധതി (SWP) അവതരിപ്പിക്കാൻ പദ്ധതിയിടുന്നു. 5 ലക്ഷം രൂപക്ക് മുകളിലുള്ള PF സേവിംഗ്സ് ഉള്ള വിരമിച്ചവർക്ക് മാസത്തിൽ, ത്രൈമാസത്തിൽ, അല്ലെങ്കിൽ അർദ്ധവർഷത്തിൽ പണം ലഭിക്കാൻ കഴിയും, ശേഷിക്കുന്ന തുകക്ക് പലിശ തുടരും.",
-  "why": "ഇത് വിരമിക്കൽ ശേഷം സ്ഥിരമായ വരുമാന ഉറവിടം നൽകും, സാമ്പത്തിക പദ്ധതികളിൽ സഹായകരമാകും. യുവ തൊഴിലാളികൾക്ക് ഈ ₹5 ലക്ഷം പരിധി ശ്രദ്ധയിൽവെച്ച്, ദീർഘകാല സേവിംഗ്സ് പ്ലാനുകൾ ആലോചിക്കാൻ പ്രോത്സാഹനം.",
-  "tags": [
-   "PF",
-   "വിരമിക്കൽ",
-   "EPFO",
-   "സേവിംഗ്സ്",
-   "ഫിനാൻസ്"
-  ]
- },
- {
-  "id": "f01729d76cc9",
-  "created": "2026-11-19T21:45:18+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/the-rohingya-question-international-solidarity-accountability-and-the-missing-road-home/article71720770.ece",
-  "headline": "റോഹിംഗ്യാ സമൂഹം വീട്ടിലേക്ക് മടങ്ങാനുള്ള വഴിയെ തേടുന്നു",
-  "hook": "വിടുതല്പ്പെട്ട ഒരു കൂട്ടം ചോദിക്കുന്നു: വീട്ടിലേക്ക് എങ്ങനെ മടങ്ങാം?",
-  "what": "റോഹിംഗ്യാ ജനങ്ങൾ ക്രമബദ്ധമായി പുറന്തള്ളപ്പെടുകയും, അവരുടെ തിരിച്ചറിവ് നിഷേധിക്കപ്പെടുകയും ചെയ്തിട്ടുണ്ട്. അവർക്ക് സ്വന്തം നാട്ടായി കരുതുന്ന രാജ്യത്തിൽ അവരുടെ സ്ഥാനം വീണ്ടെടുക്കാൻ എങ്ങനെ സാധിക്കും എന്നതാണ് പ്രധാന ചോദ്യമെന്ന് ചർച്ച ചെയ്യപ്പെടുന്നു.",
-  "why": "ഇത് ആഗോള മനുഷ്യാവകാശ പ്രശ്നങ്ങളുമായി ബന്ധപ്പെട്ടിരിക്കുകയാണ്, അതിനാൽ സോളിഡാരിറ്റി ആവശ്യമാണ്. യുവ ഇന്ത്യക്കാർ വിവരങ്ങളോട് ജാഗ്രതയോടെ ഇരിക്കുകയും, മനുഷ്യതാ സഹായ പ്രവർത്തനങ്ങളെ പിന്തുണക്കുകയും ചെയ്യാം.",
-  "tags": [
-   "Rohingya",
-   "HumanRights",
-   "Solidarity",
-   "Displacement",
-   "India"
-  ]
- },
- {
-  "id": "314a36ef4db8",
-  "created": "2026-11-19T21:45:26+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-dialogue-2026-experts-call-for-deeper-indiagcc-ties-in-investment-clean-energy-and-maritime-security-eraukqdw",
-  "headline": "ഇന്ത്യയും GCCയും ശുദ്ധ ഊർജ്ജവും തുറമുഖങ്ങളും സംയുക്ത നിക്ഷേപം ലക്ഷ്യമിടുന്നു",
-  "hook": "പുതിയ ബന്ധം ഇന്ത്യയ്ക്ക് കൂടുതൽ ജോലിയും ഹരിതവൈദ്യുതിയും നൽകാം.",
-  "what": "കോച്ചി ഡയലോഗ് 2026‑ന്റെ രണ്ടാം ദിവസം, ഇന്ത്യയും ഗൾഫ് സഹകരണ കൗൺസിലും (GCC) തമ്മിലുള്ള ആഴത്തിലുള്ള സഹകരണം ആവശ്യമായി ചൂണ്ടിക്കാട്ടി. അടിസ്ഥാന സൗകര്യ നിക്ഷേപം, പുതുക്കാവുന്ന ഊർജ്ജം, തുറമുഖ ബന്ധം, പാശ്ചാത്യ ഏഷ്യയിലെ സമുദ്ര സുരക്ഷ എന്നിവയെക്കുറിച്ച് ചർച്ച ചെയ്തു.",
-  "why": "ഇത് ഇന്ത്യയിലെ അടിസ്ഥാന സൗകര്യങ്ങളിൽ നിക്ഷേപം വർധിപ്പിക്കുകയും ശുദ്ധ ഊർജ്ജ ജോലികളിൽ അവസരങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യും, യുവജനങ്ങൾക്ക് കരിയർ സാധ്യതകൾ തുറക്കും. ഈ മേഖലകളിലെ പുതിയ അവസരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "IndiaGCC",
-   "ശുദ്ധഊർജ്ജം",
-   "നിക്ഷേപം",
-   "സമുദ്രസുരക്ഷ",
-   "ജോലികൾ"
-  ]
- },
- {
-  "id": "2270b40a66e3",
-  "created": "2026-11-19T21:45:28+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Forbes",
-  "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-  "headline": "GTA VI ആദ്യദിവസം The Odyssey‑നെക്കാൾ കൂടുതൽ വരുമാനം",
-  "hook": "പുതിയ GTA ലാഞ്ച് റെക്കോർഡ് തകർത്തു",
-  "what": "Grand Theft Auto VIയുടെ ആദ്യദിവസ വരുമാനം The Odyssey‑നെക്കാൾ കൂടുതലാണ്, അനുമാനങ്ങൾ പറയുന്നു. ഇതു ഗെയിമിന്റെ വിപണി ശക്തി കാണിക്കുന്നു.",
-  "why": "ഇത് ഇന്ത്യയിലെ യുവ ഗെയിമർമാർക്ക് വലിയ ബജറ്റ് ഗെയിമുകളുടെ ആകർഷണം കാണിക്കുന്നു, പുതിയ റിലീസുകൾക്കും ഓഫറുകൾക്കും ശ്രദ്ധിക്കാം.",
-  "tags": [
-   "gta6",
-   "ഗെയിമിംഗ്",
-   "ലോഞ്ച്",
-   "വരുമാനം",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "c990fb121000",
-  "created": "2026-11-19T20:39:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-  "headline": "Anthropic IPO‑യോടെ AI ഫണ്ടിംഗ് പരീക്ഷണം",
-  "hook": "വലിയ AI സ്റ്റാർട്ടപ്പ് പൊതു വിപണിയിൽ, Amazon, Google എന്നിവർക്കും ലാഭം തുടരും",
-  "what": "Anthropic IPO ആരംഭിച്ചു, അതിന് വലിയ കമ്പ്യൂട്ട് ചെലവുകൾ ഉണ്ട്. Amazon, Google പോലുള്ള പ്രധാന ക്ലൗഡ് പങ്കാളികൾ AI സേവനങ്ങളിൽ നിന്ന് വരുമാനം നേടാൻ സാധ്യതയുണ്ട്, Anthropic ന്റെ സ്ഥാനം മാറിയാലും.",
-  "why": "ഇത് AI സ്റ്റാർട്ടപ്പുകളും വലിയ ടെക് കമ്പനികളും തമ്മിലുള്ള ബന്ധം കാണിക്കുന്നു, ഭാവിയിലെ ജോലികളും സാങ്കേതിക അവസരങ്ങളും ഇതിൽ നിന്ന് രൂപംകൊള്ളാം. ക്ലൗഡ് പ്ലാറ്റ്ഫോംസ്‌ ശ്രദ്ധിക്കുന്നത് AI വളർച്ചയുടെ സൂചനകൾ നൽകാം.",
-  "tags": [
-   "AI",
-   "IPO",
-   "cloud",
-   "startup",
-   "tech"
-  ]
- },
- {
-  "id": "e6ab858fe67e",
-  "created": "2026-11-19T20:39:45+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfo-sees-no-legal-way-to-recover-1-816-crore-from-reliance-capital-what-it-means-for-pf-subscribers-11795097088450.html",
-  "headline": "EPFO പറയുന്നു, Reliance Capital‑നിന്ന് ₹1,816 ക്രോഡ് വീണ്ടെടുക്കാൻ നിയമവഴി ഇല്ല",
-  "hook": "നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ട് അപകടത്തിൽ",
-  "what": "Employees’ Provident Fund Organisation (EPFO) Reliance Capital‑ന് ₹1,816 ക്രോഡ് principal‑um interest‑um അടച്ചിട്ടില്ലെന്ന്, നിയമപരമായി തിരികെ നേടാൻ മാർഗം ഇല്ലെന്ന് അറിയിച്ചു. ഈ തുക principal‑um interest‑um ഉൾക്കൊള്ളുന്നു.",
-  "why": "കോർപ്പറേറ്റ് ഡീഫോൾട്ട് സംഭവിക്കുമ്പോൾ തൊഴിലാളികളുടെ സംരക്ഷണത്തിൽ അപകടം ഉണ്ടാകാം, അതിനാൽ ഫണ്ട് നിക്ഷേപങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം.",
-  "tags": [
-   "EPFO",
-   "RelianceCapital",
-   "വിരമിക്കൽ",
-   "നിക്ഷേപം",
-   "ഭീഷണി"
   ]
  }
 ]

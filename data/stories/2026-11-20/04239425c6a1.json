@@ -1,0 +1,37 @@
+{
+ "id": "04239425c6a1",
+ "created": "2026-11-20T04:57:14+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "FXStreet",
+ "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVpqRXppeXVjWm5DTEFsdkVEV2EyYWFKZUJHVlZIb2JuZjFKOXN5RldlSGNpZWlVemp2b20tMGFnSkJmZ2ZLaE9nTWttd3VFcE1sWG02elVzUm1ZMzhkWW5jUV81VUI2NjE1ZjZfUVpXLTM1RUtpTW1SOEIxQnZHNUxycS03UU12M3VKalliTUNBWFg5U1NKcHZIRy1sWkwy?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold slides to 1‑year low as US rates loom",
+  "hook": "Rising US yields are pulling the shine off gold.",
+  "what": "Gold prices fell to their lowest level in a year, pressured by higher Treasury yields and a stronger dollar. The drop continued for a third straight day, with futures slipping about ₹3,016 to roughly ₹1.31 lakh per 10 g. Analysts note that silver and copper also slipped.",
+  "why": "A weaker gold market can affect savings and investment choices for young Indians. Keep an eye on diversified assets and consider US rate expectations before buying gold.",
+  "tags": [
+   "gold",
+   "markets",
+   "investing",
+   "india",
+   "rates"
+  ]
+ },
+ "ml": {
+  "headline": "യു.എസ്. പലിശ നിരക്ക് പ്രതീക്ഷകൾ മൂലം സ്വർണം 1‑വർഷം കുറഞ്ഞു",
+  "hook": "അമേരിക്കൻ ബോണ്ട്‌വിലയും ഡോളറിന്റെ ശക്തിയും സ്വർണ്ണത്തെ താഴേക്ക് തള്ളുന്നു.",
+  "what": "സ്വർണ്ണവില ഒരു വർഷത്തെ കുറഞ്ഞ നിലയിലേക്ക് ഇടിഞ്ഞു, ട്രഷറി യീൽഡുകളും ഡോളറിന്റെ ഉയർച്ചയും കാരണം. മൂന്നാം തുടർച്ചയായ ദിവസമായി ഫ്യൂച്ചറുകൾ ₹3,016 കുറച്ച് ഏകദേശം ₹1.31 ലക്ഷം प्रति 10 ഗ്രാം ആയി. വിദഗ്ധർ പറയുന്നു, വെള്ളി, ചെമ്പ് എന്നിവയും ഇടിഞ്ഞു.",
+  "why": "സ്വർണ്ണം പലരുടെ സേവിംഗ്സും നിക്ഷേപവും ബാധിക്കും, അതിനാൽ യുവാവുകൾ മാർക്കറ്റിലെ മാറ്റങ്ങൾ ശ്രദ്ധിക്കണം. യുഎസ് പലിശ പ്രതീക്ഷകൾ പരിഗണിച്ച്, സ്വർണ്ണം വാങ്ങുന്നതിന് മുമ്പ് മറ്റ് ആസ്തികളിൽ വൈവിധ്യം ഉറപ്പാക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "മാർക്കറ്റ്",
+   "നിക്ഷേപം",
+   "ഇന്ത്യ",
+   "വരുമാനം"
+  ]
+ }
+}

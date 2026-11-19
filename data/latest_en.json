@@ -1,5 +1,117 @@
 [
  {
+  "id": "2dadfab2f9e5",
+  "created": "2026-11-20T04:56:55+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/india-japan-22-dialogue-drills-indian-firing-ranges-rajnath-singh-jaishankar-shinjiro-koizumi-toshimitsu-motegi-10970647/",
+  "headline": "Japanese troops to train at Indian firing ranges",
+  "hook": "First-ever Japanese drills on Indian soil",
+  "what": "The Japanese military will carry out training exercises at firing ranges in India. This is the first time Japanese forces are conducting drills on Indian territory.",
+  "why": "It highlights expanding defence ties between India and Japan, which could influence regional security and open future opportunities for young Indians in defence-related fields.",
+  "tags": [
+   "JapanIndia",
+   "defence",
+   "military drills",
+   "cooperation"
+  ]
+ },
+ {
+  "id": "2d5322692ac8",
+  "created": "2026-11-20T04:57:04+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/stones-eggs-hurled-at-my-car-by-bjp-supporters-in-bengals-nadia-tmc-mp-mahua-moitra/article71719304.ece",
+  "headline": "MP Mahua Moitra claims convoy attacked, BJP calls it stunt",
+  "hook": "A political clash erupts as accusations fly over a convoy incident.",
+  "what": "Lawmaker Mahua Moitra said her convoy was attacked by BJP supporters. BJP leaders responded, saying the incident was staged to attract attention on social media.",
+  "why": "The dispute shows rising political tension and how social media shapes narratives, reminding young Indians to verify facts before sharing.",
+  "tags": [
+   "politics",
+   "MahuaMoitra",
+   "BJP",
+   "socialmedia",
+   "India"
+  ]
+ },
+ {
+  "id": "135b9c83afa6",
+  "created": "2026-11-20T04:57:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Phys.org",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVU21BYTFSVHg5ckdLcUdKT2gtZDBiX3UzelRVTWtvTXdCN2g1RWxsTFFhc2hzelBLVjR6alNQX0kwT2dIQlVFa2VVY3UtY2p3TFVsODJvV3lFYkZyNlVYMmxlcmZnRThxcUg5YjI1SQ?oc=5",
+  "headline": "Scientists outline ways to spot tiny primordial black holes",
+  "hook": "Could hidden mini black holes be the next big discovery?",
+  "what": "Researchers propose detection methods for tiny primordial black holes, if they exist. The strategies involve observing specific cosmic signals.",
+  "why": "Finding such objects would reshape our understanding of the early universe, inspiring interest in space science among youth.",
+  "tags": [
+   "space",
+   "astronomy",
+   "blackholes",
+   "science",
+   "research"
+  ]
+ },
+ {
+  "id": "5096944ef06e",
+  "created": "2026-11-20T04:57:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+  "headline": "IconSwapper animates Mac icons with live AI stats",
+  "hook": "Turn your desktop into a dynamic dashboard.",
+  "what": "A new Mac app called IconSwapper replaces standard icons with animated versions that display real‑time AI usage data. The tool adds playful visuals and lets users tweak the look of their icons. It aims to make the Mac desktop more engaging.",
+  "why": "For Gen Z who love personalization and tech, it offers a quick way to monitor AI activity without opening separate apps. Install it to add a fun, informative layer to your workflow.",
+  "tags": [
+   "Mac",
+   "AI",
+   "customization",
+   "productivity",
+   "apps"
+  ]
+ },
+ {
+  "id": "ae8fc855cd2f",
+  "created": "2026-11-20T04:57:11+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Times",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5",
+  "headline": "World’s first direct brain stem‑cell trial in Alzheimer’s patients",
+  "hook": "Scientists have safely delivered stem cells straight into the brains of people with Alzheimer’s.",
+  "what": "A Phase 1 study injected stem cells directly into the brains (intracerebroventricular) of Alzheimer’s patients. The trial reported safety and changes in disease biomarkers.",
+  "why": "The results could point to new treatment options in the future, so staying aware of such research matters for young Indians.",
+  "tags": [
+   "Alzheimer",
+   "StemCell",
+   "Research",
+   "Health"
+  ]
+ },
+ {
+  "id": "04239425c6a1",
+  "created": "2026-11-20T04:57:14+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "FXStreet",
+  "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVpqRXppeXVjWm5DTEFsdkVEV2EyYWFKZUJHVlZIb2JuZjFKOXN5RldlSGNpZWlVemp2b20tMGFnSkJmZ2ZLaE9nTWttd3VFcE1sWG02elVzUm1ZMzhkWW5jUV81VUI2NjE1ZjZfUVpXLTM1RUtpTW1SOEIxQnZHNUxycS03UU12M3VKalliTUNBWFg5U1NKcHZIRy1sWkwy?oc=5",
+  "headline": "Gold slides to 1‑year low as US rates loom",
+  "hook": "Rising US yields are pulling the shine off gold.",
+  "what": "Gold prices fell to their lowest level in a year, pressured by higher Treasury yields and a stronger dollar. The drop continued for a third straight day, with futures slipping about ₹3,016 to roughly ₹1.31 lakh per 10 g. Analysts note that silver and copper also slipped.",
+  "why": "A weaker gold market can affect savings and investment choices for young Indians. Keep an eye on diversified assets and consider US rate expectations before buying gold.",
+  "tags": [
+   "gold",
+   "markets",
+   "investing",
+   "india",
+   "rates"
+  ]
+ },
+ {
   "id": "6f0f2d869f0f",
   "created": "2026-11-20T04:02:58+05:30",
   "category": "tech",
@@ -637,120 +749,6 @@
    "SWP",
    "finance",
    "youth"
-  ]
- },
- {
-  "id": "296595aaade3",
-  "created": "2026-11-19T21:45:15+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-swp-option-who-stands-to-benefit-from-monthly-pf-payouts-after-retirement-explained-11795100208871.html",
-  "headline": "EPFO proposes monthly PF payouts for retirees with ₹5L+ savings",
-  "hook": "Your future PF could become a steady paycheck after you quit.",
-  "what": "The Employees’ Provident Fund Organisation has floated a systematic withdrawal plan. It lets retirees with more than five lakh rupees in their PF take out money every month, quarter or half‑year, while the rest keeps earning interest.",
-  "why": "It offers a regular income stream after retirement, easing financial planning. Young workers should note the ₹5 lakh threshold and think about long‑term savings.",
-  "tags": [
-   "PF",
-   "Retirement",
-   "EPFO",
-   "Savings",
-   "Finance"
-  ]
- },
- {
-  "id": "f01729d76cc9",
-  "created": "2026-11-19T21:45:18+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/the-rohingya-question-international-solidarity-accountability-and-the-missing-road-home/article71720770.ece",
-  "headline": "Rohingya community seeks path to reclaim home amid marginalisation",
-  "hook": "A displaced group asks: how can we return home?",
-  "what": "The Rohingya people have faced systematic marginalisation, displacement and denial of identity. The central issue being discussed is how they can regain their place in the country they consider home.",
-  "why": "This highlights global human‑rights concerns and the need for solidarity. Young Indians can stay informed and support humanitarian efforts.",
-  "tags": [
-   "Rohingya",
-   "HumanRights",
-   "Solidarity",
-   "Displacement",
-   "India"
-  ]
- },
- {
-  "id": "314a36ef4db8",
-  "created": "2026-11-19T21:45:26+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-dialogue-2026-experts-call-for-deeper-indiagcc-ties-in-investment-clean-energy-and-maritime-security-eraukqdw",
-  "headline": "India and GCC push for joint investments in clean energy and ports",
-  "hook": "New ties could mean more jobs and greener power for India.",
-  "what": "At the second day of Kochi Dialogue 2026, officials highlighted the need for deeper cooperation between India and Gulf Cooperation Council nations. They focused on infrastructure funding, renewable projects, port links and maritime security in West Asia.",
-  "why": "Stronger ties may bring investment into Indian infrastructure and boost clean‑energy jobs, affecting future career options. Young people should watch for emerging opportunities in these sectors.",
-  "tags": [
-   "IndiaGCC",
-   "cleanenergy",
-   "investment",
-   "maritimesecurity",
-   "jobs"
-  ]
- },
- {
-  "id": "2270b40a66e3",
-  "created": "2026-11-19T21:45:28+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Forbes",
-  "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
-  "headline": "GTA VI outsells The Odyssey on launch day",
-  "hook": "The newest GTA just broke launch records.",
-  "what": "Grand Theft Auto VI generated higher revenue on its first day than The Odyssey, according to estimates. The comparison highlights the game's strong market performance.",
-  "why": "It shows the massive demand for big‑budget games among Indian gamers, indicating more local gaming events and content. Teens can keep an eye on upcoming releases and sales.",
-  "tags": [
-   "gta6",
-   "gaming",
-   "launch",
-   "revenue",
-   "india"
-  ]
- },
- {
-  "id": "c990fb121000",
-  "created": "2026-11-19T20:39:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-  "headline": "Anthropic's IPO tests AI funding cycle",
-  "hook": "AI startup goes public while cloud giants still stand to earn",
-  "what": "Anthropic has filed for an initial public offering, taking on massive computing expenses. Its primary cloud providers, such as Amazon and Google, may keep making money from AI services even if Anthropic’s market lead slips.",
-  "why": "The move shows how AI firms rely on big‑tech infrastructure, hinting at future job and tech opportunities for young Indians. Keeping an eye on cloud platforms can signal AI growth trends.",
-  "tags": [
-   "AI",
-   "IPO",
-   "cloud",
-   "startup",
-   "tech"
-  ]
- },
- {
-  "id": "e6ab858fe67e",
-  "created": "2026-11-19T20:39:45+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfo-sees-no-legal-way-to-recover-1-816-crore-from-reliance-capital-what-it-means-for-pf-subscribers-11795097088450.html",
-  "headline": "EPFO says no legal path to recover ₹1,816 cr from Reliance Capital",
-  "hook": "Your retirement fund could be at risk.",
-  "what": "The Employees’ Provident Fund Organisation reported it cannot legally retrieve ₹1,816 crore owed by Reliance Capital. The amount includes both principal and interest.",
-  "why": "This highlights potential risks to workers’ savings when corporate defaults occur, urging contributors to stay aware of fund investments.",
-  "tags": [
-   "EPFO",
-   "RelianceCapital",
-   "RetirementSavings",
-   "InvestmentRisk",
-   "India"
   ]
  }
 ]
