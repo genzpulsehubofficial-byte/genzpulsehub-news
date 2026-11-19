@@ -1,5 +1,100 @@
 [
  {
+  "id": "527cfe0364a3",
+  "created": "2026-11-19T22:49:59+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/odisha/odisha-gears-up-for-cyclone-akvan-shifts-3-lakh-people-to-safety/article71721296.ece",
+  "headline": "Cyclone Akvan set to hit Odisha, 300k moved to safety",
+  "hook": "Stay alert: a strong storm is heading for the coast",
+  "what": "A severe cyclonic storm named Akvan is expected to reach the coasts of north Andhra Pradesh and south Odisha near Gopalpur by noon on Nov 20. The India Meteorological Department reports sustained winds of 90‑100 km/h with gusts up to 110 km/h. Authorities have shifted about 300,000 people to safer locations.",
+  "why": "The high winds could affect travel, power and daily routines, so teens should keep updated, avoid coastal outings and follow official safety advice.",
+  "tags": [
+   "cyclone",
+   "Odisha",
+   "safety",
+   "weather",
+   "youth"
+  ]
+ },
+ {
+  "id": "94871e4eb280",
+  "created": "2026-11-19T22:50:04+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/house-panel-flags-delay-in-implementing-sabarimala-master-plan/article71720966.ece",
+  "headline": "House panel notes delay in Sabarimala master plan",
+  "hook": "A key committee says the temple's development is lagging.",
+  "what": "A parliamentary committee has highlighted that the implementation of the Sabarimala master plan is behind schedule. The panel raised concerns about the slowdown.",
+  "why": "Delays could affect infrastructure and pilgrim facilities in Kerala. Young people should stay informed about local development projects.",
+  "tags": [
+   "Sabarimala",
+   "Kerala",
+   "Temple",
+   "PlanDelay",
+   "Committee"
+  ]
+ },
+ {
+  "id": "27f297a759c1",
+  "created": "2026-11-19T22:50:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+  "headline": "Everful secures $48.5M to boost factory‑direct sourcing",
+  "hook": "Get products straight from factories, no middlemen.",
+  "what": "Everful, a platform that connects retailers with overseas manufacturers, announced a $48.5 million funding round. The money will be used to expand its factory‑direct sourcing services. The aim is to help retailers source products more efficiently.",
+  "why": "For young entrepreneurs and shoppers, this could mean cheaper, faster access to goods made abroad. Keep an eye on such platforms if you plan to start a brand or look for affordable products.",
+  "tags": [
+   "startup",
+   "ecommerce",
+   "sourcing",
+   "funding",
+   "retail"
+  ]
+ },
+ {
+  "id": "d680d8751ecd",
+  "created": "2026-11-19T22:50:13+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "headline": "Anthropic shares jump to $111 on NASDAQ debut",
+  "hook": "The AI startup's stock opened 33% higher than its IPO price.",
+  "what": "Anthropic began trading on the NASDAQ at $111 per share, well above the $83 set for its IPO. The offering brought in more than $80 billion of fresh capital.",
+  "why": "The rise signals strong investor interest in AI firms, hinting at future opportunities and competition in the tech sector for young professionals.",
+  "tags": [
+   "AI",
+   "stockmarket",
+   "NASDAQ",
+   "startup",
+   "investment"
+  ]
+ },
+ {
+  "id": "343f09f23719",
+  "created": "2026-11-19T22:50:16+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-govt-pensioners-get-a-minimum-monthly-pension-of-45-000-heres-what-the-latest-demand-means-11795103610781.html",
+  "headline": "Pensioners demand ₹45k minimum under 8th Pay Commission",
+  "hook": "Retirees push for a ₹45,000 safety net.",
+  "what": "The Bharat Pensioners Samaj has asked the government to set a minimum monthly pension of ₹45,000 under the 8th Pay Commission. They also want higher payouts for family members. The demand aims to raise retirement income.",
+  "why": "Higher pensions could shape fiscal policy and affect future job opportunities, so young Indians should stay aware of pension reforms.",
+  "tags": [
+   "pension",
+   "8thPayCommission",
+   "retirement",
+   "finance",
+   "India"
+  ]
+ },
+ {
   "id": "7f2236abdef1",
   "created": "2026-11-19T21:44:11+05:30",
   "category": "money",
@@ -658,100 +753,6 @@
    "stocks",
    "ETFs",
    "finance"
-  ]
- },
- {
-  "id": "ae51eac5341f",
-  "created": "2026-11-19T15:13:30+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/adani-krishnapatnam-port-inducts-288-electric-vehicles-into-its-fleet/article71718701.ece",
-  "headline": "Adani Krishnapatnam Port adds 288 electric vehicles",
-  "hook": "The port’s green fleet just got a big boost.",
-  "what": "Adani Krishnapatnam Port has incorporated 288 electric vehicles into its operational fleet. An additional 193 electric vehicles are slated to join soon.",
-  "why": "The expansion shows growing adoption of clean transport in India, signalling more eco‑friendly jobs and reduced emissions. Teens can watch for similar green initiatives in their own cities.",
-  "tags": [
-   "Adani",
-   "ElectricVehicles",
-   "GreenTransport",
-   "Port"
-  ]
- },
- {
-  "id": "92284ae6dd95",
-  "created": "2026-11-19T15:13:33+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-karunya-plus-kn650-november-19-2026-thursday-draw-winning-numbers-live-updates-and-more-tmpoam7a",
-  "headline": "Kerala Karunya Plus KN-650 results announced, ₹1 crore top prize",
-  "hook": "Check if you’re one of the lucky winners today",
-  "what": "The state lottery department released the winning numbers for the Karunya Plus KN-650 draw on 19 November 2026. The highest award is one crore rupees.",
-  "why": "A win could give a big financial boost to students or young families, so verify the numbers on the official site.",
-  "tags": [
-   "Kerala",
-   "Lottery",
-   "KarunyaPlus",
-   "Win",
-   "Youth"
-  ]
- },
- {
-  "id": "e468f7776277",
-  "created": "2026-11-19T15:13:35+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/",
-  "headline": "Gadkari pushes states to follow 2025 aggregator rules",
-  "hook": "New guidelines could shape how bike‑taxis operate across India.",
-  "what": "Union Road Transport Minister Nitin Gadkari asked state governments to adopt the Motor Vehicle Aggregator Guidelines for 2025. The appeal comes as several regions tighten actions against bike‑taxi services.",
-  "why": "Young commuters using bike‑taxis need to know the upcoming rules that may affect ride availability and pricing. Stay updated on local transport policies.",
-  "tags": [
-   "transport",
-   "policy",
-   "bikeTaxi",
-   "aggregator",
-   "India"
-  ]
- },
- {
-  "id": "644413e311b4",
-  "created": "2026-11-19T14:02:22+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50ZXo1bEpoQWtwYkZram4zZWJjdnpWSDlaZ3l1LVBZbGtGU3RVYl9hcEdaT2JtR044UTVIeFI4MV9kTEtGY25lU2pSdjBhdFlw?oc=5",
-  "headline": "GTA series satirises America, Leeds studio key for new release",
-  "hook": "The iconic game’s newest chapter gets a boost from Leeds.",
-  "what": "Grand Theft Auto, known for mocking American culture, is launching its latest installment. Rockstar’s lesser‑known studio in Leeds contributed significantly to the development.",
-  "why": "For gamers, it signals fresh content from a global franchise. Watch for release updates and pre‑order options.",
-  "tags": [
-   "GTA",
-   "Rockstar",
-   "gaming",
-   "Leeds",
-   "release"
-  ]
- },
- {
-  "id": "0d6e5d1a8eb2",
-  "created": "2026-11-19T14:03:26+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/bridge-over-bhakra-canal-collapses-in-patiala-as-two-trucks-cross-one-catches-fire-101795075342485.html",
-  "headline": "Bridge over Bhakra Canal collapses, truck catches fire, no injuries",
-  "hook": "A morning bridge collapse sparked a fire but left everyone safe",
-  "what": "Around 6 a.m. near Pasiana village in Patiala, a bridge over the Bhakra Canal gave way as two trucks were crossing. One of the trucks ignited after the collapse. Officials reported no injuries.",
-  "why": "The incident underscores the need for regular checks on infrastructure used by commuters. Stay informed about road safety alerts before heading out.",
-  "tags": [
-   "bridge",
-   "Patiala",
-   "safety",
-   "news",
-   "India"
   ]
  }
 ]

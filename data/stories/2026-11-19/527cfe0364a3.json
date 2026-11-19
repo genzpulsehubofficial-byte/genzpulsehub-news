@@ -1,0 +1,37 @@
+{
+ "id": "527cfe0364a3",
+ "created": "2026-11-19T22:49:59+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/odisha/odisha-gears-up-for-cyclone-akvan-shifts-3-lakh-people-to-safety/article71721296.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cyclone Akvan set to hit Odisha, 300k moved to safety",
+  "hook": "Stay alert: a strong storm is heading for the coast",
+  "what": "A severe cyclonic storm named Akvan is expected to reach the coasts of north Andhra Pradesh and south Odisha near Gopalpur by noon on Nov 20. The India Meteorological Department reports sustained winds of 90‑100 km/h with gusts up to 110 km/h. Authorities have shifted about 300,000 people to safer locations.",
+  "why": "The high winds could affect travel, power and daily routines, so teens should keep updated, avoid coastal outings and follow official safety advice.",
+  "tags": [
+   "cyclone",
+   "Odisha",
+   "safety",
+   "weather",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "സൈക്ലോണ്‍ അക്വാന്‍ ഒഡീഷയില്‍, 3 ലക്ഷം ആളുകള്‍ സുരക്ഷിതമായി",
+  "hook": "വലിയ ചുഴലിക്കാറ്റ് വരുന്നു, ജാഗ്രത പാലിക്കുക",
+  "what": "അക്വാന്‍ എന്ന പേരിലുള്ള ഗുരുതര ചുഴലിക്കാറ്റ് നോര്‍ത്ത് ആന്ധ്രപ്രദേശവും ദക്ഷിണ ഒഡീഷയും ഗോപാല്‍പൂര്‍ സമീപം നവം 20ന് ഉച്ചയ്ക്ക് മുമ്പ് കടന്നുവരാന്‍ സാധ്യതയുണ്ട്. ഇന്ത്യാ കാലാവസ്ഥാ വകുപ്പ് 90‑100 km/h സ്ഥിരവേഗം, 110 km/h വരെ ഗസ്റ്റ്‌റുകള്‍ ഉണ്ടെന്ന് അറിയിച്ചു. അധികാരികള്‍ ഏകദേശം 3 ലക്ഷം ആളുകളെ സുരക്ഷിത പ്രദേശങ്ങളിലേക്ക് മാറ്റി.",
+  "why": "ശക്തമായ കാറ്റുകള്‍ യാത്ര, വൈദ്യുതി, ദൈനംദിന ജീവിതം ബാധിക്കാം, അതിനാല്‍ യുവാക്കള്‍ അപ്ഡേറ്റ് ആയിരിക്കണം, തീരപ്രദേശങ്ങളിലേക്ക് പോകാതെ സുരക്ഷാ നിര്‍ദ്ദേശങ്ങള്‍ പാലിക്കുക.",
+  "tags": [
+   "ചുഴലിക്കാറ്റ്",
+   "ഒഡീഷ",
+   "സുരക്ഷ",
+   "കാലാവസ്ഥ",
+   "യുവാക്കൾ"
+  ]
+ }
+}
