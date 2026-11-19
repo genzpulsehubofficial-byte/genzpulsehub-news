@@ -1,0 +1,37 @@
+{
+ "id": "534b83030ca8",
+ "created": "2026-11-19T19:31:57+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epfo-higher-pension-4-45-lakh-applicants-could-trigger-1-1-lakh-crore-bill-what-it-means-for-employees-and-retirees-11795095810707.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO higher pension could cost ₹1.1 lakh crore",
+  "hook": "Millions of workers may see pension hikes, but the bill is huge.",
+  "what": "The Employees’ Provident Fund Organisation says that approving higher pensions for 4.45 lakh applicants would raise its liability by about ₹1.1 lakh crore. It has already processed a number of claims under the scheme.",
+  "why": "Such a large outlay could affect future contributions and benefits, so employees should stay informed about eligibility and timeline.",
+  "tags": [
+   "pension",
+   "EPFO",
+   "employees",
+   "retirees",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "EPFOയുടെ ഉയർന്ന പെന്‍ഷന്‍ ₹1.1 ലക്ഷം കോടി ചെലവാകും",
+  "hook": "മില്യണ്‍ തൊഴിലാളികള്‍ക്ക് പെന്‍ഷന്‍ വര്‍ദ്ധനവുണ്ടാകാം, പക്ഷേ ബില്‍ വലുതാണ്.",
+  "what": "Employees’ Provident Fund Organisation (EPFO) പറയുന്നു 4.45 ലക്ഷം അപേക്ഷകര്‍ക്ക് ഉയർന്ന പെന്‍ഷന്‍ അംഗീകരിച്ചാല്‍ ഏകദേശം ₹1.1 ലക്ഷം കോടി ബാധ്യത ഉണ്ടാകും. ഇതുവരെ ചില ക്ലെയിമുകള്‍ പ്രോസസ് ചെയ്തിട്ടുണ്ട്.",
+  "why": "ഇത്തരം വലിയ ചെലവ് ഭാവി സംഭാവനകളെയും ലാഭങ്ങളെയും ബാധിക്കാം, അതിനാല്‍ തൊഴിലാളികള്‍ തങ്ങളുടെ യോഗ്യതയും സമയക്രമവും അറിയാന്‍ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "പെന്‍ഷന്‍",
+   "EPFO",
+   "തൊഴിലാളികള്‍",
+   "പെന്‍ഷന്‍ഭദ്രത",
+   "ഫിനാന്‍സ്"
+  ]
+ }
+}

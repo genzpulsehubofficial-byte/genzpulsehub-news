@@ -1,13 +1,12 @@
 {
- "last_run": "2026-11-19T18:15:24+05:30",
- "fetched": 240,
- "made": 5,
+ "last_run": "2026-11-19T19:32:05+05:30",
+ "fetched": 260,
+ "made": 6,
  "providers": {
-  "groq": 5
+  "groq": 6
  },
  "dead_feeds": [
   "Indian Express",
-  "Good news",
   "Onmanorama"
  ],
  "ai_all_failed": 0,

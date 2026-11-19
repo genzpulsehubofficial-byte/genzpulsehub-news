@@ -1,0 +1,37 @@
+{
+ "id": "d1d441cf94b5",
+ "created": "2026-11-19T19:32:05+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/suresh-gopi-assesses-heritage-tourism-fort-kochi-mattancherry-pti10jnyzqo",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Suresh Gopi surveys Fort Kochi heritage tourism prospects",
+  "hook": "A minister checks if historic lanes can become tourist hotspots.",
+  "what": "Union Minister of State Suresh Gopi toured Fort Kochi and Mattancherry to assess possibilities for heritage‑focused tourism development.",
+  "why": "Boosting heritage tourism could create jobs and attract visitors to Kerala’s cultural sites; locals may see new opportunities.",
+  "tags": [
+   "heritage",
+   "tourism",
+   "FortKochi",
+   "Kerala",
+   "development"
+  ]
+ },
+ "ml": {
+  "headline": "സുരേഷ് ഗോപി ഫോർട്ട് കൊച്ചി ഹറിതേജ് ടൂറിസം പരിശോധിച്ചു",
+  "hook": "മന്ത്രിസഭാ സ്റ്റേറ്റ് അംഗം ചരിത്രവഴികളിൽ ടൂറിസം സാധ്യത നോക്കുന്നു.",
+  "what": "കേന്ദ്രമന്ത്രിസഭാ സ്റ്റേറ്റ് മന്ത്രിയായ സുരേഷ് ഗോപി ഫോർട്ട് കൊച്ചി, മട്ടാഞ്ചേരി എന്നിവിടങ്ങളിലേക്ക് യാത്ര ചെയ്തു, ഹറിതേജ് ടൂറിസം വികസന സാധ്യതകൾ വിലയിരുത്തി.",
+  "why": "ഇത് കേരളത്തിലെ സാംസ്കാരിക സ്ഥലങ്ങളിലേക്ക് കൂടുതൽ സന്ദർശകരെ ആകർഷിച്ച് തൊഴിൽ സൃഷ്ടിക്കാം; പ്രദേശവാസികൾക്ക് പുതിയ അവസരങ്ങൾ.",
+  "tags": [
+   "ഹറിതേജ്",
+   "ടൂറിസം",
+   "ഫോർട്ട്‌കൊച്ചി",
+   "കേരളം",
+   "വികസനം"
+  ]
+ }
+}

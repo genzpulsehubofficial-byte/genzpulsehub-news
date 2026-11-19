@@ -1,5 +1,118 @@
 [
  {
+  "id": "d8c89a6f3ace",
+  "created": "2026-11-19T19:31:51+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/myanmar-guilty-of-genocide-against-rohingya-top-un-court-12349556#publisher=newsstand",
+  "headline": "UN Court Declares Myanmar Guilty of Rohingya Genocide",
+  "hook": "World judges say Myanmar must act against genocide suspects.",
+  "what": "A top United Nations tribunal ruled that Myanmar bears responsibility for genocide against the Rohingya community. The court ordered the country to launch investigations and punish anyone involved.",
+  "why": "The decision highlights global accountability and may influence international pressure on Myanmar. Young Indians should stay informed about human rights issues worldwide.",
+  "tags": [
+   "UN",
+   "Myanmar",
+   "Rohingya",
+   "genocide",
+   "justice"
+  ]
+ },
+ {
+  "id": "4cede8418e8f",
+  "created": "2026-11-19T19:31:55+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/authorities-seize-over-71-kg-heroin-bound-for-sri-lanka-2-arrested-in-chennai-101795091149438.html",
+  "headline": "71 kg heroin bust in Chennai, two arrested",
+  "hook": "Huge drug haul meant for Sri Lanka nabbed.",
+  "what": "The Directorate of Revenue Intelligence confiscated about 71 kg of heroin destined for Sri Lanka in Chennai. Two suspects were taken into custody.",
+  "why": "Large seizures show the threat of drug trafficking to young people; stay aware and avoid any involvement.",
+  "tags": [
+   "drugseizure",
+   "Chennai",
+   "SriLanka",
+   "DRI"
+  ]
+ },
+ {
+  "id": "534b83030ca8",
+  "created": "2026-11-19T19:31:57+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-higher-pension-4-45-lakh-applicants-could-trigger-1-1-lakh-crore-bill-what-it-means-for-employees-and-retirees-11795095810707.html",
+  "headline": "EPFO higher pension could cost ₹1.1 lakh crore",
+  "hook": "Millions of workers may see pension hikes, but the bill is huge.",
+  "what": "The Employees’ Provident Fund Organisation says that approving higher pensions for 4.45 lakh applicants would raise its liability by about ₹1.1 lakh crore. It has already processed a number of claims under the scheme.",
+  "why": "Such a large outlay could affect future contributions and benefits, so employees should stay informed about eligibility and timeline.",
+  "tags": [
+   "pension",
+   "EPFO",
+   "employees",
+   "retirees",
+   "finance"
+  ]
+ },
+ {
+  "id": "3a27054e3ed0",
+  "created": "2026-11-19T19:32:00+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+  "headline": "Nimble launches eco-friendly trackable accessories",
+  "hook": "Track your stuff with style and sustainability",
+  "what": "Nimble introduced a line of trackable items such as wallets, keychains, luggage tags and passport covers. The products use item‑tracking technology similar to what Google and Apple offer. They are marketed as eco‑friendly.",
+  "why": "For students who travel or move around campus, these accessories can help locate lost items without harming the environment. Check if your phone’s tracking apps support them before buying.",
+  "tags": [
+   "tech",
+   "gadgets",
+   "sustainability",
+   "students",
+   "tracking"
+  ]
+ },
+ {
+  "id": "1501adb883e7",
+  "created": "2026-11-19T19:32:02+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+  "headline": "Superhuman rolls out Go AI across Docs and Mail",
+  "hook": "Your email app now has a built‑in AI helper everywhere.",
+  "what": "Superhuman is turning its Go assistant into the main AI agent for the service. The company is extending Go’s reach to both Docs and Mail features.",
+  "why": "Students and young professionals can now use the same AI tool for writing emails and documents, saving time. Try the integrated Go assistant within Superhuman.",
+  "tags": [
+   "Superhuman",
+   "GoAI",
+   "productivity",
+   "email",
+   "docs"
+  ]
+ },
+ {
+  "id": "d1d441cf94b5",
+  "created": "2026-11-19T19:32:05+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/suresh-gopi-assesses-heritage-tourism-fort-kochi-mattancherry-pti10jnyzqo",
+  "headline": "Suresh Gopi surveys Fort Kochi heritage tourism prospects",
+  "hook": "A minister checks if historic lanes can become tourist hotspots.",
+  "what": "Union Minister of State Suresh Gopi toured Fort Kochi and Mattancherry to assess possibilities for heritage‑focused tourism development.",
+  "why": "Boosting heritage tourism could create jobs and attract visitors to Kerala’s cultural sites; locals may see new opportunities.",
+  "tags": [
+   "heritage",
+   "tourism",
+   "FortKochi",
+   "Kerala",
+   "development"
+  ]
+ },
+ {
   "id": "132f4b6cdfc0",
   "created": "2026-11-19T18:15:10+05:30",
   "category": "money",
@@ -638,119 +751,6 @@
    "Odisha",
    "Andhra",
    "evacuation"
-  ]
- },
- {
-  "id": "2684e19fa235",
-  "created": "2026-11-19T11:29:50+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/caviar-launches-gta-6-inspired-iphone-samsung-galaxy-z-fold-8-ultra-meta-ray-ban-smart-glasses-12347394",
-  "headline": "Caviar unveils GTA‑6 themed iPhone and Z Fold 8 Ultra",
-  "hook": "Gaming fans can now sport phones styled after GTA 6.",
-  "what": "Luxury customiser Caviar introduced a GTA 6‑inspired iPhone alongside a Galaxy Z Fold 8 Ultra and a pair of Ray‑Ban smart glasses. The collection features personalized iPhones and Samsung foldable devices.",
-  "why": "For Gen Z gamers, the designs blend favorite game aesthetics with premium tech, offering a fresh way to showcase fandom. Keep an eye on such limited editions for unique style statements.",
-  "tags": [
-   "Caviar",
-   "GTA6",
-   "iPhone",
-   "GalaxyFold",
-   "SmartGlasses"
-  ]
- },
- {
-  "id": "83d590f9618f",
-  "created": "2026-11-19T11:29:52+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
-  "headline": "Census portal trims 200+ ‘Other’ religion entries",
-  "hook": "Your favorite faith names might not even appear in the next census.",
-  "what": "The upcoming Census 2027 website had a drop‑down menu for ‘Other’ religions that initially listed around 287 options, including groups like ISKCON and Sanatan. Those entries were later removed, cutting the list by over 200 items.",
-  "why": "The change could affect how minority faiths are recorded, influencing future policies. Teens should stay aware of how their religious identity is captured in official data.",
-  "tags": [
-   "census2027",
-   "religion",
-   "india",
-   "youth",
-   "data"
-  ]
- },
- {
-  "id": "f9bcdb5bb123",
-  "created": "2026-11-19T11:29:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/apps/news/google-photos-build-a-fit-ai-feature-apk-teardown-report-12347368",
-  "headline": "Google Photos may soon suggest outfits with ‘Build a Fit’",
-  "hook": "Your phone could become your personal stylist.",
-  "what": "A recent code analysis of the Google Photos app uncovered a hidden ‘Build a Fit’ feature. The tool is meant to recommend clothing combinations. It is not yet available to users.",
-  "why": "If released, it could help teens pick outfits quickly, saving time. Watch for future Google Photos updates.",
-  "tags": [
-   "GooglePhotos",
-   "OutfitIdeas",
-   "TechUpdate",
-   "AI"
-  ]
- },
- {
-  "id": "26943d7c937a",
-  "created": "2026-11-19T11:29:56+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-19-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794793681377.html",
-  "headline": "Gold and silver rates released for major Indian cities",
-  "hook": "Check today’s metal prices before you shop or invest",
-  "what": "Retail rates for 24K and 22K gold and 999 silver were published for Delhi, Mumbai, Kolkata and other key cities on 19 November. The update also includes the latest MCX market figures.",
-  "why": "Knowing the current rates helps you plan jewellery purchases or investment decisions. Look up the latest numbers before making a move.",
-  "tags": [
-   "gold",
-   "silver",
-   "prices",
-   "retail",
-   "MCX"
-  ]
- },
- {
-  "id": "289ac784e1ee",
-  "created": "2026-11-19T10:26:42+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/icici-hdfc-bank-increase-credit-card-limits-for-select-customers-heres-how-you-can-check-offers-and-eligibility-11795059052398.html",
-  "headline": "ICICI and HDFC Boost Credit Card Limits for Some Users",
-  "hook": "Your card limit could jump up – check now!",
-  "what": "ICICI Bank and HDFC Bank are offering higher credit limits to selected cardholders, with some customers seeing limits more than double. Eligible users can view the offer through their bank’s app or online portal.",
-  "why": "A larger limit can help with bigger purchases or emergencies, but it also means higher potential debt. Log in to your account to see if you qualify.",
-  "tags": [
-   "creditcards",
-   "bankoffers",
-   "youthfinance",
-   "limitincrease",
-   "banking"
-  ]
- },
- {
-  "id": "1b885e8c2daf",
-  "created": "2026-11-19T10:26:50+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FM3BjWHRfbFlaeW94aHdZTVhaVUUxUUJsdFR6cHRjYVg2VVdFT1pPVVNuR2FQMnJQQlRlQUlVTWswb29vRXREMjlhOExQQ2lJR2RzNHBEbHJRbnc?oc=5",
-  "headline": "Elon Musk calls his $500mn US midterm spend 'foolish'",
-  "hook": "The billionaire admits his huge political cash splash was a mistake.",
-  "what": "Elon Musk said he feels \"pretty foolish\" about the record amount he spent on the US midterm elections. He said he donated nearly $500 million to Republican candidates and now regrets it. He also said he is not aligned with MAGA and sees himself as a moderate.",
-  "why": "It shows how even tech moguls can misjudge political influence, reminding young voters to scrutinise big money in elections. Stay aware of how campaign funding works.",
-  "tags": [
-   "politics",
-   "USelection",
-   "ElonMusk",
-   "money",
-   "youth"
   ]
  }
 ]

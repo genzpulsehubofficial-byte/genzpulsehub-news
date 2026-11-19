@@ -1,0 +1,37 @@
+{
+ "id": "d8c89a6f3ace",
+ "created": "2026-11-19T19:31:51+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/myanmar-guilty-of-genocide-against-rohingya-top-un-court-12349556#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "UN Court Declares Myanmar Guilty of Rohingya Genocide",
+  "hook": "World judges say Myanmar must act against genocide suspects.",
+  "what": "A top United Nations tribunal ruled that Myanmar bears responsibility for genocide against the Rohingya community. The court ordered the country to launch investigations and punish anyone involved.",
+  "why": "The decision highlights global accountability and may influence international pressure on Myanmar. Young Indians should stay informed about human rights issues worldwide.",
+  "tags": [
+   "UN",
+   "Myanmar",
+   "Rohingya",
+   "genocide",
+   "justice"
+  ]
+ },
+ "ml": {
+  "headline": "UN കോടതിയില്‍ മ്യാന്‍മാര്‍ റോഹിംഗ്യാ ജനസംഹാരത്തിന് കുറ്റക്കാരെന്ന് പ്രഖ്യാപിച്ചു",
+  "hook": "ലോകം പറയുന്നത്, മ്യാന്‍മാര്‍ കുറ്റക്കാരെ ശിക്ഷിക്കണം എന്ന്.",
+  "what": "യു.എന്‍‌യുടെ ഒരു സുപ്രധാന കോടതിയു മ്യാന്‍മാര്‍ റോഹിംഗ്യാ സമൂഹത്തെതിരേ ജനസംഹാരം ചെയ്തതെന്ന് കണ്ടെത്തി. കോടതിയു രാജ്യത്തെ അന്വേഷണം നടത്താനും കുറ്റക്കാരെ ശിക്ഷിക്കാനും നിര്‍ദ്ദേശിച്ചു.",
+  "why": "ഇത് അന്താരാഷ്ട്ര ഉത്തരവാദിത്തത്തെ ചൂണ്ടിക്കാണിക്കുന്നു, കൂടാതെ മ്യാന്‍മാറില്‍ സമ്മര്‍ദ്ദം വര്‍ധിപ്പിക്കാം. ലോകത്തിലെ മനുഷ്യാവകാശ പ്രശ്നങ്ങളെക്കുറിച്ച് യുവാക്കള്‍ അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "UN",
+   "Myanmar",
+   "Rohingya",
+   "genocide",
+   "justice"
+  ]
+ }
+}
