@@ -1,0 +1,37 @@
+{
+ "id": "90bc463e8339",
+ "created": "2026-11-19T07:19:46+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "CNBC",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Foreign investors pour record funds into Indian stocks",
+  "hook": "India’s market got a boost from a historic FPI surge.",
+  "what": "Foreign Portfolio Investors (FPIs) poured about Rs 99,000 crore (≈$10 billion) into Indian equities in November, the highest monthly inflow ever. The surge helped support stock prices despite rising inflation concerns.",
+  "why": "Young investors see that foreign money can lift markets, but inflation remains a risk, so keep an eye on market trends before deciding.",
+  "tags": [
+   "FPI",
+   "stockmarket",
+   "inflation",
+   "investing",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "വിദേശ നിക്ഷേപകർ ഇന്ത്യൻ സ്റ്റോക്കുകളിൽ റെക്കോർഡ് തുക നിക്ഷേപിച്ചു",
+  "hook": "നവംബർ മാസത്തിലെ ചരിത്രപരമായ FPI വളർച്ച ഇന്ത്യയുടെ മാർക്കറ്റിന് ഊർജം നൽകി.",
+  "what": "വിദേശ പോർട്ട്ഫോളിയോ നിക്ഷേപകർ (FPI) നവംബർ മാസത്തിൽ ഏകദേശം 99,000 കോടി രൂപ (ഏകദേശം $10 ബില്യൺ) ഇന്ത്യൻ ഷെയർ മാർക്കറ്റിൽ നിക്ഷേപിച്ചു, ഇത് ഒരു മാസത്തെ ഏറ്റവും ഉയർന്ന വരുമാനമായി. വിലക്കയറ്റം എന്ന അപകടം ഉണ്ടായിട്ടും, ഈ വരവുകൾ സ്റ്റോക്ക് വിലകൾക്ക് പിന്തുണ നൽകി.",
+  "why": "യുവ നിക്ഷേപകർക്ക് വിദേശ പണം മാർക്കറ്റിനെ ഉയർത്താൻ സഹായിക്കാമെന്ന് കാണാം, പക്ഷേ വിലക്കയറ്റം അപകടം തുടരുന്നതിനാൽ ജാഗ്രത ആവശ്യമുണ്ട്.",
+  "tags": [
+   "FPI",
+   "stockmarket",
+   "inflation",
+   "investing",
+   "India"
+  ]
+ }
+}

@@ -1,5 +1,119 @@
 [
  {
+  "id": "51a124508f57",
+  "created": "2026-11-19T07:19:33+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/dgca-proposes-separate-registration-system-for-prototype-production-aircraft-101795052401367.html",
+  "headline": "DGCA നിർദ്ദേശിച്ച പ്രോട്ടോറ്റൈപ്പ്, പ്രൊഡക്ഷൻ വിമാനങ്ങൾക്ക് പുതിയ രജിസ്ട്രേഷൻ സംവിധാനം",
+  "hook": "വിമാന പരീക്ഷണങ്ങളും സാധാരണ പറക്കലുകളും വേർതിരിച്ച ഐഡികളോടെ നിയന്ത്രിക്കാൻ DGCA ആലോചിക്കുന്നു.",
+  "what": "സിവിൽ ഏവിയേഷൻ ഡയറക്ടറേറ്റ് പ്രോട്ടോറ്റൈപ്പ്, പ്രൊഡക്ഷൻ വിമാനങ്ങൾക്ക് വ്യത്യസ്ത രജിസ്ട്രേഷൻ മാർഗം നിർദ്ദേശിച്ചു. ഈ പദ്ധതി ഇരുവിഭാഗത്തിനും ഒരു പൊതുവായ രജിസ്ട്രേഷൻ മാർക്കുകളുടെ കൂട്ട് സൃഷ്ടിക്കും.",
+  "why": "പുതിയ വിമാനങ്ങളുടെ ട്രാക്കിംഗ്, സുരക്ഷാ മേൽനോട്ടം മെച്ചപ്പെടുത്താൻ ഇത് സഹായിക്കും, എയർസ്‌പേസ് പഠിക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് ഇത് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "വിമാനയാനം",
+   "DGCA",
+   "രജിസ്ട്രേഷൻ",
+   "വായു",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ },
+ {
+  "id": "b7d575a91648",
+  "created": "2026-11-19T07:19:37+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
+  "headline": "FDA 20,000 ലിറ്റർ എണ്ണം പിടിച്ചെടുത്തു",
+  "hook": "നിങ്ങളുടെ അടുക്കളയിലെ എണ്ണ സുരക്ഷിതമാണോ? നോക്കാം",
+  "what": "Food and Drug Administration पुणेയിലെ അംബി ഗ്രാമത്തിലെ Avenue Supermarts Limited വെയർഹൗസിൽ നിന്ന് 20,085 ലിറ്റർ എണ്ണം പിടിച്ചെടുത്തു. ഭക്ഷ്യ സുരക്ഷാ നിയമങ്ങൾ ലംഘിച്ചതിനാൽ ഈ നടപടി നടന്നു.",
+  "why": "ഇത് ഉൽപ്പന്നത്തിന്റെ ഗുണമേന്മ പരിശോധിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു. വാങ്ങുമ്പോൾ ശരിയായ ലേബലും സർട്ടിഫിക്കേഷനും ഉള്ളതാണോ എന്ന് ഉറപ്പാക്കുക.",
+  "tags": [
+   "FDA",
+   "ഭക്ഷ്യസുരക്ഷ",
+   "പൂണെ",
+   "എണ്ണ",
+   "ഉപഭോക്തൃഅലർട്ട്"
+  ]
+ },
+ {
+  "id": "3aca9faceeb7",
+  "created": "2026-11-19T07:19:39+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "PYMNTS.com",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDctT0dWT2dqSmJ2U3VvRVpRSmtKTjJxeV9fNzNXUFBET1NQUmdjSnZrQjRqWllsZ0xQWG9rZ1FkLXdRMnBnVFFQeHlFOXduUGJBeFNjNHVmY3h3N3JpSlY5ajB6R0o3V25oUjhyNXhFWVlRT0tCTXFZSW9ES1A0V05mZHE1QzF3Y2tCS0p3VlN5anh5WnJhc0NsSVN1M2IwTjM4SFV4ME1iWTNZbWFxcQ?oc=5",
+  "headline": "Snapchat AI ഉപകരണങ്ങളോടെ AR ലെൻസ് സൃഷ്ടി",
+  "hook": "AI അസിസ്റ്റന്റുകളോടെ Snapchat ലെൻസ് വേഗത്തിൽ നിർമ്മിക്കുക.",
+  "what": "Snapchat ഡെവലപ്പർമാർക്ക് Claude Code, Cursor പോലുള്ള AI സഹായികളുമായി AR ലെൻസ് രൂപകൽപ്പന ചെയ്യാൻ അനുവദിക്കുന്നു. npm‑ലുള്ള Easy Lens CLI മൂന്ന് പ്ലാറ്റ്ഫോംമുകളിൽ നേറ്റീവ് ബൈനറികളോടെ ലഭ്യമാണ്, creators‑ക്ക് ലെൻസ് നേരിട്ട് പ്രസിദ്ധീകരിക്കാൻ സാദ്ധ്യമാക്കുന്നു.",
+  "why": "ബ്രാൻഡുകളും യുവ സൃഷ്ടികർത്താക്കളും വേഗത്തിൽ ഇന്ററാക്ടീവ് ഉള്ളടക്കം പുറത്തിറക്കാൻ സഹായിക്കുന്നു.",
+  "tags": [
+   "Snapchat",
+   "AI",
+   "AR",
+   "Creators",
+   "Tech"
+  ]
+ },
+ {
+  "id": "a8022fb06095",
+  "created": "2026-11-19T07:19:41+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "headline": "Microsoft 60K ജീവനക്കാരന്‍ ബൈ‑ഔട്ട്, AI കാരണം",
+  "hook": "CEO‑ന്‍ AI‑യുടെ മാറ്റം കൊണ്ട് സ്വമേധയാ രാജി നല്‍കാന്‍ 60,000 ആളുകളെ പ്രേരിപ്പിച്ചു",
+  "what": "ഒക്ടോബറില്‍ Microsoft‑ന്റെ CEO Satya Nadella 60,000 ജീവനക്കാരന്‍ സ്വമേധയാ ബൈ‑ഔട്ട് ഓഫര്‍ നല്‍കിയെന്ന് പറഞ്ഞു. വലിയ ലെയ്ഫോൾ ഒഴിവാക്കി ഈ മാര്‍ഗം തിരഞ്ഞെടുത്തു. ഈ തീരുമാനത്തിന് AI‑യുടെ തൊഴില്‍ സ്വാധീനം കാരണമായി.",
+  "why": "ഇന്ത്യയിലെ യുവ ടെക്‌പ്രവർത്തകര്‍ക്ക് AI‑യുടെ വേഗത്തിലുള്ള മാറ്റം ശ്രദ്ധിക്കേണ്ടതുണ്ട്, ബന്ധപ്പെട്ട കഴിവുകള്‍ പഠിക്കുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "Microsoft",
+   "AI",
+   "ജോലികൾ",
+   "ടെക്",
+   "ക്യാരിയർ"
+  ]
+ },
+ {
+  "id": "41d1362ac970",
+  "created": "2026-11-19T07:19:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFVBdl96WEwwSHJqTEZhU3hPUWlLUlhWS0dqSHk5V3B1dHVUN1pqNk8xUDM3bGc0WV9PelNCVFdsdnlqUmxzQzNUbFZVZzRfTmUxRV93dXYzRWtacWhlcDg2WEo0V0h3NnRLa085MkZUSDdUS0NKd0dGR19pdlJIZVJpYWpEZGxkQnJNOWVwNjBVZFk4dUNxSXc4Y9IBoAFBVV95cUxQYzlVdURKQXVHRjRwXzFJV3hxcWlRWnR4VVhCa3I4N3U1WHpoYW1QRnAyaWVPX0VHcGIwNjJIbFc0V01yV0o4Y3owMWlQNzBiUHRPMXpkT1c1ZF94Ymk2ZmhUMnl0ZlBZZEhfNlpNeUFfS1lpVnd2OXJYbmdaSW0xam1VT3RDMmtUNnZfUnM3bXc1S2lnVWRkTDdRZGE3bllz?oc=5",
+  "headline": "Anthropic‑ന്റെ $81.3 ബില്യൺ IPO ചരിത്രം സൃഷ്ടിച്ചു",
+  "hook": "AI സ്റ്റാർട്ടപ്പ് ലോകത്തിലെ ഏറ്റവും വലിയ സ്റ്റോക്ക് ഡെബ്യൂ നേടി.",
+  "what": "Anthropic തന്റെ IPO‑യിൽ $81.3 ബില്യൺ സമാഹരിച്ചു, ഇതു ഇതുവരെ നടന്ന ഏറ്റവും വലിയ ഓഫറിംഗ് ആയി. കമ്പനി ഡെബ്യൂ ഷെയർ വില $83 ആയി നിശ്ചയിച്ചു, അനലിസ്റ്റുകളുടെ പ്രതീക്ഷകൾക്കു മുകളിലായി, കൂടാതെ ജപ്പാനിൽ $3 ബില്യൺ കൂടി സമ്പാദിച്ചു.",
+  "why": "ഇത് AI മേഖലയിലെ നിക്ഷേപകരുടെ താൽപ്പര്യം ഉയർന്നതിന്റെ സൂചനയാണ്, യുവ സംരംഭകർക്ക് പുതിയ അവസരങ്ങളും മത്സരവുമുണ്ടാക്കും.",
+  "tags": [
+   "AI",
+   "IPO",
+   "TechFunding",
+   "Startups",
+   "Investing"
+  ]
+ },
+ {
+  "id": "90bc463e8339",
+  "created": "2026-11-19T07:19:46+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "CNBC",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
+  "headline": "വിദേശ നിക്ഷേപകർ ഇന്ത്യൻ സ്റ്റോക്കുകളിൽ റെക്കോർഡ് തുക നിക്ഷേപിച്ചു",
+  "hook": "നവംബർ മാസത്തിലെ ചരിത്രപരമായ FPI വളർച്ച ഇന്ത്യയുടെ മാർക്കറ്റിന് ഊർജം നൽകി.",
+  "what": "വിദേശ പോർട്ട്ഫോളിയോ നിക്ഷേപകർ (FPI) നവംബർ മാസത്തിൽ ഏകദേശം 99,000 കോടി രൂപ (ഏകദേശം $10 ബില്യൺ) ഇന്ത്യൻ ഷെയർ മാർക്കറ്റിൽ നിക്ഷേപിച്ചു, ഇത് ഒരു മാസത്തെ ഏറ്റവും ഉയർന്ന വരുമാനമായി. വിലക്കയറ്റം എന്ന അപകടം ഉണ്ടായിട്ടും, ഈ വരവുകൾ സ്റ്റോക്ക് വിലകൾക്ക് പിന്തുണ നൽകി.",
+  "why": "യുവ നിക്ഷേപകർക്ക് വിദേശ പണം മാർക്കറ്റിനെ ഉയർത്താൻ സഹായിക്കാമെന്ന് കാണാം, പക്ഷേ വിലക്കയറ്റം അപകടം തുടരുന്നതിനാൽ ജാഗ്രത ആവശ്യമുണ്ട്.",
+  "tags": [
+   "FPI",
+   "stockmarket",
+   "inflation",
+   "investing",
+   "India"
+  ]
+ },
+ {
   "id": "ab5b04d33cdb",
   "created": "2026-11-19T05:48:02+05:30",
   "category": "tech",
@@ -639,120 +753,6 @@
    "ConsumerRights",
    "Fraud",
    "Telangana"
-  ]
- },
- {
-  "id": "db14af63122f",
-  "created": "2026-11-18T23:50:29+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "GamesIndustry.biz",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelZ6dnh5WXl0ZGx0SmRYMTdpWEE0MkpwTnZuVnA2a3RxTTc1Zm16UDdJeWxKd1ZYakdRQWtmd3A2TDJVNGdULWhTejREY21JTlJGaThLQlBENXA4enBuTzVBYnoxdTVVc0IzeEFNVVpqYlIyOF9zVU5XcC1NbkVfczdOQk9NaWRDdjFFTENR?oc=5",
-  "headline": "Arknights: Endfield-ന് Google Play‑യുടെ 2026 ഗെയിം ഓഫ് ദി ഇയര്‍",
-  "hook": "പുതിയ ഗെയിം ഹിറ്റ് നോക്കാന്‍ സമയം കിട്ടി!",
-  "what": "Google Play ഇന്ത്യയില്‍ 2026‑ലെ ടോപ്പ് ആപ്പുകളും ഗെയിമുകളും പ്രഖ്യാപിച്ചു. സ്റ്റ്രാറ്റജി ഗെയിം Arknights: Endfield-ന് ഗെയിം ഓഫ് ദി ഇയര്‍ പുരസ്കാരം ലഭിച്ചു. Adobe Premiere-നും മികച്ച ആപ്പായി പേര് ലഭിച്ചു.",
-  "why": "Google Play‑യുടെ ശുപാര്‍ശ ഗെയിമിന്റെ ദൃശ്യതയും ഡൗണ്‍ലോഡുകളും വര്‍ദ്ധിപ്പിക്കും, അതിനാല്‍ യുവ ഗെയിമര്‍മാര്‍ ഇതു പരീക്ഷിക്കാം.",
-  "tags": [
-   "gaming",
-   "GooglePlay",
-   "Arknights",
-   "2026",
-   "GameOfTheYear"
-  ]
- },
- {
-  "id": "a20a6198c1eb",
-  "created": "2026-11-18T23:50:32+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHY2LXp4eXNubkFqcjB3SWlscVJHMXMxYUF0WjNUVDZZaFd3NHZZaGxvQUtmYXg5bEVNR0FKZ1FnLVpWLTJSUjNxMWxzVzFabTVzM1QzT0VoRlEzbUc4Qkw0NVJKX01hWWJXN3o1amkySTRKd3FMeHhKSDQ0TTV6TlhNZllZQk14RFRwU3RKdW1Rdw?oc=5",
-  "headline": "Emirates Eagles vs Yas Lions: Abu Dhabi T10 മാച്ച് 27",
-  "hook": "T10 ത്രില്ലർ, ഏത് ടീം പിച്ച് കീഴടക്കും?",
-  "what": "Abu Dhabi T10 ലീഗിന്റെ 27‑ാം മാച്ചിൽ Emirates Eagles, Yas Lions തമ്മിൽ മത്സരിക്കുന്നു. CricTracker, Dream11 തുടങ്ങിയ പ്ലാറ്റ്ഫോമുകളിൽ മാച്ച് പ്രവചനം ലഭ്യമാണ്.",
-  "why": "ലൈവ് സ്കോറുകൾ പിന്തുടർന്ന്, ഫാന്റസി ക്രിക്കറ്റ് തിരഞ്ഞെടുപ്പുകൾക്ക് പ്രവചനങ്ങൾ ഉപയോഗിക്കാം.",
-  "tags": [
-   "ക്രിക്കറ്റ്",
-   "T10",
-   "AbuDhabi",
-   "EmiratesEagles",
-   "YasLions"
-  ]
- },
- {
-  "id": "bd18228c2f9e",
-  "created": "2026-11-18T22:58:00+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/maharashtra/eknath-shinde-tears-sonia-gandhis-book-over-savarkar-references-seeks-ban-in-maharashtra/article71717132.ece",
-  "headline": "ഷീവ് സെനാ സോണി ഗാന്ധി സ്മൃതിയിൽ പേജ് നീക്കം ആവശ്യപ്പെട്ടു",
-  "hook": "മഹാരാഷ്ട്രയിൽ ഒരു പുസ്തകത്തെക്കുറിച്ച് രാഷ്ട്രീയ സംഘർഷം പൊട്ടിപ്പുറപ്പെട്ടു",
-  "what": "ഷീവ് സെനാ അംഗങ്ങൾ സോണി ഗാന്ധിയുടെ സ്മൃതികളിലെ സവർക്കർ പരാമർശങ്ങളുള്ള രണ്ട് പേജുകൾ കുത്തി തകർത്തു. അവർ ഹാർപ്പർകോളിൻസിനോട് ആ പേജുകൾ നീക്കാൻ ആവശ്യപ്പെട്ടു. കോൺഗ്രസ് പ്രതിഷേധം പ്രകടിപ്പിച്ചു, ഉദ്ദവ സെനാ നേതാക്കൾ ഷിൻഡ് വിഭാഗത്തെതിരെ പ്രതികരിച്ചു.",
-  "why": "ചരിത്രം എങ്ങനെ അവതരിപ്പിക്കപ്പെടുന്നു എന്നതിൽ ഈ തർക്കം ശ്രദ്ധ ആകർഷിക്കുന്നു, യുവാക്കൾക്ക് വിവരങ്ങൾ സമതുലിതമായി പരിശോധിക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
-  "tags": [
-   "ഷീവ്‌സെനാ",
-   "സോണിഗാന്ധി",
-   "പുസ്തകപ്രതിഷേധം",
-   "മഹാരാഷ്ട്ര",
-   "രാഷ്ട്രീയം"
-  ]
- },
- {
-  "id": "4ec9a2c1636e",
-  "created": "2026-11-18T22:58:02+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/telangana-govt-family-insurance-scheme-rs-5-lakh-cover-on-nov-19-check-eligibility-how-to-apply-and-documents-needed-11795017171262.html",
-  "headline": "ടെലങ്കാനയിൽ 19 നവംബർ മുതൽ സൗജന്യ 5 ലക്ഷം കുടുംബ ഇൻഷുറൻസ്",
-  "hook": "യോഗ്യമായ കുടുംബത്തിലെ ഒരു വരുമാനക്കാരന്‍ ജീവിത കവർ സൗജന്യമായി",
-  "what": "19 നവംബറിൽ സംസ്ഥാന സർക്കാർ ഇൻഡിറമ്മ കുടുംബ ഇൻഷുറൻസ് പദ്ധതിയുടെ രജിസ്ട്രേഷൻ ആരംഭിക്കും. പ്രീമിയം സർക്കാർ അടയ്ക്കും, മരണം സംഭവിച്ചാൽ നാമനിർദ്ദേശിതർക്ക് 5 ലക്ഷം രൂപയുടെ ലാഭം ലഭിക്കും.",
-  "why": "യുവ കുടുംബങ്ങൾക്ക് സാമ്പത്തിക സുരക്ഷ നൽകുന്നു; രജിസ്ട്രേഷൻ varten രേഷൻ കാർഡ് വിവരങ്ങൾ ഉപയോഗിച്ച് അപേക്ഷിക്കാം.",
-  "tags": [
-   "ടെലങ്കാന",
-   "ഇൻഷുറൻസ്",
-   "കുടുംബ",
-   "ഇൻഡിറമ്മ",
-   "സൗജന്യം"
-  ]
- },
- {
-  "id": "92075c436584",
-  "created": "2026-11-18T22:58:05+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/big-relief-how-defence-pensioners-abroad-can-submit-life-certificates-through-authorised-indian-bank-officials-11795016553617.html",
-  "headline": "Defence pensioners abroad-ൽ ഇനി Indian banks വഴി life certificate submit ചെയ്യാം",
-  "hook": "Embassy visit വേണ്ട, അടുത്ത Indian bank-ൽ തന്നെ ചെയ്യാം",
-  "what": "SPARSH pensioners overseas-ൽ annual life certificate നേടാൻ Indian embassy പോകേണ്ടി വരില്ല. Indian banks‑ലെ authorised officials‑ന് manual certificate attestation ചെയ്യിക്കാം, അത് അംഗീകരിക്കും.",
-  "why": "ഇത് families‑ന് process ലളിതമാക്കും, pension time‑ലേയ്ക്ക് delay ഇല്ലാതാക്കും. നിങ്ങളുടെ relative defence pensioner abroad‑ൽ ഉണ്ടെങ്കിൽ, അടുത്ത Indian bank‑ൽ attestation ചെയ്യാൻ പറയൂ.",
-  "tags": [
-   "defence",
-   "pension",
-   "overseas",
-   "banks",
-   "SPARSH"
-  ]
- },
- {
-  "id": "3439be5ca604",
-  "created": "2026-11-18T22:58:07+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-  "headline": "AI takeover ഭയത്തില്‍ Altman: മനുഷ്യ നിയന്ത്രണം ആവശ്യം",
-  "hook": "ടെക് നേതാക്കള്‍ AI‑നെ നിയന്ത്രണത്തില്‍ വെയ്ക്കണം എന്ന് പറയുന്നു.",
-  "what": "Sam Altman, Greg Brockman AI‑യുടെ തീരുമാന‑മാറ്റം ചർച്ചയെതിരെ പ്രതികരിച്ചു. സിലിക്കണ്‍ വാലിയില്‍ ഈ ചര്‍ച്ച വര്‍ദ്ധിക്കുന്നു. അവര്‍ ഉയര്‍ന്ന AI‑യെ മനുഷ്യന്‍ നിയന്ത്രണത്തില്‍ വെയ്ക്കാന്‍ ബുദ്ധിമുട്ടുണ്ടെന്ന് ചൂണ്ടിക്കാട്ടി.",
-  "why": "ഇത് യുവാക്കള്‍ക്ക് AI സുരക്ഷയെക്കുറിച്ച് പഠിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു. വികസനങ്ങളെ ശ്രദ്ധിച്ച് AI നൈതികതയില്‍ താല്‍പര്യം കാണിക്കുക.",
-  "tags": [
-   "AI",
-   "technology",
-   "future",
-   "safety",
-   "GenZ"
   ]
  }
 ]

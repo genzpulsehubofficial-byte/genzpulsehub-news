@@ -1,0 +1,37 @@
+{
+ "id": "b7d575a91648",
+ "created": "2026-11-19T07:19:37+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "FDA confiscates over 20,000 litres oil in Pune",
+  "hook": "Your cooking oil might be under scrutiny – see why",
+  "what": "The Food and Drug Administration seized 20,085 litres of oil from a warehouse belonging to Avenue Supermarts in Ambi village, Pune. The action was taken after officials found violations of food‑safety rules.",
+  "why": "It shows why checking product quality and certifications matters. Teens should look for proper labeling and safety approvals when buying cooking oil.",
+  "tags": [
+   "FDA",
+   "foodSafety",
+   "Pune",
+   "oilSeizure",
+   "consumerAlert"
+  ]
+ },
+ "ml": {
+  "headline": "FDA 20,000 ലിറ്റർ എണ്ണം പിടിച്ചെടുത്തു",
+  "hook": "നിങ്ങളുടെ അടുക്കളയിലെ എണ്ണ സുരക്ഷിതമാണോ? നോക്കാം",
+  "what": "Food and Drug Administration पुणेയിലെ അംബി ഗ്രാമത്തിലെ Avenue Supermarts Limited വെയർഹൗസിൽ നിന്ന് 20,085 ലിറ്റർ എണ്ണം പിടിച്ചെടുത്തു. ഭക്ഷ്യ സുരക്ഷാ നിയമങ്ങൾ ലംഘിച്ചതിനാൽ ഈ നടപടി നടന്നു.",
+  "why": "ഇത് ഉൽപ്പന്നത്തിന്റെ ഗുണമേന്മ പരിശോധിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു. വാങ്ങുമ്പോൾ ശരിയായ ലേബലും സർട്ടിഫിക്കേഷനും ഉള്ളതാണോ എന്ന് ഉറപ്പാക്കുക.",
+  "tags": [
+   "FDA",
+   "ഭക്ഷ്യസുരക്ഷ",
+   "പൂണെ",
+   "എണ്ണ",
+   "ഉപഭോക്തൃഅലർട്ട്"
+  ]
+ }
+}

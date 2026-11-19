@@ -1,0 +1,37 @@
+{
+ "id": "41d1362ac970",
+ "created": "2026-11-19T07:19:44+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFVBdl96WEwwSHJqTEZhU3hPUWlLUlhWS0dqSHk5V3B1dHVUN1pqNk8xUDM3bGc0WV9PelNCVFdsdnlqUmxzQzNUbFZVZzRfTmUxRV93dXYzRWtacWhlcDg2WEo0V0h3NnRLa085MkZUSDdUS0NKd0dGR19pdlJIZVJpYWpEZGxkQnJNOWVwNjBVZFk4dUNxSXc4Y9IBoAFBVV95cUxQYzlVdURKQXVHRjRwXzFJV3hxcWlRWnR4VVhCa3I4N3U1WHpoYW1QRnAyaWVPX0VHcGIwNjJIbFc0V01yV0o4Y3owMWlQNzBiUHRPMXpkT1c1ZF94Ymk2ZmhUMnl0ZlBZZEhfNlpNeUFfS1lpVnd2OXJYbmdaSW0xam1VT3RDMmtUNnZfUnM3bXc1S2lnVWRkTDdRZGE3bllz?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic's $81.3bn IPO Sets Record as Biggest Ever",
+  "hook": "AI startup lands the largest stock debut in history.",
+  "what": "Anthropic raised $81.3 billion in its initial public offering, the biggest ever recorded. The company set its debut share price at $83, above analysts’ expectations, and also secured $3 billion from investors in Japan.",
+  "why": "The massive funding shows strong interest in AI ventures, signalling more opportunities and competition for young innovators in the tech space.",
+  "tags": [
+   "AI",
+   "IPO",
+   "TechFunding",
+   "Startups",
+   "Investing"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic‑ന്റെ $81.3 ബില്യൺ IPO ചരിത്രം സൃഷ്ടിച്ചു",
+  "hook": "AI സ്റ്റാർട്ടപ്പ് ലോകത്തിലെ ഏറ്റവും വലിയ സ്റ്റോക്ക് ഡെബ്യൂ നേടി.",
+  "what": "Anthropic തന്റെ IPO‑യിൽ $81.3 ബില്യൺ സമാഹരിച്ചു, ഇതു ഇതുവരെ നടന്ന ഏറ്റവും വലിയ ഓഫറിംഗ് ആയി. കമ്പനി ഡെബ്യൂ ഷെയർ വില $83 ആയി നിശ്ചയിച്ചു, അനലിസ്റ്റുകളുടെ പ്രതീക്ഷകൾക്കു മുകളിലായി, കൂടാതെ ജപ്പാനിൽ $3 ബില്യൺ കൂടി സമ്പാദിച്ചു.",
+  "why": "ഇത് AI മേഖലയിലെ നിക്ഷേപകരുടെ താൽപ്പര്യം ഉയർന്നതിന്റെ സൂചനയാണ്, യുവ സംരംഭകർക്ക് പുതിയ അവസരങ്ങളും മത്സരവുമുണ്ടാക്കും.",
+  "tags": [
+   "AI",
+   "IPO",
+   "TechFunding",
+   "Startups",
+   "Investing"
+  ]
+ }
+}

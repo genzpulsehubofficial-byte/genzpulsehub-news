@@ -1,5 +1,119 @@
 [
  {
+  "id": "51a124508f57",
+  "created": "2026-11-19T07:19:33+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/dgca-proposes-separate-registration-system-for-prototype-production-aircraft-101795052401367.html",
+  "headline": "DGCA plans new registration system for prototype and production planes",
+  "hook": "India's aviation regulator wants separate IDs for test and regular jets.",
+  "what": "The Directorate General of Civil Aviation has suggested a distinct registration approach for prototype and production aircraft. The proposal includes a shared pool of registration marks applicable to both categories.",
+  "why": "This could streamline tracking of new aircraft and improve safety oversight, relevant for students interested in aviation careers. Keep an eye on updates if you plan to study aerospace.",
+  "tags": [
+   "aviation",
+   "DGCA",
+   "aircraft",
+   "registration",
+   "students"
+  ]
+ },
+ {
+  "id": "b7d575a91648",
+  "created": "2026-11-19T07:19:37+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
+  "headline": "FDA confiscates over 20,000 litres oil in Pune",
+  "hook": "Your cooking oil might be under scrutiny – see why",
+  "what": "The Food and Drug Administration seized 20,085 litres of oil from a warehouse belonging to Avenue Supermarts in Ambi village, Pune. The action was taken after officials found violations of food‑safety rules.",
+  "why": "It shows why checking product quality and certifications matters. Teens should look for proper labeling and safety approvals when buying cooking oil.",
+  "tags": [
+   "FDA",
+   "foodSafety",
+   "Pune",
+   "oilSeizure",
+   "consumerAlert"
+  ]
+ },
+ {
+  "id": "3aca9faceeb7",
+  "created": "2026-11-19T07:19:39+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "PYMNTS.com",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDctT0dWT2dqSmJ2U3VvRVpRSmtKTjJxeV9fNzNXUFBET1NQUmdjSnZrQjRqWllsZ0xQWG9rZ1FkLXdRMnBnVFFQeHlFOXduUGJBeFNjNHVmY3h3N3JpSlY5ajB6R0o3V25oUjhyNXhFWVlRT0tCTXFZSW9ES1A0V05mZHE1QzF3Y2tCS0p3VlN5anh5WnJhc0NsSVN1M2IwTjM4SFV4ME1iWTNZbWFxcQ?oc=5",
+  "headline": "Snapchat launches AI tools for AR lens creation",
+  "hook": "Build Snapchat lenses faster with AI assistants.",
+  "what": "Snapchat now offers developers AI helpers like Claude Code and Cursor to design augmented‑reality lenses. The Easy Lens CLI, available on npm, includes native binaries for three platforms, letting creators publish lenses directly.",
+  "why": "Helps brands and teen creators launch interactive content quickly, expanding their reach on the platform.",
+  "tags": [
+   "Snapchat",
+   "AI",
+   "AR",
+   "Creators",
+   "Tech"
+  ]
+ },
+ {
+  "id": "a8022fb06095",
+  "created": "2026-11-19T07:19:41+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+  "headline": "Microsoft offers buyouts to 60K staff, cites AI shift",
+  "hook": "CEO nudges thousands to leave voluntarily as AI reshapes jobs",
+  "what": "In October, Microsoft CEO Satya Nadella said the company gave voluntary buyout offers to about 60,000 employees. He chose this route instead of a large‑scale layoff. The move is linked to the impact of artificial intelligence on the workforce.",
+  "why": "For young Indians eyeing tech careers, it signals rapid AI‑driven changes in big firms. Staying updated on AI skills could be crucial.",
+  "tags": [
+   "Microsoft",
+   "AI",
+   "jobs",
+   "tech",
+   "career"
+  ]
+ },
+ {
+  "id": "41d1362ac970",
+  "created": "2026-11-19T07:19:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFVBdl96WEwwSHJqTEZhU3hPUWlLUlhWS0dqSHk5V3B1dHVUN1pqNk8xUDM3bGc0WV9PelNCVFdsdnlqUmxzQzNUbFZVZzRfTmUxRV93dXYzRWtacWhlcDg2WEo0V0h3NnRLa085MkZUSDdUS0NKd0dGR19pdlJIZVJpYWpEZGxkQnJNOWVwNjBVZFk4dUNxSXc4Y9IBoAFBVV95cUxQYzlVdURKQXVHRjRwXzFJV3hxcWlRWnR4VVhCa3I4N3U1WHpoYW1QRnAyaWVPX0VHcGIwNjJIbFc0V01yV0o4Y3owMWlQNzBiUHRPMXpkT1c1ZF94Ymk2ZmhUMnl0ZlBZZEhfNlpNeUFfS1lpVnd2OXJYbmdaSW0xam1VT3RDMmtUNnZfUnM3bXc1S2lnVWRkTDdRZGE3bllz?oc=5",
+  "headline": "Anthropic's $81.3bn IPO Sets Record as Biggest Ever",
+  "hook": "AI startup lands the largest stock debut in history.",
+  "what": "Anthropic raised $81.3 billion in its initial public offering, the biggest ever recorded. The company set its debut share price at $83, above analysts’ expectations, and also secured $3 billion from investors in Japan.",
+  "why": "The massive funding shows strong interest in AI ventures, signalling more opportunities and competition for young innovators in the tech space.",
+  "tags": [
+   "AI",
+   "IPO",
+   "TechFunding",
+   "Startups",
+   "Investing"
+  ]
+ },
+ {
+  "id": "90bc463e8339",
+  "created": "2026-11-19T07:19:46+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "CNBC",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5",
+  "headline": "Foreign investors pour record funds into Indian stocks",
+  "hook": "India’s market got a boost from a historic FPI surge.",
+  "what": "Foreign Portfolio Investors (FPIs) poured about Rs 99,000 crore (≈$10 billion) into Indian equities in November, the highest monthly inflow ever. The surge helped support stock prices despite rising inflation concerns.",
+  "why": "Young investors see that foreign money can lift markets, but inflation remains a risk, so keep an eye on market trends before deciding.",
+  "tags": [
+   "FPI",
+   "stockmarket",
+   "inflation",
+   "investing",
+   "India"
+  ]
+ },
+ {
   "id": "ab5b04d33cdb",
   "created": "2026-11-19T05:48:02+05:30",
   "category": "tech",
@@ -639,120 +753,6 @@
    "ConsumerRights",
    "Fraud",
    "Telangana"
-  ]
- },
- {
-  "id": "db14af63122f",
-  "created": "2026-11-18T23:50:29+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "GamesIndustry.biz",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelZ6dnh5WXl0ZGx0SmRYMTdpWEE0MkpwTnZuVnA2a3RxTTc1Zm16UDdJeWxKd1ZYakdRQWtmd3A2TDJVNGdULWhTejREY21JTlJGaThLQlBENXA4enBuTzVBYnoxdTVVc0IzeEFNVVpqYlIyOF9zVU5XcC1NbkVfczdOQk9NaWRDdjFFTENR?oc=5",
-  "headline": "Arknights: Endfield crowned Google Play’s 2026 Game of Year",
-  "hook": "Your next binge‑gaming pick just got a trophy.",
-  "what": "Google Play announced its top picks for 2026 in India. The strategy game Arknights: Endfield was awarded Game of the Year. Adobe Premiere was also highlighted as a leading app.",
-  "why": "Being featured by Google Play can boost visibility and downloads, so gamers should check it out. It signals quality for anyone hunting fresh mobile games.",
-  "tags": [
-   "gaming",
-   "GooglePlay",
-   "Arknights",
-   "2026",
-   "GameOfTheYear"
-  ]
- },
- {
-  "id": "a20a6198c1eb",
-  "created": "2026-11-18T23:50:32+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHY2LXp4eXNubkFqcjB3SWlscVJHMXMxYUF0WjNUVDZZaFd3NHZZaGxvQUtmYXg5bEVNR0FKZ1FnLVpWLTJSUjNxMWxzVzFabTVzM1QzT0VoRlEzbUc4Qkw0NVJKX01hWWJXN3o1amkySTRKd3FMeHhKSDQ0TTV6TlhNZllZQk14RFRwU3RKdW1Rdw?oc=5",
-  "headline": "Emirates Eagles face Yas Lions in Abu Dhabi T10 Match 27",
-  "hook": "T10 showdown: Which team will dominate the pitch today?",
-  "what": "The Abu Dhabi T10 League’s 27th match pits the Emirates Eagles against the Yas Lions. Cricket platforms like CricTracker and Dream11 have released match predictions.",
-  "why": "Fans can follow live scores and use the predictions to guide fantasy cricket picks.",
-  "tags": [
-   "cricket",
-   "T10",
-   "AbuDhabi",
-   "EmiratesEagles",
-   "YasLions"
-  ]
- },
- {
-  "id": "bd18228c2f9e",
-  "created": "2026-11-18T22:58:00+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/maharashtra/eknath-shinde-tears-sonia-gandhis-book-over-savarkar-references-seeks-ban-in-maharashtra/article71717132.ece",
-  "headline": "Shiv Sena protests Sonia Gandhi memoir, demands page removal",
-  "hook": "A book controversy sparks a political showdown in Maharashtra",
-  "what": "Shiv Sena members ripped out two pages of Sonia Gandhi’s memoir, objecting to references to Savarkar. The party asked publisher HarperCollins to withdraw those pages. Congress condemned the protest, while Uddhav Sena leaders responded to the Shinde faction.",
-  "why": "The clash highlights how historical narratives can fuel political tension, urging young readers to seek balanced information. Stay informed through reliable sources.",
-  "tags": [
-   "ShivSena",
-   "SoniaGandhi",
-   "bookprotest",
-   "Maharashtra",
-   "politics"
-  ]
- },
- {
-  "id": "4ec9a2c1636e",
-  "created": "2026-11-18T22:58:02+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/telangana-govt-family-insurance-scheme-rs-5-lakh-cover-on-nov-19-check-eligibility-how-to-apply-and-documents-needed-11795017171262.html",
-  "headline": "Telangana launches free ₹5 lakh family insurance on Nov 19",
-  "hook": "One earning member gets life cover at no cost for eligible families",
-  "what": "The state will begin registering families for the Indiramma Family Insurance Scheme on November 19. Premiums are fully funded by the government, offering a ₹5 lakh death benefit to the nominated beneficiary of the insured earner.",
-  "why": "It provides financial safety for young households; eligible families can apply using their ration‑card details.",
-  "tags": [
-   "Telangana",
-   "Insurance",
-   "Family",
-   "Indiramma",
-   "FreeCover"
-  ]
- },
- {
-  "id": "92075c436584",
-  "created": "2026-11-18T22:58:05+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/big-relief-how-defence-pensioners-abroad-can-submit-life-certificates-through-authorised-indian-bank-officials-11795016553617.html",
-  "headline": "Defence pensioners abroad can now file life certificates via Indian banks",
-  "hook": "No more embassy trips – just drop by your local Indian bank.",
-  "what": "SPARSH pensioners living outside India no longer need to visit Indian embassies for their yearly life certificate. They can get the certificate manually attested by authorized officials of Indian banks operating abroad. These attested certificates are now accepted.",
-  "why": "The change speeds up pension processing for families of defence personnel overseas. If you have a relative on a defence pension abroad, advise them to approach the nearest Indian bank for attestation.",
-  "tags": [
-   "defence",
-   "pension",
-   "overseas",
-   "banks",
-   "SPARSH"
-  ]
- },
- {
-  "id": "3439be5ca604",
-  "created": "2026-11-18T22:58:07+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-  "headline": "AI takeover fears: Altman urges human control",
-  "hook": "Tech leaders say we must keep AI in check.",
-  "what": "Sam Altman and Greg Brockman responded to talks about AI taking over decision‑making. They said the discussion is growing in Silicon Valley. They also noted it’s hard to ensure advanced AI stays under human oversight.",
-  "why": "For youngsters, it highlights the need to learn about AI safety and stay informed as the tech evolves. Keep an eye on developments and consider studying AI ethics.",
-  "tags": [
-   "AI",
-   "tech",
-   "future",
-   "safety",
-   "GenZ"
   ]
  }
 ]
