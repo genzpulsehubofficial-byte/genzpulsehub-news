@@ -1,5 +1,100 @@
 [
  {
+  "id": "7f2236abdef1",
+  "created": "2026-11-19T21:44:11+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-looks-beyond-bonds-and-etfs-allows-up-to-3-of-inflows-in-alternate-investment-funds-11795101326757.html",
+  "headline": "EPFO adds AIFs, eases PF withdrawals for members",
+  "hook": "Your PF can now go into new funds and be taken out faster.",
+  "what": "The EPFO board cleared investment of up to 3% of new money into Alternate Investment Funds, expanding beyond bonds and ETFs. It also introduced a systematic withdrawal plan and lowered the final withdrawal balance to 10% with a two‑month waiting period.",
+  "why": "Young workers can diversify their retirement savings and access cash quicker, so they should check their EPF portal for the new options.",
+  "tags": [
+   "PF",
+   "AIF",
+   "SWP",
+   "finance",
+   "youth"
+  ]
+ },
+ {
+  "id": "296595aaade3",
+  "created": "2026-11-19T21:45:15+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-swp-option-who-stands-to-benefit-from-monthly-pf-payouts-after-retirement-explained-11795100208871.html",
+  "headline": "EPFO proposes monthly PF payouts for retirees with ₹5L+ savings",
+  "hook": "Your future PF could become a steady paycheck after you quit.",
+  "what": "The Employees’ Provident Fund Organisation has floated a systematic withdrawal plan. It lets retirees with more than five lakh rupees in their PF take out money every month, quarter or half‑year, while the rest keeps earning interest.",
+  "why": "It offers a regular income stream after retirement, easing financial planning. Young workers should note the ₹5 lakh threshold and think about long‑term savings.",
+  "tags": [
+   "PF",
+   "Retirement",
+   "EPFO",
+   "Savings",
+   "Finance"
+  ]
+ },
+ {
+  "id": "f01729d76cc9",
+  "created": "2026-11-19T21:45:18+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/the-rohingya-question-international-solidarity-accountability-and-the-missing-road-home/article71720770.ece",
+  "headline": "Rohingya community seeks path to reclaim home amid marginalisation",
+  "hook": "A displaced group asks: how can we return home?",
+  "what": "The Rohingya people have faced systematic marginalisation, displacement and denial of identity. The central issue being discussed is how they can regain their place in the country they consider home.",
+  "why": "This highlights global human‑rights concerns and the need for solidarity. Young Indians can stay informed and support humanitarian efforts.",
+  "tags": [
+   "Rohingya",
+   "HumanRights",
+   "Solidarity",
+   "Displacement",
+   "India"
+  ]
+ },
+ {
+  "id": "314a36ef4db8",
+  "created": "2026-11-19T21:45:26+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-dialogue-2026-experts-call-for-deeper-indiagcc-ties-in-investment-clean-energy-and-maritime-security-eraukqdw",
+  "headline": "India and GCC push for joint investments in clean energy and ports",
+  "hook": "New ties could mean more jobs and greener power for India.",
+  "what": "At the second day of Kochi Dialogue 2026, officials highlighted the need for deeper cooperation between India and Gulf Cooperation Council nations. They focused on infrastructure funding, renewable projects, port links and maritime security in West Asia.",
+  "why": "Stronger ties may bring investment into Indian infrastructure and boost clean‑energy jobs, affecting future career options. Young people should watch for emerging opportunities in these sectors.",
+  "tags": [
+   "IndiaGCC",
+   "cleanenergy",
+   "investment",
+   "maritimesecurity",
+   "jobs"
+  ]
+ },
+ {
+  "id": "2270b40a66e3",
+  "created": "2026-11-19T21:45:28+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Forbes",
+  "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+  "headline": "GTA VI outsells The Odyssey on launch day",
+  "hook": "The newest GTA just broke launch records.",
+  "what": "Grand Theft Auto VI generated higher revenue on its first day than The Odyssey, according to estimates. The comparison highlights the game's strong market performance.",
+  "why": "It shows the massive demand for big‑budget games among Indian gamers, indicating more local gaming events and content. Teens can keep an eye on upcoming releases and sales.",
+  "tags": [
+   "gta6",
+   "gaming",
+   "launch",
+   "revenue",
+   "india"
+  ]
+ },
+ {
   "id": "c990fb121000",
   "created": "2026-11-19T20:39:43+05:30",
   "category": "tech",
@@ -657,101 +752,6 @@
    "safety",
    "news",
    "India"
-  ]
- },
- {
-  "id": "cc1897391526",
-  "created": "2026-11-19T14:03:28+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "Deccan Chronicle",
-  "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlFQYVkzWnVNWWFZSF93N3FPRlJCaGlpZUlLNTBpRHA1cWFMeFRLQy12a3RPazJQazlOSGN2bUlGZWJHTUNTbkg1cFpJMUZXbTVuSjdUZUZzTGU4WnVpR01UQVo0SWd5MGpFUWNpSFA0VkhyZ1FJd0p0STY1OGxTd1UzcjFyd1BRaUszanVhTlJZTXctX2REcGswdGVoSUdIQXFYTWtvazFHOUxKMEVmZG9NR010b2E5RWZxN1NwNVZKQWhVREdHamZ0NnUyRDhnN3c?oc=5",
-  "headline": "Modi Uses GTA VI Visuals to Criticise Congress",
-  "hook": "A gaming reference sparks a political jab.",
-  "what": "Prime Minister Narendra Modi posted a GTA VI image saying India has ‘leveled up’ from GTA V. The post targeted the opposition UPA. Congress responded by mocking the comparison.",
-  "why": "It shows how leaders blend pop culture with politics, a trend teens see on social media.",
-  "tags": [
-   "Modi",
-   "GTA",
-   "Politics",
-   "Congress",
-   "SocialMedia"
-  ]
- },
- {
-  "id": "41b60c50fe64",
-  "created": "2026-11-19T14:03:31+05:30",
-  "category": "jobs",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/business/pm-modi-ficci-india-inc-ficci-annual-general-meeting-and-annual-convention-november-19-2026/article71719140.ece",
-  "headline": "Modi seeks business ideas after corporate tax cut",
-  "hook": "Will companies hire more and pay higher wages?",
-  "what": "The prime minister asked Indian firms for suggestions on further reforms. He noted the recent cut in corporate tax and inquired whether businesses have added staff and increased salaries.",
-  "why": "Insights on hiring and pay help shape policies that affect youth job prospects. Companies can share their feedback through the government’s outreach.",
-  "tags": [
-   "government",
-   "reforms",
-   "jobs",
-   "taxes",
-   "youth"
-  ]
- },
- {
-  "id": "889babe120b2",
-  "created": "2026-11-19T14:03:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/noida-consumer-forum-pulls-up-builder-for-failing-to-provide-home-loan-documents-orders-flat-handover-within-30-days-11795074202412.html",
-  "headline": "Noida consumer board orders builder to hand over flat in 30 days",
-  "hook": "Your home loan could stall if paperwork is missing.",
-  "what": "The Noida consumer commission told JSS Buildcon to deliver a flat worth ₹77.35 lakh within a month. The builder had allegedly kept back documents required for a ₹64 lakh home‑loan, leading to the buyer’s allotment being cancelled.",
-  "why": "Young buyers must ensure all loan paperwork is provided promptly to avoid delays. Check with builders for complete documentation before signing.",
-  "tags": [
-   "consumerrights",
-   "homeloan",
-   "Noida",
-   "property",
-   "youngbuyers"
-  ]
- },
- {
-  "id": "3957a30727e4",
-  "created": "2026-11-19T14:03:39+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/mutual-funds-received-53-of-mahanadi-coalfields-ipo-anchor-book-which-schemes-will-own-coal-india-subsidiary-shares-11795071487832.html",
-  "headline": "Mutual Funds Grab Over Half of Mahanadi Coal IPO",
-  "hook": "Your fund could own a slice of India's coal giant.",
-  "what": "Domestic mutual funds were allotted about 53% of the Mahanadi Coalfields IPO through 29 schemes. The Nippon India Small Cap Fund received the biggest chunk.",
-  "why": "Since the IPO shares sit in fund portfolios, they may sway the funds' net asset values, affecting investors' returns.",
-  "tags": [
-   "mutualfunds",
-   "IPO",
-   "MahanadiCoal",
-   "investing",
-   "finance"
-  ]
- },
- {
-  "id": "a34fac8b6ce1",
-  "created": "2026-11-19T12:35:59+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaDcwNEl5Y2NGeUxHN1VEXzdoWU9pOG1ONnkyQU9DVzc1ZzNwM2NZbU1XQ3pVc05fZE9fS1BKcmhsV1poc2NWbVpVMGlXaWU2c0tRVDY2UXo3WkFVZkVqUzZtU1VGM3hIZlFZNlg2ZUFuNzVYWk11VktoVloySW5OVURaZXVzVnJCdzNsLU9TeUxTQ1FBd1l1UUFqd0JvM2ZXcUUwT19VbWIwdGp0V3Ztb1FRRkZBenpuX3FoM0lDYk90SXAtM3RjY0Z2T1gxYjU5MjFHaVlEWDd2WGc4cjNCWTZpNE9xeVpOT0ExS1B6YUI4Y2s5bXc?oc=5",
-  "headline": "Modi hails India's GTA VI role, marks 13-year leap",
-  "hook": "From GTA V to VI, India’s gaming scene has leveled up.",
-  "what": "Prime Minister Narendra Modi shared a post about Grand Theft Auto VI, noting the country's progress since GTA V released 13 years ago. The post highlighted that roughly 1,600 Indian developers, mainly from Bengaluru, contributed to building the new title.",
-  "why": "It signals expanding job prospects in game development for Indian youth. Young creators can explore coding and design to join the growing industry.",
-  "tags": [
-   "gaming",
-   "IndiaTech",
-   "GTA6",
-   "Bengaluru",
-   "youth"
   ]
  }
 ]

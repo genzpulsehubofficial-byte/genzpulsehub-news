@@ -1,0 +1,37 @@
+{
+ "id": "296595aaade3",
+ "created": "2026-11-19T21:45:15+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-swp-option-who-stands-to-benefit-from-monthly-pf-payouts-after-retirement-explained-11795100208871.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO proposes monthly PF payouts for retirees with ₹5L+ savings",
+  "hook": "Your future PF could become a steady paycheck after you quit.",
+  "what": "The Employees’ Provident Fund Organisation has floated a systematic withdrawal plan. It lets retirees with more than five lakh rupees in their PF take out money every month, quarter or half‑year, while the rest keeps earning interest.",
+  "why": "It offers a regular income stream after retirement, easing financial planning. Young workers should note the ₹5 lakh threshold and think about long‑term savings.",
+  "tags": [
+   "PF",
+   "Retirement",
+   "EPFO",
+   "Savings",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO-യുടെ പുതിയ SWP: 5 ലക്ഷം രൂപ PF ഉള്ളവർക്കു മാസവിതരണം",
+  "hook": "പെൻഷൻ കഴിഞ്ഞു സ്ഥിരം വരുമാനം വേണമോ? ഇനി PF-യിൽ നിന്ന് മാസാന്തം പണം ലഭിക്കും.",
+  "what": "എംപ്ലോയീസ് പ്രൊവിഡന്റ് ഫണ്ട് ഓർഗനൈസേഷൻ (EPFO) ഒരു സിസ്റ്റമാറ്റിക് വിതരണ പദ്ധതി (SWP) അവതരിപ്പിക്കാൻ പദ്ധതിയിടുന്നു. 5 ലക്ഷം രൂപക്ക് മുകളിലുള്ള PF സേവിംഗ്സ് ഉള്ള വിരമിച്ചവർക്ക് മാസത്തിൽ, ത്രൈമാസത്തിൽ, അല്ലെങ്കിൽ അർദ്ധവർഷത്തിൽ പണം ലഭിക്കാൻ കഴിയും, ശേഷിക്കുന്ന തുകക്ക് പലിശ തുടരും.",
+  "why": "ഇത് വിരമിക്കൽ ശേഷം സ്ഥിരമായ വരുമാന ഉറവിടം നൽകും, സാമ്പത്തിക പദ്ധതികളിൽ സഹായകരമാകും. യുവ തൊഴിലാളികൾക്ക് ഈ ₹5 ലക്ഷം പരിധി ശ്രദ്ധയിൽവെച്ച്, ദീർഘകാല സേവിംഗ്സ് പ്ലാനുകൾ ആലോചിക്കാൻ പ്രോത്സാഹനം.",
+  "tags": [
+   "PF",
+   "വിരമിക്കൽ",
+   "EPFO",
+   "സേവിംഗ്സ്",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "2270b40a66e3",
+ "created": "2026-11-19T21:45:28+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Forbes",
+ "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA VI outsells The Odyssey on launch day",
+  "hook": "The newest GTA just broke launch records.",
+  "what": "Grand Theft Auto VI generated higher revenue on its first day than The Odyssey, according to estimates. The comparison highlights the game's strong market performance.",
+  "why": "It shows the massive demand for big‑budget games among Indian gamers, indicating more local gaming events and content. Teens can keep an eye on upcoming releases and sales.",
+  "tags": [
+   "gta6",
+   "gaming",
+   "launch",
+   "revenue",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "GTA VI ആദ്യദിവസം The Odyssey‑നെക്കാൾ കൂടുതൽ വരുമാനം",
+  "hook": "പുതിയ GTA ലാഞ്ച് റെക്കോർഡ് തകർത്തു",
+  "what": "Grand Theft Auto VIയുടെ ആദ്യദിവസ വരുമാനം The Odyssey‑നെക്കാൾ കൂടുതലാണ്, അനുമാനങ്ങൾ പറയുന്നു. ഇതു ഗെയിമിന്റെ വിപണി ശക്തി കാണിക്കുന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവ ഗെയിമർമാർക്ക് വലിയ ബജറ്റ് ഗെയിമുകളുടെ ആകർഷണം കാണിക്കുന്നു, പുതിയ റിലീസുകൾക്കും ഓഫറുകൾക്കും ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "gta6",
+   "ഗെയിമിംഗ്",
+   "ലോഞ്ച്",
+   "വരുമാനം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

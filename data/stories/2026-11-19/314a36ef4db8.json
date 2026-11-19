@@ -1,0 +1,37 @@
+{
+ "id": "314a36ef4db8",
+ "created": "2026-11-19T21:45:26+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-dialogue-2026-experts-call-for-deeper-indiagcc-ties-in-investment-clean-energy-and-maritime-security-eraukqdw",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India and GCC push for joint investments in clean energy and ports",
+  "hook": "New ties could mean more jobs and greener power for India.",
+  "what": "At the second day of Kochi Dialogue 2026, officials highlighted the need for deeper cooperation between India and Gulf Cooperation Council nations. They focused on infrastructure funding, renewable projects, port links and maritime security in West Asia.",
+  "why": "Stronger ties may bring investment into Indian infrastructure and boost clean‑energy jobs, affecting future career options. Young people should watch for emerging opportunities in these sectors.",
+  "tags": [
+   "IndiaGCC",
+   "cleanenergy",
+   "investment",
+   "maritimesecurity",
+   "jobs"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയും GCCയും ശുദ്ധ ഊർജ്ജവും തുറമുഖങ്ങളും സംയുക്ത നിക്ഷേപം ലക്ഷ്യമിടുന്നു",
+  "hook": "പുതിയ ബന്ധം ഇന്ത്യയ്ക്ക് കൂടുതൽ ജോലിയും ഹരിതവൈദ്യുതിയും നൽകാം.",
+  "what": "കോച്ചി ഡയലോഗ് 2026‑ന്റെ രണ്ടാം ദിവസം, ഇന്ത്യയും ഗൾഫ് സഹകരണ കൗൺസിലും (GCC) തമ്മിലുള്ള ആഴത്തിലുള്ള സഹകരണം ആവശ്യമായി ചൂണ്ടിക്കാട്ടി. അടിസ്ഥാന സൗകര്യ നിക്ഷേപം, പുതുക്കാവുന്ന ഊർജ്ജം, തുറമുഖ ബന്ധം, പാശ്ചാത്യ ഏഷ്യയിലെ സമുദ്ര സുരക്ഷ എന്നിവയെക്കുറിച്ച് ചർച്ച ചെയ്തു.",
+  "why": "ഇത് ഇന്ത്യയിലെ അടിസ്ഥാന സൗകര്യങ്ങളിൽ നിക്ഷേപം വർധിപ്പിക്കുകയും ശുദ്ധ ഊർജ്ജ ജോലികളിൽ അവസരങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യും, യുവജനങ്ങൾക്ക് കരിയർ സാധ്യതകൾ തുറക്കും. ഈ മേഖലകളിലെ പുതിയ അവസരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "IndiaGCC",
+   "ശുദ്ധഊർജ്ജം",
+   "നിക്ഷേപം",
+   "സമുദ്രസുരക്ഷ",
+   "ജോലികൾ"
+  ]
+ }
+}
