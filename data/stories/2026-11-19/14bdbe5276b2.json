@@ -1,0 +1,37 @@
+{
+ "id": "14bdbe5276b2",
+ "created": "2026-11-19T16:12:06+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "ANI News",
+ "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSWJTTTZqQVo0bVM2VUg1dXpVellwLVczUWpMcW8ycld6RWkyUmZYcExkOFRoaEs5UzdveWVpR2NFNEpSZ29NTWdNdDY1UlRYN0lhRzFwY19HZ0ZDLXVueHhZMlZIbEc3QVlreTZZZEVud2Z3dmRsbG42UDJCZVJCZ1haQUYxZndGSWtOOXRPYnRzR0d1OFZCQTZMVTVhcmhORk9zY08ybE0xSWdraTJNdzZuZ2NYUzB5aEt4aGg1Ym9hel8zOWkzbkZFUldDVzZmVjdOMFo4ZzN1b2wtcDNsSHYwZUVQaGFBaVdMb3E3YXRoUVc2V2h2MEtaYXBNUGJNeGpoVGlGU19ac2RrMElqZQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "BGMI 4.7 Update Launches Arctic Chronicles and Winter Mode",
+  "hook": "New maps and events drop for the battle royale fans.",
+  "what": "Krafton India released the BGMI version 4.7 update. It adds the Arctic Chronicles map, a collaboration with Samay Raina, the Erangel Subzero map, and a winter-themed season.",
+  "why": "Gamers get fresh content to explore and compete, so log in to try the new maps and events.",
+  "tags": [
+   "BGMI",
+   "gaming",
+   "update",
+   "winter",
+   "newmaps"
+  ]
+ },
+ "ml": {
+  "headline": "BGMI 4.7 അപ്ഡേറ്റ് Arctic Chronicles, Winter മോഡ് ലോഞ്ച്",
+  "hook": "ബാറ്റിൽ റോയൽ ആരാധകർക്ക് പുതിയ മാപ്പുകളും ഇവന്റുകളും",
+  "what": "Krafton India BGMI-യുടെ 4.7 അപ്ഡേറ്റ് പുറത്തിറക്കി. ഇതിൽ Arctic Chronicles മാപ്പ്, Samay Raina‑യുമായി സഹകരണം, Erangel Subzero മാപ്പ്, ശീതകാല തീം ഉള്ള സീസൺ എന്നിവ ഉൾപ്പെടുന്നു.",
+  "why": "പുതിയ കണ്ടന്റ് കൊണ്ട് ഗെയിമർസ്‌ക്ക് പുതിയ അനുഭവം, അതിനാൽ ലോഗിൻ ചെയ്ത് പരീക്ഷിക്കുക.",
+  "tags": [
+   "BGMI",
+   "ഗെയിമിംഗ്",
+   "അപ്ഡേറ്റ്",
+   "വിന്റർ",
+   "മാപ്പുകൾ"
+  ]
+ }
+}

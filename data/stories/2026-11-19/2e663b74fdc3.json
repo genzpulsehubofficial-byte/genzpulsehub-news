@@ -1,0 +1,37 @@
+{
+ "id": "2e663b74fdc3",
+ "created": "2026-11-19T16:11:56+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSEJQUThSZTlJbC1YTUVtVlZ5WEdCMnl5dWtpbms3VDYxYzl3eWtvQWNLQk1lcmtXdXp2NEp2T2U2aVQ5RjUyNEFRZFZpYmRyYkJzbG9zWVAtUTF3N3gyLTY3VHJFNWVZekQ5QXNaZ1lDYmtPY3BZN1MwNzM4N3pTejBpMGVoSmhWTUtNc0JjTWhRM1NReWJjaHlJS0RDOWFIMmxpS3d1dHZNUEg5eXo0TWpHalE5a3htQ2hFSE5WSEZKYnY2NDkxd1k0ZW5ndnFTTlZTRzJNVkJjaG84ekRpVVBDSzFMOGhTclpXTlNWcU9hZnEtRWpkSDFn0gGAAkFVX3lxTE50emo1MkpVdGdKVG5SZ0VyNm5LaWpMMGJoUUYtY2M0elg4eHVJck1uT3gyR0MtNUdEUEZCWGhZeHp6eHY4a0lubUNkSmYxMXJmay10LVk5ZUZ4WjkyNS0zRXV3VkltbExHQVloVHFrakhheENsbVB1anItd1VlbjhTSFlBLXI4cGVMOHdjSFBZNmNsT3BhQnVPNjkwYktuanFRTFFUUTQ4XzJFQWhCV3Z1MW9SYmJ2S1hDYmdaeHJwdEs1d3pBYlpCdHpENWdQaHh4N3NielYxUFdZc3JOTnZtNTR5aF94dkpDYmtoeTR1YTFERmFhNDcyWVFJeUlhY1g?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cyclone Akvan prompts mass evacuations across Odisha and Andhra",
+  "hook": "Over 100,000 people moved as the storm nears the coast.",
+  "what": "More than a lakh residents were shifted to safety in Odisha, with about 50,000 moved as the cyclone changed direction. Authorities expect landfall near Gopalpur on Nov 20 and have issued a red alert for three districts in Andhra Pradesh. Several districts in West Bengal are under heavy‑rain warnings, and Kolkata saw showers overnight.",
+  "why": "The massive relocation shows the severity of the storm, urging teens to stay updated on weather alerts and avoid travel in affected areas.",
+  "tags": [
+   "cyclone",
+   "Odisha",
+   "Andhra",
+   "Bengal",
+   "weather"
+  ]
+ },
+ "ml": {
+  "headline": "ചുഴലിക്കാറ്റ് അക്വാന്‍ ഒഡിഷയും ആന്ധ്രയും മുഴുവന്‍ ജനങ്ങള്‍ ഒഴിപ്പിച്ചു",
+  "hook": "കോടിക്കണക്കിന് ആളുകള്‍ സുരക്ഷിത സ്ഥലങ്ങളിലേക്ക് മാറ്റപ്പെട്ടു.",
+  "what": "ഒഡിഷയില്‍ ഒരു ലക്ഷം ക്കുമധികം ആളുകള്‍ സുരക്ഷിത സ്ഥലങ്ങളിലേക്ക് മാറ്റപ്പെട്ടു, ചുഴലിക്കാറ്റ് ദിശ മാറ്റിയതോടെ ഏകദേശം 50,000 ആളുകള്‍ ഒഴിപ്പിച്ചു. നവം 20‑ന് ഗോപ്പാല്‍പൂര്‍ സമീപം ഭൂമിയില്‍ ഇടംപിടിക്കുമെന്ന് പ്രതീക്ഷിക്കുന്നു, ആന്ധ്രപ്രദേശത്തിലെ മൂന്ന് ജില്ലകളില്‍ ചുവപ്പ് അലര്‍ട്ട് നല്‍കിയിട്ടുണ്ട്. പാശ്ചാത്യ ബംഗാളിലെ ചില ജില്ലകളില്‍ കനത്ത മഴാ മുന്നറിയിപ്പ്, കൊല്‍ക്കത്തയില്‍ രാത്രി മഴ വീണ്.",
+  "why": "ഇത്തരം വലിയ ഒഴിപ്പിക്കല്‍ ചുഴലിക്കാറ്റിന്റെ ഗുരുത്വം കാണിക്കുന്നു; കാലാവസ്ഥാ മുന്നറിയിപ്പുകള്‍ പിന്തുടരുകയും ബാധിത പ്രദേശങ്ങളിലേക്ക് യാത്ര ഒഴിവാക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "ചുഴലിക്കാറ്റ്",
+   "ഒഡിഷ",
+   "ആന്ധ്ര",
+   "ബംഗാൾ",
+   "കാലാവസ്ഥ"
+  ]
+ }
+}

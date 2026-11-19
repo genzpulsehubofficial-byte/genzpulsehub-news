@@ -1,0 +1,35 @@
+{
+ "id": "9cf04d576639",
+ "created": "2026-11-19T16:12:01+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV Profit",
+ "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaW9VUEk1a1YwTDNzSXA4SXJFRW9GNXo0aC1kekVwc0hoRXdYeklCU1gyQUU1dE4tcVZVdGplQTBQTDZJNEZBM0ZVWS1XRTNhWUw3V21qajZxME5XVnQ1ZjdTR0d3emZkRFZfLWkyb0Y0RWloYllZaVZvbWR3LUh4bjhZTWEwNllWam16M0pBdlE3RklyREFHcTUyWTd3ZnlEZkc5Q0piTWlwdXluMzdPMnZMOXZSYUFSRmVNb2tPcXFuckdvN3BXc2drSQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Vaibhav Sooryavanshi makes TIME100, praised by Ayushmann",
+  "hook": "A young Indian just hit a global list and got a star’s nod.",
+  "what": "Vaibhav Sooryavanshi was listed in TIME's 100 most influential people. Actor Ayushmann Khurrana said he represents India's future.",
+  "why": "It shows that Indian youth are gaining worldwide recognition, encouraging peers to chase big goals.",
+  "tags": [
+   "TIME100",
+   "VaibhavSooryavanshi",
+   "AyushmannKhurrana",
+   "youngIndia"
+  ]
+ },
+ "ml": {
+  "headline": "വൈഭവ് സൂര്യവംശി TIME100 ലിസ്റ്റിൽ, ആയുഷ്മാൻ അഭിനന്ദിച്ചു",
+  "hook": "ഒരു യുവ ഇന്ത്യൻ ഗ്ലോബൽ ലിസ്റ്റിൽ ചേരുകയും ഒരു താരത്തിന്റെ അംഗീകാരം നേടുകയും ചെയ്തു.",
+  "what": "വൈഭവ് സൂര്യവംശി TIMEയുടെ 100 ഏറ്റവും സ്വാധീനമുള്ള ആളുകളുടെ പട്ടികയിൽ ഉൾപ്പെട്ടു. അഭിനേതാവായ ആയുഷ്മാൻ ഖുറാനാ അവനെ ഇന്ത്യയുടെ ഭാവി എന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ഇന്ത്യൻ യുവാക്കൾക്ക് അന്താരാഷ്ട്ര അംഗീകാരം ലഭിക്കുന്നതിന്റെ ഉദാഹരണമാണ്, കൂട്ടുകാരെ വലിയ ലക്ഷ്യങ്ങൾ കൈവരിക്കാൻ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "tags": [
+   "TIME100",
+   "VaibhavSooryavanshi",
+   "AyushmannKhurrana",
+   "youngIndia"
+  ]
+ }
+}

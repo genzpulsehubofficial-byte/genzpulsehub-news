@@ -1,5 +1,118 @@
 [
  {
+  "id": "e6250624d2fd",
+  "created": "2026-11-19T16:10:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/epfo-to-cut-minimum-pf-balance-requirement-to-10-per-cent-from-25-per-cent-what-it-means-11795080953423.html",
+  "headline": "EPFO slashes PF minimum balance to 10%",
+  "hook": "Your retirement fund can stay thinner, but stay safe.",
+  "what": "The Employees’ Provident Fund Organisation approved a change that reduces the required minimum balance in PF accounts from a quarter of the total to just one‑tenth. This applies to all current subscribers.",
+  "why": "For young workers, it means less money locked up and more flexibility in managing cash flow, though maintaining a healthy balance remains important.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "finance",
+   "youth",
+   "savings"
+  ]
+ },
+ {
+  "id": "2e663b74fdc3",
+  "created": "2026-11-19T16:11:56+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSEJQUThSZTlJbC1YTUVtVlZ5WEdCMnl5dWtpbms3VDYxYzl3eWtvQWNLQk1lcmtXdXp2NEp2T2U2aVQ5RjUyNEFRZFZpYmRyYkJzbG9zWVAtUTF3N3gyLTY3VHJFNWVZekQ5QXNaZ1lDYmtPY3BZN1MwNzM4N3pTejBpMGVoSmhWTUtNc0JjTWhRM1NReWJjaHlJS0RDOWFIMmxpS3d1dHZNUEg5eXo0TWpHalE5a3htQ2hFSE5WSEZKYnY2NDkxd1k0ZW5ndnFTTlZTRzJNVkJjaG84ekRpVVBDSzFMOGhTclpXTlNWcU9hZnEtRWpkSDFn0gGAAkFVX3lxTE50emo1MkpVdGdKVG5SZ0VyNm5LaWpMMGJoUUYtY2M0elg4eHVJck1uT3gyR0MtNUdEUEZCWGhZeHp6eHY4a0lubUNkSmYxMXJmay10LVk5ZUZ4WjkyNS0zRXV3VkltbExHQVloVHFrakhheENsbVB1anItd1VlbjhTSFlBLXI4cGVMOHdjSFBZNmNsT3BhQnVPNjkwYktuanFRTFFUUTQ4XzJFQWhCV3Z1MW9SYmJ2S1hDYmdaeHJwdEs1d3pBYlpCdHpENWdQaHh4N3NielYxUFdZc3JOTnZtNTR5aF94dkpDYmtoeTR1YTFERmFhNDcyWVFJeUlhY1g?oc=5",
+  "headline": "Cyclone Akvan prompts mass evacuations across Odisha and Andhra",
+  "hook": "Over 100,000 people moved as the storm nears the coast.",
+  "what": "More than a lakh residents were shifted to safety in Odisha, with about 50,000 moved as the cyclone changed direction. Authorities expect landfall near Gopalpur on Nov 20 and have issued a red alert for three districts in Andhra Pradesh. Several districts in West Bengal are under heavy‑rain warnings, and Kolkata saw showers overnight.",
+  "why": "The massive relocation shows the severity of the storm, urging teens to stay updated on weather alerts and avoid travel in affected areas.",
+  "tags": [
+   "cyclone",
+   "Odisha",
+   "Andhra",
+   "Bengal",
+   "weather"
+  ]
+ },
+ {
+  "id": "069ebbe420f7",
+  "created": "2026-11-19T16:11:59+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/explained-epfo-approves-systematic-withdrawal-plan-what-it-means-for-your-provident-fund-12348944#publisher=newsstand",
+  "headline": "EPFO Introduces Regular PF Withdrawal Option for Retirees",
+  "hook": "Your future PF can now act like a monthly paycheck.",
+  "what": "The Employees’ Provident Fund Organisation has cleared a systematic withdrawal plan. Retirees will be able to receive a steady stream of money from their PF balance. The scheme lets them schedule regular payouts.",
+  "why": "It gives seniors a predictable income without breaking the lump sum. Young people should note this option when planning long‑term savings for family elders.",
+  "tags": [
+   "EPFO",
+   "ProvidentFund",
+   "Retirement",
+   "Finance",
+   "India"
+  ]
+ },
+ {
+  "id": "9cf04d576639",
+  "created": "2026-11-19T16:12:01+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "NDTV Profit",
+  "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaW9VUEk1a1YwTDNzSXA4SXJFRW9GNXo0aC1kekVwc0hoRXdYeklCU1gyQUU1dE4tcVZVdGplQTBQTDZJNEZBM0ZVWS1XRTNhWUw3V21qajZxME5XVnQ1ZjdTR0d3emZkRFZfLWkyb0Y0RWloYllZaVZvbWR3LUh4bjhZTWEwNllWam16M0pBdlE3RklyREFHcTUyWTd3ZnlEZkc5Q0piTWlwdXluMzdPMnZMOXZSYUFSRmVNb2tPcXFuckdvN3BXc2drSQ?oc=5",
+  "headline": "Vaibhav Sooryavanshi makes TIME100, praised by Ayushmann",
+  "hook": "A young Indian just hit a global list and got a star’s nod.",
+  "what": "Vaibhav Sooryavanshi was listed in TIME's 100 most influential people. Actor Ayushmann Khurrana said he represents India's future.",
+  "why": "It shows that Indian youth are gaining worldwide recognition, encouraging peers to chase big goals.",
+  "tags": [
+   "TIME100",
+   "VaibhavSooryavanshi",
+   "AyushmannKhurrana",
+   "youngIndia"
+  ]
+ },
+ {
+  "id": "b9560774a2c4",
+  "created": "2026-11-19T16:12:04+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Business Standard",
+  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ3Fsd0daU2ZpVzNUTVRpM3BPLWhSMlBKX2F5M2F3N0hJcHRnX1lCN2QwMWhkcmlJNjRlUDFtNnl2QktVdjczVnlyWVBOQ0Q2anIydkxSRXlxNkY0aTROQWhlY2p2N2xBeGJSa0hVMlZ6TzFDWVdRLUJra3FPZ2RlTnJlMU5fa2FISjd5SVZkTk5EOWM4VGctaVNoZHRJNzA0YWRWOE1mSmJXZXY3aVFkMWQ5TnlyemNlczNSZG1zd1pKZGVZS1h5VjNuZWUxMnpvMFFnTHlNSV9YUVBkSUx1RHItUF9MSHNFTW1IWktIQjF6aEoyXzNIcmNxRjZ5MTFoUmt6b0tjcktiVnY2M3IyVw?oc=5",
+  "headline": "Sensex jumps 800 points, Nifty crosses 25,450",
+  "hook": "India’s markets roar higher as foreign money pours in.",
+  "what": "The BSE Sensex rose about 800 points, closing above 83,000. The Nifty 50 traded past the 25,450 level. The FMCG index ended a two‑day losing streak amid foreign fund inflows and steadier crude oil prices.",
+  "why": "A strong market can boost savings and investment returns, which matters for future financial plans. Stay aware of market trends if you plan to invest or explore finance careers.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "investing",
+   "youth"
+  ]
+ },
+ {
+  "id": "14bdbe5276b2",
+  "created": "2026-11-19T16:12:06+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "ANI News",
+  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSWJTTTZqQVo0bVM2VUg1dXpVellwLVczUWpMcW8ycld6RWkyUmZYcExkOFRoaEs5UzdveWVpR2NFNEpSZ29NTWdNdDY1UlRYN0lhRzFwY19HZ0ZDLXVueHhZMlZIbEc3QVlreTZZZEVud2Z3dmRsbG42UDJCZVJCZ1haQUYxZndGSWtOOXRPYnRzR0d1OFZCQTZMVTVhcmhORk9zY08ybE0xSWdraTJNdzZuZ2NYUzB5aEt4aGg1Ym9hel8zOWkzbkZFUldDVzZmVjdOMFo4ZzN1b2wtcDNsSHYwZUVQaGFBaVdMb3E3YXRoUVc2V2h2MEtaYXBNUGJNeGpoVGlGU19ac2RrMElqZQ?oc=5",
+  "headline": "BGMI 4.7 Update Launches Arctic Chronicles and Winter Mode",
+  "hook": "New maps and events drop for the battle royale fans.",
+  "what": "Krafton India released the BGMI version 4.7 update. It adds the Arctic Chronicles map, a collaboration with Samay Raina, the Erangel Subzero map, and a winter-themed season.",
+  "why": "Gamers get fresh content to explore and compete, so log in to try the new maps and events.",
+  "tags": [
+   "BGMI",
+   "gaming",
+   "update",
+   "winter",
+   "newmaps"
+  ]
+ },
+ {
   "id": "d7b23e25aef7",
   "created": "2026-11-19T15:13:26+05:30",
   "category": "jobs",
@@ -638,121 +751,6 @@
    "ImportDuty",
    "WhiskyPrices",
    "GenZFinance"
-  ]
- },
- {
-  "id": "fa788533b57e",
-  "created": "2026-11-19T08:16:13+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/elon-musk-was-asked-if-he-would-hire-jensen-huang-his-response-12346727#publisher=newsstand",
-  "headline": "Musk says he'd hire Nvidia CEO if needed",
-  "hook": "Elon Musk’s quick reply fuels talk about tech power‑plays.",
-  "what": "When asked whether he would bring Jensen Huang onto his team, Elon Musk answered that he would definitely do so if the situation called for it.",
-  "why": "The comment highlights Musk’s admiration for top tech leaders and hints at possible future collaborations that could shape the industry for young innovators.",
-  "tags": [
-   "ElonMusk",
-   "JensenHuang",
-   "TechLeadership",
-   "Hiring",
-   "Nvidia"
-  ]
- },
- {
-  "id": "bcf2ca665292",
-  "created": "2026-11-19T08:16:15+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/da-hike-jharkhand-odisha-3-pc-mizoram-4-pc-govt-dearness-allowance-relief-contract-employees-pensioners-dr-regularise-11795048870397.html",
-  "headline": "Jharkhand, Mizoram, Odisha raise dearness allowance",
-  "hook": "Your govt salary could get a boost this week.",
-  "what": "The governments of Jharkhand, Mizoram and Odisha announced a hike in dearness allowance. The increase applies to eligible government employees as per each state’s rules.",
-  "why": "Higher DA can improve real wages for young civil servants and students with part‑time govt jobs. Check your state’s eligibility to see if you benefit.",
-  "tags": [
-   "dearnessallowance",
-   "salaryrise",
-   "governmentjobs",
-   "Jharkhand",
-   "Mizoram",
-   "Odisha"
-  ]
- },
- {
-  "id": "3e71942a909c",
-  "created": "2026-11-19T08:16:17+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "samsung.com",
-  "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZ2xwTEJYcVpPV1QzYk9GUE9rZTNmdE1qRGs4bjAxUmR0Sy1zVXdxUWRmOGRmcDRtQWtQUmdxSW1zcFVoQzhmdnJXZkJpVnlYN3VVVmNfUlpxeC1feV9Venh5amcxMnJicVAxejc5N0JfOURs?oc=5",
-  "headline": "Samsung launches One UI 9.5 beta with native App Lock",
-  "hook": "Your Galaxy can now lock apps without extra apps.",
-  "what": "Samsung has opened the One UI 9.5 beta program for eligible Galaxy devices. The update adds a built‑in App Lock feature, allowing users to protect apps directly from settings. The Galaxy S26 is among the phones that can enroll.",
-  "why": "Built‑in privacy helps teens keep personal apps safe, and joining the beta lets early adopters test new features before public release.",
-  "tags": [
-   "Samsung",
-   "OneUI",
-   "AppLock",
-   "Beta",
-   "Galaxy"
-  ]
- },
- {
-  "id": "15bcfad179cc",
-  "created": "2026-11-19T08:16:19+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/smallticket-loans-are-rising-but-so-are-defaults-5-ways-borrowers-can-avoid-falling-into-debt-trap-11795051817515.html",
-  "headline": "Small loans see rising defaults, experts urge caution",
-  "hook": "Your next quick cash could become a debt pit.",
-  "what": "A recent CRIF study shows that defaults on low‑value loans are climbing even as retail credit expands in India. The report outlines five steps borrowers can take to keep EMI payments on track and stay financially disciplined.",
-  "why": "Young borrowers need to watch their loan commitments to avoid long‑term financial strain. Following the suggested practices can help manage repayments and protect credit scores.",
-  "tags": [
-   "smallloans",
-   "debtmanagement",
-   "financialtips",
-   "youthfinance",
-   "CRIF"
-  ]
- },
- {
-  "id": "8d4ff31b157e",
-  "created": "2026-11-19T08:16:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "CASRAI",
-  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRXNqazBlQmNiaE45c0pXTjBBTkhvMG9EekdZZkJWcjUydnZUNzZQYVY0VHBVSm5RMHk2UUlFdmduRFhnLVhmX19EamxrSjAzU0htaFc4a0N2WDJDdUNnenVpTVgteDgtOU5tRG1EUXBTSFBmQWhHRTdsQ1FaVmZ2U0Fn?oc=5",
-  "headline": "Google rolls out Gemini 4 Neon at $3 per million tokens",
-  "hook": "A cheaper AI model now available for students and developers",
-  "what": "Google unveiled Gemini 4 Neon and set its price at three dollars for every million input tokens. The company also made Gemini 4 Hydrogen the default AI model for its search and highlighted its speed for robotics, adding it to GitHub Copilot.",
-  "why": "Lower costs make it easier for young Indians to experiment with advanced AI tools, whether for school projects or personal apps. You can start using it through Google services or GitHub Copilot.",
-  "tags": [
-   "Google",
-   "Gemini",
-   "AI",
-   "Tech",
-   "Students"
-  ]
- },
- {
-  "id": "51a124508f57",
-  "created": "2026-11-19T07:19:33+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/dgca-proposes-separate-registration-system-for-prototype-production-aircraft-101795052401367.html",
-  "headline": "DGCA plans new registration system for prototype and production planes",
-  "hook": "India's aviation regulator wants separate IDs for test and regular jets.",
-  "what": "The Directorate General of Civil Aviation has suggested a distinct registration approach for prototype and production aircraft. The proposal includes a shared pool of registration marks applicable to both categories.",
-  "why": "This could streamline tracking of new aircraft and improve safety oversight, relevant for students interested in aviation careers. Keep an eye on updates if you plan to study aerospace.",
-  "tags": [
-   "aviation",
-   "DGCA",
-   "aircraft",
-   "registration",
-   "students"
   ]
  }
 ]

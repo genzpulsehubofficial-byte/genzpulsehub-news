@@ -1,0 +1,37 @@
+{
+ "id": "e6250624d2fd",
+ "created": "2026-11-19T16:10:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/epfo-to-cut-minimum-pf-balance-requirement-to-10-per-cent-from-25-per-cent-what-it-means-11795080953423.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO slashes PF minimum balance to 10%",
+  "hook": "Your retirement fund can stay thinner, but stay safe.",
+  "what": "The Employees’ Provident Fund Organisation approved a change that reduces the required minimum balance in PF accounts from a quarter of the total to just one‑tenth. This applies to all current subscribers.",
+  "why": "For young workers, it means less money locked up and more flexibility in managing cash flow, though maintaining a healthy balance remains important.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "finance",
+   "youth",
+   "savings"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO PF കുറഞ്ഞ കുറഞ്ഞ ബാലൻസ് 10% ആക്കി",
+  "hook": "നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ടിന്റെ കുറഞ്ഞ ബാലൻസ്, പക്ഷേ സുരക്ഷിതം.",
+  "what": "Employees’ Provident Fund Organisation അംഗീകാരം നൽകി, PF അക്കൗണ്ടിലെ കുറഞ്ഞ ബാലൻസ് 25% നിന്ന് 10% ആയി കുറച്ചു. ഇത് എല്ലാ നിലവിലെ അംഗങ്ങൾക്കും ബാധകമാണ്.",
+  "why": "യുവ തൊഴിലാളികൾക്ക് കുറവ് പണം ലോക്ക് ചെയ്യാൻ കഴിയും, ക്യാഷ് ഫ്ലോ നിയന്ത്രിക്കാൻ കൂടുതൽ സ്വാതന്ത്ര്യം, പക്ഷേ നല്ല ബാലൻസ് നിലനിർത്തുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "ഫിനാൻസ്",
+   "യുവാക്കൾ",
+   "സംഭരണം"
+  ]
+ }
+}
