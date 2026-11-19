@@ -1,0 +1,37 @@
+{
+ "id": "7553c475b674",
+ "created": "2026-11-19T17:08:33+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "PlayDayOne",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbm82My1QY0YzbjA4bXZGa0pPbTlPNDVXcXB6U3BmVllYYnhmcW10RDhLM0pqN1pOTVV5d3RPa0p3THlOYzNELTVvNW9KTDFUbmhPTXdYcUc3OTFjekc5c0wwdWtGUUpscFBoc2Z5Nml6alVUNTVTMDdISlItSERQcEwwcw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Valorant Bunker back in Mumbai this Sunday",
+  "hook": "Gaming fans, get ready for the biggest Valorant showdown in town!",
+  "what": "The Valorant Bunker event is set to return to Mumbai on Sunday. Players and fans will gather for the competition. The schedule is announced for the weekend.",
+  "why": "It offers a chance to watch top gamers live and connect with the esports community. Teens can explore career paths in gaming or simply enjoy the action.",
+  "tags": [
+   "Valorant",
+   "Gaming",
+   "Mumbai",
+   "Esports",
+   "Weekend"
+  ]
+ },
+ "ml": {
+  "headline": "വാലറന്റ് ബങ്കർ മുംബൈയിൽ ഞായറാഴ്ച തിരിച്ചു വരുന്നു",
+  "hook": "ഗെയിമിംഗ് ഫാൻമാർ, നഗരത്തിലെ ഏറ്റവും വലിയ വാലറന്റ് ഷോഡൗൺ കാത്തിരിക്കൂ!",
+  "what": "വാലറന്റ് ബങ്കർ ഇവന്റ് ഞായറാഴ്ച മുംബൈയിൽ വീണ്ടും നടക്കാൻ പോകുന്നു. കളിക്കാരും ആരാധകരും ഈ മത്സരത്തിൽ പങ്കെടുക്കും. ഷെഡ്യൂൾ വാരാന്ത്യത്തിന് പ്രഖ്യാപിച്ചു.",
+  "why": "മികച്ച ഗെയിമർമാരെ നേരിട്ട് കാണാനും ഈ‑സ്പോർട്സ് സമൂഹവുമായി ബന്ധപ്പെടാനും ഇത് ഒരു അവസരമാണ്. യുവാക്കൾ ഗെയിമിംഗ് കരിയർ അന്വേഷിക്കാം അല്ലെങ്കിൽ ആക്ഷൻ ആസ്വദിക്കാം.",
+  "tags": [
+   "Valorant",
+   "Gaming",
+   "Mumbai",
+   "Esports",
+   "Weekend"
+  ]
+ }
+}

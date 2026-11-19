@@ -1,0 +1,37 @@
+{
+ "id": "48be2081669c",
+ "created": "2026-11-19T17:08:31+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/centre-revises-puc-rules-extends-validity-for-newer-bs-vi-cars-12349012#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "New PUC rules tighten checks for older BS‑VI cars",
+  "hook": "Your car’s pollution test schedule just got stricter.",
+  "what": "The government has updated the Pollution Under Control (PUC) guidelines. Private BS‑VI vehicles that are over ten years old must now renew their certificates every six months, while newer BS‑VI cars receive a longer validity period.",
+  "why": "If you own or plan to buy an older BS‑VI car, you’ll need to schedule PUC checks twice a year, affecting maintenance costs and timing. Keep track of renewal dates to avoid penalties.",
+  "tags": [
+   "PUC",
+   "BSVI",
+   "CarRules",
+   "India",
+   "TeenDrivers"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ PUC നിയമം പഴയ BS‑VI കാറുകൾക്ക് കർശന പരിശോധന",
+  "hook": "നിങ്ങളുടെ കാറിന്റെ മലിനീകരണ പരിശോധനയുടെ സമയം ഇനി കൂടുതൽ sık ആണ്.",
+  "what": "മന്ത്രിസഭ PUC (പോള്യൂഷൻ അണ്ടർ കൺട്രോൾ) മാർഗ്ഗനിർദ്ദേശങ്ങൾ പുതുക്കി. പത്ത് വർഷം കഴിഞ്ഞ സ്വകാര്യ BS‑VI വാഹനങ്ങൾക്ക് ഓരോ ആറുമാസത്തിലും സർട്ടിഫിക്കറ്റ് പുതുക്കണം, പുതിയ BS‑VI കാറുകൾക്ക് കൂടുതൽ കാലാവധി ലഭിക്കും.",
+  "why": "പഴയ BS‑VI കാർ ഉള്ളവർക്കോ വാങ്ങാൻ ആലോചിക്കുന്നവർക്കോ വർഷത്തിൽ രണ്ട് തവണ PUC പരിശോധന വേണം, ഇതു പരിപാലന ചെലവിലും സമയക്രമത്തിലും ബാധിക്കും. പിഴ ഒഴിവാക്കാൻ പുതുക്കൽ തീയതികൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "പ്യൂസി",
+   "ബിഎസ്എവി",
+   "കാറു നിയമം",
+   "ഇന്ത്യ",
+   "ടീൻഡ്രൈവർസ്"
+  ]
+ }
+}

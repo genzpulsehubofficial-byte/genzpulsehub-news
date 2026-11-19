@@ -1,5 +1,118 @@
 [
  {
+  "id": "defc20c157e5",
+  "created": "2026-11-19T17:08:27+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mla-vs-babu-who-defeated-mk-stalin-in-kolathur-passes-away/article71719587.ece",
+  "headline": "TVK MLA V.S. Babu passes away",
+  "hook": "A former Kolathur MLA dies after battling a lung illness.",
+  "what": "V.S. Babu, a Tamilaga Vettri Kazhagam MLA who once defeated M.K. Stalin in Kolathur, has died. He had been hospitalized at MGM Healthcare in Chennai for a prolonged respiratory illness.",
+  "why": "His death removes a notable regional politician, highlighting health issues that can affect public figures. Young voters should stay aware of local leaders and health concerns.",
+  "tags": [
+   "politics",
+   "TamilNadu",
+   "MLA",
+   "news"
+  ]
+ },
+ {
+  "id": "48be2081669c",
+  "created": "2026-11-19T17:08:31+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/centre-revises-puc-rules-extends-validity-for-newer-bs-vi-cars-12349012#publisher=newsstand",
+  "headline": "New PUC rules tighten checks for older BS‑VI cars",
+  "hook": "Your car’s pollution test schedule just got stricter.",
+  "what": "The government has updated the Pollution Under Control (PUC) guidelines. Private BS‑VI vehicles that are over ten years old must now renew their certificates every six months, while newer BS‑VI cars receive a longer validity period.",
+  "why": "If you own or plan to buy an older BS‑VI car, you’ll need to schedule PUC checks twice a year, affecting maintenance costs and timing. Keep track of renewal dates to avoid penalties.",
+  "tags": [
+   "PUC",
+   "BSVI",
+   "CarRules",
+   "India",
+   "TeenDrivers"
+  ]
+ },
+ {
+  "id": "7553c475b674",
+  "created": "2026-11-19T17:08:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "PlayDayOne",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbm82My1QY0YzbjA4bXZGa0pPbTlPNDVXcXB6U3BmVllYYnhmcW10RDhLM0pqN1pOTVV5d3RPa0p3THlOYzNELTVvNW9KTDFUbmhPTXdYcUc3OTFjekc5c0wwdWtGUUpscFBoc2Z5Nml6alVUNTVTMDdISlItSERQcEwwcw?oc=5",
+  "headline": "Valorant Bunker back in Mumbai this Sunday",
+  "hook": "Gaming fans, get ready for the biggest Valorant showdown in town!",
+  "what": "The Valorant Bunker event is set to return to Mumbai on Sunday. Players and fans will gather for the competition. The schedule is announced for the weekend.",
+  "why": "It offers a chance to watch top gamers live and connect with the esports community. Teens can explore career paths in gaming or simply enjoy the action.",
+  "tags": [
+   "Valorant",
+   "Gaming",
+   "Mumbai",
+   "Esports",
+   "Weekend"
+  ]
+ },
+ {
+  "id": "168e75895e7d",
+  "created": "2026-11-19T17:08:36+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/crime/ariyil-shukkoor-murder-case-life-imprisonment-for-7-convicts-including-prime-accused-sumesh-igspn3qz",
+  "headline": "Seven convicted, including Sumesh, get life in Ariyil Shukkoor murder",
+  "hook": "Ernakulam court denies death sentence, opts for life term",
+  "what": "A special CBI court in Ernakulam sentenced seven people, including prime accused Sumesh, to life imprisonment for the 2012 murder of Ariyil Shukkoor in Kannur. The court rejected the prosecution’s request for the death penalty.",
+  "why": "The verdict ends a long‑running case, showing that serious crimes may result in life terms rather than death, reminding youths of legal consequences of violent actions.",
+  "tags": [
+   "Kerala",
+   "court",
+   "lifeimprisonment",
+   "crime",
+   "CBI"
+  ]
+ },
+ {
+  "id": "9b32c8aef047",
+  "created": "2026-11-19T17:08:38+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-approves-swp-for-pf-subscribers-can-you-now-withdraw-your-retirement-savings-monthly-instead-of-taking-a-lump-sum-11795085001792.html",
+  "headline": "EPFO introduces monthly PF withdrawal option",
+  "hook": "Now retirees can get their pension in parts, not all at once.",
+  "what": "The Employees’ Provident Fund Organisation has approved a Systematic Withdrawal Plan. It lets members pull out their retirement savings in regular installments rather than a single lump sum.",
+  "why": "This gives young workers smoother cash flow after retirement and more flexibility in financial planning.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "SWP",
+   "retirement",
+   "finance"
+  ]
+ },
+ {
+  "id": "1ff4d2b8225f",
+  "created": "2026-11-19T17:08:40+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "www.iifa.com",
+  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3ZOclh3cmtZTlkyN2VEWHNvUGE0VFJRRGNjc1lYcW9nYTdUZnJtUHVlT2ZOYnMzSDNZcVFxdnhlRFBJaWdIWXRWYTVKSUJIQWE1bGFjX1ctb0tMUE1Kb0pDSEJ5RjU3UmdmME9oS3M2RTRta0ZCemlGTFNTdWdrTy1tN0FuU2xLbE8waTR1TGtQVkF3VEhPSzBCT2w4Nm1JeFZPazdrYjZWNWJsX0NGelpidmZrS3lTcF9YYjdPcVg4Q1lFUFRVa05VcmhEZHlpQWVjdnNR?oc=5",
+  "headline": "Vvaan fantasy thriller starring Sidharth and Tamannaah streams on Prime Video",
+  "hook": "Your next binge‑watch fantasy adventure is arriving soon.",
+  "what": "The film Vvaan, a fantasy thriller featuring Sidharth Malhotra and Tamannaah Bhatia, will be released on the OTT platform Prime Video. It is now scheduled for streaming.",
+  "why": "Young viewers can watch the new Indian fantasy on a popular streaming service, so they can add it to their watchlist.",
+  "tags": [
+   "Vvaan",
+   "Sidharth",
+   "Tamannaah",
+   "PrimeVideo",
+   "Fantasy"
+  ]
+ },
+ {
   "id": "e6250624d2fd",
   "created": "2026-11-19T16:10:53+05:30",
   "category": "money",
@@ -637,120 +750,6 @@
    "EOL",
    "VehicleScrap",
    "CleanAir"
-  ]
- },
- {
-  "id": "f5889a1a9adb",
-  "created": "2026-11-19T09:21:19+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
-  "headline": "Musk calls Rs 4,700 crore midterm spend 'pretty foolish'",
-  "hook": "Even billionaires can regret political cash outs.",
-  "what": "Elon Musk said he felt pretty foolish after spending about Rs 4,700 crore on the US midterm elections. He added that Republican candidates might have performed worse without that money.",
-  "why": "It shows how large sums can influence foreign politics, reminding young Indians to stay critical about such influence.",
-  "tags": [
-   "Musk",
-   "USmidterms",
-   "politics",
-   "spending",
-   "India"
-  ]
- },
- {
-  "id": "c5e9d4f657e3",
-  "created": "2026-11-19T09:21:21+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/itat-jaipur-relief-why-a-woman-s-105-day-appeal-delay-was-condoned-and-20-business-expense-disallowance-was-deleted-11795056289344.html",
-  "headline": "ITAT Jaipur lifts penalty for delayed tax appeal, scraps expense block",
-  "hook": "A tax board gave leniency after a family loss, wiping a costly deduction denial.",
-  "what": "The Income Tax Appellate Tribunal in Jaipur accepted a 105‑day delay in a woman's appeal, citing the death of her father‑in‑law as a genuine reason. It also removed a previously imposed 20% disallowance on her business expenses.",
-  "why": "It shows that courts can consider personal hardships when evaluating tax filings, so keeping proper documentation of any genuine delays can help avoid penalties.",
-  "tags": [
-   "tax",
-   "appeal",
-   "Jaipur",
-   "business",
-   "relief"
-  ]
- },
- {
-  "id": "31656c81aecb",
-  "created": "2026-11-19T09:21:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/goldsilver-price-ratio-crosses-82-what-does-this-indicate-where-should-investors-start-etf-sips-for-2027-experts-say-11795052159891.html",
-  "headline": "Gold‑Silver Ratio Tops 82, Signals Shift in Metal Play",
-  "hook": "Silver’s steep dip leaves gold far ahead.",
-  "what": "The price gap between gold and silver moved past 82 as both metals fell sharply, with silver dropping more sharply than gold. Analysts say the high ratio points to a possible over‑valuation of silver relative to gold. They suggest investors consider balancing gold and silver ETFs in systematic plans up to 2027.",
-  "why": "A wide gap can affect returns for young investors eyeing safe‑haven assets. Adjusting ETF SIP allocations now may help manage risk and capture future moves.",
-  "tags": [
-   "gold",
-   "silver",
-   "ETF",
-   "investing",
-   "ratio"
-  ]
- },
- {
-  "id": "fa9b1e47d418",
-  "created": "2026-11-19T09:21:26+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/sabarimala-virtual-queue-bookings-mandala-season-2026-t9bnhlrl",
-  "headline": "Sabarimala bookings near full; AI cameras aid crowd control",
-  "hook": "Almost every slot till Dec 25 is taken—plan fast!",
-  "what": "The Devaswom Board says virtual‑queue slots for the Mandala season are almost sold out through Dec 25. AI‑enabled cameras are being used to monitor and manage the crowd. Pilgrims can still check any remaining slots and the Makaravilakku dates.",
-  "why": "If you’re planning a visit, book quickly before slots disappear and stay updated on crowd‑control measures for safety.",
-  "tags": [
-   "Sabarimala",
-   "Pilgrimage",
-   "AI",
-   "Kerala",
-   "Travel"
-  ]
- },
- {
-  "id": "0094745696e6",
-  "created": "2026-11-19T09:21:28+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHZWNkk2UzFsdVZGWXhSQzRTNnVsMm56bHktSDZtLUppQmF3QVl2U1BzRVBxV0Z1VDlNWmljb0F5bHBuejdUSWdxdjNsODVQQ21XSEJMbXBBemtQeldJNjJoenlQdlROcl9fR2VFbWJMZENmTkt0NjBadW9qNUhWdll4bF9NV25ZM0hBeTRUbWhHbGNzZFdLa2V0amxyV09VUF91eHJRTDB0RlJoRXU4Snl30gG4AUFVX3lxTE11MHBGQmpiUXpaZ1JCaXVaZEp6THJwNS1IUUw4RlR5MWo3UEVJRFFRbGxMVEpidk1vRGdscDI4cF9jaXpGZHRHNk11RXFqNzB4WW1zLVoxYndaMVM3WldCa3RQd2kwWGw4QVI0UnNiaUR6ZTh1SmVPbFQtWWt1R0p5RHpHZEZaM05zN3Y2cldRNUFlZ1EzYnZWLWswU0FMWUUyckdDSWlrOHlmbENkZ2ttR0lOTWdad2c?oc=5",
-  "headline": "Bumrah's spell, NZ duo's fifties shape Test showdown",
-  "hook": "Two NZ batsmen fire back as India’s pacer strikes early wickets.",
-  "what": "India’s Jasprit Bumrah claimed two wickets, reducing New Zealand to 163 for 5 in 54 overs. In response, Tom Nicholls and Michael Phillips each reached fifty, reviving the Kiwi innings.",
-  "why": "The swing in momentum could decide the series; young fans should follow the match for a glimpse of high‑pressure cricket.",
-  "tags": [
-   "india",
-   "newzealand",
-   "testcricket",
-   "cricket",
-   "sports"
-  ]
- },
- {
-  "id": "4bf0ffc1cb47",
-  "created": "2026-11-19T08:16:10+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/india-imposes-162-5-tax-on-bulk-scotch-imports-amid-uk-trade-pact-standoff-101795053540525.html",
-  "headline": "India levies 162.5% tax on bulk Scotch imports",
-  "hook": "Scotch prices could surge as India hikes duty sharply.",
-  "what": "The government announced a 162.5% tax on large‑volume Scotch whisky shipments. This follows a July trade deal with the UK that had reduced the tariff to 75%.",
-  "why": "Higher costs may push up the price of imported whisky in bars and stores, so teens should expect pricier options. Keep an eye on local alternatives.",
-  "tags": [
-   "ScotchTax",
-   "IndiaUK",
-   "ImportDuty",
-   "WhiskyPrices",
-   "GenZFinance"
   ]
  }
 ]
