@@ -1,0 +1,37 @@
+{
+ "id": "c129748c273c",
+ "created": "2026-11-20T03:03:26+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Oncodaily",
+ "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4eXktR3lidDdTWGpDMGhTSDJDWU9ua09mM1dqSWs0WUlMT01admVMVWJsbV9xbnpjNThLMWtPRFNtVEJjZWlBYUFtdDBaR0tsbjlQdE5BanNTVjhXRExsMjFB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Cervical Cancer Fight Gains Momentum in Nigeria and India",
+  "hook": "Your health, your future – know the steps to stop cervical cancer.",
+  "what": "The WHO calls for widespread HPV vaccination, regular screening and prompt treatment to curb cervical cancer. In India, NDTV organized a walkathon in Dhanbad and Delhi’s landmarks were lit teal to spread awareness. South Africa pledged to eliminate cervical cancer by 2030.",
+  "why": "Vaccination and early checks can protect you from a disease that affects many young women. Stay informed, get screened and support awareness drives.",
+  "tags": [
+   "cervicalcancer",
+   "HPV",
+   "awareness",
+   "health",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "നൈജീരിയയും ഇന്ത്യയും സേർവിക്കൽ ക്യാൻസർ‌വിരുദ്ധ പോരാട്ടം ശക്തമാക്കുന്നു",
+  "hook": "നിന്റെ ആരോഗ്യവും ഭാവിയും – സേർവിക്കൽ ക്യാൻസർ‌ തടയാൻ വേണ്ട ചുവടുകൾ അറിയൂ.",
+  "what": "WHO HPV വാക്‌സിൻ, സ്ക്രീനിംഗ്, സമയോചിത ചികിത്സ എന്നിവയുടെ പ്രാധാന്യം ഊന്നി പറയുന്നു. ഇന്ത്യയിൽ NDTV ധാന്ബാദിൽ വാക്ക്‌തോൺ സംഘടിപ്പിച്ചു, ഡെലിയുടെ പ്രശസ്ത സ്മാരകങ്ങൾ ടെൽ നിറത്തിൽ പ്രകാശിപ്പിച്ചു. ദക്ഷിണാഫ്രിക്കാ 2030 വരെ സേർവിക്കൽ ക്യാൻസർ‌ ഇല്ലാതാക്കാൻ പ്രതിജ്ഞാബദ്ധം.",
+  "why": "വാക്‌സിനും പ്രാരംഭ പരിശോധനക്കും വഴി യുവതികൾക്ക് ഈ രോഗം ഒഴിവാക്കാം. വിവരവാന്മാരാകൂ, സ്ക്രീനിംഗ് ചെയ്യൂ, അവബോധ ക്യാമ്പെയിനുകൾക്ക് പിന്തുണ നൽകൂ.",
+  "tags": [
+   "cervicalcancer",
+   "HPV",
+   "awareness",
+   "health",
+   "youth"
+  ]
+ }
+}

@@ -1,5 +1,118 @@
 [
  {
+  "id": "81064022622d",
+  "created": "2026-11-20T03:03:18+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+  "headline": "Justice Varma says removal case void after his resignation",
+  "hook": "A top judge says his ouster plan fizzled once he quit",
+  "what": "Justice Varma wrote to the Lok Sabha Secretariat on Nov 19, saying the removal proceedings against him became ineffective after he resigned. He clarified that the process could not continue.",
+  "why": "It shows that resignation can halt disciplinary actions against officials, highlighting how parliamentary oversight works. Young people should stay aware of such governance procedures.",
+  "tags": [
+   "justice",
+   "parliament",
+   "resignation",
+   "law",
+   "India"
+  ]
+ },
+ {
+  "id": "09c1e6a01bf5",
+  "created": "2026-11-20T03:03:22+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/turkish-court-bars-jailed-istanbul-mayor-from-presidential-election-report-12351677#publisher=newsstand",
+  "headline": "Turkish court blocks jailed Istanbul mayor from running",
+  "hook": "A top Istanbul leader can’t contest the election, even from jail.",
+  "what": "A Turkish court ruled that Istanbul Mayor Ekrem Imamoglu, who is currently in prison, cannot stand in the upcoming presidential election. The decision was based on the finding that his educational diploma is invalid.",
+  "why": "The ruling shows how legal technicalities can affect political participation, highlighting the need to verify credentials. Young voters should stay aware of such global political developments.",
+  "tags": [
+   "Turkey",
+   "Election",
+   "Politics",
+   "Youth",
+   "News"
+  ]
+ },
+ {
+  "id": "718b8c1df26c",
+  "created": "2026-11-20T03:03:24+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONnF4NURtdmhieVlyaFlXelZmMHpuc3J5WXpSTUM4QXBxdjN5NWJ2SUFEelF2T2tDT28yX0ZEcktyUkVHSE44bnYzNFVVM0p5cUdoWEJOWEQzVTJmS1dFcEhfTDdrVGRZY2ZLWnY4ZGxyTnlUVzhZZWtwX3RMbFBWN2p6cGwya3FvSHc?oc=5",
+  "headline": "Bavuma Misses Second Test Match",
+  "hook": "Temba Bavuma won't play in the next Test.",
+  "what": "Temba Bavuma has been ruled out of the second Test match. He will miss the game.",
+  "why": "His absence could change the team line‑up, so fans should watch for replacement updates.",
+  "tags": [
+   "cricket",
+   "test",
+   "Bavuma",
+   "sports"
+  ]
+ },
+ {
+  "id": "c129748c273c",
+  "created": "2026-11-20T03:03:26+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Oncodaily",
+  "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4eXktR3lidDdTWGpDMGhTSDJDWU9ua09mM1dqSWs0WUlMT01admVMVWJsbV9xbnpjNThLMWtPRFNtVEJjZWlBYUFtdDBaR0tsbjlQdE5BanNTVjhXRExsMjFB?oc=5",
+  "headline": "Cervical Cancer Fight Gains Momentum in Nigeria and India",
+  "hook": "Your health, your future – know the steps to stop cervical cancer.",
+  "what": "The WHO calls for widespread HPV vaccination, regular screening and prompt treatment to curb cervical cancer. In India, NDTV organized a walkathon in Dhanbad and Delhi’s landmarks were lit teal to spread awareness. South Africa pledged to eliminate cervical cancer by 2030.",
+  "why": "Vaccination and early checks can protect you from a disease that affects many young women. Stay informed, get screened and support awareness drives.",
+  "tags": [
+   "cervicalcancer",
+   "HPV",
+   "awareness",
+   "health",
+   "youth"
+  ]
+ },
+ {
+  "id": "b80c1a82c17c",
+  "created": "2026-11-20T03:03:28+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+  "headline": "Anthropic CEO vows steady AI progress at Nasdaq bell",
+  "hook": "Anthropic says it'll keep AI development paced despite pressure.",
+  "what": "During the Nasdaq opening bell ceremony, Anthropic’s chief executive Dario Amodei said the company will continue to pace its AI development. He emphasized that this approach will stay the same even if faced with business or political pressure.",
+  "why": "For Gen Z, it signals that AI tools may evolve cautiously, affecting future jobs and tech use. Keep an eye on AI trends and stay updated.",
+  "tags": [
+   "AI",
+   "Anthropic",
+   "Nasdaq",
+   "Tech",
+   "Development"
+  ]
+ },
+ {
+  "id": "f6c6b84e3c08",
+  "created": "2026-11-20T03:03:31+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeVFyU1Fyek5KZllhdGh6NUxMRDJHOU9vMDVsdlhnYWF4SGJNNncyU1YyRUNNbGYwZ0tQSXZra0UyeG44Nnp4ajJfTUcyaGVkQVhzU2RGSU9IaERtYUdmeTQtYVh2ZzFtNHZuVjhwQTQ4SFhGYnBzeXJSRHpqN09PSGdLR0VmZUVOV09Gblg0OTJKZVJJaFFYRlh2ODhXdFBzOWl3Q1o5MEpkNUtsOFdHWGRoRWxEU2tOYkFISklUb0NzTzlCT0hDcmpfVmRVanM?oc=5",
+  "headline": "US measles cases surge as vaccination drops",
+  "hook": "A dip in shots sparks a nationwide outbreak.",
+  "what": "The United States has lost its measles‑free status after 26 years as cases climb to record levels. Health officials link the rise to lower vaccination coverage. The Pan American Health Organization is urging countries across the Americas to intensify elimination efforts.",
+  "why": "For Indian teens, it underscores the need to stay up‑to‑date with vaccines to avoid similar outbreaks. Keep your immunisation schedule current.",
+  "tags": [
+   "measles",
+   "vaccination",
+   "health",
+   "US",
+   "PAHO"
+  ]
+ },
+ {
   "id": "4be9e4e9ded3",
   "created": "2026-11-20T02:05:43+05:30",
   "category": "headlines",
@@ -638,120 +751,6 @@
    "employees",
    "retirees",
    "finance"
-  ]
- },
- {
-  "id": "3a27054e3ed0",
-  "created": "2026-11-19T19:32:00+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-  "headline": "Nimble launches eco-friendly trackable accessories",
-  "hook": "Track your stuff with style and sustainability",
-  "what": "Nimble introduced a line of trackable items such as wallets, keychains, luggage tags and passport covers. The products use item‑tracking technology similar to what Google and Apple offer. They are marketed as eco‑friendly.",
-  "why": "For students who travel or move around campus, these accessories can help locate lost items without harming the environment. Check if your phone’s tracking apps support them before buying.",
-  "tags": [
-   "tech",
-   "gadgets",
-   "sustainability",
-   "students",
-   "tracking"
-  ]
- },
- {
-  "id": "1501adb883e7",
-  "created": "2026-11-19T19:32:02+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-  "headline": "Superhuman rolls out Go AI across Docs and Mail",
-  "hook": "Your email app now has a built‑in AI helper everywhere.",
-  "what": "Superhuman is turning its Go assistant into the main AI agent for the service. The company is extending Go’s reach to both Docs and Mail features.",
-  "why": "Students and young professionals can now use the same AI tool for writing emails and documents, saving time. Try the integrated Go assistant within Superhuman.",
-  "tags": [
-   "Superhuman",
-   "GoAI",
-   "productivity",
-   "email",
-   "docs"
-  ]
- },
- {
-  "id": "d1d441cf94b5",
-  "created": "2026-11-19T19:32:05+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/suresh-gopi-assesses-heritage-tourism-fort-kochi-mattancherry-pti10jnyzqo",
-  "headline": "Suresh Gopi surveys Fort Kochi heritage tourism prospects",
-  "hook": "A minister checks if historic lanes can become tourist hotspots.",
-  "what": "Union Minister of State Suresh Gopi toured Fort Kochi and Mattancherry to assess possibilities for heritage‑focused tourism development.",
-  "why": "Boosting heritage tourism could create jobs and attract visitors to Kerala’s cultural sites; locals may see new opportunities.",
-  "tags": [
-   "heritage",
-   "tourism",
-   "FortKochi",
-   "Kerala",
-   "development"
-  ]
- },
- {
-  "id": "132f4b6cdfc0",
-  "created": "2026-11-19T18:15:10+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cbt-approves-introduction-of-systematic-withdrawal-plan-swp-for-epf-members/article71719969.ece",
-  "headline": "EPF to Offer Systematic Withdrawal Plan for Retirees",
-  "hook": "Turn your EPF savings into a steady monthly flow.",
-  "what": "The Central Board of Trustees has approved a Systematic Withdrawal Plan for EPF members. Retirees can receive regular, predictable payouts from their EPF balance. The underlying corpus stays owned by the member.",
-  "why": "It gives young workers a clearer view of post‑retirement income and helps them plan finances early. Learn how the SWP works before you retire.",
-  "tags": [
-   "EPF",
-   "SWP",
-   "retirement",
-   "finance",
-   "GenZ"
-  ]
- },
- {
-  "id": "be98a0352ee1",
-  "created": "2026-11-19T18:15:17+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNU3I4WWJ3eTVlYTUwS0pvaUlxTnVGUEZCNjFhM1B4bzgwMGFHVUdBR1lWWDhzUEN1c3RZUGtTMEp6N21BaHlTem9JRFVVclBzVmlIaGZ5RnRReTB6MnBwbEl0dW54YXB4emNmc1JOMlkxWTB0NzBWdUlhdGxaNnc4d2VPZGx2d2prck55alRPWkZzNEdiUmhaQjRvNm1ibEpTSkwyT054Y29MaXRSMnE5ZElEM1RJY3pseVFqMXdSSi03OFpPS3BuYmgwUmZhZXJxYW00dnpDcEZteXFRM1B2VXRrSl9vdlZXVzFEUVh0RUEyS1RMdFMwenVEY2FlX1AwVnpYRG4zZ3dCNzNRdUFqVS1DNlk?oc=5",
-  "headline": "EPFO launches SWP, lets retirees take PF in installments",
-  "hook": "Grab your pension money step‑by‑step, no big lump sum needed.",
-  "what": "The Employees’ Provident Fund Organisation has introduced a Systematic Withdrawal Plan. Retirees can now receive their PF balance in regular monthly installments instead of a single payout. The scheme also reduces the waiting period for full withdrawal after job loss to two months.",
-  "why": "This gives young workers more flexibility to manage finances after retirement or job loss. Check your EPF account to see if you qualify and set up the plan online.",
-  "tags": [
-   "EPF",
-   "SWP",
-   "retirement",
-   "finance",
-   "India"
-  ]
- },
- {
-  "id": "3015628e222e",
-  "created": "2026-11-19T18:15:19+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnVEbnRuZlc2ajBwTEJCdjNiRHpfRGhiOUFwb0hUSUZMVWRQRzdJcEdZVUNoMHRZZ05OYjhHNUNsMFVEdVp1c0JHRE1wYjN4cGwzYlNqUXFyQUlITWpfQTNFMktrdFlGeW82NEUwNjZwZnNRSjg3QzZTZmgwWGtoMXh2cGlmY3lSTUNCVW5PR185RGpkVXpPaXFxcGhYWTRSeGR6RWxuTjhBYmJueFYwa2gtdHBSWFk2UUtCM08xa3p4bkZGa0gxMkcwa0Y1dENNRWJnalJn0gHbAUFVX3lxTFBLSHZqa0pLeFJHcDl0amwtZ0VYNTVHMnRlU0N0NkNpRlFFcEJLanZtRnI1UjA5YVp3aUpXTGVqLTBjM2V0YlBYWlFjRjhNWGJ0eTBRYjM2aHdKakpvR3hCUmVIQWhjbG96SVY2SjJYX2l6Q0pTRU5xVVctRnh3Q3ZkVkt5N2I3cEpHYXhaa1VFRTVOY182aGVEanBRemFFUE13Nk9RTnJLUUt0N3YzaUgxa1pnLVdKY3BHMXB0bFBVN3o4YUpnNTNqMnVfUWpRa3hsMDIyOG5sNUZXNA?oc=5",
-  "headline": "EPFO lowers PF minimum balance to 10% and adds SWP",
-  "hook": "Your retirement fund just got more flexible.",
-  "what": "The Employees’ Provident Fund Organisation will reduce the mandatory minimum balance from 25% to 10% of the total contribution. It also introduces a Systematic Withdrawal Plan, letting retirees take out their savings in scheduled installments.",
-  "why": "This gives young workers more control over their savings and quicker access if they lose a job. Keep your PF details updated to use the new options.",
-  "tags": [
-   "EPFO",
-   "ProvidentFund",
-   "SWP",
-   "Finance",
-   "Youth"
   ]
  }
 ]
