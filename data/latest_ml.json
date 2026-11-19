@@ -1,5 +1,119 @@
 [
  {
+  "id": "ab5b04d33cdb",
+  "created": "2026-11-19T05:48:02+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/government-inks-deal-with-israel-to-upgrade-barak-missile-system-10968952/",
+  "headline": "ഇന്ത്യയും ഇസ്രായേലും ബറാക് മിസൈൽ അപ്ഗ്രേഡ് കരാർ",
+  "hook": "വായു പ്രതിരോധം ശക്തിപ്പെടുത്തുന്ന പുതിയ അപ്ഗ്രേഡ്.",
+  "what": "ഭാരത സര്‍ക്കാര്‍ ഇസ്രായേലുമായി ബറാക് മിസൈല്‍ സിസ്റ്റം ആധുനികമാക്കാന്‍ കരാര്‍ ഒപ്പുവച്ചു. ഈ ഉടമ്പടി നിലവിലുള്ള പ്രതിരോധ ഉപകരണങ്ങള്‍ മെച്ചപ്പെടുത്താന്‍ ലക്ഷ്യമിടുന്നു.",
+  "why": "വായു പ്രദേശം സംരക്ഷിക്കാന്‍ മിസൈല്‍ ശേഷി വര്‍ദ്ധിപ്പിക്കുന്നത് എല്ലാവരുടെയും സുരക്ഷയ്ക്ക് പ്രധാനമാണ്. ദേശീയ സുരക്ഷാ വാര്‍ത്തകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "പ്രതിരോധം",
+   "മിസൈല്",
+   "ഇന്ത്യഇസ്രായേല്",
+   "ടെക്",
+   "സുരക്ഷ"
+  ]
+ },
+ {
+  "id": "6b7e5f7794d9",
+  "created": "2026-11-19T05:48:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/madhya-pradesh-leads-in-adult-learners-adult-literacy-10968996/",
+  "headline": "11 പ്രദേശങ്ങൾ മുഴുവൻ സാക്ഷരത നേടി, എംപി മുതിർന്നവരുടെ പഠനം മുൻപന്തിയിൽ",
+  "hook": "ഇന്ത്യയുടെ സാക്ഷരതാ ചാർട്ട് കൂടുതൽ പ്രകാശമാക്കി.",
+  "what": "പതിനൊന്ന് സംസ്ഥാനങ്ങളും കേന്ദ്ര പ്രദേശങ്ങളും മുഴുവൻ സാക്ഷരതയുള്ളവയായി പ്രഖ്യാപിച്ചു. മധ്യപ്രദേശി സംസ്ഥാനത്തിൽ മുതിർന്നവരുടെ പഠനത്തിൽ ഏറ്റവും കൂടുതൽ പങ്കാളിത്തം കണ്ടു.",
+  "why": "സാക്ഷരത വർദ്ധനവു തൊഴിൽ അവസരങ്ങളും ഡിജിറ്റൽ ആക്‌സസും മെച്ചപ്പെടുത്തും. നിങ്ങളുടെ പ്രദേശത്തെ മുതിർന്നവരുടെ വിദ്യാഭ്യാസ പദ്ധതികളെ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സാക്ഷരത",
+   "വിദ്യാഭ്യാസം",
+   "ഇന്ത്യ",
+   "MP",
+   "പഠനം"
+  ]
+ },
+ {
+  "id": "44255eb49d7c",
+  "created": "2026-11-19T05:48:08+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+  "headline": "മൈക്രോസോഫ്റ്റ് സിഇഒ പറയുന്നു, പല സിസ്റ്റങ്ങളും പാച്ച് ചെയ്യാനാകില്ല",
+  "hook": "AI മൂലം പ്രധാന സേവനങ്ങളിൽ സുരക്ഷാ ദൗർബല്യങ്ങൾ ഉണ്ടാകാം, എന്ന് നദെല്ല പറയുന്നു.",
+  "what": "സാറ്റ്യ നദെല്ല പറഞ്ഞു, പല പ്രധാന അടിസ്ഥാന സൗകര്യങ്ങളും ഭീഷണികളിൽ നിന്ന് പാച്ച് ചെയ്യാൻ കഴിയില്ല. അദ്ദേഹം അടുത്തിടെ സംഭവിച്ച Outlook ഔട്ടേജ് ചെറുതാണെന്ന് കുറിച്ചു. AI പുതിയ അവസരങ്ങളും സുരക്ഷാ വെല്ലുവിളികളും സൃഷ്ടിക്കുന്നു എന്ന് അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.",
+  "why": "യുവജനങ്ങൾ ഓൺലൈൻ സേവനങ്ങൾ ഉപയോഗിക്കുമ്പോൾ സൈബർ അപകടങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം, ഉപകരണങ്ങൾ അപ്ഡേറ്റ് ചെയ്യണം. AIയുടെ സ്വാധീനം മനസ്സിലാക്കുന്നത് സുരക്ഷിത ഡിജിറ്റൽ തിരഞ്ഞെടുപ്പുകൾക്ക് സഹായിക്കും.",
+  "tags": [
+   "AI",
+   "സൈബർസെക്യൂരിറ്റി",
+   "മൈക്രോസോഫ്റ്റ്",
+   "ഔട്ട്‌ലുക്ക്",
+   "ടെക്"
+  ]
+ },
+ {
+  "id": "ae30c6152bf9",
+  "created": "2026-11-19T05:48:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+  "headline": "Musk Jensen Huang-നെ പുറത്താക്കുന്നത് Michael Jordan-നെ ടീമിൽ നിന്ന് പുറത്താക്കുന്നതുപോലെ എന്ന് പറഞ്ഞു",
+  "hook": "Elon Musk-ന്റെ ടെക് നേതൃത്തെക്കുറിച്ചുള്ള ധൈര്യമായ ഉപമ.",
+  "what": "Elon Musk Jensen Huang-നെ ഒഴിവാക്കുന്നത് Michael Jordan-നെ ടീമിൽ നിന്ന് പുറത്താക്കുന്നതുമായി താരതമ്യം ചെയ്തു. അദ്ദേഹം Huang അമേരിക്കയോട് അനാദരവില്ലെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ടെക് രംഗത്തെ നേതാക്കളുടെ പ്രാധാന്യം കാണിക്കുന്നു, വ്യവസായത്തെക്കുറിച്ച് അറിവ് നേടാൻ യുവാക്കൾക്ക് സഹായിക്കും.",
+  "tags": [
+   "ElonMusk",
+   "JensenHuang",
+   "TechLeadership",
+   "NBA",
+   "IndustryTalk"
+  ]
+ },
+ {
+  "id": "640ba0e8f4dd",
+  "created": "2026-11-19T05:48:14+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHk4Y0dhdUdDZ3ZxczhFQWxZTm5TQ3loZTFBdXVvQkQ5MkxILWJpZE9ieDVZcFQ5S0thTmNRbU1LWVR1MEhfS3BFNHJXSDNnM3ZuLWpvWFRNVDdJdkIzZzB4alY1S1VnalJNblFlY2FOZlNWNFBUQjBsaXlrazB1TDU5UzBUdWZLZlgyWFBuTQ?oc=5",
+  "headline": "ആകാശ് ദീപ് 9 മാസം രോഗമുക്തി ശേഷം ഇന്ത്യാ സ്ക്വാഡിൽ തിരിച്ചെത്തി",
+  "hook": "പിന്നെ വന്ന ഫാസ്റ്റ് ബോൾറിന്റെ വലിയ തിരിച്ചുവരവ്.",
+  "what": "ആകാശ് ദീപ് തന്റെ പിൻവേദനാ പരിക്ക് മൂലം ഒൻപത് മാസം ചികിത്സയോടെ കഴിഞ്ഞു, വീണ്ടും ഇന്ത്യൻ ടീമിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു. തന്റെ ബോളിംഗ് കരിയർ പുനർനിർമിക്കാൻ ശ്രമിക്കുന്നു.",
+  "why": "ഇന്ത്യയുടെ പേസ് ഓപ്ഷനുകൾക്ക് കൂടുതൽ ശക്തി നൽകും, യുവ കളിക്കാർക്ക് പരിക്ക് മാനേജ്മെന്റിന്റെ പ്രാധാന്യം കാണിക്കും.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ആകാശ്ദീപ്",
+   "കോമ്ബാക്ക്",
+   "സ്പോർട്സ്"
+  ]
+ },
+ {
+  "id": "0ca08ed7ab1e",
+  "created": "2026-11-19T05:48:16+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNUWp1OGJGXzJtMVNfUzBKZmhJemREYXNCYlRMeGZ0TG1xNnNxZnVITC10cENYTUhZRkNob1lQUGVfQTJ6b1NzUnh2SjZBU0V0ZDZnaVVaVERJTHFBak9mSGcxbGpqaF92VXNhWE9La1NlS2JIeEphTzR6SmlIdWkxWTdYMzBNNE1neVhGWVJnSEtvb21ZdTNGWGgwcFJ3SkcwWEdLWmwxUDZhNkdpNk9ZUzFrdnFIUnpERWZFOWRSeTMxNHVSMkFsOE5LVHc3V3NjcDlodHViQ1RxWXp4ajZMR3pWTk5vd1ZsZU1jWlY5Q21VT0RVVXdhV0JmbTJDRjBGQkk1Ty1jaVotaXhyb2tmYnBtU3gzb2RDSU5rYlJycVBqQ1dsQjVnbHpKbnV5dTM3azM5eFBRTzkyamhFSDFnY0NrZzBvN2tuRmIwQlVCamIzMElqUXF0VTF3ZU9VX1dXMlRCZzctU0llcGlaRjJGY1JfTjZzV2pIaFYwUzZGSTNONXhuRWpXUmVLQdIBkANBVV95cUxNa240bFA0el85SXBQajk4dlN6aEVpWmNFNFJLcnowd3JqUi1zTDcyMGc1Sm5tcEVleFlscGwyVTBNU2FzSEw3RzgxV2JJM3B1b3kyd1pvanI4Mk16VmpXbmdJS3NpSi1naU1iQzdYSjktb0FfVHZIY2xZMUwxZVBqT0k2STdKUEtmYi16QkZyNFN0MnE2VjlxcVVhaU1BZDMxWVdnSmxaZ18zOEgtUnctcWpsVi1ma0Q1ZG9aOV9GX2NvaGVKUmtITjJhZzJldzg1SEtqODJwV3licTZpbkUtdnVIS1FDcnp4S1loQVJGVF9fRmJfemhfZ05HVVFDVmh2cVJORldqV004UkNjbHMwTVd1QTdDNDJaQTdhQzMxU3JkdXZhN1RFNUpGcUh2bWpuekh4VnY4Qm5CeXRVVENqQkFiOE5sQWI1d0drQnhjeFppUWpza21BbUxnOHBfR3FLLVFFbU1fWjVxbENiNVdCaTNjWDdyU1J3NXd6bG5XSmFlSnFlek9xQ0E4R3FyRzhn?oc=5",
+  "headline": "Nvidiaയുടെ ഇടക്കാല CEO 49,000 ജീവനക്കാർക്ക് വർധനവു വാഗ്ദാനം",
+  "hook": "പുതിയ നേതാവ് ആദ്യ യോഗത്തിൽ ശമ്പളവർധനവു പ്രഖ്യാപിച്ചു.",
+  "what": "Colette Kress, Nvidiaയുടെ ഇടക്കാല CEO, തന്റെ ആദ്യ all‑hands മീറ്റിംഗിൽ ജീവനക്കാരോട് സംസാരിച്ചു. കമ്പനി 49,000 ജീവനക്കാർക്ക് ശമ്പളവർധനവു നൽകുമെന്ന് അവൾ അറിയിച്ചു.",
+  "why": "Jensen Huang രാജിവെച്ചതിനു ശേഷം morale ഉയർത്താൻ ഇത് സഹായിക്കും. വിശദാംശങ്ങൾക്കായി ജീവനക്കാർ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "ശമ്പളം",
+   "ടെക് ജോലികൾ",
+   "നേതൃത്വം",
+   "GenZ"
+  ]
+ },
+ {
   "id": "ebee197c44b5",
   "created": "2026-11-19T04:49:47+05:30",
   "category": "tech",
@@ -639,120 +753,6 @@
    "future",
    "safety",
    "GenZ"
-  ]
- },
- {
-  "id": "c9e7c57017a6",
-  "created": "2026-11-18T22:58:10+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Mashable",
-  "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tbkVwZHV4MlRsRFFUZjVZa2J2N1Jub2FGMWY4eUs5ZE11bnhpQWlqUXlFdHBnMk96SE05WXFQRTNjeTh3UzdQaUxLdzh2U3VTUi1tdG03bl9hdmdsUG9ZYUpXTmlyY1Yt?oc=5",
-  "headline": "GTA 6 മെര്‍ച്ച് ലോഞ്ച് ദിനം ലഭ്യമായി",
-  "hook": "ഫാന്‍മാര്‍ മണിക്കൂറുകള്‍ കാത്തു, പുതിയ ഗിയര്‍ പിടിക്കാന്‍ പന്തയിച്ചു.",
-  "what": "റോക്ക്സ്റ്റാര്‍യും വെസ്റ്റ് കോസ്റ്റ് കസ്റ്റം‌സും ഔദ്യോഗിക GTA 6 ഷര്‍ട്ട്, ഹാറ്റ്, Ferrari ClubAlfa.it, ’95 Grotti Cheetah പോലുള്ള ഐറ്റങ്ങള്‍ പുറത്തിറക്കി. ലണ്ടനിലെ പോപ്പ്‑അപ്പ് സ്റ്റോറില്‍ നീണ്ട വരികള്‍ ഉണ്ടായി, ആളുകള്‍ ശേഷിക്കുന്നവ വാങ്ങാന്‍ തിരക്കിലായി.",
-  "why": "ഗെയിം പ്രേമികള്‍ക്ക് കളിയുടെ സ്റ്റൈല്‍ ധരിക്കാന്‍ അവസരം, സ്റ്റോക്ക് കുറവായതിനാല്‍ വേഗത്തില്‍ ഓണ്‍ലൈന്‍ പരിശോധിക്കാം.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "merch",
-   "fashion",
-   "popup"
-  ]
- },
- {
-  "id": "87f478ede3c2",
-  "created": "2026-11-18T21:47:59+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hc-drop-adopted-prefix-official-records-pti0rmnucwb",
-  "headline": "കേരള ഹൈക്കോടതി ‘adopted’ അടയാളം രേഖകളിൽ നിന്ന് നീക്കാൻ ആജ്ഞ",
-  "hook": "നിങ്ങളുടെ ജനന സർട്ടിഫിക്കറ്റിൽ മാറ്റം വരാം.",
-  "what": "കേരള ഹൈക്കോടതി സംസ്ഥാനത്തെ ‘adopted’ എന്ന പ്രിഫിക്സ് കുട്ടികളുടെ പേരുകളിൽ നിന്ന് ഒഴിവാക്കാൻ നിർദേശിച്ചു. e‑District പോർട്ടലും പുതുക്കാൻ ആജ്ഞ നൽകി.",
-  "why": "ഇത് യുവാക്കൾക്ക് രേഖകൾ ലളിതമാക്കും, അനാവശ്യ ലേബലുകൾ ഒഴിവാക്കും. നിങ്ങളുടെ രേഖയിൽ ആ പ്രിഫിക്സ് കാണുമെങ്കിൽ പരിശോധിക്കുക.",
-  "tags": [
-   "കേരളം",
-   "ഹൈക്കോടതി",
-   "eDistrict",
-   "രേഖകൾ",
-   "ദത്തകുടുംബം"
-  ]
- },
- {
-  "id": "e13ff49abc12",
-  "created": "2026-11-18T21:48:08+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/manipur/captain-dies-after-army-vehicle-plunges-into-itam-river-in-imphal-east/article71715979.ece",
-  "headline": "ഇംഫാൽ ഈസ്റ്റിലെ നദിയിൽ സൈനിക വാഹനത്തിൽ ക്യാപ്റ്റൻ മരണം",
-  "hook": "മണിപ്പുറം സൈനിക കൺവോയി അപകടത്തിൽ ക്യാപ്റ്റൻ ജീവൻ നഷ്ടപ്പെട്ടു.",
-  "what": "8th Bihar Regiment-ന്റെ ഒരു വാഹനത്തിൽ Itam River-ലേക്ക് വീണു, ക്യാപ്റ്റൻ മരിക്കുകയും മൂന്ന് സൈനികർക്ക് പരിക്ക് വരുകയും ചെയ്തു.",
-  "why": "ഇത്തരമൊരു അപകടം സൈന്യത്തിന്റെ അപകടസാധ്യതയെ കാണിക്കുന്നു, സുരക്ഷാ നടപടികളിൽ കൂടുതൽ ശ്രദ്ധ ആവശ്യമാണ്. യുവാക്കൾക്ക് ഈ സംഭവത്തെക്കുറിച്ച് അറിവ് വർദ്ധിപ്പിച്ച് സൈനികരുടെ ബലിയെ ആദരിക്കണം.",
-  "tags": [
-   "army",
-   "Manipur",
-   "accident",
-   "youth",
-   "safety"
-  ]
- },
- {
-  "id": "9d9aab5384e9",
-  "created": "2026-11-18T21:48:10+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "UC Today",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVhMU1JpTWo1MkpXZ0NWNWZNYTVzcHNEbDFORzRGaTBpbkhCY1ViajFZM0N0X3EwNzhZX1V6bjRLOWx0U3VNVE9idDNKSFl4U1hfb1k0cGpmWm9jUzgwSm92X1hkclRILTZJVHZQMmVPU1VzaFU1aDJDdFpGTDlPLXpSUjZXa0ZtN1djelRVSkZvbnNJTFRWWmpSUjl3ZWR2c3Rrb1dEWjlrTTZ2MkdfYw?oc=5",
-  "headline": "Google-ന്‌ ആറു രാജ്യങ്ങളിൽ Gemini Tasks സൗജന്യമായി",
-  "hook": "നിങ്ങളുടെ AI ഇനി കോളുകളും ഷോപ്പിംഗും സൗജന്യമായി ചെയ്യുന്നു.",
-  "what": "Google Gemini AI‑യുടെ “Tasks” ഫീച്ചർ ആറു രാജ്യങ്ങളിൽ, ഇന്ത്യ ഉൾപ്പെടെ, സൗജന്യമായി അവതരിപ്പിച്ചു. ഇത് കോളുകൾ, ഓൺലൈൻ വാങ്ങലുകൾ തുടങ്ങിയ കാര്യങ്ങളിൽ സഹായിക്കും.",
-  "why": "പഠനമോ ഹോബി സമയമോ ലാഭിക്കാൻ, യുവാക്കൾക്ക് ഈ വ്യക്തിഗത AI അസിസ്റ്റന്റ് ഉപയോഗിക്കാം. Gemini ആപ്പ് അല്ലെങ്കിൽ Google സേവനങ്ങളിൽ നിന്ന് പരീക്ഷിക്കാം.",
-  "tags": [
-   "Google",
-   "Gemini",
-   "AIassistant",
-   "Free",
-   "India"
-  ]
- },
- {
-  "id": "78b03c1754c2",
-  "created": "2026-11-18T21:48:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/sahara-india-refund-status-govt-transfers-221-crore-has-your-money-arrived-how-to-check-11795015810828.html",
-  "headline": "Sahara-യുടെ റീഫണ്ട് ₹221 കോടി, ഒരു ആഴ്ചയിൽ, സ്ഥിതി പരിശോധിക്കുക",
-  "hook": "നിങ്ങളുടെ Sahara റീഫണ്ട് കാത്തിരിക്കുകയാണോ? ഒരു ക്ലിക്കിൽ അറിയാം",
-  "what": "സർക്കാർ കഴിഞ്ഞ ഏഴ് ദിവസത്തിൽ Sahara റീഫണ്ടായി ഏകദേശം ₹221.45 കോടി വിതരണം ചെയ്തു. അപേക്ഷകർ ഔദ്യോഗിക പോർട്ടലിൽ തങ്ങളുടെ പണം ലഭിച്ചോ എന്ന് പരിശോധിക്കാം.",
-  "why": "റീഫണ്ട് ലഭിച്ചോ എന്ന് ഉറപ്പാക്കുന്നത് നഷ്ടം ഒഴിവാക്കാൻ സഹായിക്കും. ഓൺലൈൻ സ്റ്റാറ്റസ് ചെക്കർ ഉപയോഗിച്ച് പണം ലഭിച്ചില്ലെങ്കിൽ നടപടികൾ പിന്തുടരുക.",
-  "tags": [
-   "SaharaRefund",
-   "MoneyMatters",
-   "YouthFinance",
-   "IndiaNews",
-   "RefundCheck"
-  ]
- },
- {
-  "id": "f816757e046d",
-  "created": "2026-11-18T21:48:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-  "headline": "AI ലോകം ഞെട്ടി, Nvidia സഹസ്ഥാപകൻ ജെൻസൻ രാജിവച്ചു",
-  "hook": "ഒരു പ്രധാന AI വ്യക്തി വിവാദത്തിൽ നിന്ന് പുറത്ത്—ഇത് ടെക്ക് രംഗത്തെ എന്ത് മാറ്റം കൊണ്ടുവരും?",
-  "what": "Nvidiaയുടെ സ്ഥാപകനും മുൻ സിഇഒയുമായ ജെൻസൻ ഹുവാങ് കഴിഞ്ഞ ആഴ്ച രാജിവെച്ചു. അദ്ദേഹത്തിന്റെ രാജി ഒരു ചൈനീസ് ചോരക്കാരിയുമായി ബന്ധം ഉൾപ്പെടുന്ന നിരവധി വിവാദങ്ങളോടെ വന്നതാണ്. OpenAIയുടെ സാം ആൾട്ട്മാൻ, AI മേഖലയെ ജെൻസൻ ഇല്ലാതെ ചിന്തിക്കാൻ ബുദ്ധിമുട്ടാണെന്ന് പറഞ്ഞു.",
-  "why": "അവന്റെ വിട AI ഹാർഡ്‌വെയർ, സോഫ്റ്റ്‌വെയർ വികസനത്തിൽ മാറ്റം വരുത്താം, ഇത് യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകൾക്കും അവസരങ്ങൾക്കും സ്വാധീനം ചെലുത്തും. പുതിയ AI ഉൽപ്പന്നങ്ങളും ജോലികളുമെക്കുറിച്ച് ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "AI",
-   "Nvidia",
-   "TechNews",
-   "Industry",
-   "Startups"
   ]
  }
 ]

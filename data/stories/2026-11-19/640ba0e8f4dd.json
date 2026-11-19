@@ -1,0 +1,37 @@
+{
+ "id": "640ba0e8f4dd",
+ "created": "2026-11-19T05:48:14+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUHk4Y0dhdUdDZ3ZxczhFQWxZTm5TQ3loZTFBdXVvQkQ5MkxILWJpZE9ieDVZcFQ5S0thTmNRbU1LWVR1MEhfS3BFNHJXSDNnM3ZuLWpvWFRNVDdJdkIzZzB4alY1S1VnalJNblFlY2FOZlNWNFBUQjBsaXlrazB1TDU5UzBUdWZLZlgyWFBuTQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Akash Deep back in India squad after nine‑month injury layoff",
+  "hook": "The fast bowler makes a comeback after months of rehab.",
+  "what": "Akash Deep has been selected again for the Indian team following a nine‑month recovery from a back injury. He is working to rebuild his bowling career.",
+  "why": "His return adds depth to India's pace attack, offering opportunities for upcoming matches. Young cricketers can see the value of perseverance and proper injury management.",
+  "tags": [
+   "cricket",
+   "India",
+   "AkashDeep",
+   "comeback",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "ആകാശ് ദീപ് 9 മാസം രോഗമുക്തി ശേഷം ഇന്ത്യാ സ്ക്വാഡിൽ തിരിച്ചെത്തി",
+  "hook": "പിന്നെ വന്ന ഫാസ്റ്റ് ബോൾറിന്റെ വലിയ തിരിച്ചുവരവ്.",
+  "what": "ആകാശ് ദീപ് തന്റെ പിൻവേദനാ പരിക്ക് മൂലം ഒൻപത് മാസം ചികിത്സയോടെ കഴിഞ്ഞു, വീണ്ടും ഇന്ത്യൻ ടീമിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു. തന്റെ ബോളിംഗ് കരിയർ പുനർനിർമിക്കാൻ ശ്രമിക്കുന്നു.",
+  "why": "ഇന്ത്യയുടെ പേസ് ഓപ്ഷനുകൾക്ക് കൂടുതൽ ശക്തി നൽകും, യുവ കളിക്കാർക്ക് പരിക്ക് മാനേജ്മെന്റിന്റെ പ്രാധാന്യം കാണിക്കും.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ആകാശ്ദീപ്",
+   "കോമ്ബാക്ക്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "6b7e5f7794d9",
+ "created": "2026-11-19T05:48:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/madhya-pradesh-leads-in-adult-learners-adult-literacy-10968996/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "11 regions achieve full literacy, MP tops adult learning",
+  "hook": "India’s literacy map just got brighter.",
+  "what": "Eleven states and Union Territories have been declared fully literate. Madhya Pradesh recorded the highest number of adults taking learning programmes.",
+  "why": "Higher literacy can boost job prospects and digital access for youth. Keep an eye on adult education schemes in your area.",
+  "tags": [
+   "literacy",
+   "education",
+   "India",
+   "MP",
+   "learning"
+  ]
+ },
+ "ml": {
+  "headline": "11 പ്രദേശങ്ങൾ മുഴുവൻ സാക്ഷരത നേടി, എംപി മുതിർന്നവരുടെ പഠനം മുൻപന്തിയിൽ",
+  "hook": "ഇന്ത്യയുടെ സാക്ഷരതാ ചാർട്ട് കൂടുതൽ പ്രകാശമാക്കി.",
+  "what": "പതിനൊന്ന് സംസ്ഥാനങ്ങളും കേന്ദ്ര പ്രദേശങ്ങളും മുഴുവൻ സാക്ഷരതയുള്ളവയായി പ്രഖ്യാപിച്ചു. മധ്യപ്രദേശി സംസ്ഥാനത്തിൽ മുതിർന്നവരുടെ പഠനത്തിൽ ഏറ്റവും കൂടുതൽ പങ്കാളിത്തം കണ്ടു.",
+  "why": "സാക്ഷരത വർദ്ധനവു തൊഴിൽ അവസരങ്ങളും ഡിജിറ്റൽ ആക്‌സസും മെച്ചപ്പെടുത്തും. നിങ്ങളുടെ പ്രദേശത്തെ മുതിർന്നവരുടെ വിദ്യാഭ്യാസ പദ്ധതികളെ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സാക്ഷരത",
+   "വിദ്യാഭ്യാസം",
+   "ഇന്ത്യ",
+   "MP",
+   "പഠനം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "ae30c6152bf9",
+ "created": "2026-11-19T05:48:12+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Musk likens firing Jensen Huang to benching Michael Jordan",
+  "hook": "A bold analogy from Elon Musk on tech leadership.",
+  "what": "Elon Musk compared the idea of removing Jensen Huang to kicking Michael Jordan off a basketball team. He also said he doesn’t view Huang as disloyal to the United States.",
+  "why": "The comment shows how highly tech CEOs are valued, indicating that leadership moves can shape the industry. Young Indians should stay aware of such opinions to better understand market trends.",
+  "tags": [
+   "ElonMusk",
+   "JensenHuang",
+   "TechLeadership",
+   "NBA",
+   "IndustryTalk"
+  ]
+ },
+ "ml": {
+  "headline": "Musk Jensen Huang-നെ പുറത്താക്കുന്നത് Michael Jordan-നെ ടീമിൽ നിന്ന് പുറത്താക്കുന്നതുപോലെ എന്ന് പറഞ്ഞു",
+  "hook": "Elon Musk-ന്റെ ടെക് നേതൃത്തെക്കുറിച്ചുള്ള ധൈര്യമായ ഉപമ.",
+  "what": "Elon Musk Jensen Huang-നെ ഒഴിവാക്കുന്നത് Michael Jordan-നെ ടീമിൽ നിന്ന് പുറത്താക്കുന്നതുമായി താരതമ്യം ചെയ്തു. അദ്ദേഹം Huang അമേരിക്കയോട് അനാദരവില്ലെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ടെക് രംഗത്തെ നേതാക്കളുടെ പ്രാധാന്യം കാണിക്കുന്നു, വ്യവസായത്തെക്കുറിച്ച് അറിവ് നേടാൻ യുവാക്കൾക്ക് സഹായിക്കും.",
+  "tags": [
+   "ElonMusk",
+   "JensenHuang",
+   "TechLeadership",
+   "NBA",
+   "IndustryTalk"
+  ]
+ }
+}

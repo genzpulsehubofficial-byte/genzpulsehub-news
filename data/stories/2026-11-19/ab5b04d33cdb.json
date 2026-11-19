@@ -1,0 +1,37 @@
+{
+ "id": "ab5b04d33cdb",
+ "created": "2026-11-19T05:48:02+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/government-inks-deal-with-israel-to-upgrade-barak-missile-system-10968952/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India signs deal with Israel to upgrade Barak missiles",
+  "hook": "New upgrade boost for India's air defence.",
+  "what": "The Indian government has signed an agreement with Israel to modernise the Barak missile system. The deal focuses on enhancing the existing defence hardware.",
+  "why": "Strengthening missile capabilities helps protect the country’s airspace, a concern for all citizens. Stay informed about national security developments.",
+  "tags": [
+   "defence",
+   "missiles",
+   "IndiaIsrael",
+   "technology",
+   "security"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയും ഇസ്രായേലും ബറാക് മിസൈൽ അപ്ഗ്രേഡ് കരാർ",
+  "hook": "വായു പ്രതിരോധം ശക്തിപ്പെടുത്തുന്ന പുതിയ അപ്ഗ്രേഡ്.",
+  "what": "ഭാരത സര്‍ക്കാര്‍ ഇസ്രായേലുമായി ബറാക് മിസൈല്‍ സിസ്റ്റം ആധുനികമാക്കാന്‍ കരാര്‍ ഒപ്പുവച്ചു. ഈ ഉടമ്പടി നിലവിലുള്ള പ്രതിരോധ ഉപകരണങ്ങള്‍ മെച്ചപ്പെടുത്താന്‍ ലക്ഷ്യമിടുന്നു.",
+  "why": "വായു പ്രദേശം സംരക്ഷിക്കാന്‍ മിസൈല്‍ ശേഷി വര്‍ദ്ധിപ്പിക്കുന്നത് എല്ലാവരുടെയും സുരക്ഷയ്ക്ക് പ്രധാനമാണ്. ദേശീയ സുരക്ഷാ വാര്‍ത്തകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "പ്രതിരോധം",
+   "മിസൈല്",
+   "ഇന്ത്യഇസ്രായേല്",
+   "ടെക്",
+   "സുരക്ഷ"
+  ]
+ }
+}
