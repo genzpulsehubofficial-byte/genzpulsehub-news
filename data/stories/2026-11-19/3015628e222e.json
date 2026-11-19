@@ -1,0 +1,37 @@
+{
+ "id": "3015628e222e",
+ "created": "2026-11-19T18:15:19+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnVEbnRuZlc2ajBwTEJCdjNiRHpfRGhiOUFwb0hUSUZMVWRQRzdJcEdZVUNoMHRZZ05OYjhHNUNsMFVEdVp1c0JHRE1wYjN4cGwzYlNqUXFyQUlITWpfQTNFMktrdFlGeW82NEUwNjZwZnNRSjg3QzZTZmgwWGtoMXh2cGlmY3lSTUNCVW5PR185RGpkVXpPaXFxcGhYWTRSeGR6RWxuTjhBYmJueFYwa2gtdHBSWFk2UUtCM08xa3p4bkZGa0gxMkcwa0Y1dENNRWJnalJn0gHbAUFVX3lxTFBLSHZqa0pLeFJHcDl0amwtZ0VYNTVHMnRlU0N0NkNpRlFFcEJLanZtRnI1UjA5YVp3aUpXTGVqLTBjM2V0YlBYWlFjRjhNWGJ0eTBRYjM2aHdKakpvR3hCUmVIQWhjbG96SVY2SjJYX2l6Q0pTRU5xVVctRnh3Q3ZkVkt5N2I3cEpHYXhaa1VFRTVOY182aGVEanBRemFFUE13Nk9RTnJLUUt0N3YzaUgxa1pnLVdKY3BHMXB0bFBVN3o4YUpnNTNqMnVfUWpRa3hsMDIyOG5sNUZXNA?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO lowers PF minimum balance to 10% and adds SWP",
+  "hook": "Your retirement fund just got more flexible.",
+  "what": "The Employees’ Provident Fund Organisation will reduce the mandatory minimum balance from 25% to 10% of the total contribution. It also introduces a Systematic Withdrawal Plan, letting retirees take out their savings in scheduled installments.",
+  "why": "This gives young workers more control over their savings and quicker access if they lose a job. Keep your PF details updated to use the new options.",
+  "tags": [
+   "EPFO",
+   "ProvidentFund",
+   "SWP",
+   "Finance",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO PF കുറഞ്ഞ ബാലൻസ് 10% ആക്കി SWP ആരംഭിച്ചു",
+  "hook": "നിങ്ങളുടെ വിരമിക്കൽ നിക്ഷേപം ഇനി കൂടുതൽ സൗകര്യപ്രദം.",
+  "what": "Employees’ Provident Fund Organisation കുറഞ്ഞത് 25% നിന്ന് 10% വരെ കുറഞ്ഞ കുറഞ്ഞ ബാലൻസ് നിബന്ധന നടപ്പിലാക്കുന്നു. കൂടാതെ Systematic Withdrawal Plan (SWP) വഴി വിരമിച്ചവർക്കു അവരുടെ PF തുക സ്ഥിരമായ കিস্তികളിൽ പിൻവലിക്കാൻ കഴിയും.",
+  "why": "ഇത് യുവ തൊഴിലാളികൾക്ക് അവരുടെ സേവിംഗ്സ് കൂടുതൽ നിയന്ത്രിക്കാൻ, ജോലി നഷ്ടപ്പെട്ടാൽ വേഗത്തിൽ പിൻവലിക്കാൻ സഹായിക്കും. പുതിയ ഓപ്ഷനുകൾ ഉപയോഗിക്കാൻ PF അക്കൗണ്ട് വിവരങ്ങൾ പുതുക്കി വെക്കുക.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "SWP",
+   "Finance",
+   "Youth"
+  ]
+ }
+}

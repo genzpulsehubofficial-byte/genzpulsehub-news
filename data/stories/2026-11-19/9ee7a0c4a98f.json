@@ -1,0 +1,37 @@
+{
+ "id": "9ee7a0c4a98f",
+ "created": "2026-11-19T18:15:24+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Red Bull",
+ "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "PlayStation glitches delay GTA 6 launch for many users",
+  "hook": "Your PS5 might freeze just as you try to start GTA 6.",
+  "what": "Hours before Grand Theft Auto VI’s scheduled release, PlayStation’s online service suffered widespread outages. Sony warned that a new PS5 firmware update is required to run the game. Many users saw errors that stopped the game from launching.",
+  "why": "If you own a PS5, install the latest firmware now so you can play GTA 6 without crashes. Keeping your console updated prevents missing the launch.",
+  "tags": [
+   "PS5",
+   "GTAV6",
+   "gaming",
+   "update",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പ്ലേസ്റ്റേഷൻ ഗ്ലിച്ചുകൾ GTA 6 ലോഞ്ച് പലർക്കും വൈകിച്ചു",
+  "hook": "നിങ്ങളുടെ PS5, GTA 6 തുടങ്ങാൻ ശ്രമിക്കുമ്പോൾ ഹാംഗ് ആകാം.",
+  "what": "Grand Theft Auto VI റിലീസ് സമയത്തിന് കുറച്ച് മണിക്കൂർ മുൻപ്, പ്ലേസ്റ്റേഷൻ ഓൺലൈൻ സർവീസിൽ വ്യാപകമായ ഔട്ടേജ് സംഭവിച്ചു. സോണി പുതിയ PS5 ഫർമ്വെയർ അപ്ഡേറ്റ് ആവശ്യമാണ് എന്ന് മുന്നറിയിപ്പ് നൽകി. പല ഉപയോക്താക്കളും ഗെയിം ലോഞ്ച് ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ എറർ നേരിട്ടു.",
+  "why": "നിങ്ങൾക്ക് PS5 ഉണ്ടെങ്കിൽ, GTA 6 കളിക്കാൻ മുമ്പ് ഏറ്റവും പുതിയ ഫർമ്വെയർ ഇൻസ്റ്റാൾ ചെയ്യുക. അപ്ഡേറ്റ് ചെയ്താൽ ക്രാഷ് ഒഴിവാക്കി ലോഞ്ച് സമയം നഷ്ടമാകില്ല.",
+  "tags": [
+   "PS5",
+   "GTAV6",
+   "gaming",
+   "update",
+   "India"
+  ]
+ }
+}

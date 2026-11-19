@@ -1,0 +1,37 @@
+{
+ "id": "af05432d060e",
+ "created": "2026-11-19T18:15:21+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/upi-fee-shock-eased-b2b-transactions-may-now-attract-just-5-charge-under-revised-mdr-plan-11795088050504.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "UPI B2B fees may fall to just ₹5",
+  "hook": "Wholesale payments could become super cheap with a flat ₹5 fee.",
+  "what": "The NPCI has updated its framework so that UPI transactions between wholesalers and retailers will carry a flat ₹5 MDR charge. This replaces an earlier proposal that allowed fees up to ₹300.",
+  "why": "Lower transaction costs can help small businesses keep prices down, benefiting young shoppers. Teens interested in starting a venture can use the cheaper UPI option.",
+  "tags": [
+   "UPI",
+   "B2B",
+   "MDR",
+   "fees",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "UPI B2B ഇടപാടുകൾക്ക് ₹5 ചാർജ് മാത്രം",
+  "hook": "വ്യാപാരികളുടെയും റീട്ടെയിലർമാരുടെയും ഇടയിലെ പേയ്‌മെന്റുകൾ ഇനി വളരെ കുറഞ്ഞ ഫീസ്.",
+  "what": "NPCIയുടെ പുതുക്കിയ ചട്ടപ്രകാരം, വ്യാപാരികളുടെയും റീട്ടെയിലർമാരുടെയും ഇടയിലെ UPI പേയ്‌മെന്റുകൾക്ക് ₹5 എന്ന സ്ഥിരം MDR ഫീസ് ചുമത്തും. മുമ്പ് പരമാവധി ₹300 വരെ ചാർജ് ചെയ്യാമെന്ന നിർദ്ദേശം ഉണ്ടായിരുന്നു.",
+  "why": "കുറഞ്ഞ ഫീസ് ചെറുകിട വ്യാപാരങ്ങൾക്ക് ചെലവ് കുറയ്ക്കും, ഉപഭോക്താക്കൾക്ക് വിലകൾ സ്ഥിരതയോടെ നിലനിൽക്കാൻ സഹായിക്കും. യുവ സംരംഭകർക്ക് UPI ഉപയോഗിച്ച് ബിസിനസ് തുടങ്ങാൻ ഇത് പ്രോത്സാഹനം നൽകും.",
+  "tags": [
+   "UPI",
+   "B2B",
+   "MDR",
+   "ഫീസ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

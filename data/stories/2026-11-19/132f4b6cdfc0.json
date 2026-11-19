@@ -1,0 +1,37 @@
+{
+ "id": "132f4b6cdfc0",
+ "created": "2026-11-19T18:15:10+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/cbt-approves-introduction-of-systematic-withdrawal-plan-swp-for-epf-members/article71719969.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "EPF to Offer Systematic Withdrawal Plan for Retirees",
+  "hook": "Turn your EPF savings into a steady monthly flow.",
+  "what": "The Central Board of Trustees has approved a Systematic Withdrawal Plan for EPF members. Retirees can receive regular, predictable payouts from their EPF balance. The underlying corpus stays owned by the member.",
+  "why": "It gives young workers a clearer view of post‑retirement income and helps them plan finances early. Learn how the SWP works before you retire.",
+  "tags": [
+   "EPF",
+   "SWP",
+   "retirement",
+   "finance",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "EPF-ല്‍ Systematic Withdrawal Plan വരുന്നു",
+  "hook": "നിങ്ങളുടെ EPF സംരക്ഷണം സ്ഥിരമായ വരുമാനമായി മാറ്റൂ",
+  "what": "Central Board of Trustees Systematic Withdrawal Plan EPF അംഗങ്ങൾക്ക് അംഗീകരിച്ചു. ഈ പദ്ധതി പ്രകാരം വിരമിച്ചവർക്കു EPF ബാലൻസ്‌യിൽ നിന്ന് സ്ഥിരമായ, പ്രവചിക്കാവുന്ന പെയ്മെന്റുകൾ ലഭിക്കും. അടിസ്ഥാന തുക അംഗത്തിന്റെ ഉടമസ്ഥതയിൽ തന്നെ തുടരുന്നു.",
+  "why": "ഇത് യുവ തൊഴിലാളികൾക്ക് വിരമിക്കുമ്പോൾ വരുമാന ഉറപ്പ് നൽകും, അതിനാൽ മുൻകൂട്ടി പദ്ധതി തയ്യാറാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "EPF",
+   "SWP",
+   "retirement",
+   "finance",
+   "GenZ"
+  ]
+ }
+}

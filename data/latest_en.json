@@ -1,5 +1,100 @@
 [
  {
+  "id": "132f4b6cdfc0",
+  "created": "2026-11-19T18:15:10+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cbt-approves-introduction-of-systematic-withdrawal-plan-swp-for-epf-members/article71719969.ece",
+  "headline": "EPF to Offer Systematic Withdrawal Plan for Retirees",
+  "hook": "Turn your EPF savings into a steady monthly flow.",
+  "what": "The Central Board of Trustees has approved a Systematic Withdrawal Plan for EPF members. Retirees can receive regular, predictable payouts from their EPF balance. The underlying corpus stays owned by the member.",
+  "why": "It gives young workers a clearer view of post‑retirement income and helps them plan finances early. Learn how the SWP works before you retire.",
+  "tags": [
+   "EPF",
+   "SWP",
+   "retirement",
+   "finance",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "be98a0352ee1",
+  "created": "2026-11-19T18:15:17+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNU3I4WWJ3eTVlYTUwS0pvaUlxTnVGUEZCNjFhM1B4bzgwMGFHVUdBR1lWWDhzUEN1c3RZUGtTMEp6N21BaHlTem9JRFVVclBzVmlIaGZ5RnRReTB6MnBwbEl0dW54YXB4emNmc1JOMlkxWTB0NzBWdUlhdGxaNnc4d2VPZGx2d2prck55alRPWkZzNEdiUmhaQjRvNm1ibEpTSkwyT054Y29MaXRSMnE5ZElEM1RJY3pseVFqMXdSSi03OFpPS3BuYmgwUmZhZXJxYW00dnpDcEZteXFRM1B2VXRrSl9vdlZXVzFEUVh0RUEyS1RMdFMwenVEY2FlX1AwVnpYRG4zZ3dCNzNRdUFqVS1DNlk?oc=5",
+  "headline": "EPFO launches SWP, lets retirees take PF in installments",
+  "hook": "Grab your pension money step‑by‑step, no big lump sum needed.",
+  "what": "The Employees’ Provident Fund Organisation has introduced a Systematic Withdrawal Plan. Retirees can now receive their PF balance in regular monthly installments instead of a single payout. The scheme also reduces the waiting period for full withdrawal after job loss to two months.",
+  "why": "This gives young workers more flexibility to manage finances after retirement or job loss. Check your EPF account to see if you qualify and set up the plan online.",
+  "tags": [
+   "EPF",
+   "SWP",
+   "retirement",
+   "finance",
+   "India"
+  ]
+ },
+ {
+  "id": "3015628e222e",
+  "created": "2026-11-19T18:15:19+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSnVEbnRuZlc2ajBwTEJCdjNiRHpfRGhiOUFwb0hUSUZMVWRQRzdJcEdZVUNoMHRZZ05OYjhHNUNsMFVEdVp1c0JHRE1wYjN4cGwzYlNqUXFyQUlITWpfQTNFMktrdFlGeW82NEUwNjZwZnNRSjg3QzZTZmgwWGtoMXh2cGlmY3lSTUNCVW5PR185RGpkVXpPaXFxcGhYWTRSeGR6RWxuTjhBYmJueFYwa2gtdHBSWFk2UUtCM08xa3p4bkZGa0gxMkcwa0Y1dENNRWJnalJn0gHbAUFVX3lxTFBLSHZqa0pLeFJHcDl0amwtZ0VYNTVHMnRlU0N0NkNpRlFFcEJLanZtRnI1UjA5YVp3aUpXTGVqLTBjM2V0YlBYWlFjRjhNWGJ0eTBRYjM2aHdKakpvR3hCUmVIQWhjbG96SVY2SjJYX2l6Q0pTRU5xVVctRnh3Q3ZkVkt5N2I3cEpHYXhaa1VFRTVOY182aGVEanBRemFFUE13Nk9RTnJLUUt0N3YzaUgxa1pnLVdKY3BHMXB0bFBVN3o4YUpnNTNqMnVfUWpRa3hsMDIyOG5sNUZXNA?oc=5",
+  "headline": "EPFO lowers PF minimum balance to 10% and adds SWP",
+  "hook": "Your retirement fund just got more flexible.",
+  "what": "The Employees’ Provident Fund Organisation will reduce the mandatory minimum balance from 25% to 10% of the total contribution. It also introduces a Systematic Withdrawal Plan, letting retirees take out their savings in scheduled installments.",
+  "why": "This gives young workers more control over their savings and quicker access if they lose a job. Keep your PF details updated to use the new options.",
+  "tags": [
+   "EPFO",
+   "ProvidentFund",
+   "SWP",
+   "Finance",
+   "Youth"
+  ]
+ },
+ {
+  "id": "af05432d060e",
+  "created": "2026-11-19T18:15:21+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/upi-fee-shock-eased-b2b-transactions-may-now-attract-just-5-charge-under-revised-mdr-plan-11795088050504.html",
+  "headline": "UPI B2B fees may fall to just ₹5",
+  "hook": "Wholesale payments could become super cheap with a flat ₹5 fee.",
+  "what": "The NPCI has updated its framework so that UPI transactions between wholesalers and retailers will carry a flat ₹5 MDR charge. This replaces an earlier proposal that allowed fees up to ₹300.",
+  "why": "Lower transaction costs can help small businesses keep prices down, benefiting young shoppers. Teens interested in starting a venture can use the cheaper UPI option.",
+  "tags": [
+   "UPI",
+   "B2B",
+   "MDR",
+   "fees",
+   "India"
+  ]
+ },
+ {
+  "id": "9ee7a0c4a98f",
+  "created": "2026-11-19T18:15:24+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Red Bull",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
+  "headline": "PlayStation glitches delay GTA 6 launch for many users",
+  "hook": "Your PS5 might freeze just as you try to start GTA 6.",
+  "what": "Hours before Grand Theft Auto VI’s scheduled release, PlayStation’s online service suffered widespread outages. Sony warned that a new PS5 firmware update is required to run the game. Many users saw errors that stopped the game from launching.",
+  "why": "If you own a PS5, install the latest firmware now so you can play GTA 6 without crashes. Keeping your console updated prevents missing the launch.",
+  "tags": [
+   "PS5",
+   "GTAV6",
+   "gaming",
+   "update",
+   "India"
+  ]
+ },
+ {
   "id": "defc20c157e5",
   "created": "2026-11-19T17:08:27+05:30",
   "category": "headlines",
@@ -656,100 +751,6 @@
    "ElonMusk",
    "money",
    "youth"
-  ]
- },
- {
-  "id": "4fe05a9d5cd8",
-  "created": "2026-11-19T10:26:52+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/trump-putin-xi-trilateral-meet-in-china-today-whats-on-agenda-12346996#publisher=newsstand",
-  "headline": "Trump, Xi, Putin to Meet at Shenzhen Summit",
-  "hook": "Three world leaders gather in China for a historic talk",
-  "what": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are scheduled to convene in Shenzhen for a trilateral summit today.",
-  "why": "The meeting could influence global relations, so staying informed helps young Indians understand international events.",
-  "tags": [
-   "global",
-   "summit",
-   "politics",
-   "China",
-   "leaders"
-  ]
- },
- {
-  "id": "783365075b49",
-  "created": "2026-11-19T10:26:54+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "News18",
-  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHNIcGpBSmFrS2lKbTcyYkN5bVVHalBHOS1RRGdpMEt0aXp5Y05nLU81Z0xDVTZYbjQ4b3Uzekx1dlBwRHNRWTNxUE5xRl9qOElXbG85ZUE5MGE2VF8xV3ZfYWFSbklVMXBPUXFEeVJISThUUmcyVWtPZDlMNk9iMEFjZmVrSlZtZy10cGtNVVJ0SUtKZ1hsdkVTMjB0Q3BoTnlVZg?oc=5",
-  "headline": "India opens New Zealand Test series 2026",
-  "hook": "First innings action kicks off the two‑match showdown.",
-  "what": "India and New Zealand faced off in the opening Test of their 2026 series in New Zealand. The match is part of a two‑Test schedule.",
-  "why": "The series will shape India's overseas performance and offers fans a chance to follow live scores and player form.",
-  "tags": [
-   "cricket",
-   "India",
-   "NewZealand",
-   "TestSeries",
-   "2026"
-  ]
- },
- {
-  "id": "a5cb16af7124",
-  "created": "2026-11-19T10:26:56+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tripura/election-affidavit-case-tripura-court-directs-police-to-book-minister-tinku-roy/article71718714.ece",
-  "headline": "Tripura court orders police to charge Minister Tinku Roy",
-  "hook": "A state minister faces police action over a fake election form.",
-  "what": "The Tripura court instructed police to file a case against Minister Tinku Roy. He is alleged to have submitted false credentials in his election affidavit to the Election Commission.",
-  "why": "This highlights the importance of honesty in election documents, reminding young voters to verify candidate claims. Stay aware of political accountability.",
-  "tags": [
-   "politics",
-   "election",
-   "Tripura",
-   "affidavit",
-   "accountability"
-  ]
- },
- {
-  "id": "96555a39e842",
-  "created": "2026-11-19T10:26:58+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/cpim-workers-booked-disrupting-payyanur-mla-speech-kannur-ptisjegwfxk",
-  "headline": "Eight CPI(M) members charged for disrupting MLA's speech in Kannur",
-  "hook": "A political rally turned chaotic as workers were arrested.",
-  "what": "Police in Kannur filed a case against eight CPI(M) activists. They are accused of interrupting a speech by UDF-backed MLA V Kunhikrishnan and assaulting a staff member. The investigation is ongoing.",
-  "why": "It highlights how political tensions can spill into public events, reminding young people to stay informed about local politics and safety. Keep an eye on community updates.",
-  "tags": [
-   "Kannur",
-   "CPI(M)",
-   "MLA",
-   "politics",
-   "Kerala"
-  ]
- },
- {
-  "id": "364532bb6dd7",
-  "created": "2026-11-19T09:21:15+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/over-17-000-end-of-life-vehicles-seized-in-delhi-till-nov-2-traffic-police-data-101795057742727.html",
-  "headline": "Delhi police seize over 17,000 old cars, launch scrap drive",
-  "hook": "Your junk car could help clean up the city",
-  "what": "Delhi traffic police have confiscated more than 17,000 end‑of‑life vehicles up to 2 Nov. They have started an \"EOL Vehicles Awareness Mela\" to urge owners to hand over cars to authorised scrapping centres.",
-  "why": "Old, polluting vehicles affect air quality; if you own one, consider surrendering it at a licensed scrap yard.",
-  "tags": [
-   "Delhi",
-   "EOL",
-   "VehicleScrap",
-   "CleanAir"
   ]
  }
 ]
