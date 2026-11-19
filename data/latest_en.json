@@ -1,5 +1,99 @@
 [
  {
+  "id": "4ba8561313c5",
+  "created": "2026-11-19T23:49:02+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
+  "headline": "Air pollution drives rise in lung hospital cases",
+  "hook": "Kids and seniors saw a sharp jump in breathing‑related admissions.",
+  "what": "Hospital claims for respiratory problems grew 11% in September and again in October 2025, according to Care Health Insurance data. Children made up 48% of those claims each month, and together with senior citizens they represented 58% of all admissions.",
+  "why": "Young people living in polluted areas face higher risk of lung issues, so staying aware of air quality and limiting outdoor exposure on bad days can help protect health.",
+  "tags": [
+   "airpollution",
+   "respiratory",
+   "healthtips",
+   "youth",
+   "india"
+  ]
+ },
+ {
+  "id": "627171933371",
+  "created": "2026-11-19T23:50:05+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IndulgExpress",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUFyVDRGeHVjOEdZZmQwSXpNMk9wRFgwRnlCREZKQWVMMkNxZWRoVnNlQzJjcXFoRkVBOVlNZlNYU19UY3Y4X25Vc0RycEktSTJnYVRoY20zV0NYTmxfOGQtSG1HUUhDNDB3aDR4TXNBTWxOWHpJSnp2WTYtckQtdkx3NGx5MTdic1ZVTmx6a3hTRTg5TnlCWmJKd0t1ZDBpUEQ3MHJfbXRTWVFhTHfSAbsBQVVfeXFMT1VWTHhrNTZTWE9DcGZpQWg5T2NCeEhiLUQxeUVPM3U5QXZTVmx1emFmSHRaX1VYWnI3ZXJJZm92T1M3b1VXbW5MNmdJZVVRVGRHWkpoUDk2UmtQWG9oSmptUlIwdHVUMTE5N2NVeHY1dGFRdG94YTVLaWpWdUR1aGNlOFZtc0RhRi1mSkwxX3JvZjNTRmE2UVJ2M19PSy0yLXM0NVg0ZWpnLXV0c0NTcm9Ya3FZaXlkRGZsVQ?oc=5",
+  "headline": "New OTT titles dropping Nov 20‑26",
+  "hook": "Fresh shows and movies hit your screens this week",
+  "what": "Various streaming platforms have scheduled releases between November 20 and 26. The lineup includes a mix of series and films launching across popular OTT services.",
+  "why": "Knowing the release dates helps you plan your binge‑watch schedule and not miss out on the latest content.",
+  "tags": [
+   "OTT",
+   "newreleases",
+   "binge",
+   "streaming",
+   "Nov2026"
+  ]
+ },
+ {
+  "id": "1054662f25c3",
+  "created": "2026-11-19T23:50:07+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "headline": "Google's Gemini AI now runs tasks on your Mac",
+  "hook": "Let an AI handle your Mac chores in seconds",
+  "what": "Google added an AI agent to Gemini for macOS. The agent can sort files, complete forms and manage multi‑step processes automatically.",
+  "why": "Students can use it to speed up assignments and keep their desktops tidy. Try the new Gemini update on your Mac to automate routine work.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI",
+   "Mac",
+   "Productivity"
+  ]
+ },
+ {
+  "id": "47e5ddf718b1",
+  "created": "2026-11-19T23:50:11+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/rgcb-celebrates-31st-foundation-day/article71721124.ece",
+  "headline": "RGCB marks 31st foundation day",
+  "hook": "A milestone for India's biotech research hub",
+  "what": "The Rajiv Gandhi Centre for Biotechnology celebrated its 31st foundation day. The institute held commemorative activities to mark the occasion.",
+  "why": "The celebration highlights the centre's role in scientific research, inspiring young students interested in biotech and related fields.",
+  "tags": [
+   "RGCB",
+   "foundationday",
+   "biotech",
+   "research",
+   "India"
+  ]
+ },
+ {
+  "id": "2919f418f3f5",
+  "created": "2026-11-19T23:50:14+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "headline": "Meta’s Muse AI shares wrong personal data",
+  "hook": "Your private info could appear in someone else’s chat.",
+  "what": "Employees said Meta’s AI assistant Muse displayed messages that weren’t theirs. The tool showed supposed childcare requests, career advice, product orders and bank balances that didn’t match the user.",
+  "why": "It shows privacy risks when AI agents handle conversations, so users should verify any displayed info and be careful sharing sensitive data.",
+  "tags": [
+   "Meta",
+   "AI",
+   "privacy",
+   "data"
+  ]
+ },
+ {
   "id": "527cfe0364a3",
   "created": "2026-11-19T22:49:59+05:30",
   "category": "headlines",
@@ -660,99 +754,6 @@
    "Retirement",
    "Finance",
    "India"
-  ]
- },
- {
-  "id": "9cf04d576639",
-  "created": "2026-11-19T16:12:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "NDTV Profit",
-  "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaW9VUEk1a1YwTDNzSXA4SXJFRW9GNXo0aC1kekVwc0hoRXdYeklCU1gyQUU1dE4tcVZVdGplQTBQTDZJNEZBM0ZVWS1XRTNhWUw3V21qajZxME5XVnQ1ZjdTR0d3emZkRFZfLWkyb0Y0RWloYllZaVZvbWR3LUh4bjhZTWEwNllWam16M0pBdlE3RklyREFHcTUyWTd3ZnlEZkc5Q0piTWlwdXluMzdPMnZMOXZSYUFSRmVNb2tPcXFuckdvN3BXc2drSQ?oc=5",
-  "headline": "Vaibhav Sooryavanshi makes TIME100, praised by Ayushmann",
-  "hook": "A young Indian just hit a global list and got a star’s nod.",
-  "what": "Vaibhav Sooryavanshi was listed in TIME's 100 most influential people. Actor Ayushmann Khurrana said he represents India's future.",
-  "why": "It shows that Indian youth are gaining worldwide recognition, encouraging peers to chase big goals.",
-  "tags": [
-   "TIME100",
-   "VaibhavSooryavanshi",
-   "AyushmannKhurrana",
-   "youngIndia"
-  ]
- },
- {
-  "id": "b9560774a2c4",
-  "created": "2026-11-19T16:12:04+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNQ3Fsd0daU2ZpVzNUTVRpM3BPLWhSMlBKX2F5M2F3N0hJcHRnX1lCN2QwMWhkcmlJNjRlUDFtNnl2QktVdjczVnlyWVBOQ0Q2anIydkxSRXlxNkY0aTROQWhlY2p2N2xBeGJSa0hVMlZ6TzFDWVdRLUJra3FPZ2RlTnJlMU5fa2FISjd5SVZkTk5EOWM4VGctaVNoZHRJNzA0YWRWOE1mSmJXZXY3aVFkMWQ5TnlyemNlczNSZG1zd1pKZGVZS1h5VjNuZWUxMnpvMFFnTHlNSV9YUVBkSUx1RHItUF9MSHNFTW1IWktIQjF6aEoyXzNIcmNxRjZ5MTFoUmt6b0tjcktiVnY2M3IyVw?oc=5",
-  "headline": "Sensex jumps 800 points, Nifty crosses 25,450",
-  "hook": "India’s markets roar higher as foreign money pours in.",
-  "what": "The BSE Sensex rose about 800 points, closing above 83,000. The Nifty 50 traded past the 25,450 level. The FMCG index ended a two‑day losing streak amid foreign fund inflows and steadier crude oil prices.",
-  "why": "A strong market can boost savings and investment returns, which matters for future financial plans. Stay aware of market trends if you plan to invest or explore finance careers.",
-  "tags": [
-   "stockmarket",
-   "sensex",
-   "nifty",
-   "investing",
-   "youth"
-  ]
- },
- {
-  "id": "14bdbe5276b2",
-  "created": "2026-11-19T16:12:06+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "ANI News",
-  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSWJTTTZqQVo0bVM2VUg1dXpVellwLVczUWpMcW8ycld6RWkyUmZYcExkOFRoaEs5UzdveWVpR2NFNEpSZ29NTWdNdDY1UlRYN0lhRzFwY19HZ0ZDLXVueHhZMlZIbEc3QVlreTZZZEVud2Z3dmRsbG42UDJCZVJCZ1haQUYxZndGSWtOOXRPYnRzR0d1OFZCQTZMVTVhcmhORk9zY08ybE0xSWdraTJNdzZuZ2NYUzB5aEt4aGg1Ym9hel8zOWkzbkZFUldDVzZmVjdOMFo4ZzN1b2wtcDNsSHYwZUVQaGFBaVdMb3E3YXRoUVc2V2h2MEtaYXBNUGJNeGpoVGlGU19ac2RrMElqZQ?oc=5",
-  "headline": "BGMI 4.7 Update Launches Arctic Chronicles and Winter Mode",
-  "hook": "New maps and events drop for the battle royale fans.",
-  "what": "Krafton India released the BGMI version 4.7 update. It adds the Arctic Chronicles map, a collaboration with Samay Raina, the Erangel Subzero map, and a winter-themed season.",
-  "why": "Gamers get fresh content to explore and compete, so log in to try the new maps and events.",
-  "tags": [
-   "BGMI",
-   "gaming",
-   "update",
-   "winter",
-   "newmaps"
-  ]
- },
- {
-  "id": "d7b23e25aef7",
-  "created": "2026-11-19T15:13:26+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/west-bengal-enhance-benefits-state-cadre-ips-officers-hra-education-loan-child-sumptuary-allowance-foreign-travel-detail-11795074737717.html",
-  "headline": "West Bengal boosts perks for state IPS officers",
-  "hook": "New allowances and education loans aim to support police families",
-  "what": "The West Bengal government has announced immediate benefits for serving and retired state‑cadre IPS officers. The package includes house‑rent allowance, education loans for children and a sumptuary allowance, among other perks.",
-  "why": "Better financial support can improve the welfare of police personnel, influencing job appeal and public safety. Young people interested in a police career should note the enhanced incentives.",
-  "tags": [
-   "WestBengal",
-   "IPS",
-   "governmentBenefits",
-   "police"
-  ]
- },
- {
-  "id": "b95f63b2dbd5",
-  "created": "2026-11-19T15:13:28+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/ltcg-vs-stt-how-are-investors-taxed-on-stocks-equity-mutual-funds-and-gold-etfs-applicability-and-tax-rules-explained-11795057879157.html",
-  "headline": "LTCG vs STT: How Indian investors are taxed",
-  "hook": "Know which tax hits your stock or ETF gains.",
-  "what": "Long‑term capital gains tax is charged on profit earned from selling assets, while securities transaction tax is levied on certain market trades. Both have distinct rates and apply to stocks, equity mutual funds, gold and silver ETFs.",
-  "why": "Understanding the difference helps you plan your investments and avoid surprise deductions. Check the applicable rates before buying or selling.",
-  "tags": [
-   "tax",
-   "investing",
-   "stocks",
-   "ETFs",
-   "finance"
   ]
  }
 ]

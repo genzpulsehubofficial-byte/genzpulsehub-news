@@ -1,0 +1,37 @@
+{
+ "id": "4ba8561313c5",
+ "created": "2026-11-19T23:49:02+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Air pollution drives rise in lung hospital cases",
+  "hook": "Kids and seniors saw a sharp jump in breathing‑related admissions.",
+  "what": "Hospital claims for respiratory problems grew 11% in September and again in October 2025, according to Care Health Insurance data. Children made up 48% of those claims each month, and together with senior citizens they represented 58% of all admissions.",
+  "why": "Young people living in polluted areas face higher risk of lung issues, so staying aware of air quality and limiting outdoor exposure on bad days can help protect health.",
+  "tags": [
+   "airpollution",
+   "respiratory",
+   "healthtips",
+   "youth",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "വായു മലിനീകരണം ശ്വാസകോശ ആശുപത്രി കേസുകൾ വർദ്ധിപ്പിച്ചു",
+  "hook": "കുട്ടികളും മുതിർന്നവരും ശ്വാസകോശ രോഗങ്ങളാൽ പ്രവേശനത്തിൽ വലിയ വർധനവ് കണ്ടു.",
+  "what": "കെയർ ഹെൽത്ത് ഇൻഷുറൻസ് ഡാറ്റ പ്രകാരം 2025 സെപ്റ്റംബർ, ഒക്ടോബർ മാസങ്ങളിൽ ശ്വാസകോശ സംബന്ധമായ ആശുപത്രി ക്ലെയിമുകൾ 11% വർധിച്ചു. ഓരോ മാസവും കുട്ടികൾ 48% ക്ലെയിമുകൾ കൈവരിച്ചു, കുട്ടികളും മുതിർന്നവരും ചേർന്ന് മൊത്തം പ്രവേശനങ്ങളുടെ 58% രൂപപ്പെടുത്തുന്നു.",
+  "why": "മലിന വായു ഉള്ള പ്രദേശങ്ങളിൽ ജീവിക്കുന്ന യുവാക്കൾക്ക് ശ്വാസകോശ പ്രശ്നങ്ങൾ ഉയരാൻ സാധ്യത കൂടുതലാണ്; വായു ഗുണനിലവാരം പരിശോധിച്ച്, മോശം ദിവസങ്ങളിൽ പുറത്തു ചെലവഴിക്കുന്നത് കുറയ്ക്കുന്നത് ആരോഗ്യ സംരക്ഷണത്തിന് സഹായിക്കും.",
+  "tags": [
+   "വായുമലിനീകരണം",
+   "ശ്വാസകോശ",
+   "ആരോഗ്യ",
+   "യുവാക്കൾ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

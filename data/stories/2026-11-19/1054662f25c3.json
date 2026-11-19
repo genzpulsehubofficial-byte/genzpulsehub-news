@@ -1,0 +1,37 @@
+{
+ "id": "1054662f25c3",
+ "created": "2026-11-19T23:50:07+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google's Gemini AI now runs tasks on your Mac",
+  "hook": "Let an AI handle your Mac chores in seconds",
+  "what": "Google added an AI agent to Gemini for macOS. The agent can sort files, complete forms and manage multi‑step processes automatically.",
+  "why": "Students can use it to speed up assignments and keep their desktops tidy. Try the new Gemini update on your Mac to automate routine work.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI",
+   "Mac",
+   "Productivity"
+  ]
+ },
+ "ml": {
+  "headline": "Google‑ന്റെ Gemini AI നിങ്ങളുടെ Mac‑ല്‍ പ്രവര്‍ത്തിക്കുന്നു",
+  "hook": "AI‑ന് നിങ്ങളുടെ Mac‑ന്റെ ജോലികള്‍ ഒരു നിമിഷത്തില്‍ കൈകാര്യം ചെയ്യാന്‍ അനുവദിക്കുക",
+  "what": "Google Gemini‑ന് macOS‑ക്കായി ഒരു AI ഏജന്റ് ചേര്‍ത്തു. ഈ ഏജന്റ് ഫയലുകള്‍ ക്രമീകരിക്കാനും, ഫോംകള്‍ നിറയ്ക്കാനും, പല‑പടികളുള്ള പ്രക്രിയകള്‍ സ്വയമേവ നടത്താനും കഴിയും.",
+  "why": "വിദ്യാർത്ഥികൾക്ക് അസൈൻമെന്റുകൾ വേഗത്തിൽ പൂർത്തിയാക്കാനും ഡെസ്ക്ടോപ്പ് ശുചിത്വം നിലനിർത്താനും സഹായിക്കും. പുതിയ Gemini അപ്ഡേറ്റ് നിങ്ങളുടെ Mac‑ൽ ഉപയോഗിച്ച് പതിവ് ജോലികൾ ഓട്ടോമേറ്റ് ചെയ്യൂ.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "AI",
+   "Mac",
+   "Productivity"
+  ]
+ }
+}

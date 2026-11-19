@@ -1,0 +1,35 @@
+{
+ "id": "2919f418f3f5",
+ "created": "2026-11-19T23:50:14+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Meta’s Muse AI shares wrong personal data",
+  "hook": "Your private info could appear in someone else’s chat.",
+  "what": "Employees said Meta’s AI assistant Muse displayed messages that weren’t theirs. The tool showed supposed childcare requests, career advice, product orders and bank balances that didn’t match the user.",
+  "why": "It shows privacy risks when AI agents handle conversations, so users should verify any displayed info and be careful sharing sensitive data.",
+  "tags": [
+   "Meta",
+   "AI",
+   "privacy",
+   "data"
+  ]
+ },
+ "ml": {
+  "headline": "Meta‑യുടെ Muse AI തെറ്റായ വ്യക്തിഗത ഡാറ്റ കാണിച്ചു",
+  "hook": "നിങ്ങളുടെ സ്വകാര്യ വിവരങ്ങൾ മറ്റുള്ളവരുടെ ചാറ്റിൽ പ്രത്യക്ഷപ്പെടാം.",
+  "what": "ഉദ്യോഗസ്ഥർ Muse എന്ന AI സഹായി സ്വന്തം സന്ദേശങ്ങളല്ലാത്തവ പ്രദർശിപ്പിച്ചതായി പറഞ്ഞു. ഇത് കുട്ടികളുടെ പരിചരണം, കരിയർ ഉപദേശം, ഉൽപ്പന്ന ഓർഡർ, ബാങ്ക് ബാലൻസ് എന്നിവയുടെ തെറ്റായ വിവരങ്ങൾ ഉൾക്കൊള്ളുന്നു.",
+  "why": "AI‑കളുടെ സ്വകാര്യതാ അപകടം ഇതിലൂടെ വ്യക്തമാകുന്നു; വ്യക്തിഗത വിവരങ്ങൾ പങ്കിടുമ്പോൾ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "Meta",
+   "AI",
+   "സ്വകാര്യത",
+   "ഡാറ്റ"
+  ]
+ }
+}
