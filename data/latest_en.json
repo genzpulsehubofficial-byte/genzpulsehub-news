@@ -1,5 +1,99 @@
 [
  {
+  "id": "a34fac8b6ce1",
+  "created": "2026-11-19T12:35:59+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaDcwNEl5Y2NGeUxHN1VEXzdoWU9pOG1ONnkyQU9DVzc1ZzNwM2NZbU1XQ3pVc05fZE9fS1BKcmhsV1poc2NWbVpVMGlXaWU2c0tRVDY2UXo3WkFVZkVqUzZtU1VGM3hIZlFZNlg2ZUFuNzVYWk11VktoVloySW5OVURaZXVzVnJCdzNsLU9TeUxTQ1FBd1l1UUFqd0JvM2ZXcUUwT19VbWIwdGp0V3Ztb1FRRkZBenpuX3FoM0lDYk90SXAtM3RjY0Z2T1gxYjU5MjFHaVlEWDd2WGc4cjNCWTZpNE9xeVpOT0ExS1B6YUI4Y2s5bXc?oc=5",
+  "headline": "Modi hails India's GTA VI role, marks 13-year leap",
+  "hook": "From GTA V to VI, India’s gaming scene has leveled up.",
+  "what": "Prime Minister Narendra Modi shared a post about Grand Theft Auto VI, noting the country's progress since GTA V released 13 years ago. The post highlighted that roughly 1,600 Indian developers, mainly from Bengaluru, contributed to building the new title.",
+  "why": "It signals expanding job prospects in game development for Indian youth. Young creators can explore coding and design to join the growing industry.",
+  "tags": [
+   "gaming",
+   "IndiaTech",
+   "GTA6",
+   "Bengaluru",
+   "youth"
+  ]
+ },
+ {
+  "id": "24894e757def",
+  "created": "2026-11-19T12:36:11+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/assam-medical-college-dept-withdraws-order-on-marriage-for-pg-trainees-after-backlash-101795070752405.html",
+  "headline": "Assam college drops marriage ban for PG trainees",
+  "hook": "A policy on trainee marriages was scrapped after protests.",
+  "what": "The postgraduate department of an Assam medical college withdrew its order that restricted marriage for PG trainees. The decision came after strong backlash from students and the public. The National Medical Commission’s 2023 regulations already allow maternity and paternity leave for PG students.",
+  "why": "Young doctors can now plan personal milestones without fear of institutional penalties, aligning with national guidelines. Stay aware of your rights under NMC rules if you’re in medical training.",
+  "tags": [
+   "Assam",
+   "medicalcollege",
+   "PGstudents",
+   "policychange"
+  ]
+ },
+ {
+  "id": "7ff4a601641f",
+  "created": "2026-11-19T12:36:16+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Indian Broadcasting World",
+  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03b0pOZmlkb0JoVWtwSTJ3X2FlTy1DWm9oNFFRZDkxemFKblE1YWdZNTZJQWFxZkpndXdybDIwRUp4R1JYUDJ3M3Mta3BTUlJkaXM1MGFtZjc3NF9fWU4tTTRiZU1fS0MxUnk0MEZIWGNTOVk5Y0U2bDZEUU8zdw?oc=5",
+  "headline": "Esports Nations Cup 2027 widens qualification rules",
+  "hook": "More teams can now aim for the global stage",
+  "what": "The Esports Nations Cup 2027 announced broader qualification norms, allowing additional participants. This change opens up more slots for teams to qualify.",
+  "why": "It gives aspiring Indian gamers extra chances to compete internationally; keep an eye on upcoming qualifier dates.",
+  "tags": [
+   "esports",
+   "gaming",
+   "tournament",
+   "qualifiers",
+   "India"
+  ]
+ },
+ {
+  "id": "852339697d67",
+  "created": "2026-11-19T12:36:18+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Rediff",
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmtLQVFSTy1kcUNubHNTOFoxZUNyQThLUlpMQ3pYR2pjUWlHY1RrTHBfUGJGX0ZnWkZ0aEJJTWQyS1dJaTdoQ19hd3VzNFhDRXJEMUtiUmdkbDRWeV9QSTYwNXpLZzBVRWVQV3dIY28wU0U5bFBwSFNvdkRUMWl6REF6THpOUkRCU3h2NG1vSVFaOHl3MEFDNlFzYTdlOUpuOWlNeVU4MTU4amVwZWQyNUFYY0N0elk2M0xIS9IBvwFBVV95cUxNM2pBcThmNG9NdHdMaERIWXR0Nks0a04xcDZwY2tDWDI4cTIxOEZtUmZ2UDZTXzJlN3NyRW1tdmMwZ3FuZGgzOFE3UkJXejNMVkNiV0ZBd0FxbHdMbjJ6eDBGeXhnY2ktV2dFNkJjQlVjSWNwSmlKMGJsNm1ySHg5VlhsQzlSbHpjaGE5ZDQ4YVdFQTlHNDNpUF9zWGI0azY0SS1ER3k4T0lpbm1jOC0xWnM1Ym9sbDBhNkNaOWpfVQ?oc=5",
+  "headline": "Hockey icon Savita makes TIME100 Next: India list",
+  "hook": "India’s hockey star joins TIME’s elite young achievers.",
+  "what": "Savita, a celebrated Indian hockey player, has been included in the first‑ever TIME100 Next: India list. The list recognises emerging Indian talents across fields.",
+  "why": "Her inclusion highlights sports as a path to national recognition, inspiring young athletes to aim high.",
+  "tags": [
+   "hockey",
+   "TIME100",
+   "youngachievers",
+   "India",
+   "sports"
+  ]
+ },
+ {
+  "id": "077d6a999b77",
+  "created": "2026-11-19T12:36:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVRKV2swRVdLN0N5cTRWVXhGSG81Zl95RXBDVHJYSEdyaGZCeVpWX0J2Rlowcm9pY3NnQ1VzRWx6N1RZOF81RHdmd2dhcWtMQXhyM0VpX1BPZWhHVWppMmJQelZ0NnpIWDB4RURpci1jZC13ZmNnSThSbkctdzNHLW1UR1ZlVmh4UGNEaEpjN1NQTElDYkt5OXdUNUVUWU84aHdQNEFNNEJVQ1NUSjFsOXc2UWdTdnMzRlM1b21oeW1fMUJwaFM0ZG03dHhKU0Y5TGRiUGZxaU1jcE5XRC12MUNsenY3REhpTGNlZmluUQ?oc=5",
+  "headline": "Trump brings Nvidia ex‑boss Huang up with Xi",
+  "hook": "A US president drops a China‑spy comment while talking tech.",
+  "what": "During a meeting with Chinese President Xi, Donald Trump said he briefly mentioned the situation of former Nvidia chief Jensen Huang. He also downplayed related US outages and security worries.",
+  "why": "The exchange signals ongoing US‑China tension over technology and data security, which could affect future tech jobs and products for Indian youth.",
+  "tags": [
+   "Trump",
+   "Xi",
+   "Nvidia",
+   "TechTension",
+   "India"
+  ]
+ },
+ {
   "id": "e91ce128c2c9",
   "created": "2026-11-19T11:28:46+05:30",
   "category": "headlines",
@@ -661,101 +755,6 @@
    "techjobs",
    "leadership",
    "GenZ"
-  ]
- },
- {
-  "id": "ebee197c44b5",
-  "created": "2026-11-19T04:49:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-  "headline": "Nadella backs Nvidia's interim CEO Colette Kress",
-  "hook": "Microsoft's chief says the new Nvidia leader has his support.",
-  "what": "Satya Nadella said he trusts Colette Kress, who is running Nvidia temporarily after Jensen Huang stepped down. He voiced confidence in her leadership.",
-  "why": "For young tech enthusiasts, it signals stability at a key AI chip maker, affecting future collaborations and job prospects in the sector.",
-  "tags": [
-   "Nvidia",
-   "Microsoft",
-   "AI",
-   "tech",
-   "leadership"
-  ]
- },
- {
-  "id": "f7885a7f892b",
-  "created": "2026-11-19T04:49:53+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-  "headline": "AI agents set to shake up web ad models",
-  "hook": "Microsoft says bots could change how we shop online.",
-  "what": "Microsoft's chief executive says AI agents may upend advertising‑based revenue on the internet. He warns that firms such as Amazon will need to adjust their customer‑acquisition tactics.",
-  "why": "For young users, this could mean new ways to discover products without ads. Keep an eye on emerging AI tools that might replace traditional ads.",
-  "tags": [
-   "AI",
-   "web",
-   "advertising",
-   "ecommerce",
-   "Microsoft"
-  ]
- },
- {
-  "id": "db618a8d3c6c",
-  "created": "2026-11-19T04:49:56+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-turns-to-mathura-temple-issue-amid-cadre-unease-allies-pressure/article71717504.ece",
-  "headline": "BJP pushes Mathura temple issue amid internal unrest",
-  "hook": "Party’s temple focus may hide deeper grievances.",
-  "what": "The BJP has revived the Krishna Janmabhoomi debate. Analysts say the move aims to divert attention from growing dissatisfaction among its workers over new UGC equity guidelines, the SIR initiative, and seat‑sharing talks with allies.",
-  "why": "For young Indians, it shows how political narratives can shift to sidestep internal challenges, urging them to stay critical of party messaging.",
-  "tags": [
-   "politics",
-   "BJP",
-   "Mathura",
-   "UGC",
-   "youth"
-  ]
- },
- {
-  "id": "eee12ddb0e5e",
-  "created": "2026-11-19T04:50:01+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wWlNtX2d5UzNQeFNsM3BRUk1aMTBfVGQzTkRpa001YjRJRzI0b1ptbHF3aUlmREZWQ0dKSU9VdDJGejhOU094TWppekVzZkR3TWU1dUZOV1BwNXM?oc=5",
-  "headline": "Prince William and Kate meet PM Modi to end India tour",
-  "hook": "Royal couple wraps up their Indian visit with a meeting of the Prime Minister.",
-  "what": "Prince William and Princess Kate met Prime Minister Narendra Modi as their official tour of India concluded. The meeting marked the final engagement of their visit.",
-  "why": "The encounter highlights the diplomatic ties between the UK and India, a point of interest for young Indians following global affairs.",
-  "tags": [
-   "royals",
-   "India",
-   "UK",
-   "Modi",
-   "tour"
-  ]
- },
- {
-  "id": "a1c029e4d683",
-  "created": "2026-11-19T04:50:04+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricinfo",
-  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0otOVBHYkVVa1NxUHREMDNHS0xZRFBRajZHNE5TMGxJUW5RRm5MOEhqd3VRWF9aZjBObVZnY2Z2R1VwWlUtY05nZzNZdVRPc1FPZk1DOHc2ZEpveVpsOFNvVEdCWVhlSEdkck5QT3RMZ3F5UThZZUJ4bXlGU3kyTHFPU2JaUEt1bkszMGVhMDFqS2M1OW42aUZKZlBwUy1JNldTaThTWnMtX09RazVSTDBYaUVwaHp5a19oa9IBzgFBVV95cUxOeU9PeEUwZzZOWksyS2NHV1ZKc2VlSmpqREtsR1RtaHFDbHREMmQ5M2Q1VTVtV3dNendSaDJFQXpvSV92R1hLRzY3Q0lOclAzZGVPVUVtbTc4MTAybVE0MzhYNjQwZWhDSjF0dEdMMExzSU5zei1OTHdfcTcyWkx3TFJxWDZlaTdHcm9RcllBcndfZFNid21JUExEYlZVOTI0dU9OYXdzVXBhazVocmU0eHZka1JWZzFJMmxJTzN6dFVrZWVVdEc0dHhRR3p5dw?oc=5",
-  "headline": "India drops Siraj, Jadeja for NZ opening Test",
-  "hook": "A surprise lineup change ahead of the Wellington match.",
-  "what": "India's selectors omitted fast bowler Mohammed Siraj and all‑rounder Ravindra Jadeja from the squad for the first Test against New Zealand. After winning the toss, India chose to bowl first in Wellington.",
-  "why": "Young fans should watch how the new four‑bowler attack performs, as it could shape India's chances in the series.",
-  "tags": [
-   "cricket",
-   "India",
-   "NewZealand",
-   "Test",
-   "selection"
   ]
  }
 ]

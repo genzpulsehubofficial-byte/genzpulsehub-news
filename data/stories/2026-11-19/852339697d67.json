@@ -1,0 +1,37 @@
+{
+ "id": "852339697d67",
+ "created": "2026-11-19T12:36:18+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Rediff",
+ "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmtLQVFSTy1kcUNubHNTOFoxZUNyQThLUlpMQ3pYR2pjUWlHY1RrTHBfUGJGX0ZnWkZ0aEJJTWQyS1dJaTdoQ19hd3VzNFhDRXJEMUtiUmdkbDRWeV9QSTYwNXpLZzBVRWVQV3dIY28wU0U5bFBwSFNvdkRUMWl6REF6THpOUkRCU3h2NG1vSVFaOHl3MEFDNlFzYTdlOUpuOWlNeVU4MTU4amVwZWQyNUFYY0N0elk2M0xIS9IBvwFBVV95cUxNM2pBcThmNG9NdHdMaERIWXR0Nks0a04xcDZwY2tDWDI4cTIxOEZtUmZ2UDZTXzJlN3NyRW1tdmMwZ3FuZGgzOFE3UkJXejNMVkNiV0ZBd0FxbHdMbjJ6eDBGeXhnY2ktV2dFNkJjQlVjSWNwSmlKMGJsNm1ySHg5VlhsQzlSbHpjaGE5ZDQ4YVdFQTlHNDNpUF9zWGI0azY0SS1ER3k4T0lpbm1jOC0xWnM1Ym9sbDBhNkNaOWpfVQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Hockey icon Savita makes TIME100 Next: India list",
+  "hook": "India’s hockey star joins TIME’s elite young achievers.",
+  "what": "Savita, a celebrated Indian hockey player, has been included in the first‑ever TIME100 Next: India list. The list recognises emerging Indian talents across fields.",
+  "why": "Her inclusion highlights sports as a path to national recognition, inspiring young athletes to aim high.",
+  "tags": [
+   "hockey",
+   "TIME100",
+   "youngachievers",
+   "India",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "ഹോക്കി ഐക്കൺ സവിത TIME100 Next: India ലിസ്റ്റിൽ",
+  "hook": "ഇന്ത്യയുടെ ഹോക്കി താരമാർക്ക് TIMEയുടെ പുതിയ ലിസ്റ്റിൽ സ്ഥാനം ലഭിച്ചു.",
+  "what": "ഹോക്കിയുടെ ദീർഘകാലം ചാമ്പ്യൻ സവിത inaugural TIME100 Next: India ലിസ്റ്റിൽ ഉൾപ്പെടുന്നു. ഈ ലിസ്റ്റ് ഇന്ത്യയിലെ ഉയർന്നുവരുന്ന പ്രതിഭകളെ ആദരിക്കുന്നു.",
+  "why": "ഇത് യുവ കായികതാരങ്ങൾക്ക് പ്രചോദനമാകുന്നു, സ്പോർട്സ് വഴി രാജ്യത്തെ പ്രശസ്തി നേടാൻ ശ്രമിക്കാൻ.",
+  "tags": [
+   "ഹോക്കി",
+   "TIME100",
+   "യുവപ്രതിഭ",
+   "ഇന്ത്യ",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

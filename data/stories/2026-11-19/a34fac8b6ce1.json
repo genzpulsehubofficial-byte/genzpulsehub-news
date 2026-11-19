@@ -1,0 +1,37 @@
+{
+ "id": "a34fac8b6ce1",
+ "created": "2026-11-19T12:35:59+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaDcwNEl5Y2NGeUxHN1VEXzdoWU9pOG1ONnkyQU9DVzc1ZzNwM2NZbU1XQ3pVc05fZE9fS1BKcmhsV1poc2NWbVpVMGlXaWU2c0tRVDY2UXo3WkFVZkVqUzZtU1VGM3hIZlFZNlg2ZUFuNzVYWk11VktoVloySW5OVURaZXVzVnJCdzNsLU9TeUxTQ1FBd1l1UUFqd0JvM2ZXcUUwT19VbWIwdGp0V3Ztb1FRRkZBenpuX3FoM0lDYk90SXAtM3RjY0Z2T1gxYjU5MjFHaVlEWDd2WGc4cjNCWTZpNE9xeVpOT0ExS1B6YUI4Y2s5bXc?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Modi hails India's GTA VI role, marks 13-year leap",
+  "hook": "From GTA V to VI, India’s gaming scene has leveled up.",
+  "what": "Prime Minister Narendra Modi shared a post about Grand Theft Auto VI, noting the country's progress since GTA V released 13 years ago. The post highlighted that roughly 1,600 Indian developers, mainly from Bengaluru, contributed to building the new title.",
+  "why": "It signals expanding job prospects in game development for Indian youth. Young creators can explore coding and design to join the growing industry.",
+  "tags": [
+   "gaming",
+   "IndiaTech",
+   "GTA6",
+   "Bengaluru",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "മോഡി ഇന്ത്യയുടെ GTA VI പങ്ക്, 13 വർഷത്തെ വളർച്ച",
+  "hook": "GTA V‑യിൽ നിന്ന് GTA VI വരെ, ഇന്ത്യയുടെ ഗെയിമിംഗ് രംഗം ഉയർന്നിട്ടുണ്ട്.",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി Grand Theft Auto VI‑യെക്കുറിച്ച് ഒരു പോസ്റ്റ് പങ്കുവെച്ചു, 13 വർഷം മുമ്പുള്ള GTA V‑നുശേഷം ഇന്ത്യയുടെ മുന്നേറ്റം കാണിച്ചു. ബെംഗളൂരുവിലെ 1,600 പേര്‍പ്പെട്ട ഡെവലപ്പർമാർ ഈ ഗെയിം നിർമ്മിക്കാൻ സഹായിച്ചു.",
+  "why": "ഇത് ഇന്ത്യയിലെ ഗെയിം ഡെവലപ്മെന്റ് മേഖലയിലെ വളർച്ചയും യുവാക്കൾക്ക് പുതിയ കരിയർ അവസരങ്ങളും സൂചിപ്പിക്കുന്നു. യുവജനങ്ങൾ കോഡിംഗ്, ഡിസൈൻ പഠിച്ച് ഈ മേഖലയിലേക്ക് ചേരാം.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "ഇന്ത്യടെക്",
+   "GTA6",
+   "ബെംഗളൂർ",
+   "യുവാവ്"
+  ]
+ }
+}

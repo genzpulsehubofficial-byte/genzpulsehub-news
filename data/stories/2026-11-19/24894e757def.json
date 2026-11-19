@@ -1,0 +1,35 @@
+{
+ "id": "24894e757def",
+ "created": "2026-11-19T12:36:11+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/assam-medical-college-dept-withdraws-order-on-marriage-for-pg-trainees-after-backlash-101795070752405.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Assam college drops marriage ban for PG trainees",
+  "hook": "A policy on trainee marriages was scrapped after protests.",
+  "what": "The postgraduate department of an Assam medical college withdrew its order that restricted marriage for PG trainees. The decision came after strong backlash from students and the public. The National Medical Commission’s 2023 regulations already allow maternity and paternity leave for PG students.",
+  "why": "Young doctors can now plan personal milestones without fear of institutional penalties, aligning with national guidelines. Stay aware of your rights under NMC rules if you’re in medical training.",
+  "tags": [
+   "Assam",
+   "medicalcollege",
+   "PGstudents",
+   "policychange"
+  ]
+ },
+ "ml": {
+  "headline": "അസ്സാമിലെ കോളേജ് പി.ജി. ട്രെയിനികളിലെ വിവാഹ നിരോധനം പിൻവലിച്ചു",
+  "hook": "ട്രെയിനികളുടെ വിവാഹം സംബന്ധിച്ച നയം പ്രതിഷേധത്തിന് ശേഷം റദ്ദാക്കി.",
+  "what": "അസ്സാമിലെ ഒരു മെഡിക്കല്‍ കോളേജിലെ പോസ്റ്റ് ഗ്രാജുവേറ്റ് വിഭാഗം പി.ജി. ട്രെയിനികളില്‍ വിവാഹം നിരോധിക്കുന്ന ഉത്തരവ് പിൻവലിച്ചു. വിദ്യാർത്ഥികളും പൊതുജനങ്ങളും പ്രകടിപ്പിച്ച ശക്തമായ പ്രതികരണത്തിന് ശേഷം ഈ തീരുമാനം എടുത്തു. നാഷണല്‍ മെഡിക്കല്‍ കമ്മീഷന്റെ 2023 ചട്ടങ്ങള്‍ ഇതിനകം പി.ജി. വിദ്യാർത്ഥികള്‍ക്ക് മാടര്‍ണിറ്റി, പിതൃത്വ അവധി അനുവദിക്കുന്നു.",
+  "why": "ഇത് യുവ ഡോക്ടർമാര്‍ക്ക് വ്യക്തിഗത ജീവിതം പദ്ധതിയിടാന്‍ സഹായിക്കുകയും ദേശീയ മാര്‍ഗ്ഗനിര്‍ദേശങ്ങളുമായി പൊരുത്തപ്പെടുകയും ചെയ്യുന്നു. മെഡിക്കല്‍ പരിശീലനത്തില്‍ ഉള്ളവര്‍ NMC ചട്ടങ്ങള്‍ അറിയുക.",
+  "tags": [
+   "Assam",
+   "MedicalCollege",
+   "PGStudents",
+   "PolicyChange"
+  ]
+ }
+}

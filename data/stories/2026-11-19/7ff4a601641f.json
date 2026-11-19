@@ -1,0 +1,37 @@
+{
+ "id": "7ff4a601641f",
+ "created": "2026-11-19T12:36:16+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Indian Broadcasting World",
+ "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03b0pOZmlkb0JoVWtwSTJ3X2FlTy1DWm9oNFFRZDkxemFKblE1YWdZNTZJQWFxZkpndXdybDIwRUp4R1JYUDJ3M3Mta3BTUlJkaXM1MGFtZjc3NF9fWU4tTTRiZU1fS0MxUnk0MEZIWGNTOVk5Y0U2bDZEUU8zdw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Esports Nations Cup 2027 widens qualification rules",
+  "hook": "More teams can now aim for the global stage",
+  "what": "The Esports Nations Cup 2027 announced broader qualification norms, allowing additional participants. This change opens up more slots for teams to qualify.",
+  "why": "It gives aspiring Indian gamers extra chances to compete internationally; keep an eye on upcoming qualifier dates.",
+  "tags": [
+   "esports",
+   "gaming",
+   "tournament",
+   "qualifiers",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Esports Nations Cup 2027‑ലെ യോഗ്യതാ മാനദണ്ഡങ്ങൾ വിപുലീകരിച്ചു",
+  "hook": "ഇനി കൂടുതൽ ടീമുകൾക്ക് അന്തർദേശീയ വേദി നേടാം",
+  "what": "Esports Nations Cup 2027-ന് യോഗ്യതാ മാനദണ്ഡങ്ങൾ വ്യാപിപ്പിച്ചതായി പ്രഖ്യാപിച്ചു, ഇതോടെ കൂടുതൽ പങ്കാളികൾക്ക് അവസരം ലഭിക്കും. ഇതോടെ കൂടുതൽ ടീമുകൾക്ക് യോഗ്യത നേടാൻ സാധിക്കും.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവ ഗെയിമർമാർക്ക് അന്താരാഷ്ട്ര മത്സരത്തിൽ പ്രവേശിക്കാൻ കൂടുതൽ അവസരങ്ങൾ സൃഷ്ടിക്കും; അടുത്തുള്ള യോഗ്യതാ റൗണ്ടുകൾക്കായി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "esports",
+   "gaming",
+   "tournament",
+   "qualifiers",
+   "India"
+  ]
+ }
+}
