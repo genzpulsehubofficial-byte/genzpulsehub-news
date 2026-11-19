@@ -1,0 +1,37 @@
+{
+ "id": "e468f7776277",
+ "created": "2026-11-19T15:13:35+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/nitin-gadkari-urges-states-to-adopt-aggregator-guidelines-amid-bike-taxi-crackdowns/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gadkari pushes states to follow 2025 aggregator rules",
+  "hook": "New guidelines could shape how bike‑taxis operate across India.",
+  "what": "Union Road Transport Minister Nitin Gadkari asked state governments to adopt the Motor Vehicle Aggregator Guidelines for 2025. The appeal comes as several regions tighten actions against bike‑taxi services.",
+  "why": "Young commuters using bike‑taxis need to know the upcoming rules that may affect ride availability and pricing. Stay updated on local transport policies.",
+  "tags": [
+   "transport",
+   "policy",
+   "bikeTaxi",
+   "aggregator",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗദ്കരി 2025 അഗ്രിഗേറ്റർ നിയമം സംസ്ഥാനങ്ങൾക്ക് നടപ്പാക്കാൻ വിളിച്ചു",
+  "hook": "പുതിയ മാർഗ്ഗനിർദ്ദേശങ്ങൾ ഇന്ത്യയിലെ ബൈക്ക്‑ടാക്സി സേവനങ്ങളെ മാറ്റാൻ സാധ്യത.",
+  "what": "റോഡ് ട്രാൻസ്പോർട്ട് മന്ത്രിയായ നിതിൻ ഗദ്കരി സംസ്ഥാന സർക്കാരുകളോട് Motor Vehicle Aggregator Guidelines 2025 സ്വീകരിക്കാൻ അഭ്യർത്ഥിച്ചു. ബൈക്ക്‑ടാക്സി സേവനങ്ങളിലേക്കുള്ള കടുത്ത നടപടികളോടെ ഈ അഭ്യർത്ഥന ഉയർന്നു.",
+  "why": "ബൈക്ക്‑ടാക്സി ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് വരാനിരിക്കുന്ന നിയമങ്ങളാൽ സവാരി ലഭ്യതയും വിലയും ബാധിക്കാം. നിങ്ങളുടെ പ്രദേശത്തെ ഗതാഗത നയങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഗതാഗതം",
+   "നയം",
+   "ബൈക്ക്‌ടാക്സി",
+   "അഗ്രിഗേറ്റർ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

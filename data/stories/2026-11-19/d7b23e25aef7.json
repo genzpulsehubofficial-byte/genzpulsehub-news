@@ -1,0 +1,35 @@
+{
+ "id": "d7b23e25aef7",
+ "created": "2026-11-19T15:13:26+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/west-bengal-enhance-benefits-state-cadre-ips-officers-hra-education-loan-child-sumptuary-allowance-foreign-travel-detail-11795074737717.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "West Bengal boosts perks for state IPS officers",
+  "hook": "New allowances and education loans aim to support police families",
+  "what": "The West Bengal government has announced immediate benefits for serving and retired state‑cadre IPS officers. The package includes house‑rent allowance, education loans for children and a sumptuary allowance, among other perks.",
+  "why": "Better financial support can improve the welfare of police personnel, influencing job appeal and public safety. Young people interested in a police career should note the enhanced incentives.",
+  "tags": [
+   "WestBengal",
+   "IPS",
+   "governmentBenefits",
+   "police"
+  ]
+ },
+ "ml": {
+  "headline": "പശ്ചിമ ബെംഗളൂരു IPS ഉദ്യോഗസ്ഥരുടെ ആനുകൂല്യങ്ങൾ വർദ്ധിപ്പിച്ചു",
+  "hook": "പുതിയ സുമ്പ്ടറി അലവൻസ്, കുട്ടികളുടെ വിദ്യാഭ്യാസ വായ്പകൾ പോലുള്ള സഹായങ്ങൾ പോലീസ് കുടുംബങ്ങൾക്ക്",
+  "what": "പശ്ചിമ ബെംഗളൂരു സർക്കാർ സംസ്ഥാന IPS ഉദ്യോഗസ്ഥർക്കും വിരമിച്ചവർക്കും ഉടൻ പ്രാബല്യത്തിൽ വരുത്തി. ഇതിൽ HRA, കുട്ടികളുടെ വിദ്യാഭ്യാസ വായ്പ, സുമ്പ്ടറി അലവൻസ് എന്നിവ ഉൾപ്പെടുന്നു.",
+  "why": "വित्तീയ സഹായം ജീവനക്കാരുടെ ജീവിത നിലവാരം ഉയർത്തി, തൊഴിൽ ആകർഷണം വർദ്ധിപ്പിക്കും. പോലീസ് കരിയർ ആലോചിക്കുന്ന യുവാക്കൾക്ക് ഈ ആനുകൂല്യങ്ങൾ ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "പശ്ചിമബെംഗളൂരു",
+   "IPS",
+   "ആനുകൂല്യങ്ങൾ",
+   "പോലീസ്"
+  ]
+ }
+}

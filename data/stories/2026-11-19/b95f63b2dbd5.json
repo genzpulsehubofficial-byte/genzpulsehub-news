@@ -1,0 +1,37 @@
+{
+ "id": "b95f63b2dbd5",
+ "created": "2026-11-19T15:13:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/ltcg-vs-stt-how-are-investors-taxed-on-stocks-equity-mutual-funds-and-gold-etfs-applicability-and-tax-rules-explained-11795057879157.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "LTCG vs STT: How Indian investors are taxed",
+  "hook": "Know which tax hits your stock or ETF gains.",
+  "what": "Long‑term capital gains tax is charged on profit earned from selling assets, while securities transaction tax is levied on certain market trades. Both have distinct rates and apply to stocks, equity mutual funds, gold and silver ETFs.",
+  "why": "Understanding the difference helps you plan your investments and avoid surprise deductions. Check the applicable rates before buying or selling.",
+  "tags": [
+   "tax",
+   "investing",
+   "stocks",
+   "ETFs",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "LTCG vs STT: ഇന്ത്യയിലെ നിക്ഷേപകരുടെ നികുതി",
+  "hook": "സ്റ്റോക്ക് അല്ലെങ്കിൽ ETF ലാഭത്തിൽ ഏത് നികുതി ബാധിക്കും എന്ന് അറിയൂ.",
+  "what": "ലോംഗ്‑ടേം ക്യാപിറ്റൽ ഗെയിൻസ് (LTCG) ലാഭത്തിൽ നികുതി ചുമത്തുന്നു, അതേസമയം സെക്യൂരിറ്റീസ് ട്രാൻസാക്ഷൻ ടാക്സ് (STT) ചില മാർക്കറ്റ് ഇടപാടുകളിൽ ബാധകമാണ്. ഇവയ്ക്ക് വ്യത്യസ്ത നിരക്കുകൾ ഉണ്ടെന്നും, സ്റ്റോക്കുകൾ, ഇക്വിറ്റി മ്യൂച്ചൽ ഫണ്ടുകൾ, ഗോൾഡ്, സിൽവർ ETF എന്നിവയിൽ ബാധകമാണെന്നും പറയുന്നു.",
+  "why": "വ്യത്യാസം മനസിലാക്കി നിക്ഷേപം പ്ലാൻ ചെയ്യുന്നത് അപ്രതീക്ഷിത കുറവുകൾ ഒഴിവാക്കാൻ സഹായിക്കും. വാങ്ങുന്നതോ വിറ്റൊഴിക്കുന്നതോ മുൻപ് നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "tax",
+   "investing",
+   "stocks",
+   "ETFs",
+   "finance"
+  ]
+ }
+}

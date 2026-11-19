@@ -1,0 +1,35 @@
+{
+ "id": "ae51eac5341f",
+ "created": "2026-11-19T15:13:30+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/adani-krishnapatnam-port-inducts-288-electric-vehicles-into-its-fleet/article71718701.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Adani Krishnapatnam Port adds 288 electric vehicles",
+  "hook": "The port’s green fleet just got a big boost.",
+  "what": "Adani Krishnapatnam Port has incorporated 288 electric vehicles into its operational fleet. An additional 193 electric vehicles are slated to join soon.",
+  "why": "The expansion shows growing adoption of clean transport in India, signalling more eco‑friendly jobs and reduced emissions. Teens can watch for similar green initiatives in their own cities.",
+  "tags": [
+   "Adani",
+   "ElectricVehicles",
+   "GreenTransport",
+   "Port"
+  ]
+ },
+ "ml": {
+  "headline": "Adani Krishnapatnam Port-ൽ 288 ഇലക്ട്രിക് വാഹനങ്ങൾ ചേർന്നു",
+  "hook": "പോർട്ടിന്റെ ഹരിത ഫ്ലീറ്റ്‌ക്ക് വലിയ വർദ്ധനവ്.",
+  "what": "Adani Krishnapatnam Port 288 ഇലക്ട്രിക് വാഹനങ്ങൾ തന്റെ ഫ്ലീറ്റിൽ ഉൾപ്പെടുത്തി. അടുത്തിടെ 193 കൂടുതൽ ഇലക്ട്രിക് വാഹനങ്ങൾ ചേർക്കാൻ പദ്ധതിയുണ്ട്.",
+  "why": "ഇത് ഇന്ത്യയിൽ ശുചിത്വ ഗതാഗതത്തിന്റെ വളർച്ചയെ സൂചിപ്പിക്കുന്നു, പരിസ്ഥിതി സൗഹൃദ ജോലികളും കുറവുള്ള മലിനീകരണവും പ്രതീക്ഷിക്കാം. യുവാക്കൾ അവരുടെ നഗരങ്ങളിൽ സമാനമായ ഹരിത പദ്ധതികൾ ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "Adani",
+   "ഇലക്ട്രിക് വാഹനങ്ങൾ",
+   "ഹരിത ഗതാഗതം",
+   "പോർട്ട്"
+  ]
+ }
+}
