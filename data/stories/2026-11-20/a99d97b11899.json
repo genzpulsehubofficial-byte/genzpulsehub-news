@@ -1,0 +1,37 @@
+{
+ "id": "a99d97b11899",
+ "created": "2026-11-20T02:05:49+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "‘ENE Repeat’ Opens Strong, Critics Praise Friendship Theme",
+  "hook": "A fresh take on friendship hits theatres and screens alike.",
+  "what": "The film ‘ENE Repeat’ logged its first‑day earnings and drew attention from major outlets. Reviews highlighted its nostalgic vibe and the chemistry of Vishwak Sen and Abhinav Gomatam. Critics noted a mix of warm moments and uneven writing.",
+  "why": "Young audiences looking for relatable stories about mates will find it appealing, and the buzz could influence weekend plans. Keep an eye on showtimes if you want to join the conversation.",
+  "tags": [
+   "ENERepeat",
+   "Friendship",
+   "BoxOffice",
+   "Review",
+   "Bollywood"
+  ]
+ },
+ "ml": {
+  "headline": "‘ENE Repeat’ ആദ്യദിവസം ശക്തമായി, സുഹൃത്തുക്കളുടെ തീം പ്രശംസിതം",
+  "hook": "സുഹൃത്തുക്കൾക്കുള്ള പുതിയ കഥ തിയേറ്ററിലും സ്ക്രീനിലും ചൂടേറി.",
+  "what": "‘ENE Repeat’ സിനിമയുടെ ആദ്യദിവസത്തെ വരുമാനം റിപ്പോർട്ട് ചെയ്തു, പ്രധാന മാധ്യമങ്ങൾ ശ്രദ്ധിച്ചു. വിമർശകർ വിഷ്വക് സേനും അഭിനവ് ഗോമതാമും തമ്മിലുള്ള രാസത്വം, നൊസ്റ്റാൾജിക് ഫീൽ എന്നിവയെ പ്രശംസിച്ചു. ചില ഭാഗങ്ങൾ അസമമായ എഴുത്ത് കൊണ്ടു കുറച്ച് കുറവുണ്ടെന്ന് പറഞ്ഞിട്ടുണ്ട്.",
+  "why": "മിത്രങ്ങളുമായി ബന്ധമുള്ള കഥകൾ ഇഷ്ടപ്പെടുന്ന യുവാക്കൾക്ക് ഇത് ആകർഷകമാണ്, കൂടാതെ ചർച്ചയിൽ ചേരാൻ ഷോ ടൈംസ് പരിശോധിക്കുക.",
+  "tags": [
+   "ENERepeat",
+   "Suhirthukal",
+   "BoxOffice",
+   "Review",
+   "Bollywood"
+  ]
+ }
+}

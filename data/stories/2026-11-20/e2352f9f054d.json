@@ -1,0 +1,35 @@
+{
+ "id": "e2352f9f054d",
+ "created": "2026-11-20T02:05:51+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "EMJ",
+ "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkVGQnRiMDc3bHptZExXaUcxN3FJRGh0UlpjQ3dHYi1VOFYtV1BSZVZoN3JwX0dLTE9TaERBYm5ndGprNmRUOUVQdDdUQTRkTjNmUUt5VURHQ0hCUjNiUnV0TTZkZy0ySU14SEJSVEVZWFZqN2RpNmVYR3J2Ymk2aWx2dG80aC1TRWNMaHExS1ByeTIwZXpjdXpmeVVmQUpwS2IyamFqU0JxbnhSMzNpNlA5a1djMkE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Low FODMAP diet helps repair colon barrier in IBS-D",
+  "hook": "A simple diet tweak could boost gut health for IBS-D sufferers.",
+  "what": "Research shows that following a low FODMAP diet can restore the colonic barrier function in individuals with diarrhoea‑predominant IBS. The diet limits certain fermentable carbs that trigger symptoms.",
+  "why": "Improving gut barrier may reduce discomfort and flare‑ups, so teens with IBS‑D might consider trying a low FODMAP plan after consulting a healthcare professional.",
+  "tags": [
+   "IBS",
+   "LowFODMAP",
+   "GutHealth",
+   "TeenWellness"
+  ]
+ },
+ "ml": {
+  "headline": "Low FODMAP ഡയറ്റ് IBS‑D‑ലെ കോളോണ്‍ ബാരിയര്‍ പുനര്‍നിര്‍മ്മിക്കുന്നു",
+  "hook": "കൂടുതല്‍ ഗട്ട് ആരോഗ്യത്തിനായി ലളിതമായ ഡയറ്റ് മാറ്റം.",
+  "what": "ഗവേഷണം കാണിക്കുന്നു, Low FODMAP ഡയറ്റ് പിന്തുടരുന്നത് ഡയറിയാ‑പ്രധാന IBS ഉള്ളവരുടെ കോളോണ്‍ ബാരിയര്‍ ഫംഗ്ഷന്‍ പുനഃസ്ഥാപിക്കുന്നു. ഈ ഡയറ്റ് ചില ഫര്‍മെന്റബിൾ കാര്‍ബോഹൈഡ്രേറ്റുകള്‍ നിയന്ത്രിക്കുന്നു.",
+  "why": "ഗട്ട് ബാരിയര്‍ മെച്ചപ്പെടുന്നത് അസ്വസ്ഥതയും ഫ്ലെയറപ്പുകളും കുറയ്ക്കാം, അതിനാല്‍ IBS‑D ഉള്ള കൗമാരക്കാര്‍ ആരോഗ്യ വിദഗ്ധന്റെ ഉപദേശം തേടി Low FODMAP ഡയറ്റ് പരീക്ഷിക്കാം.",
+  "tags": [
+   "IBS",
+   "LowFODMAP",
+   "GutHealth",
+   "TeenWellness"
+  ]
+ }
+}

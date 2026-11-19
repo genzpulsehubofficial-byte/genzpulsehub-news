@@ -1,0 +1,37 @@
+{
+ "id": "4be9e4e9ded3",
+ "created": "2026-11-20T02:05:43+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/iran-war-us-will-see-what-happens-in-conflict-with-iran-after-january-1-says-donald-trump-12351565#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump says US will watch Iran conflict post‑Jan 1",
+  "hook": "President hints the US will hold back as tensions rise.",
+  "what": "Former President Donald Trump said the United States will adopt a wait‑and‑see stance once the new year begins regarding any clash with Iran. He also minimized concerns about Tehran possibly using a dirty bomb in the capital.",
+  "why": "Young Indians should note possible effects on global security, travel and the economy.",
+  "tags": [
+   "US",
+   "Iran",
+   "Trump",
+   "politics",
+   "global"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് പറയുന്നു, ജനുവരി 1‑ന് ശേഷം യു‌എസ് ഇറാനുമായി സംഘര്‍ഷം കാണും",
+  "hook": "സംഘര്‍ഷം ഉയരുമ്പോള്‍ യു‌എസ് കാത്തിരിക്കുമെന്ന് അദ്ദേഹം സൂചിപ്പിച്ചു.",
+  "what": "മുൻ പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ്, പുതിയ വർഷം തുടങ്ങുമ്പോൾ ഇറാനുമായി ഏതെങ്കിലും സംഘര്‍ഷം ഉണ്ടെങ്കിൽ യു‌എസ് കാത്തിരിക്കുമെന്ന് പറഞ്ഞു. വാഷിംഗ്ടണിൽ ഇറാൻ ഡർട്ടി ബോംബ് ഉപയോഗിക്കുമെന്ന ആശങ്കയെ കുറിച്ച് അദ്ദേഹം കുറവായി ചൂണ്ടിക്കാട്ടി.",
+  "why": "ഇത് ആഗോള സുരക്ഷയെ ബാധിക്കാം, അതിനാൽ യാത്രാ, സാമ്പത്തിക കാര്യങ്ങളിൽ ശ്രദ്ധ വേണം.",
+  "tags": [
+   "യു‌എസ്",
+   "ഇറാൻ",
+   "ട്രംപ്",
+   "രാഷ്ട്രീയം",
+   "ലോകം"
+  ]
+ }
+}

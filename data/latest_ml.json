@@ -1,5 +1,99 @@
 [
  {
+  "id": "4be9e4e9ded3",
+  "created": "2026-11-20T02:05:43+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/iran-war-us-will-see-what-happens-in-conflict-with-iran-after-january-1-says-donald-trump-12351565#publisher=newsstand",
+  "headline": "ട്രംപ് പറയുന്നു, ജനുവരി 1‑ന് ശേഷം യു‌എസ് ഇറാനുമായി സംഘര്‍ഷം കാണും",
+  "hook": "സംഘര്‍ഷം ഉയരുമ്പോള്‍ യു‌എസ് കാത്തിരിക്കുമെന്ന് അദ്ദേഹം സൂചിപ്പിച്ചു.",
+  "what": "മുൻ പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ്, പുതിയ വർഷം തുടങ്ങുമ്പോൾ ഇറാനുമായി ഏതെങ്കിലും സംഘര്‍ഷം ഉണ്ടെങ്കിൽ യു‌എസ് കാത്തിരിക്കുമെന്ന് പറഞ്ഞു. വാഷിംഗ്ടണിൽ ഇറാൻ ഡർട്ടി ബോംബ് ഉപയോഗിക്കുമെന്ന ആശങ്കയെ കുറിച്ച് അദ്ദേഹം കുറവായി ചൂണ്ടിക്കാട്ടി.",
+  "why": "ഇത് ആഗോള സുരക്ഷയെ ബാധിക്കാം, അതിനാൽ യാത്രാ, സാമ്പത്തിക കാര്യങ്ങളിൽ ശ്രദ്ധ വേണം.",
+  "tags": [
+   "യു‌എസ്",
+   "ഇറാൻ",
+   "ട്രംപ്",
+   "രാഷ്ട്രീയം",
+   "ലോകം"
+  ]
+ },
+ {
+  "id": "423b8c753c11",
+  "created": "2026-11-20T02:05:45+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "headline": "Nvidia CEO Jensen Huang സ്കാൻഡലിൽ രാജി വെച്ചു",
+  "hook": "മൂല്യവത്തായ AI നേതാവ് രാജിവെച്ചതോടെ US‑China സാങ്കേതിക മത്സരം ചലിച്ചു.",
+  "what": "Jensen Huang ഒരു സ്കാൻഡൽ ശേഷം Nvidiaയിൽ നിന്ന് രാജി വെച്ചു. അദ്ദേഹത്തിന്റെ വിട AI ലോകത്തിലെ ആഗോള മത്സരത്തെക്കുറിച്ച് ആശങ്കകൾ ഉയർത്തുന്നു.",
+  "why": "ഇന്ത്യയുടെ ടെക് വിദ്യാർത്ഥികളും ജോലിചെയ്യുന്നവരും AI മേഖലയുടെ മാറ്റം ശ്രദ്ധിക്കണം, അത് പഠനവും കരിയറുമെല്ലാം ബാധിക്കും. AI വികസനങ്ങളെക്കുറിച്ച് അറിവോടെ ഇരിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "TechNews",
+   "USChina",
+   "Career"
+  ]
+ },
+ {
+  "id": "b1f722fd4647",
+  "created": "2026-11-20T02:05:47+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Moneycontrol.com",
+  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRnB2X1dIZjNhSHg2cHFxYnhxMWYzbWtGTVdqdkVicjZpeDBKWUxXcWpqX1h0NEplN3VIZnZYV19HaVJJQm9IVG80eDgzT3JvZERwUmdrdU55ak5LWE9VQ0pDSzJic21nOUpLNzM0OTdvVlNXSDB4RGhpQUhoS0gyY000UzRITGRvamxKY1BhOGVzR1NsMVNpdWplSkZHNENEaFFOamJmd09rMk9sVHd2TUkzbW5ZWlJhcGd4V2VFWEUzYm52dm9LcEFNUzN3bDdoVHZ4RGExN1bSAd4BQVVfeXFMT2h3bUVjbEprMkhBaUxKVHlaTlVwcjAyLTRQdjF5VDJhZS1VZ2RXb0NnRUdRU18tLWk5TlN1bm9RTENqRnNxeGRSS2NCSENkRmtDWHREZzhLa1RtOUhQQVliMHd5cG1MNVhIQURTUnd6RWdaTlRWY1FtQVdwNzZVUWhoYWZMbW82b0xNSEh3RFhyRWV5TTEtV25FNGtQbGdvRVR0bk5kSWh1am9LWDNVdHYtMFhOaXYwLVVOMFNOVXRHLUJCMUJHNU5DdDdRdDYwdEp0U2hNQmIwdGJZS1R3?oc=5",
+  "headline": "Anthropic IPO 34% പ്രീമിയത്തില്‍ ലിസ്റ്റ്, മൂല്യം $2 ട്രില്യണ്‍",
+  "hook": "AI സ്റ്റാര്‍ട്ടപ്പിന്റെ ഡെബ്യൂ ലോകത്തിലെ ഏറ്റവും മൂല്യമുള്ള കമ്പനികളിലൊന്നാക്കി.",
+  "what": "Anthropicയുടെ ഷെയറുകള്‍ Nasdaq-ല്‍ 34% പ്രീമിയത്തില്‍ ട്രേഡ് ആരംഭിച്ചു, കമ്പനി മൂല്യം ഏകദേശം $2 ട്രില്യണ്‍ ആയി. ഈ ഓഫറിംഗ് $81 ബില്യണ്‍‌ക്കു മുകളിലായി, SpaceX‑നെ മറികടന്ന് ഏറ്റവും വലിയ IPO ആയി. ജപ്പാനിലെ നിക്ഷേപകര്‍ $9.4 ബില്യണ്‍‌മുതല്‍ ഓർഡർ ബുക്ക് നല്‍കി.",
+  "why": "ഇത്തരം വലിയ മൂല്യം AI കമ്പനികളുടെ വേഗതയേറിയ വളർച്ചയെ കാണിക്കുന്നു, ഭാവിയിലെ ജോലി, നിക്ഷേപ അവസരങ്ങളെ ബാധിക്കും. AI ട്രെന്‍ഡുകള്‍ ശ്രദ്ധിച്ച് ബന്ധപ്പെട്ട കഴിവുകള്‍ പഠിക്കുന്നത് ഉപകാരപ്രദമാണ്.",
+  "tags": [
+   "AI",
+   "IPO",
+   "Nasdaq",
+   "Startups",
+   "Finance"
+  ]
+ },
+ {
+  "id": "a99d97b11899",
+  "created": "2026-11-20T02:05:49+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNakgyS1NCNWF3eUN1YU9yb2NzUjI3MDdUclRlVlpwMy05b3ZIMWpsX1lyZ3Q4eFNyQ0p2R1pYNWJZdlRqYXo3U05GRXJLVVlMS1VHMVRPcmxkVUhXYks3VmVpVEd1d2JRQjRZU1Q2OEEySC1aQ0l3T3NtSzc3Um94ZWFWdw?oc=5",
+  "headline": "‘ENE Repeat’ ആദ്യദിവസം ശക്തമായി, സുഹൃത്തുക്കളുടെ തീം പ്രശംസിതം",
+  "hook": "സുഹൃത്തുക്കൾക്കുള്ള പുതിയ കഥ തിയേറ്ററിലും സ്ക്രീനിലും ചൂടേറി.",
+  "what": "‘ENE Repeat’ സിനിമയുടെ ആദ്യദിവസത്തെ വരുമാനം റിപ്പോർട്ട് ചെയ്തു, പ്രധാന മാധ്യമങ്ങൾ ശ്രദ്ധിച്ചു. വിമർശകർ വിഷ്വക് സേനും അഭിനവ് ഗോമതാമും തമ്മിലുള്ള രാസത്വം, നൊസ്റ്റാൾജിക് ഫീൽ എന്നിവയെ പ്രശംസിച്ചു. ചില ഭാഗങ്ങൾ അസമമായ എഴുത്ത് കൊണ്ടു കുറച്ച് കുറവുണ്ടെന്ന് പറഞ്ഞിട്ടുണ്ട്.",
+  "why": "മിത്രങ്ങളുമായി ബന്ധമുള്ള കഥകൾ ഇഷ്ടപ്പെടുന്ന യുവാക്കൾക്ക് ഇത് ആകർഷകമാണ്, കൂടാതെ ചർച്ചയിൽ ചേരാൻ ഷോ ടൈംസ് പരിശോധിക്കുക.",
+  "tags": [
+   "ENERepeat",
+   "Suhirthukal",
+   "BoxOffice",
+   "Review",
+   "Bollywood"
+  ]
+ },
+ {
+  "id": "e2352f9f054d",
+  "created": "2026-11-20T02:05:51+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "EMJ",
+  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkVGQnRiMDc3bHptZExXaUcxN3FJRGh0UlpjQ3dHYi1VOFYtV1BSZVZoN3JwX0dLTE9TaERBYm5ndGprNmRUOUVQdDdUQTRkTjNmUUt5VURHQ0hCUjNiUnV0TTZkZy0ySU14SEJSVEVZWFZqN2RpNmVYR3J2Ymk2aWx2dG80aC1TRWNMaHExS1ByeTIwZXpjdXpmeVVmQUpwS2IyamFqU0JxbnhSMzNpNlA5a1djMkE?oc=5",
+  "headline": "Low FODMAP ഡയറ്റ് IBS‑D‑ലെ കോളോണ്‍ ബാരിയര്‍ പുനര്‍നിര്‍മ്മിക്കുന്നു",
+  "hook": "കൂടുതല്‍ ഗട്ട് ആരോഗ്യത്തിനായി ലളിതമായ ഡയറ്റ് മാറ്റം.",
+  "what": "ഗവേഷണം കാണിക്കുന്നു, Low FODMAP ഡയറ്റ് പിന്തുടരുന്നത് ഡയറിയാ‑പ്രധാന IBS ഉള്ളവരുടെ കോളോണ്‍ ബാരിയര്‍ ഫംഗ്ഷന്‍ പുനഃസ്ഥാപിക്കുന്നു. ഈ ഡയറ്റ് ചില ഫര്‍മെന്റബിൾ കാര്‍ബോഹൈഡ്രേറ്റുകള്‍ നിയന്ത്രിക്കുന്നു.",
+  "why": "ഗട്ട് ബാരിയര്‍ മെച്ചപ്പെടുന്നത് അസ്വസ്ഥതയും ഫ്ലെയറപ്പുകളും കുറയ്ക്കാം, അതിനാല്‍ IBS‑D ഉള്ള കൗമാരക്കാര്‍ ആരോഗ്യ വിദഗ്ധന്റെ ഉപദേശം തേടി Low FODMAP ഡയറ്റ് പരീക്ഷിക്കാം.",
+  "tags": [
+   "IBS",
+   "LowFODMAP",
+   "GutHealth",
+   "TeenWellness"
+  ]
+ },
+ {
   "id": "8f5033e7f134",
   "created": "2026-11-20T01:02:25+05:30",
   "category": "headlines",
@@ -658,100 +752,6 @@
    "SWP",
    "Finance",
    "Youth"
-  ]
- },
- {
-  "id": "af05432d060e",
-  "created": "2026-11-19T18:15:21+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/upi-fee-shock-eased-b2b-transactions-may-now-attract-just-5-charge-under-revised-mdr-plan-11795088050504.html",
-  "headline": "UPI B2B ഇടപാടുകൾക്ക് ₹5 ചാർജ് മാത്രം",
-  "hook": "വ്യാപാരികളുടെയും റീട്ടെയിലർമാരുടെയും ഇടയിലെ പേയ്‌മെന്റുകൾ ഇനി വളരെ കുറഞ്ഞ ഫീസ്.",
-  "what": "NPCIയുടെ പുതുക്കിയ ചട്ടപ്രകാരം, വ്യാപാരികളുടെയും റീട്ടെയിലർമാരുടെയും ഇടയിലെ UPI പേയ്‌മെന്റുകൾക്ക് ₹5 എന്ന സ്ഥിരം MDR ഫീസ് ചുമത്തും. മുമ്പ് പരമാവധി ₹300 വരെ ചാർജ് ചെയ്യാമെന്ന നിർദ്ദേശം ഉണ്ടായിരുന്നു.",
-  "why": "കുറഞ്ഞ ഫീസ് ചെറുകിട വ്യാപാരങ്ങൾക്ക് ചെലവ് കുറയ്ക്കും, ഉപഭോക്താക്കൾക്ക് വിലകൾ സ്ഥിരതയോടെ നിലനിൽക്കാൻ സഹായിക്കും. യുവ സംരംഭകർക്ക് UPI ഉപയോഗിച്ച് ബിസിനസ് തുടങ്ങാൻ ഇത് പ്രോത്സാഹനം നൽകും.",
-  "tags": [
-   "UPI",
-   "B2B",
-   "MDR",
-   "ഫീസ്",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "9ee7a0c4a98f",
-  "created": "2026-11-19T18:15:24+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Red Bull",
-  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nenNmQW8tMGJxbm1UZ1JQeEthQWtaXzBjYlQyVWRHR29KWUVDLXZwV0Z4MUxoVEs3VXhUcTc3RmQySlZvMWVCVTRkdjRSYVVrbi10SU1mNUpOTi1aNDJrTjd2a2xKQQ?oc=5",
-  "headline": "പ്ലേസ്റ്റേഷൻ ഗ്ലിച്ചുകൾ GTA 6 ലോഞ്ച് പലർക്കും വൈകിച്ചു",
-  "hook": "നിങ്ങളുടെ PS5, GTA 6 തുടങ്ങാൻ ശ്രമിക്കുമ്പോൾ ഹാംഗ് ആകാം.",
-  "what": "Grand Theft Auto VI റിലീസ് സമയത്തിന് കുറച്ച് മണിക്കൂർ മുൻപ്, പ്ലേസ്റ്റേഷൻ ഓൺലൈൻ സർവീസിൽ വ്യാപകമായ ഔട്ടേജ് സംഭവിച്ചു. സോണി പുതിയ PS5 ഫർമ്വെയർ അപ്ഡേറ്റ് ആവശ്യമാണ് എന്ന് മുന്നറിയിപ്പ് നൽകി. പല ഉപയോക്താക്കളും ഗെയിം ലോഞ്ച് ചെയ്യാൻ ശ്രമിക്കുമ്പോൾ എറർ നേരിട്ടു.",
-  "why": "നിങ്ങൾക്ക് PS5 ഉണ്ടെങ്കിൽ, GTA 6 കളിക്കാൻ മുമ്പ് ഏറ്റവും പുതിയ ഫർമ്വെയർ ഇൻസ്റ്റാൾ ചെയ്യുക. അപ്ഡേറ്റ് ചെയ്താൽ ക്രാഷ് ഒഴിവാക്കി ലോഞ്ച് സമയം നഷ്ടമാകില്ല.",
-  "tags": [
-   "PS5",
-   "GTAV6",
-   "gaming",
-   "update",
-   "India"
-  ]
- },
- {
-  "id": "defc20c157e5",
-  "created": "2026-11-19T17:08:27+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mla-vs-babu-who-defeated-mk-stalin-in-kolathur-passes-away/article71719587.ece",
-  "headline": "TVK എംഎൽഎ വി.എസ്. ബാബു അന്തരിച്ചു",
-  "hook": "കൊലത്തൂരിലെ മുൻ എംഎൽഎ, ശ്വാസകോശ രോഗം കൊണ്ട് വിടപറഞ്ഞു.",
-  "what": "വി.എസ്. ബാബു, ടി.വി.കെ.യുടെ എംഎൽഎ, മുൻപ് എം. കെ. സ്റ്റാലിനിനെ കൊലത്തൂരിൽ തോൽപ്പിച്ചവൻ, മരണമടഞ്ഞു. അദ്ദേഹം ചെന്നൈയിലെ MGM Healthcare-ൽ ദീർഘകാല ശ്വാസകോശ രോഗം കൊണ്ട് ചികിത്സയിൽ ആയിരുന്നു.",
-  "why": "പ്രാദേശിക രാഷ്ട്രീയത്തിൽ അദ്ദേഹത്തിന്റെ നഷ്ടം ശ്രദ്ധിക്കേണ്ടതാണ്, യുവവോട്ടർമാർക്ക് ആരോഗ്യവും നേതാക്കളും സംബന്ധിച്ച് അറിവ് വർദ്ധിപ്പിക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "രാഷ്ട്രീയം",
-   "തമിഴ്നാട്",
-   "എംഎൽഎ",
-   "വാർത്ത"
-  ]
- },
- {
-  "id": "48be2081669c",
-  "created": "2026-11-19T17:08:31+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/centre-revises-puc-rules-extends-validity-for-newer-bs-vi-cars-12349012#publisher=newsstand",
-  "headline": "പുതിയ PUC നിയമം പഴയ BS‑VI കാറുകൾക്ക് കർശന പരിശോധന",
-  "hook": "നിങ്ങളുടെ കാറിന്റെ മലിനീകരണ പരിശോധനയുടെ സമയം ഇനി കൂടുതൽ sık ആണ്.",
-  "what": "മന്ത്രിസഭ PUC (പോള്യൂഷൻ അണ്ടർ കൺട്രോൾ) മാർഗ്ഗനിർദ്ദേശങ്ങൾ പുതുക്കി. പത്ത് വർഷം കഴിഞ്ഞ സ്വകാര്യ BS‑VI വാഹനങ്ങൾക്ക് ഓരോ ആറുമാസത്തിലും സർട്ടിഫിക്കറ്റ് പുതുക്കണം, പുതിയ BS‑VI കാറുകൾക്ക് കൂടുതൽ കാലാവധി ലഭിക്കും.",
-  "why": "പഴയ BS‑VI കാർ ഉള്ളവർക്കോ വാങ്ങാൻ ആലോചിക്കുന്നവർക്കോ വർഷത്തിൽ രണ്ട് തവണ PUC പരിശോധന വേണം, ഇതു പരിപാലന ചെലവിലും സമയക്രമത്തിലും ബാധിക്കും. പിഴ ഒഴിവാക്കാൻ പുതുക്കൽ തീയതികൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "പ്യൂസി",
-   "ബിഎസ്എവി",
-   "കാറു നിയമം",
-   "ഇന്ത്യ",
-   "ടീൻഡ്രൈവർസ്"
-  ]
- },
- {
-  "id": "7553c475b674",
-  "created": "2026-11-19T17:08:33+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "PlayDayOne",
-  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbm82My1QY0YzbjA4bXZGa0pPbTlPNDVXcXB6U3BmVllYYnhmcW10RDhLM0pqN1pOTVV5d3RPa0p3THlOYzNELTVvNW9KTDFUbmhPTXdYcUc3OTFjekc5c0wwdWtGUUpscFBoc2Z5Nml6alVUNTVTMDdISlItSERQcEwwcw?oc=5",
-  "headline": "വാലറന്റ് ബങ്കർ മുംബൈയിൽ ഞായറാഴ്ച തിരിച്ചു വരുന്നു",
-  "hook": "ഗെയിമിംഗ് ഫാൻമാർ, നഗരത്തിലെ ഏറ്റവും വലിയ വാലറന്റ് ഷോഡൗൺ കാത്തിരിക്കൂ!",
-  "what": "വാലറന്റ് ബങ്കർ ഇവന്റ് ഞായറാഴ്ച മുംബൈയിൽ വീണ്ടും നടക്കാൻ പോകുന്നു. കളിക്കാരും ആരാധകരും ഈ മത്സരത്തിൽ പങ്കെടുക്കും. ഷെഡ്യൂൾ വാരാന്ത്യത്തിന് പ്രഖ്യാപിച്ചു.",
-  "why": "മികച്ച ഗെയിമർമാരെ നേരിട്ട് കാണാനും ഈ‑സ്പോർട്സ് സമൂഹവുമായി ബന്ധപ്പെടാനും ഇത് ഒരു അവസരമാണ്. യുവാക്കൾ ഗെയിമിംഗ് കരിയർ അന്വേഷിക്കാം അല്ലെങ്കിൽ ആക്ഷൻ ആസ്വദിക്കാം.",
-  "tags": [
-   "Valorant",
-   "Gaming",
-   "Mumbai",
-   "Esports",
-   "Weekend"
   ]
  }
 ]
