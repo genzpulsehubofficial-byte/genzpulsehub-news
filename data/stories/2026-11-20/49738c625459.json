@@ -1,0 +1,37 @@
+{
+ "id": "49738c625459",
+ "created": "2026-11-20T04:04:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjd5dEQwYjJuZ2dZU2pDcWJxY0lhN1ZCb01OMnJFV2NBNVVKZ3FHM0tJekN3Tk8wZlBEdFBDYXJRMERyWjgxLXlSeHl2VmRCb1U0YVh3RkIyRmJIU193VkZwMGtja3o3TXlUNUZoOWgteV9vVXpqajNxOU91bXp1YTRkS0s0QzJ4eUtUa2ZITmNxNjJkYWk2eUs5aDE3Rm0wUEZfbzZJN05CbldiU0J4ejZKTW4tOUpIV2RMN0xnWlpOTEV6cXZ0a1Y5dXBQMjlxUVRMS1R0RXd1ekRMa0ZXNERaRms1OUpsUmJ0X19HMFBxeDjSAfoBQVVfeXFMTUZQWDhCQWt6NW5EdTNMYlZ5SEpJdTg1dm5raE80R1dfVkY1QXk2cS1kNmdYM3dlMzZiSFhBOF83WDFrVmoxSmJONld3VWNMNXBkOEtVdWNXWWtlaml4ckJYY085bjdLcVUwUURPeDZ6ZUNRSldsMXk4bS02T25odEtIZ3BnSWk2QmJ2NkYyVU0teElkX0dmdVNfeFFxVk9wNWtVdEZ6U2tTRFJIbGg4WGUtdGtSV25lOEJzclU3cjJveVRjWkM1cXBWUUdBZlNDOGFkN0loMXV0S2Zrc3V6Xy1xWVlWemV1T1FxLWdtdWUzbm9iU2t2czd5QQ?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Justice Varma says resignation ends removal case",
+  "hook": "A judge says stepping down ends any removal fight",
+  "what": "Justice Varma told the Lok Sabha Secretariat that the proceedings to remove him are now ineffective because he has resigned. He made the statement to the secretariat.",
+  "why": "It shows that a resignation can halt disciplinary actions in Parliament, highlighting how procedural rules work.",
+  "tags": [
+   "parliament",
+   "law",
+   "justice",
+   "resignation",
+   "LokSabha"
+  ]
+ },
+ "ml": {
+  "headline": "ജസ്റ്റിസ് വര്‍മ പറയുന്നു രാജി നല്‍കിയതോടെ നീക്കം നടപടികള്‍ അവസാനിച്ചു",
+  "hook": "ഒരു ജഡ്ജി രാജി നല്‍കിയാല്‍ നീക്കം നടപടികള്‍ നിർത്താം",
+  "what": "ജസ്റ്റിസ് വര്‍മ ലോക്ക്‌സഭാ സെക്രട്ടറി에게 അദ്ദേഹം രാജി നല്‍കിയതിനാല്‍ അദ്ദേഹത്തെ നീക്കം ചെയ്യാനുള്ള നടപടികള്‍ ഫലമില്ലെന്ന് അറിയിച്ചു. ഈ പ്രസ്താവന അദ്ദേഹം ചെയ്തു.",
+  "why": "ഇത് പാര്‍ലമെന്റ് നിയമങ്ങള്‍ എങ്ങനെ പ്രവര്‍ത്തിക്കുന്നു എന്ന് കാണിക്കുന്നു; രാജി നല്‍കുന്നത് ശാസന നടപടികളെ അവസാനിപ്പിക്കാം.",
+  "tags": [
+   "parliament",
+   "law",
+   "justice",
+   "resignation",
+   "LokSabha"
+  ]
+ }
+}

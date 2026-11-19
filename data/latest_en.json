@@ -1,5 +1,118 @@
 [
  {
+  "id": "6f0f2d869f0f",
+  "created": "2026-11-20T04:02:58+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "headline": "Meta hints at $300 AI wearable, details pending",
+  "hook": "Meta teases a pricey AI gadget but keeps info under wraps",
+  "what": "The Information reported that Meta’s upcoming AI wearable, called Muse Charm, could be priced around $300. Meta has not confirmed or denied the report, saying it will share more information soon.",
+  "why": "If true, the device could bring AI features to everyday accessories, but the cost may be steep for students. Watch for official updates before considering a purchase.",
+  "tags": [
+   "Meta",
+   "AIwearable",
+   "TechNews",
+   "Gadget"
+  ]
+ },
+ {
+  "id": "5b23d140d0da",
+  "created": "2026-11-20T04:04:02+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSEJQUThSZTlJbC1YTUVtVlZ5WEdCMnl5dWtpbms3VDYxYzl3eWtvQWNLQk1lcmtXdXp2NEp2T2U2aVQ5RjUyNEFRZFZpYmRyYkJzbG9zWVAtUTF3N3gyLTY3VHJFNWVZekQ5QXNaZ1lDYmtPY3BZN1MwNzM4N3pTejBpMGVoSmhWTUtNc0JjTWhRM1NReWJjaHlJS0RDOWFIMmxpS3d1dHZNUEg5eXo0TWpHalE5a3htQ2hFSE5WSEZKYnY2NDkxd1k0ZW5ndnFTTlZTRzJNVkJjaG84ekRpVVBDSzFMOGhTclpXTlNWcU9hZnEtRWpkSDFn?oc=5",
+  "headline": "Cyclone Akvan forces 300k evacuation, 423 teams to Odisha",
+  "hook": "Mass evacuations and train cancellations as the storm nears.",
+  "what": "Around 300,000 people have been moved out of danger zones in Odisha. Over 400 rescue squads are on standby, and 69 trains have been halted. The system is expected to hit the Andhra‑Odisha coast on Nov 20 with winds up to 110 km/h.",
+  "why": "Disruptions could affect travel plans and power supply, so stay updated and follow local advisories.",
+  "tags": [
+   "cyclone",
+   "evacuation",
+   "Odisha",
+   "weather",
+   "safety"
+  ]
+ },
+ {
+  "id": "49738c625459",
+  "created": "2026-11-20T04:04:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjd5dEQwYjJuZ2dZU2pDcWJxY0lhN1ZCb01OMnJFV2NBNVVKZ3FHM0tJekN3Tk8wZlBEdFBDYXJRMERyWjgxLXlSeHl2VmRCb1U0YVh3RkIyRmJIU193VkZwMGtja3o3TXlUNUZoOWgteV9vVXpqajNxOU91bXp1YTRkS0s0QzJ4eUtUa2ZITmNxNjJkYWk2eUs5aDE3Rm0wUEZfbzZJN05CbldiU0J4ejZKTW4tOUpIV2RMN0xnWlpOTEV6cXZ0a1Y5dXBQMjlxUVRMS1R0RXd1ekRMa0ZXNERaRms1OUpsUmJ0X19HMFBxeDjSAfoBQVVfeXFMTUZQWDhCQWt6NW5EdTNMYlZ5SEpJdTg1dm5raE80R1dfVkY1QXk2cS1kNmdYM3dlMzZiSFhBOF83WDFrVmoxSmJONld3VWNMNXBkOEtVdWNXWWtlaml4ckJYY085bjdLcVUwUURPeDZ6ZUNRSldsMXk4bS02T25odEtIZ3BnSWk2QmJ2NkYyVU0teElkX0dmdVNfeFFxVk9wNWtVdEZ6U2tTRFJIbGg4WGUtdGtSV25lOEJzclU3cjJveVRjWkM1cXBWUUdBZlNDOGFkN0loMXV0S2Zrc3V6Xy1xWVlWemV1T1FxLWdtdWUzbm9iU2t2czd5QQ?oc=5",
+  "headline": "Justice Varma says resignation ends removal case",
+  "hook": "A judge says stepping down ends any removal fight",
+  "what": "Justice Varma told the Lok Sabha Secretariat that the proceedings to remove him are now ineffective because he has resigned. He made the statement to the secretariat.",
+  "why": "It shows that a resignation can halt disciplinary actions in Parliament, highlighting how procedural rules work.",
+  "tags": [
+   "parliament",
+   "law",
+   "justice",
+   "resignation",
+   "LokSabha"
+  ]
+ },
+ {
+  "id": "f2dddf2ea7d8",
+  "created": "2026-11-20T04:04:07+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "headline": "Widespread tech outages hint at deeper cybersecurity issue",
+  "hook": "Your flights, bank apps, and school tools all went dark.",
+  "what": "Airline booking sites, banking services and productivity tools recently experienced outages. Cybersecurity experts suggest the problems may share a common cause.",
+  "why": "Such glitches can disrupt travel plans, money access and school work, so stay prepared for possible downtime.",
+  "tags": [
+   "tech",
+   "outage",
+   "cybersecurity",
+   "AI",
+   "India"
+  ]
+ },
+ {
+  "id": "abc4f6558f86",
+  "created": "2026-11-20T04:04:09+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Moneycontrol.com",
+  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSTg3ZXp3SEltR053SVpjeTM5Z00yVll3Mk0xXzBGaDN6RlV0M0pNVnZnSHRNNllxRHAtWTgxQ202X3Z5WG1EQzY1TVlxcDJwY1M5Qy03WHJreHFWaEJ6Y1R1ZDZPMTJ2VllwRWc5TDdjTU9PZUMyZXhPc285dVNjRGdrZkNhSG9odjJISEI4c1ZZR2ZlY0kzY1lORHlnZUxwQ1BaZ3Rkb053LXVPc2RiWmYyZGxTbkNNbjlhNmtpWFpvd3puR1EyUEZNX3pwX1o0ZVdEdQ?oc=5",
+  "headline": "Indian markets dip as IT stocks tumble, Fed worries linger",
+  "hook": "Tech shares slump and US rate fears push big indexes down",
+  "what": "The Sensex fell by more than 200 points and the Nifty slipped below 25,150 in early trade. Losses were led by information‑technology stocks. Concerns about a possible U.S. Federal Reserve rate hike added to the sell‑off.",
+  "why": "A weaker market can affect savings and any small investments you may have, so stay updated on market moves.",
+  "tags": [
+   "stockmarket",
+   "ITstocks",
+   "Fed",
+   "Sensex",
+   "Nifty"
+  ]
+ },
+ {
+  "id": "910c5341266e",
+  "created": "2026-11-20T04:04:12+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVNJOUo4b1NkLTJxRFlVeEtwZUZ3NFhoRW9sVzFWYUFOMlBUWjh4bHhHUDBQWldVbXRkSU5BOWtDSkVQNG1oWlVPbHJmSUJ5blV2NFAyMHZOeDlfSkFkTjZpejNoSS1WeXR0eUEtV0U2ZGxpQnVxdmZPWml2NjF0X0NXcUQwUnZ4dEc3N1JudGxtd3AxSzJOV3V3?oc=5",
+  "headline": "Bavuma Misses Second Test as SA Crush Bangladesh",
+  "hook": "South Africa clinches top WTC spot without their captain.",
+  "what": "Temba Bavuma will not play in the upcoming second Test. South Africa beat Bangladesh by nine wickets, moving to the lead in the World Test Championship. Strong showings came from Kagiso Rabada and Ryan Rickelton.",
+  "why": "It shows how injuries can reshape a team and why squad depth matters, a lesson for young fans. Keep following the series for more exciting cricket.",
+  "tags": [
+   "cricket",
+   "southafrica",
+   "bangladesh",
+   "WTC",
+   "test"
+  ]
+ },
+ {
   "id": "81064022622d",
   "created": "2026-11-20T03:03:18+05:30",
   "category": "headlines",
@@ -638,119 +751,6 @@
    "RetirementSavings",
    "InvestmentRisk",
    "India"
-  ]
- },
- {
-  "id": "c23648208f61",
-  "created": "2026-11-19T20:39:47+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/karnataka/hithendra-warns-police-officers-against-indiscipline-corruption-allots-offices-to-five-new-commissionerates/article71720545.ece",
-  "headline": "Hithendra cautions police on misconduct, assigns new offices",
-  "hook": "A top official tells cops to stay clean and disciplined.",
-  "what": "Hithendra warned police personnel to avoid indiscipline and corruption. He also announced that commissioners and deputy commissioners have been given specific office spaces.",
-  "why": "Upholding integrity in the force impacts public safety and trust, especially for young citizens. Officers should follow the directive to maintain a fair environment.",
-  "tags": [
-   "police",
-   "integrity",
-   "admin",
-   "youth",
-   "India"
-  ]
- },
- {
-  "id": "e5e28ed77bfd",
-  "created": "2026-11-19T20:39:49+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Indian Sports Home",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXRDRk9vZjRTT1Z6OThpNVVlZVdxRDAwNXJhenBCNWFORDdxTktydGRmdXh2cUg4TnkwUFBUMUFMTzl1RHBhcUxxT3luZFdkbTRTTGNRQ2FwRXNiN0hzSldSX0dZbzNJYUVNOG14dWJPSmxzWlVJOTFlZW1tb2xfckhoX3c4UUIzY0tQLV9LZWxfTmFZbUJqMnp4aWhDNmwycHhLUjFocFNLWWNMblHSAbMBQVVfeXFMUDZ2bVg1THphR0VEQnpzUkJuX1RubUh0TXVrMXRDVEFQTl95YnI1TTVNdHN0MkhwSE4zTXZTMjN1ek5OQjE3U0F4QVhOM2ZnZm1GN2drd0F1ZnVrRzl5aUowQVRhMjdvUEkwamZTTE9FZ3VPM2VKYjFOUXBjbEs3N3JVa052YlFsQ05hUlBzOHQ5QU1TNGwwbzVHUnFxNEtUUEk2bThHT211SFhpZjJzV2ZhTFk?oc=5",
-  "headline": "Arjun Erigaisi signs with GodLike Esports for Google Play Arena",
-  "hook": "A top Indian gamer teams up with a new esports squad.",
-  "what": "Arjun Erigaisi has become a member of GodLike Esports. The move comes as the team prepares for the upcoming Google Play Arena 2026 tournament.",
-  "why": "His addition boosts the squad’s chances in a major competition, and fans can expect stronger performances in upcoming matches.",
-  "tags": [
-   "esports",
-   "gaming",
-   "GooglePlayArena",
-   "ArjunErigaisi",
-   "GodLike"
-  ]
- },
- {
-  "id": "7a88a63d9e15",
-  "created": "2026-11-19T20:39:52+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-launches-students-savings-scheme-online-portal-ptihs3uexql",
-  "headline": "Kerala rolls out digital savings portal for school kids",
-  "hook": "Your school savings just went online—check it out!",
-  "what": "Kerala introduced an online portal built by KITE to manage the Students Savings Scheme. The platform lets students from class 1 to 12 open and track accounts digitally. It replaces the earlier paper‑based process.",
-  "why": "It makes saving easier and teaches financial habits early. Students can start using the portal through their schools.",
-  "tags": [
-   "Kerala",
-   "DigitalSavings",
-   "Students",
-   "Finance",
-   "Education"
-  ]
- },
- {
-  "id": "d8c89a6f3ace",
-  "created": "2026-11-19T19:31:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/myanmar-guilty-of-genocide-against-rohingya-top-un-court-12349556#publisher=newsstand",
-  "headline": "UN Court Declares Myanmar Guilty of Rohingya Genocide",
-  "hook": "World judges say Myanmar must act against genocide suspects.",
-  "what": "A top United Nations tribunal ruled that Myanmar bears responsibility for genocide against the Rohingya community. The court ordered the country to launch investigations and punish anyone involved.",
-  "why": "The decision highlights global accountability and may influence international pressure on Myanmar. Young Indians should stay informed about human rights issues worldwide.",
-  "tags": [
-   "UN",
-   "Myanmar",
-   "Rohingya",
-   "genocide",
-   "justice"
-  ]
- },
- {
-  "id": "4cede8418e8f",
-  "created": "2026-11-19T19:31:55+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/authorities-seize-over-71-kg-heroin-bound-for-sri-lanka-2-arrested-in-chennai-101795091149438.html",
-  "headline": "71 kg heroin bust in Chennai, two arrested",
-  "hook": "Huge drug haul meant for Sri Lanka nabbed.",
-  "what": "The Directorate of Revenue Intelligence confiscated about 71 kg of heroin destined for Sri Lanka in Chennai. Two suspects were taken into custody.",
-  "why": "Large seizures show the threat of drug trafficking to young people; stay aware and avoid any involvement.",
-  "tags": [
-   "drugseizure",
-   "Chennai",
-   "SriLanka",
-   "DRI"
-  ]
- },
- {
-  "id": "534b83030ca8",
-  "created": "2026-11-19T19:31:57+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfo-higher-pension-4-45-lakh-applicants-could-trigger-1-1-lakh-crore-bill-what-it-means-for-employees-and-retirees-11795095810707.html",
-  "headline": "EPFO higher pension could cost ₹1.1 lakh crore",
-  "hook": "Millions of workers may see pension hikes, but the bill is huge.",
-  "what": "The Employees’ Provident Fund Organisation says that approving higher pensions for 4.45 lakh applicants would raise its liability by about ₹1.1 lakh crore. It has already processed a number of claims under the scheme.",
-  "why": "Such a large outlay could affect future contributions and benefits, so employees should stay informed about eligibility and timeline.",
-  "tags": [
-   "pension",
-   "EPFO",
-   "employees",
-   "retirees",
-   "finance"
   ]
  }
 ]

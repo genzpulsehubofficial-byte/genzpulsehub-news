@@ -1,0 +1,37 @@
+{
+ "id": "f2dddf2ea7d8",
+ "created": "2026-11-20T04:04:07+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Widespread tech outages hint at deeper cybersecurity issue",
+  "hook": "Your flights, bank apps, and school tools all went dark.",
+  "what": "Airline booking sites, banking services and productivity tools recently experienced outages. Cybersecurity experts suggest the problems may share a common cause.",
+  "why": "Such glitches can disrupt travel plans, money access and school work, so stay prepared for possible downtime.",
+  "tags": [
+   "tech",
+   "outage",
+   "cybersecurity",
+   "AI",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "വ്യാപകമായ ടെക് ഔട്ടേജുകൾ സൈബർ സുരക്ഷാ പ്രശ്നം സൂചിപ്പിക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ഫ്ലൈറ്റുകൾ, ബാങ്ക് ആപ്പുകൾ, സ്കൂൾ ടൂളുകൾ എല്ലാം അപ്രത്യക്ഷമായി.",
+  "what": "എയർലൈൻ ബുക്കിംഗ് സൈറ്റുകളും ബാങ്കിംഗ് സേവനങ്ങളും പ്രോഡക്റ്റിവിറ്റി ടൂളുകളും അടുത്തിടെ ഔട്ടേജുകൾ അനുഭവിച്ചു. സൈബർ സുരക്ഷാ വിദഗ്ധർ ഇതിന് ഒരു പൊതുവായ കാരണമുണ്ടാകാമെന്ന് പറയുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള തകരാറുകൾ യാത്ര, പണം, പഠനം എന്നിവയെ ബാധിക്കാം, അതിനാൽ ഡൗൺടൈംക്ക് തയ്യാറായി ഇരിക്കുക.",
+  "tags": [
+   "tech",
+   "outage",
+   "cybersecurity",
+   "AI",
+   "India"
+  ]
+ }
+}
