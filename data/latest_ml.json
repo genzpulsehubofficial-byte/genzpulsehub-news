@@ -1,5 +1,100 @@
 [
  {
+  "id": "c990fb121000",
+  "created": "2026-11-19T20:39:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+  "headline": "Anthropic IPO‑യോടെ AI ഫണ്ടിംഗ് പരീക്ഷണം",
+  "hook": "വലിയ AI സ്റ്റാർട്ടപ്പ് പൊതു വിപണിയിൽ, Amazon, Google എന്നിവർക്കും ലാഭം തുടരും",
+  "what": "Anthropic IPO ആരംഭിച്ചു, അതിന് വലിയ കമ്പ്യൂട്ട് ചെലവുകൾ ഉണ്ട്. Amazon, Google പോലുള്ള പ്രധാന ക്ലൗഡ് പങ്കാളികൾ AI സേവനങ്ങളിൽ നിന്ന് വരുമാനം നേടാൻ സാധ്യതയുണ്ട്, Anthropic ന്റെ സ്ഥാനം മാറിയാലും.",
+  "why": "ഇത് AI സ്റ്റാർട്ടപ്പുകളും വലിയ ടെക് കമ്പനികളും തമ്മിലുള്ള ബന്ധം കാണിക്കുന്നു, ഭാവിയിലെ ജോലികളും സാങ്കേതിക അവസരങ്ങളും ഇതിൽ നിന്ന് രൂപംകൊള്ളാം. ക്ലൗഡ് പ്ലാറ്റ്ഫോംസ്‌ ശ്രദ്ധിക്കുന്നത് AI വളർച്ചയുടെ സൂചനകൾ നൽകാം.",
+  "tags": [
+   "AI",
+   "IPO",
+   "cloud",
+   "startup",
+   "tech"
+  ]
+ },
+ {
+  "id": "e6ab858fe67e",
+  "created": "2026-11-19T20:39:45+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-sees-no-legal-way-to-recover-1-816-crore-from-reliance-capital-what-it-means-for-pf-subscribers-11795097088450.html",
+  "headline": "EPFO പറയുന്നു, Reliance Capital‑നിന്ന് ₹1,816 ക്രോഡ് വീണ്ടെടുക്കാൻ നിയമവഴി ഇല്ല",
+  "hook": "നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ട് അപകടത്തിൽ",
+  "what": "Employees’ Provident Fund Organisation (EPFO) Reliance Capital‑ന് ₹1,816 ക്രോഡ് principal‑um interest‑um അടച്ചിട്ടില്ലെന്ന്, നിയമപരമായി തിരികെ നേടാൻ മാർഗം ഇല്ലെന്ന് അറിയിച്ചു. ഈ തുക principal‑um interest‑um ഉൾക്കൊള്ളുന്നു.",
+  "why": "കോർപ്പറേറ്റ് ഡീഫോൾട്ട് സംഭവിക്കുമ്പോൾ തൊഴിലാളികളുടെ സംരക്ഷണത്തിൽ അപകടം ഉണ്ടാകാം, അതിനാൽ ഫണ്ട് നിക്ഷേപങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "EPFO",
+   "RelianceCapital",
+   "വിരമിക്കൽ",
+   "നിക്ഷേപം",
+   "ഭീഷണി"
+  ]
+ },
+ {
+  "id": "c23648208f61",
+  "created": "2026-11-19T20:39:47+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/hithendra-warns-police-officers-against-indiscipline-corruption-allots-offices-to-five-new-commissionerates/article71720545.ece",
+  "headline": "ഹിതേന്ദ്രാ പൊലീസ് അനാചാരത്തെതിരെ മുന്നറിയിപ്പ്, ഓഫീസ് വിന്യാസം",
+  "hook": "മുതലധികാരി പോലീസ് ഉദ്യോഗസ്ഥരെ ശുചിത്വം പാലിക്കാൻ നിർദ്ദേശിച്ചു.",
+  "what": "ഹിതേന്ദ്രാ പോലീസ് ഉദ്യോഗസ്ഥരെ അനാചാരവും അഴിമതിയും ഒഴിവാക്കാൻ മുന്നറിയിപ്പ് നൽകി. കമ്മീഷണർമാരും ഡിപിസികളുമുള്ളവർക്കു പുതിയ ഓഫീസ് സ്ഥലങ്ങൾ നിശ്ചയിച്ചു.",
+  "why": "പോലീസ് സുതാര്യത സമൂഹത്തിന്റെ സുരക്ഷക്കും വിശ്വാസത്തിനും പ്രധാനമാണ്, പ്രത്യേകിച്ച് യുവജനങ്ങൾക്ക്. ഈ നിർദ്ദേശം പാലിച്ച് നീതിപൂർണ്ണമായ അന്തരീക്ഷം സൃഷ്ടിക്കണം.",
+  "tags": [
+   "പോലീസ്",
+   "അഖണ്ഡത",
+   "അഡ്മിൻ",
+   "യുവജനങ്ങൾ",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "e5e28ed77bfd",
+  "created": "2026-11-19T20:39:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Indian Sports Home",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXRDRk9vZjRTT1Z6OThpNVVlZVdxRDAwNXJhenBCNWFORDdxTktydGRmdXh2cUg4TnkwUFBUMUFMTzl1RHBhcUxxT3luZFdkbTRTTGNRQ2FwRXNiN0hzSldSX0dZbzNJYUVNOG14dWJPSmxzWlVJOTFlZW1tb2xfckhoX3c4UUIzY0tQLV9LZWxfTmFZbUJqMnp4aWhDNmwycHhLUjFocFNLWWNMblHSAbMBQVVfeXFMUDZ2bVg1THphR0VEQnpzUkJuX1RubUh0TXVrMXRDVEFQTl95YnI1TTVNdHN0MkhwSE4zTXZTMjN1ek5OQjE3U0F4QVhOM2ZnZm1GN2drd0F1ZnVrRzl5aUowQVRhMjdvUEkwamZTTE9FZ3VPM2VKYjFOUXBjbEs3N3JVa052YlFsQ05hUlBzOHQ5QU1TNGwwbzVHUnFxNEtUUEk2bThHT211SFhpZjJzV2ZhTFk?oc=5",
+  "headline": "Arjun Erigaisi GodLike Esports‑ലേക്ക് ചേരുന്നു, Google Play Arena 2026‑ന് മുമ്പ്",
+  "hook": "ഇന്ത്യയുടെ പ്രമുഖ ഗെയിമർ പുതിയ ടീം കൂടെ ചേരുന്നു.",
+  "what": "Arjun Erigaisi GodLike Esports‑ന്റെ ഭാഗമാവി. ഈ ചേരൽ Google Play Arena 2026 മത്സരത്തിന് മുമ്പാണ്.",
+  "why": "ഇത് ടീമിന്റെ മത്സരശേഷി വർധിപ്പിക്കും, ആരാധകർക്ക് മെച്ചപ്പെട്ട കളി കാണാൻ സാധിക്കും.",
+  "tags": [
+   "esports",
+   "gaming",
+   "GooglePlayArena",
+   "ArjunErigaisi",
+   "GodLike"
+  ]
+ },
+ {
+  "id": "7a88a63d9e15",
+  "created": "2026-11-19T20:39:52+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-launches-students-savings-scheme-online-portal-ptihs3uexql",
+  "headline": "കേരളം സ്കൂൾ കുട്ടികൾക്കായി ഡിജിറ്റൽ സേവിംഗ്‌സ് പോർട്ടൽ ആരംഭിച്ചു",
+  "hook": "നിങ്ങളുടെ സ്കൂൾ സേവിംഗ്‌സ് ഇനി ഓൺലൈനിൽ—വീണ്ടും നോക്കൂ!",
+  "what": "കെ.ഐ.ടി.ഇ വികസിപ്പിച്ച ഈ ഓൺലൈൻ പോർട്ടൽ വിദ്യാർത്ഥി സേവിംഗ്‌സ് സ്കീം ഡിജിറ്റൈസ് ചെയ്യുന്നു. ക്ലാസ് 1 മുതൽ 12 വരെ ഉള്ള വിദ്യാർത്ഥികൾക്ക് അക്കൗണ്ട് തുറക്കാനും നിരീക്ഷിക്കാനും ഇത് സഹായിക്കുന്നു. പഴയ പേപ്പർ പ്രക്രിയയ്ക്ക് പകരം ഇത് ഉപയോഗിക്കും.",
+  "why": "സേവിംഗ്‌സ് എളുപ്പമാക്കുകയും ചെറുപ്പത്തിൽ തന്നെ സാമ്പത്തിക ശീലങ്ങൾ വളർത്തുകയും ചെയ്യും. വിദ്യാർത്ഥികൾക്ക് അവരുടെ സ്കൂളുകൾ വഴി പോർട്ടൽ ഉപയോഗിക്കാൻ കഴിയും.",
+  "tags": [
+   "Kerala",
+   "DigitalSavings",
+   "Students",
+   "Finance",
+   "Education"
+  ]
+ },
+ {
   "id": "d8c89a6f3ace",
   "created": "2026-11-19T19:31:51+05:30",
   "category": "headlines",
@@ -657,100 +752,6 @@
    "GTA6",
    "ബെംഗളൂർ",
    "യുവാവ്"
-  ]
- },
- {
-  "id": "24894e757def",
-  "created": "2026-11-19T12:36:11+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/assam-medical-college-dept-withdraws-order-on-marriage-for-pg-trainees-after-backlash-101795070752405.html",
-  "headline": "അസ്സാമിലെ കോളേജ് പി.ജി. ട്രെയിനികളിലെ വിവാഹ നിരോധനം പിൻവലിച്ചു",
-  "hook": "ട്രെയിനികളുടെ വിവാഹം സംബന്ധിച്ച നയം പ്രതിഷേധത്തിന് ശേഷം റദ്ദാക്കി.",
-  "what": "അസ്സാമിലെ ഒരു മെഡിക്കല്‍ കോളേജിലെ പോസ്റ്റ് ഗ്രാജുവേറ്റ് വിഭാഗം പി.ജി. ട്രെയിനികളില്‍ വിവാഹം നിരോധിക്കുന്ന ഉത്തരവ് പിൻവലിച്ചു. വിദ്യാർത്ഥികളും പൊതുജനങ്ങളും പ്രകടിപ്പിച്ച ശക്തമായ പ്രതികരണത്തിന് ശേഷം ഈ തീരുമാനം എടുത്തു. നാഷണല്‍ മെഡിക്കല്‍ കമ്മീഷന്റെ 2023 ചട്ടങ്ങള്‍ ഇതിനകം പി.ജി. വിദ്യാർത്ഥികള്‍ക്ക് മാടര്‍ണിറ്റി, പിതൃത്വ അവധി അനുവദിക്കുന്നു.",
-  "why": "ഇത് യുവ ഡോക്ടർമാര്‍ക്ക് വ്യക്തിഗത ജീവിതം പദ്ധതിയിടാന്‍ സഹായിക്കുകയും ദേശീയ മാര്‍ഗ്ഗനിര്‍ദേശങ്ങളുമായി പൊരുത്തപ്പെടുകയും ചെയ്യുന്നു. മെഡിക്കല്‍ പരിശീലനത്തില്‍ ഉള്ളവര്‍ NMC ചട്ടങ്ങള്‍ അറിയുക.",
-  "tags": [
-   "Assam",
-   "MedicalCollege",
-   "PGStudents",
-   "PolicyChange"
-  ]
- },
- {
-  "id": "7ff4a601641f",
-  "created": "2026-11-19T12:36:16+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Indian Broadcasting World",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03b0pOZmlkb0JoVWtwSTJ3X2FlTy1DWm9oNFFRZDkxemFKblE1YWdZNTZJQWFxZkpndXdybDIwRUp4R1JYUDJ3M3Mta3BTUlJkaXM1MGFtZjc3NF9fWU4tTTRiZU1fS0MxUnk0MEZIWGNTOVk5Y0U2bDZEUU8zdw?oc=5",
-  "headline": "Esports Nations Cup 2027‑ലെ യോഗ്യതാ മാനദണ്ഡങ്ങൾ വിപുലീകരിച്ചു",
-  "hook": "ഇനി കൂടുതൽ ടീമുകൾക്ക് അന്തർദേശീയ വേദി നേടാം",
-  "what": "Esports Nations Cup 2027-ന് യോഗ്യതാ മാനദണ്ഡങ്ങൾ വ്യാപിപ്പിച്ചതായി പ്രഖ്യാപിച്ചു, ഇതോടെ കൂടുതൽ പങ്കാളികൾക്ക് അവസരം ലഭിക്കും. ഇതോടെ കൂടുതൽ ടീമുകൾക്ക് യോഗ്യത നേടാൻ സാധിക്കും.",
-  "why": "ഇത് ഇന്ത്യയിലെ യുവ ഗെയിമർമാർക്ക് അന്താരാഷ്ട്ര മത്സരത്തിൽ പ്രവേശിക്കാൻ കൂടുതൽ അവസരങ്ങൾ സൃഷ്ടിക്കും; അടുത്തുള്ള യോഗ്യതാ റൗണ്ടുകൾക്കായി ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "esports",
-   "gaming",
-   "tournament",
-   "qualifiers",
-   "India"
-  ]
- },
- {
-  "id": "852339697d67",
-  "created": "2026-11-19T12:36:18+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Rediff",
-  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmtLQVFSTy1kcUNubHNTOFoxZUNyQThLUlpMQ3pYR2pjUWlHY1RrTHBfUGJGX0ZnWkZ0aEJJTWQyS1dJaTdoQ19hd3VzNFhDRXJEMUtiUmdkbDRWeV9QSTYwNXpLZzBVRWVQV3dIY28wU0U5bFBwSFNvdkRUMWl6REF6THpOUkRCU3h2NG1vSVFaOHl3MEFDNlFzYTdlOUpuOWlNeVU4MTU4amVwZWQyNUFYY0N0elk2M0xIS9IBvwFBVV95cUxNM2pBcThmNG9NdHdMaERIWXR0Nks0a04xcDZwY2tDWDI4cTIxOEZtUmZ2UDZTXzJlN3NyRW1tdmMwZ3FuZGgzOFE3UkJXejNMVkNiV0ZBd0FxbHdMbjJ6eDBGeXhnY2ktV2dFNkJjQlVjSWNwSmlKMGJsNm1ySHg5VlhsQzlSbHpjaGE5ZDQ4YVdFQTlHNDNpUF9zWGI0azY0SS1ER3k4T0lpbm1jOC0xWnM1Ym9sbDBhNkNaOWpfVQ?oc=5",
-  "headline": "ഹോക്കി ഐക്കൺ സവിത TIME100 Next: India ലിസ്റ്റിൽ",
-  "hook": "ഇന്ത്യയുടെ ഹോക്കി താരമാർക്ക് TIMEയുടെ പുതിയ ലിസ്റ്റിൽ സ്ഥാനം ലഭിച്ചു.",
-  "what": "ഹോക്കിയുടെ ദീർഘകാലം ചാമ്പ്യൻ സവിത inaugural TIME100 Next: India ലിസ്റ്റിൽ ഉൾപ്പെടുന്നു. ഈ ലിസ്റ്റ് ഇന്ത്യയിലെ ഉയർന്നുവരുന്ന പ്രതിഭകളെ ആദരിക്കുന്നു.",
-  "why": "ഇത് യുവ കായികതാരങ്ങൾക്ക് പ്രചോദനമാകുന്നു, സ്പോർട്സ് വഴി രാജ്യത്തെ പ്രശസ്തി നേടാൻ ശ്രമിക്കാൻ.",
-  "tags": [
-   "ഹോക്കി",
-   "TIME100",
-   "യുവപ്രതിഭ",
-   "ഇന്ത്യ",
-   "സ്പോർട്സ്"
-  ]
- },
- {
-  "id": "077d6a999b77",
-  "created": "2026-11-19T12:36:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVRKV2swRVdLN0N5cTRWVXhGSG81Zl95RXBDVHJYSEdyaGZCeVpWX0J2Rlowcm9pY3NnQ1VzRWx6N1RZOF81RHdmd2dhcWtMQXhyM0VpX1BPZWhHVWppMmJQelZ0NnpIWDB4RURpci1jZC13ZmNnSThSbkctdzNHLW1UR1ZlVmh4UGNEaEpjN1NQTElDYkt5OXdUNUVUWU84aHdQNEFNNEJVQ1NUSjFsOXc2UWdTdnMzRlM1b21oeW1fMUJwaFM0ZG03dHhKU0Y5TGRiUGZxaU1jcE5XRC12MUNsenY3REhpTGNlZmluUQ?oc=5",
-  "headline": "ട്രംപ് ചൈനീസ് പ്രസിഡന്റ് ഷിയുമായി എൻവിഡിയയുടെ മുൻ CEO ഹുവാങ്ങിനെപ്പറ്റി ചർച്ച ചെയ്തു",
-  "hook": "അമേരിക്കൻ പ്രസിഡണ്ട് ടെക് ചർച്ചയിൽ ചൈനീസ് സ്പൈ അഭിപ്രായം ഇടുന്നു.",
-  "what": "ചൈനീസ് പ്രസിഡണ്ട് ഷിയുമായി കൂടിക്കാഴ്ചയിൽ ഡൊണൾഡ് ട്രംപ്, എൻവിഡിയയുടെ മുൻ CEO ജെൻസൻ ഹുവാങ്ങിന്റെ സ്ഥിതിയെ ചുരുക്കമായി പരാമർശിച്ചതായി പറഞ്ഞു. കൂടാതെ യുഎസ്‌ലെ ചില ഔട്ടേജുകളും സുരക്ഷാ ആശങ്കകളും കുറിച്ച്‌ അവഗണിച്ചു.",
-  "why": "യു‌എസ്‑ചൈന ടെക്‑തർക്കം യുവജനങ്ങളുടെ ജോലി, ഡാറ്റാ സുരക്ഷ എന്നിവയെ ബാധിക്കാം, അതിനാൽ ശ്രദ്ധിക്കേണ്ടതാണ്.",
-  "tags": [
-   "ട്രംപ്",
-   "ഷി",
-   "എൻവിഡിയ",
-   "ടെക്‌തർക്കം",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "e91ce128c2c9",
-  "created": "2026-11-19T11:28:46+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-  "headline": "സൈക്ലോണ്‍ അക്വാന്‍ വടക്കോട്ട്, ഒഡീഷയില്‍ 50,000 പേരെ ഒഴിപ്പിച്ചു",
-  "hook": "വലിയ ഒഴിപ്പിക്കല്‍ നടക്കുമ്പോള്‍ ചുഴലിക്കാറ്റ് ആന്‍ഡ്ര പ്രദേശത്തേക്ക് നീങ്ങുന്നു.",
-  "what": "അക്വാന്‍ എന്ന ഗുരുതര സൈക്ലോണ്‍ വടക്കോട്ട് സഞ്ചരിച്ച്, നര്‍സാപൂര്‍ മുതല്‍ പൂറി വരെ, ഉത്തര ആന്‍ഡ്ര പ്രദേശം, യാനം, ദക്ഷിണ ഒഡീഷയുടെ തീരപ്രദേശങ്ങള്‍ കടക്കുമെന്നു പ്രതീക്ഷിക്കുന്നു, ഇത് നവംബര്‍ 20ന് ഉച്ചയ്ക്ക് മുമ്പ് സംഭവിക്കും. ഒഡീഷയില്‍ ഏകദേശം 50,000 പേരെ സുരക്ഷിത സ്ഥലങ്ങളിലേക്ക് മാറ്റി.",
-  "why": "ഈ ചുഴലിക്കാറ്റ് ശക്തമായ മഴയും കാറ്റും കൊണ്ടുവരാന്‍ സാധ്യതയുള്ളതിനാല്‍ യാത്രയും ദിനചര്യയും ബാധിക്കാം; വിദ്യാർത്ഥികൾ സ്ഥിതിവിവരങ്ങൾ ശ്രദ്ധിച്ച്, പ്രാദേശിക സുരക്ഷാ നിർദ്ദേശങ്ങൾ പാലിക്കണം.",
-  "tags": [
-   "cyclone",
-   "Akvan",
-   "Odisha",
-   "Andhra",
-   "evacuation"
   ]
  }
 ]

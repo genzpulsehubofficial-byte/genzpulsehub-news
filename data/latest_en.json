@@ -1,5 +1,100 @@
 [
  {
+  "id": "c990fb121000",
+  "created": "2026-11-19T20:39:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+  "headline": "Anthropic's IPO tests AI funding cycle",
+  "hook": "AI startup goes public while cloud giants still stand to earn",
+  "what": "Anthropic has filed for an initial public offering, taking on massive computing expenses. Its primary cloud providers, such as Amazon and Google, may keep making money from AI services even if Anthropic’s market lead slips.",
+  "why": "The move shows how AI firms rely on big‑tech infrastructure, hinting at future job and tech opportunities for young Indians. Keeping an eye on cloud platforms can signal AI growth trends.",
+  "tags": [
+   "AI",
+   "IPO",
+   "cloud",
+   "startup",
+   "tech"
+  ]
+ },
+ {
+  "id": "e6ab858fe67e",
+  "created": "2026-11-19T20:39:45+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-sees-no-legal-way-to-recover-1-816-crore-from-reliance-capital-what-it-means-for-pf-subscribers-11795097088450.html",
+  "headline": "EPFO says no legal path to recover ₹1,816 cr from Reliance Capital",
+  "hook": "Your retirement fund could be at risk.",
+  "what": "The Employees’ Provident Fund Organisation reported it cannot legally retrieve ₹1,816 crore owed by Reliance Capital. The amount includes both principal and interest.",
+  "why": "This highlights potential risks to workers’ savings when corporate defaults occur, urging contributors to stay aware of fund investments.",
+  "tags": [
+   "EPFO",
+   "RelianceCapital",
+   "RetirementSavings",
+   "InvestmentRisk",
+   "India"
+  ]
+ },
+ {
+  "id": "c23648208f61",
+  "created": "2026-11-19T20:39:47+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/hithendra-warns-police-officers-against-indiscipline-corruption-allots-offices-to-five-new-commissionerates/article71720545.ece",
+  "headline": "Hithendra cautions police on misconduct, assigns new offices",
+  "hook": "A top official tells cops to stay clean and disciplined.",
+  "what": "Hithendra warned police personnel to avoid indiscipline and corruption. He also announced that commissioners and deputy commissioners have been given specific office spaces.",
+  "why": "Upholding integrity in the force impacts public safety and trust, especially for young citizens. Officers should follow the directive to maintain a fair environment.",
+  "tags": [
+   "police",
+   "integrity",
+   "admin",
+   "youth",
+   "India"
+  ]
+ },
+ {
+  "id": "e5e28ed77bfd",
+  "created": "2026-11-19T20:39:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Indian Sports Home",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXRDRk9vZjRTT1Z6OThpNVVlZVdxRDAwNXJhenBCNWFORDdxTktydGRmdXh2cUg4TnkwUFBUMUFMTzl1RHBhcUxxT3luZFdkbTRTTGNRQ2FwRXNiN0hzSldSX0dZbzNJYUVNOG14dWJPSmxzWlVJOTFlZW1tb2xfckhoX3c4UUIzY0tQLV9LZWxfTmFZbUJqMnp4aWhDNmwycHhLUjFocFNLWWNMblHSAbMBQVVfeXFMUDZ2bVg1THphR0VEQnpzUkJuX1RubUh0TXVrMXRDVEFQTl95YnI1TTVNdHN0MkhwSE4zTXZTMjN1ek5OQjE3U0F4QVhOM2ZnZm1GN2drd0F1ZnVrRzl5aUowQVRhMjdvUEkwamZTTE9FZ3VPM2VKYjFOUXBjbEs3N3JVa052YlFsQ05hUlBzOHQ5QU1TNGwwbzVHUnFxNEtUUEk2bThHT211SFhpZjJzV2ZhTFk?oc=5",
+  "headline": "Arjun Erigaisi signs with GodLike Esports for Google Play Arena",
+  "hook": "A top Indian gamer teams up with a new esports squad.",
+  "what": "Arjun Erigaisi has become a member of GodLike Esports. The move comes as the team prepares for the upcoming Google Play Arena 2026 tournament.",
+  "why": "His addition boosts the squad’s chances in a major competition, and fans can expect stronger performances in upcoming matches.",
+  "tags": [
+   "esports",
+   "gaming",
+   "GooglePlayArena",
+   "ArjunErigaisi",
+   "GodLike"
+  ]
+ },
+ {
+  "id": "7a88a63d9e15",
+  "created": "2026-11-19T20:39:52+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-launches-students-savings-scheme-online-portal-ptihs3uexql",
+  "headline": "Kerala rolls out digital savings portal for school kids",
+  "hook": "Your school savings just went online—check it out!",
+  "what": "Kerala introduced an online portal built by KITE to manage the Students Savings Scheme. The platform lets students from class 1 to 12 open and track accounts digitally. It replaces the earlier paper‑based process.",
+  "why": "It makes saving easier and teaches financial habits early. Students can start using the portal through their schools.",
+  "tags": [
+   "Kerala",
+   "DigitalSavings",
+   "Students",
+   "Finance",
+   "Education"
+  ]
+ },
+ {
   "id": "d8c89a6f3ace",
   "created": "2026-11-19T19:31:51+05:30",
   "category": "headlines",
@@ -657,100 +752,6 @@
    "GTA6",
    "Bengaluru",
    "youth"
-  ]
- },
- {
-  "id": "24894e757def",
-  "created": "2026-11-19T12:36:11+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/assam-medical-college-dept-withdraws-order-on-marriage-for-pg-trainees-after-backlash-101795070752405.html",
-  "headline": "Assam college drops marriage ban for PG trainees",
-  "hook": "A policy on trainee marriages was scrapped after protests.",
-  "what": "The postgraduate department of an Assam medical college withdrew its order that restricted marriage for PG trainees. The decision came after strong backlash from students and the public. The National Medical Commission’s 2023 regulations already allow maternity and paternity leave for PG students.",
-  "why": "Young doctors can now plan personal milestones without fear of institutional penalties, aligning with national guidelines. Stay aware of your rights under NMC rules if you’re in medical training.",
-  "tags": [
-   "Assam",
-   "medicalcollege",
-   "PGstudents",
-   "policychange"
-  ]
- },
- {
-  "id": "7ff4a601641f",
-  "created": "2026-11-19T12:36:16+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Indian Broadcasting World",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03b0pOZmlkb0JoVWtwSTJ3X2FlTy1DWm9oNFFRZDkxemFKblE1YWdZNTZJQWFxZkpndXdybDIwRUp4R1JYUDJ3M3Mta3BTUlJkaXM1MGFtZjc3NF9fWU4tTTRiZU1fS0MxUnk0MEZIWGNTOVk5Y0U2bDZEUU8zdw?oc=5",
-  "headline": "Esports Nations Cup 2027 widens qualification rules",
-  "hook": "More teams can now aim for the global stage",
-  "what": "The Esports Nations Cup 2027 announced broader qualification norms, allowing additional participants. This change opens up more slots for teams to qualify.",
-  "why": "It gives aspiring Indian gamers extra chances to compete internationally; keep an eye on upcoming qualifier dates.",
-  "tags": [
-   "esports",
-   "gaming",
-   "tournament",
-   "qualifiers",
-   "India"
-  ]
- },
- {
-  "id": "852339697d67",
-  "created": "2026-11-19T12:36:18+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Rediff",
-  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmtLQVFSTy1kcUNubHNTOFoxZUNyQThLUlpMQ3pYR2pjUWlHY1RrTHBfUGJGX0ZnWkZ0aEJJTWQyS1dJaTdoQ19hd3VzNFhDRXJEMUtiUmdkbDRWeV9QSTYwNXpLZzBVRWVQV3dIY28wU0U5bFBwSFNvdkRUMWl6REF6THpOUkRCU3h2NG1vSVFaOHl3MEFDNlFzYTdlOUpuOWlNeVU4MTU4amVwZWQyNUFYY0N0elk2M0xIS9IBvwFBVV95cUxNM2pBcThmNG9NdHdMaERIWXR0Nks0a04xcDZwY2tDWDI4cTIxOEZtUmZ2UDZTXzJlN3NyRW1tdmMwZ3FuZGgzOFE3UkJXejNMVkNiV0ZBd0FxbHdMbjJ6eDBGeXhnY2ktV2dFNkJjQlVjSWNwSmlKMGJsNm1ySHg5VlhsQzlSbHpjaGE5ZDQ4YVdFQTlHNDNpUF9zWGI0azY0SS1ER3k4T0lpbm1jOC0xWnM1Ym9sbDBhNkNaOWpfVQ?oc=5",
-  "headline": "Hockey icon Savita makes TIME100 Next: India list",
-  "hook": "India’s hockey star joins TIME’s elite young achievers.",
-  "what": "Savita, a celebrated Indian hockey player, has been included in the first‑ever TIME100 Next: India list. The list recognises emerging Indian talents across fields.",
-  "why": "Her inclusion highlights sports as a path to national recognition, inspiring young athletes to aim high.",
-  "tags": [
-   "hockey",
-   "TIME100",
-   "youngachievers",
-   "India",
-   "sports"
-  ]
- },
- {
-  "id": "077d6a999b77",
-  "created": "2026-11-19T12:36:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVRKV2swRVdLN0N5cTRWVXhGSG81Zl95RXBDVHJYSEdyaGZCeVpWX0J2Rlowcm9pY3NnQ1VzRWx6N1RZOF81RHdmd2dhcWtMQXhyM0VpX1BPZWhHVWppMmJQelZ0NnpIWDB4RURpci1jZC13ZmNnSThSbkctdzNHLW1UR1ZlVmh4UGNEaEpjN1NQTElDYkt5OXdUNUVUWU84aHdQNEFNNEJVQ1NUSjFsOXc2UWdTdnMzRlM1b21oeW1fMUJwaFM0ZG03dHhKU0Y5TGRiUGZxaU1jcE5XRC12MUNsenY3REhpTGNlZmluUQ?oc=5",
-  "headline": "Trump brings Nvidia ex‑boss Huang up with Xi",
-  "hook": "A US president drops a China‑spy comment while talking tech.",
-  "what": "During a meeting with Chinese President Xi, Donald Trump said he briefly mentioned the situation of former Nvidia chief Jensen Huang. He also downplayed related US outages and security worries.",
-  "why": "The exchange signals ongoing US‑China tension over technology and data security, which could affect future tech jobs and products for Indian youth.",
-  "tags": [
-   "Trump",
-   "Xi",
-   "Nvidia",
-   "TechTension",
-   "India"
-  ]
- },
- {
-  "id": "e91ce128c2c9",
-  "created": "2026-11-19T11:28:46+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-  "headline": "Cyclone Akvan pushes north, 50k evacuated in Odisha",
-  "hook": "Mass evacuations as the storm heads toward Andhra coast.",
-  "what": "A severe cyclonic storm named Akvan is moving northward, expected to sweep across northern Andhra Pradesh, Yanam and the southern Odisha coastline between Narsapur and Puri by midday on Nov 20. Nearly 50,000 people have been moved to safety in Odisha.",
-  "why": "The advancing cyclone could bring heavy rain and strong winds, affecting travel and daily life; students should stay updated and follow local safety instructions.",
-  "tags": [
-   "cyclone",
-   "Akvan",
-   "Odisha",
-   "Andhra",
-   "evacuation"
   ]
  }
 ]
