@@ -1,0 +1,37 @@
+{
+ "id": "83d590f9618f",
+ "created": "2026-11-19T11:29:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Census portal trims 200+ ‘Other’ religion entries",
+  "hook": "Your favorite faith names might not even appear in the next census.",
+  "what": "The upcoming Census 2027 website had a drop‑down menu for ‘Other’ religions that initially listed around 287 options, including groups like ISKCON and Sanatan. Those entries were later removed, cutting the list by over 200 items.",
+  "why": "The change could affect how minority faiths are recorded, influencing future policies. Teens should stay aware of how their religious identity is captured in official data.",
+  "tags": [
+   "census2027",
+   "religion",
+   "india",
+   "youth",
+   "data"
+  ]
+ },
+ "ml": {
+  "headline": "ജനസംഖ്യ 2027-ൽ ‘മറ്റ്’ മതങ്ങളിലെ 200‑ത്തിലധികം എൻട്രികൾ നീക്കം",
+  "hook": "നിങ്ങളുടെ മതം ഇനി സെൻസസ്‌ ഫോമിൽ കാണാനില്ലേ?",
+  "what": "Census 2027-ന്റെ ഔദ്യോഗിക വെബ്സൈറ്റിൽ ‘മറ്റ്’ മതങ്ങളുടെ ഡ്രോപ്പ്ഡൗൺ മെനുവിൽ ആദ്യം 287 വരെ പേരുകൾ, ISKCON, സനാതൻ തുടങ്ങിയവ ഉൾപ്പെടെ, കാണിച്ചിരുന്നു. പിന്നീട് ഈ പട്ടികയിൽ നിന്ന് 200‑ത്തിലധികം എൻട്രികൾ ഒഴിവാക്കി.",
+  "why": "ഇത് ചെറിയ മതങ്ങളുടെയും ഡാറ്റ ശേഖരണത്തെ ബാധിക്കും, ഭാവി നയങ്ങളിലേക്കും സ്വാധീനം ചെലുത്തും. യുവാക്കൾക്ക് അവരുടെ മതം എങ്ങനെ രേഖപ്പെടുത്തപ്പെടുന്നുവെന്ന് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "census2027",
+   "മതം",
+   "യുവാക്കൾ",
+   "ഡാറ്റ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

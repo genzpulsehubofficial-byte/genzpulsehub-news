@@ -1,0 +1,35 @@
+{
+ "id": "f9bcdb5bb123",
+ "created": "2026-11-19T11:29:55+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/apps/news/google-photos-build-a-fit-ai-feature-apk-teardown-report-12347368",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google Photos may soon suggest outfits with ‘Build a Fit’",
+  "hook": "Your phone could become your personal stylist.",
+  "what": "A recent code analysis of the Google Photos app uncovered a hidden ‘Build a Fit’ feature. The tool is meant to recommend clothing combinations. It is not yet available to users.",
+  "why": "If released, it could help teens pick outfits quickly, saving time. Watch for future Google Photos updates.",
+  "tags": [
+   "GooglePhotos",
+   "OutfitIdeas",
+   "TechUpdate",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "Google Photos-ൽ ഉടൻ ‘Build a Fit’ ഫീച്ചർ, വസ്ത്ര നിർദ്ദേശം",
+  "hook": "നിങ്ങളുടെ ഫോൺ നിങ്ങളുടെ വ്യക്തിഗത സ്റ്റൈലിസ്റ്റ് ആകാം.",
+  "what": "Google Photos ആപ്പിന്റെ കോഡിൽ ‘Build a Fit’ എന്ന മറഞ്ഞ ഫീച്ചർ കണ്ടെത്തി. ഇത് വസ്ത്രം കൂട്ടിച്ചേർക്കാൻ നിർദ്ദേശങ്ങൾ നൽകാൻ രൂപകൽപ്പന ചെയ്തതാണ്. ഇപ്പോൾ ഉപയോക്താക്കൾക്ക് ലഭ്യമല്ല.",
+  "why": "ലോഞ്ച് ചെയ്താൽ, യുവാക്കൾക്ക് വേഗത്തിൽ വസ്ത്രം തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. Google Photos-ന്റെ അടുത്ത അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "GooglePhotos",
+   "വസ്ത്രം",
+   "ടെക്",
+   "AI"
+  ]
+ }
+}

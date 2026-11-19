@@ -1,5 +1,99 @@
 [
  {
+  "id": "e91ce128c2c9",
+  "created": "2026-11-19T11:28:46+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+  "headline": "Cyclone Akvan pushes north, 50k evacuated in Odisha",
+  "hook": "Mass evacuations as the storm heads toward Andhra coast.",
+  "what": "A severe cyclonic storm named Akvan is moving northward, expected to sweep across northern Andhra Pradesh, Yanam and the southern Odisha coastline between Narsapur and Puri by midday on Nov 20. Nearly 50,000 people have been moved to safety in Odisha.",
+  "why": "The advancing cyclone could bring heavy rain and strong winds, affecting travel and daily life; students should stay updated and follow local safety instructions.",
+  "tags": [
+   "cyclone",
+   "Akvan",
+   "Odisha",
+   "Andhra",
+   "evacuation"
+  ]
+ },
+ {
+  "id": "2684e19fa235",
+  "created": "2026-11-19T11:29:50+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/caviar-launches-gta-6-inspired-iphone-samsung-galaxy-z-fold-8-ultra-meta-ray-ban-smart-glasses-12347394",
+  "headline": "Caviar unveils GTA‑6 themed iPhone and Z Fold 8 Ultra",
+  "hook": "Gaming fans can now sport phones styled after GTA 6.",
+  "what": "Luxury customiser Caviar introduced a GTA 6‑inspired iPhone alongside a Galaxy Z Fold 8 Ultra and a pair of Ray‑Ban smart glasses. The collection features personalized iPhones and Samsung foldable devices.",
+  "why": "For Gen Z gamers, the designs blend favorite game aesthetics with premium tech, offering a fresh way to showcase fandom. Keep an eye on such limited editions for unique style statements.",
+  "tags": [
+   "Caviar",
+   "GTA6",
+   "iPhone",
+   "GalaxyFold",
+   "SmartGlasses"
+  ]
+ },
+ {
+  "id": "83d590f9618f",
+  "created": "2026-11-19T11:29:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
+  "headline": "Census portal trims 200+ ‘Other’ religion entries",
+  "hook": "Your favorite faith names might not even appear in the next census.",
+  "what": "The upcoming Census 2027 website had a drop‑down menu for ‘Other’ religions that initially listed around 287 options, including groups like ISKCON and Sanatan. Those entries were later removed, cutting the list by over 200 items.",
+  "why": "The change could affect how minority faiths are recorded, influencing future policies. Teens should stay aware of how their religious identity is captured in official data.",
+  "tags": [
+   "census2027",
+   "religion",
+   "india",
+   "youth",
+   "data"
+  ]
+ },
+ {
+  "id": "f9bcdb5bb123",
+  "created": "2026-11-19T11:29:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/google-photos-build-a-fit-ai-feature-apk-teardown-report-12347368",
+  "headline": "Google Photos may soon suggest outfits with ‘Build a Fit’",
+  "hook": "Your phone could become your personal stylist.",
+  "what": "A recent code analysis of the Google Photos app uncovered a hidden ‘Build a Fit’ feature. The tool is meant to recommend clothing combinations. It is not yet available to users.",
+  "why": "If released, it could help teens pick outfits quickly, saving time. Watch for future Google Photos updates.",
+  "tags": [
+   "GooglePhotos",
+   "OutfitIdeas",
+   "TechUpdate",
+   "AI"
+  ]
+ },
+ {
+  "id": "26943d7c937a",
+  "created": "2026-11-19T11:29:56+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-19-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794793681377.html",
+  "headline": "Gold and silver rates released for major Indian cities",
+  "hook": "Check today’s metal prices before you shop or invest",
+  "what": "Retail rates for 24K and 22K gold and 999 silver were published for Delhi, Mumbai, Kolkata and other key cities on 19 November. The update also includes the latest MCX market figures.",
+  "why": "Knowing the current rates helps you plan jewellery purchases or investment decisions. Look up the latest numbers before making a move.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "retail",
+   "MCX"
+  ]
+ },
+ {
   "id": "289ac784e1ee",
   "created": "2026-11-19T10:26:42+05:30",
   "category": "money",
@@ -662,101 +756,6 @@
    "NewZealand",
    "Test",
    "selection"
-  ]
- },
- {
-  "id": "6b4b11d8558c",
-  "created": "2026-11-19T03:51:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-  "headline": "Anthropic IPO lands at $83, topping its target range",
-  "hook": "Investors bet big on AI even as market wobbles.",
-  "what": "Anthropic set its IPO price at $83 per share, higher than the $70‑$78 range it had hinted at. The pricing shows strong demand for the AI firm despite recent industry uncertainty.",
-  "why": "For young Indians eyeing tech careers, it signals continued investor confidence in AI startups, suggesting more opportunities and funding in the sector.",
-  "tags": [
-   "AI",
-   "IPO",
-   "startup",
-   "investors",
-   "tech"
-  ]
- },
- {
-  "id": "df751380d9ea",
-  "created": "2026-11-19T03:51:12+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-  "headline": "Anduril CEO urges three‑day emergency kits for all",
-  "hook": "A top tech founder says be ready for any crisis.",
-  "what": "Palmer Luckey, the founder of defense startup Anduril, said every American should keep food, water and medicine enough for three days. He made the comment on Wednesday.",
-  "why": "Having a short‑term emergency stash can help you stay safe during sudden disruptions, so consider setting one up now.",
-  "tags": [
-   "prepper",
-   "emergency",
-   "Anduril",
-   "selfreliance",
-   "safety"
-  ]
- },
- {
-  "id": "1ef7b261d345",
-  "created": "2026-11-19T03:51:15+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
-  "headline": "UEF and IIT-M Partner for Tamil Nadu Growth Conclave 2026",
-  "hook": "A new state‑wide plan aims to boost ten key sectors for jobs and innovation.",
-  "what": "The University of Economic Forum (UEF) and the Indian Institute of Technology Madras (IIT-M) announced a partnership to organize the Tamil Nadu Growth Conclave 2026. The event will concentrate on ten priority sectors.",
-  "why": "Focusing on multiple sectors could open fresh opportunities for students and startups in Tamil Nadu. Watch the conclave for possible internships, projects, or collaborations.",
-  "tags": [
-   "TamilNadu",
-   "GrowthConclave",
-   "IITMadras",
-   "UEF",
-   "YouthOpportunities"
-  ]
- },
- {
-  "id": "38e640f5c8dc",
-  "created": "2026-11-19T03:51:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Kitco",
-  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE43b3JrcGdsOTVjUndOSjM0NWdzWmQyQ3dibWNBM1h4NVA5N0FlTzBTWGFXMURsUTR5RzVqbktoRVJlM2IzZEd3NVMzV0xFWnlCYU1IVDB1bkcxTzVaYW1ZYzYtem9lQUdmaVF5U0dlcXRicW93c0F3TXJiWHBsbkQtT19kTTg0d3d4aTNIdGJqd3FBUXVQb1ZZNmNOTFNINmJjaDlzUUZKZWdMdWhDYWdLT0lCMDVGNnFz?oc=5",
-  "headline": "Gold stays low as Fed vows to curb inflation",
-  "hook": "Fed minutes keep gold under pressure.",
-  "what": "The Federal Reserve’s meeting minutes indicated a continued focus on reducing inflation. As a result, gold prices stayed under pressure.",
-  "why": "Lower gold prices can affect savings and investment choices for young Indians. Keep an eye on market moves before planning any gold purchases.",
-  "tags": [
-   "gold",
-   "inflation",
-   "Fed",
-   "markets",
-   "investing"
-  ]
- },
- {
-  "id": "e4be984b82dd",
-  "created": "2026-11-19T03:51:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSV9CbEl6amFyOG5RWDJhT3hvcmU0X3NGU0FULW9MQWVLbFR0VlFkaEkzMWpnTUZHOE5DQklYY0VWM2dqUXRJOEVtMm1WNVAyQmtFSW5TRDVTOFZWeGdOWS1xSUpVLXB5Q0s1dWF3NEwwZXRpa2tsSzQyU3lzeXdIUWY4NDJJa3N3ZFdKeU1kUDY5bHJ2UTkyQ3FfZHlCMElBeU41aVZYeFRKWktlZHREX0l5NkZrckQ5ekpjbmVLQng4YjZ6MWc?oc=5",
-  "headline": "Mahanadi Coalfields secures $245M from ADIA, LIC in IPO",
-  "hook": "Big investors back a major coal IPO—what it means for the market.",
-  "what": "Mahanadi Coalfields, a Coal India subsidiary, received anchor commitments worth over $245 million from Abu Dhabi Investment Authority and LIC. The company set its IPO price band at ₹129-136 per share, aiming to raise ₹9,000 crore. Anchor investors contributed Rs 2,295 crore.",
-  "why": "The large backing signals confidence in the mining sector and could affect stock market trends. Young investors should watch the upcoming listing for potential investment opportunities.",
-  "tags": [
-   "MCL",
-   "IPO",
-   "Investing",
-   "Stocks",
-   "India"
   ]
  }
 ]

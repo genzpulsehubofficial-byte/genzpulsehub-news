@@ -1,5 +1,99 @@
 [
  {
+  "id": "e91ce128c2c9",
+  "created": "2026-11-19T11:28:46+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
+  "headline": "സൈക്ലോണ്‍ അക്വാന്‍ വടക്കോട്ട്, ഒഡീഷയില്‍ 50,000 പേരെ ഒഴിപ്പിച്ചു",
+  "hook": "വലിയ ഒഴിപ്പിക്കല്‍ നടക്കുമ്പോള്‍ ചുഴലിക്കാറ്റ് ആന്‍ഡ്ര പ്രദേശത്തേക്ക് നീങ്ങുന്നു.",
+  "what": "അക്വാന്‍ എന്ന ഗുരുതര സൈക്ലോണ്‍ വടക്കോട്ട് സഞ്ചരിച്ച്, നര്‍സാപൂര്‍ മുതല്‍ പൂറി വരെ, ഉത്തര ആന്‍ഡ്ര പ്രദേശം, യാനം, ദക്ഷിണ ഒഡീഷയുടെ തീരപ്രദേശങ്ങള്‍ കടക്കുമെന്നു പ്രതീക്ഷിക്കുന്നു, ഇത് നവംബര്‍ 20ന് ഉച്ചയ്ക്ക് മുമ്പ് സംഭവിക്കും. ഒഡീഷയില്‍ ഏകദേശം 50,000 പേരെ സുരക്ഷിത സ്ഥലങ്ങളിലേക്ക് മാറ്റി.",
+  "why": "ഈ ചുഴലിക്കാറ്റ് ശക്തമായ മഴയും കാറ്റും കൊണ്ടുവരാന്‍ സാധ്യതയുള്ളതിനാല്‍ യാത്രയും ദിനചര്യയും ബാധിക്കാം; വിദ്യാർത്ഥികൾ സ്ഥിതിവിവരങ്ങൾ ശ്രദ്ധിച്ച്, പ്രാദേശിക സുരക്ഷാ നിർദ്ദേശങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "cyclone",
+   "Akvan",
+   "Odisha",
+   "Andhra",
+   "evacuation"
+  ]
+ },
+ {
+  "id": "2684e19fa235",
+  "created": "2026-11-19T11:29:50+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/caviar-launches-gta-6-inspired-iphone-samsung-galaxy-z-fold-8-ultra-meta-ray-ban-smart-glasses-12347394",
+  "headline": "Caviar പുറത്തിറക്കി GTA‑6 തീം iPhone, Galaxy Z Fold 8 Ultra",
+  "hook": "ഗെയിം പ്രേമികൾക്ക് GTA 6 സ്റ്റൈൽ ഫോൺ ഇനി ലഭ്യമാണ്.",
+  "what": "ലക്സറി കസ്റ്റമൈസർ Caviar, GTA 6‑പ്രേരിത iPhone, Galaxy Z Fold 8 Ultra, Ray‑Ban സ്മാർട്ട് ഗ്ലാസുകൾ എന്നിവയുടെ ഒരു ശേഖരം പുറത്തിറക്കി. ഈ ക്യൂറേഷൻ വ്യക്തിഗത iPhone-കളും സാംസങ് ഫോൾഡബിളുകളും ഉൾക്കൊള്ളുന്നു.",
+  "why": "ഗെയിമിംഗ് ഫാൻമാർക്ക് അവരുടെ ഇഷ്ട ഗെയിം സ്റ്റൈൽ പ്രദർശിപ്പിക്കാൻ ഇതൊരു പുതിയ മാർഗം. ഇത്തരത്തിലുള്ള ലിമിറ്റഡ് എഡിഷനുകൾ ശ്രദ്ധയിൽ വെയ്ക്കുക.",
+  "tags": [
+   "Caviar",
+   "GTA6",
+   "iPhone",
+   "GalaxyFold",
+   "SmartGlasses"
+  ]
+ },
+ {
+  "id": "83d590f9618f",
+  "created": "2026-11-19T11:29:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/census-2027-other-religions-list-made-predictive-text-over-200-entries-from-earlier-list-dropped/article71716433.ece",
+  "headline": "ജനസംഖ്യ 2027-ൽ ‘മറ്റ്’ മതങ്ങളിലെ 200‑ത്തിലധികം എൻട്രികൾ നീക്കം",
+  "hook": "നിങ്ങളുടെ മതം ഇനി സെൻസസ്‌ ഫോമിൽ കാണാനില്ലേ?",
+  "what": "Census 2027-ന്റെ ഔദ്യോഗിക വെബ്സൈറ്റിൽ ‘മറ്റ്’ മതങ്ങളുടെ ഡ്രോപ്പ്ഡൗൺ മെനുവിൽ ആദ്യം 287 വരെ പേരുകൾ, ISKCON, സനാതൻ തുടങ്ങിയവ ഉൾപ്പെടെ, കാണിച്ചിരുന്നു. പിന്നീട് ഈ പട്ടികയിൽ നിന്ന് 200‑ത്തിലധികം എൻട്രികൾ ഒഴിവാക്കി.",
+  "why": "ഇത് ചെറിയ മതങ്ങളുടെയും ഡാറ്റ ശേഖരണത്തെ ബാധിക്കും, ഭാവി നയങ്ങളിലേക്കും സ്വാധീനം ചെലുത്തും. യുവാക്കൾക്ക് അവരുടെ മതം എങ്ങനെ രേഖപ്പെടുത്തപ്പെടുന്നുവെന്ന് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "census2027",
+   "മതം",
+   "യുവാക്കൾ",
+   "ഡാറ്റ",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "f9bcdb5bb123",
+  "created": "2026-11-19T11:29:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/google-photos-build-a-fit-ai-feature-apk-teardown-report-12347368",
+  "headline": "Google Photos-ൽ ഉടൻ ‘Build a Fit’ ഫീച്ചർ, വസ്ത്ര നിർദ്ദേശം",
+  "hook": "നിങ്ങളുടെ ഫോൺ നിങ്ങളുടെ വ്യക്തിഗത സ്റ്റൈലിസ്റ്റ് ആകാം.",
+  "what": "Google Photos ആപ്പിന്റെ കോഡിൽ ‘Build a Fit’ എന്ന മറഞ്ഞ ഫീച്ചർ കണ്ടെത്തി. ഇത് വസ്ത്രം കൂട്ടിച്ചേർക്കാൻ നിർദ്ദേശങ്ങൾ നൽകാൻ രൂപകൽപ്പന ചെയ്തതാണ്. ഇപ്പോൾ ഉപയോക്താക്കൾക്ക് ലഭ്യമല്ല.",
+  "why": "ലോഞ്ച് ചെയ്താൽ, യുവാക്കൾക്ക് വേഗത്തിൽ വസ്ത്രം തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. Google Photos-ന്റെ അടുത്ത അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "GooglePhotos",
+   "വസ്ത്രം",
+   "ടെക്",
+   "AI"
+  ]
+ },
+ {
+  "id": "26943d7c937a",
+  "created": "2026-11-19T11:29:56+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-19-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794793681377.html",
+  "headline": "പ്രധാന നഗരങ്ങളിലെ സ്വര്‍ണ്ണ-വെള്ളി വിലകൾ പുറത്തിറങ്ങി",
+  "hook": "ഷോപ്പിംഗ് അല്ലെങ്കിൽ നിക്ഷേപം ചെയ്യുന്നതിന് മുമ്പ് ഇന്നത്തെ വിലകൾ നോക്കൂ",
+  "what": "19 നവംബറിൽ ഡെല്‍ഹി, മുംബൈ, കൊല്‍ക്കത്തയും മറ്റ് പ്രധാന നഗരങ്ങളിലും 24K, 22K സ്വര്‍ണ്ണവും 999 വെള്ളിയും റീട്ടെയില്‍ നിരക്കുകൾ പുറപ്പെടുവിച്ചു. MCX മാർക്കറ്റിന്റെ പുതിയ ഡാറ്റയും ഇതിൽ ഉൾപ്പെടുന്നു.",
+  "why": "ഇന്നത്തെ വിലകൾ അറിയുന്നത് ജ്വല്ലറി വാങ്ങലോ നിക്ഷേപമോ പ്ലാൻ ചെയ്യാൻ സഹായിക്കും. തീരുമാനമെടുക്കുന്നതിന് മുമ്പ് പുതിയ നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വര്‍ണ്ണം",
+   "വെള്ളി",
+   "വിലകൾ",
+   "റീട്ടെയില്‍",
+   "MCX"
+  ]
+ },
+ {
   "id": "289ac784e1ee",
   "created": "2026-11-19T10:26:42+05:30",
   "category": "money",
@@ -662,101 +756,6 @@
    "ന്യൂസിലാൻഡ്",
    "ടെസ്റ്റ്",
    "തിരഞ്ഞെടുപ്പ്"
-  ]
- },
- {
-  "id": "6b4b11d8558c",
-  "created": "2026-11-19T03:51:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-  "headline": "Anthropic IPO-യുടെ വില $83, ലക്ഷ്യ പരിധി മുകളിലായി",
-  "hook": "മാർക്കറ്റ് അസ്ഥിരതയുണ്ടെങ്കിലും, നിക്ഷേപകർ AI-യിൽ വലിയ വിശ്വാസം കാണിക്കുന്നു.",
-  "what": "Anthropic IPO-യുടെ ഓരോ ഷെയറിനും $83 എന്ന വില നിശ്ചയിച്ചു, ഇത് $70‑$78 എന്ന മുൻപരിധിയെക്കാൾ ഉയർന്നതാണ്. ഈ വിലയിടപാട്, Nvidia-യുടെ CEO പുറപ്പെടലിനുശേഷം വ്യവസായത്തിൽ ഉണ്ടായ ആശങ്കകളെ മറികടന്ന്, AI കമ്പനിയിലേക്കുള്ള ശക്തമായ ആവശ്യം കാണിക്കുന്നു.",
-  "why": "ടെക് കരിയർ ആഗ്രഹിക്കുന്ന യുവജനങ്ങൾക്ക്, AI സ്റ്റാർട്ടപ്പുകളിൽ നിക്ഷേപകരുടെ ആത്മവിശ്വാസം തുടരുന്നതായി ഇത് സൂചിപ്പിക്കുന്നു, ഭാവിയിൽ കൂടുതൽ അവസരങ്ങളും ഫണ്ടിംഗും പ്രതീക്ഷിക്കാം.",
-  "tags": [
-   "AI",
-   "IPO",
-   "സ്റ്റാർട്ടപ്പ്",
-   "നിക്ഷേപകർ",
-   "ടെക്"
-  ]
- },
- {
-  "id": "df751380d9ea",
-  "created": "2026-11-19T03:51:12+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-  "headline": "Anduril CEO‑ന് മൂന്ന് ദിവസത്തെ അടിയന്തിര കിറ്റ് നിര്‍ദ്ദേശം",
-  "hook": "ഒരു പ്രമുഖ ടെക് സ്ഥാപകൻ, ഏത് സാഹചര്യത്തിലും തയ്യാറാകാൻ പറയുകയാണ്.",
-  "what": "Anduril സ്ഥാപകനായ Palmer Luckey, എല്ലാ അമേരിക്കക്കാരും മൂന്ന് ദിവസത്തെ ഭക്ഷണം, വെള്ളം, മരുന്ന് എന്നിവയുടെ സ്റ്റോക്ക് ഉണ്ടാക്കണമെന്ന് ചൊല്ലി. ഈ നിർദ്ദേശം അദ്ദേഹം ബുധനാഴ്ച പങ്കുവെച്ചു.",
-  "why": "അപകടം വന്നാൽ കുറച്ച് ദിവസത്തെ സാധനങ്ങൾ ഉണ്ടെങ്കിൽ സുരക്ഷിതമായി നിൽക്കാം; ഇപ്പോൾ തന്നെ ഒരു അടിയന്തിര കിറ്റ് തയ്യാറാക്കുക.",
-  "tags": [
-   "prepper",
-   "അടിയന്തിര",
-   "Anduril",
-   "സ്വയംപര്യാപ്തി",
-   "സുരക്ഷ"
-  ]
- },
- {
-  "id": "1ef7b261d345",
-  "created": "2026-11-19T03:51:15+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/uef-iit-m-join-hands-for-tamil-nadu-growth-conclave-2026-focus-on-10-key-sectors/article71716569.ece",
-  "headline": "UEF, IIT-M ചേർന്ന് 2026 തമിഴ്നാട് ഗ്രോത്ത് കോൺക്ലേവ്",
-  "hook": "പത്ത് പ്രധാന മേഖലകളിൽ വളർച്ചയും തൊഴിൽ അവസരങ്ങളും സൃഷ്ടിക്കാൻ സംസ്ഥാനത്തെ പുതിയ പദ്ധതി.",
-  "what": "University of Economic Forum (UEF)യും Indian Institute of Technology Madras (IIT-M)യും 2026 തമിഴ്നാട് ഗ്രോത്ത് കോൺക്ലേവ് സംഘടിപ്പിക്കാൻ പങ്കാളിത്തം പ്രഖ്യാപിച്ചു. ഈ ഇവന്റ് പത്ത് മുൻഗണനാ മേഖലകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കും.",
-  "why": "വിവിധ മേഖലകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത് വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും പുതിയ അവസരങ്ങൾ നേടാൻ സഹായിക്കും. കോൺക്ലേവ് വഴി ഇന്റേൺഷിപ്പ്, പ്രോജക്റ്റ്, സഹകരണം എന്നിവ പരിശോധിക്കുക.",
-  "tags": [
-   "തമിഴ്നാട്",
-   "വളർച്ച",
-   "IITMadras",
-   "UEF",
-   "യുവാവസരങ്ങൾ"
-  ]
- },
- {
-  "id": "38e640f5c8dc",
-  "created": "2026-11-19T03:51:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Kitco",
-  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE43b3JrcGdsOTVjUndOSjM0NWdzWmQyQ3dibWNBM1h4NVA5N0FlTzBTWGFXMURsUTR5RzVqbktoRVJlM2IzZEd3NVMzV0xFWnlCYU1IVDB1bkcxTzVaYW1ZYzYtem9lQUdmaVF5U0dlcXRicW93c0F3TXJiWHBsbkQtT19kTTg0d3d4aTNIdGJqd3FBUXVQb1ZZNmNOTFNINmJjaDlzUUZKZWdMdWhDYWdLT0lCMDVGNnFz?oc=5",
-  "headline": "ഫെഡ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാൻ പ്രതിജ്ഞാബദ്ധം, സ്വർണം താഴ്ന്ന നിലയിൽ",
-  "hook": "ഫെഡ്‌ മിനിറ്റ്‌സ് സ്വർണ്ണം മർദ്ദത്തിൽ നിലനിർത്തുന്നു.",
-  "what": "ഫെഡറൽ റിസർവിന്റെ യോഗമിനിറ്റ്‌സ്‌ ഇൻഫ്ലേഷൻ കുറയ്ക്കാനുള്ള ശ്രമം തുടരുമെന്ന് സൂചിപ്പിച്ചു. അതിനാൽ സ്വർണ്ണവിലകൾ മർദ്ദത്തിൽ തുടരുന്നു.",
-  "why": "താഴ്ന്ന സ്വർണ്ണവിലകൾ യുവജനങ്ങളുടെ സേവിംഗ്സും നിക്ഷേപവും ബാധിക്കാം. സ്വർണ്ണം വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "സ്വർണം",
-   "ഇൻഫ്ലേഷൻ",
-   "ഫെഡ്",
-   "മാർക്കറ്റ്",
-   "നിക്ഷേപം"
-  ]
- },
- {
-  "id": "e4be984b82dd",
-  "created": "2026-11-19T03:51:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSV9CbEl6amFyOG5RWDJhT3hvcmU0X3NGU0FULW9MQWVLbFR0VlFkaEkzMWpnTUZHOE5DQklYY0VWM2dqUXRJOEVtMm1WNVAyQmtFSW5TRDVTOFZWeGdOWS1xSUpVLXB5Q0s1dWF3NEwwZXRpa2tsSzQyU3lzeXdIUWY4NDJJa3N3ZFdKeU1kUDY5bHJ2UTkyQ3FfZHlCMElBeU41aVZYeFRKWktlZHREX0l5NkZrckQ5ekpjbmVLQng4YjZ6MWc?oc=5",
-  "headline": "മഹാനദി കോൾഫീൽഡ്സ് $245 മില്യൺ ADIA, LIC‑ൽ നിന്ന് IPO ആങ്കർ",
-  "hook": "വലിയ നിക്ഷേപകർ കോൾഫീൽഡ്സിന്റെ IPO‑ക്ക് പിന്തുണ, മാർക്കറ്റിൽ എന്ത് മാറ്റം?",
-  "what": "കോൾ ഇന്ത്യയുടെ ഉപകമ്പനി മഹാനദി കോൾഫീൽഡ്സ്, അബു ധാബി ഇൻവെസ്റ്റ്മെന്റ് അതോറിറ്റി (ADIA)യും ലൈഫ് ഇൻഷുറൻസ് കോർപ്പറേഷൻ (LIC)യും ചേർന്ന് $245 മില്യൺ ആങ്കർ നിക്ഷേപം ഉറപ്പിച്ചു. കമ്പനി IPO വില ബാൻഡ് ₹129‑136 ആയി നിശ്ചയിച്ചു, മൊത്തം ₹9,000 കോടി സമാഹരിക്കാൻ ലക്ഷ്യമിടുന്നു. ആങ്കർ നിക്ഷേപകർ Rs 2,295 കോടി പങ്കുവച്ചു.",
-  "why": "ഇത് ഖനിജ മേഖലയിലെ നിക്ഷേപ ആത്മവിശ്വാസം കാണിക്കുന്നു, സ്റ്റോക്ക് മാർക്കറ്റിൽ പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം. യുവ നിക്ഷേപകർ വരാനിരിക്കുന്ന ലിസ്റ്റിംഗ് ശ്രദ്ധിച്ച്, സാധ്യതയുള്ള നിക്ഷേപം പരിഗണിക്കാം.",
-  "tags": [
-   "MCL",
-   "IPO",
-   "നിക്ഷേപം",
-   "മാർക്കറ്റ്",
-   "ഇന്ത്യ"
   ]
  }
 ]
