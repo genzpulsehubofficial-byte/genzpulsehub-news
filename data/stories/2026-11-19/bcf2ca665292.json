@@ -1,0 +1,39 @@
+{
+ "id": "bcf2ca665292",
+ "created": "2026-11-19T08:16:15+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/da-hike-jharkhand-odisha-3-pc-mizoram-4-pc-govt-dearness-allowance-relief-contract-employees-pensioners-dr-regularise-11795048870397.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Jharkhand, Mizoram, Odisha raise dearness allowance",
+  "hook": "Your govt salary could get a boost this week.",
+  "what": "The governments of Jharkhand, Mizoram and Odisha announced a hike in dearness allowance. The increase applies to eligible government employees as per each state’s rules.",
+  "why": "Higher DA can improve real wages for young civil servants and students with part‑time govt jobs. Check your state’s eligibility to see if you benefit.",
+  "tags": [
+   "dearnessallowance",
+   "salaryrise",
+   "governmentjobs",
+   "Jharkhand",
+   "Mizoram",
+   "Odisha"
+  ]
+ },
+ "ml": {
+  "headline": "ജാർഖണ്ഡ്, മിസോറം, ഒഡീഷ്യാ ഡെയർനെസ് അലവൻസ് വർദ്ധിപ്പിച്ചു",
+  "hook": "നിങ്ങളുടെ സർക്കാർ ശമ്പളത്തിൽ ഈ ആഴ്ച ഒരു കൂട്ടം വർധനവുണ്ടാകാം.",
+  "what": "ജാർഖണ്ഡ്, മിസോറം, ഒഡീഷ്യാ സംസ്ഥാന സർക്കാരുകൾ ഡെയർനെസ് അലവൻസ് വർദ്ധിപ്പിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ഓരോ സംസ്ഥാനത്തിന്റെ നിബന്ധനകൾ പ്രകാരം യോഗ്യരായ സർക്കാർ ജീവനക്കാർക്ക് ഈ വർധനവ് ബാധകമാണ്.",
+  "why": "DA വർധനവിലൂടെ യൗവന സിവിൽ സർവീസ് ജീവനക്കാരുടെയും പാർട്ട്‑ടൈം സർക്കാർ ജോലികളുള്ളവരുടെ യാഥാർത്ഥ്യ ശമ്പളം മെച്ചപ്പെടും. നിങ്ങളുടെ സംസ്ഥാനത്തിന്റെ യോഗ്യതാ മാനദണ്ഡം പരിശോധിച്ച് നിങ്ങൾക്ക് ലഭ്യമാണോ എന്ന് നോക്കുക.",
+  "tags": [
+   "ഡെയർനെസ്‌അലവൻസ്",
+   "ശമ്പളവർധന",
+   "സർക്കാരുജോലി",
+   "ജാർഖണ്ഡ്",
+   "മിസോറം",
+   "ഒഡീഷ്യാ"
+  ]
+ }
+}

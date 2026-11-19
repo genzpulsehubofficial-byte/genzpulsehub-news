@@ -1,0 +1,37 @@
+{
+ "id": "fa788533b57e",
+ "created": "2026-11-19T08:16:13+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/elon-musk-was-asked-if-he-would-hire-jensen-huang-his-response-12346727#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Musk says he'd hire Nvidia CEO if needed",
+  "hook": "Elon Musk’s quick reply fuels talk about tech power‑plays.",
+  "what": "When asked whether he would bring Jensen Huang onto his team, Elon Musk answered that he would definitely do so if the situation called for it.",
+  "why": "The comment highlights Musk’s admiration for top tech leaders and hints at possible future collaborations that could shape the industry for young innovators.",
+  "tags": [
+   "ElonMusk",
+   "JensenHuang",
+   "TechLeadership",
+   "Hiring",
+   "Nvidia"
+  ]
+ },
+ "ml": {
+  "headline": "മസ്‌ക് പറഞ്ഞു, ആവശ്യമുണ്ടെങ്കിൽ നിവിഡിയ സിഇഒയെ നിയമിക്കും",
+  "hook": "എലോൺ മസ്‌കിന്റെ ചുരുക്കം മറുപടി ടെക് ലോകത്തെ ചർച്ചയിലാക്കി.",
+  "what": "ജെൻസൻ ഹുവാങ്ങിനെ തന്റെ ടീമിൽ ചേർക്കുമോ എന്ന് ചോദിക്കുമ്പോൾ, എലോൺ മസ്‌ക് ആവശ്യമുണ്ടെങ്കിൽ തീർച്ചയായും നിയമിക്കുമെന്നു പറഞ്ഞു.",
+  "why": "ഇത് മസ്‌കിന്റെ മികച്ച ടെക് നേതാക്കളോടുള്ള മാന്യത്തെ കാണിക്കുന്നു, ഭാവിയിൽ ഉണ്ടാകാവുന്ന സഹകരണം യുവ സംരംഭകരെ പ്രോത്സാഹിപ്പിക്കും.",
+  "tags": [
+   "എലോൺ",
+   "ജെൻസൻ",
+   "ടെക്",
+   "ഹയർ",
+   "നിവിഡിയ"
+  ]
+ }
+}
