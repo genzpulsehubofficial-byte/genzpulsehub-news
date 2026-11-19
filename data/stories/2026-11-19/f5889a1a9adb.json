@@ -1,0 +1,37 @@
+{
+ "id": "f5889a1a9adb",
+ "created": "2026-11-19T09:21:19+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/musk-felt-pretty-foolish-spending-rs-4-700-crore-on-us-midterms-12346664#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Musk calls Rs 4,700 crore midterm spend 'pretty foolish'",
+  "hook": "Even billionaires can regret political cash outs.",
+  "what": "Elon Musk said he felt pretty foolish after spending about Rs 4,700 crore on the US midterm elections. He added that Republican candidates might have performed worse without that money.",
+  "why": "It shows how large sums can influence foreign politics, reminding young Indians to stay critical about such influence.",
+  "tags": [
+   "Musk",
+   "USmidterms",
+   "politics",
+   "spending",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "മസ്ക് 4,700 കോടി US മിഡ്‌ടേം ചെലവിൽ 'പ്രീട്ടി ഫൂലിയസ്'",
+  "hook": "ബില്യണിയർ പോലും രാഷ്ട്രീയത്തിൽ ചെലവു പിഴവാക്കാം.",
+  "what": "എലോൺ മസ്ക് 4,700 കോടി രൂപ US മിഡ്‌ടേം തിരഞ്ഞെടുപ്പിൽ ചെലവഴിച്ചതിന് ശേഷം താൻ 'പ്രീട്ടി ഫൂലിയസ്' എന്ന് പറഞ്ഞു. റിപ്പബ്ലിക്കൻ സ്ഥാനാർത്ഥികൾക്ക് ആ പണം ഇല്ലാതെ ഫലങ്ങൾ മോശമാകാമായിരുന്നു എന്ന് അദ്ദേഹം പറഞ്ഞു.",
+  "why": "ഇത് വിദേശ രാഷ്ട്രീയത്തിൽ വലിയ പണം എങ്ങനെ സ്വാധീനം ചെലുത്തുന്നു എന്ന് കാണിക്കുന്നു, യുവാക്കൾക്ക് വിവരങ്ങൾ വിമർശനാത്മകമായി നോക്കേണ്ടതിന്റെ പ്രാധാന്യം ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "മസ്ക്",
+   "USmidterms",
+   "രാഷ്ട്രീയം",
+   "ചെലവ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "c5e9d4f657e3",
+ "created": "2026-11-19T09:21:21+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/itat-jaipur-relief-why-a-woman-s-105-day-appeal-delay-was-condoned-and-20-business-expense-disallowance-was-deleted-11795056289344.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT Jaipur lifts penalty for delayed tax appeal, scraps expense block",
+  "hook": "A tax board gave leniency after a family loss, wiping a costly deduction denial.",
+  "what": "The Income Tax Appellate Tribunal in Jaipur accepted a 105‑day delay in a woman's appeal, citing the death of her father‑in‑law as a genuine reason. It also removed a previously imposed 20% disallowance on her business expenses.",
+  "why": "It shows that courts can consider personal hardships when evaluating tax filings, so keeping proper documentation of any genuine delays can help avoid penalties.",
+  "tags": [
+   "tax",
+   "appeal",
+   "Jaipur",
+   "business",
+   "relief"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT Jaipur വൈകിയ നികുതി അപ്പീൽ ശിക്ഷ നീക്കി, ചെലവു നിരാകരണം റദ്ദാക്കി",
+  "hook": "തലമുറവിലെ നഷ്ടം കാരണം നികുതി ബോർഡ് സൌമ്യത കാണിച്ചു, 20% ചെലവു നിരാകരണം ഒഴിവാക്കി.",
+  "what": "ജൈപ്പൂരിലെ ഇൻകം ടാക്സ് അപ്പീൽ ട്രിബ്യൂണൽ ഒരു സ്ത്രീയുടെ 105‑ദിനം വൈകിയ അപ്പീൽ, അവളുടെ സസുരന്റെ മരണം കാരണം, അംഗീകരിച്ചു. കൂടാതെ, അവളുടെ ബിസിനസ് ചെലവുകളിൽ 20% നിരാകരണം റദ്ദാക്കി.",
+  "why": "വ്യക്തിഗത കാരണങ്ങൾ നികുതി പ്രക്രിയയിൽ പരിഗണിക്കപ്പെടാമെന്ന് ഇത് തെളിയിക്കുന്നു; നിങ്ങളുടെ അപേക്ഷകളുടെ വൈകല്യത്തിന് ശരിയായ തെളിവുകൾ സൂക്ഷിക്കുക.",
+  "tags": [
+   "നികുതി",
+   "അപ്പീൽ",
+   "ജൈപ്പൂർ",
+   "ബിസിനസ്",
+   "റിലീഫ്"
+  ]
+ }
+}

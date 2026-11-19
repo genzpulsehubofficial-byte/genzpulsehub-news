@@ -1,0 +1,35 @@
+{
+ "id": "364532bb6dd7",
+ "created": "2026-11-19T09:21:15+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/over-17-000-end-of-life-vehicles-seized-in-delhi-till-nov-2-traffic-police-data-101795057742727.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi police seize over 17,000 old cars, launch scrap drive",
+  "hook": "Your junk car could help clean up the city",
+  "what": "Delhi traffic police have confiscated more than 17,000 end‑of‑life vehicles up to 2 Nov. They have started an \"EOL Vehicles Awareness Mela\" to urge owners to hand over cars to authorised scrapping centres.",
+  "why": "Old, polluting vehicles affect air quality; if you own one, consider surrendering it at a licensed scrap yard.",
+  "tags": [
+   "Delhi",
+   "EOL",
+   "VehicleScrap",
+   "CleanAir"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെല്‍ഹി പോലീസ് 17,000‑ത്തിലധികം പഴയ കാര്‍ പിടിച്ചു, സ്‌ക്രാപ്പ് ക്യാമ്പെയിന്‍ ആരംഭിച്ചു",
+  "hook": "നിങ്ങളുടെ പഴയ കാര്‍ നഗര ശുചിത്വത്തില്‍ പങ്കാളിയാകാം",
+  "what": "ഡെല്‍ഹി ട്രാഫിക് പോലീസ് 2 നവംബര്‍ വരെ 17,000‑ത്തിലധികം ജീവിതം അവസാനിച്ച വാഹനങ്ങള്‍ പിടിച്ചെടുത്തു. \"EOL Vehicles Awareness Mela\" എന്ന പ്രത്യേക ക്യാമ്പെയിന്‍ ആരംഭിച്ച്, ഉടമകളെ അംഗീകൃത സ്‌ക്രാപ്പിംഗ് കേന്ദ്രങ്ങളിലേക്ക് കൈമാറാന്‍ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "why": "പഴയ വാഹനങ്ങള്‍ വായു മലിനീകരണം വര്‍ദ്ധിപ്പിക്കുന്നു; നിങ്ങളുടെ പഴയ കാര്‍ ഉണ്ടെങ്കില്‍ അംഗീകൃത സ്‌ക്രാപ്പിംഗ് കേന്ദ്രത്തില്‍ surrender ചെയ്യുക.",
+  "tags": [
+   "ഡെല്‍ഹി",
+   "EOL",
+   "വാഹനസ്‌ക്രാപ്പ്",
+   "ക്ലീന്‍എയർ"
+  ]
+ }
+}

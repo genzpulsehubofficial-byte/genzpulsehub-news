@@ -1,0 +1,37 @@
+{
+ "id": "0094745696e6",
+ "created": "2026-11-19T09:21:28+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHZWNkk2UzFsdVZGWXhSQzRTNnVsMm56bHktSDZtLUppQmF3QVl2U1BzRVBxV0Z1VDlNWmljb0F5bHBuejdUSWdxdjNsODVQQ21XSEJMbXBBemtQeldJNjJoenlQdlROcl9fR2VFbWJMZENmTkt0NjBadW9qNUhWdll4bF9NV25ZM0hBeTRUbWhHbGNzZFdLa2V0amxyV09VUF91eHJRTDB0RlJoRXU4Snl30gG4AUFVX3lxTE11MHBGQmpiUXpaZ1JCaXVaZEp6THJwNS1IUUw4RlR5MWo3UEVJRFFRbGxMVEpidk1vRGdscDI4cF9jaXpGZHRHNk11RXFqNzB4WW1zLVoxYndaMVM3WldCa3RQd2kwWGw4QVI0UnNiaUR6ZTh1SmVPbFQtWWt1R0p5RHpHZEZaM05zN3Y2cldRNUFlZ1EzYnZWLWswU0FMWUUyckdDSWlrOHlmbENkZ2ttR0lOTWdad2c?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bumrah's spell, NZ duo's fifties shape Test showdown",
+  "hook": "Two NZ batsmen fire back as India’s pacer strikes early wickets.",
+  "what": "India’s Jasprit Bumrah claimed two wickets, reducing New Zealand to 163 for 5 in 54 overs. In response, Tom Nicholls and Michael Phillips each reached fifty, reviving the Kiwi innings.",
+  "why": "The swing in momentum could decide the series; young fans should follow the match for a glimpse of high‑pressure cricket.",
+  "tags": [
+   "india",
+   "newzealand",
+   "testcricket",
+   "cricket",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "ബുമ്രയുടെ സ്പെൽ, ന്യൂസിലാന്റ് ജോടിയുടെ ഫിഫ്റ്റി ടെസ്റ്റ്‌മാച്ച്‌ക്ക് നിറം ചേർത്തു",
+  "hook": "ഇന്ത്യയുടെ പാകർ രണ്ട് വിഹിതം എടുത്തു, രണ്ട് ന്യൂസിലാന്റ് ബാറ്റ്സ്മാൻ ഫിഫ്റ്റി നേടി.",
+  "what": "ജസ്‌പ്രിത്ബുമ്രാ രണ്ട് വീക്ക് എടുത്തു, ന്യൂസിലാന്റ് 54 ഓവറിൽ 163/5 ആയി. അതിന് ശേഷം ടോം നിക്കോൾസ്, മൈക്കൽ ഫിലിപ്സ് ഓരോരുത്തരും ഫിഫ്റ്റി നേടി,innings‑നെ ജീവൻ നൽകി.",
+  "why": "മോംമെന്റം മാറിയതുകൊണ്ട് സീരീസ് ഫലം ബാധിക്കാം; യുവാക്കൾക്ക് ഈ ഉയർന്ന സമ്മർദ്ദമുള്ള ക്രിക്കറ്റ് കാണണം.",
+  "tags": [
+   "india",
+   "newzealand",
+   "testcricket",
+   "cricket",
+   "sports"
+  ]
+ }
+}
