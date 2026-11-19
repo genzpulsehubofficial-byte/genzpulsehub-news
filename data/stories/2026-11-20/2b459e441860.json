@@ -1,0 +1,37 @@
+{
+ "id": "2b459e441860",
+ "created": "2026-11-20T01:03:39+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Suryakumar says lucky Modi meet sparked batting revival",
+  "hook": "A chance chat with the PM reignited his run‑machine.",
+  "what": "India’s T20 star Suryakumar Yadav revealed that a recent meeting with Prime Minister Narendra Modi boosted his confidence. He has started scoring runs again and is eyeing an IPL 2027 title with Mumbai Indians. He also received an Outstanding Achievement Award at the CNN‑News18 IOTY 2026 ceremony.",
+  "why": "Young cricketers can see how confidence and mentorship matter, and fans can follow his comeback for inspiration.",
+  "tags": [
+   "cricket",
+   "Suryakumar",
+   "PMModi",
+   "IPL2027",
+   "form"
+  ]
+ },
+ "ml": {
+  "headline": "സൂര്യകുമാർ പറയുന്നു, മോഡി കൂടിക്കാഴ്ച ബാറ്റിംഗ്‌ തിരിച്ചു കൊണ്ടുവന്നു",
+  "hook": "പ്രധാനമന്ത്രിയുമായി ഒരു ചർച്ച അദ്ദേഹത്തിന്റെ റൺ‑മഷീൻ വീണ്ടും പ്രവർത്തിപ്പിച്ചു.",
+  "what": "ഇന്ത്യയുടെ ടി20 താരമായ സൂര്യകുമാർ യാദവ്, പ്രധാനമന്ത്രിയായ നരേന്ദ്ര മോഡിയുമായി നടത്തിയ കൂടിക്കാഴ്ച അദ്ദേഹത്തിന്റെ ആത്മവിശ്വാസം വർദ്ധിപ്പിച്ചതായി വെളിപ്പെടുത്തി. അദ്ദേഹം വീണ്ടും റൺസ് സ്കോർ ചെയ്യാൻ തുടങ്ങി, മുംബൈ ഇൻഡ്യൻസ്‌ സഹിതം IPL 2027 ചാമ്പ്യൻഷിപ്പ് ലക്ഷ്യമിടുന്നു. കൂടാതെ CNN‑News18 IOTY 2026 ചടങ്ങിൽ അവാർഡ് ലഭിച്ചു.",
+  "why": "യുവ ക്രിക്കറ്റ് കളിക്കാർക്ക് ആത്മവിശ്വാസവും മാർഗ്ഗനിർദ്ദേശവും എത്ര പ്രധാനമെന്ന് ഇത് കാണിക്കുന്നു, ആരാധകർ അദ്ദേഹത്തിന്റെ മടങ്ങിവരവ് പിന്തുടരാം.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "സൂര്യകുമാർ",
+   "മോഡി",
+   "IPL2027",
+   "ഫോം"
+  ]
+ }
+}

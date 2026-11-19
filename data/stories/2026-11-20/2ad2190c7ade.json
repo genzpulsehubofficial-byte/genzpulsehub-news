@@ -1,0 +1,37 @@
+{
+ "id": "2ad2190c7ade",
+ "created": "2026-11-20T01:03:29+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic IPO could funnel $156 bn to charity",
+  "hook": "An AI startup’s stock debut may fund billions for good causes",
+  "what": "Anthropic is set to list shares at $95 each. The company’s Public Benefit Foundation, together with employee contributions and a corporate match, could direct $156 billion toward charitable projects.",
+  "why": "Such a huge pool can back initiatives in education, climate and tech access that matter to Gen Z. If impact investing interests you, watch the IPO closely.",
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "Charity",
+   "Tech",
+   "Impact"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic IPO‑യിൽ 156 ബില്യൺ ചാരിറ്റി",
+  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ ലിസ്റ്റിംഗ്, ലക്ഷക്കണക്കിന് രൂപ ചാരിറ്റിക്കായി",
+  "what": "Anthropic $95 വിലയിൽ IPO നടത്താൻ പോകുന്നു. കമ്പനി, ജീവനക്കാരുടെ സംഭാവനകൾ, പൊതു ലാഭ ഫൗണ്ടേഷൻ എന്നിവ ചേർന്ന് 156 ബില്യൺ ഡോളർ ചാരിറ്റിയിലേക്ക് നൽകും.",
+  "why": "ഇത് വിദ്യാഭ്യാസം, പരിസ്ഥിതി, ടെക് ആക്‌സസ് തുടങ്ങിയ മേഖലകളിൽ വലിയ സ്വാധീനം ചെലുത്താം. നിങ്ങൾക്ക് ഇംപാക്ട് ഇൻവെസ്റ്റ്മെന്റ് താല്പര്യമുണ്ടെങ്കിൽ IPO ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "ചാരിറ്റി",
+   "ടെക്",
+   "ഇംപാക്ട്"
+  ]
+ }
+}

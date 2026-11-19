@@ -1,5 +1,117 @@
 [
  {
+  "id": "8f5033e7f134",
+  "created": "2026-11-20T01:02:25+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/resignation-not-admission-of-wrongdoing-i-am-innocent-justice-varma-tells-lok-sabha-secretariat-101795115727274.html",
+  "headline": "Justice Varma Declares Resignation Not Admission of Guilt",
+  "hook": "He insists he's innocent despite stepping down.",
+  "what": "Justice Varma told the Lok Sabha secretariat that his resignation does not mean he did anything wrong. He affirmed his innocence in the matter.",
+  "why": "For youths, it shows that leaving a post isn’t automatically a sign of misconduct. Staying aware of such statements helps understand public trust issues.",
+  "tags": [
+   "justice",
+   "resignation",
+   "politics",
+   "india",
+   "LokSabha"
+  ]
+ },
+ {
+  "id": "2ad2190c7ade",
+  "created": "2026-11-20T01:03:29+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+  "headline": "Anthropic IPO could funnel $156 bn to charity",
+  "hook": "An AI startup’s stock debut may fund billions for good causes",
+  "what": "Anthropic is set to list shares at $95 each. The company’s Public Benefit Foundation, together with employee contributions and a corporate match, could direct $156 billion toward charitable projects.",
+  "why": "Such a huge pool can back initiatives in education, climate and tech access that matter to Gen Z. If impact investing interests you, watch the IPO closely.",
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "Charity",
+   "Tech",
+   "Impact"
+  ]
+ },
+ {
+  "id": "7b24f4a2b978",
+  "created": "2026-11-20T01:03:31+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/set-aside-differences-and-oppose-mekedatu-dam-says-tncc-president/article71720861.ece",
+  "headline": "TNCC chief calls for united stand against Mekedatu dam",
+  "hook": "A Tamil Nadu leader wants you to question a big dam plan",
+  "what": "The president of the Tamil Nadu Congress Committee urged people to set aside political differences and oppose the Mekedatu dam project. He also asked why Prime Minister Narendra Modi stayed silent when Karnataka Chief Minister D.K. Shivakumar praised the project in his presence.",
+  "why": "The dam could impact water resources and regional politics, so staying informed helps young Indians understand environmental and inter‑state issues. Follow updates and discuss with peers.",
+  "tags": [
+   "Mekedatu",
+   "TamilNadu",
+   "Karnataka",
+   "WaterIssues",
+   "YouthVoice"
+  ]
+ },
+ {
+  "id": "5ac8230076f5",
+  "created": "2026-11-20T01:03:34+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "India Today",
+  "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbUx1c0hILU9JZWR6WEk1ZUVyLWdwbVBCc1BpYlJyRU81U014MGpPWnd6ckZtYnE3R0hTamR2cEUxLWlJc1Jmd2Y5WG1la2Jsc2VfUFA2bEE0MTl1WmlpYVl5R1JxcVc0RkdxQzVqdWdFZWJOZG5JOFBUVGhwRFNmREtCNkM4SFFKWndZbWFka0lsS2liNG9fVkI1aTAtVDI0NGNmejhxblQtX2Q0YW4zZy1xNF9xLUl3Si1vcjdBSDVXQXNObVJHdjRuZG10RWJMdmNQcU45Si1GWWV5ZF9zQ05nd3phb2tZRndIU2VLbTNmSzRvb2RkdNIB_gFBVV95cUxNSERDcndibjNaTmtHWTZyOG13eWNULWQxd3ZOOU1wNGFrTUllcjJsNW1jdXlGRlFjanBuSXIxZUV0Sl90SnBGMVlJcERlSVI4MnFwSWRiQnFnUzVUQXlvbFRfdkl3NWxER2ViYmFSbkJ5ZTdiSUdBYmdjWWY0THhhTmhNekxoTTJkekhBWGJGbC02NW1iNFlES2xiei1oOVd6SUs3Rk9uZlQxZFFtTy1mU3NfSDEtVy0zZDg2QTVPY0s5Ty1uOGFKMGZDLU9JTDk2b3VqU3Q0UHVaNnBpb1E3andCd3hOTTkxRnRjZWR4QTF3LV9PUElnU1VmWllhQQ?oc=5",
+  "headline": "TVS heir Laksmi Venu files claim on family assets",
+  "hook": "The Srinivasan family's boardroom battle now hits the news.",
+  "what": "Laksmi Venu, daughter of TVS Group founder Venu Srinivasan, has filed a claim to partition the family’s stakes in TVS companies. Senior lawyers Sibal and Singhvi have commented on the dispute.",
+  "why": "The case highlights challenges in family‑run businesses and may affect the future of a major Indian conglomerate, impacting jobs and the market for young Indians.",
+  "tags": [
+   "TVS",
+   "familybusiness",
+   "inheritance",
+   "India"
+  ]
+ },
+ {
+  "id": "125d0c1c5a98",
+  "created": "2026-11-20T01:03:36+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Exchange4Media",
+  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEI1Mm4wUjJPbjVNZHlHWjJlZmw1SWdBREJoZFdNejlhd3JDMU9wRUJ3UEh0ZkNJQS1JYWpzeXctbjRkVTdRcVpFdTNjNjJIT3R3bmRkdTV5TjBYWTl4VWJSUi1MdTJuaXJGWjI1N0hJblZyam5jd0JFMHB2Ull2OFNrUnpoS0QtYmVzdXdFMlMzbVFIaUNIbjhDMERBRmN3RUhmYUYyXzBwRzEtNGtuWUJUODRoMk5sV0FpS2lvSFFNT0xFa21Ga0hhM1FHMENTNGdlNjBBX3NHZjhGYzlPMWpBcVZKdHc?oc=5",
+  "headline": "The Indian Express' Ritika Chopra makes TIME100 Next India 2026",
+  "hook": "A young journalist lands a spot on TIME's elite list",
+  "what": "Ritika Chopra, a reporter for The Indian Express, has been named to the TIME100 Next India 2026 list. The list spotlights emerging Indian leaders and innovators.",
+  "why": "Her inclusion shows Indian youth can earn global recognition in media. It encourages aspiring writers to pursue impactful journalism.",
+  "tags": [
+   "TIME100",
+   "IndianExpress",
+   "journalism",
+   "youngleaders"
+  ]
+ },
+ {
+  "id": "2b459e441860",
+  "created": "2026-11-20T01:03:39+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
+  "headline": "Suryakumar says lucky Modi meet sparked batting revival",
+  "hook": "A chance chat with the PM reignited his run‑machine.",
+  "what": "India’s T20 star Suryakumar Yadav revealed that a recent meeting with Prime Minister Narendra Modi boosted his confidence. He has started scoring runs again and is eyeing an IPL 2027 title with Mumbai Indians. He also received an Outstanding Achievement Award at the CNN‑News18 IOTY 2026 ceremony.",
+  "why": "Young cricketers can see how confidence and mentorship matter, and fans can follow his comeback for inspiration.",
+  "tags": [
+   "cricket",
+   "Suryakumar",
+   "PMModi",
+   "IPL2027",
+   "form"
+  ]
+ },
+ {
   "id": "4ba8561313c5",
   "created": "2026-11-19T23:49:02+05:30",
   "category": "health",
@@ -640,120 +752,6 @@
    "Mumbai",
    "Esports",
    "Weekend"
-  ]
- },
- {
-  "id": "168e75895e7d",
-  "created": "2026-11-19T17:08:36+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/crime/ariyil-shukkoor-murder-case-life-imprisonment-for-7-convicts-including-prime-accused-sumesh-igspn3qz",
-  "headline": "Seven convicted, including Sumesh, get life in Ariyil Shukkoor murder",
-  "hook": "Ernakulam court denies death sentence, opts for life term",
-  "what": "A special CBI court in Ernakulam sentenced seven people, including prime accused Sumesh, to life imprisonment for the 2012 murder of Ariyil Shukkoor in Kannur. The court rejected the prosecution’s request for the death penalty.",
-  "why": "The verdict ends a long‑running case, showing that serious crimes may result in life terms rather than death, reminding youths of legal consequences of violent actions.",
-  "tags": [
-   "Kerala",
-   "court",
-   "lifeimprisonment",
-   "crime",
-   "CBI"
-  ]
- },
- {
-  "id": "9b32c8aef047",
-  "created": "2026-11-19T17:08:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfo-approves-swp-for-pf-subscribers-can-you-now-withdraw-your-retirement-savings-monthly-instead-of-taking-a-lump-sum-11795085001792.html",
-  "headline": "EPFO introduces monthly PF withdrawal option",
-  "hook": "Now retirees can get their pension in parts, not all at once.",
-  "what": "The Employees’ Provident Fund Organisation has approved a Systematic Withdrawal Plan. It lets members pull out their retirement savings in regular installments rather than a single lump sum.",
-  "why": "This gives young workers smoother cash flow after retirement and more flexibility in financial planning.",
-  "tags": [
-   "EPFO",
-   "PF",
-   "SWP",
-   "retirement",
-   "finance"
-  ]
- },
- {
-  "id": "1ff4d2b8225f",
-  "created": "2026-11-19T17:08:40+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "www.iifa.com",
-  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3ZOclh3cmtZTlkyN2VEWHNvUGE0VFJRRGNjc1lYcW9nYTdUZnJtUHVlT2ZOYnMzSDNZcVFxdnhlRFBJaWdIWXRWYTVKSUJIQWE1bGFjX1ctb0tMUE1Kb0pDSEJ5RjU3UmdmME9oS3M2RTRta0ZCemlGTFNTdWdrTy1tN0FuU2xLbE8waTR1TGtQVkF3VEhPSzBCT2w4Nm1JeFZPazdrYjZWNWJsX0NGelpidmZrS3lTcF9YYjdPcVg4Q1lFUFRVa05VcmhEZHlpQWVjdnNR?oc=5",
-  "headline": "Vvaan fantasy thriller starring Sidharth and Tamannaah streams on Prime Video",
-  "hook": "Your next binge‑watch fantasy adventure is arriving soon.",
-  "what": "The film Vvaan, a fantasy thriller featuring Sidharth Malhotra and Tamannaah Bhatia, will be released on the OTT platform Prime Video. It is now scheduled for streaming.",
-  "why": "Young viewers can watch the new Indian fantasy on a popular streaming service, so they can add it to their watchlist.",
-  "tags": [
-   "Vvaan",
-   "Sidharth",
-   "Tamannaah",
-   "PrimeVideo",
-   "Fantasy"
-  ]
- },
- {
-  "id": "e6250624d2fd",
-  "created": "2026-11-19T16:10:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/epfo-to-cut-minimum-pf-balance-requirement-to-10-per-cent-from-25-per-cent-what-it-means-11795080953423.html",
-  "headline": "EPFO slashes PF minimum balance to 10%",
-  "hook": "Your retirement fund can stay thinner, but stay safe.",
-  "what": "The Employees’ Provident Fund Organisation approved a change that reduces the required minimum balance in PF accounts from a quarter of the total to just one‑tenth. This applies to all current subscribers.",
-  "why": "For young workers, it means less money locked up and more flexibility in managing cash flow, though maintaining a healthy balance remains important.",
-  "tags": [
-   "PF",
-   "EPFO",
-   "finance",
-   "youth",
-   "savings"
-  ]
- },
- {
-  "id": "2e663b74fdc3",
-  "created": "2026-11-19T16:11:56+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSEJQUThSZTlJbC1YTUVtVlZ5WEdCMnl5dWtpbms3VDYxYzl3eWtvQWNLQk1lcmtXdXp2NEp2T2U2aVQ5RjUyNEFRZFZpYmRyYkJzbG9zWVAtUTF3N3gyLTY3VHJFNWVZekQ5QXNaZ1lDYmtPY3BZN1MwNzM4N3pTejBpMGVoSmhWTUtNc0JjTWhRM1NReWJjaHlJS0RDOWFIMmxpS3d1dHZNUEg5eXo0TWpHalE5a3htQ2hFSE5WSEZKYnY2NDkxd1k0ZW5ndnFTTlZTRzJNVkJjaG84ekRpVVBDSzFMOGhTclpXTlNWcU9hZnEtRWpkSDFn0gGAAkFVX3lxTE50emo1MkpVdGdKVG5SZ0VyNm5LaWpMMGJoUUYtY2M0elg4eHVJck1uT3gyR0MtNUdEUEZCWGhZeHp6eHY4a0lubUNkSmYxMXJmay10LVk5ZUZ4WjkyNS0zRXV3VkltbExHQVloVHFrakhheENsbVB1anItd1VlbjhTSFlBLXI4cGVMOHdjSFBZNmNsT3BhQnVPNjkwYktuanFRTFFUUTQ4XzJFQWhCV3Z1MW9SYmJ2S1hDYmdaeHJwdEs1d3pBYlpCdHpENWdQaHh4N3NielYxUFdZc3JOTnZtNTR5aF94dkpDYmtoeTR1YTFERmFhNDcyWVFJeUlhY1g?oc=5",
-  "headline": "Cyclone Akvan prompts mass evacuations across Odisha and Andhra",
-  "hook": "Over 100,000 people moved as the storm nears the coast.",
-  "what": "More than a lakh residents were shifted to safety in Odisha, with about 50,000 moved as the cyclone changed direction. Authorities expect landfall near Gopalpur on Nov 20 and have issued a red alert for three districts in Andhra Pradesh. Several districts in West Bengal are under heavy‑rain warnings, and Kolkata saw showers overnight.",
-  "why": "The massive relocation shows the severity of the storm, urging teens to stay updated on weather alerts and avoid travel in affected areas.",
-  "tags": [
-   "cyclone",
-   "Odisha",
-   "Andhra",
-   "Bengal",
-   "weather"
-  ]
- },
- {
-  "id": "069ebbe420f7",
-  "created": "2026-11-19T16:11:59+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/business-news/explained-epfo-approves-systematic-withdrawal-plan-what-it-means-for-your-provident-fund-12348944#publisher=newsstand",
-  "headline": "EPFO Introduces Regular PF Withdrawal Option for Retirees",
-  "hook": "Your future PF can now act like a monthly paycheck.",
-  "what": "The Employees’ Provident Fund Organisation has cleared a systematic withdrawal plan. Retirees will be able to receive a steady stream of money from their PF balance. The scheme lets them schedule regular payouts.",
-  "why": "It gives seniors a predictable income without breaking the lump sum. Young people should note this option when planning long‑term savings for family elders.",
-  "tags": [
-   "EPFO",
-   "ProvidentFund",
-   "Retirement",
-   "Finance",
-   "India"
   ]
  }
 ]
