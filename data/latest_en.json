@@ -1,5 +1,119 @@
 [
  {
+  "id": "c069a66ffad2",
+  "created": "2026-11-20T23:10:38+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-weakens-after-landfall-near-gopalpur-heavy-rain-in-srikakulam/article71725248.ece",
+  "headline": "Cyclone Akvan dumps heavy rain on Srikakulam",
+  "hook": "Rainstorms hit Srikakulam as Cyclone Akvan moves in",
+  "what": "Cyclone Akvan brought heavy rainfall to Srikakulam district. The downpours caused waterlogging in several areas.",
+  "why": "Stay updated on weather alerts and avoid travel in the affected zones.",
+  "tags": [
+   "cyclone",
+   "Srikakulam",
+   "rain",
+   "weather",
+   "India"
+  ]
+ },
+ {
+  "id": "e337d9b71ec9",
+  "created": "2026-11-20T23:10:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/nia-seeks-uae-documents-permission-to-question-individuals-in-flydubai-hijacking-attempt-probe-101795190735230.html",
+  "headline": "NIA requests UAE docs, interview rights in Flydubai hijack probe",
+  "hook": "India’s top spy agency is chasing clues from the UAE on a plane scare.",
+  "what": "The National Investigation Agency said it has asked the United Arab Emirates for relevant documents. It also seeks permission to question people there about the September 30 incident involving a Flydubai aircraft.",
+  "why": "Understanding the probe shows how cross‑border cooperation tackles security threats that could affect air travel. Stay updated on travel safety updates.",
+  "tags": [
+   "NIA",
+   "UAE",
+   "Flydubai",
+   "investigation",
+   "security"
+  ]
+ },
+ {
+  "id": "3b4ab522aac7",
+  "created": "2026-11-20T23:10:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Yahoo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTF6ZkNDaUY2bEFzcFhUYTVGVUE3N2NHR0ptWk9GUm8zWk8yZ29qZlV1eUNiWFJwLXNfd2o1YktkazROZlhvbk81UWNLeHNZSVRhcU0wSnVUa3d1b1lYNUkxNl9mclVJOFBJRW9IckpFbU9NeEk0M0NRcGRPLThISm1XZVdHNWlWVm5RSFdLVzhFTEYtUVpDWlVyNzd0N29pVkE1SGkwa0xZVFdVR0RDb19vTXRJbk9WODZoNkxFRXZMcVRMTUZUSw?oc=5",
+  "headline": "Apple builds its own AI agent to challenge rivals",
+  "hook": "Apple’s tech chief steps into the AI showdown.",
+  "what": "Apple is hiring engineers to develop a proprietary AI assistant that could go up against platforms such as OpenAI and Anthropic. John Ternus is now actively involved in the project.",
+  "why": "A home‑grown AI could influence how Indian teens use Macs and iPhones, so watch for upcoming features.",
+  "tags": [
+   "Apple",
+   "AI",
+   "tech",
+   "innovation",
+   "Mac"
+  ]
+ },
+ {
+  "id": "2ede9796ebfe",
+  "created": "2026-11-20T23:10:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+  "headline": "Bending Spoons snaps up Mailchimp for $3.68B",
+  "hook": "The popular email tool is changing owners at a steep discount.",
+  "what": "Italian app maker Bending Spoons announced it has bought Mailchimp for $3.68 billion. Mailchimp was previously sold to Intuit in 2021 for about $12 billion. The new deal marks a much lower purchase price.",
+  "why": "A cheaper acquisition could mean fresh features or pricing tweaks for students and creators who rely on Mailchimp for newsletters. Keep an eye on any updates that might affect your email campaigns.",
+  "tags": [
+   "Mailchimp",
+   "BendingSpoons",
+   "TechDeal",
+   "Startups",
+   "EmailMarketing"
+  ]
+ },
+ {
+  "id": "ab7485808925",
+  "created": "2026-11-20T23:10:57+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/blame-it-on-sales-targets-not-branch-decisions-rbi-dy-governor-murmu-explains-how-financial-mis-selling-starts-11795184274656.html",
+  "headline": "RBI says sales targets drive financial mis‑selling",
+  "hook": "Your bank might push products just to hit numbers.",
+  "what": "RBI Deputy Governor Murmu said that mis‑selling of financial products is linked to sales targets rather than branch decisions. He urged banks to review pay structures to see if they push staff to sell or reward suitable solutions.",
+  "why": "Young consumers should scrutinise bank offers and ensure advice fits their needs. Banks need to align incentives with customer welfare.",
+  "tags": [
+   "finance",
+   "banking",
+   "RBI",
+   "youth",
+   "consumer"
+  ]
+ },
+ {
+  "id": "e931d064943c",
+  "created": "2026-11-20T23:10:59+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
+  "headline": "Aakasamlo Oka Tara draws cheers on opening day",
+  "hook": "A fresh Telugu drama starring Dulquer is making waves.",
+  "what": "The movie premiered on November 20 and saw box‑office earnings on its first day. Critics highlighted Dulquer Salmaan and Satvika Veeravalli’s performances.",
+  "why": "Young audiences looking for hopeful stories may want to catch it in theatres soon.",
+  "tags": [
+   "TeluguCinema",
+   "DulquerSalmaan",
+   "AakasamloOkaTara",
+   "BoxOffice",
+   "GenZWatch"
+  ]
+ },
+ {
   "id": "f7ecabcf87ab",
   "created": "2026-11-20T22:10:43+05:30",
   "category": "tech",
@@ -638,119 +752,6 @@
    "nifty",
    "investing",
    "youthfinance"
-  ]
- },
- {
-  "id": "579ac3f5172e",
-  "created": "2026-11-20T15:55:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/laptops/news/asus-dell-hp-lenovo-nvidia-rtx-spark-laptops-showcase-india-launch-12353976",
-  "headline": "Nvidia RTX Spark AI laptops with 128GB memory unveiled in India",
-  "hook": "Your next gaming or study laptop could soon have AI power.",
-  "what": "Nvidia displayed RTX Spark AI laptops featuring 128GB unified memory at an event in India. The Lenovo Yoga Pro 9 equipped with the RTX Spark N1X chip was part of the showcase.",
-  "why": "The high‑end specs can speed up AI tasks and gaming for students and creators. Watch for upcoming releases if you need powerful performance.",
-  "tags": [
-   "Nvidia",
-   "AI laptops",
-   "Lenovo",
-   "TechIndia",
-   "Gaming"
-  ]
- },
- {
-  "id": "25065141ec5c",
-  "created": "2026-11-20T15:55:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853",
-  "headline": "Redmi R80 & R80m 5G specs, prices unveiled",
-  "hook": "New budget 5G phones hit Indian market soon",
-  "what": "Redmi has listed the R80 5G and R80m 5G, revealing their prices and specifications. Both models run on MediaTek Dimensity 6300 chipset. The R80m 5G comes in two RAM and storage variants.",
-  "why": "These affordable 5G devices give Gen Z faster connectivity for gaming and streaming without breaking the bank. Check the specs before deciding.",
-  "tags": [
-   "Redmi",
-   "5G",
-   "budgetphone",
-   "MediaTek",
-   "tech"
-  ]
- },
- {
-  "id": "200ef45bbf44",
-  "created": "2026-11-20T14:45:54+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTmt5Y0V3dWEzRWVmYlRQY1A5RmlBTDBQRWNRTVg2ZkxjVjlIQnpfT3B6dDNDaDlibmJQdEEybm5SeFZjX0lUQV9qWmRRSDdteHItNGNoTmFhT2hmQ0tUcnlqa05WVXp6Wk1MeEZMUmYyTEhkWk9qSXRwaTE3WHlZM0Z5a3FNbGFmNUw5WUtmTXdxYXU0U3lBR2xSb1BnNVF5amNEbUdsVHVzR2RWRS1KV05wNXQwQzl6azBrckJiTlF1dndCdE5XS3ctVlk0SzF2RHRPc1V6bkZyUzlTenI5akI5M3JBME1wQTlPRzloYjZTZVJfM2fSAfwBQVVfeXFMTldNY1lYU3JjWUh2SV9NVE5WeDJDd2pDVGJOdTNFYWdEVUIxdHN2RUxVMi1qa0hMRVQ5aHNSaUlkbTV6a2MtckFEaUdkdGdJU3F3LWg0WkZhMU5YdDRLclE1UVpndU11cE9lWTdKSzVKQnA0cFA3eWJvTU5LcnYtdDBVYk1HTlIySjl0WVZOQ2gxblRPbU1saUp4U1h4ZUhkNEJzQmpqdFctOUNsWnpiNW5uQl8wT1dGNzFqRGl2TTB6SFkyVFNReWF3VzJ3bTBVX0o5MnZTa0pYRl9nWUQxOTB5YTA1ZVQwWHUtNlRINUFJMWtRZFhLWGV4bDBu?oc=5",
-  "headline": "Supreme Court rejects Tamil Nadu's request for extra Cauvery water",
-  "hook": "The water battle continues with no new orders from the court.",
-  "what": "The Supreme Court turned down Tamil Nadu's petitions that asked for a direction to Karnataka to release an additional 11 TMC of Cauvery water. The pleas sought a court‑ordered increase in the river flow.",
-  "why": "The ruling keeps the existing water sharing arrangement unchanged, affecting farming and daily use in Tamil Nadu. Young people should stay aware of how water policies impact their communities.",
-  "tags": [
-   "Cauvery",
-   "WaterDispute",
-   "SupremeCourt",
-   "TamilNadu",
-   "Karnataka"
-  ]
- },
- {
-  "id": "30eabfa75381",
-  "created": "2026-11-20T14:46:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/odisha-assembly-adjourned-till-nov-23-morning-due-to-cyclone-akvan-101795163112963.html",
-  "headline": "Odisha Assembly pauses till Nov 23 as Cyclone Akvan hits",
-  "hook": "Lawmakers are stepping back to help cyclone victims.",
-  "what": "The Odisha Legislative Assembly has been adjourned until the morning of November 23 because of Cyclone Akvan. During the session, officials said legislators will support relief efforts for those affected.",
-  "why": "The suspension shows the severity of the storm and the need for community help. Teens can stay updated on safety measures and volunteer or donate if possible.",
-  "tags": [
-   "Odisha",
-   "CycloneAkvan",
-   "Assembly",
-   "Relief",
-   "Youth"
-  ]
- },
- {
-  "id": "54570863a2ce",
-  "created": "2026-11-20T14:46:07+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hm-chennithala-urges-centre-amend-juvenile-justice-act-ptio2ubb2t9",
-  "headline": "Kerala Minister asks Centre to tighten Juvenile Justice law",
-  "hook": "Rising teen crimes push lawmakers for stricter rules",
-  "what": "Kerala Home Minister Ramesh Chennithala sent a letter to the central government requesting changes to the Juvenile Justice Act. He said the move is needed because violent offenses by minors are increasing.",
-  "why": "If laws become stricter, young people may face tougher penalties, highlighting the need for responsible behavior. Stay aware of legal changes that could affect you.",
-  "tags": [
-   "Kerala",
-   "JuvenileJustice",
-   "YouthCrime",
-   "Law"
-  ]
- },
- {
-  "id": "85449f0868d6",
-  "created": "2026-11-20T14:46:09+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
-  "headline": "DSP Mutual Fund to Boost Gold & Silver in Omni Fund",
-  "hook": "Precious metal exposure getting a lift for investors.",
-  "what": "DSP Mutual Fund said it will slowly increase its gold and silver positions in the Multi Asset Omni Fund of Funds. The fund had been holding less of these metals. The increase will follow a set of predefined rules.",
-  "why": "Young investors may see more diversification and a potential hedge against inflation. Keep an eye on the fund’s updates if you’re considering mutual fund options.",
-  "tags": [
-   "DSP",
-   "Gold",
-   "Silver",
-   "MutualFund",
-   "Investing"
   ]
  }
 ]

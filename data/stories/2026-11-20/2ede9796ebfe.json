@@ -1,0 +1,37 @@
+{
+ "id": "2ede9796ebfe",
+ "created": "2026-11-20T23:10:54+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bending Spoons snaps up Mailchimp for $3.68B",
+  "hook": "The popular email tool is changing owners at a steep discount.",
+  "what": "Italian app maker Bending Spoons announced it has bought Mailchimp for $3.68 billion. Mailchimp was previously sold to Intuit in 2021 for about $12 billion. The new deal marks a much lower purchase price.",
+  "why": "A cheaper acquisition could mean fresh features or pricing tweaks for students and creators who rely on Mailchimp for newsletters. Keep an eye on any updates that might affect your email campaigns.",
+  "tags": [
+   "Mailchimp",
+   "BendingSpoons",
+   "TechDeal",
+   "Startups",
+   "EmailMarketing"
+  ]
+ },
+ "ml": {
+  "headline": "Bending Spoons Mailchimp‑നെ $3.68 ബില്യൺക്ക് വാങ്ങി",
+  "hook": "പ്രചാരത്തിലുള്ള ഇമെയിൽ ടൂൾ വലിയ വിലക്കുറവിൽ പുതിയ ഉടമയിലേക്ക് മാറുന്നു.",
+  "what": "ഇറ്റാലിയൻ ആപ്പ് ഡെവലപ്പർ Bending Spoons Mailchimp‑നെ $3.68 ബില്യൺക്ക് വാങ്ങിയതായി പ്രഖ്യാപിച്ചു. Mailchimp 2021‑ൽ Intuit‑ക്ക് ഏകദേശം $12 ബില്യൺക്ക് വിറ്റു. ഈ പുതിയ ഡീൽ മുൻവിലയേക്കാൾ വളരെ കുറഞ്ഞതാണ്.",
+  "why": "വിലക്കുറവ് വിദ്യാർത്ഥികളും ചെറു ക്രിയേറ്റർമാരും ഉപയോഗിക്കുന്ന Mailchimp‑ന്റെ ഫീച്ചറുകൾ അല്ലെങ്കിൽ വിലയിൽ മാറ്റം വരുത്താൻ ഇടയാക്കാം. നിങ്ങളുടെ ന്യൂസ്‌ലറ്റർ ക്യാമ്പെയ്‌നുകൾക്ക് എന്തെങ്കിലും അപ്ഡേറ്റ് ഉണ്ടോ എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Mailchimp",
+   "BendingSpoons",
+   "TechDeal",
+   "Startups",
+   "EmailMarketing"
+  ]
+ }
+}

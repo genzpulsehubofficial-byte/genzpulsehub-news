@@ -1,0 +1,37 @@
+{
+ "id": "3b4ab522aac7",
+ "created": "2026-11-20T23:10:52+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Yahoo Finance",
+ "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTF6ZkNDaUY2bEFzcFhUYTVGVUE3N2NHR0ptWk9GUm8zWk8yZ29qZlV1eUNiWFJwLXNfd2o1YktkazROZlhvbk81UWNLeHNZSVRhcU0wSnVUa3d1b1lYNUkxNl9mclVJOFBJRW9IckpFbU9NeEk0M0NRcGRPLThISm1XZVdHNWlWVm5RSFdLVzhFTEYtUVpDWlVyNzd0N29pVkE1SGkwa0xZVFdVR0RDb19vTXRJbk9WODZoNkxFRXZMcVRMTUZUSw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple builds its own AI agent to challenge rivals",
+  "hook": "Apple’s tech chief steps into the AI showdown.",
+  "what": "Apple is hiring engineers to develop a proprietary AI assistant that could go up against platforms such as OpenAI and Anthropic. John Ternus is now actively involved in the project.",
+  "why": "A home‑grown AI could influence how Indian teens use Macs and iPhones, so watch for upcoming features.",
+  "tags": [
+   "Apple",
+   "AI",
+   "tech",
+   "innovation",
+   "Mac"
+  ]
+ },
+ "ml": {
+  "headline": "Apple സ്വന്തം AI ഏജന്റ് നിർമ്മിച്ച് മത്സരത്തിന് തയ്യാറാകുന്നു",
+  "hook": "Apple‑ന്റെ ടെക് ചീഫ് AI പോരാട്ടത്തില്‍ കടക്കുന്നു",
+  "what": "Apple OpenAI, Anthropic പോലുള്ളവയെതിരെ മത്സരിക്കാന്‍ സ്വന്തം AI സഹായി വികസിപ്പിക്കാന്‍ എഞ്ചിനീയർമാരെ നിയമിക്കുന്നു. John Ternus ഇപ്പോള്‍ ഈ പദ്ധതിയില്‍ സജീവമാണ്.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവാക്കള്‍ക്ക് Mac, iPhone ഉപയോഗം മാറ്റാം, പുതിയ ഫീച്ചറുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "technology",
+   "innovation",
+   "Mac"
+  ]
+ }
+}

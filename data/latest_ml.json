@@ -1,5 +1,119 @@
 [
  {
+  "id": "c069a66ffad2",
+  "created": "2026-11-20T23:10:38+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-weakens-after-landfall-near-gopalpur-heavy-rain-in-srikakulam/article71725248.ece",
+  "headline": "സൈക്ക്ലോണ്‍ ആക്വാന്‍ സ്രികാകുലം പ്രദേശം നിറഞ്ഞു",
+  "hook": "ആക്വാന്‍ കൊണ്ടുള്ള കനത്ത മഴ സ്രികാകുലത്തില്‍ വീഴുന്നു",
+  "what": "സൈക്ക്ലോണ്‍ ആക്വാന്‍ സ്രികാകുലം ജില്ലയില്‍ കനത്ത മഴവെള്ളം വീഴ്ത്തി. പല പ്രദേശങ്ങളിലും വെള്ളപ്പൊക്കം ഉണ്ടായി.",
+  "why": "കാലാവസ്ഥാ മുന്നറിയിപ്പുകള്‍ പരിശോധിച്ച്, ബാധിത പ്രദേശങ്ങളിലേക്കുള്ള യാത്ര ഒഴിവാക്കുക.",
+  "tags": [
+   "സൈക്ക്ലോണ്‍",
+   "സ്രികാകുലം",
+   "മഴ",
+   "കാലാവസ്ഥ",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "e337d9b71ec9",
+  "created": "2026-11-20T23:10:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/nia-seeks-uae-documents-permission-to-question-individuals-in-flydubai-hijacking-attempt-probe-101795190735230.html",
+  "headline": "NIA UAE ഡോക്യുമെന്റുകൾ, ചോദനാവകാശം Flydubai ഹൈജാക്ക് അന്വേഷണം",
+  "hook": "ഇന്ത്യയുടെ പ്രധാന അന്വേഷണ ഏജൻസി, UAE‑യിൽ നിന്ന് വിവരങ്ങൾ തേടുന്നു.",
+  "what": "NIA യു.എ.ഇ.യിൽ നിന്ന് ബന്ധപ്പെട്ട രേഖകൾക്കും, സെപ്റ്റംബർ 30‑ലെ Flydubai സംഭവത്തെക്കുറിച്ച് ആളുകളോട് ചോദിക്കാൻ അനുമതിയും ആവശ്യപ്പെട്ടിട്ടുണ്ട്.",
+  "why": "ഇത്തരത്തിലുള്ള അന്തർദേശീയ സഹകരണം വിമാന സുരക്ഷ ഉറപ്പാക്കാൻ സഹായിക്കുന്നു. യാത്രാ സുരക്ഷാ വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "NIA",
+   "UAE",
+   "Flydubai",
+   "അന്വേഷണം",
+   "സുരക്ഷ"
+  ]
+ },
+ {
+  "id": "3b4ab522aac7",
+  "created": "2026-11-20T23:10:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Yahoo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTF6ZkNDaUY2bEFzcFhUYTVGVUE3N2NHR0ptWk9GUm8zWk8yZ29qZlV1eUNiWFJwLXNfd2o1YktkazROZlhvbk81UWNLeHNZSVRhcU0wSnVUa3d1b1lYNUkxNl9mclVJOFBJRW9IckpFbU9NeEk0M0NRcGRPLThISm1XZVdHNWlWVm5RSFdLVzhFTEYtUVpDWlVyNzd0N29pVkE1SGkwa0xZVFdVR0RDb19vTXRJbk9WODZoNkxFRXZMcVRMTUZUSw?oc=5",
+  "headline": "Apple സ്വന്തം AI ഏജന്റ് നിർമ്മിച്ച് മത്സരത്തിന് തയ്യാറാകുന്നു",
+  "hook": "Apple‑ന്റെ ടെക് ചീഫ് AI പോരാട്ടത്തില്‍ കടക്കുന്നു",
+  "what": "Apple OpenAI, Anthropic പോലുള്ളവയെതിരെ മത്സരിക്കാന്‍ സ്വന്തം AI സഹായി വികസിപ്പിക്കാന്‍ എഞ്ചിനീയർമാരെ നിയമിക്കുന്നു. John Ternus ഇപ്പോള്‍ ഈ പദ്ധതിയില്‍ സജീവമാണ്.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവാക്കള്‍ക്ക് Mac, iPhone ഉപയോഗം മാറ്റാം, പുതിയ ഫീച്ചറുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "technology",
+   "innovation",
+   "Mac"
+  ]
+ },
+ {
+  "id": "2ede9796ebfe",
+  "created": "2026-11-20T23:10:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+  "headline": "Bending Spoons Mailchimp‑നെ $3.68 ബില്യൺക്ക് വാങ്ങി",
+  "hook": "പ്രചാരത്തിലുള്ള ഇമെയിൽ ടൂൾ വലിയ വിലക്കുറവിൽ പുതിയ ഉടമയിലേക്ക് മാറുന്നു.",
+  "what": "ഇറ്റാലിയൻ ആപ്പ് ഡെവലപ്പർ Bending Spoons Mailchimp‑നെ $3.68 ബില്യൺക്ക് വാങ്ങിയതായി പ്രഖ്യാപിച്ചു. Mailchimp 2021‑ൽ Intuit‑ക്ക് ഏകദേശം $12 ബില്യൺക്ക് വിറ്റു. ഈ പുതിയ ഡീൽ മുൻവിലയേക്കാൾ വളരെ കുറഞ്ഞതാണ്.",
+  "why": "വിലക്കുറവ് വിദ്യാർത്ഥികളും ചെറു ക്രിയേറ്റർമാരും ഉപയോഗിക്കുന്ന Mailchimp‑ന്റെ ഫീച്ചറുകൾ അല്ലെങ്കിൽ വിലയിൽ മാറ്റം വരുത്താൻ ഇടയാക്കാം. നിങ്ങളുടെ ന്യൂസ്‌ലറ്റർ ക്യാമ്പെയ്‌നുകൾക്ക് എന്തെങ്കിലും അപ്ഡേറ്റ് ഉണ്ടോ എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Mailchimp",
+   "BendingSpoons",
+   "TechDeal",
+   "Startups",
+   "EmailMarketing"
+  ]
+ },
+ {
+  "id": "ab7485808925",
+  "created": "2026-11-20T23:10:57+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/blame-it-on-sales-targets-not-branch-decisions-rbi-dy-governor-murmu-explains-how-financial-mis-selling-starts-11795184274656.html",
+  "headline": "RBI പറയുന്നു, വിറ്റുവരവു ലക്ഷ്യങ്ങളാണ് തെറ്റായ വിൽപ്പന",
+  "hook": "ബാങ്കുകൾ ലക്ഷ്യങ്ങൾ നിറവേറ്റാൻ ഉൽപ്പന്നങ്ങൾ തള്ളിക്കൊടുക്കാം.",
+  "what": "RBIയുടെ ഉപമേധാവി മുര്മു, സാമ്പത്തിക സ്ഥാപനങ്ങൾ ജീവനക്കാരുടെ പ്രതിഫലന സംവിധാനം ഉൽപ്പന്നം വിറ്റഴിക്കാനുള്ള ലക്ഷ്യങ്ങളോട് ചേർക്കുന്നുണ്ടോ, അല്ലെങ്കിൽ യോജിച്ച പരിഹാരങ്ങൾ നൽകുന്നതിന് പ്രതിഫലം നൽകുന്നുണ്ടോ എന്ന് പരിശോധിക്കണമെന്ന് പറഞ്ഞു.",
+  "why": "യുവാക്കൾ ബാങ്ക് ഓഫറുകൾ ശ്രദ്ധിച്ച്, അവയുടെ യോജ്യത പരിശോധിക്കണം; ബാങ്കുകൾക്ക് പ്രോത്സാഹനങ്ങൾ ശരിയായ രീതിയിൽ ക്രമീകരിക്കണം.",
+  "tags": [
+   "ഫിനാൻസ്",
+   "ബാങ്കിംഗ്",
+   "RBI",
+   "ഉപഭോക്താവ്",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "e931d064943c",
+  "created": "2026-11-20T23:10:59+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjZqLW82eWJickZaeUwxTmVlRVV5LWNhdVB2d3d3Wkpldy05VzlmS0JadjVmNXdQT2E4WEFsaFB4anZsQ09uY3JCRWNicHk1RXM3Zm5qQjhQS0F2Y2l2bHl5ZEYxcGRsZy16WW9UVmN1UC10TWhZelI4TWFtVEFLRjhhVHBVdUlTTWFnZHNR?oc=5",
+  "headline": "Aakasamlo Oka Tara തുറക്കൽ ദിനത്തിൽ ചിരി നേടി",
+  "hook": "ദുൾക്കർ സൽമാൻ നെയ്ത പുതിയ ടെലുങ്കു ഡ്രാമാ ഇപ്പോൾ ചർച്ചയിൽ.",
+  "what": "ഫിലിം നവംബർ 20-ന് തിയേറ്ററുകളിൽ തുറന്നു, ആദ്യ ദിനം ബോക്സ് ഓഫീസ് വരുമാനം രേഖപ്പെടുത്തി. വിമർശകർ ദുൾക്കറും സത്വികയും ചെയ്ത പ്രകടനത്തെ പ്രശംസിച്ചു.",
+  "why": "ആശാവാദ കഥകൾ ഇഷ്ടപ്പെടുന്ന യുവാക്കൾക്ക് ഈ സിനിമ കാണാൻ സമയം കണ്ടെത്താം.",
+  "tags": [
+   "ടെലുങ്കു സിനിമ",
+   "ദുൾക്കർ സൽമാൻ",
+   "AakasamloOkaTara",
+   "ബോക്സോഫീസ്",
+   "GenZ"
+  ]
+ },
+ {
   "id": "f7ecabcf87ab",
   "created": "2026-11-20T22:10:43+05:30",
   "category": "tech",
@@ -638,119 +752,6 @@
    "നിഫ്റ്റി",
    "നിക്ഷേപം",
    "യുവജനങ്ങൾ"
-  ]
- },
- {
-  "id": "579ac3f5172e",
-  "created": "2026-11-20T15:55:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/laptops/news/asus-dell-hp-lenovo-nvidia-rtx-spark-laptops-showcase-india-launch-12353976",
-  "headline": "Nvidia RTX Spark AI ലാപ്ടോപ്പുകൾ 128GB മെമ്മറിയോടെ ഇന്ത്യയിൽ പ്രദർശനം",
-  "hook": "നിങ്ങളുടെ അടുത്ത ഗെയിമിംഗ് അല്ലെങ്കിൽ പഠന ലാപ്ടോപ്പ് AI ശക്തി കൊണ്ടു വരാം.",
-  "what": "Nvidia ഇന്ത്യയിലെ ഒരു ഇവന്റിൽ RTX Spark AI ലാപ്ടോപ്പുകൾ, 128GB യൂണിഫൈഡ് മെമ്മറി വരെ, പ്രദർശിപ്പിച്ചു. Lenovo Yoga Pro 9, RTX Spark N1X ചിപ്പ് സഹിതം, ആ പ്രദർശനത്തിൽ ഉൾപ്പെടുത്തി.",
-  "why": "ഇത്തരം ഉയർന്ന സ്പെക്‌സ് വിദ്യാർത്ഥികളും ക്രിയേറ്റീവുകളും AI പ്രവർത്തനങ്ങളും ഗെയിമിംഗും വേഗത്തിൽ ചെയ്യാൻ സഹായിക്കും. പുതിയ മോഡലുകൾ വരുമ്പോൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nvidia",
-   "AI ലാപ്ടോപ്പുകൾ",
-   "Lenovo",
-   "TechIndia",
-   "Gaming"
-  ]
- },
- {
-  "id": "25065141ec5c",
-  "created": "2026-11-20T15:55:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853",
-  "headline": "Redmi R80 & R80m 5G സ്പെക്‌സ്, വില വെളിപ്പെട്ടു",
-  "hook": "പുതിയ ബഡ്ജറ്റ് 5G ഫോണുകൾ ഇന്ത്യയിൽ വേഗം വരുന്നു",
-  "what": "Redmi R80 5G, R80m 5G എന്നിവയുടെ വിലയും സ്പെക്‌സും ലിസ്റ്റ് ചെയ്തു. ഇരുവരും MediaTek Dimensity 6300 ചിപ്സെറ്റ് ഉപയോഗിക്കുന്നു. R80m 5G രണ്ട് RAM, സ്റ്റോറേജ് ഓപ്ഷനുകളിൽ ലഭ്യമാണ്.",
-  "why": "കുറഞ്ഞ വിലയിൽ 5G കണക്റ്റിവിറ്റി ഗെയിമിംഗും സ്റ്റ്രീമിംഗും ആസ്വദിക്കാൻ സഹായിക്കും. വാങ്ങുന്നതിന് മുമ്പ് സ്പെക്‌സ് നോക്കൂ.",
-  "tags": [
-   "Redmi",
-   "5G",
-   "ബഡ്ജറ്റ്‌ഫോൺ",
-   "MediaTek",
-   "ടെക്"
-  ]
- },
- {
-  "id": "200ef45bbf44",
-  "created": "2026-11-20T14:45:54+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTmt5Y0V3dWEzRWVmYlRQY1A5RmlBTDBQRWNRTVg2ZkxjVjlIQnpfT3B6dDNDaDlibmJQdEEybm5SeFZjX0lUQV9qWmRRSDdteHItNGNoTmFhT2hmQ0tUcnlqa05WVXp6Wk1MeEZMUmYyTEhkWk9qSXRwaTE3WHlZM0Z5a3FNbGFmNUw5WUtmTXdxYXU0U3lBR2xSb1BnNVF5amNEbUdsVHVzR2RWRS1KV05wNXQwQzl6azBrckJiTlF1dndCdE5XS3ctVlk0SzF2RHRPc1V6bkZyUzlTenI5akI5M3JBME1wQTlPRzloYjZTZVJfM2fSAfwBQVVfeXFMTldNY1lYU3JjWUh2SV9NVE5WeDJDd2pDVGJOdTNFYWdEVUIxdHN2RUxVMi1qa0hMRVQ5aHNSaUlkbTV6a2MtckFEaUdkdGdJU3F3LWg0WkZhMU5YdDRLclE1UVpndU11cE9lWTdKSzVKQnA0cFA3eWJvTU5LcnYtdDBVYk1HTlIySjl0WVZOQ2gxblRPbU1saUp4U1h4ZUhkNEJzQmpqdFctOUNsWnpiNW5uQl8wT1dGNzFqRGl2TTB6SFkyVFNReWF3VzJ3bTBVX0o5MnZTa0pYRl9nWUQxOTB5YTA1ZVQwWHUtNlRINUFJMWtRZFhLWGV4bDBu?oc=5",
-  "headline": "ഉച്ചകോടതി തമിഴ്നാടിന്റെ കാവേരി ജലവിതരണം വർധനവിനുള്ള അപേക്ഷ നിരസിച്ചു",
-  "hook": "ജലവിവാദം തുടരുന്നു, കോടതിയിൽ നിന്ന് പുതിയ നിർദ്ദേശം ഇല്ല.",
-  "what": "ഉച്ചകോടതി, ಕರ್ನಾಟಕയ്ക്ക് 11 ടി.എം.സി. അധികം കാവേരി ജലം വിടാൻ നിർദ്ദേശം നൽകാൻ തമിഴ്നാട് സമർപ്പിച്ച അപേക്ഷകൾ നിരസിച്ചു. അപേക്ഷകർ ജലപ്രവാഹം വർധിപ്പിക്കാൻ കോടതി ഉത്തരവിടാൻ ആവശ്യപ്പെട്ടു.",
-  "why": "ഈ തീരുമാനം നിലവിലെ ജലവിതരണ ക്രമം മാറ്റമില്ലാതെ നിലനിർത്തുന്നു, അതിനാൽ തമിഴ്നാട്ടിലെ കൃഷിയും ദൈനംദിന ജീവിതവും ബാധിക്കും. യുവാക്കൾ ജലനയങ്ങളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയിക്കണം.",
-  "tags": [
-   "കാവേരി",
-   "ജലവിവാദം",
-   "ഉച്ചകോടതി",
-   "തമിഴ്നാട്",
-   "ಕರ್ನಾಟಕ"
-  ]
- },
- {
-  "id": "30eabfa75381",
-  "created": "2026-11-20T14:46:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/odisha-assembly-adjourned-till-nov-23-morning-due-to-cyclone-akvan-101795163112963.html",
-  "headline": "ഒഡിഷാ അസംബ്ലി നവം 23 വരെ ഇടവേള, സൈക്ലോൺ അക്വാൻ",
-  "hook": "നിയമനിർമ്മാതാക്കൾ ചുഴലിക്കാറ്റ് ബാധിതരെ സഹായിക്കാൻ ഇടവേള എടുക്കുന്നു.",
-  "what": "ഒഡിഷാ നിയമസഭ സൈക്ലോൺ അക്വാൻ കാരണം നവം 23 രാവിലെ വരെ വിച്ഛേദിച്ചു. യോഗത്തിൽ അംഗങ്ങൾ ബാധിതരെ സഹായിക്കാൻ നിയമസഭാംഗങ്ങൾ സഹായം നൽകുമെന്ന് അറിയിച്ചു.",
-  "why": "ഇത് ചുഴലിക്കാറ്റിന്റെ ഗൗരവം കാണിക്കുന്നു, സമൂഹത്തിന്റെ സഹായം ആവശ്യമുണ്ട്. യുവാക്കൾ സുരക്ഷാ മാർഗ്ഗങ്ങൾ അറിയുകയും, ആവശ്യമെങ്കിൽ സ്വമേധയാ സഹായം നൽകുകയും ചെയ്യാം.",
-  "tags": [
-   "ഒഡിഷാ",
-   "സൈക്ലോൺഅക്വാൻ",
-   "അസംബ്ലി",
-   "സഹായം",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "54570863a2ce",
-  "created": "2026-11-20T14:46:07+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hm-chennithala-urges-centre-amend-juvenile-justice-act-ptio2ubb2t9",
-  "headline": "കേരളം മന്ത്രി കേന്ദ്രം ജൂവിനൈൽ ജസ്റ്റിസ് നിയമം കർശനമാക്കാൻ അപേക്ഷിച്ചു",
-  "hook": "കുട്ടികളുടെ കുറ്റകൃത്യങ്ങൾ വർധിച്ചതിനാൽ നിയമം കർശനമാക്കാൻ വിളി",
-  "what": "കേരള ഹോംമിനിസ്റ്റർ രമേഷ് ചേന്നിത്താലാ കേന്ദ്ര സർക്കാരിലേക്ക് ഒരു കത്ത് അയച്ചു, ജൂവിനൈൽ ജസ്റ്റിസ് ആക്റ്റിൽ മാറ്റം ആവശ്യപ്പെട്ടു. അദ്ദേഹം പറയുന്നത്, ചെറുപ്പക്കാരുടെ ഹിംസാപരമായ കുറ്റകൃത്യങ്ങൾ ഉയർന്നുവെന്ന്.",
-  "why": "നിയമം കർശനമാകുമ്പോൾ യുവാക്കൾക്ക് കൂടുതൽ കടുത്ത ശിക്ഷകൾ വരാം, അതിനാൽ ഉത്തരവാദിത്തത്തോടെ പെരുമാറണം. നിങ്ങളുടെ ജീവിതത്തെ ബാധിക്കാവുന്ന നിയമ മാറ്റങ്ങളെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
-  "tags": [
-   "കേരളം",
-   "ജൂവിനൈൽജസ്റ്റിസ്",
-   "യുവകുറ്റം",
-   "നിയമം"
-  ]
- },
- {
-  "id": "85449f0868d6",
-  "created": "2026-11-20T14:46:09+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
-  "headline": "DSP മ്യൂച്ച്വൽ ഫണ്ട് ഒംനി ഫണ്ടിൽ സ്വർണം, വെള്ളി വർദ്ധിപ്പിക്കുന്നു",
-  "hook": "പ്രീഷ്യസ് മെറ്റൽ എക്സ്പോഷർ നിക്ഷേപകർക്ക് ഉയരുന്നു.",
-  "what": "DSP മ്യൂച്ച്വൽ ഫണ്ട് തന്റെ മൾട്ടി ആസറ്റ് ഒംനി ഫണ്ട് ഓഫ് ഫണ്ട്സിൽ സ്വർണവും വെള്ളിയും ക്രമേണ കൂട്ടും എന്ന് പ്രഖ്യാപിച്ചു. മുമ്പ് ഈ ഫണ്ട് precious metals‑ൽ കുറവായിരുന്നു. ഈ വർദ്ധനവ് ഒരു നിയമാധിഷ്ഠിത തന്ത്രം അനുസരിച്ച് നടപ്പാക്കും.",
-  "why": "യുവ നിക്ഷേപകർക്ക് കൂടുതൽ വൈവിധ്യവും ഇൻഫ്ലേഷൻ പ്രതിരോധവും ലഭിക്കാൻ ഇത് സഹായിക്കും. മ്യൂച്ച്വൽ ഫണ്ട് തിരഞ്ഞെടുക്കുമ്പോൾ ഈ മാറ്റം ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "DSP",
-   "സ്വർണം",
-   "വെള്ളി",
-   "മ്യൂച്ച്വൽഫണ്ട്",
-   "നിക്ഷേപം"
   ]
  }
 ]

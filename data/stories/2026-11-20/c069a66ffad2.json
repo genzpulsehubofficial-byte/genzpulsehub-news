@@ -1,0 +1,37 @@
+{
+ "id": "c069a66ffad2",
+ "created": "2026-11-20T23:10:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-weakens-after-landfall-near-gopalpur-heavy-rain-in-srikakulam/article71725248.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cyclone Akvan dumps heavy rain on Srikakulam",
+  "hook": "Rainstorms hit Srikakulam as Cyclone Akvan moves in",
+  "what": "Cyclone Akvan brought heavy rainfall to Srikakulam district. The downpours caused waterlogging in several areas.",
+  "why": "Stay updated on weather alerts and avoid travel in the affected zones.",
+  "tags": [
+   "cyclone",
+   "Srikakulam",
+   "rain",
+   "weather",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "സൈക്ക്ലോണ്‍ ആക്വാന്‍ സ്രികാകുലം പ്രദേശം നിറഞ്ഞു",
+  "hook": "ആക്വാന്‍ കൊണ്ടുള്ള കനത്ത മഴ സ്രികാകുലത്തില്‍ വീഴുന്നു",
+  "what": "സൈക്ക്ലോണ്‍ ആക്വാന്‍ സ്രികാകുലം ജില്ലയില്‍ കനത്ത മഴവെള്ളം വീഴ്ത്തി. പല പ്രദേശങ്ങളിലും വെള്ളപ്പൊക്കം ഉണ്ടായി.",
+  "why": "കാലാവസ്ഥാ മുന്നറിയിപ്പുകള്‍ പരിശോധിച്ച്, ബാധിത പ്രദേശങ്ങളിലേക്കുള്ള യാത്ര ഒഴിവാക്കുക.",
+  "tags": [
+   "സൈക്ക്ലോണ്‍",
+   "സ്രികാകുലം",
+   "മഴ",
+   "കാലാവസ്ഥ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

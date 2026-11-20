@@ -1,0 +1,37 @@
+{
+ "id": "e337d9b71ec9",
+ "created": "2026-11-20T23:10:47+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/nia-seeks-uae-documents-permission-to-question-individuals-in-flydubai-hijacking-attempt-probe-101795190735230.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "NIA requests UAE docs, interview rights in Flydubai hijack probe",
+  "hook": "India’s top spy agency is chasing clues from the UAE on a plane scare.",
+  "what": "The National Investigation Agency said it has asked the United Arab Emirates for relevant documents. It also seeks permission to question people there about the September 30 incident involving a Flydubai aircraft.",
+  "why": "Understanding the probe shows how cross‑border cooperation tackles security threats that could affect air travel. Stay updated on travel safety updates.",
+  "tags": [
+   "NIA",
+   "UAE",
+   "Flydubai",
+   "investigation",
+   "security"
+  ]
+ },
+ "ml": {
+  "headline": "NIA UAE ഡോക്യുമെന്റുകൾ, ചോദനാവകാശം Flydubai ഹൈജാക്ക് അന്വേഷണം",
+  "hook": "ഇന്ത്യയുടെ പ്രധാന അന്വേഷണ ഏജൻസി, UAE‑യിൽ നിന്ന് വിവരങ്ങൾ തേടുന്നു.",
+  "what": "NIA യു.എ.ഇ.യിൽ നിന്ന് ബന്ധപ്പെട്ട രേഖകൾക്കും, സെപ്റ്റംബർ 30‑ലെ Flydubai സംഭവത്തെക്കുറിച്ച് ആളുകളോട് ചോദിക്കാൻ അനുമതിയും ആവശ്യപ്പെട്ടിട്ടുണ്ട്.",
+  "why": "ഇത്തരത്തിലുള്ള അന്തർദേശീയ സഹകരണം വിമാന സുരക്ഷ ഉറപ്പാക്കാൻ സഹായിക്കുന്നു. യാത്രാ സുരക്ഷാ വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "NIA",
+   "UAE",
+   "Flydubai",
+   "അന്വേഷണം",
+   "സുരക്ഷ"
+  ]
+ }
+}
