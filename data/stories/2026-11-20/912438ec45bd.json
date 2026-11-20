@@ -1,0 +1,37 @@
+{
+ "id": "912438ec45bd",
+ "created": "2026-11-20T21:08:58+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Notebookcheck",
+ "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFEzbmNLdDItVzQ2M0xXSUJHTXBLUnQ0dlFSN2w5MzhnMHZiSkF3Rmt3aS0wMEo1RUxfdjhoUWZaMmxaU3hacjVhSVo3eGRua2txZUFKeGVSdW5jcFVYc0ZFdTVLZ0Zmd1ZhM0NYTWxPYUxCc005NTN6RXFRNFRVN1cxbWVYaTdpRUtQUTlIVjI0b1NuV3JuR1JpcFdfdmFHa1U1b3VZNFV3LXF4VHc?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple’s iPhone 18 and iPhone Air 2 slated for March 2027 launch",
+  "hook": "New leaks hint at fresh iPhone designs hitting stores next year.",
+  "what": "A recent leak revealed design details for Apple’s upcoming iPhone 18 and iPhone Air 2. The leak shows production milestones pointing to a March 2027 start, with the Air 2 mockups featuring dual rear cameras.",
+  "why": "The potential March 2027 release means students and young users can anticipate new features and plan upgrades. Keep an eye on official announcements for pricing and availability.",
+  "tags": [
+   "Apple",
+   "iPhone18",
+   "iPhoneAir2",
+   "TechNews",
+   "Launch2027"
+  ]
+ },
+ "ml": {
+  "headline": "Apple‑ന്റെ iPhone 18, iPhone Air 2 മാർച്ച് 2027‑ൽ വരാൻ സാധ്യത",
+  "hook": "പുതിയ ലീക്കുകൾ പ്രകാരം അടുത്ത വർഷം പുതിയ iPhone മോഡലുകൾ എത്താൻ പോകുന്നു.",
+  "what": "ഒരു പുതിയ ലീക്കിൽ Apple‑ന്റെ iPhone 18, iPhone Air 2 ഡിസൈൻ വിശദാംശങ്ങൾ പുറത്തുവന്നു. നിർമ്മാണ മൈൽസ്റ്റോൺ മാർച്ച് 2027‑ൽ ആരംഭിക്കുമെന്ന് സൂചിപ്പിക്കുന്നു, Air 2 മോഡലിൽ ഡ്യൂവൽ റിയർ ക്യാമറ കാണുന്നു.",
+  "why": "മാർച്ച് 2027‑ലെ റിലീസ് യുവജനങ്ങൾക്ക് പുതിയ ഫീച്ചറുകൾക്കായി പ്ലാൻ ചെയ്യാൻ സഹായിക്കും. ഔദ്യോഗിക പ്രഖ്യാപനങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "iPhone18",
+   "iPhoneAir2",
+   "TechNews",
+   "Launch2027"
+  ]
+ }
+}

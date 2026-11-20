@@ -1,0 +1,37 @@
+{
+ "id": "fb9b1315e156",
+ "created": "2026-11-20T21:08:56+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/best-mutual-funds-does-switching-to-last-year-s-top-performing-category-help-you-earn-higher-long-term-sip-returns-11795187795758.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sticking to Same Fund Category Beats Chasing Last Year's Winners",
+  "hook": "Your SIP might grow faster by staying put, not switching.",
+  "what": "WhiteOak Capital analyzed mutual fund performance and found that moving SIP money to the top‑performing category of the previous year did not raise long‑term returns. Staying in the same category, especially mid‑cap funds, delivered higher average returns over a rolling 10‑year period.",
+  "why": "Gen‑Z investors should avoid constantly chasing past winners; keeping investments in a consistent category can generate stronger growth over time.",
+  "tags": [
+   "mutualfunds",
+   "SIP",
+   "investing",
+   "midcaps",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "ഒരേ ഫണ്ട് വിഭാഗം തുടരുന്നത് കഴിഞ്ഞ വര്‍ഷത്തെ മികച്ചത് മാറ്റുന്നതിനെക്കാള്‍ ലാഭം കൂട്ടും",
+  "hook": "SIP മാറ്റം ചെയ്യാതെ തന്നെ നിങ്ങളുടെ നിക്ഷേപം വേഗത്തില്‍ വളരും",
+  "what": "WhiteOak Capital നടത്തിയ വിശകലനത്തില്‍ കഴിഞ്ഞ വര്‍ഷത്തെ ഏറ്റവും മികച്ച വിഭാഗത്തിലേക്ക് മ്യൂച്വല്‍ ഫണ്ട് മാറ്റുന്നത് ദീർഘകാല റിട്ടേണ്‍ മെച്ചപ്പെടുത്തില്ലെന്ന് കണ്ടെത്തി. അതേ വിഭാഗത്തില്‍ – പ്രത്യേകിച്ച് മിഡ്‑ക്യാപ് ഫണ്ടുകളില്‍ – 10 വര്‍ഷത്തെ ശരാശരി റിട്ടേണ്‍ കൂടുതലായിരുന്നു.",
+  "why": "യുവ നിക്ഷേപകര്‍ കഴിഞ്ഞ പ്രകടനത്തെ അടിസ്ഥാനമാക്കി ഫണ്ടുകള്‍ മാറ്റുന്നതില്‍ നിന്ന് ഒഴിവാകണം. സ്ഥിരതയോടെ ഒരു വിഭാഗത്തില്‍ നിക്ഷേപം തുടരുന്നത് കൂടുതല്‍ ലാഭം നല്‍കാം.",
+  "tags": [
+   "മ്യൂച്വല്‍ഫണ്ട്",
+   "SIP",
+   "നിക്ഷേപം",
+   "മിഡ്ക്യാപ്",
+   "ഫിനാന്‍സ്"
+  ]
+ }
+}

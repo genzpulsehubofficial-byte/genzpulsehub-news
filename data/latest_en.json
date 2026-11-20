@@ -1,5 +1,119 @@
 [
  {
+  "id": "4a41262fab2d",
+  "created": "2026-11-20T21:08:41+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/air-india-air-india-express-flights-cancellation-to-jeddah-saudi-arabia/article71724670.ece",
+  "headline": "Air India pauses Jeddah flights till Nov 24",
+  "hook": "Your Jeddah ticket? You can rebook or get money back.",
+  "what": "Air India and AI Express have extended the suspension of flights to and from Jeddah until 24 November. Bookings made on or before 20 November are eligible for free rescheduling, subject to seat availability, or a full refund if cancelled.",
+  "why": "Young travelers can avoid losing money and plan alternative routes now. Check your booking and choose the option that fits you.",
+  "tags": [
+   "AirIndia",
+   "Jeddah",
+   "Travel",
+   "Refund",
+   "Reschedule"
+  ]
+ },
+ {
+  "id": "d8907a519caf",
+  "created": "2026-11-20T21:08:48+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2tfSjF2ZExQUEt5ZS0xd0RkS0VsanI1UkM5bWRxUWlIUVk5Y2ZwV09oeE1CMGJpeW5POFJWSVkxNDV3N2I3OHplWlgwdkh6eVU1R0F6ZFBvd0xvRmVvc2RPd3BjTFJSeFcxalZMblRRYWc3NFNRQW5QdW5oQXU2bEVsVFh4MUZMNEVTMEszNA?oc=5",
+  "headline": "Pakistan Women Face Ireland in ICC Emerging Nations Super Six",
+  "hook": "Catch the live showdown of two rising cricket sides.",
+  "what": "Pakistan’s women’s cricket team played Ireland in the Super Six round of the 2026 ICC Women’s Emerging Nations Trophy. The match is being streamed live with real‑time score updates on Cricket World and Cricbuzz.",
+  "why": "Watching emerging teams lets young fans discover future stars and supports the growth of women’s cricket. Tune in to the live feed to stay updated.",
+  "tags": [
+   "cricket",
+   "women’scricket",
+   "ICC",
+   "EmergingNations",
+   "live"
+  ]
+ },
+ {
+  "id": "ab0c3c444197",
+  "created": "2026-11-20T21:08:51+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/bike-taxis-safer-for-young-girls-supreme-court-allows-ops-to-continue-in-karnataka-101795169207507.html",
+  "headline": "Supreme Court lets Karnataka bike taxis run, cites safety for girls",
+  "hook": "Bike rides stay legal, promising safer travel for young women.",
+  "what": "The Supreme Court has approved the continuation of bike‑taxi services in Karnataka. The court said these services are cheap and easy to reach, especially for female commuters.",
+  "why": "Teenage girls can keep using affordable bike rides for school or outings. Follow basic safety tips while traveling.",
+  "tags": [
+   "bike taxis",
+   "Karnataka",
+   "girls safety",
+   "young commuters",
+   "court ruling"
+  ]
+ },
+ {
+  "id": "c516fa9e4013",
+  "created": "2026-11-20T21:08:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/cryptocurrency/news/sec-takes-action-against-eight-entities-in-usd-37-million-crypto-fraud-case-crypto-scams-hacks-exploits-usdc-usdt-eth-12354811",
+  "headline": "SEC targets eight firms in $37M crypto scam",
+  "hook": "Young investors lost homes after betting on a crypto scheme",
+  "what": "The U.S. Securities and Exchange Commission has filed actions against eight entities tied to a crypto fraud worth about $37 million. Victims are said to have taken out mortgages on their properties to fund the investment.",
+  "why": "The case warns Indian teens to be cautious with high‑risk crypto offers and to verify any investment before committing money or assets.",
+  "tags": [
+   "crypto",
+   "fraud",
+   "SEC",
+   "investing",
+   "risk"
+  ]
+ },
+ {
+  "id": "fb9b1315e156",
+  "created": "2026-11-20T21:08:56+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/best-mutual-funds-does-switching-to-last-year-s-top-performing-category-help-you-earn-higher-long-term-sip-returns-11795187795758.html",
+  "headline": "Sticking to Same Fund Category Beats Chasing Last Year's Winners",
+  "hook": "Your SIP might grow faster by staying put, not switching.",
+  "what": "WhiteOak Capital analyzed mutual fund performance and found that moving SIP money to the top‑performing category of the previous year did not raise long‑term returns. Staying in the same category, especially mid‑cap funds, delivered higher average returns over a rolling 10‑year period.",
+  "why": "Gen‑Z investors should avoid constantly chasing past winners; keeping investments in a consistent category can generate stronger growth over time.",
+  "tags": [
+   "mutualfunds",
+   "SIP",
+   "investing",
+   "midcaps",
+   "finance"
+  ]
+ },
+ {
+  "id": "912438ec45bd",
+  "created": "2026-11-20T21:08:58+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Notebookcheck",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFEzbmNLdDItVzQ2M0xXSUJHTXBLUnQ0dlFSN2w5MzhnMHZiSkF3Rmt3aS0wMEo1RUxfdjhoUWZaMmxaU3hacjVhSVo3eGRua2txZUFKeGVSdW5jcFVYc0ZFdTVLZ0Zmd1ZhM0NYTWxPYUxCc005NTN6RXFRNFRVN1cxbWVYaTdpRUtQUTlIVjI0b1NuV3JuR1JpcFdfdmFHa1U1b3VZNFV3LXF4VHc?oc=5",
+  "headline": "Apple’s iPhone 18 and iPhone Air 2 slated for March 2027 launch",
+  "hook": "New leaks hint at fresh iPhone designs hitting stores next year.",
+  "what": "A recent leak revealed design details for Apple’s upcoming iPhone 18 and iPhone Air 2. The leak shows production milestones pointing to a March 2027 start, with the Air 2 mockups featuring dual rear cameras.",
+  "why": "The potential March 2027 release means students and young users can anticipate new features and plan upgrades. Keep an eye on official announcements for pricing and availability.",
+  "tags": [
+   "Apple",
+   "iPhone18",
+   "iPhoneAir2",
+   "TechNews",
+   "Launch2027"
+  ]
+ },
+ {
   "id": "62f4c7595f37",
   "created": "2026-11-20T20:10:47+05:30",
   "category": "headlines",
@@ -638,120 +752,6 @@
    "prices",
    "2026",
    "finance"
-  ]
- },
- {
-  "id": "834ba6f0c07c",
-  "created": "2026-11-20T13:31:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/from-wrapping-rotis-to-storing-10-500-notes-how-aluminium-foil-can-help-you-preserve-emergency-cash-at-home-11795155553697.html",
-  "headline": "Aluminium Foil: Simple Way to Safeguard Home Cash",
-  "hook": "Keep your emergency money clean and dry with a kitchen staple.",
-  "what": "Holding ₹5,000 or more at home can be useful during crises. Wrapping the notes in aluminium foil can shield them from dust and moisture. Experts advise storing the wrapped bundles in a safe spot and following basic precautions.",
-  "why": "Protecting cash ensures it’s ready when you need it, especially for young people managing budgets. Use foil and a secure place to keep your emergency fund intact.",
-  "tags": [
-   "cash",
-   "emergency",
-   "home",
-   "foil",
-   "tips"
-  ]
- },
- {
-  "id": "4d533a1f8fdc",
-  "created": "2026-11-20T13:31:21+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Moneycontrol.com",
-  "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPOGZaUUtZVU5jYlpreWphZVJGdGlYY2NZM21aRG0ta1dkd0k2S1dRSllTa3hfVzNJb2JYdzVpTnIweFAzVkZlQzdFY3AxRGFTTzlzVGJtVGJxS3hmaUlCNlRLNmdVMFYxRndDeVAzbFRZSXlIdzhkb3dLNzIxck44Y0tZX2d3ZldOdF9PcUYwMjQ3dVpDWVlURm1aaUs0SzMtMWVXckQ1TTVEc19rb3A4dVdVUnBobE45LXlIcUpTZEFqOG1MZHpZYWxZN29PbmZyRlBnNll2QmhkSkQ1TXREYW1vOGNlSDY5TFRaTXVfeWY1cWNIR1RWa3VEczB0cjI5TEthcGpUMGpzcnB2RmNJLU1uemrSAZ4CQVVfeXFMT2VhU2FacFN1VnNoa0R1VHl6Mi1GRWM4aEh3YTZQa3ZxZkg4Xy1fenR5RG5rVW94cUhDY2NGMk5iN0NHa1VzTHFjNm9uQW9jcHMwM2xtT0ZuQWxIMWZ4SGJjb1NzRXlpRWRVOEFSVldTbUROVVBGejhnbk45c21iU2lodWo4d0JEYkF6b2U0Zy1yQjdKNnN6N2tmUTZOeHlQZmtkSHdUTks4SElKemJLc0lRWExwWm5hM25SdHVGNFpNdlZrNlJVd042bTJwQzA1WkZ5VlFUSC1waVo3a3hXYmRsYWhuLUs2RjFOU2hjZWlZOXVyb2huZmpudzJsSVJnNGJ4RlQ4eW9rSHJYTGEyOHhrRXZNT3h1WlNDOGo2UQ?oc=5",
-  "headline": "New movies and series land on Netflix this week",
-  "hook": "Fresh binge‑watch options just hit your screen",
-  "what": "Netflix adds a batch of fresh films and shows for the week starting November 20, 2026. The platform’s latest lineup is now available to stream.",
-  "why": "Staying updated helps you plan your weekend entertainment without missing out. Check the app and pick what fits your vibe.",
-  "tags": [
-   "Netflix",
-   "newreleases",
-   "binge",
-   "streaming",
-   "weekend"
-  ]
- },
- {
-  "id": "3e4cb0437424",
-  "created": "2026-11-20T13:31:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/wearables/news/honor-watch-6-pro-launched-europe-price-availability-options-specifications-features-12353175",
-  "headline": "Honor Watch 6 Pro hits global market with two straps",
-  "hook": "New smartwatch, two fresh looks – pick your style!",
-  "what": "Honor introduced its Watch 6 Pro worldwide, offering two different strap designs. The launch targets global consumers.",
-  "why": "For Indian Gen Z who love tech accessories, it adds a fresh wearable option. Check the official site for pricing and availability.",
-  "tags": [
-   "honor",
-   "smartwatch",
-   "launch",
-   "tech",
-   "gadgets"
-  ]
- },
- {
-  "id": "b38b5cdf2bdf",
-  "created": "2026-11-20T12:14:58+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU3hzaTA2VTZWYlhUMGRDVlUwS0FLa1RoUDJjam5RTDduX1Q5d29ueFd2Vkt3SENJNUZleWgteVNpYTN1eDhIX3l1Wll2MElJQ3M3VERMU2I4MC1oTWpXRk5WbXJVWG9nSDlyVHFGd21WeWJ0SmtVWjN0eGpDbG9LcUkzLThtSXNGb1hnTGlva3JxUkgybUZkSzU4R1JvS0FRNkVlNzV5WW9NV3l5YmVNMWZ2MlNTWVpQbUZ5ZXVsdGtfYlpLcC1vOXhabFZ2VDJJVGxlbUNrbmZaTFRHUDB0WDRaazhHZw?oc=5",
-  "headline": "Supreme Court rejects Tamil Nadu's request for extra Cauvery water",
-  "hook": "The top court says Karnataka need not release more water now.",
-  "what": "The Supreme Court turned down Tamil Nadu's petition for an additional 11 TMC of Cauvery water from Karnataka. The plea was part of the long-running water‑sharing dispute between the two states.",
-  "why": "Water allocation impacts agriculture and daily life in both states, so the ruling could shape future talks. Stay aware of regional water policies.",
-  "tags": [
-   "Cauvery",
-   "SupremeCourt",
-   "TamilNadu",
-   "Karnataka",
-   "WaterDispute"
-  ]
- },
- {
-  "id": "f0cb3036f30f",
-  "created": "2026-11-20T12:15:04+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/games/reviews/gta-6-impressions-ps5-rockstar-games-red-dead-redemption-2-12350252",
-  "headline": "GTA 6 launches on PS5 and Xbox Series consoles",
-  "hook": "The long‑awaited sequel finally hits next‑gen consoles.",
-  "what": "Rockstar released Grand Theft Auto VI for PlayStation 5, Xbox Series S and Series X. The game is now available for purchase and download on these platforms.",
-  "why": "Fans can start playing the newest open‑world adventure on their current consoles. Check your console’s store for pricing and any pre‑order bonuses.",
-  "tags": [
-   "GTA6",
-   "PS5",
-   "XboxSeries",
-   "Gaming",
-   "Rockstar"
-  ]
- },
- {
-  "id": "adf39b198bc7",
-  "created": "2026-11-20T12:15:06+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/lava-smart-4-pro-price-in-india-launch-sale-date-specifications-features-12353055",
-  "headline": "Lava Smart 4 Pro Debuts with 7,000 mAh Battery",
-  "hook": "A new phone with massive battery hits Indian shelves.",
-  "what": "Lava introduced the Smart 4 Pro in India. It comes with a 7,000 mAh battery, a 13‑megapixel rear camera and a 5‑megapixel front shooter.",
-  "why": "The large battery can last longer for gaming and streaming, useful for students and creators. Check local stores for availability.",
-  "tags": [
-   "Lava",
-   "Smart4Pro",
-   "phoneLaunch",
-   "tech",
-   "India"
   ]
  }
 ]

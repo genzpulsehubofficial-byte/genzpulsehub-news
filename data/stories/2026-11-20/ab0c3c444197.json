@@ -1,0 +1,37 @@
+{
+ "id": "ab0c3c444197",
+ "created": "2026-11-20T21:08:51+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/bike-taxis-safer-for-young-girls-supreme-court-allows-ops-to-continue-in-karnataka-101795169207507.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court lets Karnataka bike taxis run, cites safety for girls",
+  "hook": "Bike rides stay legal, promising safer travel for young women.",
+  "what": "The Supreme Court has approved the continuation of bike‑taxi services in Karnataka. The court said these services are cheap and easy to reach, especially for female commuters.",
+  "why": "Teenage girls can keep using affordable bike rides for school or outings. Follow basic safety tips while traveling.",
+  "tags": [
+   "bike taxis",
+   "Karnataka",
+   "girls safety",
+   "young commuters",
+   "court ruling"
+  ]
+ },
+ "ml": {
+  "headline": "സ suprema court Karnataka ബൈക്ക് ടാക്സി തുടരാൻ അനുമതി, പെൺകുട്ടികളുടെ സുരക്ഷ",
+  "hook": "ബൈക്ക് റൈഡുകൾ ഇനി നിയമപരമായി, യുവതികൾക്ക് സുലഭവും സുരക്ഷിതവുമാണ്.",
+  "what": "സ suprema court Karnataka-യിൽ ബൈക്ക് ടാക്സി സേവനങ്ങൾ തുടരാൻ അനുമതി നൽകി. ഇവയുടെ ചെലവ് കുറഞ്ഞതും, പ്രത്യേകിച്ച് സ്ത്രീ യാത്രക്കാരുടെ സൗകര്യത്തിനായി ആകർഷകവുമാണ് എന്ന് കോടതി ചൂണ്ടിക്കാട്ടി.",
+  "why": "ഇത് സ്കൂൾ, outing എന്നിവയ്ക്ക് പെൺകുട്ടികൾക്ക് സുലഭമായ യാത്രാ മാർഗം നൽകുന്നു. യാത്ര ചെയ്യുമ്പോൾ സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ബൈക്ക് ടാക്സി",
+   "കർണാടക",
+   "പെൺകുട്ടി സുരക്ഷ",
+   "യുവ യാത്രികർ",
+   "കോടതി"
+  ]
+ }
+}
