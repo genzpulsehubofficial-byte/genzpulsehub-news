@@ -1,0 +1,37 @@
+{
+ "id": "4ede0bf52997",
+ "created": "2026-11-20T17:56:33+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/can-you-claim-capital-loss-on-a-car-sale-itat-rejects-20-67-lakh-claim-says-personal-cars-are-not-capital-assets-11795174869250.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT denies ₹20.67 L loss claim on personal Mercedes",
+  "hook": "Your family car can’t be treated as a tax loss asset.",
+  "what": "The Jaipur ITAT turned down a taxpayer’s claim of a ₹20.67 lakh capital loss from selling her Mercedes. The tribunal said a car used for personal purposes does not qualify as a capital asset under the tax code. Listing the vehicle as a fixed asset on a balance sheet does not prove business use.",
+  "why": "Young entrepreneurs should note that personal vehicles can’t be claimed for tax loss benefits, so keep records clear about business usage. Misclassifying assets may lead to rejected claims.",
+  "tags": [
+   "tax",
+   "capitalLoss",
+   "ITAT",
+   "personalCar",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT നിരസിച്ചു വ്യക്തിഗത മെർസിഡീസ്‌ വിൽപ്പനയിൽ ₹20.67 ലക്ഷം നഷ്ടം",
+  "hook": "നിങ്ങളുടെ കുടുംബ കാർക്ക് നികുതി നഷ്ടം ക്ലെയിം ചെയ്യാൻ കഴിയില്ല.",
+  "what": "ജൈപ്പൂരിലെ ITAT ഒരു നികുതിദായകയുടെ മെർസിഡീസ്‌ വിൽപ്പനയിൽ നിന്നുള്ള ₹20.67 ലക്ഷം മൂലധന നഷ്ടം അംഗീകരിച്ചില്ല. വ്യക്തിഗത ഉപയോഗത്തിലുള്ള കാർ മൂലധന ആസ്തി എന്ന് നിയമം പറയുന്നില്ല. ബാലൻസ് ഷീറ്റിൽ വാഹനത്തെ സ്ഥിര ആസ്തിയായി രേഖപ്പെടുത്തുന്നത് ബിസിനസ് ഉപയോഗം തെളിയിക്കുന്നില്ല.",
+  "why": "വ്യവസായികൾക്ക് വ്യക്തിഗത വാഹനങ്ങളെ നികുതി നഷ്ടമായി ക്ലെയിം ചെയ്യാൻ കഴിയില്ലെന്ന് ശ്രദ്ധിക്കണം, അതിനാൽ ബിസിനസ് ഉപയോഗം തെളിയിക്കുന്ന രേഖകൾ തയ്യാറാക്കണം. തെറ്റായ വർഗ്ഗീകരണം ക്ലെയിം നിരസിക്കപ്പെടാൻ കാരണമാകും.",
+  "tags": [
+   "tax",
+   "capitalLoss",
+   "ITAT",
+   "personalCar",
+   "finance"
+  ]
+ }
+}

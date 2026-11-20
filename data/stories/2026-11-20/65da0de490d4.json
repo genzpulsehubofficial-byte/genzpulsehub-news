@@ -1,0 +1,37 @@
+{
+ "id": "65da0de490d4",
+ "created": "2026-11-20T17:56:25+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Business Standard",
+ "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQelFoSDJvTFZlbEJDamtwcEJHajk2NVpVTlNhNkYwUGtVSXEyMm5MQmp1RE1lWGZoU1JvMXM1Z3BkM3dhbFk0ZGxXVmdsdTFkSy13aU5lV09QU3lRWG00RHJHTzBVQ0hJZ21oMEotenM4d1NkZG1USmlTdXd2NHl3QjlpQWhGQXZmZjdEZzVCcmFoQ3dQcXEwVTdleXhIMW9BalVRUFBkc0owNllodE5QeG9YYmk0SVlBSHpSS3NzWGFOcWptREVmU0luUWh3RWZ2MmpCZGN5dDh4bWE3czJsNjRWVlE1RnRu0gHuAUFVX3lxTE5BMEpXNC10dWMxOFNLR1hWbXp2bW5yY0pXdXlXbUZCbXotVG0yWUR3M2dBZFAtTl9zdTVkak1yZEpKR1pIRHFyWmZ2NUhjRUZKdzVrb080Mmp5a25QYnNHWG9KOENvQm1RdldtVE45RUFzVmhyZEFLNW9XUkg5NXB0ZnhMODZWUzZVNVZEQzc1YnpNLWNyUWNUbUlXd2V0OUFETFVMcm0wOS1lVEU3dXYxTlhkZWl2c0kxOXFUdTVMNVdQNl9GbmM3d1B3M1hhbW5qWG96ZHRNVlFNV011aTN6OUo1NHI4dTVpQXlSUkE?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex climbs 898 points, Nifty hits 25,801; banks lead",
+  "hook": "Indian markets bounce back while Asian indices slide.",
+  "what": "The benchmark Sensex rose by 898 points for a second consecutive session, closing near 25,800. The Nifty index ended around 25,801. Gains were driven mainly by bank stocks.",
+  "why": "A rally shows confidence in domestic equities, which can influence savings and investment choices for young people. Keep an eye on market trends before deciding on any investment.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "bankshares",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Sensex 898 പോയിന്റ് ഉയർന്നു, Nifty 25,801; ബാങ്കുകൾ മുന്നേറുന്നു",
+  "hook": "ആഷ്യൻ മാർക്കറ്റുകൾ ഇടിഞ്ഞപ്പോൾ ഇന്ത്യയുടെ മാർക്കറ്റ് മടങ്ങി.",
+  "what": "ബെഞ്ച്മാർക്ക് Sensex 898 പോയിന്റ് വർധിച്ച് രണ്ടുദിവസം തുടർച്ചയായി ഉയർന്നു, 25,800‑ന് സമീപം അടച്ചു. Nifty 25,801‑ൽ അവസാനിച്ചു. ബാങ്ക് ഷെയറുകൾ പ്രധാനമായി മുന്നേറി.",
+  "why": "ഇത് യുവജനങ്ങളുടെ സംരക്ഷണവും നിക്ഷേപവും ബാധിക്കാം, അതിനാൽ മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "സെൻസ്‌എക്സ്",
+   "നിഫ്റ്റി",
+   "ബാങ്ക്‌ഷെയറുകൾ",
+   "നിക്ഷേപം"
+  ]
+ }
+}

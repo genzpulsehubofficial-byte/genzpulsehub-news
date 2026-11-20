@@ -1,0 +1,37 @@
+{
+ "id": "799c43f3baf3",
+ "created": "2026-11-20T17:56:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court rejects Tamil Nadu's demand for 11 TMC Cauvery water",
+  "hook": "Karnataka says it has enough water, but Tamil Nadu wants more.",
+  "what": "The Supreme Court turned down Tamil Nadu's petition asking Karnataka to release 11 TMC of Cauvery water. Tamil Nadu alleges Karnataka is holding back water despite having sufficient reserves.",
+  "why": "Water sharing impacts agriculture and daily life in both states, so young people should stay aware of inter‑state resource issues.",
+  "tags": [
+   "water",
+   "Cauvery",
+   "SC",
+   "Tamil Nadu",
+   "Karnataka"
+  ]
+ },
+ "ml": {
+  "headline": "Supreme Court, Tamil Nadu‑യുടെ 11 TMC കാവേരി വെള്ളം ആവശ്യകത നിരസിച്ചു",
+  "hook": "Karnataka‑ക്ക് മതിയായ വെള്ളം ഉള്ളതെന്ന് അവകാശപ്പെടുമ്പോൾ, Tamil Nadu‑ക്ക് കൂടുതൽ വേണം.",
+  "what": "Supreme Court, Karnataka‑യിൽ നിന്ന് 11 TMC കാവേരി വെള്ളം വിട്ടുവിടാൻ Tamil Nadu‑യുടെ അപേക്ഷ തള്ളി. Tamil Nadu, Karnataka മതിയായ സംവരണങ്ങൾ ഉള്ളതും വെള്ളം പിടിച്ചുവെക്കുന്നതും ആരോപിച്ചു.",
+  "why": "വെള്ളം പങ്കിടൽ ഇരുപ്രദേശങ്ങളിലെ കാർഷികം, ജീവിതം എന്നിവയെ ബാധിക്കുന്നു; യുവാക്കൾക്ക് ഇത്തരമൊരു വിഭവവിവാദം അറിയുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "വെള്ളം",
+   "കാവേരി",
+   "SC",
+   "Tamil Nadu",
+   "Karnataka"
+  ]
+ }
+}
