@@ -1,0 +1,37 @@
+{
+ "id": "80cd3026e2a0",
+ "created": "2026-11-21T02:01:42+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump slams US rate hikes, points to India",
+  "hook": "A former president challenges the Fed’s policy at the White House.",
+  "what": "During a Friday media briefing, Donald Trump criticized the US central bank’s high interest rates and cited India as a reference point.",
+  "why": "His remarks add to ongoing discussions about monetary policy that can affect loan costs and the broader economy, relevant for Indian youth.",
+  "tags": [
+   "Trump",
+   "FederalReserve",
+   "interestRates",
+   "India",
+   "economy"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് യു.എസ്. പലിശവിലകള്‍ വിമര്‍ശിച്ചു, ഇന്ത്യയെ ഉദാഹരിച്ച്",
+  "hook": "വൈറ്റ് ഹൗസില്‍ ഒരു മാധ്യമ ബ്രീഫിംഗില്‍ മുന്‍ പ്രസിഡന്റ് ഫെഡിന്റെ നയം ചോദ്യപ്പെടുത്തി.",
+  "what": "വെള്ളിയാഴ്ച നടന്ന ഒരു മീഡിയ ബ്രീഫിംഗില്‍, ഡോണള്‍ഡ് ട്രംപ് യു.എസ്. സെന്‍ട്രല്‍ ബാങ്കിന്റെ ഉയര്‍ന്ന പലിശവിലകള്‍ വിമര്‍ശിച്ച്, ഇന്ത്യയെ ഉദാഹരണമായി എടുത്തു.",
+  "why": "പലിശവിലകളിലെ മാറ്റങ്ങള്‍ വായ്പ ചെലവിനും സമ്പദ്‌വ്യവസ്ഥയ്ക്കും സ്വാധീനം ചെലുത്താം, അതിനാല്‍ യുവ ഇന്ത്യക്കാര്‍ക്ക് ഇത് പ്രാധാന്യമുള്ളതാണ്.",
+  "tags": [
+   "ട്രംപ്",
+   "ഫെഡ്",
+   "പലിശവില",
+   "ഇന്ത്യ",
+   "അര്‍ത്ഥവ്യവസ്ഥ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "77650fa422db",
+ "created": "2026-11-21T02:01:45+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Fortune",
+ "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OV3YyMDdNZDAzTWJYek9Qekp2VUF6d01pX0F5ZlFodFVSa3dqTDVNOE0xVDM3QmFfVmozaUpuYVdGVVVmVER6S2tLWkZhWWxsRjNxdHJsOFJ4MlVYa3FqdzFYSjZ1bm5LYS0wRElLMy1YUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA VI earns $2.36 B, Rockstar staff vote on union",
+  "hook": "The biggest game ever released sparks a union vote at its maker",
+  "what": "Grand Theft Auto VI generated about $2.36 billion on its first day. Around 1,600 Rockstar Games employees are currently casting ballots to decide on forming a union.",
+  "why": "The earnings show the massive scale of the gaming industry, while the union drive highlights workplace rights that could affect future job conditions for gamers and developers.",
+  "tags": [
+   "GTA6",
+   "Rockstar",
+   "GamingIndustry",
+   "UnionVote",
+   "GameDev"
+  ]
+ },
+ "ml": {
+  "headline": "GTA VI‑ന് $2.36 ബില്യണ്‍ വരുമാനം, റോക്ക്സ്റ്റാര്‍ ജീവനക്കാര്‍ യൂണിയന്‍ വോട്ട്",
+  "hook": "ലോകത്തിലെ ഏറ്റവും വലിയ ഗെയിം പുറത്തിറക്കിയ ശേഷം, റോക്ക്സ്റ്റാര്‍ ജീവനക്കാര്‍ യൂണിയന്‍ രൂപീകരണത്തില്‍ തീരുമാനമെടുക്കുന്നു",
+  "what": "Grand Theft Auto VI ആദ്യദിവസം ഏകദേശം $2.36 ബില്യണ്‍ വരുമാനം നേടി. റോക്ക്സ്റ്റാര്‍ ഗെയിംസ്‌ലെ 1,600 ജീവനക്കാര്‍ യൂണിയന്‍ അംഗീകരിക്കണമോ എന്ന് വോട്ട് ചെയ്യുന്നു.",
+  "why": "ഇത് ഗെയിമിംഗ് മേഖലയിലെ വലുപ്പം കാണിക്കുന്നു, കൂടാതെ തൊഴിലാളി അവകാശങ്ങള്‍ ഉറപ്പാക്കാനുള്ള ശ്രമം ഭാവി ജോലിസ്ഥിതികളില്‍ സ്വാധീനം ചെലുത്താം.",
+  "tags": [
+   "GTA6",
+   "Rockstar",
+   "Gaming",
+   "Union",
+   "JobRights"
+  ]
+ }
+}

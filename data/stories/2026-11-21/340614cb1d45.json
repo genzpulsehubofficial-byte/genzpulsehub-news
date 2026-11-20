@@ -1,0 +1,37 @@
+{
+ "id": "340614cb1d45",
+ "created": "2026-11-21T02:01:36+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Spotify founder backs AI‑driven fusion startup Europa Fusion",
+  "hook": "Spotify’s co‑founder is now backing a fusion energy venture.",
+  "what": "Spotify co‑founder Daniel Ek has invested in Europa Fusion, a startup focused on fusion power. The company was founded by an AI researcher.",
+  "why": "Fusion power could shape future technology and job opportunities, so staying aware of such ventures may be useful for young Indians interested in tech.",
+  "tags": [
+   "fusion",
+   "energy",
+   "startup",
+   "AI",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Spotify സ്ഥാപകൻ AI‑അധിഷ്ഠിത ഫ്യൂഷൻ സ്റ്റാർട്ടപ്പ് Europa Fusion‑നെ പിന്തുണക്കുന്നു",
+  "hook": "Spotify‑യുടെ സഹസ്ഥാപകൻ ഇപ്പോൾ ഫ്യൂഷൻ എനർജി പ്രോജക്റ്റിൽ നിക്ഷേപിക്കുന്നു.",
+  "what": "Spotify‑യുടെ സഹസ്ഥാപകൻ ഡാനിയൽ എക് Europa Fusion‑ലേക്ക് നിക്ഷേപം ചെയ്തു, ഇത് ഫ്യൂഷൻ പവർ വികസിപ്പിക്കാൻ ലക്ഷ്യമിടുന്ന ഒരു സ്റ്റാർട്ടപ്പ് ആണ്. ഈ കമ്പനി ഒരു AI റിസർചർ സ്ഥാപിച്ചു.",
+  "why": "ഫ്യൂഷൻ പവർ ഭാവിയിലെ സാങ്കേതികതയും ജോലികളും മാറ്റാൻ സാധ്യതയുള്ളതിനാൽ, ടെക് മേഖലയിൽ താൽപ്പര്യമുള്ള യുവാക്കൾക്ക് ഇതിനെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "ഫ്യൂഷൻ",
+   "എനർജി",
+   "സ്റ്റാർട്ടപ്പ്",
+   "AI",
+   "ടെക്"
+  ]
+ }
+}

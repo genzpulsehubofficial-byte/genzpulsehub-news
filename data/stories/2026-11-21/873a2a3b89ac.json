@@ -1,0 +1,37 @@
+{
+ "id": "873a2a3b89ac",
+ "created": "2026-11-21T02:01:39+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump Defends Summit with Xi and Putin Amid Backlash",
+  "hook": "The US leader stands by his meeting with China and Russia.",
+  "what": "President Donald Trump said his recent meeting with Chinese President Xi Jinping and Russian President Vladimir Putin was \"momentous\" and defended it after criticism.",
+  "why": "Young Indians should note the global diplomatic tone, as it may affect international relations and trade.",
+  "tags": [
+   "Trump",
+   "Xi",
+   "Putin",
+   "summit",
+   "backlash"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ്‌ Xi, Putin‑നൊപ്പം നടത്തിയ സമ്മിറ്റ്‌ക്ക്‌ പ്രതിരോധം",
+  "hook": "അമേരിക്കയുടെ പ്രസിഡണ്ട് ചൈന‑റഷ്യ നേതാക്കളുമായുള്ള കൂടിക്കാഴ്ചയ്ക്ക്‌ നിലപാട്‌ ഉറപ്പിച്ചു.",
+  "what": "പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ്‌ Xi ജിൻപിംഗ്, Vladimir Putin എന്നിവരോടുള്ള അടുത്ത സമ്മിറ്റ്‌ \"momentous\" എന്ന് വിളിച്ച്, വിമർശനത്തിന്‌ ശേഷം അതിനെ സംരക്ഷിച്ചു.",
+  "why": "ഇത് ലോക രാഷ്ട്രീയത്തിന്റെ പ്രവണതയെ ബാധിക്കാം, അതിനാൽ യുവാക്കൾക്ക് അന്താരാഷ്ട്ര ബന്ധങ്ങളും വ്യാപാരവും ശ്രദ്ധിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "Trump",
+   "Xi",
+   "Putin",
+   "summit",
+   "backlash"
+  ]
+ }
+}
