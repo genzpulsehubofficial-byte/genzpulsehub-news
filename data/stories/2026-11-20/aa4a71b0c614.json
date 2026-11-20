@@ -1,0 +1,37 @@
+{
+ "id": "aa4a71b0c614",
+ "created": "2026-11-20T22:10:50+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-itat-ruling-explains-cbdt-limits-during-income-tax-searches-11795191596907.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT cancels ₹16 lakh tax after gold jewellery limit cited",
+  "hook": "Know the gold limits that can shield you from tax hikes.",
+  "what": "The Hyderabad Income Tax Appellate Tribunal used CBDT guidelines on gold jewellery limits to delete a tax addition of ₹16.01 lakh. The taxpayer relied on the prescribed family jewellery limits during the search.",
+  "why": "Understanding the allowed gold holdings can prevent unexpected tax liabilities. Keep records of your family’s jewellery value to use these limits if searched.",
+  "tags": [
+   "tax",
+   "gold",
+   "CBDT",
+   "ITAT",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT ₹16 ലക്ഷം നികുതി റദ്ദാക്കി, സ്വര്‍ണ്ണ ആഭരണ പരിധി ഉദ്ധരിച്ച്",
+  "hook": "നികുതി തിരച്ചിലില്‍ സ്വര്‍ണ്ണ പരിധി അറിയുന്നത് നിങ്ങളെ രക്ഷിക്കും.",
+  "what": "ഹൈദരാബാദിലെ ITAT, CBDT ന്റെ സ്വര്‍ണ്ണ ആഭരണ പരിധികള്‍ അടിസ്ഥാനമാക്കി, നികുതിദായകന്‍ 16.01 ലക്ഷം രൂപയുടെ കൂട്ടിച്ചേര്‍പ്പ് റദ്ദാക്കി. നികുതി തിരച്ചിലില്‍ ഈ മാര്‍ഗ്ഗനിര്‍ദ്ദേശം ഉപയോഗിച്ചു.",
+  "why": "സ്വര്‍ണ്ണം കൈവശം വെക്കുമ്പോള്‍ നിയമപരമായ പരിധി അറിയുന്നത് അനാവശ്യ നികുതികളില്‍ നിന്ന് രക്ഷപ്പെടാന്‍ സഹായിക്കും. നിങ്ങളുടെ കുടുംബത്തിന്റെ ആഭരണ മൂല്യം രേഖപ്പെടുത്തുക.",
+  "tags": [
+   "നികുതി",
+   "സ്വര്‍ണ്ണം",
+   "CBDT",
+   "ITAT",
+   "ഫിനാന്‍സ്"
+  ]
+ }
+}

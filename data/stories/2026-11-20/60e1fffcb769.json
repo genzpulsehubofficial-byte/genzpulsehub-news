@@ -1,0 +1,37 @@
+{
+ "id": "60e1fffcb769",
+ "created": "2026-11-20T22:10:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/unavoidable-circumstances-bengal-postpones-special-revision-of-electoral-rolls-12354716#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "West Bengal delays special voter list update",
+  "hook": "Election roll revamp put on hold—new dates coming soon.",
+  "what": "The state announced a postponement of the special revision of electoral rolls, citing unavoidable circumstances. The revised timetable will be shared later.",
+  "why": "Young voters need to watch for the new schedule so they can verify their details before upcoming elections.",
+  "tags": [
+   "WestBengal",
+   "VoterList",
+   "Election2024",
+   "YouthVote",
+   "Update"
+  ]
+ },
+ "ml": {
+  "headline": "പശ്ചിമ ബംഗാൾ പ്രത്യേക വോട്ടർ ലിസ്റ്റ് പുതുക്കൽ വൈകിച്ചു",
+  "hook": "വോട്ടർ രജിസ്റ്റർ പുതുക്കൽ താൽക്കാലികമായി നിർത്തി—പുതിയ തീയതികൾ ഉടൻ അറിയിക്കും.",
+  "what": "സംസ്ഥാന സർക്കാർ അനിവാര്യ സാഹചര്യങ്ങളാൽ പ്രത്യേക തിരഞ്ഞെടുപ്പ് രജിസ്റ്റർ പുതുക്കൽ മാറ്റിവെക്കുമെന്ന് പ്രഖ്യാപിച്ചു. പുതുക്കിയ ഷെഡ്യൂൾ പിന്നീട് പ്രഖ്യാപിക്കും.",
+  "why": "യുവ വോട്ടർമാർക്ക് പുതിയ തീയതി അറിയാൻ ശ്രദ്ധിക്കണം, തിരഞ്ഞെടുപ്പിന് മുൻപ് അവരുടെ വിവരങ്ങൾ പരിശോധിക്കാൻ.",
+  "tags": [
+   "പശ്ചിമബംഗാൾ",
+   "വോട്ടർലിസ്റ്റ്",
+   "തിരഞ്ഞെടുപ്പ്",
+   "യുവവോട്ട്",
+   "അപ്ഡേറ്റ്"
+  ]
+ }
+}

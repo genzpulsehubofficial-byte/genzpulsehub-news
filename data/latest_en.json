@@ -1,5 +1,99 @@
 [
  {
+  "id": "f7ecabcf87ab",
+  "created": "2026-11-20T22:10:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Quartz",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wVXhUelpKWUxjbFhRdFJOZFJfX2VQNnl2aHRJYzkyWHNmWWd5RFpDaXJoakx2dmxaR281V09aTGJvLVdpQ1EybmJjVWpzWE5oR293WnNOVDJ3aXZLOUE0cDlKdU1vUWpoOXo2cDQwOVM1amZyclE?oc=5",
+  "headline": "Google adds Gemini automation to Mac computers",
+  "hook": "Let AI handle your boring Mac chores.",
+  "what": "Google has rolled out Gemini AI for macOS, enabling users to set up automated actions on their MacBooks. The new Gemini app can launch and manage desktop applications without manual clicks.",
+  "why": "For Indian teens, this saves time on repetitive school or creative tasks, letting you focus on what matters. Install the Gemini app on your Mac to streamline routine work.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "Mac",
+   "Automation",
+   "AI"
+  ]
+ },
+ {
+  "id": "2b5d15e3201c",
+  "created": "2026-11-20T22:10:48+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFFfSGZadGdqLW5MU0VILXVzcDNyMElycEk5S0FieEViR0xtM3lfVVQtWmVERHNDNkZ1Ulc5dVhWVS1rNFNseUFkSEVLMlZXSThaelVtQWROQWRrNDBscVp5TFY1TUZTLVhCWUhlMkRrRDFuYWU1bjg2SWRGUHdZVVRtZmxVQ0Jwc0pEZFVn?oc=5",
+  "headline": "Arabian Aces vs UAE Bulls in Abu Dhabi T10 qualifier",
+  "hook": "Catch the clash that decides a spot in the T10 showdown.",
+  "what": "The Arabian Aces faced the UAE Bulls in the Abu Dhabi T10 qualifier on 20 November 2026. Live scores, commentary and video highlights are being streamed on Cricbuzz and ESPN.",
+  "why": "Young fans can see which side moves forward and stay updated on upcoming games through the apps.",
+  "tags": [
+   "cricket",
+   "T10",
+   "AbuDhabi",
+   "Qualifier",
+   "Sports"
+  ]
+ },
+ {
+  "id": "aa4a71b0c614",
+  "created": "2026-11-20T22:10:50+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/how-much-gold-jewellery-can-you-keep-at-home-itat-ruling-explains-cbdt-limits-during-income-tax-searches-11795191596907.html",
+  "headline": "ITAT cancels ₹16 lakh tax after gold jewellery limit cited",
+  "hook": "Know the gold limits that can shield you from tax hikes.",
+  "what": "The Hyderabad Income Tax Appellate Tribunal used CBDT guidelines on gold jewellery limits to delete a tax addition of ₹16.01 lakh. The taxpayer relied on the prescribed family jewellery limits during the search.",
+  "why": "Understanding the allowed gold holdings can prevent unexpected tax liabilities. Keep records of your family’s jewellery value to use these limits if searched.",
+  "tags": [
+   "tax",
+   "gold",
+   "CBDT",
+   "ITAT",
+   "finance"
+  ]
+ },
+ {
+  "id": "60e1fffcb769",
+  "created": "2026-11-20T22:10:52+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/unavoidable-circumstances-bengal-postpones-special-revision-of-electoral-rolls-12354716#publisher=newsstand",
+  "headline": "West Bengal delays special voter list update",
+  "hook": "Election roll revamp put on hold—new dates coming soon.",
+  "what": "The state announced a postponement of the special revision of electoral rolls, citing unavoidable circumstances. The revised timetable will be shared later.",
+  "why": "Young voters need to watch for the new schedule so they can verify their details before upcoming elections.",
+  "tags": [
+   "WestBengal",
+   "VoterList",
+   "Election2024",
+   "YouthVote",
+   "Update"
+  ]
+ },
+ {
+  "id": "9d05c86b5ab4",
+  "created": "2026-11-20T22:10:54+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/study-shows-most-births-in-private-sector-hospitals-taking-place-via-c-section/article71725012.ece",
+  "headline": "Private hospitals see majority of births via C-section",
+  "hook": "Most babies in private clinics are now born by surgery.",
+  "what": "A recent study shows that more than half of deliveries in private hospitals are performed as C‑sections. The lowest private‑hospital C‑section rates are recorded in four Tamil Nadu cities – Chennai, Coimbatore, Salem and Vellore.",
+  "why": "High surgical birth rates can affect health costs and recovery, so families should discuss delivery options with their doctors.",
+  "tags": [
+   "Csection",
+   "PrivateHospitals",
+   "TamilNadu",
+   "Health"
+  ]
+ },
+ {
   "id": "4a41262fab2d",
   "created": "2026-11-20T21:08:41+05:30",
   "category": "headlines",
@@ -657,101 +751,6 @@
    "Silver",
    "MutualFund",
    "Investing"
-  ]
- },
- {
-  "id": "8165d9521735",
-  "created": "2026-11-20T14:46:12+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
-  "headline": "US Cyber Director Resigns Amid Widespread Outages",
-  "hook": "A top U.S. cyber chief quits while tech glitches surge.",
-  "what": "The United States’ national cyber director announced his departure. At the same time, businesses nationwide are experiencing numerous technical outages, and the reasons remain unclear.",
-  "why": "For Indian teens, this highlights the importance of staying aware of global cyber developments that can affect online safety. Keep your devices updated and follow good security practices.",
-  "tags": [
-   "cybersecurity",
-   "technews",
-   "US",
-   "outages",
-   "global"
-  ]
- },
- {
-  "id": "58cbc36cc1e2",
-  "created": "2026-11-20T14:46:14+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/wedding-season-begins-with-dev-uthani-ekadashi-how-are-gifts-from-in-laws-taxed-before-and-after-marriage-explained-11795162274374.html",
-  "headline": "Tax rules for wedding gifts: before vs after marriage",
-  "hook": "Know which wedding presents are tax‑free and which aren’t.",
-  "what": "The Income‑Tax Act distinguishes gifts based on when they are received and who gives them. Gifts from future in‑laws before the ceremony, gifts from any guest on the wedding day, and gifts from relatives after the marriage are all treated differently for tax purposes.",
-  "why": "Young couples should understand these rules to avoid unexpected tax bills and keep proper records of received gifts.",
-  "tags": [
-   "tax",
-   "wedding",
-   "gifts",
-   "finance",
-   "India"
-  ]
- },
- {
-  "id": "8a392777c9a8",
-  "created": "2026-11-20T13:30:54+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/tamil-nadu-news/supreme-court-dismisses-tamil-nadu-pleas-for-cauvery-water-release-from-karnataka-12352850#publisher=newsstand",
-  "headline": "Supreme Court rejects Tamil Nadu's Cauvery water demand",
-  "hook": "The inter‑state water clash hits a legal roadblock.",
-  "what": "The Supreme Court dismissed Tamil Nadu's pleas asking Karnataka to release 11 TMC of Cauvery water. The request was turned down by the top court.",
-  "why": "It shows that water disputes between states remain unresolved, a key issue for young Indians concerned about resource security and environmental policy.",
-  "tags": [
-   "Cauvery",
-   "SupremeCourt",
-   "TamilNadu",
-   "Karnataka",
-   "Water"
-  ]
- },
- {
-  "id": "506645420b7d",
-  "created": "2026-11-20T13:31:15+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece",
-  "headline": "Nepal PM Balendra Shah to visit India, launch energy projects",
-  "hook": "Two leaders teaming up for new power projects this weekend",
-  "what": "Nepal’s Prime Minister Balendra Shah will travel to India on November 22‑23. He and Indian Prime Minister Narendra Modi will open several energy‑related projects. Shah will also meet President Droupadi Murmu.",
-  "why": "The partnership could strengthen regional power supply and create jobs in the energy sector. Young Indians should watch for updates that may affect electricity costs and employment chances.",
-  "tags": [
-   "NepalIndia",
-   "Energy",
-   "Visit",
-   "PMs",
-   "Collaboration"
-  ]
- },
- {
-  "id": "1c9e2e9e2f45",
-  "created": "2026-11-20T13:31:17+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "INDToday",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTGtMRjVQLVBqSEVnMTRsc0JJbXJPcjYxdE9oejF4RHRvVmp0cDV2ekQ4bmxXTFhMaUdKX3NDci1xdTdCNGNZeDNSNVZSUF9BTU5TdFlwOVdQd1JpekpYaE9PVmoxd1lqYVBMa0x0UzcxZ0RBTFE?oc=5",
-  "headline": "Hyderabad gold rates for 22K and 24K on Nov 20",
-  "hook": "Today's gold prices in Hyderabad are out now.",
-  "what": "The latest rates for 22‑carat and 24‑carat gold were released for Hyderabad on November 20, 2026. The figures were listed by INDToday.",
-  "why": "Gold prices affect savings and gifting decisions, so students should check the rates before buying.",
-  "tags": [
-   "gold",
-   "Hyderabad",
-   "prices",
-   "2026",
-   "finance"
   ]
  }
 ]

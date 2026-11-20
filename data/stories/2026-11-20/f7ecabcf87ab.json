@@ -1,0 +1,37 @@
+{
+ "id": "f7ecabcf87ab",
+ "created": "2026-11-20T22:10:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Quartz",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wVXhUelpKWUxjbFhRdFJOZFJfX2VQNnl2aHRJYzkyWHNmWWd5RFpDaXJoakx2dmxaR281V09aTGJvLVdpQ1EybmJjVWpzWE5oR293WnNOVDJ3aXZLOUE0cDlKdU1vUWpoOXo2cDQwOVM1amZyclE?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Google adds Gemini automation to Mac computers",
+  "hook": "Let AI handle your boring Mac chores.",
+  "what": "Google has rolled out Gemini AI for macOS, enabling users to set up automated actions on their MacBooks. The new Gemini app can launch and manage desktop applications without manual clicks.",
+  "why": "For Indian teens, this saves time on repetitive school or creative tasks, letting you focus on what matters. Install the Gemini app on your Mac to streamline routine work.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "Mac",
+   "Automation",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "Google Gemini‑ന് Mac‑ല്‍ ഓട്ടോമേഷന്‍ സവിശേഷത",
+  "hook": "AI‑ന് നിങ്ങളുടെ Mac‑ലെ ആവര്‍ത്തന ജോലികള്‍ കൈകാര്യം ചെയ്യാന്‍ അനുവദിക്കുക.",
+  "what": "Google Gemini‑നെ macOS‑ല്‍ ലഭ്യമാക്കി, ഉപയോക്താക്കള്‍ക്ക് MacBook‑ല്‍ സ്വയമേവ പ്രവര്‍ത്തനങ്ങള്‍ സജ്ജമാക്കാം. പുതിയ Gemini ആപ്പ് ഡെസ്ക്ടോപ്പ് ആപ്പുകള്‍ നിയന്ത്രിച്ച്, മാനുവല്‍ ഇടപെടല്‍ ഇല്ലാതെ പ്രവര്‍ത്തിക്കും.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവാക്കള്‍ക്ക് പഠനമോ ക്രിയാത്മകമോ ആയ ആവര്‍ത്തന ജോലികള്‍ വേഗത്തില്‍ പൂര്‍ത്തിയാക്കാന്‍ സഹായിക്കും. നിങ്ങളുടെ Mac‑ല്‍ Gemini ആപ്പ് ഡൗണ്‍ലോഡ് ചെയ്ത് സമയം ലാഭിക്കുക.",
+  "tags": [
+   "Google",
+   "Gemini",
+   "Mac",
+   "Automation",
+   "AI"
+  ]
+ }
+}
