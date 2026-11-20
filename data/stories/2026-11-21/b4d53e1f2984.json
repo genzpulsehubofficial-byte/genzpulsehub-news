@@ -1,0 +1,37 @@
+{
+ "id": "b4d53e1f2984",
+ "created": "2026-11-21T00:09:33+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/should-you-wait-for-a-market-fall-before-starting-a-mutual-fund-sip-what-30-years-of-sensex-data-reveal-11795197339793.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Start SIP Early, Don't Wait for Market Dip",
+  "hook": "Skipping the dip could cost you years of growth.",
+  "what": "A WhiteOak Capital study of nine market cycles shows that beginning a mutual‑fund SIP before a correction usually leads to a larger final amount, even if the percentage returns are slightly lower. Starting earlier often produced a higher corpus.",
+  "why": "Young Indian investors lose compounding time by waiting, so starting now can boost future savings. Begin your SIP without waiting for a market fall.",
+  "tags": [
+   "mutualfund",
+   "SIP",
+   "investing",
+   "younginvestors",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "SIP നേരത്തെ തുടങ്ങൂ, മാർക്കറ്റ് ഇടിവ് കാത്തിരിക്കേണ്ട",
+  "hook": "ഇടിവ് കാത്തിരുന്നാൽ വളർച്ചയുടെ വർഷങ്ങൾ നഷ്ടമാകും.",
+  "what": "WhiteOak Capital നടത്തിയ ഒമ്പത് മാർക്കറ്റ് ചക്രങ്ങളുടെ വിശകലനത്തിൽ, തിരുത്തൽ വരുന്നതിന് മുൻപ് മ്യൂച്ച്വൽ ഫണ്ട് SIP ആരംഭിക്കുന്നത്, ലാഭം അല്പം കുറവായിരുന്നാലും, അവസാന തുക കൂടുതലാണെന്ന് കാണിച്ചു. നേരത്തെ തുടങ്ങുന്നത് സാധാരണയായി ഉയർന്ന കോർപ്പസ് നൽകുന്നു.",
+  "why": "യുവ ഇന്ത്യക്കാരന്‍ സമയം നഷ്ടപ്പെടുത്താതെ, ഭാവി സേവിംഗ്സ് വർദ്ധിപ്പിക്കാൻ ഇത് സഹായിക്കും. മാർക്കറ്റ് ഇടിവ് കാത്തിരിക്കാതെ SIP തുടങ്ങുക.",
+  "tags": [
+   "മ്യൂച്ച്വൽഫണ്ട്",
+   "SIP",
+   "നിക്ഷേപം",
+   "യുവനിക്ഷേപകർ",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "66e447efbd56",
+ "created": "2026-11-21T00:09:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/credai-chennai-to-move-supreme-court-against-1km-construction-restriction-around-pallikaranai-marshland/article71725229.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CREDAI Chennai to challenge 1km ban near Pallikaranai marsh",
+  "hook": "Real estate firms are taking the fight to the Supreme Court over a green zone.",
+  "what": "The Chennai chapter of CREDAI said it will approach the Supreme Court to overturn a Madras High Court order. The order stops any construction within a one‑kilometre radius of the Pallikaranai marsh, a Ramsar‑listed wetland.",
+  "why": "The outcome could shape future housing projects and the protection of an important urban ecosystem, affecting jobs and environmental quality for young Indians. Keep an eye on local development debates.",
+  "tags": [
+   "realestate",
+   "environment",
+   "courtcase",
+   "Chennai",
+   "Pallikaranai"
+  ]
+ },
+ "ml": {
+  "headline": "CREDAI ചെന്നൈ 1km നിരോധനം ചോദ്യമാക്കി സുപ്രീം കോടതി",
+  "hook": "പല്ലികരനായി മലിനീകരണത്തെതിരെ റിയൽ എസ്റ്റേറ്റ് സംഘടന കോടതി വഴിയിലേക്കു നീങ്ങുന്നു.",
+  "what": "ചെന്നൈയിലെ റിയൽ എസ്റ്റേറ്റ് സംഘടന CREDAI, പല്ലികരനായി മലിനീകരണത്തെ ചുറ്റി 1 കിലോമീറ്റർ നിർമ്മാണ നിരോധനം ഉയർത്തിയ മദ്രാസ് ഹൈക്കോടതി വിധിയെതിരെ സുപ്രീം കോടതിയിൽ അപേക്ഷിക്കാൻ പദ്ധതിയിടുന്നു. ആ വിധി ആ പ്രദേശത്തെ നിർമ്മാണം തടയാൻ ഉദ്ദേശിച്ചിരുന്നുവെന്ന് പറയുന്നു.",
+  "why": "ഈ തീരുമാനം നഗരത്തിലെ ഹൗസിംഗ് പദ്ധതികളിലും പ്രകൃതിദത്ത ജലാശയ സംരക്ഷണത്തിലും ബാധകമാകും, യുവജനങ്ങളുടെ ജോലി അവസരങ്ങളും പരിസ്ഥിതി ജീവിതവും ബാധിക്കും. വികസന‑പരിസ്ഥിതി ചർച്ചകളെക്കുറിച്ച് അറിവ് നിലനിർത്തുക.",
+  "tags": [
+   "റിയൽഎസ്റ്റേറ്റ്",
+   "പരിസ്ഥിതി",
+   "കോടതി",
+   "ചെന്നൈ",
+   "പല്ലികരനായി"
+  ]
+ }
+}

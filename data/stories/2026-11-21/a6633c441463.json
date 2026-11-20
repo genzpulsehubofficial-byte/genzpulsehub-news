@@ -1,0 +1,37 @@
+{
+ "id": "a6633c441463",
+ "created": "2026-11-21T00:08:28+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/iuml-to-appeal-against-shukkoor-murder-case-verdict-abdul-kareem-chelery/article71724031.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "IUML vows to appeal Shukkoor murder verdict",
+  "hook": "The party says it will push for harsher punishment.",
+  "what": "IUML’s Kannur district president Abdul Kareem Chelery announced the party will take legal steps to ensure all accused in the Shukkoor murder case receive appropriate punishment. He also expressed hope that the CBI will file an appeal against the verdict.",
+  "why": "Young voters should watch how political parties respond to court decisions, as it reflects on justice and accountability.",
+  "tags": [
+   "IUML",
+   "Shukkoor",
+   "Kannur",
+   "CBI",
+   "Justice"
+  ]
+ },
+ "ml": {
+  "headline": "IUML ശുക്കൂർ കൊലപാതക വിധിയിൽ അപീൽ ചെയ്യും",
+  "hook": "പാർട്ടി എല്ലാ പ്രതികളെയും കർശനമായി ശിക്ഷിക്കണമെന്ന് ആവശ്യപ്പെടുന്നു.",
+  "what": "കണ്ണൂർ ജില്ലാ പ്രസിഡന്റ് അബ്ദുൽ കരീം ചെലറി IUML എല്ലാ പ്രതികളെയും അനുയോജ്യമായ ശിക്ഷ ലഭിക്കാൻ നിയമ നടപടി സ്വീകരിക്കും എന്ന് പ്രഖ്യാപിച്ചു. ശുക്കൂർ കൊലപാതക കേസിന്റെ വിധിയോട് CBIയും അപീൽ ചെയ്യുമെന്ന് അദ്ദേഹം പ്രതീക്ഷിച്ചു.",
+  "why": "യുവവോട്ടർമാർക്ക് രാഷ്ട്രീയ പാർട്ടികളുടെ കോടതി തീരുമാനങ്ങളോട് പ്രതികരണം കാണുന്നത് നീതിയും ഉത്തരവാദിത്തവും എങ്ങനെ നിലനിൽക്കുന്നു എന്ന് മനസിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "IUML",
+   "ശുക്കൂർ",
+   "കണ്ണൂർ",
+   "CBI",
+   "ന്യായം"
+  ]
+ }
+}

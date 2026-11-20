@@ -1,0 +1,37 @@
+{
+ "id": "7b5f73cdc74a",
+ "created": "2026-11-21T00:09:35+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Pokémon GO",
+ "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTnJINVg1YWhGaWVPeFNrem9sbVItblp6MkczbGVqcDlCUHBGdC14Z1NSekRIZnFEemNLblJQN3UwZTBzMmxHWUZkMXh5Rjk0eTFMWFk2VWs2a1ZGbTdYV0NsUVY?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Pokémon GO November 2026 Community Day Highlights Pawniard",
+  "hook": "Grab Pawniard and chase shiny rewards this November!",
+  "what": "Niantic announced that the November 2026 Community Day will focus on Pawniard. The event will bring special bonuses, higher shiny odds and a chance to evolve Kingambit. Players can collect Pawniard during the day.",
+  "why": "For Indian teens who enjoy mobile gaming, it’s a chance to grow their Pokémon roster and snag rare evolutions. Mark the date and plan to play during the event.",
+  "tags": [
+   "PokemonGO",
+   "CommunityDay",
+   "Pawniard",
+   "Gaming",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പോക്കിമോൺ ഗോ നവംബർ 2026 കമ്മ്യൂണിറ്റി ഡേയിൽ പൗനിയാർഡ്",
+  "hook": "ഈ നവംബർ പൗനിയാർഡ് പിടിച്ച് ഷൈനി ബോണസ് നേടൂ!",
+  "what": "നിയാന്റിക് പ്രഖ്യാപിച്ച പ്രകാരം നവംബർ 2026 കമ്മ്യൂണിറ്റി ഡേയിൽ പൗനിയാർഡിനെ കേന്ദ്രീകരിച്ചിരിക്കും. ഇവന്റിൽ പ്രത്യേക ബോണസുകളും ഷൈനി സാധ്യത വർദ്ധനവും കിംഗാംബിറ്റ് എവോല്യൂഷൻ അവസരവും ഉണ്ടായിരിക്കും. കളിക്കാർക്ക് ആ ദിവസത്തിൽ പൗനിയാർഡ് ശേഖരിക്കാൻ കഴിയും.",
+  "why": "മൊബൈൽ ഗെയിം പ്രേമികളായ ഇന്ത്യൻ ടെൻസുകൾക്ക് ഇത് പോക്കിമോൺ ശേഖരം വളർത്താനും അപൂർവ എവോല്യൂഷൻ നേടാനും നല്ല അവസരമാണ്. തീയതി അടയാളപ്പെടുത്തി ഇവന്റിൽ പങ്കെടുക്കാൻ പദ്ധതിയിടുക.",
+  "tags": [
+   "PokemonGO",
+   "CommunityDay",
+   "Pawniard",
+   "Gaming",
+   "India"
+  ]
+ }
+}

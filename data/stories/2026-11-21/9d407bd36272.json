@@ -1,0 +1,37 @@
+{
+ "id": "9d407bd36272",
+ "created": "2026-11-21T00:09:40+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Crude Oil Prices Today | OilPrice.com",
+ "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkVuN2hKSkxKQTdtQl84WTJabnJNWlI1SWVaQ1lJMDVPY181SmNaLWEweGxLcVhZamdJS0ZyQWJxNnpzUmV0aUFmZldyUUpCTW5HRTMyYVc3Zk5DSHVNUzAyb0Y1UlpPb0NidGlWdTRqaVVwS2p5RTFWQkMwdElZS2NsdkEwTXVBTGRtVTJMeC1XNEtWenp30gGcAUFVX3lxTE1jR19RajlSRXNqaEtwamtrVzhYbERpRnVGSGwyejJTOVE2ZEx2YWxEOGM5U1E4YndLdXg3eTN6aFMyZmxMdlRZem5wU0IxTWIteVhUNE9VbGU1WmFmbFdWX3l2cU5xNW1PWVVITGNudG9teEU1UktWR1ZZUl9kSVZRcjlJMVRCdmVlc1YzWThERXdZZ1otbE5WcWxyZA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Oil Prices Slip Again Amid Strong Middle East Exports",
+  "hook": "Even with tanker attacks, crude is still dropping.",
+  "what": "Global crude prices continued to fall, marking another weekly decline as export volumes from the Middle East stayed high. Traders said disruptions to tankers and worries about U.S.-Iran tensions gave mixed signals.",
+  "why": "Lower oil prices can affect fuel costs and travel budgets for Indian youth, so keep an eye on pump prices and plan trips accordingly.",
+  "tags": [
+   "oil",
+   "prices",
+   "energy",
+   "global",
+   "fuel"
+  ]
+ },
+ "ml": {
+  "headline": "മിഡിൽ ഈസ്റ്റ് കയറ്റുമതികളാൽ എണ്ണവിലകൾ വീണ്ടും ഇടിഞ്ഞു",
+  "hook": "ടാങ്കർ ആക്രമണങ്ങളുണ്ടെങ്കിലും ക്രൂഡ് വിലകൾ ഇപ്പോഴും താഴുന്നു.",
+  "what": "ഗ്ലോബൽ ക്രൂഡ് വിലകൾ തുടർച്ചയായി ഇടിഞ്ഞു, മിഡിൽ ഈസ്റ്റിലെ കയറ്റുമതികൾ ഉയർന്ന നിലയിൽ തുടരുന്നു. ടാങ്കർ തടസ്സങ്ങളും യു.എസ്.-ഇറാൻ സംഘർഷം സംബന്ധിച്ച ആശങ്കകളും വിപണിയിൽ മിശ്ര സിഗ്നലുകൾ സൃഷ്ടിച്ചു.",
+  "why": "ഇത് ഇന്ധന വിലകളെ ബാധിച്ച് യാത്രാ ചെലവുകൾക്കും ബജറ്റിനും സ്വാധീനം ചെലുത്താം, അതിനാൽ പമ്പ് വിലകൾ ശ്രദ്ധിച്ച് പ്ലാൻ ചെയ്യുക.",
+  "tags": [
+   "എണ്ണ",
+   "വില",
+   "ഊർജം",
+   "ഗ്ലോബ്",
+   "ഇന്ധനം"
+  ]
+ }
+}

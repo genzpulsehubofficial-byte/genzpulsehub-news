@@ -1,0 +1,37 @@
+{
+ "id": "388977f644d2",
+ "created": "2026-11-21T00:09:30+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Geothermal startups aim to power data centers worldwide",
+  "hook": "Hot rock tech could light up every server farm.",
+  "what": "New geothermal companies claim they can generate terawatts of electricity from super‑hot rocks. They say the approach could work in many locations, not just traditional sites.",
+  "why": "If true, this could cut energy costs and carbon footprints for India's growing data‑center industry. Keep an eye on emerging clean‑energy ventures.",
+  "tags": [
+   "geothermal",
+   "data centers",
+   "clean energy",
+   "startup",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "ജിയോതർമല്‍ സ്റ്റാര്‍ട്ടപ്പുകള്‍ ഡാറ്റാ സെന്‍ററുകള്‍ക്ക് വൈദ്യുതി നല്‍കാന്‍ ലക്ഷ്യമിടുന്നു",
+  "hook": "ചൂടുള്ള പാറയുടെ സാങ്കേതികത എല്ലാ സര്‍വര്‍ ഫാമുകളും പ്രകാശിപ്പിക്കാം.",
+  "what": "പുതിയ ജിയോതർമല്‍ കമ്പനികള്‍ സൂപ്പര്‍‑ഹോട്ട് റോക്കില്‍ നിന്ന് ടെറാവാട്ട് വൈദ്യുതി ഉല്‍പാദിപ്പിക്കാമെന്ന് പറയുന്നു. ഇത് പല സ്ഥലങ്ങളിലും പ്രവര്‍ത്തിക്കുമെന്നു അവര്‍ കരുതുന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ ഡാറ്റാ സെന്‍ററുകളുടെ ഊര്‍ജ്ജ ചെലവുകളും കാര്‍ബണ്‍ ഫുട്പ്രിന്റും കുറയ്ക്കാന്‍ സഹായിക്കും. ശുചിത്വ ഊര്‍ജ്ജം നല്‍കുന്ന പുതിയ സംരംഭങ്ങളെ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ജിയോതർമല്‍",
+   "ഡാറ്റാ സെന്‍റര്‍",
+   "ശുചിത്വ ഊര്‍ജം",
+   "സ്റ്റാര്‍ട്ടപ്പ്",
+   "ടെക്"
+  ]
+ }
+}
