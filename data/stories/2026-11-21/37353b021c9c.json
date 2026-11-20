@@ -1,0 +1,35 @@
+{
+ "id": "37353b021c9c",
+ "created": "2026-11-21T04:46:20+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/bihar/digital-planetariums-education-centres-will-be-established-in-all-divisions-bihar-minister/article71724958.ece",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "Bihar Plans Digital Planetariums And Recruits Over 1,400 College Faculty",
+  "hook": "Big educational upgrades and teaching opportunities are rolling out across Bihar.",
+  "what": "The Bihar government announced plans to establish digital planetariums and education centres in all divisions. Additionally, requisitions have been sent to the BPSC to recruit 1,061 faculty members for engineering colleges and 354 for polytechnics.",
+  "why": "Aspiring educators in technical fields can prepare for upcoming recruitment opportunities through BPSC.",
+  "tags": [
+   "BiharJobs",
+   "BPSCRecruitment",
+   "EngineeringFaculty",
+   "CollegeJobs"
+  ]
+ },
+ "ml": {
+  "headline": "ബിഹാറിൽ ഡിജിറ്റൽ പ്ലാനറ്റോറിയങ്ങളും 1,400-ലധികം അധ്യാപക ഒഴിവുകളും വരുന്നു",
+  "hook": "ബിഹാറിലെ വിദ്യാഭ്യാസ മേഖലയിൽ പുതിയ സൗകര്യങ്ങളും വലിയ അധ്യാപക നിയമനങ്ങളും വരുന്നു.",
+  "what": "ബിഹാറിലെ എല്ലാ ഡിവിഷനുകളിലും ഡിജിറ്റൽ പ്ലാനറ്റോറിയങ്ങളും വിദ്യാഭ്യാസ കേന്ദ്രങ്ങളും ആരംഭിക്കാൻ സർക്കാർ തീരുമാനിച്ചു. ഒപ്പം എൻജിനീയറിങ് കോളേജുകളിലേക്ക് 1,061 അധ്യാപകരെയും പോളിടെക്‌നിക്കുകളിലേക്ക് 354 അധ്യാപകരെയും നിയമിക്കാൻ BPSC-ക്ക് നിർദേശം കൈമാറി.",
+  "why": "സാങ്കേതിക വിദ്യാഭ്യാസ മേഖലയിൽ ജോലി ആഗ്രഹിക്കുന്നവർ വരാനിരിക്കുന്ന ബിപിഎസ്‌സി അറിയിപ്പുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ബിഹാർജോബ്സ്",
+   "ബിപിഎസ്സി",
+   "അധ്യാപകനിയമനം",
+   "പ്ലാനറ്റോറിയം"
+  ]
+ }
+}

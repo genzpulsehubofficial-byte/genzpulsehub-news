@@ -1,5 +1,96 @@
 [
  {
+  "id": "4b42c5892025",
+  "created": "2026-11-21T04:45:48+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Rediff",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FVEtOS0hyOUJnWFhROEFQQlFYV3RWVnBfYzJUX3d2YzU5Y2FYaldUWV9YeWh3TlcxYVo0eTBicndSRHJGVVRTLW95ZV9TVEFuNlhzM0cweUxtM0Y2b3lWMUpDSkdPN3FCYVhCalZmRXBFSUdjVmc?oc=5",
+  "headline": "India vs New Zealand 1st Test: Rahul and Padikkal Build 50-Run Stand",
+  "hook": "KL Rahul and Devdutt Padikkal steady the ship for India in Wellington.",
+  "what": "India is taking on New Zealand in the opening match of their two-Test series. Batters Rahul and Padikkal came together to stitch a solid 50-run partnership. Shubman Gill's team is facing challenging conditions as they hunt for critical Test points.",
+  "why": "Cricket fans can track the live action to see how the young squad handles tough away conditions.",
+  "tags": [
+   "cricket",
+   "indvsnz",
+   "testcricket",
+   "teamindia"
+  ]
+ },
+ {
+  "id": "37353b021c9c",
+  "created": "2026-11-21T04:46:20+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/bihar/digital-planetariums-education-centres-will-be-established-in-all-divisions-bihar-minister/article71724958.ece",
+  "headline": "Bihar Plans Digital Planetariums And Recruits Over 1,400 College Faculty",
+  "hook": "Big educational upgrades and teaching opportunities are rolling out across Bihar.",
+  "what": "The Bihar government announced plans to establish digital planetariums and education centres in all divisions. Additionally, requisitions have been sent to the BPSC to recruit 1,061 faculty members for engineering colleges and 354 for polytechnics.",
+  "why": "Aspiring educators in technical fields can prepare for upcoming recruitment opportunities through BPSC.",
+  "tags": [
+   "BiharJobs",
+   "BPSCRecruitment",
+   "EngineeringFaculty",
+   "CollegeJobs"
+  ]
+ },
+ {
+  "id": "9923066eb106",
+  "created": "2026-11-21T04:47:04+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bjps-invitation-to-pakistans-minister-vindicates-abdullahs-stance-jk-deputy-chief-minister/article71726194.ece",
+  "headline": "J&K Leaders Share Views on Pakistani Minister's India Visit",
+  "hook": "Political leaders in Jammu and Kashmir are reacting to new diplomatic moves.",
+  "what": "Jammu and Kashmir's Deputy Chief Minister remarked that inviting a Pakistani Minister supports Abdullah's viewpoint. Additionally, PDP legislator Muntazir Mehdi called the visit a positive development. Mehdi also appealed for India and Pakistan to restart their bilateral talks.",
+  "why": "Diplomatic engagements between neighboring nations can shape discussions around regional stability and cross-border relations.",
+  "tags": [
+   "diplomacy",
+   "jammuandkashmir",
+   "politics",
+   "news"
+  ]
+ },
+ {
+  "id": "bf592870b2d5",
+  "created": "2026-11-21T04:47:09+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "BigGo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
+  "headline": "GTA VI earns $3.79 bn on launch, staff futures unclear",
+  "hook": "The biggest game debut ever, but its creators worry about jobs.",
+  "what": "Grand Theft Auto VI generated $3.79 billion in retail sales on its first day, with total estimated sales topping $2.3 billion. The launch sparked a surge in download demand. Despite the revenue, Rockstar Games employees face an uncertain outlook.",
+  "why": "The record-breaking launch shows the massive scale of the gaming market, highlighting potential career opportunities in game development. However, job security can still be volatile, so aspiring creators should build diverse skills.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "jobs",
+   "revenue",
+   "India"
+  ]
+ },
+ {
+  "id": "7a4d34969404",
+  "created": "2026-11-21T04:47:36+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Decrypt",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5",
+  "headline": "Nvidia Shares Crash to 52-Week Low Amid Accounting Probes",
+  "hook": "The tech giant behind your favorite GPUs is facing intense legal scrutiny.",
+  "what": "Nvidia shares have dropped to a 52-week low following reports that the US SEC is probing the company's accounting practices. The company has also been subpoenaed by the California Attorney General regarding its chips and a probe involving AI chips to China. These mounting legal challenges come amid a massive market rout for the chipmaker.",
+  "why": "Nvidia powers major AI and tech innovations globally, so serious legal trouble for the company can send ripples across the tech industry.",
+  "tags": [
+   "Nvidia",
+   "TechNews",
+   "AIChips",
+   "Stocks"
+  ]
+ },
+ {
   "id": "f38c81d64f98",
   "created": "2026-11-21T03:53:38+05:30",
   "category": "headlines",
@@ -657,101 +748,6 @@
    "PrivateHospitals",
    "TamilNadu",
    "Health"
-  ]
- },
- {
-  "id": "4a41262fab2d",
-  "created": "2026-11-20T21:08:41+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/air-india-air-india-express-flights-cancellation-to-jeddah-saudi-arabia/article71724670.ece",
-  "headline": "Air India pauses Jeddah flights till Nov 24",
-  "hook": "Your Jeddah ticket? You can rebook or get money back.",
-  "what": "Air India and AI Express have extended the suspension of flights to and from Jeddah until 24 November. Bookings made on or before 20 November are eligible for free rescheduling, subject to seat availability, or a full refund if cancelled.",
-  "why": "Young travelers can avoid losing money and plan alternative routes now. Check your booking and choose the option that fits you.",
-  "tags": [
-   "AirIndia",
-   "Jeddah",
-   "Travel",
-   "Refund",
-   "Reschedule"
-  ]
- },
- {
-  "id": "d8907a519caf",
-  "created": "2026-11-20T21:08:48+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2tfSjF2ZExQUEt5ZS0xd0RkS0VsanI1UkM5bWRxUWlIUVk5Y2ZwV09oeE1CMGJpeW5POFJWSVkxNDV3N2I3OHplWlgwdkh6eVU1R0F6ZFBvd0xvRmVvc2RPd3BjTFJSeFcxalZMblRRYWc3NFNRQW5QdW5oQXU2bEVsVFh4MUZMNEVTMEszNA?oc=5",
-  "headline": "Pakistan Women Face Ireland in ICC Emerging Nations Super Six",
-  "hook": "Catch the live showdown of two rising cricket sides.",
-  "what": "Pakistan’s women’s cricket team played Ireland in the Super Six round of the 2026 ICC Women’s Emerging Nations Trophy. The match is being streamed live with real‑time score updates on Cricket World and Cricbuzz.",
-  "why": "Watching emerging teams lets young fans discover future stars and supports the growth of women’s cricket. Tune in to the live feed to stay updated.",
-  "tags": [
-   "cricket",
-   "women’scricket",
-   "ICC",
-   "EmergingNations",
-   "live"
-  ]
- },
- {
-  "id": "ab0c3c444197",
-  "created": "2026-11-20T21:08:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/bike-taxis-safer-for-young-girls-supreme-court-allows-ops-to-continue-in-karnataka-101795169207507.html",
-  "headline": "Supreme Court lets Karnataka bike taxis run, cites safety for girls",
-  "hook": "Bike rides stay legal, promising safer travel for young women.",
-  "what": "The Supreme Court has approved the continuation of bike‑taxi services in Karnataka. The court said these services are cheap and easy to reach, especially for female commuters.",
-  "why": "Teenage girls can keep using affordable bike rides for school or outings. Follow basic safety tips while traveling.",
-  "tags": [
-   "bike taxis",
-   "Karnataka",
-   "girls safety",
-   "young commuters",
-   "court ruling"
-  ]
- },
- {
-  "id": "c516fa9e4013",
-  "created": "2026-11-20T21:08:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/cryptocurrency/news/sec-takes-action-against-eight-entities-in-usd-37-million-crypto-fraud-case-crypto-scams-hacks-exploits-usdc-usdt-eth-12354811",
-  "headline": "SEC targets eight firms in $37M crypto scam",
-  "hook": "Young investors lost homes after betting on a crypto scheme",
-  "what": "The U.S. Securities and Exchange Commission has filed actions against eight entities tied to a crypto fraud worth about $37 million. Victims are said to have taken out mortgages on their properties to fund the investment.",
-  "why": "The case warns Indian teens to be cautious with high‑risk crypto offers and to verify any investment before committing money or assets.",
-  "tags": [
-   "crypto",
-   "fraud",
-   "SEC",
-   "investing",
-   "risk"
-  ]
- },
- {
-  "id": "fb9b1315e156",
-  "created": "2026-11-20T21:08:56+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/best-mutual-funds-does-switching-to-last-year-s-top-performing-category-help-you-earn-higher-long-term-sip-returns-11795187795758.html",
-  "headline": "Sticking to Same Fund Category Beats Chasing Last Year's Winners",
-  "hook": "Your SIP might grow faster by staying put, not switching.",
-  "what": "WhiteOak Capital analyzed mutual fund performance and found that moving SIP money to the top‑performing category of the previous year did not raise long‑term returns. Staying in the same category, especially mid‑cap funds, delivered higher average returns over a rolling 10‑year period.",
-  "why": "Gen‑Z investors should avoid constantly chasing past winners; keeping investments in a consistent category can generate stronger growth over time.",
-  "tags": [
-   "mutualfunds",
-   "SIP",
-   "investing",
-   "midcaps",
-   "finance"
   ]
  }
 ]

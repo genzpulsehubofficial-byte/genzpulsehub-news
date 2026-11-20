@@ -1,0 +1,35 @@
+{
+ "id": "4b42c5892025",
+ "created": "2026-11-21T04:45:48+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Rediff",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FVEtOS0hyOUJnWFhROEFQQlFYV3RWVnBfYzJUX3d2YzU5Y2FYaldUWV9YeWh3TlcxYVo0eTBicndSRHJGVVRTLW95ZV9TVEFuNlhzM0cweUxtM0Y2b3lWMUpDSkdPN3FCYVhCalZmRXBFSUdjVmc?oc=5",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "India vs New Zealand 1st Test: Rahul and Padikkal Build 50-Run Stand",
+  "hook": "KL Rahul and Devdutt Padikkal steady the ship for India in Wellington.",
+  "what": "India is taking on New Zealand in the opening match of their two-Test series. Batters Rahul and Padikkal came together to stitch a solid 50-run partnership. Shubman Gill's team is facing challenging conditions as they hunt for critical Test points.",
+  "why": "Cricket fans can track the live action to see how the young squad handles tough away conditions.",
+  "tags": [
+   "cricket",
+   "indvsnz",
+   "testcricket",
+   "teamindia"
+  ]
+ },
+ "ml": {
+  "headline": "ന്യൂസിലൻഡിനെതിരായ ഒന്നാം ടെസ്റ്റ്: രാഹുലും പടിക്കലും ചേർന്ന് 50 റൺസ് കൂട്ടുകെട്ട്",
+  "hook": "വെല്ലിങ്ടണിൽ ഇന്ത്യക്കായി ക്രീസിൽ ഉറച്ചുനിന്ന് രാഹുലും പടിക്കലും.",
+  "what": "ഇന്ത്യയും ന്യൂസിലൻഡും തമ്മിലുള്ള രണ്ട് മത്സരങ്ങളുടെ പരമ്പരയിലെ ആദ്യ ടെസ്റ്റ് ആരംഭിച്ചു. മത്സരത്തിൽ രാഹുലും പടിക്കലും ചേർന്ന് അമ്പത് റൺസിന്റെ കൂട്ടുകെട്ടുണ്ടാക്കി. ശുഭ്മൻ ഗില്ലിന്റെ നേതൃത്വത്തിലുള്ള ടീം ഇന്ത്യ ന്യൂസിലൻഡിലെ വെല്ലുവിളി നിറഞ്ഞ സാഹചര്യങ്ങളിലാണ് ബാറ്റ് ചെയ്യുന്നത്.",
+  "why": "ലോക ടെസ്റ്റ് ചാമ്പ്യൻഷിപ്പ് പോരാട്ടങ്ങൾ ശ്രദ്ധിക്കുന്ന ക്രിക്കറ്റ് പ്രേമികൾക്ക് ഈ മത്സരം നിർണായകമാണ്.",
+  "tags": [
+   "cricket",
+   "indvsnz",
+   "sportsnews",
+   "teamindia"
+  ]
+ }
+}

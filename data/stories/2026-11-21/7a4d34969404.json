@@ -1,0 +1,35 @@
+{
+ "id": "7a4d34969404",
+ "created": "2026-11-21T04:47:36+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Decrypt",
+ "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "Nvidia Shares Crash to 52-Week Low Amid Accounting Probes",
+  "hook": "The tech giant behind your favorite GPUs is facing intense legal scrutiny.",
+  "what": "Nvidia shares have dropped to a 52-week low following reports that the US SEC is probing the company's accounting practices. The company has also been subpoenaed by the California Attorney General regarding its chips and a probe involving AI chips to China. These mounting legal challenges come amid a massive market rout for the chipmaker.",
+  "why": "Nvidia powers major AI and tech innovations globally, so serious legal trouble for the company can send ripples across the tech industry.",
+  "tags": [
+   "Nvidia",
+   "TechNews",
+   "AIChips",
+   "Stocks"
+  ]
+ },
+ "ml": {
+  "headline": "അക്കൗണ്ടിംഗ് അന്വേഷണങ്ങളെ തുടർന്ന് എൻവിഡിയ ഓഹരികളിൽ വലിയ ഇടിവ്",
+  "hook": "പ്രമുഖ ചിപ്പ് നിർമ്മാതാക്കളായ എൻവിഡിയയ്ക്കെതിരെ അന്വേഷണം ശക്തമാകുന്നു.",
+  "what": "അക്കൗണ്ടിംഗ് രേഖകളെക്കുറിച്ച് യുഎസ് എസ്ഇസി അന്വേഷണം നടത്തുന്നുവെന്ന റിപ്പോർട്ടുകൾ വന്നതോടെ എൻവിഡിയയുടെ ഓഹരി വില ഒരു വർഷത്തെ ഏറ്റവും കുറഞ്ഞ നിരക്കിലെത്തി. ചിപ്പുകളുമായി ബന്ധപ്പെട്ട് കാലിഫോർണിയ അറ്റോർണി ജനറലും കമ്പനിക്ക് സമൻസ് അയച്ചിട്ടുണ്ട്. ഇതോടെ കമ്പനി വലിയ സാമ്പത്തിക നഷ്ടവും നിയമപരമായ പ്രശ്നങ്ങളും നേരിടുകയാണ്.",
+  "why": "ലോകമെമ്പാടുമുള്ള എഐ, ഗെയിമിംഗ് സാങ്കേതികവിദ്യകളെ നയിക്കുന്ന കമ്പനിയായതിനാൽ എൻവിഡിയയിലെ പ്രതിസന്ധികൾ ആഗോള ടെക് മേഖലയെ ബാധിച്ചേക്കാം.",
+  "tags": [
+   "Nvidia",
+   "TechNews",
+   "AIChips",
+   "MalayalamNews"
+  ]
+ }
+}

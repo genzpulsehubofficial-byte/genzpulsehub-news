@@ -1,0 +1,37 @@
+{
+ "id": "bf592870b2d5",
+ "created": "2026-11-21T04:47:09+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "BigGo Finance",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA VI earns $3.79 bn on launch, staff futures unclear",
+  "hook": "The biggest game debut ever, but its creators worry about jobs.",
+  "what": "Grand Theft Auto VI generated $3.79 billion in retail sales on its first day, with total estimated sales topping $2.3 billion. The launch sparked a surge in download demand. Despite the revenue, Rockstar Games employees face an uncertain outlook.",
+  "why": "The record-breaking launch shows the massive scale of the gaming market, highlighting potential career opportunities in game development. However, job security can still be volatile, so aspiring creators should build diverse skills.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "jobs",
+   "revenue",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "GTA VI ആദ്യദിവസം $3.79 bn വരുമാനം, സ്റ്റാഫിന്റെ ഭാവി അനിശ്ചിതം",
+  "hook": "ഇത്ര വലിയ ഗെയിം റിലീസ്, പക്ഷേ ഡെവലപ്പർമാർക്ക് ജോലി സുരക്ഷയില്ല.",
+  "what": "Grand Theft Auto VI ആദ്യദിവസം $3.79 ബില്യൺ റീട്ടെയിൽ വിൽപ്പന നേടി, മൊത്തം വിറ്റുവരവ് $2.3 ബില്യൺ കവിഞ്ഞു. ലോഞ്ച് ഡൗൺലോഡ് ആവശ്യകതയിൽ വളരെയധികം വർധനവുണ്ടാക്കി. ഇതിന് പുറമേ, Rockstar Games ജീവനക്കാർക്ക് തൊഴിൽ ഭാവി അനിശ്ചിതമാണ്.",
+  "why": "ഈ റെക്കോർഡ് ഗെയിം വിപണി യുവജനങ്ങൾക്ക് ഗെയിം ഡെവലപ്മെന്റ് മേഖലയിൽ കരിയർ അവസരങ്ങൾ കാണിക്കുന്നു, പക്ഷേ ജോലി സ്ഥിരത ഉറപ്പില്ല. അതിനാൽ, വിവിധ കഴിവുകൾ വികസിപ്പിച്ച് സുരക്ഷിതമായ ഭാവി ഒരുക്കണം.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "jobs",
+   "revenue",
+   "India"
+  ]
+ }
+}

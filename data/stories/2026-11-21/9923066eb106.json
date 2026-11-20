@@ -1,0 +1,35 @@
+{
+ "id": "9923066eb106",
+ "created": "2026-11-21T04:47:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bjps-invitation-to-pakistans-minister-vindicates-abdullahs-stance-jk-deputy-chief-minister/article71726194.ece",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "J&K Leaders Share Views on Pakistani Minister's India Visit",
+  "hook": "Political leaders in Jammu and Kashmir are reacting to new diplomatic moves.",
+  "what": "Jammu and Kashmir's Deputy Chief Minister remarked that inviting a Pakistani Minister supports Abdullah's viewpoint. Additionally, PDP legislator Muntazir Mehdi called the visit a positive development. Mehdi also appealed for India and Pakistan to restart their bilateral talks.",
+  "why": "Diplomatic engagements between neighboring nations can shape discussions around regional stability and cross-border relations.",
+  "tags": [
+   "diplomacy",
+   "jammuandkashmir",
+   "politics",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "പാക് മന്ത്രിയുടെ സന്ദർശനത്തിൽ പ്രതികരണവുമായി ജമ്മു കശ്മീരിലെ രാഷ്ട്രീയ നേതാക്കൾ",
+  "hook": "ഇന്ത്യ-പാക് നയതന്ത്ര നീക്കങ്ങളിൽ നിലപാട് വ്യക്തമാക്കി കശ്മീരിലെ നേതാക്കൾ.",
+  "what": "പാകിസ്ഥാൻ മന്ത്രിയെ ക്ഷണിച്ച നടപടി അബ്ദുള്ളയുടെ നിലപാടിനെ ശരിവെക്കുന്നതാണെന്ന് ജമ്മു കശ്മീർ ഉപമുഖ്യമന്ത്രി വ്യക്തമാക്കി. ഈ സന്ദർശനം സ്വാഗതാർഹമായ ഒന്നാണെന്ന് പി.ഡി.പി നിയമസഭാംഗം മുൻതസിർ മെഹ്ദി പറഞ്ഞു. ഇരുരാജ്യങ്ങളും തമ്മിലുള്ള ചർച്ചകൾ പുനരാരംഭിക്കണമെന്നും അദ്ദേഹം ആവശ്യപ്പെട്ടു.",
+  "why": "അയൽരാജ്യങ്ങൾ തമ്മിലുള്ള ഇത്തരം നയതന്ത്ര നീക്കങ്ങൾ പ്രാദേശിക സമാധാന ചർച്ചകളിൽ ഏറെ നിർണായകമാണ്.",
+  "tags": [
+   "നയതന്ത്രം",
+   "കശ്മീർ",
+   "രാഷ്ട്രീയം",
+   "വാർത്തകൾ"
+  ]
+ }
+}
