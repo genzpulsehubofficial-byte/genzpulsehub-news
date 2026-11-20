@@ -1,0 +1,37 @@
+{
+ "id": "30eabfa75381",
+ "created": "2026-11-20T14:46:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/odisha-assembly-adjourned-till-nov-23-morning-due-to-cyclone-akvan-101795163112963.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Odisha Assembly pauses till Nov 23 as Cyclone Akvan hits",
+  "hook": "Lawmakers are stepping back to help cyclone victims.",
+  "what": "The Odisha Legislative Assembly has been adjourned until the morning of November 23 because of Cyclone Akvan. During the session, officials said legislators will support relief efforts for those affected.",
+  "why": "The suspension shows the severity of the storm and the need for community help. Teens can stay updated on safety measures and volunteer or donate if possible.",
+  "tags": [
+   "Odisha",
+   "CycloneAkvan",
+   "Assembly",
+   "Relief",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഒഡിഷാ അസംബ്ലി നവം 23 വരെ ഇടവേള, സൈക്ലോൺ അക്വാൻ",
+  "hook": "നിയമനിർമ്മാതാക്കൾ ചുഴലിക്കാറ്റ് ബാധിതരെ സഹായിക്കാൻ ഇടവേള എടുക്കുന്നു.",
+  "what": "ഒഡിഷാ നിയമസഭ സൈക്ലോൺ അക്വാൻ കാരണം നവം 23 രാവിലെ വരെ വിച്ഛേദിച്ചു. യോഗത്തിൽ അംഗങ്ങൾ ബാധിതരെ സഹായിക്കാൻ നിയമസഭാംഗങ്ങൾ സഹായം നൽകുമെന്ന് അറിയിച്ചു.",
+  "why": "ഇത് ചുഴലിക്കാറ്റിന്റെ ഗൗരവം കാണിക്കുന്നു, സമൂഹത്തിന്റെ സഹായം ആവശ്യമുണ്ട്. യുവാക്കൾ സുരക്ഷാ മാർഗ്ഗങ്ങൾ അറിയുകയും, ആവശ്യമെങ്കിൽ സ്വമേധയാ സഹായം നൽകുകയും ചെയ്യാം.",
+  "tags": [
+   "ഒഡിഷാ",
+   "സൈക്ലോൺഅക്വാൻ",
+   "അസംബ്ലി",
+   "സഹായം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "85449f0868d6",
+ "created": "2026-11-20T14:46:09+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "DSP Mutual Fund to Boost Gold & Silver in Omni Fund",
+  "hook": "Precious metal exposure getting a lift for investors.",
+  "what": "DSP Mutual Fund said it will slowly increase its gold and silver positions in the Multi Asset Omni Fund of Funds. The fund had been holding less of these metals. The increase will follow a set of predefined rules.",
+  "why": "Young investors may see more diversification and a potential hedge against inflation. Keep an eye on the fund’s updates if you’re considering mutual fund options.",
+  "tags": [
+   "DSP",
+   "Gold",
+   "Silver",
+   "MutualFund",
+   "Investing"
+  ]
+ },
+ "ml": {
+  "headline": "DSP മ്യൂച്ച്വൽ ഫണ്ട് ഒംനി ഫണ്ടിൽ സ്വർണം, വെള്ളി വർദ്ധിപ്പിക്കുന്നു",
+  "hook": "പ്രീഷ്യസ് മെറ്റൽ എക്സ്പോഷർ നിക്ഷേപകർക്ക് ഉയരുന്നു.",
+  "what": "DSP മ്യൂച്ച്വൽ ഫണ്ട് തന്റെ മൾട്ടി ആസറ്റ് ഒംനി ഫണ്ട് ഓഫ് ഫണ്ട്സിൽ സ്വർണവും വെള്ളിയും ക്രമേണ കൂട്ടും എന്ന് പ്രഖ്യാപിച്ചു. മുമ്പ് ഈ ഫണ്ട് precious metals‑ൽ കുറവായിരുന്നു. ഈ വർദ്ധനവ് ഒരു നിയമാധിഷ്ഠിത തന്ത്രം അനുസരിച്ച് നടപ്പാക്കും.",
+  "why": "യുവ നിക്ഷേപകർക്ക് കൂടുതൽ വൈവിധ്യവും ഇൻഫ്ലേഷൻ പ്രതിരോധവും ലഭിക്കാൻ ഇത് സഹായിക്കും. മ്യൂച്ച്വൽ ഫണ്ട് തിരഞ്ഞെടുക്കുമ്പോൾ ഈ മാറ്റം ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "DSP",
+   "സ്വർണം",
+   "വെള്ളി",
+   "മ്യൂച്ച്വൽഫണ്ട്",
+   "നിക്ഷേപം"
+  ]
+ }
+}

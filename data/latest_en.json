@@ -1,5 +1,118 @@
 [
  {
+  "id": "200ef45bbf44",
+  "created": "2026-11-20T14:45:54+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTmt5Y0V3dWEzRWVmYlRQY1A5RmlBTDBQRWNRTVg2ZkxjVjlIQnpfT3B6dDNDaDlibmJQdEEybm5SeFZjX0lUQV9qWmRRSDdteHItNGNoTmFhT2hmQ0tUcnlqa05WVXp6Wk1MeEZMUmYyTEhkWk9qSXRwaTE3WHlZM0Z5a3FNbGFmNUw5WUtmTXdxYXU0U3lBR2xSb1BnNVF5amNEbUdsVHVzR2RWRS1KV05wNXQwQzl6azBrckJiTlF1dndCdE5XS3ctVlk0SzF2RHRPc1V6bkZyUzlTenI5akI5M3JBME1wQTlPRzloYjZTZVJfM2fSAfwBQVVfeXFMTldNY1lYU3JjWUh2SV9NVE5WeDJDd2pDVGJOdTNFYWdEVUIxdHN2RUxVMi1qa0hMRVQ5aHNSaUlkbTV6a2MtckFEaUdkdGdJU3F3LWg0WkZhMU5YdDRLclE1UVpndU11cE9lWTdKSzVKQnA0cFA3eWJvTU5LcnYtdDBVYk1HTlIySjl0WVZOQ2gxblRPbU1saUp4U1h4ZUhkNEJzQmpqdFctOUNsWnpiNW5uQl8wT1dGNzFqRGl2TTB6SFkyVFNReWF3VzJ3bTBVX0o5MnZTa0pYRl9nWUQxOTB5YTA1ZVQwWHUtNlRINUFJMWtRZFhLWGV4bDBu?oc=5",
+  "headline": "Supreme Court rejects Tamil Nadu's request for extra Cauvery water",
+  "hook": "The water battle continues with no new orders from the court.",
+  "what": "The Supreme Court turned down Tamil Nadu's petitions that asked for a direction to Karnataka to release an additional 11 TMC of Cauvery water. The pleas sought a court‑ordered increase in the river flow.",
+  "why": "The ruling keeps the existing water sharing arrangement unchanged, affecting farming and daily use in Tamil Nadu. Young people should stay aware of how water policies impact their communities.",
+  "tags": [
+   "Cauvery",
+   "WaterDispute",
+   "SupremeCourt",
+   "TamilNadu",
+   "Karnataka"
+  ]
+ },
+ {
+  "id": "30eabfa75381",
+  "created": "2026-11-20T14:46:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/odisha-assembly-adjourned-till-nov-23-morning-due-to-cyclone-akvan-101795163112963.html",
+  "headline": "Odisha Assembly pauses till Nov 23 as Cyclone Akvan hits",
+  "hook": "Lawmakers are stepping back to help cyclone victims.",
+  "what": "The Odisha Legislative Assembly has been adjourned until the morning of November 23 because of Cyclone Akvan. During the session, officials said legislators will support relief efforts for those affected.",
+  "why": "The suspension shows the severity of the storm and the need for community help. Teens can stay updated on safety measures and volunteer or donate if possible.",
+  "tags": [
+   "Odisha",
+   "CycloneAkvan",
+   "Assembly",
+   "Relief",
+   "Youth"
+  ]
+ },
+ {
+  "id": "54570863a2ce",
+  "created": "2026-11-20T14:46:07+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hm-chennithala-urges-centre-amend-juvenile-justice-act-ptio2ubb2t9",
+  "headline": "Kerala Minister asks Centre to tighten Juvenile Justice law",
+  "hook": "Rising teen crimes push lawmakers for stricter rules",
+  "what": "Kerala Home Minister Ramesh Chennithala sent a letter to the central government requesting changes to the Juvenile Justice Act. He said the move is needed because violent offenses by minors are increasing.",
+  "why": "If laws become stricter, young people may face tougher penalties, highlighting the need for responsible behavior. Stay aware of legal changes that could affect you.",
+  "tags": [
+   "Kerala",
+   "JuvenileJustice",
+   "YouthCrime",
+   "Law"
+  ]
+ },
+ {
+  "id": "85449f0868d6",
+  "created": "2026-11-20T14:46:09+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
+  "headline": "DSP Mutual Fund to Boost Gold & Silver in Omni Fund",
+  "hook": "Precious metal exposure getting a lift for investors.",
+  "what": "DSP Mutual Fund said it will slowly increase its gold and silver positions in the Multi Asset Omni Fund of Funds. The fund had been holding less of these metals. The increase will follow a set of predefined rules.",
+  "why": "Young investors may see more diversification and a potential hedge against inflation. Keep an eye on the fund’s updates if you’re considering mutual fund options.",
+  "tags": [
+   "DSP",
+   "Gold",
+   "Silver",
+   "MutualFund",
+   "Investing"
+  ]
+ },
+ {
+  "id": "8165d9521735",
+  "created": "2026-11-20T14:46:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+  "headline": "US Cyber Director Resigns Amid Widespread Outages",
+  "hook": "A top U.S. cyber chief quits while tech glitches surge.",
+  "what": "The United States’ national cyber director announced his departure. At the same time, businesses nationwide are experiencing numerous technical outages, and the reasons remain unclear.",
+  "why": "For Indian teens, this highlights the importance of staying aware of global cyber developments that can affect online safety. Keep your devices updated and follow good security practices.",
+  "tags": [
+   "cybersecurity",
+   "technews",
+   "US",
+   "outages",
+   "global"
+  ]
+ },
+ {
+  "id": "58cbc36cc1e2",
+  "created": "2026-11-20T14:46:14+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/wedding-season-begins-with-dev-uthani-ekadashi-how-are-gifts-from-in-laws-taxed-before-and-after-marriage-explained-11795162274374.html",
+  "headline": "Tax rules for wedding gifts: before vs after marriage",
+  "hook": "Know which wedding presents are tax‑free and which aren’t.",
+  "what": "The Income‑Tax Act distinguishes gifts based on when they are received and who gives them. Gifts from future in‑laws before the ceremony, gifts from any guest on the wedding day, and gifts from relatives after the marriage are all treated differently for tax purposes.",
+  "why": "Young couples should understand these rules to avoid unexpected tax bills and keep proper records of received gifts.",
+  "tags": [
+   "tax",
+   "wedding",
+   "gifts",
+   "finance",
+   "India"
+  ]
+ },
+ {
   "id": "8a392777c9a8",
   "created": "2026-11-20T13:30:54+05:30",
   "category": "headlines",
@@ -636,120 +749,6 @@
    "MalayalamCinema",
    "Naslen",
    "KunchackoBoban"
-  ]
- },
- {
-  "id": "f4751837d237",
-  "created": "2026-11-20T05:44:53+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/47-train-cancelled-over-3-lakh-evacuated-as-cyclone-akvan-heads-to-odisha-12351955#publisher=newsstand",
-  "headline": "Cyclone Akvan Triggers 47 Train Cancellations, 300k Evacuated",
-  "hook": "Mass evacuations and rail disruptions as a storm heads for Odisha.",
-  "what": "Cyclone Akvan moved toward Odisha, leading authorities to cancel 47 trains and evacuate over three lakh people. Officials said detailed discussions were held on cyclone readiness.",
-  "why": "Travel plans may be affected, so check train schedules and stay updated on weather alerts.",
-  "tags": [
-   "cyclone",
-   "Odisha",
-   "evacuation",
-   "train",
-   "weather"
-  ]
- },
- {
-  "id": "0f5c2ebdca5a",
-  "created": "2026-11-20T05:44:56+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-  "headline": "Elon Musk says SpaceX designed tiny rooftop tower to cut dead zones",
-  "hook": "Say goodbye to dropped calls at home and school!",
-  "what": "SpaceX CEO Elon Musk announced the company has finished designing a miniature rooftop cell tower. The device is meant to boost mobile signal strength and remove dead zones.",
-  "why": "Stronger coverage means fewer call drops and faster data, which helps with streaming, gaming and online classes. Keep an eye out for the rollout in your area.",
-  "tags": [
-   "tech",
-   "mobile",
-   "coverage",
-   "SpaceX",
-   "India"
-  ]
- },
- {
-  "id": "355da3df5fad",
-  "created": "2026-11-20T05:44:58+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook-12351934#publisher=newsstand",
-  "headline": "Anthropic debuts on Nasdaq with $1.5 trillion value",
-  "hook": "A massive AI valuation sets a new bar for startups.",
-  "what": "The AI research firm Anthropic started trading on the Nasdaq on Thursday. Its market worth was pegged at $1.5 trillion at debut.",
-  "why": "The figure shows how investors are betting big on artificial intelligence, a trend Indian tech founders should watch. Keep an eye on market moves and funding opportunities.",
-  "tags": [
-   "AI",
-   "Nasdaq",
-   "valuation",
-   "startups",
-   "venture"
-  ]
- },
- {
-  "id": "8b45cae6ea7d",
-  "created": "2026-11-20T05:45:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "NPR",
-  "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1VvemJuSEpzTkFITTloV2lSQnhOdi1KYjVIcjRkYnNGSk56U2hucDJpUThDalNaaU13WXRlR0VvYUM0aUkyWkNmNFl4eE9Zd05LcU1xU1NzWHRhd3otakxIUElPenE4QUVvcE1iVFl4VUxZWGIyYXFFd3d3TjBkQzdvUkRhQmxDNkdtekc3cnhJLVZTbm8wcmg5X2k4MnY4ekxMME9tOHNwRU1aaUR1Vml4VVZoOWJsR1pj?oc=5",
-  "headline": "GTA VI’s massive world built by thousands of NPCs",
-  "hook": "Meet the digital crowds that make the city feel alive.",
-  "what": "Rockstar spent about ten years, a billion dollars and thousands of staff to craft Grand Theft Auto VI. Non‑player characters are used to populate the game’s expansive environment, adding depth and realism.",
-  "why": "Understanding how NPCs shape the game helps gamers appreciate the scale and effort behind modern titles, and shows where future updates may focus.",
-  "tags": [
-   "GTA6",
-   "Rockstar",
-   "gaming",
-   "NPCs",
-   "development"
-  ]
- },
- {
-  "id": "d41d46ed8679",
-  "created": "2026-11-20T05:45:03+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "FXEmpire",
-  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay1PaGE2RjY3cTNIR29vSkZIN2FyZw?oc=5",
-  "headline": "Gold hits 1‑year low as yields rise, silver slides",
-  "hook": "Precious metals are dropping fast—what it means for your savings.",
-  "what": "Gold fell to its lowest level in a year, slipping below $3,650 per ounce. Silver also dropped, with Mumbai prices at Rs 1,29,531 per ounce for gold and Rs 1,60,439 per kilogram for silver. The fall is linked to higher Treasury yields and a strong dollar, and analysts see further downside toward $3,500.",
-  "why": "Lower metal prices can affect investment plans and the cost of jewellery for young Indians. Keep an eye on market moves if you hold or plan to buy these assets.",
-  "tags": [
-   "gold",
-   "silver",
-   "markets",
-   "investing",
-   "India"
-  ]
- },
- {
-  "id": "a4a1a4fe3f17",
-  "created": "2026-11-20T05:45:06+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFdHN2JDOEN4ZXEyQWZKZF9GSnFRZXMzRS0yazdaM2pBYk1rRjBWbm5fb21zdVgzakdfcDZRckg1X0lRaHhiM2IxYWh3dm9oM0gydFFwbnFlTFVBMTJGaEVORUtteW1HYWFseXhRMlVTSktEcFF1R1ZpRHhyTWtQY01DZEZ3YjNuUjY1NGVR?oc=5",
-  "headline": "South Africa names squad for Bangladesh Test, Bavuma tops captaincy list",
-  "hook": "The Proteas' lineup is set and their skipper just broke a historic record.",
-  "what": "South Africa announced its playing XI for the opening Test against Bangladesh. In the latest elite test captaincy rankings, Temba Bavuma moved ahead of legends like Ponting and Waugh.",
-  "why": "Young fans can follow the series to see how the new squad performs and track Bavuma's rising stature in world cricket.",
-  "tags": [
-   "cricket",
-   "southafrica",
-   "bangladesh",
-   "test",
-   "bavuma"
   ]
  }
 ]

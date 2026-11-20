@@ -1,0 +1,35 @@
+{
+ "id": "54570863a2ce",
+ "created": "2026-11-20T14:46:07+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-hm-chennithala-urges-centre-amend-juvenile-justice-act-ptio2ubb2t9",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala Minister asks Centre to tighten Juvenile Justice law",
+  "hook": "Rising teen crimes push lawmakers for stricter rules",
+  "what": "Kerala Home Minister Ramesh Chennithala sent a letter to the central government requesting changes to the Juvenile Justice Act. He said the move is needed because violent offenses by minors are increasing.",
+  "why": "If laws become stricter, young people may face tougher penalties, highlighting the need for responsible behavior. Stay aware of legal changes that could affect you.",
+  "tags": [
+   "Kerala",
+   "JuvenileJustice",
+   "YouthCrime",
+   "Law"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം മന്ത്രി കേന്ദ്രം ജൂവിനൈൽ ജസ്റ്റിസ് നിയമം കർശനമാക്കാൻ അപേക്ഷിച്ചു",
+  "hook": "കുട്ടികളുടെ കുറ്റകൃത്യങ്ങൾ വർധിച്ചതിനാൽ നിയമം കർശനമാക്കാൻ വിളി",
+  "what": "കേരള ഹോംമിനിസ്റ്റർ രമേഷ് ചേന്നിത്താലാ കേന്ദ്ര സർക്കാരിലേക്ക് ഒരു കത്ത് അയച്ചു, ജൂവിനൈൽ ജസ്റ്റിസ് ആക്റ്റിൽ മാറ്റം ആവശ്യപ്പെട്ടു. അദ്ദേഹം പറയുന്നത്, ചെറുപ്പക്കാരുടെ ഹിംസാപരമായ കുറ്റകൃത്യങ്ങൾ ഉയർന്നുവെന്ന്.",
+  "why": "നിയമം കർശനമാകുമ്പോൾ യുവാക്കൾക്ക് കൂടുതൽ കടുത്ത ശിക്ഷകൾ വരാം, അതിനാൽ ഉത്തരവാദിത്തത്തോടെ പെരുമാറണം. നിങ്ങളുടെ ജീവിതത്തെ ബാധിക്കാവുന്ന നിയമ മാറ്റങ്ങളെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
+  "tags": [
+   "കേരളം",
+   "ജൂവിനൈൽജസ്റ്റിസ്",
+   "യുവകുറ്റം",
+   "നിയമം"
+  ]
+ }
+}

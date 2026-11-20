@@ -1,0 +1,37 @@
+{
+ "id": "8165d9521735",
+ "created": "2026-11-20T14:46:12+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US Cyber Director Resigns Amid Widespread Outages",
+  "hook": "A top U.S. cyber chief quits while tech glitches surge.",
+  "what": "The United States’ national cyber director announced his departure. At the same time, businesses nationwide are experiencing numerous technical outages, and the reasons remain unclear.",
+  "why": "For Indian teens, this highlights the importance of staying aware of global cyber developments that can affect online safety. Keep your devices updated and follow good security practices.",
+  "tags": [
+   "cybersecurity",
+   "technews",
+   "US",
+   "outages",
+   "global"
+  ]
+ },
+ "ml": {
+  "headline": "US സൈബർ ഡയറക്ടർ രാജി നൽകി, വ്യാപകമായ ഔട്ടേജുകൾ",
+  "hook": "ഒരു പ്രധാന സൈബർ ചീഫ് രാജി വിടുമ്പോൾ ടെക്ക് പ്രശ്നങ്ങൾ വർധിക്കുന്നു.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിന്റെ ദേശീയ സൈബർ ഡയറക്ടർ രാജി പ്രഖ്യാപിച്ചു. അതേ സമയം, രാജ്യത്തെ വ്യാപകമായ ബിസിനസ്സുകൾ അന്യമായ സാങ്കേതിക ഔട്ടേജുകൾ നേരിടുന്നു, കാരണം വ്യക്തമല്ല.",
+  "why": "ഇത് ഇന്ത്യൻ യുവാക്കൾക്ക് ലോകത്തെ സൈബർ സുരക്ഷാ മാറ്റങ്ങൾ ശ്രദ്ധിക്കാൻ ആവശ്യമാണെന്ന് സൂചിപ്പിക്കുന്നു. നിങ്ങളുടെ ഉപകരണങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുകയും സുരക്ഷാ മാർഗങ്ങൾ പാലിക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "സൈബർസെക്യൂരിറ്റി",
+   "ടെക്നോളജി",
+   "US",
+   "ഔട്ടേജ്",
+   "ഗ്ലോബൽ"
+  ]
+ }
+}
