@@ -1,0 +1,35 @@
+{
+ "id": "0bfc41a3303e",
+ "created": "2026-11-20T11:16:48+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-child-rights-panel-report-migrant-boy-death-perumbavoor-ptiisnpuyp0",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala panel demands report on 4‑year‑old’s factory death",
+  "hook": "A toddler’s fatal accident in a plywood shop sparks an official probe.",
+  "what": "A four‑year‑old migrant child died after being caught in a machine at a plywood unit in Perumbavoor. The Kerala Child Rights Commission has asked officials to submit detailed reports on the incident.",
+  "why": "The tragedy points to safety lapses in workplaces that employ migrant families, urging young people to push for stronger child‑labour protections. Stay aware and support calls for safer work environments.",
+  "tags": [
+   "Kerala",
+   "ChildRights",
+   "Safety",
+   "MigrantWorkers"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം പാനൽ 4‑വയസ്സുകാരന്റെ ഫാക്ടറി മരണം അന്വേഷിക്കുന്നു",
+  "hook": "പെരുമാവൂരിലെ പ്ലൈവുഡ് യൂണിറ്റിൽ ഒരു കുഞ്ഞിന്റെ മരണം അധികാരികളെ ചോദ്യത്തിൽ ആക്കുന്നു.",
+  "what": "പെരുമാവൂരിലെ ഒരു പ്ലൈവുഡ് ഫാക്ടറിയിൽ നാല് വയസ്സുള്ള കുടിയേറ്റ കുട്ടി മെഷീൻ പിടിക്കപ്പെട്ടു, അതോടെ അവന്റെ മരണത്തിന് കാരണമായി. കേരളം കുട്ടി അവകാശ കമ്മീഷൻ ബന്ധപ്പെട്ട ഉദ്യോഗസ്ഥരിൽ നിന്ന് സംഭവത്തെക്കുറിച്ചുള്ള വിശദമായ റിപ്പോർട്ട് ആവശ്യപ്പെട്ടിട്ടുണ്ട്.",
+  "why": "ഇത് തൊഴിൽസ്ഥലങ്ങളിൽ കുട്ടികളുടെ സുരക്ഷാ മാനദണ്ഡങ്ങൾ മെച്ചപ്പെടുത്തേണ്ടതിന്റെ ആവശ്യം കാണിക്കുന്നു. യുവാക്കൾ സുരക്ഷിത തൊഴിൽ നിബന്ധനകൾക്കായി അവബോധം ഉയർത്തി, ബന്ധപ്പെട്ട ക്യാമ്പെയിനുകളിൽ പങ്കുചേരാം.",
+  "tags": [
+   "കേരളം",
+   "കുട്ടിഅവകാശം",
+   "സുരക്ഷ",
+   "കുടിയേറ്റ തൊഴിലാളികൾ"
+  ]
+ }
+}

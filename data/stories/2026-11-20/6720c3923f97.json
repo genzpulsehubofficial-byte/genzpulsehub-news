@@ -1,0 +1,37 @@
+{
+ "id": "6720c3923f97",
+ "created": "2026-11-20T11:16:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/pak-fan-boy-bjp-slams-rahul-gandhi-over-remarks-on-indias-foreign-policy/article71723189.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "BJP accuses Rahul Gandhi of ignoring India's diplomacy",
+  "hook": "A senior BJP leader says Gandhi’s Pakistan‑friendly stance blinds him to India's peace moves.",
+  "what": "BJP leader Bhandari claimed Rahul Gandhi’s affection for Pakistan leads him to miss India’s diplomatic work. He pointed to New Delhi’s role in seeking peace in the Russia‑Ukraine war.",
+  "why": "The criticism highlights ongoing political debate over foreign policy, urging youth to watch how leaders frame international issues.",
+  "tags": [
+   "politics",
+   "foreignpolicy",
+   "India",
+   "RussiaUkraine",
+   "BJP"
+  ]
+ },
+ "ml": {
+  "headline": "BJP ഗാൻധിയെ ഇന്ത്യയുടെ വിദേശനയത്തിൽ അവഗണിച്ചതായി ആരോപിച്ചു",
+  "hook": "ഒരു മുതിർന്ന BJP നേതാവ് ഗാൻധിയുടെ പാകിസ്താൻ‑സ്നേഹത്തെ ഇന്ത്യയുടെ സമാധാന ശ്രമങ്ങൾക്കു മൂടി എന്ന് പറയുന്നു.",
+  "what": "BJP നേതാവ് ഭണ്ടാരി, ഗാൻധിയുടെ പാകിസ്താനോടുള്ള സ്നേഹം ഇന്ത്യയുടെ ദൂതപ്രവർത്തനങ്ങൾ അവഗണിക്കാൻ കാരണമാണെന്ന് ആരോപിച്ചു. റഷ്യ‑ഉക്രെയിൻ യുദ്ധത്തിൽ സമാധാന ശ്രമങ്ങളിലുമുള്ള ഇന്ത്യയുടെ പങ്ക് അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.",
+  "why": "ഇത് വിദേശനയത്തെക്കുറിച്ചുള്ള രാഷ്ട്രീയ ചർച്ചയെ തെളിയിക്കുന്നു, യുവാക്കൾക്ക് നേതാക്കൾ അന്താരാഷ്ട്ര വിഷയങ്ങളെ എങ്ങനെ അവതരിപ്പിക്കുന്നു എന്ന് ശ്രദ്ധിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "വിദേശനയം",
+   "ഇന്ത്യ",
+   "റഷ്യഉക്രെയിൻ",
+   "BJP"
+  ]
+ }
+}

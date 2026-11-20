@@ -1,5 +1,80 @@
 [
  {
+  "id": "92d8e33cf53b",
+  "created": "2026-11-20T11:15:35+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/padmini-thomas-quits-bjp-returns-to-congress-kerala-unfulfilled-promises-ptirckvemt4",
+  "headline": "Ex-athlete Padmini Thomas leaves BJP, rejoins Congress",
+  "hook": "Another high‑profile exit hits BJP in Kerala",
+  "what": "Former Indian athlete Padmini Thomas announced she is quitting the BJP, citing unfulfilled promises. She said she will re‑join the Congress party. The move comes a day after Padmaja Venugopal also left the BJP.",
+  "why": "The departures highlight shifting political loyalties in Kerala, which could affect upcoming elections and youth representation. Keep an eye on party developments if you’re interested in local politics.",
+  "tags": [
+   "KeralaPolitics",
+   "BJP",
+   "Congress",
+   "PartySwitch",
+   "Youth"
+  ]
+ },
+ {
+  "id": "6720c3923f97",
+  "created": "2026-11-20T11:16:38+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/pak-fan-boy-bjp-slams-rahul-gandhi-over-remarks-on-indias-foreign-policy/article71723189.ece",
+  "headline": "BJP accuses Rahul Gandhi of ignoring India's diplomacy",
+  "hook": "A senior BJP leader says Gandhi’s Pakistan‑friendly stance blinds him to India's peace moves.",
+  "what": "BJP leader Bhandari claimed Rahul Gandhi’s affection for Pakistan leads him to miss India’s diplomatic work. He pointed to New Delhi’s role in seeking peace in the Russia‑Ukraine war.",
+  "why": "The criticism highlights ongoing political debate over foreign policy, urging youth to watch how leaders frame international issues.",
+  "tags": [
+   "politics",
+   "foreignpolicy",
+   "India",
+   "RussiaUkraine",
+   "BJP"
+  ]
+ },
+ {
+  "id": "3258fa2077cb",
+  "created": "2026-11-20T11:16:46+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "RushLane",
+  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDNPa05ROFdQN3QwOVFwNHlHLXMwSzg0MlUwWUpDWlRscjVBcExCQkNkMDJ4YUZJM2V1X19WS2U4X29wakZiYlVRMldSWUMyM25QWWozX05aQXpLOUpueFVDaWh5QWUwODdpa0ZxUVU1amM1QkdlMUl0WmJ4SjVsTHlndUhSUHFyZ3dQa215NE5JcjFrN3BxX0ZMWEtkMmVkVjctYS1hVlA0UdIBqgFBVV95cUxPTDNPa05ROFdQN3QwOVFwNHlHLXMwSzg0MlUwWUpDWlRscjVBcExCQkNkMDJ4YUZJM2V1X19WS2U4X29wakZiYlVRMldSWUMyM25QWWozX05aQXpLOUpueFVDaWh5QWUwODdpa0ZxUVU1amM1QkdlMUl0WmJ4SjVsTHlndUhSUHFyZ3dQa215NE5JcjFrN3BxX0ZMWEtkMmVkVjctYS1hVlA0UQ?oc=5",
+  "headline": "Honda unveils next‑gen Avancier hybrid SUV for Asia",
+  "hook": "A 7‑seat hybrid with electric AWD is set to hit Asian roads.",
+  "what": "Honda showcased its new Avancier SUV, equipped with a hybrid powertrain, electric all‑wheel drive and three rows of seats. The model is aimed at the Asian market, with a launch planned for December alongside the electric Alpha SUV.",
+  "why": "Young Indian buyers seeking eco‑friendly, spacious rides now have a fresh option; watch for release dates and pricing.",
+  "tags": [
+   "Honda",
+   "Avancier",
+   "Hybrid",
+   "SUV",
+   "Asia"
+  ]
+ },
+ {
+  "id": "0bfc41a3303e",
+  "created": "2026-11-20T11:16:48+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-child-rights-panel-report-migrant-boy-death-perumbavoor-ptiisnpuyp0",
+  "headline": "Kerala panel demands report on 4‑year‑old’s factory death",
+  "hook": "A toddler’s fatal accident in a plywood shop sparks an official probe.",
+  "what": "A four‑year‑old migrant child died after being caught in a machine at a plywood unit in Perumbavoor. The Kerala Child Rights Commission has asked officials to submit detailed reports on the incident.",
+  "why": "The tragedy points to safety lapses in workplaces that employ migrant families, urging young people to push for stronger child‑labour protections. Stay aware and support calls for safer work environments.",
+  "tags": [
+   "Kerala",
+   "ChildRights",
+   "Safety",
+   "MigrantWorkers"
+  ]
+ },
+ {
   "id": "6531434c0c16",
   "created": "2026-11-20T10:12:59+05:30",
   "category": "headlines",
@@ -672,81 +747,6 @@
    "Fed",
    "Sensex",
    "Nifty"
-  ]
- },
- {
-  "id": "910c5341266e",
-  "created": "2026-11-20T04:04:12+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSVNJOUo4b1NkLTJxRFlVeEtwZUZ3NFhoRW9sVzFWYUFOMlBUWjh4bHhHUDBQWldVbXRkSU5BOWtDSkVQNG1oWlVPbHJmSUJ5blV2NFAyMHZOeDlfSkFkTjZpejNoSS1WeXR0eUEtV0U2ZGxpQnVxdmZPWml2NjF0X0NXcUQwUnZ4dEc3N1JudGxtd3AxSzJOV3V3?oc=5",
-  "headline": "Bavuma Misses Second Test as SA Crush Bangladesh",
-  "hook": "South Africa clinches top WTC spot without their captain.",
-  "what": "Temba Bavuma will not play in the upcoming second Test. South Africa beat Bangladesh by nine wickets, moving to the lead in the World Test Championship. Strong showings came from Kagiso Rabada and Ryan Rickelton.",
-  "why": "It shows how injuries can reshape a team and why squad depth matters, a lesson for young fans. Keep following the series for more exciting cricket.",
-  "tags": [
-   "cricket",
-   "southafrica",
-   "bangladesh",
-   "WTC",
-   "test"
-  ]
- },
- {
-  "id": "81064022622d",
-  "created": "2026-11-20T03:03:18+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
-  "headline": "Justice Varma says removal case void after his resignation",
-  "hook": "A top judge says his ouster plan fizzled once he quit",
-  "what": "Justice Varma wrote to the Lok Sabha Secretariat on Nov 19, saying the removal proceedings against him became ineffective after he resigned. He clarified that the process could not continue.",
-  "why": "It shows that resignation can halt disciplinary actions against officials, highlighting how parliamentary oversight works. Young people should stay aware of such governance procedures.",
-  "tags": [
-   "justice",
-   "parliament",
-   "resignation",
-   "law",
-   "India"
-  ]
- },
- {
-  "id": "09c1e6a01bf5",
-  "created": "2026-11-20T03:03:22+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/turkish-court-bars-jailed-istanbul-mayor-from-presidential-election-report-12351677#publisher=newsstand",
-  "headline": "Turkish court blocks jailed Istanbul mayor from running",
-  "hook": "A top Istanbul leader can’t contest the election, even from jail.",
-  "what": "A Turkish court ruled that Istanbul Mayor Ekrem Imamoglu, who is currently in prison, cannot stand in the upcoming presidential election. The decision was based on the finding that his educational diploma is invalid.",
-  "why": "The ruling shows how legal technicalities can affect political participation, highlighting the need to verify credentials. Young voters should stay aware of such global political developments.",
-  "tags": [
-   "Turkey",
-   "Election",
-   "Politics",
-   "Youth",
-   "News"
-  ]
- },
- {
-  "id": "718b8c1df26c",
-  "created": "2026-11-20T03:03:24+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONnF4NURtdmhieVlyaFlXelZmMHpuc3J5WXpSTUM4QXBxdjN5NWJ2SUFEelF2T2tDT28yX0ZEcktyUkVHSE44bnYzNFVVM0p5cUdoWEJOWEQzVTJmS1dFcEhfTDdrVGRZY2ZLWnY4ZGxyTnlUVzhZZWtwX3RMbFBWN2p6cGwya3FvSHc?oc=5",
-  "headline": "Bavuma Misses Second Test Match",
-  "hook": "Temba Bavuma won't play in the next Test.",
-  "what": "Temba Bavuma has been ruled out of the second Test match. He will miss the game.",
-  "why": "His absence could change the team line‑up, so fans should watch for replacement updates.",
-  "tags": [
-   "cricket",
-   "test",
-   "Bavuma",
-   "sports"
   ]
  }
 ]
