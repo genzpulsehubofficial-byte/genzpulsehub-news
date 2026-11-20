@@ -1,0 +1,37 @@
+{
+ "id": "d41d46ed8679",
+ "created": "2026-11-20T05:45:03+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "FXEmpire",
+ "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM3c4dnNlZXh0U194M3dIeFBFTU95RTNPajRGMC1ITFNhbXU1LVE3N3JYN3lDUnFyNWlxeEhsOGtNTDhBVDl2MmJVSzdjdk1zUDVVeWRlWEx5RlR3RHk5YWEzT25GY19kMDJqcHFjNnIyeGh6WjE1N28xZWtBVkpua2t4ZVJoUURsZUtBUTBTTW9aeHNHZWNzMGhZTWpBU0tTWEIwZ25kRUF3T0ZaSDBEZW5ucFVCdmhKay1PaGE2RjY3cTNIR29vSkZIN2FyZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold hits 1‑year low as yields rise, silver slides",
+  "hook": "Precious metals are dropping fast—what it means for your savings.",
+  "what": "Gold fell to its lowest level in a year, slipping below $3,650 per ounce. Silver also dropped, with Mumbai prices at Rs 1,29,531 per ounce for gold and Rs 1,60,439 per kilogram for silver. The fall is linked to higher Treasury yields and a strong dollar, and analysts see further downside toward $3,500.",
+  "why": "Lower metal prices can affect investment plans and the cost of jewellery for young Indians. Keep an eye on market moves if you hold or plan to buy these assets.",
+  "tags": [
+   "gold",
+   "silver",
+   "markets",
+   "investing",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ് 1 വർഷത്തെ കുറഞ്ഞ നിലയിൽ, സിൽവർ കൂടി ഇടിഞ്ഞു",
+  "hook": "മൂല്യവസ്തുക്കൾ വേഗത്തിൽ താഴുന്നു—നിങ്ങളുടെ സേവിംഗ്സിന് എന്ത് അർത്ഥം?",
+  "what": "ഗോൾഡ് ഒരു വർഷത്തെ ഏറ്റവും കുറഞ്ഞ നിലയിൽ എത്തി, $3,650‑നെക്കാൾ താഴെയായി. സിൽവർ കൂടി ഇടിഞ്ഞു, മുംബൈയിൽ ഗോൾഡിന്റെ വില Rs 1,29,531 ഒൺസ്, സിൽവറിന്റെ വില Rs 1,60,439 കിലോഗ്രാം ആയി. ഉയർന്ന Treasury yields, ശക്തമായ ഡോളർ എന്നിവയാണ് കാരണം, വിദഗ്ധർ $3,500 വരെ താഴേയ്ക്കുള്ള സാധ്യത കാണുന്നു.",
+  "why": "മൂല്യവസ്തുക്കളുടെ വില കുറഞ്ഞാൽ യുവ ഇന്ത്യക്കാരുടെ നിക്ഷേപവും ആഭരണവിലയും ബാധിക്കാം. നിങ്ങൾക്ക് ഇവയിൽ നിക്ഷേപമോ വാങ്ങലോ ഉണ്ടെങ്കിൽ മാർക്കറ്റ് ചലനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "gold",
+   "silver",
+   "markets",
+   "investing",
+   "India"
+  ]
+ }
+}

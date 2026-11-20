@@ -1,0 +1,37 @@
+{
+ "id": "355da3df5fad",
+ "created": "2026-11-20T05:44:58+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/anthropics-1-5-trillion-debut-rewrites-venture-capitals-playbook-12351934#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic debuts on Nasdaq with $1.5 trillion value",
+  "hook": "A massive AI valuation sets a new bar for startups.",
+  "what": "The AI research firm Anthropic started trading on the Nasdaq on Thursday. Its market worth was pegged at $1.5 trillion at debut.",
+  "why": "The figure shows how investors are betting big on artificial intelligence, a trend Indian tech founders should watch. Keep an eye on market moves and funding opportunities.",
+  "tags": [
+   "AI",
+   "Nasdaq",
+   "valuation",
+   "startups",
+   "venture"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic Nasdaq‑ല്‍ $1.5 ട്രില്യണ്‍ മൂല്യത്തോടെ ലിസ്റ്റ്",
+  "hook": "AI‑യുടെ വലിയ വിലയിരുത്തല്‍ സ്റ്റാര്‍ട്ടപ്പുകള്‍ക്ക് പുതിയ മാനദണ്ഡം.",
+  "what": "AI റിസര്‍ച്ച് ലാബ് Anthropic വ്യാഴാഴ്ച Nasdaq‑ല്‍ ട്രേഡ് തുടങ്ങുകയും, അതിന്റെ മൂല്യം $1.5 ട്രില്യണ്‍ ആയി നിശ്ചയിക്കപ്പെടുകയും ചെയ്തു.",
+  "why": "ഇത് നിക്ഷേപകര്‍ AI‑യില്‍ എത്രത്തോളം വിശ്വാസം വെക്കുന്നു എന്ന് കാണിക്കുന്നു, ഇന്ത്യയിലെ ടെക് സംരംഭകര്‍ക്ക് ഇത് ശ്രദ്ധിക്കേണ്ട ഒരു സൂചനയാണ്. മാര്‍ക്കറ്റ് ട്രെന്‍ഡുകളും ഫണ്ടിംഗ് അവസരങ്ങളും നോക്കുക.",
+  "tags": [
+   "AI",
+   "Nasdaq",
+   "valuation",
+   "startups",
+   "venture"
+  ]
+ }
+}
