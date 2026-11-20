@@ -1,0 +1,37 @@
+{
+ "id": "ef3564d18b16",
+ "created": "2026-11-20T16:56:50+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Notebookcheck",
+ "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMGEybkh0eVBES2Z3LVZIbGVjMzBwUDdReTNSdlpDTHlxYmFKRFlIN0VCOXFnV3gtOUgxenMtQk5raGdIeDIwQ0pMbHlpRy1ENFB0R1YyYVdrOHVjMElRUFJkWkd3OWlwZnNPT0hSRnVrS3JWb3pZdEVhSGdueEpKWXdrVnJWQ04wdnd5R3pOdGNSc3A4VWZ6bUR1NmRiOFFNZmNSMzNZT0hoN3hydlA0Xzg1NGJmVFNXMTg5dko3N0c1TEJISDdHUnZrWG9PbjRnc3Njb2YwS2dWa3A4X2MtSVgtSnU3VlB0eU5EYVRTZWM?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Galaxy S27 Pro’s Exynos 2700 pits against Snapdragon 8 Elite",
+  "hook": "New benchmark shows Samsung’s upcoming flag‑ship matching top‑tier chips.",
+  "what": "A recent Geekbench list reveals that the Samsung Galaxy S27 Pro will use the Exynos 2700 processor. The benchmark places the device in the same performance tier as smartphones powered by Snapdragon 8 Elite Extreme Gen 6 chips.",
+  "why": "This suggests the S27 Pro could offer high‑end speed for gaming and apps, making it a contender for the next premium phone purchase.",
+  "tags": [
+   "Samsung",
+   "GalaxyS27",
+   "TechNews",
+   "Benchmarks",
+   "Phones"
+  ]
+ },
+ "ml": {
+  "headline": "Galaxy S27 Pro‑യുടെ Exynos 2700, Snapdragon 8 Elite‑നോട് താരതമ്യം",
+  "hook": "പുതിയ ബെഞ്ച്മാർക്ക് സൂചിപ്പിക്കുന്നത് സാംസംഗിന്റെ അടുത്ത ഫ്ലാഗ്ഷിപ്പ് ഉയർന്ന പ്രകടനം നൽകുമെന്ന്.",
+  "what": "ഒരു പുതിയ Geekbench ലിസ്റ്റ് പ്രകാരം സാംസംഗ് ഗാലക്‌സി S27 Pro‑യിൽ Exynos 2700 ചിപ്സെറ്റ് ഉപയോഗിക്കും. ഈ ബെഞ്ച്മാർക്ക് Snapdragon 8 Elite Extreme Gen 6 ചിപ്സെറ്റ് ഉള്ള ഫോൺകളുമായി സമാന പ്രകടന തലത്തിൽ കാണിക്കുന്നു.",
+  "why": "ഇത് ഗെയിമിംഗ്, ആപ്പുകൾ എന്നിവയിൽ വേഗതയുള്ള അനുഭവം നൽകാൻ സാധ്യതയുള്ളതിനാൽ, അടുത്ത പ്രീമിയം ഫോണിന്റെ വാങ്ങൽ പരിഗണിക്കുന്നവർക്കു ശ്രദ്ധേയമാണ്.",
+  "tags": [
+   "Samsung",
+   "GalaxyS27",
+   "TechNews",
+   "Benchmarks",
+   "Phones"
+  ]
+ }
+}

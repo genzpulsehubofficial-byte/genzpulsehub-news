@@ -1,9 +1,9 @@
 {
- "last_run": "2026-11-20T15:55:23+05:30",
- "fetched": 237,
- "made": 5,
+ "last_run": "2026-11-20T16:56:57+05:30",
+ "fetched": 247,
+ "made": 6,
  "providers": {
-  "groq": 5
+  "groq": 6
  },
  "dead_feeds": [
   "Indian Express",

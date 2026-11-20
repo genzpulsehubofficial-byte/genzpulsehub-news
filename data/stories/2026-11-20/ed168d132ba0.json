@@ -1,0 +1,37 @@
+{
+ "id": "ed168d132ba0",
+ "created": "2026-11-20T16:56:55+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/credit-card-limit-increase-getting-sms-from-bank-should-you-do-it-will-higher-credit-limit-help-all-answers-here-11795167547459.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bank SMS Offers Credit Card Limit Boost – What to Know",
+  "hook": "Thinking of raising your card limit? Check the impact first.",
+  "what": "You got a text from your bank proposing a higher credit limit. A higher limit can change your credit utilisation and may affect your credit score, while also bringing benefits and fraud concerns. Before agreeing, verify the terms and assess the risks.",
+  "why": "It matters because misuse can hurt your score and expose you to scams; make sure you understand the conditions before accepting.",
+  "tags": [
+   "credit",
+   "limit",
+   "banking",
+   "finance",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ബാങ്ക് SMS‑ൽ ക്രെഡിറ്റ് കാർഡ് ലിമിറ്റ് വർദ്ധനവ് – അറിയേണ്ടത്",
+  "hook": "കാർഡ് ലിമിറ്റ് ഉയർത്താൻ ആലോചിക്കുന്നുവോ? ആദ്യം പ്രഭാവം പരിശോധിക്കുക.",
+  "what": "ബാങ്കിൽ നിന്ന് നിങ്ങളുടെ ക്രെഡിറ്റ് കാർഡിന്റെ ലിമിറ്റ് ഉയർത്താൻ ഒരു SMS ലഭിച്ചു. ഉയർന്ന ലിമിറ്റ് ക്രെഡിറ്റ് ഉപയോഗം, സ്കോർ എന്നിവയെ ബാധിക്കും, കൂടാതെ ചില ഗുണങ്ങളും തട്ടിപ്പ് അപകടങ്ങളും ഉണ്ടാകും. അംഗീകരിക്കുന്നതിന് മുമ്പ് നിബന്ധനകൾ പരിശോധിച്ച് അപകടങ്ങൾ വിലയിരുത്തുക.",
+  "why": "ഇത് നിങ്ങളുടെ ക്രെഡിറ്റ് സ്കോർക്കും സുരക്ഷക്കും ബാധകമാണ്; അതിനാൽ നിബന്ധനകൾ മനസിലാക്കി മാത്രമേ സമ്മതിക്കേണ്ടതുള്ളു.",
+  "tags": [
+   "ക്രെഡിറ്റ്",
+   "ലിമിറ്റ്",
+   "ബാങ്കിംഗ്",
+   "ഫിനാൻസ്",
+   "യുവാക്കൾ"
+  ]
+ }
+}

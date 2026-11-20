@@ -1,5 +1,118 @@
 [
  {
+  "id": "fc858918dbf5",
+  "created": "2026-11-20T16:56:03+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
+  "headline": "Supreme Court ഒറ്റവേളയ്ക്ക് തിറുപ്പാറങ്കുന്ദ്രം Deepathoon വിളക്ക് വെളിച്ചം അനുവദിച്ചു",
+  "hook": "മഹാന്യായം ഒരു പവിത്ര ചടങ്ങിന് താൽക്കാലികമായി തടയു നീക്കുന്നു.",
+  "what": "Justice Aravind Kumar നയിച്ച സുപ്രീം കോടതി, തിറുപ്പാറങ്കുന്ദ്രത്തിലെ ‘Deepathoon’ വിളക്ക് ഒറ്റവേളയ്ക്ക് വെളിച്ചം നൽകാൻ അനുമതി നൽകി. ഇത് ജനുവരി 6ന് മദ്രാസ് ഹൈകോടതി പ്രഖ്യാപിച്ച, ആചാരം അനിവാര്യമാണ് എന്ന വിധിയെ താൽക്കാലികമായി നിലച്ചു.",
+  "why": "ഇത് ഒരു പരിമിതമായ അനുമതിയാണ്, ഭാവിയിൽ വീണ്ടും നിയമപരമായ അനുമതി ആവശ്യമാകും; യുവാക്കൾക്ക് ഇതിന്റെ പരിധി മനസിലാക്കണം.",
+  "tags": [
+   "SupremeCourt",
+   "Deepathoon",
+   "Thirupparankundram",
+   "മതം",
+   "നിയമം"
+  ]
+ },
+ {
+  "id": "04150468f031",
+  "created": "2026-11-20T16:56:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
+  "headline": "Cyclone Akvan ഒഡീഷയിൽ നാശം ഇല്ല, धीरे धीरे ദുർബലമാകും",
+  "hook": "ഒഡീഷാ മന്ത്രിയുടെ പ്രകാരം, ചുഴലിക്കാറ്റ് വലിയ നാശം വരുത്തിയില്ല.",
+  "what": "ഒഡീഷാ മന്ത്രിയുൾപ്പെടെ, Cyclone Akvan നാശം അല്ലെങ്കിൽ ജീവന്‍ നഷ്ടം ഉണ്ടാക്കിയില്ലെന്ന് അറിയിച്ചു. ഇത് ഒരു ഗാഢ ഡിപ്പ്രഷൻ ആയി, വടക്കു‑കിഴക്കോട്ട് നീങ്ങി, धीरे धीरे ഡിപ്പ്രഷനായി ദുർബലമാകും.",
+  "why": "കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ പാലിക്കുന്നത് സുരക്ഷയ്ക്ക് പ്രധാനമാണ്; യുവാക്കൾ ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "cyclone",
+   "Odisha",
+   "weather",
+   "safety"
+  ]
+ },
+ {
+  "id": "ef3564d18b16",
+  "created": "2026-11-20T16:56:50+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Notebookcheck",
+  "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMGEybkh0eVBES2Z3LVZIbGVjMzBwUDdReTNSdlpDTHlxYmFKRFlIN0VCOXFnV3gtOUgxenMtQk5raGdIeDIwQ0pMbHlpRy1ENFB0R1YyYVdrOHVjMElRUFJkWkd3OWlwZnNPT0hSRnVrS3JWb3pZdEVhSGdueEpKWXdrVnJWQ04wdnd5R3pOdGNSc3A4VWZ6bUR1NmRiOFFNZmNSMzNZT0hoN3hydlA0Xzg1NGJmVFNXMTg5dko3N0c1TEJISDdHUnZrWG9PbjRnc3Njb2YwS2dWa3A4X2MtSVgtSnU3VlB0eU5EYVRTZWM?oc=5",
+  "headline": "Galaxy S27 Pro‑യുടെ Exynos 2700, Snapdragon 8 Elite‑നോട് താരതമ്യം",
+  "hook": "പുതിയ ബെഞ്ച്മാർക്ക് സൂചിപ്പിക്കുന്നത് സാംസംഗിന്റെ അടുത്ത ഫ്ലാഗ്ഷിപ്പ് ഉയർന്ന പ്രകടനം നൽകുമെന്ന്.",
+  "what": "ഒരു പുതിയ Geekbench ലിസ്റ്റ് പ്രകാരം സാംസംഗ് ഗാലക്‌സി S27 Pro‑യിൽ Exynos 2700 ചിപ്സെറ്റ് ഉപയോഗിക്കും. ഈ ബെഞ്ച്മാർക്ക് Snapdragon 8 Elite Extreme Gen 6 ചിപ്സെറ്റ് ഉള്ള ഫോൺകളുമായി സമാന പ്രകടന തലത്തിൽ കാണിക്കുന്നു.",
+  "why": "ഇത് ഗെയിമിംഗ്, ആപ്പുകൾ എന്നിവയിൽ വേഗതയുള്ള അനുഭവം നൽകാൻ സാധ്യതയുള്ളതിനാൽ, അടുത്ത പ്രീമിയം ഫോണിന്റെ വാങ്ങൽ പരിഗണിക്കുന്നവർക്കു ശ്രദ്ധേയമാണ്.",
+  "tags": [
+   "Samsung",
+   "GalaxyS27",
+   "TechNews",
+   "Benchmarks",
+   "Phones"
+  ]
+ },
+ {
+  "id": "efd70feec08c",
+  "created": "2026-11-20T16:56:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/post-office-savings-bank-rules-6-key-changes-in-2026-manual-covering-minimum-balance-tds-and-account-closure-11795169612132.html",
+  "headline": "POSB 2026 മാനുവലില്‍ ആറു പുതിയ സേവിംഗ് നിയമങ്ങള്‍",
+  "hook": "നിങ്ങളുടെ പോസ്റ്റ് ഓഫീസ് സേവിംഗ് അക്കൗണ്ടിന് ഇനി ₹500 ബാലന്‍സ് വേണം.",
+  "what": "ഡിപ്പാർട്മെന്റ് ഓഫ് പോസ്റ്റ്സ് POSB CBS മാനുവൽ 2026 പുറത്തിറക്കി, ₹500 കുറഞ്ഞ ബാലന്‍സ്, ഡോർമന്റ് അക്കൗണ്ട് നിയമം, ട്രാൻസ്ഫർ ഫീസ്, മരണം സംബന്ധിച്ച ക്ലെയിം, മുൻകൂട്ടി അടയ്ക്കൽ നിയന്ത്രണം, ക്യാഷ് വിത്ഡ്രോവലിൽ TDS എന്നിവ ഉൾപ്പെടുന്നു.",
+  "why": "യുവ സേവിംഗർമാർക്ക് പുതിയ ഫീസ്, നികുതി എന്നിവ ഒഴിവാക്കാൻ അക്കൗണ്ട് നില പരിശോധിക്കണം.",
+  "tags": [
+   "POSB",
+   "സേവിംഗ്",
+   "ബാങ്കിംഗ്",
+   "യുവഫിനാൻസ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "ed168d132ba0",
+  "created": "2026-11-20T16:56:55+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/credit-card-limit-increase-getting-sms-from-bank-should-you-do-it-will-higher-credit-limit-help-all-answers-here-11795167547459.html",
+  "headline": "ബാങ്ക് SMS‑ൽ ക്രെഡിറ്റ് കാർഡ് ലിമിറ്റ് വർദ്ധനവ് – അറിയേണ്ടത്",
+  "hook": "കാർഡ് ലിമിറ്റ് ഉയർത്താൻ ആലോചിക്കുന്നുവോ? ആദ്യം പ്രഭാവം പരിശോധിക്കുക.",
+  "what": "ബാങ്കിൽ നിന്ന് നിങ്ങളുടെ ക്രെഡിറ്റ് കാർഡിന്റെ ലിമിറ്റ് ഉയർത്താൻ ഒരു SMS ലഭിച്ചു. ഉയർന്ന ലിമിറ്റ് ക്രെഡിറ്റ് ഉപയോഗം, സ്കോർ എന്നിവയെ ബാധിക്കും, കൂടാതെ ചില ഗുണങ്ങളും തട്ടിപ്പ് അപകടങ്ങളും ഉണ്ടാകും. അംഗീകരിക്കുന്നതിന് മുമ്പ് നിബന്ധനകൾ പരിശോധിച്ച് അപകടങ്ങൾ വിലയിരുത്തുക.",
+  "why": "ഇത് നിങ്ങളുടെ ക്രെഡിറ്റ് സ്കോർക്കും സുരക്ഷക്കും ബാധകമാണ്; അതിനാൽ നിബന്ധനകൾ മനസിലാക്കി മാത്രമേ സമ്മതിക്കേണ്ടതുള്ളു.",
+  "tags": [
+   "ക്രെഡിറ്റ്",
+   "ലിമിറ്റ്",
+   "ബാങ്കിംഗ്",
+   "ഫിനാൻസ്",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "d98d73639cf9",
+  "created": "2026-11-20T16:56:57+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Economic Times",
+  "source_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZzBiQUtoZ2tORFI1SnFlS0JiVFRHTnljV29FdW5HeXdiY0wwc3psbWNkR2dXbEN6OHZpSzN4MEZZanJKbkc2Zk9YeDdHQkhSRXpSNmhOb0xTMHVWQTdtN1JWY2FHaWU2ZGtPN1BNSnJORkdrMzRGOExOM1BiR3Z2djloRmExSzZibHlhR1hGSTFCcm9ycGltTHRhVkh3STM4MHJuelhhZlFRSnhiZ0hQSDR3bXB3UWd4b3FEUGg5M1ZfRDZuSkF2YTdRNVZWLUNLN0lDTjVGQzhsalRIeVVWeHVPajRRRWRIb1cwRmlUUUNuM1pld2tCU3lROGxFSjk2VlF0ejd1RWxlMDZHNGoxLVRUM1B5VEE5TE5JYmg0OVU4N25mZ3piTFQwSDFQU3pOQ3ppRDBwczZOTkplNV82dzNR?oc=5",
+  "headline": "ഈ വാരാന്ത്യത്തിൽ 9 പുതിയ OTT ചിത്രങ്ങളും ഷോകളും",
+  "hook": "നിങ്ങളുടെ വാരാന്ത്യ ബിംജ് പ്ലാൻ ഇപ്പോൾ കൂടുതൽ നിറഞ്ഞു.",
+  "what": "Netflix, JioHotstar, Prime Video പോലുള്ള പ്രധാന സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോംമുകളിൽ ഈ വാരാന്ത്യത്തിൽ ഒമ്പത് പുതിയ സിനിമകളും സീരിസുകളും പുറത്തിറങ്ങുന്നു.",
+  "why": "യുവാക്കൾക്ക് പുതിയ വിനോദം ഉടൻ തന്നെ ആസ്വദിക്കാൻ അവസരം, ഒരു ഷോ തിരഞ്ഞെടുക്കി സ്ട്രീം ചെയ്യൂ.",
+  "tags": [
+   "OTT",
+   "വാരാന്ത്യം",
+   "ബിംജ്",
+   "Netflix",
+   "Prime"
+  ]
+ },
+ {
   "id": "d9b4756385c4",
   "created": "2026-11-20T15:55:13+05:30",
   "category": "entertainment",
@@ -638,118 +751,6 @@
    "Nasdaq",
    "AsianMarkets",
    "നിക്ഷേപം"
-  ]
- },
- {
-  "id": "5dead6c5b53a",
-  "created": "2026-11-20T09:06:56+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RNm95ZEIzSWJPaVhFUkE1dVRVTDJoTFUxOGV2WUUzRjRYRkktMFoyU0N1Sk4tcnpoOHVvMEV0X2FRckVKV0pZdFd5SW42QWs2M0RlbV81am8yNW8?oc=5",
-  "headline": "GTA 6 വില്‍പ്പന $2 ബില്യണ്‍ കടന്ന് റെക്കോര്‍ഡ് തകർത്തു",
-  "hook": "റോക്ക്സ്റ്റാര്‍യുടെ പുതിയ ഗെയിം ഒരു വലിയ റെക്കോര്‍ഡ് സൃഷ്ടിച്ചു.",
-  "what": "Grand Theft Auto VIയുടെ വില്‍പ്പന $2 ബില്യണ്‍ കവിയുമെന്ന് വ്യവസായം കണക്കാക്കുന്നു. ഇതോടെ ഇതുവരെ ഏറ്റവും കൂടുതല്‍ വരുമാനം നേടിയ വീഡിയോ ഗെയിമായി മാറി.",
-  "why": "ഇന്ത്യന്‍ കളിക്കാര്‍ക്ക് ഗെയിമിംഗ് വിപണി വലുതാകുന്നതിന്റെ സൂചനയാണ് ഇത്, ഭാവിയിലെ റിലീസുകളും ഓഫറുകളും ശ്രദ്ധിക്കാം.",
-  "tags": [
-   "ഗെയിമിംഗ്",
-   "GTA6",
-   "വില്‍പ്പന",
-   "റോക്ക്സ്റ്റാര്‍",
-   "റെക്കോര്‍ഡ്"
-  ]
- },
- {
-  "id": "76a51119846a",
-  "created": "2026-11-20T08:01:16+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjd5dEQwYjJuZ2dZU2pDcWJxY0lhN1ZCb01OMnJFV2NBNVVKZ3FHM0tJekN3Tk8wZlBEdFBDYXJRMERyWjgxLXlSeHl2VmRCb1U0YVh3RkIyRmJIU193VkZwMGtja3o3TXlUNUZoOWgteV9vVXpqajNxOU91bXp1YTRkS0s0QzJ4eUtUa2ZITmNxNjJkYWk2eUs5aDE3Rm0wUEZfbzZJN05CbldiU0J4ejZKTW4tOUpIV2RMN0xnWlpOTEV6cXZ0a1Y5dXBQMjlxUVRMS1R0RXd1ekRMa0ZXNERaRms1OUpsUmJ0X19HMFBxeDg?oc=5",
-  "headline": "രാജിക്ക് ശേഷം ഇംപീച്ച്‌മെന്റ് നടപടികൾ നിലനിൽക്കില്ലെന്ന് ജസ്റ്റിസ് യശ്വന്ത് വർമ",
-  "hook": "താൻ രാജിവെച്ചതിനാൽ പുറത്താക്കൽ നടപടികൾക്ക് പ്രസക്തിയില്ലെന്ന് ഒരു മുൻ ജഡ്ജി അറിയിച്ചു.",
-  "what": "തനിക്കെതിരെയുള്ള പുറത്താക്കൽ നടപടികൾ രാജിക്ക് ശേഷം നിലനിൽക്കില്ലെന്ന് ജസ്റ്റിസ് യശ്വന്ത് വർമ ലോക്സഭാ സെക്രട്ടേറിയറ്റിന് മറുപടി നൽകി. പണം കണ്ടെത്തിയതുമായി ബന്ധപ്പെട്ട ആരോപണങ്ങൾ തള്ളിയ അദ്ദേഹം, താൻ നിരപരാധിയാണെന്നും രാജി വെച്ചത് കുറ്റസമ്മതമല്ലെന്നും വ്യക്തമാക്കി. കൂടാതെ തനിക്കെതിരായ അന്വേഷണ രീതിയെയും അദ്ദേഹം ചോദ്യം ചെയ്തു.",
-  "why": "ഉന്നത പദവികൾ വഹിക്കുന്നവർക്കെതിരായ ആരോപണങ്ങളിലും പാർലമെന്ററി നടപടികളിലും നിയമങ്ങൾ എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് ഇത് വ്യക്തമാക്കുന്നു.",
-  "tags": [
-   "ജസ്റ്റിസ്വർമ",
-   "ലോക്സഭ",
-   "ഇംപീച്ച്മെന്റ്",
-   "നിയമം",
-   "ദേശീയം"
-  ]
- },
- {
-  "id": "7b1246c3dda3",
-  "created": "2026-11-20T08:02:14+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
-  "headline": "അക്‌വാൻ ചുഴലിക്കാറ്റ് തീരം തൊടാൻ തുടങ്ങി; ഒഡീഷയിൽ ശക്തമായ മഴ",
-  "hook": "അക്‌വാൻ ചുഴലിക്കാറ്റ് ഒഡീഷ തീരത്തേക്ക് പ്രവേശിക്കാൻ തുടങ്ങി.",
-  "what": "അക്‌വാൻ ചുഴലിക്കാറ്റിന്റെ ലാൻഡ്‌ഫാൾ പ്രക്രിയ ആരംഭിച്ചതായി കാലാവസ്ഥാ കേന്ദ്രം അറിയിച്ചു. ഈ പ്രക്രിയ പൂർത്തിയാകാൻ ഏഴ് മുതൽ എട്ട് മണിക്കൂർ വരെ സമയമെടുക്കും. ഇതിനെത്തുടർന്ന് ഒഡീഷയിലെ തീരദേശ ജില്ലകളിൽ കനത്ത മഴ ലഭിക്കുന്നുണ്ട്.",
-  "why": "തീരപ്രദേശങ്ങളിൽ ഉള്ളവർ ജാഗ്രത പാലിക്കുകയും കാലാവസ്ഥാ അറിയിപ്പുകൾ കൃത്യമായി ശ്രദ്ധിക്കുകയും ചെയ്യുക.",
-  "tags": [
-   "അക്‌വാൻ",
-   "ഒഡീഷമഴ",
-   "കാലാവസ്ഥ",
-   "വാർത്തകൾ"
-  ]
- },
- {
-  "id": "2bf7ad019f6a",
-  "created": "2026-11-20T08:03:18+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/own-car-or-two-wheeler-check-new-puc-rules-bs-wise-pollution-certificate-validity-key-changes-and-possible-penalties-11795134173267.html",
-  "headline": "പുതിയ PUC നിയമം കാർ, ബൈക്ക് പുതുക്കൽ സമയം മാറ്റുന്നു",
-  "hook": "നിങ്ങളുടെ വാഹനത്തിന്റെ മലിനീകരണ സർട്ടിഫിക്കറ്റ് ഇനി കൂടുതൽ കാലം നിലനിൽക്കാം – അറിയൂ!",
-  "what": "മന്ത്രിസഭം വാഹനത്തിന്റെ പ്രായം, എമിഷൻ സ്റ്റാൻഡേർഡ്, ഉപയോഗം എന്നിവയുടെ അടിസ്ഥാനത്തിൽ PUC സർട്ടിഫിക്കറ്റിന്റെ കാലാവധി പുതുക്കി. പുതിയ ഷെഡ്യൂൾ ഏത് വാഹനങ്ങൾക്ക് ദൈർഘ്യമേറിയ സാധുത നൽകുന്നു, പുതുക്കൽ സമയം എപ്പോൾ എന്ന് വ്യക്തമാക്കുന്നു.",
-  "why": "യുവ ഡ്രൈവർമാർക്ക് പുതുക്കൽ തീയതി അറിയാതെ പിഴ ഒഴിവാക്കാം. നിങ്ങളുടെ വാഹനത്തിന്റെ പുതുക്കൽ ഷെഡ്യൂൾ പരിശോധിച്ച് പ്ലാൻ ചെയ്യൂ.",
-  "tags": [
-   "PUC",
-   "വാഹനനിയമം",
-   "പുതുക്കൽ",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "e8550ed7f870",
-  "created": "2026-11-20T08:04:21+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/itat-relief-for-government-employee-why-2-5-lakh-cash-paid-for-plot-was-not-treated-as-undisclosed-income-11795136814981.html",
-  "headline": "ITAT പിൻവലിച്ചു സർക്കാർ ജീവനക്കാരന്റെ ₹2.5 ലക്ഷം നികുതി",
-  "hook": "ഒരു നികുതി ട്രിബ്യൂണലിൽ സംസ്ഥാന ജീവനക്കാരന്റെ വലിയ നികുതി ബിൽ ഇല്ലാതാക്കി.",
-  "what": "പുനെയിലെ ഇൻകം ടാക്സ് അപീൽ ട്രിബ്യൂണൽ ഒരു മഹാരാഷ്ട്ര സർക്കാർ ജീവനക്കാരന്റെ ₹2.5 ലക്ഷം നികുതി കൂട്ടിച്ചേർക്കൽ റദ്ദാക്കി. പ്ലോട്ട്‌ക്കായി നൽകിയ പണം ബിൽഡർ തിരികെ നൽകിയതെന്ന് ട്രിബ്യൂണൽ അംഗീകരിച്ചു, അതിനാൽ അത് അനാവൃത വരുമാനമായി കണക്കാക്കാതെ.",
-  "why": "പണം തിരികെ നൽകിയ തെളിവുകൾ ഉണ്ടെങ്കിൽ നികുതി തർക്കങ്ങൾ പരിഹരിക്കാം എന്ന് ഇത് കാണിക്കുന്നു. വലിയ പണ ഇടപാടുകളുടെ രേഖകൾ സൂക്ഷിച്ച് നികുതി നിയമങ്ങൾ അറിയാൻ യുവാക്കൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "tax",
-   "govt",
-   "legal",
-   "finance",
-   "India"
-  ]
- },
- {
-  "id": "300c7c788356",
-  "created": "2026-11-20T08:04:26+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-  "headline": "Fireworks AI തുറന്ന‑മോഡലുകൾക്ക് കുറഞ്ഞ ചെലവെന്ന് പറയുന്നു",
-  "hook": "തുറന്ന‑മോഡലുകൾ സ്റ്റാർട്ടപ്പുകൾക്ക് പണം ലാഭിക്കും, Fireworks AI സ്ഥാപകൻ പറയുന്നു",
-  "what": "Anthropic സ്റ്റോക്ക് മാർക്കറ്റിൽ ലിസ്റ്റ് ചെയ്ത ദിവസം, Fireworks AI സഹസ്ഥാപകൻ തുറന്ന‑മോഡലുകൾ കമ്പനികൾക്ക് ചെലവു കുറഞ്ഞൊരു മാർഗം ആകാമെന്ന് ചൂണ്ടിക്കാട്ടി. കൂടാതെ, ചില ഉപഭോക്താക്കളുടെ വിശ്വാസം നഷ്ടപ്പെടുത്തുന്ന സുരക്ഷാ ലംഘനങ്ങളെക്കുറിച്ച് അദ്ദേഹം വിശദീകരിച്ചു.",
-  "why": "പുതിയ AI ഉപകരണങ്ങൾ ചെലവു കുറയ്ക്കാൻ സഹായിക്കുമ്പോൾ, സുരക്ഷയും വിശ്വാസവും ഉറപ്പാക്കുന്നത് പ്രധാനമാണ്, പ്രത്യേകിച്ച് യുവ സംരംഭകരും ഡെവലപ്പർമാരും.",
-  "tags": [
-   "AI",
-   "തുറന്നമോഡൽ",
-   "സ്റ്റാർട്ടപ്പ്",
-   "ചെലവ്",
-   "സുരക്ഷ"
   ]
  }
 ]
