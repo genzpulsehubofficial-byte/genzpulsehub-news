@@ -1,0 +1,37 @@
+{
+ "id": "da48e165e931",
+ "created": "2026-11-20T19:17:27+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/section-31-of-ibc-explained-why-epfo-may-not-recover-1-816-crore-in-unpaid-reliance-capital-dues-after-insolvency-11795179605813.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO may lose ₹1,816 crore from Reliance Capital insolvency",
+  "hook": "A legal clause could block a huge pension fund claim.",
+  "what": "The Employees’ Provident Fund Organisation (EPFO) might not recover ₹1,816 crore owed by Reliance Capital after the firm’s insolvency case. Section 31 of the Insolvency and Bankruptcy Code says an NCLT‑approved resolution plan binds all creditors and wipes out claims left out of the plan.",
+  "why": "If the claim is excluded, EPFO’s recovery could be halted, affecting pension contributions. Young workers should stay aware of how insolvency rules can impact their retirement savings.",
+  "tags": [
+   "EPFO",
+   "RelianceCapital",
+   "Insolvency",
+   "IBC",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO‑ക്ക് Reliance Capital‑ല്‍ നിന്ന് ₹1,816 കോടി വീണ്ടെടുക്കാന്‍ ബുദ്ധിമുട്ട്",
+  "hook": "ഒരു നിയമ വ്യവസ്ഥ വലിയ പെന്‍ഷന്‍ ഫണ്ട് തുക തടയാം.",
+  "what": "Employees’ Provident Fund Organisation (EPFO) Reliance Capital‑ന്‌ കടമിട്ട ₹1,816 കോടി വീണ്ടെടുക്കാന്‍ കഴിയാതെ പോകാം, കാരണം കമ്പനി ദിവാളിത്തം പ്രഖ്യാപിച്ചു. ഇൻസോൾവൻസി ആൻഡ് ബാങ്ക്രപ്റ്റ്സി കോഡിലെ സെക്ഷൻ 31, NCLT‑അംഗീകരിച്ച റെസല്യൂഷൻ പ്ലാൻ എല്ലാ ക്രെഡിറ്റർമാരെയും ബാധിക്കുകയും പ്ലാനില്‍ ഉള്‍പ്പെടാത്ത അവകാശങ്ങളെ ഇല്ലാതാക്കുകയും ചെയ്യുന്നു.",
+  "why": "അവകാശം പ്ലാനില്‍ നിന്ന് ഒഴിവാക്കിയാല്‍ EPFO‑യുടെ വീണ്ടെടുപ്പ് നിർത്തപ്പെടാം, ഇത് പെന്‍ഷന്‍ സംഭാവനകളെ ബാധിക്കും. യുവ തൊഴിലാളികള്‍ ഇത്തരത്തിലുള്ള നിയമങ്ങള്‍ അവരുടെ വിരമിക്കൽ സേവിംഗ്സിനെ എങ്ങനെ ബാധിക്കാം എന്ന് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "EPFO",
+   "RelianceCapital",
+   "Insolvency",
+   "IBC",
+   "Finance"
+  ]
+ }
+}

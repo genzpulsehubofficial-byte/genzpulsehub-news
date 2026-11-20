@@ -1,0 +1,37 @@
+{
+ "id": "f08f1f24684f",
+ "created": "2026-11-20T19:17:19+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bengal Election Roll Update Delayed Past Nov 23",
+  "hook": "Voter list revamp in Bengal hits a pause.",
+  "what": "The Chief Electoral Officer’s office said the Special Summary Revision of electoral rolls, originally set to start on November 23, has been postponed. The delay is attributed to some unavoidable circumstances.",
+  "why": "Young voters should stay tuned for the new schedule as it affects registration and voting plans.",
+  "tags": [
+   "election",
+   "Bengal",
+   "voterlist",
+   "postponed",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ബെംഗാൾ തിരഞ്ഞെടുപ്പ് പട്ടിക പുതുക്കൽ നവം 23ന് ശേഷം വൈകി",
+  "hook": "വോട്ടർമാരുടെ പട്ടിക പുതുക്കൽ ബെംഗാളിൽ താൽക്കാലികമായി നിർത്തി.",
+  "what": "ചീഫ് ഇലക്ടോരൽ ഓഫീസർ ഓഫീസ് പറഞ്ഞതുപോലെ, നവം 23ന് ആരംഭിക്കേണ്ടിരുന്നു പ്രത്യേക സംഗ്രഹ പരിഷ്കാരം ഇപ്പോൾ മാറ്റിവെച്ചിരിക്കുന്നു. കാരണം ചില അനിവാര്യ സാഹചര്യങ്ങൾ.",
+  "why": "യുവവോട്ടർമാർ പുതിയ തീയതി അറിയാൻ കാത്തിരിക്കണം, രജിസ്ട്രേഷൻ, വോട്ടിംഗ് പ്ലാനുകൾക്ക് ഇത് ബാധകമാണ്.",
+  "tags": [
+   "തിരഞ്ഞെടുപ്പ്",
+   "ബെംഗാൾ",
+   "വോട്ടർലിസ്റ്റ്",
+   "പോസ്റ്റ്‌പോൺഡ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

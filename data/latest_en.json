@@ -1,5 +1,62 @@
 [
  {
+  "id": "f08f1f24684f",
+  "created": "2026-11-20T19:17:19+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-special-summary-revision-of-electoral-rolls-postponed/article71724439.ece",
+  "headline": "Bengal Election Roll Update Delayed Past Nov 23",
+  "hook": "Voter list revamp in Bengal hits a pause.",
+  "what": "The Chief Electoral Officer’s office said the Special Summary Revision of electoral rolls, originally set to start on November 23, has been postponed. The delay is attributed to some unavoidable circumstances.",
+  "why": "Young voters should stay tuned for the new schedule as it affects registration and voting plans.",
+  "tags": [
+   "election",
+   "Bengal",
+   "voterlist",
+   "postponed",
+   "India"
+  ]
+ },
+ {
+  "id": "7f996f41bb20",
+  "created": "2026-11-20T19:17:22+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+  "headline": "Nvidia’s Jensen Huang exits amid fear‑based management claims",
+  "hook": "A top exec’s exit sparks talk of a scary workplace.",
+  "what": "Jensen Huang was removed from Nvidia. Reports suggest his leadership relied on fear. Elon Musk’s comment that staff loved him may have been exaggerated.",
+  "why": "Understanding workplace culture is key for anyone eyeing a tech career, so watch out for leadership styles that may affect job satisfaction.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Management",
+   "Workplace",
+   "Tech"
+  ]
+ },
+ {
+  "id": "da48e165e931",
+  "created": "2026-11-20T19:17:27+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/section-31-of-ibc-explained-why-epfo-may-not-recover-1-816-crore-in-unpaid-reliance-capital-dues-after-insolvency-11795179605813.html",
+  "headline": "EPFO may lose ₹1,816 crore from Reliance Capital insolvency",
+  "hook": "A legal clause could block a huge pension fund claim.",
+  "what": "The Employees’ Provident Fund Organisation (EPFO) might not recover ₹1,816 crore owed by Reliance Capital after the firm’s insolvency case. Section 31 of the Insolvency and Bankruptcy Code says an NCLT‑approved resolution plan binds all creditors and wipes out claims left out of the plan.",
+  "why": "If the claim is excluded, EPFO’s recovery could be halted, affecting pension contributions. Young workers should stay aware of how insolvency rules can impact their retirement savings.",
+  "tags": [
+   "EPFO",
+   "RelianceCapital",
+   "Insolvency",
+   "IBC",
+   "Finance"
+  ]
+ },
+ {
   "id": "b19e7ba9f355",
   "created": "2026-11-20T17:55:22+05:30",
   "category": "tech",
@@ -698,61 +755,6 @@
    "Hybrid",
    "SUV",
    "Asia"
-  ]
- },
- {
-  "id": "0bfc41a3303e",
-  "created": "2026-11-20T11:16:48+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-child-rights-panel-report-migrant-boy-death-perumbavoor-ptiisnpuyp0",
-  "headline": "Kerala panel demands report on 4‑year‑old’s factory death",
-  "hook": "A toddler’s fatal accident in a plywood shop sparks an official probe.",
-  "what": "A four‑year‑old migrant child died after being caught in a machine at a plywood unit in Perumbavoor. The Kerala Child Rights Commission has asked officials to submit detailed reports on the incident.",
-  "why": "The tragedy points to safety lapses in workplaces that employ migrant families, urging young people to push for stronger child‑labour protections. Stay aware and support calls for safer work environments.",
-  "tags": [
-   "Kerala",
-   "ChildRights",
-   "Safety",
-   "MigrantWorkers"
-  ]
- },
- {
-  "id": "6531434c0c16",
-  "created": "2026-11-20T10:12:59+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
-  "headline": "Cyclone Akvan Hits Odisha Coast As Over 3 Lakh People Evacuate",
-  "hook": "A massive storm has reached the Odisha coast, triggering large-scale evacuations.",
-  "what": "Cyclone Akvan has started making landfall along the Odisha coastline. The India Meteorological Department noted that the storm advanced north-northwest at 21 kmph from the west-central Bay of Bengal. More than 3 lakh people have been moved to safer places.",
-  "why": "Keep track of weather alerts and check in on friends or relatives living in coastal zones.",
-  "tags": [
-   "CycloneAkvan",
-   "Odisha",
-   "WeatherUpdate",
-   "IMD"
-  ]
- },
- {
-  "id": "c16fcdaf5c1d",
-  "created": "2026-11-20T10:13:07+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/new-gaming-expense-of-7-499-to-add-to-your-budget-this-month-check-gta-6-prices-in-india-editions-and-where-to-buy-11795140955483.html",
-  "headline": "GTA 6 hits Indian shelves at ₹7,499",
-  "hook": "Ready to roll? The long‑awaited GTA 6 is finally out in India.",
-  "what": "After a 13‑year gap since GTA 5, Rockstar released GTA 6. The game is available in Standard and Ultimate editions at ₹7,499 and higher, compatible with major consoles. It can be bought online and in stores, and a Code‑in‑a‑Box option lets players download it later.",
-  "why": "Gamers need to check the edition and platform before spending, and plan their budget for the new release.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "India",
-   "budget",
-   "newrelease"
   ]
  }
 ]
