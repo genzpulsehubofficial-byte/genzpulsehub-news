@@ -1,0 +1,37 @@
+{
+ "id": "efc832de1624",
+ "created": "2026-11-21T03:00:36+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Yahoo Tech",
+ "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 rakes in $3.79 B on launch day",
+  "hook": "The biggest game debut ever just hit the screens.",
+  "what": "Grand Theft Auto VI launched after a 13‑year wait, sparking a flood of reviews, memes and player streams from the new city Leonida. Take‑Two Interactive reported first‑day retail sales of $3.79 billion, a record for the industry.",
+  "why": "Such a massive launch shows the power of gaming culture and may influence future game releases and job opportunities in esports and development. Keep an eye on upcoming updates and community events.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "salesrecord",
+   "TakeTwo",
+   "Leonida"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6 ആദ്യദിനം $3.79 ബില്യണ്‍ വില്‍പ്പന",
+  "hook": "വലിയ ഗെയിം ഡെബ്യൂ ഇപ്പോള്‍ സ്ക്രീനുകളില്‍.",
+  "what": "13 വര്‍ഷത്തെ ഇടവേളയ്ക്ക് ശേഷം Grand Theft Auto VI പുറത്തിറങ്ങി, കളിക്കാര്‍ Leonida നഗരത്തില്‍ പുതിയ റിവ്യൂകളും മീമുകളും സ്റ്റ്രീമുകളും പങ്കുവെച്ചു. Take‑Two Interactive ആദ്യദിനം $3.79 ബില്യണ്‍ റീട്ടെയില്‍ വില്‍പ്പന രേഖപ്പെടുത്തി, ഇതു ഒരു റെക്കോര്‍ഡ് ആണ്.",
+  "why": "ഇത്തരം വന്‍ ലോഞ്ച് ഗെയിമിംഗ് സംസ്കാരത്തിന്റെ ശക്തി കാണിക്കുന്നു, ഭാവിയിലെ ഗെയിം റിലീസ്, ഇ‑സ്പോര്‍ട്‌സ്, ഡെവലപ്മെന്റ് ജോലികള്‍ എന്നിവയെ ബാധിക്കും. പുതിയ അപ്ഡേറ്റുകളും കമ്മ്യൂണിറ്റി ഇവന്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "salesrecord",
+   "TakeTwo",
+   "Leonida"
+  ]
+ }
+}

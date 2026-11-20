@@ -1,0 +1,37 @@
+{
+ "id": "6787a271fdfe",
+ "created": "2026-11-21T03:00:28+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI workers at risk of honey‑trap scams, experts say",
+  "hook": "Your heart could be the next hack point.",
+  "what": "Security specialists warn that many people working in artificial intelligence are vulnerable to honey‑trap schemes. These scams use emotional manipulation to trick victims. The threat is growing as AI development accelerates.",
+  "why": "Young tech enthusiasts should stay cautious online and protect personal relationships, not just data. Being aware can prevent personal and professional fallout.",
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "honeytrap",
+   "online safety",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "AI തൊഴിലാളികൾക്ക് ഹണി‑ട്രാപ് തട്ടിപ്പ് അപകടം, വിദഗ്ധർ മുന്നറിയിപ്പ്",
+  "hook": "നിങ്ങളുടെ ഹൃദയം അടുത്ത ഹാക്കിംഗ് ലക്ഷ്യമായി മാറാം.",
+  "what": "സുരക്ഷാ വിദഗ്ധർ AI രംഗത്തെ പല ആളുകളും ഹണി‑ട്രാപ് സ്കീമുകൾക്ക് ഇരയാകാൻ സാധ്യതയുണ്ടെന്ന് മുന്നറിയിപ്പ് നൽകി. ഈ തട്ടിപ്പുകൾ വികാരപരമായ ചതിയിലൂടെ ഇരകളെ ആകർഷിക്കുന്നു. AI വികസനം വേഗത്തിൽ നടക്കുന്നതിനാൽ ഈ ഭീഷണി വർദ്ധിക്കുന്നു.",
+  "why": "യുവ ടെക്ക് ആസ്വാദകർ ഓൺലൈനിൽ ജാഗ്രത പാലിക്കുകയും വ്യക്തിഗത ബന്ധങ്ങൾ സംരക്ഷിക്കുകയും ചെയ്യണം. അറിവ് ഉണ്ടെങ്കിൽ വ്യക്തിപരവും പ്രൊഫഷണലും ആയ പ്രത്യാഘാതങ്ങൾ ഒഴിവാക്കാം.",
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "honeytrap",
+   "online safety",
+   "tech"
+  ]
+ }
+}

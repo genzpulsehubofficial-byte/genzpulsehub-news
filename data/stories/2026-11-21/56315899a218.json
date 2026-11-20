@@ -1,0 +1,37 @@
+{
+ "id": "56315899a218",
+ "created": "2026-11-21T03:00:41+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 Breaks Record with $3.79 B First‑Day Sales",
+  "hook": "The new Rockstar title sold billions on launch day.",
+  "what": "Rockstar Games reports that GTA 6 generated $3.79 billion in retail sales worldwide on its first day. The standard edition is priced at about $80 in the United States.",
+  "why": "Such massive sales show the strong demand for high‑budget games, signalling potential job and career opportunities in gaming and esports for Indian youth.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "recordsales",
+   "Rockstar",
+   "youthgaming"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6 ആദ്യദിനത്തിൽ $3.79 ബില്യൺ വിൽപ്പന റെക്കോർഡ് തകർത്തു",
+  "hook": "റോക്ക്സ്റ്റാർ的新 ഗെയിം ആദ്യ ദിവസം തന്നെ ബില്യൺ ഡോളർ വിൽപ്പന നേടി.",
+  "what": "റോക്ക്സ്റ്റാർ ഗെയിംസ് റിപ്പോർട്ട് ചെയ്യുന്നത് GTA 6 ആദ്യദിനത്തിൽ ലോകവ്യാപകമായി $3.79 ബില്യൺ റീട്ടെയിൽ വിൽപ്പന നേടി. സ്റ്റാൻഡേർഡ് പതിപ്പ് യു.എസ്.യിൽ ഏകദേശം $80 വിലയുള്ളതാണ്.",
+  "why": "ഇത്തരം വൻ വിൽപ്പനകൾ ഉയർന്ന ബജറ്റ് ഗെയിമുകളുടെ ആവശ്യം തെളിയിക്കുന്നു, ഇത് ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഗെയിമിംഗ്, ഇ‑സ്പോർട്സ് മേഖലയിൽ കരിയർ അവസരങ്ങൾ സൃഷ്ടിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "റെക്കോർഡ്",
+   "റോക്ക്സ്റ്റാർ",
+   "യുവാക്കൾ"
+  ]
+ }
+}
