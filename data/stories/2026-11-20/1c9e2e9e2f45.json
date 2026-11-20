@@ -1,0 +1,37 @@
+{
+ "id": "1c9e2e9e2f45",
+ "created": "2026-11-20T13:31:17+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "INDToday",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTGtMRjVQLVBqSEVnMTRsc0JJbXJPcjYxdE9oejF4RHRvVmp0cDV2ekQ4bmxXTFhMaUdKX3NDci1xdTdCNGNZeDNSNVZSUF9BTU5TdFlwOVdQd1JpekpYaE9PVmoxd1lqYVBMa0x0UzcxZ0RBTFE?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Hyderabad gold rates for 22K and 24K on Nov 20",
+  "hook": "Today's gold prices in Hyderabad are out now.",
+  "what": "The latest rates for 22‑carat and 24‑carat gold were released for Hyderabad on November 20, 2026. The figures were listed by INDToday.",
+  "why": "Gold prices affect savings and gifting decisions, so students should check the rates before buying.",
+  "tags": [
+   "gold",
+   "Hyderabad",
+   "prices",
+   "2026",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "Hyderabad‑ലുള്ള 22K, 24K സ്വർണ്ണ വിലകൾ നവം 20-ന്",
+  "hook": "ഇന്ന് Hyderabad‑ലെ സ്വർണ്ണ വിലകൾ പുറത്തിറങ്ങി.",
+  "what": "Nov 20, 2026-ന് Hyderabad‑ലുള്ള 22‑കാരറ്റ്, 24‑കാരറ്റ് സ്വർണ്ണത്തിന്റെ പുതിയ നിരക്കുകൾ INDToday പ്രസിദ്ധീകരിച്ചു.",
+  "why": "സ്വർണ്ണ വിലകൾ സംരക്ഷണവും സമ്മാനവുമുള്ള തീരുമാനങ്ങളെ ബാധിക്കുന്നു, അതിനാൽ വാങ്ങുന്നതിന് മുമ്പ് നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "Hyderabad",
+   "വില",
+   "2026",
+   "ഫിനാൻസ്"
+  ]
+ }
+}
