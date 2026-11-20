@@ -1,0 +1,37 @@
+{
+ "id": "9a707708f6ae",
+ "created": "2026-11-21T01:13:42+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epfos-systematic-withdrawal-plan-what-is-the-waiting-period-for-final-pf-withdrawal-if-unemployed-explained-here-11795196995852.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "New PF Rules Ease Withdrawal for Unemployed Workers",
+  "hook": "Lost a job? Your PF can now be accessed faster.",
+  "what": "The EPFO has updated its systematic withdrawal plan, letting employees who are jobless, have quit voluntarily, or face long employment gaps tap their provident fund savings. The changes aim to shorten the waiting time before the final withdrawal.",
+  "why": "This helps young Indians manage finances during career transitions, so check the EPFO portal for eligibility and steps.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "withdrawal",
+   "jobs",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ PF നിയമം തൊഴിലില്ലാത്തവർക്കു എളുപ്പം പി‌എഫ് പിൻവലിക്കൽ",
+  "hook": "ജോലി നഷ്ടപ്പെട്ടോ? നിങ്ങളുടെ PF ഇനി വേഗത്തിൽ ലഭിക്കും.",
+  "what": "EPFOയുടെ സിസ്റ്റമാറ്റിക് വിഡ്രോവൽ പ്ലാൻ പുതുക്കി, ജോലി നഷ്ടപ്പെട്ടവരും, സ്വമേധയാ രാജിവെച്ചവരും, ദീർഘകാലം ജോലി ഇടവേളയുള്ളവരും അവരുടെ PF സംരക്ഷണം എളുപ്പത്തിൽ ഉപയോഗിക്കാം. പുതിയ നിയമം അന്തിമ PF പിൻവലിക്കാൻ കാത്തിരിക്കേണ്ട സമയം കുറയ്ക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "കരിയർ മാറ്റങ്ങളിലോ സാമ്പത്തിക ആവശ്യങ്ങളിലോ യുവാക്കൾക്ക് ഇത് സഹായകരമാണ്; EPFO വെബ്സൈറ്റിൽ യോഗ്യതയും നടപടികളും പരിശോധിക്കുക.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "withdrawal",
+   "jobs",
+   "finance"
+  ]
+ }
+}

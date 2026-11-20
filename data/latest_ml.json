@@ -1,5 +1,98 @@
 [
  {
+  "id": "d6bff5841b5a",
+  "created": "2026-11-21T01:13:02+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "headline": "AIയും മനുഷ്യനും റീമാൻ ഹിപോത്തിസിസ് പരിഹാരം",
+  "hook": "167 വർഷം പഴക്കമുള്ള ഗണിതപ്പസിലിന് രണ്ട് പുതിയ ഉത്തരങ്ങൾ",
+  "what": "ഒരു AI സിസ്റ്റം 167 വർഷം പഴക്കമുള്ള റീമാൻ ഹിപോത്തിസിസ് പരിഹരിച്ചു എന്ന് പ്രഖ്യാപിച്ചു. അതേ സമയം ഒരു ഗണിതജ്ഞനും പരിഹാരം അവതരിപ്പിച്ചു. ഈ ഇരുവിധം അവകാശങ്ങൾ ഗണിത സമൂഹത്തിന്റെ ശ്രദ്ധ ആകർഷിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള പുരോഗതി AI ഗവേഷണത്തിന്റെ വളർച്ചയും ഗണിതം പഠനത്തിന്റെ പ്രാധാന്യവും കാണിക്കുന്നു. AIയും ഗണിതവും സംബന്ധിച്ച പുതിയ വികസനങ്ങൾ ശ്രദ്ധിക്കുക, ഭാവി കരിയറുകൾക്ക് ഇത് സഹായകമാകും.",
+  "tags": [
+   "Riemann",
+   "AI",
+   "ഗണിതം",
+   "ഗവേഷണം"
+  ]
+ },
+ {
+  "id": "ca14f8139194",
+  "created": "2026-11-21T01:13:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
+  "headline": "Godzilla Minus Zero‑ന് ഇന്ത്യയില്‍ ഒരു കോടി മുന്‍കൂട്ടി ബുക്ക്",
+  "hook": "ഫാന്‍സ്‌മാര്‍ വരവേല്‍പ്പ്, റിലീസ് മുമ്പേ ഒരു കോടി ടിക്കറ്റുകള്‍.",
+  "what": "തകാഷി യമസാക്കി സംവിധാനം ചെയ്ത ഗോഡ്ജില്ലാ സീക്വന്‍ ആദ്യ ദിവസം നല്ല വരുമാനം നേടി. ഇന്ത്യയില്‍ മുന്‍കൂട്ടി ബുക്കിംഗ് ഒരു കോടി രൂപ കടന്നു, പ്രേക്ഷകര്‍ ചിത്രത്തിന്റെ വിസ്വല്‍ സ്‌പെക്ടാക്കിള്‍ വര്‍ദ്ധിച്ചെന്ന് പറഞ്ഞു.",
+  "why": "ഇന്ത്യന്‍ യുവാക്കള്‍ക്ക് വലിയ ബജറ്റ് സയന്‍സ്‑ഫിക്ഷന്‍ സിനിമകളില്‍ താല്‍പ്പര്യം വര്‍ദ്ധിക്കുന്നു, അതിനാല്‍ റിലീസ് തീയതിയും സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോം വിവരങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഗോഡ്ജില്ലാ",
+   "ബോക്സ്‌ഓഫീസ്",
+   "ചലച്ചിത്രം",
+   "ഇന്ത്യ",
+   "ടീൻസ്"
+  ]
+ },
+ {
+  "id": "9e8d3f354ef6",
+  "created": "2026-11-21T01:13:36+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tngcta-writes-to-cm-higher-education-minister-to-appoint-senior-govt-college-principal-as-dce/article71725207.ece",
+  "headline": "അധ്യാപകസംഘം സർക്കാർ പ്രിൻസിപ്പലിനെ DCE ആയി നിയമിക്കാൻ ആവശ്യപ്പെട്ടു",
+  "hook": "ഒരു അധ്യാപക യൂണിയൻ പുതിയ ഉയർന്ന സ്ഥാനത്തെക്കുറിച്ച് സർക്കാർ അപേക്ഷിച്ചു",
+  "what": "TNGCTA ചീഫ് മിനിസ്ട്രേയും ഉയർന്ന വിദ്യാഭ്യാസ മന്ത്രിയുമെതിരെ ഒരു കത്ത് അയച്ചു. അതിൽ ഒരു മുതിർന്ന സർക്കാർ കോളേജ് പ്രിൻസിപ്പലിനെ DCE ആയി നിയമിക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത്തരത്തിലുള്ള നിയമനങ്ങൾ കോളേജ് ഭരണവും വിദ്യാർത്ഥി നയങ്ങളും ബാധിക്കും. വിദ്യാഭ്യാസ നേതൃപരിഷ്കാരങ്ങളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "വിദ്യാഭ്യാസം",
+   "അധ്യാപകർ",
+   "നിയമനം",
+   "നയം",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "eb9ddf0bdcf4",
+  "created": "2026-11-21T01:13:39+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+  "headline": "സൈക്ലോണ്‍ അക്വാന്‍ ശേഷം തമിഴ്നാട്ടില്‍ മഴവെള്ളം മടങ്ങി",
+  "hook": "ചെന്നൈയും ചുറ്റുമുള്ള പ്രദേശങ്ങളും മഴയിലാകും",
+  "what": "പ്രാദേശിക കാലാവസ്ഥാ കേന്ദ്രം പറഞ്ഞതുപ്രകാരം, ചെന്നൈ, കഡലൂർ പോലുള്ള തീരപ്രദേശങ്ങളിൽ നാളെ മുതൽ മിതമായ മഴയാകും. സമീപഭൂമികളിൽ ലഘുവായ മഴ പ്രതീക്ഷിക്കാം. ഈ മഴ ആദ്യവാരം വരെ തുടരും.",
+  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കുടയും ചട്ടയും കൊണ്ടു തയ്യാറാവണം, പുറംപ്രവർത്തനങ്ങൾ പ്ലാൻ ചെയ്യുമ്പോൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "தமிழ்நாடு",
+   "മഴ",
+   "കാലാവസ്ഥ",
+   "മോണ്സൺ"
+  ]
+ },
+ {
+  "id": "9a707708f6ae",
+  "created": "2026-11-21T01:13:42+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfos-systematic-withdrawal-plan-what-is-the-waiting-period-for-final-pf-withdrawal-if-unemployed-explained-here-11795196995852.html",
+  "headline": "പുതിയ PF നിയമം തൊഴിലില്ലാത്തവർക്കു എളുപ്പം പി‌എഫ് പിൻവലിക്കൽ",
+  "hook": "ജോലി നഷ്ടപ്പെട്ടോ? നിങ്ങളുടെ PF ഇനി വേഗത്തിൽ ലഭിക്കും.",
+  "what": "EPFOയുടെ സിസ്റ്റമാറ്റിക് വിഡ്രോവൽ പ്ലാൻ പുതുക്കി, ജോലി നഷ്ടപ്പെട്ടവരും, സ്വമേധയാ രാജിവെച്ചവരും, ദീർഘകാലം ജോലി ഇടവേളയുള്ളവരും അവരുടെ PF സംരക്ഷണം എളുപ്പത്തിൽ ഉപയോഗിക്കാം. പുതിയ നിയമം അന്തിമ PF പിൻവലിക്കാൻ കാത്തിരിക്കേണ്ട സമയം കുറയ്ക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "കരിയർ മാറ്റങ്ങളിലോ സാമ്പത്തിക ആവശ്യങ്ങളിലോ യുവാക്കൾക്ക് ഇത് സഹായകരമാണ്; EPFO വെബ്സൈറ്റിൽ യോഗ്യതയും നടപടികളും പരിശോധിക്കുക.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "withdrawal",
+   "jobs",
+   "finance"
+  ]
+ },
+ {
   "id": "a6633c441463",
   "created": "2026-11-21T00:08:28+05:30",
   "category": "kerala",
@@ -658,100 +751,6 @@
    "റെഡ്",
    "ടെക്",
    "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "4ede0bf52997",
-  "created": "2026-11-20T17:56:33+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-you-claim-capital-loss-on-a-car-sale-itat-rejects-20-67-lakh-claim-says-personal-cars-are-not-capital-assets-11795174869250.html",
-  "headline": "ITAT നിരസിച്ചു വ്യക്തിഗത മെർസിഡീസ്‌ വിൽപ്പനയിൽ ₹20.67 ലക്ഷം നഷ്ടം",
-  "hook": "നിങ്ങളുടെ കുടുംബ കാർക്ക് നികുതി നഷ്ടം ക്ലെയിം ചെയ്യാൻ കഴിയില്ല.",
-  "what": "ജൈപ്പൂരിലെ ITAT ഒരു നികുതിദായകയുടെ മെർസിഡീസ്‌ വിൽപ്പനയിൽ നിന്നുള്ള ₹20.67 ലക്ഷം മൂലധന നഷ്ടം അംഗീകരിച്ചില്ല. വ്യക്തിഗത ഉപയോഗത്തിലുള്ള കാർ മൂലധന ആസ്തി എന്ന് നിയമം പറയുന്നില്ല. ബാലൻസ് ഷീറ്റിൽ വാഹനത്തെ സ്ഥിര ആസ്തിയായി രേഖപ്പെടുത്തുന്നത് ബിസിനസ് ഉപയോഗം തെളിയിക്കുന്നില്ല.",
-  "why": "വ്യവസായികൾക്ക് വ്യക്തിഗത വാഹനങ്ങളെ നികുതി നഷ്ടമായി ക്ലെയിം ചെയ്യാൻ കഴിയില്ലെന്ന് ശ്രദ്ധിക്കണം, അതിനാൽ ബിസിനസ് ഉപയോഗം തെളിയിക്കുന്ന രേഖകൾ തയ്യാറാക്കണം. തെറ്റായ വർഗ്ഗീകരണം ക്ലെയിം നിരസിക്കപ്പെടാൻ കാരണമാകും.",
-  "tags": [
-   "tax",
-   "capitalLoss",
-   "ITAT",
-   "personalCar",
-   "finance"
-  ]
- },
- {
-  "id": "6fc2ec99e63a",
-  "created": "2026-11-20T17:56:35+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/food/features/inside-smac-indias-single-malt-club-of-whisky-nerds/article71724070.ece",
-  "headline": "ഇന്ത്യയിലെ 7500 അംഗങ്ങളുള്ള സിംഗിൾ മാൾറ്റ് ക്ലബ്",
-  "hook": "വിസ്കി പ്രേമികളുടെ രഹസ്യ ലൗഞ്ച് രാജ്യത്തെ മുഴുവൻ ചലിപ്പിക്കുന്നു.",
-  "what": "സിംഗിൾ മാൾട്ട് അമേചർ ക്ലബ് 7500‑ത്തിലധികം യുവാവിനെയും സ്ത്രീകളെയും ഒരുമിപ്പിക്കുന്നു. അംഗങ്ങൾ അപൂർവ്വ സിംഗിൾ മാൾട്ടുകൾ രുചിച്ചു, ചർച്ച ചെയ്തു, ജീവിതത്തെക്കുറിച്ചും സംസാരിക്കുന്നു.",
-  "why": "ഇത് യുവജനങ്ങൾക്ക് പ്രത്യേക താല്പര്യങ്ങളിലൂടെ കൂട്ടായ്മയും നെറ്റ്‌വർക്കും സൃഷ്ടിക്കാൻ പ്രചോദനം നൽകുന്നു. ഇത്തരത്തിലുള്ള ഹോബി ഗ്രൂപ്പുകളിൽ ചേരാൻ ശ്രമിക്കുക.",
-  "tags": [
-   "whisky",
-   "singlemalt",
-   "community",
-   "hobby",
-   "india"
-  ]
- },
- {
-  "id": "fc858918dbf5",
-  "created": "2026-11-20T16:56:03+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
-  "headline": "Supreme Court ഒറ്റവേളയ്ക്ക് തിറുപ്പാറങ്കുന്ദ്രം Deepathoon വിളക്ക് വെളിച്ചം അനുവദിച്ചു",
-  "hook": "മഹാന്യായം ഒരു പവിത്ര ചടങ്ങിന് താൽക്കാലികമായി തടയു നീക്കുന്നു.",
-  "what": "Justice Aravind Kumar നയിച്ച സുപ്രീം കോടതി, തിറുപ്പാറങ്കുന്ദ്രത്തിലെ ‘Deepathoon’ വിളക്ക് ഒറ്റവേളയ്ക്ക് വെളിച്ചം നൽകാൻ അനുമതി നൽകി. ഇത് ജനുവരി 6ന് മദ്രാസ് ഹൈകോടതി പ്രഖ്യാപിച്ച, ആചാരം അനിവാര്യമാണ് എന്ന വിധിയെ താൽക്കാലികമായി നിലച്ചു.",
-  "why": "ഇത് ഒരു പരിമിതമായ അനുമതിയാണ്, ഭാവിയിൽ വീണ്ടും നിയമപരമായ അനുമതി ആവശ്യമാകും; യുവാക്കൾക്ക് ഇതിന്റെ പരിധി മനസിലാക്കണം.",
-  "tags": [
-   "SupremeCourt",
-   "Deepathoon",
-   "Thirupparankundram",
-   "മതം",
-   "നിയമം"
-  ]
- },
- {
-  "id": "04150468f031",
-  "created": "2026-11-20T16:56:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
-  "headline": "Cyclone Akvan ഒഡീഷയിൽ നാശം ഇല്ല, धीरे धीरे ദുർബലമാകും",
-  "hook": "ഒഡീഷാ മന്ത്രിയുടെ പ്രകാരം, ചുഴലിക്കാറ്റ് വലിയ നാശം വരുത്തിയില്ല.",
-  "what": "ഒഡീഷാ മന്ത്രിയുൾപ്പെടെ, Cyclone Akvan നാശം അല്ലെങ്കിൽ ജീവന്‍ നഷ്ടം ഉണ്ടാക്കിയില്ലെന്ന് അറിയിച്ചു. ഇത് ഒരു ഗാഢ ഡിപ്പ്രഷൻ ആയി, വടക്കു‑കിഴക്കോട്ട് നീങ്ങി, धीरे धीरे ഡിപ്പ്രഷനായി ദുർബലമാകും.",
-  "why": "കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ പാലിക്കുന്നത് സുരക്ഷയ്ക്ക് പ്രധാനമാണ്; യുവാക്കൾ ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "cyclone",
-   "Odisha",
-   "weather",
-   "safety"
-  ]
- },
- {
-  "id": "ef3564d18b16",
-  "created": "2026-11-20T16:56:50+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMGEybkh0eVBES2Z3LVZIbGVjMzBwUDdReTNSdlpDTHlxYmFKRFlIN0VCOXFnV3gtOUgxenMtQk5raGdIeDIwQ0pMbHlpRy1ENFB0R1YyYVdrOHVjMElRUFJkWkd3OWlwZnNPT0hSRnVrS3JWb3pZdEVhSGdueEpKWXdrVnJWQ04wdnd5R3pOdGNSc3A4VWZ6bUR1NmRiOFFNZmNSMzNZT0hoN3hydlA0Xzg1NGJmVFNXMTg5dko3N0c1TEJISDdHUnZrWG9PbjRnc3Njb2YwS2dWa3A4X2MtSVgtSnU3VlB0eU5EYVRTZWM?oc=5",
-  "headline": "Galaxy S27 Pro‑യുടെ Exynos 2700, Snapdragon 8 Elite‑നോട് താരതമ്യം",
-  "hook": "പുതിയ ബെഞ്ച്മാർക്ക് സൂചിപ്പിക്കുന്നത് സാംസംഗിന്റെ അടുത്ത ഫ്ലാഗ്ഷിപ്പ് ഉയർന്ന പ്രകടനം നൽകുമെന്ന്.",
-  "what": "ഒരു പുതിയ Geekbench ലിസ്റ്റ് പ്രകാരം സാംസംഗ് ഗാലക്‌സി S27 Pro‑യിൽ Exynos 2700 ചിപ്സെറ്റ് ഉപയോഗിക്കും. ഈ ബെഞ്ച്മാർക്ക് Snapdragon 8 Elite Extreme Gen 6 ചിപ്സെറ്റ് ഉള്ള ഫോൺകളുമായി സമാന പ്രകടന തലത്തിൽ കാണിക്കുന്നു.",
-  "why": "ഇത് ഗെയിമിംഗ്, ആപ്പുകൾ എന്നിവയിൽ വേഗതയുള്ള അനുഭവം നൽകാൻ സാധ്യതയുള്ളതിനാൽ, അടുത്ത പ്രീമിയം ഫോണിന്റെ വാങ്ങൽ പരിഗണിക്കുന്നവർക്കു ശ്രദ്ധേയമാണ്.",
-  "tags": [
-   "Samsung",
-   "GalaxyS27",
-   "TechNews",
-   "Benchmarks",
-   "Phones"
   ]
  }
 ]

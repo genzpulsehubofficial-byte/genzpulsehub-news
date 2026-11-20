@@ -1,0 +1,37 @@
+{
+ "id": "9e8d3f354ef6",
+ "created": "2026-11-21T01:13:36+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tngcta-writes-to-cm-higher-education-minister-to-appoint-senior-govt-college-principal-as-dce/article71725207.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Teachers’ body urges govt to name senior principal as DCE",
+  "hook": "A teachers’ union is pushing for a new top post appointment.",
+  "what": "The TNGCTA wrote to the Chief Minister and the Higher Education Minister. The letter asked that a senior government college principal be appointed as DCE.",
+  "why": "Such appointments can shape college administration and policies that affect students. Stay aware of changes in education leadership.",
+  "tags": [
+   "education",
+   "teachers",
+   "appointment",
+   "policy",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "അധ്യാപകസംഘം സർക്കാർ പ്രിൻസിപ്പലിനെ DCE ആയി നിയമിക്കാൻ ആവശ്യപ്പെട്ടു",
+  "hook": "ഒരു അധ്യാപക യൂണിയൻ പുതിയ ഉയർന്ന സ്ഥാനത്തെക്കുറിച്ച് സർക്കാർ അപേക്ഷിച്ചു",
+  "what": "TNGCTA ചീഫ് മിനിസ്ട്രേയും ഉയർന്ന വിദ്യാഭ്യാസ മന്ത്രിയുമെതിരെ ഒരു കത്ത് അയച്ചു. അതിൽ ഒരു മുതിർന്ന സർക്കാർ കോളേജ് പ്രിൻസിപ്പലിനെ DCE ആയി നിയമിക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത്തരത്തിലുള്ള നിയമനങ്ങൾ കോളേജ് ഭരണവും വിദ്യാർത്ഥി നയങ്ങളും ബാധിക്കും. വിദ്യാഭ്യാസ നേതൃപരിഷ്കാരങ്ങളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "വിദ്യാഭ്യാസം",
+   "അധ്യാപകർ",
+   "നിയമനം",
+   "നയം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

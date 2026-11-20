@@ -1,5 +1,98 @@
 [
  {
+  "id": "d6bff5841b5a",
+  "created": "2026-11-21T01:13:02+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "headline": "AI and Human Claim Riemann Hypothesis Solutions",
+  "hook": "A 167‑year math puzzle just got two new answers.",
+  "what": "An artificial‑intelligence system announced it solved the Riemann Hypothesis, a problem open for 167 years. A mathematician also presented a solution. Both claims are drawing attention from the math community.",
+  "why": "The breakthrough highlights AI’s growing role in research and the value of strong math skills. Keep an eye on AI and mathematics developments for future study and career options.",
+  "tags": [
+   "Riemann",
+   "AI",
+   "Math",
+   "Research"
+  ]
+ },
+ {
+  "id": "ca14f8139194",
+  "created": "2026-11-21T01:13:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
+  "headline": "Godzilla Minus Zero draws huge advance bookings in India",
+  "hook": "Fans line up, pushing pre‑sales past a crore before the film even hits screens.",
+  "what": "Takashi Yamazaki’s latest Godzilla sequel opened with strong day‑one earnings. Advance tickets in India topped Rs 1 crore, and viewers praised its visual scale, calling it bigger than the previous installment.",
+  "why": "The buzz shows growing appetite for big‑budget sci‑fi among Indian teens, so keep an eye on release dates and streaming options.",
+  "tags": [
+   "Godzilla",
+   "BoxOffice",
+   "Movies",
+   "India",
+   "Teens"
+  ]
+ },
+ {
+  "id": "9e8d3f354ef6",
+  "created": "2026-11-21T01:13:36+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tngcta-writes-to-cm-higher-education-minister-to-appoint-senior-govt-college-principal-as-dce/article71725207.ece",
+  "headline": "Teachers’ body urges govt to name senior principal as DCE",
+  "hook": "A teachers’ union is pushing for a new top post appointment.",
+  "what": "The TNGCTA wrote to the Chief Minister and the Higher Education Minister. The letter asked that a senior government college principal be appointed as DCE.",
+  "why": "Such appointments can shape college administration and policies that affect students. Stay aware of changes in education leadership.",
+  "tags": [
+   "education",
+   "teachers",
+   "appointment",
+   "policy",
+   "India"
+  ]
+ },
+ {
+  "id": "eb9ddf0bdcf4",
+  "created": "2026-11-21T01:13:39+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+  "headline": "Monsoon rains return to Tamil Nadu after Cyclone Akvan",
+  "hook": "Rainy days are back in Chennai and nearby towns",
+  "what": "The Regional Meteorological Centre says moderate rain will hit coastal districts such as Chennai and Cuddalore starting tomorrow. Adjacent inland areas can expect lighter showers. The wet spell is expected to last until the first week of December.",
+  "why": "Students and commuters should carry umbrellas and plan travel accordingly as the rain may affect outdoor activities until early December.",
+  "tags": [
+   "TamilNadu",
+   "Rain",
+   "Weather",
+   "Monsoon"
+  ]
+ },
+ {
+  "id": "9a707708f6ae",
+  "created": "2026-11-21T01:13:42+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfos-systematic-withdrawal-plan-what-is-the-waiting-period-for-final-pf-withdrawal-if-unemployed-explained-here-11795196995852.html",
+  "headline": "New PF Rules Ease Withdrawal for Unemployed Workers",
+  "hook": "Lost a job? Your PF can now be accessed faster.",
+  "what": "The EPFO has updated its systematic withdrawal plan, letting employees who are jobless, have quit voluntarily, or face long employment gaps tap their provident fund savings. The changes aim to shorten the waiting time before the final withdrawal.",
+  "why": "This helps young Indians manage finances during career transitions, so check the EPFO portal for eligibility and steps.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "withdrawal",
+   "jobs",
+   "finance"
+  ]
+ },
+ {
   "id": "a6633c441463",
   "created": "2026-11-21T00:08:28+05:30",
   "category": "kerala",
@@ -658,100 +751,6 @@
    "RedLaunch",
    "TechNews",
    "India"
-  ]
- },
- {
-  "id": "4ede0bf52997",
-  "created": "2026-11-20T17:56:33+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-you-claim-capital-loss-on-a-car-sale-itat-rejects-20-67-lakh-claim-says-personal-cars-are-not-capital-assets-11795174869250.html",
-  "headline": "ITAT denies ₹20.67 L loss claim on personal Mercedes",
-  "hook": "Your family car can’t be treated as a tax loss asset.",
-  "what": "The Jaipur ITAT turned down a taxpayer’s claim of a ₹20.67 lakh capital loss from selling her Mercedes. The tribunal said a car used for personal purposes does not qualify as a capital asset under the tax code. Listing the vehicle as a fixed asset on a balance sheet does not prove business use.",
-  "why": "Young entrepreneurs should note that personal vehicles can’t be claimed for tax loss benefits, so keep records clear about business usage. Misclassifying assets may lead to rejected claims.",
-  "tags": [
-   "tax",
-   "capitalLoss",
-   "ITAT",
-   "personalCar",
-   "finance"
-  ]
- },
- {
-  "id": "6fc2ec99e63a",
-  "created": "2026-11-20T17:56:35+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/food/features/inside-smac-indias-single-malt-club-of-whisky-nerds/article71724070.ece",
-  "headline": "India’s 7,500‑Strong Single Malt Club Meets Online",
-  "hook": "A secret lounge for whisky lovers is buzzing across the country.",
-  "what": "The Single Malt Amateur Club unites more than 7,000 Indian enthusiasts. Members taste, discuss and hunt for rare single‑malts, often turning the talk into broader conversations about life.",
-  "why": "For Gen Z, it shows how niche passions can create vibrant communities and networking beyond studies. Joining similar hobby groups can help you meet like‑minded peers.",
-  "tags": [
-   "whisky",
-   "singlemalt",
-   "community",
-   "hobby",
-   "india"
-  ]
- },
- {
-  "id": "fc858918dbf5",
-  "created": "2026-11-20T16:56:03+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-allows-lighting-of-lamp-on-the-deepathoon-as-a-limited-one-time-arrangement/article71723742.ece",
-  "headline": "Supreme Court permits one‑time lamp lighting at Thirupparankundram",
-  "hook": "A top court temporarily lifts a ban on a sacred ritual.",
-  "what": "The Supreme Court, led by Justice Aravind Kumar, allowed a single occasion to light the lamp on the ‘Deepathoon’ at Thirupparankundram. It put on hold the Madras High Court’s Jan 6 decision that had declared the practice essential.",
-  "why": "Young people should note the court’s limited allowance and that any future lighting will need fresh legal clearance.",
-  "tags": [
-   "SupremeCourt",
-   "Deepathoon",
-   "Thirupparankundram",
-   "religion",
-   "law"
-  ]
- },
- {
-  "id": "04150468f031",
-  "created": "2026-11-20T16:56:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/no-major-damage-loss-of-life-due-to-cyclone-akvan-odisha-disaster-management-minister-suresh-pujari-12353938#publisher=newsstand",
-  "headline": "Cyclone Akvan Leaves Odisha Unscathed, Weakens Further",
-  "hook": "Odisha says the storm caused no major damage or casualties.",
-  "what": "The Odisha minister reported that Cyclone Akvan did not cause significant damage or loss of life. The system is a deep depression moving north‑northeast and is expected to weaken into a depression.",
-  "why": "It shows that staying updated on weather alerts can keep people safe; teens should follow official updates during such events.",
-  "tags": [
-   "cyclone",
-   "Odisha",
-   "weather",
-   "safety"
-  ]
- },
- {
-  "id": "ef3564d18b16",
-  "created": "2026-11-20T16:56:50+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMGEybkh0eVBES2Z3LVZIbGVjMzBwUDdReTNSdlpDTHlxYmFKRFlIN0VCOXFnV3gtOUgxenMtQk5raGdIeDIwQ0pMbHlpRy1ENFB0R1YyYVdrOHVjMElRUFJkWkd3OWlwZnNPT0hSRnVrS3JWb3pZdEVhSGdueEpKWXdrVnJWQ04wdnd5R3pOdGNSc3A4VWZ6bUR1NmRiOFFNZmNSMzNZT0hoN3hydlA0Xzg1NGJmVFNXMTg5dko3N0c1TEJISDdHUnZrWG9PbjRnc3Njb2YwS2dWa3A4X2MtSVgtSnU3VlB0eU5EYVRTZWM?oc=5",
-  "headline": "Galaxy S27 Pro’s Exynos 2700 pits against Snapdragon 8 Elite",
-  "hook": "New benchmark shows Samsung’s upcoming flag‑ship matching top‑tier chips.",
-  "what": "A recent Geekbench list reveals that the Samsung Galaxy S27 Pro will use the Exynos 2700 processor. The benchmark places the device in the same performance tier as smartphones powered by Snapdragon 8 Elite Extreme Gen 6 chips.",
-  "why": "This suggests the S27 Pro could offer high‑end speed for gaming and apps, making it a contender for the next premium phone purchase.",
-  "tags": [
-   "Samsung",
-   "GalaxyS27",
-   "TechNews",
-   "Benchmarks",
-   "Phones"
   ]
  }
 ]

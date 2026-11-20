@@ -1,0 +1,35 @@
+{
+ "id": "d6bff5841b5a",
+ "created": "2026-11-21T01:13:02+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI and Human Claim Riemann Hypothesis Solutions",
+  "hook": "A 167‑year math puzzle just got two new answers.",
+  "what": "An artificial‑intelligence system announced it solved the Riemann Hypothesis, a problem open for 167 years. A mathematician also presented a solution. Both claims are drawing attention from the math community.",
+  "why": "The breakthrough highlights AI’s growing role in research and the value of strong math skills. Keep an eye on AI and mathematics developments for future study and career options.",
+  "tags": [
+   "Riemann",
+   "AI",
+   "Math",
+   "Research"
+  ]
+ },
+ "ml": {
+  "headline": "AIയും മനുഷ്യനും റീമാൻ ഹിപോത്തിസിസ് പരിഹാരം",
+  "hook": "167 വർഷം പഴക്കമുള്ള ഗണിതപ്പസിലിന് രണ്ട് പുതിയ ഉത്തരങ്ങൾ",
+  "what": "ഒരു AI സിസ്റ്റം 167 വർഷം പഴക്കമുള്ള റീമാൻ ഹിപോത്തിസിസ് പരിഹരിച്ചു എന്ന് പ്രഖ്യാപിച്ചു. അതേ സമയം ഒരു ഗണിതജ്ഞനും പരിഹാരം അവതരിപ്പിച്ചു. ഈ ഇരുവിധം അവകാശങ്ങൾ ഗണിത സമൂഹത്തിന്റെ ശ്രദ്ധ ആകർഷിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള പുരോഗതി AI ഗവേഷണത്തിന്റെ വളർച്ചയും ഗണിതം പഠനത്തിന്റെ പ്രാധാന്യവും കാണിക്കുന്നു. AIയും ഗണിതവും സംബന്ധിച്ച പുതിയ വികസനങ്ങൾ ശ്രദ്ധിക്കുക, ഭാവി കരിയറുകൾക്ക് ഇത് സഹായകമാകും.",
+  "tags": [
+   "Riemann",
+   "AI",
+   "ഗണിതം",
+   "ഗവേഷണം"
+  ]
+ }
+}

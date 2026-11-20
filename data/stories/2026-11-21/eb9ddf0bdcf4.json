@@ -1,0 +1,35 @@
+{
+ "id": "eb9ddf0bdcf4",
+ "created": "2026-11-21T01:13:39+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Monsoon rains return to Tamil Nadu after Cyclone Akvan",
+  "hook": "Rainy days are back in Chennai and nearby towns",
+  "what": "The Regional Meteorological Centre says moderate rain will hit coastal districts such as Chennai and Cuddalore starting tomorrow. Adjacent inland areas can expect lighter showers. The wet spell is expected to last until the first week of December.",
+  "why": "Students and commuters should carry umbrellas and plan travel accordingly as the rain may affect outdoor activities until early December.",
+  "tags": [
+   "TamilNadu",
+   "Rain",
+   "Weather",
+   "Monsoon"
+  ]
+ },
+ "ml": {
+  "headline": "സൈക്ലോണ്‍ അക്വാന്‍ ശേഷം തമിഴ്നാട്ടില്‍ മഴവെള്ളം മടങ്ങി",
+  "hook": "ചെന്നൈയും ചുറ്റുമുള്ള പ്രദേശങ്ങളും മഴയിലാകും",
+  "what": "പ്രാദേശിക കാലാവസ്ഥാ കേന്ദ്രം പറഞ്ഞതുപ്രകാരം, ചെന്നൈ, കഡലൂർ പോലുള്ള തീരപ്രദേശങ്ങളിൽ നാളെ മുതൽ മിതമായ മഴയാകും. സമീപഭൂമികളിൽ ലഘുവായ മഴ പ്രതീക്ഷിക്കാം. ഈ മഴ ആദ്യവാരം വരെ തുടരും.",
+  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കുടയും ചട്ടയും കൊണ്ടു തയ്യാറാവണം, പുറംപ്രവർത്തനങ്ങൾ പ്ലാൻ ചെയ്യുമ്പോൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "தமிழ்நாடு",
+   "മഴ",
+   "കാലാവസ്ഥ",
+   "മോണ്സൺ"
+  ]
+ }
+}

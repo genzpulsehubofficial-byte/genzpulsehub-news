@@ -1,0 +1,37 @@
+{
+ "id": "ca14f8139194",
+ "created": "2026-11-21T01:13:33+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Godzilla Minus Zero draws huge advance bookings in India",
+  "hook": "Fans line up, pushing pre‑sales past a crore before the film even hits screens.",
+  "what": "Takashi Yamazaki’s latest Godzilla sequel opened with strong day‑one earnings. Advance tickets in India topped Rs 1 crore, and viewers praised its visual scale, calling it bigger than the previous installment.",
+  "why": "The buzz shows growing appetite for big‑budget sci‑fi among Indian teens, so keep an eye on release dates and streaming options.",
+  "tags": [
+   "Godzilla",
+   "BoxOffice",
+   "Movies",
+   "India",
+   "Teens"
+  ]
+ },
+ "ml": {
+  "headline": "Godzilla Minus Zero‑ന് ഇന്ത്യയില്‍ ഒരു കോടി മുന്‍കൂട്ടി ബുക്ക്",
+  "hook": "ഫാന്‍സ്‌മാര്‍ വരവേല്‍പ്പ്, റിലീസ് മുമ്പേ ഒരു കോടി ടിക്കറ്റുകള്‍.",
+  "what": "തകാഷി യമസാക്കി സംവിധാനം ചെയ്ത ഗോഡ്ജില്ലാ സീക്വന്‍ ആദ്യ ദിവസം നല്ല വരുമാനം നേടി. ഇന്ത്യയില്‍ മുന്‍കൂട്ടി ബുക്കിംഗ് ഒരു കോടി രൂപ കടന്നു, പ്രേക്ഷകര്‍ ചിത്രത്തിന്റെ വിസ്വല്‍ സ്‌പെക്ടാക്കിള്‍ വര്‍ദ്ധിച്ചെന്ന് പറഞ്ഞു.",
+  "why": "ഇന്ത്യന്‍ യുവാക്കള്‍ക്ക് വലിയ ബജറ്റ് സയന്‍സ്‑ഫിക്ഷന്‍ സിനിമകളില്‍ താല്‍പ്പര്യം വര്‍ദ്ധിക്കുന്നു, അതിനാല്‍ റിലീസ് തീയതിയും സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോം വിവരങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഗോഡ്ജില്ലാ",
+   "ബോക്സ്‌ഓഫീസ്",
+   "ചലച്ചിത്രം",
+   "ഇന്ത്യ",
+   "ടീൻസ്"
+  ]
+ }
+}
