@@ -1,0 +1,35 @@
+{
+ "id": "7b1246c3dda3",
+ "created": "2026-11-20T08:02:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+ "source_count": 2,
+ "provider": "gemini",
+ "en": {
+  "headline": "Cyclone Akvan Landfall Starts Bringing Heavy Rains to Coastal Odisha",
+  "hook": "Cyclone Akvan has begun its landfall process along the Odisha coast.",
+  "what": "The landfall process for Cyclone Akvan is officially underway. Weather officials stated this process will be prolonged and could take around seven to eight hours. Coastal districts in Odisha are already experiencing intense rainfall.",
+  "why": "Anyone living in or with family in the coastal areas should stay updated on local alerts and remain in safe shelters.",
+  "tags": [
+   "cycloneakvan",
+   "odisharains",
+   "weatherupdate",
+   "headlines"
+  ]
+ },
+ "ml": {
+  "headline": "അക്‌വാൻ ചുഴലിക്കാറ്റ് തീരം തൊടാൻ തുടങ്ങി; ഒഡീഷയിൽ ശക്തമായ മഴ",
+  "hook": "അക്‌വാൻ ചുഴലിക്കാറ്റ് ഒഡീഷ തീരത്തേക്ക് പ്രവേശിക്കാൻ തുടങ്ങി.",
+  "what": "അക്‌വാൻ ചുഴലിക്കാറ്റിന്റെ ലാൻഡ്‌ഫാൾ പ്രക്രിയ ആരംഭിച്ചതായി കാലാവസ്ഥാ കേന്ദ്രം അറിയിച്ചു. ഈ പ്രക്രിയ പൂർത്തിയാകാൻ ഏഴ് മുതൽ എട്ട് മണിക്കൂർ വരെ സമയമെടുക്കും. ഇതിനെത്തുടർന്ന് ഒഡീഷയിലെ തീരദേശ ജില്ലകളിൽ കനത്ത മഴ ലഭിക്കുന്നുണ്ട്.",
+  "why": "തീരപ്രദേശങ്ങളിൽ ഉള്ളവർ ജാഗ്രത പാലിക്കുകയും കാലാവസ്ഥാ അറിയിപ്പുകൾ കൃത്യമായി ശ്രദ്ധിക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "അക്‌വാൻ",
+   "ഒഡീഷമഴ",
+   "കാലാവസ്ഥ",
+   "വാർത്തകൾ"
+  ]
+ }
+}

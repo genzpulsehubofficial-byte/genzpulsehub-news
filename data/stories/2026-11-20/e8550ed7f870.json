@@ -1,0 +1,37 @@
+{
+ "id": "e8550ed7f870",
+ "created": "2026-11-20T08:04:21+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/itat-relief-for-government-employee-why-2-5-lakh-cash-paid-for-plot-was-not-treated-as-undisclosed-income-11795136814981.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT cancels tax on ₹2.5 lakh cash for govt employee",
+  "hook": "A tax tribunal just erased a big tax bill for a state worker.",
+  "what": "The Income Tax Appellate Tribunal in Pune removed a ₹2.5 lakh tax addition on a Maharashtra government employee. The tribunal accepted that the builder had returned the cash paid for a land plot, so it was not treated as undisclosed income.",
+  "why": "It highlights that tax disputes can be cleared with proper proof of repayment, stressing the need to keep records of large cash deals. Young Indians should stay aware of tax rules and retain documentation.",
+  "tags": [
+   "tax",
+   "govt",
+   "legal",
+   "finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT പിൻവലിച്ചു സർക്കാർ ജീവനക്കാരന്റെ ₹2.5 ലക്ഷം നികുതി",
+  "hook": "ഒരു നികുതി ട്രിബ്യൂണലിൽ സംസ്ഥാന ജീവനക്കാരന്റെ വലിയ നികുതി ബിൽ ഇല്ലാതാക്കി.",
+  "what": "പുനെയിലെ ഇൻകം ടാക്സ് അപീൽ ട്രിബ്യൂണൽ ഒരു മഹാരാഷ്ട്ര സർക്കാർ ജീവനക്കാരന്റെ ₹2.5 ലക്ഷം നികുതി കൂട്ടിച്ചേർക്കൽ റദ്ദാക്കി. പ്ലോട്ട്‌ക്കായി നൽകിയ പണം ബിൽഡർ തിരികെ നൽകിയതെന്ന് ട്രിബ്യൂണൽ അംഗീകരിച്ചു, അതിനാൽ അത് അനാവൃത വരുമാനമായി കണക്കാക്കാതെ.",
+  "why": "പണം തിരികെ നൽകിയ തെളിവുകൾ ഉണ്ടെങ്കിൽ നികുതി തർക്കങ്ങൾ പരിഹരിക്കാം എന്ന് ഇത് കാണിക്കുന്നു. വലിയ പണ ഇടപാടുകളുടെ രേഖകൾ സൂക്ഷിച്ച് നികുതി നിയമങ്ങൾ അറിയാൻ യുവാക്കൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "tax",
+   "govt",
+   "legal",
+   "finance",
+   "India"
+  ]
+ }
+}

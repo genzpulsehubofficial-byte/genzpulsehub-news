@@ -1,5 +1,99 @@
 [
  {
+  "id": "76a51119846a",
+  "created": "2026-11-20T08:01:16+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYjd5dEQwYjJuZ2dZU2pDcWJxY0lhN1ZCb01OMnJFV2NBNVVKZ3FHM0tJekN3Tk8wZlBEdFBDYXJRMERyWjgxLXlSeHl2VmRCb1U0YVh3RkIyRmJIU193VkZwMGtja3o3TXlUNUZoOWgteV9vVXpqajNxOU91bXp1YTRkS0s0QzJ4eUtUa2ZITmNxNjJkYWk2eUs5aDE3Rm0wUEZfbzZJN05CbldiU0J4ejZKTW4tOUpIV2RMN0xnWlpOTEV6cXZ0a1Y5dXBQMjlxUVRMS1R0RXd1ekRMa0ZXNERaRms1OUpsUmJ0X19HMFBxeDg?oc=5",
+  "headline": "Justice Yashwant Varma Responds To Lok Sabha On Removal Proceedings",
+  "hook": "A judge who stepped down says Parliament cannot continue impeachment proceedings.",
+  "what": "Justice Yashwant Varma has informed the Lok Sabha Secretariat that removal proceedings against him are no longer valid following his resignation. Rejecting allegations linked to a cash discovery row, he maintained his innocence and stated that his resignation does not mean admitting guilt. He also raised objections against the inquiry process in his official response.",
+  "why": "It shows how constitutional procedures and accountability apply when high-ranking officials face inquiries and resign from office.",
+  "tags": [
+   "JusticeVarma",
+   "LokSabha",
+   "Impeachment",
+   "Judiciary",
+   "NationalNews"
+  ]
+ },
+ {
+  "id": "7b1246c3dda3",
+  "created": "2026-11-20T08:02:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+  "headline": "Cyclone Akvan Landfall Starts Bringing Heavy Rains to Coastal Odisha",
+  "hook": "Cyclone Akvan has begun its landfall process along the Odisha coast.",
+  "what": "The landfall process for Cyclone Akvan is officially underway. Weather officials stated this process will be prolonged and could take around seven to eight hours. Coastal districts in Odisha are already experiencing intense rainfall.",
+  "why": "Anyone living in or with family in the coastal areas should stay updated on local alerts and remain in safe shelters.",
+  "tags": [
+   "cycloneakvan",
+   "odisharains",
+   "weatherupdate",
+   "headlines"
+  ]
+ },
+ {
+  "id": "2bf7ad019f6a",
+  "created": "2026-11-20T08:03:18+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/own-car-or-two-wheeler-check-new-puc-rules-bs-wise-pollution-certificate-validity-key-changes-and-possible-penalties-11795134173267.html",
+  "headline": "New PUC Rules Change Renewal Timelines for Cars and Bikes",
+  "hook": "Your ride’s pollution check may now last longer – find out how",
+  "what": "The government has updated the validity periods for Pollution Under Control certificates. The revisions are based on a vehicle’s age, emission standard and how it is used. The new schedule shows which vehicles receive extended validity and when owners must renew.",
+  "why": "Young drivers need to know the new dates to avoid fines. Check the revised timeline for your vehicle and plan the next PUC accordingly.",
+  "tags": [
+   "PUC",
+   "VehicleRules",
+   "EcoDrive",
+   "Renewal",
+   "India"
+  ]
+ },
+ {
+  "id": "e8550ed7f870",
+  "created": "2026-11-20T08:04:21+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/itat-relief-for-government-employee-why-2-5-lakh-cash-paid-for-plot-was-not-treated-as-undisclosed-income-11795136814981.html",
+  "headline": "ITAT cancels tax on ₹2.5 lakh cash for govt employee",
+  "hook": "A tax tribunal just erased a big tax bill for a state worker.",
+  "what": "The Income Tax Appellate Tribunal in Pune removed a ₹2.5 lakh tax addition on a Maharashtra government employee. The tribunal accepted that the builder had returned the cash paid for a land plot, so it was not treated as undisclosed income.",
+  "why": "It highlights that tax disputes can be cleared with proper proof of repayment, stressing the need to keep records of large cash deals. Young Indians should stay aware of tax rules and retain documentation.",
+  "tags": [
+   "tax",
+   "govt",
+   "legal",
+   "finance",
+   "India"
+  ]
+ },
+ {
+  "id": "300c7c788356",
+  "created": "2026-11-20T08:04:26+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+  "headline": "Fireworks AI pushes open-source AI as cheap alternative amid trust concerns",
+  "hook": "Open-source AI could save startups money, says Fireworks AI founder.",
+  "what": "On the day Anthropic went public, the co‑founder of Fireworks AI highlighted that open‑source models can be a lower‑cost option for companies. He also addressed recent security breaches that have hurt some customer confidence.",
+  "why": "Cheaper AI tools can lower entry barriers for young entrepreneurs and developers, but they need to watch for security and trust issues.",
+  "tags": [
+   "AI",
+   "open source",
+   "startup",
+   "cost",
+   "security"
+  ]
+ },
+ {
   "id": "53a4f9322d00",
   "created": "2026-11-20T06:59:02+05:30",
   "category": "headlines",
@@ -655,99 +749,6 @@
    "politics",
    "india",
    "LokSabha"
-  ]
- },
- {
-  "id": "2ad2190c7ade",
-  "created": "2026-11-20T01:03:29+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-  "headline": "Anthropic IPO could funnel $156 bn to charity",
-  "hook": "An AI startup’s stock debut may fund billions for good causes",
-  "what": "Anthropic is set to list shares at $95 each. The company’s Public Benefit Foundation, together with employee contributions and a corporate match, could direct $156 billion toward charitable projects.",
-  "why": "Such a huge pool can back initiatives in education, climate and tech access that matter to Gen Z. If impact investing interests you, watch the IPO closely.",
-  "tags": [
-   "Anthropic",
-   "IPO",
-   "Charity",
-   "Tech",
-   "Impact"
-  ]
- },
- {
-  "id": "7b24f4a2b978",
-  "created": "2026-11-20T01:03:31+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/set-aside-differences-and-oppose-mekedatu-dam-says-tncc-president/article71720861.ece",
-  "headline": "TNCC chief calls for united stand against Mekedatu dam",
-  "hook": "A Tamil Nadu leader wants you to question a big dam plan",
-  "what": "The president of the Tamil Nadu Congress Committee urged people to set aside political differences and oppose the Mekedatu dam project. He also asked why Prime Minister Narendra Modi stayed silent when Karnataka Chief Minister D.K. Shivakumar praised the project in his presence.",
-  "why": "The dam could impact water resources and regional politics, so staying informed helps young Indians understand environmental and inter‑state issues. Follow updates and discuss with peers.",
-  "tags": [
-   "Mekedatu",
-   "TamilNadu",
-   "Karnataka",
-   "WaterIssues",
-   "YouthVoice"
-  ]
- },
- {
-  "id": "5ac8230076f5",
-  "created": "2026-11-20T01:03:34+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "India Today",
-  "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbUx1c0hILU9JZWR6WEk1ZUVyLWdwbVBCc1BpYlJyRU81U014MGpPWnd6ckZtYnE3R0hTamR2cEUxLWlJc1Jmd2Y5WG1la2Jsc2VfUFA2bEE0MTl1WmlpYVl5R1JxcVc0RkdxQzVqdWdFZWJOZG5JOFBUVGhwRFNmREtCNkM4SFFKWndZbWFka0lsS2liNG9fVkI1aTAtVDI0NGNmejhxblQtX2Q0YW4zZy1xNF9xLUl3Si1vcjdBSDVXQXNObVJHdjRuZG10RWJMdmNQcU45Si1GWWV5ZF9zQ05nd3phb2tZRndIU2VLbTNmSzRvb2RkdNIB_gFBVV95cUxNSERDcndibjNaTmtHWTZyOG13eWNULWQxd3ZOOU1wNGFrTUllcjJsNW1jdXlGRlFjanBuSXIxZUV0Sl90SnBGMVlJcERlSVI4MnFwSWRiQnFnUzVUQXlvbFRfdkl3NWxER2ViYmFSbkJ5ZTdiSUdBYmdjWWY0THhhTmhNekxoTTJkekhBWGJGbC02NW1iNFlES2xiei1oOVd6SUs3Rk9uZlQxZFFtTy1mU3NfSDEtVy0zZDg2QTVPY0s5Ty1uOGFKMGZDLU9JTDk2b3VqU3Q0UHVaNnBpb1E3andCd3hOTTkxRnRjZWR4QTF3LV9PUElnU1VmWllhQQ?oc=5",
-  "headline": "TVS heir Laksmi Venu files claim on family assets",
-  "hook": "The Srinivasan family's boardroom battle now hits the news.",
-  "what": "Laksmi Venu, daughter of TVS Group founder Venu Srinivasan, has filed a claim to partition the family’s stakes in TVS companies. Senior lawyers Sibal and Singhvi have commented on the dispute.",
-  "why": "The case highlights challenges in family‑run businesses and may affect the future of a major Indian conglomerate, impacting jobs and the market for young Indians.",
-  "tags": [
-   "TVS",
-   "familybusiness",
-   "inheritance",
-   "India"
-  ]
- },
- {
-  "id": "125d0c1c5a98",
-  "created": "2026-11-20T01:03:36+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Exchange4Media",
-  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNEI1Mm4wUjJPbjVNZHlHWjJlZmw1SWdBREJoZFdNejlhd3JDMU9wRUJ3UEh0ZkNJQS1JYWpzeXctbjRkVTdRcVpFdTNjNjJIT3R3bmRkdTV5TjBYWTl4VWJSUi1MdTJuaXJGWjI1N0hJblZyam5jd0JFMHB2Ull2OFNrUnpoS0QtYmVzdXdFMlMzbVFIaUNIbjhDMERBRmN3RUhmYUYyXzBwRzEtNGtuWUJUODRoMk5sV0FpS2lvSFFNT0xFa21Ga0hhM1FHMENTNGdlNjBBX3NHZjhGYzlPMWpBcVZKdHc?oc=5",
-  "headline": "The Indian Express' Ritika Chopra makes TIME100 Next India 2026",
-  "hook": "A young journalist lands a spot on TIME's elite list",
-  "what": "Ritika Chopra, a reporter for The Indian Express, has been named to the TIME100 Next India 2026 list. The list spotlights emerging Indian leaders and innovators.",
-  "why": "Her inclusion shows Indian youth can earn global recognition in media. It encourages aspiring writers to pursue impactful journalism.",
-  "tags": [
-   "TIME100",
-   "IndianExpress",
-   "journalism",
-   "youngleaders"
-  ]
- },
- {
-  "id": "2b459e441860",
-  "created": "2026-11-20T01:03:39+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUREeEtCUTZiaDBUNXN5VHcyZzZ3MmJaN1NGaWNCQ2x0bFlKYkxWaDBIc2hSSW96cUtiNVR0YUJLOFhpZjF3b3BidC00a1d6MGYyM2xHdzhZbndHeE1kRFVQZlo3Mi1KSkJjT3FwdFlHdnpIMzhjZUtEeDZDRVlXUjNsQlBJclQwTHNyRXR0OTNWc3NGN1JpVFNDb3hNSlIzYmh3R0xxcVdLS0wzcDBsZFVMNW5hcVdyU1JXclM1Y2RpQVFHbl9FVWxjTmMzRXFlWXF3cWwxemRkRkFrQmxxd0xyS2laaDRrN3lZaHplVmZjWG1feDlHZUwweUFfN3Aw0gGGAkFVX3lxTE1MX0NCSXF5VktlbWdmX0dKQ1JjSDNpb1kwTndVOVVqNjhOVTA4VU80MUhOOEpicVlxdXZzV3oxb1BTZUZDd3h4c3h4TFpRNk5DbjRfc0tBUWNKWU85eXE0QVROXzgxWFc5Y3NraFNlQUZSa1BYMGJJR3F4c0w2YXMxMFNiTm1VcTVLdjRKRVBLSW1YSUpaLTdjaUJ3eFhzWEJLZ091UE5DN2gxWHFsWG1VaVh5UWd6SDRZcTJMc3E3cG4yMHE0SUhtQzZYSmoyOGQ0cUcxRDFNYVk0LUNDUmNhT1MyVjl3MFN3STFFVE1fRnZmT2lVakhFb0Z6S2VOUU1neno3cEE?oc=5",
-  "headline": "Suryakumar says lucky Modi meet sparked batting revival",
-  "hook": "A chance chat with the PM reignited his run‑machine.",
-  "what": "India’s T20 star Suryakumar Yadav revealed that a recent meeting with Prime Minister Narendra Modi boosted his confidence. He has started scoring runs again and is eyeing an IPL 2027 title with Mumbai Indians. He also received an Outstanding Achievement Award at the CNN‑News18 IOTY 2026 ceremony.",
-  "why": "Young cricketers can see how confidence and mentorship matter, and fans can follow his comeback for inspiration.",
-  "tags": [
-   "cricket",
-   "Suryakumar",
-   "PMModi",
-   "IPL2027",
-   "form"
   ]
  }
 ]

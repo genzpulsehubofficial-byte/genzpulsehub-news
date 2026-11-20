@@ -1,0 +1,37 @@
+{
+ "id": "300c7c788356",
+ "created": "2026-11-20T08:04:26+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Fireworks AI pushes open-source AI as cheap alternative amid trust concerns",
+  "hook": "Open-source AI could save startups money, says Fireworks AI founder.",
+  "what": "On the day Anthropic went public, the co‑founder of Fireworks AI highlighted that open‑source models can be a lower‑cost option for companies. He also addressed recent security breaches that have hurt some customer confidence.",
+  "why": "Cheaper AI tools can lower entry barriers for young entrepreneurs and developers, but they need to watch for security and trust issues.",
+  "tags": [
+   "AI",
+   "open source",
+   "startup",
+   "cost",
+   "security"
+  ]
+ },
+ "ml": {
+  "headline": "Fireworks AI തുറന്ന‑മോഡലുകൾക്ക് കുറഞ്ഞ ചെലവെന്ന് പറയുന്നു",
+  "hook": "തുറന്ന‑മോഡലുകൾ സ്റ്റാർട്ടപ്പുകൾക്ക് പണം ലാഭിക്കും, Fireworks AI സ്ഥാപകൻ പറയുന്നു",
+  "what": "Anthropic സ്റ്റോക്ക് മാർക്കറ്റിൽ ലിസ്റ്റ് ചെയ്ത ദിവസം, Fireworks AI സഹസ്ഥാപകൻ തുറന്ന‑മോഡലുകൾ കമ്പനികൾക്ക് ചെലവു കുറഞ്ഞൊരു മാർഗം ആകാമെന്ന് ചൂണ്ടിക്കാട്ടി. കൂടാതെ, ചില ഉപഭോക്താക്കളുടെ വിശ്വാസം നഷ്ടപ്പെടുത്തുന്ന സുരക്ഷാ ലംഘനങ്ങളെക്കുറിച്ച് അദ്ദേഹം വിശദീകരിച്ചു.",
+  "why": "പുതിയ AI ഉപകരണങ്ങൾ ചെലവു കുറയ്ക്കാൻ സഹായിക്കുമ്പോൾ, സുരക്ഷയും വിശ്വാസവും ഉറപ്പാക്കുന്നത് പ്രധാനമാണ്, പ്രത്യേകിച്ച് യുവ സംരംഭകരും ഡെവലപ്പർമാരും.",
+  "tags": [
+   "AI",
+   "തുറന്നമോഡൽ",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ചെലവ്",
+   "സുരക്ഷ"
+  ]
+ }
+}
