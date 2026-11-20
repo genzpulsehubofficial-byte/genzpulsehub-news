@@ -1,0 +1,37 @@
+{
+ "id": "e396833697e8",
+ "created": "2026-11-20T09:06:55+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Moneycontrol.com",
+ "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV0kzbUx6VXpURVlPc1ZqVFZHQXNQYjN0aEZiZV8zYjdpVW5HNXAtUzJTU3Z6Y2xxaHZYSDFmQ3RINll6MGd4UU5yT1pmRWZvUWwyTU81a2hzUXZwanVyOU1uQnRkal9PVUVxU2dHekFaaW5ZUDFCZmc5WUxWRVl0RndTNGMtMDAtM0lvc2doanMtcmZGc3hVLVFZbHhORTR6aXpadnhwaVJ3bTA0eFBHTmZNSE5MZmpYakthN3dPVDZBaFFUSThDNHpBLTIzYzk1RDVCejRLcGVad015ZHN1ODhhOTE1OU9qdE50b1dtN2RsaGtUaEZ3Unh3ZXZpSDJBU1HSAYcCQVVfeXFMUHR1Q1FFRUo0Z0dwYjNTWFdfc25VMno5Rk4tM0ZZNFB0RDNHQW9jTl9kNTN0cXF5TXNFT0s3STBCa3pDUFB3bHJ2bVBkdzU0UUFHNEMzWDZOelI3cFF5OVB3dTdxaDVzekM2WU9PN3paM0FMX3l1Mk1UR1JkSURsTlFVWW81NFplaTF4MENUTmFqQzQxcGdfZ0k2Zk1SV3hIMVdyTVI5ZEFZYWNfQVk5R1o3WWZoczFqeTFTUGtRaU1xOU1kQVE0OUhjUVNGZFhNQ3ZzTTNuWXozcG44Z1BVVVFzOGZ1RU9vbmIzQnNKa0hmblRieEZ1Z0YyLW54eFdjYmFpcFB4UlE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GIFT Nifty drops 200 points, hinting fall for Sensex, Nifty",
+  "hook": "India's market futures tumble as global indices slide.",
+  "what": "The GIFT Nifty fell by more than 200 points, pointing to a likely opening lower for the Sensex and Nifty. The drop coincided with a 2.3% fall in the Nasdaq and declines across Asian markets.",
+  "why": "A weak start could affect investors’ decisions this week, especially with inflation, oil prices and foreign fund flows in focus. Young traders should stay alert to market movements.",
+  "tags": [
+   "stockmarket",
+   "GIFTNifty",
+   "Nasdaq",
+   "AsianMarkets",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "GIFT Nifty 200 പോയിന്റ് താഴ്ന്നു, Sensex‑Nifty‑ക്കും ഇടിവ് സൂചന",
+  "hook": "ഗ്ലോബൽ ഇൻഡക്സുകൾ വീഴുമ്പോൾ ഇന്ത്യയുടെ മാർക്കറ്റ് ഫ്യൂച്ചറുകൾ തകർന്നു.",
+  "what": "GIFT Nifty 200‑ക്കു മുകളിലുള്ള പോയിന്റുകൾ താഴ്ന്നു, ഇതോടെ Sensex, Nifty എന്നിവയുടെ തുറക്കൽ താഴ്ന്നിരിക്കുമെന്ന് സൂചിപ്പിച്ചു. ഈ ഇടിവ് Nasdaq‑ന്റെ 2.3% വീഴ്ചയും ഏഷ്യൻ മാർക്കറ്റുകളുടെ ഇടിവും കൂടെയുണ്ടായിരുന്നു.",
+  "why": "ഇൻഫ്ലേഷൻ, എണ്ണവില, വിദേശ ഫണ്ടുകളുടെ പ്രവാഹം എന്നിവയുടെ സ്വാധീനം ഈ ആഴ്ച മാർക്കറ്റിൽ കാണാം, അതിനാൽ യുവ നിക്ഷേപകർ മാർക്കറ്റ് ചലനങ്ങളോട് ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "GIFTNifty",
+   "Nasdaq",
+   "AsianMarkets",
+   "നിക്ഷേപം"
+  ]
+ }
+}

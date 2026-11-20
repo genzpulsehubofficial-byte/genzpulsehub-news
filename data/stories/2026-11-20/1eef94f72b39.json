@@ -1,0 +1,37 @@
+{
+ "id": "1eef94f72b39",
+ "created": "2026-11-20T09:06:52+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/entertainment/movies/sathyavan-savitri-movie-review-keerthy-suresh-mysskin-praveen-s-vijaay-sam-cs/article71721536.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "‘Sathyavan Savitri’ falls short as a forced courtroom drama",
+  "hook": "A debut film that tries too hard to impress.",
+  "what": "Director Praveen S Vijaay’s first movie, ‘Sathyavan Savitri’, presents a courtroom story that feels overly contrived. Critics say its cleverness isn’t backed by solid evidence.",
+  "why": "Young viewers seeking fresh Indian cinema should know the film may not deliver the smart thrill it promises.",
+  "tags": [
+   "movies",
+   "review",
+   "courtroom",
+   "debut",
+   "IndianCinema"
+  ]
+ },
+ "ml": {
+  "headline": "‘Sathyavan Savitri’ ഒരു കൃത്രിമ കോടതിനാടകമായി തോന്നുന്നു",
+  "hook": "പുതിയ സംവിധായകന്റെ ശ്രമം അധികം തന്നെ.",
+  "what": "പ്രവീൺ എസ്. വിജയന്റെ ആദ്യ ചിത്രം ‘Sathyavan Savitri’ ഒരു കോടതികഥയാണ്, പക്ഷേ അത് കൃത്രിമമായി തോന്നുന്നു. വിമർശകർ പറയുന്നത്, അതിന്റെ ബുദ്ധി മതിയായ തെളിവുകളില്ലാതെ ആണ്.",
+  "why": "പുതിയ സിനിമകൾ അന്വേഷിക്കുന്ന യുവാക്കൾക്ക് ഈ ചിത്രം പ്രതീക്ഷിച്ച പോലെ ബുദ്ധിപരമായ ആവേശം നൽകില്ലെന്ന് അറിയാൻ വേണ്ടിയാണ്.",
+  "tags": [
+   "സിനിമ",
+   "റിവ്യൂ",
+   "കോടതി",
+   "ഡെബ്യൂ",
+   "ഇന്ത്യൻസിനമ"
+  ]
+ }
+}

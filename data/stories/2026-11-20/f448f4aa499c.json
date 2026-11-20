@@ -1,0 +1,37 @@
+{
+ "id": "f448f4aa499c",
+ "created": "2026-11-20T09:06:50+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricinfo",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkxJd2s3NWttWGNPbkVLYWlPYzZ0QTBCNVRtVThTM2JteVVWQ1FFT3NiaC1rc0VVaS05NC1OYldZZ1BZVk4zX0lUdjh0bm5mYVNyaU5BRTBaRjA2RlFILVlpZV9kYWRpeGxZSnpkZGJ5TjdhcHBmWjJNVkszTV95UThMb1NqbGlCY0VTRV9aX3FBVEwtZUdNTHJfeW1BQmtadXVrbXRyMUVWaDlMM0JpYw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "YAL meets TBA in Abu Dhabi T10 final",
+  "hook": "The T10 showdown lands in Abu Dhabi on Nov 20.",
+  "what": "YAL will face TBA in the championship match of the Abu Dhabi T10 tournament scheduled for 20 November 2026.",
+  "why": "The final decides the tournament champion, delivering high‑octane cricket for fans. Watch the live stream or follow updates on social media.",
+  "tags": [
+   "cricket",
+   "T10",
+   "AbuDhabi",
+   "finals",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "YAL-നും TBA-നും അബൂധാബി T10 ഫൈനലില്‍",
+  "hook": "20 Nov-ന്‌ അബൂധാബി T10 മഹാ പോരാട്ടം.",
+  "what": "YAL, TBA എന്നീ ടീമുകൾ 2026 നവംബർ 20-ന്‌ അബൂധാബി T10 ടൂർണമെന്റിന്റെ ഫൈനൽ മത്സരം കളിക്കും.",
+  "why": "ഈ ഫൈനൽ ചാമ്പ്യൻ നിർണ്ണയിക്കും, ക്രിക്കറ്റ് പ്രേമികൾക്ക് ആവേശം നൽകും. ലൈവ് സ്‌ട്രീം കാണുക അല്ലെങ്കിൽ സോഷ്യൽ മീഡിയയിൽ അപ്ഡേറ്റുകൾ പിന്തുടരുക.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T10",
+   "അബൂധാബി",
+   "ഫൈനൽ",
+   "സ്പോർട്സ്"
+  ]
+ }
+}
