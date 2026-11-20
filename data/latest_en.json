@@ -1,5 +1,100 @@
 [
  {
+  "id": "d9b4756385c4",
+  "created": "2026-11-20T15:55:13+05:30",
+  "category": "entertainment",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece",
+  "headline": "Mammootty returns to Tamil films with Dhanush's O.M",
+  "hook": "A Malayalam star is back on the Tamil screen after seven years.",
+  "what": "Actor Mammootty joins Dhanush in the upcoming Tamil movie titled O.M. This marks his first Tamil role in seven years.",
+  "why": "Fans of South Indian cinema will see a fresh collaboration, and the film may attract audiences across language borders.",
+  "tags": [
+   "Mammootty",
+   "Dhanush",
+   "TamilCinema",
+   "OM",
+   "SouthFilm"
+  ]
+ },
+ {
+  "id": "6afcd6d13bc6",
+  "created": "2026-11-20T15:55:16+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/sabarimala-ac-buses-airports-pamba-ksrtc-pti32clhmlm",
+  "headline": "KSRTC adds AC airport buses to Pamba for pilgrims",
+  "hook": "Direct air‑to‑temple rides now run in the festive season",
+  "what": "The Kerala State Road Transport Corporation has started direct air‑conditioned buses from Thiruvananthapuram and Kochi airports straight to Pamba. The service operates during the Mandalam‑Makaravilakku pilgrimage period.",
+  "why": "It eases travel for young pilgrims, saving time and hassle. Seats can be booked through KSRTC channels.",
+  "tags": [
+   "Sabarimala",
+   "KSRTC",
+   "Travel",
+   "Kerala",
+   "Pilgrimage"
+  ]
+ },
+ {
+  "id": "484927b5cf9a",
+  "created": "2026-11-20T15:55:18+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "BusinessLine",
+  "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
+  "headline": "Sensex climbs 780 pts, Nifty hits 10‑month high",
+  "hook": "India’s market spikes, could boost your savings.",
+  "what": "On Nov 20 the Sensex rose about 780 points while the Nifty crossed 25,750, its highest in ten months. Gains were led by auto and banking shares.",
+  "why": "A rising market can lift investment returns for young savers; consider reviewing your SIPs or equity exposure.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "investing",
+   "youthfinance"
+  ]
+ },
+ {
+  "id": "579ac3f5172e",
+  "created": "2026-11-20T15:55:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/laptops/news/asus-dell-hp-lenovo-nvidia-rtx-spark-laptops-showcase-india-launch-12353976",
+  "headline": "Nvidia RTX Spark AI laptops with 128GB memory unveiled in India",
+  "hook": "Your next gaming or study laptop could soon have AI power.",
+  "what": "Nvidia displayed RTX Spark AI laptops featuring 128GB unified memory at an event in India. The Lenovo Yoga Pro 9 equipped with the RTX Spark N1X chip was part of the showcase.",
+  "why": "The high‑end specs can speed up AI tasks and gaming for students and creators. Watch for upcoming releases if you need powerful performance.",
+  "tags": [
+   "Nvidia",
+   "AI laptops",
+   "Lenovo",
+   "TechIndia",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "25065141ec5c",
+  "created": "2026-11-20T15:55:23+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/redmi-r80-5g-redmi-r80m-5g-listing-price-specifications-features-12353853",
+  "headline": "Redmi R80 & R80m 5G specs, prices unveiled",
+  "hook": "New budget 5G phones hit Indian market soon",
+  "what": "Redmi has listed the R80 5G and R80m 5G, revealing their prices and specifications. Both models run on MediaTek Dimensity 6300 chipset. The R80m 5G comes in two RAM and storage variants.",
+  "why": "These affordable 5G devices give Gen Z faster connectivity for gaming and streaming without breaking the bank. Check the specs before deciding.",
+  "tags": [
+   "Redmi",
+   "5G",
+   "budgetphone",
+   "MediaTek",
+   "tech"
+  ]
+ },
+ {
   "id": "200ef45bbf44",
   "created": "2026-11-20T14:45:54+05:30",
   "category": "headlines",
@@ -656,99 +751,6 @@
    "startup",
    "cost",
    "security"
-  ]
- },
- {
-  "id": "53a4f9322d00",
-  "created": "2026-11-20T06:59:02+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
-  "headline": "Cyclone Akvan Landfall Begins, Process To Last Several Hours",
-  "hook": "Cyclone Akvan has officially started its landfall phase.",
-  "what": "The landfall process of Cyclone Akvan is now underway. The Bhubaneswar Meteorological Centre stated that this phase is extensive and could take around seven to eight hours to finish.",
-  "why": "Anyone living in the affected coastal belts should remain indoors and follow safety instructions during this prolonged process.",
-  "tags": [
-   "CycloneAkvan",
-   "WeatherAlert",
-   "IndiaNews",
-   "StaySafe"
-  ]
- },
- {
-  "id": "d5d9ac1a2430",
-  "created": "2026-11-20T07:00:06+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/odisha-schools-closed-in-several-districts-today-november-20-due-to-cyclone-akvan-101795135380272.html",
-  "headline": "Odisha schools shut as Cyclone Akvan nears",
-  "hook": "Rain and wind warnings force holiday for students.",
-  "what": "District officials announced precautionary closures for schools across multiple districts in Odisha, citing forecasts of heavy rain and strong winds from Cyclone Akvan.",
-  "why": "Students stay safe while authorities prepare for the storm; families should stay updated on weather alerts.",
-  "tags": [
-   "Odisha",
-   "CycloneAkvan",
-   "schoolclosure",
-   "weather",
-   "safety"
-  ]
- },
- {
-  "id": "8f4728ffc5b9",
-  "created": "2026-11-20T07:00:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-  "headline": "Apple working on AI agent for Mac",
-  "hook": "Your Mac could soon have its own AI helper.",
-  "what": "Apple is reportedly creating an AI agent that would run on macOS. The effort aims to match other agents such as Meta’s Muse, Instinct, Claude and OpenAI’s Dots.",
-  "why": "If released, it could change how Indian teens use their laptops for study and creativity. Keep an eye on Apple updates for new Mac features.",
-  "tags": [
-   "Apple",
-   "AI",
-   "Mac",
-   "Tech",
-   "Innovation"
-  ]
- },
- {
-  "id": "f1dd0bea0b97",
-  "created": "2026-11-20T07:00:11+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-  "headline": "Anthropic founders earn $280 M each in $83 IPO",
-  "hook": "Seven AI startup founders walk away with almost $2 billion.",
-  "what": "At the revised price of $83 per share, each of the seven founders received about $280 million. The company secured close to $105 billion overall.",
-  "why": "It highlights how AI ventures can generate huge wealth, a cue for young Indians interested in tech entrepreneurship and equity stakes.",
-  "tags": [
-   "AI",
-   "startup",
-   "IPO",
-   "founders",
-   "tech"
-  ]
- },
- {
-  "id": "6d4456152699",
-  "created": "2026-11-20T07:00:17+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUGNZa1NPQTRxeV9GakxjMnBmOWtsQUdndS1RVzZyTGtUdkx4YmNkMk1HVlZlcnk2ZlVVLWVnVlJ3WXgzaGhEcDVha3d5c0JZQ0J1aWNGOWJpbUdhdnVaSGJtQ0U3SVMxNFB5cGx4UmU1czJLRGFlMXVXZHQwS1dFaXNlLTIzWFpVbmtBcnhzVmIzUlVDZDVhWGNTajBnZFZIX2tRaUFEcHhWeEhqU3l4b2hMRzZoZFJSRWxQNl85OV9TTk9mNXJkNnFpWWFCcExMSGMzLXUzOW5SN1BNc2hPVWIycU1QaHhrZVlxYTU2OXh4NXhOV2kwZ09wZktFVTh4VWJzdU5sTUtWbU1BaU43Q2tGUVZtNnI3a2p1aTNzY3VVdHpzMDdWNHJxaFhCNVZ3Mk1MNXJhbml0eUJUeWZVWWNNeGl0bUc4TWoyQzVkNW9YQm_SAdgCQVVfeXFMTkhUd284WmUtLVczS3NKcmJRWFprTVNENmdDbFF0cThGYlBYYWhXcXh2a2pMR2VCakF2c0lmSGswbDhvTHRTMVduX2NyVWVEUTgxQ0lmUVdxMEJGWFZaaUNGWlZlRFhYNmVOb1JwaVFaSWFzN2U0SG1sYzlLeW1mRV9WTHJuelJDNXlTdllLUXhGNmRzd3ZnQk0tLTJDUkk1RTc4a3JGY09UcGFaRzYzOHVGd0lpMTNjQlB2Q096SDdtRlJZS0tDM1NLV1ZKSGFWbkdMdmc0MzBYR1FUSWpTUWx4c01tOGFTd2ZBVjZpN09Odlhpb2tlODdnUW5KaGlOeFNWaTlCOFFGdUdXR2ViVVB2Tkg4WFotZGQwTTR3M2o4UFNFMXZJQnQ2M1FVQ21RWHdNTlVmX3pabTJYNmVmUk5NSXRrcjF4azVQRzdGYWMtLW5MVHVWQTk?oc=5",
-  "headline": "Bachelor Party D'eux nets Rs 2.55 cr on opening day",
-  "hook": "A fresh Malayalam flick pulls a solid start at the box office.",
-  "what": "The movie starring Naslen and Kunchacko Boban earned a net collection of Rs 2.55 crore on its first day. The figure reflects ticket sales across theatres.",
-  "why": "Strong opening numbers show the film’s buzz among young audiences, signalling good chances for more screens and longer runs. Keep an eye on showtimes if you’re planning a weekend outing.",
-  "tags": [
-   "boxoffice",
-   "MalayalamCinema",
-   "Naslen",
-   "KunchackoBoban"
   ]
  }
 ]

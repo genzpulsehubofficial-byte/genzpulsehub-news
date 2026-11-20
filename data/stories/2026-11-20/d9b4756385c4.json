@@ -1,0 +1,37 @@
+{
+ "id": "d9b4756385c4",
+ "created": "2026-11-20T15:55:13+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Mammootty returns to Tamil films with Dhanush's O.M",
+  "hook": "A Malayalam star is back on the Tamil screen after seven years.",
+  "what": "Actor Mammootty joins Dhanush in the upcoming Tamil movie titled O.M. This marks his first Tamil role in seven years.",
+  "why": "Fans of South Indian cinema will see a fresh collaboration, and the film may attract audiences across language borders.",
+  "tags": [
+   "Mammootty",
+   "Dhanush",
+   "TamilCinema",
+   "OM",
+   "SouthFilm"
+  ]
+ },
+ "ml": {
+  "headline": "മമ്മൂട്ടി, ധനുഷിന്റെ O.M‑ല്‍ തിരിഞ്ഞു തമിഴ് സിനിമയിലേക്ക്",
+  "hook": "എഴു വര്‍ഷത്തിന് ശേഷം ഒരു മലയാളി താരത്തിന്റെ തമിഴ് സ്ക്രീന്‍ തിരിച്ചുവരവ്.",
+  "what": "മമ്മൂട്ടി, ധനുഷിന്റെ O.M എന്ന പുതിയ തമിഴ് ചിത്രത്തില്‍ ചേര്‍ന്നു. ഇതോടെ അവന്‍ ഏഴ് വര്‍ഷത്തിന് ശേഷം തമിഴ് സിനിമയില്‍ തിരികെ വന്നിരിക്കുന്നു.",
+  "why": "ദക്ഷിണേന്ത്യന്‍ സിനിമാ പ്രേമികള്‍ക്ക് പുതിയ കൂട്ടുകെട്ട് കാണാന്‍ അവസരം, ഭാഷാ അതിർത്തികള്‍ കടന്ന് സിനിമയുടെ ആകര്‍ഷണം വര്‍ദ്ധിപ്പിക്കാം.",
+  "tags": [
+   "മമ്മൂട്ടി",
+   "ധനുഷ്",
+   "തമിഴ്സിനി",
+   "OM",
+   "ദക്ഷിണഫിലിം"
+  ]
+ }
+}

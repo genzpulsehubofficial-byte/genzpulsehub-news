@@ -1,0 +1,37 @@
+{
+ "id": "579ac3f5172e",
+ "created": "2026-11-20T15:55:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/laptops/news/asus-dell-hp-lenovo-nvidia-rtx-spark-laptops-showcase-india-launch-12353976",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia RTX Spark AI laptops with 128GB memory unveiled in India",
+  "hook": "Your next gaming or study laptop could soon have AI power.",
+  "what": "Nvidia displayed RTX Spark AI laptops featuring 128GB unified memory at an event in India. The Lenovo Yoga Pro 9 equipped with the RTX Spark N1X chip was part of the showcase.",
+  "why": "The high‑end specs can speed up AI tasks and gaming for students and creators. Watch for upcoming releases if you need powerful performance.",
+  "tags": [
+   "Nvidia",
+   "AI laptops",
+   "Lenovo",
+   "TechIndia",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia RTX Spark AI ലാപ്ടോപ്പുകൾ 128GB മെമ്മറിയോടെ ഇന്ത്യയിൽ പ്രദർശനം",
+  "hook": "നിങ്ങളുടെ അടുത്ത ഗെയിമിംഗ് അല്ലെങ്കിൽ പഠന ലാപ്ടോപ്പ് AI ശക്തി കൊണ്ടു വരാം.",
+  "what": "Nvidia ഇന്ത്യയിലെ ഒരു ഇവന്റിൽ RTX Spark AI ലാപ്ടോപ്പുകൾ, 128GB യൂണിഫൈഡ് മെമ്മറി വരെ, പ്രദർശിപ്പിച്ചു. Lenovo Yoga Pro 9, RTX Spark N1X ചിപ്പ് സഹിതം, ആ പ്രദർശനത്തിൽ ഉൾപ്പെടുത്തി.",
+  "why": "ഇത്തരം ഉയർന്ന സ്പെക്‌സ് വിദ്യാർത്ഥികളും ക്രിയേറ്റീവുകളും AI പ്രവർത്തനങ്ങളും ഗെയിമിംഗും വേഗത്തിൽ ചെയ്യാൻ സഹായിക്കും. പുതിയ മോഡലുകൾ വരുമ്പോൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI ലാപ്ടോപ്പുകൾ",
+   "Lenovo",
+   "TechIndia",
+   "Gaming"
+  ]
+ }
+}
