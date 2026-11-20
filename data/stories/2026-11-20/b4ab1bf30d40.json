@@ -1,0 +1,35 @@
+{
+ "id": "b4ab1bf30d40",
+ "created": "2026-11-20T20:10:59+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kollam-presidents-trophy-boat-race-half-day-local-holiday-declared-for-november-21-afternoon-t9mhr0p2",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Half‑day holiday announced in Kollam for boat race",
+  "hook": "Kollam students, get ready for an early finish tomorrow!",
+  "what": "The Kollam District Collector has declared a half‑day holiday for the afternoon of 21 November 2026 within Kollam Corporation limits. The decision is linked to the President’s Trophy Boat Race.",
+  "why": "The shortened day may affect school, college and exam schedules, so students should verify any specific rules.",
+  "tags": [
+   "Kollam",
+   "BoatRace",
+   "Holiday",
+   "Students"
+  ]
+ },
+ "ml": {
+  "headline": "കൊല്ലത്തില്‍ ബോട്ട് റേസിനായി അര്‍ദ്ധദിന അവധി പ്രഖ്യാപിച്ചു",
+  "hook": "കൊല്ലം വിദ്യാർത്ഥികൾ, നാളെ വൈകുന്നേരം നേരത്തെ അവസാനിക്കാൻ തയ്യാറാവൂ!",
+  "what": "കൊല്ലം ജില്ലാ കലക്ടർ 21 നവംബർ 2026ന് കൊല്ലം കോർപ്പറേഷൻ പരിധികളിൽ President’s Trophy Boat Race കാരണം അര്‍ദ്ധദിന അവധി പ്രഖ്യാപിച്ചു.",
+  "why": "പാഠശാല, കോളേജ്, പരീക്ഷകളുടെ സമയക്രമം ബാധിക്കാം; അതിനാൽ വിദ്യാർത്ഥികൾ സ്വന്തം നിയമങ്ങൾ പരിശോധിക്കണം.",
+  "tags": [
+   "കൊല്ലം",
+   "ബോട്ട്റേസ്",
+   "അവധി",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ }
+}

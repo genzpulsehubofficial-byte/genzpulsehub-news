@@ -1,0 +1,35 @@
+{
+ "id": "9fee4be7e57e",
+ "created": "2026-11-20T20:10:51+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/region-in-flux-all-relationships-to-improve-pak-minister-in-delhi-on-ties-12355279#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Pakistani minister says regional ties set to improve",
+  "hook": "Geopolitics is shifting fast, and friendships may follow",
+  "what": "Pakistani minister Musadik Masood Malik spoke in Delhi, noting that the underlying forces of geopolitics are changing rapidly. He added that all relationships in the region are expected to get better.",
+  "why": "A smoother regional climate could affect travel, studies, and job prospects for Indian youth. Stay tuned for any policy updates.",
+  "tags": [
+   "Pakistan",
+   "India",
+   "Diplomacy",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "പാകിസ്താൻ മന്ത്രി ബന്ധങ്ങൾ മെച്ചപ്പെടും എന്ന് പറയുന്നു",
+  "hook": "ഭൂ-രാഷ്ട്രീയ മാറ്റങ്ങൾ വേഗത്തിൽ, സൗഹൃദം വരാനിരിക്കാം",
+  "what": "പാകിസ്താൻ മന്ത്രിയായ മുസദിക് മാസൂദ് മാലിക് ഡെലിയിൽ പറഞ്ഞു, ഭൂ-രാഷ്ട്രീയത്തിന്റെ അടിസ്ഥാനം വേഗത്തിൽ മാറിക്കൊണ്ടിരിക്കുകയാണ്. പ്രദേശത്തിലെ എല്ലാ ബന്ധങ്ങളും മെച്ചപ്പെടുമെന്ന് അദ്ദേഹം ചേർത്തു.",
+  "why": "പ്രദേശത്തിന്റെ ശാന്തി ഇന്ത്യൻ യുവാക്കൾക്ക് യാത്ര, പഠനം, ജോലി അവസരങ്ങൾ എന്നിവയിൽ സ്വാധീനം ചെലുത്താം. ഏത് നയ മാറ്റങ്ങളും വരുമ്പോൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "പാകിസ്താൻ",
+   "ഇന്ത്യ",
+   "ദൂതവ്യവഹാരം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

@@ -1,5 +1,97 @@
 [
  {
+  "id": "62f4c7595f37",
+  "created": "2026-11-20T20:10:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/karnataka-bike-taxis-to-stay-supreme-court-dismisses-states-appeal-to-restore-ban-12355207#publisher=newsstand",
+  "headline": "Supreme Court Keeps Karnataka Bike Taxis Running",
+  "hook": "Your daily rides on two‑wheelers aren’t going away.",
+  "what": "The Supreme Court rejected Karnataka’s plea to bring back the ban on bike‑taxi services. This clears the way for operators like Rapido to continue in the state.",
+  "why": "Students and commuters can still count on cheap two‑wheel rides for short trips. Keep an eye on app updates for any future changes.",
+  "tags": [
+   "bikeTaxi",
+   "Karnataka",
+   "SupremeCourt",
+   "rapido",
+   "commute"
+  ]
+ },
+ {
+  "id": "9fee4be7e57e",
+  "created": "2026-11-20T20:10:51+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/region-in-flux-all-relationships-to-improve-pak-minister-in-delhi-on-ties-12355279#publisher=newsstand",
+  "headline": "Pakistani minister says regional ties set to improve",
+  "hook": "Geopolitics is shifting fast, and friendships may follow",
+  "what": "Pakistani minister Musadik Masood Malik spoke in Delhi, noting that the underlying forces of geopolitics are changing rapidly. He added that all relationships in the region are expected to get better.",
+  "why": "A smoother regional climate could affect travel, studies, and job prospects for Indian youth. Stay tuned for any policy updates.",
+  "tags": [
+   "Pakistan",
+   "India",
+   "Diplomacy",
+   "Youth"
+  ]
+ },
+ {
+  "id": "ef31c7e593fb",
+  "created": "2026-11-20T20:10:56+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-active-choice-or-auto-choice-which-can-help-you-maximise-your-corpus-over-20-years-11795182131914.html",
+  "headline": "NPS: Active vs Auto Choice for 35‑year‑olds' 20‑yr Corpus",
+  "hook": "Choosing the right NPS mode now can boost your retirement fund.",
+  "what": "The National Pension System offers 35‑year‑old members a choice between Active Choice, which keeps a larger equity share, and Auto Choice, which shifts toward safer assets as they age. This decision influences the amount they could accumulate over the next twenty years.",
+  "why": "A higher equity mix may grow the corpus faster, while a risk‑reduced path can protect against market swings. Young savers should gauge their risk appetite before picking a plan.",
+  "tags": [
+   "NPS",
+   "RetirementPlanning",
+   "Finance",
+   "GenZ",
+   "Investing"
+  ]
+ },
+ {
+  "id": "0d9cf2bcafdd",
+  "created": "2026-11-20T20:10:58+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-anti-narcotics-squad-pistol-training-ptib0rk07hn",
+  "headline": "Kerala anti‑narcotics units to get pistol training after police attacks",
+  "hook": "More gun drills for cops as threats rise.",
+  "what": "The state government has ordered special pistol‑handling sessions for Kerala’s anti‑narcotics teams. This move follows a recent surge in assaults on police officers across the state.",
+  "why": "Enhanced training aims to improve officer safety, which can affect community security. Teens should stay aware of law‑enforcement initiatives and cooperate with safety measures.",
+  "tags": [
+   "Kerala",
+   "PoliceTraining",
+   "Safety",
+   "Youth"
+  ]
+ },
+ {
+  "id": "b4ab1bf30d40",
+  "created": "2026-11-20T20:10:59+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kollam-presidents-trophy-boat-race-half-day-local-holiday-declared-for-november-21-afternoon-t9mhr0p2",
+  "headline": "Half‑day holiday announced in Kollam for boat race",
+  "hook": "Kollam students, get ready for an early finish tomorrow!",
+  "what": "The Kollam District Collector has declared a half‑day holiday for the afternoon of 21 November 2026 within Kollam Corporation limits. The decision is linked to the President’s Trophy Boat Race.",
+  "why": "The shortened day may affect school, college and exam schedules, so students should verify any specific rules.",
+  "tags": [
+   "Kollam",
+   "BoatRace",
+   "Holiday",
+   "Students"
+  ]
+ },
+ {
   "id": "f08f1f24684f",
   "created": "2026-11-20T19:17:19+05:30",
   "category": "headlines",
@@ -660,101 +752,6 @@
    "phoneLaunch",
    "tech",
    "India"
-  ]
- },
- {
-  "id": "45e57a9dda32",
-  "created": "2026-11-20T12:15:09+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/kerala-considering-restoration-of-benefits-from-leave-surrender-pay-revision-to-medisep-see-what-could-make-a-comeback-11795148061828.html",
-  "headline": "Kerala plans to bring back employee perks",
-  "hook": "Govt may revive leave surrender, pay hikes, MEDISEP",
-  "what": "The Kerala government said it will gradually restore certain employee benefits. These include the option to surrender leave, a revision of pay scales, and the MEDISEP health insurance scheme. The plan was mentioned by Chief Minister V.D. Satheesan.",
-  "why": "Restoring these perks could improve job satisfaction for young workers and students entering government jobs. Keep an eye on official announcements for updates.",
-  "tags": [
-   "Kerala",
-   "government",
-   "jobs",
-   "benefits",
-   "MEDISEP"
-  ]
- },
- {
-  "id": "c1f4be71f573",
-  "created": "2026-11-20T12:15:11+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "CNBC",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeW5WVFZYbWJnYm9Zd2d3djZWR0JwdnBsVjhQZHRONjVPSHU3YjZpdkJqczNyLS1EaHhtTWVPNFhCd0x6cnIxYzNqeTYxNUlQaHNvWkdZOFpXTERHaGhTdzdUMDV3bkc4V25IQk4tZnVyWm9OYjg0Zi1fcVhpZ9IBgwFBVV95cUxPNzJtRkhBLUZfMVFLMEpmTHNmUGdjd2tyZWJpZHVieDU2LUpWSW05MlBPLUZobi1jMTNhU09jcUtWS3NRemtORFhNUzFzbGVETzB0ZHo4eXExSkRTZ3BVUXYzSFJVNVgtSERRdkFBQkhubWRhY0JLZ1BraEdxZkl0V1E2OA?oc=5",
-  "headline": "India slaps 162.5% tax on bulk Scotch, rattles UK deal",
-  "hook": "Scotch lovers and liquor stocks feel the pinch.",
-  "what": "India has imposed a combined duty and tax of 162.5% on bulk Scotch whisky imports. The move comes as the UK‑India trade agreement faces hurdles, causing shares of Diageo and other spirit makers to drop.",
-  "why": "The steep levy could delay the trade pact and raise prices for young consumers who enjoy whisky, so staying aware of price changes is wise.",
-  "tags": [
-   "ScotchTax",
-   "UKIndiaDeal",
-   "LiquorStocks",
-   "TradeTalk",
-   "India"
-  ]
- },
- {
-  "id": "92d8e33cf53b",
-  "created": "2026-11-20T11:15:35+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/padmini-thomas-quits-bjp-returns-to-congress-kerala-unfulfilled-promises-ptirckvemt4",
-  "headline": "Ex-athlete Padmini Thomas leaves BJP, rejoins Congress",
-  "hook": "Another high‑profile exit hits BJP in Kerala",
-  "what": "Former Indian athlete Padmini Thomas announced she is quitting the BJP, citing unfulfilled promises. She said she will re‑join the Congress party. The move comes a day after Padmaja Venugopal also left the BJP.",
-  "why": "The departures highlight shifting political loyalties in Kerala, which could affect upcoming elections and youth representation. Keep an eye on party developments if you’re interested in local politics.",
-  "tags": [
-   "KeralaPolitics",
-   "BJP",
-   "Congress",
-   "PartySwitch",
-   "Youth"
-  ]
- },
- {
-  "id": "6720c3923f97",
-  "created": "2026-11-20T11:16:38+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/pak-fan-boy-bjp-slams-rahul-gandhi-over-remarks-on-indias-foreign-policy/article71723189.ece",
-  "headline": "BJP accuses Rahul Gandhi of ignoring India's diplomacy",
-  "hook": "A senior BJP leader says Gandhi’s Pakistan‑friendly stance blinds him to India's peace moves.",
-  "what": "BJP leader Bhandari claimed Rahul Gandhi’s affection for Pakistan leads him to miss India’s diplomatic work. He pointed to New Delhi’s role in seeking peace in the Russia‑Ukraine war.",
-  "why": "The criticism highlights ongoing political debate over foreign policy, urging youth to watch how leaders frame international issues.",
-  "tags": [
-   "politics",
-   "foreignpolicy",
-   "India",
-   "RussiaUkraine",
-   "BJP"
-  ]
- },
- {
-  "id": "3258fa2077cb",
-  "created": "2026-11-20T11:16:46+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "RushLane",
-  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDNPa05ROFdQN3QwOVFwNHlHLXMwSzg0MlUwWUpDWlRscjVBcExCQkNkMDJ4YUZJM2V1X19WS2U4X29wakZiYlVRMldSWUMyM25QWWozX05aQXpLOUpueFVDaWh5QWUwODdpa0ZxUVU1amM1QkdlMUl0WmJ4SjVsTHlndUhSUHFyZ3dQa215NE5JcjFrN3BxX0ZMWEtkMmVkVjctYS1hVlA0UdIBqgFBVV95cUxPTDNPa05ROFdQN3QwOVFwNHlHLXMwSzg0MlUwWUpDWlRscjVBcExCQkNkMDJ4YUZJM2V1X19WS2U4X29wakZiYlVRMldSWUMyM25QWWozX05aQXpLOUpueFVDaWh5QWUwODdpa0ZxUVU1amM1QkdlMUl0WmJ4SjVsTHlndUhSUHFyZ3dQa215NE5JcjFrN3BxX0ZMWEtkMmVkVjctYS1hVlA0UQ?oc=5",
-  "headline": "Honda unveils next‑gen Avancier hybrid SUV for Asia",
-  "hook": "A 7‑seat hybrid with electric AWD is set to hit Asian roads.",
-  "what": "Honda showcased its new Avancier SUV, equipped with a hybrid powertrain, electric all‑wheel drive and three rows of seats. The model is aimed at the Asian market, with a launch planned for December alongside the electric Alpha SUV.",
-  "why": "Young Indian buyers seeking eco‑friendly, spacious rides now have a fresh option; watch for release dates and pricing.",
-  "tags": [
-   "Honda",
-   "Avancier",
-   "Hybrid",
-   "SUV",
-   "Asia"
   ]
  }
 ]
