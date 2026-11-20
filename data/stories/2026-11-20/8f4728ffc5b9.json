@@ -1,0 +1,37 @@
+{
+ "id": "8f4728ffc5b9",
+ "created": "2026-11-20T07:00:09+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple working on AI agent for Mac",
+  "hook": "Your Mac could soon have its own AI helper.",
+  "what": "Apple is reportedly creating an AI agent that would run on macOS. The effort aims to match other agents such as Meta’s Muse, Instinct, Claude and OpenAI’s Dots.",
+  "why": "If released, it could change how Indian teens use their laptops for study and creativity. Keep an eye on Apple updates for new Mac features.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Mac",
+   "Tech",
+   "Innovation"
+  ]
+ },
+ "ml": {
+  "headline": "Apple-ന് Mac-ക്കായി AI ഏജന്റ് വികസനം",
+  "hook": "നിങ്ങളുടെ Mac-ന് ഉടൻ തന്നെ സ്വന്തം AI സഹായി വരാം.",
+  "what": "Apple macOS-ൽ പ്രവർത്തിക്കുന്ന AI ഏജന്റ് സൃഷ്ടിക്കാൻ ശ്രമിക്കുന്നതായി റിപ്പോർട്ടുകൾ പറയുന്നു. ഈ ഏജന്റ് Meta‑യുടെ Muse, Instinct, Claude, OpenAI‑യുടെ Dots പോലുള്ളവയെ അപേക്ഷിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പുറത്തിറങ്ങിയാൽ, ഇന്ത്യയിലെ യുവാക്കൾ പഠനത്തിലും സൃഷ്ടികളിലും Mac ഉപയോഗം മാറ്റാൻ കഴിയും. Apple-ന്റെ പുതിയ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Mac",
+   "Tech",
+   "Innovation"
+  ]
+ }
+}

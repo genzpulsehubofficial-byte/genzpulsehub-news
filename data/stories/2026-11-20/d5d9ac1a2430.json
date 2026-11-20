@@ -1,0 +1,37 @@
+{
+ "id": "d5d9ac1a2430",
+ "created": "2026-11-20T07:00:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/odisha-schools-closed-in-several-districts-today-november-20-due-to-cyclone-akvan-101795135380272.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Odisha schools shut as Cyclone Akvan nears",
+  "hook": "Rain and wind warnings force holiday for students.",
+  "what": "District officials announced precautionary closures for schools across multiple districts in Odisha, citing forecasts of heavy rain and strong winds from Cyclone Akvan.",
+  "why": "Students stay safe while authorities prepare for the storm; families should stay updated on weather alerts.",
+  "tags": [
+   "Odisha",
+   "CycloneAkvan",
+   "schoolclosure",
+   "weather",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "ഒഡീഷയിൽ സൈക്ലോൺ ആക്വാൻ കാരണം സ്കൂളുകൾ അടഞ്ഞു",
+  "hook": "മഴ, കാറ്റ് മുന്നറിയിപ്പ് വിദ്യാർത്ഥികളെ അവധി നൽകുന്നു.",
+  "what": "ജില്ലാ അധികാരികൾ സൈക്ലോൺ ആക്വാന്റെ ശക്തമായ മഴയും കാറ്റും പ്രവചിച്ച് ഒഡീഷയിലെ പല ജില്ലകളിലും സ്കൂളുകൾ മുൻകരുതലായി അടയ്ക്കുമെന്ന് പ്രഖ്യാപിച്ചു.",
+  "why": "വൈമാനിക സാഹചര്യം കണക്കിലെടുത്ത് വിദ്യാർത്ഥികൾ വീട്ടിൽ ഇരിക്കണം; കാലാവസ്ഥാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഒഡീഷ",
+   "സൈക്ലോൺആക്വാൻ",
+   "സ്കൂൾഅവധി",
+   "കാലാവസ്ഥ",
+   "സുരക്ഷ"
+  ]
+ }
+}

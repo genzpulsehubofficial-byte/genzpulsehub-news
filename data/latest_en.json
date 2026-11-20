@@ -1,5 +1,98 @@
 [
  {
+  "id": "53a4f9322d00",
+  "created": "2026-11-20T06:59:02+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
+  "headline": "Cyclone Akvan Landfall Begins, Process To Last Several Hours",
+  "hook": "Cyclone Akvan has officially started its landfall phase.",
+  "what": "The landfall process of Cyclone Akvan is now underway. The Bhubaneswar Meteorological Centre stated that this phase is extensive and could take around seven to eight hours to finish.",
+  "why": "Anyone living in the affected coastal belts should remain indoors and follow safety instructions during this prolonged process.",
+  "tags": [
+   "CycloneAkvan",
+   "WeatherAlert",
+   "IndiaNews",
+   "StaySafe"
+  ]
+ },
+ {
+  "id": "d5d9ac1a2430",
+  "created": "2026-11-20T07:00:06+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/odisha-schools-closed-in-several-districts-today-november-20-due-to-cyclone-akvan-101795135380272.html",
+  "headline": "Odisha schools shut as Cyclone Akvan nears",
+  "hook": "Rain and wind warnings force holiday for students.",
+  "what": "District officials announced precautionary closures for schools across multiple districts in Odisha, citing forecasts of heavy rain and strong winds from Cyclone Akvan.",
+  "why": "Students stay safe while authorities prepare for the storm; families should stay updated on weather alerts.",
+  "tags": [
+   "Odisha",
+   "CycloneAkvan",
+   "schoolclosure",
+   "weather",
+   "safety"
+  ]
+ },
+ {
+  "id": "8f4728ffc5b9",
+  "created": "2026-11-20T07:00:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "headline": "Apple working on AI agent for Mac",
+  "hook": "Your Mac could soon have its own AI helper.",
+  "what": "Apple is reportedly creating an AI agent that would run on macOS. The effort aims to match other agents such as Meta’s Muse, Instinct, Claude and OpenAI’s Dots.",
+  "why": "If released, it could change how Indian teens use their laptops for study and creativity. Keep an eye on Apple updates for new Mac features.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Mac",
+   "Tech",
+   "Innovation"
+  ]
+ },
+ {
+  "id": "f1dd0bea0b97",
+  "created": "2026-11-20T07:00:11+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "headline": "Anthropic founders earn $280 M each in $83 IPO",
+  "hook": "Seven AI startup founders walk away with almost $2 billion.",
+  "what": "At the revised price of $83 per share, each of the seven founders received about $280 million. The company secured close to $105 billion overall.",
+  "why": "It highlights how AI ventures can generate huge wealth, a cue for young Indians interested in tech entrepreneurship and equity stakes.",
+  "tags": [
+   "AI",
+   "startup",
+   "IPO",
+   "founders",
+   "tech"
+  ]
+ },
+ {
+  "id": "6d4456152699",
+  "created": "2026-11-20T07:00:17+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNUGNZa1NPQTRxeV9GakxjMnBmOWtsQUdndS1RVzZyTGtUdkx4YmNkMk1HVlZlcnk2ZlVVLWVnVlJ3WXgzaGhEcDVha3d5c0JZQ0J1aWNGOWJpbUdhdnVaSGJtQ0U3SVMxNFB5cGx4UmU1czJLRGFlMXVXZHQwS1dFaXNlLTIzWFpVbmtBcnhzVmIzUlVDZDVhWGNTajBnZFZIX2tRaUFEcHhWeEhqU3l4b2hMRzZoZFJSRWxQNl85OV9TTk9mNXJkNnFpWWFCcExMSGMzLXUzOW5SN1BNc2hPVWIycU1QaHhrZVlxYTU2OXh4NXhOV2kwZ09wZktFVTh4VWJzdU5sTUtWbU1BaU43Q2tGUVZtNnI3a2p1aTNzY3VVdHpzMDdWNHJxaFhCNVZ3Mk1MNXJhbml0eUJUeWZVWWNNeGl0bUc4TWoyQzVkNW9YQm_SAdgCQVVfeXFMTkhUd284WmUtLVczS3NKcmJRWFprTVNENmdDbFF0cThGYlBYYWhXcXh2a2pMR2VCakF2c0lmSGswbDhvTHRTMVduX2NyVWVEUTgxQ0lmUVdxMEJGWFZaaUNGWlZlRFhYNmVOb1JwaVFaSWFzN2U0SG1sYzlLeW1mRV9WTHJuelJDNXlTdllLUXhGNmRzd3ZnQk0tLTJDUkk1RTc4a3JGY09UcGFaRzYzOHVGd0lpMTNjQlB2Q096SDdtRlJZS0tDM1NLV1ZKSGFWbkdMdmc0MzBYR1FUSWpTUWx4c01tOGFTd2ZBVjZpN09Odlhpb2tlODdnUW5KaGlOeFNWaTlCOFFGdUdXR2ViVVB2Tkg4WFotZGQwTTR3M2o4UFNFMXZJQnQ2M1FVQ21RWHdNTlVmX3pabTJYNmVmUk5NSXRrcjF4azVQRzdGYWMtLW5MVHVWQTk?oc=5",
+  "headline": "Bachelor Party D'eux nets Rs 2.55 cr on opening day",
+  "hook": "A fresh Malayalam flick pulls a solid start at the box office.",
+  "what": "The movie starring Naslen and Kunchacko Boban earned a net collection of Rs 2.55 crore on its first day. The figure reflects ticket sales across theatres.",
+  "why": "Strong opening numbers show the film’s buzz among young audiences, signalling good chances for more screens and longer runs. Keep an eye on showtimes if you’re planning a weekend outing.",
+  "tags": [
+   "boxoffice",
+   "MalayalamCinema",
+   "Naslen",
+   "KunchackoBoban"
+  ]
+ },
+ {
   "id": "f4751837d237",
   "created": "2026-11-20T05:44:53+05:30",
   "category": "headlines",
@@ -655,100 +748,6 @@
    "PMModi",
    "IPL2027",
    "form"
-  ]
- },
- {
-  "id": "4ba8561313c5",
-  "created": "2026-11-19T23:49:02+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/air-pollution-raises-respiratory-illness-claims-children-and-senior-citizens-account-for-58-of-hospitalisations-care-11795108281360.html",
-  "headline": "Air pollution drives rise in lung hospital cases",
-  "hook": "Kids and seniors saw a sharp jump in breathing‑related admissions.",
-  "what": "Hospital claims for respiratory problems grew 11% in September and again in October 2025, according to Care Health Insurance data. Children made up 48% of those claims each month, and together with senior citizens they represented 58% of all admissions.",
-  "why": "Young people living in polluted areas face higher risk of lung issues, so staying aware of air quality and limiting outdoor exposure on bad days can help protect health.",
-  "tags": [
-   "airpollution",
-   "respiratory",
-   "healthtips",
-   "youth",
-   "india"
-  ]
- },
- {
-  "id": "627171933371",
-  "created": "2026-11-19T23:50:05+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "IndulgExpress",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUFyVDRGeHVjOEdZZmQwSXpNMk9wRFgwRnlCREZKQWVMMkNxZWRoVnNlQzJjcXFoRkVBOVlNZlNYU19UY3Y4X25Vc0RycEktSTJnYVRoY20zV0NYTmxfOGQtSG1HUUhDNDB3aDR4TXNBTWxOWHpJSnp2WTYtckQtdkx3NGx5MTdic1ZVTmx6a3hTRTg5TnlCWmJKd0t1ZDBpUEQ3MHJfbXRTWVFhTHfSAbsBQVVfeXFMT1VWTHhrNTZTWE9DcGZpQWg5T2NCeEhiLUQxeUVPM3U5QXZTVmx1emFmSHRaX1VYWnI3ZXJJZm92T1M3b1VXbW5MNmdJZVVRVGRHWkpoUDk2UmtQWG9oSmptUlIwdHVUMTE5N2NVeHY1dGFRdG94YTVLaWpWdUR1aGNlOFZtc0RhRi1mSkwxX3JvZjNTRmE2UVJ2M19PSy0yLXM0NVg0ZWpnLXV0c0NTcm9Ya3FZaXlkRGZsVQ?oc=5",
-  "headline": "New OTT titles dropping Nov 20‑26",
-  "hook": "Fresh shows and movies hit your screens this week",
-  "what": "Various streaming platforms have scheduled releases between November 20 and 26. The lineup includes a mix of series and films launching across popular OTT services.",
-  "why": "Knowing the release dates helps you plan your binge‑watch schedule and not miss out on the latest content.",
-  "tags": [
-   "OTT",
-   "newreleases",
-   "binge",
-   "streaming",
-   "Nov2026"
-  ]
- },
- {
-  "id": "1054662f25c3",
-  "created": "2026-11-19T23:50:07+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-  "headline": "Google's Gemini AI now runs tasks on your Mac",
-  "hook": "Let an AI handle your Mac chores in seconds",
-  "what": "Google added an AI agent to Gemini for macOS. The agent can sort files, complete forms and manage multi‑step processes automatically.",
-  "why": "Students can use it to speed up assignments and keep their desktops tidy. Try the new Gemini update on your Mac to automate routine work.",
-  "tags": [
-   "Google",
-   "Gemini",
-   "AI",
-   "Mac",
-   "Productivity"
-  ]
- },
- {
-  "id": "47e5ddf718b1",
-  "created": "2026-11-19T23:50:11+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/rgcb-celebrates-31st-foundation-day/article71721124.ece",
-  "headline": "RGCB marks 31st foundation day",
-  "hook": "A milestone for India's biotech research hub",
-  "what": "The Rajiv Gandhi Centre for Biotechnology celebrated its 31st foundation day. The institute held commemorative activities to mark the occasion.",
-  "why": "The celebration highlights the centre's role in scientific research, inspiring young students interested in biotech and related fields.",
-  "tags": [
-   "RGCB",
-   "foundationday",
-   "biotech",
-   "research",
-   "India"
-  ]
- },
- {
-  "id": "2919f418f3f5",
-  "created": "2026-11-19T23:50:14+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-  "headline": "Meta’s Muse AI shares wrong personal data",
-  "hook": "Your private info could appear in someone else’s chat.",
-  "what": "Employees said Meta’s AI assistant Muse displayed messages that weren’t theirs. The tool showed supposed childcare requests, career advice, product orders and bank balances that didn’t match the user.",
-  "why": "It shows privacy risks when AI agents handle conversations, so users should verify any displayed info and be careful sharing sensitive data.",
-  "tags": [
-   "Meta",
-   "AI",
-   "privacy",
-   "data"
   ]
  }
 ]
