@@ -1,0 +1,37 @@
+{
+ "id": "c9adab68c34c",
+ "created": "2026-11-21T03:53:42+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "BigGo Finance",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84azZUaGRNMi02bjVlUk9fYkY2LTBSb0dlRUViWnh3TS1rQlFUTHktcWRwNzJwaHZyUWw3cXNtdmdvMkdXbnRrN1NLTklnT1hhN3ZVU1JpRTVlX1VFTWJBX29QMnZlSWJMcnFUa0ZObTJ0UXQ3Rmc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Teenage Engineering launches $299 EP/BC-1 CD player",
+  "hook": "A CD player that shows off its spinning disc.",
+  "what": "Swedish maker Teenage Engineering introduced the EP/BC-1, a compact CD player priced at $299. The device places the disc on an open frame, making the rotation visible. It resembles a miniature turntable in appearance.",
+  "why": "For music‑loving teens, the design offers a fresh way to enjoy physical media and could inspire creative listening habits. Check out the product if you’re into unique audio gadgets.",
+  "tags": [
+   "tech",
+   "gadgets",
+   "music",
+   "design",
+   "TeenageEngineering"
+  ]
+ },
+ "ml": {
+  "headline": "Teenage Engineering പുറത്തിറക്കി $299 EP/BC-1 CD പ്ലെയർ",
+  "hook": "സ്പിന്നിംഗ് ഡിസ്ക് കാണിക്കുന്ന ഒരു CD പ്ലെയർ.",
+  "what": "സ്വീഡിഷ് ബ്രാൻഡ് Teenage Engineering EP/BC-1 എന്ന പുതിയ CD പ്ലെയർ $299 വിലയിൽ അവതരിപ്പിച്ചു. ഡിസ്ക് തുറന്ന ഫ്രെയിമിൽ വെച്ച് അതിന്റെ ചുറ്റൽ കാണിക്കാൻ രൂപകൽപ്പന ചെയ്തതാണ്. ഇത് ചെറു ടേൺടേബിൾ പോലെയാണു തോന്നുന്നത്.",
+  "why": "മ്യൂസിക് പ്രേമികളായ യുവാക്കൾക്ക് ഫിസിക്കൽ മീഡിയയുടെ പുതിയ അനുഭവം നൽകുന്നു, അതിനാൽ സൃഷ്ടിപരമായ കേൾവി ശൈലി വളർത്താൻ സഹായിക്കും. ഇത്തരമൊരു ഗാഡ്ജറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ നോക്കാം.",
+  "tags": [
+   "ടെക്",
+   "ഗാഡ്ജറ്റ്",
+   "മ്യൂസിക്",
+   "ഡിസൈൻ",
+   "TeenageEngineering"
+  ]
+ }
+}

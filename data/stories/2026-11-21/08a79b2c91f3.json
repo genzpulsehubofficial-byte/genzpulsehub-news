@@ -1,0 +1,37 @@
+{
+ "id": "08a79b2c91f3",
+ "created": "2026-11-21T03:53:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjZ4bGVxZVlKLTN2cG5McnpRSVBtVUNiNEUwenZXcGhacEhtQkwyaGhvclBXLU5jUHVNQWdsaU1WTmtDS2VHdG9UQTctYnVWb3UxeWhyOWNFZ1FKc25JWjNKMUUwV1Jmek1uVFFVeHcyNFhIZmZDYUVjOU1sM01ILVVPM25uRnlrWDl2dXlXcEo0cGJXNHRjbU1KRmJGY0RWRXZsajJ1NXR4Z1dZZFFqaFlzWk16NEF1UUM1Sl93NVQxVElNcTFRcExwbW9Ya3JOWmhNT2hCdUtWN1JYbDA0dzUwaVZlbW5MQTR6X3o4ak84OHVDT0FlMkdzbm1WV3ZGMWVjZ191NnjSAY4CQVVfeXFMT1JEVjVLWk9iQk4yM3Rkd0Nob2MxSzVZRUZRN1dsZUw4dDU2ZDYyQXlkN1VrMkhKblhqdFNNRHpUeDJCSGQzTFVrR3E2VS02UGlYZldrd1hFbVp2cmZ6V1I2djNMazhjZlB1R2FEMDA1cjFXSlIwWmhOS28yR0U1X212bG5QTi1lTmw2d2tiSjl5MHpGQzBSNWZXeVFWT2JRWmdic0F0NmZQU2pSVnBwRVpRSVE4blFmek9KdGVOcHhka0c1eWhRNURDX01RZXd1dGV3Rzc2R3BmUzBLOE8ySmxfRmoyZG9XWDlwblhqdVVhaFlCTFRFNWdVY0YwYnNrZHd4TzFheGdUZjF1V3JB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO Jensen Huang accused of humiliating staff",
+  "hook": "Allegations claim the tech leader used shocking threats on employees.",
+  "what": "Several news outlets reported that Nvidia founder Jensen Huang repeatedly humiliated workers, using extreme language such as threatening to \"pee on your brain\" and \"rip your heart out\". Employees had previously voiced complaints about his conduct.",
+  "why": "The reports raise concerns about workplace culture in major tech firms, reminding young job seekers to consider the environment before joining. Look for companies that promote respect and well‑being.",
+  "tags": [
+   "Nvidia",
+   "Workplace",
+   "TechNews",
+   "CEO",
+   "Culture"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia CEO Jensen Huang ജീവനക്കാരെ അപമാനിച്ചതായി ആരോപണം",
+  "hook": "ടെക് ബോസ് ജീവനക്കാരോട് ഭയാനകമായ ഭീഷണികൾ ഉപയോഗിച്ചതായി ആരോപണം.",
+  "what": "വിവിധ വാർത്താ മാധ്യമങ്ങൾ Nvidia സ്ഥാപകൻ Jensen Huang ജീവനക്കാരെ പലതവണ അപമാനിച്ചുവെന്ന്, \"നിന്റെ മസ്തിഷ്കത്തിൽ മൂത്രം ഒഴിക്കാൻ\" , \"ഹൃദയം കുത്തി പുറത്തെടുക്കാൻ\" എന്നതുപോലുള്ള കടുത്ത വാക്കുകൾ ഉപയോഗിച്ചുവെന്ന് റിപ്പോർട്ട് ചെയ്തു. ജീവനക്കാർ അദ്ദേഹത്തിന്റെ പെരുമാറ്റത്തെക്കുറിച്ച് മുമ്പേ പരാതിപ്പെട്ടിരുന്നു.",
+  "why": "ഇത് വലിയ ടെക് കമ്പനികളിലെ ജോലി അന്തരീക്ഷത്തെക്കുറിച്ച് ചോദ്യങ്ങൾ ഉയർത്തുന്നു; ജോലിക്ക് പ്രവേശിക്കാൻ പോകുന്ന യുവാക്കൾ ആദരവുള്ള, ആരോഗ്യകരമായ അന്തരീക്ഷം ഉള്ള സ്ഥാപനങ്ങൾ തിരഞ്ഞെടുക്കണം.",
+  "tags": [
+   "Nvidia",
+   "ജോലി",
+   "ടെക്",
+   "CEO",
+   "സംസ്കാരം"
+  ]
+ }
+}

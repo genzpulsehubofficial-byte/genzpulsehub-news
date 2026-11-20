@@ -1,0 +1,35 @@
+{
+ "id": "7b5d3f68df3f",
+ "created": "2026-11-21T03:53:45+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Financial Express",
+ "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHJFblM2SEVnbVBqeXdBOUh0aVA2dGdzZU1iT2Zkd1FpY200VV9zNDZWWjliODJHb3pwdlBMR0dkek40c05WX3NieWZnaE5CTzM2ajVuaEFGVW5PaWh1TGQwREduazZiZTUtUTQxOVVsTTFkSE8zcHM4NUlqZDZfa2p0SWNsd2VOajczMWJCVkY0eDNwMDhidEhjNHZGXzZXZ2h5RGtFTWhsUzlCZ3p6NUJ0X3JURXBnVUJGd0g0S2lEaXIzMmtENDRsVnNOTjBTNm1xUENHc2JWa254LVdRc2xZa25XVk11UThBMEgwd2hyaW5iWEUxQkRpV3luQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Mahanadi Coalfields IPO sees 0.48x subscription after Day 2",
+  "hook": "The big coal IPO is barely half‑filled after two days.",
+  "what": "Mahanadi Coalfields Ltd launched an IPO worth Rs 8,981 crore. By the end of the second day, total subscription stood at 0.48 times the issue size. QIBs accounted for the bulk of the bids.",
+  "why": "Low subscription may impact the IPO's success and market sentiment. Young investors should watch the final allocation before deciding to invest.",
+  "tags": [
+   "MahanadiCoal",
+   "IPO",
+   "Investing",
+   "Stocks"
+  ]
+ },
+ "ml": {
+  "headline": "മഹാനദി കോൾഫീൽഡ്സ് ഐപിഒക്ക് 0.48 മടങ്ങ് സബ്സ്ക്രിപ്ഷൻ",
+  "hook": "രണ്ട് ദിവസത്തിനുള്ളിൽ ഈ വലിയ കോൾ ഐപിഒക്ക് ആവശ്യകത കുറവാണ്.",
+  "what": "മഹാനദി കോൾഫീൽഡ്സ് ലിമിറ്റഡ് 8,981 കോടി രൂപ മൂല്യമുള്ള ഐപിഒ പുറത്തിറക്കി. രണ്ടാം ദിവസത്തിന്റെ അവസാനം സബ്സ്ക്രിപ്ഷൻ 0.48 മടങ്ങായി. QIBs ഏറ്റവും കൂടുതൽ ബിഡ് ചെയ്തു.",
+  "why": "കുറഞ്ഞ സബ്സ്ക്രിപ്ഷൻ ഐപിഒയുടെ വിജയത്തെയും മാർക്കറ്റ് മനോഭാവത്തെയും ബാധിക്കാം. യുവ നിക്ഷേപകർ അന്തിമ അലോക്കേഷൻ കാത്ത് തീരുമാനിക്കണം.",
+  "tags": [
+   "മഹാനദി",
+   "ഐപിഒ",
+   "നിക്ഷേപം",
+   "സ്റ്റോക്ക്സ്"
+  ]
+ }
+}

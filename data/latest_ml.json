@@ -1,5 +1,98 @@
 [
  {
+  "id": "f38c81d64f98",
+  "created": "2026-11-21T03:53:38+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
+  "headline": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റി നിലപാട് ഉറപ്പിച്ചു, പാകിസ്താനിനെ വിമർശിച്ചു",
+  "hook": "ഇന്ത്യ പറയുന്നു, IWT‑ലെ അവരുടെ നിലപാട് പൂര്‍ണമായും വ്യക്തമാണ്.",
+  "what": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റിയിലുള്ള സ്ഥാനം മാറ്റമില്ലാതെ വ്യക്തമായി പ്രഖ്യാപിച്ചു. ഈ പ്രസ്താവന പാകിസ്താനുമായി ജലവിതരണത്തെക്കുറിച്ചുള്ള തർക്കങ്ങളുടെ പശ്ചാത്തലത്തിൽ വന്നതാണ്.",
+  "why": "വെള്ളം പോലുള്ള പ്രധാന വിഭവങ്ങളുടെ നിയന്ത്രണം പ്രദേശിക സ്ഥിരതയ്ക്ക് എത്ര പ്രധാനമാണെന്ന് യുവാക്കൾക്ക് അറിയാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "IndusWaters",
+   "IndiaPakistan",
+   "WaterTreaty",
+   "Geopolitics"
+  ]
+ },
+ {
+  "id": "717d849dded5",
+  "created": "2026-11-21T03:53:41+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
+  "headline": "Nuvera, Polygon‑ന്റെ Open Money Stack‑ലേക്ക് ചേർന്നു",
+  "hook": "US‑ലെ പേയ്മെന്റ് ഫർമിന്‌ L2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് ലോകവ്യാപകമായി ഇടപാട് ചെയ്യാം",
+  "what": "US‑യിലെ പേയ്മെന്റ് ഇൻഫ്രാസ്ട്രക്ചർ പ്രൊവൈഡർ Nuvera, Polygon‑ന്റെ Open Money Stack‑യുടെ ഭാഗമായി. ഇതിലൂടെ Nuvera, Polygon‑ന്റെ ലെയർ‑2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് അന്താരാഷ്ട്ര പേയ്മെന്റുകൾ നടത്തും.",
+  "why": "ഇത് ക്രോസ്‑ബോർഡർ ട്രാൻസാക്ഷനുകൾ വേഗത്തിലും ചെലവിലും കുറയ്ക്കാൻ സഹായിക്കും, ഗ്ലോബൽ സർവീസുകൾ ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് പ്രയോജനം. ഈ സാങ്കേതികത സ്വീകരിക്കുന്ന ആപ്പുകൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Polygon",
+   "Nuvera",
+   "crossborder",
+   "payments",
+   "blockchain"
+  ]
+ },
+ {
+  "id": "c9adab68c34c",
+  "created": "2026-11-21T03:53:42+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "BigGo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84azZUaGRNMi02bjVlUk9fYkY2LTBSb0dlRUViWnh3TS1rQlFUTHktcWRwNzJwaHZyUWw3cXNtdmdvMkdXbnRrN1NLTklnT1hhN3ZVU1JpRTVlX1VFTWJBX29QMnZlSWJMcnFUa0ZObTJ0UXQ3Rmc?oc=5",
+  "headline": "Teenage Engineering പുറത്തിറക്കി $299 EP/BC-1 CD പ്ലെയർ",
+  "hook": "സ്പിന്നിംഗ് ഡിസ്ക് കാണിക്കുന്ന ഒരു CD പ്ലെയർ.",
+  "what": "സ്വീഡിഷ് ബ്രാൻഡ് Teenage Engineering EP/BC-1 എന്ന പുതിയ CD പ്ലെയർ $299 വിലയിൽ അവതരിപ്പിച്ചു. ഡിസ്ക് തുറന്ന ഫ്രെയിമിൽ വെച്ച് അതിന്റെ ചുറ്റൽ കാണിക്കാൻ രൂപകൽപ്പന ചെയ്തതാണ്. ഇത് ചെറു ടേൺടേബിൾ പോലെയാണു തോന്നുന്നത്.",
+  "why": "മ്യൂസിക് പ്രേമികളായ യുവാക്കൾക്ക് ഫിസിക്കൽ മീഡിയയുടെ പുതിയ അനുഭവം നൽകുന്നു, അതിനാൽ സൃഷ്ടിപരമായ കേൾവി ശൈലി വളർത്താൻ സഹായിക്കും. ഇത്തരമൊരു ഗാഡ്ജറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ നോക്കാം.",
+  "tags": [
+   "ടെക്",
+   "ഗാഡ്ജറ്റ്",
+   "മ്യൂസിക്",
+   "ഡിസൈൻ",
+   "TeenageEngineering"
+  ]
+ },
+ {
+  "id": "7b5d3f68df3f",
+  "created": "2026-11-21T03:53:45+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Financial Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHJFblM2SEVnbVBqeXdBOUh0aVA2dGdzZU1iT2Zkd1FpY200VV9zNDZWWjliODJHb3pwdlBMR0dkek40c05WX3NieWZnaE5CTzM2ajVuaEFGVW5PaWh1TGQwREduazZiZTUtUTQxOVVsTTFkSE8zcHM4NUlqZDZfa2p0SWNsd2VOajczMWJCVkY0eDNwMDhidEhjNHZGXzZXZ2h5RGtFTWhsUzlCZ3p6NUJ0X3JURXBnVUJGd0g0S2lEaXIzMmtENDRsVnNOTjBTNm1xUENHc2JWa254LVdRc2xZa25XVk11UThBMEgwd2hyaW5iWEUxQkRpV3luQQ?oc=5",
+  "headline": "മഹാനദി കോൾഫീൽഡ്സ് ഐപിഒക്ക് 0.48 മടങ്ങ് സബ്സ്ക്രിപ്ഷൻ",
+  "hook": "രണ്ട് ദിവസത്തിനുള്ളിൽ ഈ വലിയ കോൾ ഐപിഒക്ക് ആവശ്യകത കുറവാണ്.",
+  "what": "മഹാനദി കോൾഫീൽഡ്സ് ലിമിറ്റഡ് 8,981 കോടി രൂപ മൂല്യമുള്ള ഐപിഒ പുറത്തിറക്കി. രണ്ടാം ദിവസത്തിന്റെ അവസാനം സബ്സ്ക്രിപ്ഷൻ 0.48 മടങ്ങായി. QIBs ഏറ്റവും കൂടുതൽ ബിഡ് ചെയ്തു.",
+  "why": "കുറഞ്ഞ സബ്സ്ക്രിപ്ഷൻ ഐപിഒയുടെ വിജയത്തെയും മാർക്കറ്റ് മനോഭാവത്തെയും ബാധിക്കാം. യുവ നിക്ഷേപകർ അന്തിമ അലോക്കേഷൻ കാത്ത് തീരുമാനിക്കണം.",
+  "tags": [
+   "മഹാനദി",
+   "ഐപിഒ",
+   "നിക്ഷേപം",
+   "സ്റ്റോക്ക്സ്"
+  ]
+ },
+ {
+  "id": "08a79b2c91f3",
+  "created": "2026-11-21T03:53:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjZ4bGVxZVlKLTN2cG5McnpRSVBtVUNiNEUwenZXcGhacEhtQkwyaGhvclBXLU5jUHVNQWdsaU1WTmtDS2VHdG9UQTctYnVWb3UxeWhyOWNFZ1FKc25JWjNKMUUwV1Jmek1uVFFVeHcyNFhIZmZDYUVjOU1sM01ILVVPM25uRnlrWDl2dXlXcEo0cGJXNHRjbU1KRmJGY0RWRXZsajJ1NXR4Z1dZZFFqaFlzWk16NEF1UUM1Sl93NVQxVElNcTFRcExwbW9Ya3JOWmhNT2hCdUtWN1JYbDA0dzUwaVZlbW5MQTR6X3o4ak84OHVDT0FlMkdzbm1WV3ZGMWVjZ191NnjSAY4CQVVfeXFMT1JEVjVLWk9iQk4yM3Rkd0Nob2MxSzVZRUZRN1dsZUw4dDU2ZDYyQXlkN1VrMkhKblhqdFNNRHpUeDJCSGQzTFVrR3E2VS02UGlYZldrd1hFbVp2cmZ6V1I2djNMazhjZlB1R2FEMDA1cjFXSlIwWmhOS28yR0U1X212bG5QTi1lTmw2d2tiSjl5MHpGQzBSNWZXeVFWT2JRWmdic0F0NmZQU2pSVnBwRVpRSVE4blFmek9KdGVOcHhka0c1eWhRNURDX01RZXd1dGV3Rzc2R3BmUzBLOE8ySmxfRmoyZG9XWDlwblhqdVVhaFlCTFRFNWdVY0YwYnNrZHd4TzFheGdUZjF1V3JB?oc=5",
+  "headline": "Nvidia CEO Jensen Huang ജീവനക്കാരെ അപമാനിച്ചതായി ആരോപണം",
+  "hook": "ടെക് ബോസ് ജീവനക്കാരോട് ഭയാനകമായ ഭീഷണികൾ ഉപയോഗിച്ചതായി ആരോപണം.",
+  "what": "വിവിധ വാർത്താ മാധ്യമങ്ങൾ Nvidia സ്ഥാപകൻ Jensen Huang ജീവനക്കാരെ പലതവണ അപമാനിച്ചുവെന്ന്, \"നിന്റെ മസ്തിഷ്കത്തിൽ മൂത്രം ഒഴിക്കാൻ\" , \"ഹൃദയം കുത്തി പുറത്തെടുക്കാൻ\" എന്നതുപോലുള്ള കടുത്ത വാക്കുകൾ ഉപയോഗിച്ചുവെന്ന് റിപ്പോർട്ട് ചെയ്തു. ജീവനക്കാർ അദ്ദേഹത്തിന്റെ പെരുമാറ്റത്തെക്കുറിച്ച് മുമ്പേ പരാതിപ്പെട്ടിരുന്നു.",
+  "why": "ഇത് വലിയ ടെക് കമ്പനികളിലെ ജോലി അന്തരീക്ഷത്തെക്കുറിച്ച് ചോദ്യങ്ങൾ ഉയർത്തുന്നു; ജോലിക്ക് പ്രവേശിക്കാൻ പോകുന്ന യുവാക്കൾ ആദരവുള്ള, ആരോഗ്യകരമായ അന്തരീക്ഷം ഉള്ള സ്ഥാപനങ്ങൾ തിരഞ്ഞെടുക്കണം.",
+  "tags": [
+   "Nvidia",
+   "ജോലി",
+   "ടെക്",
+   "CEO",
+   "സംസ്കാരം"
+  ]
+ },
+ {
   "id": "6787a271fdfe",
   "created": "2026-11-21T03:00:28+05:30",
   "category": "tech",
@@ -659,99 +752,6 @@
    "നിക്ഷേപം",
    "മിഡ്ക്യാപ്",
    "ഫിനാന്‍സ്"
-  ]
- },
- {
-  "id": "912438ec45bd",
-  "created": "2026-11-20T21:08:58+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFEzbmNLdDItVzQ2M0xXSUJHTXBLUnQ0dlFSN2w5MzhnMHZiSkF3Rmt3aS0wMEo1RUxfdjhoUWZaMmxaU3hacjVhSVo3eGRua2txZUFKeGVSdW5jcFVYc0ZFdTVLZ0Zmd1ZhM0NYTWxPYUxCc005NTN6RXFRNFRVN1cxbWVYaTdpRUtQUTlIVjI0b1NuV3JuR1JpcFdfdmFHa1U1b3VZNFV3LXF4VHc?oc=5",
-  "headline": "Apple‑ന്റെ iPhone 18, iPhone Air 2 മാർച്ച് 2027‑ൽ വരാൻ സാധ്യത",
-  "hook": "പുതിയ ലീക്കുകൾ പ്രകാരം അടുത്ത വർഷം പുതിയ iPhone മോഡലുകൾ എത്താൻ പോകുന്നു.",
-  "what": "ഒരു പുതിയ ലീക്കിൽ Apple‑ന്റെ iPhone 18, iPhone Air 2 ഡിസൈൻ വിശദാംശങ്ങൾ പുറത്തുവന്നു. നിർമ്മാണ മൈൽസ്റ്റോൺ മാർച്ച് 2027‑ൽ ആരംഭിക്കുമെന്ന് സൂചിപ്പിക്കുന്നു, Air 2 മോഡലിൽ ഡ്യൂവൽ റിയർ ക്യാമറ കാണുന്നു.",
-  "why": "മാർച്ച് 2027‑ലെ റിലീസ് യുവജനങ്ങൾക്ക് പുതിയ ഫീച്ചറുകൾക്കായി പ്ലാൻ ചെയ്യാൻ സഹായിക്കും. ഔദ്യോഗിക പ്രഖ്യാപനങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Apple",
-   "iPhone18",
-   "iPhoneAir2",
-   "TechNews",
-   "Launch2027"
-  ]
- },
- {
-  "id": "62f4c7595f37",
-  "created": "2026-11-20T20:10:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/karnataka-bike-taxis-to-stay-supreme-court-dismisses-states-appeal-to-restore-ban-12355207#publisher=newsstand",
-  "headline": "സുപ്രീം കോടതി കര്‍ണാടക ബൈക്ക് ടാക്സി തുടരാന്‍ അനുമതി",
-  "hook": "നിങ്ങളുടെ ദിവസേനയുള്ള രണ്ട് ചക്രം യാത്രകൾ ഇനി നിർത്തില്ല.",
-  "what": "കര്‍ണാടക സർക്കാർ ബൈക്ക്‑ടാക്സി നിരോധനം തിരികെ കൊണ്ടുവരാന്‍ ശ്രമിച്ചെങ്കിലും, സുപ്രീം കോടതി അപേക്ഷ നിരസിച്ചു. ഇതോടെ റാപിഡോ പോലുള്ള കമ്പനികൾ സംസ്ഥാനത്ത് പ്രവർത്തനം തുടരാം.",
-  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും ചെലവുകുറഞ്ഞ രണ്ട് ചക്രം സവാരി ഉപയോഗിച്ച് ചെറു ദൂരം സഞ്ചരിക്കാൻ ഇപ്പോഴും സാധിക്കും. ആപ്പിന്റെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ബൈക്ക്ടാക്സി",
-   "കർണാടക",
-   "സുപ്രീംകോടതി",
-   "റാപിഡോ",
-   "യാത്ര"
-  ]
- },
- {
-  "id": "9fee4be7e57e",
-  "created": "2026-11-20T20:10:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/region-in-flux-all-relationships-to-improve-pak-minister-in-delhi-on-ties-12355279#publisher=newsstand",
-  "headline": "പാകിസ്താൻ മന്ത്രി ബന്ധങ്ങൾ മെച്ചപ്പെടും എന്ന് പറയുന്നു",
-  "hook": "ഭൂ-രാഷ്ട്രീയ മാറ്റങ്ങൾ വേഗത്തിൽ, സൗഹൃദം വരാനിരിക്കാം",
-  "what": "പാകിസ്താൻ മന്ത്രിയായ മുസദിക് മാസൂദ് മാലിക് ഡെലിയിൽ പറഞ്ഞു, ഭൂ-രാഷ്ട്രീയത്തിന്റെ അടിസ്ഥാനം വേഗത്തിൽ മാറിക്കൊണ്ടിരിക്കുകയാണ്. പ്രദേശത്തിലെ എല്ലാ ബന്ധങ്ങളും മെച്ചപ്പെടുമെന്ന് അദ്ദേഹം ചേർത്തു.",
-  "why": "പ്രദേശത്തിന്റെ ശാന്തി ഇന്ത്യൻ യുവാക്കൾക്ക് യാത്ര, പഠനം, ജോലി അവസരങ്ങൾ എന്നിവയിൽ സ്വാധീനം ചെലുത്താം. ഏത് നയ മാറ്റങ്ങളും വരുമ്പോൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "പാകിസ്താൻ",
-   "ഇന്ത്യ",
-   "ദൂതവ്യവഹാരം",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "ef31c7e593fb",
-  "created": "2026-11-20T20:10:56+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-active-choice-or-auto-choice-which-can-help-you-maximise-your-corpus-over-20-years-11795182131914.html",
-  "headline": "NPS: Active Choice അല്ലെങ്കിൽ Auto Choice, 35‑വയസ്സുകാരുടെ 20‑വർഷം കോർപ്പസ്",
-  "hook": "ഇപ്പോൾ ശരിയായ NPS മോഡ് തിരഞ്ഞെടുക്കുന്നത് നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ടിനെ വേഗത്തിൽ വളർത്താം.",
-  "what": "35 വയസ്സുള്ള NPS അംഗങ്ങൾക്ക് രണ്ട് ഓപ്ഷനുകൾ ഉണ്ട്: Active Choice, ഇത് ഇക്വിറ്റി പങ്ക് ഉയർന്ന നിലയിൽ നിലനിർത്തുന്നു, Auto Choice, ഇത് പ്രായം കൂടുന്തോറും അപകടം കുറയ്ക്കാൻ ആസ്തി വിന്യാസം മാറ്റുന്നു. ഈ തിരഞ്ഞെടുപ്പ് അടുത്ത ഇരുപത് വർഷങ്ങളിൽ നിങ്ങൾക്ക് ലഭിക്കാവുന്ന വിരമിക്കൽ തുകയെ ബാധിക്കും.",
-  "why": "ഇക്വിറ്റി കൂടുതൽ ഉള്ളത് നിക്ഷേപം വേഗത്തിൽ വളരാൻ സഹായിക്കാം, പക്ഷേ അപകടം കൂടും; Auto Choice സുരക്ഷിതത്വം നൽകുന്നു. നിങ്ങളുടെ അപകട സഹിഷ്ണുത വിലയിരുത്തി അനുയോജ്യമായ പ്ലാൻ തിരഞ്ഞെടുക്കുക.",
-  "tags": [
-   "NPS",
-   "വിരമിക്കൽ പദ്ധതികൾ",
-   "ഫിനാൻസ്",
-   "ജനറേഷൻ Z",
-   "നിക്ഷേപം"
-  ]
- },
- {
-  "id": "0d9cf2bcafdd",
-  "created": "2026-11-20T20:10:58+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-anti-narcotics-squad-pistol-training-ptib0rk07hn",
-  "headline": "കേരളം: മദ്യവിരുദ്ധ സംഘം പിസ്റ്റൾ പരിശീലനം, പോലീസ് ആക്രമണം വർധിച്ചു",
-  "hook": "പോലീസ് സുരക്ഷയ്ക്ക് കൂടുതൽ ആയുധ പരിശീലനം.",
-  "what": "സംസ്ഥാന സർക്കാർ, മദ്യവിരുദ്ധ വിഭാഗങ്ങൾക്ക് പ്രത്യേക പിസ്റ്റൾ കൈകാര്യം പരിശീലനം നൽകാൻ തീരുമാനിച്ചു. ഇത് സംസ്ഥാനത്ത് പോലീസ് ഉദ്യോഗസ്ഥർക്കുള്ള ആക്രമണങ്ങൾ വർധിച്ചതിന്റെ പ്രതികരണമാണ്.",
-  "why": "ഇത് ഉദ്യോഗസ്ഥരുടെ സുരക്ഷ ഉറപ്പാക്കാൻ, സമൂഹത്തിന്റെ സുരക്ഷ മെച്ചപ്പെടുത്താൻ സഹായിക്കും. യുവാക്കൾ നിയമം പാലിക്കുകയും സുരക്ഷാ നടപടികളിൽ സഹകരിക്കുകയും ചെയ്യണം.",
-  "tags": [
-   "കേരളം",
-   "പോലീസ്",
-   "സുരക്ഷ",
-   "യുവാക്കൾ"
   ]
  }
 ]

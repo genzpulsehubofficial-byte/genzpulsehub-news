@@ -1,0 +1,37 @@
+{
+ "id": "717d849dded5",
+ "created": "2026-11-21T03:53:41+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nuvera joins Polygon’s Open Money Stack for cross‑border payments",
+  "hook": "A US payments firm taps Polygon’s L2 tech to go global",
+  "what": "Nuvera, a US payments infrastructure provider, has become part of Polygon’s Open Money Stack. The partnership lets Nuvera use Polygon’s layer‑2 blockchain for international transactions.",
+  "why": "This could make cross‑border payments faster and cheaper, a benefit for young Indians using global services. Keep an eye on apps that might adopt this tech.",
+  "tags": [
+   "Polygon",
+   "Nuvera",
+   "crossborder",
+   "payments",
+   "blockchain"
+  ]
+ },
+ "ml": {
+  "headline": "Nuvera, Polygon‑ന്റെ Open Money Stack‑ലേക്ക് ചേർന്നു",
+  "hook": "US‑ലെ പേയ്മെന്റ് ഫർമിന്‌ L2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് ലോകവ്യാപകമായി ഇടപാട് ചെയ്യാം",
+  "what": "US‑യിലെ പേയ്മെന്റ് ഇൻഫ്രാസ്ട്രക്ചർ പ്രൊവൈഡർ Nuvera, Polygon‑ന്റെ Open Money Stack‑യുടെ ഭാഗമായി. ഇതിലൂടെ Nuvera, Polygon‑ന്റെ ലെയർ‑2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് അന്താരാഷ്ട്ര പേയ്മെന്റുകൾ നടത്തും.",
+  "why": "ഇത് ക്രോസ്‑ബോർഡർ ട്രാൻസാക്ഷനുകൾ വേഗത്തിലും ചെലവിലും കുറയ്ക്കാൻ സഹായിക്കും, ഗ്ലോബൽ സർവീസുകൾ ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് പ്രയോജനം. ഈ സാങ്കേതികത സ്വീകരിക്കുന്ന ആപ്പുകൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Polygon",
+   "Nuvera",
+   "crossborder",
+   "payments",
+   "blockchain"
+  ]
+ }
+}

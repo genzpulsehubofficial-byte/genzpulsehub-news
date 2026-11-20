@@ -1,0 +1,35 @@
+{
+ "id": "f38c81d64f98",
+ "created": "2026-11-21T03:53:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India Reaffirms Stance on Indus Waters Treaty, Criticises Pakistan",
+  "hook": "India tells Pakistan its IWT position is crystal clear.",
+  "what": "India said its view on the Indus Waters Treaty remains unchanged and unequivocal. The statement came amid ongoing disputes with Pakistan over water sharing.",
+  "why": "Young Indians should note the significance of water resources in regional stability and stay informed on cross‑border issues.",
+  "tags": [
+   "IndusWaters",
+   "IndiaPakistan",
+   "WaterTreaty",
+   "Geopolitics"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റി നിലപാട് ഉറപ്പിച്ചു, പാകിസ്താനിനെ വിമർശിച്ചു",
+  "hook": "ഇന്ത്യ പറയുന്നു, IWT‑ലെ അവരുടെ നിലപാട് പൂര്‍ണമായും വ്യക്തമാണ്.",
+  "what": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റിയിലുള്ള സ്ഥാനം മാറ്റമില്ലാതെ വ്യക്തമായി പ്രഖ്യാപിച്ചു. ഈ പ്രസ്താവന പാകിസ്താനുമായി ജലവിതരണത്തെക്കുറിച്ചുള്ള തർക്കങ്ങളുടെ പശ്ചാത്തലത്തിൽ വന്നതാണ്.",
+  "why": "വെള്ളം പോലുള്ള പ്രധാന വിഭവങ്ങളുടെ നിയന്ത്രണം പ്രദേശിക സ്ഥിരതയ്ക്ക് എത്ര പ്രധാനമാണെന്ന് യുവാക്കൾക്ക് അറിയാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "IndusWaters",
+   "IndiaPakistan",
+   "WaterTreaty",
+   "Geopolitics"
+  ]
+ }
+}
