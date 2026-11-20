@@ -1,0 +1,37 @@
+{
+ "id": "b38b5cdf2bdf",
+ "created": "2026-11-20T12:14:58+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU3hzaTA2VTZWYlhUMGRDVlUwS0FLa1RoUDJjam5RTDduX1Q5d29ueFd2Vkt3SENJNUZleWgteVNpYTN1eDhIX3l1Wll2MElJQ3M3VERMU2I4MC1oTWpXRk5WbXJVWG9nSDlyVHFGd21WeWJ0SmtVWjN0eGpDbG9LcUkzLThtSXNGb1hnTGlva3JxUkgybUZkSzU4R1JvS0FRNkVlNzV5WW9NV3l5YmVNMWZ2MlNTWVpQbUZ5ZXVsdGtfYlpLcC1vOXhabFZ2VDJJVGxlbUNrbmZaTFRHUDB0WDRaazhHZw?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court rejects Tamil Nadu's request for extra Cauvery water",
+  "hook": "The top court says Karnataka need not release more water now.",
+  "what": "The Supreme Court turned down Tamil Nadu's petition for an additional 11 TMC of Cauvery water from Karnataka. The plea was part of the long-running water‑sharing dispute between the two states.",
+  "why": "Water allocation impacts agriculture and daily life in both states, so the ruling could shape future talks. Stay aware of regional water policies.",
+  "tags": [
+   "Cauvery",
+   "SupremeCourt",
+   "TamilNadu",
+   "Karnataka",
+   "WaterDispute"
+  ]
+ },
+ "ml": {
+  "headline": "Supreme Court തമിഴ്നാട്ടിന്റെ കാവേരി വെള്ളം അഭ്യർത്ഥന നിരസിച്ചു",
+  "hook": "മുൻപ് ആവശ്യപ്പെട്ട 11 ടി.എം.സി. വെള്ളം ഇനി നൽകേണ്ടതില്ല എന്ന് കോടതി തീരുമാനിച്ചു",
+  "what": "Supreme Court തമിഴ്നാട്ടിന്റെ 11 ടി.എം.സി. കാവേരി വെള്ളം ലഭിക്കാൻ ഉള്ള അപേക്ഷ നിരസിച്ചു. ഇത് രണ്ട് സംസ്ഥാനങ്ങളിലുമുള്ള ദീർഘകാല ജലവിതരണ തർക്കത്തിന്റെ ഭാഗമാണ്.",
+  "why": "വെള്ളം വിതരണം കാർഷികം, ജീവിതം എന്നിവയെ ബാധിക്കുന്നതിനാൽ ഈ തീരുമാനം ഭാവി ചർച്ചകളെ സ്വാധീനിക്കും. പ്രദേശിക ജല നയങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "tags": [
+   "കാവേരി",
+   "സ supreമം കോടതി",
+   "തമിഴ്നാട്",
+   "കർണാടക",
+   "ജലവിവാദം"
+  ]
+ }
+}

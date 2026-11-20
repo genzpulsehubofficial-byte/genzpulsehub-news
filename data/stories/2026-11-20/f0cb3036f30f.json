@@ -1,0 +1,37 @@
+{
+ "id": "f0cb3036f30f",
+ "created": "2026-11-20T12:15:04+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/games/reviews/gta-6-impressions-ps5-rockstar-games-red-dead-redemption-2-12350252",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 launches on PS5 and Xbox Series consoles",
+  "hook": "The long‑awaited sequel finally hits next‑gen consoles.",
+  "what": "Rockstar released Grand Theft Auto VI for PlayStation 5, Xbox Series S and Series X. The game is now available for purchase and download on these platforms.",
+  "why": "Fans can start playing the newest open‑world adventure on their current consoles. Check your console’s store for pricing and any pre‑order bonuses.",
+  "tags": [
+   "GTA6",
+   "PS5",
+   "XboxSeries",
+   "Gaming",
+   "Rockstar"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6 PS5, Xbox Series‑കളിൽ പുറത്തിറങ്ങി",
+  "hook": "കാത്തിരുന്ന GTA 6 ഇപ്പോൾ നിങ്ങളുടെ അടുത്ത‑ജനറേഷൻ കൺസോളുകളിൽ",
+  "what": "റോക്ക്സ്റ്റാർ ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ VI PlayStation 5, Xbox Series S, Series X എന്നിവയ്ക്ക് റിലീസ് ചെയ്തു. ഈ ഗെയിം ഇപ്പോൾ ഈ പ്ലാറ്റ്ഫോംസ്‌ലെ സ്റ്റോറുകളിൽ വാങ്ങി ഡൗൺലോഡ് ചെയ്യാം.",
+  "why": "യുവജനങ്ങൾക്ക് പുതിയ ഓപ്പൺ‑വേൾഡ് അനുഭവം തത്സമയമായി ആസ്വദിക്കാൻ അവസരം. നിങ്ങളുടെ കൺസോൾ സ്റ്റോറിൽ വിലയും ബോണസുകളും പരിശോധിക്കുക.",
+  "tags": [
+   "GTA6",
+   "PS5",
+   "XboxSeries",
+   "Gaming",
+   "Rockstar"
+  ]
+ }
+}
