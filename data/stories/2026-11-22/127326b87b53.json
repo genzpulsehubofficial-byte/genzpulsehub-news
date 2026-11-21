@@ -1,0 +1,37 @@
+{
+ "id": "127326b87b53",
+ "created": "2026-11-22T02:44:01+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+ "source_count": 0,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia earnings clash with execs urging CEO comeback",
+  "hook": "Two very different views on Nvidia surface at once.",
+  "what": "Nvidia released its latest earnings report, showing one side of the story. At the same time, several tech executives are publicly demanding that Jensen Huang return to lead the company.",
+  "why": "The split signals uncertainty in the chip sector, so young investors should watch how the market reacts.",
+  "tags": [
+   "Nvidia",
+   "earnings",
+   "tech",
+   "CEO",
+   "market"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia earnings-നും execs-ന്റെ CEO തിരിച്ചു വരവിനുള്ള ആവശ്യമുമുള്ള വൈരുദ്ധ്യം",
+  "hook": "Nvidia‑നെക്കുറിച്ച് രണ്ട് വ്യത്യസ്ത കാഴ്ചപ്പാടുകൾ ഒരുമിച്ചു വരുന്നു.",
+  "what": "Nvidia തന്റെ ഏറ്റവും പുതിയ earnings report പുറത്തിറക്കി, ഒരു ഭാഗം കാണിച്ചു. അതേ സമയം, പല ടെക് execs-ും Jensen Huang-നെ തിരിച്ചെത്താൻ ആവശ്യപ്പെടുന്നു.",
+  "why": "ഈ വൈരുദ്ധ്യം ചിപ് മാർക്കറ്റിലെ അനിശ്ചിതത്വം സൂചിപ്പിക്കുന്നു, അതിനാൽ യുവ നിക്ഷേപകർ മാർക്കറ്റ് പ്രതികരണം ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "earnings",
+   "tech",
+   "CEO",
+   "market"
+  ]
+ }
+}

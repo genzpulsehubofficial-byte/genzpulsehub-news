@@ -1,0 +1,37 @@
+{
+ "id": "bab6d36485bb",
+ "created": "2026-11-22T02:44:07+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV Profit",
+ "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGRQZ3huUkNwYnlWX18xQkFhMGJZbEZuVm9IbDBtMnlHY1ROV1RZM08zQzNoano4dkZFZEVnVHhIbEFtcmdQOElBVjlyNUVsSWkzYVZDVk1qUDlCWk4weEhrOWxsaHZ6MmozSUFlUWtKdC03U05FNXBEQS1WTnFOVE5uak1pVG5wWkU1bXM4dUJZX0pKZzhZaTF1REExZnhvWnJWUk1kZ3JNem9zSGtCdm5EYW1sTWJLZm1HdnA2bVBDQUYxT0psRlp2MNIB0wFBVV95cUxQcTZhandZZ0RXMTlBOHRqNWFGMmxMZUtZNzF0eHp1NFZqdnl6YzVGNDA5MDVKSEhoYTl0LVkxeFVacFprMDZndEhPUXZiTWNuRThBNUotOW1FT25XV3hnVklsUDZpbGpSQ1Npcm1rbDRHbVBDTjV2MzFWdE4yVTdoUDNMV2ZnV05xYnZUeFoycXQ5TC11cC1jZWRndHFUUmJMb0IxdTV3a2E1YUU3eU9jZmUtc0tIcFlUNko5SVVoQ0tqYTVwTHkwTlU5X3RmNExJLW9Z?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Unions Push 4-Year Promotion Cap in 8th Pay Commission",
+  "hook": "Young workers could see faster career moves if the demand succeeds.",
+  "what": "The 8th Pay Commission, a year after its launch, faces union demands to limit the promotion waiting period to four years instead of the current twelve. Unions also want half of the dearness allowance merged into basic pay and a minimum pension of Rs 45,000.",
+  "why": "If adopted, these changes could speed up promotions and raise retirement income for government staff, influencing future job prospects for young aspirants.",
+  "tags": [
+   "paycommission",
+   "governmentjobs",
+   "pensions",
+   "promotion",
+   "uniondemands"
+  ]
+ },
+ "ml": {
+  "headline": "യൂണിയന്‍ 8‑ാം പേ കമ്മീഷന്‍ 4 വര്‍ഷ പ്രമോഷന്‍ പരിധി ആവശ്യപ്പെടുന്നു",
+  "hook": "വേഗത്തിലുള്ള പ്രമോഷന്‍ സാധ്യതയോടെ യുവ ഉദ്യോഗാര്‍ത്ഥികള്‍ക്ക് നേട്ടം",
+  "what": "8‑ാം പേ കമ്മീഷന്‍ ഒരു വര്‍ഷമായി പ്രവര്‍ത്തിക്കുന്നു, യൂണിയന്‍ അംഗങ്ങള്‍ പ്രമോഷന്‍ കാത്തിരിപ്പ് 12 വര്‍ഷത്തില്‍ നിന്ന് 4 വര്‍ഷമായി കുറയ്ക്കാന്‍ ആവശ്യപ്പെടുന്നു. കൂടാതെ 50 % ഡീ‑അര്‍നസ് അലവന്‍സ് അടിസ്ഥാന ശമ്പളത്തില്‍ ഉള്‍പ്പെടുത്താനും, കുറഞ്ഞത് Rs 45,000 പെന്‍ഷന്‍ ഉറപ്പാക്കാനും ആവശ്യമാണ്.",
+  "why": "ഇത് അംഗീകരിച്ചാല്‍ സര്‍ക്കാരിന്റെ ജോലികളില്‍ പ്രമോഷന്‍ വേഗം കൂടുകയും, വിരമിക്കല്‍ വരുമാനം വര്‍ധിക്കുകയും ചെയ്യും, അതുവഴി യുവജനങ്ങളുടെ കരിയര്‍ പദ്ധതികളില്‍ സ്വാധീനം ചെലുത്തും.",
+  "tags": [
+   "പേകമ്മീഷന്‍",
+   "സർക്കാരുജോലികള്‍",
+   "പെന്‍ഷന്‍",
+   "പ്രമോഷന്‍",
+   "യൂണിയന്‍"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "bada9c04309f",
+ "created": "2026-11-22T02:44:03+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Variety",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "‘Hunger Games: Sunrise on the Reaping’ pulls $56M debut",
+  "hook": "The latest Hunger Games spin‑off hits big numbers on opening day.",
+  "what": "The new film ‘Hunger Games: Sunrise on the Reaping’ earned $56 million in its opening. Variety reports a total opening of $120 million, placing it among the top‑four series openings. Critics note the movie stays within the familiar dystopian vibe.",
+  "why": "Strong box‑office numbers show the franchise still draws young audiences, indicating a good time to catch the film with friends. Keep an eye on release dates at nearby theatres.",
+  "tags": [
+   "HungerGames",
+   "BoxOffice",
+   "NewRelease",
+   "Movies",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "‘Hunger Games: Sunrise on the Reaping’ 56 മില്യണ്‍ ഡെബ്യൂ നേടി",
+  "hook": "പുതിയ ഹംഗര്‍ ഗെയിംസ് സ്പിന്‍‑ഓഫ് ആദ്യദിനം വലിയ വരുമാനം നേടി.",
+  "what": "‘Hunger Games: Sunrise on the Reaping’ എന്ന പുതിയ സിനിമയുടെ ആദ്യദിവസം 56 മില്യണ്‍ ഡോളര്‍ വരുമാനം നേടി. Variety പ്രകാരം ആകെ 120 മില്യണ്‍ ഡോളര്‍ വരുമാനത്തോടെ ഇത് നാലാമത്തെ മികച്ച സീരീസ് തുറക്കലായി. വിമര്‍ശകര്‍ സിനിമയുടെ ഡിസ്റ്റോപിയന്‍ അന്തരീക്ഷം നിലനിർത്തിയെന്ന് പറയുന്നു.",
+  "why": "ഇത്രയധികം വരുമാനം കാണിക്കുന്നത് യുവജനങ്ങള്‍ക്ക് ഈ ഫ്രാഞ്ചൈസ് ഇപ്പോഴും ആകര്‍ഷകമാണെന്ന് സൂചിപ്പിക്കുന്നു, അതിനാല്‍ സുഹൃത്തുക്കളുമായി സിനിമ കാണാന്‍ പ്ലാന്‍ ചെയ്യാം. അടുത്തുള്ള തിയേറ്ററുകളുടെ ഷെഡ്യൂള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "HungerGames",
+   "BoxOffice",
+   "NewRelease",
+   "Movies",
+   "GenZ"
+  ]
+ }
+}

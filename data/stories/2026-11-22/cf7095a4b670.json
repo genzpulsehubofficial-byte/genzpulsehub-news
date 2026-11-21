@@ -1,0 +1,37 @@
+{
+ "id": "cf7095a4b670",
+ "created": "2026-11-22T02:44:00+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRWFmbUtaYWNQZk8xemcwSVlyM1c4OWg2T1lyaFMtbVhpS2tKRGNJWnVMMHBROUd6OUpWYkZXVzBUb3NuV09QeVRMSG9NR2pFOWlBVGdjNzViWXFVVXd1bTJCbm1rQzQxdFVPU2puNnN6MnZRaFRVN2p5Q0F6d0Q2c0UxNjRYLTlLdjlaR2hBM3BCaUNiU3h2em45ZHVCQmliVzBiOC1VTU5GN3pLM2tROVJnRzc1SFVUclc5VjJoY1BPUC1HWVl6T0NXc1owSVVBQTNqUUIxU3Fya2p4bFdNdXZ5TWg5LURUd2N5dDJpSG5NRlctU2E4b2xRaFJqYk91V3ZjOHlYSjVXcFHSAZACQVVfeXFMTTRzSlg5MDNjcV9DTllTT2J0YTFWWXo5R1dLWWYxVnV0ZE5COEU3NUZ1MVBnTlN0LUJqTFdVcjRrclEtbHpaXzhHWHp3cjdLMDI1OW1GSnRSeWdyTW5sRHViekRuUU9SOHUxZEN1T3I2ekMtTDRUTlFSd19mbDc3UFE3bWJ5ZWwyVHdKTEZ0T2ItRTVfWFNIOVpaRU5UWUNXWlN2aUFvaTlCV3BIUEVzY21tVjBNa3JHVFR4Y3hfZzl2RjdmYUgzVnhEUTJQTzR2M3RlNUdFNjRvaWZveGNsdS1zbkVFRS1YbFU2dmU0SmNNMXhwb2dPdTZUSWZ6N3JMSjBocDJZaWpUaGdKbUZnQmg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Six 50-inch TVs to Turn Your Living Room into a Mini-Cinema",
+  "hook": "Upgrade your binge nights with a big-screen pick",
+  "what": "A recent guide lists six 50‑inch televisions that can give a home viewing experience similar to a cinema. The selection focuses on models that balance size, picture quality and price.",
+  "why": "A good TV can boost movie marathons and gaming sessions without a theater visit. Teens can compare the options to find a budget‑friendly upgrade.",
+  "tags": [
+   "TV",
+   "Tech",
+   "HomeCinema",
+   "50Inch",
+   "Gadgets"
+  ]
+ },
+ "ml": {
+  "headline": "നിങ്ങളുടെ ലിവിംഗ് റൂമിനെ മിനി‑സിനമാക്കാൻ 6 50‑ഇഞ്ച് ടി.വി.കൾ",
+  "hook": "വീട്ടിലെ ബിംജ് നൈറ്റ്‌സ്‌ക്ക് വലിയ സ്‌ക്രീൻ അപ്ഗ്രേഡ് ചെയ്യൂ",
+  "what": "ഒരു പുതിയ ഗൈഡ് 50‑ഇഞ്ച് വലുപ്പമുള്ള ആറു ടി.വി മോഡലുകൾ ശുപാർശ ചെയ്യുന്നു, ഇവ സിനിമാ പോലുള്ള വീക്ഷണാനുഭവം നൽകുന്നു. ഈ മോഡലുകൾ വലുപ്പം, ചിത്ര ഗുണം, വില എന്നിവയുടെ സമതുലിതം നോക്കിയാണ് തിരഞ്ഞെടുത്തത്.",
+  "why": "നല്ല ടി.വി മൂവീസ്, ഗെയിംസ് എന്നിവയുടെ ആസ്വാദനം മെച്ചപ്പെടുത്തും, സിനിമാ ഹാളിലേക്ക് പോകേണ്ടതില്ല. യുവാക്കൾ ഈ പട്ടികയിൽ നിന്ന് തങ്ങള്ക്ക് അനുയോജ്യമായ ബജറ്റ് മോഡൽ തിരഞ്ഞെടുക്കാം.",
+  "tags": [
+   "ടി.വി",
+   "ടെക്",
+   "ഹോംസിനമ",
+   "50ഇഞ്ച്",
+   "ഗാഡ്ജറ്റ്സ്"
+  ]
+ }
+}
