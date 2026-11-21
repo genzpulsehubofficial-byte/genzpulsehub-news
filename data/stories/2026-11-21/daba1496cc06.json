@@ -1,0 +1,35 @@
+{
+ "id": "daba1496cc06",
+ "created": "2026-11-21T17:30:46+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/kozhikode-diet-launches-munnettu-to-bridge-academic-gap-among-tribal-students/article71727687.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kozhikode DIET launches Munnettu for tribal students",
+  "hook": "A new scheme aims to close learning gaps for tribal kids.",
+  "what": "Kozhikode DIET introduced the Munnettu programme targeting tribal students. Action plans are being prepared and carried out to raise the quality of their schooling and to get them involved in non‑academic activities.",
+  "why": "Improving education for tribal youth can open better opportunities and support inclusive growth. Stay aware of such local initiatives and encourage participation.",
+  "tags": [
+   "Kozhikode",
+   "TribalEducation",
+   "Munnettu",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "കോഴിക്കോട് DIET ട്രൈബല്‍ വിദ്യാർത്ഥികൾക്കായി മുന്നേറ്റ് ആരംഭിച്ചു",
+  "hook": "ട്രൈബല്‍ കുട്ടികളിലെ പഠനവ്യത്യാസം കുറയ്ക്കാൻ പുതിയ പദ്ധതി.",
+  "what": "കോഴിക്കോട് DIET ട്രൈബല്‍ വിദ്യാർത്ഥികളെ ലക്ഷ്യമാക്കി മുന്നേറ്റ് എന്ന പദ്ധതി ആരംഭിച്ചു. വിദ്യാഭ്യാസത്തിന്റെ ഗുണനിലവാരം ഉയർത്താനും അകാദമിക് അല്ലാത്ത പ്രവർത്തനങ്ങളിൽ പങ്കെടുപ്പിക്കാനും പ്രവർത്തനപദ്ധതികൾ രൂപപ്പെടുത്തുകയും നടപ്പിലാക്കുകയും ചെയ്യുന്നു.",
+  "why": "ട്രൈബല്‍ യുവാക്കൾക്ക് മെച്ചപ്പെട്ട അവസരങ്ങൾ ലഭിക്കാൻ വിദ്യാഭ്യാസം മെച്ചപ്പെടുത്തുന്നത് പ്രധാനമാണ്. ഇത്തരം പ്രാദേശിക പദ്ധതികളെക്കുറിച്ച് അറിഞ്ഞ് പങ്കാളിത്തം പ്രോത്സാഹിപ്പിക്കുക.",
+  "tags": [
+   "കോഴിക്കോട്",
+   "ജനവിഭാഗം",
+   "മുന്നേറ്റ്",
+   "കേരളം"
+  ]
+ }
+}

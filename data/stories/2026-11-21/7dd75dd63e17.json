@@ -1,0 +1,37 @@
+{
+ "id": "7dd75dd63e17",
+ "created": "2026-11-21T17:30:52+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Fi Money trims FY26 loss by 25%, revenue falls 21%",
+  "hook": "Fintech’s profit dip shows challenges for young investors.",
+  "what": "Fintech startup Fi Money said its consolidated net loss for FY26 dropped 25%, now standing at ₹153.3 crore. At the same time, its revenue slipped by 21% compared with the prior period.",
+  "why": "The slowdown highlights tougher conditions for digital finance firms, which could influence job prospects and investment choices for Gen Z. Keep an eye on fintech trends if you’re eyeing a career or investments in this space.",
+  "tags": [
+   "Fintech",
+   "LossReduction",
+   "RevenueDrop",
+   "Startup",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Fi Money FY26 നഷ്ടം 25% കുറച്ചു, വരുമാനം 21% ഇടിഞ്ഞു",
+  "hook": "ഡിജിറ്റൽ ഫിനാൻസ് മേഖലയിലെ ഈ ഇടിവ് യുവ നിക്ഷേപകരെ ബാധിക്കും.",
+  "what": "Fintech സ്റ്റാർട്ടപ്പ് Fi Money FY26-ലെ സംയോജിത നെറ്റ് നഷ്ടം 25% കുറച്ച് ₹153.3 കോടി ആയി. അതേ സമയം, വരുമാനം 21% കുറഞ്ഞു.",
+  "why": "ഇത് ഡിജിറ്റൽ ഫിനാൻസ് കമ്പനികളുടെ മാർക്കറ്റ് സമ്മർദ്ദം കാണിക്കുന്നു, ജോലിയും നിക്ഷേപവും ആലോചിക്കുന്ന യുവാക്കൾക്ക് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "Fintech",
+   "LossReduction",
+   "RevenueDrop",
+   "Startup",
+   "India"
+  ]
+ }
+}

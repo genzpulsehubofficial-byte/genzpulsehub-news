@@ -1,0 +1,35 @@
+{
+ "id": "0e11ef33f9c2",
+ "created": "2026-11-21T17:30:50+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Washington Post",
+ "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Teens eager for GTA 6, parents face a choice",
+  "hook": "Your kid’s next game could be a family discussion.",
+  "what": "Many teenagers are asking to play Grand Theft Auto 6. Parents are being asked to decide whether to allow it. A school organized a drawing contest to urge students not to miss classes for the game.",
+  "why": "Understanding the debate helps families set clear rules about gaming time and school priorities.",
+  "tags": [
+   "gaming",
+   "parents",
+   "teens",
+   "GTA6"
+  ]
+ },
+ "ml": {
+  "headline": "ടീന്‍സ്‌ GTA 6 കളിക്കാൻ ആഗ്രഹം, മാതാപിതാക്കൾക്ക് തീരുമാനമുണ്ട്",
+  "hook": "നിങ്ങളുടെ കുട്ടിയുടെ അടുത്ത ഗെയിം കുടുംബ ചർച്ചക്ക് കാരണമാകാം.",
+  "what": "പല കൗമാരക്കാരും ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ 6 കളിക്കാൻ ആഗ്രഹിക്കുന്നു. ഇതിനെക്കുറിച്ച് മാതാപിതാക്കൾക്ക് തീരുമാനമെടുക്കേണ്ടി വരുന്നു. ഒരു സ്കൂൾ, ഗെയിമിനായി ക്ലാസുകൾ ഒഴിവാക്കാതിരിക്കാൻ വിദ്യാർത്ഥികളെ പ്രോത്സാഹിപ്പിക്കാൻ വരയ്ക്കൽ മത്സരമൊരുക്കി.",
+  "why": "ഗെയിമിംഗ് സമയം, പഠന മുൻഗണനകൾ എന്നിവയിൽ കുടുംബം വ്യക്തമായ മാർഗ്ഗനിർദ്ദേശം നിശ്ചയിക്കാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "gaming",
+   "parents",
+   "teens",
+   "GTA6"
+  ]
+ }
+}

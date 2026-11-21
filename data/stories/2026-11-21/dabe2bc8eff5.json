@@ -1,0 +1,37 @@
+{
+ "id": "dabe2bc8eff5",
+ "created": "2026-11-21T17:30:37+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/itat-bangalore-relief-to-businessman-in-rs-12-crore-tax-case-why-income-tax-departments-seizure-failed-11795257680485.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT rules seized cash counts as business income in ₹12 cr case",
+  "hook": "Tax tribunal's decision could change how seized money is taxed.",
+  "what": "The Income Tax Appellate Tribunal in Bangalore decided that cash seized by the tax department in a ₹12 crore case will be treated as business income. The ruling applies to the businessman involved in the case.",
+  "why": "It sets a precedent for future tax seizures, affecting how young entrepreneurs may be taxed on seized assets. Stay aware of tax implications.",
+  "tags": [
+   "tax",
+   "ITAT",
+   "business",
+   "finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT നിശ്ചയിച്ചു, പിടിച്ച പണം ബിസിനസ് വരുമാനമായി ₹12 കോടി കേസില്‍",
+  "hook": "നികുതി ട്രിബ്യൂണലിന്റെ തീരുമാനം പിടിച്ച പണത്തിന്റെ നികുതിയെ ബാധിക്കും.",
+  "what": "ബെംഗളൂരുവിലെ Income Tax Appellate Tribunal, നികുതി വകുപ്പ് 12 കോടി കേസില്‍ പിടിച്ച പണം ബിസിനസ് വരുമാനമായി കണക്കാക്കുമെന്ന് തീരുമാനിച്ചു. ഈ വിധി ബന്ധപ്പെട്ട ബിസിനസുകാരന്‍ ബാധകമാണ്.",
+  "why": "ഇത് ഭാവിയിലെ നികുതി പിടിച്ചെടുക്കലുകൾക്ക് മുൻകൂർ ഉദാഹരണമായി, യുവ സംരംഭകരുടെ നികുതി ബാധ്യതയെ ബാധിക്കാം. നികുതി നിയമങ്ങളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക.",
+  "tags": [
+   "tax",
+   "ITAT",
+   "business",
+   "finance",
+   "India"
+  ]
+ }
+}

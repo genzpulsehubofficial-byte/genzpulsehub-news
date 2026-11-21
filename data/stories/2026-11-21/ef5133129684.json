@@ -1,0 +1,37 @@
+{
+ "id": "ef5133129684",
+ "created": "2026-11-21T17:30:42+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/yogi-adityanath-s-mother-last-rites-performed-in-haridwar-s-chandi-ghat-leaders-pay-tribute-101795257107179.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Yogi Adityanath’s mother’s funeral held in Haridwar",
+  "hook": "Prime Minister reaches out as the chief minister mourns his loss.",
+  "what": "The final rites for the mother of Uttar Pradesh chief minister Yogi Adityanath were performed at Chandi Ghat in Haridwar. Several political leaders attended and paid their respects. Prime Minister Narendra Modi called Yogi to convey his condolences.",
+  "why": "The ceremony shows the personal side of public leaders, reminding young Indians that politicians also face family tragedies. Staying aware of such events helps understand the human dimension of governance.",
+  "tags": [
+   "politics",
+   "UttarPradesh",
+   "Haridwar",
+   "YogiAdityanath",
+   "condolences"
+  ]
+ },
+ "ml": {
+  "headline": "യോഗി അദിത്യാനാഥിന്റെ അമ്മയുടെ അന്തിമ ക്രിയകൾ ഹരിദ്വാരിൽ",
+  "hook": "പ്രധാനമന്ത്രിയുടെ ആശ്വസനം, मुख्यमंत्रीയുടെ നഷ്ടത്തിൽ എല്ലാവരും ഒന്നിച്ചു.",
+  "what": "ഉത്തരപ്രദേശ് മോഡി-മന്ത്രിയുടെ അമ്മയുടെ അന്തിമസംസ്കാരം ഹരിദ്വാരിലെ ചാണ്ടി ഘാട്ടിൽ നടന്നു. നിരവധി നേതാക്കൾ പങ്കെടുത്ത് സ്മരണകൾ അർപ്പിച്ചു. പ്രധാനമന്ത്രിയായ നരേന്ദ്ര മോഡി യോഗിയോട് ഫോൺ ചെയ്ത് അനുശോചനം അറിയിച്ചു.",
+  "why": "രാഷ്ട്രീയ നേതാക്കളുടെ വ്യക്തിഗത ജീവിതം കാണുന്നത് യുവജനങ്ങൾക്ക് മനുഷ്യവശം മനസ്സിലാക്കാൻ സഹായിക്കുന്നു. ഇത്തരത്തിലുള്ള വാർത്തകൾ അറിയുന്നത് സമൂഹത്തെക്കുറിച്ചുള്ള ബോധം വർദ്ധിപ്പിക്കും.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "ഉത്തരപ്രദേശ്",
+   "ഹരിദ്വാർ",
+   "യോഗി അദിത്യാനാഥ്",
+   "അനുശോചനം"
+  ]
+ }
+}

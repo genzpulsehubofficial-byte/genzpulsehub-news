@@ -1,0 +1,37 @@
+{
+ "id": "ffb1a68e01aa",
+ "created": "2026-11-21T17:30:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Gujarat Samachar",
+ "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON2ZPZ0lsdmRQUjFVeF9iWU1aU1FhMndQb28tUU9QVmQ2dnFhRWZsVldVMTFFTTNaZndOckhYMHVSbmEzRm9ZZXQ2SFA3NVZZVWR0WVhTUFVZMUpwdkV5ekJjQThWOEJZblBCVXQ1LTZveTNfdGYxV180eVZvZXBaZ3Y3S2hoM0xFTG5tcFdPd0pmY2VkUGpyaFEwdzJ1c0tpY09KNnFFQndEY2RMVi0tN2xUT19YNUhGZnhsakY3NkRxUVozbHZpOEJHbmtEbzI0X0Rkd2Rn?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gandhinagar farmer loses 10.61 lakh in UPI hack",
+  "hook": "A simple phone hack wiped out a farmer’s savings.",
+  "what": "A farmer from Gandhinagar said his mobile was hacked, leading to unauthorized UPI transactions that totalled ₹10.61 lakh. The fraudsters used the phone’s payment apps to move the money.",
+  "why": "It shows how vulnerable anyone using UPI can be if their phone isn’t secured. Young users should protect devices with strong passwords and enable two‑factor authentication.",
+  "tags": [
+   "UPI",
+   "fraud",
+   "mobilehack",
+   "financialrisk",
+   "Gandhinagar"
+  ]
+ },
+ "ml": {
+  "headline": "ഗાંધીનગરയിലെ കർഷകനു 10.61 ലക്ഷം UPI തട്ടിൽ നഷ്ടം",
+  "hook": "ഒരു ഫോണിന്റെ ഹാക്ക് കൊണ്ട് കർഷകന്റെ സേവിംഗ്സ്‌ മുഴുവൻ പോയി.",
+  "what": "ഗાંધીનગરയിലെ ഒരു കർഷകൻ തന്റെ മൊബൈൽ ഹാക്ക് ചെയ്യപ്പെട്ടതോടെ, അനധികൃത UPI ഇടപാടുകൾ വഴി ₹10.61 ലക്ഷം നഷ്ടപ്പെട്ടു. ഹാക്കർമാർ ഫോണിലെ പേയ്‌മെന്റ് ആപ്പുകൾ ഉപയോഗിച്ച് പണം കൈമാറി.",
+  "why": "ഡിജിറ്റൽ പേയ്‌മെന്റ് ഉപയോഗിക്കുന്ന എല്ലാവർക്കും ഫോണിന്റെ സുരക്ഷ പ്രധാനമാണെന്ന് ഇത് കാണിക്കുന്നു. ശക്തമായ പാസ്‌വേഡ്, രണ്ട് ഘട്ടം ഓത്തന്റിക്കേഷൻ തുടങ്ങിയവ ഉപയോഗിച്ച് അപകടം കുറയ്ക്കാം.",
+  "tags": [
+   "UPI",
+   "തട്ടിപ്പ്",
+   "മൊബൈൽഹാക്ക്",
+   "പണം",
+   "ഗાંધીનગર"
+  ]
+ }
+}
