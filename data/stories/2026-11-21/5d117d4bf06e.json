@@ -1,0 +1,37 @@
+{
+ "id": "5d117d4bf06e",
+ "created": "2026-11-21T05:35:31+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/new-york-mayor-zohran-mamdani-injured-in-soccer-match-against-journalists-12356488#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "NYC mayor tears Achilles in casual soccer game",
+  "hook": "Even city leaders can get sidelined on the field.",
+  "what": "New York City Mayor Zohran Mamdani said he tore his Achilles tendon while playing a pickup soccer match. The injury happened during a game with journalists.",
+  "why": "It shows that sudden injuries can happen in informal sports, reminding teens to warm up and play safely.",
+  "tags": [
+   "NYC",
+   "soccer",
+   "injury",
+   "Achilles",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "NYC മേയർ സോക്കർ കളിയിൽ ആച്ചിലീസ് മുറിഞ്ഞു",
+  "hook": "പത്രപ്രവർത്തകരോടുള്ള കളിയിലും നേതാക്കൾക്ക് പരിക്ക് വരാം.",
+  "what": "ന്യൂയോർക്ക് സിറ്റി മേയർ സോഹ്രാൻ മമ്ദാനി ഒരു പിക്കപ്പ് സോക്കർ മാച്ചിൽ ആച്ചിലീസ് ടെണ്ടൺ മുറിഞ്ഞതായി വെളിപ്പെടുത്തി. ഈ പരിക്ക് പത്രപ്രവർത്തകരോടുള്ള കളിയിൽ സംഭവിച്ചു.",
+  "why": "അപ്രതീക്ഷിതമായ പരിക്കുകൾ സാധാരണ കളികളിലും സംഭവിക്കാമെന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ യുവാക്കൾക്ക് ശരിയായ വാർമപ്പ്, സുരക്ഷിതമായ കളി രീതികൾ പാലിക്കാൻ നിർദ്ദേശം.",
+  "tags": [
+   "NYC",
+   "സോക്കർ",
+   "പരിക്ക്",
+   "ആച്ചിലീസ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

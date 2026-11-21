@@ -1,0 +1,37 @@
+{
+ "id": "48e813bfa020",
+ "created": "2026-11-21T05:36:37+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricinfo",
+ "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU55NTZmZlBQN2stamluemNRSGlySU5KWEJTU3pmblB2ZmkydE4xN3pWdUlOSHhFVW1yMThYOVJBUWh3eHhXdkdtSFRoTlVDZXJ5T1p2TWhpdmQwTWozMHNXcjJaVk9CZWRtdENNT1F4dUY1RXJCUVliaHNnU0cwWE5mRUNobHRNV2R0MDdtdk8zSUZ0Zy1idHJibGVRX3VBb0o1dXNKRzhzNTY0M1hlVzNHYmZjZ3BMd21MTEJlVW81RkxTTWVMZ0RVaE_SAd4BQVVfeXFMTllqUDJqV2F1U2QxM2w5VkNwOXUtNFhGZGM2blZJR3pCVHpNZ0ZWa2JtUDhaUHNjbDJPMUZRRElEOU9DVVR5WEdUbWRuZmpVQ3FNcmFrUmtlNnItZWMzZXdXSVJmMEtDcWt4RUY3YTFNY1otczRVb2RuY0ZiRmt1MmRvd2k3bEZXNnJySTYzUHN0bFRMUFBzTWlBUWFEQ1lFckhjay1NTHByWExJOEc0M0NGSHdIMkh6bXdmYnNWNVFZam1fVEpJcHZVY3dXUlBxWi1JUlJmVVZyM2laNXV3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Hazlewood defends Cummins, denies knowing ball‑tampering",
+  "hook": "Australia’s star bowler stands by the skipper amid scandal.",
+  "what": "Josh Hazlewood said he had no idea about the sandpaper incident and called Pat Cummins a great leader. He urged that Cummins should stay on as Test captain despite the criticism.",
+  "why": "It shows how teammates can back each other in tough times, a lesson for young fans about loyalty and leadership.",
+  "tags": [
+   "cricket",
+   "Australia",
+   "leadership",
+   "balltampering",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "Hazlewood Cummins‑നെ സംരക്ഷിച്ചു, ബോൾ തട്ടിപ്പ് അറിയില്ലെന്ന്",
+  "hook": "ഓസ്‌ട്രേലിയയുടെ പ്രധാന ബൗളർ സ്കാൻഡലിൽ ക്യാപ്റ്റനെ പിന്തുണക്കുന്നു.",
+  "what": "Josh Hazlewood പറഞ്ഞു, സാൻഡ്‌പേപ്പർ സംഭവത്തെക്കുറിച്ച് അവന്‍ അറിവില്ല, Pat Cummins‑നെ മികച്ച നേതാവെന്ന്. വിമർശനങ്ങളുണ്ടെങ്കിലും Cummins‑നെ ടെസ്റ്റ് ക്യാപ്റ്റൻ ആയി തുടരാൻ അവന്‍ അഭ്യർത്ഥിച്ചു.",
+  "why": "ഇത് യുവാക്കൾക്ക് ടീം അംഗങ്ങൾ എങ്ങനെ പരസ്പരം പിന്തുണയ്ക്കുന്നു എന്ന് കാണിക്കുന്നു, നേതാക്കളെ വിശ്വസിക്കാൻ പ്രോത്സാഹനം നൽകുന്നു.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഓസ്‌ട്രേലിയ",
+   "നേതൃത്വം",
+   "ബോൾതട്ടിപ്പ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

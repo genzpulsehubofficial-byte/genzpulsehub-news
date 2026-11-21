@@ -1,0 +1,37 @@
+{
+ "id": "e5d9506c688a",
+ "created": "2026-11-21T05:36:40+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "GSMArena.com",
+ "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTdtQjl2T0Y3NUJ6RDAzeEN3MkJJX0o1TFBiRWpfWWpNbFU5NXhZU0VVaHc5U2t3RnNkX2EyUTk1UnFPa28wcTFDeDV6c0JJVDE5emVvd3N2SnQySTNkVnVxbUlwWUFhTmpCemF1NUVnM0RJZ3dlMU1tVmNXR215NWpjUnVTX1o3Tm8ycnZ0YzdNOGE5Q2NLM295UEZLdHZ3bUlQVVF3b1hwN3lsbDZvZXA1Nkg4alp3cVFES1pJWENzQdIBvgFBVV95cUxNdmNnQ1lOLU0zQXBRRGF5RFVUSWQ4SVJzbEpfT204ZU8weUJzNEVfZWs3VHoxaERCZ1NDaU4zVXhtSkhlSlJxZGk5QU5keHVHbVM3OVFIM3NEcXd2T0haLXc5SGV6ZTV2REtFT3VXVkktWnJDX0hpbXV2ejBnSHBJX2tiM2VHYlNCSlRfU002WnFoVU9FQmhhdmxhVU9MbnBlZTU2ZEdNSHJJZnRZclkxZVAwU2lpRGZiQlZaV3VB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Galaxy S27 Pro's Exynos 2700 benchmarked against Snapdragon",
+  "hook": "Samsung tests its new chip to see how it measures up.",
+  "what": "Samsung ran the Geekbench suite on the Exynos 2700 processor inside the Galaxy S27 Pro. The scores were then compared with those of the Snapdragon chip used in other devices.",
+  "why": "Performance gaps can affect gaming and app speed, so checking benchmarks helps when picking a phone.",
+  "tags": [
+   "Galaxy",
+   "Exynos",
+   "Snapdragon",
+   "Benchmark",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "Galaxy S27 Pro‑യുടെ Exynos 2700‑ന്‍ Geekbench ഫലങ്ങൾ Snapdragon‑നൊപ്പം",
+  "hook": "Samsung പുതിയ ചിപ്പ് പരീക്ഷിച്ച്, അതിന്റെ പ്രകടനം പരിശോധിച്ചു.",
+  "what": "Samsung Galaxy S27 Pro‑യിലെ Exynos 2700 പ്രോസസറിന് Geekbench ടെസ്റ്റ് നടത്തി. അതിന്റെ സ്കോർ Snapdragon ചിപ്പുമായി താരതമ്യം ചെയ്തു.",
+  "why": "ഗെയിമിംഗ്, ആപ്പ് വേഗത എന്നിവയിൽ പ്രകടന വ്യത്യാസം ബാധിക്കും, അതിനാൽ ഫോൺ തിരഞ്ഞെടുക്കുമ്പോൾ ബെഞ്ച്മാർക്ക് നോക്കണം.",
+  "tags": [
+   "Galaxy",
+   "Exynos",
+   "Snapdragon",
+   "Benchmark",
+   "Tech"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "c823c206cced",
+ "created": "2026-11-21T05:34:45+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epf-swp-vs-mutual-fund-swp-how-do-systematic-withdrawals-work-differently-returns-liquidity-key-rules-compared-11795168695281.html",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "EPFO Launches Systematic Withdrawal Plan for Retiring Members",
+  "hook": "Retirement payouts just got a brand-new option with EPFO's latest withdrawal facility.",
+  "what": "EPFO has introduced a Systematic Withdrawal Plan for members who are retiring. This option enables people to withdraw money in periodic instalments. Meanwhile, the remaining balance left in the account continues to earn interest.",
+  "why": "Understanding how retirement systems handle payouts helps you learn about long-term savings structures and money management.",
+  "tags": [
+   "epfo",
+   "swp",
+   "money",
+   "savings"
+  ]
+ },
+ "ml": {
+  "headline": "വിരമിക്കുന്നവർക്കായി EPFO പുതിയ സിസ്റ്റമാറ്റിക് വിത്ത്ഡ്രോവൽ പ്ലാൻ അവതരിപ്പിച്ചു",
+  "hook": "വിരമിച്ച ശേഷവും കൃത്യമായ ഇടവേളകളിൽ പണം പിൻവലിക്കാൻ പുതിയ സൗകര്യവുമായി EPFO.",
+  "what": "വിരമിക്കുന്ന അംഗങ്ങൾക്കായി EPFO സിസ്റ്റമാറ്റിക് വിത്ത്ഡ്രോവൽ പ്ലാൻ ആരംഭിച്ചു. ഇതനുസരിച്ച് കൃത്യമായ ഇടവേളകളിൽ അക്കൗണ്ടിൽ നിന്നും പണം പിൻവലിക്കാം. ബാക്കിവരുന്ന തുകയ്ക്ക് തുടർന്നും പലിശ ലഭിക്കും.",
+  "why": "വിരമിക്കൽ സമ്പാദ്യ രീതികളെക്കുറിച്ചും ദീർഘകാല നിക്ഷേപങ്ങളെക്കുറിച്ചും നേരത്തെ മനസ്സിലാക്കാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "EPFO",
+   "SWP",
+   "നിക്ഷേപം",
+   "പണം"
+  ]
+ }
+}

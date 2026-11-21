@@ -1,0 +1,37 @@
+{
+ "id": "2d4ee3fd8cc7",
+ "created": "2026-11-21T05:36:35+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/austrian-foreign-ministry-says-its-website-was-hacked-staff-details-viewed-12356872#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Austrian Foreign Ministry website hacked, staff data exposed",
+  "hook": "Your personal info could be at risk online.",
+  "what": "The Austrian foreign ministry confirmed that its website was breached, allowing access to employee details. The intrusion was discovered on November 13 and was shut down right away.",
+  "why": "It highlights the importance of strong online security, reminding Indian teens to protect their own data and stay alert to cyber threats.",
+  "tags": [
+   "cybersecurity",
+   "data breach",
+   "tech",
+   "online safety",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഓസ്ട്രിയൻ വിദേശ മന്ത്രാലയ വെബ്സൈറ്റ് ഹാക്ക്, സ്റ്റാഫ് ഡാറ്റ പുറത്ത്",
+  "hook": "ഓൺലൈനിൽ നിങ്ങളുടെ വ്യക്തിഗത വിവരങ്ങൾ അപകടത്തിൽ.",
+  "what": "ഓസ്ട്രിയൻ വിദേശ മന്ത്രാലയം വെബ്സൈറ്റ് ഹാക്ക് ചെയ്യപ്പെട്ടതാണെന്ന് സ്ഥിരീകരിച്ചു, ജീവനക്കാരുടെ വിവരങ്ങൾ കാണാൻ കഴിയുകയായിരുന്നു. നവംബർ 13-ന് ഹാക്ക് കണ്ടെത്തി ഉടൻ തന്നെ തടഞ്ഞു.",
+  "why": "ഇത് സൈബർ സുരക്ഷയുടെ പ്രാധാന്യം കാണിക്കുന്നു; ഇന്ത്യൻ യുവാക്കൾക്ക് സ്വന്തം ഡാറ്റ സംരക്ഷിക്കാൻ, സൈബർ ഭീഷണികളിൽ ജാഗ്രത പാലിക്കാൻ നിർദ്ദേശിക്കുന്നു.",
+  "tags": [
+   "സൈബർസെക്യൂരിറ്റി",
+   "ഡാറ്റബ്രീച്ച്",
+   "ടെക്",
+   "ഓൺലൈൻസേഫ്റ്റി",
+   "യുവാക്കൾ"
+  ]
+ }
+}
