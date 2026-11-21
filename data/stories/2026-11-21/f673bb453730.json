@@ -1,0 +1,37 @@
+{
+ "id": "f673bb453730",
+ "created": "2026-11-21T13:12:51+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/silver-rate-today-in-india-latest-prices-in-delhi-mumbai-chennai-and-other-cities-after-a-sharp-bullion-market-crash-11795243551283.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Silver Prices Plunge Over 60% Since January",
+  "hook": "The metal that once shone is now cheap.",
+  "what": "Silver’s market price has fallen more than 60% from its January high, according to the latest data on 21 November. Prices are listed per kilogram and per 100 grams for major Indian cities such as Delhi, Mumbai, Chennai and Kolkata.",
+  "why": "A steep drop may affect anyone considering silver as an investment or a purchase, so young buyers should compare current rates before deciding.",
+  "tags": [
+   "silver",
+   "prices",
+   "investment",
+   "india",
+   "markets"
+  ]
+ },
+ "ml": {
+  "headline": "ജനുവരി മുതൽ വെള്ളി വില 60%-ക്കു മുകളിൽ ഇടിഞ്ഞു",
+  "hook": "മുന്‍ ചൂണ്ടി കിടക്കുന്ന വെള്ളി ഇപ്പോൾ വില കുറഞ്ഞു.",
+  "what": "21 നവംബർ ലഭ്യമായ ഡാറ്റ പ്രകാരം, വെള്ളിയുടെ വില ജനുവരി ഉയർന്നതിൽ നിന്ന് 60%-ത്തിലധികം ഇടിഞ്ഞു. ഡെലീ, മുംബൈ, ചെന്നൈ, കൊൽക്കത്ത തുടങ്ങിയ നഗരങ്ങളിലെ കിലോഗ്രാമും 100 ഗ്രാം വിലകളും പട്ടികയിൽ കാണാം.",
+  "why": "വെള്ളി നിക്ഷേപം അല്ലെങ്കിൽ വാങ്ങൽ ആലോചിക്കുന്നവർക്കു ഈ വലിയ ഇടിവ് ശ്രദ്ധിക്കേണ്ടതാണ്; നിലവിലെ വിലകൾ താരതമ്യം ചെയ്ത് തീരുമാനം എടുക്കുക.",
+  "tags": [
+   "വെള്ളി",
+   "വില",
+   "നിക്ഷേപം",
+   "ഇന്ത്യ",
+   "മാർക്കറ്റ്"
+  ]
+ }
+}

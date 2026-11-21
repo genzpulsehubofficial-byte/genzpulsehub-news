@@ -1,0 +1,37 @@
+{
+ "id": "7a62bd9d2e78",
+ "created": "2026-11-21T13:12:49+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/golden-lessons-from-past-gold-price-fluctuations-amid-current-gold-price-crash-32-down-from-its-peak-in-2026-11795234156396.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold down 32% since 2026 peak, recovery may take years",
+  "hook": "A steep drop could mean a long wait for price bounce.",
+  "what": "Gold prices have slipped almost 32% from their January 2026 high. Past corrections show it typically takes six to ten years for gold to climb back to earlier levels.",
+  "why": "Young investors should expect a prolonged recovery and plan long‑term, rather than expecting quick gains.",
+  "tags": [
+   "gold",
+   "investing",
+   "markets",
+   "finance",
+   "recovery"
+  ]
+ },
+ "ml": {
+  "headline": "Gold 2026 മുകളിൽ നിന്ന് 32% ഇടിഞ്ഞു, വീണ്ടെടുപ്പ് വർഷങ്ങൾക്കുള്ളിൽ",
+  "hook": "ഇത്ര വലിയ ഇടിവ് വില ഉയരാൻ ദീർഘകാലം വേണ്ടിവരും.",
+  "what": "Gold വിലകൾ ജനുവരി 2026യിലെ ഉയർന്നതിൽ നിന്ന് تقریباً 32% കുറഞ്ഞു. മുൻകാല തിരുത്തലുകൾ കാണിക്കുന്നത്, വില പഴയ നിലയിലേക്ക് മടങ്ങാൻ 6‑10 വർഷം എടുക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകർ ദീർഘകാലം കണക്കാക്കി പ്ലാൻ ചെയ്യണം, വേഗത്തിലുള്ള ലാഭം പ്രതീക്ഷിക്കരുത്.",
+  "tags": [
+   "gold",
+   "investing",
+   "markets",
+   "finance",
+   "recovery"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "77ba8c670c70",
+ "created": "2026-11-21T13:12:53+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Logitech launches MX Master 4 Creator mouse in India",
+  "hook": "A pro‑grade mouse now lands in Indian markets.",
+  "what": "Logitech introduced a limited‑edition MX Master 4 Creator mouse for Indian buyers. It comes with programmable buttons, haptic feedback and a studio‑style look.",
+  "why": "Students and young creators who need precise control for design or gaming can consider this new tool for smoother workflow.",
+  "tags": [
+   "Logitech",
+   "MXMaster4",
+   "CreatorEdition",
+   "Tech",
+   "Gadgets"
+  ]
+ },
+ "ml": {
+  "headline": "Logitech ഇന്ത്യയിൽ MX Master 4 Creator മൗസ് പുറത്തിറക്കി",
+  "hook": "പ്രൊ‑ഗ്രേഡ് മൗസ് ഇനി ഇന്ത്യൻ മാർക്കറ്റിൽ.",
+  "what": "Logitech ഇന്ത്യക്കാർക്കായി ലിമിറ്റഡ്‑എഡിഷൻ MX Master 4 Creator മൗസ് പുറത്തിറക്കി. ഇതിൽ കസ്റ്റമൈസ് ചെയ്യാവുന്ന ബട്ടണുകൾ, ഹാപ്റ്റിക് ഫീഡ്ബാക്ക്, സ്റ്റുഡിയോ‑പ്രേരിത ഡിസൈൻ എന്നിവയുണ്ട്.",
+  "why": "ഡിസൈൻ, ഗെയിമിംഗ് പോലുള്ള കൃത്യമായ കൺട്രോൾ ആവശ്യമുള്ള വിദ്യാർത്ഥികളും യുവ സൃഷ്ടികളുമാണ് ഇത് ഉപയോഗിക്കാൻ പരിഗണിക്കേണ്ടത്.",
+  "tags": [
+   "Logitech",
+   "MXMaster4",
+   "CreatorEdition",
+   "Tech",
+   "Gadgets"
+  ]
+ }
+}

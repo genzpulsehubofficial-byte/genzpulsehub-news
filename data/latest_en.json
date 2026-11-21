@@ -1,5 +1,99 @@
 [
  {
+  "id": "3af037c1d284",
+  "created": "2026-11-21T13:12:43+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece",
+  "headline": "Cyclone Akvan remnants to cause rain and winds in Bengal",
+  "hook": "Expect sudden showers and breezy days across Bengal this weekend.",
+  "what": "The India Meteorological Department says the leftover system of Cyclone Akvan will bring rain to Bengal until November 22. Thunderstorms with wind gusts of 30‑40 km/h are expected across most of South Bengal and parts of North Bengal on Saturday.",
+  "why": "Students and commuters should carry umbrellas and plan travel accordingly, as sudden showers may affect outdoor activities and transport.",
+  "tags": [
+   "BengalWeather",
+   "CycloneAkvan",
+   "RainAlert",
+   "TravelTips"
+  ]
+ },
+ {
+  "id": "31c07cd42f7b",
+  "created": "2026-11-21T13:12:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/one-dies-four-injured-after-a-car-plunges-into-gorge-in-yercaud/article71727600.ece",
+  "headline": "Car crash on Yercaud ghat kills one, injures four",
+  "hook": "A night drive turned tragic on Yercaud’s winding road.",
+  "what": "Around 10:30 pm near Keeraikadu, a driver lost control on the Yercaud‑Kuppanur Ghat Road and the vehicle fell into a 100‑foot gorge. One passenger died and four others were injured.",
+  "why": "The incident highlights safety risks on hilly highways; young drivers should stay cautious, especially at night.",
+  "tags": [
+   "Yercaud",
+   "roadaccident",
+   "safety",
+   "TamilNadu",
+   "news"
+  ]
+ },
+ {
+  "id": "7a62bd9d2e78",
+  "created": "2026-11-21T13:12:49+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/golden-lessons-from-past-gold-price-fluctuations-amid-current-gold-price-crash-32-down-from-its-peak-in-2026-11795234156396.html",
+  "headline": "Gold down 32% since 2026 peak, recovery may take years",
+  "hook": "A steep drop could mean a long wait for price bounce.",
+  "what": "Gold prices have slipped almost 32% from their January 2026 high. Past corrections show it typically takes six to ten years for gold to climb back to earlier levels.",
+  "why": "Young investors should expect a prolonged recovery and plan long‑term, rather than expecting quick gains.",
+  "tags": [
+   "gold",
+   "investing",
+   "markets",
+   "finance",
+   "recovery"
+  ]
+ },
+ {
+  "id": "f673bb453730",
+  "created": "2026-11-21T13:12:51+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/silver-rate-today-in-india-latest-prices-in-delhi-mumbai-chennai-and-other-cities-after-a-sharp-bullion-market-crash-11795243551283.html",
+  "headline": "Silver Prices Plunge Over 60% Since January",
+  "hook": "The metal that once shone is now cheap.",
+  "what": "Silver’s market price has fallen more than 60% from its January high, according to the latest data on 21 November. Prices are listed per kilogram and per 100 grams for major Indian cities such as Delhi, Mumbai, Chennai and Kolkata.",
+  "why": "A steep drop may affect anyone considering silver as an investment or a purchase, so young buyers should compare current rates before deciding.",
+  "tags": [
+   "silver",
+   "prices",
+   "investment",
+   "india",
+   "markets"
+  ]
+ },
+ {
+  "id": "77ba8c670c70",
+  "created": "2026-11-21T13:12:53+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878",
+  "headline": "Logitech launches MX Master 4 Creator mouse in India",
+  "hook": "A pro‑grade mouse now lands in Indian markets.",
+  "what": "Logitech introduced a limited‑edition MX Master 4 Creator mouse for Indian buyers. It comes with programmable buttons, haptic feedback and a studio‑style look.",
+  "why": "Students and young creators who need precise control for design or gaming can consider this new tool for smoother workflow.",
+  "tags": [
+   "Logitech",
+   "MXMaster4",
+   "CreatorEdition",
+   "Tech",
+   "Gadgets"
+  ]
+ },
+ {
   "id": "34f46d008b5c",
   "created": "2026-11-21T11:55:21+05:30",
   "category": "headlines",
@@ -654,98 +748,6 @@
    "tech",
    "online safety",
    "youth"
-  ]
- },
- {
-  "id": "48e813bfa020",
-  "created": "2026-11-21T05:36:37+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricinfo",
-  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOU55NTZmZlBQN2stamluemNRSGlySU5KWEJTU3pmblB2ZmkydE4xN3pWdUlOSHhFVW1yMThYOVJBUWh3eHhXdkdtSFRoTlVDZXJ5T1p2TWhpdmQwTWozMHNXcjJaVk9CZWRtdENNT1F4dUY1RXJCUVliaHNnU0cwWE5mRUNobHRNV2R0MDdtdk8zSUZ0Zy1idHJibGVRX3VBb0o1dXNKRzhzNTY0M1hlVzNHYmZjZ3BMd21MTEJlVW81RkxTTWVMZ0RVaE_SAd4BQVVfeXFMTllqUDJqV2F1U2QxM2w5VkNwOXUtNFhGZGM2blZJR3pCVHpNZ0ZWa2JtUDhaUHNjbDJPMUZRRElEOU9DVVR5WEdUbWRuZmpVQ3FNcmFrUmtlNnItZWMzZXdXSVJmMEtDcWt4RUY3YTFNY1otczRVb2RuY0ZiRmt1MmRvd2k3bEZXNnJySTYzUHN0bFRMUFBzTWlBUWFEQ1lFckhjay1NTHByWExJOEc0M0NGSHdIMkh6bXdmYnNWNVFZam1fVEpJcHZVY3dXUlBxWi1JUlJmVVZyM2laNXV3?oc=5",
-  "headline": "Hazlewood defends Cummins, denies knowing ball‑tampering",
-  "hook": "Australia’s star bowler stands by the skipper amid scandal.",
-  "what": "Josh Hazlewood said he had no idea about the sandpaper incident and called Pat Cummins a great leader. He urged that Cummins should stay on as Test captain despite the criticism.",
-  "why": "It shows how teammates can back each other in tough times, a lesson for young fans about loyalty and leadership.",
-  "tags": [
-   "cricket",
-   "Australia",
-   "leadership",
-   "balltampering",
-   "sports"
-  ]
- },
- {
-  "id": "e5d9506c688a",
-  "created": "2026-11-21T05:36:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "GSMArena.com",
-  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVTdtQjl2T0Y3NUJ6RDAzeEN3MkJJX0o1TFBiRWpfWWpNbFU5NXhZU0VVaHc5U2t3RnNkX2EyUTk1UnFPa28wcTFDeDV6c0JJVDE5emVvd3N2SnQySTNkVnVxbUlwWUFhTmpCemF1NUVnM0RJZ3dlMU1tVmNXR215NWpjUnVTX1o3Tm8ycnZ0YzdNOGE5Q2NLM295UEZLdHZ3bUlQVVF3b1hwN3lsbDZvZXA1Nkg4alp3cVFES1pJWENzQdIBvgFBVV95cUxNdmNnQ1lOLU0zQXBRRGF5RFVUSWQ4SVJzbEpfT204ZU8weUJzNEVfZWs3VHoxaERCZ1NDaU4zVXhtSkhlSlJxZGk5QU5keHVHbVM3OVFIM3NEcXd2T0haLXc5SGV6ZTV2REtFT3VXVkktWnJDX0hpbXV2ejBnSHBJX2tiM2VHYlNCSlRfU002WnFoVU9FQmhhdmxhVU9MbnBlZTU2ZEdNSHJJZnRZclkxZVAwU2lpRGZiQlZaV3VB?oc=5",
-  "headline": "Galaxy S27 Pro's Exynos 2700 benchmarked against Snapdragon",
-  "hook": "Samsung tests its new chip to see how it measures up.",
-  "what": "Samsung ran the Geekbench suite on the Exynos 2700 processor inside the Galaxy S27 Pro. The scores were then compared with those of the Snapdragon chip used in other devices.",
-  "why": "Performance gaps can affect gaming and app speed, so checking benchmarks helps when picking a phone.",
-  "tags": [
-   "Galaxy",
-   "Exynos",
-   "Snapdragon",
-   "Benchmark",
-   "Tech"
-  ]
- },
- {
-  "id": "4b42c5892025",
-  "created": "2026-11-21T04:45:48+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Rediff",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FVEtOS0hyOUJnWFhROEFQQlFYV3RWVnBfYzJUX3d2YzU5Y2FYaldUWV9YeWh3TlcxYVo0eTBicndSRHJGVVRTLW95ZV9TVEFuNlhzM0cweUxtM0Y2b3lWMUpDSkdPN3FCYVhCalZmRXBFSUdjVmc?oc=5",
-  "headline": "India vs New Zealand 1st Test: Rahul and Padikkal Build 50-Run Stand",
-  "hook": "KL Rahul and Devdutt Padikkal steady the ship for India in Wellington.",
-  "what": "India is taking on New Zealand in the opening match of their two-Test series. Batters Rahul and Padikkal came together to stitch a solid 50-run partnership. Shubman Gill's team is facing challenging conditions as they hunt for critical Test points.",
-  "why": "Cricket fans can track the live action to see how the young squad handles tough away conditions.",
-  "tags": [
-   "cricket",
-   "indvsnz",
-   "testcricket",
-   "teamindia"
-  ]
- },
- {
-  "id": "37353b021c9c",
-  "created": "2026-11-21T04:46:20+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/bihar/digital-planetariums-education-centres-will-be-established-in-all-divisions-bihar-minister/article71724958.ece",
-  "headline": "Bihar Plans Digital Planetariums And Recruits Over 1,400 College Faculty",
-  "hook": "Big educational upgrades and teaching opportunities are rolling out across Bihar.",
-  "what": "The Bihar government announced plans to establish digital planetariums and education centres in all divisions. Additionally, requisitions have been sent to the BPSC to recruit 1,061 faculty members for engineering colleges and 354 for polytechnics.",
-  "why": "Aspiring educators in technical fields can prepare for upcoming recruitment opportunities through BPSC.",
-  "tags": [
-   "BiharJobs",
-   "BPSCRecruitment",
-   "EngineeringFaculty",
-   "CollegeJobs"
-  ]
- },
- {
-  "id": "9923066eb106",
-  "created": "2026-11-21T04:47:04+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bjps-invitation-to-pakistans-minister-vindicates-abdullahs-stance-jk-deputy-chief-minister/article71726194.ece",
-  "headline": "J&K Leaders Share Views on Pakistani Minister's India Visit",
-  "hook": "Political leaders in Jammu and Kashmir are reacting to new diplomatic moves.",
-  "what": "Jammu and Kashmir's Deputy Chief Minister remarked that inviting a Pakistani Minister supports Abdullah's viewpoint. Additionally, PDP legislator Muntazir Mehdi called the visit a positive development. Mehdi also appealed for India and Pakistan to restart their bilateral talks.",
-  "why": "Diplomatic engagements between neighboring nations can shape discussions around regional stability and cross-border relations.",
-  "tags": [
-   "diplomacy",
-   "jammuandkashmir",
-   "politics",
-   "news"
   ]
  }
 ]

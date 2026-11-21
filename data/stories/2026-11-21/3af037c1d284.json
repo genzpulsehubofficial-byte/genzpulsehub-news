@@ -1,0 +1,35 @@
+{
+ "id": "3af037c1d284",
+ "created": "2026-11-21T13:12:43+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cyclone Akvan remnants to cause rain and winds in Bengal",
+  "hook": "Expect sudden showers and breezy days across Bengal this weekend.",
+  "what": "The India Meteorological Department says the leftover system of Cyclone Akvan will bring rain to Bengal until November 22. Thunderstorms with wind gusts of 30‑40 km/h are expected across most of South Bengal and parts of North Bengal on Saturday.",
+  "why": "Students and commuters should carry umbrellas and plan travel accordingly, as sudden showers may affect outdoor activities and transport.",
+  "tags": [
+   "BengalWeather",
+   "CycloneAkvan",
+   "RainAlert",
+   "TravelTips"
+  ]
+ },
+ "ml": {
+  "headline": "Cyclone Akvan‑ന്റെ അവശിഷ്ടം ബെംഗാളിൽ മഴയും കാറ്റും",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ ബെംഗാളിൽ അപ്രതീക്ഷിത മഴയും കാറ്റും വരാൻ സാധ്യത.",
+  "what": "ഇന്ത്യാ കാലാവസ്ഥ വകുപ്പ് പറയുന്നു, സൈക്ലോൺ അക്വാന്റെ അവശിഷ്ടം നവംബർ 22 വരെ ബെംഗാളിൽ മഴ കൊണ്ടുവരും. ശനിയാഴ്ച ദക്ഷിണ ബെംഗാളിലെ ഭൂരിഭാഗം ജില്ലകളിലും ചില ഉത്തര ജില്ലകളിലും 30‑40 km/h വേഗതയുള്ള കാറ്റോടുകൂടിയ ഇടിയൻ മഴ പ്രതീക്ഷിക്കുന്നു.",
+  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കുടയും ജാക്കറ്റും കൈയിൽ വെക്കണം,突雨 യാത്രാ പദ്ധതികളെ ബാധിക്കാം.",
+  "tags": [
+   "BengalWeather",
+   "CycloneAkvan",
+   "RainAlert",
+   "TravelTips"
+  ]
+ }
+}
