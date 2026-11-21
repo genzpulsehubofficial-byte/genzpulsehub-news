@@ -1,0 +1,37 @@
+{
+ "id": "74e24fae132a",
+ "created": "2026-11-21T18:23:59+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Princess Kate shares cancer story in new doc 'Heal'",
+  "hook": "Watch the royal’s candid journey on BBC and NBC.",
+  "what": "Catherine, Princess of Wales, appears in the documentary 'Heal' where she talks about her battle with cancer. The film will premiere on BBC and later on NBC.",
+  "why": "The documentary gives young viewers insight into coping with serious illness and highlights the value of support and awareness.",
+  "tags": [
+   "PrincessKate",
+   "HealDoc",
+   "BBC",
+   "NBC",
+   "CancerAwareness"
+  ]
+ },
+ "ml": {
+  "headline": "പ്രിൻസസ് കെറ്റ് 'Heal' ഡോക്യൂമെന്ററിയിൽ കാൻസർ കഥ പങ്കിടുന്നു",
+  "hook": "BBC, NBC-യിൽ രാജകുമാരിയുടെ സത്യസന്ധമായ യാത്ര കാണൂ.",
+  "what": "വേൾഡ്സ് പ്രിൻസസ് കത്രീൻ 'Heal' എന്ന ഡോക്യൂമെന്ററിയിൽ കാൻസറുമായി പോരാട്ടം തുറന്ന് പറയുന്നു. ഈ ചിത്രം BBC-യിൽ പ്രീമിയർ ആയി, പിന്നീട് NBC-യിൽ പ്രദർശിപ്പിക്കും.",
+  "why": "ഇത് യുവാക്കൾക്ക് ഗുരുതര രോഗം നേരിടുമ്പോൾ പിന്തുണയും ബോധവൽക്കരണവും എത്ര പ്രധാനമാണെന്ന് കാണിക്കുന്നു.",
+  "tags": [
+   "പ്രിൻസസ്‌കെറ്റ്",
+   "Healഡോക്യൂമെന്ററി",
+   "BBC",
+   "NBC",
+   "കാൻസർബോധവൽക്കരണം"
+  ]
+ }
+}

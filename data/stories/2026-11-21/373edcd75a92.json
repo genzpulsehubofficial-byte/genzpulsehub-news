@@ -1,0 +1,37 @@
+{
+ "id": "373edcd75a92",
+ "created": "2026-11-21T18:23:55+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricket World",
+ "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1RuSWtEcVFHNmUwQ3ItS3I4X2tlei1LQ2syaGZVWExpbmg1b3hWT3A0RjNUWUZYVUdDcDNlWi11aTA3YU9jVWs5ZTRuT21jeHYybEJaSFJ1SlRpeTRyR1BSLVFGcXVRQ2hncndxbFFBdkU3QUdYek5lN01UV0M1TmxMTWhxQQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Australia clinches first T20I win over England at MCG",
+  "hook": "Nikhil Chaudhary’s all‑round heroics seal a nail‑biting finish.",
+  "what": "Australia defeated England by three wickets in the opening men’s T20 International at the Melbourne Cricket Ground. All‑rounder Nikhil Chaudhary and fresh‑face Edwards starred, delivering the winning runs in the final over.",
+  "why": "The close contest highlights the excitement of T20 cricket, encouraging young fans to follow upcoming series and support their favourite teams.",
+  "tags": [
+   "cricket",
+   "T20",
+   "Australia",
+   "England",
+   "MCG"
+  ]
+ },
+ "ml": {
+  "headline": "ഓസ്‌ട്രേലിയ എം‌സിജിയിൽ ഇംഗ്ലണ്ടിനെ ആദ്യ T20Iയിൽ തോൽപ്പിച്ചു",
+  "hook": "എല്ലാ‑വശങ്ങളിലുമുള്ള നിഖിൽ ചൗധറിയുടെ പ്രകടനം അവസാന ഓവറിൽ ജയം ഉറപ്പാക്കി.",
+  "what": "മെൽബൺ ക്രിക്കറ്റ് ഗ്രൗണ്ടിൽ നടന്ന ആദ്യ പുരുഷ T20 അന്താരാഷ്ട്ര മത്സരത്തിൽ ഓസ്‌ട്രേലിയ ഇംഗ്ലണ്ടിനെ മൂന്ന് വിറ്റ്സിനാൽ പരാജയപ്പെടുത്തി. എല്ലർ‑റൗണ്ടർ നിഖിൽ ചൗധറിയും പുതുതായി पदार്പ്പെടുത്തിയ എഡ്വേർഡ്സും അവസാന ഓവറിൽ വിജയമുണ്ടാക്കി.",
+  "why": "T20 ക്രിക്കറ്റിന്റെ ഉത്സാഹം കാണിച്ചു, യുവാക്കൾക്ക് വരാനിരിക്കുന്ന സീരീസുകൾ പിന്തുടർന്ന് അവരുടെ പ്രിയപ്പെട്ട ടീമുകൾക്ക് പിന്തുണ നൽകാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T20",
+   "ഓസ്‌ട്രേലിയ",
+   "ഇംഗ്ലണ്ട്",
+   "MCG"
+  ]
+ }
+}

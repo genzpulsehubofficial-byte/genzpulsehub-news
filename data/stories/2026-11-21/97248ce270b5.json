@@ -1,0 +1,37 @@
+{
+ "id": "97248ce270b5",
+ "created": "2026-11-21T18:23:45+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/periyar-tiger-reserve-launches-eco-friendly-irumudikkettu-in-keralams-sabarimala/article71728195.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Periyar Reserve rolls out plastic‑free Irumudikkettu in Sabarimala",
+  "hook": "Say goodbye to plastic waste on pilgrim trips.",
+  "what": "The Periyar Tiger Reserve has introduced an eco‑friendly version of the Irumudikkettu for pilgrims visiting Sabarimala. Earlier, the sacred bundles often contained items wrapped in plastic, creating litter inside the reserve. The new design aims to cut down that waste.",
+  "why": "Less plastic means easier clean‑up and protects wildlife habitats, so young travelers can enjoy a greener pilgrimage. Consider using the new bundles if you’re heading to Sabarimala.",
+  "tags": [
+   "Periyar",
+   "Sabarimala",
+   "EcoFriendly",
+   "PlasticFree",
+   "YouthTravel"
+  ]
+ },
+ "ml": {
+  "headline": "പെരിയാർ സംരക്ഷണവനം സബരിമലയിൽ പ്ലാസ്റ്റിക്‑രഹിത ഇരു‍മുടിക്കെട്ടു അവതരിപ്പിച്ചു",
+  "hook": "പവിത്രയാത്രയിൽ പ്ലാസ്റ്റിക് മാലിന്യത്തിന് വിടപറയൂ.",
+  "what": "പെരിയാർ ടൈഗർ റിസർവ് സബരിമലാ തീർത്ഥാടകർക്ക് ഇരു‍മുടിക്കെട്ടിന്റെ പരിസ്ഥിതി സൗഹൃദ പതിപ്പ് അവതരിപ്പിച്ചു. മുൻപ്, പവിത്ര ബണ്ടിലുകൾ പ്ലാസ്റ്റിക് ബാഗുകളിൽ പൊതിഞ്ഞിരുന്നുവെന്ന്, അത് സംരക്ഷണവനത്തിൽ മാലിന്യ പ്രശ്നം സൃഷ്ടിച്ചിരുന്നു. പുതിയ രൂപം ആ മാലിന്യം കുറയ്ക്കുകയാണ് ലക്ഷ്യം.",
+  "why": "പ്ലാസ്റ്റിക് കുറയുന്നത് വന്യജീവി ജീവിതം സംരക്ഷിക്കുകയും ശുചിത്വം നിലനിർത്തുകയും ചെയ്യുന്നു, അതിനാൽ യുവ യാത്രികർക്ക് കൂടുതൽ സുസ്ഥിര അനുഭവം ലഭിക്കും. സബരിമലയിൽ പോകുമ്പോൾ പുതിയ ബണ്ടിൽ ഉപയോഗിക്കാൻ പരിഗണിക്കുക.",
+  "tags": [
+   "Periyar",
+   "Sabarimala",
+   "EcoFriendly",
+   "PlasticFree",
+   "YouthTravel"
+  ]
+ }
+}

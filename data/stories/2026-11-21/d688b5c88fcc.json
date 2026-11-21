@@ -1,0 +1,37 @@
+{
+ "id": "d688b5c88fcc",
+ "created": "2026-11-21T18:23:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-100-days-government-yet-to-announce-special-sitting/article71728271.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Monsoon session still open after 100 days, no special sitting announced",
+  "hook": "Parliament hasn't formally closed the session yet.",
+  "what": "Both Lok Sabha and Rajya Sabha were adjourned indefinitely on August 13. As of the morning of November 21, neither house has been formally prorogued.",
+  "why": "The delay keeps the session technically active, influencing legislative timelines. Young Indians should stay alert for any upcoming announcements.",
+  "tags": [
+   "Parliament",
+   "MonsoonSession",
+   "IndiaPolitics",
+   "Legislation",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "മോണ്സൺ സെഷൻ 100 ദിവസം തുറന്നതായും പ്രത്യേക യോഗം പ്രഖ്യാപിച്ചിട്ടില്ല",
+  "hook": "പാർലമെന്റ് ഇതുവരെ ഔദ്യോഗികമായി സെഷൻ അടച്ചിട്ടില്ല.",
+  "what": "ലോക്ക്‌സഭയും രാജ്യസഭയും ഓഗസ്റ്റ് 13-ന് അനിശ്ചിതകാലം വരെ അടച്ചു. പക്ഷേ നവംബർ 21 രാവിലെ വരെ ഏതെങ്കിലും ഹൗസ്‌ക്കും പ്രോരോ​ഗേഷൻ നടപ്പിലാക്കിയിട്ടില്ല.",
+  "why": "ഇത് സെഷൻ സാങ്കേതികമായി സജീവമാക്കുന്നു, നിയമനിർമ്മാണ സമയക്രമത്തെ ബാധിക്കും. യുവജനങ്ങളും വോട്ടർമാരും അടുത്ത പ്രഖ്യാപനങ്ങൾക്കായി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Parliament",
+   "MonsoonSession",
+   "IndiaPolitics",
+   "Legislation",
+   "Youth"
+  ]
+ }
+}

@@ -1,5 +1,100 @@
 [
  {
+  "id": "97248ce270b5",
+  "created": "2026-11-21T18:23:45+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/periyar-tiger-reserve-launches-eco-friendly-irumudikkettu-in-keralams-sabarimala/article71728195.ece",
+  "headline": "പെരിയാർ സംരക്ഷണവനം സബരിമലയിൽ പ്ലാസ്റ്റിക്‑രഹിത ഇരു‍മുടിക്കെട്ടു അവതരിപ്പിച്ചു",
+  "hook": "പവിത്രയാത്രയിൽ പ്ലാസ്റ്റിക് മാലിന്യത്തിന് വിടപറയൂ.",
+  "what": "പെരിയാർ ടൈഗർ റിസർവ് സബരിമലാ തീർത്ഥാടകർക്ക് ഇരു‍മുടിക്കെട്ടിന്റെ പരിസ്ഥിതി സൗഹൃദ പതിപ്പ് അവതരിപ്പിച്ചു. മുൻപ്, പവിത്ര ബണ്ടിലുകൾ പ്ലാസ്റ്റിക് ബാഗുകളിൽ പൊതിഞ്ഞിരുന്നുവെന്ന്, അത് സംരക്ഷണവനത്തിൽ മാലിന്യ പ്രശ്നം സൃഷ്ടിച്ചിരുന്നു. പുതിയ രൂപം ആ മാലിന്യം കുറയ്ക്കുകയാണ് ലക്ഷ്യം.",
+  "why": "പ്ലാസ്റ്റിക് കുറയുന്നത് വന്യജീവി ജീവിതം സംരക്ഷിക്കുകയും ശുചിത്വം നിലനിർത്തുകയും ചെയ്യുന്നു, അതിനാൽ യുവ യാത്രികർക്ക് കൂടുതൽ സുസ്ഥിര അനുഭവം ലഭിക്കും. സബരിമലയിൽ പോകുമ്പോൾ പുതിയ ബണ്ടിൽ ഉപയോഗിക്കാൻ പരിഗണിക്കുക.",
+  "tags": [
+   "Periyar",
+   "Sabarimala",
+   "EcoFriendly",
+   "PlasticFree",
+   "YouthTravel"
+  ]
+ },
+ {
+  "id": "d688b5c88fcc",
+  "created": "2026-11-21T18:23:50+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-100-days-government-yet-to-announce-special-sitting/article71728271.ece",
+  "headline": "മോണ്സൺ സെഷൻ 100 ദിവസം തുറന്നതായും പ്രത്യേക യോഗം പ്രഖ്യാപിച്ചിട്ടില്ല",
+  "hook": "പാർലമെന്റ് ഇതുവരെ ഔദ്യോഗികമായി സെഷൻ അടച്ചിട്ടില്ല.",
+  "what": "ലോക്ക്‌സഭയും രാജ്യസഭയും ഓഗസ്റ്റ് 13-ന് അനിശ്ചിതകാലം വരെ അടച്ചു. പക്ഷേ നവംബർ 21 രാവിലെ വരെ ഏതെങ്കിലും ഹൗസ്‌ക്കും പ്രോരോ​ഗേഷൻ നടപ്പിലാക്കിയിട്ടില്ല.",
+  "why": "ഇത് സെഷൻ സാങ്കേതികമായി സജീവമാക്കുന്നു, നിയമനിർമ്മാണ സമയക്രമത്തെ ബാധിക്കും. യുവജനങ്ങളും വോട്ടർമാരും അടുത്ത പ്രഖ്യാപനങ്ങൾക്കായി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Parliament",
+   "MonsoonSession",
+   "IndiaPolitics",
+   "Legislation",
+   "Youth"
+  ]
+ },
+ {
+  "id": "e345f4a90515",
+  "created": "2026-11-21T18:23:53+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+  "headline": "Sarvam AI പുറത്തിറക്കിയ Token Factory, ഇന്ത്യയുടെ AI അടിസ്ഥാനവ്യവസ്ഥ ശക്തമാക്കുന്നു",
+  "hook": "നിങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകൾക്ക് പുതിയ AI ശക്തി വരുന്നു.",
+  "what": "Sarvam AI Token Factory പ്രഖ്യാപിച്ചു, ഇത് ഇന്ത്യയുടെ AI ഇൻഫറൻസ് അടിസ്ഥാനവ്യവസ്ഥയിൽ ഒരു പുതിയ ലെയർ ചേർക്കുന്നു. ഈ പ്ലാറ്റ്ഫോം AI സേവനങ്ങളുടെ വികസനം വേഗത്തിലാക്കും.",
+  "why": "ഡെവലപ്പർമാർക്ക് കൂടുതൽ സ്രോതസ്സുകൾ ലഭിച്ച് സ്മാർട്ട് ആപ്പുകൾ സൃഷ്ടിക്കാൻ സഹായിക്കും. AI മേഖലയിൽ പുതിയ അവസരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "Tech",
+   "India",
+   "Startups",
+   "Innovation"
+  ]
+ },
+ {
+  "id": "373edcd75a92",
+  "created": "2026-11-21T18:23:55+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1RuSWtEcVFHNmUwQ3ItS3I4X2tlei1LQ2syaGZVWExpbmg1b3hWT3A0RjNUWUZYVUdDcDNlWi11aTA3YU9jVWs5ZTRuT21jeHYybEJaSFJ1SlRpeTRyR1BSLVFGcXVRQ2hncndxbFFBdkU3QUdYek5lN01UV0M1TmxMTWhxQQ?oc=5",
+  "headline": "ഓസ്‌ട്രേലിയ എം‌സിജിയിൽ ഇംഗ്ലണ്ടിനെ ആദ്യ T20Iയിൽ തോൽപ്പിച്ചു",
+  "hook": "എല്ലാ‑വശങ്ങളിലുമുള്ള നിഖിൽ ചൗധറിയുടെ പ്രകടനം അവസാന ഓവറിൽ ജയം ഉറപ്പാക്കി.",
+  "what": "മെൽബൺ ക്രിക്കറ്റ് ഗ്രൗണ്ടിൽ നടന്ന ആദ്യ പുരുഷ T20 അന്താരാഷ്ട്ര മത്സരത്തിൽ ഓസ്‌ട്രേലിയ ഇംഗ്ലണ്ടിനെ മൂന്ന് വിറ്റ്സിനാൽ പരാജയപ്പെടുത്തി. എല്ലർ‑റൗണ്ടർ നിഖിൽ ചൗധറിയും പുതുതായി पदार്പ്പെടുത്തിയ എഡ്വേർഡ്സും അവസാന ഓവറിൽ വിജയമുണ്ടാക്കി.",
+  "why": "T20 ക്രിക്കറ്റിന്റെ ഉത്സാഹം കാണിച്ചു, യുവാക്കൾക്ക് വരാനിരിക്കുന്ന സീരീസുകൾ പിന്തുടർന്ന് അവരുടെ പ്രിയപ്പെട്ട ടീമുകൾക്ക് പിന്തുണ നൽകാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T20",
+   "ഓസ്‌ട്രേലിയ",
+   "ഇംഗ്ലണ്ട്",
+   "MCG"
+  ]
+ },
+ {
+  "id": "74e24fae132a",
+  "created": "2026-11-21T18:23:59+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
+  "headline": "പ്രിൻസസ് കെറ്റ് 'Heal' ഡോക്യൂമെന്ററിയിൽ കാൻസർ കഥ പങ്കിടുന്നു",
+  "hook": "BBC, NBC-യിൽ രാജകുമാരിയുടെ സത്യസന്ധമായ യാത്ര കാണൂ.",
+  "what": "വേൾഡ്സ് പ്രിൻസസ് കത്രീൻ 'Heal' എന്ന ഡോക്യൂമെന്ററിയിൽ കാൻസറുമായി പോരാട്ടം തുറന്ന് പറയുന്നു. ഈ ചിത്രം BBC-യിൽ പ്രീമിയർ ആയി, പിന്നീട് NBC-യിൽ പ്രദർശിപ്പിക്കും.",
+  "why": "ഇത് യുവാക്കൾക്ക് ഗുരുതര രോഗം നേരിടുമ്പോൾ പിന്തുണയും ബോധവൽക്കരണവും എത്ര പ്രധാനമാണെന്ന് കാണിക്കുന്നു.",
+  "tags": [
+   "പ്രിൻസസ്‌കെറ്റ്",
+   "Healഡോക്യൂമെന്ററി",
+   "BBC",
+   "NBC",
+   "കാൻസർബോധവൽക്കരണം"
+  ]
+ },
+ {
   "id": "dabe2bc8eff5",
   "created": "2026-11-21T17:30:37+05:30",
   "category": "money",
@@ -652,99 +747,6 @@
    "ശമ്പളവര്‍ധന",
    "OPS",
    "യൂണിയന്‍"
-  ]
- },
- {
-  "id": "2ccb0e8e2658",
-  "created": "2026-11-21T09:56:38+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/pm-modi-to-launch-projects-worth-34-470-crore-in-bihar-today-inaugurate-nitish-setu-101795226668168.html",
-  "headline": "മോഡി ബിഹാറിൽ ₹34,470 കോടി പദ്ധതികളും നിതീഷ് സേതുവും തുറക്കുന്നു",
-  "hook": "പുതിയ പാലം, വലിയ പദ്ധതികൾ – മോഡിയുടെ വരവോടെ ബിഹാറിൽ മാറ്റം",
-  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഇന്ന് പട്ടണയിൽ ഇറങ്ങി ബിഹാറിൽ ഏകദേശം ₹34,470 കോടി മൂല്യമുള്ള പദ്ധതികൾ ആരംഭിച്ചു. അദ്ദേഹം പുതിയ നിതീഷ് സേതു പാലം തുറന്നു, മുൻ പ്രധാനമന്ത്രിയായ നിതീഷ് കുമാർ അദ്ദേഹത്തെ സ്വാഗതം ചെയ്തു.",
-  "why": "ഇവയുടെ ലക്ഷ്യം ഗതാഗതം മെച്ചപ്പെടുത്തുകയും യുവജനങ്ങൾക്ക് തൊഴിൽ അവസരങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യുന്നതാണ്. പ്രാദേശിക സാമ്പത്തികത്തെക്കുറിച്ച് കൂടുതൽ വിവരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ബിഹാർ",
-   "അടിസ്ഥാനസൗകര്യം",
-   "PMModi",
-   "തൊഴിൽ",
-   "വികസനം"
-  ]
- },
- {
-  "id": "f1c7ef38a91f",
-  "created": "2026-11-21T09:56:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-  "headline": "US സ്റ്റാർട്ടപ്പ് ആപ്പിളിനെ $162 മില്യൺ നഷ്ടപരിഹാരത്തിന് കേസ്",
-  "hook": "നിയമപരമായ ഈ പോരാട്ടം ഇന്ത്യയിലെ iPhone, Watch ഡെലിവറി വൈകിപ്പിക്കാൻ സാധ്യത.",
-  "what": "അമേരിക്കയിലെ ഒരു സ്റ്റാർട്ടപ്പ് ആപ്പിളിനെതിരെ ഇന്ത്യയിൽ കേസ് ഫയൽ ചെയ്തു, $162 മില്യൺ നഷ്ടപരിഹാരം ആവശ്യപ്പെട്ടു. ടാപ്പ്‑ടു‑ഷെയർ കോൺടാക്ട്സ് ഫീച്ചറിനെ ലക്ഷ്യം വച്ച്, iPhone, Apple Watch ഇറക്കുമതി തടയാൻ കോടതി ഉത്തരവിനായി അപേക്ഷിച്ചു.",
-  "why": "കോടതി ഈ ഉത്തരവ് നൽകുകയാണെങ്കിൽ, ഇന്ത്യയിലെ യുവാക്കൾക്ക് iPhone, Watch വാങ്ങാൻ വൈകലോ വില വർദ്ധനവോ നേരിടേണ്ടി വരാം. പുതിയ ആപ്പിൾ ഉപകരണം വാങ്ങാൻ പദ്ധതിയുണ്ടെങ്കിൽ, ഈ കേസിന്റെ പുരോഗതി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Apple",
-   "കേസ്",
-   "ടെക്",
-   "ഇന്ത്യ",
-   "സ്റ്റാർട്ടപ്പ്"
-  ]
- },
- {
-  "id": "fae103ad469d",
-  "created": "2026-11-21T09:56:42+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-police-3-month-traffic-monitoring-drive-15-junctions-b68lto4q",
-  "headline": "കൊച്ചി പോലീസ് 15 പ്രധാന ചോക്കുകൾ നിരീക്ഷിക്കും",
-  "hook": "നിങ്ങളുടെ യാത്രാ സമയം വേഗത്തിൽ മെച്ചപ്പെടാം",
-  "what": "നഗരപോലീസ് തിരക്കേറിയ 15 ചോക്കുകൾ, ഉദാഹരണത്തിന് വ്യറ്റിലയും എഡപ്പള്ളിയും, മൂന്ന് മാസം നിരീക്ഷണത്തിന് തെരഞ്ഞെടുത്തു. ഗതാഗതം സുതാര്യമാക്കാൻ തടസ്സങ്ങൾ കണ്ടെത്തുകയാണ് ലക്ഷ്യം.",
-  "why": "കൂട്ടം ചുരുക്കം സമയം വിദ്യാർത്ഥികളും ജോലിക്കാരും ലാഭകരമാകും, അതിനാൽ പുതിയ സിഗ്നൽ സമയം അല്ലെങ്കിൽ മാർഗ്ഗ നിർദ്ദേശങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "കൊച്ചി",
-   "ട്രാഫിക്",
-   "യാത്ര",
-   "യുവാക്കൾ",
-   "വാർത്ത"
-  ]
- },
- {
-  "id": "a1fb3c5c5b67",
-  "created": "2026-11-21T08:49:41+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/11-dead-181-hospitalised-after-consuming-toxic-liquor-in-manipur-12355532#publisher=newsstand",
-  "headline": "മണിപ്പൂരിൽ വിഷപാനീയം: 14 പേർ മരണം, 200‑ത്തിലധികം ആശുപത്രി പ്രവേശനം",
-  "hook": "മരണകാരിയായ ഒരു പാനീയം നിരവധി ആളുകളെ ആശുപത്രിയിലേക്ക് കൊണ്ടു പോയി.",
-  "what": "മണിപ്പൂരിലെ ചക്പികറോങ്ങ്, ചന്ദേൽ ജില്ലയിൽ കുടിച്ച വിഷപാനീയം മൂലം 14 പേർ മരിക്കുകയും 200‑ത്തിലധികം പേർ ആശുപത്രിയിൽ പ്രവേശിപ്പിക്കപ്പെടുകയും ചെയ്തു. അത് വിഷവസ്തുവാണെന്ന് അറിയിച്ചിട്ടുണ്ട്.",
-  "why": "അനധികൃത പാനീയങ്ങൾ അപകടകാരിയാണ്; അറിയാത്ത പാനീയങ്ങൾ ഒഴിവാക്കുകയും സംശയകരമായ ബാച്ചുകൾ അധികാരികളോട് റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യണം.",
-  "tags": [
-   "Manipur",
-   "വിഷപാനീയം",
-   "ആരോഗ്യമുന്നറിയിപ്പ്"
-  ]
- },
- {
-  "id": "f62cbf069ced",
-  "created": "2026-11-21T08:49:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdi1NdjFwbW5CS2VTejdzTjVma0lZYldwd1JJYjNCcE5CdWVFZkgtOTJfVU1pSS1tUWVDY1p5V1U5b2tEV1J5VFdPX1ZqVFpta1BvS0tranRIUVNWZVJEUFJjODBpQUlwZjRZekJ5b215NHlqcHFBUTdWRVhDclYzYVNhNU5yZmVUb2VaY05JT0RwcF9qMV9fWVVUTjBhU3VVV0o4R3h0Q3d3bVVHUEVvc2ZranJlNHVrbGsyMWxUbi1BS3NLcEdWOXY4WGhmRmROR1ZXNVJEVHV6QdIB3wFBVV95cUxOWnoyT1lweVZ4Q3d2S2RNZUJ3SmItVkZlV3pRcWEwZ2lHajFEMEd6SnhpX0RIVUVQZVRXX1k2UTZTbEFSSXFQZnNoTDFSTkZ2aERsZzlLYy0zWnRjbGJnQ2VFSm91MUNPdW51Mlg2cnFtaWQ5VWtWLUxjd1c3LTQyWG9hZkhCcnNDN25WR0FlcGNJVnpDXzhzQVdmRTBMV18xTzl0ZmxTaFRHTXhzbjNtS1hjSmRmaTQ0V2NCZjR6WEtITFVRMW83RlVIZGZsemZOUE1xYnpwVTBZcTF0Zmtv?oc=5",
-  "headline": "ട്രംപ് ഫെഡിനെ 'രാഷ്ട്രീയ' എന്ന് വിളിച്ചു, ഉയർന്ന പലിശ നിരക്ക്",
-  "hook": "മുൻ പ്രസിഡന്റ് യു.എസ്. പലിശ നിരക്ക് ഇന്ത്യയേക്കാൾ കൂടുതലാണെന്ന് പറഞ്ഞു.",
-  "what": "മുൻ പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ് യു.എസ്. ഫെഡറൽ റിസർവിനെ ഉയർന്ന പലിശ നിരക്കിനായി രാഷ്ട്രീയമായി പ്രവർത്തിക്കുന്നതായി വിമർശിച്ചു. ഇന്ത്യയുടെ കുറഞ്ഞ നിരക്കുകൾ കാണിച്ച്, പലിശ കുറച്ചാൽ 14‑15% വളർച്ച സാധ്യമാകും എന്ന് അദ്ദേഹം പറഞ്ഞു.",
-  "why": "ഉയർന്ന പലിശ വിദ്യാർത്ഥികളുടെയും സ്റ്റാർട്ടപ്പുകളുടെയും വായ്പ ചെലവിനെ ബാധിക്കുന്നു, അതിനാൽ നിരക്ക് കുറയാൻ ഉള്ള ചർച്ചകൾ യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. ട്രംപിന്റെ അഭിപ്രായം അന്തർദേശീയ സാമ്പത്തിക ചർച്ചകളിൽ ഇന്ത്യയുടെ സ്ഥാനം ഉയർത്തുന്നു.",
-  "tags": [
-   "ട്രംപ്",
-   "ഫെഡ്",
-   "പലിശനിരക്ക്",
-   "ഇന്ത്യ",
-   "അർത്ഥവ്യവസ്ഥ"
   ]
  }
 ]

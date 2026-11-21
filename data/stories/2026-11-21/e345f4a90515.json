@@ -1,0 +1,37 @@
+{
+ "id": "e345f4a90515",
+ "created": "2026-11-21T18:23:53+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sarvam AI launches Token Factory, boosting India's AI infrastructure",
+  "hook": "A new AI tool could power the apps you love.",
+  "what": "Sarvam AI announced its Token Factory, a platform that adds a new layer to the country's AI infrastructure. The move expands the ecosystem for AI inference in India.",
+  "why": "It could give developers more resources to build smarter apps and services. Keep an eye on emerging AI tools that may shape future tech jobs.",
+  "tags": [
+   "AI",
+   "Tech",
+   "India",
+   "Startups",
+   "Innovation"
+  ]
+ },
+ "ml": {
+  "headline": "Sarvam AI പുറത്തിറക്കിയ Token Factory, ഇന്ത്യയുടെ AI അടിസ്ഥാനവ്യവസ്ഥ ശക്തമാക്കുന്നു",
+  "hook": "നിങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകൾക്ക് പുതിയ AI ശക്തി വരുന്നു.",
+  "what": "Sarvam AI Token Factory പ്രഖ്യാപിച്ചു, ഇത് ഇന്ത്യയുടെ AI ഇൻഫറൻസ് അടിസ്ഥാനവ്യവസ്ഥയിൽ ഒരു പുതിയ ലെയർ ചേർക്കുന്നു. ഈ പ്ലാറ്റ്ഫോം AI സേവനങ്ങളുടെ വികസനം വേഗത്തിലാക്കും.",
+  "why": "ഡെവലപ്പർമാർക്ക് കൂടുതൽ സ്രോതസ്സുകൾ ലഭിച്ച് സ്മാർട്ട് ആപ്പുകൾ സൃഷ്ടിക്കാൻ സഹായിക്കും. AI മേഖലയിൽ പുതിയ അവസരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "Tech",
+   "India",
+   "Startups",
+   "Innovation"
+  ]
+ }
+}

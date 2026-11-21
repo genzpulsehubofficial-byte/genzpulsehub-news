@@ -1,5 +1,100 @@
 [
  {
+  "id": "97248ce270b5",
+  "created": "2026-11-21T18:23:45+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/periyar-tiger-reserve-launches-eco-friendly-irumudikkettu-in-keralams-sabarimala/article71728195.ece",
+  "headline": "Periyar Reserve rolls out plastic‑free Irumudikkettu in Sabarimala",
+  "hook": "Say goodbye to plastic waste on pilgrim trips.",
+  "what": "The Periyar Tiger Reserve has introduced an eco‑friendly version of the Irumudikkettu for pilgrims visiting Sabarimala. Earlier, the sacred bundles often contained items wrapped in plastic, creating litter inside the reserve. The new design aims to cut down that waste.",
+  "why": "Less plastic means easier clean‑up and protects wildlife habitats, so young travelers can enjoy a greener pilgrimage. Consider using the new bundles if you’re heading to Sabarimala.",
+  "tags": [
+   "Periyar",
+   "Sabarimala",
+   "EcoFriendly",
+   "PlasticFree",
+   "YouthTravel"
+  ]
+ },
+ {
+  "id": "d688b5c88fcc",
+  "created": "2026-11-21T18:23:50+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-100-days-government-yet-to-announce-special-sitting/article71728271.ece",
+  "headline": "Monsoon session still open after 100 days, no special sitting announced",
+  "hook": "Parliament hasn't formally closed the session yet.",
+  "what": "Both Lok Sabha and Rajya Sabha were adjourned indefinitely on August 13. As of the morning of November 21, neither house has been formally prorogued.",
+  "why": "The delay keeps the session technically active, influencing legislative timelines. Young Indians should stay alert for any upcoming announcements.",
+  "tags": [
+   "Parliament",
+   "MonsoonSession",
+   "IndiaPolitics",
+   "Legislation",
+   "Youth"
+  ]
+ },
+ {
+  "id": "e345f4a90515",
+  "created": "2026-11-21T18:23:53+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+  "headline": "Sarvam AI launches Token Factory, boosting India's AI infrastructure",
+  "hook": "A new AI tool could power the apps you love.",
+  "what": "Sarvam AI announced its Token Factory, a platform that adds a new layer to the country's AI infrastructure. The move expands the ecosystem for AI inference in India.",
+  "why": "It could give developers more resources to build smarter apps and services. Keep an eye on emerging AI tools that may shape future tech jobs.",
+  "tags": [
+   "AI",
+   "Tech",
+   "India",
+   "Startups",
+   "Innovation"
+  ]
+ },
+ {
+  "id": "373edcd75a92",
+  "created": "2026-11-21T18:23:55+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1RuSWtEcVFHNmUwQ3ItS3I4X2tlei1LQ2syaGZVWExpbmg1b3hWT3A0RjNUWUZYVUdDcDNlWi11aTA3YU9jVWs5ZTRuT21jeHYybEJaSFJ1SlRpeTRyR1BSLVFGcXVRQ2hncndxbFFBdkU3QUdYek5lN01UV0M1TmxMTWhxQQ?oc=5",
+  "headline": "Australia clinches first T20I win over England at MCG",
+  "hook": "Nikhil Chaudhary’s all‑round heroics seal a nail‑biting finish.",
+  "what": "Australia defeated England by three wickets in the opening men’s T20 International at the Melbourne Cricket Ground. All‑rounder Nikhil Chaudhary and fresh‑face Edwards starred, delivering the winning runs in the final over.",
+  "why": "The close contest highlights the excitement of T20 cricket, encouraging young fans to follow upcoming series and support their favourite teams.",
+  "tags": [
+   "cricket",
+   "T20",
+   "Australia",
+   "England",
+   "MCG"
+  ]
+ },
+ {
+  "id": "74e24fae132a",
+  "created": "2026-11-21T18:23:59+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
+  "headline": "Princess Kate shares cancer story in new doc 'Heal'",
+  "hook": "Watch the royal’s candid journey on BBC and NBC.",
+  "what": "Catherine, Princess of Wales, appears in the documentary 'Heal' where she talks about her battle with cancer. The film will premiere on BBC and later on NBC.",
+  "why": "The documentary gives young viewers insight into coping with serious illness and highlights the value of support and awareness.",
+  "tags": [
+   "PrincessKate",
+   "HealDoc",
+   "BBC",
+   "NBC",
+   "CancerAwareness"
+  ]
+ },
+ {
   "id": "dabe2bc8eff5",
   "created": "2026-11-21T17:30:37+05:30",
   "category": "money",
@@ -653,99 +748,6 @@
    "salaryincrease",
    "OPS",
    "union"
-  ]
- },
- {
-  "id": "2ccb0e8e2658",
-  "created": "2026-11-21T09:56:38+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/pm-modi-to-launch-projects-worth-34-470-crore-in-bihar-today-inaugurate-nitish-setu-101795226668168.html",
-  "headline": "Modi to unveil ₹34,470 cr projects and Nitish Setu in Bihar",
-  "hook": "Big infrastructure boost lands in Bihar as the PM arrives.",
-  "what": "Prime Minister Narendra Modi arrived in Patna to launch projects worth about ₹34,470 crore in Bihar. He also inaugurated the new Nitish Setu bridge, with former chief minister Nitish Kumar greeting him.",
-  "why": "The projects aim to improve connectivity and create jobs, impacting daily travel and employment opportunities for youth. Stay tuned for updates on how the developments may affect local economies.",
-  "tags": [
-   "Bihar",
-   "Infrastructure",
-   "PMModi",
-   "Jobs",
-   "Development"
-  ]
- },
- {
-  "id": "f1c7ef38a91f",
-  "created": "2026-11-21T09:56:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-  "headline": "US startup sues Apple, eyes $162 M over contact sharing",
-  "hook": "A legal battle could delay iPhone and Watch shipments to India.",
-  "what": "A U.S.-based startup has filed a lawsuit against Apple in India, demanding $162 million in compensation. The case targets Apple’s tap‑to‑share contacts feature and seeks a court order that could halt iPhone and Apple Watch imports.",
-  "why": "If the court grants the injunction, Indian teens could face delays or higher prices for Apple devices. Keep an eye on updates if you plan to buy a new iPhone or Watch soon.",
-  "tags": [
-   "Apple",
-   "lawsuit",
-   "tech",
-   "India",
-   "startup"
-  ]
- },
- {
-  "id": "fae103ad469d",
-  "created": "2026-11-21T09:56:42+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-police-3-month-traffic-monitoring-drive-15-junctions-b68lto4q",
-  "headline": "Kochi police to monitor traffic at 15 key spots",
-  "hook": "Your daily commute could get smoother soon",
-  "what": "The city police have chosen fifteen busy intersections, such as Vyttila and Edappally, for a three‑month monitoring program. The aim is to spot bottlenecks and plan better traffic flow.",
-  "why": "Reducing jams will save time for students and workers, so stay alert for new signal timings or route suggestions.",
-  "tags": [
-   "Kochi",
-   "traffic",
-   "commute",
-   "youth",
-   "update"
-  ]
- },
- {
-  "id": "a1fb3c5c5b67",
-  "created": "2026-11-21T08:49:41+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/11-dead-181-hospitalised-after-consuming-toxic-liquor-in-manipur-12355532#publisher=newsstand",
-  "headline": "14 dead, 200+ hospitalized after toxic liquor in Manipur",
-  "hook": "A deadly batch of liquor has left dozens in hospitals.",
-  "what": "Fourteen people died and more than two hundred were admitted to hospitals after drinking contaminated alcohol in Chakpikarong, Chandel district, Manipur. Authorities say the liquor was toxic.",
-  "why": "Such incidents highlight the risk of illicit brews; teens should avoid unknown drinks and report any suspicious batches.",
-  "tags": [
-   "Manipur",
-   "toxic liquor",
-   "health alert"
-  ]
- },
- {
-  "id": "f62cbf069ced",
-  "created": "2026-11-21T08:49:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdi1NdjFwbW5CS2VTejdzTjVma0lZYldwd1JJYjNCcE5CdWVFZkgtOTJfVU1pSS1tUWVDY1p5V1U5b2tEV1J5VFdPX1ZqVFpta1BvS0tranRIUVNWZVJEUFJjODBpQUlwZjRZekJ5b215NHlqcHFBUTdWRVhDclYzYVNhNU5yZmVUb2VaY05JT0RwcF9qMV9fWVVUTjBhU3VVV0o4R3h0Q3d3bVVHUEVvc2ZranJlNHVrbGsyMWxUbi1BS3NLcEdWOXY4WGhmRmROR1ZXNVJEVHV6QdIB3wFBVV95cUxOWnoyT1lweVZ4Q3d2S2RNZUJ3SmItVkZlV3pRcWEwZ2lHajFEMEd6SnhpX0RIVUVQZVRXX1k2UTZTbEFSSXFQZnNoTDFSTkZ2aERsZzlLYy0zWnRjbGJnQ2VFSm91MUNPdW51Mlg2cnFtaWQ5VWtWLUxjd1c3LTQyWG9hZkhCcnNDN25WR0FlcGNJVnpDXzhzQVdmRTBMV18xTzl0ZmxTaFRHTXhzbjNtS1hjSmRmaTQ0V2NCZjR6WEtITFVRMW83RlVIZGZsemZOUE1xYnpwVTBZcTF0Zmtv?oc=5",
-  "headline": "Trump calls Fed 'political' over high US interest rates",
-  "hook": "Ex‑president says US rates are too high compared to India.",
-  "what": "Former President Donald Trump criticized the US Federal Reserve, calling it political for keeping interest rates high. He pointed to India’s lower rates and suggested the US could grow at 14‑15% if rates were cut.",
-  "why": "High interest rates affect loan costs for students and startups, so any push for cuts could impact borrowing. Trump's comments highlight global comparisons that may shape economic debates relevant to young Indians.",
-  "tags": [
-   "Trump",
-   "Fed",
-   "InterestRates",
-   "India",
-   "Economy"
   ]
  }
 ]
