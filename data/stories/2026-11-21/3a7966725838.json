@@ -1,0 +1,37 @@
+{
+ "id": "3a7966725838",
+ "created": "2026-11-21T23:27:36+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "BikeAdvice",
+ "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3YxOThnb2JIejhpdlRnX043M2hoUDVvdDdFbktDVXktaVNJTTVQdjk2bUFLdHhya1BzdVJtS2t0Q09qMzIzYTAyUVd0ekFVVDVNMEZFdXhJR1g1cE1iZFJiRXVZcV8xUTBmWkVubk9KY016dHd6bU5BSWo0TnF3YzJXYlA2UQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Suzuki Access 125 2026 priced at Rs 83,086, arrives in fresh colours",
+  "hook": "New Access 125 hits the road with a fresh look and price.",
+  "what": "Suzuki unveiled its 2026 Access 125 scooter, setting the ex‑showroom price at Rs 83,086. The model is offered in a range of new colour options.",
+  "why": "Affordable pricing and stylish colours could attract students and first‑time riders. Check local dealers for availability and test rides.",
+  "tags": [
+   "Suzuki",
+   "Access125",
+   "NewLaunch",
+   "Price",
+   "Colors"
+  ]
+ },
+ "ml": {
+  "headline": "Suzuki Access 125 2026 വില Rs 83,086, പുതിയ നിറങ്ങളോടെ",
+  "hook": "പുതിയ നിറങ്ങളുള്ള Access 125, യുവാക്കളുടെ ശ്രദ്ധ പിടിച്ചുപറ്റും",
+  "what": "Suzuki 2026 മോഡലായ Access 125 പുറത്തിറക്കി, എക്സ്ഷോഴ്‌സ് വില Rs 83,086 ആയി പ്രഖ്യാപിച്ചു. ഈ സ്കൂട്ടർ പുതിയ നിറങ്ങളിലുണ്ട്.",
+  "why": "കുറഞ്ഞ വിലയും സ്റ്റൈലിഷ് നിറങ്ങളും വിദ്യാർത്ഥികളും ആദ്യവാഹകർക്കും ആകർഷകമാണ്. അടുത്ത ഡീലർ ഷോപ്പിൽ പോയി ടെസ്റ്റ് റൈഡ് ചെയ്യാം.",
+  "tags": [
+   "Suzuki",
+   "Access125",
+   "പുതിയലോഞ്ച്",
+   "വില",
+   "നിറങ്ങൾ"
+  ]
+ }
+}

@@ -1,5 +1,100 @@
 [
  {
+  "id": "235be75ad87e",
+  "created": "2026-11-21T23:27:29+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVjVQVkpveVducTlDTHUzWlBjYlpGSThLbFpnR2FKclZmaEZPMmc2ZWlSUTlGR01scXR4aTNua0xMSm01bTdwcFUtMHM1Q3dXRzJ1TThUUC1MN0xqazFBVkpZdXFDbWQ0a0tPcUxRWURnbFJQNlZyX1NGT0ZhMDg5SlpralJLT0tuNzN4a25LZHZrd3ZHYkNWSTdreF9LRDB2dHRMVlRFQVRaSEVDYWdpR1VuNl9hTzJnSFJCWWtlS2NqVUpMeU5qa3kxWkp2Tnd3NUtDNTl1bktlV3Fwcm1JdENacXk1QmpIcF9reDFTUGgtSW83ZUYtdTd1ZVExQWtXbDR3?oc=5",
+  "headline": "US panel says China backed Pakistan in Operation Sindoor",
+  "hook": "China’s covert aid to Pakistan may reshape regional power balance.",
+  "what": "A US congressional panel reported that China provided support to Pakistan during the military operation called Sindoor. The panel said the assistance was intended to limit India’s strategic growth.",
+  "why": "Such backing could affect security dynamics in South Asia, influencing India’s diplomatic and defence outlook. Young people should stay informed about regional developments.",
+  "tags": [
+   "India",
+   "China",
+   "Pakistan",
+   "Geopolitics",
+   "USReport"
+  ]
+ },
+ {
+  "id": "5f099527d4d8",
+  "created": "2026-11-21T23:27:31+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "We Ain't Got No History",
+  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEhWUXRTU1R1M3A3aDJWd05WNUxyd2hxelZGQkVjNE1Wc1VDRUNYTHVyUlRVUld6VHVUdnBWcVYwVWZsbDhiQ0FLbkZIRl9qYUZsV3NIU2xXNURrVm00MXFnZURCTmRKSU51a250T0RtTkNUNTFaRjZjVXZaM3F5OXdzV0VtcUdtbi1BTDhtamtuRUdJeFo1dkxGOTN6RFd4QnBvWlZ2MmxJdEhEaXJuanNkQkdYbTZwb2lQZmRmcy11c3VpMzJDQQ?oc=5",
+  "headline": "Leeds thrash Chelsea 4-1, Okafor nets brace",
+  "hook": "Leeds' big win puts Xabi Alonso under the spotlight.",
+  "what": "Leeds United beat Chelsea 4-1 in the Premier League. Noah Okafor scored twice for Leeds. Chelsea's João Pedro remained unavailable.",
+  "why": "The loss raises pressure on Chelsea's coach and could influence upcoming line‑ups, so fans should watch for squad updates.",
+  "tags": [
+   "PremierLeague",
+   "LeedsVsChelsea",
+   "Okafor",
+   "XabiAlonso",
+   "Football"
+  ]
+ },
+ {
+  "id": "79ae8b1438d6",
+  "created": "2026-11-21T23:27:34+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Business Insider",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnU4MHkxSU5DSkRlWkdZbGJaQXppeUJwckVueDN2V3A4bjFkaW5KMzhFSm42dmRPTkZqWVE1WnRIWjJwcU94TjMtNDJIWDRYTENIMVU1ZDhFbnVXWXdITjEyMjZuMlJXb2tnQlNKbWdPcjYzelN4R0RMWkIyWTJhX3p2VlJPR1JwTXhYSTFqUQ?oc=5",
+  "headline": "Nvidia ex-CEO Jensen Huang faces calls to return",
+  "hook": "Allies and leaders urge the tech chief to keep fighting.",
+  "what": "Jensen Huang stepped down from his role at Nvidia. Since his resignation, allies have told him to ‘fight’. Figures such as former President Trump and Microsoft CEO Satya Nadella have praised him, while some board members continue to push for his comeback.",
+  "why": "Nvidia’s direction influences AI and gaming tools that many teens use, so changes at the top can affect future job and product trends. Stay aware of such shifts in the tech world.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "Leadership",
+   "News"
+  ]
+ },
+ {
+  "id": "3a7966725838",
+  "created": "2026-11-21T23:27:36+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "BikeAdvice",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3YxOThnb2JIejhpdlRnX043M2hoUDVvdDdFbktDVXktaVNJTTVQdjk2bUFLdHhya1BzdVJtS2t0Q09qMzIzYTAyUVd0ekFVVDVNMEZFdXhJR1g1cE1iZFJiRXVZcV8xUTBmWkVubk9KY016dHd6bU5BSWo0TnF3YzJXYlA2UQ?oc=5",
+  "headline": "Suzuki Access 125 2026 priced at Rs 83,086, arrives in fresh colours",
+  "hook": "New Access 125 hits the road with a fresh look and price.",
+  "what": "Suzuki unveiled its 2026 Access 125 scooter, setting the ex‑showroom price at Rs 83,086. The model is offered in a range of new colour options.",
+  "why": "Affordable pricing and stylish colours could attract students and first‑time riders. Check local dealers for availability and test rides.",
+  "tags": [
+   "Suzuki",
+   "Access125",
+   "NewLaunch",
+   "Price",
+   "Colors"
+  ]
+ },
+ {
+  "id": "21c16b9f4359",
+  "created": "2026-11-21T23:27:39+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Sky Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTlV1QjVlWDRmcnNwaUx5cmJRV3FRcWJ0TnBxZWJyTHdaUEcyX2V6LXVsa3VQb3JpalBjWUJDWEdrb2RGcnhWUVBjdktPcmdwd3B3LWcyOTRldTVabjhyV2RDR19xUjR3MTVJYWg1R2ZXY1FpeUlXeGtDR1F5d3hCeFlvTVpQTzZzSjVZT3hrZVNiQUREQXl6ZE5LOVVZdmR2VUNMQm04c0ppaFg2VEExWFpSNHF2OWxnc0k5Uk5QdTQ1Y3pMbC12d2NLaDRZZkJCNy1UcTItUXFEaEh2VWU2UlZyXzcyRlE?oc=5",
+  "headline": "Alcaraz Beats Shelton to Reach ATP Finals Showdown",
+  "hook": "Spain’s star fights back to book the final spot",
+  "what": "Carlos Alcaraz, a seven‑time Grand Slam champion, defeated Ben Shelton at the Nitto ATP Finals. He played with a wrapped thigh and a taped knee and still outlasted his opponent to move into the championship match.",
+  "why": "The victory keeps the excitement alive for Indian tennis fans and highlights the value of perseverance. Watch the final for more high‑energy action.",
+  "tags": [
+   "tennis",
+   "ATP Finals",
+   "Alcaraz",
+   "Shelton",
+   "sports"
+  ]
+ },
+ {
   "id": "53e8f4e5902d",
   "created": "2026-11-21T22:43:28+05:30",
   "category": "headlines",
@@ -658,99 +753,6 @@
    "IMD",
    "Weather",
    "Youth"
-  ]
- },
- {
-  "id": "642c604d0984",
-  "created": "2026-11-21T15:54:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/",
-  "headline": "Haircare brand Traya posts 73% revenue rise to ₹585 cr",
-  "hook": "Your favourite hair products just helped a startup hit half‑billion rupees.",
-  "what": "Traya, a haircare startup backed by Fireside, reported revenue of ₹585 crore for FY26, a 73% increase from the previous year. Its net loss also grew by 23%.",
-  "why": "The surge reflects strong demand for grooming items among Indian youth, while the higher loss shows the challenges of rapid scaling. Watch emerging brands for future job or investment chances.",
-  "tags": [
-   "haircare",
-   "startup",
-   "revenue",
-   "India",
-   "FY26"
-  ]
- },
- {
-  "id": "fd537c4717c0",
-  "created": "2026-11-21T15:54:25+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/lifestyle/health/health-insurance-irdai-real-time-claim-tracking-faster-settlements-keralam-edijgind",
-  "headline": "IRDAI to enable real‑time health claim tracking",
-  "hook": "Instant updates on your medical claim could be coming soon.",
-  "what": "The Insurance Regulator is set to introduce live tracking for health insurance claims, standardised settlement rules and clearer explanations for rejections. The move aims to make the process more transparent.",
-  "why": "For Indian youth, faster, transparent payouts mean less hassle during emergencies; keep an eye on policy updates and check if your insurer adopts the new system.",
-  "tags": [
-   "healthinsurance",
-   "IRDAI",
-   "realTimeClaims",
-   "Kerala",
-   "youngIndia"
-  ]
- },
- {
-  "id": "4be01e7fe4e8",
-  "created": "2026-11-21T15:03:14+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece",
-  "headline": "Union Minister Shah to discuss Siang Valley dam concerns",
-  "hook": "Your voice could shape a massive river project",
-  "what": "Union Home Minister Shah said he learned about the worries of people in Siang Valley over a dam project from media reports. He called the issues raised significant and promised to address them through dialogue.",
-  "why": "Large infrastructure projects can affect local communities, so staying updated helps you share your view. Keep an eye on the story and discuss it with friends.",
-  "tags": [
-   "SiangValley",
-   "DamProject",
-   "YouthVoice",
-   "IndiaNews"
-  ]
- },
- {
-  "id": "4b681006b499",
-  "created": "2026-11-21T15:03:16+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/edamalakudy-tribal-panchayat-financial-crisis-pinarayi-vijayan-udf-government-ptiya872f1m",
-  "headline": "Edamalakudy Tribal Panchayat Threatened With Closure, Says Opposition",
-  "hook": "Kerala’s first tribal council may shut down over cash crunch.",
-  "what": "Opposition leader Pinarayi Vijayan said Edamalakudy, the state’s inaugural tribal panchayat, is confronting a severe financial shortfall and unpaid staff wages. The situation could lead to its closure.",
-  "why": "If the council closes, local tribal communities could lose essential services. Young people should stay informed and push for timely government action.",
-  "tags": [
-   "Kerala",
-   "TribalPanchayat",
-   "FinanceCrisis",
-   "YouthAction"
-  ]
- },
- {
-  "id": "eed873b0b67e",
-  "created": "2026-11-21T15:03:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-debt-and-equity-which-portfolio-mix-offers-better-returns-with-lower-volatility-25-years-of-data-provide-answer-11795246256111.html",
-  "headline": "25‑Year Study Shows Best Mix for Stable Returns",
-  "hook": "Looking for steady growth without crazy swings? See the winning combo.",
-  "what": "A review of 25 years of equity, debt and gold data compared returns and volatility for various mixes. The analysis pinpointed which allocation delivered higher gains with lower risk.",
-  "why": "Knowing the optimal blend helps young investors grow their savings while keeping losses in check. Teens can use this guide to start building a balanced portfolio early.",
-  "tags": [
-   "finance",
-   "investing",
-   "portfolio",
-   "youth",
-   "India"
   ]
  }
 ]

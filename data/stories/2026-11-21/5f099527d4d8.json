@@ -1,0 +1,37 @@
+{
+ "id": "5f099527d4d8",
+ "created": "2026-11-21T23:27:31+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "We Ain't Got No History",
+ "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEhWUXRTU1R1M3A3aDJWd05WNUxyd2hxelZGQkVjNE1Wc1VDRUNYTHVyUlRVUld6VHVUdnBWcVYwVWZsbDhiQ0FLbkZIRl9qYUZsV3NIU2xXNURrVm00MXFnZURCTmRKSU51a250T0RtTkNUNTFaRjZjVXZaM3F5OXdzV0VtcUdtbi1BTDhtamtuRUdJeFo1dkxGOTN6RFd4QnBvWlZ2MmxJdEhEaXJuanNkQkdYbTZwb2lQZmRmcy11c3VpMzJDQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Leeds thrash Chelsea 4-1, Okafor nets brace",
+  "hook": "Leeds' big win puts Xabi Alonso under the spotlight.",
+  "what": "Leeds United beat Chelsea 4-1 in the Premier League. Noah Okafor scored twice for Leeds. Chelsea's João Pedro remained unavailable.",
+  "why": "The loss raises pressure on Chelsea's coach and could influence upcoming line‑ups, so fans should watch for squad updates.",
+  "tags": [
+   "PremierLeague",
+   "LeedsVsChelsea",
+   "Okafor",
+   "XabiAlonso",
+   "Football"
+  ]
+ },
+ "ml": {
+  "headline": "Leeds 4-1 കൊണ്ട് Chelsea-നെ തകർത്തു, Okafor ഡബിൾ",
+  "hook": "Leeds-ന്റെ വലിയ വിജയം Xabi Alonso-യുടെ മേൽ സമ്മർദ്ദം കൂട്ടി.",
+  "what": "Leeds United, Premier League-ൽ Chelsea-നെ 4-1 ന് തോൽപ്പിച്ചു. Noah Okafor രണ്ട് ഗോൾ നേടി. Chelsea-യുടെ João Pedro ഇപ്പോഴും കളിയ്ക്കില്ല.",
+  "why": "ഫലം കോച്ചിന് ചോദ്യങ്ങൾ ഉയർത്തി, അടുത്ത മത്സരങ്ങളിൽ മാറ്റങ്ങൾ വരാൻ സാധ്യത, അതിനാൽ ഫാൻമാർ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "PremierLeague",
+   "LeedsVsChelsea",
+   "Okafor",
+   "XabiAlonso",
+   "Football"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "21c16b9f4359",
+ "created": "2026-11-21T23:27:39+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Sky Sports",
+ "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTlV1QjVlWDRmcnNwaUx5cmJRV3FRcWJ0TnBxZWJyTHdaUEcyX2V6LXVsa3VQb3JpalBjWUJDWEdrb2RGcnhWUVBjdktPcmdwd3B3LWcyOTRldTVabjhyV2RDR19xUjR3MTVJYWg1R2ZXY1FpeUlXeGtDR1F5d3hCeFlvTVpQTzZzSjVZT3hrZVNiQUREQXl6ZE5LOVVZdmR2VUNMQm04c0ppaFg2VEExWFpSNHF2OWxnc0k5Uk5QdTQ1Y3pMbC12d2NLaDRZZkJCNy1UcTItUXFEaEh2VWU2UlZyXzcyRlE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Alcaraz Beats Shelton to Reach ATP Finals Showdown",
+  "hook": "Spain’s star fights back to book the final spot",
+  "what": "Carlos Alcaraz, a seven‑time Grand Slam champion, defeated Ben Shelton at the Nitto ATP Finals. He played with a wrapped thigh and a taped knee and still outlasted his opponent to move into the championship match.",
+  "why": "The victory keeps the excitement alive for Indian tennis fans and highlights the value of perseverance. Watch the final for more high‑energy action.",
+  "tags": [
+   "tennis",
+   "ATP Finals",
+   "Alcaraz",
+   "Shelton",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "അല്‍കറാസ് ഷെല്‍ട്ടന്‍നെ തോല്‍പ്പിച്ച് ATP ഫൈനലില്‍ പ്രവേശിച്ചു",
+  "hook": "സ്പെയിനിലെ താരമാര്‍ വീണ്ടും ശക്തി തെളിച്ചു, ഫൈനല്‍ സ്ഥാനം ഉറപ്പിച്ചു",
+  "what": "സെവന്‍ ഗ്രാന്‍ഡ് സ്ലാം ചാമ്പ്യന്‍ കാര്‍ലോസ് അല്‍കറാസ്, Nitto ATP Finals-ല്‍ ബെന്‍ ഷെല്‍ട്ടന്‍നെ പരാജയപ്പെടുത്തി. തൈയില്‍ റാപ്പും മുട്ടയില്‍ ടേപ്പും ഉണ്ടായിരുന്നിട്ടും അദ്ദേഹം മത്സരത്തെ ജയിച്ചു, ചാമ്പ്യന്‍ഷിപ്പ് മാച്ചിലേക്ക് എത്തിയു.",
+  "why": "ഇത് ഇന്ത്യയിലെ ടെന്‍nis ആരാധകര്‍ക്ക് ആവേശം കൂട്ടും, സ്ഥിരതയുടെ പ്രാധാന്യം കാണിക്കുന്നു. ഫൈനല്‍ മാച്ച് കാണാന്‍ മറക്കരുത്.",
+  "tags": [
+   "ടെന്നീസ്",
+   "ATP Finals",
+   "അല്‍കറാസ്",
+   "ഷെല്‍ട്ടന്‍",
+   "സ്പോര്‍ട്‌സ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "79ae8b1438d6",
+ "created": "2026-11-21T23:27:34+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Business Insider",
+ "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnU4MHkxSU5DSkRlWkdZbGJaQXppeUJwckVueDN2V3A4bjFkaW5KMzhFSm42dmRPTkZqWVE1WnRIWjJwcU94TjMtNDJIWDRYTENIMVU1ZDhFbnVXWXdITjEyMjZuMlJXb2tnQlNKbWdPcjYzelN4R0RMWkIyWTJhX3p2VlJPR1JwTXhYSTFqUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia ex-CEO Jensen Huang faces calls to return",
+  "hook": "Allies and leaders urge the tech chief to keep fighting.",
+  "what": "Jensen Huang stepped down from his role at Nvidia. Since his resignation, allies have told him to ‘fight’. Figures such as former President Trump and Microsoft CEO Satya Nadella have praised him, while some board members continue to push for his comeback.",
+  "why": "Nvidia’s direction influences AI and gaming tools that many teens use, so changes at the top can affect future job and product trends. Stay aware of such shifts in the tech world.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "Leadership",
+   "News"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidiaയുടെ മുൻ CEO ജെൻസൻ ഹുവാങ് തിരിച്ചു വരാൻ വിളി",
+  "hook": "സുഹൃത്തുക്കളും നേതാക്കളും അദ്ദേഹത്തെ പോരാട്ടം തുടരാൻ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "what": "ജെൻസൻ ഹുവാങ് Nvidiaയിൽ നിന്ന് രാജിവെച്ചു. അതിനുശേഷം, അദ്ദേഹത്തിന്റെ കൂട്ടുകാർ ‘പോരാട്ടം തുടരുക’ എന്ന് പറഞ്ഞു. മുൻ പ്രസിഡണ്ട് ട്രംപ്, മൈക്രോസോഫ്റ്റ് CEO സത്യ നദെല്ല എന്നിവരും അദ്ദേഹത്തെ പ്രശംസിച്ചു, ചില ഡയറക്ടർമാർ തിരിച്ചു വരാൻ പിന്തുണയിടുന്നു.",
+  "why": "Nvidiaയുടെ തീരുമാനങ്ങൾ AI, ഗെയിമിംഗ് തുടങ്ങിയവയിൽ യുവജനങ്ങളുടെ ജോലി, വിനോദം എന്നിവയെ ബാധിക്കും. ഈ മാറ്റങ്ങളെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "Leadership",
+   "News"
+  ]
+ }
+}

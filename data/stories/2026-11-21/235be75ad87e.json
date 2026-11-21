@@ -1,0 +1,37 @@
+{
+ "id": "235be75ad87e",
+ "created": "2026-11-21T23:27:29+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVjVQVkpveVducTlDTHUzWlBjYlpGSThLbFpnR2FKclZmaEZPMmc2ZWlSUTlGR01scXR4aTNua0xMSm01bTdwcFUtMHM1Q3dXRzJ1TThUUC1MN0xqazFBVkpZdXFDbWQ0a0tPcUxRWURnbFJQNlZyX1NGT0ZhMDg5SlpralJLT0tuNzN4a25LZHZrd3ZHYkNWSTdreF9LRDB2dHRMVlRFQVRaSEVDYWdpR1VuNl9hTzJnSFJCWWtlS2NqVUpMeU5qa3kxWkp2Tnd3NUtDNTl1bktlV3Fwcm1JdENacXk1QmpIcF9reDFTUGgtSW83ZUYtdTd1ZVExQWtXbDR3?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "US panel says China backed Pakistan in Operation Sindoor",
+  "hook": "China’s covert aid to Pakistan may reshape regional power balance.",
+  "what": "A US congressional panel reported that China provided support to Pakistan during the military operation called Sindoor. The panel said the assistance was intended to limit India’s strategic growth.",
+  "why": "Such backing could affect security dynamics in South Asia, influencing India’s diplomatic and defence outlook. Young people should stay informed about regional developments.",
+  "tags": [
+   "India",
+   "China",
+   "Pakistan",
+   "Geopolitics",
+   "USReport"
+  ]
+ },
+ "ml": {
+  "headline": "US പാനൽ ചൈനയുടെ പാക്കിസ്താൻ പിന്തുണ Operation Sindoor‑ൽ",
+  "hook": "ചൈനയുടെ രഹസ്യ സഹായം ദക്ഷിണേഷ്യയുടെ ശക്തി സമതുലിതത്വം മാറ്റാം.",
+  "what": "ഒരു US കോൺഗ്രസ് പാനൽ ചൈന പാക്കിസ്താനിന് Operation Sindoor എന്ന സൈനിക പ്രവർത്തനത്തിൽ പിന്തുണ നൽകിയെന്ന് വെളിപ്പെടുത്തി. ഈ സഹായം ഇന്ത്യയുടെ തന്ത്രപരമായ വളർച്ചയെ തടയാൻ ലക്ഷ്യമിട്ടതാണെന്ന് അവര്‍ പറഞ്ഞു.",
+  "why": "ഇത്തരത്തിലുള്ള പിന്തുണ ദക്ഷിണേഷ്യയിലെ സുരക്ഷാ സാഹചര്യത്തെ ബാധിക്കാം, ഇന്ത്യയുടെ വിദേശ‑രക്ഷാ നയത്തെ സ്വാധീനിക്കും. യുവജനങ്ങൾ പ്രദേശിക സംഭവവികാസങ്ങളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക.",
+  "tags": [
+   "India",
+   "China",
+   "Pakistan",
+   "Geopolitics",
+   "USReport"
+  ]
+ }
+}
