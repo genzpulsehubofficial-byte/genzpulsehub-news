@@ -1,0 +1,37 @@
+{
+ "id": "a369834fa01d",
+ "created": "2026-11-21T14:05:23+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFIwX3NSaThDeS1PdTdmSGxscnNjNDZkaFVsdjViQ2pXMEdTYjM0YlRMdmcwUzJLS2hBaWxabUhLQ3ZRV05EeENfTHh0ZHRLN2JmbWx5N2JTVjN3MlhZRlNKUVh5Tmw1UGVFTERGQXlVSUpOUzVUdEdwaU15b3p3VDZmN19TQk41bTEzY2hmTmNLRmllUVdoTXVUanRtdDFyQjFRRnBTeENnWHU0aG1BOVYzcFdPQmROZHJUQTRkZ3EtMm9LWU9xQ1lyLVk3VHVXOW9iMNIB2wFBVV95cUxQZDU5ZWVsaFVuWWFhdHN2NF9kRnIzUHJGTkNLYUJ4dWNDNDFidjc4YnBVMzB4X2tKcWE0VHhONXpRcE5MazhyZ2lpbldLX3FDZ0JXU1hqTVE4MEZmR2ZFQTZyd0FrVTBxc0xCMkMyaEhXZ1k3Qm5MYi1HdFc3UENqQnFMeFRGZzJRYjQxSUlTNzlCbm5aa1ozdUlKT1V6NTZIYVgxZVNsZkF0MnA2R0Rqd1d6d1pUMGFNRXFLVjhna1NrMTFvaXZjeEY5NWdBX3BNT1pOa2s1YTR3cFU?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO offers monthly pension option for retirees",
+  "hook": "Your PF can now turn into a steady paycheck.",
+  "what": "The Employees' Provident Fund Organisation introduced a Systematic Withdrawal Plan that lets retirees keep their PF balance and receive a fixed monthly amount. The plan was discussed at the 240th meeting of the Central Board of Trustees chaired by Dr. Mansukh Mandaviya. Authorities are also looking at tax adjustments for the scheme.",
+  "why": "Young workers should know this option exists for future retirement planning and may need to consider its tax implications later. Understanding the payout structure can help in long‑term financial decisions.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "retirement",
+   "monthlyincome",
+   "tax"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO വിരമിച്ചവർക്കു മാസവേതന ഓപ്ഷന്‍ നല്‍കുന്നു",
+  "hook": "നിങ്ങളുടെ PF ഇപ്പോൾ സ്ഥിരമായ ശമ്പളമായി മാറാം.",
+  "what": "Employees' Provident Fund Organisation ഒരു Systematic Withdrawal Plan ആരംഭിച്ചു, അതിലൂടെ വിരമിച്ചവർക്കു PF ബാലൻസ് നിലനിർത്തി സ്ഥിരമായ മാസവരുമാനം ലഭിക്കും. ഈ പദ്ധതി Dr. Mansukh Mandaviya ചുമതലയിലുള്ള 240‑ാം Central Board of Trustees യോഗത്തിൽ ചർച്ച ചെയ്തു. പദ്ധതി സംബന്ധിച്ച് വരുമാന നികുതിയിൽ മാറ്റങ്ങൾക്കായി ശ്രമം നടക്കുന്നു.",
+  "why": "ഇന്ന് ജോലി ചെയ്യുന്ന യുവാക്കൾക്ക് ഭാവി വിരമിക്കൽ പദ്ധതികളിൽ ഈ ഓപ്ഷൻ അറിയേണ്ടതുണ്ട്, നികുതി പ്രതിഫലങ്ങൾക്കായി തയ്യാറാകാം. പേയ്മെന്റ് രീതിയെ മനസ്സിലാക്കുന്നത് ദീർഘകാല സാമ്പത്തിക തീരുമാനങ്ങളിൽ സഹായിക്കും.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "വിരമിക്കൽ",
+   "മാസവരുമാനം",
+   "നികുതി"
+  ]
+ }
+}

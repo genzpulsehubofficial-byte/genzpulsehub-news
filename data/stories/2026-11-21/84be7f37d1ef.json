@@ -1,0 +1,37 @@
+{
+ "id": "84be7f37d1ef",
+ "created": "2026-11-21T14:05:25+05:30",
+ "category": "trending",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/malayali-travel-vlogger-dies-during-everest-base-camp-trek-in-nepal-ams-suspected-kjvvxqar",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Malayali Vlogger Dies on Everest Base Camp Trek",
+  "hook": "A popular travel creator’s fatal trek raises safety concerns.",
+  "what": "Travel vlogger Anjunath, who had completed the Annapurna Base Camp trek last year, died while attempting the Everest Base Camp trek in Nepal. Authorities suspect acute mountain sickness as the cause.",
+  "why": "Young adventurers should understand altitude risks and prepare thoroughly before high‑altitude treks.",
+  "tags": [
+   "Everest",
+   "Travel",
+   "Vlogger",
+   "AltitudeSickness",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "മലെയാലി വ്ലോഗർ എവറസ്റ്റ് ബേസ് ക്യാമ്പിൽ മരണം",
+  "hook": "പ്രസിദ്ധ യാത്രാ ക്രിയേറ്ററുടെ മരണം, ഉയർന്ന ഉയരത്തിൽ സുരക്ഷയുടെ പ്രാധാന്യം",
+  "what": "അഞ്ചുനാഥ്, കഴിഞ്ഞ വർഷം അന്നപൂർണ്ണ ബേസ് ക്യാമ്പ് പൂർത്തിയാക്കിയവൻ, നെപ്പാളിലെ എവറസ്റ്റ് ബേസ് ക്യാമ്പ് ട്രെക്കിൽ മരണമടഞ്ഞു. ആക്യൂട് മൗണ്ടൻ സിക്ക്നസ് (AMS) കാരണമാകാം എന്ന് സംശയിക്കുന്നു.",
+  "why": "ഉയർന്ന ഉയരത്തിലുള്ള ട്രെക്കുകൾ ചെയ്യുമ്പോൾ ആൾട്ടിറ്റ്യൂഡ് രോഗം ഒഴിവാക്കാൻ ശരിയായ തയ്യാറെടുപ്പ് ആവശ്യമാണ്.",
+  "tags": [
+   "Everest",
+   "Travel",
+   "Vlogger",
+   "AltitudeSickness",
+   "India"
+  ]
+ }
+}

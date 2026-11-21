@@ -1,0 +1,37 @@
+{
+ "id": "4fe187a0fb91",
+ "created": "2026-11-21T14:04:15+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-hits-back-at-rahul-gandhis-compromised-pm-jibe-questions-congress-on-1962-war-poverty/article71727457.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Rijiju rebuts Gandhi's 'compromised PM' comment, raises 1962 war query",
+  "hook": "Political spar sparks fresh debate on India's past wars and poverty",
+  "what": "Congress leader Rahul Gandhi said the prime minister is compromised. BJP minister Kiren Rijiju answered, questioning the Congress on the 1962 war and poverty. The exchange prompted BJP figures to call Gandhi clueless about global geopolitics.",
+  "why": "These exchanges shape the political narrative that influences policies on history and social issues. Staying aware helps young Indians understand how parties frame national debates.",
+  "tags": [
+   "politics",
+   "India",
+   "debate",
+   "history",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "റിജിജു ഗാന്ധിയുടെ 'കമ്പ്രോമൈസ്ഡ് PM' വിമർശനത്തെതിരെ മറുപടി, 1962 യുദ്ധത്തെക്കുറിച്ച് ചോദ്യം",
+  "hook": "രാഷ്ട്രീയ തർക്കം ഇന്ത്യയുടെ ചരിത്രവും ദാരിദ്ര്യവും സംബന്ധിച്ച് പുതിയ ചർച്ചയ്ക്ക് വഴിയൊരുക്കി",
+  "what": "കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാൻധി പ്രധാനമന്ത്രിയെ കമ്പ്രോമൈസ്ഡ് എന്ന് ആരോപിച്ചു. ബി.ജെ.പി. മന്ത്രിയായ കിരൺ റിജിജു മറുപടി നൽകി, 1962 യുദ്ധവും ദാരിദ്ര്യവും സംബന്ധിച്ച് കോൺഗ്രസ് ചോദ്യം ചെയ്തു. ഈ പരസ്പരവാദം ബി.ജെ.പി. നേതാക്കളെ ഗാൻധിയെ ആഗോള ഭൂ-രാഷ്ട്രീയത്തിൽ അജ്ഞാനി എന്ന് വിമർശിക്കാൻ നയിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള ചർച്ചകൾ രാജ്യത്തിന്റെ നയങ്ങളും യുവതലമുറയുടെ കാഴ്ചപ്പാടുകളും സ്വാധീനിക്കും. രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ, നിങ്ങളുടെ അഭിപ്രായം രൂപപ്പെടുത്തൂ.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "ഇന്ത്യ",
+   "വിവാദം",
+   "ചരിത്രം",
+   "യുവാക്കൾ"
+  ]
+ }
+}
