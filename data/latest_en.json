@@ -1,5 +1,62 @@
 [
  {
+  "id": "52189579fbef",
+  "created": "2026-11-22T04:50:40+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "LiveNOW from FOX",
+  "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2g3ZEs3QXFpRUZfUEF2ak93WVAzeGotdGg4OVdEUnViNklaZUs3NWxvNVdWeDUtT05DQnAtNUp2bGpUYW9yTVlKY0hmdmNDQU95QURzWE5wNUF0YTVLNkNTdV9sc3UwTzQ0cnpBR1FSelBJTkpxdnFnMlYwS1JHaF9UNC1KNmIwZWhMUnowcFdhVUJpMlVtMm5kRzI?oc=5",
+  "headline": "Study uncovers 27 new insights on endometriosis",
+  "hook": "A fresh study reveals more about a condition many women face.",
+  "what": "Researchers identified 27 new clues linked to endometriosis, a painful disease affecting about one in ten women. The findings expand current understanding of the condition.",
+  "why": "These insights could aid better diagnosis and treatment, which matters for young women experiencing symptoms.",
+  "tags": [
+   "endometriosis",
+   "womenhealth",
+   "research",
+   "teenhealth",
+   "India"
+  ]
+ },
+ {
+  "id": "985420d8fa39",
+  "created": "2026-11-22T04:50:43+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
+  "headline": "Lisbon streets fill as cost‑of‑living protests swell",
+  "hook": "Young Indians feel the pinch too—see why youths are marching across Europe.",
+  "what": "Large crowds gathered in Lisbon and other cities in Portugal, France and Spain to demonstrate against rising living expenses, especially housing costs. Demonstrators demanded lower rents and higher wages.",
+  "why": "The surge in living costs highlights challenges many young people face worldwide, reminding Indian teens to stay aware of economic trends and consider budgeting or advocacy.",
+  "tags": [
+   "costofliving",
+   "protest",
+   "housing",
+   "Portugal",
+   "youth"
+  ]
+ },
+ {
+  "id": "2430833a641d",
+  "created": "2026-11-22T04:50:48+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Washington Post",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
+  "headline": "RFK Jr. pledges action as measles resurges worldwide",
+  "hook": "Kids are losing oxygen while measles cases climb again.",
+  "what": "Robert F. Kennedy Jr. says he will tackle the growing measles outbreak after earlier downplaying it. Health officials note children are suffering from oxygen shortages as the disease spreads.",
+  "why": "The rise threatens global vaccination goals and even caused the U.S. to lose its measles‑free status, urging nations to boost immunisation efforts.",
+  "tags": [
+   "measles",
+   "health",
+   "vaccination",
+   "global",
+   "youth"
+  ]
+ },
+ {
   "id": "36c84f9e6c78",
   "created": "2026-11-22T04:02:26+05:30",
   "category": "tech",
@@ -697,62 +754,6 @@
    "Alcaraz",
    "Shelton",
    "sports"
-  ]
- },
- {
-  "id": "53e8f4e5902d",
-  "created": "2026-11-21T22:43:28+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
-  "headline": "Cricketer Yuzvendra Chahal joins BJP, appointed to OBC Morcha",
-  "hook": "Your favourite spinner steps into politics with a key party role.",
-  "what": "International cricketer Yuzvendra Chahal announced his entry into the Bharatiya Janata Party. He has been given a position in the party’s OBC Morcha committee. Earlier, he met the Morcha’s president, Amarpal Maurya.",
-  "why": "His move shows sports personalities entering politics, which could influence youth engagement. Keep an eye on his political activities and any initiatives targeting young voters.",
-  "tags": [
-   "YuzvendraChahal",
-   "BJP",
-   "OBCMorcha",
-   "Politics",
-   "Youth"
-  ]
- },
- {
-  "id": "bc0519d0b758",
-  "created": "2026-11-21T22:43:31+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/gold-prices-people-bought-less-gold-prices-fell-pm-narendra-modi-recalls-his-may-appeal-12359755#publisher=newsstand",
-  "headline": "Modi says lower gold buying caused price dip",
-  "hook": "Gold prices fell after fewer people bought it, says PM",
-  "what": "Prime Minister Narendra Modi said that reduced gold purchases led to a drop in gold prices. He made the comment in Lucknow on Saturday, recalling his May appeal urging people to buy gold.",
-  "why": "Falling gold prices can impact savings and investment plans for young Indians. Watch market trends before deciding to buy gold.",
-  "tags": [
-   "gold",
-   "prices",
-   "Modi",
-   "economy"
-  ]
- },
- {
-  "id": "01945f6a907c",
-  "created": "2026-11-21T22:43:34+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-  "headline": "Top AI Chat Agents Ready for Your Texts",
-  "hook": "Your next texting buddy could be an AI.",
-  "what": "TechCrunch put together a list of AI agents that work directly inside messaging apps. The lineup covers all‑purpose assistants and niche bots for family coordination, travel planning, and workplace tasks.",
-  "why": "These helpers let teens handle chores, plan trips, or get quick answers without leaving the chat. Check the list to find a bot that matches your daily needs.",
-  "tags": [
-   "AI",
-   "ChatBots",
-   "Messaging",
-   "Tech",
-   "Productivity"
   ]
  }
 ]

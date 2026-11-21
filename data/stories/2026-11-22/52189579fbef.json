@@ -1,0 +1,37 @@
+{
+ "id": "52189579fbef",
+ "created": "2026-11-22T04:50:40+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "LiveNOW from FOX",
+ "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2g3ZEs3QXFpRUZfUEF2ak93WVAzeGotdGg4OVdEUnViNklaZUs3NWxvNVdWeDUtT05DQnAtNUp2bGpUYW9yTVlKY0hmdmNDQU95QURzWE5wNUF0YTVLNkNTdV9sc3UwTzQ0cnpBR1FSelBJTkpxdnFnMlYwS1JHaF9UNC1KNmIwZWhMUnowcFdhVUJpMlVtMm5kRzI?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Study uncovers 27 new insights on endometriosis",
+  "hook": "A fresh study reveals more about a condition many women face.",
+  "what": "Researchers identified 27 new clues linked to endometriosis, a painful disease affecting about one in ten women. The findings expand current understanding of the condition.",
+  "why": "These insights could aid better diagnosis and treatment, which matters for young women experiencing symptoms.",
+  "tags": [
+   "endometriosis",
+   "womenhealth",
+   "research",
+   "teenhealth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ പഠനം കണ്ടെത്തി എൻഡോമെട്രിയോസിസിൽ 27 പുതിയ സൂചനകൾ",
+  "hook": "പല സ്ത്രീകൾക്ക് ബാധകമായ ഈ രോഗത്തെക്കുറിച്ച് കൂടുതൽ അറിയാൻ പുതിയ പഠനം.",
+  "what": "ഗവേഷകർ എൻഡോമെട്രിയോസിസുമായി ബന്ധപ്പെട്ട 27 പുതിയ സൂചനകൾ കണ്ടെത്തി, ഇത് ഏകദേശം 10 സ്ത്രീകളിൽ 1 പേർക്ക് ബാധിക്കുന്ന വേദനാജനകമായ രോഗം ആണ്. ഈ കണ്ടെത്തലുകൾ രോഗത്തെക്കുറിച്ചുള്ള നിലവിലെ അറിവ് വർദ്ധിപ്പിക്കുന്നു.",
+  "why": "ഇത്തരം അറിവുകൾ മികച്ച രോഗനിർണ്ണയവും ചികിത്സയും സാധ്യമാക്കാൻ സഹായിക്കും, ഇത് ലക്ഷണങ്ങൾ അനുഭവിക്കുന്ന യുവതികള്ക്ക് പ്രധാനമാണ്.",
+  "tags": [
+   "എൻഡോമെട്രിയോസിസ്",
+   "സ്ത്രീാരോഗ്യം",
+   "ഗവേഷണം",
+   "ടീൻഹെൽത്ത്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

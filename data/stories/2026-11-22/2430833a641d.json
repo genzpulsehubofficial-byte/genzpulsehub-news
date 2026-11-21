@@ -1,0 +1,37 @@
+{
+ "id": "2430833a641d",
+ "created": "2026-11-22T04:50:48+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Washington Post",
+ "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RFK Jr. pledges action as measles resurges worldwide",
+  "hook": "Kids are losing oxygen while measles cases climb again.",
+  "what": "Robert F. Kennedy Jr. says he will tackle the growing measles outbreak after earlier downplaying it. Health officials note children are suffering from oxygen shortages as the disease spreads.",
+  "why": "The rise threatens global vaccination goals and even caused the U.S. to lose its measles‑free status, urging nations to boost immunisation efforts.",
+  "tags": [
+   "measles",
+   "health",
+   "vaccination",
+   "global",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "RFK Jr. measles വ്യാപനം നിർത്താൻ വാഗ്ദാനം",
+  "hook": "കുട്ടികൾക്ക് ഓക്സിജൻ കുറവായി measles കേസുകൾ ഉയരുന്നു.",
+  "what": "റോബർട്ട് എഫ്. കെ. ജൂനിയർ measles മഹാമാരി കുറവെന്ന് ആദ്യം കരുതിയതിനു ശേഷം അതിനെ നിയന്ത്രിക്കാൻ പ്രതിജ്ഞ ചെയ്തു. ആരോഗ്യവകുപ്പ് കുട്ടികൾക്ക് ഓക്സിജൻ കുറവായി ബാധിക്കുന്നു എന്ന് പറയുന്നു.",
+  "why": "ഇത് ലോകവ്യാപകമായ വാക്സിനേഷൻ ലക്ഷ്യങ്ങളെ ബാധിക്കുന്നു, അമേരിക്കയുടെ measles‑മുക്ത സ്ഥിതി നഷ്ടപ്പെട്ടതോടെ രാജ്യങ്ങൾ ഇമ്യൂണൈസേഷൻ വർദ്ധിപ്പിക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "measles",
+   "ആരോഗ്യം",
+   "വാക്സിൻ",
+   "ഗ്ലോബൽ",
+   "യുവാക്കൾ"
+  ]
+ }
+}

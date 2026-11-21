@@ -1,0 +1,37 @@
+{
+ "id": "985420d8fa39",
+ "created": "2026-11-22T04:50:43+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Lisbon streets fill as cost‑of‑living protests swell",
+  "hook": "Young Indians feel the pinch too—see why youths are marching across Europe.",
+  "what": "Large crowds gathered in Lisbon and other cities in Portugal, France and Spain to demonstrate against rising living expenses, especially housing costs. Demonstrators demanded lower rents and higher wages.",
+  "why": "The surge in living costs highlights challenges many young people face worldwide, reminding Indian teens to stay aware of economic trends and consider budgeting or advocacy.",
+  "tags": [
+   "costofliving",
+   "protest",
+   "housing",
+   "Portugal",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ലൈസ്ബണിൽ ജീവിതച്ചെലവിനുള്ള പ്രതിഷേധം വലുതായി",
+  "hook": "യുവജനങ്ങൾക്ക്‌ ബാധകമായ ചെലവു വർധന, യൂറോപ്പിലെ കൂട്ടം പ്രദർശനങ്ങൾ കാണൂ.",
+  "what": "പോർച്ചുഗൽ, ഫ്രാൻസ്, സ്പെയിൻ എന്നിവിടങ്ങളിലെ നഗരങ്ങളിൽ ആയിരക്കണക്കിന് ആളുകൾ ഉയർന്ന ജീവിതച്ചെലവുകൾക്കും, പ്രത്യേകിച്ച് വീട് വിലക്കും എതിർപ്പ് പ്രകടിപ്പിച്ചു. പ്രദർശകർ കുറഞ്ഞ വാടകയും ഉയർന്ന ശമ്പളവും ആവശ്യപ്പെട്ടു.",
+  "why": "വിലവർധന യുവജനങ്ങളുടെ സാമ്പത്തിക സ്ഥിതിയെ ബാധിക്കുന്നു; ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഈ പ്രവണതകൾ ശ്രദ്ധിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "costofliving",
+   "protest",
+   "housing",
+   "Portugal",
+   "youth"
+  ]
+ }
+}
