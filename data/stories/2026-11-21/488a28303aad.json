@@ -1,0 +1,37 @@
+{
+ "id": "488a28303aad",
+ "created": "2026-11-21T20:15:20+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/kochi-cop-on-sabarimala-duty-suspended-for-allegedly-slapping-driver-at-nilakkal/article71728318.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kochi Police Officer Suspended After Parking Row Incident",
+  "hook": "A police ASI was put on hold after allegedly slapping a driver.",
+  "what": "An Assistant Sub‑Inspector from the Kalamassery AR camp was suspended. He is accused of slapping a driver from North Paravur during a parking dispute at Nilakkal while on Sabarimala duty.",
+  "why": "The case raises concerns about police conduct during the pilgrim season. Young people should know their rights if they face misuse of authority.",
+  "tags": [
+   "Kochi",
+   "Police",
+   "Kerala",
+   "Sabarimala",
+   "Rights"
+  ]
+ },
+ "ml": {
+  "headline": "കൊച്ചി പോലീസ് ഓഫീസർ പാർക്കിംഗ് തർക്കത്തിൽ അടിയോടെ സസ്പെൻഡ്",
+  "hook": "പാർക്കിംഗ് പ്രശ്നത്തിൽ ഡ്രൈവർക്ക് അടിയിട്ടു, ഉദ്യോഗസ്ഥനെ സസ്പെൻഡ് ചെയ്തു.",
+  "what": "കലമശ്ശേരി AR ക്യാമ്പിൽ ചുമതലപ്പെട്ട അസിസ്റ്റന്റ് സബ്‑ഇൻസ്പെക്ടർ സസ്പെൻഡ് ചെയ്തു. സബരിമല ദൗത്യത്തിൽ നിലക്കലിൽ പാർക്കിംഗ് ചർച്ചയിൽ ഉത്തരപ്പാറുവിലെ ഡ്രൈവർക്ക് അടിയിട്ടു എന്ന ആരോപണം.",
+  "why": "പിലഗം സീസണിൽ പോലീസ് പെരുമാറ്റം ചോദ്യങ്ങളിലാക്കുന്നു. അധികാര ദുരുപയോഗം നേരിടുമ്പോൾ യുവാക്കൾക്ക് അവകാശങ്ങൾ അറിയണം.",
+  "tags": [
+   "കൊച്ചി",
+   "പോലീസ്",
+   "കേരളം",
+   "സബരിമല",
+   "അവകാശങ്ങൾ"
+  ]
+ }
+}

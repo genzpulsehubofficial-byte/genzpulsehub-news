@@ -1,0 +1,37 @@
+{
+ "id": "748aaeedc167",
+ "created": "2026-11-21T20:15:37+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GST agency raids sites over ₹1 lakh crore China-linked gaming deals",
+  "hook": "Huge gaming money trail under probe, raids hit two cities",
+  "what": "The Directorate General of GST Intelligence carried out searches in Vijayawada and Hyderabad’s Banjara Hills. The raids are part of a probe into gaming transactions worth about ₹1 lakh crore that are linked to China.",
+  "why": "Such a massive flow of money could affect the gaming market and tax policies, so gamers should stay aware of any regulatory changes.",
+  "tags": [
+   "GST",
+   "Gaming",
+   "India",
+   "China",
+   "Tax"
+  ]
+ },
+ "ml": {
+  "headline": "GST ഏജന്‍സി 1 ലക്ഷം കോടി ചൈന‑ബന്ധിത ഗെയിമിംഗ് ഇടപാടുകള്‍ അന്വേഷിച്ച് തിരച്ചില്‍ നടത്തുന്നു",
+  "hook": "വ്യാപക ഗെയിമിംഗ് പണവഴി അന്വേഷണം, രണ്ട് നഗരങ്ങളില്‍ തിരച്ചില്‍",
+  "what": "ഡയറക്ടറേറ്റ് ജനറല്‍ ഓഫ് ജിഎസ്‌ടി ഇന്റലിജന്‍സ് വിജയവാദയും ഹൈദരാബാദിലെ ബഞ്ചാര ഹില്‍സിലും തിരച്ചില്‍ നടത്തി. ചൈനുമായി ബന്ധപ്പെട്ട 1 ലക്ഷം കോടി മൂല്യമുള്ള ഗെയിമിംഗ് ഇടപാടുകള്‍ ലക്ഷ്യമാക്കി ഈ നടപടി.",
+  "why": "ഇത്തരം വലിയ പണപ്രവാഹം ഗെയിമിംഗ് മാര്‍ക്കറ്റിനും നികുതി നയങ്ങള്‍ക്കും സ്വാധീനം ചെലുത്താം, അതിനാല്‍ കളിക്കാര്‍ നിയമമാറ്റങ്ങള്‍ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "GST",
+   "Gaming",
+   "India",
+   "China",
+   "Tax"
+  ]
+ }
+}

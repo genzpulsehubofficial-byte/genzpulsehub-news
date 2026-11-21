@@ -1,5 +1,62 @@
 [
  {
+  "id": "488a28303aad",
+  "created": "2026-11-21T20:15:20+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/kochi-cop-on-sabarimala-duty-suspended-for-allegedly-slapping-driver-at-nilakkal/article71728318.ece",
+  "headline": "Kochi Police Officer Suspended After Parking Row Incident",
+  "hook": "A police ASI was put on hold after allegedly slapping a driver.",
+  "what": "An Assistant Sub‑Inspector from the Kalamassery AR camp was suspended. He is accused of slapping a driver from North Paravur during a parking dispute at Nilakkal while on Sabarimala duty.",
+  "why": "The case raises concerns about police conduct during the pilgrim season. Young people should know their rights if they face misuse of authority.",
+  "tags": [
+   "Kochi",
+   "Police",
+   "Kerala",
+   "Sabarimala",
+   "Rights"
+  ]
+ },
+ {
+  "id": "82c3072845be",
+  "created": "2026-11-21T20:15:34+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/manipur-hooch-death-toll-rises-to-16-six-held/article71728655.ece",
+  "headline": "Manipur hooch tragedy claims 16 lives, six arrested",
+  "hook": "A deadly illicit liquor raid hits a remote Naga village.",
+  "what": "The death count from the illegal liquor incident in Manipur rose to 16. Authorities have taken six people into custody, and most of those who died came from Nungpan village, where the Anal Naga community is predominant.",
+  "why": "The incident shows the danger of unregulated alcohol, especially in remote areas. Teens should avoid illicit drinks and report any suspicious activity.",
+  "tags": [
+   "Manipur",
+   "hooch",
+   "death toll",
+   "AnalNaga",
+   "Nungpan"
+  ]
+ },
+ {
+  "id": "748aaeedc167",
+  "created": "2026-11-21T20:15:37+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+  "headline": "GST agency raids sites over ₹1 lakh crore China-linked gaming deals",
+  "hook": "Huge gaming money trail under probe, raids hit two cities",
+  "what": "The Directorate General of GST Intelligence carried out searches in Vijayawada and Hyderabad’s Banjara Hills. The raids are part of a probe into gaming transactions worth about ₹1 lakh crore that are linked to China.",
+  "why": "Such a massive flow of money could affect the gaming market and tax policies, so gamers should stay aware of any regulatory changes.",
+  "tags": [
+   "GST",
+   "Gaming",
+   "India",
+   "China",
+   "Tax"
+  ]
+ },
+ {
   "id": "6ce15e9e50e1",
   "created": "2026-11-21T19:23:27+05:30",
   "category": "money",
@@ -692,63 +749,6 @@
    "tech",
    "youth",
    "safety"
-  ]
- },
- {
-  "id": "43b5d66e86c6",
-  "created": "2026-11-21T10:55:23+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece",
-  "headline": "Supreme Court seeks Centre's view on kin marriage law",
-  "hook": "A top court wants the government to weigh in on banning close‑blood marriages.",
-  "what": "The Supreme Court has asked the central government to respond to a petition proposing legislation against marriages between close relatives. The petitioner’s lawyer stressed the need to inform people about the long‑term effects of such unions.",
-  "why": "Knowing the risks can shape future family choices for young Indians; staying informed helps them discuss the issue with families.",
-  "tags": [
-   "law",
-   "marriage",
-   "government",
-   "youth",
-   "awareness"
-  ]
- },
- {
-  "id": "c92efd7a2d54",
-  "created": "2026-11-21T10:55:25+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/maharashtra-forms-cm-led-panel-to-suggest-metro-station-names-in-mumbai-pune-and-nagpur-101795235292909.html",
-  "headline": "Maharashtra panel to propose metro station names in three cities",
-  "hook": "Your daily commute could get a fresh, locally‑chosen name soon",
-  "what": "The state government has set up a CM‑led panel to recommend names for metro stations in Mumbai, Pune and Nagpur. The group will review heritage, local sentiment, pronunciation and other factors before sending its suggestions to the centre.",
-  "why": "Names that reflect local culture can make travel easier and boost regional pride, something many young commuters care about. Stay tuned for the final list if you use the metro.",
-  "tags": [
-   "metro",
-   "naming",
-   "Maharashtra",
-   "youth",
-   "cities"
-  ]
- },
- {
-  "id": "e48a92405fdd",
-  "created": "2026-11-21T10:55:28+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html",
-  "headline": "Bengaluru Engineer Loses ₹5.47 Lakh to Card Scam",
-  "hook": "Your OTP isn’t the only way fraudsters strike.",
-  "what": "A software professional in Bengaluru reported a loss of ₹5.47 lakh after his credit card was misused, even though he says he never gave out his OTP, PIN or card information. The incident shows fraud can happen without direct data sharing.",
-  "why": "Young users should follow card‑security tips and know how to report unauthorized charges to protect their money.",
-  "tags": [
-   "creditcard",
-   "fraud",
-   "security",
-   "youthfinance",
-   "india"
   ]
  }
 ]

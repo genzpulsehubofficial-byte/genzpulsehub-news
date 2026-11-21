@@ -1,0 +1,37 @@
+{
+ "id": "82c3072845be",
+ "created": "2026-11-21T20:15:34+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/manipur-hooch-death-toll-rises-to-16-six-held/article71728655.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Manipur hooch tragedy claims 16 lives, six arrested",
+  "hook": "A deadly illicit liquor raid hits a remote Naga village.",
+  "what": "The death count from the illegal liquor incident in Manipur rose to 16. Authorities have taken six people into custody, and most of those who died came from Nungpan village, where the Anal Naga community is predominant.",
+  "why": "The incident shows the danger of unregulated alcohol, especially in remote areas. Teens should avoid illicit drinks and report any suspicious activity.",
+  "tags": [
+   "Manipur",
+   "hooch",
+   "death toll",
+   "AnalNaga",
+   "Nungpan"
+  ]
+ },
+ "ml": {
+  "headline": "മണിപ്പൂരിലെ ഹൂച്ച് ദുരന്തത്തിൽ 16 പേർ മരണം, ആറ് അറസ്റ്റു",
+  "hook": "അനിയന്ത്രിത മദ്യത്തിന്റെ അപകടം ഒരു ദൂരെയുള്ള നാഗാ ഗ്രാമത്തെ ബാധിച്ചു.",
+  "what": "മണിപ്പൂരിൽ നടന്ന അനധികൃത മദ്യ സംഭവത്തിൽ മരണസംഖ്യ 16 ആയി ഉയർന്നു. ആറു പേർ പിടിക്കപ്പെട്ടു, മരണപ്പെട്ടവരിൽ ഭൂരിഭാഗവും അനൽ നാഗാ സമൂഹം പ്രധാനമായുള്ള നുങ്പാൻ ഗ്രാമത്തിൽ നിന്നാണ്.",
+  "why": "നിയന്ത്രണമില്ലാത്ത മദ്യത്തിന്റെ അപകടം പ്രത്യേകിച്ച് ദൂരപ്രദേശങ്ങളിൽ കൂടുതൽ ഗുരുതരമാണ്. യുവാക്കൾ അനധികൃത മദ്യപാനത്തിൽ നിന്ന് ഒഴിവാക്കുകയും സംശയകരമായ പ്രവർത്തനങ്ങൾ റിപ്പോർട്ട് ചെയ്യുകയും വേണം.",
+  "tags": [
+   "Manipur",
+   "hooch",
+   "death toll",
+   "AnalNaga",
+   "Nungpan"
+  ]
+ }
+}
