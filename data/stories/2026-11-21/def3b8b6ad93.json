@@ -1,0 +1,35 @@
+{
+ "id": "def3b8b6ad93",
+ "created": "2026-11-21T08:49:49+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "River Mobility revenue surges 4.2 times to ₹432 crore",
+  "hook": "Four‑fold growth shows electric two‑wheel market heating up.",
+  "what": "River Mobility, an electric two‑wheeler startup, reported operating revenue of ₹432.3 crore for the fiscal year ending March 31, 2026. That figure is 4.2 times higher than the previous year.",
+  "why": "The jump signals strong demand for EVs, hinting at more job and product options for young consumers. Keep an eye on emerging EV brands for future career or purchase choices.",
+  "tags": [
+   "EV",
+   "startup",
+   "revenue",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "റിവർ മൊബിലിറ്റി വരുമാനം 4.2 മടങ്ങ് ഉയർന്നു ₹432 കോടി",
+  "hook": "ഇലക്ട്രിക് രണ്ട് ചക്രവാഹന വിപണി ചൂടേറുന്നു",
+  "what": "ഇലക്ട്രിക് രണ്ട് ചക്രവാഹന സ്റ്റാർട്ടപ്പ് റിവർ മൊബിലിറ്റി, 31 മാർച്ച് 2026 അവസാനിച്ച സാമ്പത്തിക വർഷത്തിൽ ₹432.3 കോടി പ്രവർത്തന വരുമാനം രേഖപ്പെടുത്തി. ഇത് മുൻവർഷത്തേക്കാൾ 4.2 മടങ്ങ് കൂടുതലാണ്.",
+  "why": "ഇത് ഇവി ആവശ്യകത വർദ്ധിക്കുന്നതിന്റെ സൂചനയാണ്, യുവജനങ്ങൾക്ക് ജോലിയും വാങ്ങൽ അവസരങ്ങളും തുറക്കാം. പുതിയ ഇവി ബ്രാൻഡുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഇവി",
+   "സ്റ്റാർട്ടപ്പ്",
+   "വരുമാനം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f62cbf069ced",
+ "created": "2026-11-21T08:49:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdi1NdjFwbW5CS2VTejdzTjVma0lZYldwd1JJYjNCcE5CdWVFZkgtOTJfVU1pSS1tUWVDY1p5V1U5b2tEV1J5VFdPX1ZqVFpta1BvS0tranRIUVNWZVJEUFJjODBpQUlwZjRZekJ5b215NHlqcHFBUTdWRVhDclYzYVNhNU5yZmVUb2VaY05JT0RwcF9qMV9fWVVUTjBhU3VVV0o4R3h0Q3d3bVVHUEVvc2ZranJlNHVrbGsyMWxUbi1BS3NLcEdWOXY4WGhmRmROR1ZXNVJEVHV6QdIB3wFBVV95cUxOWnoyT1lweVZ4Q3d2S2RNZUJ3SmItVkZlV3pRcWEwZ2lHajFEMEd6SnhpX0RIVUVQZVRXX1k2UTZTbEFSSXFQZnNoTDFSTkZ2aERsZzlLYy0zWnRjbGJnQ2VFSm91MUNPdW51Mlg2cnFtaWQ5VWtWLUxjd1c3LTQyWG9hZkhCcnNDN25WR0FlcGNJVnpDXzhzQVdmRTBMV18xTzl0ZmxTaFRHTXhzbjNtS1hjSmRmaTQ0V2NCZjR6WEtITFVRMW83RlVIZGZsemZOUE1xYnpwVTBZcTF0Zmtv?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump calls Fed 'political' over high US interest rates",
+  "hook": "Ex‑president says US rates are too high compared to India.",
+  "what": "Former President Donald Trump criticized the US Federal Reserve, calling it political for keeping interest rates high. He pointed to India’s lower rates and suggested the US could grow at 14‑15% if rates were cut.",
+  "why": "High interest rates affect loan costs for students and startups, so any push for cuts could impact borrowing. Trump's comments highlight global comparisons that may shape economic debates relevant to young Indians.",
+  "tags": [
+   "Trump",
+   "Fed",
+   "InterestRates",
+   "India",
+   "Economy"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് ഫെഡിനെ 'രാഷ്ട്രീയ' എന്ന് വിളിച്ചു, ഉയർന്ന പലിശ നിരക്ക്",
+  "hook": "മുൻ പ്രസിഡന്റ് യു.എസ്. പലിശ നിരക്ക് ഇന്ത്യയേക്കാൾ കൂടുതലാണെന്ന് പറഞ്ഞു.",
+  "what": "മുൻ പ്രസിഡന്റ് ഡൊണൾഡ് ട്രംപ് യു.എസ്. ഫെഡറൽ റിസർവിനെ ഉയർന്ന പലിശ നിരക്കിനായി രാഷ്ട്രീയമായി പ്രവർത്തിക്കുന്നതായി വിമർശിച്ചു. ഇന്ത്യയുടെ കുറഞ്ഞ നിരക്കുകൾ കാണിച്ച്, പലിശ കുറച്ചാൽ 14‑15% വളർച്ച സാധ്യമാകും എന്ന് അദ്ദേഹം പറഞ്ഞു.",
+  "why": "ഉയർന്ന പലിശ വിദ്യാർത്ഥികളുടെയും സ്റ്റാർട്ടപ്പുകളുടെയും വായ്പ ചെലവിനെ ബാധിക്കുന്നു, അതിനാൽ നിരക്ക് കുറയാൻ ഉള്ള ചർച്ചകൾ യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. ട്രംപിന്റെ അഭിപ്രായം അന്തർദേശീയ സാമ്പത്തിക ചർച്ചകളിൽ ഇന്ത്യയുടെ സ്ഥാനം ഉയർത്തുന്നു.",
+  "tags": [
+   "ട്രംപ്",
+   "ഫെഡ്",
+   "പലിശനിരക്ക്",
+   "ഇന്ത്യ",
+   "അർത്ഥവ്യവസ്ഥ"
+  ]
+ }
+}

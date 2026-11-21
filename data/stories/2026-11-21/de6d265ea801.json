@@ -1,0 +1,37 @@
+{
+ "id": "de6d265ea801",
+ "created": "2026-11-21T08:49:46+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/pension-gratuity-and-more-govt-clarifies-family-benefits-after-employee-death-or-going-missing-payment-within-15-days-11795226241903.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Govt sets 15‑day rule for family pension after employee death",
+  "hook": "Your family could get pension fast if a govt worker passes away.",
+  "what": "The central government issued guidelines on payouts to families when a serving employee dies or goes missing. It details pension, gratuity, provident fund and other dues. It also mandates that a provisional family pension be approved within 15 days.",
+  "why": "This speeds up financial support for grieving families, reducing delays. Young workers should know these entitlements for future security.",
+  "tags": [
+   "government",
+   "pension",
+   "benefits",
+   "jobs",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "കേന്ദ്ര സര്‍ക്കാരിന്റെ കുടുംബ പെന്‍ഷന്‍ 15 ദിവസത്തില്‍",
+  "hook": "ഒരു സര്‍ക്കാര്‍ ജീവനക്കാരുടെ കുടുംബത്തിന്‌ പണം വേഗത്തില്‍ ലഭിക്കും.",
+  "what": "കേന്ദ്ര സര്‍ക്കാരില്‍ സേവനമനുഷ്ഠിക്കുന്ന ജീവനക്കാരുടെ മരണം അല്ലെങ്കില്‍ അപ്രത്യക്ഷതയില്‍ കുടുംബങ്ങള്‍ക്ക്‌ ലഭിക്കുന്ന പെന്‍ഷന്‍, ഗ്രാച്വിറ്റി, പ്രൊവൈഡന്റ് ഫണ്ട് തുടങ്ങിയവയുടെ വിശദീകരണം പുറപ്പെടുവിച്ചു. കൂടാതെ, പ്രോവീഷണല്‍ കുടുംബ പെന്‍ഷന്‍ 15 ദിവസത്തിനുള്ളില്‍ അംഗീകരിക്കണമെന്ന് നിര്‍ദ്ദേശിച്ചു.",
+  "why": "ഇത് കുടുംബങ്ങളിലെ സാമ്പത്തിക സഹായം വേഗത്തില്‍ ലഭ്യമാക്കും. യുവ തൊഴിലാളികള്‍ ഈ അവകാശങ്ങള്‍ അറിയുകയും ഭാവിയില്‍ സുരക്ഷിതത്വം ഉറപ്പാക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "സര്‍ക്കാര്‍",
+   "പെന്‍ഷന്‍",
+   "ലാഭം",
+   "തൊഴില്‍",
+   "വित्तം"
+  ]
+ }
+}

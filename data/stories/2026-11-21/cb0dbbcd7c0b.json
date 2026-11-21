@@ -1,0 +1,37 @@
+{
+ "id": "cb0dbbcd7c0b",
+ "created": "2026-11-21T08:49:52+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-private-bus-timings-gps-based-revision-mvd-plan-heres-how-it-will-work-ogf3ecux",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala to tweak private bus schedules with GPS insights",
+  "hook": "Your bus ride could get smoother thanks to real‑time traffic data.",
+  "what": "The Kerala Motor Vehicles Department announced it will use GPS information from private buses to revise their timetables. The data will help gauge traffic snarls, route durations and the number of buses operating.",
+  "why": "Better‑timed buses mean less waiting and more reliable travel for students and commuters. Keep an eye on updated schedules through your usual apps.",
+  "tags": [
+   "Kerala",
+   "Transport",
+   "GPS",
+   "BusTimings",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "Kerala GPS ഡാറ്റ ഉപയോഗിച്ച് സ്വകാര്യ ബസ് ഷെഡ്യൂൾ മാറ്റം",
+  "hook": "ട്രാഫിക് ഡാറ്റ കൊണ്ട് നിങ്ങളുടെ ബസ് യാത്ര കൂടുതൽ സ്മൂത്ത് ആകാം",
+  "what": "Kerala Motor Vehicles Department സ്വകാര്യ ബസുകളുടെ GPS വിവരങ്ങൾ ഉപയോഗിച്ച് ഷെഡ്യൂൾ പുതുക്കും. ഇതിലൂടെ ട്രാഫിക് ജാമം, റൂട്ട് സമയം, ബസുകളുടെ എണ്ണം എന്നിവ വിലയിരുത്താം.",
+  "why": "കൃത്യമായ ഷെഡ്യൂളുകൾ വിദ്യാർത്ഥികളും യാത്രക്കാരും കാത്തിരിപ്പ് സമയം കുറയ്ക്കും. നിങ്ങളുടെ ആപ്പുകളിൽ പുതുക്കിയ സമയം പരിശോധിക്കുക.",
+  "tags": [
+   "Kerala",
+   "Transport",
+   "GPS",
+   "Bus",
+   "Youth"
+  ]
+ }
+}

@@ -1,5 +1,97 @@
 [
  {
+  "id": "a1fb3c5c5b67",
+  "created": "2026-11-21T08:49:41+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/11-dead-181-hospitalised-after-consuming-toxic-liquor-in-manipur-12355532#publisher=newsstand",
+  "headline": "14 dead, 200+ hospitalized after toxic liquor in Manipur",
+  "hook": "A deadly batch of liquor has left dozens in hospitals.",
+  "what": "Fourteen people died and more than two hundred were admitted to hospitals after drinking contaminated alcohol in Chakpikarong, Chandel district, Manipur. Authorities say the liquor was toxic.",
+  "why": "Such incidents highlight the risk of illicit brews; teens should avoid unknown drinks and report any suspicious batches.",
+  "tags": [
+   "Manipur",
+   "toxic liquor",
+   "health alert"
+  ]
+ },
+ {
+  "id": "f62cbf069ced",
+  "created": "2026-11-21T08:49:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdi1NdjFwbW5CS2VTejdzTjVma0lZYldwd1JJYjNCcE5CdWVFZkgtOTJfVU1pSS1tUWVDY1p5V1U5b2tEV1J5VFdPX1ZqVFpta1BvS0tranRIUVNWZVJEUFJjODBpQUlwZjRZekJ5b215NHlqcHFBUTdWRVhDclYzYVNhNU5yZmVUb2VaY05JT0RwcF9qMV9fWVVUTjBhU3VVV0o4R3h0Q3d3bVVHUEVvc2ZranJlNHVrbGsyMWxUbi1BS3NLcEdWOXY4WGhmRmROR1ZXNVJEVHV6QdIB3wFBVV95cUxOWnoyT1lweVZ4Q3d2S2RNZUJ3SmItVkZlV3pRcWEwZ2lHajFEMEd6SnhpX0RIVUVQZVRXX1k2UTZTbEFSSXFQZnNoTDFSTkZ2aERsZzlLYy0zWnRjbGJnQ2VFSm91MUNPdW51Mlg2cnFtaWQ5VWtWLUxjd1c3LTQyWG9hZkhCcnNDN25WR0FlcGNJVnpDXzhzQVdmRTBMV18xTzl0ZmxTaFRHTXhzbjNtS1hjSmRmaTQ0V2NCZjR6WEtITFVRMW83RlVIZGZsemZOUE1xYnpwVTBZcTF0Zmtv?oc=5",
+  "headline": "Trump calls Fed 'political' over high US interest rates",
+  "hook": "Ex‑president says US rates are too high compared to India.",
+  "what": "Former President Donald Trump criticized the US Federal Reserve, calling it political for keeping interest rates high. He pointed to India’s lower rates and suggested the US could grow at 14‑15% if rates were cut.",
+  "why": "High interest rates affect loan costs for students and startups, so any push for cuts could impact borrowing. Trump's comments highlight global comparisons that may shape economic debates relevant to young Indians.",
+  "tags": [
+   "Trump",
+   "Fed",
+   "InterestRates",
+   "India",
+   "Economy"
+  ]
+ },
+ {
+  "id": "de6d265ea801",
+  "created": "2026-11-21T08:49:46+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/pension-gratuity-and-more-govt-clarifies-family-benefits-after-employee-death-or-going-missing-payment-within-15-days-11795226241903.html",
+  "headline": "Govt sets 15‑day rule for family pension after employee death",
+  "hook": "Your family could get pension fast if a govt worker passes away.",
+  "what": "The central government issued guidelines on payouts to families when a serving employee dies or goes missing. It details pension, gratuity, provident fund and other dues. It also mandates that a provisional family pension be approved within 15 days.",
+  "why": "This speeds up financial support for grieving families, reducing delays. Young workers should know these entitlements for future security.",
+  "tags": [
+   "government",
+   "pension",
+   "benefits",
+   "jobs",
+   "finance"
+  ]
+ },
+ {
+  "id": "def3b8b6ad93",
+  "created": "2026-11-21T08:49:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
+  "headline": "River Mobility revenue surges 4.2 times to ₹432 crore",
+  "hook": "Four‑fold growth shows electric two‑wheel market heating up.",
+  "what": "River Mobility, an electric two‑wheeler startup, reported operating revenue of ₹432.3 crore for the fiscal year ending March 31, 2026. That figure is 4.2 times higher than the previous year.",
+  "why": "The jump signals strong demand for EVs, hinting at more job and product options for young consumers. Keep an eye on emerging EV brands for future career or purchase choices.",
+  "tags": [
+   "EV",
+   "startup",
+   "revenue",
+   "India"
+  ]
+ },
+ {
+  "id": "cb0dbbcd7c0b",
+  "created": "2026-11-21T08:49:52+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-private-bus-timings-gps-based-revision-mvd-plan-heres-how-it-will-work-ogf3ecux",
+  "headline": "Kerala to tweak private bus schedules with GPS insights",
+  "hook": "Your bus ride could get smoother thanks to real‑time traffic data.",
+  "what": "The Kerala Motor Vehicles Department announced it will use GPS information from private buses to revise their timetables. The data will help gauge traffic snarls, route durations and the number of buses operating.",
+  "why": "Better‑timed buses mean less waiting and more reliable travel for students and commuters. Keep an eye on updated schedules through your usual apps.",
+  "tags": [
+   "Kerala",
+   "Transport",
+   "GPS",
+   "BusTimings",
+   "Youth"
+  ]
+ },
+ {
   "id": "35cd1f97b678",
   "created": "2026-11-21T07:56:33+05:30",
   "category": "money",
@@ -654,100 +746,6 @@
    "AI",
    "Math",
    "Research"
-  ]
- },
- {
-  "id": "ca14f8139194",
-  "created": "2026-11-21T01:13:33+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWNRZ1NleXloWDFzcmFqTDZXWndQQTNGeUstVmlUclpZeWk4a21fN0NXSHA3dzdBbUhuQWJ3UXU0MUdEY05sMGkwWmlwWFgwN0JMMVRzV0pVVGh3aWJpODM4VHBtR2RqUGdGZU82LWtfbmtQN3dmVjNTbXU5MVNYb2pCTGZOSWlnNEdydFpCYw?oc=5",
-  "headline": "Godzilla Minus Zero draws huge advance bookings in India",
-  "hook": "Fans line up, pushing pre‑sales past a crore before the film even hits screens.",
-  "what": "Takashi Yamazaki’s latest Godzilla sequel opened with strong day‑one earnings. Advance tickets in India topped Rs 1 crore, and viewers praised its visual scale, calling it bigger than the previous installment.",
-  "why": "The buzz shows growing appetite for big‑budget sci‑fi among Indian teens, so keep an eye on release dates and streaming options.",
-  "tags": [
-   "Godzilla",
-   "BoxOffice",
-   "Movies",
-   "India",
-   "Teens"
-  ]
- },
- {
-  "id": "9e8d3f354ef6",
-  "created": "2026-11-21T01:13:36+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tngcta-writes-to-cm-higher-education-minister-to-appoint-senior-govt-college-principal-as-dce/article71725207.ece",
-  "headline": "Teachers’ body urges govt to name senior principal as DCE",
-  "hook": "A teachers’ union is pushing for a new top post appointment.",
-  "what": "The TNGCTA wrote to the Chief Minister and the Higher Education Minister. The letter asked that a senior government college principal be appointed as DCE.",
-  "why": "Such appointments can shape college administration and policies that affect students. Stay aware of changes in education leadership.",
-  "tags": [
-   "education",
-   "teachers",
-   "appointment",
-   "policy",
-   "India"
-  ]
- },
- {
-  "id": "eb9ddf0bdcf4",
-  "created": "2026-11-21T01:13:39+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/following-cyclone-akvan-monsoon-rain-to-resume-over-tn-from-tomorrow/article71724527.ece",
-  "headline": "Monsoon rains return to Tamil Nadu after Cyclone Akvan",
-  "hook": "Rainy days are back in Chennai and nearby towns",
-  "what": "The Regional Meteorological Centre says moderate rain will hit coastal districts such as Chennai and Cuddalore starting tomorrow. Adjacent inland areas can expect lighter showers. The wet spell is expected to last until the first week of December.",
-  "why": "Students and commuters should carry umbrellas and plan travel accordingly as the rain may affect outdoor activities until early December.",
-  "tags": [
-   "TamilNadu",
-   "Rain",
-   "Weather",
-   "Monsoon"
-  ]
- },
- {
-  "id": "9a707708f6ae",
-  "created": "2026-11-21T01:13:42+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfos-systematic-withdrawal-plan-what-is-the-waiting-period-for-final-pf-withdrawal-if-unemployed-explained-here-11795196995852.html",
-  "headline": "New PF Rules Ease Withdrawal for Unemployed Workers",
-  "hook": "Lost a job? Your PF can now be accessed faster.",
-  "what": "The EPFO has updated its systematic withdrawal plan, letting employees who are jobless, have quit voluntarily, or face long employment gaps tap their provident fund savings. The changes aim to shorten the waiting time before the final withdrawal.",
-  "why": "This helps young Indians manage finances during career transitions, so check the EPFO portal for eligibility and steps.",
-  "tags": [
-   "PF",
-   "EPFO",
-   "withdrawal",
-   "jobs",
-   "finance"
-  ]
- },
- {
-  "id": "a6633c441463",
-  "created": "2026-11-21T00:08:28+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/iuml-to-appeal-against-shukkoor-murder-case-verdict-abdul-kareem-chelery/article71724031.ece",
-  "headline": "IUML vows to appeal Shukkoor murder verdict",
-  "hook": "The party says it will push for harsher punishment.",
-  "what": "IUML’s Kannur district president Abdul Kareem Chelery announced the party will take legal steps to ensure all accused in the Shukkoor murder case receive appropriate punishment. He also expressed hope that the CBI will file an appeal against the verdict.",
-  "why": "Young voters should watch how political parties respond to court decisions, as it reflects on justice and accountability.",
-  "tags": [
-   "IUML",
-   "Shukkoor",
-   "Kannur",
-   "CBI",
-   "Justice"
   ]
  }
 ]

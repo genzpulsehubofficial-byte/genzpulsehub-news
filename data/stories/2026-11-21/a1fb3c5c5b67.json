@@ -1,0 +1,33 @@
+{
+ "id": "a1fb3c5c5b67",
+ "created": "2026-11-21T08:49:41+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/11-dead-181-hospitalised-after-consuming-toxic-liquor-in-manipur-12355532#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "14 dead, 200+ hospitalized after toxic liquor in Manipur",
+  "hook": "A deadly batch of liquor has left dozens in hospitals.",
+  "what": "Fourteen people died and more than two hundred were admitted to hospitals after drinking contaminated alcohol in Chakpikarong, Chandel district, Manipur. Authorities say the liquor was toxic.",
+  "why": "Such incidents highlight the risk of illicit brews; teens should avoid unknown drinks and report any suspicious batches.",
+  "tags": [
+   "Manipur",
+   "toxic liquor",
+   "health alert"
+  ]
+ },
+ "ml": {
+  "headline": "മണിപ്പൂരിൽ വിഷപാനീയം: 14 പേർ മരണം, 200‑ത്തിലധികം ആശുപത്രി പ്രവേശനം",
+  "hook": "മരണകാരിയായ ഒരു പാനീയം നിരവധി ആളുകളെ ആശുപത്രിയിലേക്ക് കൊണ്ടു പോയി.",
+  "what": "മണിപ്പൂരിലെ ചക്പികറോങ്ങ്, ചന്ദേൽ ജില്ലയിൽ കുടിച്ച വിഷപാനീയം മൂലം 14 പേർ മരിക്കുകയും 200‑ത്തിലധികം പേർ ആശുപത്രിയിൽ പ്രവേശിപ്പിക്കപ്പെടുകയും ചെയ്തു. അത് വിഷവസ്തുവാണെന്ന് അറിയിച്ചിട്ടുണ്ട്.",
+  "why": "അനധികൃത പാനീയങ്ങൾ അപകടകാരിയാണ്; അറിയാത്ത പാനീയങ്ങൾ ഒഴിവാക്കുകയും സംശയകരമായ ബാച്ചുകൾ അധികാരികളോട് റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യണം.",
+  "tags": [
+   "Manipur",
+   "വിഷപാനീയം",
+   "ആരോഗ്യമുന്നറിയിപ്പ്"
+  ]
+ }
+}
