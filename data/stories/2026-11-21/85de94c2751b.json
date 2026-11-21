@@ -1,0 +1,37 @@
+{
+ "id": "85de94c2751b",
+ "created": "2026-11-21T06:53:39+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Yes Bank upgrades AI safeguards, fintechs face fallout",
+  "hook": "Bank’s new AI shield is shaking up digital finance apps.",
+  "what": "Yes Bank has boosted its AI‑based security measures to fight cyber threats. The move is aimed at stopping AI‑driven attacks. Fintech platforms are experiencing unintended side effects from the tightened defenses.",
+  "why": "Young users of payment apps may notice changes or temporary glitches. Staying aware helps them handle any service hiccups.",
+  "tags": [
+   "banking",
+   "fintech",
+   "cybersecurity",
+   "AI",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "യസ് ബാങ്ക് AI സുരക്ഷ മെച്ചപ്പെടുത്തി, ഫിൻടെക്കുകൾക്ക് ബാധ",
+  "hook": "ബാങ്കിന്റെ പുതിയ AI ഷീൽഡ് ഡിജിറ്റൽ ഫിനാൻസ് ആപ്പുകൾക്ക് തിരമാല സൃഷ്ടിക്കുന്നു.",
+  "what": "യസ് ബാങ്ക് സൈബർ ഭീഷണികളോട് പോരാടാൻ AI അടിസ്ഥാനത്തിലുള്ള സുരക്ഷാ നടപടികൾ വർദ്ധിപ്പിച്ചു. ഈ ശ്രമം AI‑പ്രേരിത ആക്രമണങ്ങൾ തടയാൻ ആണ്. ഫിൻടെക് പ്ലാറ്റ്ഫോംമുകൾക്ക് ഈ കർശന നടപടികളിൽ അനിഷ്ടഫലങ്ങൾ കാണുന്നു.",
+  "why": "പേയ്‌മെന്റ് ആപ്പുകൾ ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് താൽക്കാലിക പ്രശ്നങ്ങൾ കാണാം. ഇതിനെക്കുറിച്ച് അറിഞ്ഞ്, സേവന തടസ്സങ്ങൾ നേരിടാൻ തയ്യാറാവുക.",
+  "tags": [
+   "ബാങ്കിംഗ്",
+   "ഫിൻടെക്",
+   "സൈബർസെക്യൂരിറ്റി",
+   "AI",
+   "ഇന്ത്യ"
+  ]
+ }
+}

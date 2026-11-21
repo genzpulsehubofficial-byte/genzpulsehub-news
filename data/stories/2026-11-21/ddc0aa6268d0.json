@@ -1,0 +1,37 @@
+{
+ "id": "ddc0aa6268d0",
+ "created": "2026-11-21T06:53:46+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CoinDCX cites bank upgrades for INR withdrawal slowdown",
+  "hook": "Your crypto cash might take longer to reach your account.",
+  "what": "CoinDCX says most of its partner banks are undergoing system upgrades. The upgrades are causing delays in processing Indian rupee withdrawals.",
+  "why": "Young investors should expect longer wait times for cash outs and plan accordingly.",
+  "tags": [
+   "crypto",
+   "withdrawals",
+   "banking",
+   "INR",
+   "CoinDCX"
+  ]
+ },
+ "ml": {
+  "headline": "CoinDCX ബാങ്ക് അപ്ഡേറ്റുകൾ കാരണം INR പിൻവലിക്കൽ വൈകി",
+  "hook": "ക്രിപ്റ്റോ പണം നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് എത്താൻ കൂടുതൽ സമയം എടുക്കാം.",
+  "what": "CoinDCX പറയുന്നു, അവരുടെ പങ്കാളി ബാങ്കുകൾ സിസ്റ്റം അപ്ഡേറ്റ് ചെയ്യുന്നതിനാൽ ഇന്ത്യൻ രൂപ പിൻവലിക്കൽ പ്രോസസ്സിംഗ് വൈകുന്നു.",
+  "why": "യുവ നിക്ഷേപകർക്ക് കൂടുതൽ കാത്തിരിക്കാൻ തയ്യാറാകണം, അതിനായി പ്ലാൻ ചെയ്യുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "പിൻവലിക്കൽ",
+   "ബാങ്കിംഗ്",
+   "INR",
+   "CoinDCX"
+  ]
+ }
+}

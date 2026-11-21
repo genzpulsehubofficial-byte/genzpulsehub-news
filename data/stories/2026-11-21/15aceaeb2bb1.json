@@ -1,0 +1,37 @@
+{
+ "id": "15aceaeb2bb1",
+ "created": "2026-11-21T06:53:26+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/india-says-no-change-in-its-position-on-indus-water-treaty-as-pakistan-minister-attends-sco-forum-in-delhi/article71727116.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India Holds Firm on Indus Water Treaty Stance",
+  "hook": "Pakistan's envoy visits Delhi but water talks stay unchanged",
+  "what": "India reaffirmed its current position on the Indus Water Treaty during the SCO forum in Delhi. The treaty has been suspended since 2025 as part of measures after the April 22 Pahalgam attack that killed 26 people.",
+  "why": "The stance affects water sharing between the two neighbours, so youths should stay aware of potential impacts on agriculture and regional stability.",
+  "tags": [
+   "IndusWater",
+   "IndiaPakistan",
+   "SCO",
+   "WaterPolicy",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ ഇൻഡസ് ജല ഉടമ്പടി നിലപാട് മാറ്റമില്ല",
+  "hook": "പാകിസ്താന്റെ മന്ത്രിയുടെ ഡെലിയിൽ സന്ദർശനം, ജല ചർച്ചകൾ അതേപോലെ",
+  "what": "SCO ഫോറത്തിൽ ഇന്ത്യ തന്റെ ഇൻഡസ് ജല ഉടമ്പടി നിലപാട് മാറ്റമില്ലെന്ന് ഉറപ്പിച്ചു. 2025 മുതൽ ഈ ഉടമ്പടി പാകിസ്താനിലെ ഏപ്രിൽ 22 പഹൽഗം ആക്രമണത്തിൽ 26 പേർ മരിച്ചതിനുശേഷം നിർത്തിയിട്ടുണ്ട്.",
+  "why": "ഇത് രണ്ട് രാജ്യങ്ങളിലെ ജലവിതരണം, കൃഷി, പ്രദേശിക സ്ഥിരത എന്നിവയെ ബാധിക്കാം, അതിനാൽ യുവാക്കൾക്ക് ഇതിന്റെ ഫലങ്ങൾ അറിയാൻ പ്രധാനമാണ്.",
+  "tags": [
+   "ഇൻഡസ്‌ജലം",
+   "ഇന്ത്യപാകിസ്താൻ",
+   "SCO",
+   "ജലനയം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

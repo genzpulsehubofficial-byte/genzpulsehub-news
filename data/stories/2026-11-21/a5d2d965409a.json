@@ -1,0 +1,37 @@
+{
+ "id": "a5d2d965409a",
+ "created": "2026-11-21T06:53:42+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/culture-play-key-role-in-fostering-dialogue-pakistan-minister-malik-101795222929535.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Pakistan says culture vital for dialogue, backs peace push",
+  "hook": "Your world peace vibes start with culture, says Pakistan.",
+  "what": "Pakistan’s minister Malik said culture is essential for fostering dialogue among nations. He affirmed Pakistan’s support for initiatives that promote peace and security. He noted that the forum is centered on multilateral issues.",
+  "why": "Seeing how culture shapes diplomacy can motivate young Indians to join global conversations. Keep an eye on international peace efforts.",
+  "tags": [
+   "Pakistan",
+   "culture",
+   "peace",
+   "dialogue",
+   "multilateral"
+  ]
+ },
+ "ml": {
+  "headline": "പാകിസ്താൻ പറയുന്നു, സംസ്കാരം സംഭാഷണത്തിന് പ്രധാന",
+  "hook": "സംസ്കാരത്തിലൂടെ സമാധാനത്തെക്കുറിച്ചുള്ള ചർച്ചകൾ തുടങ്ങാം, മാലിക്.",
+  "what": "പാകിസ്താന്റെ മന്ത്രിയായ മാലിക് സംസ്കാരം രാജ്യങ്ങൾക്കിടയിലെ സംഭാഷണം വളർത്തുന്നതിൽ നിർണായകമാണെന്ന് പറഞ്ഞു. സമാധാനവും സുരക്ഷയും പ്രോത്സാഹിപ്പിക്കുന്ന ശ്രമങ്ങളെ പാകിസ്താൻ പിന്തുണയ്ക്കുമെന്ന് അദ്ദേഹം ഉറപ്പിച്ചു. കൂടാതെ, ചർച്ച നടക്കുന്ന ഫോറം ബഹുമുഖ വിഷയങ്ങളിലാണ് ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നത്.",
+  "why": "യുവാക്കൾക്ക് സംസ്കാരം അന്തർദേശീയ ബന്ധങ്ങളിൽ എങ്ങനെ സ്വാധീനം ചെലുത്തുന്നു എന്ന് അറിയാൻ ഇത് സഹായിക്കും. ആഗോള സമാധാന ശ്രമങ്ങളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക.",
+  "tags": [
+   "Pakistan",
+   "culture",
+   "peace",
+   "dialogue",
+   "multilateral"
+  ]
+ }
+}
