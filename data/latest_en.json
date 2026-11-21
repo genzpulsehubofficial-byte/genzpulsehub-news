@@ -1,5 +1,99 @@
 [
  {
+  "id": "43b5d66e86c6",
+  "created": "2026-11-21T10:55:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece",
+  "headline": "Supreme Court seeks Centre's view on kin marriage law",
+  "hook": "A top court wants the government to weigh in on banning close‑blood marriages.",
+  "what": "The Supreme Court has asked the central government to respond to a petition proposing legislation against marriages between close relatives. The petitioner’s lawyer stressed the need to inform people about the long‑term effects of such unions.",
+  "why": "Knowing the risks can shape future family choices for young Indians; staying informed helps them discuss the issue with families.",
+  "tags": [
+   "law",
+   "marriage",
+   "government",
+   "youth",
+   "awareness"
+  ]
+ },
+ {
+  "id": "c92efd7a2d54",
+  "created": "2026-11-21T10:55:25+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/maharashtra-forms-cm-led-panel-to-suggest-metro-station-names-in-mumbai-pune-and-nagpur-101795235292909.html",
+  "headline": "Maharashtra panel to propose metro station names in three cities",
+  "hook": "Your daily commute could get a fresh, locally‑chosen name soon",
+  "what": "The state government has set up a CM‑led panel to recommend names for metro stations in Mumbai, Pune and Nagpur. The group will review heritage, local sentiment, pronunciation and other factors before sending its suggestions to the centre.",
+  "why": "Names that reflect local culture can make travel easier and boost regional pride, something many young commuters care about. Stay tuned for the final list if you use the metro.",
+  "tags": [
+   "metro",
+   "naming",
+   "Maharashtra",
+   "youth",
+   "cities"
+  ]
+ },
+ {
+  "id": "e48a92405fdd",
+  "created": "2026-11-21T10:55:28+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html",
+  "headline": "Bengaluru Engineer Loses ₹5.47 Lakh to Card Scam",
+  "hook": "Your OTP isn’t the only way fraudsters strike.",
+  "what": "A software professional in Bengaluru reported a loss of ₹5.47 lakh after his credit card was misused, even though he says he never gave out his OTP, PIN or card information. The incident shows fraud can happen without direct data sharing.",
+  "why": "Young users should follow card‑security tips and know how to report unauthorized charges to protect their money.",
+  "tags": [
+   "creditcard",
+   "fraud",
+   "security",
+   "youthfinance",
+   "india"
+  ]
+ },
+ {
+  "id": "e2ed98b8f161",
+  "created": "2026-11-21T10:55:30+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHlvckVPUVM1VVU3dkhNSkswTnVzVXRiV2FBSmRzdGcwaUx6a0ZoelFoQVlaWmVZYkMyQlo1SkJ2bkU5UG1ndURwUXBPMTA4djFhczV5ZzFJYzRTdWM3cllhWEJEM1BrdEdJUWoxMHR0bFQyNDV2cXllS0NCSGdJMkpsTWhJT2xET2ZDLWNzeWZXRWNxRl9wUg?oc=5",
+  "headline": "India 416/3, Gill Nears Century in 1st Test vs NZ",
+  "hook": "India's batting surge puts NZ on the back foot.",
+  "what": "On Day 3 of the first Test, India reached 416 for three wickets. Shubman Gill was on the brink of a hundred, surviving a DRS review, while New Zealand struggled to contain the chase.",
+  "why": "A strong position early in the series boosts India's chances and gives young fans a glimpse of high‑stakes cricket; keep an eye on upcoming matches for more action.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "Gill"
+  ]
+ },
+ {
+  "id": "3f8fbccf2bcc",
+  "created": "2026-11-21T10:55:33+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-unit-of-congress-sees-return-of-a-i-group-battles-as-satheesan-venugopal-camps-clash-wmdn56d8",
+  "headline": "Kerala Congress factions clash over cabinet meeting and cyber attacks",
+  "hook": "Two senior leaders are trading accusations like a digital showdown.",
+  "what": "The Kerala unit of the Indian National Congress is seeing a fresh wave of internal fighting. Leaders V. Satheesan and K. Venugopal have blamed each other for trying to influence a cabinet meeting, launching cyber attacks, and attempting to tarnish the state government.",
+  "why": "Such infighting can affect the stability of the state government and decisions that impact education, jobs and services for young people. Staying updated helps you understand the political climate that shapes your future.",
+  "tags": [
+   "KeralaPolitics",
+   "CongressFactions",
+   "YouthWatch",
+   "IndiaNews"
+  ]
+ },
+ {
   "id": "adb7ecb32f45",
   "created": "2026-11-21T09:55:29+05:30",
   "category": "tech",
@@ -652,101 +746,6 @@
    "IPO",
    "Investing",
    "Stocks"
-  ]
- },
- {
-  "id": "08a79b2c91f3",
-  "created": "2026-11-21T03:53:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjZ4bGVxZVlKLTN2cG5McnpRSVBtVUNiNEUwenZXcGhacEhtQkwyaGhvclBXLU5jUHVNQWdsaU1WTmtDS2VHdG9UQTctYnVWb3UxeWhyOWNFZ1FKc25JWjNKMUUwV1Jmek1uVFFVeHcyNFhIZmZDYUVjOU1sM01ILVVPM25uRnlrWDl2dXlXcEo0cGJXNHRjbU1KRmJGY0RWRXZsajJ1NXR4Z1dZZFFqaFlzWk16NEF1UUM1Sl93NVQxVElNcTFRcExwbW9Ya3JOWmhNT2hCdUtWN1JYbDA0dzUwaVZlbW5MQTR6X3o4ak84OHVDT0FlMkdzbm1WV3ZGMWVjZ191NnjSAY4CQVVfeXFMT1JEVjVLWk9iQk4yM3Rkd0Nob2MxSzVZRUZRN1dsZUw4dDU2ZDYyQXlkN1VrMkhKblhqdFNNRHpUeDJCSGQzTFVrR3E2VS02UGlYZldrd1hFbVp2cmZ6V1I2djNMazhjZlB1R2FEMDA1cjFXSlIwWmhOS28yR0U1X212bG5QTi1lTmw2d2tiSjl5MHpGQzBSNWZXeVFWT2JRWmdic0F0NmZQU2pSVnBwRVpRSVE4blFmek9KdGVOcHhka0c1eWhRNURDX01RZXd1dGV3Rzc2R3BmUzBLOE8ySmxfRmoyZG9XWDlwblhqdVVhaFlCTFRFNWdVY0YwYnNrZHd4TzFheGdUZjF1V3JB?oc=5",
-  "headline": "Nvidia CEO Jensen Huang accused of humiliating staff",
-  "hook": "Allegations claim the tech leader used shocking threats on employees.",
-  "what": "Several news outlets reported that Nvidia founder Jensen Huang repeatedly humiliated workers, using extreme language such as threatening to \"pee on your brain\" and \"rip your heart out\". Employees had previously voiced complaints about his conduct.",
-  "why": "The reports raise concerns about workplace culture in major tech firms, reminding young job seekers to consider the environment before joining. Look for companies that promote respect and well‑being.",
-  "tags": [
-   "Nvidia",
-   "Workplace",
-   "TechNews",
-   "CEO",
-   "Culture"
-  ]
- },
- {
-  "id": "6787a271fdfe",
-  "created": "2026-11-21T03:00:28+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-  "headline": "AI workers at risk of honey‑trap scams, experts say",
-  "hook": "Your heart could be the next hack point.",
-  "what": "Security specialists warn that many people working in artificial intelligence are vulnerable to honey‑trap schemes. These scams use emotional manipulation to trick victims. The threat is growing as AI development accelerates.",
-  "why": "Young tech enthusiasts should stay cautious online and protect personal relationships, not just data. Being aware can prevent personal and professional fallout.",
-  "tags": [
-   "AI",
-   "cybersecurity",
-   "honeytrap",
-   "online safety",
-   "tech"
-  ]
- },
- {
-  "id": "efc832de1624",
-  "created": "2026-11-21T03:00:36+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Yahoo Tech",
-  "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-  "headline": "GTA 6 rakes in $3.79 B on launch day",
-  "hook": "The biggest game debut ever just hit the screens.",
-  "what": "Grand Theft Auto VI launched after a 13‑year wait, sparking a flood of reviews, memes and player streams from the new city Leonida. Take‑Two Interactive reported first‑day retail sales of $3.79 billion, a record for the industry.",
-  "why": "Such a massive launch shows the power of gaming culture and may influence future game releases and job opportunities in esports and development. Keep an eye on upcoming updates and community events.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "salesrecord",
-   "TakeTwo",
-   "Leonida"
-  ]
- },
- {
-  "id": "56315899a218",
-  "created": "2026-11-21T03:00:41+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
-  "headline": "GTA 6 Breaks Record with $3.79 B First‑Day Sales",
-  "hook": "The new Rockstar title sold billions on launch day.",
-  "what": "Rockstar Games reports that GTA 6 generated $3.79 billion in retail sales worldwide on its first day. The standard edition is priced at about $80 in the United States.",
-  "why": "Such massive sales show the strong demand for high‑budget games, signalling potential job and career opportunities in gaming and esports for Indian youth.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "recordsales",
-   "Rockstar",
-   "youthgaming"
-  ]
- },
- {
-  "id": "349252638715",
-  "created": "2026-11-21T03:00:45+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Education Times",
-  "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTdqcWJGLThEYkdBSTRtRV9QMzd4MVJHZFRkeXFaRl80Yll1ZW02YjNxVU9PQkkyOWROMFpEVWJheHNyN3NfTEtKU3BDS0tOQVkxczhzdWR1cDEzYU42cXdJQ2dvU3daSjdhdWthdlRsSUhGZkdVRHY1dnJoNG1UWlJBdUF5STc0bDdwdEd5ZVNtdXk5Q2s1cDRTQ1pkV0dqaHdsOVdvNVBjejVwTXJOLS11RloyekNtTTNyZExJTUVTTTV6MFpjckVTcTZjajlkNkphRjZLRERDN2xXVzdhMmJtUnRSQ25ZMXRhank1MFlqWVdDcUV2and6V0FHY0FyLWY3ZExuNllNeVhyVjlpcEFsQXNnZG1sSVlXSVVjR0cxZw?oc=5",
-  "headline": "Indian mathematician Neena Gupta cracks 70‑year‑old problem",
-  "hook": "A breakthrough that could spark more women into STEM.",
-  "what": "Neena Gupta solved a mathematics problem that had remained unsolved for seven decades. Her achievement highlights her role in encouraging women to pursue scientific fields.",
-  "why": "Young Indian students see a role model breaking barriers, showing that persistence can lead to big discoveries. It encourages girls to consider careers in math and research.",
-  "tags": [
-   "STEM",
-   "womenintech",
-   "math",
-   "inspiration",
-   "India"
   ]
  }
 ]

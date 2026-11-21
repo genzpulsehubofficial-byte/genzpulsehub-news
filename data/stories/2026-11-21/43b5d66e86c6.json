@@ -1,0 +1,37 @@
+{
+ "id": "43b5d66e86c6",
+ "created": "2026-11-21T10:55:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court seeks Centre's view on kin marriage law",
+  "hook": "A top court wants the government to weigh in on banning close‑blood marriages.",
+  "what": "The Supreme Court has asked the central government to respond to a petition proposing legislation against marriages between close relatives. The petitioner’s lawyer stressed the need to inform people about the long‑term effects of such unions.",
+  "why": "Knowing the risks can shape future family choices for young Indians; staying informed helps them discuss the issue with families.",
+  "tags": [
+   "law",
+   "marriage",
+   "government",
+   "youth",
+   "awareness"
+  ]
+ },
+ "ml": {
+  "headline": "Supreme Court കേന്ദ്രത്തെ ബന്ധുവിവാഹ നിയമം സംബന്ധിച്ച് പ്രതികരണം ചോദിച്ചു",
+  "hook": "മൂന്നാം തലമുറ വരെ ബാധിക്കാവുന്ന ബന്ധുവിവാഹത്തെക്കുറിച്ച് സർക്കാർ വിശദീകരണം നൽകണം എന്ന് കോടതിയോട് ആവശ്യപ്പെട്ടു.",
+  "what": "Supreme Court, ബന്ധുവിവാഹം നിരോധിക്കാൻ ഒരു നിയമം കൊണ്ടുവരാൻ കേന്ദ്രത്തെ പ്രതികരിക്കാൻ ആവശ്യപ്പെട്ടു. അപേക്ഷകന്റെ അഭിഭാഷകൻ, ഇത്തരത്തിലുള്ള വിവാഹങ്ങളുടെ തലമുറകളിലേക്കുള്ള ഫലങ്ങളെക്കുറിച്ച് ജനങ്ങളോട് അവബോധം സൃഷ്ടിക്കേണ്ടതുണ്ടെന്ന് ഊന്നിപ്പറഞ്ഞു.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് കുടുംബ തിരഞ്ഞെടുപ്പുകളിൽ സ്വാധീനം ചെലുത്താം; വിവരങ്ങൾ അറിയുന്നത് ചർച്ചകൾക്ക് സഹായകരമാകും.",
+  "tags": [
+   "നിയം",
+   "വിവാഹം",
+   "മദ്ധ്യസ്ഥം",
+   "യുവാക്കൾ",
+   "അവബോധം"
+  ]
+ }
+}

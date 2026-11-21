@@ -1,0 +1,34 @@
+{
+ "id": "3f8fbccf2bcc",
+ "created": "2026-11-21T10:55:33+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-unit-of-congress-sees-return-of-a-i-group-battles-as-satheesan-venugopal-camps-clash-wmdn56d8",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala Congress factions clash over cabinet meeting and cyber attacks",
+  "hook": "Two senior leaders are trading accusations like a digital showdown.",
+  "what": "The Kerala unit of the Indian National Congress is seeing a fresh wave of internal fighting. Leaders V. Satheesan and K. Venugopal have blamed each other for trying to influence a cabinet meeting, launching cyber attacks, and attempting to tarnish the state government.",
+  "why": "Such infighting can affect the stability of the state government and decisions that impact education, jobs and services for young people. Staying updated helps you understand the political climate that shapes your future.",
+  "tags": [
+   "KeralaPolitics",
+   "CongressFactions",
+   "YouthWatch",
+   "IndiaNews"
+  ]
+ },
+ "ml": {
+  "headline": "കേരള കോൺഗ്രസ് വിഭാഗങ്ങൾ കാബിനറ്റ് യോഗവും സൈബർ ആക്രമണവും ചുറ്റി ഏറ്റുമുട്ടുന്നു",
+  "hook": "സതീഷ്‌നും വെണുഗോപാലും തമ്മിൽ ഡിജിറ്റൽ വാദം!",
+  "what": "കേരളത്തിലെ കോൺഗ്രസ് ശാഖയിൽ വീണ്ടും സംഘർഷം ഉയർന്നു. സതീഷ്‌നും വെണുഗോപാലും പരസ്പരം ആരോപണം ചുമത്തുന്നു, മറ്റേ പാർട്ടി കാബിനറ്റ് യോഗം സ്വാധീനിക്കാൻ, സൈബർ ആക്രമണം നടത്താൻ, സർക്കാർ നശിപ്പിക്കാൻ ശ്രമിച്ചതായി.",
+  "why": "ഇത്തരത്തിലുള്ള സംഘർഷം സംസ്ഥാന സർക്കാരിന്റെ സ്ഥിരതയെ ബാധിക്കാം, യുവജനങ്ങളുടെ വിദ്യാഭ്യാസം, ജോലി, സേവനങ്ങൾ എന്നിവയിൽ പ്രതിഫലനം ഉണ്ടാകും. രാഷ്ട്രീയ വാർത്തകൾ ശ്രദ്ധിച്ച് അറിയുക.",
+  "tags": [
+   "KeralaRajyam",
+   "Congress",
+   "Youth"
+  ]
+ }
+}

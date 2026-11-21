@@ -1,5 +1,98 @@
 [
  {
+  "id": "43b5d66e86c6",
+  "created": "2026-11-21T10:55:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece",
+  "headline": "Supreme Court കേന്ദ്രത്തെ ബന്ധുവിവാഹ നിയമം സംബന്ധിച്ച് പ്രതികരണം ചോദിച്ചു",
+  "hook": "മൂന്നാം തലമുറ വരെ ബാധിക്കാവുന്ന ബന്ധുവിവാഹത്തെക്കുറിച്ച് സർക്കാർ വിശദീകരണം നൽകണം എന്ന് കോടതിയോട് ആവശ്യപ്പെട്ടു.",
+  "what": "Supreme Court, ബന്ധുവിവാഹം നിരോധിക്കാൻ ഒരു നിയമം കൊണ്ടുവരാൻ കേന്ദ്രത്തെ പ്രതികരിക്കാൻ ആവശ്യപ്പെട്ടു. അപേക്ഷകന്റെ അഭിഭാഷകൻ, ഇത്തരത്തിലുള്ള വിവാഹങ്ങളുടെ തലമുറകളിലേക്കുള്ള ഫലങ്ങളെക്കുറിച്ച് ജനങ്ങളോട് അവബോധം സൃഷ്ടിക്കേണ്ടതുണ്ടെന്ന് ഊന്നിപ്പറഞ്ഞു.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് കുടുംബ തിരഞ്ഞെടുപ്പുകളിൽ സ്വാധീനം ചെലുത്താം; വിവരങ്ങൾ അറിയുന്നത് ചർച്ചകൾക്ക് സഹായകരമാകും.",
+  "tags": [
+   "നിയം",
+   "വിവാഹം",
+   "മദ്ധ്യസ്ഥം",
+   "യുവാക്കൾ",
+   "അവബോധം"
+  ]
+ },
+ {
+  "id": "c92efd7a2d54",
+  "created": "2026-11-21T10:55:25+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/maharashtra-forms-cm-led-panel-to-suggest-metro-station-names-in-mumbai-pune-and-nagpur-101795235292909.html",
+  "headline": "മഹാരാഷ്ട്ര പാനൽ മൂന്ന് നഗരങ്ങളിലെ മെട്രോ സ്റ്റേഷൻ പേരുകൾ നിർദ്ദേശിക്കും",
+  "hook": "നിങ്ങളുടെ യാത്രയ്ക്ക് പുതിയ, പ്രദേശിക പേരുകൾ ഉടൻ വരാം",
+  "what": "മഹാരാഷ്ട്ര സർക്കാർ പ്രധാനമന്ത്രിയുടെ നേതൃത്വത്തിൽ ഒരു പാനൽ രൂപീകരിച്ച് മുംബൈ, പൂൺ, നാഗ്പൂർ എന്നിവിടങ്ങളിലെ മെട്രോ സ്റ്റേഷൻ പേരുകൾ നിർദ്ദേശിക്കാൻ ചുമതലപ്പെടുത്തി. പാനൽ ചരിത്രം, പ്രാദേശിക അഭിപ്രായം, ഉച്ചാരണശൈലി എന്നിവ പരിശോധിച്ച് കേന്ദ്ര സർക്കാരിലേക്ക് ശുപാർശകൾ അയക്കും.",
+  "why": "പ്രാദേശിക പേരുകൾ ഉപയോഗിക്കുന്നത് യാത്രയെ എളുപ്പമാക്കുകയും സാംസ്കാരിക അഭിമാനവും ഉയർത്തുകയും ചെയ്യും. നിങ്ങൾ മെട്രോ ഉപയോഗിക്കുന്നുവെങ്കിൽ പുതിയ പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "മെട്രോ",
+   "പേരിടൽ",
+   "മഹാരാഷ്ട്ര",
+   "യുവാക്കൾ",
+   "നഗരങ്ങൾ"
+  ]
+ },
+ {
+  "id": "e48a92405fdd",
+  "created": "2026-11-21T10:55:28+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html",
+  "headline": "ബെംഗളൂരു എഞ്ചിനീയർ ക്രെഡിറ്റ് കാർഡ് തട്ടത്തിൽ ₹5.47 ലക്ഷം നഷ്ടം",
+  "hook": "OTP മാത്രമല്ല, നിങ്ങളുടെ കാർഡും അപകടത്തിൽ.",
+  "what": "ബെംഗളൂരു里的 ഒരു സോഫ്റ്റ്വെയർ പ്രൊഫഷണൽ തന്റെ ക്രെഡിറ്റ് കാർഡ് ഉപയോഗിച്ച് ₹5.47 ലക്ഷം നഷ്ടപ്പെട്ടതായി അറിയിച്ചു, അദ്ദേഹം OTP, PIN, കാർഡ് വിശദാംശങ്ങൾ പങ്കുവെയ്ക്കാത്തതായി പറഞ്ഞു. നേരിട്ടുള്ള വിവരങ്ങൾ വെളിപ്പെടുത്താതെ തന്നെ തട്ടിപ്പ് നടക്കാം എന്ന് ഇത് തെളിയിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾ കാർഡ് സുരക്ഷാ മാർഗങ്ങൾ പഠിച്ച്, അനധികൃത ഇടപാടുകൾ സംഭവിച്ചാൽ ഉടൻ റിപ്പോർട്ട് ചെയ്യണം, അതിലൂടെ സാമ്പത്തിക നഷ്ടം കുറയ്ക്കാം.",
+  "tags": [
+   "ക്രെഡിറ്റ്‌കാർഡ്",
+   "തട്ടിപ്പ്",
+   "സുരക്ഷ",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "e2ed98b8f161",
+  "created": "2026-11-21T10:55:30+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHlvckVPUVM1VVU3dkhNSkswTnVzVXRiV2FBSmRzdGcwaUx6a0ZoelFoQVlaWmVZYkMyQlo1SkJ2bkU5UG1ndURwUXBPMTA4djFhczV5ZzFJYzRTdWM3cllhWEJEM1BrdEdJUWoxMHR0bFQyNDV2cXllS0NCSGdJMkpsTWhJT2xET2ZDLWNzeWZXRWNxRl9wUg?oc=5",
+  "headline": "ഇന്ത്യ 416/3, ഗിൽ സവറിനടുത്ത് 1മത്തെ ടെസ്റ്റിൽ NZക്കെതിരെ",
+  "hook": "ഇന്ത്യയുടെ ബാറ്റിംഗ് സ്ഫോടനം NZയെ പിന്നിലാക്കി.",
+  "what": "ആദ്യ ടെസ്റ്റിന്റെ മൂന്നാം ദിവസം, ഇന്ത്യ 416 റൺസ് മൂന്ന് വിഹിതം നേടി. ഷുബ്മാൻ ഗിൽ സവറിനടുത്തു, DRS റിവ്യൂ മറികടന്ന്, ന്യൂസിലാൻഡ് പിടിച്ചെടുക്കാൻ ബുദ്ധിമുട്ടി.",
+  "why": "പരമ്പരയുടെ തുടക്കത്തിൽ ശക്തമായ സ്ഥാനം ഇന്ത്യയ്ക്ക് സീരീസ് നേട്ടം ഉറപ്പാക്കും; കൂടുതൽ ക്രിക്കറ്റ് ആക്ഷൻ കാണാൻ അടുത്ത മത്സരങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ന്യൂസിലാൻഡ്",
+   "ടെസ്റ്റ്",
+   "ഗിൽ"
+  ]
+ },
+ {
+  "id": "3f8fbccf2bcc",
+  "created": "2026-11-21T10:55:33+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-unit-of-congress-sees-return-of-a-i-group-battles-as-satheesan-venugopal-camps-clash-wmdn56d8",
+  "headline": "കേരള കോൺഗ്രസ് വിഭാഗങ്ങൾ കാബിനറ്റ് യോഗവും സൈബർ ആക്രമണവും ചുറ്റി ഏറ്റുമുട്ടുന്നു",
+  "hook": "സതീഷ്‌നും വെണുഗോപാലും തമ്മിൽ ഡിജിറ്റൽ വാദം!",
+  "what": "കേരളത്തിലെ കോൺഗ്രസ് ശാഖയിൽ വീണ്ടും സംഘർഷം ഉയർന്നു. സതീഷ്‌നും വെണുഗോപാലും പരസ്പരം ആരോപണം ചുമത്തുന്നു, മറ്റേ പാർട്ടി കാബിനറ്റ് യോഗം സ്വാധീനിക്കാൻ, സൈബർ ആക്രമണം നടത്താൻ, സർക്കാർ നശിപ്പിക്കാൻ ശ്രമിച്ചതായി.",
+  "why": "ഇത്തരത്തിലുള്ള സംഘർഷം സംസ്ഥാന സർക്കാരിന്റെ സ്ഥിരതയെ ബാധിക്കാം, യുവജനങ്ങളുടെ വിദ്യാഭ്യാസം, ജോലി, സേവനങ്ങൾ എന്നിവയിൽ പ്രതിഫലനം ഉണ്ടാകും. രാഷ്ട്രീയ വാർത്തകൾ ശ്രദ്ധിച്ച് അറിയുക.",
+  "tags": [
+   "KeralaRajyam",
+   "Congress",
+   "Youth"
+  ]
+ },
+ {
   "id": "adb7ecb32f45",
   "created": "2026-11-21T09:55:29+05:30",
   "category": "tech",
@@ -652,101 +745,6 @@
    "ഐപിഒ",
    "നിക്ഷേപം",
    "സ്റ്റോക്ക്സ്"
-  ]
- },
- {
-  "id": "08a79b2c91f3",
-  "created": "2026-11-21T03:53:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjZ4bGVxZVlKLTN2cG5McnpRSVBtVUNiNEUwenZXcGhacEhtQkwyaGhvclBXLU5jUHVNQWdsaU1WTmtDS2VHdG9UQTctYnVWb3UxeWhyOWNFZ1FKc25JWjNKMUUwV1Jmek1uVFFVeHcyNFhIZmZDYUVjOU1sM01ILVVPM25uRnlrWDl2dXlXcEo0cGJXNHRjbU1KRmJGY0RWRXZsajJ1NXR4Z1dZZFFqaFlzWk16NEF1UUM1Sl93NVQxVElNcTFRcExwbW9Ya3JOWmhNT2hCdUtWN1JYbDA0dzUwaVZlbW5MQTR6X3o4ak84OHVDT0FlMkdzbm1WV3ZGMWVjZ191NnjSAY4CQVVfeXFMT1JEVjVLWk9iQk4yM3Rkd0Nob2MxSzVZRUZRN1dsZUw4dDU2ZDYyQXlkN1VrMkhKblhqdFNNRHpUeDJCSGQzTFVrR3E2VS02UGlYZldrd1hFbVp2cmZ6V1I2djNMazhjZlB1R2FEMDA1cjFXSlIwWmhOS28yR0U1X212bG5QTi1lTmw2d2tiSjl5MHpGQzBSNWZXeVFWT2JRWmdic0F0NmZQU2pSVnBwRVpRSVE4blFmek9KdGVOcHhka0c1eWhRNURDX01RZXd1dGV3Rzc2R3BmUzBLOE8ySmxfRmoyZG9XWDlwblhqdVVhaFlCTFRFNWdVY0YwYnNrZHd4TzFheGdUZjF1V3JB?oc=5",
-  "headline": "Nvidia CEO Jensen Huang ജീവനക്കാരെ അപമാനിച്ചതായി ആരോപണം",
-  "hook": "ടെക് ബോസ് ജീവനക്കാരോട് ഭയാനകമായ ഭീഷണികൾ ഉപയോഗിച്ചതായി ആരോപണം.",
-  "what": "വിവിധ വാർത്താ മാധ്യമങ്ങൾ Nvidia സ്ഥാപകൻ Jensen Huang ജീവനക്കാരെ പലതവണ അപമാനിച്ചുവെന്ന്, \"നിന്റെ മസ്തിഷ്കത്തിൽ മൂത്രം ഒഴിക്കാൻ\" , \"ഹൃദയം കുത്തി പുറത്തെടുക്കാൻ\" എന്നതുപോലുള്ള കടുത്ത വാക്കുകൾ ഉപയോഗിച്ചുവെന്ന് റിപ്പോർട്ട് ചെയ്തു. ജീവനക്കാർ അദ്ദേഹത്തിന്റെ പെരുമാറ്റത്തെക്കുറിച്ച് മുമ്പേ പരാതിപ്പെട്ടിരുന്നു.",
-  "why": "ഇത് വലിയ ടെക് കമ്പനികളിലെ ജോലി അന്തരീക്ഷത്തെക്കുറിച്ച് ചോദ്യങ്ങൾ ഉയർത്തുന്നു; ജോലിക്ക് പ്രവേശിക്കാൻ പോകുന്ന യുവാക്കൾ ആദരവുള്ള, ആരോഗ്യകരമായ അന്തരീക്ഷം ഉള്ള സ്ഥാപനങ്ങൾ തിരഞ്ഞെടുക്കണം.",
-  "tags": [
-   "Nvidia",
-   "ജോലി",
-   "ടെക്",
-   "CEO",
-   "സംസ്കാരം"
-  ]
- },
- {
-  "id": "6787a271fdfe",
-  "created": "2026-11-21T03:00:28+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-  "headline": "AI തൊഴിലാളികൾക്ക് ഹണി‑ട്രാപ് തട്ടിപ്പ് അപകടം, വിദഗ്ധർ മുന്നറിയിപ്പ്",
-  "hook": "നിങ്ങളുടെ ഹൃദയം അടുത്ത ഹാക്കിംഗ് ലക്ഷ്യമായി മാറാം.",
-  "what": "സുരക്ഷാ വിദഗ്ധർ AI രംഗത്തെ പല ആളുകളും ഹണി‑ട്രാപ് സ്കീമുകൾക്ക് ഇരയാകാൻ സാധ്യതയുണ്ടെന്ന് മുന്നറിയിപ്പ് നൽകി. ഈ തട്ടിപ്പുകൾ വികാരപരമായ ചതിയിലൂടെ ഇരകളെ ആകർഷിക്കുന്നു. AI വികസനം വേഗത്തിൽ നടക്കുന്നതിനാൽ ഈ ഭീഷണി വർദ്ധിക്കുന്നു.",
-  "why": "യുവ ടെക്ക് ആസ്വാദകർ ഓൺലൈനിൽ ജാഗ്രത പാലിക്കുകയും വ്യക്തിഗത ബന്ധങ്ങൾ സംരക്ഷിക്കുകയും ചെയ്യണം. അറിവ് ഉണ്ടെങ്കിൽ വ്യക്തിപരവും പ്രൊഫഷണലും ആയ പ്രത്യാഘാതങ്ങൾ ഒഴിവാക്കാം.",
-  "tags": [
-   "AI",
-   "cybersecurity",
-   "honeytrap",
-   "online safety",
-   "tech"
-  ]
- },
- {
-  "id": "efc832de1624",
-  "created": "2026-11-21T03:00:36+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Yahoo Tech",
-  "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFNyd0t4WENWQi14dUoyWTh4LUg5X0x2VVNPZnB0Ulh5aVVpeHJQTUIxRXpIV1I5cUhGanBpczIzT2FKYUZ4RnFpOVUxSTRhX0lISVNJMjZpMHoyMHdUUjNmcXJDRE9CSXhvcE4zLTRtUTdWb1JJTWRBU0w2WGs5cHdJSGJkdkJTUVJYMDZEcmRHT3RUNFotSXRtYjhHNkRNaGN2MWMzekxYQzNIY1kzb0E4bTB5dTBjTll3cFU3ZU5FaTV4WHlma2F5T1VON1Bma2pET3RwTG5FdmxHUklySDJwYm9uYWh4Tk5XeDUtX2lHQU9IejY1VnI1NEFHaTVhZXc?oc=5",
-  "headline": "GTA 6 ആദ്യദിനം $3.79 ബില്യണ്‍ വില്‍പ്പന",
-  "hook": "വലിയ ഗെയിം ഡെബ്യൂ ഇപ്പോള്‍ സ്ക്രീനുകളില്‍.",
-  "what": "13 വര്‍ഷത്തെ ഇടവേളയ്ക്ക് ശേഷം Grand Theft Auto VI പുറത്തിറങ്ങി, കളിക്കാര്‍ Leonida നഗരത്തില്‍ പുതിയ റിവ്യൂകളും മീമുകളും സ്റ്റ്രീമുകളും പങ്കുവെച്ചു. Take‑Two Interactive ആദ്യദിനം $3.79 ബില്യണ്‍ റീട്ടെയില്‍ വില്‍പ്പന രേഖപ്പെടുത്തി, ഇതു ഒരു റെക്കോര്‍ഡ് ആണ്.",
-  "why": "ഇത്തരം വന്‍ ലോഞ്ച് ഗെയിമിംഗ് സംസ്കാരത്തിന്റെ ശക്തി കാണിക്കുന്നു, ഭാവിയിലെ ഗെയിം റിലീസ്, ഇ‑സ്പോര്‍ട്‌സ്, ഡെവലപ്മെന്റ് ജോലികള്‍ എന്നിവയെ ബാധിക്കും. പുതിയ അപ്ഡേറ്റുകളും കമ്മ്യൂണിറ്റി ഇവന്റുകളും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "salesrecord",
-   "TakeTwo",
-   "Leonida"
-  ]
- },
- {
-  "id": "56315899a218",
-  "created": "2026-11-21T03:00:41+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/gta-6-sets-record-with-3-79-billion-in-first-day-retail-sales-report-12356605#publisher=newsstand",
-  "headline": "GTA 6 ആദ്യദിനത്തിൽ $3.79 ബില്യൺ വിൽപ്പന റെക്കോർഡ് തകർത്തു",
-  "hook": "റോക്ക്സ്റ്റാർ的新 ഗെയിം ആദ്യ ദിവസം തന്നെ ബില്യൺ ഡോളർ വിൽപ്പന നേടി.",
-  "what": "റോക്ക്സ്റ്റാർ ഗെയിംസ് റിപ്പോർട്ട് ചെയ്യുന്നത് GTA 6 ആദ്യദിനത്തിൽ ലോകവ്യാപകമായി $3.79 ബില്യൺ റീട്ടെയിൽ വിൽപ്പന നേടി. സ്റ്റാൻഡേർഡ് പതിപ്പ് യു.എസ്.യിൽ ഏകദേശം $80 വിലയുള്ളതാണ്.",
-  "why": "ഇത്തരം വൻ വിൽപ്പനകൾ ഉയർന്ന ബജറ്റ് ഗെയിമുകളുടെ ആവശ്യം തെളിയിക്കുന്നു, ഇത് ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഗെയിമിംഗ്, ഇ‑സ്പോർട്സ് മേഖലയിൽ കരിയർ അവസരങ്ങൾ സൃഷ്ടിക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "GTA6",
-   "ഗെയിമിംഗ്",
-   "റെക്കോർഡ്",
-   "റോക്ക്സ്റ്റാർ",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "349252638715",
-  "created": "2026-11-21T03:00:45+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Education Times",
-  "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTdqcWJGLThEYkdBSTRtRV9QMzd4MVJHZFRkeXFaRl80Yll1ZW02YjNxVU9PQkkyOWROMFpEVWJheHNyN3NfTEtKU3BDS0tOQVkxczhzdWR1cDEzYU42cXdJQ2dvU3daSjdhdWthdlRsSUhGZkdVRHY1dnJoNG1UWlJBdUF5STc0bDdwdEd5ZVNtdXk5Q2s1cDRTQ1pkV0dqaHdsOVdvNVBjejVwTXJOLS11RloyekNtTTNyZExJTUVTTTV6MFpjckVTcTZjajlkNkphRjZLRERDN2xXVzdhMmJtUnRSQ25ZMXRhank1MFlqWVdDcUV2and6V0FHY0FyLWY3ZExuNllNeVhyVjlpcEFsQXNnZG1sSVlXSVVjR0cxZw?oc=5",
-  "headline": "ഇന്ത്യൻ ഗണിതജ്ഞാ നീന ഗുപ്താ 70‑വർഷം പഴക്കമുള്ള പ്രശ്നം പരിഹരിച്ചു",
-  "hook": "ഇത് കൂടുതൽ പെൺകുട്ടികളെ STEM-ലേക്ക് ആകർഷിക്കാൻ സഹായിക്കും.",
-  "what": "നീന ഗുപ്താ ഏഴ് ദശാബ്ദം വരെ പരിഹരിക്കപ്പെടാതെ നിന്ന ഗണിതപ്രശ്നം പരിഹരിച്ചു. ഈ നേട്ടം STEM-ൽ സ്ത്രീകളെ പ്രോത്സാഹിപ്പിക്കുന്നു.",
-  "why": "ഇത് യുവ ഇന്ത്യക്കാരെ പ്രചോദിപ്പിച്ച്, ഗണിതം, ഗവേഷണം എന്നിവയിൽ കരിയർ ചിന്തിക്കാൻ പ്രേരിപ്പിക്കുന്നു. പെൺകുട്ടികൾക്ക് മാതൃകയാകുന്നു.",
-  "tags": [
-   "STEM",
-   "സ്ത്രീകൾ",
-   "ഗണിതം",
-   "പ്രചോദനം",
-   "ഇന്ത്യ"
   ]
  }
 ]

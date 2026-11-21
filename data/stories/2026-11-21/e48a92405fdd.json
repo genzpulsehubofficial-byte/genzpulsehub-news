@@ -1,0 +1,37 @@
+{
+ "id": "e48a92405fdd",
+ "created": "2026-11-21T10:55:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/credit-card-fraud-software-engineer-loses-5-47-lakh-despite-not-sharing-otp-or-pin-heres-how-to-protect-your-money-11795235698441.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bengaluru Engineer Loses ₹5.47 Lakh to Card Scam",
+  "hook": "Your OTP isn’t the only way fraudsters strike.",
+  "what": "A software professional in Bengaluru reported a loss of ₹5.47 lakh after his credit card was misused, even though he says he never gave out his OTP, PIN or card information. The incident shows fraud can happen without direct data sharing.",
+  "why": "Young users should follow card‑security tips and know how to report unauthorized charges to protect their money.",
+  "tags": [
+   "creditcard",
+   "fraud",
+   "security",
+   "youthfinance",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ബെംഗളൂരു എഞ്ചിനീയർ ക്രെഡിറ്റ് കാർഡ് തട്ടത്തിൽ ₹5.47 ലക്ഷം നഷ്ടം",
+  "hook": "OTP മാത്രമല്ല, നിങ്ങളുടെ കാർഡും അപകടത്തിൽ.",
+  "what": "ബെംഗളൂരു里的 ഒരു സോഫ്റ്റ്വെയർ പ്രൊഫഷണൽ തന്റെ ക്രെഡിറ്റ് കാർഡ് ഉപയോഗിച്ച് ₹5.47 ലക്ഷം നഷ്ടപ്പെട്ടതായി അറിയിച്ചു, അദ്ദേഹം OTP, PIN, കാർഡ് വിശദാംശങ്ങൾ പങ്കുവെയ്ക്കാത്തതായി പറഞ്ഞു. നേരിട്ടുള്ള വിവരങ്ങൾ വെളിപ്പെടുത്താതെ തന്നെ തട്ടിപ്പ് നടക്കാം എന്ന് ഇത് തെളിയിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾ കാർഡ് സുരക്ഷാ മാർഗങ്ങൾ പഠിച്ച്, അനധികൃത ഇടപാടുകൾ സംഭവിച്ചാൽ ഉടൻ റിപ്പോർട്ട് ചെയ്യണം, അതിലൂടെ സാമ്പത്തിക നഷ്ടം കുറയ്ക്കാം.",
+  "tags": [
+   "ക്രെഡിറ്റ്‌കാർഡ്",
+   "തട്ടിപ്പ്",
+   "സുരക്ഷ",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

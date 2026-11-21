@@ -1,0 +1,37 @@
+{
+ "id": "c92efd7a2d54",
+ "created": "2026-11-21T10:55:25+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/maharashtra-forms-cm-led-panel-to-suggest-metro-station-names-in-mumbai-pune-and-nagpur-101795235292909.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Maharashtra panel to propose metro station names in three cities",
+  "hook": "Your daily commute could get a fresh, locally‑chosen name soon",
+  "what": "The state government has set up a CM‑led panel to recommend names for metro stations in Mumbai, Pune and Nagpur. The group will review heritage, local sentiment, pronunciation and other factors before sending its suggestions to the centre.",
+  "why": "Names that reflect local culture can make travel easier and boost regional pride, something many young commuters care about. Stay tuned for the final list if you use the metro.",
+  "tags": [
+   "metro",
+   "naming",
+   "Maharashtra",
+   "youth",
+   "cities"
+  ]
+ },
+ "ml": {
+  "headline": "മഹാരാഷ്ട്ര പാനൽ മൂന്ന് നഗരങ്ങളിലെ മെട്രോ സ്റ്റേഷൻ പേരുകൾ നിർദ്ദേശിക്കും",
+  "hook": "നിങ്ങളുടെ യാത്രയ്ക്ക് പുതിയ, പ്രദേശിക പേരുകൾ ഉടൻ വരാം",
+  "what": "മഹാരാഷ്ട്ര സർക്കാർ പ്രധാനമന്ത്രിയുടെ നേതൃത്വത്തിൽ ഒരു പാനൽ രൂപീകരിച്ച് മുംബൈ, പൂൺ, നാഗ്പൂർ എന്നിവിടങ്ങളിലെ മെട്രോ സ്റ്റേഷൻ പേരുകൾ നിർദ്ദേശിക്കാൻ ചുമതലപ്പെടുത്തി. പാനൽ ചരിത്രം, പ്രാദേശിക അഭിപ്രായം, ഉച്ചാരണശൈലി എന്നിവ പരിശോധിച്ച് കേന്ദ്ര സർക്കാരിലേക്ക് ശുപാർശകൾ അയക്കും.",
+  "why": "പ്രാദേശിക പേരുകൾ ഉപയോഗിക്കുന്നത് യാത്രയെ എളുപ്പമാക്കുകയും സാംസ്കാരിക അഭിമാനവും ഉയർത്തുകയും ചെയ്യും. നിങ്ങൾ മെട്രോ ഉപയോഗിക്കുന്നുവെങ്കിൽ പുതിയ പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "മെട്രോ",
+   "പേരിടൽ",
+   "മഹാരാഷ്ട്ര",
+   "യുവാക്കൾ",
+   "നഗരങ്ങൾ"
+  ]
+ }
+}
