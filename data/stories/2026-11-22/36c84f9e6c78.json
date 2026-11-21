@@ -1,0 +1,37 @@
+{
+ "id": "36c84f9e6c78",
+ "created": "2026-11-22T04:02:26+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Crypto startups push for tax breaks before Budget 2027",
+  "hook": "India’s crypto scene is asking the govt for relief.",
+  "what": "The Bharat Web3 Association has sent its suggestions to the finance ministry. It is asking for tax relief for crypto startups ahead of the Union Budget.",
+  "why": "Tax incentives could boost crypto entrepreneurship, creating jobs for tech‑savvy youth. Keep an eye on the budget for any changes that may affect startup opportunities.",
+  "tags": [
+   "crypto",
+   "tax",
+   "startups",
+   "budget",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ക്രിപ്റ്റോ സ്റ്റാർട്ടപ്പുകൾക്ക് ബജറ്റ് 2027‑മുമ്പ് നികുതി ലാഭം",
+  "hook": "ക്രിപ്റ്റോ രംഗം സർക്കാർ സഹായം ആവശ്യപ്പെടുന്നു.",
+  "what": "ഭാരത് വെബ്3 അസോസിയേഷൻ ഫിനാൻസ് മന്ത്രാലയത്തിന് അവരുടെ ശുപാർശകൾ സമർപ്പിച്ചു. ബജറ്റ് 2027‑ക്ക് മുൻപ് ക്രിപ്റ്റോ സ്റ്റാർട്ടപ്പുകൾക്ക് നികുതി ലാഭം ആവശ്യപ്പെടുന്നു.",
+  "why": "നികുതി പ്രോത്സാഹനങ്ങൾ യുവ സംരംഭകർക്കു അവസരങ്ങൾ സൃഷ്ടിക്കും. ബജറ്റിലെ മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "നികുതി",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ബജറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

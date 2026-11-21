@@ -1,0 +1,37 @@
+{
+ "id": "abd2d736d2b5",
+ "created": "2026-11-22T04:02:33+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Gulf News",
+ "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjExV0VPZjRISlBIazV0U04wckNUNU1VX1FYNE41UGxBR19oSmJFRndRb3A4R0ZsTlNlRGt0RlAwVmQ1YnBHUHYtV0lEdUZuSFFPQjNVMl9oOVRoRVZWdllJbnF2bFdIX0s5aEwxR3FWdjNYUzNBaTNSSFVkVkw0NjZyVEsxbzRPODNJclNfY2poTmxiYTdJbGlrUFNOR1hINk9jTlA3R19LWWpOT1pVdXVwam90UEZjZnZrdjV0Q3ZKdHRGZ2xRNjBHcFNFRGVCelhIY1ZqbnZOLXlIMENZRdIB8wFBVV95cUxPTlNXLUxQSm5LT2Y2T094bDJhbEpheVFYbVB3MENHUWdDZ3V4cW1hdlpINUZpM3J5eFMxWVFPZHlCUmVaZUMwbXdNYld6MkFVS0RkTDRHcVdscjJNdmtqOXdRNmdTWUp3emZGWVRmMllNWDZJTDFsMGx4UEdmaDY2U3F6aUJtRVotNDNuZHR2VkxfTVBYRS1kVGdUaTZwUFRGSjBWQlFjRUVQeHBicUZfSURCcjh0WDI2ZW8yXzdyN1ZSUm1xZmRsTHR1YWw2LWF1ZXBYMnpZT3RoeUpQZko1S2RiYy0tRVpKdG1VVkJwdkI2SVk?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Anirudh and Kavya's red‑black wedding dazzles with stars",
+  "hook": "A star‑studded reception lit up Chennai with red and black glamour.",
+  "what": "Music composer Anirudh Ravichander and entrepreneur Kavya Maran tied the knot on November 11. Their reception featured guests like chief minister Vijay, actor Rajinikanth, and political leader M.K. Stalin. Prime Minister Narendra Modi also sent a congratulatory letter.",
+  "why": "The event shows how entertainment, politics and business intersect, a trend many Indian teens follow on social media. Keep an eye on the celebrities and leaders who shape pop culture.",
+  "tags": [
+   "celebritywedding",
+   "Chennai",
+   "redandblack",
+   "politics",
+   "popculture"
+  ]
+ },
+ "ml": {
+  "headline": "അനിരുദ്ധും കവ്യയും ചുവപ്പും കറുപ്പും നിറഞ്ഞ വിവാഹം",
+  "hook": "ചെന്നൈയില്‍ ചുവപ്പും കറുപ്പും നിറഞ്ഞ സ്റ്റാര്‍-പൂര്‍ണ്ണ റിസപ്ഷന്‍.",
+  "what": "മ്യൂസിക് കമ്പോസര്‍ അനിരുദ്ധും ബിസിനസ് വനിതാ കവ്യ മരാനും 11 നവംബര്‍ വിവാഹിതരായി. റിസപ്ഷന്‍യില്‍ സി.എം. വിജയ്, രജിനികാന്ത്, എം.കെ. സ്റ്റാലിന്‍ എന്നിവരും പങ്കെടുത്തു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഒരു അഭിനന്ദന കത്ത് അയച്ചു.",
+  "why": "വിനോദം, രാഷ്ട്രീയവും ബിസിനസും ഒന്നിച്ച് ചേരുന്ന ഈ തരംഗം യുവജനങ്ങള്‍ സോഷ്യല്‍ മീഡിയയില്‍ പിന്തുടരുന്നു. പ്രശസ്തി, നേതാക്കള്‍ എന്നിവരുടെ ചലനങ്ങള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "celebritywedding",
+   "Chennai",
+   "redandblack",
+   "politics",
+   "popculture"
+  ]
+ }
+}

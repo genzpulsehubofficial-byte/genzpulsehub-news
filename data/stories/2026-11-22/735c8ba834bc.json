@@ -1,0 +1,37 @@
+{
+ "id": "735c8ba834bc",
+ "created": "2026-11-22T04:02:28+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "EU Drafts Tax on Big Tech, France Calls It Disappointing",
+  "hook": "A new EU tax could change how you use your favorite apps.",
+  "what": "The European Union has added a tax on large technology firms to its latest budget draft. France’s president’s office said the move was disappointing.",
+  "why": "The tax might affect pricing or availability of global apps that Indian teens use, so staying aware of any changes is useful.",
+  "tags": [
+   "EU",
+   "BigTech",
+   "Tax",
+   "France",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "EU ബജറ്റ് ഡ്രാഫ്റ്റില്‍ ബിഗ് ടെക്‌ക്ക് നികുതി, ഫ്രാന്‍സ് നിരാശ",
+  "hook": "പുതിയ EU നികുതി നിങ്ങളുടെ ആപ്പുകള്‍ ഉപയോഗിക്കുന്ന രീതിയെ മാറ്റാം.",
+  "what": "യൂറോപ്യന്‍ യൂണിയന്‍ തന്റെ പുതിയ ബജറ്റ് ഡ്രാഫ്റ്റില്‍ വലിയ ടെക് കമ്പനികള്‍ക്ക് നികുതി ചുമത്താന്‍ തീരുമാനിച്ചു. ഫ്രാന്‍സിന്റെ പ്രസിഡന്റിന്റെ ഓഫീസ് ഇതിനെ നിരാശയായി വിലയിരുത്തി.",
+  "why": "ഇത്തരത്തിലുള്ള നികുതി ആപ്പുകളുടെ വിലയോ ലഭ്യതയോ ബാധിച്ചേക്കാം, അതിനാല്‍ മാറ്റങ്ങള്‍ ശ്രദ്ധയില്‍ വെക്കണം.",
+  "tags": [
+   "EU",
+   "BigTech",
+   "Tax",
+   "France",
+   "Youth"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "6fa62192c3a0",
+ "created": "2026-11-22T04:02:31+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "BleepingComputer",
+ "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFra01VVnJrbXZhbjlKN2xxZjFNUXhTYTJEcVQyTTdRUGdVcUVWWTRTcFdMODBYUTRxb1lRYktrUEx6cHNhbmVhaGlOQVIyalJ3ZVVXX1lhMjFXWkJRckZpamxjaUFsRzR2MWwtY0RObG5KQjJtc3lfc21qLWJ5NEd2Qzg4dHpERXVkenBtWTJCNlF6QXJ3dUpQVTBWV1NzUVpoeWRUdkltMFNFV0NmTlM5NlQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Microsoft patches Entra Connect Health breach vulnerability",
+  "hook": "Your school’s cloud accounts could be at risk",
+  "what": "A security flaw in Microsoft’s Entra Connect Health service was used to access tenant metadata. The issue, first seen after a July outage, has now been patched by Microsoft. A related phishing risk still lacks a fix.",
+  "why": "Students and young professionals using Microsoft cloud services should watch for suspicious emails and tighten their account security settings.",
+  "tags": [
+   "Microsoft",
+   "security",
+   "cloud",
+   "privacy",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "Microsoft Entra Connect Health ദോഷം പാച്ച് ചെയ്തു",
+  "hook": "നിങ്ങളുടെ സ്കൂൾ ക്ലൗഡ് അക്കൗണ്ടുകൾ അപകടത്തിൽ",
+  "what": "Microsoft Entra Connect Health സേവനത്തിലെ സുരക്ഷാ ദോഷം ഉപയോഗിച്ച് ടെനന്റ് മെറ്റാഡേറ്റാ ചോരപ്പെട്ടു. ജൂലൈ ഔട്ട്‌േജിന് ശേഷം കണ്ടെത്തിയ ഈ പ്രശ്നം ഇപ്പോൾ Microsoft പാച്ച് ചെയ്തു. പക്ഷേ, ഫിഷിംഗ് ബന്ധപ്പെട്ട ഒരു അപകടം ഇപ്പോഴും പരിഹരിച്ചിട്ടില്ല.",
+  "why": "Microsoft ക്ലൗഡ് ഉപയോഗിക്കുന്ന വിദ്യാർത്ഥികളും യുവപ്രവർത്തകരും സംശയകരമായ ഇമെയിലുകൾക്ക് ജാഗ്രത പാലിക്കുകയും അക്കൗണ്ട് സുരക്ഷാ ക്രമീകരണങ്ങൾ ശക്തമാക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "Microsoft",
+   "സുരക്ഷ",
+   "ക്ലൗഡ്",
+   "സ്വകാര്യത",
+   "വിദ്യാർത്ഥി"
+  ]
+ }
+}

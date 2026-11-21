@@ -1,0 +1,37 @@
+{
+ "id": "ccfe2ec613ac",
+ "created": "2026-11-22T04:02:35+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Kalkine India",
+ "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21tYTY5eXNIeVJtVVRqS242VTdhd21oYzN1T1BVZ09FMzFKVGJxNUxVVEtOQVQ0MGc2OU1BRzVqbVRNNEowTVVEc0ktV3ZZT1VWTGoxblBqV0toSHRpY1BRdEdfY2E1aW1qRVhNWUtsZXdBU3VLczNiaWIzY2Z2M1dqN3FXdnpOVGhQb08tZkNuNEZ3WVdUTGx1OTdPdU5mUC1jUThyTGRvZndWS0kteGdnYXZNbmtFa0JKWnJsZUZWblg2SU1PSkRGQTBJT2FHdVgyMkhyNHdvVzJWbDVCXzZYYWtBamk0?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "White Blood Cell DNA Boosts Cancer Test Accuracy, says Indian Study",
+  "hook": "Your own DNA could make blood cancer screens clearer and cheaper.",
+  "what": "Researchers in India found that DNA from white blood cells can amplify cancer signals in blood tests instead of diluting them. Strand Life Sciences is using this insight in its CancerSpot multi‑cancer blood test and plans to roll it out to more hospitals while cutting costs. The company also aims to enter US and Southeast Asian markets.",
+  "why": "Earlier and more affordable cancer detection could benefit young people and families, so watch for new screening options becoming available nearby.",
+  "tags": [
+   "cancer",
+   "bloodtest",
+   "healthtech",
+   "India",
+   "earlydetection"
+  ]
+ },
+ "ml": {
+  "headline": "വൈറ്റ് ബ്ലഡ് സെൽ DNA കാൻസർ ടെസ്റ്റ് കൃത്യത ഉയർത്തുന്നു, ഇന്ത്യൻ പഠനം പറയുന്നു",
+  "hook": "നിങ്ങളുടെ DNA തന്നെ ബ്ലഡ് കാൻസർ സ്ക്രീൻ കൂടുതൽ വ്യക്തവും സുലഭവുമാക്കും.",
+  "what": "ഇന്ത്യയിലെ ഗവേഷകർ കണ്ടെത്തിയത് വൈറ്റ് ബ്ലഡ് സെല്ലുകളുടെ DNA കാൻസർ സിഗ്നലുകൾ ശക്തിപ്പെടുത്തുന്നു, ദുർബലമാക്കുന്നില്ല. സ്റ്റ്രാൻഡ് ലൈഫ് സയൻസസ് ഈ കണ്ടെത്തൽ CancerSpot മൾട്ടി‑കാൻസർ ബ്ലഡ് ടെസ്റ്റിൽ ഉപയോഗിച്ച് കൂടുതൽ ആശുപത്രികളിലേക്ക് വ്യാപിപ്പിക്കുകയും ചെലവ് കുറയ്ക്കുകയും ചെയ്യാൻ പദ്ധതിയിടുന്നു. കൂടാതെ US, ദക്ഷിണ‑കിഴക്കൻ ഏഷ്യൻ മാർക്കറ്റുകളിലും പ്രവേശിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "വേഗത്തിലുള്ള, കുറഞ്ഞ വിലയുള്ള കാൻസർ കണ്ടെത്തൽ യുവജനങ്ങളുടെയും കുടുംബങ്ങളുടെയും ആരോഗ്യ സംരക്ഷണത്തിൽ സഹായിക്കും, അതിനാൽ അടുത്തിടെ ലഭ്യമാകുന്ന സ്ക്രീനിംഗ് ഓപ്ഷനുകൾക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കാൻസർ",
+   "ബ്ലഡ്ടെസ്റ്റ്",
+   "ഹെൽത്ത്‌ടെക്",
+   "ഇന്ത്യ",
+   "പ്രാരംഭകണ്ടെത്തൽ"
+  ]
+ }
+}

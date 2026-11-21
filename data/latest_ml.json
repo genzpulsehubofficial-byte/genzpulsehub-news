@@ -1,5 +1,100 @@
 [
  {
+  "id": "36c84f9e6c78",
+  "created": "2026-11-22T04:02:26+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+  "headline": "ക്രിപ്റ്റോ സ്റ്റാർട്ടപ്പുകൾക്ക് ബജറ്റ് 2027‑മുമ്പ് നികുതി ലാഭം",
+  "hook": "ക്രിപ്റ്റോ രംഗം സർക്കാർ സഹായം ആവശ്യപ്പെടുന്നു.",
+  "what": "ഭാരത് വെബ്3 അസോസിയേഷൻ ഫിനാൻസ് മന്ത്രാലയത്തിന് അവരുടെ ശുപാർശകൾ സമർപ്പിച്ചു. ബജറ്റ് 2027‑ക്ക് മുൻപ് ക്രിപ്റ്റോ സ്റ്റാർട്ടപ്പുകൾക്ക് നികുതി ലാഭം ആവശ്യപ്പെടുന്നു.",
+  "why": "നികുതി പ്രോത്സാഹനങ്ങൾ യുവ സംരംഭകർക്കു അവസരങ്ങൾ സൃഷ്ടിക്കും. ബജറ്റിലെ മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "നികുതി",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ബജറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "735c8ba834bc",
+  "created": "2026-11-22T04:02:28+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
+  "headline": "EU ബജറ്റ് ഡ്രാഫ്റ്റില്‍ ബിഗ് ടെക്‌ക്ക് നികുതി, ഫ്രാന്‍സ് നിരാശ",
+  "hook": "പുതിയ EU നികുതി നിങ്ങളുടെ ആപ്പുകള്‍ ഉപയോഗിക്കുന്ന രീതിയെ മാറ്റാം.",
+  "what": "യൂറോപ്യന്‍ യൂണിയന്‍ തന്റെ പുതിയ ബജറ്റ് ഡ്രാഫ്റ്റില്‍ വലിയ ടെക് കമ്പനികള്‍ക്ക് നികുതി ചുമത്താന്‍ തീരുമാനിച്ചു. ഫ്രാന്‍സിന്റെ പ്രസിഡന്റിന്റെ ഓഫീസ് ഇതിനെ നിരാശയായി വിലയിരുത്തി.",
+  "why": "ഇത്തരത്തിലുള്ള നികുതി ആപ്പുകളുടെ വിലയോ ലഭ്യതയോ ബാധിച്ചേക്കാം, അതിനാല്‍ മാറ്റങ്ങള്‍ ശ്രദ്ധയില്‍ വെക്കണം.",
+  "tags": [
+   "EU",
+   "BigTech",
+   "Tax",
+   "France",
+   "Youth"
+  ]
+ },
+ {
+  "id": "6fa62192c3a0",
+  "created": "2026-11-22T04:02:31+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "BleepingComputer",
+  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFra01VVnJrbXZhbjlKN2xxZjFNUXhTYTJEcVQyTTdRUGdVcUVWWTRTcFdMODBYUTRxb1lRYktrUEx6cHNhbmVhaGlOQVIyalJ3ZVVXX1lhMjFXWkJRckZpamxjaUFsRzR2MWwtY0RObG5KQjJtc3lfc21qLWJ5NEd2Qzg4dHpERXVkenBtWTJCNlF6QXJ3dUpQVTBWV1NzUVpoeWRUdkltMFNFV0NmTlM5NlQ?oc=5",
+  "headline": "Microsoft Entra Connect Health ദോഷം പാച്ച് ചെയ്തു",
+  "hook": "നിങ്ങളുടെ സ്കൂൾ ക്ലൗഡ് അക്കൗണ്ടുകൾ അപകടത്തിൽ",
+  "what": "Microsoft Entra Connect Health സേവനത്തിലെ സുരക്ഷാ ദോഷം ഉപയോഗിച്ച് ടെനന്റ് മെറ്റാഡേറ്റാ ചോരപ്പെട്ടു. ജൂലൈ ഔട്ട്‌േജിന് ശേഷം കണ്ടെത്തിയ ഈ പ്രശ്നം ഇപ്പോൾ Microsoft പാച്ച് ചെയ്തു. പക്ഷേ, ഫിഷിംഗ് ബന്ധപ്പെട്ട ഒരു അപകടം ഇപ്പോഴും പരിഹരിച്ചിട്ടില്ല.",
+  "why": "Microsoft ക്ലൗഡ് ഉപയോഗിക്കുന്ന വിദ്യാർത്ഥികളും യുവപ്രവർത്തകരും സംശയകരമായ ഇമെയിലുകൾക്ക് ജാഗ്രത പാലിക്കുകയും അക്കൗണ്ട് സുരക്ഷാ ക്രമീകരണങ്ങൾ ശക്തമാക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "Microsoft",
+   "സുരക്ഷ",
+   "ക്ലൗഡ്",
+   "സ്വകാര്യത",
+   "വിദ്യാർത്ഥി"
+  ]
+ },
+ {
+  "id": "abd2d736d2b5",
+  "created": "2026-11-22T04:02:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Gulf News",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjExV0VPZjRISlBIazV0U04wckNUNU1VX1FYNE41UGxBR19oSmJFRndRb3A4R0ZsTlNlRGt0RlAwVmQ1YnBHUHYtV0lEdUZuSFFPQjNVMl9oOVRoRVZWdllJbnF2bFdIX0s5aEwxR3FWdjNYUzNBaTNSSFVkVkw0NjZyVEsxbzRPODNJclNfY2poTmxiYTdJbGlrUFNOR1hINk9jTlA3R19LWWpOT1pVdXVwam90UEZjZnZrdjV0Q3ZKdHRGZ2xRNjBHcFNFRGVCelhIY1ZqbnZOLXlIMENZRdIB8wFBVV95cUxPTlNXLUxQSm5LT2Y2T094bDJhbEpheVFYbVB3MENHUWdDZ3V4cW1hdlpINUZpM3J5eFMxWVFPZHlCUmVaZUMwbXdNYld6MkFVS0RkTDRHcVdscjJNdmtqOXdRNmdTWUp3emZGWVRmMllNWDZJTDFsMGx4UEdmaDY2U3F6aUJtRVotNDNuZHR2VkxfTVBYRS1kVGdUaTZwUFRGSjBWQlFjRUVQeHBicUZfSURCcjh0WDI2ZW8yXzdyN1ZSUm1xZmRsTHR1YWw2LWF1ZXBYMnpZT3RoeUpQZko1S2RiYy0tRVpKdG1VVkJwdkI2SVk?oc=5",
+  "headline": "അനിരുദ്ധും കവ്യയും ചുവപ്പും കറുപ്പും നിറഞ്ഞ വിവാഹം",
+  "hook": "ചെന്നൈയില്‍ ചുവപ്പും കറുപ്പും നിറഞ്ഞ സ്റ്റാര്‍-പൂര്‍ണ്ണ റിസപ്ഷന്‍.",
+  "what": "മ്യൂസിക് കമ്പോസര്‍ അനിരുദ്ധും ബിസിനസ് വനിതാ കവ്യ മരാനും 11 നവംബര്‍ വിവാഹിതരായി. റിസപ്ഷന്‍യില്‍ സി.എം. വിജയ്, രജിനികാന്ത്, എം.കെ. സ്റ്റാലിന്‍ എന്നിവരും പങ്കെടുത്തു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഒരു അഭിനന്ദന കത്ത് അയച്ചു.",
+  "why": "വിനോദം, രാഷ്ട്രീയവും ബിസിനസും ഒന്നിച്ച് ചേരുന്ന ഈ തരംഗം യുവജനങ്ങള്‍ സോഷ്യല്‍ മീഡിയയില്‍ പിന്തുടരുന്നു. പ്രശസ്തി, നേതാക്കള്‍ എന്നിവരുടെ ചലനങ്ങള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "celebritywedding",
+   "Chennai",
+   "redandblack",
+   "politics",
+   "popculture"
+  ]
+ },
+ {
+  "id": "ccfe2ec613ac",
+  "created": "2026-11-22T04:02:35+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Kalkine India",
+  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21tYTY5eXNIeVJtVVRqS242VTdhd21oYzN1T1BVZ09FMzFKVGJxNUxVVEtOQVQ0MGc2OU1BRzVqbVRNNEowTVVEc0ktV3ZZT1VWTGoxblBqV0toSHRpY1BRdEdfY2E1aW1qRVhNWUtsZXdBU3VLczNiaWIzY2Z2M1dqN3FXdnpOVGhQb08tZkNuNEZ3WVdUTGx1OTdPdU5mUC1jUThyTGRvZndWS0kteGdnYXZNbmtFa0JKWnJsZUZWblg2SU1PSkRGQTBJT2FHdVgyMkhyNHdvVzJWbDVCXzZYYWtBamk0?oc=5",
+  "headline": "വൈറ്റ് ബ്ലഡ് സെൽ DNA കാൻസർ ടെസ്റ്റ് കൃത്യത ഉയർത്തുന്നു, ഇന്ത്യൻ പഠനം പറയുന്നു",
+  "hook": "നിങ്ങളുടെ DNA തന്നെ ബ്ലഡ് കാൻസർ സ്ക്രീൻ കൂടുതൽ വ്യക്തവും സുലഭവുമാക്കും.",
+  "what": "ഇന്ത്യയിലെ ഗവേഷകർ കണ്ടെത്തിയത് വൈറ്റ് ബ്ലഡ് സെല്ലുകളുടെ DNA കാൻസർ സിഗ്നലുകൾ ശക്തിപ്പെടുത്തുന്നു, ദുർബലമാക്കുന്നില്ല. സ്റ്റ്രാൻഡ് ലൈഫ് സയൻസസ് ഈ കണ്ടെത്തൽ CancerSpot മൾട്ടി‑കാൻസർ ബ്ലഡ് ടെസ്റ്റിൽ ഉപയോഗിച്ച് കൂടുതൽ ആശുപത്രികളിലേക്ക് വ്യാപിപ്പിക്കുകയും ചെലവ് കുറയ്ക്കുകയും ചെയ്യാൻ പദ്ധതിയിടുന്നു. കൂടാതെ US, ദക്ഷിണ‑കിഴക്കൻ ഏഷ്യൻ മാർക്കറ്റുകളിലും പ്രവേശിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "വേഗത്തിലുള്ള, കുറഞ്ഞ വിലയുള്ള കാൻസർ കണ്ടെത്തൽ യുവജനങ്ങളുടെയും കുടുംബങ്ങളുടെയും ആരോഗ്യ സംരക്ഷണത്തിൽ സഹായിക്കും, അതിനാൽ അടുത്തിടെ ലഭ്യമാകുന്ന സ്ക്രീനിംഗ് ഓപ്ഷനുകൾക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കാൻസർ",
+   "ബ്ലഡ്ടെസ്റ്റ്",
+   "ഹെൽത്ത്‌ടെക്",
+   "ഇന്ത്യ",
+   "പ്രാരംഭകണ്ടെത്തൽ"
+  ]
+ },
+ {
   "id": "8d54d4add32f",
   "created": "2026-11-22T03:25:48+05:30",
   "category": "tech",
@@ -658,101 +753,6 @@
    "Messaging",
    "Tech",
    "Productivity"
-  ]
- },
- {
-  "id": "94bdaec4c4e4",
-  "created": "2026-11-21T22:43:37+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
-  "headline": "Swish-ന് ₹50 ക്ര revenue, loss ₹91 ക്ര വരെ",
-  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട ക്വിക്ക് ഫുഡ് ആപ്പ്, വിൽപ്പന ഉയർന്നിട്ടും പണം നഷ്ടമാക്കുന്നു.",
-  "what": "ക്വിക്ക് ഫുഡ് ഡെലിവറി സ്റ്റാർട്ടപ്പ് Swish ആദ്യ സാമ്പത്തിക വർഷത്തിൽ 50 കോടി രൂപയുടെ വരുമാനം രേഖപ്പെടുത്തി. അതേ സമയം, ശുദ്ധ നഷ്ടം 91 കോടി രൂപയിലേക്ക് വർധിച്ചു.",
-  "why": "പുതിയ ഡെലിവറി പ്ലാറ്റ്ഫോംകൾ ലാഭം നേടാൻ എത്ര ബുദ്ധിമുട്ട് നേരിടുന്നു എന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ സേവനങ്ങൾ ഉപയോഗിക്കുമ്പോൾ അല്ലെങ്കിൽ നിക്ഷേപം ചെയ്യുമ്പോൾ ജാഗ്രത പാലിക്കുക.",
-  "tags": [
-   "Swish",
-   "startup",
-   "revenue",
-   "loss",
-   "fooddelivery"
-  ]
- },
- {
-  "id": "4d24484a8c9e",
-  "created": "2026-11-21T22:43:44+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/consumerfed-manager-by-day-liquor-salesman-by-night-congress-leader-gets-unusual-dual-posting-in-kerala-dh0267qd",
-  "headline": "കോൺഗ്രസ് നേതാവിന് Consumerfed മാനേജർ, ലിക്വർ ഷോപ്പിൽ ഷിഫ്റ്റ്",
-  "hook": "രാത്രി ലിക്വർ സ്റ്റോറിൽ ജോലി ചെയ്യുന്ന രാഷ്ട്രീയക്കാരൻ",
-  "what": "Consumerfed എന്ന സഹകരണസംഘം കോൺഗ്രസ് നേതാവായ J Freddy-നെ തിരുവനന്തപുരത്തെ റീജിയണൽ അസിസ്റ്റന്റ് മാനേജർ ആയി നിയമിച്ചു. അതേ സമയം അവനെ Statue ലിക്വർ ഔട്ട്ലെറ്റിൽ ദിനംപ്രതി Rs 425 വേതനം ലഭിക്കുന്ന സായാഹ്ന ഷിഫ്റ്റിലും ചുമതലപ്പെടുത്തി.",
-  "why": "ഇത് രാഷ്ട്രീയക്കാരും പൊതുസേവനങ്ങളും ഒരുമിച്ച് ചെയ്യുന്നതിന്റെ ഉദാഹരണമാണ്, ജോലി ബാലൻസ്, താൽപര്യസംഘർഷം എന്നിവയെക്കുറിച്ച് ചിന്തിക്കാൻ youngsters-നെ പ്രേരിപ്പിക്കുന്നു.",
-  "tags": [
-   "Kerala",
-   "politics",
-   "jobs",
-   "Consumerfed",
-   "dualrole"
-  ]
- },
- {
-  "id": "1d904bd8bbbb",
-  "created": "2026-11-21T21:50:09+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
-  "headline": "US പാനൽ പറയുന്നു ചൈന ഒപ്പറേഷൻ സിന്ദൂരിന് ശേഷം പാകിസ്ഥാൻ പിന്തുണയ്ക്കുന്നു",
-  "hook": "ചൈന നേരിട്ട് പോരാട്ടം കൂടാതെ പാകിസ്ഥാനെ സഹായിക്കാം.",
-  "what": "ഒരു US കോൺഗ്രസ്സ് പാനൽ പുറത്തിറക്കിയ റിപ്പോർട്ട് ചൈന ഇന്ത്യയുടെ ഉയർച്ചയെ തടയാൻ ശ്രമിക്കുന്നുവെന്ന് പറയുന്നു. ഈ റിപ്പോർട്ട് ചൈന ഒപ്പറേഷൻ സിന്ദൂരിന് ശേഷം പാകിസ്ഥാൻക്ക് പിന്തുണ നൽകി, നേരിട്ടുള്ള സൈനിക ഇടപെടൽ ഇല്ലാതെ എന്ന് സൂചിപ്പിക്കുന്നു.",
-  "why": "ഇത് പ്രദേശിക സ്ഥിരതക്കും ഇന്ത്യയുടെ സുരക്ഷാ ദൃഷ്ടികോണത്തിനും സ്വാധീനം ചെലുത്താം, അതിനാൽ വിദേശ നയത്തിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിവുള്ളവരായി ഇരിക്കുക.",
-  "tags": [
-   "ചൈന",
-   "പാകിസ്ഥാൻ",
-   "ഇന്ത്യ",
-   "USപാനൽ",
-   "ഒപ്പറേഷൻസിന്ദൂർ"
-  ]
- },
- {
-  "id": "89298d3b7fb0",
-  "created": "2026-11-21T21:50:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-  "headline": "അഭിനേതാവ് AI മുഖം മൈക്രോഡ്രാമാ സ്റ്റാർട്ടപ്പിന് വിറ്റു",
-  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട താരത്തിന്റെ ഡിജിറ്റൽ ഡബിൾ അടുത്തകാലത്ത് ഏത് ഷോവിലും കാണാം.",
-  "what": "ഒരു അഭിനേതാവ് തന്റെ മുഖം AI‑യിൽ ഉപയോഗിക്കാൻ ഒരു മൈക്രോഡ്രാമാ സ്റ്റാർട്ടപ്പിന് ലൈസൻസ് നൽകി. ഈ രീതിയുള്ള ഉപയോഗം ചൈനയിൽ ഇതിനകം വ്യാപകമാണ്. ഹോളിവുഡിൽ ഇതു വ്യാപിച്ചാൽ ദീർഘകാല ഫലങ്ങൾ ഉണ്ടാകാമെന്ന് വിദഗ്ധർ ചൂണ്ടിക്കാട്ടുന്നു.",
-  "why": "ഇത് വിനോദം എങ്ങനെ മാറും, വ്യക്തിഗത ചിത്രം അവകാശങ്ങൾ എങ്ങനെ ബാധിക്കും എന്നതിനെക്കുറിച്ച് യുവാക്കൾക്ക് അറിവ് വേണം. ഭാവിയിലെ മീഡിയ ഉപയോഗത്തിൽ ഇത് സ്വാധീനം ചെലുത്താം.",
-  "tags": [
-   "AI",
-   "ഡിജിറ്റൽമുഖം",
-   "വിനോദം",
-   "ഹോളിവുഡ്",
-   "ടെക്"
-  ]
- },
- {
-  "id": "c856813c3ac7",
-  "created": "2026-11-21T21:50:21+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/tdb-no-proposal-to-reopen-sabarimala-spot-booking-at-pampa-pti5rs9w52x",
-  "headline": "സബരിമല ബുക്കിംഗ് കേന്ദ്രം നിലക്കലിലേ, പമ്പയിൽ വീണ്ടും തുറക്കില്ല",
-  "hook": "പവിത്രയാത്രക്കാർക്ക് ബുക്ക് ചെയ്യാൻ ഇപ്പോഴും നിലക്കലിലേ പോകണം.",
-  "what": "ട്രാവന്‍കോർ ദേവസ്വം ബോര്‍ഡ് പറഞ്ഞത്, പമ്പയിൽ സബരിമല സ്പോട്ട് ബുക്കിംഗ് കേന്ദ്രം വീണ്ടും തുറക്കാൻ പദ്ധതിയില്ല. നിലവിലെ ബുക്കിംഗ് ഓഫീസ് നിലക്കലിലാണ്, അതാണ് ഏക കേന്ദ്രം.",
-  "why": "യുവയാത്രികർക്ക് ബുക്കിംഗ് സ്ഥലം മാറിയിട്ടില്ലെന്ന് ശ്രദ്ധിക്കണം, അതിനാൽ നിലക്കലിലൂടെ തന്നെ രജിസ്ട്രേഷൻ ചെയ്യണം. ഔദ്യോഗിക പ്രഖ്യാപനങ്ങൾ പരിശോധിച്ച് യാത്രാ പദ്ധതികൾ തയ്യാറാക്കുക.",
-  "tags": [
-   "സബരിമല",
-   "കേരളം",
-   "യാത്ര",
-   "ബുക്കിംഗ്",
-   "പവിത്രയാത്ര"
   ]
  }
 ]

@@ -1,5 +1,100 @@
 [
  {
+  "id": "36c84f9e6c78",
+  "created": "2026-11-22T04:02:26+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+  "headline": "Crypto startups push for tax breaks before Budget 2027",
+  "hook": "India’s crypto scene is asking the govt for relief.",
+  "what": "The Bharat Web3 Association has sent its suggestions to the finance ministry. It is asking for tax relief for crypto startups ahead of the Union Budget.",
+  "why": "Tax incentives could boost crypto entrepreneurship, creating jobs for tech‑savvy youth. Keep an eye on the budget for any changes that may affect startup opportunities.",
+  "tags": [
+   "crypto",
+   "tax",
+   "startups",
+   "budget",
+   "India"
+  ]
+ },
+ {
+  "id": "735c8ba834bc",
+  "created": "2026-11-22T04:02:28+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
+  "headline": "EU Drafts Tax on Big Tech, France Calls It Disappointing",
+  "hook": "A new EU tax could change how you use your favorite apps.",
+  "what": "The European Union has added a tax on large technology firms to its latest budget draft. France’s president’s office said the move was disappointing.",
+  "why": "The tax might affect pricing or availability of global apps that Indian teens use, so staying aware of any changes is useful.",
+  "tags": [
+   "EU",
+   "BigTech",
+   "Tax",
+   "France",
+   "Youth"
+  ]
+ },
+ {
+  "id": "6fa62192c3a0",
+  "created": "2026-11-22T04:02:31+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "BleepingComputer",
+  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFra01VVnJrbXZhbjlKN2xxZjFNUXhTYTJEcVQyTTdRUGdVcUVWWTRTcFdMODBYUTRxb1lRYktrUEx6cHNhbmVhaGlOQVIyalJ3ZVVXX1lhMjFXWkJRckZpamxjaUFsRzR2MWwtY0RObG5KQjJtc3lfc21qLWJ5NEd2Qzg4dHpERXVkenBtWTJCNlF6QXJ3dUpQVTBWV1NzUVpoeWRUdkltMFNFV0NmTlM5NlQ?oc=5",
+  "headline": "Microsoft patches Entra Connect Health breach vulnerability",
+  "hook": "Your school’s cloud accounts could be at risk",
+  "what": "A security flaw in Microsoft’s Entra Connect Health service was used to access tenant metadata. The issue, first seen after a July outage, has now been patched by Microsoft. A related phishing risk still lacks a fix.",
+  "why": "Students and young professionals using Microsoft cloud services should watch for suspicious emails and tighten their account security settings.",
+  "tags": [
+   "Microsoft",
+   "security",
+   "cloud",
+   "privacy",
+   "students"
+  ]
+ },
+ {
+  "id": "abd2d736d2b5",
+  "created": "2026-11-22T04:02:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Gulf News",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjExV0VPZjRISlBIazV0U04wckNUNU1VX1FYNE41UGxBR19oSmJFRndRb3A4R0ZsTlNlRGt0RlAwVmQ1YnBHUHYtV0lEdUZuSFFPQjNVMl9oOVRoRVZWdllJbnF2bFdIX0s5aEwxR3FWdjNYUzNBaTNSSFVkVkw0NjZyVEsxbzRPODNJclNfY2poTmxiYTdJbGlrUFNOR1hINk9jTlA3R19LWWpOT1pVdXVwam90UEZjZnZrdjV0Q3ZKdHRGZ2xRNjBHcFNFRGVCelhIY1ZqbnZOLXlIMENZRdIB8wFBVV95cUxPTlNXLUxQSm5LT2Y2T094bDJhbEpheVFYbVB3MENHUWdDZ3V4cW1hdlpINUZpM3J5eFMxWVFPZHlCUmVaZUMwbXdNYld6MkFVS0RkTDRHcVdscjJNdmtqOXdRNmdTWUp3emZGWVRmMllNWDZJTDFsMGx4UEdmaDY2U3F6aUJtRVotNDNuZHR2VkxfTVBYRS1kVGdUaTZwUFRGSjBWQlFjRUVQeHBicUZfSURCcjh0WDI2ZW8yXzdyN1ZSUm1xZmRsTHR1YWw2LWF1ZXBYMnpZT3RoeUpQZko1S2RiYy0tRVpKdG1VVkJwdkI2SVk?oc=5",
+  "headline": "Anirudh and Kavya's red‑black wedding dazzles with stars",
+  "hook": "A star‑studded reception lit up Chennai with red and black glamour.",
+  "what": "Music composer Anirudh Ravichander and entrepreneur Kavya Maran tied the knot on November 11. Their reception featured guests like chief minister Vijay, actor Rajinikanth, and political leader M.K. Stalin. Prime Minister Narendra Modi also sent a congratulatory letter.",
+  "why": "The event shows how entertainment, politics and business intersect, a trend many Indian teens follow on social media. Keep an eye on the celebrities and leaders who shape pop culture.",
+  "tags": [
+   "celebritywedding",
+   "Chennai",
+   "redandblack",
+   "politics",
+   "popculture"
+  ]
+ },
+ {
+  "id": "ccfe2ec613ac",
+  "created": "2026-11-22T04:02:35+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Kalkine India",
+  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21tYTY5eXNIeVJtVVRqS242VTdhd21oYzN1T1BVZ09FMzFKVGJxNUxVVEtOQVQ0MGc2OU1BRzVqbVRNNEowTVVEc0ktV3ZZT1VWTGoxblBqV0toSHRpY1BRdEdfY2E1aW1qRVhNWUtsZXdBU3VLczNiaWIzY2Z2M1dqN3FXdnpOVGhQb08tZkNuNEZ3WVdUTGx1OTdPdU5mUC1jUThyTGRvZndWS0kteGdnYXZNbmtFa0JKWnJsZUZWblg2SU1PSkRGQTBJT2FHdVgyMkhyNHdvVzJWbDVCXzZYYWtBamk0?oc=5",
+  "headline": "White Blood Cell DNA Boosts Cancer Test Accuracy, says Indian Study",
+  "hook": "Your own DNA could make blood cancer screens clearer and cheaper.",
+  "what": "Researchers in India found that DNA from white blood cells can amplify cancer signals in blood tests instead of diluting them. Strand Life Sciences is using this insight in its CancerSpot multi‑cancer blood test and plans to roll it out to more hospitals while cutting costs. The company also aims to enter US and Southeast Asian markets.",
+  "why": "Earlier and more affordable cancer detection could benefit young people and families, so watch for new screening options becoming available nearby.",
+  "tags": [
+   "cancer",
+   "bloodtest",
+   "healthtech",
+   "India",
+   "earlydetection"
+  ]
+ },
+ {
   "id": "8d54d4add32f",
   "created": "2026-11-22T03:25:48+05:30",
   "category": "tech",
@@ -658,101 +753,6 @@
    "Messaging",
    "Tech",
    "Productivity"
-  ]
- },
- {
-  "id": "94bdaec4c4e4",
-  "created": "2026-11-21T22:43:37+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
-  "headline": "Swish posts ₹50 cr revenue, loss jumps to ₹91 cr",
-  "hook": "Your favorite quick‑food app is burning cash despite big sales.",
-  "what": "Swish, a quick food delivery startup, reported revenue of just over ₹50 crore for its first fiscal year. At the same time, its net loss widened to about ₹91 crore.",
-  "why": "The figures show the challenges new delivery platforms face in becoming profitable, a reminder to be cautious when using or investing in such services.",
-  "tags": [
-   "Swish",
-   "startup",
-   "revenue",
-   "loss",
-   "fooddelivery"
-  ]
- },
- {
-  "id": "4d24484a8c9e",
-  "created": "2026-11-21T22:43:44+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/consumerfed-manager-by-day-liquor-salesman-by-night-congress-leader-gets-unusual-dual-posting-in-kerala-dh0267qd",
-  "headline": "Congress leader appointed as Consumerfed manager and liquor outlet staff",
-  "hook": "A political figure now works evenings at a liquor shop.",
-  "what": "Consumerfed, a cooperative body, issued an order naming Congress leader J Freddy as the Thiruvananthapuram Regional Assistant Manager. The same order also assigns him a Rs 425 per day evening shift at a Statue liquor outlet.",
-  "why": "The dual role shows how politicians can hold multiple positions, raising questions about work balance and conflicts of interest. Young people should stay aware of such appointments in public bodies.",
-  "tags": [
-   "Kerala",
-   "politics",
-   "jobs",
-   "Consumerfed",
-   "dualrole"
-  ]
- },
- {
-  "id": "1d904bd8bbbb",
-  "created": "2026-11-21T21:50:09+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
-  "headline": "US panel says China backs Pakistan after Operation Sindoor",
-  "hook": "China may be quietly aiding Pakistan amid Indo‑China tensions.",
-  "what": "A US congressional panel released a report stating that China is working to curb India's rise. The report claims China supported Pakistan after the incident known as Operation Sindoor, without direct military involvement.",
-  "why": "The alleged backing could affect regional stability and India's security outlook, so staying informed about foreign policy shifts is important.",
-  "tags": [
-   "China",
-   "Pakistan",
-   "India",
-   "USPanel",
-   "OperationSindoor"
-  ]
- },
- {
-  "id": "89298d3b7fb0",
-  "created": "2026-11-21T21:50:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-  "headline": "Actor sells AI face to microdrama startup amid China trend",
-  "hook": "Your favorite star’s digital double could soon appear in any show.",
-  "what": "An actor has given a microdrama startup the rights to use his likeness in AI‑generated content. The practice is already common in China. Experts warn it could have lasting effects if Hollywood follows suit.",
-  "why": "It shows how AI may reshape entertainment and image rights, something teens should keep an eye on as it could affect the media they watch.",
-  "tags": [
-   "AI",
-   "digitalfaces",
-   "entertainment",
-   "Hollywood",
-   "tech"
-  ]
- },
- {
-  "id": "c856813c3ac7",
-  "created": "2026-11-21T21:50:21+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/tdb-no-proposal-to-reopen-sabarimala-spot-booking-at-pampa-pti5rs9w52x",
-  "headline": "Sabarimala booking centre stays at Nilakkal, no Pampa plans",
-  "hook": "Pilgrims still need to go to Nilakkal for spot reservations.",
-  "what": "The Travancore Devaswom Board said there is no plan to restart the Sabarimala spot‑booking office at Pampa. The existing centre at Nilakkal will keep operating as the only booking point.",
-  "why": "Young travelers planning a pilgrimage should note the booking location hasn't changed, so they must book through Nilakkal. Check the official TDB updates before traveling.",
-  "tags": [
-   "Sabarimala",
-   "Kerala",
-   "Pilgrimage",
-   "Travel",
-   "Booking"
   ]
  }
 ]
