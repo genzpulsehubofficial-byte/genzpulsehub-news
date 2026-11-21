@@ -1,0 +1,37 @@
+{
+ "id": "fae103ad469d",
+ "created": "2026-11-21T09:56:42+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-police-3-month-traffic-monitoring-drive-15-junctions-b68lto4q",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kochi police to monitor traffic at 15 key spots",
+  "hook": "Your daily commute could get smoother soon",
+  "what": "The city police have chosen fifteen busy intersections, such as Vyttila and Edappally, for a three‑month monitoring program. The aim is to spot bottlenecks and plan better traffic flow.",
+  "why": "Reducing jams will save time for students and workers, so stay alert for new signal timings or route suggestions.",
+  "tags": [
+   "Kochi",
+   "traffic",
+   "commute",
+   "youth",
+   "update"
+  ]
+ },
+ "ml": {
+  "headline": "കൊച്ചി പോലീസ് 15 പ്രധാന ചോക്കുകൾ നിരീക്ഷിക്കും",
+  "hook": "നിങ്ങളുടെ യാത്രാ സമയം വേഗത്തിൽ മെച്ചപ്പെടാം",
+  "what": "നഗരപോലീസ് തിരക്കേറിയ 15 ചോക്കുകൾ, ഉദാഹരണത്തിന് വ്യറ്റിലയും എഡപ്പള്ളിയും, മൂന്ന് മാസം നിരീക്ഷണത്തിന് തെരഞ്ഞെടുത്തു. ഗതാഗതം സുതാര്യമാക്കാൻ തടസ്സങ്ങൾ കണ്ടെത്തുകയാണ് ലക്ഷ്യം.",
+  "why": "കൂട്ടം ചുരുക്കം സമയം വിദ്യാർത്ഥികളും ജോലിക്കാരും ലാഭകരമാകും, അതിനാൽ പുതിയ സിഗ്നൽ സമയം അല്ലെങ്കിൽ മാർഗ്ഗ നിർദ്ദേശങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കൊച്ചി",
+   "ട്രാഫിക്",
+   "യാത്ര",
+   "യുവാക്കൾ",
+   "വാർത്ത"
+  ]
+ }
+}

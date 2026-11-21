@@ -1,0 +1,37 @@
+{
+ "id": "adb7ecb32f45",
+ "created": "2026-11-21T09:55:29+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/indias-first-bullet-train-to-start-in-2027-surat-vapi-stretch-to-open-first-railway-minister-ashwini-vaishnaw-12357205#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India's first bullet train slated for 2027, Surat-Vapi first",
+  "hook": "High‑speed rail will soon zip between Surat and Vapi.",
+  "what": "The government announced that India's inaugural bullet train service is targeted to begin operations in 2027. The initial segment between Surat and Vapi will be opened first, with the complete line to Mumbai to be completed in stages.",
+  "why": "The project promises faster travel across western India, opening up new chances for study, work and tourism. Keep an eye on future connectivity and job prospects linked to the rail network.",
+  "tags": [
+   "bullettrain",
+   "highspeed",
+   "India2027",
+   "SuratVapi",
+   "travel"
+  ]
+ },
+ "ml": {
+  "headline": "2027-ൽ ഇന്ത്യയുടെ ആദ്യ ബുള്ളറ്റ് ട്രെയിൻ, ആദ്യം സുറത്ത്‑വാപി തുറക്കും",
+  "hook": "വേഗമേറിയ റെയിൽവേ സുറത്ത്‑വാപി ഇടയിൽ ഉടൻ തുടങ്ങും.",
+  "what": "മന്ത്രിസഭ 2027-ൽ ഇന്ത്യയുടെ ആദ്യ ബുള്ളറ്റ് ട്രെയിൻ പ്രവർത്തനം ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ആദ്യം സുറത്ത്‑വാപി സെഗ്‌മെന്റ് തുറക്കപ്പെടും, പിന്നെ ഘട്ടംഘട്ടമായി മുഴുവൻ മുംബൈ വരെ പൂർത്തിയാകും.",
+  "why": "പശ്ചിമ ഇന്ത്യയിൽ യാത്ര സമയം കുറച്ച് പഠന, ജോലി, വിനോദ അവസരങ്ങൾ വർദ്ധിപ്പിക്കും. ഈ പദ്ധതിയുമായി ബന്ധപ്പെട്ട പുതിയ ജോലികളും യാത്രാ സൗകര്യങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "bullettrain",
+   "highspeed",
+   "India2027",
+   "SuratVapi",
+   "travel"
+  ]
+ }
+}

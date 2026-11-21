@@ -1,0 +1,37 @@
+{
+ "id": "380a27628a0a",
+ "created": "2026-11-21T09:56:35+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-union-seeks-6-increment-ops-restoration-check-demands-on-fitment-factor-da-merger-and-more-11795231113111.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "BPMS asks 8th Pay Commission for 6% raise and OPS restore",
+  "hook": "Union wants bigger pay hikes and restored allowances for govt staff.",
+  "what": "The Bharatiya Pratiraksha Mazdoor Sangh has presented a list of demands to the 8th Pay Commission. It seeks a 6 % yearly salary increase, the revival of the Old Pension Scheme, and a 50 % merger of Dearness Allowance with basic pay. The union also wants higher insurance coverage and pension benefits for central government workers.",
+  "why": "If accepted, the changes could boost earnings for many young government employees and affect future job prospects. Students planning civil services should watch the negotiations.",
+  "tags": [
+   "paycommission",
+   "governmentjobs",
+   "salaryincrease",
+   "OPS",
+   "union"
+  ]
+ },
+ "ml": {
+  "headline": "BPMS 8‑ാം പേ കമ്മീഷന്‍ 6% വര്‍ധനയും OPS പുനഃസ്ഥാപനവും ആവശ്യപ്പെടുന്നു",
+  "hook": "യൂണിയന്‍ സര്‍ക്കാര്‍ ജീവനക്കാരുടെ ശമ്പള വര്‍ധനയും പഴയ പെന്‍ഷന്‍ സ്കീമിന്റെ മടക്കവും ചോദിക്കുന്നു.",
+  "what": "ഭാരതീയ പ്രതിരക്ഷ തൊഴിലാളി സംഘം 8‑ാം പേ കമ്മീഷന്‍ സമര്‍പ്പിച്ച ആവശ്യങ്ങളില്‍ 6 % വാർഷിക ശമ്പള വര്‍ധന, ഒപ്സ് (പഴയ പെന്‍ഷന്‍ സ്കീം) പുനഃസ്ഥാപനം, ഡിയറ്നസ് അലവന്‍സ് 50 % അടിസ്ഥാന ശമ്പളവുമായി മര്‍ജ്ജ് ചെയ്യല്‍ ഉള്‍പ്പെടുന്നു. കൂടാതെ ഉയർന്ന ഇന്‍ഷുറന്‍സ് കവറേജ്, കേന്ദ്ര സര്‍ക്കാര്‍ ജീവനക്കാരുടെ പെന്‍ഷന്‍ ആനുകൂല്യങ്ങളും ആവശ്യപ്പെടുന്നു.",
+  "why": "ഇത് അംഗീകരിച്ചാല്‍ സര്‍ക്കാര്‍ ജോലികളിലെ വരുമാനം വര്‍ധിക്കുകയും, സിവില്‍ സര്‍വീസ് ലക്ഷ്യമിടുന്ന യുവാക്കള്‍ക്ക് തൊഴില്‍ സാഹചര്യത്തെ ബാധിക്കുകയും ചെയ്യും. അതിനാല്‍ ഈ ചര്‍ച്ചകള്‍ ശ്രദ്ധയില്‍ വെയ്ക്കുക.",
+  "tags": [
+   "പേകമ്മീഷന്‍",
+   "സര്‍ക്കാരിജോലികള്‍",
+   "ശമ്പളവര്‍ധന",
+   "OPS",
+   "യൂണിയന്‍"
+  ]
+ }
+}

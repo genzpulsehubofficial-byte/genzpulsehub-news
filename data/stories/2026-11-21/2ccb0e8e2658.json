@@ -1,0 +1,37 @@
+{
+ "id": "2ccb0e8e2658",
+ "created": "2026-11-21T09:56:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/pm-modi-to-launch-projects-worth-34-470-crore-in-bihar-today-inaugurate-nitish-setu-101795226668168.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Modi to unveil ₹34,470 cr projects and Nitish Setu in Bihar",
+  "hook": "Big infrastructure boost lands in Bihar as the PM arrives.",
+  "what": "Prime Minister Narendra Modi arrived in Patna to launch projects worth about ₹34,470 crore in Bihar. He also inaugurated the new Nitish Setu bridge, with former chief minister Nitish Kumar greeting him.",
+  "why": "The projects aim to improve connectivity and create jobs, impacting daily travel and employment opportunities for youth. Stay tuned for updates on how the developments may affect local economies.",
+  "tags": [
+   "Bihar",
+   "Infrastructure",
+   "PMModi",
+   "Jobs",
+   "Development"
+  ]
+ },
+ "ml": {
+  "headline": "മോഡി ബിഹാറിൽ ₹34,470 കോടി പദ്ധതികളും നിതീഷ് സേതുവും തുറക്കുന്നു",
+  "hook": "പുതിയ പാലം, വലിയ പദ്ധതികൾ – മോഡിയുടെ വരവോടെ ബിഹാറിൽ മാറ്റം",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഇന്ന് പട്ടണയിൽ ഇറങ്ങി ബിഹാറിൽ ഏകദേശം ₹34,470 കോടി മൂല്യമുള്ള പദ്ധതികൾ ആരംഭിച്ചു. അദ്ദേഹം പുതിയ നിതീഷ് സേതു പാലം തുറന്നു, മുൻ പ്രധാനമന്ത്രിയായ നിതീഷ് കുമാർ അദ്ദേഹത്തെ സ്വാഗതം ചെയ്തു.",
+  "why": "ഇവയുടെ ലക്ഷ്യം ഗതാഗതം മെച്ചപ്പെടുത്തുകയും യുവജനങ്ങൾക്ക് തൊഴിൽ അവസരങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യുന്നതാണ്. പ്രാദേശിക സാമ്പത്തികത്തെക്കുറിച്ച് കൂടുതൽ വിവരങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ബിഹാർ",
+   "അടിസ്ഥാനസൗകര്യം",
+   "PMModi",
+   "തൊഴിൽ",
+   "വികസനം"
+  ]
+ }
+}

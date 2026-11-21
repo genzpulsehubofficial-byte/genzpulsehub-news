@@ -1,0 +1,37 @@
+{
+ "id": "f1c7ef38a91f",
+ "created": "2026-11-21T09:56:40+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US startup sues Apple, eyes $162 M over contact sharing",
+  "hook": "A legal battle could delay iPhone and Watch shipments to India.",
+  "what": "A U.S.-based startup has filed a lawsuit against Apple in India, demanding $162 million in compensation. The case targets Apple’s tap‑to‑share contacts feature and seeks a court order that could halt iPhone and Apple Watch imports.",
+  "why": "If the court grants the injunction, Indian teens could face delays or higher prices for Apple devices. Keep an eye on updates if you plan to buy a new iPhone or Watch soon.",
+  "tags": [
+   "Apple",
+   "lawsuit",
+   "tech",
+   "India",
+   "startup"
+  ]
+ },
+ "ml": {
+  "headline": "US സ്റ്റാർട്ടപ്പ് ആപ്പിളിനെ $162 മില്യൺ നഷ്ടപരിഹാരത്തിന് കേസ്",
+  "hook": "നിയമപരമായ ഈ പോരാട്ടം ഇന്ത്യയിലെ iPhone, Watch ഡെലിവറി വൈകിപ്പിക്കാൻ സാധ്യത.",
+  "what": "അമേരിക്കയിലെ ഒരു സ്റ്റാർട്ടപ്പ് ആപ്പിളിനെതിരെ ഇന്ത്യയിൽ കേസ് ഫയൽ ചെയ്തു, $162 മില്യൺ നഷ്ടപരിഹാരം ആവശ്യപ്പെട്ടു. ടാപ്പ്‑ടു‑ഷെയർ കോൺടാക്ട്സ് ഫീച്ചറിനെ ലക്ഷ്യം വച്ച്, iPhone, Apple Watch ഇറക്കുമതി തടയാൻ കോടതി ഉത്തരവിനായി അപേക്ഷിച്ചു.",
+  "why": "കോടതി ഈ ഉത്തരവ് നൽകുകയാണെങ്കിൽ, ഇന്ത്യയിലെ യുവാക്കൾക്ക് iPhone, Watch വാങ്ങാൻ വൈകലോ വില വർദ്ധനവോ നേരിടേണ്ടി വരാം. പുതിയ ആപ്പിൾ ഉപകരണം വാങ്ങാൻ പദ്ധതിയുണ്ടെങ്കിൽ, ഈ കേസിന്റെ പുരോഗതി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "കേസ്",
+   "ടെക്",
+   "ഇന്ത്യ",
+   "സ്റ്റാർട്ടപ്പ്"
+  ]
+ }
+}

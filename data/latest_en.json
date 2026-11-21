@@ -1,5 +1,100 @@
 [
  {
+  "id": "adb7ecb32f45",
+  "created": "2026-11-21T09:55:29+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/indias-first-bullet-train-to-start-in-2027-surat-vapi-stretch-to-open-first-railway-minister-ashwini-vaishnaw-12357205#publisher=newsstand",
+  "headline": "India's first bullet train slated for 2027, Surat-Vapi first",
+  "hook": "High‑speed rail will soon zip between Surat and Vapi.",
+  "what": "The government announced that India's inaugural bullet train service is targeted to begin operations in 2027. The initial segment between Surat and Vapi will be opened first, with the complete line to Mumbai to be completed in stages.",
+  "why": "The project promises faster travel across western India, opening up new chances for study, work and tourism. Keep an eye on future connectivity and job prospects linked to the rail network.",
+  "tags": [
+   "bullettrain",
+   "highspeed",
+   "India2027",
+   "SuratVapi",
+   "travel"
+  ]
+ },
+ {
+  "id": "380a27628a0a",
+  "created": "2026-11-21T09:56:35+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-union-seeks-6-increment-ops-restoration-check-demands-on-fitment-factor-da-merger-and-more-11795231113111.html",
+  "headline": "BPMS asks 8th Pay Commission for 6% raise and OPS restore",
+  "hook": "Union wants bigger pay hikes and restored allowances for govt staff.",
+  "what": "The Bharatiya Pratiraksha Mazdoor Sangh has presented a list of demands to the 8th Pay Commission. It seeks a 6 % yearly salary increase, the revival of the Old Pension Scheme, and a 50 % merger of Dearness Allowance with basic pay. The union also wants higher insurance coverage and pension benefits for central government workers.",
+  "why": "If accepted, the changes could boost earnings for many young government employees and affect future job prospects. Students planning civil services should watch the negotiations.",
+  "tags": [
+   "paycommission",
+   "governmentjobs",
+   "salaryincrease",
+   "OPS",
+   "union"
+  ]
+ },
+ {
+  "id": "2ccb0e8e2658",
+  "created": "2026-11-21T09:56:38+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/pm-modi-to-launch-projects-worth-34-470-crore-in-bihar-today-inaugurate-nitish-setu-101795226668168.html",
+  "headline": "Modi to unveil ₹34,470 cr projects and Nitish Setu in Bihar",
+  "hook": "Big infrastructure boost lands in Bihar as the PM arrives.",
+  "what": "Prime Minister Narendra Modi arrived in Patna to launch projects worth about ₹34,470 crore in Bihar. He also inaugurated the new Nitish Setu bridge, with former chief minister Nitish Kumar greeting him.",
+  "why": "The projects aim to improve connectivity and create jobs, impacting daily travel and employment opportunities for youth. Stay tuned for updates on how the developments may affect local economies.",
+  "tags": [
+   "Bihar",
+   "Infrastructure",
+   "PMModi",
+   "Jobs",
+   "Development"
+  ]
+ },
+ {
+  "id": "f1c7ef38a91f",
+  "created": "2026-11-21T09:56:40+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+  "headline": "US startup sues Apple, eyes $162 M over contact sharing",
+  "hook": "A legal battle could delay iPhone and Watch shipments to India.",
+  "what": "A U.S.-based startup has filed a lawsuit against Apple in India, demanding $162 million in compensation. The case targets Apple’s tap‑to‑share contacts feature and seeks a court order that could halt iPhone and Apple Watch imports.",
+  "why": "If the court grants the injunction, Indian teens could face delays or higher prices for Apple devices. Keep an eye on updates if you plan to buy a new iPhone or Watch soon.",
+  "tags": [
+   "Apple",
+   "lawsuit",
+   "tech",
+   "India",
+   "startup"
+  ]
+ },
+ {
+  "id": "fae103ad469d",
+  "created": "2026-11-21T09:56:42+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-police-3-month-traffic-monitoring-drive-15-junctions-b68lto4q",
+  "headline": "Kochi police to monitor traffic at 15 key spots",
+  "hook": "Your daily commute could get smoother soon",
+  "what": "The city police have chosen fifteen busy intersections, such as Vyttila and Edappally, for a three‑month monitoring program. The aim is to spot bottlenecks and plan better traffic flow.",
+  "why": "Reducing jams will save time for students and workers, so stay alert for new signal timings or route suggestions.",
+  "tags": [
+   "Kochi",
+   "traffic",
+   "commute",
+   "youth",
+   "update"
+  ]
+ },
+ {
   "id": "a1fb3c5c5b67",
   "created": "2026-11-21T08:49:41+05:30",
   "category": "health",
@@ -652,100 +747,6 @@
    "math",
    "inspiration",
    "India"
-  ]
- },
- {
-  "id": "340614cb1d45",
-  "created": "2026-11-21T02:01:36+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-  "headline": "Spotify founder backs AI‑driven fusion startup Europa Fusion",
-  "hook": "Spotify’s co‑founder is now backing a fusion energy venture.",
-  "what": "Spotify co‑founder Daniel Ek has invested in Europa Fusion, a startup focused on fusion power. The company was founded by an AI researcher.",
-  "why": "Fusion power could shape future technology and job opportunities, so staying aware of such ventures may be useful for young Indians interested in tech.",
-  "tags": [
-   "fusion",
-   "energy",
-   "startup",
-   "AI",
-   "tech"
-  ]
- },
- {
-  "id": "873a2a3b89ac",
-  "created": "2026-11-21T02:01:39+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/donald-trump-defends-fantastic-ties-with-xi-jinping-putin-after-summit-backlash-12356565#publisher=newsstand",
-  "headline": "Trump Defends Summit with Xi and Putin Amid Backlash",
-  "hook": "The US leader stands by his meeting with China and Russia.",
-  "what": "President Donald Trump said his recent meeting with Chinese President Xi Jinping and Russian President Vladimir Putin was \"momentous\" and defended it after criticism.",
-  "why": "Young Indians should note the global diplomatic tone, as it may affect international relations and trade.",
-  "tags": [
-   "Trump",
-   "Xi",
-   "Putin",
-   "summit",
-   "backlash"
-  ]
- },
- {
-  "id": "80cd3026e2a0",
-  "created": "2026-11-21T02:01:42+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/look-at-india-trump-targets-us-central-bank-over-high-interest-rates-12356443#publisher=newsstand",
-  "headline": "Trump slams US rate hikes, points to India",
-  "hook": "A former president challenges the Fed’s policy at the White House.",
-  "what": "During a Friday media briefing, Donald Trump criticized the US central bank’s high interest rates and cited India as a reference point.",
-  "why": "His remarks add to ongoing discussions about monetary policy that can affect loan costs and the broader economy, relevant for Indian youth.",
-  "tags": [
-   "Trump",
-   "FederalReserve",
-   "interestRates",
-   "India",
-   "economy"
-  ]
- },
- {
-  "id": "77650fa422db",
-  "created": "2026-11-21T02:01:45+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Fortune",
-  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OV3YyMDdNZDAzTWJYek9Qekp2VUF6d01pX0F5ZlFodFVSa3dqTDVNOE0xVDM3QmFfVmozaUpuYVdGVVVmVER6S2tLWkZhWWxsRjNxdHJsOFJ4MlVYa3FqdzFYSjZ1bm5LYS0wRElLMy1YUQ?oc=5",
-  "headline": "GTA VI earns $2.36 B, Rockstar staff vote on union",
-  "hook": "The biggest game ever released sparks a union vote at its maker",
-  "what": "Grand Theft Auto VI generated about $2.36 billion on its first day. Around 1,600 Rockstar Games employees are currently casting ballots to decide on forming a union.",
-  "why": "The earnings show the massive scale of the gaming industry, while the union drive highlights workplace rights that could affect future job conditions for gamers and developers.",
-  "tags": [
-   "GTA6",
-   "Rockstar",
-   "GamingIndustry",
-   "UnionVote",
-   "GameDev"
-  ]
- },
- {
-  "id": "d6bff5841b5a",
-  "created": "2026-11-21T01:13:02+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-  "headline": "AI and Human Claim Riemann Hypothesis Solutions",
-  "hook": "A 167‑year math puzzle just got two new answers.",
-  "what": "An artificial‑intelligence system announced it solved the Riemann Hypothesis, a problem open for 167 years. A mathematician also presented a solution. Both claims are drawing attention from the math community.",
-  "why": "The breakthrough highlights AI’s growing role in research and the value of strong math skills. Keep an eye on AI and mathematics developments for future study and career options.",
-  "tags": [
-   "Riemann",
-   "AI",
-   "Math",
-   "Research"
   ]
  }
 ]
