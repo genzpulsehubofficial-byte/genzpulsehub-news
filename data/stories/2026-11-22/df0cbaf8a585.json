@@ -1,0 +1,37 @@
+{
+ "id": "df0cbaf8a585",
+ "created": "2026-11-22T01:01:35+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump slams FBI database hack as ‘not good’",
+  "hook": "Even the president is alarmed by a breach in a key crime database.",
+  "what": "The FBI is investigating a reported intrusion of the National Crime Information Center, a major law‑enforcement database. President Trump said the incident is “not good.”",
+  "why": "A breach could expose personal data and affect safety services, so stay aware of online security and follow official updates.",
+  "tags": [
+   "FBI",
+   "hack",
+   "security",
+   "news",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് FBI ഡാറ്റാബേസ് ഹാക്കിനെ ‘not good’ എന്ന് വിളിച്ചു",
+  "hook": "പ്രസിഡന്റ് പോലും ഒരു പ്രധാന കുറ്റവിവര ഡാറ്റാബേസ് തട്ടിപ്പ് സംബന്ധിച്ച് ആശങ്ക പ്രകടിപ്പിച്ചു.",
+  "what": "FBI, നാഷണൽ ക്രൈം ഇൻഫർമേഷൻ സെന്റർ (NCIC) എന്ന പ്രധാന കുറ്റവിവര ഡാറ്റാബേസിൽ ഒരു ഹാക്ക് നടന്നതായി അന്വേഷിക്കുന്നു. ട്രംപ് ഈ സംഭവത്തെ ‘not good’ എന്ന് വിലയിരുത്തി.",
+  "why": "ഇത്തരമൊരു ലംഘനം വ്യക്തിഗത വിവരങ്ങളുടെ സുരക്ഷയെ ബാധിക്കാം, അതിനാൽ സൈബർ സുരക്ഷയെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക, ഔദ്യോഗിക അറിയിപ്പുകൾ പിന്തുടരുക.",
+  "tags": [
+   "FBI",
+   "hack",
+   "security",
+   "news",
+   "tech"
+  ]
+ }
+}

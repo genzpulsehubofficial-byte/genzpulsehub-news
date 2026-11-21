@@ -1,0 +1,37 @@
+{
+ "id": "d13f94b2942a",
+ "created": "2026-11-22T01:01:36+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India's crypto exchanges hit by banking, regulator and hack woes",
+  "hook": "Your favorite crypto platform could be facing big trouble.",
+  "what": "Cryptocurrency exchanges in India are dealing with bank service cuts, tighter regulatory checks and recent cyber‑security breaches. These issues are exposing weak spots in the sector's operations. Users are seeing delays and some withdrawals not processing.",
+  "why": "Young traders rely on smooth crypto transactions; disruptions can affect investments and access to funds. Stay alert to platform updates and consider diversifying where you keep digital assets.",
+  "tags": [
+   "crypto",
+   "banking",
+   "regulation",
+   "cybersecurity",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയിലെ ക്രിപ്റ്റോ എക്സ്ചേഞ്ചുകൾ ബാങ്ക്, റെഗുലേറ്റർ, ഹാക്ക് പ്രശ്നങ്ങളിൽ",
+  "hook": "നിന്റെ പ്രിയപ്പെട്ട ക്രിപ്റ്റോ പ്ലാറ്റ്ഫോം വലിയ പ്രശ്നത്തിൽ ആകാം.",
+  "what": "ഇന്ത്യയിലെ ക്രിപ്റ്റോ എക്സ്ചേഞ്ചുകൾ ബാങ്ക് സേവനങ്ങൾ തടസ്സപ്പെടൽ, കർശനമായ റെഗുലേറ്ററി പരിശോധന, സൈബർ സുരക്ഷാ ലംഘനങ്ങൾ എന്നിവയുമായി നേരിടുന്നു. ഇതു സിസ്റ്റത്തിന്റെ ദുർബലതകൾ പുറത്തു കൊണ്ടുവന്നിട്ടുണ്ട്. ഉപയോക്താക്കൾക്ക് ഇടപാട് വൈകല്യങ്ങളും ചിലപ്പോൾ പിൻവലിക്കൽ പ്രോസസ് ചെയ്യാൻ കഴിയാത്തതും കാണാം.",
+  "why": "യുവ ട്രേഡറുകൾക്ക് സ്മൂത്ത് ക്രിപ്റ്റോ ഇടപാടുകൾ പ്രധാനമാണ്; ഇതുപോലുള്ള തടസ്സങ്ങൾ നിക്ഷേപത്തിലും ഫണ്ടുകൾ ആക്സസ് ചെയ്യുന്നതിലും ബാധിക്കും. പ്ലാറ്റ്ഫോം അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച്, ഡിജിറ്റൽ ആസ്തികൾ വിവിധ സ്ഥലങ്ങളിൽ നിലനിർത്താൻ പരിഗണിക്കുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "ബാങ്കിംഗ്",
+   "നിയമം",
+   "സൈബർസെക്യൂരിറ്റി",
+   "ഇന്ത്യ"
+  ]
+ }
+}

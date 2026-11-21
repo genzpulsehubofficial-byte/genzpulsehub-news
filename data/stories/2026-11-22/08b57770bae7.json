@@ -1,0 +1,37 @@
+{
+ "id": "08b57770bae7",
+ "created": "2026-11-22T01:01:32+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/pm-modi-inaugurates-bridge-named-after-nitish-kumar-in-bihars-vaishali-12360068#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "PM Modi Opens Nitish Kumar Bridge in Bihar",
+  "hook": "A new 4,280‑crore bridge links Vaishali.",
+  "what": "Prime Minister Narendra Modi inaugurated a bridge in Vaishali, Bihar, named after Nitish Kumar. The structure cost about Rs 4,280 crore to build.",
+  "why": "The bridge will make travel easier for students and job seekers in the area, so keep an eye on local transport updates.",
+  "tags": [
+   "Infrastructure",
+   "Bihar",
+   "Bridge",
+   "YouthTravel",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പി.എം മോഡി തുറന്നു നിതീഷ് കുമാർ പാലം ബിഹാറിൽ",
+  "hook": "വൈശാലിയിൽ 4,280 കോടി രൂപ ചെലവിൽ പുതിയ പാലം.",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി വൈശാലി, ബിഹാറിൽ നിതീഷ് കുമാറിന്റെ പേരിലുള്ള പാലം ഔദ്യോഗികമായി തുറന്നു. ഈ പാലം നിർമ്മിക്കാൻ ഏകദേശം 4,280 കോടി രൂപ ചെലവായി.",
+  "why": "പാലം പ്രദേശത്തെ വിദ്യാർത്ഥികളും ജോലി തേടുന്നവരും യാത്ര എളുപ്പമാക്കും, അതിനാൽ യാത്രാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Infrastructure",
+   "Bihar",
+   "Bridge",
+   "YouthTravel",
+   "India"
+  ]
+ }
+}

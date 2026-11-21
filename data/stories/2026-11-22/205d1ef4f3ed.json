@@ -1,0 +1,37 @@
+{
+ "id": "205d1ef4f3ed",
+ "created": "2026-11-22T01:01:39+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India leads NZ by 118 after Rahul's 136 in Wellington",
+  "hook": "Rahul's big century pushes India ahead in the first Test.",
+  "what": "In the first Test of India's 2026 tour of New Zealand at Wellington, KL Rahul scored 136. Shubman Gill made 98, and India secured a 118‑run lead on Day 3.",
+  "why": "The strong start shows India's ability to compete overseas, inspiring young cricket fans. Keep watching the series for more action.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "KL Rahul‑ന്റെ 136 ന് ശേഷം ഇന്ത്യ 118 റൺ ലീഡ് നേടി",
+  "hook": "Rahul‑ന്റെ സെയ്ന്ററി ഇന്ത്യയെ ആദ്യ ടെസ്റ്റിൽ മുന്നേറിച്ചു.",
+  "what": "2026‑ലെ ന്യൂസിലാൻഡ് യാത്രയുടെ ആദ്യ ടെസ്റ്റിൽ, വെല്ലിങ്ടണിൽ KL Rahul 136 സ്കോർ ചെയ്തു. Shubman Gill 98 നേടി, ഇന്ത്യ 118 റൺ മുൻതൂക്കം നേടി.",
+  "why": "ഇത് വിദേശത്തിൽ ഇന്ത്യയുടെ ശക്തി കാണിക്കുന്നു, യുവ ക്രിക്കറ്റ് ആരാധകർക്ക് പ്രചോദനം നൽകും; സീരീസ് പിന്തുടരൂ.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ന്യൂസിലാൻഡ്",
+   "ടെസ്റ്റ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

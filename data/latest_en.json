@@ -1,5 +1,119 @@
 [
  {
+  "id": "4e2831d0f013",
+  "created": "2026-11-22T01:00:28+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+  "headline": "Cricket star Yuzvendra Chahal named BJP OBC Morcha invitee",
+  "hook": "A famous bowler joins BJP's OBC wing.",
+  "what": "The BJP has appointed Yuzvendra Chahal as a special invitee to the executive committee of its OBC Morcha. The move adds the cricketer to the party's OBC leadership team.",
+  "why": "His inclusion could draw youth and sports fans to the party, signalling outreach to popular personalities. Young voters may want to note this new face in BJP's OBC wing.",
+  "tags": [
+   "BJP",
+   "YuzvendraChahal",
+   "OBCMorcha",
+   "politics",
+   "youth"
+  ]
+ },
+ {
+  "id": "08b57770bae7",
+  "created": "2026-11-22T01:01:32+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/pm-modi-inaugurates-bridge-named-after-nitish-kumar-in-bihars-vaishali-12360068#publisher=newsstand",
+  "headline": "PM Modi Opens Nitish Kumar Bridge in Bihar",
+  "hook": "A new 4,280‑crore bridge links Vaishali.",
+  "what": "Prime Minister Narendra Modi inaugurated a bridge in Vaishali, Bihar, named after Nitish Kumar. The structure cost about Rs 4,280 crore to build.",
+  "why": "The bridge will make travel easier for students and job seekers in the area, so keep an eye on local transport updates.",
+  "tags": [
+   "Infrastructure",
+   "Bihar",
+   "Bridge",
+   "YouthTravel",
+   "India"
+  ]
+ },
+ {
+  "id": "df0cbaf8a585",
+  "created": "2026-11-22T01:01:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+  "headline": "Trump slams FBI database hack as ‘not good’",
+  "hook": "Even the president is alarmed by a breach in a key crime database.",
+  "what": "The FBI is investigating a reported intrusion of the National Crime Information Center, a major law‑enforcement database. President Trump said the incident is “not good.”",
+  "why": "A breach could expose personal data and affect safety services, so stay aware of online security and follow official updates.",
+  "tags": [
+   "FBI",
+   "hack",
+   "security",
+   "news",
+   "tech"
+  ]
+ },
+ {
+  "id": "d13f94b2942a",
+  "created": "2026-11-22T01:01:36+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+  "headline": "India's crypto exchanges hit by banking, regulator and hack woes",
+  "hook": "Your favorite crypto platform could be facing big trouble.",
+  "what": "Cryptocurrency exchanges in India are dealing with bank service cuts, tighter regulatory checks and recent cyber‑security breaches. These issues are exposing weak spots in the sector's operations. Users are seeing delays and some withdrawals not processing.",
+  "why": "Young traders rely on smooth crypto transactions; disruptions can affect investments and access to funds. Stay alert to platform updates and consider diversifying where you keep digital assets.",
+  "tags": [
+   "crypto",
+   "banking",
+   "regulation",
+   "cybersecurity",
+   "India"
+  ]
+ },
+ {
+  "id": "205d1ef4f3ed",
+  "created": "2026-11-22T01:01:39+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
+  "headline": "India leads NZ by 118 after Rahul's 136 in Wellington",
+  "hook": "Rahul's big century pushes India ahead in the first Test.",
+  "what": "In the first Test of India's 2026 tour of New Zealand at Wellington, KL Rahul scored 136. Shubman Gill made 98, and India secured a 118‑run lead on Day 3.",
+  "why": "The strong start shows India's ability to compete overseas, inspiring young cricket fans. Keep watching the series for more action.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "sports"
+  ]
+ },
+ {
+  "id": "ff15c2bd8458",
+  "created": "2026-11-22T01:01:41+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2VQNG1FcVR5Z0FfanJCQlJfVVpiLUNiSG5LcHVEdEtmdnotMXhXY3g3TEhwdFpfdUxmM25ZaTdSLXJvSXo4cjhjbEs4T0stTTdBRjEzQkxQVzhnNEt1QjRrTzZ5amlnVThKS0trVWo4ZEVDa1ptWWNVUzR2dDA2WFJRRnhrUDJaUWxVZjRweWNMTmdWeXVUQmxaZGxRN1I1T291bnd2TXZqUkpHN0Y0NHBBZTAxcFNhSmNMZF9BZ1dzczc5VThmLTE4MWp5bExOUDd1NDd0OHA0SWx4dEgxQtIB5gFBVV95cUxQWC10Ynl3VS1EY0szM0dGY3NycEJrU1hGZFBfSFlqUjNUVU84NkVxVDBIcEZYZFZDSHVIVGZ4bGFKamtvckNTMlU3SzVlQUJHcVVabXZDN3M4V0tlVFhfeDhENlhqeTMwUjhjSzQtMkpkUVFDdm96MGVKVWp5VmRsaXowTHpSR1BGMklVelRrVGJKcmZXX3daQXRXdk1XYjlfZTFiTF90aE9FOWJYeG9LTm9YWERjbnlaUXNrVzVmZXo0M3Itb1lGZjBjX3NXbXVvNldvb2JNUW15SkszcEJidHBva2Zvdw?oc=5",
+  "headline": "Scientists find way to curb harmful fungus without killing it",
+  "hook": "A fresh angle against drug‑resistant yeast could change treatment.",
+  "what": "Researchers at the Centre for Cellular and Molecular Biology have identified a method that targets the disease‑causing form of a common fungus while allowing its growth to continue. The approach aims to disarm the pathogen rather than destroy it, offering a new direction for antifungal research.",
+  "why": "With fungal infections becoming harder to treat, this strategy could help keep medicines effective. Teens should stay aware of hygiene practices that prevent fungal spread.",
+  "tags": [
+   "fungus",
+   "antifungal",
+   "research",
+   "health",
+   "CCMB"
+  ]
+ },
+ {
   "id": "ee235d6db08f",
   "created": "2026-11-22T00:10:01+05:30",
   "category": "sports",
@@ -640,120 +754,6 @@
    "IndiaPolitics",
    "Legislation",
    "Youth"
-  ]
- },
- {
-  "id": "e345f4a90515",
-  "created": "2026-11-21T18:23:53+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
-  "headline": "Sarvam AI launches Token Factory, boosting India's AI infrastructure",
-  "hook": "A new AI tool could power the apps you love.",
-  "what": "Sarvam AI announced its Token Factory, a platform that adds a new layer to the country's AI infrastructure. The move expands the ecosystem for AI inference in India.",
-  "why": "It could give developers more resources to build smarter apps and services. Keep an eye on emerging AI tools that may shape future tech jobs.",
-  "tags": [
-   "AI",
-   "Tech",
-   "India",
-   "Startups",
-   "Innovation"
-  ]
- },
- {
-  "id": "373edcd75a92",
-  "created": "2026-11-21T18:23:55+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb1RuSWtEcVFHNmUwQ3ItS3I4X2tlei1LQ2syaGZVWExpbmg1b3hWT3A0RjNUWUZYVUdDcDNlWi11aTA3YU9jVWs5ZTRuT21jeHYybEJaSFJ1SlRpeTRyR1BSLVFGcXVRQ2hncndxbFFBdkU3QUdYek5lN01UV0M1TmxMTWhxQQ?oc=5",
-  "headline": "Australia clinches first T20I win over England at MCG",
-  "hook": "Nikhil Chaudhary’s all‑round heroics seal a nail‑biting finish.",
-  "what": "Australia defeated England by three wickets in the opening men’s T20 International at the Melbourne Cricket Ground. All‑rounder Nikhil Chaudhary and fresh‑face Edwards starred, delivering the winning runs in the final over.",
-  "why": "The close contest highlights the excitement of T20 cricket, encouraging young fans to follow upcoming series and support their favourite teams.",
-  "tags": [
-   "cricket",
-   "T20",
-   "Australia",
-   "England",
-   "MCG"
-  ]
- },
- {
-  "id": "74e24fae132a",
-  "created": "2026-11-21T18:23:59+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
-  "headline": "Princess Kate shares cancer story in new doc 'Heal'",
-  "hook": "Watch the royal’s candid journey on BBC and NBC.",
-  "what": "Catherine, Princess of Wales, appears in the documentary 'Heal' where she talks about her battle with cancer. The film will premiere on BBC and later on NBC.",
-  "why": "The documentary gives young viewers insight into coping with serious illness and highlights the value of support and awareness.",
-  "tags": [
-   "PrincessKate",
-   "HealDoc",
-   "BBC",
-   "NBC",
-   "CancerAwareness"
-  ]
- },
- {
-  "id": "dabe2bc8eff5",
-  "created": "2026-11-21T17:30:37+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/itat-bangalore-relief-to-businessman-in-rs-12-crore-tax-case-why-income-tax-departments-seizure-failed-11795257680485.html",
-  "headline": "ITAT rules seized cash counts as business income in ₹12 cr case",
-  "hook": "Tax tribunal's decision could change how seized money is taxed.",
-  "what": "The Income Tax Appellate Tribunal in Bangalore decided that cash seized by the tax department in a ₹12 crore case will be treated as business income. The ruling applies to the businessman involved in the case.",
-  "why": "It sets a precedent for future tax seizures, affecting how young entrepreneurs may be taxed on seized assets. Stay aware of tax implications.",
-  "tags": [
-   "tax",
-   "ITAT",
-   "business",
-   "finance",
-   "India"
-  ]
- },
- {
-  "id": "ef5133129684",
-  "created": "2026-11-21T17:30:42+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/yogi-adityanath-s-mother-last-rites-performed-in-haridwar-s-chandi-ghat-leaders-pay-tribute-101795257107179.html",
-  "headline": "Yogi Adityanath’s mother’s funeral held in Haridwar",
-  "hook": "Prime Minister reaches out as the chief minister mourns his loss.",
-  "what": "The final rites for the mother of Uttar Pradesh chief minister Yogi Adityanath were performed at Chandi Ghat in Haridwar. Several political leaders attended and paid their respects. Prime Minister Narendra Modi called Yogi to convey his condolences.",
-  "why": "The ceremony shows the personal side of public leaders, reminding young Indians that politicians also face family tragedies. Staying aware of such events helps understand the human dimension of governance.",
-  "tags": [
-   "politics",
-   "UttarPradesh",
-   "Haridwar",
-   "YogiAdityanath",
-   "condolences"
-  ]
- },
- {
-  "id": "ffb1a68e01aa",
-  "created": "2026-11-21T17:30:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Gujarat Samachar",
-  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON2ZPZ0lsdmRQUjFVeF9iWU1aU1FhMndQb28tUU9QVmQ2dnFhRWZsVldVMTFFTTNaZndOckhYMHVSbmEzRm9ZZXQ2SFA3NVZZVWR0WVhTUFVZMUpwdkV5ekJjQThWOEJZblBCVXQ1LTZveTNfdGYxV180eVZvZXBaZ3Y3S2hoM0xFTG5tcFdPd0pmY2VkUGpyaFEwdzJ1c0tpY09KNnFFQndEY2RMVi0tN2xUT19YNUhGZnhsakY3NkRxUVozbHZpOEJHbmtEbzI0X0Rkd2Rn?oc=5",
-  "headline": "Gandhinagar farmer loses 10.61 lakh in UPI hack",
-  "hook": "A simple phone hack wiped out a farmer’s savings.",
-  "what": "A farmer from Gandhinagar said his mobile was hacked, leading to unauthorized UPI transactions that totalled ₹10.61 lakh. The fraudsters used the phone’s payment apps to move the money.",
-  "why": "It shows how vulnerable anyone using UPI can be if their phone isn’t secured. Young users should protect devices with strong passwords and enable two‑factor authentication.",
-  "tags": [
-   "UPI",
-   "fraud",
-   "mobilehack",
-   "financialrisk",
-   "Gandhinagar"
   ]
  }
 ]

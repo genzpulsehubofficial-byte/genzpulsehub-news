@@ -1,0 +1,37 @@
+{
+ "id": "ff15c2bd8458",
+ "created": "2026-11-22T01:01:41+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2VQNG1FcVR5Z0FfanJCQlJfVVpiLUNiSG5LcHVEdEtmdnotMXhXY3g3TEhwdFpfdUxmM25ZaTdSLXJvSXo4cjhjbEs4T0stTTdBRjEzQkxQVzhnNEt1QjRrTzZ5amlnVThKS0trVWo4ZEVDa1ptWWNVUzR2dDA2WFJRRnhrUDJaUWxVZjRweWNMTmdWeXVUQmxaZGxRN1I1T291bnd2TXZqUkpHN0Y0NHBBZTAxcFNhSmNMZF9BZ1dzczc5VThmLTE4MWp5bExOUDd1NDd0OHA0SWx4dEgxQtIB5gFBVV95cUxQWC10Ynl3VS1EY0szM0dGY3NycEJrU1hGZFBfSFlqUjNUVU84NkVxVDBIcEZYZFZDSHVIVGZ4bGFKamtvckNTMlU3SzVlQUJHcVVabXZDN3M4V0tlVFhfeDhENlhqeTMwUjhjSzQtMkpkUVFDdm96MGVKVWp5VmRsaXowTHpSR1BGMklVelRrVGJKcmZXX3daQXRXdk1XYjlfZTFiTF90aE9FOWJYeG9LTm9YWERjbnlaUXNrVzVmZXo0M3Itb1lGZjBjX3NXbXVvNldvb2JNUW15SkszcEJidHBva2Zvdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Scientists find way to curb harmful fungus without killing it",
+  "hook": "A fresh angle against drug‑resistant yeast could change treatment.",
+  "what": "Researchers at the Centre for Cellular and Molecular Biology have identified a method that targets the disease‑causing form of a common fungus while allowing its growth to continue. The approach aims to disarm the pathogen rather than destroy it, offering a new direction for antifungal research.",
+  "why": "With fungal infections becoming harder to treat, this strategy could help keep medicines effective. Teens should stay aware of hygiene practices that prevent fungal spread.",
+  "tags": [
+   "fungus",
+   "antifungal",
+   "research",
+   "health",
+   "CCMB"
+  ]
+ },
+ "ml": {
+  "headline": "ശരീരത്തിൽ വളരുന്ന ഫംഗസ്‌നെ നശിപ്പിക്കാതെ തടയാൻ ശാസ്ത്രജ്ഞർ കണ്ടെത്തി",
+  "hook": "മരുന്ന് പ്രതിരോധമുള്ള ഈസ്റ്റ്‌ക്കെതിരെ പുതിയ വഴിയുണ്ട്.",
+  "what": "സെന്‍ട്രല്‍ സെല്ലുലാര്‍ ആന്‍ഡ് മോലിക്യുലാര്‍ ബയോളജി (CCMB)യിലെ ഗവേഷകർ സാധാരണ ഫംഗസിന്റെ രോഗകാരിയായ രൂപം ലക്ഷ്യമിടുന്ന, അതിന്റെ വളർച്ച നിർത്താത്ത ഒരു രീതിയെ കണ്ടെത്തി. ഈ രീതിയിലൂടെ രോഗം സജീവമാക്കാതെ ഫംഗസിനെ നിഷ്ക്രിയമാക്കാൻ ശ്രമിക്കുന്നു, ഇത് ആന്റിഫംഗൽ പഠനത്തിന് പുതിയ ദിശ നൽകുന്നു.",
+  "why": "ഫംഗസ് ഇൻഫെക്ഷനുകൾ ചികിത്സിക്കാൻ ബുദ്ധിമുട്ട് വർദ്ധിക്കുമ്പോൾ, ഈ സമീപനം മരുന്നുകളുടെ ഫലപ്രാപ്തി നിലനിർത്താൻ സഹായിക്കും. യുവാക്കൾക്ക് ശുചിത്വം പാലിച്ച് ഫംഗസ്‌യുടെ വ്യാപനം തടയാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ഫംഗസ്",
+   "ആന്റിഫംഗൽ",
+   "ഗവേഷണം",
+   "ആരോഗ്യം",
+   "CCMB"
+  ]
+ }
+}

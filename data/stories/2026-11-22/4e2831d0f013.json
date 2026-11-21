@@ -1,0 +1,37 @@
+{
+ "id": "4e2831d0f013",
+ "created": "2026-11-22T01:00:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cricket star Yuzvendra Chahal named BJP OBC Morcha invitee",
+  "hook": "A famous bowler joins BJP's OBC wing.",
+  "what": "The BJP has appointed Yuzvendra Chahal as a special invitee to the executive committee of its OBC Morcha. The move adds the cricketer to the party's OBC leadership team.",
+  "why": "His inclusion could draw youth and sports fans to the party, signalling outreach to popular personalities. Young voters may want to note this new face in BJP's OBC wing.",
+  "tags": [
+   "BJP",
+   "YuzvendraChahal",
+   "OBCMorcha",
+   "politics",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ക്രിക്കറ്റ് താര യൂവെന്‍ദ്ര ചാഹല്‍ ബി.ജെ.പി. ഒ.ബി.സി. മോര്ച്ചയില്‍ പ്രത്യേക ക്ഷണിതന്‍",
+  "hook": "പ്രശസ്ത ബൗളര്‍ പാര്‍ട്ടിയുടെ ഒ.ബി.സി. വിഭാഗത്തില്‍ ചേരുന്നു.",
+  "what": "ബി.ജെ.പി. യൂവെന്‍ദ്ര ചാഹലിനെ ഒ.ബി.സി. മോര്ച്ചയുടെ എക്സിക്യൂട്ടീവ് കമ്മിറ്റിയില്‍ പ്രത്യേക ക്ഷണിതനായി നിയമിച്ചു. ഈ നീക്കം ക്രിക്കറ്ററിനെ പാര്‍ട്ടിയുടെ ഒ.ബി.സി. നേതൃവ്യവസ്ഥയില്‍ ചേര്‍ക്കുന്നു.",
+  "why": "ഇത് യുവജനങ്ങളും കായിക ആരാധകരും പാര്‍ട്ടിയോട് കൂടുതല്‍ താല്‍പര്യം കാണിക്കാന്‍ സഹായിക്കും. യുവാക്കള്‍ ഈ മാറ്റം ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "BJP",
+   "YuzvendraChahal",
+   "OBCMorcha",
+   "politics",
+   "youth"
+  ]
+ }
+}
