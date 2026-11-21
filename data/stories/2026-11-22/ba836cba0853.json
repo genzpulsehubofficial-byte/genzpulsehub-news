@@ -1,0 +1,37 @@
+{
+ "id": "ba836cba0853",
+ "created": "2026-11-22T01:56:28+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Arab News",
+ "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFgyNTdDOWZ5elVQWDhhenhwRjJlWm85RnlyNmUwVXN0WHBxa1drZUFod056VW8tTUNESENwVUJFVFBvZlNIZE53Y0dCMjJ2cU5nUkp2VlVYQ2x0WGR6eFZmc2N1dVNsMnI1c2R2UHV2ZGRqVFBNZzF1QjZocEdJN0ZTaDhNN3VhcW53dXlkN1M4cDJtQXdvMjZnb05adDRGcUczalljY0hjWVBjd2J5Y3BZOXRxRTVtS2c?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ebola fight in DRC stalled by terrain, violence, distrust",
+  "hook": "Remote villages, conflict and fear are slowing the cure.",
+  "what": "Handicap International reports that difficult geography, ongoing violence and community mistrust are hampering efforts to control the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo. WHO and Africa CDC highlighted the need to reach hard‑to‑access areas as the disease continues to spread.",
+  "why": "It shows how local conditions can worsen health crises, reminding young Indians to support global health aid and stay aware of outbreaks.",
+  "tags": [
+   "ebola",
+   "drcongo",
+   "health",
+   "outbreak",
+   "aid"
+  ]
+ },
+ "ml": {
+  "headline": "DRC‑യിലെ എബോളാ പോരാട്ടം ഭൂമിശാസ്ത്രം, ഹിംസ, വിശ്വാസക്കുറവ് കൊണ്ട് തടസ്സം",
+  "hook": "ദൂരെയുള്ള ഗ്രാമങ്ങളും സംഘർഷവും ഭയവും ചികിത്സയെ മന്ദഗതിയിലാക്കുന്നു.",
+  "what": "Handicap International പറയുന്നു, കഠിനമായ ഭൂമിശാസ്ത്രം, തുടർച്ചയായ ഹിംസയും സമൂഹത്തിന്റെ വിശ്വാസക്കുറവും ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്ക് ഓഫ് കോൺഗോയിലെ ബുണ്ടിബുഗിയോ എബോളാ പകർച്ചവ്യാധി നിയന്ത്രിക്കാൻ ശ്രമങ്ങളെ ബാധിക്കുന്നു. WHO, Africa CDC എന്നിവരും രോഗം വ്യാപിക്കുന്നിടത്ത് ദൂരെ ഉള്ള പ്രദേശങ്ങളിലേക്ക് എത്തേണ്ടതിന്റെ ആവശ്യകതയെ ഊന്നി പറഞ്ഞു.",
+  "why": "ഇത് കാണിക്കുന്നത്, ആരോഗ്യ പ്രതിസന്ധികൾ പ്രാദേശിക സാഹചര്യങ്ങളാൽ എങ്ങനെ വഷളാകാം, അതിനാൽ ലോകാരോഗ്യ സഹായം പിന്തുണയ്ക്കുകയും രോഗവ്യാപനത്തെക്കുറിച്ച് അറിയുകയും ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യം.",
+  "tags": [
+   "എബോളാ",
+   "ഡിആർസി",
+   "ആരോഗ്യം",
+   "വ്യാപനം",
+   "സഹായം"
+  ]
+ }
+}

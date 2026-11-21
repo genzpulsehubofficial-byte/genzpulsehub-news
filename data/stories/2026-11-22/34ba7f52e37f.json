@@ -1,0 +1,37 @@
+{
+ "id": "34ba7f52e37f",
+ "created": "2026-11-22T01:56:31+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Oncodaily",
+ "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vcUNEMDRhR2JpVWp3YTJDMlpnVFhXZDlzZlIzaWZLVkNDdS1fTWF4aV9BRWU5TlJCdG1GQnRTc3R2UldLVHptNW5LUVNFYzBMSk9PWWdSN2JFNkRqMk9jRWxPTTlnMi1TcW1GbWNpcEl3Zw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Global Push Boosts Cervical Cancer Screening, Rwanda & Bangladesh Lead",
+  "hook": "Your health could benefit from new vaccine drives and awareness events.",
+  "what": "At the BICC 2026 conference, Lacy Hubbard highlighted Rwanda and Bangladesh’s expanding cervical cancer screening and treatment programmes. Countries worldwide are scaling up these services, and the WHO stressed the importance of the HPV vaccine. A walkathon in Dhanbad organized by NDTV also raised local awareness.",
+  "why": "Knowing about these initiatives helps teens understand the value of HPV vaccination and regular check‑ups. Stay informed and consider vaccination to protect your future health.",
+  "tags": [
+   "cervicalcancer",
+   "HPVvaccine",
+   "healthawareness",
+   "India",
+   "globalhealth"
+  ]
+ },
+ "ml": {
+  "headline": "ലോകം സിവറിക്കൽ ക്യാൻസർ സ്ക്രീനിംഗ് വേഗത്തിൽ",
+  "hook": "വാക്സിൻ, പരിശോധനകൾ നിങ്ങളുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കും",
+  "what": "BICC 2026 സമ്മേളനത്തിൽ ലേസി ഹബർഡ് റുവാണ്ടയും ബംഗ്ലാദേശും നടത്തിയ സ്ക്രീനിംഗ്, ചികിത്സാ മോഡലുകൾ അവതരിപ്പിച്ചു. നിരവധി രാജ്യങ്ങൾ ഈ സേവനങ്ങൾ വ്യാപിപ്പിക്കുന്നു, WHO HPV വാക്സിന്റെ പ്രാധാന്യം ഊന്നിപ്പറഞ്ഞു. ധാന്ബാദിലെ NDTV നടക്കൽ ക്യാൻസർ അവബോധം വർധിപ്പിച്ചു.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് HPV വാക്സിൻ, സമയോചിത പരിശോധനയുടെ ആവശ്യം മനസ്സിലാക്കാൻ സഹായിക്കും. നിങ്ങളുടെ ആരോഗ്യത്തെ സംരക്ഷിക്കാൻ വിവരങ്ങൾ അറിയുക.",
+  "tags": [
+   "cervicalcancer",
+   "HPVvaccine",
+   "healthawareness",
+   "India",
+   "globalhealth"
+  ]
+ }
+}
