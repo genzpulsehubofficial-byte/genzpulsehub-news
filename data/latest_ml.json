@@ -1,5 +1,116 @@
 [
  {
+  "id": "34f46d008b5c",
+  "created": "2026-11-21T11:55:21+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/youth-congress-issues-7-day-ultimatum-to-meta-over-alleged-censorship-101795235670731.html",
+  "headline": "യൂത്ത് കോണ്ഗ്രസ് മെറ്റാവിന് 7 ദിവസം അവസാനിപ്പിക്കൽ മുന്നറിയിപ്പ്",
+  "hook": "പോലിറ്റിക്കൽ യുവാക്കൾ സോഷ്യല്‍ മീഡിയ ജൈന്റിനെ വെല്ലുവിളിക്കുന്നു.",
+  "what": "യൂത്ത് കോണ്ഗ്രസ് നേതാക്കള്‍ മെറ്റാ അവരുടെ ചില അംഗങ്ങളുടെ ഇന്‍സ്റ്റഗ്രാം അക്കൗണ്ടുകള്‍ തടഞ്ഞു, പോസ്റ്റുകള്‍ നീക്കം ചെയ്തു എന്ന് ആരോപിച്ചു. അതിനാല്‍ പ്ലാറ്റ്ഫോം ഏഴു ദിവസത്തിനുള്ളില്‍ ഉള്ളടക്കം തിരികെ നല്‍കണമെന്ന് ആവശ്യപ്പെട്ടു.",
+  "why": "ഇന്‍സ്റ്റഗ്രാം പല യുവാക്കള്‍ക്കും വിവരങ്ങളും സ്വരവുമാണ്, അതിനാല്‍ നിയന്ത്രണം അവരുടെ ഓണ്‍ലൈന്‍ സ്വാതന്ത്ര്യത്തെ ബാധിക്കും. അക്കൗണ്ട് പ്രശ്നം കാണുന്നവര്‍ പ്ലാറ്റ്ഫോം നയങ്ങള്‍ പരിശോധിച്ച് സഹായം തേടണം.",
+  "tags": [
+   "യൂത്ത് കോണ്ഗ്രസ്",
+   "മെറ്റാ",
+   "ഇന്‍സ്റ്റഗ്രാം",
+   "സെന്‍സര്‍ഷിപ്പ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "e70343614fa6",
+  "created": "2026-11-21T11:56:24+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/manipur/liquor-tragedy-manipur-death-toll-updates/article71727251.ece",
+  "headline": "മണിപ്പൂരിൽ കൃത്രിമ മദ്യത്തിൽ 13 പേർ മരണം, 300‑ത്തിലധികം ആശുപത്രിയിൽ",
+  "hook": "ചെറിയ വിലയുള്ള കള്ളമദ്യം ഒരു രാത്രിയിൽ നൂറുകണക്കിന് ആളുകളെ അപകടത്തിലാക്കി.",
+  "what": "മണിപ്പൂരിൽ കൃത്രിമ മദ്യപാനം മൂലം കുറഞ്ഞത് 13 പേർ മരിക്കുകയും 300‑ത്തിലധികം പേർ dizziness, വയറുവേദന തുടങ്ങിയ ലക്ഷണങ്ങളോടെ ആശുപത്രിയിൽ പ്രവേശിപ്പിക്കപ്പെടുകയും ചെയ്തു.",
+  "why": "നിയന്ത്രണമില്ലാത്ത മദ്യത്തിന്റെ അപകടം കാണിച്ച ഈ സംഭവം യുവാക്കളെ അനധികൃത മദ്യം ഒഴിവാക്കാൻ, അസ്വസ്ഥതയുണ്ടെങ്കിൽ ഉടൻ ഡോക്ടറിനെ കാണാൻ ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "Manipur",
+   "കള്ളമദ്യം",
+   "ആരോഗ്യഅലർട്ട്",
+   "യുവസുരക്ഷ"
+  ]
+ },
+ {
+  "id": "9ce01ce0e954",
+  "created": "2026-11-21T11:56:27+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/padmaja-venugopal-padmini-thomas-bjp-congress-exits-returns-kerala-politics-tvgm3khb",
+  "headline": "പദ്മജ രാജി BJP, പദ്മിനി തിരിച്ചു Congress-ലേക്ക്",
+  "hook": "ഇരുവരുടെയും മാറ്റം കേരള രാഷ്ട്രീയത്തിൽ പുതിയ ചർച്ചകൾക്ക് കാരണമായി",
+  "what": "പദ്മജ വേണുഗോപാൽ BJP-യിൽ നിന്ന് രാജി വെച്ചു. അതേ സമയം, പദ്മിനി തോമസ് കോൺഗ്രസ്-ലേക്ക് മടങ്ങി. ഈ മാറ്റങ്ങൾ സംസ്ഥാനത്തിലെ രാഷ്ട്രീയ സംഘർഷങ്ങൾ വർദ്ധിപ്പിച്ചു.",
+  "why": "ഈ മാറ്റങ്ങൾ കേരളത്തിന്റെ രാഷ്ട്രീയ അന്തരീക്ഷത്തിൽ സമ്മർദ്ദം കൂട്ടുന്നു, ഇത് യുവജനങ്ങളെ ബാധിക്കുന്ന തീരുമാനങ്ങളിലേക്ക് വഴിയൊരുക്കാം. പ്രാദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിവ് നിലനിർത്തുക.",
+  "tags": [
+   "KeralaPolitics",
+   "PartySwitch",
+   "YouthWatch"
+  ]
+ },
+ {
+  "id": "5e6b6fd4f561",
+  "created": "2026-11-21T11:56:29+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5",
+  "headline": "ട്രംപ് പറയുന്നു US‑ന് 15% വളർച്ച, ഇന്ത്യയെ ഉദാഹരണമായി",
+  "hook": "യു.എസ്. പ്രസിഡന്റ് ഇന്ത്യയുടെ കുറഞ്ഞ പലിശ നിരക്കുകൾ വളർച്ചയുടെ മാതൃകയെന്ന് പറയുന്നു.",
+  "what": "ഒരു പ്രസ്‌ബ്രിഫിംഗിൽ, ഡൊണൾഡ് ട്രംപ് യു.എസ്. 14‑15 ശതമാനം വരെയുള്ള സാമ്പത്തിക വളർച്ച കൈവരിക്കാമെന്ന് പറഞ്ഞു. ഇന്ത്യയുടെ കുറഞ്ഞ പലിശ നിരക്കുകളും 7 ശതമാനം വളർച്ചയും അദ്ദേഹം ഉദാഹരിച്ചിരിക്കുന്നു. ചില സാഹചര്യങ്ങൾ മാറിയാൽ യു.എസ്. 20 ശതമാനം വരെ വളർച്ച നേടാമെന്ന് അദ്ദേഹം സൂചിപ്പിച്ചു.",
+  "why": "ഇന്ത്യയുടെ സാമ്പത്തിക നയങ്ങൾ വിദേശത്തിൽ ശ്രദ്ധ നേടുന്നതു യുവജനങ്ങൾക്ക് തൊഴിലും നിക്ഷേപവും സംബന്ധിച്ച അവസരങ്ങൾ സൃഷ്ടിക്കാൻ ഇടയാകും. നയ ചർച്ചകളെ ശ്രദ്ധിക്കുക, അത് നിങ്ങളുടെ സാമ്പത്തിക ഭാവിയെ ബാധിക്കാം.",
+  "tags": [
+   "അർത്ഥവ്യവസ്ഥ",
+   "വളർച്ച",
+   "ഇന്ത്യ",
+   "യുഎസ്",
+   "പലിശനിരക്ക്"
+  ]
+ },
+ {
+  "id": "ccf0cd22da3a",
+  "created": "2026-11-21T11:56:31+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/bought-gold-on-diwali-prices-fall-12-9-in-a-fortnight-check-todays-value-of-your-22k-and-24k-gold-purchases-in-india-11795236108431.html",
+  "headline": "ദീപാവളത്തിൽ വാങ്ങിയ സ്വർണം 13% കുറവായി",
+  "hook": "നിങ്ങളുടെ ഉത്സവ സ്വർണ്ണം ഇപ്പോൾ കുറഞ്ഞ വിലയിൽ",
+  "what": "2026 നവംബർ 8-ന് ദീപാവളത്തിന് ശേഷം ഇന്ത്യയിലെ സ്വർണ്ണവിലകൾ ഏകദേശം 13% ഇടിഞ്ഞു. 22-കാരറ്റ്, 24-കാരറ്റ് ഇരുവിധ വിലകളും താഴ്ന്നു. ഇതു ദീപാവളത്തിൽ വാങ്ങിയ സ്വർണ്ണത്തിന്റെ നിലവിലെ മൂല്യം കുറയ്ക്കുന്നു.",
+  "why": "സ്വർണ്ണം കൈവശം വച്ചിരിക്കുകയോ വിറ്റഴിക്കുകയോ ചെയ്യാൻ ആലോചിക്കുന്നവർക്കു ഇപ്പോൾ വില പരിശോധിച്ച് തീരുമാനമെടുക്കണം.",
+  "tags": [
+   "സ്വർണം",
+   "വില",
+   "ദീപാവലി",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "7c0ae8c8b423",
+  "created": "2026-11-21T11:56:34+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/how-to/features/how-to-get-a-replacement-sim-with-the-same-number-after-losing-your-phone-12335072",
+  "headline": "ഫോൺ നഷ്ടപ്പെട്ടോ? അതേ നമ്പറിന്റെ സിം പെട്ടെന്ന് നേടൂ",
+  "hook": "കഴിഞ്ഞ സിം ഉടൻ ബ്ലോക്ക് ചെയ്ത് പുതിയ സിംക്ക് അപേക്ഷിക്കുക.",
+  "what": "ഫോൺ നഷ്ടപ്പെട്ടാൽ, നിങ്ങളുടെ നിലവിലെ നമ്പർ നിലനിർത്തി പുതിയ സിം ലഭ്യമാക്കാം. ആദ്യം നഷ്ടപ്പെട്ട സിം ബ്ലോക്ക് ചെയ്ത്, ശേഷം മാറ്റം നേടാം.",
+  "why": "ബ്ലോക്ക് ചെയ്യുന്നത് അനധികൃത ഉപയോഗം തടയും, അതേ നമ്പറിന്റെ സിം നിങ്ങളുടെ ബന്ധങ്ങൾ മാറ്റാതെ തുടരാൻ സഹായിക്കും. ഉടൻ നടപടി സ്വീകരിക്കുക.",
+  "tags": [
+   "ഫോൺ",
+   "സിം",
+   "ടെക്",
+   "യുവാക്കൾ",
+   "സുരക്ഷ"
+  ]
+ },
+ {
   "id": "43b5d66e86c6",
   "created": "2026-11-21T10:55:23+05:30",
   "category": "headlines",
@@ -634,117 +745,6 @@
    "കശ്മീർ",
    "രാഷ്ട്രീയം",
    "വാർത്തകൾ"
-  ]
- },
- {
-  "id": "bf592870b2d5",
-  "created": "2026-11-21T04:47:09+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
-  "headline": "GTA VI ആദ്യദിവസം $3.79 bn വരുമാനം, സ്റ്റാഫിന്റെ ഭാവി അനിശ്ചിതം",
-  "hook": "ഇത്ര വലിയ ഗെയിം റിലീസ്, പക്ഷേ ഡെവലപ്പർമാർക്ക് ജോലി സുരക്ഷയില്ല.",
-  "what": "Grand Theft Auto VI ആദ്യദിവസം $3.79 ബില്യൺ റീട്ടെയിൽ വിൽപ്പന നേടി, മൊത്തം വിറ്റുവരവ് $2.3 ബില്യൺ കവിഞ്ഞു. ലോഞ്ച് ഡൗൺലോഡ് ആവശ്യകതയിൽ വളരെയധികം വർധനവുണ്ടാക്കി. ഇതിന് പുറമേ, Rockstar Games ജീവനക്കാർക്ക് തൊഴിൽ ഭാവി അനിശ്ചിതമാണ്.",
-  "why": "ഈ റെക്കോർഡ് ഗെയിം വിപണി യുവജനങ്ങൾക്ക് ഗെയിം ഡെവലപ്മെന്റ് മേഖലയിൽ കരിയർ അവസരങ്ങൾ കാണിക്കുന്നു, പക്ഷേ ജോലി സ്ഥിരത ഉറപ്പില്ല. അതിനാൽ, വിവിധ കഴിവുകൾ വികസിപ്പിച്ച് സുരക്ഷിതമായ ഭാവി ഒരുക്കണം.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "jobs",
-   "revenue",
-   "India"
-  ]
- },
- {
-  "id": "7a4d34969404",
-  "created": "2026-11-21T04:47:36+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Decrypt",
-  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5",
-  "headline": "അക്കൗണ്ടിംഗ് അന്വേഷണങ്ങളെ തുടർന്ന് എൻവിഡിയ ഓഹരികളിൽ വലിയ ഇടിവ്",
-  "hook": "പ്രമുഖ ചിപ്പ് നിർമ്മാതാക്കളായ എൻവിഡിയയ്ക്കെതിരെ അന്വേഷണം ശക്തമാകുന്നു.",
-  "what": "അക്കൗണ്ടിംഗ് രേഖകളെക്കുറിച്ച് യുഎസ് എസ്ഇസി അന്വേഷണം നടത്തുന്നുവെന്ന റിപ്പോർട്ടുകൾ വന്നതോടെ എൻവിഡിയയുടെ ഓഹരി വില ഒരു വർഷത്തെ ഏറ്റവും കുറഞ്ഞ നിരക്കിലെത്തി. ചിപ്പുകളുമായി ബന്ധപ്പെട്ട് കാലിഫോർണിയ അറ്റോർണി ജനറലും കമ്പനിക്ക് സമൻസ് അയച്ചിട്ടുണ്ട്. ഇതോടെ കമ്പനി വലിയ സാമ്പത്തിക നഷ്ടവും നിയമപരമായ പ്രശ്നങ്ങളും നേരിടുകയാണ്.",
-  "why": "ലോകമെമ്പാടുമുള്ള എഐ, ഗെയിമിംഗ് സാങ്കേതികവിദ്യകളെ നയിക്കുന്ന കമ്പനിയായതിനാൽ എൻവിഡിയയിലെ പ്രതിസന്ധികൾ ആഗോള ടെക് മേഖലയെ ബാധിച്ചേക്കാം.",
-  "tags": [
-   "Nvidia",
-   "TechNews",
-   "AIChips",
-   "MalayalamNews"
-  ]
- },
- {
-  "id": "f38c81d64f98",
-  "created": "2026-11-21T03:53:38+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
-  "headline": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റി നിലപാട് ഉറപ്പിച്ചു, പാകിസ്താനിനെ വിമർശിച്ചു",
-  "hook": "ഇന്ത്യ പറയുന്നു, IWT‑ലെ അവരുടെ നിലപാട് പൂര്‍ണമായും വ്യക്തമാണ്.",
-  "what": "ഇന്ത്യയുടെ ഇൻഡസ് വാട്ടർസ് ട്രിറ്റിയിലുള്ള സ്ഥാനം മാറ്റമില്ലാതെ വ്യക്തമായി പ്രഖ്യാപിച്ചു. ഈ പ്രസ്താവന പാകിസ്താനുമായി ജലവിതരണത്തെക്കുറിച്ചുള്ള തർക്കങ്ങളുടെ പശ്ചാത്തലത്തിൽ വന്നതാണ്.",
-  "why": "വെള്ളം പോലുള്ള പ്രധാന വിഭവങ്ങളുടെ നിയന്ത്രണം പ്രദേശിക സ്ഥിരതയ്ക്ക് എത്ര പ്രധാനമാണെന്ന് യുവാക്കൾക്ക് അറിയാൻ ഇത് സഹായിക്കും.",
-  "tags": [
-   "IndusWaters",
-   "IndiaPakistan",
-   "WaterTreaty",
-   "Geopolitics"
-  ]
- },
- {
-  "id": "717d849dded5",
-  "created": "2026-11-21T03:53:41+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
-  "headline": "Nuvera, Polygon‑ന്റെ Open Money Stack‑ലേക്ക് ചേർന്നു",
-  "hook": "US‑ലെ പേയ്മെന്റ് ഫർമിന്‌ L2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് ലോകവ്യാപകമായി ഇടപാട് ചെയ്യാം",
-  "what": "US‑യിലെ പേയ്മെന്റ് ഇൻഫ്രാസ്ട്രക്ചർ പ്രൊവൈഡർ Nuvera, Polygon‑ന്റെ Open Money Stack‑യുടെ ഭാഗമായി. ഇതിലൂടെ Nuvera, Polygon‑ന്റെ ലെയർ‑2 ബ്ലോക്ക്ചെയിൻ ഉപയോഗിച്ച് അന്താരാഷ്ട്ര പേയ്മെന്റുകൾ നടത്തും.",
-  "why": "ഇത് ക്രോസ്‑ബോർഡർ ട്രാൻസാക്ഷനുകൾ വേഗത്തിലും ചെലവിലും കുറയ്ക്കാൻ സഹായിക്കും, ഗ്ലോബൽ സർവീസുകൾ ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് പ്രയോജനം. ഈ സാങ്കേതികത സ്വീകരിക്കുന്ന ആപ്പുകൾക്കായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Polygon",
-   "Nuvera",
-   "crossborder",
-   "payments",
-   "blockchain"
-  ]
- },
- {
-  "id": "c9adab68c34c",
-  "created": "2026-11-21T03:53:42+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84azZUaGRNMi02bjVlUk9fYkY2LTBSb0dlRUViWnh3TS1rQlFUTHktcWRwNzJwaHZyUWw3cXNtdmdvMkdXbnRrN1NLTklnT1hhN3ZVU1JpRTVlX1VFTWJBX29QMnZlSWJMcnFUa0ZObTJ0UXQ3Rmc?oc=5",
-  "headline": "Teenage Engineering പുറത്തിറക്കി $299 EP/BC-1 CD പ്ലെയർ",
-  "hook": "സ്പിന്നിംഗ് ഡിസ്ക് കാണിക്കുന്ന ഒരു CD പ്ലെയർ.",
-  "what": "സ്വീഡിഷ് ബ്രാൻഡ് Teenage Engineering EP/BC-1 എന്ന പുതിയ CD പ്ലെയർ $299 വിലയിൽ അവതരിപ്പിച്ചു. ഡിസ്ക് തുറന്ന ഫ്രെയിമിൽ വെച്ച് അതിന്റെ ചുറ്റൽ കാണിക്കാൻ രൂപകൽപ്പന ചെയ്തതാണ്. ഇത് ചെറു ടേൺടേബിൾ പോലെയാണു തോന്നുന്നത്.",
-  "why": "മ്യൂസിക് പ്രേമികളായ യുവാക്കൾക്ക് ഫിസിക്കൽ മീഡിയയുടെ പുതിയ അനുഭവം നൽകുന്നു, അതിനാൽ സൃഷ്ടിപരമായ കേൾവി ശൈലി വളർത്താൻ സഹായിക്കും. ഇത്തരമൊരു ഗാഡ്ജറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ നോക്കാം.",
-  "tags": [
-   "ടെക്",
-   "ഗാഡ്ജറ്റ്",
-   "മ്യൂസിക്",
-   "ഡിസൈൻ",
-   "TeenageEngineering"
-  ]
- },
- {
-  "id": "7b5d3f68df3f",
-  "created": "2026-11-21T03:53:45+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Financial Express",
-  "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHJFblM2SEVnbVBqeXdBOUh0aVA2dGdzZU1iT2Zkd1FpY200VV9zNDZWWjliODJHb3pwdlBMR0dkek40c05WX3NieWZnaE5CTzM2ajVuaEFGVW5PaWh1TGQwREduazZiZTUtUTQxOVVsTTFkSE8zcHM4NUlqZDZfa2p0SWNsd2VOajczMWJCVkY0eDNwMDhidEhjNHZGXzZXZ2h5RGtFTWhsUzlCZ3p6NUJ0X3JURXBnVUJGd0g0S2lEaXIzMmtENDRsVnNOTjBTNm1xUENHc2JWa254LVdRc2xZa25XVk11UThBMEgwd2hyaW5iWEUxQkRpV3luQQ?oc=5",
-  "headline": "മഹാനദി കോൾഫീൽഡ്സ് ഐപിഒക്ക് 0.48 മടങ്ങ് സബ്സ്ക്രിപ്ഷൻ",
-  "hook": "രണ്ട് ദിവസത്തിനുള്ളിൽ ഈ വലിയ കോൾ ഐപിഒക്ക് ആവശ്യകത കുറവാണ്.",
-  "what": "മഹാനദി കോൾഫീൽഡ്സ് ലിമിറ്റഡ് 8,981 കോടി രൂപ മൂല്യമുള്ള ഐപിഒ പുറത്തിറക്കി. രണ്ടാം ദിവസത്തിന്റെ അവസാനം സബ്സ്ക്രിപ്ഷൻ 0.48 മടങ്ങായി. QIBs ഏറ്റവും കൂടുതൽ ബിഡ് ചെയ്തു.",
-  "why": "കുറഞ്ഞ സബ്സ്ക്രിപ്ഷൻ ഐപിഒയുടെ വിജയത്തെയും മാർക്കറ്റ് മനോഭാവത്തെയും ബാധിക്കാം. യുവ നിക്ഷേപകർ അന്തിമ അലോക്കേഷൻ കാത്ത് തീരുമാനിക്കണം.",
-  "tags": [
-   "മഹാനദി",
-   "ഐപിഒ",
-   "നിക്ഷേപം",
-   "സ്റ്റോക്ക്സ്"
   ]
  }
 ]

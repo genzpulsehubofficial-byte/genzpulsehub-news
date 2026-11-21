@@ -1,5 +1,116 @@
 [
  {
+  "id": "34f46d008b5c",
+  "created": "2026-11-21T11:55:21+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/youth-congress-issues-7-day-ultimatum-to-meta-over-alleged-censorship-101795235670731.html",
+  "headline": "Youth Congress Gives Meta 7 Days Over Instagram Restrictions",
+  "hook": "A political youth wing is challenging the social media giant.",
+  "what": "Youth Congress leaders say Meta blocked or limited Instagram accounts of several of their members and deleted their posts. They have issued a seven‑day notice demanding the platform restore the content.",
+  "why": "Since many teens rely on Instagram for news and expression, any restriction can affect their online voice. Followers should stay aware of platform policies and report any unexpected account issues.",
+  "tags": [
+   "YouthCongress",
+   "Meta",
+   "Instagram",
+   "Censorship",
+   "India"
+  ]
+ },
+ {
+  "id": "e70343614fa6",
+  "created": "2026-11-21T11:56:24+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/manipur/liquor-tragedy-manipur-death-toll-updates/article71727251.ece",
+  "headline": "13 dead, 300+ sick after fake liquor in Manipur",
+  "hook": "A night of cheap booze turned deadly for hundreds in Manipur.",
+  "what": "At least 13 people died and more than 300 were admitted to hospitals after drinking spurious alcohol in Manipur. Patients reported dizziness, stomach pain and other complications.",
+  "why": "The incident shows the risk of unregulated liquor; teens should steer clear of illicit drinks and seek medical help if they feel unwell.",
+  "tags": [
+   "Manipur",
+   "spuriousLiquor",
+   "healthAlert",
+   "youthSafety"
+  ]
+ },
+ {
+  "id": "9ce01ce0e954",
+  "created": "2026-11-21T11:56:27+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/padmaja-venugopal-padmini-thomas-bjp-congress-exits-returns-kerala-politics-tvgm3khb",
+  "headline": "Padmaja quits BJP, Padmini rejoins Congress in Kerala",
+  "hook": "Two high‑profile switches spark fresh strain in Kerala politics",
+  "what": "Padmaja Venugopal announced her departure from the BJP. Around the same time, Padmini Thomas re‑entered the Congress party. Their moves have stirred internal debates within Kerala's political circles.",
+  "why": "These switches add tension within Kerala's political scene, which can influence decisions affecting young people. Stay aware of local political shifts.",
+  "tags": [
+   "KeralaPolitics",
+   "PartySwitch",
+   "YouthWatch"
+  ]
+ },
+ {
+  "id": "5e6b6fd4f561",
+  "created": "2026-11-21T11:56:29+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5",
+  "headline": "Trump says US could hit 15% growth, cites India",
+  "hook": "The US president points to India's low rates as a growth model.",
+  "what": "In a press briefing, former President Donald Trump said the United States could achieve economic growth of around 14‑15 percent. He highlighted India's low interest rates and its 7 percent growth as examples. Trump also suggested the US could reach even higher growth if certain conditions change.",
+  "why": "For Indian youth, the comment underscores how India's economic policies are being noticed abroad and may influence future trade or investment opportunities. Keep an eye on policy debates that could affect jobs and finance.",
+  "tags": [
+   "economy",
+   "growth",
+   "India",
+   "US",
+   "interestrates"
+  ]
+ },
+ {
+  "id": "ccf0cd22da3a",
+  "created": "2026-11-21T11:56:31+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/bought-gold-on-diwali-prices-fall-12-9-in-a-fortnight-check-todays-value-of-your-22k-and-24k-gold-purchases-in-india-11795236108431.html",
+  "headline": "Diwali gold loses about 13% in two weeks",
+  "hook": "Your festive gold is worth far less now",
+  "what": "Gold prices in India have dropped almost 13% since Diwali on Nov 8, 2026. The fall covers both 22‑carat and 24‑carat rates. The decline reduces the current value of gold bought during the festival.",
+  "why": "If you own gold bought for Diwali, its market value is lower, so check the latest rates before selling or using it as collateral.",
+  "tags": [
+   "gold",
+   "prices",
+   "Diwali",
+   "finance",
+   "India"
+  ]
+ },
+ {
+  "id": "7c0ae8c8b423",
+  "created": "2026-11-21T11:56:34+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/how-to/features/how-to-get-a-replacement-sim-with-the-same-number-after-losing-your-phone-12335072",
+  "headline": "Lost Phone? Get Same-Number SIM Replacement Fast",
+  "hook": "Block the missing SIM right away and request a new one.",
+  "what": "If your phone is lost, you can obtain a new SIM that keeps your existing number. The process involves blocking the lost SIM and then getting a replacement.",
+  "why": "Blocking prevents unauthorized use, and a same-number SIM lets you stay connected without changing contacts. Act quickly to secure your account.",
+  "tags": [
+   "phone",
+   "SIM",
+   "tech",
+   "youth",
+   "safety"
+  ]
+ },
+ {
   "id": "43b5d66e86c6",
   "created": "2026-11-21T10:55:23+05:30",
   "category": "headlines",
@@ -635,117 +746,6 @@
    "jammuandkashmir",
    "politics",
    "news"
-  ]
- },
- {
-  "id": "bf592870b2d5",
-  "created": "2026-11-21T04:47:09+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wbkpHNHBLVEN2UTR2Sjhpa21IdU03QVhFckNOVVNTMDZ6emZ2S09nVUwxRVJVQ1NtU1B3R2d1WWJKUXlvU1FOTUF4dE9EUzg0ejZxRFhvRDRIMHEzUXNKVHJVUW1OQlhJbExjNkdVdVRvVWJlS0E?oc=5",
-  "headline": "GTA VI earns $3.79 bn on launch, staff futures unclear",
-  "hook": "The biggest game debut ever, but its creators worry about jobs.",
-  "what": "Grand Theft Auto VI generated $3.79 billion in retail sales on its first day, with total estimated sales topping $2.3 billion. The launch sparked a surge in download demand. Despite the revenue, Rockstar Games employees face an uncertain outlook.",
-  "why": "The record-breaking launch shows the massive scale of the gaming market, highlighting potential career opportunities in game development. However, job security can still be volatile, so aspiring creators should build diverse skills.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "jobs",
-   "revenue",
-   "India"
-  ]
- },
- {
-  "id": "7a4d34969404",
-  "created": "2026-11-21T04:47:36+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Decrypt",
-  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWY0ZEx3alh5MHBSXzFLb29FTzhwaER6OF9iOW5tem5FRXJUclZma0hjMDctREdfcmxERUd3dGFuZnJxeGxaNXF4eXhKclNCci00aGMwd3RkaDV1MjNGX3dVNVBPR0UwUGdLbF8yaTA2MXg4cURkYk1oeUtxTjJRa1VuQnBqQQ?oc=5",
-  "headline": "Nvidia Shares Crash to 52-Week Low Amid Accounting Probes",
-  "hook": "The tech giant behind your favorite GPUs is facing intense legal scrutiny.",
-  "what": "Nvidia shares have dropped to a 52-week low following reports that the US SEC is probing the company's accounting practices. The company has also been subpoenaed by the California Attorney General regarding its chips and a probe involving AI chips to China. These mounting legal challenges come amid a massive market rout for the chipmaker.",
-  "why": "Nvidia powers major AI and tech innovations globally, so serious legal trouble for the company can send ripples across the tech industry.",
-  "tags": [
-   "Nvidia",
-   "TechNews",
-   "AIChips",
-   "Stocks"
-  ]
- },
- {
-  "id": "f38c81d64f98",
-  "created": "2026-11-21T03:53:38+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/india-slams-pakistan-over-indus-water-treaty-12356777#publisher=newsstand",
-  "headline": "India Reaffirms Stance on Indus Waters Treaty, Criticises Pakistan",
-  "hook": "India tells Pakistan its IWT position is crystal clear.",
-  "what": "India said its view on the Indus Waters Treaty remains unchanged and unequivocal. The statement came amid ongoing disputes with Pakistan over water sharing.",
-  "why": "Young Indians should note the significance of water resources in regional stability and stay informed on cross‑border issues.",
-  "tags": [
-   "IndusWaters",
-   "IndiaPakistan",
-   "WaterTreaty",
-   "Geopolitics"
-  ]
- },
- {
-  "id": "717d849dded5",
-  "created": "2026-11-21T03:53:41+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/polygon-expands-cross-border-payments-push-onboards-nuvera/",
-  "headline": "Nuvera joins Polygon’s Open Money Stack for cross‑border payments",
-  "hook": "A US payments firm taps Polygon’s L2 tech to go global",
-  "what": "Nuvera, a US payments infrastructure provider, has become part of Polygon’s Open Money Stack. The partnership lets Nuvera use Polygon’s layer‑2 blockchain for international transactions.",
-  "why": "This could make cross‑border payments faster and cheaper, a benefit for young Indians using global services. Keep an eye on apps that might adopt this tech.",
-  "tags": [
-   "Polygon",
-   "Nuvera",
-   "crossborder",
-   "payments",
-   "blockchain"
-  ]
- },
- {
-  "id": "c9adab68c34c",
-  "created": "2026-11-21T03:53:42+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84azZUaGRNMi02bjVlUk9fYkY2LTBSb0dlRUViWnh3TS1rQlFUTHktcWRwNzJwaHZyUWw3cXNtdmdvMkdXbnRrN1NLTklnT1hhN3ZVU1JpRTVlX1VFTWJBX29QMnZlSWJMcnFUa0ZObTJ0UXQ3Rmc?oc=5",
-  "headline": "Teenage Engineering launches $299 EP/BC-1 CD player",
-  "hook": "A CD player that shows off its spinning disc.",
-  "what": "Swedish maker Teenage Engineering introduced the EP/BC-1, a compact CD player priced at $299. The device places the disc on an open frame, making the rotation visible. It resembles a miniature turntable in appearance.",
-  "why": "For music‑loving teens, the design offers a fresh way to enjoy physical media and could inspire creative listening habits. Check out the product if you’re into unique audio gadgets.",
-  "tags": [
-   "tech",
-   "gadgets",
-   "music",
-   "design",
-   "TeenageEngineering"
-  ]
- },
- {
-  "id": "7b5d3f68df3f",
-  "created": "2026-11-21T03:53:45+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Financial Express",
-  "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHJFblM2SEVnbVBqeXdBOUh0aVA2dGdzZU1iT2Zkd1FpY200VV9zNDZWWjliODJHb3pwdlBMR0dkek40c05WX3NieWZnaE5CTzM2ajVuaEFGVW5PaWh1TGQwREduazZiZTUtUTQxOVVsTTFkSE8zcHM4NUlqZDZfa2p0SWNsd2VOajczMWJCVkY0eDNwMDhidEhjNHZGXzZXZ2h5RGtFTWhsUzlCZ3p6NUJ0X3JURXBnVUJGd0g0S2lEaXIzMmtENDRsVnNOTjBTNm1xUENHc2JWa254LVdRc2xZa25XVk11UThBMEgwd2hyaW5iWEUxQkRpV3luQQ?oc=5",
-  "headline": "Mahanadi Coalfields IPO sees 0.48x subscription after Day 2",
-  "hook": "The big coal IPO is barely half‑filled after two days.",
-  "what": "Mahanadi Coalfields Ltd launched an IPO worth Rs 8,981 crore. By the end of the second day, total subscription stood at 0.48 times the issue size. QIBs accounted for the bulk of the bids.",
-  "why": "Low subscription may impact the IPO's success and market sentiment. Young investors should watch the final allocation before deciding to invest.",
-  "tags": [
-   "MahanadiCoal",
-   "IPO",
-   "Investing",
-   "Stocks"
   ]
  }
 ]

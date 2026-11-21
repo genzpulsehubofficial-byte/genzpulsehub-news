@@ -1,0 +1,37 @@
+{
+ "id": "34f46d008b5c",
+ "created": "2026-11-21T11:55:21+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/youth-congress-issues-7-day-ultimatum-to-meta-over-alleged-censorship-101795235670731.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Youth Congress Gives Meta 7 Days Over Instagram Restrictions",
+  "hook": "A political youth wing is challenging the social media giant.",
+  "what": "Youth Congress leaders say Meta blocked or limited Instagram accounts of several of their members and deleted their posts. They have issued a seven‑day notice demanding the platform restore the content.",
+  "why": "Since many teens rely on Instagram for news and expression, any restriction can affect their online voice. Followers should stay aware of platform policies and report any unexpected account issues.",
+  "tags": [
+   "YouthCongress",
+   "Meta",
+   "Instagram",
+   "Censorship",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "യൂത്ത് കോണ്ഗ്രസ് മെറ്റാവിന് 7 ദിവസം അവസാനിപ്പിക്കൽ മുന്നറിയിപ്പ്",
+  "hook": "പോലിറ്റിക്കൽ യുവാക്കൾ സോഷ്യല്‍ മീഡിയ ജൈന്റിനെ വെല്ലുവിളിക്കുന്നു.",
+  "what": "യൂത്ത് കോണ്ഗ്രസ് നേതാക്കള്‍ മെറ്റാ അവരുടെ ചില അംഗങ്ങളുടെ ഇന്‍സ്റ്റഗ്രാം അക്കൗണ്ടുകള്‍ തടഞ്ഞു, പോസ്റ്റുകള്‍ നീക്കം ചെയ്തു എന്ന് ആരോപിച്ചു. അതിനാല്‍ പ്ലാറ്റ്ഫോം ഏഴു ദിവസത്തിനുള്ളില്‍ ഉള്ളടക്കം തിരികെ നല്‍കണമെന്ന് ആവശ്യപ്പെട്ടു.",
+  "why": "ഇന്‍സ്റ്റഗ്രാം പല യുവാക്കള്‍ക്കും വിവരങ്ങളും സ്വരവുമാണ്, അതിനാല്‍ നിയന്ത്രണം അവരുടെ ഓണ്‍ലൈന്‍ സ്വാതന്ത്ര്യത്തെ ബാധിക്കും. അക്കൗണ്ട് പ്രശ്നം കാണുന്നവര്‍ പ്ലാറ്റ്ഫോം നയങ്ങള്‍ പരിശോധിച്ച് സഹായം തേടണം.",
+  "tags": [
+   "യൂത്ത് കോണ്ഗ്രസ്",
+   "മെറ്റാ",
+   "ഇന്‍സ്റ്റഗ്രാം",
+   "സെന്‍സര്‍ഷിപ്പ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

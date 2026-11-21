@@ -1,0 +1,37 @@
+{
+ "id": "7c0ae8c8b423",
+ "created": "2026-11-21T11:56:34+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/how-to/features/how-to-get-a-replacement-sim-with-the-same-number-after-losing-your-phone-12335072",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Lost Phone? Get Same-Number SIM Replacement Fast",
+  "hook": "Block the missing SIM right away and request a new one.",
+  "what": "If your phone is lost, you can obtain a new SIM that keeps your existing number. The process involves blocking the lost SIM and then getting a replacement.",
+  "why": "Blocking prevents unauthorized use, and a same-number SIM lets you stay connected without changing contacts. Act quickly to secure your account.",
+  "tags": [
+   "phone",
+   "SIM",
+   "tech",
+   "youth",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "ഫോൺ നഷ്ടപ്പെട്ടോ? അതേ നമ്പറിന്റെ സിം പെട്ടെന്ന് നേടൂ",
+  "hook": "കഴിഞ്ഞ സിം ഉടൻ ബ്ലോക്ക് ചെയ്ത് പുതിയ സിംക്ക് അപേക്ഷിക്കുക.",
+  "what": "ഫോൺ നഷ്ടപ്പെട്ടാൽ, നിങ്ങളുടെ നിലവിലെ നമ്പർ നിലനിർത്തി പുതിയ സിം ലഭ്യമാക്കാം. ആദ്യം നഷ്ടപ്പെട്ട സിം ബ്ലോക്ക് ചെയ്ത്, ശേഷം മാറ്റം നേടാം.",
+  "why": "ബ്ലോക്ക് ചെയ്യുന്നത് അനധികൃത ഉപയോഗം തടയും, അതേ നമ്പറിന്റെ സിം നിങ്ങളുടെ ബന്ധങ്ങൾ മാറ്റാതെ തുടരാൻ സഹായിക്കും. ഉടൻ നടപടി സ്വീകരിക്കുക.",
+  "tags": [
+   "ഫോൺ",
+   "സിം",
+   "ടെക്",
+   "യുവാക്കൾ",
+   "സുരക്ഷ"
+  ]
+ }
+}

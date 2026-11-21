@@ -1,0 +1,33 @@
+{
+ "id": "9ce01ce0e954",
+ "created": "2026-11-21T11:56:27+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/padmaja-venugopal-padmini-thomas-bjp-congress-exits-returns-kerala-politics-tvgm3khb",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Padmaja quits BJP, Padmini rejoins Congress in Kerala",
+  "hook": "Two high‑profile switches spark fresh strain in Kerala politics",
+  "what": "Padmaja Venugopal announced her departure from the BJP. Around the same time, Padmini Thomas re‑entered the Congress party. Their moves have stirred internal debates within Kerala's political circles.",
+  "why": "These switches add tension within Kerala's political scene, which can influence decisions affecting young people. Stay aware of local political shifts.",
+  "tags": [
+   "KeralaPolitics",
+   "PartySwitch",
+   "YouthWatch"
+  ]
+ },
+ "ml": {
+  "headline": "പദ്മജ രാജി BJP, പദ്മിനി തിരിച്ചു Congress-ലേക്ക്",
+  "hook": "ഇരുവരുടെയും മാറ്റം കേരള രാഷ്ട്രീയത്തിൽ പുതിയ ചർച്ചകൾക്ക് കാരണമായി",
+  "what": "പദ്മജ വേണുഗോപാൽ BJP-യിൽ നിന്ന് രാജി വെച്ചു. അതേ സമയം, പദ്മിനി തോമസ് കോൺഗ്രസ്-ലേക്ക് മടങ്ങി. ഈ മാറ്റങ്ങൾ സംസ്ഥാനത്തിലെ രാഷ്ട്രീയ സംഘർഷങ്ങൾ വർദ്ധിപ്പിച്ചു.",
+  "why": "ഈ മാറ്റങ്ങൾ കേരളത്തിന്റെ രാഷ്ട്രീയ അന്തരീക്ഷത്തിൽ സമ്മർദ്ദം കൂട്ടുന്നു, ഇത് യുവജനങ്ങളെ ബാധിക്കുന്ന തീരുമാനങ്ങളിലേക്ക് വഴിയൊരുക്കാം. പ്രാദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിവ് നിലനിർത്തുക.",
+  "tags": [
+   "KeralaPolitics",
+   "PartySwitch",
+   "YouthWatch"
+  ]
+ }
+}

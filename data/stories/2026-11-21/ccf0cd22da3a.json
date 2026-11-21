@@ -1,0 +1,37 @@
+{
+ "id": "ccf0cd22da3a",
+ "created": "2026-11-21T11:56:31+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/bought-gold-on-diwali-prices-fall-12-9-in-a-fortnight-check-todays-value-of-your-22k-and-24k-gold-purchases-in-india-11795236108431.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Diwali gold loses about 13% in two weeks",
+  "hook": "Your festive gold is worth far less now",
+  "what": "Gold prices in India have dropped almost 13% since Diwali on Nov 8, 2026. The fall covers both 22‑carat and 24‑carat rates. The decline reduces the current value of gold bought during the festival.",
+  "why": "If you own gold bought for Diwali, its market value is lower, so check the latest rates before selling or using it as collateral.",
+  "tags": [
+   "gold",
+   "prices",
+   "Diwali",
+   "finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ദീപാവളത്തിൽ വാങ്ങിയ സ്വർണം 13% കുറവായി",
+  "hook": "നിങ്ങളുടെ ഉത്സവ സ്വർണ്ണം ഇപ്പോൾ കുറഞ്ഞ വിലയിൽ",
+  "what": "2026 നവംബർ 8-ന് ദീപാവളത്തിന് ശേഷം ഇന്ത്യയിലെ സ്വർണ്ണവിലകൾ ഏകദേശം 13% ഇടിഞ്ഞു. 22-കാരറ്റ്, 24-കാരറ്റ് ഇരുവിധ വിലകളും താഴ്ന്നു. ഇതു ദീപാവളത്തിൽ വാങ്ങിയ സ്വർണ്ണത്തിന്റെ നിലവിലെ മൂല്യം കുറയ്ക്കുന്നു.",
+  "why": "സ്വർണ്ണം കൈവശം വച്ചിരിക്കുകയോ വിറ്റഴിക്കുകയോ ചെയ്യാൻ ആലോചിക്കുന്നവർക്കു ഇപ്പോൾ വില പരിശോധിച്ച് തീരുമാനമെടുക്കണം.",
+  "tags": [
+   "സ്വർണം",
+   "വില",
+   "ദീപാവലി",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

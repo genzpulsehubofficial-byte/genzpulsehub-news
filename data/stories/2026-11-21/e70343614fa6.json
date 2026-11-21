@@ -1,0 +1,35 @@
+{
+ "id": "e70343614fa6",
+ "created": "2026-11-21T11:56:24+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/manipur/liquor-tragedy-manipur-death-toll-updates/article71727251.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "13 dead, 300+ sick after fake liquor in Manipur",
+  "hook": "A night of cheap booze turned deadly for hundreds in Manipur.",
+  "what": "At least 13 people died and more than 300 were admitted to hospitals after drinking spurious alcohol in Manipur. Patients reported dizziness, stomach pain and other complications.",
+  "why": "The incident shows the risk of unregulated liquor; teens should steer clear of illicit drinks and seek medical help if they feel unwell.",
+  "tags": [
+   "Manipur",
+   "spuriousLiquor",
+   "healthAlert",
+   "youthSafety"
+  ]
+ },
+ "ml": {
+  "headline": "മണിപ്പൂരിൽ കൃത്രിമ മദ്യത്തിൽ 13 പേർ മരണം, 300‑ത്തിലധികം ആശുപത്രിയിൽ",
+  "hook": "ചെറിയ വിലയുള്ള കള്ളമദ്യം ഒരു രാത്രിയിൽ നൂറുകണക്കിന് ആളുകളെ അപകടത്തിലാക്കി.",
+  "what": "മണിപ്പൂരിൽ കൃത്രിമ മദ്യപാനം മൂലം കുറഞ്ഞത് 13 പേർ മരിക്കുകയും 300‑ത്തിലധികം പേർ dizziness, വയറുവേദന തുടങ്ങിയ ലക്ഷണങ്ങളോടെ ആശുപത്രിയിൽ പ്രവേശിപ്പിക്കപ്പെടുകയും ചെയ്തു.",
+  "why": "നിയന്ത്രണമില്ലാത്ത മദ്യത്തിന്റെ അപകടം കാണിച്ച ഈ സംഭവം യുവാക്കളെ അനധികൃത മദ്യം ഒഴിവാക്കാൻ, അസ്വസ്ഥതയുണ്ടെങ്കിൽ ഉടൻ ഡോക്ടറിനെ കാണാൻ ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "Manipur",
+   "കള്ളമദ്യം",
+   "ആരോഗ്യഅലർട്ട്",
+   "യുവസുരക്ഷ"
+  ]
+ }
+}

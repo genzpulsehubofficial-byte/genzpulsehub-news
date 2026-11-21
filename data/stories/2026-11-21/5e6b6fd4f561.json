@@ -1,0 +1,37 @@
+{
+ "id": "5e6b6fd4f561",
+ "created": "2026-11-21T11:56:29+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump says US could hit 15% growth, cites India",
+  "hook": "The US president points to India's low rates as a growth model.",
+  "what": "In a press briefing, former President Donald Trump said the United States could achieve economic growth of around 14‑15 percent. He highlighted India's low interest rates and its 7 percent growth as examples. Trump also suggested the US could reach even higher growth if certain conditions change.",
+  "why": "For Indian youth, the comment underscores how India's economic policies are being noticed abroad and may influence future trade or investment opportunities. Keep an eye on policy debates that could affect jobs and finance.",
+  "tags": [
+   "economy",
+   "growth",
+   "India",
+   "US",
+   "interestrates"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് പറയുന്നു US‑ന് 15% വളർച്ച, ഇന്ത്യയെ ഉദാഹരണമായി",
+  "hook": "യു.എസ്. പ്രസിഡന്റ് ഇന്ത്യയുടെ കുറഞ്ഞ പലിശ നിരക്കുകൾ വളർച്ചയുടെ മാതൃകയെന്ന് പറയുന്നു.",
+  "what": "ഒരു പ്രസ്‌ബ്രിഫിംഗിൽ, ഡൊണൾഡ് ട്രംപ് യു.എസ്. 14‑15 ശതമാനം വരെയുള്ള സാമ്പത്തിക വളർച്ച കൈവരിക്കാമെന്ന് പറഞ്ഞു. ഇന്ത്യയുടെ കുറഞ്ഞ പലിശ നിരക്കുകളും 7 ശതമാനം വളർച്ചയും അദ്ദേഹം ഉദാഹരിച്ചിരിക്കുന്നു. ചില സാഹചര്യങ്ങൾ മാറിയാൽ യു.എസ്. 20 ശതമാനം വരെ വളർച്ച നേടാമെന്ന് അദ്ദേഹം സൂചിപ്പിച്ചു.",
+  "why": "ഇന്ത്യയുടെ സാമ്പത്തിക നയങ്ങൾ വിദേശത്തിൽ ശ്രദ്ധ നേടുന്നതു യുവജനങ്ങൾക്ക് തൊഴിലും നിക്ഷേപവും സംബന്ധിച്ച അവസരങ്ങൾ സൃഷ്ടിക്കാൻ ഇടയാകും. നയ ചർച്ചകളെ ശ്രദ്ധിക്കുക, അത് നിങ്ങളുടെ സാമ്പത്തിക ഭാവിയെ ബാധിക്കാം.",
+  "tags": [
+   "അർത്ഥവ്യവസ്ഥ",
+   "വളർച്ച",
+   "ഇന്ത്യ",
+   "യുഎസ്",
+   "പലിശനിരക്ക്"
+  ]
+ }
+}
