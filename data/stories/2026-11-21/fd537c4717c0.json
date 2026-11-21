@@ -1,0 +1,37 @@
+{
+ "id": "fd537c4717c0",
+ "created": "2026-11-21T15:54:25+05:30",
+ "category": "health",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/lifestyle/health/health-insurance-irdai-real-time-claim-tracking-faster-settlements-keralam-edijgind",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "IRDAI to enable real‑time health claim tracking",
+  "hook": "Instant updates on your medical claim could be coming soon.",
+  "what": "The Insurance Regulator is set to introduce live tracking for health insurance claims, standardised settlement rules and clearer explanations for rejections. The move aims to make the process more transparent.",
+  "why": "For Indian youth, faster, transparent payouts mean less hassle during emergencies; keep an eye on policy updates and check if your insurer adopts the new system.",
+  "tags": [
+   "healthinsurance",
+   "IRDAI",
+   "realTimeClaims",
+   "Kerala",
+   "youngIndia"
+  ]
+ },
+ "ml": {
+  "headline": "IRDAI-ൽ ആരോഗ്യ ക്ലെയിം റിയൽ‑ടൈം ട്രാക്കിംഗ്",
+  "hook": "നിങ്ങളുടെ മെഡിക്കൽ ക്ലെയിം ഉടൻ അപ്ഡേറ്റ് ആകാൻ സാധ്യത.",
+  "what": "ഇൻഷുറൻസ് റെഗുലേറ്റർ ആരോഗ്യ ഇൻഷുറൻസ് ക്ലെയിമുകൾക്ക് തത്സമയ ട്രാക്കിംഗ്, ഏകീകൃത സെറ്റിൽമെന്റ് മാനദണ്ഡങ്ങൾ, നിരസന കാരണങ്ങളുടെ വ്യക്തമായ വിശദീകരണം എന്നിവ കൊണ്ടുവരാൻ പദ്ധതിയിടുന്നു. ഇതിലൂടെ പ്രക്രിയ കൂടുതൽ സുതാര്യമാകും.",
+  "why": "യുവാക്കൾക്ക് വേഗതയേറിയ, സുതാര്യമായ പെയ്മെന്റ് ലഭിക്കുന്നത് അടിയന്തിര സാഹചര്യങ്ങളിൽ സഹായകരമാകും; നിങ്ങളുടെ പോളിസി അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക, നിങ്ങളുടെ ഇൻഷുറർ പുതിയ സംവിധാനം സ്വീകരിക്കുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക.",
+  "tags": [
+   "ആരോഗ്യഇൻഷുറൻസ്",
+   "IRDAI",
+   "റിയൽടൈംക്ലെയിം",
+   "കേരളം",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

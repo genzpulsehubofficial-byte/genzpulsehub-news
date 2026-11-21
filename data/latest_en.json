@@ -1,5 +1,43 @@
 [
  {
+  "id": "642c604d0984",
+  "created": "2026-11-21T15:54:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/",
+  "headline": "Haircare brand Traya posts 73% revenue rise to ₹585 cr",
+  "hook": "Your favourite hair products just helped a startup hit half‑billion rupees.",
+  "what": "Traya, a haircare startup backed by Fireside, reported revenue of ₹585 crore for FY26, a 73% increase from the previous year. Its net loss also grew by 23%.",
+  "why": "The surge reflects strong demand for grooming items among Indian youth, while the higher loss shows the challenges of rapid scaling. Watch emerging brands for future job or investment chances.",
+  "tags": [
+   "haircare",
+   "startup",
+   "revenue",
+   "India",
+   "FY26"
+  ]
+ },
+ {
+  "id": "fd537c4717c0",
+  "created": "2026-11-21T15:54:25+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/lifestyle/health/health-insurance-irdai-real-time-claim-tracking-faster-settlements-keralam-edijgind",
+  "headline": "IRDAI to enable real‑time health claim tracking",
+  "hook": "Instant updates on your medical claim could be coming soon.",
+  "what": "The Insurance Regulator is set to introduce live tracking for health insurance claims, standardised settlement rules and clearer explanations for rejections. The move aims to make the process more transparent.",
+  "why": "For Indian youth, faster, transparent payouts mean less hassle during emergencies; keep an eye on policy updates and check if your insurer adopts the new system.",
+  "tags": [
+   "healthinsurance",
+   "IRDAI",
+   "realTimeClaims",
+   "Kerala",
+   "youngIndia"
+  ]
+ },
+ {
   "id": "4be01e7fe4e8",
   "created": "2026-11-21T15:03:14+05:30",
   "category": "headlines",
@@ -709,44 +747,6 @@
    "asiaCup",
    "sports",
    "india"
-  ]
- },
- {
-  "id": "15aceaeb2bb1",
-  "created": "2026-11-21T06:53:26+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/india-says-no-change-in-its-position-on-indus-water-treaty-as-pakistan-minister-attends-sco-forum-in-delhi/article71727116.ece",
-  "headline": "India Holds Firm on Indus Water Treaty Stance",
-  "hook": "Pakistan's envoy visits Delhi but water talks stay unchanged",
-  "what": "India reaffirmed its current position on the Indus Water Treaty during the SCO forum in Delhi. The treaty has been suspended since 2025 as part of measures after the April 22 Pahalgam attack that killed 26 people.",
-  "why": "The stance affects water sharing between the two neighbours, so youths should stay aware of potential impacts on agriculture and regional stability.",
-  "tags": [
-   "IndusWater",
-   "IndiaPakistan",
-   "SCO",
-   "WaterPolicy",
-   "Youth"
-  ]
- },
- {
-  "id": "85de94c2751b",
-  "created": "2026-11-21T06:53:39+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/",
-  "headline": "Yes Bank upgrades AI safeguards, fintechs face fallout",
-  "hook": "Bank’s new AI shield is shaking up digital finance apps.",
-  "what": "Yes Bank has boosted its AI‑based security measures to fight cyber threats. The move is aimed at stopping AI‑driven attacks. Fintech platforms are experiencing unintended side effects from the tightened defenses.",
-  "why": "Young users of payment apps may notice changes or temporary glitches. Staying aware helps them handle any service hiccups.",
-  "tags": [
-   "banking",
-   "fintech",
-   "cybersecurity",
-   "AI",
-   "India"
   ]
  }
 ]

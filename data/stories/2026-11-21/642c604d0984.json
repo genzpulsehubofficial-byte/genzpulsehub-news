@@ -1,0 +1,37 @@
+{
+ "id": "642c604d0984",
+ "created": "2026-11-21T15:54:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Haircare brand Traya posts 73% revenue rise to ₹585 cr",
+  "hook": "Your favourite hair products just helped a startup hit half‑billion rupees.",
+  "what": "Traya, a haircare startup backed by Fireside, reported revenue of ₹585 crore for FY26, a 73% increase from the previous year. Its net loss also grew by 23%.",
+  "why": "The surge reflects strong demand for grooming items among Indian youth, while the higher loss shows the challenges of rapid scaling. Watch emerging brands for future job or investment chances.",
+  "tags": [
+   "haircare",
+   "startup",
+   "revenue",
+   "India",
+   "FY26"
+  ]
+ },
+ "ml": {
+  "headline": "ഹെയർകെയർ ബ്രാൻഡ് Traya 73% വരുമാന വർധനവോടെ ₹585 Cr നേടി",
+  "hook": "നിന്റെ പ്രിയപ്പെട്ട ഹെയർ പ്രോഡക്റ്റുകൾ ഒരു സ്റ്റാർട്ടപ്പിനെ അർദ്ധബില്യൺ രൂപയിൽ എത്തിച്ചു.",
+  "what": "Fireside പിന്തുണയുള്ള ഹെയർകെയർ സ്റ്റാർട്ടപ്പ് Traya FY26-ൽ ₹585 കോടി വരുമാനം നേടി, ഇത് മുൻവർഷത്തേക്കാൾ 73% ഉയർന്നു. അതേ സമയം നെറ്റ് നഷ്ടം 23% വർധിച്ചു.",
+  "why": "ഇത് ഇന്ത്യൻ യുവാക്കൾക്കിടയിൽ ഗ്രൂമിംഗ് ഉൽപ്പന്നങ്ങളുടെ ഉയർന്ന ആവശ്യത്തെ സൂചിപ്പിക്കുന്നു, പക്ഷേ നഷ്ടം വർധിക്കുന്നത് വേഗത്തിലുള്ള വളർച്ചയുടെ വെല്ലുവിളികളേയും കാണിക്കുന്നു. ഭാവിയിലെ ജോലി അല്ലെങ്കിൽ നിക്ഷേപ അവസരങ്ങൾക്ക് പുതിയ ബ്രാൻഡുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഹെയർകെയർ",
+   "സ്റ്റാർട്ടപ്പ്",
+   "റവന്യൂ",
+   "ഇന്ത്യ",
+   "FY26"
+  ]
+ }
+}
