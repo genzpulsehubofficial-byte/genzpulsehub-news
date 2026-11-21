@@ -1,0 +1,37 @@
+{
+ "id": "1644d2d9b5e3",
+ "created": "2026-11-21T21:01:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/new-age-tech-stocks-miss-market-rally-this-week-paytm-sheds-10-8/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "New‑Age Tech Stocks Lag While Paytm Drops 10.8%",
+  "hook": "Tech rally passes by, and Paytm takes a hit.",
+  "what": "Most new‑age technology shares failed to join this week’s broader market surge. Out of 69 listed, just 22 moved with the rally. Paytm’s stock fell about 10.8%.",
+  "why": "Young investors should note the uneven performance and think about diversifying. Keep an eye on market trends before betting on any single stock.",
+  "tags": [
+   "tech",
+   "stocks",
+   "paytm",
+   "market",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "ന്യൂ‑എജ് ടെക് സ്റ്റോക്കുകൾ പിന്നിൽ, പേയ്ടം 10.8% വീഴ്ച",
+  "hook": "ടെക് റാലി കടന്ന് പോയി, പേയ്ടംക്ക് വലിയ ഇടിവ്.",
+  "what": "ഈ ആഴ്ച വിപണി ഉയർന്നെങ്കിലും, പുതിയ ടെക് കമ്പനികളുടെ ഷെയറുകൾ അതിൽ ചേരാൻ പരാജയപ്പെട്ടു. 69 സ്റ്റോക്കുകളിൽ വെറും 22 മാത്രമേ ഉയർന്നതായിരുന്നുള്ളു. പേയ്ടംയുടെ വില ഏകദേശം 10.8% കുറഞ്ഞു.",
+  "why": "യുവ നിക്ഷേപകർ ടെക് സെക്ടറിലെ ഈ വ്യത്യാസം ശ്രദ്ധിച്ച്, ഒരു സ്റ്റോക്കിൽ മാത്രം ആശ്രയിക്കാതെ വൈവിധ്യമാർന്ന പോർട്ട്ഫോളിയോ പരിഗണിക്കണം. മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിച്ച് തീരുമാനമെടുക്കുക.",
+  "tags": [
+   "ടെക്",
+   "സ്റ്റോക്ക്",
+   "പേയ്ടം",
+   "മാർക്കറ്റ്",
+   "നിക്ഷേപം"
+  ]
+ }
+}

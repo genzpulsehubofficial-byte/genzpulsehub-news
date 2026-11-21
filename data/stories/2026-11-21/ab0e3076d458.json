@@ -1,0 +1,37 @@
+{
+ "id": "ab0e3076d458",
+ "created": "2026-11-21T21:01:13+05:30",
+ "category": "headlines",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Alaska governor-elect edited Wikipedia over 13,000 times",
+  "hook": "A future leader’s secret hobby is massive Wikipedia editing.",
+  "what": "Jonathan Kreiss‑Tomkins, who will become Alaska’s governor, has contributed more than 13,000 edits to Wikipedia. The edits span a range of topics.",
+  "why": "It shows how digital participation can shape a public profile. Teens can learn the impact of responsible online contributions.",
+  "tags": [
+   "alaska",
+   "wikipedia",
+   "politics",
+   "youth",
+   "digital"
+  ]
+ },
+ "ml": {
+  "headline": "അലാസ്കയുടെ പുതിയ ഗവർണർ വിക്കിപീഡിയയിൽ 13,000+ തിരുത്തലുകൾ",
+  "hook": "ഭാവി നേതാവിന്റെ രഹസ്യ ഹോബി: വിക്കിപീഡിയയിൽ വൻ എഡിറ്റുകൾ.",
+  "what": "അലാസ്കയുടെ ഗവർണർ‑എലക്ട് ജോനാഥൻ ക്രെയ്സ്‑ടോംകിൻസ് 13,000‑ത്തിലധികം വിക്കിപീഡിയ തിരുത്തലുകൾ നടത്തിയിട്ടുണ്ട്. ഈ തിരുത്തലുകൾ വിവിധ വിഷയങ്ങളിലായി വ്യാപിച്ചു.",
+  "why": "ഡിജിറ്റൽ പങ്കാളിത്തം വ്യക്തിയുടെ ചിത്രം രൂപപ്പെടുത്തുന്നതിൽ എത്രത്തോളം സ്വാധീനം ചെലുത്തുന്നു എന്ന് ഇത് കാണിക്കുന്നു. യുവാക്കൾക്ക് ഉത്തരവാദിത്തപൂർവ്വം ഓൺലൈൻ സംഭാവനകൾ ചെയ്യാൻ പ്രചോദനം നൽകാം.",
+  "tags": [
+   "alaska",
+   "wikipedia",
+   "politics",
+   "youth",
+   "digital"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "5ec8c3f43907",
+ "created": "2026-11-21T21:00:30+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/melpadam-chundan-clinches-12th-presidents-trophy-champions-boat-league-title-in-photo-finish/article71728615.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Melpadam Chundan wins President’s Trophy in photo finish",
+  "hook": "A razor‑thin margin decided Kerala’s biggest boat race.",
+  "what": "Melpadam Chundan completed the President’s Trophy race in 3 minutes 42.476 seconds, just ahead of Punnyalan Niranam Chundan from Kumarakom Town Boat Club, which recorded 3 minutes 42.748 seconds. The victory also handed the Champions Boat League title to Melpadam.",
+  "why": "The close finish showcases the thrill of Kerala’s traditional boat festivals, encouraging youngsters to support or get involved in local sports. Keep an eye on upcoming races for more action.",
+  "tags": [
+   "boatrace",
+   "kerala",
+   "sports",
+   "championsboatleague",
+   "presidentstrophy"
+  ]
+ },
+ "ml": {
+  "headline": "മെല്‍പടം ചുണ്ടന്‍ ഫോട്ടോ ഫിനിഷില്‍ പ്രസിഡന്റ് ട്രോഫി നേടി",
+  "hook": "കുറഞ്ഞ സമയം കൊണ്ട് കേരളത്തിലെ വലിയ ബോട്ട് റേസ് നിശ്ചയമായി.",
+  "what": "മെല്‍പടം ചുണ്ടന്‍ 3 മിനിറ്റ് 42.476 സെക്കന്‍ഡില്‍ പ്രസിഡന്റ് ട്രോഫി റേസ് പൂര്‍ത്തിയാക്കി, കുമാരകം ടൗണ്‍ ബോട്ട് ക്ലബ്ബിന്റെ പുണ്ണ്യാലന്‍ നിരണം ചുണ്ടന്‍ 3 മിനിറ്റ് 42.748 സെക്കന്‍ഡില്‍ രണ്ടാം സ്ഥാനത്ത് എത്തി. ഈ വിജയം മെല്‍പടം ചുണ്ടന്‍ ചാമ്പ്യന്‍സ് ബോട്ട് ലീഗ് ശീർഷകവും ഉറപ്പാക്കി.",
+  "why": "ഇത്തരം കടുത്ത മത്സരം കേരളത്തിന്റെ പരമ്പരാഗത ബോട്ട് ഉത്സവങ്ങളുടെ ആവേശം കാണിക്കുന്നു, യുവാക്കളെ ഈ സ്പോര്‍ട് പിന്തുടരാന്‍ അല്ലെങ്കില്‍ പങ്കെടുക്കാന്‍ പ്രോത്സാഹിപ്പിക്കുന്നു. അടുത്ത റേസുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ബോട്ട്റേസ്",
+   "കേരളം",
+   "സ്പോര്‍ട്ട്",
+   "ചാമ്പ്യന്‍സ്‌ബോട്ട്‌ലീഗ്",
+   "പ്രസിഡന്റ്സ്ട്രോഫി"
+  ]
+ }
+}

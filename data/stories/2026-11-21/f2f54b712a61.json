@@ -1,0 +1,37 @@
+{
+ "id": "f2f54b712a61",
+ "created": "2026-11-21T21:01:16+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV Profit",
+ "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3FLVjRka0FVaTlKSzlwMnZuZUZEaGpaR0tzOXM0UHNldDk0Mzh6RVkxdDJ3TEh3QmExY1ZPMlM5bWdZcE1zQ2kySHRFYXlpOFI3X1lUaGdLN05ENERzbTZEeXNVWDVSNEdMaXAxLTBfWUU5dlVBb1J6NDc5Y25RdTlXUWx0ZnZFeUR0aWRlc1VXdkRnQnJoWHNRRXVSODZ1dllYb1J3ZDFkbUVKTjVkWkRZNnd5SXZ2bGl3bUo1XzFXTXBkOTNZ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kaviya Maran Sends Gold Rings and Chocolates to Staff",
+  "hook": "She’s sharing her wedding joy with the whole Sun Group team.",
+  "what": "After marrying singer Anirudh Ravichander in Greece, Kaviya Maran presented gold rings, chocolates and wedding invitations to Sun Group employees. The gesture was shown in a video that went viral.",
+  "why": "It shows how Indian companies celebrate personal milestones, encouraging a close‑knit workplace culture. Young workers can see such gestures as a sign of employee appreciation.",
+  "tags": [
+   "KaviyaMaran",
+   "SunGroup",
+   "WeddingGifts",
+   "EmployeeAppreciation",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "കാവ്യാ മരൻ സ്റ്റാഫിന് ഗോൾഡ് റിംഗുകളും ചോക്ലേറ്റും അയച്ചു",
+  "hook": "ഗ്രീസിൽ വിവാഹം കഴിച്ച ശേഷം, സൺ ഗ്രൂപ്പ് ടീമിനോട് സന്തോഷം പങ്കുവെയ്ക്കുന്നു.",
+  "what": "ഗായകൻ അനിരുദ്ധ് രവിച്ചന്ദ്രനുമായി ഗ്രീസിൽ വിവാഹം കഴിച്ച ശേഷം, കാവ്യാ മരൻ സൺ ഗ്രൂപ്പ് ജീവനക്കാർക്ക് ഗോൾഡ് റിംഗുകൾ, ചോക്ലേറ്റ്, വിവാഹ ക്ഷണം എന്നിവ നൽകി. ഈ സമ്മാനം വീഡിയോയിൽ കാണപ്പെട്ടു.",
+  "why": "ഇത് ഇന്ത്യയിലെ കമ്പനികൾ വ്യക്തിഗത ആഘോഷങ്ങൾ എങ്ങനെ ആഘോഷിക്കുന്നുവെന്ന് കാണിക്കുന്നു, യുവ തൊഴിലാളികൾക്ക് ജീവനക്കാരുടെ അംഗീകാരത്തിന്റെ ഉദാഹരണമായി.",
+  "tags": [
+   "KaviyaMaran",
+   "SunGroup",
+   "WeddingGifts",
+   "EmployeeAppreciation",
+   "GenZ"
+  ]
+ }
+}

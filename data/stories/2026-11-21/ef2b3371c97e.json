@@ -1,0 +1,37 @@
+{
+ "id": "ef2b3371c97e",
+ "created": "2026-11-21T21:01:11+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/dri-seizes-298-kgs-of-foreign-origin-gold-worth-383-crore-two-arrested/article71728875.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "DRI confiscates nearly 3 kg foreign gold, arrests two",
+  "hook": "Got gold? The crackdown just hit a big stash.",
+  "what": "The Directorate of Revenue Intelligence recovered 2.98 kilograms of gold that came from abroad, valued at about ₹3.83 crore. The seizure was made during an operation, and two suspects were taken into custody.",
+  "why": "It shows strict action against illegal gold smuggling, which can influence market prices and taxes. Make sure you buy gold only from legal sources.",
+  "tags": [
+   "gold",
+   "seizure",
+   "DRI",
+   "law",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "DRI 3 kg വിദേശ സ്വർണം പിടിച്ചു, രണ്ട് ആളുകൾക്ക് അറസ്റ്റു",
+  "hook": "സ്വർണം വാങ്ങാൻ ആലോചിക്കുന്നുണ്ടോ? വലിയ പിടിത്തം ഇതാ!",
+  "what": "Revenue Intelligence ഡയറക്ടറേറ്റ് (DRI) 2.98 കിലോഗ്രാം വിദേശം നിന്നുള്ള സ്വർണം, ഏകദേശം ₹3.83 കോടി മൂല്യമുള്ളത്, പിടിച്ചെടുത്തു. ഈ പ്രവർത്തനത്തിൽ രണ്ട് സംശയിതാക്കളെ അറസ്റ്റു ചെയ്തു.",
+  "why": "ഇത് സ്വർണം കടത്തുമാറ്റംക്കെതിരായ കടുത്ത നടപടികളെ കാണിക്കുന്നു, വിലയും നികുതിയും ബാധിക്കാം. നിയമാനുസൃത മാർഗം ഉപയോഗിച്ച് സ്വർണം വാങ്ങുക.",
+  "tags": [
+   "സ്വർണം",
+   "പിടിത്തം",
+   "DRI",
+   "നിയമം",
+   "ഇന്ത്യ"
+  ]
+ }
+}
