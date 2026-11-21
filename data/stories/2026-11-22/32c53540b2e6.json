@@ -1,0 +1,37 @@
+{
+ "id": "32c53540b2e6",
+ "created": "2026-11-22T00:10:12+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Forbes",
+ "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkgtSGlxa0dldW9UZjhlVnQwVzNReUVmaC13NkFtbG9WMTFjdGtaVERYazlvYnlkZEFtRF83SkxpdURaVXJYVjBfOEZrUXhfOXdCR29zS1JGTDR5QVBONmFXUWlxR0ZHa1ZnMGJhQ2NFUjcyaklodW0tQkJDcjFtdXJuakZfU0czRFUteF8xaG1ETnpQZHJ6Ry12a1FGbFVoZWF3RDl4b2x1UQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 faces review bomb on Metacritic amid crash complaints",
+  "hook": "Fans are flooding Metacritic with low scores over PS5 glitches.",
+  "what": "Players of Grand Theft Auto VI have posted many low user ratings on Metacritic. The influx follows reports of game‑breaking crashes and repetitive errands on the PS5 version. Critics still hold a high score of 99.",
+  "why": "If you plan to buy GTA 6, check both critic and user reviews to see if the technical issues affect you. Waiting for patches may improve the experience.",
+  "tags": [
+   "GTA6",
+   "Metacritic",
+   "PS5",
+   "gaming",
+   "reviewbomb"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6‑ന് മെറ്റാക്രിട്ടിക്കില്‍ റിവ്യൂ ബോംബിംഗ്, ക്രാഷ് പരാതികള്‍",
+  "hook": "ഫാന്‍സ്‌മാര്‍ PS5‑ല്‍ ക്രാഷ് പ്രശ്നങ്ങളാല്‍ കുറഞ്ഞ സ്കോര്‍ നല്‍കി.",
+  "what": "Grand Theft Auto VI കളിക്കാര്‍ മെറ്റാക്രിട്ടിക്കില്‍ നിരവധി കുറഞ്ഞ ഉപയോക്തൃ റേറ്റിംഗ് നല്‍കി. ഇത് PS5 പതിപ്പില്‍ ഗെയിം ക്രാഷുകളും ആവര്‍ത്തനമുള്ള errands‑കളും സംബന്ധിച്ച പരാതികളാല്‍ ഉളവായി. വിമര്‍ശകര്‍ 99 എന്ന ഉയർന്ന സ്കോര്‍ നല്‍കിയിട്ടുണ്ട്.",
+  "why": "GTA 6 വാങ്ങാന്‍ ആലോചിക്കുന്നവര്‍ വിമര്‍ശകരുടെയും ഉപയോക്താക്കളുടെയും അഭിപ്രായം പരിശോധിച്ച്, സാങ്കേതിക പ്രശ്നങ്ങള്‍ നിങ്ങളെ ബാധിക്കുമോ എന്ന് വിലയിരുത്തണം. പാച്ചുകള്‍ വരുന്നത് വരെ കാത്തിരിക്കാം.",
+  "tags": [
+   "GTA6",
+   "Metacritic",
+   "PS5",
+   "gaming",
+   "reviewbomb"
+  ]
+ }
+}

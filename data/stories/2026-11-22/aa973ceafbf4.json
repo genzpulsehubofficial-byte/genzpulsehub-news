@@ -1,0 +1,35 @@
+{
+ "id": "aa973ceafbf4",
+ "created": "2026-11-22T00:10:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tripura/mha-sanctions-more-central-forces-for-tripura-municipal-elections/article71729425.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "MHA deploys extra central forces for Tripura polls",
+  "hook": "More security troops are on the way for Tripura's municipal voting.",
+  "what": "The Ministry of Home Affairs has approved the deployment of additional central security personnel for the upcoming municipal elections in Tripura. The move aims to bolster law and order during the voting process.",
+  "why": "A smoother, safer election helps maintain democratic stability, which impacts everyone's future. Stay informed about local voting dates and follow safety guidelines.",
+  "tags": [
+   "Tripura",
+   "elections",
+   "security",
+   "MHA"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രിപുരാ മുനിസിപ്പൽ വോട്ടിനായി MHA അധിക കേന്ദ്ര സേന വിന്യസിച്ചു",
+  "hook": "ട്രിപുരാ മുനിസിപ്പൽ വോട്ടിന് കൂടുതൽ സുരക്ഷാ സേന എത്തുന്നു.",
+  "what": "മന്ത്രിസഭയുടെ ആഭ്യന്തരകാര്യ വകുപ്പ് ട്രിപുരയിലെ മുനിസിപ്പൽ തിരഞ്ഞെടുപ്പിനായി അധിക കേന്ദ്ര സേന വിന്യസിക്കാൻ അനുമതി നൽകി. വോട്ടിംഗ് സമയത്ത് നിയമവും ക്രമവും ഉറപ്പാക്കുകയാണ് ലക്ഷ്യം.",
+  "why": "സുരക്ഷിതമായ തിരഞ്ഞെടുപ്പ് ജനാധിപത്യത്തെ ശക്തിപ്പെടുത്തുന്നു, അത് എല്ലാവർക്കും ബാധകമാണ്. തിരഞ്ഞെടുപ്പ് തീയതികളിൽ ശ്രദ്ധിക്കുക, സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ട്രിപുരാ",
+   "തിരഞ്ഞെടുപ്പ്",
+   "സുരക്ഷ",
+   "MHA"
+  ]
+ }
+}

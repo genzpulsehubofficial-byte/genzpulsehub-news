@@ -1,0 +1,37 @@
+{
+ "id": "ee235d6db08f",
+ "created": "2026-11-22T00:10:01+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmpVeWFEN21jVng4YTAzQUdPbkdXUy1ZVlB5VUpkbjRXX2Fjc2RmVXN5UndRajZsM3VXTWx4QWpmMWRVUXA5Y3VaSi1iQU5zQzRpRWZuNm5vM3JxMEVLVWxSLUJiWmU3Uy1HUURDNVdTNzVrMlBpck5aQy13Z1ZQYzY1TmpDcVRUWE93?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Australia clinches T20I win over England at MCG",
+  "hook": "A nail‑biting finish sees Aussie youngsters lift the trophy chase",
+  "what": "Australia defeated England in the opening T20 International of a five‑match series at the Melbourne Cricket Ground. Nikhil Chaudhary and Aaron Edwards played key roles in the final over, securing a record run chase. The victory gave Australia a 1‑0 series lead.",
+  "why": "The win revives Aussie momentum after a tough week and highlights emerging talent that Indian fans can watch. Follow the series for more exciting cricket action.",
+  "tags": [
+   "cricket",
+   "T20",
+   "Australia",
+   "England",
+   "MCG"
+  ]
+ },
+ "ml": {
+  "headline": "ഓസ്‌ട്രേലിയ MCG-യിൽ ഇംഗ്ലണ്ടിനെ T20I-യിൽ തോൽപ്പിച്ചു",
+  "hook": "അവസാന ഓവറിൽ യുവ താരങ്ങൾ സീരീസ് ചാമ്പ്യൻഷിപ്പ് ഉറപ്പിച്ചു",
+  "what": "മെൽബൺ ക്രിക്കറ്റ് ഗ്രൗണ്ടിൽ അഞ്ചു മത്സരങ്ങളുള്ള സീരീസിന്റെ ആദ്യ T20 അന്തർദേശീയത്തിൽ ഓസ്‌ട്രേലിയ ഇംഗ്ലണ്ടിനെ പരാജയപ്പെടുത്തി. നിഖിൽ ചൗധറി, ആരൺ എഡ്വേഡ്സ് അവസാന ഓവറിൽ പ്രധാന പങ്ക് വഹിച്ച് റെക്കോർഡ് റൺ ചേസ് നേടി. ഈ വിജയം 1‑0 സീരീസ് ലീഡ് നൽകി.",
+  "why": "കഠിനമായ ആഴ്ചയ്ക്ക് ശേഷം ഓസ്‌ട്രേലിയയുടെ ആത്മവിശ്വാസം ഉയർത്തി, പുതിയ താരങ്ങളിലെ പ്രകടനം ഇന്ത്യൻ ക്രിക്കറ്റ് ആരാധകർക്ക് ശ്രദ്ധേയമാണ്. സീരീസ് തുടർന്നും കാണാൻ മറക്കരുത്.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T20",
+   "ഓസ്‌ട്രേലിയ",
+   "ഇംഗ്ലണ്ട്",
+   "MCG"
+  ]
+ }
+}

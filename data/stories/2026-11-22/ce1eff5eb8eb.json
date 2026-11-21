@@ -1,0 +1,37 @@
+{
+ "id": "ce1eff5eb8eb",
+ "created": "2026-11-22T00:10:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/india-not-a-rogue-state-wangchuk-slams-administration-over-house-arrest-says-police-deployment-outside-home-withdrawn-after-court-plea-101795273631177.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Wangchuk Calls Police Action Unjust, Court Pulls Back Guard",
+  "hook": "A protest leader says his freedom was curbed, but courts stepped in.",
+  "what": "Wangchuk said the police presence outside his house was illegal and likened it to house arrest. After he appealed to the court, the authorities withdrew the deployment.",
+  "why": "It shows that legal channels can challenge state actions, reminding young Indians to know their rights and seek court help if faced with similar restrictions.",
+  "tags": [
+   "Wangchuk",
+   "court",
+   "police",
+   "rights",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "വാങ്ചുക് പോലീസ് നടപടി അന്യായം എന്ന് ആരോപിച്ചു, കോടതി ഗാര്‍ഡുകള്‍ പിൻവലിച്ചു",
+  "hook": "ഒരു പ്രക്ഷോഭ നേതാവ് സ്വാതന്ത്ര്യം ചുരുക്കപ്പെട്ടതായി പറയുന്നു, കോടതി ഇടപെട്ടു.",
+  "what": "വാങ്ചുക് പോലീസ് അദ്ദേഹത്തിന്റെ വീട്ടിന് പുറത്തുള്ള സാന്നിധ്യം നിയമവിരുദ്ധമാണെന്ന്, വീട്ടിലാക്കലിനോട് സമാനമാണെന്ന് ആരോപിച്ചു. കോടതി അപേക്ഷ സ്വീകരിച്ച്, പോലീസ് ഗാര്‍ഡ് പിൻവലിച്ചു.",
+  "why": "ഇത് സംസ്ഥാന നടപടികളെ നിയമപരമായി ചോദ്യം ചെയ്യാൻ കോടതിയുടെ പങ്ക് കാണിക്കുന്നു, യുവാക്കൾക്ക് അവരുടെ അവകാശങ്ങൾ അറിയാനും ആവശ്യമെങ്കിൽ നിയമ സഹായം തേടാനും പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "വാങ്ചുക്",
+   "കോടതി",
+   "പോലീസ്",
+   "അവകാശം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

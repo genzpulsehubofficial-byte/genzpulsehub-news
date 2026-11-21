@@ -1,5 +1,118 @@
 [
  {
+  "id": "ee235d6db08f",
+  "created": "2026-11-22T00:10:01+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmpVeWFEN21jVng4YTAzQUdPbkdXUy1ZVlB5VUpkbjRXX2Fjc2RmVXN5UndRajZsM3VXTWx4QWpmMWRVUXA5Y3VaSi1iQU5zQzRpRWZuNm5vM3JxMEVLVWxSLUJiWmU3Uy1HUURDNVdTNzVrMlBpck5aQy13Z1ZQYzY1TmpDcVRUWE93?oc=5",
+  "headline": "ഓസ്‌ട്രേലിയ MCG-യിൽ ഇംഗ്ലണ്ടിനെ T20I-യിൽ തോൽപ്പിച്ചു",
+  "hook": "അവസാന ഓവറിൽ യുവ താരങ്ങൾ സീരീസ് ചാമ്പ്യൻഷിപ്പ് ഉറപ്പിച്ചു",
+  "what": "മെൽബൺ ക്രിക്കറ്റ് ഗ്രൗണ്ടിൽ അഞ്ചു മത്സരങ്ങളുള്ള സീരീസിന്റെ ആദ്യ T20 അന്തർദേശീയത്തിൽ ഓസ്‌ട്രേലിയ ഇംഗ്ലണ്ടിനെ പരാജയപ്പെടുത്തി. നിഖിൽ ചൗധറി, ആരൺ എഡ്വേഡ്സ് അവസാന ഓവറിൽ പ്രധാന പങ്ക് വഹിച്ച് റെക്കോർഡ് റൺ ചേസ് നേടി. ഈ വിജയം 1‑0 സീരീസ് ലീഡ് നൽകി.",
+  "why": "കഠിനമായ ആഴ്ചയ്ക്ക് ശേഷം ഓസ്‌ട്രേലിയയുടെ ആത്മവിശ്വാസം ഉയർത്തി, പുതിയ താരങ്ങളിലെ പ്രകടനം ഇന്ത്യൻ ക്രിക്കറ്റ് ആരാധകർക്ക് ശ്രദ്ധേയമാണ്. സീരീസ് തുടർന്നും കാണാൻ മറക്കരുത്.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "T20",
+   "ഓസ്‌ട്രേലിയ",
+   "ഇംഗ്ലണ്ട്",
+   "MCG"
+  ]
+ },
+ {
+  "id": "ce1eff5eb8eb",
+  "created": "2026-11-22T00:10:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/india-not-a-rogue-state-wangchuk-slams-administration-over-house-arrest-says-police-deployment-outside-home-withdrawn-after-court-plea-101795273631177.html",
+  "headline": "വാങ്ചുക് പോലീസ് നടപടി അന്യായം എന്ന് ആരോപിച്ചു, കോടതി ഗാര്‍ഡുകള്‍ പിൻവലിച്ചു",
+  "hook": "ഒരു പ്രക്ഷോഭ നേതാവ് സ്വാതന്ത്ര്യം ചുരുക്കപ്പെട്ടതായി പറയുന്നു, കോടതി ഇടപെട്ടു.",
+  "what": "വാങ്ചുക് പോലീസ് അദ്ദേഹത്തിന്റെ വീട്ടിന് പുറത്തുള്ള സാന്നിധ്യം നിയമവിരുദ്ധമാണെന്ന്, വീട്ടിലാക്കലിനോട് സമാനമാണെന്ന് ആരോപിച്ചു. കോടതി അപേക്ഷ സ്വീകരിച്ച്, പോലീസ് ഗാര്‍ഡ് പിൻവലിച്ചു.",
+  "why": "ഇത് സംസ്ഥാന നടപടികളെ നിയമപരമായി ചോദ്യം ചെയ്യാൻ കോടതിയുടെ പങ്ക് കാണിക്കുന്നു, യുവാക്കൾക്ക് അവരുടെ അവകാശങ്ങൾ അറിയാനും ആവശ്യമെങ്കിൽ നിയമ സഹായം തേടാനും പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "വാങ്ചുക്",
+   "കോടതി",
+   "പോലീസ്",
+   "അവകാശം",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "aa973ceafbf4",
+  "created": "2026-11-22T00:10:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tripura/mha-sanctions-more-central-forces-for-tripura-municipal-elections/article71729425.ece",
+  "headline": "ട്രിപുരാ മുനിസിപ്പൽ വോട്ടിനായി MHA അധിക കേന്ദ്ര സേന വിന്യസിച്ചു",
+  "hook": "ട്രിപുരാ മുനിസിപ്പൽ വോട്ടിന് കൂടുതൽ സുരക്ഷാ സേന എത്തുന്നു.",
+  "what": "മന്ത്രിസഭയുടെ ആഭ്യന്തരകാര്യ വകുപ്പ് ട്രിപുരയിലെ മുനിസിപ്പൽ തിരഞ്ഞെടുപ്പിനായി അധിക കേന്ദ്ര സേന വിന്യസിക്കാൻ അനുമതി നൽകി. വോട്ടിംഗ് സമയത്ത് നിയമവും ക്രമവും ഉറപ്പാക്കുകയാണ് ലക്ഷ്യം.",
+  "why": "സുരക്ഷിതമായ തിരഞ്ഞെടുപ്പ് ജനാധിപത്യത്തെ ശക്തിപ്പെടുത്തുന്നു, അത് എല്ലാവർക്കും ബാധകമാണ്. തിരഞ്ഞെടുപ്പ് തീയതികളിൽ ശ്രദ്ധിക്കുക, സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ട്രിപുരാ",
+   "തിരഞ്ഞെടുപ്പ്",
+   "സുരക്ഷ",
+   "MHA"
+  ]
+ },
+ {
+  "id": "75638ba7b352",
+  "created": "2026-11-22T00:10:07+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+  "headline": "‘Aakasamlo Oka Tara’ ന് രണ്ടാം ദിവസം സ്ഥിരതയുള്ള ബോക്സ് ഓഫീസ്",
+  "hook": "ടെലുങ്കു ഡ്രാമാ ഡെബ്യൂക്ക് ശേഷം ചർച്ചകളിൽ തുടർച്ച.",
+  "what": "ദുൾക്കർ സൽമാനും സത്വികാ വീരവല്ലിയും അഭിനയിച്ച ചിത്രം രണ്ടാം ദിവസം ബോക്സ് ഓഫീസ് വരുമാനം നേടി. നിരൂപകർ അതിന്റെ പ്രത്യാശാ തീം, പ്രകടനങ്ങൾ എന്നിവയെ പ്രശംസിച്ചു.",
+  "why": "യുവജനങ്ങൾക്ക് ഈ സിനിമ പോസിറ്റീവ് വേഡ്‑ഓഫ്‑മൗത്ത് സൃഷ്ടിക്കുന്നു, വാരാന്ത്യത്തിൽ കാണാൻ നല്ലൊരു ഓപ്ഷൻ, പ്രത്യേകിച്ച് പ്രഭാസ് പിന്തുണയോടെ.",
+  "tags": [
+   "AakasamloOkaTara",
+   "TeluguCinema",
+   "DulquerSalmaan",
+   "BoxOffice",
+   "MovieReviews"
+  ]
+ },
+ {
+  "id": "c7d86839c836",
+  "created": "2026-11-22T00:10:09+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZYlZZMGhuOUUyWWZQUjJ4bTdfbWZoMWEtbVphVThzeXUtOGJkaGNCc1g5ZzRUNjVhWVBFNUQwMDVMUUxsMkMwaHdMN3Q1NWZFZ051YjZvVnZHeDNGUXhlTzBEMFAwZw?oc=5",
+  "headline": "Alcaraz‑ന് Shelton‑നെ തോല്‍പ്പിച്ച് ATP Finals ഫൈനലില്‍ പ്രവേശനം",
+  "hook": "സ്പെയിനിന്റെ യുവ ടെന്നിസ് താരമാര്‍ സീസണ്‍ അവസാന മത്സരത്തില്‍ സ്ഥാനം ഉറപ്പിച്ചു",
+  "what": "Carlos Alcaraz Ben Shelton‑നെ Nitto ATP Finals‑ല്‍ പരാജയപ്പെടുത്തി, ഫൈനലില്‍ മത്സരിക്കാന്‍ യോഗ്യത നേടി. വിജയമുണ്ടായത് നിര്‍ണായക ടൈ‑ബ്രേക്കില്‍.",
+  "why": "ഫൈനലില്‍ എത്തുന്നത് അവന്റെ റാങ്കിംഗ് ഉയര്‍ത്തുകയും, ഇന്ത്യയിലെ യുവ കളിക്കാര്‍ക്ക് പ്രചോദനം നല്‍കുകയും ചെയ്യും.",
+  "tags": [
+   "ATP",
+   "ടെന്നിസ്",
+   "Alcaraz",
+   "Shelton",
+   "ഫൈനല്‍"
+  ]
+ },
+ {
+  "id": "32c53540b2e6",
+  "created": "2026-11-22T00:10:12+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Forbes",
+  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkgtSGlxa0dldW9UZjhlVnQwVzNReUVmaC13NkFtbG9WMTFjdGtaVERYazlvYnlkZEFtRF83SkxpdURaVXJYVjBfOEZrUXhfOXdCR29zS1JGTDR5QVBONmFXUWlxR0ZHa1ZnMGJhQ2NFUjcyaklodW0tQkJDcjFtdXJuakZfU0czRFUteF8xaG1ETnpQZHJ6Ry12a1FGbFVoZWF3RDl4b2x1UQ?oc=5",
+  "headline": "GTA 6‑ന് മെറ്റാക്രിട്ടിക്കില്‍ റിവ്യൂ ബോംബിംഗ്, ക്രാഷ് പരാതികള്‍",
+  "hook": "ഫാന്‍സ്‌മാര്‍ PS5‑ല്‍ ക്രാഷ് പ്രശ്നങ്ങളാല്‍ കുറഞ്ഞ സ്കോര്‍ നല്‍കി.",
+  "what": "Grand Theft Auto VI കളിക്കാര്‍ മെറ്റാക്രിട്ടിക്കില്‍ നിരവധി കുറഞ്ഞ ഉപയോക്തൃ റേറ്റിംഗ് നല്‍കി. ഇത് PS5 പതിപ്പില്‍ ഗെയിം ക്രാഷുകളും ആവര്‍ത്തനമുള്ള errands‑കളും സംബന്ധിച്ച പരാതികളാല്‍ ഉളവായി. വിമര്‍ശകര്‍ 99 എന്ന ഉയർന്ന സ്കോര്‍ നല്‍കിയിട്ടുണ്ട്.",
+  "why": "GTA 6 വാങ്ങാന്‍ ആലോചിക്കുന്നവര്‍ വിമര്‍ശകരുടെയും ഉപയോക്താക്കളുടെയും അഭിപ്രായം പരിശോധിച്ച്, സാങ്കേതിക പ്രശ്നങ്ങള്‍ നിങ്ങളെ ബാധിക്കുമോ എന്ന് വിലയിരുത്തണം. പാച്ചുകള്‍ വരുന്നത് വരെ കാത്തിരിക്കാം.",
+  "tags": [
+   "GTA6",
+   "Metacritic",
+   "PS5",
+   "gaming",
+   "reviewbomb"
+  ]
+ },
+ {
   "id": "235be75ad87e",
   "created": "2026-11-21T23:27:29+05:30",
   "category": "headlines",
@@ -641,118 +754,6 @@
    "മൊബൈൽഹാക്ക്",
    "പണം",
    "ഗાંધીનગર"
-  ]
- },
- {
-  "id": "daba1496cc06",
-  "created": "2026-11-21T17:30:46+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/kozhikode-diet-launches-munnettu-to-bridge-academic-gap-among-tribal-students/article71727687.ece",
-  "headline": "കോഴിക്കോട് DIET ട്രൈബല്‍ വിദ്യാർത്ഥികൾക്കായി മുന്നേറ്റ് ആരംഭിച്ചു",
-  "hook": "ട്രൈബല്‍ കുട്ടികളിലെ പഠനവ്യത്യാസം കുറയ്ക്കാൻ പുതിയ പദ്ധതി.",
-  "what": "കോഴിക്കോട് DIET ട്രൈബല്‍ വിദ്യാർത്ഥികളെ ലക്ഷ്യമാക്കി മുന്നേറ്റ് എന്ന പദ്ധതി ആരംഭിച്ചു. വിദ്യാഭ്യാസത്തിന്റെ ഗുണനിലവാരം ഉയർത്താനും അകാദമിക് അല്ലാത്ത പ്രവർത്തനങ്ങളിൽ പങ്കെടുപ്പിക്കാനും പ്രവർത്തനപദ്ധതികൾ രൂപപ്പെടുത്തുകയും നടപ്പിലാക്കുകയും ചെയ്യുന്നു.",
-  "why": "ട്രൈബല്‍ യുവാക്കൾക്ക് മെച്ചപ്പെട്ട അവസരങ്ങൾ ലഭിക്കാൻ വിദ്യാഭ്യാസം മെച്ചപ്പെടുത്തുന്നത് പ്രധാനമാണ്. ഇത്തരം പ്രാദേശിക പദ്ധതികളെക്കുറിച്ച് അറിഞ്ഞ് പങ്കാളിത്തം പ്രോത്സാഹിപ്പിക്കുക.",
-  "tags": [
-   "കോഴിക്കോട്",
-   "ജനവിഭാഗം",
-   "മുന്നേറ്റ്",
-   "കേരളം"
-  ]
- },
- {
-  "id": "0e11ef33f9c2",
-  "created": "2026-11-21T17:30:50+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Washington Post",
-  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
-  "headline": "ടീന്‍സ്‌ GTA 6 കളിക്കാൻ ആഗ്രഹം, മാതാപിതാക്കൾക്ക് തീരുമാനമുണ്ട്",
-  "hook": "നിങ്ങളുടെ കുട്ടിയുടെ അടുത്ത ഗെയിം കുടുംബ ചർച്ചക്ക് കാരണമാകാം.",
-  "what": "പല കൗമാരക്കാരും ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ 6 കളിക്കാൻ ആഗ്രഹിക്കുന്നു. ഇതിനെക്കുറിച്ച് മാതാപിതാക്കൾക്ക് തീരുമാനമെടുക്കേണ്ടി വരുന്നു. ഒരു സ്കൂൾ, ഗെയിമിനായി ക്ലാസുകൾ ഒഴിവാക്കാതിരിക്കാൻ വിദ്യാർത്ഥികളെ പ്രോത്സാഹിപ്പിക്കാൻ വരയ്ക്കൽ മത്സരമൊരുക്കി.",
-  "why": "ഗെയിമിംഗ് സമയം, പഠന മുൻഗണനകൾ എന്നിവയിൽ കുടുംബം വ്യക്തമായ മാർഗ്ഗനിർദ്ദേശം നിശ്ചയിക്കാൻ ഇത് സഹായിക്കും.",
-  "tags": [
-   "gaming",
-   "parents",
-   "teens",
-   "GTA6"
-  ]
- },
- {
-  "id": "7dd75dd63e17",
-  "created": "2026-11-21T17:30:52+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
-  "headline": "Fi Money FY26 നഷ്ടം 25% കുറച്ചു, വരുമാനം 21% ഇടിഞ്ഞു",
-  "hook": "ഡിജിറ്റൽ ഫിനാൻസ് മേഖലയിലെ ഈ ഇടിവ് യുവ നിക്ഷേപകരെ ബാധിക്കും.",
-  "what": "Fintech സ്റ്റാർട്ടപ്പ് Fi Money FY26-ലെ സംയോജിത നെറ്റ് നഷ്ടം 25% കുറച്ച് ₹153.3 കോടി ആയി. അതേ സമയം, വരുമാനം 21% കുറഞ്ഞു.",
-  "why": "ഇത് ഡിജിറ്റൽ ഫിനാൻസ് കമ്പനികളുടെ മാർക്കറ്റ് സമ്മർദ്ദം കാണിക്കുന്നു, ജോലിയും നിക്ഷേപവും ആലോചിക്കുന്ന യുവാക്കൾക്ക് ശ്രദ്ധിക്കേണ്ടതാണ്.",
-  "tags": [
-   "Fintech",
-   "LossReduction",
-   "RevenueDrop",
-   "Startup",
-   "India"
-  ]
- },
- {
-  "id": "0dea74719c11",
-  "created": "2026-11-21T16:45:04+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/padmajas-bjp-exit-reopens-old-wounds-in-congress/article71724444.ece",
-  "headline": "പദ്മജയുടെ ബി.ജെ.പി. രാജി, കേരള രാഷ്ട്രീയത്തിൽ പുതിയ ചർച്ച",
-  "hook": "അപ്രതീക്ഷിത വിടവ് പഴയ പാർട്ടി സംഘർഷം ഉണർത്തി.",
-  "what": "പദ്മജാ വ്യക്തിഗത കാരണങ്ങളാൽ ബി.ജെ.പി. വിടപ്പെട്ടു. ഈ രാജി ദുഃഖകരം എന്ന് പാർട്ടി പറഞ്ഞു. തൃശൂർ എംപി സുരേഷ് ഗോപി തന്റെ പങ്ക്否 എന്ന് വ്യക്തമാക്കി, കോൺഗ്രസ് നേതാക്കൾ അവൾക്ക് മടങ്ങി വരാൻ എതിർപ്പു പ്രകടിപ്പിച്ചു.",
-  "why": "ഇത് കേരളത്തിലെ രാഷ്ട്രീയ ബാലൻസ് മാറ്റാൻ സാധ്യതയുണ്ട്, യുവവോട്ടർമാരെ ബാധിക്കും. പ്രദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
-  "tags": [
-   "കേരളം",
-   "രാഷ്ട്രീയം",
-   "ബി.ജെ.പി.",
-   "കോൺഗ്രസ്",
-   "യുവകർ"
-  ]
- },
- {
-  "id": "a2dc26f8cefd",
-  "created": "2026-11-21T16:46:10+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "games.gg",
-  "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjdOWGFyU0Zzc1l1TFFlMnhWc1hIdldlQlVKTGZ6Nk9TclpScEt0azRfdU5LTFNoa0hYbUJjdGdJbzlDQldqX190bWlITHdobmQzcXZjaXRxcWxCUzNZQlJSU1ZrQjg4V2JveWJtS3dwd1YxSEdFUWZlQlZFa3JnQ3NlMkxXYUJhX2FXdWMzWERXbnd6ZWVoQ1ZZSHFmSXlCdW5Sc2dB?oc=5",
-  "headline": "GTA 6-ല്‍ പുതിയ ബൈക്ക് ലൈനപ്പ്, റിവ്യൂവേഴ്‌സ് ഹാന്‍ഡ്ലിംഗ്‌വില്‍ വിഭജിച്ചു",
-  "hook": "വിര്‍ച്ച്വല്‍ സവാരി കുളിര്‍ പോലെ, പക്ഷേ നിയന്ത്രണം ശരിയാണോ?",
-  "what": "Grand Theft Auto 6-ല്‍ മോട്ടോര്‍സൈക്കിളുകളും സൈക്കിളുകളും ഉള്‍പ്പെടുത്തി, ഗെയിമിന്റെ വാഹന ശേഖരം വിപുലീകരിച്ചു. റിവ്യൂവേഴ്‌സ് വിശദമായ ഡിസൈന്‍ പ്രശംസിച്ചെങ്കിലും, ബൈക്കുകളുടെ കൈകാര്യംപ്പറ്റി അഭിപ്രായങ്ങള്‍ വ്യത്യസ്തമാണ്.",
-  "why": "റേസ്, തുറന്ന ലോകം അന്വേഷിക്കാന്‍ ഇഷ്ടമുള്ള യുവ ഗെയിമര്‍മാര്‍ക്ക് ഇത് കൂടുതല്‍ ആകര്‍ഷകമാകും, പക്ഷേ ഡെമോ പരീക്ഷിച്ച് അല്ലെങ്കില്‍ അപ്ഡേറ്റുകള്‍ കാത്തിരിക്കുക നല്ലത്.",
-  "tags": [
-   "GTA6",
-   "ബൈക്കുകള്‍",
-   "ഗെയിമിംഗ്",
-   "ഓപ്പണ്‍വേള്‍ഡ്",
-   "റിവ്യൂ"
-  ]
- },
- {
-  "id": "8cafb1ad3ecb",
-  "created": "2026-11-21T16:46:16+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-alert-imd-issues-yellow-warning-in-five-districts-for-november-24-and-25-ijf6eoqo",
-  "headline": "IMD പ്രഖ്യാപിച്ചു അഞ്ചു ജില്ലകളിൽ കനത്ത മഴയുടെ മുന്നറിയിപ്പ്",
-  "hook": "ഈ വാരാന്ത്യത്തിൽ നിങ്ങളുടെ നഗരത്തിൽ അപ്രതീക്ഷിത മഴക്കാലം വരാം",
-  "what": "ഇന്ത്യൻ മെറ്റിയോറോളജിക്കൽ ഡിപ്പാർട്ട്‌മെന്റ് (IMD) യെല്ലോ അലർട്ട് പുറപ്പെടുവിച്ചു, 64.5‑115.5 മില്ലീമീറ്റർ വരെ isolated heavy rain പ്രതീക്ഷിക്കുന്നു. തിരുവാന്നപുരം, കൊല്ലം, പത്തനംതിട്ട, കോട്ടയം, ഇടുക്കി എന്നിവിടങ്ങളിലാണ് 24‑25 നവംബർ 2026 വരെ ഈ മുന്നറിയിപ്പ് ബാധകമാകുന്നത്.",
-  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കാലാവസ്ഥാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച്, വെള്ളപ്പൊക്കമുണ്ടാകാവുന്ന പ്രദേശങ്ങൾ ഒഴിവാക്കി, യാത്രാ പദ്ധതികൾ മാറ്റി വയ്ക്കണം.",
-  "tags": [
-   "കേരളം",
-   "മഴഅലർട്ട്",
-   "IMD",
-   "വൈകുന്ന",
-   "യുവാക്കൾ"
   ]
  }
 ]

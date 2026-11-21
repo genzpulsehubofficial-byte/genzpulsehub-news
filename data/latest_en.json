@@ -1,5 +1,118 @@
 [
  {
+  "id": "ee235d6db08f",
+  "created": "2026-11-22T00:10:01+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmpVeWFEN21jVng4YTAzQUdPbkdXUy1ZVlB5VUpkbjRXX2Fjc2RmVXN5UndRajZsM3VXTWx4QWpmMWRVUXA5Y3VaSi1iQU5zQzRpRWZuNm5vM3JxMEVLVWxSLUJiWmU3Uy1HUURDNVdTNzVrMlBpck5aQy13Z1ZQYzY1TmpDcVRUWE93?oc=5",
+  "headline": "Australia clinches T20I win over England at MCG",
+  "hook": "A nail‑biting finish sees Aussie youngsters lift the trophy chase",
+  "what": "Australia defeated England in the opening T20 International of a five‑match series at the Melbourne Cricket Ground. Nikhil Chaudhary and Aaron Edwards played key roles in the final over, securing a record run chase. The victory gave Australia a 1‑0 series lead.",
+  "why": "The win revives Aussie momentum after a tough week and highlights emerging talent that Indian fans can watch. Follow the series for more exciting cricket action.",
+  "tags": [
+   "cricket",
+   "T20",
+   "Australia",
+   "England",
+   "MCG"
+  ]
+ },
+ {
+  "id": "ce1eff5eb8eb",
+  "created": "2026-11-22T00:10:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/india-not-a-rogue-state-wangchuk-slams-administration-over-house-arrest-says-police-deployment-outside-home-withdrawn-after-court-plea-101795273631177.html",
+  "headline": "Wangchuk Calls Police Action Unjust, Court Pulls Back Guard",
+  "hook": "A protest leader says his freedom was curbed, but courts stepped in.",
+  "what": "Wangchuk said the police presence outside his house was illegal and likened it to house arrest. After he appealed to the court, the authorities withdrew the deployment.",
+  "why": "It shows that legal channels can challenge state actions, reminding young Indians to know their rights and seek court help if faced with similar restrictions.",
+  "tags": [
+   "Wangchuk",
+   "court",
+   "police",
+   "rights",
+   "India"
+  ]
+ },
+ {
+  "id": "aa973ceafbf4",
+  "created": "2026-11-22T00:10:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tripura/mha-sanctions-more-central-forces-for-tripura-municipal-elections/article71729425.ece",
+  "headline": "MHA deploys extra central forces for Tripura polls",
+  "hook": "More security troops are on the way for Tripura's municipal voting.",
+  "what": "The Ministry of Home Affairs has approved the deployment of additional central security personnel for the upcoming municipal elections in Tripura. The move aims to bolster law and order during the voting process.",
+  "why": "A smoother, safer election helps maintain democratic stability, which impacts everyone's future. Stay informed about local voting dates and follow safety guidelines.",
+  "tags": [
+   "Tripura",
+   "elections",
+   "security",
+   "MHA"
+  ]
+ },
+ {
+  "id": "75638ba7b352",
+  "created": "2026-11-22T00:10:07+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
+  "headline": "‘Aakasamlo Oka Tara’ sees steady day‑2 box office",
+  "hook": "The Telugu drama keeps the buzz alive after its debut.",
+  "what": "The film starring Dulquer Salmaan and Satvika Veeravalli earned box‑office revenue on its second day. Critics highlighted its hopeful theme and praised the performances.",
+  "why": "For young viewers the movie is generating positive word‑of‑mouth and could be a good weekend pick, especially with star support from Prabhas.",
+  "tags": [
+   "AakasamloOkaTara",
+   "TeluguCinema",
+   "DulquerSalmaan",
+   "BoxOffice",
+   "MovieReviews"
+  ]
+ },
+ {
+  "id": "c7d86839c836",
+  "created": "2026-11-22T00:10:09+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZYlZZMGhuOUUyWWZQUjJ4bTdfbWZoMWEtbVphVThzeXUtOGJkaGNCc1g5ZzRUNjVhWVBFNUQwMDVMUUxsMkMwaHdMN3Q1NWZFZ051YjZvVnZHeDNGUXhlTzBEMFAwZw?oc=5",
+  "headline": "Alcaraz defeats Shelton to book ATP Finals final spot",
+  "hook": "Spain's teen star clinches a place in the season‑ending showdown",
+  "what": "Carlos Alcaraz overcame Ben Shelton in the Nitto ATP Finals, securing his place in the championship match. The win came after a decisive tie‑break.",
+  "why": "Reaching the final boosts his ranking and offers another chance at a major title, inspiring young players across India.",
+  "tags": [
+   "ATP",
+   "tennis",
+   "Alcaraz",
+   "Shelton",
+   "finals"
+  ]
+ },
+ {
+  "id": "32c53540b2e6",
+  "created": "2026-11-22T00:10:12+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Forbes",
+  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkgtSGlxa0dldW9UZjhlVnQwVzNReUVmaC13NkFtbG9WMTFjdGtaVERYazlvYnlkZEFtRF83SkxpdURaVXJYVjBfOEZrUXhfOXdCR29zS1JGTDR5QVBONmFXUWlxR0ZHa1ZnMGJhQ2NFUjcyaklodW0tQkJDcjFtdXJuakZfU0czRFUteF8xaG1ETnpQZHJ6Ry12a1FGbFVoZWF3RDl4b2x1UQ?oc=5",
+  "headline": "GTA 6 faces review bomb on Metacritic amid crash complaints",
+  "hook": "Fans are flooding Metacritic with low scores over PS5 glitches.",
+  "what": "Players of Grand Theft Auto VI have posted many low user ratings on Metacritic. The influx follows reports of game‑breaking crashes and repetitive errands on the PS5 version. Critics still hold a high score of 99.",
+  "why": "If you plan to buy GTA 6, check both critic and user reviews to see if the technical issues affect you. Waiting for patches may improve the experience.",
+  "tags": [
+   "GTA6",
+   "Metacritic",
+   "PS5",
+   "gaming",
+   "reviewbomb"
+  ]
+ },
+ {
   "id": "235be75ad87e",
   "created": "2026-11-21T23:27:29+05:30",
   "category": "headlines",
@@ -641,118 +754,6 @@
    "mobilehack",
    "financialrisk",
    "Gandhinagar"
-  ]
- },
- {
-  "id": "daba1496cc06",
-  "created": "2026-11-21T17:30:46+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/kozhikode-diet-launches-munnettu-to-bridge-academic-gap-among-tribal-students/article71727687.ece",
-  "headline": "Kozhikode DIET launches Munnettu for tribal students",
-  "hook": "A new scheme aims to close learning gaps for tribal kids.",
-  "what": "Kozhikode DIET introduced the Munnettu programme targeting tribal students. Action plans are being prepared and carried out to raise the quality of their schooling and to get them involved in non‑academic activities.",
-  "why": "Improving education for tribal youth can open better opportunities and support inclusive growth. Stay aware of such local initiatives and encourage participation.",
-  "tags": [
-   "Kozhikode",
-   "TribalEducation",
-   "Munnettu",
-   "Kerala"
-  ]
- },
- {
-  "id": "0e11ef33f9c2",
-  "created": "2026-11-21T17:30:50+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Washington Post",
-  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1dTZjEwM0FIWmVNaG9wZmgta0FTM3BTRFIyMVNVek9qZDA3SmRSQzJ3MWFDbWFNVFVUblBaUUEtMjNTLUFWMGZZcThzelBNaF9BWjcwRHlOWTFIM2pHaTVWWmRuMzFhT01ZVElxdmVDcFUzWFB2b2o2dklzbXJDb2RLdnRTczNEYm5MWFAtQUdLbzA1U3FKN2FkZ2prYzVMeUU5ZEcxc3laeWx3?oc=5",
-  "headline": "Teens eager for GTA 6, parents face a choice",
-  "hook": "Your kid’s next game could be a family discussion.",
-  "what": "Many teenagers are asking to play Grand Theft Auto 6. Parents are being asked to decide whether to allow it. A school organized a drawing contest to urge students not to miss classes for the game.",
-  "why": "Understanding the debate helps families set clear rules about gaming time and school priorities.",
-  "tags": [
-   "gaming",
-   "parents",
-   "teens",
-   "GTA6"
-  ]
- },
- {
-  "id": "7dd75dd63e17",
-  "created": "2026-11-21T17:30:52+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
-  "headline": "Fi Money trims FY26 loss by 25%, revenue falls 21%",
-  "hook": "Fintech’s profit dip shows challenges for young investors.",
-  "what": "Fintech startup Fi Money said its consolidated net loss for FY26 dropped 25%, now standing at ₹153.3 crore. At the same time, its revenue slipped by 21% compared with the prior period.",
-  "why": "The slowdown highlights tougher conditions for digital finance firms, which could influence job prospects and investment choices for Gen Z. Keep an eye on fintech trends if you’re eyeing a career or investments in this space.",
-  "tags": [
-   "Fintech",
-   "LossReduction",
-   "RevenueDrop",
-   "Startup",
-   "India"
-  ]
- },
- {
-  "id": "0dea74719c11",
-  "created": "2026-11-21T16:45:04+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/padmajas-bjp-exit-reopens-old-wounds-in-congress/article71724444.ece",
-  "headline": "Padmaja quits BJP, sparks fresh debate in Kerala politics",
-  "hook": "A sudden exit revives old party tensions.",
-  "what": "Padmaja resigned from the BJP, saying personal reasons. The party called her departure unfortunate. Thrissur MP Suresh Gopi said he was not part of her joining the BJP, and Congress leaders opposed any chance of her returning.",
-  "why": "The move could shift political dynamics in Kerala, influencing young voters. Keep an eye on local political changes.",
-  "tags": [
-   "Kerala",
-   "Politics",
-   "BJP",
-   "Congress",
-   "Youth"
-  ]
- },
- {
-  "id": "a2dc26f8cefd",
-  "created": "2026-11-21T16:46:10+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "games.gg",
-  "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjdOWGFyU0Zzc1l1TFFlMnhWc1hIdldlQlVKTGZ6Nk9TclpScEt0azRfdU5LTFNoa0hYbUJjdGdJbzlDQldqX190bWlITHdobmQzcXZjaXRxcWxCUzNZQlJSU1ZrQjg4V2JveWJtS3dwd1YxSEdFUWZlQlZFa3JnQ3NlMkxXYUJhX2FXdWMzWERXbnd6ZWVoQ1ZZSHFmSXlCdW5Sc2dB?oc=5",
-  "headline": "GTA 6 rolls out new bike lineup, reviewers split on handling",
-  "hook": "Your next virtual ride looks epic, but will it feel right?",
-  "what": "Grand Theft Auto 6 includes a variety of motorcycles and bicycles, expanding the game’s vehicle roster. Reviewers say the designs are detailed, yet they disagree on how the bikes handle during play.",
-  "why": "For gamers who love street racing or exploring open worlds, the new rides add immersion, but testing them in a demo or waiting for updates may be wise.",
-  "tags": [
-   "GTA6",
-   "Motorcycles",
-   "Gaming",
-   "OpenWorld",
-   "Review"
-  ]
- },
- {
-  "id": "8cafb1ad3ecb",
-  "created": "2026-11-21T16:46:16+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-alert-imd-issues-yellow-warning-in-five-districts-for-november-24-and-25-ijf6eoqo",
-  "headline": "IMD warns of heavy rain in five Kerala districts",
-  "hook": "Sudden downpours expected in your city this weekend",
-  "what": "The India Meteorological Department has issued a yellow alert for isolated heavy rainfall, forecasting 64.5 to 115.5 mm. The warning covers Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam and Idukki for November 24‑25, 2026.",
-  "why": "Students and commuters should follow updates and adjust travel plans, steering clear of flood‑prone areas.",
-  "tags": [
-   "Kerala",
-   "RainAlert",
-   "IMD",
-   "Weather",
-   "Youth"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "c7d86839c836",
+ "created": "2026-11-22T00:10:09+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZYlZZMGhuOUUyWWZQUjJ4bTdfbWZoMWEtbVphVThzeXUtOGJkaGNCc1g5ZzRUNjVhWVBFNUQwMDVMUUxsMkMwaHdMN3Q1NWZFZ051YjZvVnZHeDNGUXhlTzBEMFAwZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Alcaraz defeats Shelton to book ATP Finals final spot",
+  "hook": "Spain's teen star clinches a place in the season‑ending showdown",
+  "what": "Carlos Alcaraz overcame Ben Shelton in the Nitto ATP Finals, securing his place in the championship match. The win came after a decisive tie‑break.",
+  "why": "Reaching the final boosts his ranking and offers another chance at a major title, inspiring young players across India.",
+  "tags": [
+   "ATP",
+   "tennis",
+   "Alcaraz",
+   "Shelton",
+   "finals"
+  ]
+ },
+ "ml": {
+  "headline": "Alcaraz‑ന് Shelton‑നെ തോല്‍പ്പിച്ച് ATP Finals ഫൈനലില്‍ പ്രവേശനം",
+  "hook": "സ്പെയിനിന്റെ യുവ ടെന്നിസ് താരമാര്‍ സീസണ്‍ അവസാന മത്സരത്തില്‍ സ്ഥാനം ഉറപ്പിച്ചു",
+  "what": "Carlos Alcaraz Ben Shelton‑നെ Nitto ATP Finals‑ല്‍ പരാജയപ്പെടുത്തി, ഫൈനലില്‍ മത്സരിക്കാന്‍ യോഗ്യത നേടി. വിജയമുണ്ടായത് നിര്‍ണായക ടൈ‑ബ്രേക്കില്‍.",
+  "why": "ഫൈനലില്‍ എത്തുന്നത് അവന്റെ റാങ്കിംഗ് ഉയര്‍ത്തുകയും, ഇന്ത്യയിലെ യുവ കളിക്കാര്‍ക്ക് പ്രചോദനം നല്‍കുകയും ചെയ്യും.",
+  "tags": [
+   "ATP",
+   "ടെന്നിസ്",
+   "Alcaraz",
+   "Shelton",
+   "ഫൈനല്‍"
+  ]
+ }
+}
