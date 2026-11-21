@@ -1,0 +1,35 @@
+{
+ "id": "4be01e7fe4e8",
+ "created": "2026-11-21T15:03:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Union Minister Shah to discuss Siang Valley dam concerns",
+  "hook": "Your voice could shape a massive river project",
+  "what": "Union Home Minister Shah said he learned about the worries of people in Siang Valley over a dam project from media reports. He called the issues raised significant and promised to address them through dialogue.",
+  "why": "Large infrastructure projects can affect local communities, so staying updated helps you share your view. Keep an eye on the story and discuss it with friends.",
+  "tags": [
+   "SiangValley",
+   "DamProject",
+   "YouthVoice",
+   "IndiaNews"
+  ]
+ },
+ "ml": {
+  "headline": "കേന്ദ്രമന്ത്രി ഷാ​ഹ് സിയാങ് വാലി ഡാം പ്രശ്നം ചര്‍ച്ച ചെയ്യും",
+  "hook": "നദി പദ്ധതിയിൽ നിങ്ങളുടെ അഭിപ്രായം മാറ്റം വരുത്താം",
+  "what": "കേന്ദ്ര ആഭ്യന്തര മന്ത്രിയായ ഷാ​ഹ്, സിയാങ് വാലിയിലെ ഡാം പദ്ധതിയെക്കുറിച്ച് ജനങ്ങളുടെ ആശങ്കകൾ മീഡിയ വഴി അറിഞ്ഞതായി അറിയിച്ചു. ഉയർന്നതായ പ്രശ്നങ്ങൾ പ്രധാനമാണെന്ന് അദ്ദേഹം അംഗീകരിച്ചു, സംഭാഷണത്തിലൂടെ പരിഹരിക്കുമെന്ന് വാഗ്ദാനം ചെയ്തു.",
+  "why": "വലിയ അടിസ്ഥാനസൗകര്യ പദ്ധതികൾ പ്രദേശിക സമൂഹങ്ങളെ ബാധിക്കാം, അതിനാൽ വിവരങ്ങൾ അറിയുകയും നിങ്ങളുടെ അഭിപ്രായം പങ്കിടുകയും ചെയ്യുക. കഥയെക്കുറിച്ച് അറിഞ്ഞ് സുഹൃത്തുക്കളുമായി ചർച്ച ചെയ്യാം.",
+  "tags": [
+   "SiangValley",
+   "DamProject",
+   "YouthVoice",
+   "IndiaNews"
+  ]
+ }
+}

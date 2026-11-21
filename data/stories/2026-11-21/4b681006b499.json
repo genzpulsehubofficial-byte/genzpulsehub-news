@@ -1,0 +1,35 @@
+{
+ "id": "4b681006b499",
+ "created": "2026-11-21T15:03:16+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/edamalakudy-tribal-panchayat-financial-crisis-pinarayi-vijayan-udf-government-ptiya872f1m",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Edamalakudy Tribal Panchayat Threatened With Closure, Says Opposition",
+  "hook": "Kerala’s first tribal council may shut down over cash crunch.",
+  "what": "Opposition leader Pinarayi Vijayan said Edamalakudy, the state’s inaugural tribal panchayat, is confronting a severe financial shortfall and unpaid staff wages. The situation could lead to its closure.",
+  "why": "If the council closes, local tribal communities could lose essential services. Young people should stay informed and push for timely government action.",
+  "tags": [
+   "Kerala",
+   "TribalPanchayat",
+   "FinanceCrisis",
+   "YouthAction"
+  ]
+ },
+ "ml": {
+  "headline": "എഡമലക്കുടി ഗോത്രപഞ്ചായത്ത് അടച്ചുപൂട്ടൽ ഭീഷണി, വിരുദ്ധം പറയുന്നു",
+  "hook": "കേരളത്തിലെ ആദ്യ ഗോത്രപഞ്ചായത്ത് പണം കുറവിനാൽ അടച്ചുപൂട്ടാൻ സാധ്യത.",
+  "what": "വിരുദ്ധ നേതാവ് പിണറായി വിജയൻ എഡമലക്കുടി, സംസ്ഥാനത്തിന്റെ ആദ്യ ഗോത്രപഞ്ചായത്ത്, ഗുരുതരമായ ധനക്കുറവും ജീവനക്കാരുടെ ശമ്പളവിതരണവും ഇല്ലാത്തതുമൂലം അടച്ചുപൂട്ടലിന്റെ അതിരിൽ നിൽക്കുന്നു എന്ന് അറിയിച്ചു.",
+  "why": "പഞ്ചായത്ത് അടച്ചുപൂട്ടിയാൽ നാട്ടിലെ ഗോത്ര സമൂഹങ്ങൾക്ക് അടിസ്ഥാന സേവനങ്ങൾ നഷ്ടപ്പെടാം. യുവാക്കൾ ഈ പ്രശ്നം ശ്രദ്ധിച്ച് സർക്കാർ ഇടപെടലിനായി ആവശ്യപ്പെടണം.",
+  "tags": [
+   "കേരളം",
+   "ഗോത്രപഞ്ചായത്ത്",
+   "ധനക്കുറവ്",
+   "യുവപ്രവർത്തനം"
+  ]
+ }
+}

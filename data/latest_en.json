@@ -1,5 +1,60 @@
 [
  {
+  "id": "4be01e7fe4e8",
+  "created": "2026-11-21T15:03:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/arunachal-pradesh/concerns-of-people-of-siang-valley-over-dam-project-to-be-addressed-through-dialogue-shah/article71727685.ece",
+  "headline": "Union Minister Shah to discuss Siang Valley dam concerns",
+  "hook": "Your voice could shape a massive river project",
+  "what": "Union Home Minister Shah said he learned about the worries of people in Siang Valley over a dam project from media reports. He called the issues raised significant and promised to address them through dialogue.",
+  "why": "Large infrastructure projects can affect local communities, so staying updated helps you share your view. Keep an eye on the story and discuss it with friends.",
+  "tags": [
+   "SiangValley",
+   "DamProject",
+   "YouthVoice",
+   "IndiaNews"
+  ]
+ },
+ {
+  "id": "4b681006b499",
+  "created": "2026-11-21T15:03:16+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/edamalakudy-tribal-panchayat-financial-crisis-pinarayi-vijayan-udf-government-ptiya872f1m",
+  "headline": "Edamalakudy Tribal Panchayat Threatened With Closure, Says Opposition",
+  "hook": "Kerala’s first tribal council may shut down over cash crunch.",
+  "what": "Opposition leader Pinarayi Vijayan said Edamalakudy, the state’s inaugural tribal panchayat, is confronting a severe financial shortfall and unpaid staff wages. The situation could lead to its closure.",
+  "why": "If the council closes, local tribal communities could lose essential services. Young people should stay informed and push for timely government action.",
+  "tags": [
+   "Kerala",
+   "TribalPanchayat",
+   "FinanceCrisis",
+   "YouthAction"
+  ]
+ },
+ {
+  "id": "eed873b0b67e",
+  "created": "2026-11-21T15:03:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-debt-and-equity-which-portfolio-mix-offers-better-returns-with-lower-volatility-25-years-of-data-provide-answer-11795246256111.html",
+  "headline": "25‑Year Study Shows Best Mix for Stable Returns",
+  "hook": "Looking for steady growth without crazy swings? See the winning combo.",
+  "what": "A review of 25 years of equity, debt and gold data compared returns and volatility for various mixes. The analysis pinpointed which allocation delivered higher gains with lower risk.",
+  "why": "Knowing the optimal blend helps young investors grow their savings while keeping losses in check. Teens can use this guide to start building a balanced portfolio early.",
+  "tags": [
+   "finance",
+   "investing",
+   "portfolio",
+   "youth",
+   "India"
+  ]
+ },
+ {
   "id": "4fe187a0fb91",
   "created": "2026-11-21T14:04:15+05:30",
   "category": "headlines",
@@ -692,63 +747,6 @@
    "cybersecurity",
    "AI",
    "India"
-  ]
- },
- {
-  "id": "a5d2d965409a",
-  "created": "2026-11-21T06:53:42+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/culture-play-key-role-in-fostering-dialogue-pakistan-minister-malik-101795222929535.html",
-  "headline": "Pakistan says culture vital for dialogue, backs peace push",
-  "hook": "Your world peace vibes start with culture, says Pakistan.",
-  "what": "Pakistan’s minister Malik said culture is essential for fostering dialogue among nations. He affirmed Pakistan’s support for initiatives that promote peace and security. He noted that the forum is centered on multilateral issues.",
-  "why": "Seeing how culture shapes diplomacy can motivate young Indians to join global conversations. Keep an eye on international peace efforts.",
-  "tags": [
-   "Pakistan",
-   "culture",
-   "peace",
-   "dialogue",
-   "multilateral"
-  ]
- },
- {
-  "id": "47ec9f7c6866",
-  "created": "2026-11-21T06:53:44+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNUjR5R3AyTmNqTVdRQ2FGbE1LSUFtbFZiWFFETVI4T0piQzRoVzdnQW12d29zRG82ZEN0QU1iNjdDRk9KLWJ4eFN0VjBmTzNnQk5pREZ6MlktTGpudGtzTHlYRkpLRHpHOWlUWmQxbDhUZEJFVFF5SkRPa2pMajJKV044eFhWcjh6MzdOWXA0aWJYVVFIOExaTkZjbDBPT0lHaEx5U0NhZ3dWVzVXLXJLUkpYOG5HWjRXc2tCdE0xRk9rbkliWExhcHd1T2lObUw4YXA1T1dGTVYwR2pTWmJEZEZuQi1SZFpaVzJUb2QzOGY4dTM1bUFCVm9hUjFRS1pOamxLOUhPZ3ZuNm5SV0thZWlfSlAtR203cjBzRXJzbGtMM3g5U0JWOU1sQzBQaG9ZdkNfaEpiWnNkUFdwRDQxQkc1SGw2NmFvbVlrd3JDejVmTm1mdF8zNXRFdWdubjV5R3RhLXJqSXJHSDMwcUtpSXR0ZkhCVFJyTDRpVUFHZEFSSUhkUlHSAYsDQVVfeXFMTTFZaHpFYkZqazBMV0JUYVZDbm1aUjVpVUYyaHJGTXZqeHl4SzNSTFVQaFNid3pTZDlJamlYampGcGgxZ09HNkQycUVDaHhHM2l0NjVWRW1hcVpDS3pZVTlwellfZWppRnlxUmllTFRvaEpoN29IX2hPdUw5Q21GTU1OOHJ4Sm4ySmdhMXVLVk93ekQxWHU0aHVlRWhCMzJMSWUtRE9pbmktYXFpcnI1OVBrX0RqbWZ5ODBtSEIwcHV3TkhXTXU0V0thRXNORFBtcUF5ZTNnb2hHRGlaMEhyRml3Tm9TUVV2Wk9xUkJJSVItZ2RJZWc3clFGRGVQc3JpRV90aGN3ZHFBZmFxT05mVk1ZZFBOV09oYl9XbEZVaDJIRHlDazNMamlIdmYzWnRacDFHcHh0dmUxUEE0VndOX2tJdTdMOXYyOWN2TVczVVF5LV8tc3Y3SUpkdUVWSWRFQ3RZUFZqRVFpUk85bHRrRmNzWElPRWZMN21PQnZ0MmF6STlpM29RUFJ3RXM?oc=5",
-  "headline": "Ramayana: Rise of a Legend Holds Strong on Day 16",
-  "hook": "The Ranbir Kapoor‑Yash epic keeps pulling crowds.",
-  "what": "The movie 'Ramayana: Rise of a Legend' completed its 16th day in theatres. Its box‑office performance remains solid.",
-  "why": "For young audiences, the film’s continued popularity shows big‑budget Indian cinema still draws viewers, so consider catching it while it’s still running.",
-  "tags": [
-   "Ramayana",
-   "RanbirKapoor",
-   "Yash",
-   "BoxOffice",
-   "Bollywood"
-  ]
- },
- {
-  "id": "ddc0aa6268d0",
-  "created": "2026-11-21T06:53:46+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/system-upgrades-at-banks-resulting-in-withdrawal-delays-coindcx/",
-  "headline": "CoinDCX cites bank upgrades for INR withdrawal slowdown",
-  "hook": "Your crypto cash might take longer to reach your account.",
-  "what": "CoinDCX says most of its partner banks are undergoing system upgrades. The upgrades are causing delays in processing Indian rupee withdrawals.",
-  "why": "Young investors should expect longer wait times for cash outs and plan accordingly.",
-  "tags": [
-   "crypto",
-   "withdrawals",
-   "banking",
-   "INR",
-   "CoinDCX"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "eed873b0b67e",
+ "created": "2026-11-21T15:03:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-debt-and-equity-which-portfolio-mix-offers-better-returns-with-lower-volatility-25-years-of-data-provide-answer-11795246256111.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "25‑Year Study Shows Best Mix for Stable Returns",
+  "hook": "Looking for steady growth without crazy swings? See the winning combo.",
+  "what": "A review of 25 years of equity, debt and gold data compared returns and volatility for various mixes. The analysis pinpointed which allocation delivered higher gains with lower risk.",
+  "why": "Knowing the optimal blend helps young investors grow their savings while keeping losses in check. Teens can use this guide to start building a balanced portfolio early.",
+  "tags": [
+   "finance",
+   "investing",
+   "portfolio",
+   "youth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "25 വര്‍ഷത്തെ പഠനം കാണിച്ചു, സ്ഥിരമായ ലാഭത്തിന് മികച്ച മിശ്രിതം",
+  "hook": "വലിയ ചാഞ്ചാട്ടമില്ലാതെ സ്ഥിരമായ വളർച്ച വേണോ? വിജയകരമായ കൂട്ടം നോക്കൂ.",
+  "what": "ഇക്വിറ്റി, ഡെബ്‌റ്റ്, ഗോൾഡ് എന്നിവയുടെ 25 വർഷത്തെ ഡാറ്റ പരിശോധിച്ച് വിവിധ മിശ്രിതങ്ങളുടെ ലാഭവും ചാഞ്ചാട്ടവും താരതമ്യം ചെയ്തു. ഈ വിശകലനം കുറഞ്ഞ അപകടത്തോടെ ഉയർന്ന വരുമാനം നൽകുന്ന അലോക്കേഷൻ കണ്ടെത്തി.",
+  "why": "ശരിയായ മിശ്രിതം അറിയുന്നത് യുവ നിക്ഷേപകർക്ക് നഷ്ടം കുറച്ച് സേവിംഗ്സ് വളർത്താൻ സഹായിക്കും. тинകൾക്ക് ഈ മാർഗ്ഗനിർദ്ദേശം ഉപയോഗിച്ച് ബാല്യത്തിൽ തന്നെ ബാലൻസ് ചെയ്ത പോർട്ട്ഫോളിയോ രൂപപ്പെടുത്താം.",
+  "tags": [
+   "ഫിനാൻസ്",
+   "നിക്ഷേപം",
+   "പോർട്ട്ഫോളിയോ",
+   "യുവാക്കൾ",
+   "ഇന്ത്യ"
+  ]
+ }
+}
