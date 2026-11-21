@@ -1,5 +1,117 @@
 [
  {
+  "id": "8d54d4add32f",
+  "created": "2026-11-22T03:25:48+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "headline": "Signal blocks screenshots on Android and iOS",
+  "hook": "Your chat screenshots might soon be impossible.",
+  "what": "Signal has added a restriction that prevents users from taking screenshots in its mobile apps on Android and iOS. The change comes as the messaging service cites growing AI surveillance concerns.",
+  "why": "Teens who rely on Signal for private chats may lose the ability to capture messages. Consider using alternative ways to save info or switch to other secure apps.",
+  "tags": [
+   "Signal",
+   "privacy",
+   "screenshots",
+   "AI",
+   "tech"
+  ]
+ },
+ {
+  "id": "7f6dccb8b87f",
+  "created": "2026-11-22T03:26:17+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+  "headline": "Atomberg Teams Up With Tata’s Voltas To Make AC Compressors",
+  "hook": "Two major Indian appliance brands are joining forces to build cooling tech.",
+  "what": "Startup Atomberg has signed a joint venture agreement with Tata-owned brand Voltas. Together, both companies will manufacture compressors designed for room air conditioners.",
+  "why": "Collaborations like this help strengthen domestic consumer tech and appliance manufacturing in India.",
+  "tags": [
+   "Atomberg",
+   "Voltas",
+   "TechNews",
+   "IndianStartups"
+  ]
+ },
+ {
+  "id": "5c41f56f995e",
+  "created": "2026-11-22T03:26:21+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Washington Post",
+  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXJqdU1xX3B6V0RuY1JkaVB0dXQyUEpubzc4Zm1uSHZRaFU2MzJHdFVMYUxvd21iR3JWTzRDVDlWdWZaSzc3bDF1SElLTzVIcEltRDc1Z1cxZzVGY1JDV0NLZGlWczk3WWNxRGVvMGhLYTBfYnRBRWVKelVsU2gzVjRHV19nOVNVTDBVQUNCUlZqQmFXaXczZ3J1V0RvbHJMXzNMUU16V2tYSFhrclo1N3p3?oc=5",
+  "headline": "Virginia child dies from measles, first death since 1978",
+  "hook": "A measles case turned fatal in Virginia, reminding us to stay vaccinated.",
+  "what": "A young child in Virginia died after contracting measles, marking the state's first measles‑related death since 1978. The death comes as measles cases rise across the United States, with the national death toll reaching 12 this year.",
+  "why": "It underscores the need to keep vaccinations up to date, especially before school, college or travel. Teens should check their own and their family’s immunisation records.",
+  "tags": [
+   "measles",
+   "vaccination",
+   "health",
+   "Virginia",
+   "USA"
+  ]
+ },
+ {
+  "id": "f4149a513bad",
+  "created": "2026-11-22T03:26:24+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/one-wall-two-rivals-pakistan-minister-invokes-humayun-sher-shah-in-his-sco-event-speech-at-delhis-purana-quila-101795279188486.html",
+  "headline": "Pakistan minister likens Delhi’s Purana Quila to historic rivals",
+  "hook": "A Pakistani official draws parallels between two Mughal-era rulers at a heritage site.",
+  "what": "During an SCO event at Delhi’s Purana Quila, Pakistan’s minister Musadik Malik referenced Humayun and Sher Shah, calling the wall “one wall, two rivals”. He posted the speech on X and wrote in Urdu that the fort is a “story”.",
+  "why": "The remarks show how historical narratives are used in current India‑Pakistan dialogues, a topic young Indians should stay aware of.",
+  "tags": [
+   "SCO",
+   "PuranaQuila",
+   "PakistanIndia",
+   "History",
+   "Diplomacy"
+  ]
+ },
+ {
+  "id": "53a56cc1d8fc",
+  "created": "2026-11-22T03:26:26+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/municipal-staff-transfers-to-move-online-by-tamil-nadu-government-with-vacancies-displayed-on-portal/article71727871.ece",
+  "headline": "TN launches online portal for municipal staff transfers",
+  "hook": "Apply online in March to shift your municipal job",
+  "what": "Tamil Nadu's municipal department will now handle staff transfers through an online portal. Applications open from March 1 to 31, and transfers will be processed between April 1 and May 31. Employees with at least three years in their current post can apply if vacancies exist.",
+  "why": "The digital system simplifies applying for a new posting and speeds up the process, so eligible workers should check the portal in March.",
+  "tags": [
+   "TamilNadu",
+   "JobTransfer",
+   "OnlinePortal",
+   "MunicipalJobs"
+  ]
+ },
+ {
+  "id": "080f6b1ed0e1",
+  "created": "2026-11-22T03:26:29+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWxGOEpEdEhMNXo4aFNuSXJldm1TN2hvSjdjUW9rblRfSzBrU1VHX3NRYmN4MkhZUEE5YTR0LXMzMmVjeWhnbUdoclZ5dURWV0o0MXF4Qm1nRGFDampiRWx0eWJ0cTY0b0VQN3hBWHBGaGVhUV9pNXlJeXJFcVJmSXkzQWRCX2IyTk5EbHM4XzZtb01SX1g5Mw?oc=5",
+  "headline": "Lumbini Lions face Sudurpaschim Royals in NPL 2026 final",
+  "hook": "The championship showdown lands in Kirtipur tonight.",
+  "what": "Lumbini Lions and Sudurpaschim Royals contested the Nepal Premier League final on 21 November 2026 at Kirtipur. The match, streamed with live commentary on Cricbuzz, saw Lumbini lose the wicket of Aasif early.",
+  "why": "Following the live scores helps young fans track emerging talent and understand how performances could affect future league selections.",
+  "tags": [
+   "NPL",
+   "cricket",
+   "final",
+   "LumbiniLions",
+   "SudurpaschimRoyals"
+  ]
+ },
+ {
   "id": "8f84444a96e5",
   "created": "2026-11-22T02:42:53+05:30",
   "category": "trending",
@@ -641,119 +753,6 @@
    "Pilgrimage",
    "Travel",
    "Booking"
-  ]
- },
- {
-  "id": "5ec8c3f43907",
-  "created": "2026-11-21T21:00:30+05:30",
-  "category": "sports",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/melpadam-chundan-clinches-12th-presidents-trophy-champions-boat-league-title-in-photo-finish/article71728615.ece",
-  "headline": "Melpadam Chundan wins President’s Trophy in photo finish",
-  "hook": "A razor‑thin margin decided Kerala’s biggest boat race.",
-  "what": "Melpadam Chundan completed the President’s Trophy race in 3 minutes 42.476 seconds, just ahead of Punnyalan Niranam Chundan from Kumarakom Town Boat Club, which recorded 3 minutes 42.748 seconds. The victory also handed the Champions Boat League title to Melpadam.",
-  "why": "The close finish showcases the thrill of Kerala’s traditional boat festivals, encouraging youngsters to support or get involved in local sports. Keep an eye on upcoming races for more action.",
-  "tags": [
-   "boatrace",
-   "kerala",
-   "sports",
-   "championsboatleague",
-   "presidentstrophy"
-  ]
- },
- {
-  "id": "ef2b3371c97e",
-  "created": "2026-11-21T21:01:11+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/telangana/dri-seizes-298-kgs-of-foreign-origin-gold-worth-383-crore-two-arrested/article71728875.ece",
-  "headline": "DRI confiscates nearly 3 kg foreign gold, arrests two",
-  "hook": "Got gold? The crackdown just hit a big stash.",
-  "what": "The Directorate of Revenue Intelligence recovered 2.98 kilograms of gold that came from abroad, valued at about ₹3.83 crore. The seizure was made during an operation, and two suspects were taken into custody.",
-  "why": "It shows strict action against illegal gold smuggling, which can influence market prices and taxes. Make sure you buy gold only from legal sources.",
-  "tags": [
-   "gold",
-   "seizure",
-   "DRI",
-   "law",
-   "India"
-  ]
- },
- {
-  "id": "ab0e3076d458",
-  "created": "2026-11-21T21:01:13+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-  "headline": "Alaska governor-elect edited Wikipedia over 13,000 times",
-  "hook": "A future leader’s secret hobby is massive Wikipedia editing.",
-  "what": "Jonathan Kreiss‑Tomkins, who will become Alaska’s governor, has contributed more than 13,000 edits to Wikipedia. The edits span a range of topics.",
-  "why": "It shows how digital participation can shape a public profile. Teens can learn the impact of responsible online contributions.",
-  "tags": [
-   "alaska",
-   "wikipedia",
-   "politics",
-   "youth",
-   "digital"
-  ]
- },
- {
-  "id": "f2f54b712a61",
-  "created": "2026-11-21T21:01:16+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "NDTV Profit",
-  "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3FLVjRka0FVaTlKSzlwMnZuZUZEaGpaR0tzOXM0UHNldDk0Mzh6RVkxdDJ3TEh3QmExY1ZPMlM5bWdZcE1zQ2kySHRFYXlpOFI3X1lUaGdLN05ENERzbTZEeXNVWDVSNEdMaXAxLTBfWUU5dlVBb1J6NDc5Y25RdTlXUWx0ZnZFeUR0aWRlc1VXdkRnQnJoWHNRRXVSODZ1dllYb1J3ZDFkbUVKTjVkWkRZNnd5SXZ2bGl3bUo1XzFXTXBkOTNZ?oc=5",
-  "headline": "Kaviya Maran Sends Gold Rings and Chocolates to Staff",
-  "hook": "She’s sharing her wedding joy with the whole Sun Group team.",
-  "what": "After marrying singer Anirudh Ravichander in Greece, Kaviya Maran presented gold rings, chocolates and wedding invitations to Sun Group employees. The gesture was shown in a video that went viral.",
-  "why": "It shows how Indian companies celebrate personal milestones, encouraging a close‑knit workplace culture. Young workers can see such gestures as a sign of employee appreciation.",
-  "tags": [
-   "KaviyaMaran",
-   "SunGroup",
-   "WeddingGifts",
-   "EmployeeAppreciation",
-   "GenZ"
-  ]
- },
- {
-  "id": "197f93ed55b5",
-  "created": "2026-11-21T21:01:18+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/muraleedharan-sudhakaran-back-kerala-cm-satheesan-cabinet-rift-ptixg2ylasu",
-  "headline": "Two senior ministers back Kerala CM Satheesan",
-  "hook": "Cabinet unity confirmed as top leaders reject dissent rumors",
-  "what": "Kerala ministers Muraleedharan and Sudhakaran said they stand with Chief Minister P. Satheesan. They called reports of internal conflict false and affirmed that the government will finish its full term.",
-  "why": "A stable state government influences policies on education, jobs and services that affect young people. Keep watching Kerala’s decisions that shape your future.",
-  "tags": [
-   "KeralaPolitics",
-   "CMsatheesan",
-   "CabinetUnity",
-   "YouthImpact"
-  ]
- },
- {
-  "id": "1644d2d9b5e3",
-  "created": "2026-11-21T21:01:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/new-age-tech-stocks-miss-market-rally-this-week-paytm-sheds-10-8/",
-  "headline": "New‑Age Tech Stocks Lag While Paytm Drops 10.8%",
-  "hook": "Tech rally passes by, and Paytm takes a hit.",
-  "what": "Most new‑age technology shares failed to join this week’s broader market surge. Out of 69 listed, just 22 moved with the rally. Paytm’s stock fell about 10.8%.",
-  "why": "Young investors should note the uneven performance and think about diversifying. Keep an eye on market trends before betting on any single stock.",
-  "tags": [
-   "tech",
-   "stocks",
-   "paytm",
-   "market",
-   "investing"
   ]
  }
 ]

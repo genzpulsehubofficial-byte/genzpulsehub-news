@@ -1,0 +1,35 @@
+{
+ "id": "53a56cc1d8fc",
+ "created": "2026-11-22T03:26:26+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/municipal-staff-transfers-to-move-online-by-tamil-nadu-government-with-vacancies-displayed-on-portal/article71727871.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "TN launches online portal for municipal staff transfers",
+  "hook": "Apply online in March to shift your municipal job",
+  "what": "Tamil Nadu's municipal department will now handle staff transfers through an online portal. Applications open from March 1 to 31, and transfers will be processed between April 1 and May 31. Employees with at least three years in their current post can apply if vacancies exist.",
+  "why": "The digital system simplifies applying for a new posting and speeds up the process, so eligible workers should check the portal in March.",
+  "tags": [
+   "TamilNadu",
+   "JobTransfer",
+   "OnlinePortal",
+   "MunicipalJobs"
+  ]
+ },
+ "ml": {
+  "headline": "TN-യുടെ മുനിസിപ്പൽ സ്റ്റാഫ് ട്രാൻസ്ഫർ ഓൺലൈൻ",
+  "hook": "മാർച്ചിൽ അപേക്ഷിച്ച് നിങ്ങളുടെ ജോലി മാറാൻ അവസരം",
+  "what": "തമിഴ്നാട് മുനിസിപ്പൽ വകുപ്പ് സ്റ്റാഫ് ട്രാൻസ്ഫർ ഓൺലൈൻ പോർട്ടലിലൂടെ നടത്തും. അപേക്ഷകൾ മാർച്ച് 1 മുതൽ 31 വരെ തുറക്കും, ട്രാൻസ്ഫറുകൾ ഏപ്രിൽ 1 മുതൽ മേയ് 31 വരെ നടക്കും. മൂന്ന് വർഷം സേവനം പൂർത്തിയാക്കിയവർക്കാണ് ഒഴിവുകൾ ലഭ്യമെങ്കിൽ അപേക്ഷിക്കാൻ സാധിക്കുക.",
+  "why": "ഡിജിറ്റൽ സംവിധാനം അപേക്ഷ പ്രക്രിയ ലളിതമാക്കുകയും സമയം കുറയ്ക്കുകയും ചെയ്യുന്നു; അതിനാൽ യോഗ്യർ മാർച്ചിൽ പോർട്ടൽ പരിശോധിച്ച് അപേക്ഷിക്കണം.",
+  "tags": [
+   "TN",
+   "ജോലിമാറ്റം",
+   "ഓൺലൈൻ",
+   "മുനിസിപ്പൽ"
+  ]
+ }
+}

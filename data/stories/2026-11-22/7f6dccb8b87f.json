@@ -1,0 +1,35 @@
+{
+ "id": "7f6dccb8b87f",
+ "created": "2026-11-22T03:26:17+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "Atomberg Teams Up With Tata’s Voltas To Make AC Compressors",
+  "hook": "Two major Indian appliance brands are joining forces to build cooling tech.",
+  "what": "Startup Atomberg has signed a joint venture agreement with Tata-owned brand Voltas. Together, both companies will manufacture compressors designed for room air conditioners.",
+  "why": "Collaborations like this help strengthen domestic consumer tech and appliance manufacturing in India.",
+  "tags": [
+   "Atomberg",
+   "Voltas",
+   "TechNews",
+   "IndianStartups"
+  ]
+ },
+ "ml": {
+  "headline": "എസി കംപ്രസ്സറുകൾ നിർമ്മിക്കാൻ വോൾട്ടാസും ആറ്റംബർഗും കൈകോർക്കുന്നു",
+  "hook": "റൂം എസി ഘടകങ്ങൾ ഒരുമിച്ച് നിർമ്മിക്കാൻ രണ്ട് പ്രമുഖ ബ്രാൻഡുകൾ ഒന്നിക്കുന്നു.",
+  "what": "ടാറ്റയുടെ കീഴിലുള്ള വോൾട്ടാസുമായി ചേർന്ന് സംയുക്ത സംരംഭം തുടങ്ങാൻ ആറ്റംബർഗ് കരാർ ഒപ്പുവെച്ചു. റൂം എയർ കണ്ടീഷണറുകൾക്കുള്ള കംപ്രസ്സറുകൾ നിർമ്മിക്കുകയാണ് ഈ കൂട്ടുകെട്ടിന്റെ ലക്ഷ്യം.",
+  "why": "ഇന്ത്യൻ ഇലക്ട്രോണിക്സ് നിർമ്മാണ മേഖലയ്ക്ക് കരുത്തുപകരാൻ ഇത്തരം പുതിയ പദ്ധതികൾ സഹായിക്കും.",
+  "tags": [
+   "Atomberg",
+   "Voltas",
+   "TechNews",
+   "KeralaTech"
+  ]
+ }
+}

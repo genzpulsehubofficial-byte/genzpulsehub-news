@@ -1,0 +1,37 @@
+{
+ "id": "080f6b1ed0e1",
+ "created": "2026-11-22T03:26:29+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricket World",
+ "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWxGOEpEdEhMNXo4aFNuSXJldm1TN2hvSjdjUW9rblRfSzBrU1VHX3NRYmN4MkhZUEE5YTR0LXMzMmVjeWhnbUdoclZ5dURWV0o0MXF4Qm1nRGFDampiRWx0eWJ0cTY0b0VQN3hBWHBGaGVhUV9pNXlJeXJFcVJmSXkzQWRCX2IyTk5EbHM4XzZtb01SX1g5Mw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Lumbini Lions face Sudurpaschim Royals in NPL 2026 final",
+  "hook": "The championship showdown lands in Kirtipur tonight.",
+  "what": "Lumbini Lions and Sudurpaschim Royals contested the Nepal Premier League final on 21 November 2026 at Kirtipur. The match, streamed with live commentary on Cricbuzz, saw Lumbini lose the wicket of Aasif early.",
+  "why": "Following the live scores helps young fans track emerging talent and understand how performances could affect future league selections.",
+  "tags": [
+   "NPL",
+   "cricket",
+   "final",
+   "LumbiniLions",
+   "SudurpaschimRoyals"
+  ]
+ },
+ "ml": {
+  "headline": "Lumbini Lions‑യും Sudurpaschim Royals‑യും NPL 2026 ഫൈനലില്‍ മുഖാമുഖം",
+  "hook": "കിര്തിപൂരില്‍ ഇന്ന് രാത്രി ചാമ്പ്യന്‍ഷിപ്പ് പോരാട്ടം.",
+  "what": "21 നവം‌ബര്‍ 2026-ന് കിര്തിപൂരില്‍ നടന്ന നെപ്പാള്‍ പ്രീമിയര്‍ ലീഗ് ഫൈനലില്‍ Lumbini Lions, Sudurpaschim Royals തമ്മില്‍ മത്സരം നടന്നു. Cricbuzz-ല്‍ ലൈവ് കമന്ററി ലഭ്യമായ ഈ മത്സരത്തില്‍ Lumbiniയുടെ Aasif വിക്കറ്റില്‍ വീണു.",
+  "why": "ലൈവ് സ്‌കോര്‍ പിന്തുടര്‍ന്നു യുവ ആരാധകര്‍ പുതിയ പ്രതിഭകളെ കണ്ടു, ഭാവിയിലെ ലീഗ് തിരഞ്ഞെടുപ്പുകളില്‍ ഇവരുടെ പ്രകടനം എങ്ങനെ സ്വാധീനിക്കും എന്ന് മനസ്സിലാക്കാം.",
+  "tags": [
+   "NPL",
+   "ക്രിക്കറ്റ്",
+   "ഫൈനൽ",
+   "LumbiniLions",
+   "SudurpaschimRoyals"
+  ]
+ }
+}

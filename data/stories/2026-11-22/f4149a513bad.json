@@ -1,0 +1,37 @@
+{
+ "id": "f4149a513bad",
+ "created": "2026-11-22T03:26:24+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/one-wall-two-rivals-pakistan-minister-invokes-humayun-sher-shah-in-his-sco-event-speech-at-delhis-purana-quila-101795279188486.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Pakistan minister likens Delhi’s Purana Quila to historic rivals",
+  "hook": "A Pakistani official draws parallels between two Mughal-era rulers at a heritage site.",
+  "what": "During an SCO event at Delhi’s Purana Quila, Pakistan’s minister Musadik Malik referenced Humayun and Sher Shah, calling the wall “one wall, two rivals”. He posted the speech on X and wrote in Urdu that the fort is a “story”.",
+  "why": "The remarks show how historical narratives are used in current India‑Pakistan dialogues, a topic young Indians should stay aware of.",
+  "tags": [
+   "SCO",
+   "PuranaQuila",
+   "PakistanIndia",
+   "History",
+   "Diplomacy"
+  ]
+ },
+ "ml": {
+  "headline": "പാകിസ്താൻ മന്ത്രിയെങ്കിൽ ഡെലിയുടെ പുരാണ ക്വിലയെ ചരിത്രവിരുദ്ധങ്ങളുമായി താരതമ്യം",
+  "hook": "ഒരു പാകിസ്താൻ ഉദ്യോഗസ്ഥൻ പുരാണ ക്വിലയിൽ ഹുമായൂൺ, ഷേർ ഷാഹിനെ താരതമ്യം ചെയ്തു.",
+  "what": "SCO പരിപാടിയിൽ ഡെലിയുടെ പുരാണ ക്വിലയിൽ, പാകിസ്താന്റെ മിനിസ്ടർ മുസദിക് മാലിക് ഹുമായൂൺ, ഷേർ ഷാഹിനെ പരാമർശിച്ച്, മതിലിനെ “ഒന്ന് മതിൽ, രണ്ട് വിരോധികൾ” എന്ന് വിളിച്ചു. അദ്ദേഹം തന്റെ പ്രസംഗം X-ൽ പങ്കുവെച്ചു, ഉർദുവിൽ ക്വിലയെ “കഥ” എന്ന് എഴുതി.",
+  "why": "ഇത് ഇന്ത്യ‑പാകിസ്താൻ ബന്ധങ്ങളിലെ ചരിത്രപരമായ ബന്ധങ്ങളും നിലവിലെ ചർച്ചകളും കാണിക്കുന്നു; യുവാക്കൾക്ക് പ്രദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിവ് നേടാൻ പ്രാധാന്യമുണ്ട്.",
+  "tags": [
+   "SCO",
+   "PuranaQuila",
+   "PakistanIndia",
+   "History",
+   "Diplomacy"
+  ]
+ }
+}

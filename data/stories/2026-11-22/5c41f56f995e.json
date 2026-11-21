@@ -1,0 +1,37 @@
+{
+ "id": "5c41f56f995e",
+ "created": "2026-11-22T03:26:21+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Washington Post",
+ "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaXJqdU1xX3B6V0RuY1JkaVB0dXQyUEpubzc4Zm1uSHZRaFU2MzJHdFVMYUxvd21iR3JWTzRDVDlWdWZaSzc3bDF1SElLTzVIcEltRDc1Z1cxZzVGY1JDV0NLZGlWczk3WWNxRGVvMGhLYTBfYnRBRWVKelVsU2gzVjRHV19nOVNVTDBVQUNCUlZqQmFXaXczZ3J1V0RvbHJMXzNMUU16V2tYSFhrclo1N3p3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Virginia child dies from measles, first death since 1978",
+  "hook": "A measles case turned fatal in Virginia, reminding us to stay vaccinated.",
+  "what": "A young child in Virginia died after contracting measles, marking the state's first measles‑related death since 1978. The death comes as measles cases rise across the United States, with the national death toll reaching 12 this year.",
+  "why": "It underscores the need to keep vaccinations up to date, especially before school, college or travel. Teens should check their own and their family’s immunisation records.",
+  "tags": [
+   "measles",
+   "vaccination",
+   "health",
+   "Virginia",
+   "USA"
+  ]
+ },
+ "ml": {
+  "headline": "വിർജീനിയയിൽ കുട്ടി മീസില്സ്‌ രോഗത്തിൽ മരണം, 1978‑ന് ശേഷം ആദ്യമായി",
+  "hook": "മീസില്സ്‌ കേസുകൾ വർധിക്കുന്നതിനിടയിൽ, ഒരു കുട്ടിയുടെ മരണത്തിൽ വാക്സിൻ പ്രാധാന്യം വീണ്ടും ചൂണ്ടിക്കാട്ടി.",
+  "what": "വിർജീനിയയിലെ ഒരു ചെറു കുട്ടി മീസില്സ്‌ ബാധിച്ച് മരണമടഞ്ഞു, 1978‑ന് ശേഷം സംസ്ഥാനത്ത് ആദ്യത്തെ മീസില്സ്‌ മരണമായി. ഇത് യു.എസ്. മുഴുവൻ മീസില്സ്‌ കേസുകൾ വർധിച്ചുകൊണ്ടിരിക്കുമ്പോൾ, രാജ്യത്തെ മൊത്തം മരണസംഖ്യ ഈ വർഷം 12 ആയി.",
+  "why": "വാക്സിനേഷൻ അപ്ഡേറ്റ് ചെയ്യുന്നത് രോഗം തടയാൻ പ്രധാനമാണ്, പ്രത്യേകിച്ച് സ്കൂൾ, കോളേജ്, യാത്ര തുടങ്ങിയവയിൽ. യുവാക്കൾ തങ്ങളുടെയും കുടുംബാംഗങ്ങളുടെയും വാക്സിൻ നില പരിശോധിക്കണം.",
+  "tags": [
+   "മീസില്സ്",
+   "വാക്സിൻ",
+   "ആരോഗ്യം",
+   "വിർജീനിയ",
+   "യു.എസ്"
+  ]
+ }
+}
