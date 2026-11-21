@@ -1,0 +1,37 @@
+{
+ "id": "6ce15e9e50e1",
+ "created": "2026-11-21T19:23:27+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gujarat-trader-with-2-pans-gets-another-chance-in-rs-7-60-lakh-tax-dispute-after-itat-directs-i-t-dept-to-reassess-case-11795264666126.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gujarat trader gets fresh review in ₹7.6 lakh PAN mix-up",
+  "hook": "Two PAN numbers sparked a big tax reassessment.",
+  "what": "A trader from Gujarat was found to have two PAN numbers because of a clerical mistake. The tax department is now reassessing a ₹7.60 lakh liability after the ITAT ordered a fresh look.",
+  "why": "It shows that errors in tax IDs can lead to hefty disputes, so youngsters should ensure their PAN details are correct and keep records tidy.",
+  "tags": [
+   "tax",
+   "PAN",
+   "Gujarat",
+   "ITAT",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുജറാത്തിലെ വ്യാപാരിക്ക് രണ്ട് PAN‑കളുടെ പിഴവിൽ ₹7.6 ലക്ഷം പുന:പരിശോധന",
+  "hook": "രണ്ട് PAN നമ്പറുകൾ വലിയ നികുതി പുന:പരിശോധനയ്ക്ക് കാരണമായി.",
+  "what": "ഗുജറാത്തിലെ ഒരു വ്യാപാരിക്ക് clerical പിശക് മൂലം രണ്ട് PAN നമ്പറുകൾ ലഭിച്ചു. ITATയുടെ നിർദ്ദേശംപ്രകാരം, നികുതി വകുപ്പ് ₹7.60 ലക്ഷം തുക വീണ്ടും പരിശോധിക്കുന്നു.",
+  "why": "പാൻ വിവരങ്ങൾ ശരിയായി സൂക്ഷിക്കാത്തതിൽ വലിയ പ്രശ്നങ്ങൾ ഉണ്ടാകാം, അതിനാൽ യുവാക്കൾക്ക് അവരുടെ PAN വിശദാംശങ്ങൾ പരിശോധിച്ച് രേഖകൾ ക്രമത്തിൽ വെയ്ക്കണം.",
+  "tags": [
+   "tax",
+   "PAN",
+   "Gujarat",
+   "ITAT",
+   "finance"
+  ]
+ }
+}

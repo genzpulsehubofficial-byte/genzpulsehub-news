@@ -1,0 +1,37 @@
+{
+ "id": "837162ad62b9",
+ "created": "2026-11-21T19:23:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-farmers-urged-to-diversify-into-natural-farming-dairy-horticulture-to-boost-income/article71728269.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Chittoor farmers advised to add natural farming, dairy, horticulture",
+  "hook": "New push to widen farm income could change rural earnings.",
+  "what": "Agricultural officials in Chittoor are encouraging growers to adopt natural farming methods, start dairy units and grow horticultural crops. The aim is to create multiple income streams beyond traditional crops. The guidance comes as part of a broader effort to raise farmer earnings.",
+  "why": "Diversifying can protect farmers from market swings and improve livelihoods for young people in rural areas. Those interested should explore training programs and local support schemes.",
+  "tags": [
+   "farmers",
+   "income",
+   "diversification",
+   "rural",
+   "Chittoor"
+  ]
+ },
+ "ml": {
+  "headline": "ചിട്ടൂര്‍ കര്‍ഷകര്‍ സ്വാഭാവിക കൃഷി, ഡയറി, ഹോര്‍ട്ടിക്കള്‍ ചേരാന്‍ പ്രോത്സാഹനം",
+  "hook": "വരുമാനം വര്‍ധിപ്പിക്കാന്‍ പുതിയ ശ്രമം ഗ്രാമീണ ജീവിതം മാറ്റാം.",
+  "what": "ചിട്ടൂര്‍ മേഖലയില്‍ കര്‍ഷകര്‍ക്ക് സ്വാഭാവിക കൃഷി, ഡയറി യൂണിറ്റ്, ഹോര്‍ട്ടിക്കള്‍ കൃഷി തുടങ്ങിയവയില്‍ പ്രവേശിക്കാന്‍ ഉദ്യോഗസ്ഥര്‍ നിര്‍ദ്ദേശം നല്‍കിയിട്ടുണ്ട്. ഇതിലൂടെ ഒരു മാത്രം വിളി ആശ്രയത്വം കുറച്ച് പലവക വരുമാന സ്രോതസ്സുകള്‍ സൃഷ്ടിക്കാനാണ് ലക്ഷ്യം. ഈ പദ്ധതി കര്‍ഷക വരുമാനം ഉയര്‍ത്താന്‍ ഒരു വലിയ ശ്രമത്തിന്റെ ഭാഗമാണ്.",
+  "why": "വൈവിധ്യം വിപണി അസ്ഥിരതയില്‍ നിന്ന് സംരക്ഷിക്കുകയും ഗ്രാമീണ യുവജനങ്ങളുടെ ജീവിത നിലവാരം മെച്ചപ്പെടുത്തുകയും ചെയ്യും. താല്‍പര്യമുള്ളവര്‍ പരിശീലന പരിപാടികളും പ്രാദേശിക സഹായ പദ്ധതികളും പരിശോധിക്കണം.",
+  "tags": [
+   "കർഷകർ",
+   "വരുമാനം",
+   "വൈവിധ്യം",
+   "ഗ്രാമം",
+   "ചിട്ടൂർ"
+  ]
+ }
+}

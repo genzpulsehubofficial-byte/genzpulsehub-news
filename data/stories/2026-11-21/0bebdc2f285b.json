@@ -1,0 +1,37 @@
+{
+ "id": "0bebdc2f285b",
+ "created": "2026-11-21T19:23:33+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "EMJ",
+ "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0NMRllHb25ncGc4NFJYXzEwOEpjaDFLcHJtU0VURVJJdmtHYjd2LTlwRnBDOGpKa3UxV3FpbFBaTnV1OWNRLTl5aHlwUDd2S0ttVUZ5enByQ29UVlZjU1V6dUh3cGdsSzdYbE1yTlB2MjRPNlN6LVBhYXBIRUcxOC10WUxRNlF2aU0xMlhRZ0Q5U2pVUFU5NlZ3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Blood test may forecast prostate cancer radiotherapy success",
+  "hook": "A simple blood marker could tell which patients gain from SBRT.",
+  "what": "Researchers found that circulating tumor DNA measured before stereotactic body radiotherapy correlates with faster disease progression in men with oligoprogressive castration‑resistant prostate cancer. The test may help select patients who will benefit most from the treatment.",
+  "why": "Knowing who responds can avoid unnecessary side effects and focus care, so patients should ask their oncologist about ctDNA testing.",
+  "tags": [
+   "prostatecancer",
+   "ctDNA",
+   "SBRT",
+   "oncology",
+   "research"
+  ]
+ },
+ "ml": {
+  "headline": "രക്തപരിശോധന പ്രോസ്റ്റേറ്റ് കാൻസർ ചികിത്സ ഫലങ്ങൾ പ്രവചിക്കും",
+  "hook": "ഒരു ലളിതമായ രക്തമാർക്കർ, SBRTയിൽ ആരെല്ലാം പ്രയോജനം ഉണ്ടാകുമെന്ന് കാണിക്കും.",
+  "what": "സ്റ്റീരിയോടാക്ടിക് ബോഡി റേഡിയോതെറാപ്പി (SBRT) മുൻപ് അളക്കിയ സിറ്കുലേറ്റിംഗ് ട്യൂമർ DNA (ctDNA) ഒലിഗോപ്രോഗ്രസീവ് ക്രിസ്ടേഷൻ‑റെസിസ്റ്റന്റ് പ്രോസ്റ്റേറ്റ് കാൻസർ രോഗികളിൽ വേഗത്തിലുള്ള പുരോഗതിയുമായി ബന്ധപ്പെട്ടു. ഈ പരിശോധനയിലൂടെ ചികിത്സയിൽ ഏറ്റവും പ്രയോജനപ്പെടുന്ന രോഗികളെ കണ്ടെത്താൻ സഹായിക്കും.",
+  "why": "യോജിച്ച രോഗികളെ തിരിച്ചറിഞ്ഞാൽ അനാവശ്യ സൈഡ്‑ഇഫക്റ്റുകൾ ഒഴിവാക്കാം, അതിനാൽ രോഗികൾ അവരുടെ ഓങ്കോളജിസ്റ്റുമായി ctDNA പരിശോധനയെക്കുറിച്ച് ചർച്ച ചെയ്യണം.",
+  "tags": [
+   "പ്രോസ്റ്റേറ്റ്കാൻസർ",
+   "ctDNA",
+   "SBRT",
+   "ഓങ്കോളജി",
+   "ഗവേഷണം"
+  ]
+ }
+}

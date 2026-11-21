@@ -1,0 +1,37 @@
+{
+ "id": "0fe00d6e3d35",
+ "created": "2026-11-21T19:23:29+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekQ3OGhFTTlGZVNCNHh2bnhxMGk1Wk56Z001QTFaQTBEcUg4ZkFWMXlFdXFRQ2lmN29GS0pQREhzZURPS19zaVFoV3JBNFhHaXZUenpYUm5VMXFSVkhLNnpHUjRDZnFRZ2lCbFlDVXd4YTRCU0dVaVBvRWdJanpqd3UxdTZJTVdlTDJmNlY2ZDZBU3ZYZm93V1MwTzZMbFBsLTBZT243dDVMbWJab3pCNVdLWGnSAboBQVVfeXFMTzlYSHhtTC1jelVMMUFqMnM0eWVEQlFudC01cFVTcklDTVBMTlZ1N2oyeEI0NXNITDRhdXVhWnhxb0hEbHdNUDEzdFNKVHFoZHNQd2VOdlcyc0xVUEh3QWVYT1Bvd0VzWlBVZXNQd3R0UXJRUV9tbnVma1FXb1RSTGZ4TV8wNkxreVdMZjVhODJRcnY4dEhRU2lIcDFoVE9wanc1VU1hVlRScWRwckhFRlo4ZHI2S19GWHBR?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic AI claims breakthrough on Riemann hypothesis",
+  "hook": "An AI says it may have solved the toughest math puzzle.",
+  "what": "Anthropic's Claude AI announced a proof for the Riemann hypothesis, a century‑old problem in mathematics. Several independent mathematicians have said the proof looks highly plausible.",
+  "why": "If confirmed, the result could reshape number theory and impact fields that rely on prime numbers, making it worth watching for students of math and tech.",
+  "tags": [
+   "AI",
+   "math",
+   "RiemannHypothesis",
+   "research",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic AI Riemann hypothesis‑ന്‍ പരിഹാരം കണ്ടെത്തി എന്ന് അവകാശപ്പെടുന്നു",
+  "hook": "ഒരു AI‑യു ഏറ്റവും കഠിനമായ ഗണിത പ്രശ്നം പരിഹരിച്ചിരിക്കാം എന്ന് പറയുന്നു.",
+  "what": "Anthropic‑ന്റെ Claude AI Riemann hypothesis‑ന്‍ ഒരു തെളിവ് നല്‍കിയതായി പ്രഖ്യാപിച്ചു. സ്വതന്ത്ര ഗണിതജ്ഞര്‍ അത് വളരെ വിശ്വസനീയമാണെന്ന് അഭിപ്രായപ്പെട്ടു.",
+  "why": "സ്ഥിരീകരിച്ചാല്‍ പ്രൈം നമ്പറുകളുമായി ബന്ധപ്പെട്ട സിദ്ധാന്തങ്ങള്‍ മാറ്റം വരുത്താം, അതിനാല്‍ ഗണിതവും ടെക് വിദ്യാർത്ഥികളും ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "AI",
+   "ഗണിതം",
+   "RiemannHypothesis",
+   "ഗവേഷണം",
+   "ടെക്"
+  ]
+ }
+}

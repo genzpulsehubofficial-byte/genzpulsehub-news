@@ -1,5 +1,81 @@
 [
  {
+  "id": "6ce15e9e50e1",
+  "created": "2026-11-21T19:23:27+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gujarat-trader-with-2-pans-gets-another-chance-in-rs-7-60-lakh-tax-dispute-after-itat-directs-i-t-dept-to-reassess-case-11795264666126.html",
+  "headline": "Gujarat trader gets fresh review in ₹7.6 lakh PAN mix-up",
+  "hook": "Two PAN numbers sparked a big tax reassessment.",
+  "what": "A trader from Gujarat was found to have two PAN numbers because of a clerical mistake. The tax department is now reassessing a ₹7.60 lakh liability after the ITAT ordered a fresh look.",
+  "why": "It shows that errors in tax IDs can lead to hefty disputes, so youngsters should ensure their PAN details are correct and keep records tidy.",
+  "tags": [
+   "tax",
+   "PAN",
+   "Gujarat",
+   "ITAT",
+   "finance"
+  ]
+ },
+ {
+  "id": "837162ad62b9",
+  "created": "2026-11-21T19:23:28+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-farmers-urged-to-diversify-into-natural-farming-dairy-horticulture-to-boost-income/article71728269.ece",
+  "headline": "Chittoor farmers advised to add natural farming, dairy, horticulture",
+  "hook": "New push to widen farm income could change rural earnings.",
+  "what": "Agricultural officials in Chittoor are encouraging growers to adopt natural farming methods, start dairy units and grow horticultural crops. The aim is to create multiple income streams beyond traditional crops. The guidance comes as part of a broader effort to raise farmer earnings.",
+  "why": "Diversifying can protect farmers from market swings and improve livelihoods for young people in rural areas. Those interested should explore training programs and local support schemes.",
+  "tags": [
+   "farmers",
+   "income",
+   "diversification",
+   "rural",
+   "Chittoor"
+  ]
+ },
+ {
+  "id": "0fe00d6e3d35",
+  "created": "2026-11-21T19:23:29+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekQ3OGhFTTlGZVNCNHh2bnhxMGk1Wk56Z001QTFaQTBEcUg4ZkFWMXlFdXFRQ2lmN29GS0pQREhzZURPS19zaVFoV3JBNFhHaXZUenpYUm5VMXFSVkhLNnpHUjRDZnFRZ2lCbFlDVXd4YTRCU0dVaVBvRWdJanpqd3UxdTZJTVdlTDJmNlY2ZDZBU3ZYZm93V1MwTzZMbFBsLTBZT243dDVMbWJab3pCNVdLWGnSAboBQVVfeXFMTzlYSHhtTC1jelVMMUFqMnM0eWVEQlFudC01cFVTcklDTVBMTlZ1N2oyeEI0NXNITDRhdXVhWnhxb0hEbHdNUDEzdFNKVHFoZHNQd2VOdlcyc0xVUEh3QWVYT1Bvd0VzWlBVZXNQd3R0UXJRUV9tbnVma1FXb1RSTGZ4TV8wNkxreVdMZjVhODJRcnY4dEhRU2lIcDFoVE9wanc1VU1hVlRScWRwckhFRlo4ZHI2S19GWHBR?oc=5",
+  "headline": "Anthropic AI claims breakthrough on Riemann hypothesis",
+  "hook": "An AI says it may have solved the toughest math puzzle.",
+  "what": "Anthropic's Claude AI announced a proof for the Riemann hypothesis, a century‑old problem in mathematics. Several independent mathematicians have said the proof looks highly plausible.",
+  "why": "If confirmed, the result could reshape number theory and impact fields that rely on prime numbers, making it worth watching for students of math and tech.",
+  "tags": [
+   "AI",
+   "math",
+   "RiemannHypothesis",
+   "research",
+   "tech"
+  ]
+ },
+ {
+  "id": "0bebdc2f285b",
+  "created": "2026-11-21T19:23:33+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "EMJ",
+  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0NMRllHb25ncGc4NFJYXzEwOEpjaDFLcHJtU0VURVJJdmtHYjd2LTlwRnBDOGpKa3UxV3FpbFBaTnV1OWNRLTl5aHlwUDd2S0ttVUZ5enByQ29UVlZjU1V6dUh3cGdsSzdYbE1yTlB2MjRPNlN6LVBhYXBIRUcxOC10WUxRNlF2aU0xMlhRZ0Q5U2pVUFU5NlZ3?oc=5",
+  "headline": "Blood test may forecast prostate cancer radiotherapy success",
+  "hook": "A simple blood marker could tell which patients gain from SBRT.",
+  "what": "Researchers found that circulating tumor DNA measured before stereotactic body radiotherapy correlates with faster disease progression in men with oligoprogressive castration‑resistant prostate cancer. The test may help select patients who will benefit most from the treatment.",
+  "why": "Knowing who responds can avoid unnecessary side effects and focus care, so patients should ask their oncologist about ctDNA testing.",
+  "tags": [
+   "prostatecancer",
+   "ctDNA",
+   "SBRT",
+   "oncology",
+   "research"
+  ]
+ },
+ {
   "id": "97248ce270b5",
   "created": "2026-11-21T18:23:45+05:30",
   "category": "kerala",
@@ -673,81 +749,6 @@
    "security",
    "youthfinance",
    "india"
-  ]
- },
- {
-  "id": "e2ed98b8f161",
-  "created": "2026-11-21T10:55:30+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHlvckVPUVM1VVU3dkhNSkswTnVzVXRiV2FBSmRzdGcwaUx6a0ZoelFoQVlaWmVZYkMyQlo1SkJ2bkU5UG1ndURwUXBPMTA4djFhczV5ZzFJYzRTdWM3cllhWEJEM1BrdEdJUWoxMHR0bFQyNDV2cXllS0NCSGdJMkpsTWhJT2xET2ZDLWNzeWZXRWNxRl9wUg?oc=5",
-  "headline": "India 416/3, Gill Nears Century in 1st Test vs NZ",
-  "hook": "India's batting surge puts NZ on the back foot.",
-  "what": "On Day 3 of the first Test, India reached 416 for three wickets. Shubman Gill was on the brink of a hundred, surviving a DRS review, while New Zealand struggled to contain the chase.",
-  "why": "A strong position early in the series boosts India's chances and gives young fans a glimpse of high‑stakes cricket; keep an eye on upcoming matches for more action.",
-  "tags": [
-   "cricket",
-   "India",
-   "NewZealand",
-   "Test",
-   "Gill"
-  ]
- },
- {
-  "id": "3f8fbccf2bcc",
-  "created": "2026-11-21T10:55:33+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-unit-of-congress-sees-return-of-a-i-group-battles-as-satheesan-venugopal-camps-clash-wmdn56d8",
-  "headline": "Kerala Congress factions clash over cabinet meeting and cyber attacks",
-  "hook": "Two senior leaders are trading accusations like a digital showdown.",
-  "what": "The Kerala unit of the Indian National Congress is seeing a fresh wave of internal fighting. Leaders V. Satheesan and K. Venugopal have blamed each other for trying to influence a cabinet meeting, launching cyber attacks, and attempting to tarnish the state government.",
-  "why": "Such infighting can affect the stability of the state government and decisions that impact education, jobs and services for young people. Staying updated helps you understand the political climate that shapes your future.",
-  "tags": [
-   "KeralaPolitics",
-   "CongressFactions",
-   "YouthWatch",
-   "IndiaNews"
-  ]
- },
- {
-  "id": "adb7ecb32f45",
-  "created": "2026-11-21T09:55:29+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/indias-first-bullet-train-to-start-in-2027-surat-vapi-stretch-to-open-first-railway-minister-ashwini-vaishnaw-12357205#publisher=newsstand",
-  "headline": "India's first bullet train slated for 2027, Surat-Vapi first",
-  "hook": "High‑speed rail will soon zip between Surat and Vapi.",
-  "what": "The government announced that India's inaugural bullet train service is targeted to begin operations in 2027. The initial segment between Surat and Vapi will be opened first, with the complete line to Mumbai to be completed in stages.",
-  "why": "The project promises faster travel across western India, opening up new chances for study, work and tourism. Keep an eye on future connectivity and job prospects linked to the rail network.",
-  "tags": [
-   "bullettrain",
-   "highspeed",
-   "India2027",
-   "SuratVapi",
-   "travel"
-  ]
- },
- {
-  "id": "380a27628a0a",
-  "created": "2026-11-21T09:56:35+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-bpms-union-seeks-6-increment-ops-restoration-check-demands-on-fitment-factor-da-merger-and-more-11795231113111.html",
-  "headline": "BPMS asks 8th Pay Commission for 6% raise and OPS restore",
-  "hook": "Union wants bigger pay hikes and restored allowances for govt staff.",
-  "what": "The Bharatiya Pratiraksha Mazdoor Sangh has presented a list of demands to the 8th Pay Commission. It seeks a 6 % yearly salary increase, the revival of the Old Pension Scheme, and a 50 % merger of Dearness Allowance with basic pay. The union also wants higher insurance coverage and pension benefits for central government workers.",
-  "why": "If accepted, the changes could boost earnings for many young government employees and affect future job prospects. Students planning civil services should watch the negotiations.",
-  "tags": [
-   "paycommission",
-   "governmentjobs",
-   "salaryincrease",
-   "OPS",
-   "union"
   ]
  }
 ]
