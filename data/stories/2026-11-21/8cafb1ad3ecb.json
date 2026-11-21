@@ -1,0 +1,37 @@
+{
+ "id": "8cafb1ad3ecb",
+ "created": "2026-11-21T16:46:16+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-alert-imd-issues-yellow-warning-in-five-districts-for-november-24-and-25-ijf6eoqo",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "IMD warns of heavy rain in five Kerala districts",
+  "hook": "Sudden downpours expected in your city this weekend",
+  "what": "The India Meteorological Department has issued a yellow alert for isolated heavy rainfall, forecasting 64.5 to 115.5 mm. The warning covers Thiruvananthapuram, Kollam, Pathanamthitta, Kottayam and Idukki for November 24‑25, 2026.",
+  "why": "Students and commuters should follow updates and adjust travel plans, steering clear of flood‑prone areas.",
+  "tags": [
+   "Kerala",
+   "RainAlert",
+   "IMD",
+   "Weather",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "IMD പ്രഖ്യാപിച്ചു അഞ്ചു ജില്ലകളിൽ കനത്ത മഴയുടെ മുന്നറിയിപ്പ്",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ നിങ്ങളുടെ നഗരത്തിൽ അപ്രതീക്ഷിത മഴക്കാലം വരാം",
+  "what": "ഇന്ത്യൻ മെറ്റിയോറോളജിക്കൽ ഡിപ്പാർട്ട്‌മെന്റ് (IMD) യെല്ലോ അലർട്ട് പുറപ്പെടുവിച്ചു, 64.5‑115.5 മില്ലീമീറ്റർ വരെ isolated heavy rain പ്രതീക്ഷിക്കുന്നു. തിരുവാന്നപുരം, കൊല്ലം, പത്തനംതിട്ട, കോട്ടയം, ഇടുക്കി എന്നിവിടങ്ങളിലാണ് 24‑25 നവംബർ 2026 വരെ ഈ മുന്നറിയിപ്പ് ബാധകമാകുന്നത്.",
+  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കാലാവസ്ഥാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച്, വെള്ളപ്പൊക്കമുണ്ടാകാവുന്ന പ്രദേശങ്ങൾ ഒഴിവാക്കി, യാത്രാ പദ്ധതികൾ മാറ്റി വയ്ക്കണം.",
+  "tags": [
+   "കേരളം",
+   "മഴഅലർട്ട്",
+   "IMD",
+   "വൈകുന്ന",
+   "യുവാക്കൾ"
+  ]
+ }
+}

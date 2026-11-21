@@ -1,0 +1,37 @@
+{
+ "id": "a2dc26f8cefd",
+ "created": "2026-11-21T16:46:10+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "games.gg",
+ "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjdOWGFyU0Zzc1l1TFFlMnhWc1hIdldlQlVKTGZ6Nk9TclpScEt0azRfdU5LTFNoa0hYbUJjdGdJbzlDQldqX190bWlITHdobmQzcXZjaXRxcWxCUzNZQlJSU1ZrQjg4V2JveWJtS3dwd1YxSEdFUWZlQlZFa3JnQ3NlMkxXYUJhX2FXdWMzWERXbnd6ZWVoQ1ZZSHFmSXlCdW5Sc2dB?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 rolls out new bike lineup, reviewers split on handling",
+  "hook": "Your next virtual ride looks epic, but will it feel right?",
+  "what": "Grand Theft Auto 6 includes a variety of motorcycles and bicycles, expanding the game’s vehicle roster. Reviewers say the designs are detailed, yet they disagree on how the bikes handle during play.",
+  "why": "For gamers who love street racing or exploring open worlds, the new rides add immersion, but testing them in a demo or waiting for updates may be wise.",
+  "tags": [
+   "GTA6",
+   "Motorcycles",
+   "Gaming",
+   "OpenWorld",
+   "Review"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6-ല്‍ പുതിയ ബൈക്ക് ലൈനപ്പ്, റിവ്യൂവേഴ്‌സ് ഹാന്‍ഡ്ലിംഗ്‌വില്‍ വിഭജിച്ചു",
+  "hook": "വിര്‍ച്ച്വല്‍ സവാരി കുളിര്‍ പോലെ, പക്ഷേ നിയന്ത്രണം ശരിയാണോ?",
+  "what": "Grand Theft Auto 6-ല്‍ മോട്ടോര്‍സൈക്കിളുകളും സൈക്കിളുകളും ഉള്‍പ്പെടുത്തി, ഗെയിമിന്റെ വാഹന ശേഖരം വിപുലീകരിച്ചു. റിവ്യൂവേഴ്‌സ് വിശദമായ ഡിസൈന്‍ പ്രശംസിച്ചെങ്കിലും, ബൈക്കുകളുടെ കൈകാര്യംപ്പറ്റി അഭിപ്രായങ്ങള്‍ വ്യത്യസ്തമാണ്.",
+  "why": "റേസ്, തുറന്ന ലോകം അന്വേഷിക്കാന്‍ ഇഷ്ടമുള്ള യുവ ഗെയിമര്‍മാര്‍ക്ക് ഇത് കൂടുതല്‍ ആകര്‍ഷകമാകും, പക്ഷേ ഡെമോ പരീക്ഷിച്ച് അല്ലെങ്കില്‍ അപ്ഡേറ്റുകള്‍ കാത്തിരിക്കുക നല്ലത്.",
+  "tags": [
+   "GTA6",
+   "ബൈക്കുകള്‍",
+   "ഗെയിമിംഗ്",
+   "ഓപ്പണ്‍വേള്‍ഡ്",
+   "റിവ്യൂ"
+  ]
+ }
+}

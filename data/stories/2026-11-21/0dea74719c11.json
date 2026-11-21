@@ -1,0 +1,37 @@
+{
+ "id": "0dea74719c11",
+ "created": "2026-11-21T16:45:04+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/padmajas-bjp-exit-reopens-old-wounds-in-congress/article71724444.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Padmaja quits BJP, sparks fresh debate in Kerala politics",
+  "hook": "A sudden exit revives old party tensions.",
+  "what": "Padmaja resigned from the BJP, saying personal reasons. The party called her departure unfortunate. Thrissur MP Suresh Gopi said he was not part of her joining the BJP, and Congress leaders opposed any chance of her returning.",
+  "why": "The move could shift political dynamics in Kerala, influencing young voters. Keep an eye on local political changes.",
+  "tags": [
+   "Kerala",
+   "Politics",
+   "BJP",
+   "Congress",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "പദ്മജയുടെ ബി.ജെ.പി. രാജി, കേരള രാഷ്ട്രീയത്തിൽ പുതിയ ചർച്ച",
+  "hook": "അപ്രതീക്ഷിത വിടവ് പഴയ പാർട്ടി സംഘർഷം ഉണർത്തി.",
+  "what": "പദ്മജാ വ്യക്തിഗത കാരണങ്ങളാൽ ബി.ജെ.പി. വിടപ്പെട്ടു. ഈ രാജി ദുഃഖകരം എന്ന് പാർട്ടി പറഞ്ഞു. തൃശൂർ എംപി സുരേഷ് ഗോപി തന്റെ പങ്ക്否 എന്ന് വ്യക്തമാക്കി, കോൺഗ്രസ് നേതാക്കൾ അവൾക്ക് മടങ്ങി വരാൻ എതിർപ്പു പ്രകടിപ്പിച്ചു.",
+  "why": "ഇത് കേരളത്തിലെ രാഷ്ട്രീയ ബാലൻസ് മാറ്റാൻ സാധ്യതയുണ്ട്, യുവവോട്ടർമാരെ ബാധിക്കും. പ്രദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
+  "tags": [
+   "കേരളം",
+   "രാഷ്ട്രീയം",
+   "ബി.ജെ.പി.",
+   "കോൺഗ്രസ്",
+   "യുവകർ"
+  ]
+ }
+}
