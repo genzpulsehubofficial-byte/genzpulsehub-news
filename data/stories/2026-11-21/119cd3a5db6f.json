@@ -1,0 +1,37 @@
+{
+ "id": "119cd3a5db6f",
+ "created": "2026-11-21T07:56:45+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Cageside Seats",
+ "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDdjWjVRRV9ES3ozTzd4SmYzYmxRM3MxMVBwUGdjanlWb1FzQ0dKcXh4aE5xemVuZDdyVnBuR1FsUmZ1Q3JNQk9UUnVtdVQzeWQ2cEpJaTFtTUFEaHRHNFN1SlhmSDlPZU5ieGZleWxIUHRBUm12M3BTSlduU0V1ak14RlRqaU54VlZJTXBab2VfWUU4LWluNEtSOVpNLUhSWlhiT3Z3T1pzMVVFNWN0QU9RX2FrQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "WWE SmackDown: Flair vs Cargill for WarGames Edge",
+  "hook": "Catch the clash that decides the WarGames advantage!",
+  "what": "On November 20, WWE SmackDown featured a WarGames Advantage match between Charlotte Flair and Jade Cargill. The bout determined which team would gain the strategic edge in the upcoming WarGames showdown. Cody Rhodes, CM Punk and Tiffany Stratton also appeared on the program.",
+  "why": "The result shapes the storyline for the next big WWE event, so fans can follow the rivalry and anticipate future matches.",
+  "tags": [
+   "WWE",
+   "SmackDown",
+   "WarGames",
+   "Flair",
+   "Cargill"
+  ]
+ },
+ "ml": {
+  "headline": "WWE SmackDown: Flair‑നും Cargill‑നും WarGames‑ലെ ആനുകൂല്യം",
+  "hook": "WarGames‑ലെ ആനുകൂല്യം നിശ്ചയിക്കുന്ന ഈ പോരാട്ടം കാണൂ!",
+  "what": "Nov 20‑ന് WWE SmackDown‑ല്‍ Charlotte Flair, Jade Cargill തമ്മില്‍ WarGames Advantage മാച്ച് നടന്നു. ഈ പോരാട്ടം അടുത്ത WarGames മത്സരത്തില്‍ ഏത് ടീംക്ക് തന്ത്രപരമായ ആനുകൂല്യം ലഭിക്കുമെന്ന് തീരുമാനിച്ചു. Cody Rhodes, CM Punk, Tiffany Stratton എന്നിവരും ഷോയില്‍ പ്രത്യക്ഷപ്പെട്ടു.",
+  "why": "ഫലങ്ങള്‍ വരാനിരിക്കുന്ന വലിയ WWE ഇവന്റിന്റെ കഥയെ സ്വാധീനിക്കും, അതിനാല്‍ ഫാന്‍മാര്‍ക്ക് ഈ മത്സരവും വരാനിരിക്കുന്ന മാച്ചുകളും പിന്തുടരാന്‍ ആവശ്യമുണ്ട്.",
+  "tags": [
+   "WWE",
+   "SmackDown",
+   "WarGames",
+   "Flair",
+   "Cargill"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "301865fd4b44",
+ "created": "2026-11-21T07:56:37+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/rbi-clarifies-new-fema-rules-who-needs-to-file-export-declaration-form-with-bank-check-faqs-on-exemptions-thresholds-11795220937310.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI explains who must file export declaration under new FEMA rules",
+  "hook": "Service exporters, check if you need to submit a form now",
+  "what": "The Reserve Bank of India issued FAQs clarifying the Export Declaration Form (EDF) requirement under the revised FEMA regulations. It specifies which service exporters must file the form with their banks, outlines exemptions, and sets filing deadlines.",
+  "why": "Young entrepreneurs and freelancers offering services abroad should verify their filing status to stay compliant and avoid penalties. Follow RBI’s guidance to ensure smooth cross‑border transactions.",
+  "tags": [
+   "RBI",
+   "FEMA",
+   "Export",
+   "Compliance",
+   "Startup"
+  ]
+ },
+ "ml": {
+  "headline": "RBI വിശദീകരിച്ചു, പുതിയ FEMA നിയമത്തിൽ എക്സ്പോർട്ട് ഡിക്ലറേഷൻ ഫോം ആരെക്കാണ് വേണ്ടത്",
+  "hook": "സേവന എക്സ്പോർട്ട് ചെയ്യുന്നവർക്ക് ഫോം ഫയൽ ചെയ്യേണ്ടതുണ്ടോ? ഇവിടെ നോക്കൂ",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ പുതിയ FEMA ചട്ടങ്ങളിലേക്കുള്ള എക്സ്പോർട്ട് ഡിക്ലറേഷൻ ഫോം (EDF) ഫയലിംഗ് ആവശ്യകതകൾക്കായി FAQs പുറത്തിറക്കി. ഏത് സേവന എക്സ്പോർട്ടർമാർക്ക് ബാങ്കിൽ ഫോം സമർപ്പിക്കണം, ഒഴിവുകൾ, സമയപരിധി എന്നിവ വിശദമാക്കി.",
+  "why": "സേവനങ്ങൾ വിദേശത്തേക്ക് നൽകുന്ന യുവ സംരംഭകരും ഫ്രീലാൻസർമാരും ഈ നിർദ്ദേശം പാലിക്കണം, പിഴ ഒഴിവാക്കാൻ. RBIയുടെ മാർഗ്ഗനിർദ്ദേശം അനുസരിച്ച് compliance ഉറപ്പാക്കുക.",
+  "tags": [
+   "RBI",
+   "FEMA",
+   "Export",
+   "Compliance",
+   "Startup"
+  ]
+ }
+}

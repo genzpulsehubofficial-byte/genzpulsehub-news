@@ -1,0 +1,37 @@
+{
+ "id": "35cd1f97b678",
+ "created": "2026-11-21T07:56:33+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/term-insurance-guide-is-1-crore-life-cover-enough-for-your-family-5-things-to-assess-before-buying-a-policy-today-11795225633328.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "₹1 crore term cover enough? Review 5 key factors",
+  "hook": "Before you lock in a policy, weigh these five basics.",
+  "what": "A recent guide advises checking household spending, any loans, kids’ education costs, future financial aims, and current assets to decide the right term insurance amount. It notes that a flat ₹1 crore may not fit every family.",
+  "why": "Young adults planning ahead need a cover that truly protects their dependents. Assess the five points to pick a sum that matches your real needs.",
+  "tags": [
+   "terminsurance",
+   "financialplanning",
+   "youngadults",
+   "familycover",
+   "moneytips"
+  ]
+ },
+ "ml": {
+  "headline": "₹1 കോടി ടെർമ് കവറേ മതിയോ? 5 പ്രധാന കാര്യങ്ങൾ പരിശോധിക്കുക",
+  "hook": "പോളിസി ഒപ്പിടുന്നതിന് മുൻപ് ഈ അഞ്ചു അടിസ്ഥാനങ്ങൾ നോക്കൂ.",
+  "what": "ഒരു മാർഗ്ഗനിർദ്ദേശം കുടുംബത്തിന്റെ മാസവരുമാനം, വായ്പകൾ, കുട്ടികളുടെ വിദ്യാഭ്യാസ ചെലവ്, ഭാവി സാമ്പത്തിക ലക്ഷ്യങ്ങൾ, നിലവിലുള്ള സ്വത്ത് എന്നിവ പരിശോധിച്ച് ശരിയായ ടെർമ് ഇൻഷുറൻസ് തുക നിശ്ചയിക്കാൻ പറയുന്നു. ₹1 കോടി മാത്രം എല്ലാ കുടുംബത്തിനും അനുയോജ്യമല്ലെന്ന് ഇത് സൂചിപ്പിക്കുന്നു.",
+  "why": "ഭാവി പദ്ധതികളിൽ ചിന്തിക്കുന്ന യുവാക്കൾക്ക് അവരുടെ ആശ്രിതരെ സംരക്ഷിക്കാൻ യോജിച്ച കവറേജ് ആവശ്യമുണ്ട്. ഈ അഞ്ചു പോയിന്റുകൾ വിലയിരുത്തി നിങ്ങളുടെ ആവശ്യത്തിന് തക്ക തുക തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "terminsurance",
+   "financialplanning",
+   "youngadults",
+   "familycover",
+   "moneytips"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "afe26f8b20c2",
+ "created": "2026-11-21T07:56:43+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/after-strong-el-nino-la-nina-may-boost-indias-2027-monsoon-says-incois-forecast/article71724636.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "El Niño may linger, La Niña could aid 2027 monsoon",
+  "hook": "Will next year’s rains be stronger? Scientists say a shift is coming.",
+  "what": "The Indian Ocean climate centre says the current strong El Niño may stay until March 2027. After that, conditions could become neutral and possibly turn into La Niña during the Southwest Monsoon. Researchers are also tracking widespread marine heatwaves in the ocean.",
+  "why": "A La Niña phase often brings heavier rains, which can affect agriculture and flood risk. Teens should stay updated on weather alerts and water‑saving practices.",
+  "tags": [
+   "monsoon",
+   "climate",
+   "weather",
+   "India",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "El Niño തുടരും, La Niña 2027 മോണ്സൂൺ ശക്തമാക്കാം",
+  "hook": "അടുത്ത വർഷം മഴ കൂടുതൽ വരുമോ? ശാസ്ത്രജ്ഞർ പറയുന്നു കാലാവസ്ഥ മാറാൻ പോകുന്നു.",
+  "what": "ഇന്ത്യൻ മഹാസമുദ്രം ഗവേഷണ കേന്ദ്രം പറയുന്നു, ഇപ്പോഴത്തെ ശക്തമായ El Niño 2027 മാർച്ചുവരെ തുടരുമെന്ന്. അതിനുശേഷം സാഹചര്യങ്ങൾ ന്യൂട്രൽ ആയി, Southwest Monsoon സമയത്ത് La Niña ആയി മാറാം. സമുദ്രത്തിൽ വ്യാപകമായ ഹീറ്റ്‌വേവ്‌കളും നിരീക്ഷിക്കുന്നു.",
+  "why": "La Niña കാലാവസ്ഥയിൽ കൂടുതലുള്ള മഴ വരാൻ സാധ്യതയുണ്ട്, ഇത് കൃഷിയും വെള്ളപ്പൊക്കവും ബാധിക്കും. യുവാക്കൾ കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ ശ്രദ്ധിച്ച്, വെള്ളം സംരക്ഷിക്കാൻ ശ്രമിക്കണം.",
+  "tags": [
+   "മോണ്സൂൺ",
+   "കാലാവസ്ഥ",
+   "വാർത്ത",
+   "ഇന്ത്യ",
+   "യുവാക്കൾ"
+  ]
+ }
+}

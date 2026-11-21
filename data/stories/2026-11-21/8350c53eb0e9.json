@@ -1,0 +1,37 @@
+{
+ "id": "8350c53eb0e9",
+ "created": "2026-11-21T07:56:40+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/koti-deepotsavam-emerges-as-grand-confluence-of-shaiva-vaishnava-traditions-in-telangana/article71720286.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Crore Lamps Light Up Telangana’s Koti Deepotsavam Festival",
+  "hook": "A sea of earthen lamps brings Shaiva and Vaishnava faiths together.",
+  "what": "The annual Koti Deepotsavam in Telangana featured the lighting of ten million earthen lamps. Spiritual leaders and devotees from across the state gathered for the event. The ceremony showcased rituals from both Shaiva and Vaishnava traditions at a single venue.",
+  "why": "It highlights the unity of diverse Hindu practices, offering young people a chance to witness cultural heritage. Attending or following the festival can deepen understanding of regional traditions.",
+  "tags": [
+   "KotiDeepotsavam",
+   "Telangana",
+   "CulturalHeritage",
+   "Festivals",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "തെലങ്കാനിലെ കോട്ടീ ദീപോത്സവം ക്രോഡം വിളക്കുകൾ പ്രകാശിപ്പിച്ചു",
+  "hook": "ശൈവ, വൈഷ്ണവ മതങ്ങളേയും ഒരുമിപ്പിക്കുന്ന മണ്ണ് വിളക്കുകളുടെ സമുദ്രം.",
+  "what": "തെലങ്കാനിൽ നടക്കുന്ന വാർഷിക കോട്ടീ ദീപോത്സവത്തിൽ ക്രോഡം മണ്ണ് വിളക്കുകൾ തെളിയിച്ചു. സംസ്ഥാനത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള ആത്മീയ നേതാക്കളും ഭക്തരും ഈ ചടങ്ങിൽ പങ്കെടുത്തു. ശൈവ, വൈഷ്ണവ ആചാരങ്ങൾ ഒരേ വേദിയിൽ പ്രദർശിപ്പിച്ചു.",
+  "why": "വൈവിധ്യമാർന്ന ഹിന്ദു പരമ്പരാഗതങ്ങളുടെ ഐക്യം കാണിക്കുന്ന ഈ ഉത്സവം യുവജനങ്ങൾക്ക് സാംസ്കാരിക ജ്ഞാനം വർദ്ധിപ്പിക്കാൻ സഹായിക്കും. പരിപാടി കാണുകയോ പിന്തുടരുകയോ ചെയ്യുന്നത് പ്രദേശിക സംസ്‌കാരം മനസ്സിലാക്കാൻ നല്ല മാർഗം.",
+  "tags": [
+   "കോട്ടീദീപോത്സവം",
+   "തെലങ്കാനി",
+   "സംസ്കാരപൈതൃകം",
+   "ഉത്സവം",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

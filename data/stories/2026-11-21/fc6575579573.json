@@ -1,0 +1,37 @@
+{
+ "id": "fc6575579573",
+ "created": "2026-11-21T07:56:47+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaTN1U0R2d2plb3ZLUk5HQk5iYjN6bUFwbzMyNy1ESG8xZks4M2YxNVFQRTFLN0lOeXVGenNFWVVWS21kMEtLeXFoaWN6YTNRR2NnQ1FibkFfbk83OVpHUDFURmJfTEc5b3NTcVkwVl9EeHVwNmpNVnFxTlRTOWZXY0Q5QUNFUjM3d2EzeEJSRnFFRjFOWWR1eWIwV1Ytb3QyM0ZjWlBWcVhTVGFfYkdDTElnSllpX1oxQkpWcXhFLURPR2IzamppUHMtSXM5RE1HMzZKM1ltRkdnbTNsampZX293bHNSOXA1TFoyU3BiQTVPM3Ezb1h5RE1LZGlRX0ltRVNrOEl1V1Fudw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India skips trophy ceremony as Pakistan clinches Blind Asia Cup",
+  "hook": "Rain ended the final, but the controversy just began.",
+  "what": "The men's blind cricket final was abandoned due to rain, and Pakistan were declared winners. The Indian team refused to attend the award ceremony in protest. Officials called the decision unfair.",
+  "why": "Young fans see how weather and rulings can affect sports outcomes, highlighting the need for clear tournament rules. Stay updated on cricket news and support fair play.",
+  "tags": [
+   "cricket",
+   "blindcricket",
+   "asiaCup",
+   "sports",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "മഴ കാരണം ഫൈനൽ റദ്ദായപ്പോൾ, ഇന്ത്യ ടീം ട്രോഫി ചടങ്ങിൽ നിന്ന് വിട്ടു",
+  "hook": "മഴയാൽ അവസാനമില്ലാതെ, വിവാദം തുടർന്നു",
+  "what": "പുരുഷന്മാരുടെ ബ്ലൈൻഡ് ക്രിക്കറ്റ് ഫൈനൽ മഴവെള്ളം മൂലം കളി നിർത്തി, പാക്കിസ്ഥാൻ ജേതാവായി പ്രഖ്യാപിച്ചു. ഇന്ത്യയുടെ ടീം അവാർഡ് ചടങ്ങിൽ പങ്കെടുക്കാതെ പ്രതിഷേധിച്ചു. തീരുമാനത്തെ അന്യായം എന്ന് വിമർശിച്ചു.",
+  "why": "ഇത് യുവാക്കൾക്ക് കളിയുടെ ഫലത്തെ കാലാവസ്ഥയും നിയമങ്ങളും എങ്ങനെ ബാധിക്കുമെന്നു കാണിക്കുന്നു, നീതിയുള്ള കളി ഉറപ്പാക്കാൻ നിയമങ്ങൾ ആവശ്യമാണ്. ക്രിക്കറ്റ് വാർത്തകൾ പിന്തുടർന്ന് നീതിപൂർണ്ണമായ കളി പിന്തുണയ്ക്കൂ.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ബ്ലൈൻഡ്‌ക്രിക്കറ്റ്",
+   "എഷ്യാകപ്പ്",
+   "സ്പോർട്സ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}
