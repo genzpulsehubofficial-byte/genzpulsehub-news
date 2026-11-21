@@ -1,0 +1,37 @@
+{
+ "id": "4d24484a8c9e",
+ "created": "2026-11-21T22:43:44+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/consumerfed-manager-by-day-liquor-salesman-by-night-congress-leader-gets-unusual-dual-posting-in-kerala-dh0267qd",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Congress leader appointed as Consumerfed manager and liquor outlet staff",
+  "hook": "A political figure now works evenings at a liquor shop.",
+  "what": "Consumerfed, a cooperative body, issued an order naming Congress leader J Freddy as the Thiruvananthapuram Regional Assistant Manager. The same order also assigns him a Rs 425 per day evening shift at a Statue liquor outlet.",
+  "why": "The dual role shows how politicians can hold multiple positions, raising questions about work balance and conflicts of interest. Young people should stay aware of such appointments in public bodies.",
+  "tags": [
+   "Kerala",
+   "politics",
+   "jobs",
+   "Consumerfed",
+   "dualrole"
+  ]
+ },
+ "ml": {
+  "headline": "കോൺഗ്രസ് നേതാവിന് Consumerfed മാനേജർ, ലിക്വർ ഷോപ്പിൽ ഷിഫ്റ്റ്",
+  "hook": "രാത്രി ലിക്വർ സ്റ്റോറിൽ ജോലി ചെയ്യുന്ന രാഷ്ട്രീയക്കാരൻ",
+  "what": "Consumerfed എന്ന സഹകരണസംഘം കോൺഗ്രസ് നേതാവായ J Freddy-നെ തിരുവനന്തപുരത്തെ റീജിയണൽ അസിസ്റ്റന്റ് മാനേജർ ആയി നിയമിച്ചു. അതേ സമയം അവനെ Statue ലിക്വർ ഔട്ട്ലെറ്റിൽ ദിനംപ്രതി Rs 425 വേതനം ലഭിക്കുന്ന സായാഹ്ന ഷിഫ്റ്റിലും ചുമതലപ്പെടുത്തി.",
+  "why": "ഇത് രാഷ്ട്രീയക്കാരും പൊതുസേവനങ്ങളും ഒരുമിച്ച് ചെയ്യുന്നതിന്റെ ഉദാഹരണമാണ്, ജോലി ബാലൻസ്, താൽപര്യസംഘർഷം എന്നിവയെക്കുറിച്ച് ചിന്തിക്കാൻ youngsters-നെ പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "Kerala",
+   "politics",
+   "jobs",
+   "Consumerfed",
+   "dualrole"
+  ]
+ }
+}

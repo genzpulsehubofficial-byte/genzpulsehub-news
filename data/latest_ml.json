@@ -1,5 +1,99 @@
 [
  {
+  "id": "53e8f4e5902d",
+  "created": "2026-11-21T22:43:28+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+  "headline": "ക്രിക്കറ്റ് താര യുസ്വേന്ദ്ര ചാഹൽ ബി.ജെ.പി.യിൽ ചേരുന്നു, ഒബിസി മോർച്ചയിൽ അംഗം",
+  "hook": "നിങ്ങളുടെ പ്രിയ സ്പിന്നർ രാഷ്ട്രീയത്തിൽ കടക്കുന്നു, പ്രധാന സ്ഥാനവും ലഭിച്ചു.",
+  "what": "അന്തർദേശീയ ക്രിക്കറ്റ് താരമായ യുസ്വേന്ദ്ര ചാഹൽ ബി.ജെ.പി.യിൽ ചേരുന്നതായി പ്രഖ്യാപിച്ചു. പാർട്ടിയുടെ ഒബിസി മോർച്ചാ കമ്മിറ്റി അംഗമായി നിയമിതനായി. ഇതിന് മുൻപ് അദ്ദേഹം മോർച്ചാ പ്രസിഡന്റ് അമർപാൽ മൗര്യയുമായി കൂടിക്കാഴ്ച നടത്തി.",
+  "why": "കായിക താരങ്ങൾ രാഷ്ട്രീയത്തിൽ പ്രവേശിക്കുന്നത് യുവജനങ്ങളുടെ പങ്കാളിത്തത്തെ ബാധിക്കാം. അദ്ദേഹത്തിന്റെ പ്രവർത്തനങ്ങളും യുവാവിനുള്ള പദ്ധതികളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "യുസ്വേന്ദ്രചാഹൽ",
+   "ബി.ജെ.പി",
+   "ഒബിസി മോർച്ച",
+   "രാഷ്ട്രീയം",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "bc0519d0b758",
+  "created": "2026-11-21T22:43:31+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/gold-prices-people-bought-less-gold-prices-fell-pm-narendra-modi-recalls-his-may-appeal-12359755#publisher=newsstand",
+  "headline": "മോഡി പറയുന്നു, കുറവ് ഗോൾഡ് വാങ്ങലാണ് വില താഴാൻ കാരണമായത്",
+  "hook": "ഗോൾഡ് വിലകൾ കുറയുന്നു, കാരണം ആളുകൾ കുറവ് വാങ്ങുന്നു, മോഡിയുടെ അഭിപ്രായം",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി, ആളുകൾ ഗോൾഡ് കുറവ് വാങ്ങിയതുകൊണ്ട് വിലകൾ താഴിയെന്ന് ലക്‌നോയിൽ ശനിയാഴ്ച പറഞ്ഞു. മേയ് മാസത്തിലെ ഗോൾഡ് വാങ്ങാൻ ആഹ്വാനം ഓർമ്മപ്പെടുത്തി.",
+  "why": "വില കുറയുന്നത് യുവജനങ്ങളുടെ നിക്ഷേപം, സംരക്ഷണം എന്നിവയെ ബാധിക്കും. ഗോൾഡ് വാങ്ങുന്നതിന് മുൻപ് മാർക്കറ്റ് സ്ഥിതി പരിശോധിക്കുക.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വില",
+   "മോഡി",
+   "അർത്ഥവ്യവസ്ഥ"
+  ]
+ },
+ {
+  "id": "01945f6a907c",
+  "created": "2026-11-21T22:43:34+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "headline": "ടെക്സ്റ്റ് സന്ദേശങ്ങളിലെ മികച്ച AI ഏജന്റുകൾ",
+  "hook": "നിങ്ങളുടെ ചാറ്റിൽ അടുത്ത സുഹൃത്ത് AI ആയിരിക്കാം.",
+  "what": "TechCrunch ഒരു ലിസ്റ്റ് തയ്യാറാക്കി, ടെക്സ്റ്റ് മെസ്സേജിംഗ് ആപ്പുകളിൽ നേരിട്ട് ഉപയോഗിക്കാവുന്ന AI ഏജന്റുകൾ ചൂണ്ടിക്കാട്ടി. ഇതിൽ പൊതുവായ സഹായികളും കുടുംബം, യാത്ര, ജോലി എന്നിവയ്ക്ക് പ്രത്യേകമായി രൂപകൽപ്പന ചെയ്ത ബോട്ടുകളും ഉൾപ്പെടുന്നു.",
+  "why": "ഇവ teens‑ക്ക് ചാറ്റ് ആപ്പിൽ തന്നെ ചോദ്യങ്ങൾക്ക് ഉത്തരം, ഷെഡ്യൂൾ മാനേജ്മെന്റ്, യാത്രാ പ്ലാനിംഗ് തുടങ്ങിയവ എളുപ്പത്തിൽ ചെയ്യാൻ സഹായിക്കും. ലിസ്റ്റ് പരിശോധിച്ച് നിങ്ങളുടെ ആവശ്യത്തിന് അനുയോജ്യമായ ബോട്ട് തിരഞ്ഞെടുക്കൂ.",
+  "tags": [
+   "AI",
+   "ChatBots",
+   "Messaging",
+   "Tech",
+   "Productivity"
+  ]
+ },
+ {
+  "id": "94bdaec4c4e4",
+  "created": "2026-11-21T22:43:37+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
+  "headline": "Swish-ന് ₹50 ക്ര revenue, loss ₹91 ക്ര വരെ",
+  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട ക്വിക്ക് ഫുഡ് ആപ്പ്, വിൽപ്പന ഉയർന്നിട്ടും പണം നഷ്ടമാക്കുന്നു.",
+  "what": "ക്വിക്ക് ഫുഡ് ഡെലിവറി സ്റ്റാർട്ടപ്പ് Swish ആദ്യ സാമ്പത്തിക വർഷത്തിൽ 50 കോടി രൂപയുടെ വരുമാനം രേഖപ്പെടുത്തി. അതേ സമയം, ശുദ്ധ നഷ്ടം 91 കോടി രൂപയിലേക്ക് വർധിച്ചു.",
+  "why": "പുതിയ ഡെലിവറി പ്ലാറ്റ്ഫോംകൾ ലാഭം നേടാൻ എത്ര ബുദ്ധിമുട്ട് നേരിടുന്നു എന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ സേവനങ്ങൾ ഉപയോഗിക്കുമ്പോൾ അല്ലെങ്കിൽ നിക്ഷേപം ചെയ്യുമ്പോൾ ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "Swish",
+   "startup",
+   "revenue",
+   "loss",
+   "fooddelivery"
+  ]
+ },
+ {
+  "id": "4d24484a8c9e",
+  "created": "2026-11-21T22:43:44+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/consumerfed-manager-by-day-liquor-salesman-by-night-congress-leader-gets-unusual-dual-posting-in-kerala-dh0267qd",
+  "headline": "കോൺഗ്രസ് നേതാവിന് Consumerfed മാനേജർ, ലിക്വർ ഷോപ്പിൽ ഷിഫ്റ്റ്",
+  "hook": "രാത്രി ലിക്വർ സ്റ്റോറിൽ ജോലി ചെയ്യുന്ന രാഷ്ട്രീയക്കാരൻ",
+  "what": "Consumerfed എന്ന സഹകരണസംഘം കോൺഗ്രസ് നേതാവായ J Freddy-നെ തിരുവനന്തപുരത്തെ റീജിയണൽ അസിസ്റ്റന്റ് മാനേജർ ആയി നിയമിച്ചു. അതേ സമയം അവനെ Statue ലിക്വർ ഔട്ട്ലെറ്റിൽ ദിനംപ്രതി Rs 425 വേതനം ലഭിക്കുന്ന സായാഹ്ന ഷിഫ്റ്റിലും ചുമതലപ്പെടുത്തി.",
+  "why": "ഇത് രാഷ്ട്രീയക്കാരും പൊതുസേവനങ്ങളും ഒരുമിച്ച് ചെയ്യുന്നതിന്റെ ഉദാഹരണമാണ്, ജോലി ബാലൻസ്, താൽപര്യസംഘർഷം എന്നിവയെക്കുറിച്ച് ചിന്തിക്കാൻ youngsters-നെ പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "Kerala",
+   "politics",
+   "jobs",
+   "Consumerfed",
+   "dualrole"
+  ]
+ },
+ {
   "id": "1d904bd8bbbb",
   "created": "2026-11-21T21:50:09+05:30",
   "category": "headlines",
@@ -657,100 +751,6 @@
    "പോർട്ട്ഫോളിയോ",
    "യുവാക്കൾ",
    "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "4fe187a0fb91",
-  "created": "2026-11-21T14:04:15+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kiren-rijiju-hits-back-at-rahul-gandhis-compromised-pm-jibe-questions-congress-on-1962-war-poverty/article71727457.ece",
-  "headline": "റിജിജു ഗാന്ധിയുടെ 'കമ്പ്രോമൈസ്ഡ് PM' വിമർശനത്തെതിരെ മറുപടി, 1962 യുദ്ധത്തെക്കുറിച്ച് ചോദ്യം",
-  "hook": "രാഷ്ട്രീയ തർക്കം ഇന്ത്യയുടെ ചരിത്രവും ദാരിദ്ര്യവും സംബന്ധിച്ച് പുതിയ ചർച്ചയ്ക്ക് വഴിയൊരുക്കി",
-  "what": "കോൺഗ്രസ് നേതാവ് രാഹുൽ ഗാൻധി പ്രധാനമന്ത്രിയെ കമ്പ്രോമൈസ്ഡ് എന്ന് ആരോപിച്ചു. ബി.ജെ.പി. മന്ത്രിയായ കിരൺ റിജിജു മറുപടി നൽകി, 1962 യുദ്ധവും ദാരിദ്ര്യവും സംബന്ധിച്ച് കോൺഗ്രസ് ചോദ്യം ചെയ്തു. ഈ പരസ്പരവാദം ബി.ജെ.പി. നേതാക്കളെ ഗാൻധിയെ ആഗോള ഭൂ-രാഷ്ട്രീയത്തിൽ അജ്ഞാനി എന്ന് വിമർശിക്കാൻ നയിച്ചു.",
-  "why": "ഇത്തരത്തിലുള്ള ചർച്ചകൾ രാജ്യത്തിന്റെ നയങ്ങളും യുവതലമുറയുടെ കാഴ്ചപ്പാടുകളും സ്വാധീനിക്കും. രാഷ്ട്രീയത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ, നിങ്ങളുടെ അഭിപ്രായം രൂപപ്പെടുത്തൂ.",
-  "tags": [
-   "രാഷ്ട്രീയം",
-   "ഇന്ത്യ",
-   "വിവാദം",
-   "ചരിത്രം",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "a369834fa01d",
-  "created": "2026-11-21T14:05:23+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSFIwX3NSaThDeS1PdTdmSGxscnNjNDZkaFVsdjViQ2pXMEdTYjM0YlRMdmcwUzJLS2hBaWxabUhLQ3ZRV05EeENfTHh0ZHRLN2JmbWx5N2JTVjN3MlhZRlNKUVh5Tmw1UGVFTERGQXlVSUpOUzVUdEdwaU15b3p3VDZmN19TQk41bTEzY2hmTmNLRmllUVdoTXVUanRtdDFyQjFRRnBTeENnWHU0aG1BOVYzcFdPQmROZHJUQTRkZ3EtMm9LWU9xQ1lyLVk3VHVXOW9iMNIB2wFBVV95cUxQZDU5ZWVsaFVuWWFhdHN2NF9kRnIzUHJGTkNLYUJ4dWNDNDFidjc4YnBVMzB4X2tKcWE0VHhONXpRcE5MazhyZ2lpbldLX3FDZ0JXU1hqTVE4MEZmR2ZFQTZyd0FrVTBxc0xCMkMyaEhXZ1k3Qm5MYi1HdFc3UENqQnFMeFRGZzJRYjQxSUlTNzlCbm5aa1ozdUlKT1V6NTZIYVgxZVNsZkF0MnA2R0Rqd1d6d1pUMGFNRXFLVjhna1NrMTFvaXZjeEY5NWdBX3BNT1pOa2s1YTR3cFU?oc=5",
-  "headline": "EPFO വിരമിച്ചവർക്കു മാസവേതന ഓപ്ഷന്‍ നല്‍കുന്നു",
-  "hook": "നിങ്ങളുടെ PF ഇപ്പോൾ സ്ഥിരമായ ശമ്പളമായി മാറാം.",
-  "what": "Employees' Provident Fund Organisation ഒരു Systematic Withdrawal Plan ആരംഭിച്ചു, അതിലൂടെ വിരമിച്ചവർക്കു PF ബാലൻസ് നിലനിർത്തി സ്ഥിരമായ മാസവരുമാനം ലഭിക്കും. ഈ പദ്ധതി Dr. Mansukh Mandaviya ചുമതലയിലുള്ള 240‑ാം Central Board of Trustees യോഗത്തിൽ ചർച്ച ചെയ്തു. പദ്ധതി സംബന്ധിച്ച് വരുമാന നികുതിയിൽ മാറ്റങ്ങൾക്കായി ശ്രമം നടക്കുന്നു.",
-  "why": "ഇന്ന് ജോലി ചെയ്യുന്ന യുവാക്കൾക്ക് ഭാവി വിരമിക്കൽ പദ്ധതികളിൽ ഈ ഓപ്ഷൻ അറിയേണ്ടതുണ്ട്, നികുതി പ്രതിഫലങ്ങൾക്കായി തയ്യാറാകാം. പേയ്മെന്റ് രീതിയെ മനസ്സിലാക്കുന്നത് ദീർഘകാല സാമ്പത്തിക തീരുമാനങ്ങളിൽ സഹായിക്കും.",
-  "tags": [
-   "EPFO",
-   "PF",
-   "വിരമിക്കൽ",
-   "മാസവരുമാനം",
-   "നികുതി"
-  ]
- },
- {
-  "id": "84be7f37d1ef",
-  "created": "2026-11-21T14:05:25+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/malayali-travel-vlogger-dies-during-everest-base-camp-trek-in-nepal-ams-suspected-kjvvxqar",
-  "headline": "മലെയാലി വ്ലോഗർ എവറസ്റ്റ് ബേസ് ക്യാമ്പിൽ മരണം",
-  "hook": "പ്രസിദ്ധ യാത്രാ ക്രിയേറ്ററുടെ മരണം, ഉയർന്ന ഉയരത്തിൽ സുരക്ഷയുടെ പ്രാധാന്യം",
-  "what": "അഞ്ചുനാഥ്, കഴിഞ്ഞ വർഷം അന്നപൂർണ്ണ ബേസ് ക്യാമ്പ് പൂർത്തിയാക്കിയവൻ, നെപ്പാളിലെ എവറസ്റ്റ് ബേസ് ക്യാമ്പ് ട്രെക്കിൽ മരണമടഞ്ഞു. ആക്യൂട് മൗണ്ടൻ സിക്ക്നസ് (AMS) കാരണമാകാം എന്ന് സംശയിക്കുന്നു.",
-  "why": "ഉയർന്ന ഉയരത്തിലുള്ള ട്രെക്കുകൾ ചെയ്യുമ്പോൾ ആൾട്ടിറ്റ്യൂഡ് രോഗം ഒഴിവാക്കാൻ ശരിയായ തയ്യാറെടുപ്പ് ആവശ്യമാണ്.",
-  "tags": [
-   "Everest",
-   "Travel",
-   "Vlogger",
-   "AltitudeSickness",
-   "India"
-  ]
- },
- {
-  "id": "3af037c1d284",
-  "created": "2026-11-21T13:12:43+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/west-bengal/remnants-of-cyclone-akvan-to-bring-rain-in-bengal-till-november-22-imd/article71727586.ece",
-  "headline": "Cyclone Akvan‑ന്റെ അവശിഷ്ടം ബെംഗാളിൽ മഴയും കാറ്റും",
-  "hook": "ഈ വാരാന്ത്യത്തിൽ ബെംഗാളിൽ അപ്രതീക്ഷിത മഴയും കാറ്റും വരാൻ സാധ്യത.",
-  "what": "ഇന്ത്യാ കാലാവസ്ഥ വകുപ്പ് പറയുന്നു, സൈക്ലോൺ അക്വാന്റെ അവശിഷ്ടം നവംബർ 22 വരെ ബെംഗാളിൽ മഴ കൊണ്ടുവരും. ശനിയാഴ്ച ദക്ഷിണ ബെംഗാളിലെ ഭൂരിഭാഗം ജില്ലകളിലും ചില ഉത്തര ജില്ലകളിലും 30‑40 km/h വേഗതയുള്ള കാറ്റോടുകൂടിയ ഇടിയൻ മഴ പ്രതീക്ഷിക്കുന്നു.",
-  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കുടയും ജാക്കറ്റും കൈയിൽ വെക്കണം,突雨 യാത്രാ പദ്ധതികളെ ബാധിക്കാം.",
-  "tags": [
-   "BengalWeather",
-   "CycloneAkvan",
-   "RainAlert",
-   "TravelTips"
-  ]
- },
- {
-  "id": "31c07cd42f7b",
-  "created": "2026-11-21T13:12:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/one-dies-four-injured-after-a-car-plunges-into-gorge-in-yercaud/article71727600.ece",
-  "headline": "യേർകാവ് ഗട്ടിൽ കാർ അപകടം: 1 മരണം, 4 പരിക്ക്",
-  "hook": "രാത്രി ഡ്രൈവ്‌ ഒരു ദുഃഖകരമായ വീഴ്ചയായി മാറി.",
-  "what": "രാത്രി 10.30 മണിക്ക് കീറൈകാട് സമീപം, ഡ്രൈവർ നിയന്ത്രണം നഷ്ടപ്പെടുത്തി, യേർകാവ്‑കുപ്പാനൂർ ഗട്ട് റോഡിലെ 100 അടി ആഴമുള്ള കിണറിൽ കാർ വീണു. ഒരു യാത്രക്കാരന്‍ മരിക്കുകയും, നാല് പേർക്ക് പരിക്കേൽക്കുകയും ചെയ്തു.",
-  "why": "ഇത്തരത്തിലുള്ള അപകടങ്ങൾ ഹിലി റോഡുകളിൽ സുരക്ഷാ ജാഗ്രതയുടെ ആവശ്യം കാണിക്കുന്നു; യുവ ഡ്രൈവർമാർ രാത്രി സമയത്ത് ജാഗ്രത പാലിക്കണം.",
-  "tags": [
-   "യേർകാവ്",
-   "അപകടം",
-   "റോഡ്‌സേഫ്റ്റി",
-   "തമിഴ്നാട്",
-   "വാർത്ത"
   ]
  }
 ]

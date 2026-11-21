@@ -1,0 +1,37 @@
+{
+ "id": "94bdaec4c4e4",
+ "created": "2026-11-21T22:43:37+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Swish posts ₹50 cr revenue, loss jumps to ₹91 cr",
+  "hook": "Your favorite quick‑food app is burning cash despite big sales.",
+  "what": "Swish, a quick food delivery startup, reported revenue of just over ₹50 crore for its first fiscal year. At the same time, its net loss widened to about ₹91 crore.",
+  "why": "The figures show the challenges new delivery platforms face in becoming profitable, a reminder to be cautious when using or investing in such services.",
+  "tags": [
+   "Swish",
+   "startup",
+   "revenue",
+   "loss",
+   "fooddelivery"
+  ]
+ },
+ "ml": {
+  "headline": "Swish-ന് ₹50 ക്ര revenue, loss ₹91 ക്ര വരെ",
+  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട ക്വിക്ക് ഫുഡ് ആപ്പ്, വിൽപ്പന ഉയർന്നിട്ടും പണം നഷ്ടമാക്കുന്നു.",
+  "what": "ക്വിക്ക് ഫുഡ് ഡെലിവറി സ്റ്റാർട്ടപ്പ് Swish ആദ്യ സാമ്പത്തിക വർഷത്തിൽ 50 കോടി രൂപയുടെ വരുമാനം രേഖപ്പെടുത്തി. അതേ സമയം, ശുദ്ധ നഷ്ടം 91 കോടി രൂപയിലേക്ക് വർധിച്ചു.",
+  "why": "പുതിയ ഡെലിവറി പ്ലാറ്റ്ഫോംകൾ ലാഭം നേടാൻ എത്ര ബുദ്ധിമുട്ട് നേരിടുന്നു എന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ സേവനങ്ങൾ ഉപയോഗിക്കുമ്പോൾ അല്ലെങ്കിൽ നിക്ഷേപം ചെയ്യുമ്പോൾ ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "Swish",
+   "startup",
+   "revenue",
+   "loss",
+   "fooddelivery"
+  ]
+ }
+}

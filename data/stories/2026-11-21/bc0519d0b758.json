@@ -1,0 +1,35 @@
+{
+ "id": "bc0519d0b758",
+ "created": "2026-11-21T22:43:31+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/gold-prices-people-bought-less-gold-prices-fell-pm-narendra-modi-recalls-his-may-appeal-12359755#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Modi says lower gold buying caused price dip",
+  "hook": "Gold prices fell after fewer people bought it, says PM",
+  "what": "Prime Minister Narendra Modi said that reduced gold purchases led to a drop in gold prices. He made the comment in Lucknow on Saturday, recalling his May appeal urging people to buy gold.",
+  "why": "Falling gold prices can impact savings and investment plans for young Indians. Watch market trends before deciding to buy gold.",
+  "tags": [
+   "gold",
+   "prices",
+   "Modi",
+   "economy"
+  ]
+ },
+ "ml": {
+  "headline": "മോഡി പറയുന്നു, കുറവ് ഗോൾഡ് വാങ്ങലാണ് വില താഴാൻ കാരണമായത്",
+  "hook": "ഗോൾഡ് വിലകൾ കുറയുന്നു, കാരണം ആളുകൾ കുറവ് വാങ്ങുന്നു, മോഡിയുടെ അഭിപ്രായം",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി, ആളുകൾ ഗോൾഡ് കുറവ് വാങ്ങിയതുകൊണ്ട് വിലകൾ താഴിയെന്ന് ലക്‌നോയിൽ ശനിയാഴ്ച പറഞ്ഞു. മേയ് മാസത്തിലെ ഗോൾഡ് വാങ്ങാൻ ആഹ്വാനം ഓർമ്മപ്പെടുത്തി.",
+  "why": "വില കുറയുന്നത് യുവജനങ്ങളുടെ നിക്ഷേപം, സംരക്ഷണം എന്നിവയെ ബാധിക്കും. ഗോൾഡ് വാങ്ങുന്നതിന് മുൻപ് മാർക്കറ്റ് സ്ഥിതി പരിശോധിക്കുക.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വില",
+   "മോഡി",
+   "അർത്ഥവ്യവസ്ഥ"
+  ]
+ }
+}

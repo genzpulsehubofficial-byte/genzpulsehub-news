@@ -1,0 +1,37 @@
+{
+ "id": "53e8f4e5902d",
+ "created": "2026-11-21T22:43:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/yuzvendra-chahal-joins-bjp-gets-role-in-partys-obc-morcha-committee-12359712#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Cricketer Yuzvendra Chahal joins BJP, appointed to OBC Morcha",
+  "hook": "Your favourite spinner steps into politics with a key party role.",
+  "what": "International cricketer Yuzvendra Chahal announced his entry into the Bharatiya Janata Party. He has been given a position in the party’s OBC Morcha committee. Earlier, he met the Morcha’s president, Amarpal Maurya.",
+  "why": "His move shows sports personalities entering politics, which could influence youth engagement. Keep an eye on his political activities and any initiatives targeting young voters.",
+  "tags": [
+   "YuzvendraChahal",
+   "BJP",
+   "OBCMorcha",
+   "Politics",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ക്രിക്കറ്റ് താര യുസ്വേന്ദ്ര ചാഹൽ ബി.ജെ.പി.യിൽ ചേരുന്നു, ഒബിസി മോർച്ചയിൽ അംഗം",
+  "hook": "നിങ്ങളുടെ പ്രിയ സ്പിന്നർ രാഷ്ട്രീയത്തിൽ കടക്കുന്നു, പ്രധാന സ്ഥാനവും ലഭിച്ചു.",
+  "what": "അന്തർദേശീയ ക്രിക്കറ്റ് താരമായ യുസ്വേന്ദ്ര ചാഹൽ ബി.ജെ.പി.യിൽ ചേരുന്നതായി പ്രഖ്യാപിച്ചു. പാർട്ടിയുടെ ഒബിസി മോർച്ചാ കമ്മിറ്റി അംഗമായി നിയമിതനായി. ഇതിന് മുൻപ് അദ്ദേഹം മോർച്ചാ പ്രസിഡന്റ് അമർപാൽ മൗര്യയുമായി കൂടിക്കാഴ്ച നടത്തി.",
+  "why": "കായിക താരങ്ങൾ രാഷ്ട്രീയത്തിൽ പ്രവേശിക്കുന്നത് യുവജനങ്ങളുടെ പങ്കാളിത്തത്തെ ബാധിക്കാം. അദ്ദേഹത്തിന്റെ പ്രവർത്തനങ്ങളും യുവാവിനുള്ള പദ്ധതികളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "യുസ്വേന്ദ്രചാഹൽ",
+   "ബി.ജെ.പി",
+   "ഒബിസി മോർച്ച",
+   "രാഷ്ട്രീയം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

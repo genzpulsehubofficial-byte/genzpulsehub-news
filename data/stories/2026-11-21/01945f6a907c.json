@@ -1,0 +1,37 @@
+{
+ "id": "01945f6a907c",
+ "created": "2026-11-21T22:43:34+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Top AI Chat Agents Ready for Your Texts",
+  "hook": "Your next texting buddy could be an AI.",
+  "what": "TechCrunch put together a list of AI agents that work directly inside messaging apps. The lineup covers all‑purpose assistants and niche bots for family coordination, travel planning, and workplace tasks.",
+  "why": "These helpers let teens handle chores, plan trips, or get quick answers without leaving the chat. Check the list to find a bot that matches your daily needs.",
+  "tags": [
+   "AI",
+   "ChatBots",
+   "Messaging",
+   "Tech",
+   "Productivity"
+  ]
+ },
+ "ml": {
+  "headline": "ടെക്സ്റ്റ് സന്ദേശങ്ങളിലെ മികച്ച AI ഏജന്റുകൾ",
+  "hook": "നിങ്ങളുടെ ചാറ്റിൽ അടുത്ത സുഹൃത്ത് AI ആയിരിക്കാം.",
+  "what": "TechCrunch ഒരു ലിസ്റ്റ് തയ്യാറാക്കി, ടെക്സ്റ്റ് മെസ്സേജിംഗ് ആപ്പുകളിൽ നേരിട്ട് ഉപയോഗിക്കാവുന്ന AI ഏജന്റുകൾ ചൂണ്ടിക്കാട്ടി. ഇതിൽ പൊതുവായ സഹായികളും കുടുംബം, യാത്ര, ജോലി എന്നിവയ്ക്ക് പ്രത്യേകമായി രൂപകൽപ്പന ചെയ്ത ബോട്ടുകളും ഉൾപ്പെടുന്നു.",
+  "why": "ഇവ teens‑ക്ക് ചാറ്റ് ആപ്പിൽ തന്നെ ചോദ്യങ്ങൾക്ക് ഉത്തരം, ഷെഡ്യൂൾ മാനേജ്മെന്റ്, യാത്രാ പ്ലാനിംഗ് തുടങ്ങിയവ എളുപ്പത്തിൽ ചെയ്യാൻ സഹായിക്കും. ലിസ്റ്റ് പരിശോധിച്ച് നിങ്ങളുടെ ആവശ്യത്തിന് അനുയോജ്യമായ ബോട്ട് തിരഞ്ഞെടുക്കൂ.",
+  "tags": [
+   "AI",
+   "ChatBots",
+   "Messaging",
+   "Tech",
+   "Productivity"
+  ]
+ }
+}
