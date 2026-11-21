@@ -1,0 +1,37 @@
+{
+ "id": "c856813c3ac7",
+ "created": "2026-11-21T21:50:21+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/tdb-no-proposal-to-reopen-sabarimala-spot-booking-at-pampa-pti5rs9w52x",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sabarimala booking centre stays at Nilakkal, no Pampa plans",
+  "hook": "Pilgrims still need to go to Nilakkal for spot reservations.",
+  "what": "The Travancore Devaswom Board said there is no plan to restart the Sabarimala spot‑booking office at Pampa. The existing centre at Nilakkal will keep operating as the only booking point.",
+  "why": "Young travelers planning a pilgrimage should note the booking location hasn't changed, so they must book through Nilakkal. Check the official TDB updates before traveling.",
+  "tags": [
+   "Sabarimala",
+   "Kerala",
+   "Pilgrimage",
+   "Travel",
+   "Booking"
+  ]
+ },
+ "ml": {
+  "headline": "സബരിമല ബുക്കിംഗ് കേന്ദ്രം നിലക്കലിലേ, പമ്പയിൽ വീണ്ടും തുറക്കില്ല",
+  "hook": "പവിത്രയാത്രക്കാർക്ക് ബുക്ക് ചെയ്യാൻ ഇപ്പോഴും നിലക്കലിലേ പോകണം.",
+  "what": "ട്രാവന്‍കോർ ദേവസ്വം ബോര്‍ഡ് പറഞ്ഞത്, പമ്പയിൽ സബരിമല സ്പോട്ട് ബുക്കിംഗ് കേന്ദ്രം വീണ്ടും തുറക്കാൻ പദ്ധതിയില്ല. നിലവിലെ ബുക്കിംഗ് ഓഫീസ് നിലക്കലിലാണ്, അതാണ് ഏക കേന്ദ്രം.",
+  "why": "യുവയാത്രികർക്ക് ബുക്കിംഗ് സ്ഥലം മാറിയിട്ടില്ലെന്ന് ശ്രദ്ധിക്കണം, അതിനാൽ നിലക്കലിലൂടെ തന്നെ രജിസ്ട്രേഷൻ ചെയ്യണം. ഔദ്യോഗിക പ്രഖ്യാപനങ്ങൾ പരിശോധിച്ച് യാത്രാ പദ്ധതികൾ തയ്യാറാക്കുക.",
+  "tags": [
+   "സബരിമല",
+   "കേരളം",
+   "യാത്ര",
+   "ബുക്കിംഗ്",
+   "പവിത്രയാത്ര"
+  ]
+ }
+}

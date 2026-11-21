@@ -1,0 +1,37 @@
+{
+ "id": "1d904bd8bbbb",
+ "created": "2026-11-21T21:50:09+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "US panel says China backs Pakistan after Operation Sindoor",
+  "hook": "China may be quietly aiding Pakistan amid Indo‑China tensions.",
+  "what": "A US congressional panel released a report stating that China is working to curb India's rise. The report claims China supported Pakistan after the incident known as Operation Sindoor, without direct military involvement.",
+  "why": "The alleged backing could affect regional stability and India's security outlook, so staying informed about foreign policy shifts is important.",
+  "tags": [
+   "China",
+   "Pakistan",
+   "India",
+   "USPanel",
+   "OperationSindoor"
+  ]
+ },
+ "ml": {
+  "headline": "US പാനൽ പറയുന്നു ചൈന ഒപ്പറേഷൻ സിന്ദൂരിന് ശേഷം പാകിസ്ഥാൻ പിന്തുണയ്ക്കുന്നു",
+  "hook": "ചൈന നേരിട്ട് പോരാട്ടം കൂടാതെ പാകിസ്ഥാനെ സഹായിക്കാം.",
+  "what": "ഒരു US കോൺഗ്രസ്സ് പാനൽ പുറത്തിറക്കിയ റിപ്പോർട്ട് ചൈന ഇന്ത്യയുടെ ഉയർച്ചയെ തടയാൻ ശ്രമിക്കുന്നുവെന്ന് പറയുന്നു. ഈ റിപ്പോർട്ട് ചൈന ഒപ്പറേഷൻ സിന്ദൂരിന് ശേഷം പാകിസ്ഥാൻക്ക് പിന്തുണ നൽകി, നേരിട്ടുള്ള സൈനിക ഇടപെടൽ ഇല്ലാതെ എന്ന് സൂചിപ്പിക്കുന്നു.",
+  "why": "ഇത് പ്രദേശിക സ്ഥിരതക്കും ഇന്ത്യയുടെ സുരക്ഷാ ദൃഷ്ടികോണത്തിനും സ്വാധീനം ചെലുത്താം, അതിനാൽ വിദേശ നയത്തിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിവുള്ളവരായി ഇരിക്കുക.",
+  "tags": [
+   "ചൈന",
+   "പാകിസ്ഥാൻ",
+   "ഇന്ത്യ",
+   "USപാനൽ",
+   "ഒപ്പറേഷൻസിന്ദൂർ"
+  ]
+ }
+}

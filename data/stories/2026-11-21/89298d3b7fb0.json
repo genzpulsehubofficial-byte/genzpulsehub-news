@@ -1,0 +1,37 @@
+{
+ "id": "89298d3b7fb0",
+ "created": "2026-11-21T21:50:18+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Actor sells AI face to microdrama startup amid China trend",
+  "hook": "Your favorite star’s digital double could soon appear in any show.",
+  "what": "An actor has given a microdrama startup the rights to use his likeness in AI‑generated content. The practice is already common in China. Experts warn it could have lasting effects if Hollywood follows suit.",
+  "why": "It shows how AI may reshape entertainment and image rights, something teens should keep an eye on as it could affect the media they watch.",
+  "tags": [
+   "AI",
+   "digitalfaces",
+   "entertainment",
+   "Hollywood",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "അഭിനേതാവ് AI മുഖം മൈക്രോഡ്രാമാ സ്റ്റാർട്ടപ്പിന് വിറ്റു",
+  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട താരത്തിന്റെ ഡിജിറ്റൽ ഡബിൾ അടുത്തകാലത്ത് ഏത് ഷോവിലും കാണാം.",
+  "what": "ഒരു അഭിനേതാവ് തന്റെ മുഖം AI‑യിൽ ഉപയോഗിക്കാൻ ഒരു മൈക്രോഡ്രാമാ സ്റ്റാർട്ടപ്പിന് ലൈസൻസ് നൽകി. ഈ രീതിയുള്ള ഉപയോഗം ചൈനയിൽ ഇതിനകം വ്യാപകമാണ്. ഹോളിവുഡിൽ ഇതു വ്യാപിച്ചാൽ ദീർഘകാല ഫലങ്ങൾ ഉണ്ടാകാമെന്ന് വിദഗ്ധർ ചൂണ്ടിക്കാട്ടുന്നു.",
+  "why": "ഇത് വിനോദം എങ്ങനെ മാറും, വ്യക്തിഗത ചിത്രം അവകാശങ്ങൾ എങ്ങനെ ബാധിക്കും എന്നതിനെക്കുറിച്ച് യുവാക്കൾക്ക് അറിവ് വേണം. ഭാവിയിലെ മീഡിയ ഉപയോഗത്തിൽ ഇത് സ്വാധീനം ചെലുത്താം.",
+  "tags": [
+   "AI",
+   "ഡിജിറ്റൽമുഖം",
+   "വിനോദം",
+   "ഹോളിവുഡ്",
+   "ടെക്"
+  ]
+ }
+}

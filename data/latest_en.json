@@ -1,5 +1,62 @@
 [
  {
+  "id": "1d904bd8bbbb",
+  "created": "2026-11-21T21:50:09+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/china-working-to-suppress-india-s-rise-backed-pakistan-after-operation-sindoor-us-panel-s-report-101795272505336.html",
+  "headline": "US panel says China backs Pakistan after Operation Sindoor",
+  "hook": "China may be quietly aiding Pakistan amid Indo‑China tensions.",
+  "what": "A US congressional panel released a report stating that China is working to curb India's rise. The report claims China supported Pakistan after the incident known as Operation Sindoor, without direct military involvement.",
+  "why": "The alleged backing could affect regional stability and India's security outlook, so staying informed about foreign policy shifts is important.",
+  "tags": [
+   "China",
+   "Pakistan",
+   "India",
+   "USPanel",
+   "OperationSindoor"
+  ]
+ },
+ {
+  "id": "89298d3b7fb0",
+  "created": "2026-11-21T21:50:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+  "headline": "Actor sells AI face to microdrama startup amid China trend",
+  "hook": "Your favorite star’s digital double could soon appear in any show.",
+  "what": "An actor has given a microdrama startup the rights to use his likeness in AI‑generated content. The practice is already common in China. Experts warn it could have lasting effects if Hollywood follows suit.",
+  "why": "It shows how AI may reshape entertainment and image rights, something teens should keep an eye on as it could affect the media they watch.",
+  "tags": [
+   "AI",
+   "digitalfaces",
+   "entertainment",
+   "Hollywood",
+   "tech"
+  ]
+ },
+ {
+  "id": "c856813c3ac7",
+  "created": "2026-11-21T21:50:21+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/tdb-no-proposal-to-reopen-sabarimala-spot-booking-at-pampa-pti5rs9w52x",
+  "headline": "Sabarimala booking centre stays at Nilakkal, no Pampa plans",
+  "hook": "Pilgrims still need to go to Nilakkal for spot reservations.",
+  "what": "The Travancore Devaswom Board said there is no plan to restart the Sabarimala spot‑booking office at Pampa. The existing centre at Nilakkal will keep operating as the only booking point.",
+  "why": "Young travelers planning a pilgrimage should note the booking location hasn't changed, so they must book through Nilakkal. Check the official TDB updates before traveling.",
+  "tags": [
+   "Sabarimala",
+   "Kerala",
+   "Pilgrimage",
+   "Travel",
+   "Booking"
+  ]
+ },
+ {
   "id": "5ec8c3f43907",
   "created": "2026-11-21T21:00:30+05:30",
   "category": "sports",
@@ -694,63 +751,6 @@
    "safety",
    "TamilNadu",
    "news"
-  ]
- },
- {
-  "id": "7a62bd9d2e78",
-  "created": "2026-11-21T13:12:49+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/golden-lessons-from-past-gold-price-fluctuations-amid-current-gold-price-crash-32-down-from-its-peak-in-2026-11795234156396.html",
-  "headline": "Gold down 32% since 2026 peak, recovery may take years",
-  "hook": "A steep drop could mean a long wait for price bounce.",
-  "what": "Gold prices have slipped almost 32% from their January 2026 high. Past corrections show it typically takes six to ten years for gold to climb back to earlier levels.",
-  "why": "Young investors should expect a prolonged recovery and plan long‑term, rather than expecting quick gains.",
-  "tags": [
-   "gold",
-   "investing",
-   "markets",
-   "finance",
-   "recovery"
-  ]
- },
- {
-  "id": "f673bb453730",
-  "created": "2026-11-21T13:12:51+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/silver-rate-today-in-india-latest-prices-in-delhi-mumbai-chennai-and-other-cities-after-a-sharp-bullion-market-crash-11795243551283.html",
-  "headline": "Silver Prices Plunge Over 60% Since January",
-  "hook": "The metal that once shone is now cheap.",
-  "what": "Silver’s market price has fallen more than 60% from its January high, according to the latest data on 21 November. Prices are listed per kilogram and per 100 grams for major Indian cities such as Delhi, Mumbai, Chennai and Kolkata.",
-  "why": "A steep drop may affect anyone considering silver as an investment or a purchase, so young buyers should compare current rates before deciding.",
-  "tags": [
-   "silver",
-   "prices",
-   "investment",
-   "india",
-   "markets"
-  ]
- },
- {
-  "id": "77ba8c670c70",
-  "created": "2026-11-21T13:12:53+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878",
-  "headline": "Logitech launches MX Master 4 Creator mouse in India",
-  "hook": "A pro‑grade mouse now lands in Indian markets.",
-  "what": "Logitech introduced a limited‑edition MX Master 4 Creator mouse for Indian buyers. It comes with programmable buttons, haptic feedback and a studio‑style look.",
-  "why": "Students and young creators who need precise control for design or gaming can consider this new tool for smoother workflow.",
-  "tags": [
-   "Logitech",
-   "MXMaster4",
-   "CreatorEdition",
-   "Tech",
-   "Gadgets"
   ]
  }
 ]
