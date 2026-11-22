@@ -1,0 +1,35 @@
+{
+ "id": "18ffd3a05345",
+ "created": "2026-11-23T02:56:30+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "U.P. Assembly meets under 90 days, experts warn power shift",
+  "hook": "Your state lawmakers barely meet—are they missing your voice?",
+  "what": "The 18th Uttar Pradesh Legislative Assembly has convened for fewer than 90 days. Experts say the limited sessions reduce legislative oversight and curb MLAs' ability to raise public issues.",
+  "why": "With fewer meetings, the executive gains more unchecked power, affecting policies that impact youth. Stay informed and hold representatives accountable.",
+  "tags": [
+   "UPElection",
+   "Legislature",
+   "YouthVoice",
+   "Governance"
+  ]
+ },
+ "ml": {
+  "headline": "യു.പി. അസംബ്ലി 90 ദിവസത്തിൽ താഴെ, വിദഗ്ധർ ശക്തി കേന്ദ്രീകരണം ചൂണ്ടിക്കാട്ടി",
+  "hook": "നിങ്ങളുടെ പ്രതിനിധികൾ കുറച്ച് മാത്രമേ കൂടിക്കാഴ്ച നടത്തൂ—നിങ്ങളുടെ ശബ്ദം നഷ്ടമാകുമോ?",
+  "what": "18-ാം ഉത്തർപ്രദേശ് നിയമസഭ 90 ദിവസത്തിൽ താഴെ മാത്രമാണ് കൂടിയിരിക്കുന്നത്. വിദഗ്ധർ പറയുന്നു, ഇതു നിയമനിർമ്മാണ മേൽനോട്ടം കുറയ്ക്കുകയും എം.എൽ.എമാർക്ക് ജനകീയ പ്രശ്നങ്ങൾ ഉയർത്താനുള്ള അവസരം കുറയ്ക്കുകയും ചെയ്യുന്നു.",
+  "why": "കൂടിയില്ലാത്ത യോഗങ്ങൾ എക്സിക്യൂട്ടീവിന് കൂടുതൽ നിയന്ത്രണമില്ലാത്ത ശക്തി നൽകുന്നു, ഇത് യുവജനങ്ങളെയുൾപ്പെടെ എല്ലാവരെയും ബാധിക്കും. പ്രതിനിധികളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക, അവരുടെ പ്രവർത്തനങ്ങൾ നിരീക്ഷിക്കുക.",
+  "tags": [
+   "UPElection",
+   "Legislature",
+   "YouthVoice",
+   "Governance"
+  ]
+ }
+}

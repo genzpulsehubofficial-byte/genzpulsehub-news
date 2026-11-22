@@ -1,0 +1,37 @@
+{
+ "id": "716c53fa8fce",
+ "created": "2026-11-23T02:56:25+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "OpenAI chief scientist says AI speed limit needs measurement",
+  "hook": "A fresh view on how to slow AI progress.",
+  "what": "OpenAI’s chief scientist explained that setting a speed limit for AI development requires a common way to measure that speed. He emphasized the need for agreement on metrics before limits can be applied.",
+  "why": "Understanding how AI growth could be regulated helps young people stay informed about future tech policies. Keep an eye on these discussions as they may shape the tools you use.",
+  "tags": [
+   "AI",
+   "OpenAI",
+   "regulation",
+   "tech",
+   "future"
+  ]
+ },
+ "ml": {
+  "headline": "OpenAI പ്രധാന ശാസ്ത്രജ്ഞൻ പറയുന്നു AI വേഗപരിധിക്ക് അളവ് ആവശ്യമുണ്ട്",
+  "hook": "AI വളർച്ചയെ മന്ദഗതിയാക്കാൻ പുതിയ ഒരു കാഴ്ചപ്പാട്.",
+  "what": "OpenAIയുടെ പ്രധാന ശാസ്ത്രജ്ഞൻ AI വികസനത്തിന് വേഗപരിധി നിശ്ചയിക്കാൻ ആദ്യം അതിന്റെ വേഗം എങ്ങനെ അളക്കാം എന്ന് ഒരു ഏകോപിത മാർഗം വേണമെന്ന് വിശദീകരിച്ചു. അളവുകോലുകൾക്ക് സമ്മതം ഇല്ലാതെ പരിധി പ്രാവർത്തികമാക്കാൻ സാധിക്കില്ലെന്ന് അദ്ദേഹം ഊന്നി പറഞ്ഞു.",
+  "why": "AI നിയന്ത്രണത്തെക്കുറിച്ചുള്ള ചർച്ചകൾ അറിയുന്നത് യുവജനങ്ങൾക്ക് ഭാവി സാങ്കേതിക നയങ്ങളോട് സജ്ജമാകാൻ സഹായിക്കും. ഈ വിഷയങ്ങളിലേയ്ക്ക് ശ്രദ്ധ കൊടുക്കുക, കാരണം അത് നിങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകളും സേവനങ്ങളും ബാധിച്ചേക്കാം.",
+  "tags": [
+   "AI",
+   "OpenAI",
+   "നിയന്ത്രണം",
+   "ടെക്",
+   "ഭാവി"
+  ]
+ }
+}

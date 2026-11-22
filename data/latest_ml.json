@@ -1,5 +1,99 @@
 [
  {
+  "id": "716c53fa8fce",
+  "created": "2026-11-23T02:56:25+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "headline": "OpenAI പ്രധാന ശാസ്ത്രജ്ഞൻ പറയുന്നു AI വേഗപരിധിക്ക് അളവ് ആവശ്യമുണ്ട്",
+  "hook": "AI വളർച്ചയെ മന്ദഗതിയാക്കാൻ പുതിയ ഒരു കാഴ്ചപ്പാട്.",
+  "what": "OpenAIയുടെ പ്രധാന ശാസ്ത്രജ്ഞൻ AI വികസനത്തിന് വേഗപരിധി നിശ്ചയിക്കാൻ ആദ്യം അതിന്റെ വേഗം എങ്ങനെ അളക്കാം എന്ന് ഒരു ഏകോപിത മാർഗം വേണമെന്ന് വിശദീകരിച്ചു. അളവുകോലുകൾക്ക് സമ്മതം ഇല്ലാതെ പരിധി പ്രാവർത്തികമാക്കാൻ സാധിക്കില്ലെന്ന് അദ്ദേഹം ഊന്നി പറഞ്ഞു.",
+  "why": "AI നിയന്ത്രണത്തെക്കുറിച്ചുള്ള ചർച്ചകൾ അറിയുന്നത് യുവജനങ്ങൾക്ക് ഭാവി സാങ്കേതിക നയങ്ങളോട് സജ്ജമാകാൻ സഹായിക്കും. ഈ വിഷയങ്ങളിലേയ്ക്ക് ശ്രദ്ധ കൊടുക്കുക, കാരണം അത് നിങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകളും സേവനങ്ങളും ബാധിച്ചേക്കാം.",
+  "tags": [
+   "AI",
+   "OpenAI",
+   "നിയന്ത്രണം",
+   "ടെക്",
+   "ഭാവി"
+  ]
+ },
+ {
+  "id": "66ae122a2b7c",
+  "created": "2026-11-23T02:56:27+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+  "headline": "ഇന്ന് തന്നെ പുതിയ സുഹൃത്തുക്കൾ കണ്ടെത്താൻ മികച്ച ആപ്പുകൾ",
+  "hook": "നിനക്ക് വേണ്ടി രൂപകൽപ്പന ചെയ്ത ആപ്പുകൾ കൊണ്ട് ഉടൻ തന്നെ കൂട്ടുകാരെ കണ്ടെത്തൂ",
+  "what": "സുഹൃത്തുകൾ കണ്ടെത്താൻ സഹായിക്കുന്ന ആപ്പുകളുടെ പുതിയ ലിസ്റ്റ്, BFF പോലുള്ള ഡിസ്‌കവറി ടൂൾസ് മുതൽ Timeleft പോലുള്ള ഇവന്റ്‑ഫോക്കസ്ഡ് പ്ലാറ്റ്ഫോം വരെ ഉൾക്കൊള്ളുന്നു.",
+  "why": "ഇന്ത്യയിലെ യുവാക്കൾക്ക് അവരുടെ സോഷ്യൽ നെറ്റ്‌വർക്കുകൾ വികസിപ്പിക്കാനും ഇവന്റുകളിൽ പങ്കുചേരാനും ഇത് സഹായിക്കും; ലിസ്റ്റിലെ ആപ്പുകൾ പരീക്ഷിച്ച് ബന്ധങ്ങൾ സൃഷ്ടിക്കുക.",
+  "tags": [
+   "സുഹൃത്തുകൾ",
+   "ആപ്പുകൾ",
+   "സോഷ്യൽ",
+   "BFF",
+   "Timeleft"
+  ]
+ },
+ {
+  "id": "18ffd3a05345",
+  "created": "2026-11-23T02:56:30+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
+  "headline": "യു.പി. അസംബ്ലി 90 ദിവസത്തിൽ താഴെ, വിദഗ്ധർ ശക്തി കേന്ദ്രീകരണം ചൂണ്ടിക്കാട്ടി",
+  "hook": "നിങ്ങളുടെ പ്രതിനിധികൾ കുറച്ച് മാത്രമേ കൂടിക്കാഴ്ച നടത്തൂ—നിങ്ങളുടെ ശബ്ദം നഷ്ടമാകുമോ?",
+  "what": "18-ാം ഉത്തർപ്രദേശ് നിയമസഭ 90 ദിവസത്തിൽ താഴെ മാത്രമാണ് കൂടിയിരിക്കുന്നത്. വിദഗ്ധർ പറയുന്നു, ഇതു നിയമനിർമ്മാണ മേൽനോട്ടം കുറയ്ക്കുകയും എം.എൽ.എമാർക്ക് ജനകീയ പ്രശ്നങ്ങൾ ഉയർത്താനുള്ള അവസരം കുറയ്ക്കുകയും ചെയ്യുന്നു.",
+  "why": "കൂടിയില്ലാത്ത യോഗങ്ങൾ എക്സിക്യൂട്ടീവിന് കൂടുതൽ നിയന്ത്രണമില്ലാത്ത ശക്തി നൽകുന്നു, ഇത് യുവജനങ്ങളെയുൾപ്പെടെ എല്ലാവരെയും ബാധിക്കും. പ്രതിനിധികളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക, അവരുടെ പ്രവർത്തനങ്ങൾ നിരീക്ഷിക്കുക.",
+  "tags": [
+   "UPElection",
+   "Legislature",
+   "YouthVoice",
+   "Governance"
+  ]
+ },
+ {
+  "id": "f5ffd6ab03ee",
+  "created": "2026-11-23T02:56:32+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
+  "headline": "പെരുമ്പാവൂരില്‍ ബാലന്റെ മരണം ശേഷം ഫാക്ടറി പരിശോധന കർശനമാകും",
+  "hook": "ഒരു കുട്ടിയുടെ മരണത്തിന് ശേഷം കേരളത്തിലെ ഫാക്ടറികളിൽ സുരക്ഷാ പരിശോധനകൾ വർധിപ്പിക്കുന്നു.",
+  "what": "പെരുമ്പാവൂരിലെ ഒരു ഫാക്ടറിയിൽ ഒരു ബാലന്റെ മരണം സംഭവിച്ചു. അതിനാൽ അധികാരികൾ ഫാക്ടറി പരിശോധനകൾ കർശനമാക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ഉടൻ അപകടം സൃഷ്ടിക്കുന്ന നിയമവിരുദ്ധതകൾ കണ്ടെത്തിയാൽ കർശന നിയമ നടപടികൾ സ്വീകരിക്കും.",
+  "why": "സുരക്ഷിതമായ തൊഴിൽസ്ഥലങ്ങൾ യുവജനങ്ങളുടെ ജീവിതം സംരക്ഷിക്കുന്നു; unsafe സാഹചര്യങ്ങൾ കണ്ടെത്തിയാൽ ബന്ധപ്പെട്ട വകുപ്പുകളെ അറിയിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "ഫാക്ടറി",
+   "സുരക്ഷ",
+   "പരിശോധനം",
+   "യുവജനങ്ങൾ"
+  ]
+ },
+ {
+  "id": "be1f28e0f6ba",
+  "created": "2026-11-23T02:56:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Barchart.com",
+  "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR3RGUXpRU3hQZS13ckJJLThxS0l5b0hsSDVUSEl1QW5HZDh4RnhQOGhhbGwwaEQ4RG5Sb1JmcE5IeUtzb1EyNlJXV19nclpyalh6dHJkRTVzaDlQUWdGa0RPdUNQT1JKbUpiZl9lcWNlNTg0LWtzN2h2Mk5kNnpiTjR6Tld2VDcwTDBQcEtRNmJ6Y053b1VTV3FVTGN0bkUtbzBSZDZWWk9nRk1Xc3RscG1rSXR5bldEZUM3VzhDZ01oZ2NxdHAyYlVaRXR0cmFyTDI1UDhjZEZmeGRuLWpYa0M4Nm1iT1FDdmliRGY2V3h1OFhxRnBicVlKZ2wwdEpFZm5Cb3MyZ2pLbEdnRHowckJR?oc=5",
+  "headline": "ജെൻസൻ ഹുവാങ് ഇല്ലാതെ ന്വിഡിയയുടെ വരുമാനം $115 ബില്യൺ",
+  "hook": "സ്ഥാപകനില്ലെങ്കിലും ചിപ്പ് കമ്പനി റെക്കോർഡ് വിൽപ്പന നേടി.",
+  "what": "ന്വിഡിയ തന്റെ ഏറ്റവും പുതിയ കാലയളവിൽ $115 ബില്യൺ വരുമാനം പ്രഖ്യാപിച്ചു, ഇത് സ്ഥാപകൻ ജെൻസൻ ഹുവാങ് സിഇഒ ആയി ഇല്ലാത്ത ആദ്യ റിപ്പോർട്ടാണ്. കമ്പനി വളർച്ച വേഗത്തിൽ നടക്കുന്നതായി, ചീഫ് ഓപ്പറേറ്റിംഗ് ഓഫീസർ ഉപഭോക്താക്കൾ ഇപ്പോഴും അതിനോടു ചേർന്നിരിക്കുന്നുവെന്ന് പറഞ്ഞു.",
+  "why": "എഐ ചിപ്പുകളുടെ ഉയർന്ന ആവശ്യകത യുവജനങ്ങൾക്ക് ടെക് ജോലികളും നിക്ഷേപ അവസരങ്ങളും തുറക്കാം. നിങ്ങൾക്ക് ടെക് കരിയർ അല്ലെങ്കിൽ സ്റ്റോക്ക് മാർക്കറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ ഈ മേഖലയിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "TechGrowth",
+   "Stocks",
+   "Jobs"
+  ]
+ },
+ {
   "id": "9d8c520acc65",
   "created": "2026-11-23T02:08:43+05:30",
   "category": "tech",
@@ -655,101 +749,6 @@
    "സ്റ്റാർട്ടപ്പ്",
    "എയ്റോസ്പേസ്",
    "മെയ്ഡ്‌ഇൻഇന്ത്യ"
-  ]
- },
- {
-  "id": "1e5cbe2ba3ad",
-  "created": "2026-11-22T19:37:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
-  "headline": "Anthropic‑ന്റെ വിചിത്ര IPO ബാങ്കർമാരെ കുലുക്കി, ഷെയർസ്‌ താഴ്ന്നു",
-  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ അസാധാരണ ലിസ്റ്റിംഗ് വാൾ സ്റ്റ്രീറ്റിനെ അമ്പരപ്പിച്ചു.",
-  "what": "Anthropic, SpaceX പോലെ, ഒരു വ്യത്യസ്ത IPO പ്രക്രിയ ഉപയോഗിച്ചു. ഈ രീതിയാൽ ചില ബാങ്കർമാർ അസന്തുഷ്ടരായി. ലിസ്റ്റിംഗ് ശേഷം, ടെക് ഷെയറുകളുടെ ഇടിവ് മൂലം അതിന്റെ സ്റ്റോക്ക് താഴ്ന്നു.",
-  "why": "ഇത് യുവജനങ്ങൾക്ക് ടെക് കമ്പനികളുടെ മാർക്കറ്റ് അപകടങ്ങൾ കാണിക്കുന്നു; സ്റ്റോക്ക് മാർക്കറ്റിലെ ചലനങ്ങൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "AI",
-   "IPO",
-   "techstocks",
-   "WallStreet",
-   "Anthropic"
-  ]
- },
- {
-  "id": "d970f5f35831",
-  "created": "2026-11-22T19:37:24+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "NDTV Sports",
-  "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWHNTTE5Ubmx2SThwckVNdE9mcjFwSkktWEoyOWpweXotMkxiaE43NTdDMFNIcERrRFZOUlFtS0tQc1JzajZVd3JqUDBwa1Z4b3VKcVMwanRPajgzS0VLYnBUUXY1TWpKME56czB2eGRMTkwxVzdGYWFSanBsRTB3cWxuSGZrejhOZG1HSENKU09QNWowOENEWnBVakdvb2xtNU5vSU9xaU9obXVJOFNYWW9LTzJGMjk0MkhrOWtBYzlWeURyQVotcENzMVIzeUxSaXpXaFRGZFFfbHdORkNWdDd4WHhvNUp6aVdZeW5ad012M1pkT2lUQlB3TGZQbzQ?oc=5",
-  "headline": "ഇന്ത്യ 314 റൺ ലക്ഷ്യം വെച്ച് പാക്കിസ്താൻ നേരിടുന്നു, സൂര്യവംശി ശ്രദ്ധയിൽ",
-  "hook": "വലിയ ലക്ഷ്യവും തീപിടിച്ച വാദവുമാണ് റൈസിംഗ് സ്റ്റാർസ് മത്സരത്തെ ചൂടാക്കുന്നത്.",
-  "what": "ആഷ്യാ കപ്പ് റൈസിംഗ് സ്റ്റാർസ് മത്സരത്തിൽ, ഇന്ത്യ പാക്കിസ്താനിന് 314 റൺ ലക്ഷ്യം നിശ്ചയിച്ചു. വൈഭവ സൂര്യവംശി ശ്രദ്ധയുടെ കേന്ദ്രമായി. അതേ സമയം, ഹർഷിത് രാണാ പാക്കിസ്താനി ബാറ്റ്സ്മാനുകളുമായി തീപിടിച്ച വാദവുമുണ്ടാക്കി, സ്ലെഡ്ജിംഗ്, ആക്രാമകമായ വിടവാങ്ങൽ എന്നിവ നടത്തി.",
-  "why": "ഇത് ഇന്ത്യൻ ക്രിക്കറ്റ് ശക്തി കാണിക്കുന്നു, കൂടാതെ ഇരുപക്ഷം തമ്മിലുള്ള കടുത്ത മത്സരം യുവാക്കളെ കളിയുടെ ആവേശം ഉത്തരവാദിത്വത്തോടെ ആസ്വദിക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
-  "tags": [
-   "ക്രിക്കറ്റ്",
-   "ഇന്ത്യ",
-   "പാക്കിസ്താൻ",
-   "ആഷ്യാകപ്പ്",
-   "റൈസിംഗ്‌സ്റ്റാർസ്"
-  ]
- },
- {
-  "id": "95d58c3be206",
-  "created": "2026-11-22T18:37:56+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-prices-plunge-ahead-of-wedding-season-how-much-can-families-save-when-buying-bridal-jewellery-now-11795351268809.html",
-  "headline": "സ്വർണ്ണം 24% ഇടിഞ്ഞു, വിവാഹ ആഭരണ ചെലവ് ലഘൂകരിച്ചു",
-  "hook": "സ്വർണ്ണം താഴ്ന്നത്, കുടുംബങ്ങൾക്ക് വിവാഹ ആഭരണത്തിൽ വലിയ ലാഭം",
-  "what": "സ്വർണ്ണത്തിന്റെ വില ഓഗസ്റ്റ് 2026ലെ ഉയർന്നതിൽ നിന്ന് ഏകദേശം 24% കുറയുകയാണ്. വിവാഹ സീസണിന് മുൻപേ ഈ ഇടിവ് സംഭവിച്ചു. സ്വർണ്ണ ആഭരണം വാങ്ങാൻ പദ്ധതിയിട്ട ദമ്പതികൾക്ക് ഇപ്പോൾ വില കുറഞ്ഞതുകൊണ്ട് ചെലവ് കുറവാകും.",
-  "why": "കുറഞ്ഞ സ്വർണ്ണവില വിവാഹ സെറ്റുകൾക്ക് ചെലവ് കുറയ്ക്കും, മറ്റ് വിവാഹ ചെലവുകൾക്കായി പണം ഉപയോഗിക്കാം. വില കുറഞ്ഞപ്പോൾ തന്നെ വാങ്ങാൻ കുടുംബങ്ങൾ ചിന്തിക്കണം.",
-  "tags": [
-   "സ്വർണ്ണം",
-   "വിവാഹം",
-   "സംരക്ഷണം",
-   "ആഭരണം",
-   "ഫിനാൻസ്"
-  ]
- },
- {
-  "id": "1d6cb21b1322",
-  "created": "2026-11-22T18:39:00+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGwwV0U5M05udnJyMGFXblpMVTNtMEE3YkduMlFwRWpZb21haVRuMG8yM1NkRmwwelF2ajFlbFZremlvaE5NbDFlbWhxSGRpR1lhVklkLTRlbHJpZG1BN3ZYRUVhYnl6SEthTUxrRnlkZDhUaF9yMEZaUnhuaU9OcDlLVkotT2JwT3VxUktzTk1lUlNhQXVaMlNLMi1KaFloY2JZZ0lYLUtrNDVQbEtyaGVTZmg0WmlyTllOWXVLSFk4ZjVKd3V5Q1V6S3RLMDBpUnd2Tzc5RWVkZnZDSjVacW0wVlo0TlE?oc=5",
-  "headline": "ഷാഷി തരൂർ GTA 6 കളിച്ചു, ഡിമോനെറ്റൈഷന്‍ ‘ഓട്ടോ ഇല്ലാത്ത ചോറി’ എന്ന് വിളിച്ചു",
-  "hook": "ഗെയിം നിയന്ത്രണത്തിൽ തളർന്നിരിക്കുമ്പോൾ, 2016‑ലെ സാമ്പത്തിക നീക്കത്തെക്കുറിച്ച് അദ്ദേഹം കടുത്ത വിമർശനം നടത്തി.",
-  "what": "കേന്ദ്രമന്ത്രിയായ ഷാഷി തരൂർ പുതിയ Grand Theft Auto VI ആദ്യമായി കളിച്ചു. ഗെയിമിന്റെ നിയന്ത്രണങ്ങളുമായി പോരാടുമ്പോൾ, 2016‑ലെ ഡിമോനെറ്റൈഷന്‍ ‘ഓട്ടോ ഇല്ലാത്ത ചോറി’ എന്ന് വിളിച്ച് നിലവിലെ സർക്കാരിനെ ചൂണ്ടിക്കാട്ടി.",
-  "why": "യുവാക്കൾക്ക് ഗെയിമും രാഷ്ട്രീയവും എങ്ങനെ ഒത്തുചേരുന്നു എന്ന് കാണാൻ ഇത് ഒരു ഉദാഹരണമാണ്. ഇതിലൂടെ നയങ്ങളിലെ സ്വാധീനം ചർച്ച ചെയ്യാൻ പ്രേരണ ലഭിക്കും.",
-  "tags": [
-   "ShashiTharoor",
-   "GTA6",
-   "Demonetisation",
-   "IndiaPolitics",
-   "Gaming"
-  ]
- },
- {
-  "id": "85f600102523",
-  "created": "2026-11-22T18:39:03+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-promoting-amaravati-economic-region-as-andhra-pradeshs-major-growth-engine/article71731285.ece",
-  "headline": "Andhra Pradesh 2027‑ഓടെ Amaravati Economic Region രൂപപ്പെടുത്തും",
-  "hook": "ഒമ്പത് ജില്ലകളിലായി വലിയ വികസന പദ്ധതി തൊഴിൽ അവസരങ്ങൾ സൃഷ്ടിക്കും",
-  "what": "CRDA, LASA, PwC India എന്നിവ ചേർന്ന് Amaravati Economic Region വികസിപ്പിക്കാൻ പ്രവർത്തിക്കുന്നു. ഈ പ്രദേശം 44,817 ചതുരശ്ര കിലോമീറ്റർ വിസ്തീർണ്ണവും ₹6.23 ലക്ഷം കോടി GSDPയും ഉൾക്കൊള്ളുന്നു. പദ്ധതി ജൂലൈ 2027‑ഓടെ അന്തിമ രൂപം നൽകാൻ ലക്ഷ്യമിടുന്നു.",
-  "why": "പുതിയ അടിസ്ഥാന സൗകര്യങ്ങളും ജോലികളും യുവജനങ്ങളുടെ കരിയർ സാധ്യതകളെ ബാധിക്കും. പ്രദേശത്തെ അവസരങ്ങളെക്കുറിച്ച് അറിയുക.",
-  "tags": [
-   "Amaravati",
-   "AndhraPradesh",
-   "ജോലി",
-   "വികസനം",
-   "യുവാക്കൾ"
   ]
  }
 ]

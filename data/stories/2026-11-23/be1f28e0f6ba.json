@@ -1,0 +1,37 @@
+{
+ "id": "be1f28e0f6ba",
+ "created": "2026-11-23T02:56:35+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Barchart.com",
+ "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR3RGUXpRU3hQZS13ckJJLThxS0l5b0hsSDVUSEl1QW5HZDh4RnhQOGhhbGwwaEQ4RG5Sb1JmcE5IeUtzb1EyNlJXV19nclpyalh6dHJkRTVzaDlQUWdGa0RPdUNQT1JKbUpiZl9lcWNlNTg0LWtzN2h2Mk5kNnpiTjR6Tld2VDcwTDBQcEtRNmJ6Y053b1VTV3FVTGN0bkUtbzBSZDZWWk9nRk1Xc3RscG1rSXR5bldEZUM3VzhDZ01oZ2NxdHAyYlVaRXR0cmFyTDI1UDhjZEZmeGRuLWpYa0M4Nm1iT1FDdmliRGY2V3h1OFhxRnBicVlKZ2wwdEpFZm5Cb3MyZ2pLbEdnRHowckJR?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia posts $115 B revenue despite CEO’s exit",
+  "hook": "The chip giant hits record sales even as its founder steps back.",
+  "what": "Nvidia reported $115 billion in revenue for its latest quarter, the first without founder Jensen Huang as CEO. The company said growth is accelerating, and its chief operating officer noted that customers remain with the firm.",
+  "why": "Strong earnings highlight ongoing demand for AI chips, which could shape tech job prospects and investment choices for Indian youth. Keep an eye on the sector if you’re eyeing a tech career or stock market moves.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "TechGrowth",
+   "Stocks",
+   "Jobs"
+  ]
+ },
+ "ml": {
+  "headline": "ജെൻസൻ ഹുവാങ് ഇല്ലാതെ ന്വിഡിയയുടെ വരുമാനം $115 ബില്യൺ",
+  "hook": "സ്ഥാപകനില്ലെങ്കിലും ചിപ്പ് കമ്പനി റെക്കോർഡ് വിൽപ്പന നേടി.",
+  "what": "ന്വിഡിയ തന്റെ ഏറ്റവും പുതിയ കാലയളവിൽ $115 ബില്യൺ വരുമാനം പ്രഖ്യാപിച്ചു, ഇത് സ്ഥാപകൻ ജെൻസൻ ഹുവാങ് സിഇഒ ആയി ഇല്ലാത്ത ആദ്യ റിപ്പോർട്ടാണ്. കമ്പനി വളർച്ച വേഗത്തിൽ നടക്കുന്നതായി, ചീഫ് ഓപ്പറേറ്റിംഗ് ഓഫീസർ ഉപഭോക്താക്കൾ ഇപ്പോഴും അതിനോടു ചേർന്നിരിക്കുന്നുവെന്ന് പറഞ്ഞു.",
+  "why": "എഐ ചിപ്പുകളുടെ ഉയർന്ന ആവശ്യകത യുവജനങ്ങൾക്ക് ടെക് ജോലികളും നിക്ഷേപ അവസരങ്ങളും തുറക്കാം. നിങ്ങൾക്ക് ടെക് കരിയർ അല്ലെങ്കിൽ സ്റ്റോക്ക് മാർക്കറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ ഈ മേഖലയിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "TechGrowth",
+   "Stocks",
+   "Jobs"
+  ]
+ }
+}

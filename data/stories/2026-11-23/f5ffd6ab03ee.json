@@ -1,0 +1,36 @@
+{
+ "id": "f5ffd6ab03ee",
+ "created": "2026-11-23T02:56:32+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Factory checks to tighten after boy's death in Perumbavoor",
+  "hook": "A tragic accident is prompting stricter safety sweeps in Kerala factories.",
+  "what": "A boy died in a factory incident in Perumbavoor, near Kochi. Authorities announced that factory inspections will be stepped up. Any establishment found breaching safety rules that pose immediate danger will face legal action.",
+  "why": "Safer workplaces protect young people and their families; report unsafe conditions to the relevant authorities.",
+  "tags": [
+   "Kerala",
+   "FactorySafety",
+   "Youth",
+   "Inspection"
+  ]
+ },
+ "ml": {
+  "headline": "പെരുമ്പാവൂരില്‍ ബാലന്റെ മരണം ശേഷം ഫാക്ടറി പരിശോധന കർശനമാകും",
+  "hook": "ഒരു കുട്ടിയുടെ മരണത്തിന് ശേഷം കേരളത്തിലെ ഫാക്ടറികളിൽ സുരക്ഷാ പരിശോധനകൾ വർധിപ്പിക്കുന്നു.",
+  "what": "പെരുമ്പാവൂരിലെ ഒരു ഫാക്ടറിയിൽ ഒരു ബാലന്റെ മരണം സംഭവിച്ചു. അതിനാൽ അധികാരികൾ ഫാക്ടറി പരിശോധനകൾ കർശനമാക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ഉടൻ അപകടം സൃഷ്ടിക്കുന്ന നിയമവിരുദ്ധതകൾ കണ്ടെത്തിയാൽ കർശന നിയമ നടപടികൾ സ്വീകരിക്കും.",
+  "why": "സുരക്ഷിതമായ തൊഴിൽസ്ഥലങ്ങൾ യുവജനങ്ങളുടെ ജീവിതം സംരക്ഷിക്കുന്നു; unsafe സാഹചര്യങ്ങൾ കണ്ടെത്തിയാൽ ബന്ധപ്പെട്ട വകുപ്പുകളെ അറിയിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "ഫാക്ടറി",
+   "സുരക്ഷ",
+   "പരിശോധനം",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

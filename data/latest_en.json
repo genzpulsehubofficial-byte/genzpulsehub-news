@@ -1,5 +1,98 @@
 [
  {
+  "id": "716c53fa8fce",
+  "created": "2026-11-23T02:56:25+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "headline": "OpenAI chief scientist says AI speed limit needs measurement",
+  "hook": "A fresh view on how to slow AI progress.",
+  "what": "OpenAI’s chief scientist explained that setting a speed limit for AI development requires a common way to measure that speed. He emphasized the need for agreement on metrics before limits can be applied.",
+  "why": "Understanding how AI growth could be regulated helps young people stay informed about future tech policies. Keep an eye on these discussions as they may shape the tools you use.",
+  "tags": [
+   "AI",
+   "OpenAI",
+   "regulation",
+   "tech",
+   "future"
+  ]
+ },
+ {
+  "id": "66ae122a2b7c",
+  "created": "2026-11-23T02:56:27+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+  "headline": "Top Apps to Meet New Friends Today",
+  "hook": "Find pals instantly with apps designed for you",
+  "what": "A fresh list highlights friendship‑building apps, from discovery tools such as BFF to event‑oriented platforms like Timeleft.",
+  "why": "Helps young Indians expand their social circles and join activities; try the recommended apps to connect.",
+  "tags": [
+   "friendship",
+   "apps",
+   "social",
+   "BFF",
+   "Timeleft"
+  ]
+ },
+ {
+  "id": "18ffd3a05345",
+  "created": "2026-11-23T02:56:30+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
+  "headline": "U.P. Assembly meets under 90 days, experts warn power shift",
+  "hook": "Your state lawmakers barely meet—are they missing your voice?",
+  "what": "The 18th Uttar Pradesh Legislative Assembly has convened for fewer than 90 days. Experts say the limited sessions reduce legislative oversight and curb MLAs' ability to raise public issues.",
+  "why": "With fewer meetings, the executive gains more unchecked power, affecting policies that impact youth. Stay informed and hold representatives accountable.",
+  "tags": [
+   "UPElection",
+   "Legislature",
+   "YouthVoice",
+   "Governance"
+  ]
+ },
+ {
+  "id": "f5ffd6ab03ee",
+  "created": "2026-11-23T02:56:32+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
+  "headline": "Factory checks to tighten after boy's death in Perumbavoor",
+  "hook": "A tragic accident is prompting stricter safety sweeps in Kerala factories.",
+  "what": "A boy died in a factory incident in Perumbavoor, near Kochi. Authorities announced that factory inspections will be stepped up. Any establishment found breaching safety rules that pose immediate danger will face legal action.",
+  "why": "Safer workplaces protect young people and their families; report unsafe conditions to the relevant authorities.",
+  "tags": [
+   "Kerala",
+   "FactorySafety",
+   "Youth",
+   "Inspection"
+  ]
+ },
+ {
+  "id": "be1f28e0f6ba",
+  "created": "2026-11-23T02:56:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Barchart.com",
+  "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR3RGUXpRU3hQZS13ckJJLThxS0l5b0hsSDVUSEl1QW5HZDh4RnhQOGhhbGwwaEQ4RG5Sb1JmcE5IeUtzb1EyNlJXV19nclpyalh6dHJkRTVzaDlQUWdGa0RPdUNQT1JKbUpiZl9lcWNlNTg0LWtzN2h2Mk5kNnpiTjR6Tld2VDcwTDBQcEtRNmJ6Y053b1VTV3FVTGN0bkUtbzBSZDZWWk9nRk1Xc3RscG1rSXR5bldEZUM3VzhDZ01oZ2NxdHAyYlVaRXR0cmFyTDI1UDhjZEZmeGRuLWpYa0M4Nm1iT1FDdmliRGY2V3h1OFhxRnBicVlKZ2wwdEpFZm5Cb3MyZ2pLbEdnRHowckJR?oc=5",
+  "headline": "Nvidia posts $115 B revenue despite CEO’s exit",
+  "hook": "The chip giant hits record sales even as its founder steps back.",
+  "what": "Nvidia reported $115 billion in revenue for its latest quarter, the first without founder Jensen Huang as CEO. The company said growth is accelerating, and its chief operating officer noted that customers remain with the firm.",
+  "why": "Strong earnings highlight ongoing demand for AI chips, which could shape tech job prospects and investment choices for Indian youth. Keep an eye on the sector if you’re eyeing a tech career or stock market moves.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "TechGrowth",
+   "Stocks",
+   "Jobs"
+  ]
+ },
+ {
   "id": "9d8c520acc65",
   "created": "2026-11-23T02:08:43+05:30",
   "category": "tech",
@@ -655,101 +748,6 @@
    "startup",
    "aerospace",
    "madeinindia"
-  ]
- },
- {
-  "id": "1e5cbe2ba3ad",
-  "created": "2026-11-22T19:37:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
-  "headline": "Anthropic’s quirky IPO rattles bankers, shares dip",
-  "hook": "AI startup’s odd listing shakes Wall Street.",
-  "what": "Anthropic went public using an unconventional process similar to SpaceX’s. The approach upset some investment banks. After the debut, its stock fell as tech shares slumped.",
-  "why": "It shows that even hot AI firms can face market turbulence, a reminder to watch how tech IPOs affect stock markets.",
-  "tags": [
-   "AI",
-   "IPO",
-   "techstocks",
-   "WallStreet",
-   "Anthropic"
-  ]
- },
- {
-  "id": "d970f5f35831",
-  "created": "2026-11-22T19:37:24+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "NDTV Sports",
-  "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWHNTTE5Ubmx2SThwckVNdE9mcjFwSkktWEoyOWpweXotMkxiaE43NTdDMFNIcERrRFZOUlFtS0tQc1JzajZVd3JqUDBwa1Z4b3VKcVMwanRPajgzS0VLYnBUUXY1TWpKME56czB2eGRMTkwxVzdGYWFSanBsRTB3cWxuSGZrejhOZG1HSENKU09QNWowOENEWnBVakdvb2xtNU5vSU9xaU9obXVJOFNYWW9LTzJGMjk0MkhrOWtBYzlWeURyQVotcENzMVIzeUxSaXpXaFRGZFFfbHdORkNWdDd4WHhvNUp6aVdZeW5ad012M1pkT2lUQlB3TGZQbzQ?oc=5",
-  "headline": "India sets 314-run chase vs Pakistan, Sooryavanshi in focus",
-  "hook": "A big target and a fiery showdown shape the Rising Stars clash.",
-  "what": "In the Asia Cup Rising Stars match, India posted a target of 314 runs for Pakistan. Bowler Vaibhav Sooryavanshi drew special attention. Meanwhile, Harshit Rana got into a heated exchange with Pakistani batsmen, including sledging and an aggressive send‑off.",
-  "why": "The high target showcases India's batting depth, while the on‑field tension highlights the intensity of the rivalry, reminding young fans to enjoy the sport responsibly.",
-  "tags": [
-   "cricket",
-   "india",
-   "pakistan",
-   "asiacup",
-   "risingstars"
-  ]
- },
- {
-  "id": "95d58c3be206",
-  "created": "2026-11-22T18:37:56+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-prices-plunge-ahead-of-wedding-season-how-much-can-families-save-when-buying-bridal-jewellery-now-11795351268809.html",
-  "headline": "Gold drops 24%, easing wedding jewellery costs",
-  "hook": "Gold’s slump could save families big on bridal bling",
-  "what": "Gold prices have slipped almost 24% from their August 2026 high. The decline comes just before the peak wedding season. Couples planning gold jewellery can now expect lower bills.",
-  "why": "Lower gold rates mean cheaper bridal sets, freeing up money for other wedding expenses. Families should consider buying now while prices are down.",
-  "tags": [
-   "gold",
-   "wedding",
-   "savings",
-   "jewellery",
-   "finance"
-  ]
- },
- {
-  "id": "1d6cb21b1322",
-  "created": "2026-11-22T18:39:00+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGwwV0U5M05udnJyMGFXblpMVTNtMEE3YkduMlFwRWpZb21haVRuMG8yM1NkRmwwelF2ajFlbFZremlvaE5NbDFlbWhxSGRpR1lhVklkLTRlbHJpZG1BN3ZYRUVhYnl6SEthTUxrRnlkZDhUaF9yMEZaUnhuaU9OcDlLVkotT2JwT3VxUktzTk1lUlNhQXVaMlNLMi1KaFloY2JZZ0lYLUtrNDVQbEtyaGVTZmg0WmlyTllOWXVLSFk4ZjVKd3V5Q1V6S3RLMDBpUnd2Tzc5RWVkZnZDSjVacW0wVlo0TlE?oc=5",
-  "headline": "Shashi Tharoor plays GTA 6, likens demonetisation to theft",
-  "hook": "The MP compares a game he can’t master to a 2016 policy.",
-  "what": "Union minister Shashi Tharoor played the newly released Grand Theft Auto VI for the first time. While struggling with the game’s controls, he called the 2016 demonetisation move a ‘grand theft without auto’ and took a swipe at the current government.",
-  "why": "His comment ties a popular video game to a controversial economic decision, sparking conversation among youth about policy impacts. It shows how pop culture can be used to discuss politics.",
-  "tags": [
-   "ShashiTharoor",
-   "GTA6",
-   "Demonetisation",
-   "IndiaPolitics",
-   "Gaming"
-  ]
- },
- {
-  "id": "85f600102523",
-  "created": "2026-11-22T18:39:03+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-promoting-amaravati-economic-region-as-andhra-pradeshs-major-growth-engine/article71731285.ece",
-  "headline": "Andhra Pradesh aims to shape Amaravati Economic Region by 2027",
-  "hook": "A massive development plan could boost jobs and opportunities across nine districts.",
-  "what": "The state government, through the CRDA, is working with LASA and PwC India to develop the Amaravati Economic Region. The region covers nine districts, spans 44,817 sq km and has a GSDP of ₹6.23 lakh crore. The plan aims to be finalized by July 2027.",
-  "why": "The project could create new jobs and infrastructure, affecting education and career prospects for youth. Stay informed about upcoming opportunities in the region.",
-  "tags": [
-   "Amaravati",
-   "AndhraPradesh",
-   "Jobs",
-   "Development",
-   "Youth"
   ]
  }
 ]
