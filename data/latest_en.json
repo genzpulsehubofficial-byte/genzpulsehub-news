@@ -1,5 +1,117 @@
 [
  {
+  "id": "f8b8a2fb3565",
+  "created": "2026-11-23T04:42:55+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "FXEmpire",
+  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5",
+  "headline": "Gold prices tumble as Fed hike fears rise",
+  "hook": "Your savings could feel the pinch as gold slides.",
+  "what": "Gold’s value kept dropping, mirroring the sharp sell‑off seen in 2022. Analysts link the decline to worries about U.S. interest‑rate hikes and a broader market pullback tied to AI‑related trades.",
+  "why": "A falling gold price can affect investment plans and the cost of jewellery for young Indians. Keep an eye on rate news before making big purchases.",
+  "tags": [
+   "gold",
+   "markets",
+   "finance",
+   "investing",
+   "rates"
+  ]
+ },
+ {
+  "id": "d6affc8cb7f5",
+  "created": "2026-11-23T04:43:18+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/cop31-longest-un-climate-climate-ends-without-a-deal-over-fossil-fuels-deadlock-12363368#publisher=newsstand",
+  "headline": "UN climate talks end with no fossil fuel phase‑out deal",
+  "hook": "Talks stalled as oil‑rich nations blocked any cut‑back plan.",
+  "what": "The latest UN climate negotiations concluded without an agreement. Delegates could not agree on phasing out fossil fuels because oil‑producing countries opposed any mention of it.",
+  "why": "Without a global plan to curb fossil fuels, climate impacts may worsen, affecting future generations. Young Indians should stay informed and push for sustainable policies.",
+  "tags": [
+   "climate",
+   "UN",
+   "fossilfuels",
+   "youth",
+   "policy"
+  ]
+ },
+ {
+  "id": "3d6f86569bfb",
+  "created": "2026-11-23T04:43:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Notebookcheck",
+  "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWdWUVg3WTkwb2lLVTY2YkZnclN4Wkh4Nmx3QklfTEpCNTZjVTBURmRTZDQ0MGQ0NXo1NG5KX256a3FORVhVaFhycVRIbDkwTXJhOWJrQlZhaGc3YnFjajFhWk92R3htbWpyZzFBVlRLOXJISU1VQ3E4Mkl4dHhYQmFpamRJTmFaWnFKQnlXSy1DcGtucV9WcmVvUnpBbC1hMmFXYi1FT1FJSUZ5VmFET3JyX2tJcEZQWDhlUzFUaEU0WEJTSVlrUTVSd3k3YnFLMGtpZGIwb3UtdXd6YWVNS0EtdDNUbDliS0ZMdzBB?oc=5",
+  "headline": "GitHub teams chase PC port of leaked GTA VI Xbox build",
+  "hook": "Three open‑source projects are trying to run GTA VI on PC, but the core file is still missing.",
+  "what": "An anonymous hacker called Cyberleek released an Xbox version of the unreleased GTA VI. Three separate GitHub initiatives are attempting to convert that build for PC, yet they do not have the executable file needed. Developers have also released a tool named Leonida that can run the game natively on PC.",
+  "why": "A successful PC port could let gamers play the game before its official launch, but the missing executable limits progress. Stay cautious about unofficial downloads and watch the open‑source efforts.",
+  "tags": [
+   "GTA6",
+   "PCport",
+   "GitHub",
+   "gaming",
+   "leak"
+  ]
+ },
+ {
+  "id": "78ef99aa5b36",
+  "created": "2026-11-23T04:43:23+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Notebookcheck",
+  "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZnJ4ZnVjZlpKRHJNS3U3Q0ZDb3FFdHFiZjI1VGZNaHNFbkcxVWFJYVhmRWNtNlJUVFhLSmN2LTdNNVpLTl9oXzdHeEcxZmdoX1hudkM1NmY5ZFl3ZXRmUm5PTTZTTEJIWnFLZHRRVXVpWThMOWhlSUJlQVhpbGYyRzBCUnFLRUV3Y1lGMkhhWE5qbFdIZ0gxenhoWVNNZnlDcGxwUTFHLXg1TW1KaUZCLW5NbWhvXzFPUzRrU19kb1dva3NLbmFHLVdWTXRGdHhVWjZOMWpEWG5XeFdG?oc=5",
+  "headline": "Nvidia RTX Spark Mini PCs Launch in Europe",
+  "hook": "Compact powerhouses from Asus, Dell and MSI are now available overseas.",
+  "what": "Nvidia's RTX Spark mini desktop series arrived in Europe today. The units pack a 20‑core processor, up to 128 GB RAM, a 4 TB SSD and 6,144 CUDA cores. Asus, Dell and MSI are the first manufacturers offering the models.",
+  "why": "The specs make these tiny rigs suitable for gaming, content creation and AI work, so Indian teens interested in high‑performance computing should watch for local releases and pricing.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "miniPC",
+   "gaming",
+   "Europe"
+  ]
+ },
+ {
+  "id": "d01bbb042eeb",
+  "created": "2026-11-23T04:43:26+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/wanted-man-held-after-14-months-for-mob-attack-on-delhi-police-team-in-chhatarpur/article71731513.ece",
+  "headline": "Wanted mob attacker nabbed after 14 months",
+  "hook": "Police finally caught the suspect linked to a Delhi police assault.",
+  "what": "Arbaj Khan, also known as Baiju, was arrested on November 20 by the South district Special Staff. He had been wanted for a mob attack on a Delhi police team in Chhatarpur. The arrest took place in Gadpur village, Bhiwadi.",
+  "why": "The capture shows that authorities continue to pursue those involved in attacks on police, underscoring the importance of staying away from violent confrontations.",
+  "tags": [
+   "DelhiPolice",
+   "Chhatarpur",
+   "Arrest",
+   "MobAttack"
+  ]
+ },
+ {
+  "id": "85a7e1ba23cb",
+  "created": "2026-11-23T04:43:28+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1RMYTR3NWNtdW90QkhmVXBKR05TQTFXVHNhaU1EQXRqZE4tSmgyVHB1bjctakc1WHZ3RllvVGhFYVFDYzhRdXV2S24yMkpURU9IY3RDbXhzNl9Vb0ZITlBSQjBYQmhGcEQzXzNoRUNBZGtkeU45NVYxR3VnUnJtTElxQ2xBTkdLM2ptbXUzcXJaeXJnREVCeGlGWkNoYjREVk52VVlQalVuYzRMMFBSNXhPTUJlemdydEQ3VUx6ZjFNUC1vSkw0VF96U3gyUjRZUUgyUWpCemtnZw?oc=5",
+  "headline": "Trump aide demands clarity on Nvidia's China chip sales",
+  "hook": "A senior Trump staffer is pressing for answers on a big tech deal.",
+  "what": "Trump aide Bessent said the United States needs explanations about Nvidia selling chips to China. The comment was made amid ongoing scrutiny of technology exports. No further details were provided.",
+  "why": "Understanding such trade moves helps young Indians gauge global tech trends and potential market impacts. Keep an eye on policy debates that could affect tech availability and prices.",
+  "tags": [
+   "Nvidia",
+   "China",
+   "TechTrade",
+   "USPolitics"
+  ]
+ },
+ {
   "id": "9d561cc7e83a",
   "created": "2026-11-23T03:46:15+05:30",
   "category": "entertainment",
@@ -636,119 +748,6 @@
    "Ducati",
    "record",
    "Portugal"
-  ]
- },
- {
-  "id": "8363e8d1131e",
-  "created": "2026-11-22T21:12:16+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece",
-  "headline": "Kerala seizes ₹10 lakh worth of fake cosmetics after teen kidney case",
-  "hook": "Your favorite beauty products could be harming your kidneys.",
-  "what": "The state launched Operation Soundarya, conducting inspections across Kerala on Sunday. Officials confiscated counterfeit cosmetic items valued at over ₹10 lakh. The action follows a teenager’s kidney disease linked to such products.",
-  "why": "Unsafe cosmetics can cause serious health issues, so teens should verify product authenticity before use. Report any suspicious items to authorities.",
-  "tags": [
-   "Kerala",
-   "CosmeticsSafety",
-   "TeenHealth",
-   "FakeProducts"
-  ]
- },
- {
-  "id": "e6e619c841ef",
-  "created": "2026-11-22T21:12:19+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/government-proposes-amendments-to-kerala-administrative-service-rules/article71731940.ece",
-  "headline": "Kerala govt to tweak KAS rules for clarity",
-  "hook": "Clearer admin service rules could impact your career plans.",
-  "what": "The Kerala government has issued a notification proposing amendments to the Kerala Administrative Service (KAS) rules. The changes aim to eliminate ambiguities and correct errors that have entered the existing regulations.",
-  "why": "For students eyeing civil service jobs, clearer rules mean better understanding of eligibility and procedures. Stay updated on the revisions if you plan to apply.",
-  "tags": [
-   "Kerala",
-   "KAS",
-   "CivilService",
-   "Jobs",
-   "Updates"
-  ]
- },
- {
-  "id": "0394cfacd848",
-  "created": "2026-11-22T21:12:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/will-a-pf-withdrawal-for-buying-a-house-be-tax-free-after-five-years-of-service-11795331943996.html",
-  "headline": "PF house‑loan withdrawal stays tax‑free after 5 years",
-  "hook": "You can tap your PF for a home without paying tax.",
-  "what": "Employees with over five years of service can withdraw part of their PF for eligible house purchases. The account remains active and the remaining balance continues to earn interest.",
-  "why": "It lets young workers fund a home purchase without a tax burden, so they can plan their savings better.",
-  "tags": [
-   "PF",
-   "taxfree",
-   "homebuying",
-   "finance",
-   "youngworkers"
-  ]
- },
- {
-  "id": "48e6fb253dbf",
-  "created": "2026-11-22T21:12:26+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "ESPN India",
-  "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1NuSmNyOHFQOFZlR2tRdlNjRzVuakh2Q2tnMlNnMWR6QUEyV1o4R1RQT01zOXloVDdzaXJLNk9rS3lhXzZmSHFEeF8wTDUxNFYtLWpzVnpIcktOVHpjcU1LVjVfWDdCWjRJR1NSYlBNV0JPeUFCMnpEZGVyd0JsLXdEb2NjTHJmSUU3T1h5V2JkaElhaU93ZzFYQ3dULWZydXMzQkdJLXNpODBPV0h2c2dtX1lENWdpb3VqTGpsWFhxd0NuNXQzZkRfS3hNTTJla3ZQUFlZUQ?oc=5",
-  "headline": "Asia Cup Rising Stars 8th match set for Doha",
-  "hook": "Young cricketers battle it out under lights on Nov 22",
-  "what": "The eighth game of Group B in the Asia Cup Rising Stars 50‑over tournament will be played as a day‑night fixture in Doha on 22 November 2026. It is part of the ongoing youth competition.",
-  "why": "The match offers a platform for emerging talent to showcase skills, and fans can catch the action live or via streaming. Keep an eye on team line‑ups for future star prospects.",
-  "tags": [
-   "cricket",
-   "AsiaCup",
-   "RisingStars",
-   "Doha",
-   "YouthSports"
-  ]
- },
- {
-  "id": "7f0ddcf66d1f",
-  "created": "2026-11-22T20:28:14+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/indias-diversity-is-amazing-putin-praises-indian-civilisation-linguistic-diversity-recalls-conversation-with-pm-modi-101795354092820.html",
-  "headline": "Putin lauds India's rich civilisation and language diversity",
-  "hook": "Putin says he’s stunned by how many Indians speak the main language",
-  "what": "Russian President Vladimir Putin praised India’s civilisation and its linguistic variety. He recalled a recent chat with Prime Minister Narendra Modi about the large number of Indians speaking the country’s main language, expressing amazement at the response.",
-  "why": "It highlights India’s cultural influence on the world stage, giving young Indians a reason to feel proud of their heritage.",
-  "tags": [
-   "India",
-   "Putin",
-   "language",
-   "culture",
-   "Modi"
-  ]
- },
- {
-  "id": "3fd4a31cd46b",
-  "created": "2026-11-22T20:28:19+05:30",
-  "category": "sports",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/usharafali-confirms-2-crore-investment-by-rbcin-football-academy/article71731492.ece",
-  "headline": "RBC pumps ₹2 crore into Sharafali’s football academy",
-  "hook": "Big cash boost for a youth football hub.",
-  "what": "The Special Investigation Team found that RBC transferred ₹2 crore to the academy’s account. U. Sharafali is the academy’s managing director.",
-  "why": "Such funding could improve training facilities for aspiring players, offering more opportunities for young talent. Keep an eye on local sports programs for scholarships or trials.",
-  "tags": [
-   "football",
-   "investment",
-   "youthsports",
-   "RBC",
-   "academy"
   ]
  }
 ]

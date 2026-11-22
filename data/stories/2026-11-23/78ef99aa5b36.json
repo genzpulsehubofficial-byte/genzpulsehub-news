@@ -1,0 +1,37 @@
+{
+ "id": "78ef99aa5b36",
+ "created": "2026-11-23T04:43:23+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Notebookcheck",
+ "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZnJ4ZnVjZlpKRHJNS3U3Q0ZDb3FFdHFiZjI1VGZNaHNFbkcxVWFJYVhmRWNtNlJUVFhLSmN2LTdNNVpLTl9oXzdHeEcxZmdoX1hudkM1NmY5ZFl3ZXRmUm5PTTZTTEJIWnFLZHRRVXVpWThMOWhlSUJlQVhpbGYyRzBCUnFLRUV3Y1lGMkhhWE5qbFdIZ0gxenhoWVNNZnlDcGxwUTFHLXg1TW1KaUZCLW5NbWhvXzFPUzRrU19kb1dva3NLbmFHLVdWTXRGdHhVWjZOMWpEWG5XeFdG?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia RTX Spark Mini PCs Launch in Europe",
+  "hook": "Compact powerhouses from Asus, Dell and MSI are now available overseas.",
+  "what": "Nvidia's RTX Spark mini desktop series arrived in Europe today. The units pack a 20‑core processor, up to 128 GB RAM, a 4 TB SSD and 6,144 CUDA cores. Asus, Dell and MSI are the first manufacturers offering the models.",
+  "why": "The specs make these tiny rigs suitable for gaming, content creation and AI work, so Indian teens interested in high‑performance computing should watch for local releases and pricing.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "miniPC",
+   "gaming",
+   "Europe"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia RTX Spark മിനി പി‌സികള്‍ യൂറോപ്പില്‍ എത്തി",
+  "hook": "Asus, Dell, MSI എന്നിവയുടെ കമ്പാക്റ്റ് ശക്തി ഇപ്പോള്‍ വിദേശത്ത് ലഭ്യമാണ്.",
+  "what": "Nvidiaയുടെ RTX Spark മിനി ഡെസ്ക്ടോപ്പ് സീരീസ് ഇന്ന് യൂറോപ്പില്‍ ലോഞ്ച് ചെയ്തു. 20‑കോറ് CPU, 128 GB RAM, 4 TB SSD, 6,144 CUDA കോറുകള്‍ എന്നിവയോടെ ഈ മോഡലുകള്‍ വരുന്നു. Asus, Dell, MSI എന്നിവയാണ് ആദ്യം ഈ ഉപകരണങ്ങള്‍ നല്‍കുന്നത്.",
+  "why": "ഗെയിമിംഗ്, കണ്ടന്റ് ക്രിയേഷന്‍ അല്ലെങ്കില്‍ AI ജോലികള്‍ക്ക് ഈ സ്പെക്‌സ്‌റ്റുകള്‍ അനുയോജ്യമാണു, അതിനാല്‍ ഉയർന്ന പ്രകടനമുള്ള കമ്പ്യൂട്ടര്‍ ആഗ്രഹിക്കുന്ന ഇന്ത്യയിലെ യുവാക്കള്‍ ലോക്കല്‍ റിലീസ്, വില എന്നിവ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "miniPC",
+   "gaming",
+   "Europe"
+  ]
+ }
+}

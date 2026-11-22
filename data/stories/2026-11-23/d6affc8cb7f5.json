@@ -1,0 +1,37 @@
+{
+ "id": "d6affc8cb7f5",
+ "created": "2026-11-23T04:43:18+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/cop31-longest-un-climate-climate-ends-without-a-deal-over-fossil-fuels-deadlock-12363368#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "UN climate talks end with no fossil fuel phase‑out deal",
+  "hook": "Talks stalled as oil‑rich nations blocked any cut‑back plan.",
+  "what": "The latest UN climate negotiations concluded without an agreement. Delegates could not agree on phasing out fossil fuels because oil‑producing countries opposed any mention of it.",
+  "why": "Without a global plan to curb fossil fuels, climate impacts may worsen, affecting future generations. Young Indians should stay informed and push for sustainable policies.",
+  "tags": [
+   "climate",
+   "UN",
+   "fossilfuels",
+   "youth",
+   "policy"
+  ]
+ },
+ "ml": {
+  "headline": "UN കാലാവസ്ഥാ ചർച്ചകൾ ഫോസിൽ ഇന്ധന നീക്കം കരാറില്ലാതെ അവസാനിച്ചു",
+  "hook": "എണ്ണയുള്ള രാജ്യങ്ങൾ ഫോസിൽ ഇന്ധന കുറവ് പദ്ധതി തടഞ്ഞതിനാൽ ചർച്ചകൾ കുടുങ്ങി.",
+  "what": "പുതിയ UN കാലാവസ്ഥാ ചർച്ചകൾ ഒരു കരാറും ഇല്ലാതെ അവസാനിച്ചു. എണ്ണ ഉത്പാദന രാജ്യങ്ങൾ ഫോസിൽ ഇന്ധനങ്ങൾ കുറയ്ക്കാനുള്ള ഏതെങ്കിലും പരാമർശം നിരസിച്ചതിനാൽ പങ്കാളികൾ ഒരു ഏകോപിത പദ്ധതി രൂപപ്പെടുത്താൻ സാധിച്ചില്ല.",
+  "why": "ഫോസിൽ ഇന്ധന നിയന്ത്രണമില്ലാതെ കാലാവസ്ഥാ പ്രശ്നങ്ങൾ കൂടുതൽ ഗുരുതരമാകും, ഇത് ഭാവി തലമുറയെ ബാധിക്കും. ഇന്ത്യയിലെ യുവാക്കൾ വിവരങ്ങൾ അറിയുകയും സുസ്ഥിര നയങ്ങൾക്ക് പിന്തുണ നൽകുകയും ചെയ്യണം.",
+  "tags": [
+   "കാലാവസ്ഥ",
+   "UN",
+   "ഫോസിൽഇന്ധനം",
+   "യുവാക്കൾ",
+   "നയം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "3d6f86569bfb",
+ "created": "2026-11-23T04:43:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Notebookcheck",
+ "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWdWUVg3WTkwb2lLVTY2YkZnclN4Wkh4Nmx3QklfTEpCNTZjVTBURmRTZDQ0MGQ0NXo1NG5KX256a3FORVhVaFhycVRIbDkwTXJhOWJrQlZhaGc3YnFjajFhWk92R3htbWpyZzFBVlRLOXJISU1VQ3E4Mkl4dHhYQmFpamRJTmFaWnFKQnlXSy1DcGtucV9WcmVvUnpBbC1hMmFXYi1FT1FJSUZ5VmFET3JyX2tJcEZQWDhlUzFUaEU0WEJTSVlrUTVSd3k3YnFLMGtpZGIwb3UtdXd6YWVNS0EtdDNUbDliS0ZMdzBB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GitHub teams chase PC port of leaked GTA VI Xbox build",
+  "hook": "Three open‑source projects are trying to run GTA VI on PC, but the core file is still missing.",
+  "what": "An anonymous hacker called Cyberleek released an Xbox version of the unreleased GTA VI. Three separate GitHub initiatives are attempting to convert that build for PC, yet they do not have the executable file needed. Developers have also released a tool named Leonida that can run the game natively on PC.",
+  "why": "A successful PC port could let gamers play the game before its official launch, but the missing executable limits progress. Stay cautious about unofficial downloads and watch the open‑source efforts.",
+  "tags": [
+   "GTA6",
+   "PCport",
+   "GitHub",
+   "gaming",
+   "leak"
+  ]
+ },
+ "ml": {
+  "headline": "GitHub പ്രോജക്റ്റുകൾ ശ്രമിക്കുന്നു GTA VI Xbox ബിൽഡ്‌ PC‑യിലേക്ക്",
+  "hook": "മൂന്ന് ഓപ്പൺ‑സോഴ്‌സ് ടീംസ് ഗെയിം PC‑യിൽ പ്രവർത്തിപ്പിക്കാൻ ശ്രമിക്കുന്നു, പക്ഷേ എക്സിക്യൂട്ടബിൾ ഇല്ല.",
+  "what": "അജ്ഞാത ഹാക്കർ സൈബർലീക്ക് GTA VI‑യുടെ Xbox പതിപ്പ് പുറത്തുവിട്ടു. അതിനെ PC‑യിലേക്ക് മാറ്റാൻ മൂന്ന് GitHub പ്രോജക്റ്റുകൾ പ്രവർത്തിക്കുന്നു, എന്നാൽ ആവശ്യമായ എക്സിക്യൂട്ടബിൾ ഫയൽ അവർക്കില്ല. ഡെവലപ്പർമാർ Leonida എന്ന ഉപകരണം പുറത്തിറക്കി, അത് ഗെയിം PC‑യിൽ സ്വാഭാവികമായി പ്രവർത്തിപ്പിക്കാൻ സഹായിക്കും.",
+  "why": "ഇത് വിജയിച്ചാൽ ഗെയിം ഔദ്യോഗിക റിലീസ് മുൻപ് PC‑യിൽ കളിക്കാൻ കഴിയും, പക്ഷേ ഫയൽ ഇല്ലാത്തതിനാൽ ഇപ്പോൾ പ്രയാസം. അനധികൃത ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് ഒഴിവാക്കി, തുറന്ന സോഴ്‌സ് പുരോഗതി പിന്തുടരുക.",
+  "tags": [
+   "GTA6",
+   "PCപോർട്ട്",
+   "GitHub",
+   "ഗെയിമിംഗ്",
+   "ലീക്ക്"
+  ]
+ }
+}

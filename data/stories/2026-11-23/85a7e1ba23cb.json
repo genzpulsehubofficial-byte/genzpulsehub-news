@@ -1,0 +1,35 @@
+{
+ "id": "85a7e1ba23cb",
+ "created": "2026-11-23T04:43:28+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1RMYTR3NWNtdW90QkhmVXBKR05TQTFXVHNhaU1EQXRqZE4tSmgyVHB1bjctakc1WHZ3RllvVGhFYVFDYzhRdXV2S24yMkpURU9IY3RDbXhzNl9Vb0ZITlBSQjBYQmhGcEQzXzNoRUNBZGtkeU45NVYxR3VnUnJtTElxQ2xBTkdLM2ptbXUzcXJaeXJnREVCeGlGWkNoYjREVk52VVlQalVuYzRMMFBSNXhPTUJlemdydEQ3VUx6ZjFNUC1vSkw0VF96U3gyUjRZUUgyUWpCemtnZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump aide demands clarity on Nvidia's China chip sales",
+  "hook": "A senior Trump staffer is pressing for answers on a big tech deal.",
+  "what": "Trump aide Bessent said the United States needs explanations about Nvidia selling chips to China. The comment was made amid ongoing scrutiny of technology exports. No further details were provided.",
+  "why": "Understanding such trade moves helps young Indians gauge global tech trends and potential market impacts. Keep an eye on policy debates that could affect tech availability and prices.",
+  "tags": [
+   "Nvidia",
+   "China",
+   "TechTrade",
+   "USPolitics"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് സഹായി ആവശ്യപ്പെടുന്നു: Nvidia‑യുടെ ചൈന ചിപ് വിറ്റു",
+  "hook": "ഒരു ട്രംപ് സ്റ്റാഫർ വലിയ ടെക് ഡീലിനെക്കുറിച്ച് ഉത്തരങ്ങൾ ചോദിക്കുന്നു.",
+  "what": "ട്രംപ് സഹായിയായ Bessent Nvidia ചൈനയ്ക്ക് ചിപ്‌സ് വിറ്റു എന്നതിനെക്കുറിച്ച് യു.എസ്.ക്ക് വിശദീകരണം വേണമെന്ന് പറഞ്ഞു. ഈ അഭിപ്രായം ടെക് എക്‌സ്‌പോർട്ടുകൾ ചുറ്റുമുള്ള ചർച്ചകളുടെ ഇടയിൽ വന്നതാണ്. കൂടുതൽ വിവരങ്ങൾ നൽകിയിട്ടില്ല.",
+  "why": "ഇത്തരത്തിലുള്ള വ്യാപാര ചലനങ്ങൾ ലോകത്തെ ടെക് മാർക്കറ്റിനെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയുന്നത് യുവ ഇന്ത്യൻമാർക്ക് പ്രധാനമാണ്. നയപരമായ ചർച്ചകൾ ഉൽപ്പന്ന ലഭ്യതയും വിലയും മാറ്റാൻ സാധ്യതയുണ്ട്.",
+  "tags": [
+   "Nvidia",
+   "ചൈന",
+   "ടെക്‌ട്രേഡ്",
+   "യുഎസ്‌പോളിറ്റി"
+  ]
+ }
+}
