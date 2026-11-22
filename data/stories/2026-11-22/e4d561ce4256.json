@@ -1,0 +1,37 @@
+{
+ "id": "e4d561ce4256",
+ "created": "2026-11-22T05:35:08+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnlmVlNrcU9RM0pXY21Gb3BuU2pWcmZOOVY4cTBHSldmdTJXTmFwaDVCR0Z0VXhyeUp1VUlOVERTUjJzcnBWV3FxbGZ6a3BSUzZJVXRJZGNwZ0FrYzJWVERaRFBNWFZmbENrTzctSFlGMDBob3ZDUmE4TWZMdDN2TDVMMA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ENE Repeat's Day 3 Box Office Figures Await After 47% Drop",
+  "hook": "The Vishwak Sen starrer’s earnings dip, fans watch the next day closely.",
+  "what": "Tharun Bhascker's ENE Repeat earned Rs 19.40 crore worldwide on its second day, a 47% fall from the previous day. Day‑three numbers are being reported but no figures are released yet. The film is praised as a tribute to friendship and cinema.",
+  "why": "Box‑office trends signal audience interest and affect future projects; teens can stream the movie if they want to watch it.",
+  "tags": [
+   "ENERepeat",
+   "BoxOffice",
+   "VishwakSen",
+   "TharunBhascker",
+   "Bollywood"
+  ]
+ },
+ "ml": {
+  "headline": "ENE Repeat ന്റെ മൂന്നാം ദിവസം ബോക്സ് ഓഫീസ് സംഖ്യകൾ കാത്തിരിക്കുന്നു, 47% ഇടിവ്",
+  "hook": "വിഷ്വക് സെന്‍ സ്റ്റാറിന്റെ വരുമാന ഇടിവ്, ഫാന്‍സ് അടുത്ത ദിവസം ശ്രദ്ധിക്കുന്നു.",
+  "what": "Tharun Bhascker സംവിധാനം ചെയ്ത ENE Repeat രണ്ടാം ദിവസം ലോകവ്യാപകമായി 19.40 കോടി രൂപ നേടി, മുൻ ദിവസം比 47% കുറവ് രേഖപ്പെടുത്തി. മൂന്നാം ദിവസത്തെ സംഖ്യകൾ ഇപ്പോൾ റിപ്പോർട്ട് ചെയ്യപ്പെടുന്നു, പക്ഷേ വിശദാംശങ്ങൾ ലഭ്യമല്ല. സിനിമയെ സൗഹൃദവും സിനിമയും പ്രതിനിധീകരിക്കുന്ന ഒരു സ്നേഹപത്രമായി പ്രശംസിച്ചു.",
+  "why": "ബോക്സ് ഓഫീസ് പ്രവണതകൾ ഭാവി പ്രോജക്റ്റുകൾക്കും പ്രേക്ഷക താൽപ്പര്യത്തിനും സൂചന നൽകുന്നു; താങ്കൾക്ക് സിനിമയിൽ താൽപ്പര്യമുണ്ടെങ്കിൽ സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോംസ് വഴി കാണാം.",
+  "tags": [
+   "ENERepeat",
+   "BoxOffice",
+   "VishwakSen",
+   "TharunBhascker",
+   "Bollywood"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "4b549fa965dd",
+ "created": "2026-11-22T05:35:16+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "GSMArena.com",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdThCNF9CNGcySjNKNFpBQzBNVkRkMVNBWWpHTGpBUWNKaGJFcFJtZEQzNTBVN1duMXNRWm9mbVdBdU0tZFQ1Rzl2Yzl1Z1d6dnBiRVlyMUNWV0otbFR0bEctc1hWcXpNeS1PQUNKcmk3TDVnZ0xOYVdtNXhtTHlld1JNQkM2NFhEb0NzWU12WTF0VEh1LXJwNkVVVHRMX1pRLXlKc1JYR3RTY3RfQllNdNIBrAFBVV95cUxQT3dfVV81TFQ5R1N0RTk3MUhEQ015QU9FSUFrNUFRaFNWQzQ2bVhicExhTVRpN3pJQUltd2g1aGxhRzhqdjFBQ3B4QXFKZU5pUHlINlRDcURVeDNXMU1UdS0xSC1LZ1BKLTlZdnkzM2Qwa1RnRENXSVVJbzNUa2t6eGMtWkE2QURPM1g1VW5mT2pST0hMeTUzc0pUV0piYmpFazhIVVk5OXp4Wm9l?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "iPhone Air 2 leak reveals dual-camera design",
+  "hook": "A fresh dummy unit shows Apple’s next-gen iPhone upgrade.",
+  "what": "A leaked dummy unit of the upcoming iPhone Air 2 displays a dual-camera setup. The same leak hints at a production milestone that points to a March 2027 launch for the iPhone 18 and iPhone Air 2. Reports also suggest the iPhone 18 may be priced close to Rs 1 lakh.",
+  "why": "For Indian Gen Z, the design hints at better photography and a possible price jump, so budgeting early could help.",
+  "tags": [
+   "iPhone",
+   "Apple",
+   "leak",
+   "tech",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "iPhone Air 2 ലെക്‌ ചൂണ്ടി ഡ്യൂവൽ‑ക്യാമറ ഡിസൈന്‍",
+  "hook": "ഒരു പുതിയ ഡമ്മി യൂണിറ്റ് ആപ്പിളിന്റെ അടുത്ത iPhone അപ്ഗ്രേഡ് കാണിച്ചു.",
+  "what": "iPhone Air 2യുടെ ഒരു ലീക്ക് ചെയ്ത ഡമ്മി യൂണിറ്റ് ഡ്യൂവൽ‑ക്യാമറ കാണിക്കുന്നു. അതേ ലീക്കിൽ iPhone 18, iPhone Air 2 എന്നിവയുടെ മാർച്ച് 2027 ലോഞ്ച് സൂചിപ്പിക്കുന്ന പ്രൊഡക്ഷൻ മൈൽസ്റ്റോൺ കാണുന്നു. iPhone 18യുടെ വില ഏകദേശം 1 ലക്ഷം രൂപയായിരിക്കാം എന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവജനങ്ങൾക്ക് മെച്ചപ്പെട്ട ഫോട്ടോഗ്രഫി, വില വർദ്ധനവ് എന്നിവയുടെ സൂചനയാണ്, അതിനാൽ മുൻകൂട്ടി ബജറ്റ് പ്ലാൻ ചെയ്യുന്നത് നല്ലത്.",
+  "tags": [
+   "iPhone",
+   "Apple",
+   "ലീക്ക്",
+   "ടെക്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

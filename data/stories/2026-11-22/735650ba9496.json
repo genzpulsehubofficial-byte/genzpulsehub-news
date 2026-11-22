@@ -1,0 +1,37 @@
+{
+ "id": "735650ba9496",
+ "created": "2026-11-22T05:35:05+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India, China commanders meet again on Arunachal border",
+  "hook": "Another round of talks aims to ease border tension.",
+  "what": "Senior military officials from India and China held a second meeting. The talks focused on calming the situation along the Arunachal frontier.",
+  "why": "Peaceful borders help keep the region stable, which matters for students and travelers. Stay updated with official announcements.",
+  "tags": [
+   "IndiaChina",
+   "Arunachal",
+   "Border",
+   "Security",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ‑ചൈന കമാൻഡർമാർ വീണ്ടും അരുണാചൽ അതിർത്തിയിൽ കൂടിക്കാഴ്ച",
+  "hook": "പുനഃസംവാദം അതിർത്തി സംഘർഷം ശമിപ്പിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "what": "ഇന്ത്യയും ചൈനയും സീനിയർ സൈനിക ഉദ്യോഗസ്ഥർ രണ്ടാമത് കൂടിക്കാഴ്ച നടത്തി. ചർച്ചകൾ അരുണാചൽ അതിർത്തിയിലെ സാഹചര്യത്തെ ശമിപ്പിക്കാൻ കേന്ദ്രീകരിച്ചു.",
+  "why": "ശാന്തമായ അതിർത്തി പ്രദേശിക സുരക്ഷ ഉറപ്പാക്കുന്നു, ഇത് വിദ്യാർത്ഥികളുടെയും യാത്രക്കാരുടെയും ജീവിതത്തെ ബാധിക്കുന്നു. ഔദ്യോഗിക അറിയിപ്പുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "IndiaChina",
+   "Arunachal",
+   "Border",
+   "Security",
+   "Youth"
+  ]
+ }
+}

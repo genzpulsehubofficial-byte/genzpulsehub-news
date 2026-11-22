@@ -1,0 +1,37 @@
+{
+ "id": "eea0f2074f37",
+ "created": "2026-11-22T05:35:13+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNczNTTlRMMGdfMDhFb3hRYVlWcGxxN0MzdWJMUEo4NUhtTjZKVFhGOTk5aVlGcW5oaUkyVnoyWHItT0xERzJuLUJxakk4eVFPcDR0Z203ZVJYaUM1QkdqNU1DN0JIdXpZZEtDcEFNWGozVlhxTnBPT3c2NW5XaDFkdzgtNHl6UGZ1X3VZeXp1c1pNeTduRzRvVFdyOHRuaUstV0V2MnI2MGZjZm85OTEta0JVOWFKR1pxX3Z6SkhKbEhmQkY3TU5SQndSQnkwY0dETUR6THAzZ1NMQVpGUEdGZE5yRnRrR2ZZNkxZb1djS2NiSmRILU1RUm5nNTB0Mll6NXJDLVJ5eHZfdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Boycott calls Sandpaper Gate bigger than Cronje scandal",
+  "hook": "A cricket great says the scandal eclipses past match‑fixing.",
+  "what": "Former England opener Geoffrey Boycott said the Sandpaper incident surpasses the Hansie Cronje fixing case. He added that Steve Smith and David Warner should have faced longer bans and that the whole Australian side was involved.",
+  "why": "For Indian fans, it highlights the seriousness of cheating in sport and the need to support clean cricket. Keep an eye on upcoming investigations and discussions.",
+  "tags": [
+   "cricket",
+   "sandpapergate",
+   "sportsintegrity",
+   "boycott",
+   "australia"
+  ]
+ },
+ "ml": {
+  "headline": "ബോയ്‌കോട്ട് പറയുന്നു സാൻഡ്‌പേപ്പർ ഗേറ്റ് ക്രോൺജെ സ്കാൻഡലിനേക്കാൾ വലിയതാണെന്ന്",
+  "hook": "ക്രിക്കറ്റ് ലെജൻഡ് ഈ സ്കാൻഡൽ പഴയ ഫിക്സിംഗ് കേസിനെ മറികടക്കുന്നു",
+  "what": "മുൻ ഇംഗ്ലീഷ് ഓപ്പണർ ജെഫ്രി ബോയ്‌കോട്ട് സാൻഡ്‌പേപ്പർ ഗേറ്റ് ഹാൻസി ക്രോൺജെയുടെ മാച്ച്‑ഫിക്സിംഗ് കേസിനേക്കാൾ വലുതാണെന്ന് പറഞ്ഞു. സ്റ്റെവ് സ്മിത്തും ഡേവിഡ് വാർണറും കൂടുതൽ ദീർഘമായ നിരോധനങ്ങൾ ലഭിക്കേണ്ടതുണ്ടെന്ന്, മുഴുവൻ ഓസ്‌ട്രേലിയൻ ടീം ചതിക്കുകയാണെന്ന് അദ്ദേഹം കൂട്ടിച്ചേർത്തു.",
+  "why": "ഇന്ത്യൻ യുവാക്കൾക്ക് ഇത് കായികം里的 ചതിയ്ക്കുള്ള ഗൗരവം കാണിക്കുന്നു, ശുചിത്വം നിലനിർത്താൻ പിന്തുണ നൽകണം. പുതിയ അന്വേഷണം, ചർച്ചകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "സാൻഡ്‌പേപ്പർഗേറ്റ്",
+   "സ്പോർട്സ്ഇന്റഗ്രിറ്റി",
+   "ബോയ്‌കോട്ട്",
+   "ഓസ്‌ട്രേലിയ"
+  ]
+ }
+}

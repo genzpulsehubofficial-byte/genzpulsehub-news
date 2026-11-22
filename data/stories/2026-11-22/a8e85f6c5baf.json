@@ -1,0 +1,37 @@
+{
+ "id": "a8e85f6c5baf",
+ "created": "2026-11-22T05:35:10+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Flashscore.com",
+ "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBCZzY5LUlab2NPOXhJdVhtT2NFMVpDMDAwQ0xOdGU2eVN6VnY3eFZLWGJudEFYMGJMaFZKbGFiX2dGRVdicFpQeUxyVEZoY2xuZDZoMGl1QjVWZlU0RnhGV0pKVzBYUUtOWDF0TEY1RW5nLVZKUERRY0pTWkFZVlotcmlGVXRGUW5XMlJPLXpINERwdDZz?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Moller vs Seyboth Wild set for 21 Nov 2026",
+  "hook": "A tennis clash you won’t want to miss",
+  "what": "Elmer Moller will take on Thiago Seyboth Wild on 21 November 2026, as listed on Flashscore. The match details are posted on the site.",
+  "why": "Keeping up with live scores helps young fans stay connected to the sport and follow their favourite players.",
+  "tags": [
+   "tennis",
+   "sports",
+   "liveScore",
+   "match",
+   "youngFans"
+  ]
+ },
+ "ml": {
+  "headline": "Moller vs Seyboth Wild 21 നവം 2026-ന്",
+  "hook": "മിസ്സാക്കാൻ പാടില്ലാത്ത ഒരു ടെന്‍സ് ക്ലാഷ്",
+  "what": "Flashscore-ല്‍ പ്രകാരം, Elmer Moller 21 നവം 2026-ന് Thiago Seyboth Wild-നെതിരെ കളിക്കും. മത്സരത്തിന്റെ വിവരങ്ങള്‍ സൈറ്റില്‍ ലഭ്യമാണ്.",
+  "why": "ലൈവ് സ്കോര്‍ പിന്തുടര്‍ന്നു കളിക്കാരെ പിന്തുണയ്ക്കാനും സ്പോര്‍ട്ട്‌വേര്‍ ആകാന്‍ യുവാക്കള്‍ക്ക് സഹായം ലഭിക്കും.",
+  "tags": [
+   "ടെന്നിസ്",
+   "സ്പോര്‍ട്ട്",
+   "ലൈവ്‌സ്‌കോര്‍",
+   "മാച്ച്",
+   "യുവജനങ്ങള്‍"
+  ]
+ }
+}

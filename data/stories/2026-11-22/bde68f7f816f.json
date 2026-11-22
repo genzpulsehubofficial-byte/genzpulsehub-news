@@ -1,0 +1,37 @@
+{
+ "id": "bde68f7f816f",
+ "created": "2026-11-22T05:35:01+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "TDP backs venue for Vijayawada mayor oath, criticises YSRCP",
+  "hook": "A local power tussle over where the mayor takes oath.",
+  "what": "The Telugu Desam Party defended holding the Vijayawada mayor’s swearing‑in at a chosen site, rejecting criticism from the YSR Congress Party. A Vijayawada MP said no rule forces the ceremony to be in the VMC council hall. YSRCP corporators have asked the district collector to intervene.",
+  "why": "Such disputes highlight how local politics can affect civic events that impact youth services. Stay aware of local governance issues and follow updates from reliable sources.",
+  "tags": [
+   "Vijayawada",
+   "Mayor",
+   "TDP",
+   "YSRCP",
+   "LocalPolitics"
+  ]
+ },
+ "ml": {
+  "headline": "ടി.ഡി.പി. വജ്രവാഡ മേയർ ശപഥം സ്ഥലത്തെ പിന്തുണക്കുന്നു, യെ.എസ്.ആർ.സി.പി.യെ വിമർശിക്കുന്നു",
+  "hook": "മെയറിന്റെ ശപഥം എവിടെ നടക്കണം എന്നതിൽ പ്രാദേശിക രാഷ്ട്രീയമത്സരം.",
+  "what": "ടെലുങ്ക് ദേശം പാർട്ടി (TDP) വജ്രവാഡ മേയർ ശപഥം ഒരു പ്രത്യേക സ്ഥലത്ത് നടത്താൻ പിന്തുണ നൽകി, യെ.എസ്.ആർ.സി.പി.യുടെ വിമർശനം നിരാകരിച്ചു. ഒരു വജ്രവാഡ എം.പി. ഈ ചടങ്ങ് VMC കൗൺസിൽ ഹാളിൽ നടത്തേണ്ടതില്ലെന്ന് പറഞ്ഞു. യെ.എസ്.ആർ.സി.പി. കോർപ്പറേറ്റർമാർ ജില്ലാ കലക്ടറിനോട് ഇടപെടൽ ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത്തരത്തിലുള്ള തർക്കങ്ങൾ പ്രാദേശിക ഭരണത്തെക്കുറിച്ചുള്ള അവബോധം വർദ്ധിപ്പിക്കുന്നു, യുവജനങ്ങൾക്ക് സേവനങ്ങളും വികസനവും എങ്ങനെ ബാധിക്കുന്നു എന്ന് മനസ്സിലാക്കാൻ സഹായിക്കുന്നു.",
+  "tags": [
+   "Vijayawada",
+   "Mayor",
+   "TDP",
+   "YSRCP",
+   "LocalPolitics"
+  ]
+ }
+}
