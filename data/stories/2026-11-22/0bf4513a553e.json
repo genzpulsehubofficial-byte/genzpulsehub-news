@@ -1,0 +1,37 @@
+{
+ "id": "0bf4513a553e",
+ "created": "2026-11-22T23:40:50+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Football365",
+ "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40U012d2RlTTdielJFdDdvZHNDdGJMOHppQVBVcVBuajV3NWhJR2wtZHNxdjFsMTZZQjM2aW91SHhQaWQtdEctVlRLUnNTeHVLZWZQaWdRSmtZbWhKNE5FZE9Kc2ZrU19GQUlLR1h3VEhhTHZSTUpGZHE5MUdQdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Hull stun Brighton with McBurnie's late double",
+  "hook": "Two last‑minute goals turned the game on its head.",
+  "what": "Hull City beat Brighton 2‑0 in the Premier League. Oli McBurnie scored both goals in added time after goalkeeper Konstantinos Tzolakis made key saves. Brighton played most of the match with ten men.",
+  "why": "The upset shows how quickly a match can change, so fans should keep an eye on live scores. Stay updated for more surprise moments.",
+  "tags": [
+   "HullCity",
+   "Brighton",
+   "PremierLeague",
+   "McBurnie",
+   "Football"
+  ]
+ },
+ "ml": {
+  "headline": "Hull City-യുടെ ബ്രൈറ്റൺ‌ക്കെതിരായ അത്ഭുത വിജയം",
+  "hook": "അവസാന നിമിഷങ്ങളിൽ ഒലി മക്‌ബേർണിയുടെ രണ്ട് ഗോൾസ് ഗെയിം മാറ്റി.",
+  "what": "Hull City, ബ്രൈറ്റൺ 2‑0 കൊണ്ട് തോൽപ്പിച്ചു. ഒലി മക്‌ബേർണി കൂട്ടിച്ചേർത്ത സമയത്ത് രണ്ട് ഗോൾസ് നേടി, ഗോൾകീപ്പർ കോൺസ്റ്റാന്റിനോസ് ത്സോലാകിസ് പ്രധാന സേവ്‌കൾ ചെയ്തു. ബ്രൈറ്റൺ 10‑മാനായി കളിച്ചു.",
+  "why": "മത്സരം അവസാന നിമിഷം വരെ മാറാം എന്നത് കാണിച്ചു, ഫുട്ബോൾ ആരാധകർക്ക് തത്സമയ സ്കോർ പിന്തുടരാൻ പ്രോത്സാഹനം.",
+  "tags": [
+   "HullCity",
+   "Brighton",
+   "PremierLeague",
+   "McBurnie",
+   "Football"
+  ]
+ }
+}

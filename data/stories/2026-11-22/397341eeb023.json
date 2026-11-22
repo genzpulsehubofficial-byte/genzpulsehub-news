@@ -1,0 +1,37 @@
+{
+ "id": "397341eeb023",
+ "created": "2026-11-22T23:40:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gaadiwaadi.com",
+ "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcdIBmAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Dutch court blocks BYD Ti7 SUV sales in EU",
+  "hook": "A Chinese SUV faces a Europe-wide sales ban over design copying.",
+  "what": "The Dutch court issued an injunction stopping BYD from selling its Ti7 model across the European Union. The ruling follows a lawsuit by Land Rover, which said the Ti7 copies the Defender’s design.",
+  "why": "The case highlights how IP disputes can affect vehicle availability and pricing, a point Indian youngsters should keep in mind when choosing cars.",
+  "tags": [
+   "BYD",
+   "LandRover",
+   "EU",
+   "carnews",
+   "design"
+  ]
+ },
+ "ml": {
+  "headline": "ഡച്ച് കോടതി BYD Ti7 SUVയുടെ യൂറോപ്പ് വിൽപ്പന തടഞ്ഞു",
+  "hook": "ചൈനീസ് SUVയുടെ ഡിസൈൻ പകർത്തിയതുകൊണ്ട് യൂറോപ്പിൽ വിൽപ്പന നിരോധിതമായി.",
+  "what": "ഡച്ച് കോടതി BYD‑യുടെ Ti7 മോഡലിന്റെ യൂറോപ്യൻ യൂണിയൻ വിൽപ്പനയിൽ നിരോധനം ഏർപ്പെടുത്തി. ലാൻഡ് റോവർ ജഡ്ജ്മെന്റ് ചെയ്തതുപോലെ, Ti7‑യുടെ ഡിസൈൻ Defender‑നെ അനുകരിക്കുന്നുവെന്ന് ആരോപിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള പാറ്റന്റ് കേസുകൾ കാർ വിലയും ലഭ്യതയും ബാധിക്കാം, അതിനാൽ ഇന്ത്യയിലെ യുവ വാങ്ങുന്നവർക്കും ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "BYD",
+   "LandRover",
+   "EU",
+   "കാർവാർത്ത",
+   "ഡിസൈൻ"
+  ]
+ }
+}

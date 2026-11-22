@@ -1,0 +1,37 @@
+{
+ "id": "4c53fb9b6430",
+ "created": "2026-11-22T23:40:41+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/sip-on-salary-day-or-at-month-end-does-your-mutual-fund-investment-date-affect-returns-what-sensex-data-reveal-11795368672894.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SIP timing barely changes returns, study shows",
+  "hook": "Your pay‑day won’t magically boost mutual fund gains.",
+  "what": "Research by WhiteOak Capital looked at Sensex data and compared 10‑year SIP outcomes for different calendar dates. The difference in average returns was only about 0.06 percentage points.",
+  "why": "For young investors, the exact day you start a SIP matters little, so focus on regular investing rather than timing. Keep your contributions consistent.",
+  "tags": [
+   "SIP",
+   "mutualfund",
+   "investing",
+   "finance",
+   "Sensex"
+  ]
+ },
+ "ml": {
+  "headline": "SIP ആരംഭിക്കുന്ന തീയതി ലാഭത്തിൽ കുറച്ച് മാറ്റം മാത്രം",
+  "hook": "വേതനദിനം നിങ്ങളുടെ മ്യൂച്വൽ ഫണ്ട് ലാഭം വർദ്ധിപ്പിക്കില്ല.",
+  "what": "WhiteOak Capital നടത്തിയ വിശകലനത്തിൽ Sensex ഡാറ്റ ഉപയോഗിച്ച് 10‑വർഷ SIP ഫലങ്ങൾ വ്യത്യസ്ത തീയതികളിൽ താരതമ്യം ചെയ്തു. ശരാശരി ലാഭത്തിൽ 0.06 ശതമാന പോയിന്റ് മാത്രമാണ് വ്യത്യാസം.",
+  "why": "യുവ നിക്ഷേപകർക്ക് SIP ആരംഭിക്കുന്ന ദിവസം പ്രധാനമല്ല; സ്ഥിരമായ നിക്ഷേപം തുടരാൻ ശ്രദ്ധിക്കുക. സമയം നോക്കാതെ പതിവായി നിക്ഷേപിക്കുക.",
+  "tags": [
+   "SIP",
+   "മ്യൂച്വൽഫണ്ട്",
+   "നിക്ഷേപം",
+   "ഫിനാൻസ്",
+   "Sensex"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "b6639db1aad5",
+ "created": "2026-11-22T23:39:12+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+ "source_count": 3,
+ "provider": "gemini",
+ "en": {
+  "headline": "FSSAI Orders Action Against Bisleri Over Unsafe Packaged Water",
+  "hook": "Your go-to bottled water brand is facing legal action over safety rules.",
+  "what": "Food safety regulator FSSAI has ordered legal prosecution against Bisleri International. A sample of its packaged drinking water failed safety standards after bromate levels were found exceeding prescribed limits. The water was officially marked unsafe under the Food Safety and Standards Act, 2006.",
+  "why": "When buying packaged water outside, quality checks matter, and officials are pulling up major brands that fail safety rules.",
+  "tags": [
+   "Bisleri",
+   "FSSAI",
+   "FoodSafety",
+   "DrinkingWater"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുണനിലവാരമില്ലാത്ത കുപ്പിവെള്ളം: ബിസ്‌ലറിക്കെതിരെ നടപടിയെടുക്കാൻ FSSAI ഉത്തരവ്",
+  "hook": "പാക്കേജ്ഡ് കുടിവെള്ളത്തിന്റെ സുരക്ഷയെക്കുറിച്ച് പ്രധാനപ്പെട്ട ഒരു വിവരം പുറത്തുവന്നിരിക്കുന്നു.",
+  "what": "ബിസ്‌ലേരി ഇന്റർനാഷണലിനെതിരെ നിയമനടപടി സ്വീകരിക്കാൻ FSSAI ഉത്തരവിട്ടു. പരിശോധിച്ച കുടിവെള്ള സാമ്പിളിൽ ബ്രോമേറ്റ് അളവ് നിശ്ചിത പരിധി കഴിഞ്ഞതായി കണ്ടെത്തി. തുടർന്ന് 2006-ലെ ഭക്ഷ്യസുരക്ഷാ നിയമപ്രകാരം ഈ വെള്ളം സുരക്ഷിതമല്ലെന്ന് അധികൃതർ വ്യക്തമാക്കി.",
+  "why": "യാത്രകളിലും മറ്റും വാങ്ങുന്ന കുപ്പിവെള്ളത്തിന്റെ ഗുണനിലവാരം ഉറപ്പാക്കാൻ അധികൃതർ കർശന നടപടികൾ സ്വീകരിക്കുന്നുണ്ട്.",
+  "tags": [
+   "Bisleri",
+   "FSSAI",
+   "DrinkingWater",
+   "FoodSafety"
+  ]
+ }
+}

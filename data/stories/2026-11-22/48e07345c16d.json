@@ -1,0 +1,37 @@
+{
+ "id": "48e07345c16d",
+ "created": "2026-11-22T23:40:44+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/fine-imposed-dumping-clothes-waste-pamba-river-sabarimala-pti791j3v5e",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Up to ₹5,000 fine for littering in Pamba River",
+  "hook": "Don’t trash the holy river – you could be fined.",
+  "what": "During the Sabarimala season, officials will fine anyone who throws clothes or waste into the Pamba River. The penalty can be as high as ₹5,000 per incident.",
+  "why": "Keeping the river clean protects the pilgrimage experience and the environment. Teens should avoid littering and use proper disposal bins.",
+  "tags": [
+   "Sabarimala",
+   "PambaRiver",
+   "CleanIndia",
+   "EcoFriendly",
+   "Fine"
+  ]
+ },
+ "ml": {
+  "headline": "പമ്പാ നദിയിൽ മാലിന്യം വീഴ്ത്തിയാൽ 5,000 രൂപ വരെ പിഴ",
+  "hook": "പവിത്ര നദി മലിനമാക്കരുത് – പിഴ പിടിക്കാം",
+  "what": "സബരിമലാ സീസണിൽ, നദിയിൽ വസ്ത്രം, മാലിന്യം വീഴ്ത്തുന്നവർക്കു 5,000 രൂപ വരെ പിഴ ചുമത്തും. ഓരോ ലംഘനത്തിനും ഈ തുക ബാധകമാണ്.",
+  "why": "നദി ശുചിത്വം പാലിക്കുന്നത് തീർത്ഥാടനവും പരിസ്ഥിതിയും സംരക്ഷിക്കും. യുവാക്കൾ മാലിന്യം ശരിയായ സ്ഥലങ്ങളിൽ നിക്ഷേപിക്കുക.",
+  "tags": [
+   "സബരിമല",
+   "പമ്പാ നദി",
+   "പരിസ്ഥിതി",
+   "ക്ലീൻഇന്ത്യ",
+   "പിഴ"
+  ]
+ }
+}

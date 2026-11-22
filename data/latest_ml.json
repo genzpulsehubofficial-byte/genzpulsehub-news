@@ -1,5 +1,99 @@
 [
  {
+  "id": "b6639db1aad5",
+  "created": "2026-11-22T23:39:12+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+  "headline": "ഗുണനിലവാരമില്ലാത്ത കുപ്പിവെള്ളം: ബിസ്‌ലറിക്കെതിരെ നടപടിയെടുക്കാൻ FSSAI ഉത്തരവ്",
+  "hook": "പാക്കേജ്ഡ് കുടിവെള്ളത്തിന്റെ സുരക്ഷയെക്കുറിച്ച് പ്രധാനപ്പെട്ട ഒരു വിവരം പുറത്തുവന്നിരിക്കുന്നു.",
+  "what": "ബിസ്‌ലേരി ഇന്റർനാഷണലിനെതിരെ നിയമനടപടി സ്വീകരിക്കാൻ FSSAI ഉത്തരവിട്ടു. പരിശോധിച്ച കുടിവെള്ള സാമ്പിളിൽ ബ്രോമേറ്റ് അളവ് നിശ്ചിത പരിധി കഴിഞ്ഞതായി കണ്ടെത്തി. തുടർന്ന് 2006-ലെ ഭക്ഷ്യസുരക്ഷാ നിയമപ്രകാരം ഈ വെള്ളം സുരക്ഷിതമല്ലെന്ന് അധികൃതർ വ്യക്തമാക്കി.",
+  "why": "യാത്രകളിലും മറ്റും വാങ്ങുന്ന കുപ്പിവെള്ളത്തിന്റെ ഗുണനിലവാരം ഉറപ്പാക്കാൻ അധികൃതർ കർശന നടപടികൾ സ്വീകരിക്കുന്നുണ്ട്.",
+  "tags": [
+   "Bisleri",
+   "FSSAI",
+   "DrinkingWater",
+   "FoodSafety"
+  ]
+ },
+ {
+  "id": "4c53fb9b6430",
+  "created": "2026-11-22T23:40:41+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/sip-on-salary-day-or-at-month-end-does-your-mutual-fund-investment-date-affect-returns-what-sensex-data-reveal-11795368672894.html",
+  "headline": "SIP ആരംഭിക്കുന്ന തീയതി ലാഭത്തിൽ കുറച്ച് മാറ്റം മാത്രം",
+  "hook": "വേതനദിനം നിങ്ങളുടെ മ്യൂച്വൽ ഫണ്ട് ലാഭം വർദ്ധിപ്പിക്കില്ല.",
+  "what": "WhiteOak Capital നടത്തിയ വിശകലനത്തിൽ Sensex ഡാറ്റ ഉപയോഗിച്ച് 10‑വർഷ SIP ഫലങ്ങൾ വ്യത്യസ്ത തീയതികളിൽ താരതമ്യം ചെയ്തു. ശരാശരി ലാഭത്തിൽ 0.06 ശതമാന പോയിന്റ് മാത്രമാണ് വ്യത്യാസം.",
+  "why": "യുവ നിക്ഷേപകർക്ക് SIP ആരംഭിക്കുന്ന ദിവസം പ്രധാനമല്ല; സ്ഥിരമായ നിക്ഷേപം തുടരാൻ ശ്രദ്ധിക്കുക. സമയം നോക്കാതെ പതിവായി നിക്ഷേപിക്കുക.",
+  "tags": [
+   "SIP",
+   "മ്യൂച്വൽഫണ്ട്",
+   "നിക്ഷേപം",
+   "ഫിനാൻസ്",
+   "Sensex"
+  ]
+ },
+ {
+  "id": "48e07345c16d",
+  "created": "2026-11-22T23:40:44+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/fine-imposed-dumping-clothes-waste-pamba-river-sabarimala-pti791j3v5e",
+  "headline": "പമ്പാ നദിയിൽ മാലിന്യം വീഴ്ത്തിയാൽ 5,000 രൂപ വരെ പിഴ",
+  "hook": "പവിത്ര നദി മലിനമാക്കരുത് – പിഴ പിടിക്കാം",
+  "what": "സബരിമലാ സീസണിൽ, നദിയിൽ വസ്ത്രം, മാലിന്യം വീഴ്ത്തുന്നവർക്കു 5,000 രൂപ വരെ പിഴ ചുമത്തും. ഓരോ ലംഘനത്തിനും ഈ തുക ബാധകമാണ്.",
+  "why": "നദി ശുചിത്വം പാലിക്കുന്നത് തീർത്ഥാടനവും പരിസ്ഥിതിയും സംരക്ഷിക്കും. യുവാക്കൾ മാലിന്യം ശരിയായ സ്ഥലങ്ങളിൽ നിക്ഷേപിക്കുക.",
+  "tags": [
+   "സബരിമല",
+   "പമ്പാ നദി",
+   "പരിസ്ഥിതി",
+   "ക്ലീൻഇന്ത്യ",
+   "പിഴ"
+  ]
+ },
+ {
+  "id": "397341eeb023",
+  "created": "2026-11-22T23:40:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gaadiwaadi.com",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcdIBmAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcQ?oc=5",
+  "headline": "ഡച്ച് കോടതി BYD Ti7 SUVയുടെ യൂറോപ്പ് വിൽപ്പന തടഞ്ഞു",
+  "hook": "ചൈനീസ് SUVയുടെ ഡിസൈൻ പകർത്തിയതുകൊണ്ട് യൂറോപ്പിൽ വിൽപ്പന നിരോധിതമായി.",
+  "what": "ഡച്ച് കോടതി BYD‑യുടെ Ti7 മോഡലിന്റെ യൂറോപ്യൻ യൂണിയൻ വിൽപ്പനയിൽ നിരോധനം ഏർപ്പെടുത്തി. ലാൻഡ് റോവർ ജഡ്ജ്മെന്റ് ചെയ്തതുപോലെ, Ti7‑യുടെ ഡിസൈൻ Defender‑നെ അനുകരിക്കുന്നുവെന്ന് ആരോപിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള പാറ്റന്റ് കേസുകൾ കാർ വിലയും ലഭ്യതയും ബാധിക്കാം, അതിനാൽ ഇന്ത്യയിലെ യുവ വാങ്ങുന്നവർക്കും ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "BYD",
+   "LandRover",
+   "EU",
+   "കാർവാർത്ത",
+   "ഡിസൈൻ"
+  ]
+ },
+ {
+  "id": "0bf4513a553e",
+  "created": "2026-11-22T23:40:50+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Football365",
+  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40U012d2RlTTdielJFdDdvZHNDdGJMOHppQVBVcVBuajV3NWhJR2wtZHNxdjFsMTZZQjM2aW91SHhQaWQtdEctVlRLUnNTeHVLZWZQaWdRSmtZbWhKNE5FZE9Kc2ZrU19GQUlLR1h3VEhhTHZSTUpGZHE5MUdQdw?oc=5",
+  "headline": "Hull City-യുടെ ബ്രൈറ്റൺ‌ക്കെതിരായ അത്ഭുത വിജയം",
+  "hook": "അവസാന നിമിഷങ്ങളിൽ ഒലി മക്‌ബേർണിയുടെ രണ്ട് ഗോൾസ് ഗെയിം മാറ്റി.",
+  "what": "Hull City, ബ്രൈറ്റൺ 2‑0 കൊണ്ട് തോൽപ്പിച്ചു. ഒലി മക്‌ബേർണി കൂട്ടിച്ചേർത്ത സമയത്ത് രണ്ട് ഗോൾസ് നേടി, ഗോൾകീപ്പർ കോൺസ്റ്റാന്റിനോസ് ത്സോലാകിസ് പ്രധാന സേവ്‌കൾ ചെയ്തു. ബ്രൈറ്റൺ 10‑മാനായി കളിച്ചു.",
+  "why": "മത്സരം അവസാന നിമിഷം വരെ മാറാം എന്നത് കാണിച്ചു, ഫുട്ബോൾ ആരാധകർക്ക് തത്സമയ സ്കോർ പിന്തുടരാൻ പ്രോത്സാഹനം.",
+  "tags": [
+   "HullCity",
+   "Brighton",
+   "PremierLeague",
+   "McBurnie",
+   "Football"
+  ]
+ },
+ {
   "id": "08a62cb5af8c",
   "created": "2026-11-22T22:46:56+05:30",
   "category": "headlines",
@@ -655,101 +749,6 @@
    "വിരമിക്കൽഅവകാശം",
    "DDA",
    "നിയമവാർത്ത"
-  ]
- },
- {
-  "id": "df8c709ecebd",
-  "created": "2026-11-22T16:50:24+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/audio/reviews/lumio-aura-5-review-12354857",
-  "headline": "Lumio Aura 5 സ്പീക്കറുകൾ ഇന്ത്യയിൽ ₹22,999 വിലയിൽ",
-  "hook": "ബൾക്കി സൌണ്ട്‌ബാർക്ക് പകരം ഇതു ഉപയോഗിക്കാം.",
-  "what": "Lumio ഇന്ത്യയിൽ Aura 5 സ്പീക്കർ ₹22,999 വിലയിൽ പുറത്തിറക്കി. റിവ്യൂവുകൾ പറയുന്നു, ഇത് സാധാരണ സൌണ്ട്‌ബാറിന് പകരം ഉപയോഗിക്കാം.",
-  "why": "വലിയ ഉപകരണം ഇല്ലാതെ നല്ല ശബ്ദം വേണമെന്നു ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് ഇത് ബജറ്റിന് അനുയോജ്യമാണ്. വീട്ടിൽ സംഗീതം അല്ലെങ്കിൽ സിനിമകൾക്കായി നല്ല ശബ്ദം വേണമെങ്കിൽ പരിഗണിക്കാം.",
-  "tags": [
-   "Lumio",
-   "സ്പീക്കർ",
-   "ഓഡിയോ",
-   "ബജറ്റ്",
-   "ടെക്"
-  ]
- },
- {
-  "id": "c797a95562b5",
-  "created": "2026-11-22T16:00:09+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/diljit-dosanjh-questions-ban-on-his-songs-calls-decision-double-standards/article71731138.ece",
-  "headline": "ദില്ജിത് ഗാനം നിരോധനത്തെ വിമർശിച്ചു, ഇരട്ട മാനദണ്ഡം എന്ന് വിളിച്ചു",
-  "hook": "പഞ്ചാബി സ്ടാർ ആഹ്മദാബാദ് സ്റ്റേഡിയത്തിൽ പ്രകടനം ചെയ്യുമ്പോൾ അഭിപ്രായം പറഞ്ഞു.",
-  "what": "ദില്ജിത് ദോസഞ്ജ് 21 നവംബർ നാരായണ മോഡി സ്റ്റേഡിയത്തിൽ AURA ഇന്ത്യാ ടൂറിന്റെ ഭാഗമായി പ്രകടനം നടത്തി. പരിപാടിയിൽ തന്നെ തന്റെ ഗാനങ്ങളുടെ നിരോധനത്തെ ഇരട്ട മാനദണ്ഡം എന്ന് വിളിച്ച് ചോദ്യം ചെയ്തു.",
-  "why": "കലാപ്രവർത്തകർക്ക് സ്വാതന്ത്ര്യം ഉറപ്പാക്കാനുള്ള ചർച്ചകൾ യുവജനങ്ങൾക്ക് പ്രധാനമാണ്; അദ്ദേഹത്തിന്റെ അഭിപ്രായം സോഷ്യൽ മീഡിയയിൽ പിന്തുടരാം.",
-  "tags": [
-   "ദില്ജിത്",
-   "ഗാനനിരോധനം",
-   "ഇരട്ടമാനദണ്ഡം",
-   "AURATour",
-   "GenZ"
-  ]
- },
- {
-  "id": "d3d0964566e6",
-  "created": "2026-11-22T16:00:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
-  "headline": "RJD പിന്തുണക്കാർ നിതീഷ് സേതുവിന്റെ സമീപം പോസ്റ്ററുകൾ തകർത്തു",
-  "hook": "പുല്ലുവെളിച്ചം തുറന്നതിനു കുറച്ച് മണിക്കൂറുകൾക്ക് ശേഷം ഒരു ചെറു പ്രതിഷേധം.",
-  "what": "റാഷ്ട്രിയ ജനതാ ദലിന്റെ പിന്തുണക്കാർ വൈശാലിയിലെ നിതീഷ് സേതുവിന്റെ സമീപം പോസ്റ്ററുകൾ നീക്കിയതായി റിപ്പോർട്ടുകൾ പറയുന്നു. ഈ കലാപം ഏകദേശം 40 മിനിറ്റ് നീണ്ടു, മൂന്ന് പേർ പിടിക്കപ്പെട്ടു.",
-  "why": "ഇത് അടിസ്ഥാന സൗകര്യങ്ങളുടെയും രാഷ്ട്രീയ തർക്കങ്ങളുടെയും ഇടയിൽ ഉണ്ടാകാവുന്ന സംഘർഷങ്ങളെ കാണിക്കുന്നു, യുവാക്കൾക്ക് പ്രാദേശിക വാർത്തകൾ ശ്രദ്ധിക്കാനും അസ്ഥിര സ്ഥലങ്ങളിൽ നിന്ന് വിട്ടുനിൽക്കാനും പ്രോത്സാഹനം നൽകുന്നു.",
-  "tags": [
-   "RJD",
-   "NitishSetu",
-   "Vaishali",
-   "Protest",
-   "India"
-  ]
- },
- {
-  "id": "1d1714cc1e80",
-  "created": "2026-11-22T16:00:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
-  "headline": "ട്രംപ് വലിയ സ്റ്റോക്കുകൾ വിറ്റു, ETF‑കളിലും ബോണ്ടുകളിലും മാറ്റം",
-  "hook": "മുൻ പ്രസിഡന്റ് തന്റെ പണം സുരക്ഷിതമായ ഓപ്ഷനുകളിലേക്ക് മാറ്റുന്നു.",
-  "what": "സെപ്റ്റംബർ മാസത്തിൽ ഡോണൾഡ് ട്രംപിന്റെ നിക്ഷേപങ്ങളിൽ മാറ്റം വരുത്തി, മക്ഡോണൾഡ്‌സ്, ഹോം ഡെപ്പോ, കോംകാസ്റ്റ് പോലുള്ള വലിയ കമ്പനികളുടെ ഷെയറുകൾ വിറ്റു. അതിന്റെ പണം ഡിവിഡൻഡ് നൽകുന്ന ETF-കളിലും സർക്കാർ ബോണ്ടുകളിലും നിക്ഷേപിച്ചു.",
-  "why": "ഇത് യുവ നിക്ഷേപകർക്ക് കുറഞ്ഞ അപകടം ഉള്ള ആസ്തികളിലേക്കുള്ള മാറ്റം കാണിക്കുന്നു, വൈവിധ്യം പരിഗണിക്കാൻ ഒരു ഉദാഹരണം.",
-  "tags": [
-   "ട്രംപ്",
-   "നിക്ഷേപം",
-   "ETF",
-   "ബോണ്ട്",
-   "സ്റ്റോക്ക്"
-  ]
- },
- {
-  "id": "87f7359ced21",
-  "created": "2026-11-22T16:00:55+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-holiday-today-tomorrow-school-college-closure-november-24-2026-imd-alert-weather-lzlh2aju",
-  "headline": "ആറ് ജില്ലകളിൽ IMD യുടെ മഞ്ഞു മുന്നറിയിപ്പ്",
-  "hook": "ഇന്നും നാളെ ശക്തമായ മഴ, സ്കൂൾ ക്ലാസുകൾ ബാധിക്കാം.",
-  "what": "ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് (IMD) കേരളത്തിലെ ആറ് ജില്ലകളിൽ മഞ്ഞു (yellow) മുന്നറിയിപ്പ് നൽകി, ഇന്നും നാളെ ഒറ്റപ്പെട്ടിടങ്ങളിൽ കനത്ത മഴയുണ്ടാകുമെന്ന് പ്രവചിച്ചു. തിങ്കളാഴ്ച സ്കൂൾ, കോളേജ് അവധി സാധ്യത പരിശോധിക്കുകയാണ്.",
-  "why": "വിദ്യാർത്ഥികൾ പ്രദേശിക പ്രവചനങ്ങൾ ശ്രദ്ധിച്ച്, ക്ലാസ് റദ്ദാക്കലുകൾക്ക് തയ്യാറാകണം.",
-  "tags": [
-   "KeralaWeather",
-   "RainAlert",
-   "Monsoon",
-   "StudentLife",
-   "IMD"
   ]
  }
 ]

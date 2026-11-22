@@ -1,5 +1,99 @@
 [
  {
+  "id": "b6639db1aad5",
+  "created": "2026-11-22T23:39:12+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
+  "headline": "FSSAI Orders Action Against Bisleri Over Unsafe Packaged Water",
+  "hook": "Your go-to bottled water brand is facing legal action over safety rules.",
+  "what": "Food safety regulator FSSAI has ordered legal prosecution against Bisleri International. A sample of its packaged drinking water failed safety standards after bromate levels were found exceeding prescribed limits. The water was officially marked unsafe under the Food Safety and Standards Act, 2006.",
+  "why": "When buying packaged water outside, quality checks matter, and officials are pulling up major brands that fail safety rules.",
+  "tags": [
+   "Bisleri",
+   "FSSAI",
+   "FoodSafety",
+   "DrinkingWater"
+  ]
+ },
+ {
+  "id": "4c53fb9b6430",
+  "created": "2026-11-22T23:40:41+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/sip-on-salary-day-or-at-month-end-does-your-mutual-fund-investment-date-affect-returns-what-sensex-data-reveal-11795368672894.html",
+  "headline": "SIP timing barely changes returns, study shows",
+  "hook": "Your pay‑day won’t magically boost mutual fund gains.",
+  "what": "Research by WhiteOak Capital looked at Sensex data and compared 10‑year SIP outcomes for different calendar dates. The difference in average returns was only about 0.06 percentage points.",
+  "why": "For young investors, the exact day you start a SIP matters little, so focus on regular investing rather than timing. Keep your contributions consistent.",
+  "tags": [
+   "SIP",
+   "mutualfund",
+   "investing",
+   "finance",
+   "Sensex"
+  ]
+ },
+ {
+  "id": "48e07345c16d",
+  "created": "2026-11-22T23:40:44+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/fine-imposed-dumping-clothes-waste-pamba-river-sabarimala-pti791j3v5e",
+  "headline": "Up to ₹5,000 fine for littering in Pamba River",
+  "hook": "Don’t trash the holy river – you could be fined.",
+  "what": "During the Sabarimala season, officials will fine anyone who throws clothes or waste into the Pamba River. The penalty can be as high as ₹5,000 per incident.",
+  "why": "Keeping the river clean protects the pilgrimage experience and the environment. Teens should avoid littering and use proper disposal bins.",
+  "tags": [
+   "Sabarimala",
+   "PambaRiver",
+   "CleanIndia",
+   "EcoFriendly",
+   "Fine"
+  ]
+ },
+ {
+  "id": "397341eeb023",
+  "created": "2026-11-22T23:40:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gaadiwaadi.com",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcdIBmAFBVV95cUxOMXJ0Yk5POTJlb016YzEtR1o5WnhEWkMza190MkJsbXNMcFhGbnM0U0E3dEduWUpfUEF6VzhuV2J6OUdYV1dOS09lZ3JPVmlGRUxUMmlCSTRaSUFCbllOMGs3Sno4aF9odmZyUGREeVJ1bWkxWThtMmI4bUVlU0k2YmtTMS10aHZXRGcxeHFzU3h4a1VmVzBJcQ?oc=5",
+  "headline": "Dutch court blocks BYD Ti7 SUV sales in EU",
+  "hook": "A Chinese SUV faces a Europe-wide sales ban over design copying.",
+  "what": "The Dutch court issued an injunction stopping BYD from selling its Ti7 model across the European Union. The ruling follows a lawsuit by Land Rover, which said the Ti7 copies the Defender’s design.",
+  "why": "The case highlights how IP disputes can affect vehicle availability and pricing, a point Indian youngsters should keep in mind when choosing cars.",
+  "tags": [
+   "BYD",
+   "LandRover",
+   "EU",
+   "carnews",
+   "design"
+  ]
+ },
+ {
+  "id": "0bf4513a553e",
+  "created": "2026-11-22T23:40:50+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Football365",
+  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40U012d2RlTTdielJFdDdvZHNDdGJMOHppQVBVcVBuajV3NWhJR2wtZHNxdjFsMTZZQjM2aW91SHhQaWQtdEctVlRLUnNTeHVLZWZQaWdRSmtZbWhKNE5FZE9Kc2ZrU19GQUlLR1h3VEhhTHZSTUpGZHE5MUdQdw?oc=5",
+  "headline": "Hull stun Brighton with McBurnie's late double",
+  "hook": "Two last‑minute goals turned the game on its head.",
+  "what": "Hull City beat Brighton 2‑0 in the Premier League. Oli McBurnie scored both goals in added time after goalkeeper Konstantinos Tzolakis made key saves. Brighton played most of the match with ten men.",
+  "why": "The upset shows how quickly a match can change, so fans should keep an eye on live scores. Stay updated for more surprise moments.",
+  "tags": [
+   "HullCity",
+   "Brighton",
+   "PremierLeague",
+   "McBurnie",
+   "Football"
+  ]
+ },
+ {
   "id": "08a62cb5af8c",
   "created": "2026-11-22T22:46:56+05:30",
   "category": "headlines",
@@ -655,101 +749,6 @@
    "RetirementRights",
    "DDA",
    "LegalNews"
-  ]
- },
- {
-  "id": "df8c709ecebd",
-  "created": "2026-11-22T16:50:24+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/audio/reviews/lumio-aura-5-review-12354857",
-  "headline": "Lumio Aura 5 speakers hit Indian market at ₹22,999",
-  "hook": "A compact speaker that could replace your soundbar.",
-  "what": "Lumio launched the Aura 5 speaker in India with a price tag of ₹22,999. Reviewers say it can serve as an alternative to a traditional soundbar.",
-  "why": "For teens looking for good audio without a bulky setup, the Aura 5 offers a budget-friendly option. Consider it if you want decent sound for music or movies at home.",
-  "tags": [
-   "Lumio",
-   "speakers",
-   "audio",
-   "budget",
-   "tech"
-  ]
- },
- {
-  "id": "c797a95562b5",
-  "created": "2026-11-22T16:00:09+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/diljit-dosanjh-questions-ban-on-his-songs-calls-decision-double-standards/article71731138.ece",
-  "headline": "Diljit slams song ban, calls it double standards",
-  "hook": "The Punjabi star speaks out while rocking Ahmedabad.",
-  "what": "Diljit Dosanjh performed at the Narendra Modi Stadium in Ahmedabad on Nov 21 as part of his AURA India Tour. During the show he questioned a ban on his songs, calling the move double standards.",
-  "why": "His remarks underline ongoing debates about artistic freedom, a topic that matters to young Indians who value self‑expression. Fans can follow his statements on social media.",
-  "tags": [
-   "Diljit",
-   "songban",
-   "double standards",
-   "AURATour",
-   "GenZ"
-  ]
- },
- {
-  "id": "d3d0964566e6",
-  "created": "2026-11-22T16:00:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
-  "headline": "RJD supporters pull down posters near newly opened Nitish Setu",
-  "hook": "A quick protest erupted right after the bridge’s grand opening.",
-  "what": "Supporters of the Rashtriya Janata Dal removed posters near the Nitish Setu in Vaishali. The incident lasted about 40 minutes and three people were taken into custody.",
-  "why": "It shows how political tensions can flare even during infrastructure events, reminding youths to stay aware of local news and avoid heated spots.",
-  "tags": [
-   "RJD",
-   "NitishSetu",
-   "Vaishali",
-   "Protest",
-   "India"
-  ]
- },
- {
-  "id": "1d1714cc1e80",
-  "created": "2026-11-22T16:00:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
-  "headline": "Trump swaps big stocks for ETFs, gov bonds",
-  "hook": "The former president is moving his money into safer picks.",
-  "what": "In September, Donald Trump’s investment holdings were changed, with sales of major shares such as McDonald’s, Home Depot and Comcast. The proceeds were placed into dividend‑focused exchange‑traded funds and government securities.",
-  "why": "For young investors, it shows a shift toward lower‑risk assets, a cue to consider diversification.",
-  "tags": [
-   "Trump",
-   "Investments",
-   "ETFs",
-   "Bonds",
-   "Stocks"
-  ]
- },
- {
-  "id": "87f7359ced21",
-  "created": "2026-11-22T16:00:55+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-holiday-today-tomorrow-school-college-closure-november-24-2026-imd-alert-weather-lzlh2aju",
-  "headline": "Yellow rain alert issued for six Kerala districts",
-  "hook": "Heavy showers could disrupt classes tomorrow.",
-  "what": "The India Meteorological Department has placed a yellow alert on six districts of Kerala, warning of isolated heavy rainfall today and tomorrow. Authorities are reviewing the possibility of school and college closures on Monday.",
-  "why": "Students should stay updated on local forecasts and be ready for possible class cancellations.",
-  "tags": [
-   "KeralaWeather",
-   "RainAlert",
-   "Monsoon",
-   "StudentLife",
-   "IMD"
   ]
  }
 ]
