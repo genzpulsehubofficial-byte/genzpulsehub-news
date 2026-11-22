@@ -1,5 +1,61 @@
 [
  {
+  "id": "a7d29f2d9db9",
+  "created": "2026-11-23T00:29:41+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/anti-hindu-bjp-on-tamil-nadus-governments-deepam-order-review-plea-12363216#publisher=newsstand",
+  "headline": "BJP calls Tamil Nadu review of Deepam order anti‑Hindu",
+  "hook": "A stone pillar in Madurai sparks a political clash.",
+  "what": "The BJP has labelled the Tamil Nadu government's move to review the Deepam order as anti‑Hindu. Deepathoon is a stone pillar situated on Thiruparankundram hill in Madurai.",
+  "why": "The dispute highlights tensions over cultural symbols that could affect community sentiments. Young readers should stay aware of how heritage sites become political flashpoints.",
+  "tags": [
+   "BJP",
+   "TamilNadu",
+   "Deepam",
+   "Madurai",
+   "culture"
+  ]
+ },
+ {
+  "id": "4c8d170c04d8",
+  "created": "2026-11-23T00:29:47+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
+  "headline": "Eight dead as minivan crashes into tree in Tiruchirappalli",
+  "hook": "A speeding ride turned deadly on a Tamil Nadu road.",
+  "what": "A minivan lost control and hit a roadside tree in Tiruchirappalli, killing eight people. Police say overspeeding caused the driver to lose control.",
+  "why": "Road safety is crucial for students traveling by road; obey speed limits to avoid tragedies.",
+  "tags": [
+   "roadSafety",
+   "TamilNadu",
+   "Accident",
+   "YouthAlert"
+  ]
+ },
+ {
+  "id": "fac07b9541bf",
+  "created": "2026-11-23T00:29:52+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Oncodaily",
+  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemhVdi0yLVRtLXlqUGYwX256X1lFV25ySFg5R2JoX1RwbmZRMGUwSzB3QWJIcmsyZFRmTTczcExqSXZacU04SFQzMTcxTHZKMjJ3czUxU3hXSzRORG1obk56aERxYjEzUk1DMU01WjN2SGZ5Ni1reGFzY1FYU1J4U3FR?oc=5",
+  "headline": "New Drug Daraxonrasib Shows 90% Tumor Halt in Pancreatic Cancer",
+  "hook": "A breakthrough pill could change outcomes for a deadly disease.",
+  "what": "A new oral medication called daraxonrasib, used with chemotherapy, has shown strong results in treating metastatic pancreatic cancer. Clinical trials reported that tumor growth stopped in about 90% of patients.",
+  "why": "Pancreatic cancer is often fatal, so this development offers hope for patients and families. Stay informed about emerging treatments and discuss options with healthcare providers.",
+  "tags": [
+   "pancreaticcancer",
+   "breakthrough",
+   "health",
+   "research",
+   "India"
+  ]
+ },
+ {
   "id": "b6639db1aad5",
   "created": "2026-11-22T23:39:12+05:30",
   "category": "health",
@@ -692,63 +748,6 @@
    "WomenCommission",
    "EMRadha",
    "PublicService"
-  ]
- },
- {
-  "id": "31331367d933",
-  "created": "2026-11-22T16:50:16+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/no-invite-for-tejashwi-yadav-rjd-workers-tear-down-posters-on-nitish-setu-12361713#publisher=newsstand",
-  "headline": "RJD workers remove posters from Nitish Setu after Yadav not invited",
-  "hook": "Tejashwi Yadav was left out, and his party’s workers pulled down bridge ads.",
-  "what": "RJD members dismantled campaign posters that were displayed on the Nitish Setu bridge. The removal came after Tejashwi Yadav was not given an invitation to an event.",
-  "why": "It highlights political tension in Bihar and shows how parties react to perceived slights. Stay aware of local political developments that could affect community projects.",
-  "tags": [
-   "politics",
-   "Bihar",
-   "RJD",
-   "NitishSetu",
-   "youth"
-  ]
- },
- {
-  "id": "8719c3ec2c43",
-  "created": "2026-11-22T16:50:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "News On AIR",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5",
-  "headline": "US President lauds India's fast growth and low rates",
-  "hook": "Trump says India’s economy could inspire the US.",
-  "what": "The US President praised India’s recent economic expansion and its low borrowing costs. He noted India’s growth around 7% and said the US could aim for 14‑15% growth. His comments highlighted India’s rising global profile.",
-  "why": "The remarks signal international focus on India’s economy, which could affect future trade and job prospects. Young Indians should stay informed about such developments.",
-  "tags": [
-   "IndiaEconomy",
-   "USPresident",
-   "Growth",
-   "InterestRates",
-   "GlobalFocus"
-  ]
- },
- {
-  "id": "95dbdab00452",
-  "created": "2026-11-22T16:50:23+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/retired-employees-win-33-95-lakh-gratuity-battle-as-supreme-court-says-pending-appeal-cannot-delay-retirement-benefits-11795343617020.html",
-  "headline": "Supreme Court orders ₹33.95 lakh gratuity for retired DDA staff",
-  "hook": "Your retirement payout can’t be held up by endless appeals.",
-  "what": "The Supreme Court directed that two former DDA employees receive a total of ₹33.95 lakh as gratuity. Both were cleared of corruption charges, and the court said a pending appeal cannot stall their retirement benefits.",
-  "why": "It shows that legal delays can’t block earned benefits, reminding young workers to stay aware of employee rights. Keep an eye on grievance processes to protect your future payouts.",
-  "tags": [
-   "SupremeCourt",
-   "Gratuity",
-   "RetirementRights",
-   "DDA",
-   "LegalNews"
   ]
  }
 ]

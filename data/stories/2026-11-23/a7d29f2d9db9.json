@@ -1,0 +1,37 @@
+{
+ "id": "a7d29f2d9db9",
+ "created": "2026-11-23T00:29:41+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/anti-hindu-bjp-on-tamil-nadus-governments-deepam-order-review-plea-12363216#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "BJP calls Tamil Nadu review of Deepam order anti‑Hindu",
+  "hook": "A stone pillar in Madurai sparks a political clash.",
+  "what": "The BJP has labelled the Tamil Nadu government's move to review the Deepam order as anti‑Hindu. Deepathoon is a stone pillar situated on Thiruparankundram hill in Madurai.",
+  "why": "The dispute highlights tensions over cultural symbols that could affect community sentiments. Young readers should stay aware of how heritage sites become political flashpoints.",
+  "tags": [
+   "BJP",
+   "TamilNadu",
+   "Deepam",
+   "Madurai",
+   "culture"
+  ]
+ },
+ "ml": {
+  "headline": "BJP പറയുന്നു തമിഴ്‌നാട് ഡീപം ഓർഡർ റിവ്യൂ ആന്റി‑ഹിന്ദു",
+  "hook": "മദுரൈയിലെ ഒരു കല്ലുപടം രാഷ്ട്രീയത്തിൽ ഇടംപിടിച്ചു.",
+  "what": "தமிழ்நாடு அரசு ഡീപം ഓർഡർ റിവ്യൂ ചെയ്യാനുള്ള അപേക്ഷയ്ക്ക് BJP ആന്റി‑ഹിന്ദു എന്ന് വിളിച്ചു. ഡീപാത്തൂൺ എന്ന കല്ലുപടം തിരുപാറങ്കുന്ദ്രം മലയുടെ മുകളിൽ മദുരൈയിൽ സ്ഥിതി ചെയ്യുന്നു.",
+  "why": "ഈ വിവാദം സാംസ്കാരിക ചിഹ്നങ്ങളുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയ സംഘർഷം കാണിക്കുന്നു, അതിനാൽ യുവജനങ്ങൾ ഇതിന്റെ പ്രഭാവം മനസ്സിലാക്കണം.",
+  "tags": [
+   "BJP",
+   "TamilNadu",
+   "Deepam",
+   "Madurai",
+   "സംസ്കാരം"
+  ]
+ }
+}

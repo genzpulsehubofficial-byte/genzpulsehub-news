@@ -1,0 +1,35 @@
+{
+ "id": "4c8d170c04d8",
+ "created": "2026-11-23T00:29:47+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Eight dead as minivan crashes into tree in Tiruchirappalli",
+  "hook": "A speeding ride turned deadly on a Tamil Nadu road.",
+  "what": "A minivan lost control and hit a roadside tree in Tiruchirappalli, killing eight people. Police say overspeeding caused the driver to lose control.",
+  "why": "Road safety is crucial for students traveling by road; obey speed limits to avoid tragedies.",
+  "tags": [
+   "roadSafety",
+   "TamilNadu",
+   "Accident",
+   "YouthAlert"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രിചിരപ്പള്ളി റോഡില്‍ മിനിവാന്‍ മരത്തില്‍ തട്ടി എട്ട് മരണം",
+  "hook": "വേഗത്തില്‍ ഓടിച്ചിരുന്ന വാഹനത്തില്‍ ദുരന്തം സംഭവിച്ചു.",
+  "what": "ട്രിചിരപ്പള്ളിയില്‍ ഒരു മിനിവാന്‍ നിയന്ത്രണം നഷ്ടപ്പെടുത്തി അരികില്‍ മരത്തില്‍ ഇടിച്ചു, അതില്‍ എട്ട് പേർ കൊല്ലപ്പെട്ടു. പോലീസ് പറയുന്നത്, വേഗം കൂടിയതുകൊണ്ട് ഡ്രൈവർ നിയന്ത്രണം നഷ്ടപ്പെട്ടതാണ്.",
+  "why": "പാതയിലേയ്ക്ക് പോകുന്ന യുവാക്കൾക്ക് വേഗപരിധി പാലിക്കുന്നത് ജീവിതം രക്ഷിക്കും.",
+  "tags": [
+   "റോഡ്‌സേഫ്റ്റി",
+   "തമിഴ്നാട്",
+   "ദുരന്തം",
+   "യുവാക്കൾ"
+  ]
+ }
+}
