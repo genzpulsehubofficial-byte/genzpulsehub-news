@@ -1,0 +1,37 @@
+{
+ "id": "d3d0964566e6",
+ "created": "2026-11-22T16:00:51+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "RJD supporters pull down posters near newly opened Nitish Setu",
+  "hook": "A quick protest erupted right after the bridge’s grand opening.",
+  "what": "Supporters of the Rashtriya Janata Dal removed posters near the Nitish Setu in Vaishali. The incident lasted about 40 minutes and three people were taken into custody.",
+  "why": "It shows how political tensions can flare even during infrastructure events, reminding youths to stay aware of local news and avoid heated spots.",
+  "tags": [
+   "RJD",
+   "NitishSetu",
+   "Vaishali",
+   "Protest",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "RJD പിന്തുണക്കാർ നിതീഷ് സേതുവിന്റെ സമീപം പോസ്റ്ററുകൾ തകർത്തു",
+  "hook": "പുല്ലുവെളിച്ചം തുറന്നതിനു കുറച്ച് മണിക്കൂറുകൾക്ക് ശേഷം ഒരു ചെറു പ്രതിഷേധം.",
+  "what": "റാഷ്ട്രിയ ജനതാ ദലിന്റെ പിന്തുണക്കാർ വൈശാലിയിലെ നിതീഷ് സേതുവിന്റെ സമീപം പോസ്റ്ററുകൾ നീക്കിയതായി റിപ്പോർട്ടുകൾ പറയുന്നു. ഈ കലാപം ഏകദേശം 40 മിനിറ്റ് നീണ്ടു, മൂന്ന് പേർ പിടിക്കപ്പെട്ടു.",
+  "why": "ഇത് അടിസ്ഥാന സൗകര്യങ്ങളുടെയും രാഷ്ട്രീയ തർക്കങ്ങളുടെയും ഇടയിൽ ഉണ്ടാകാവുന്ന സംഘർഷങ്ങളെ കാണിക്കുന്നു, യുവാക്കൾക്ക് പ്രാദേശിക വാർത്തകൾ ശ്രദ്ധിക്കാനും അസ്ഥിര സ്ഥലങ്ങളിൽ നിന്ന് വിട്ടുനിൽക്കാനും പ്രോത്സാഹനം നൽകുന്നു.",
+  "tags": [
+   "RJD",
+   "NitishSetu",
+   "Vaishali",
+   "Protest",
+   "India"
+  ]
+ }
+}

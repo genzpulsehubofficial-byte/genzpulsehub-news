@@ -1,0 +1,37 @@
+{
+ "id": "1d1714cc1e80",
+ "created": "2026-11-22T16:00:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump swaps big stocks for ETFs, gov bonds",
+  "hook": "The former president is moving his money into safer picks.",
+  "what": "In September, Donald Trump’s investment holdings were changed, with sales of major shares such as McDonald’s, Home Depot and Comcast. The proceeds were placed into dividend‑focused exchange‑traded funds and government securities.",
+  "why": "For young investors, it shows a shift toward lower‑risk assets, a cue to consider diversification.",
+  "tags": [
+   "Trump",
+   "Investments",
+   "ETFs",
+   "Bonds",
+   "Stocks"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് വലിയ സ്റ്റോക്കുകൾ വിറ്റു, ETF‑കളിലും ബോണ്ടുകളിലും മാറ്റം",
+  "hook": "മുൻ പ്രസിഡന്റ് തന്റെ പണം സുരക്ഷിതമായ ഓപ്ഷനുകളിലേക്ക് മാറ്റുന്നു.",
+  "what": "സെപ്റ്റംബർ മാസത്തിൽ ഡോണൾഡ് ട്രംപിന്റെ നിക്ഷേപങ്ങളിൽ മാറ്റം വരുത്തി, മക്ഡോണൾഡ്‌സ്, ഹോം ഡെപ്പോ, കോംകാസ്റ്റ് പോലുള്ള വലിയ കമ്പനികളുടെ ഷെയറുകൾ വിറ്റു. അതിന്റെ പണം ഡിവിഡൻഡ് നൽകുന്ന ETF-കളിലും സർക്കാർ ബോണ്ടുകളിലും നിക്ഷേപിച്ചു.",
+  "why": "ഇത് യുവ നിക്ഷേപകർക്ക് കുറഞ്ഞ അപകടം ഉള്ള ആസ്തികളിലേക്കുള്ള മാറ്റം കാണിക്കുന്നു, വൈവിധ്യം പരിഗണിക്കാൻ ഒരു ഉദാഹരണം.",
+  "tags": [
+   "ട്രംപ്",
+   "നിക്ഷേപം",
+   "ETF",
+   "ബോണ്ട്",
+   "സ്റ്റോക്ക്"
+  ]
+ }
+}

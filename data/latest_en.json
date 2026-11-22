@@ -1,5 +1,119 @@
 [
  {
+  "id": "c797a95562b5",
+  "created": "2026-11-22T16:00:09+05:30",
+  "category": "entertainment",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/diljit-dosanjh-questions-ban-on-his-songs-calls-decision-double-standards/article71731138.ece",
+  "headline": "Diljit slams song ban, calls it double standards",
+  "hook": "The Punjabi star speaks out while rocking Ahmedabad.",
+  "what": "Diljit Dosanjh performed at the Narendra Modi Stadium in Ahmedabad on Nov 21 as part of his AURA India Tour. During the show he questioned a ban on his songs, calling the move double standards.",
+  "why": "His remarks underline ongoing debates about artistic freedom, a topic that matters to young Indians who value self‑expression. Fans can follow his statements on social media.",
+  "tags": [
+   "Diljit",
+   "songban",
+   "double standards",
+   "AURATour",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "d3d0964566e6",
+  "created": "2026-11-22T16:00:51+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/rjd-supporters-tear-down-posters-near-nitish-setu-inaugurated-by-pm-modi-in-vaishali-3-held-101795340939301.html",
+  "headline": "RJD supporters pull down posters near newly opened Nitish Setu",
+  "hook": "A quick protest erupted right after the bridge’s grand opening.",
+  "what": "Supporters of the Rashtriya Janata Dal removed posters near the Nitish Setu in Vaishali. The incident lasted about 40 minutes and three people were taken into custody.",
+  "why": "It shows how political tensions can flare even during infrastructure events, reminding youths to stay aware of local news and avoid heated spots.",
+  "tags": [
+   "RJD",
+   "NitishSetu",
+   "Vaishali",
+   "Protest",
+   "India"
+  ]
+ },
+ {
+  "id": "1d1714cc1e80",
+  "created": "2026-11-22T16:00:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
+  "headline": "Trump swaps big stocks for ETFs, gov bonds",
+  "hook": "The former president is moving his money into safer picks.",
+  "what": "In September, Donald Trump’s investment holdings were changed, with sales of major shares such as McDonald’s, Home Depot and Comcast. The proceeds were placed into dividend‑focused exchange‑traded funds and government securities.",
+  "why": "For young investors, it shows a shift toward lower‑risk assets, a cue to consider diversification.",
+  "tags": [
+   "Trump",
+   "Investments",
+   "ETFs",
+   "Bonds",
+   "Stocks"
+  ]
+ },
+ {
+  "id": "87f7359ced21",
+  "created": "2026-11-22T16:00:55+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-holiday-today-tomorrow-school-college-closure-november-24-2026-imd-alert-weather-lzlh2aju",
+  "headline": "Yellow rain alert issued for six Kerala districts",
+  "hook": "Heavy showers could disrupt classes tomorrow.",
+  "what": "The India Meteorological Department has placed a yellow alert on six districts of Kerala, warning of isolated heavy rainfall today and tomorrow. Authorities are reviewing the possibility of school and college closures on Monday.",
+  "why": "Students should stay updated on local forecasts and be ready for possible class cancellations.",
+  "tags": [
+   "KeralaWeather",
+   "RainAlert",
+   "Monsoon",
+   "StudentLife",
+   "IMD"
+  ]
+ },
+ {
+  "id": "af2dad5e78cb",
+  "created": "2026-11-22T16:00:58+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptisrq8ipiw",
+  "headline": "Kerala to provide scientific rehab and free healthcare for Kasaragod Endosulfan victims",
+  "hook": "Free health aid and rehab plan announced for those affected by Endosulfan in Kasaragod.",
+  "what": "The Kerala government said it will launch a scientific rehabilitation package for people affected by Endosulfan in Kasaragod. The scheme also includes free healthcare services for the victims.",
+  "why": "It aims to address long‑term health impacts of the pesticide, offering support to affected families. Young people can spread the word or seek assistance if they or relatives are impacted.",
+  "tags": [
+   "Kerala",
+   "Endosulfan",
+   "Health",
+   "Rehab",
+   "Kasaragod"
+  ]
+ },
+ {
+  "id": "47af2d534721",
+  "created": "2026-11-22T16:01:00+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/gold-prices-slide-visakhapatnam-buyers-andhra-pradesh-cautious-check-city-retail-rates-24k-22k-18k-gold-999-fine-silver-11795335542746.html",
+  "headline": "Gold prices dip in Visakhapatnam, shoppers stay wary",
+  "hook": "Gold’s slip might affect your birthday bling plans",
+  "what": "The retail price of gold in Visakhapatnam fell over the last week. The decline was seen across 24K, 22K and 18K varieties. Despite the drop, buyers are staying cautious.",
+  "why": "A lower price could make gold purchases more affordable, but caution suggests waiting for stable rates before buying.",
+  "tags": [
+   "gold",
+   "prices",
+   "Visakhapatnam",
+   "shopping",
+   "finance"
+  ]
+ },
+ {
   "id": "1a2cf6311063",
   "created": "2026-11-22T15:01:34+05:30",
   "category": "headlines",
@@ -633,118 +747,6 @@
    "Mollywood",
    "Naslen",
    "Amal"
-  ]
- },
- {
-  "id": "411d34679ab0",
-  "created": "2026-11-22T07:57:36+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-axis-branches-closed-these-five-days-23-30-november-check-city-dates-rbi-calendar-11795311812498.html",
-  "headline": "SBI, HDFC, ICICI shut for five days Nov 23‑30",
-  "hook": "Your bank may be closed—plan cash needs now!",
-  "what": "The State Bank of India, HDFC Bank and ICICI Bank will not operate on five designated days between 23 and 30 November. The closures apply to branches across various regions as per the RBI holiday calendar.",
-  "why": "Students and workers should note the dates to avoid missed transactions or bill payments. Use digital banking or visit before or after the holidays.",
-  "tags": [
-   "bankholidays",
-   "SBI",
-   "HDFC",
-   "ICICI"
-  ]
- },
- {
-  "id": "60ac68c8cfa8",
-  "created": "2026-11-22T07:58:30+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/sir-special-summary-revision-adds-163-lakh-voters-in-kerala-k8k5tpyu",
-  "headline": "Over 1.63 Lakh New Voters Added to Kerala Draft Electoral Roll",
-  "hook": "Fresh voter list numbers for Kerala are out with a noticeable increase!",
-  "what": "The Election Commission published its Special Summary Revision draft roll on November 12, adding 1,63,318 new voters in Kerala. With this update, the state's total voter count has reached 2.73 crore. The final electoral list will be released on January 4.",
-  "why": "It shows how the state's voting base is shaping up ahead of the official final list coming out in January.",
-  "tags": [
-   "Kerala",
-   "VoterList",
-   "ElectionCommission",
-   "KeralaNews"
-  ]
- },
- {
-  "id": "6a40614a1a7a",
-  "created": "2026-11-22T07:59:32+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/company-fd-interest-rates-in-november-2026-muthoot-capital-offers-8-95-compare-shriram-bajaj-finance-and-others-now-11795310664714.html",
-  "headline": "Muthoot Capital tops company FD rates at 8.95%",
-  "hook": "Grab the best fixed‑deposit return for your savings now.",
-  "what": "Muthoot Capital Services is offering an 8.95% interest rate on company fixed deposits for November 2026. Other firms like Shriram Finance and Bajaj Finance have lower rates across one‑year, three‑year and five‑year tenures.",
-  "why": "Higher returns can boost your short‑term savings, so compare the available rates before locking in your money.",
-  "tags": [
-   "FD",
-   "interest",
-   "savings",
-   "finance",
-   "India"
-  ]
- },
- {
-  "id": "59c7623afe08",
-  "created": "2026-11-22T07:59:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/karnataka/fujifilms-spectrum-tour-enthrals-visual-creators-photography-enthusiasts-in-bengaluru/article71646534.ece",
-  "headline": "Fujifilm’s Spectrum Tour Lights Up Bengaluru Creators",
-  "hook": "Three days of hands‑on fun for vloggers and photographers.",
-  "what": "The Fujifilm Spectrum tour set up three days of interactive zones in Bengaluru. Participants could try out vlogging, cinematography, street photography and portrait sessions. The event was aimed at visual creators and photography fans.",
-  "why": "Young creators get a chance to test gear and learn new techniques, helping them boost their content. Look for similar events or local workshops to sharpen your skills.",
-  "tags": [
-   "Fujifilm",
-   "Bengaluru",
-   "Photography",
-   "Vlogging",
-   "CreativeTech"
-  ]
- },
- {
-  "id": "2b517b264525",
-  "created": "2026-11-22T07:59:38+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Rediff",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMDN6SGVBLUtZRzJYZkNBbDZrR2xuWjlOWXhibzY0LUdEdno2MTViRlVHc2x6VXNIbm9YOFRZeTg4VWNNZXlFTFdzemd2N3pOckhrMnlYYmJ2NzJoWnhLcngySlF0VWpWNDJ0X1RyUnlQMjBTcGc?oc=5",
-  "headline": "India loses Sundar, Akash Deep; 8 wickets down vs NZ",
-  "hook": "Two key wickets fell as India fights back in the first test.",
-  "what": "In the first test against New Zealand, batsmen Sundar and Akash Deep were dismissed. Their wickets left India with eight down.",
-  "why": "The loss puts pressure on India's batting line‑up, making the match tense for fans. Keep following the live score for updates.",
-  "tags": [
-   "cricket",
-   "India",
-   "NewZealand",
-   "Test",
-   "sports"
-  ]
- },
- {
-  "id": "83a2d41df297",
-  "created": "2026-11-22T07:59:41+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-covid-19-glove-row-1-crore-bought-half-spoil-at-709-cr-loss-vigilance-probe-ordered-otnytkoq",
-  "headline": "Kerala health probe finds ₹7.09 cr loss in glove purchase",
-  "hook": "Half the bought gloves rotted, prompting a vigilance inquiry.",
-  "what": "The state health department’s internal audit showed KMSCL bought about one crore COVID‑19 gloves at high prices. Roughly fifty percent of the stock became unusable, leading to a loss of around ₹7.09 crore. The report has asked for a vigilance investigation into former GM S R Dileep Kumar.",
-  "why": "Misuse of public money can affect health services that young people depend on. Stay informed and demand accountability in government spending.",
-  "tags": [
-   "Kerala",
-   "Health",
-   "Corruption",
-   "Vigilance",
-   "Gloves"
   ]
  }
 ]

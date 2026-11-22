@@ -1,0 +1,37 @@
+{
+ "id": "87f7359ced21",
+ "created": "2026-11-22T16:00:55+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rain-holiday-today-tomorrow-school-college-closure-november-24-2026-imd-alert-weather-lzlh2aju",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Yellow rain alert issued for six Kerala districts",
+  "hook": "Heavy showers could disrupt classes tomorrow.",
+  "what": "The India Meteorological Department has placed a yellow alert on six districts of Kerala, warning of isolated heavy rainfall today and tomorrow. Authorities are reviewing the possibility of school and college closures on Monday.",
+  "why": "Students should stay updated on local forecasts and be ready for possible class cancellations.",
+  "tags": [
+   "KeralaWeather",
+   "RainAlert",
+   "Monsoon",
+   "StudentLife",
+   "IMD"
+  ]
+ },
+ "ml": {
+  "headline": "ആറ് ജില്ലകളിൽ IMD യുടെ മഞ്ഞു മുന്നറിയിപ്പ്",
+  "hook": "ഇന്നും നാളെ ശക്തമായ മഴ, സ്കൂൾ ക്ലാസുകൾ ബാധിക്കാം.",
+  "what": "ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് (IMD) കേരളത്തിലെ ആറ് ജില്ലകളിൽ മഞ്ഞു (yellow) മുന്നറിയിപ്പ് നൽകി, ഇന്നും നാളെ ഒറ്റപ്പെട്ടിടങ്ങളിൽ കനത്ത മഴയുണ്ടാകുമെന്ന് പ്രവചിച്ചു. തിങ്കളാഴ്ച സ്കൂൾ, കോളേജ് അവധി സാധ്യത പരിശോധിക്കുകയാണ്.",
+  "why": "വിദ്യാർത്ഥികൾ പ്രദേശിക പ്രവചനങ്ങൾ ശ്രദ്ധിച്ച്, ക്ലാസ് റദ്ദാക്കലുകൾക്ക് തയ്യാറാകണം.",
+  "tags": [
+   "KeralaWeather",
+   "RainAlert",
+   "Monsoon",
+   "StudentLife",
+   "IMD"
+  ]
+ }
+}

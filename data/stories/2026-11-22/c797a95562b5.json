@@ -1,0 +1,37 @@
+{
+ "id": "c797a95562b5",
+ "created": "2026-11-22T16:00:09+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/diljit-dosanjh-questions-ban-on-his-songs-calls-decision-double-standards/article71731138.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Diljit slams song ban, calls it double standards",
+  "hook": "The Punjabi star speaks out while rocking Ahmedabad.",
+  "what": "Diljit Dosanjh performed at the Narendra Modi Stadium in Ahmedabad on Nov 21 as part of his AURA India Tour. During the show he questioned a ban on his songs, calling the move double standards.",
+  "why": "His remarks underline ongoing debates about artistic freedom, a topic that matters to young Indians who value self‑expression. Fans can follow his statements on social media.",
+  "tags": [
+   "Diljit",
+   "songban",
+   "double standards",
+   "AURATour",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "ദില്ജിത് ഗാനം നിരോധനത്തെ വിമർശിച്ചു, ഇരട്ട മാനദണ്ഡം എന്ന് വിളിച്ചു",
+  "hook": "പഞ്ചാബി സ്ടാർ ആഹ്മദാബാദ് സ്റ്റേഡിയത്തിൽ പ്രകടനം ചെയ്യുമ്പോൾ അഭിപ്രായം പറഞ്ഞു.",
+  "what": "ദില്ജിത് ദോസഞ്ജ് 21 നവംബർ നാരായണ മോഡി സ്റ്റേഡിയത്തിൽ AURA ഇന്ത്യാ ടൂറിന്റെ ഭാഗമായി പ്രകടനം നടത്തി. പരിപാടിയിൽ തന്നെ തന്റെ ഗാനങ്ങളുടെ നിരോധനത്തെ ഇരട്ട മാനദണ്ഡം എന്ന് വിളിച്ച് ചോദ്യം ചെയ്തു.",
+  "why": "കലാപ്രവർത്തകർക്ക് സ്വാതന്ത്ര്യം ഉറപ്പാക്കാനുള്ള ചർച്ചകൾ യുവജനങ്ങൾക്ക് പ്രധാനമാണ്; അദ്ദേഹത്തിന്റെ അഭിപ്രായം സോഷ്യൽ മീഡിയയിൽ പിന്തുടരാം.",
+  "tags": [
+   "ദില്ജിത്",
+   "ഗാനനിരോധനം",
+   "ഇരട്ടമാനദണ്ഡം",
+   "AURATour",
+   "GenZ"
+  ]
+ }
+}

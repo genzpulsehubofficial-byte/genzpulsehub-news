@@ -1,0 +1,37 @@
+{
+ "id": "af2dad5e78cb",
+ "created": "2026-11-22T16:00:58+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptisrq8ipiw",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala to provide scientific rehab and free healthcare for Kasaragod Endosulfan victims",
+  "hook": "Free health aid and rehab plan announced for those affected by Endosulfan in Kasaragod.",
+  "what": "The Kerala government said it will launch a scientific rehabilitation package for people affected by Endosulfan in Kasaragod. The scheme also includes free healthcare services for the victims.",
+  "why": "It aims to address long‑term health impacts of the pesticide, offering support to affected families. Young people can spread the word or seek assistance if they or relatives are impacted.",
+  "tags": [
+   "Kerala",
+   "Endosulfan",
+   "Health",
+   "Rehab",
+   "Kasaragod"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം കെ.എസ്.എന്‍ഡോസൾഫാൻ ബാധിതർക്കു ശാസ്ത്രീയ പുനരധിവാസവും സൗജന്യ ആരോഗ്യവും",
+  "hook": "കെ.എസ്.എന്‍ഡോസൾഫാൻ ബാധിച്ചവർക്കായി സൗജന്യ ആരോഗ്യവും പുനരധിവാസ പദ്ധതിയും പ്രഖ്യാപിച്ചു.",
+  "what": "കേരള സർക്കാർ കെ.എസ്.എന്‍ഡോസൾഫാൻ ബാധിതർക്കായി ശാസ്ത്രീയ പുനരധിവാസ പദ്ധതി ആരംഭിക്കും എന്ന് പ്രഖ്യാപിച്ചു. ഈ പദ്ധതി സൗജന്യ ആരോഗ്യ സേവനങ്ങളും ഉൾക്കൊള്ളുന്നു.",
+  "why": "പെസ്റ്റിസൈഡ് മൂലമുള്ള ദീർഘകാല ആരോഗ്യപ്രശ്നങ്ങൾ പരിഹരിക്കാൻ സഹായം നൽകുകയാണ് ലക്ഷ്യം. യുവാക്കൾക്ക് ഈ വിവരം പങ്കുവെയ്ക്കാനും, ബാധിതരാണെങ്കിൽ സഹായം തേടാനും കഴിയും.",
+  "tags": [
+   "കേരളം",
+   "എന്‍ഡോസൾഫാൻ",
+   "ആരോഗ്യം",
+   "പുനരധിവാസം",
+   "കാസറഗോഡ്"
+  ]
+ }
+}

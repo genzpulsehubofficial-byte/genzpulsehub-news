@@ -1,0 +1,37 @@
+{
+ "id": "47af2d534721",
+ "created": "2026-11-22T16:01:00+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/gold-prices-slide-visakhapatnam-buyers-andhra-pradesh-cautious-check-city-retail-rates-24k-22k-18k-gold-999-fine-silver-11795335542746.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold prices dip in Visakhapatnam, shoppers stay wary",
+  "hook": "Gold’s slip might affect your birthday bling plans",
+  "what": "The retail price of gold in Visakhapatnam fell over the last week. The decline was seen across 24K, 22K and 18K varieties. Despite the drop, buyers are staying cautious.",
+  "why": "A lower price could make gold purchases more affordable, but caution suggests waiting for stable rates before buying.",
+  "tags": [
+   "gold",
+   "prices",
+   "Visakhapatnam",
+   "shopping",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "വിസാഖപട്ടണിലെ ഗോൾഡ് വില കുറവ്, വാങ്ങുന്നവർ ജാഗ്രത",
+  "hook": "ഗോൾഡിന്റെ വില ഇടിഞ്ഞാൽ നിങ്ങളുടെ സമ്മാന പ്ലാനുകൾ മാറ്റം വരാം",
+  "what": "കഴിഞ്ഞ ആഴ്ചയിൽ വിസാഖപട്ടണിലെ ഗോൾഡ് റീട്ടെയിൽ വില കുറയുകയുണ്ടായി. 24K, 22K, 18K എല്ലാം ഈ ഇടിവിൽ ഉൾപ്പെടുന്നു. വില കുറഞ്ഞിട്ടും ആളുകൾ ജാഗ്രതയോടെ വാങ്ങുന്നു.",
+  "why": "വില കുറയുന്നത് ഗോൾഡ് വാങ്ങാൻ കൂടുതൽ സുലഭമാക്കാം, പക്ഷേ സ്ഥിരതയുള്ള വില വരുന്നതുവരെ കാത്തിരിക്കാം.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വില",
+   "വിസാഖപട്ടണം",
+   "ഷോപ്പിംഗ്",
+   "ഫിനാൻസ്"
+  ]
+ }
+}
