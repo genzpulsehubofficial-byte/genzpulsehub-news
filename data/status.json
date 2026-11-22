@@ -1,10 +1,9 @@
 {
- "last_run": "2026-11-22T07:59:41+05:30",
- "fetched": 133,
- "made": 6,
+ "last_run": "2026-11-22T08:49:23+05:30",
+ "fetched": 137,
+ "made": 3,
  "providers": {
-  "groq": 5,
-  "gemini": 1
+  "groq": 3
  },
  "dead_feeds": [
   "Indian Express",
@@ -12,7 +11,7 @@
  ],
  "ai_all_failed": 0,
  "ai_errors": {
-  "gemini": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=60)"
+  "gemini": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=*** | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/do"
  },
  "models": {
   "gemini": "gemini-3.8-flash",

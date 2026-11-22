@@ -1,0 +1,37 @@
+{
+ "id": "2c9c9948d6eb",
+ "created": "2026-11-22T08:49:20+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/sabarimala-virtual-queue-additional-5000-daily-slots-to-open-in-phases-arwrfppn",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "5,000 extra Sabarimala slots added daily till Nov 30",
+  "hook": "More chances to get a virtual queue spot for the pilgrimage.",
+  "what": "The Travancore Devaswom Board will release an additional 5,000 virtual‑queue positions each day at 10 a.m., continuing until 30 November. It also said no physical spot‑booking counter will be set up at Pampa.",
+  "why": "This gives more pilgrims, especially young travelers, a better chance to secure a slot online, so they should check the portal early each day.",
+  "tags": [
+   "Sabarimala",
+   "VirtualQueue",
+   "Pilgrimage",
+   "Travel",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "നവം 30 വരെ ദിവസേന 5,000 അധിക സബരിമല സ്ലോട്ടുകൾ",
+  "hook": "പിലഗ്രിമേജ് വെർച്വൽ ക്യൂവിൽ കൂടുതൽ അവസരങ്ങൾ.",
+  "what": "ട്രാവാൻകോർ ദേവസ്വം ബോർഡ് 10 മണിക്ക് ദിവസേന 5,000 അധിക വെർച്വൽ ക്യൂ സ്ലോട്ടുകൾ തുറക്കുമെന്ന് പ്രഖ്യാപിച്ചു, ഇത് നവം 30 വരെ തുടരും. പമ്പയിൽ സ്പോട്ട് ബുക്കിംഗ് കൗണ്ടർ തുറക്കില്ലെന്ന് അവർ ഉറപ്പിച്ചു.",
+  "why": "ഇത് യുവ യാത്രികർക്കു ഓൺലൈൻ വഴി സ്ലോട്ട് ഉറപ്പാക്കാൻ സഹായിക്കും; അതിനാൽ ഓരോ ദിവസവും രാവിലെ പോർട്ടൽ പരിശോധിക്കുക.",
+  "tags": [
+   "Sabarimala",
+   "VirtualQueue",
+   "Pilgrimage",
+   "Travel",
+   "India"
+  ]
+ }
+}

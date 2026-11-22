@@ -1,0 +1,35 @@
+{
+ "id": "9127aaaf88a3",
+ "created": "2026-11-22T08:49:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota-12360576#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Nine family members die after car hits parked truck in Kota",
+  "hook": "A tragic crash in Kota leaves a large family grieving.",
+  "what": "A cruiser carrying 15 members of the same family collided with a stationary truck in Kota, Rajasthan. The impact killed nine people.",
+  "why": "Road safety remains crucial; teens should stay alert and avoid risky driving.",
+  "tags": [
+   "Kota",
+   "road safety",
+   "family",
+   "Rajasthan"
+  ]
+ },
+ "ml": {
+  "headline": "കോട്ടയിൽ കാർ തട്ടിയതോടെ കുടുംബത്തിൽ ഒമ്പത് പേർ മരണം",
+  "hook": "കോട്ടയിലെ ഒരു അപകടത്തിൽ വലിയ കുടുംബം ദുഃഖത്തിൽ മുങ്ങി.",
+  "what": "15 അംഗങ്ങളുള്ള ഒരു കുടുംബം ക്രൂസർ വാഹനത്തിൽ യാത്ര ചെയ്തപ്പോൾ, കോട്ട, രാജസ്ഥാനിലെ പാർക്ക് ചെയ്ത ട്രക്കിനെ തട്ടിയതായി റിപ്പോർട്ട്. അതിന്റെ ഫലമായി ഒമ്പത് പേർ മരണമടഞ്ഞു.",
+  "why": "റോഡ് സുരക്ഷയുടെ പ്രാധാന്യം വീണ്ടും ചൂണ്ടിക്കാണിക്കുന്നു; യുവാക്കൾ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "Kota",
+   "റോഡ് സുരക്ഷ",
+   "കുടുംബം",
+   "രാജസ്ഥാൻ"
+  ]
+ }
+}

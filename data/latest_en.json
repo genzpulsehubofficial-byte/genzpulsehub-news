@@ -1,5 +1,61 @@
 [
  {
+  "id": "9127aaaf88a3",
+  "created": "2026-11-22T08:49:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/9-devotees-returning-from-khatu-shyam-temple-killed-as-their-vehicle-rams-parked-truck-in-rajasthans-kota-12360576#publisher=newsstand",
+  "headline": "Nine family members die after car hits parked truck in Kota",
+  "hook": "A tragic crash in Kota leaves a large family grieving.",
+  "what": "A cruiser carrying 15 members of the same family collided with a stationary truck in Kota, Rajasthan. The impact killed nine people.",
+  "why": "Road safety remains crucial; teens should stay alert and avoid risky driving.",
+  "tags": [
+   "Kota",
+   "road safety",
+   "family",
+   "Rajasthan"
+  ]
+ },
+ {
+  "id": "2c9c9948d6eb",
+  "created": "2026-11-22T08:49:20+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/sabarimala-virtual-queue-additional-5000-daily-slots-to-open-in-phases-arwrfppn",
+  "headline": "5,000 extra Sabarimala slots added daily till Nov 30",
+  "hook": "More chances to get a virtual queue spot for the pilgrimage.",
+  "what": "The Travancore Devaswom Board will release an additional 5,000 virtual‑queue positions each day at 10 a.m., continuing until 30 November. It also said no physical spot‑booking counter will be set up at Pampa.",
+  "why": "This gives more pilgrims, especially young travelers, a better chance to secure a slot online, so they should check the portal early each day.",
+  "tags": [
+   "Sabarimala",
+   "VirtualQueue",
+   "Pilgrimage",
+   "Travel",
+   "India"
+  ]
+ },
+ {
+  "id": "d688b412533d",
+  "created": "2026-11-22T08:49:23+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNc0toQXZrQWtBcm1uNFEtYThUaUNpcXVNZ19fTGItdlFnTUQzeDMxbEFsZU9nXzMtTC1WaGlacDdGc1dES1lxMVVOamdYUF93NVNXMnpFb1dva2Q5TUlfb1Y1QnBjNV9UN1VyMjVMWUVITHkxNVRFUld0WVdhVEkzSkxNeTM0QjBudWtDQm10dlhRbWpzWVZsc0o1aHZEeUFPVGJGQW9CQlY5UUhROFdwckY0d2QtTXlFUm5kQ1pEMDJKbU41SUMwSzVBeTA0dkZZOHpvQU5yM0p1ZlA5angyRmRYeWZtVUpwQS1wNnJuN0NMODhpRjFQUHpDTWY2QWdQVkhuWEY5Vk50aklDb1BnN0dUVEdoZ2F2VThsLWkxOG5kME8wU0NWbi1QRVVCcFl5Sl81WG1DTE5vNHlPMnUzWmNXdVRfcWJpRFJfd0FJU3ItbFQ3SG9mdUJkNHdUVl9VT3gtSTllcGdrX1ZJSXpGdWZ6cng5eTlDRmpwbEhaODFGZ9IBtwJBVV95cUxPb2I5MkF0SkZONDMwMnM4NlEwc3BWbk9URUY3NlNJSmlyTWdWbm00THJqTkFVVU5hTDM0cUNCbFVVMlk2a0lDTDl0aVdHbUhubUlBWFlaYWtNamFvUFVnY3NFeFE0VUlZWDNkTmlYVUZNYV84ZlhOX043akJLMlBOa2dOX3VtYmkzc1lTNW9yakU2eDhjckd6YlVoazBjSi1vYVV0UExSUzdvczRzRG9XSE1LSFE1QXJ4Y0szWlp5UWtXWWRPaEY4blkzS29UYU5kbVlrVEloYm90eFUwT2lWZVdONzROdmljYXhwenRkOVA5dHNGMm9mXzJvM1JHR2R4WXBrUGdfYzUxTWxlRWY4eXJaXzcyejlDemdJVmxIVmlRZlB1dXZ1VlhvT183M0VpUXd1R01oYw?oc=5",
+  "headline": "Bachelor Party D'eux collects Rs 37 lakh in three days",
+  "hook": "The new Malayalam rom‑com is already pulling in crowds",
+  "what": "The film 'Bachelor Party D'eux', starring Naslen and Amal and directed by Neerad, earned Rs 37 lakh in its first three days of release. The figure was reported by The Times of India.",
+  "why": "The strong opening shows the movie is resonating with young audiences, so teens interested in fresh regional cinema might want to catch it soon.",
+  "tags": [
+   "BachelorPartyDeux",
+   "BoxOffice",
+   "Mollywood",
+   "Naslen",
+   "Amal"
+  ]
+ },
+ {
   "id": "411d34679ab0",
   "created": "2026-11-22T07:57:36+05:30",
   "category": "money",
@@ -695,63 +751,6 @@
    "health",
    "outbreak",
    "aid"
-  ]
- },
- {
-  "id": "34ba7f52e37f",
-  "created": "2026-11-22T01:56:31+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Oncodaily",
-  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vcUNEMDRhR2JpVWp3YTJDMlpnVFhXZDlzZlIzaWZLVkNDdS1fTWF4aV9BRWU5TlJCdG1GQnRTc3R2UldLVHptNW5LUVNFYzBMSk9PWWdSN2JFNkRqMk9jRWxPTTlnMi1TcW1GbWNpcEl3Zw?oc=5",
-  "headline": "Global Push Boosts Cervical Cancer Screening, Rwanda & Bangladesh Lead",
-  "hook": "Your health could benefit from new vaccine drives and awareness events.",
-  "what": "At the BICC 2026 conference, Lacy Hubbard highlighted Rwanda and Bangladesh’s expanding cervical cancer screening and treatment programmes. Countries worldwide are scaling up these services, and the WHO stressed the importance of the HPV vaccine. A walkathon in Dhanbad organized by NDTV also raised local awareness.",
-  "why": "Knowing about these initiatives helps teens understand the value of HPV vaccination and regular check‑ups. Stay informed and consider vaccination to protect your future health.",
-  "tags": [
-   "cervicalcancer",
-   "HPVvaccine",
-   "healthawareness",
-   "India",
-   "globalhealth"
-  ]
- },
- {
-  "id": "cd0fab160fdb",
-  "created": "2026-11-22T01:56:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Moneycontrol.com",
-  "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMUkxM1RMU3V5RmE5N3NzYlNlUjBidTJ0Z1VPOVg1V0FtTzc3OWRYRWdsaHlOUUxyUEVjTjY0aFNaRzJKU2ZUVmtXUlUwTnF0ajlrRmpHclVDWnBwSEprMjRRUTVEOW5kV2tqSHI4cUpIdHoyRko0NjlyWUZoSk5ST0tkSC1sdnMyNXZMdGdoaHRNM0EzaW9WTXdVNzlLM0VqcTdqSkd2Ynp3SFhKVWhFSy1XZkw3M3ZHWjhnMXIzdTZQYno2ZDZndkJReVM2VmlMTnE1MTJPVVRSaU4tYTZWN2NtRHR2ZmVPZFdGV3NvVXZQQUdjUkxFdmlXOW5STk3SAYQCQVVfeXFMTkh0aW43SzZ3M2dPcFlKZVpKejJqUDJTZGFsZnZ0N2ctc05mcXRBVmJaQmwxaFdqUDJjQUhORnRIVUFCVnBhbWQ3dFRHMWpaWnh4b3lVVExZc0xqM2FMLWRUN0c1eEFPSE9KcGFrdU9hdm9yOWR3clhOODlKMWFPcEdxa0UwZ0pKakNKU1JFNHN1RTRLVWVmYVJEdWpYbV9SdUtfbzV1eF9ZSTlQX1IwTUV2ZHgyTHRxTWdWZ0xoNVk1TUtqcnhjRmtfbkVndHN6UVhvTXg1Q09feDlOcnFFZ1Uta0hOZkw0UUVZNWlBaVdnMnJpTGlwZnFBT25IbExrZHl1Wk4?oc=5",
-  "headline": "RBI urges banks to boost loans for small firms",
-  "hook": "More credit to tiny businesses could spark big growth.",
-  "what": "RBI Governor Sanjay Malhotra asked banks to increase lending to small and micro enterprises. He said such firms can generate up to 100 times more impact from each loan. The central bank also suggested directing about ₹1,000 crore to these businesses.",
-  "why": "For young Indians, stronger support for startups and local shops can create jobs and new opportunities. Keep an eye on bank loan offers and consider entrepreneurship.",
-  "tags": [
-   "RBI",
-   "smallbusiness",
-   "loans",
-   "economy",
-   "youth"
-  ]
- },
- {
-  "id": "4e2831d0f013",
-  "created": "2026-11-22T01:00:28+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/bjp-appoints-yuzvendra-chahal-as-special-invitee-to-obc-morcha-executive-committee/article71729445.ece",
-  "headline": "Cricket star Yuzvendra Chahal named BJP OBC Morcha invitee",
-  "hook": "A famous bowler joins BJP's OBC wing.",
-  "what": "The BJP has appointed Yuzvendra Chahal as a special invitee to the executive committee of its OBC Morcha. The move adds the cricketer to the party's OBC leadership team.",
-  "why": "His inclusion could draw youth and sports fans to the party, signalling outreach to popular personalities. Young voters may want to note this new face in BJP's OBC wing.",
-  "tags": [
-   "BJP",
-   "YuzvendraChahal",
-   "OBCMorcha",
-   "politics",
-   "youth"
   ]
  }
 ]
