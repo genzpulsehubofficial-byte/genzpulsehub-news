@@ -1,0 +1,37 @@
+{
+ "id": "144d17fd3b59",
+ "created": "2026-11-22T15:02:38+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/delhi-police-busts-pan-india-investment-fraud-worth-67-78-lakh-7-arrested-across-5-states-5-lessons-for-investors-11795337958446.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi Police nab 7 in ₹68 lakh investment scam",
+  "hook": "A nationwide fraud duped investors through fake trading apps and WhatsApp.",
+  "what": "Delhi Police arrested seven suspects across five states for running a ₹67.78 lakh investment scam. The scheme used counterfeit trading platforms and WhatsApp groups to lure victims.",
+  "why": "It highlights how online investment offers can be traps, so young Indians should verify any platform before putting money in.",
+  "tags": [
+   "investmentfraud",
+   "DelhiPolice",
+   "scamalert",
+   "younginvestors",
+   "WhatsApp"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെലഹി പോലീസ് 7 പേരെ 68 ലക്ഷം തട്ടവയിൽ പിടിച്ചു",
+  "hook": "വ്യാജ ട്രേഡിംഗ് ആപ്പുകളും വാട്‌സ്ആപ്പ് ഗ്രൂപ്പുകളും ഉപയോഗിച്ച് ഒരു രാജ്യവ്യാപക തട്ടവ.",
+  "what": "ഡെലഹി പോലീസ് അഞ്ച് സംസ്ഥാനങ്ങളിലായി 7 സംശയിതരെ 67.78 ലക്ഷം രൂപയുടെ നിക്ഷേപ തട്ടവയിൽ അറസ്റ്റു ചെയ്തു. ഈ പദ്ധതി വ്യാജ ട്രേഡിംഗ് പ്ലാറ്റ്ഫോംമുകളും വാട്‌സ്ആപ്പ് ഗ്രൂപ്പുകളും ഉപയോഗിച്ച് നിക്ഷേപകരെ വഞ്ചിച്ചു.",
+  "why": "ഇത് ഓൺലൈൻ നിക്ഷേപ ഓഫറുകൾ ശ്രദ്ധാപൂർവ്വം പരിശോധിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു; യുവാക്കൾ ഏത് പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നതിനു മുൻപ് അതിന്റെ നിയമിതത്വം ഉറപ്പാക്കണം.",
+  "tags": [
+   "നിക്ഷേപതട്ടവ",
+   "ഡെലഹിപോലീസ്",
+   "സ്കാംഅലർട്ട്",
+   "യുവനിക്ഷേപകർ",
+   "വാട്‌സ്ആപ്പ്"
+  ]
+ }
+}

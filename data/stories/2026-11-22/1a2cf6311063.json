@@ -1,0 +1,35 @@
+{
+ "id": "1a2cf6311063",
+ "created": "2026-11-22T15:01:34+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+ "source_count": 3,
+ "provider": "gemini",
+ "en": {
+  "headline": "BJP Rajya Sabha MP Ramrao Wadkute Passes Away in Delhi",
+  "hook": "Sitting Parliament member Ramrao Wadkute has died following a cardiac arrest.",
+  "what": "BJP Rajya Sabha MP Ramrao Wadkute has passed away in Delhi after experiencing a cardiac arrest. He hailed from Parbhani in the Marathwada area of Maharashtra. He had become a member of the upper house after being elected in April this year.",
+  "why": "Following national developments helps young citizens stay informed about representatives in the Indian Parliament.",
+  "tags": [
+   "Parliament",
+   "RajyaSabha",
+   "NationalNews",
+   "Maharashtra"
+  ]
+ },
+ "ml": {
+  "headline": "ബിജെപി രാജ്യസഭാ എംപി രാംറാവു വാദ്കുട്ടെ അന്തരിച്ചു",
+  "hook": "ഹൃദയാഘാതത്തെ തുടർന്ന് രാജ്യസഭാ എംപി രാംറാവു വാദ്കുട്ടെ ഡൽഹിയിൽ അന്തരിച്ചു.",
+  "what": "ബിജെപിയുടെ രാജ്യസഭാ എംപിയായ രാംറാവു വാദ്കുട്ടെ ഹൃദയാഘാതത്തെ തുടർന്ന് ഡൽഹിയിൽ അന്തരിച്ചു. മഹാരാഷ്ട്രയിലെ മറാത്ത്‌വാഡ മേഖലയിലുള്ള പർഭാനി സ്വദേശിയായിരുന്നു അദ്ദേഹം. ഈ വർഷം ഏപ്രിലിലാണ് അദ്ദേഹം രാജ്യസഭയിലേക്ക് തിരഞ്ഞെടുക്കപ്പെട്ടത്.",
+  "why": "രാജ്യത്തെ പാർലമെന്ററി മാറ്റങ്ങളെയും പ്രധാന രാഷ്ട്രീയ വിവരങ്ങളെയും കുറിച്ച് അറിഞ്ഞിരിക്കാൻ ഇത് സഹായിക്കുന്നു.",
+  "tags": [
+   "പാർലമെന്റ്",
+   "രാജ്യസഭ",
+   "ദേശീയവാർത്ത",
+   "മഹാരാഷ്ട്ര"
+  ]
+ }
+}

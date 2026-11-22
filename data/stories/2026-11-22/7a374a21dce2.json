@@ -1,0 +1,37 @@
+{
+ "id": "7a374a21dce2",
+ "created": "2026-11-22T15:03:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "i-ALERT cuts diesel use on 1,500 RTC buses",
+  "hook": "New tech saves thousands of litres of fuel daily.",
+  "what": "The i-ALERT system was fitted on 1,500 Ashok Leyland BS‑VI buses operated by RTC. It reduces diesel consumption by about 6,603 litres each day, amounting to roughly 1,98,090 litres a month.",
+  "why": "Lower fuel use means cheaper rides and fewer emissions, helping the environment and your pocket.",
+  "tags": [
+   "iAlert",
+   "fuelSavings",
+   "greenTech",
+   "RTC",
+   "AshokLeyland"
+  ]
+ },
+ "ml": {
+  "headline": "i-ALERT സിസ്റ്റം 1,500 RTC ബസ്സുകളിൽ ഡീസൽ കുറയ്ക്കുന്നു",
+  "hook": "പുതിയ സാങ്കേതികത ദിനംപ്രതി ആയിരക്കണക്കിന് ലിറ്റർ ഇന്ധനം സംരക്ഷിക്കുന്നു.",
+  "what": "i-ALERT സിസ്റ്റം 1,500 ആഷോക്ക് ലെയ്ലാൻഡ് BS‑VI ബസ്സുകളിൽ സ്ഥാപിച്ചു. ഇത് ദിവസവും 6,603 ലിറ്റർ, മാസത്തിൽ 1,98,090 ലിറ്റർ ഡീസൽ ഉപയോഗം കുറയ്ക്കുന്നു.",
+  "why": "ഇന്ധന ചെലവ് കുറയുകയും പുറപ്പെടുവിക്കുന്ന മലിനീകരണം കുറയുകയും ചെയ്യുന്നതുകൊണ്ട് പരിസ്ഥിതിക്കും നിങ്ങളുടെ ചെലവിനും ഗുണം.",
+  "tags": [
+   "iAlert",
+   "fuelSavings",
+   "greenTech",
+   "RTC",
+   "AshokLeyland"
+  ]
+ }
+}

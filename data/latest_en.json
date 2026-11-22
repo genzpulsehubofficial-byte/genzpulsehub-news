@@ -1,5 +1,99 @@
 [
  {
+  "id": "1a2cf6311063",
+  "created": "2026-11-22T15:01:34+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
+  "headline": "BJP Rajya Sabha MP Ramrao Wadkute Passes Away in Delhi",
+  "hook": "Sitting Parliament member Ramrao Wadkute has died following a cardiac arrest.",
+  "what": "BJP Rajya Sabha MP Ramrao Wadkute has passed away in Delhi after experiencing a cardiac arrest. He hailed from Parbhani in the Marathwada area of Maharashtra. He had become a member of the upper house after being elected in April this year.",
+  "why": "Following national developments helps young citizens stay informed about representatives in the Indian Parliament.",
+  "tags": [
+   "Parliament",
+   "RajyaSabha",
+   "NationalNews",
+   "Maharashtra"
+  ]
+ },
+ {
+  "id": "144d17fd3b59",
+  "created": "2026-11-22T15:02:38+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/delhi-police-busts-pan-india-investment-fraud-worth-67-78-lakh-7-arrested-across-5-states-5-lessons-for-investors-11795337958446.html",
+  "headline": "Delhi Police nab 7 in ₹68 lakh investment scam",
+  "hook": "A nationwide fraud duped investors through fake trading apps and WhatsApp.",
+  "what": "Delhi Police arrested seven suspects across five states for running a ₹67.78 lakh investment scam. The scheme used counterfeit trading platforms and WhatsApp groups to lure victims.",
+  "why": "It highlights how online investment offers can be traps, so young Indians should verify any platform before putting money in.",
+  "tags": [
+   "investmentfraud",
+   "DelhiPolice",
+   "scamalert",
+   "younginvestors",
+   "WhatsApp"
+  ]
+ },
+ {
+  "id": "781339b5a1fa",
+  "created": "2026-11-22T15:03:41+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/how-to-master-the-inner-game-of-wealth-5-money-lessons-from-t-harv-eker-s-bestseller-secrets-of-the-millionaire-mind-11795338831249.html",
+  "headline": "Shift Your Money Mindset with 5 Simple Lessons",
+  "hook": "Your thoughts about cash can shape your future earnings.",
+  "what": "Author T. Harv Eker says financial success starts with a mindset shift. He lists five steps: take charge of your money, set bold goals, create value for others, manage and grow money wisely, and keep learning.",
+  "why": "These habits can help Indian teens build stronger financial foundations early. Start by examining how you view money and set small, clear goals.",
+  "tags": [
+   "money mindset",
+   "financial habits",
+   "young investors",
+   "self growth",
+   "wealth basics"
+  ]
+ },
+ {
+  "id": "7a374a21dce2",
+  "created": "2026-11-22T15:03:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece",
+  "headline": "i-ALERT cuts diesel use on 1,500 RTC buses",
+  "hook": "New tech saves thousands of litres of fuel daily.",
+  "what": "The i-ALERT system was fitted on 1,500 Ashok Leyland BS‑VI buses operated by RTC. It reduces diesel consumption by about 6,603 litres each day, amounting to roughly 1,98,090 litres a month.",
+  "why": "Lower fuel use means cheaper rides and fewer emissions, helping the environment and your pocket.",
+  "tags": [
+   "iAlert",
+   "fuelSavings",
+   "greenTech",
+   "RTC",
+   "AshokLeyland"
+  ]
+ },
+ {
+  "id": "6db9b6e69037",
+  "created": "2026-11-22T15:03:45+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-samrudhi-sm82-november-22-2026-sunday-draw-winning-numbers-live-updates-and-more-vq2mjx6r",
+  "headline": "Kerala Samrudhi SM-82 Lottery Results Released Today",
+  "hook": "Check if you’ve won the ₹1 crore top prize.",
+  "what": "The Kerala State Lottery Department posted the Samrudhi SM-82 draw outcomes on 22 Nov 2026. The top prize stands at one crore rupees, with a full list of winning numbers now available.",
+  "why": "Young people can verify their tickets quickly online and claim any prize before the deadline.",
+  "tags": [
+   "KeralaLottery",
+   "Samrudhi",
+   "Prize1Crore",
+   "LotteryResults",
+   "CheckNumbers"
+  ]
+ },
+ {
   "id": "5123c63b90d9",
   "created": "2026-11-22T14:05:22+05:30",
   "category": "health",
@@ -651,100 +745,6 @@
    "Corruption",
    "Vigilance",
    "Gloves"
-  ]
- },
- {
-  "id": "a974da899555",
-  "created": "2026-11-22T06:51:46+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-msa-and-irtsa-proposals-show-how-fitment-factors-could-reshape-central-government-salary-structures-11795013686090.html",
-  "headline": "Two Pay Commission proposals could reshape govt salary gap",
-  "hook": "MSA and IRTSA suggest different fitment factors for central staff pay.",
-  "what": "The 8th Pay Commission is reviewing two rival proposals – one from MSA and another from IRTSA. Both outline distinct fitment factors and basic salary levels for central government employees.",
-  "why": "Changes could affect future job prospects and earnings for young aspirants in the civil services. Keep an eye on the final recommendations as they may influence salary growth and the gap between junior and senior posts.",
-  "tags": [
-   "paycommission",
-   "govtsalary",
-   "jobs",
-   "india",
-   "youngprofessionals"
-  ]
- },
- {
-  "id": "c684d46253e9",
-  "created": "2026-11-22T06:52:49+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "WKYC",
-  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRzg3a1hVRDBzNFdUa1Q2M3BBUC1selpzRzRaMExZS0NrcFhCNnBwcFVNVHB4N3dHOWtkZ2ktbVpHZUMtUF85X1ZlSXI2UmNjWHdXM2FrYkRrS3lVcTFSSk9JbDFnUGp2UDNENUFrSlF0c1hvRTZDQlpFdTRiSlh0QmY3dVdCTlBIQk5XVVNYRTlZM1I5ak4wazlKd0xlMF91ZDhzQ25iVkpGLWlJVTFKSFJ5c0Zta1pxa0FTU21rNVlyWDljNlBBOU1yX0lVVjM0dzc0?oc=5",
-  "headline": "Shootout in Parma, Ohio leaves several injured and dead",
-  "hook": "A shooting at a local event center shocked the community.",
-  "what": "Police arrived at Ridge Road in Parma, Ohio after reports of gunfire. The attack resulted in at least three fatalities and multiple injuries, including one person seriously wounded.",
-  "why": "Violent incidents can happen anywhere, so stay aware and follow safety guidelines when attending public gatherings.",
-  "tags": [
-   "ParmaShooting",
-   "OhioNews",
-   "PublicSafety",
-   "Breaking"
-  ]
- },
- {
-  "id": "68a6def6c80c",
-  "created": "2026-11-22T06:52:52+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
-  "headline": "India, Bulgaria approve new cooperation roadmap",
-  "hook": "India and Bulgaria set a clear plan for future ties",
-  "what": "India and Bulgaria met to discuss their bilateral relationship, including cooperation on IMEC and the Black Sea situation. Foreign Minister S. Jaishankar said the teams have prepared a detailed roadmap, which will be approved today, outlining future activities.",
-  "why": "The agreement could boost trade and job opportunities for Indian youth and shape India's role in regional security. Keep an eye out for new programmes or scholarships that may follow.",
-  "tags": [
-   "IndiaBulgaria",
-   "diplomacy",
-   "youthOpportunities",
-   "trade",
-   "security"
-  ]
- },
- {
-  "id": "1f6aac06eee5",
-  "created": "2026-11-22T06:52:55+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSTEzb3JHU2lISDZlTDZuQnJlc2lZOTg3UFE4WVJ1VDlJVFZhM29rU2tfci1YMV9oZkV2QTcySGFJNllIMWQ3SzdRNVA3bUpJQ3VEd0hIcVJPNGJEdEx1RUxWQlQxRW1xWHBtaklHbm5OVHl1NXBYMjU4VVpLUzJEMENpOGl1blp0V2lQT0VhREd2NmlsaURiemE5bHhPU3NuNjNvRWRPRXJ4STBOQ0tEOV9pWmhaZ2lhNjIzclBvTzU5M3dqTUZnZllmMHk0R01pTF9CUkZoMWlPTmlrOVdCTlNtWHRnNTdFUFh1YUY4dWpNWGtVdGNGUGNuY19lbkI1elpOamRkYnJmWVQxbVBQWXhqQjd5UzVER0FUaVp4d293dUpodkE?oc=5",
-  "headline": "Pakistan wins Blind Cricket Asia Cup amid umpire controversy",
-  "hook": "Umpire’s fighter‑jet celebration leads India to skip the trophy ceremony",
-  "what": "Pakistan was declared champion of the men's blind cricket Asia Cup after the final was called off because of rain. The match official celebrated with the Pakistani side, mimicking fighter‑jet gestures, prompting criticism from the Indian blind cricket team.",
-  "why": "The incident highlights concerns over fair play and officiating standards, prompting Indian players to raise the issue through official channels.",
-  "tags": [
-   "blindcricket",
-   "AsiaCup",
-   "sportscontroversy",
-   "India",
-   "Pakistan"
-  ]
- },
- {
-  "id": "bde68f7f816f",
-  "created": "2026-11-22T05:35:01+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-defends-venue-choice-for-vijayawada-mayor-swearing-in-slams-ysrcp-for-making-it-an-issue/article71728823.ece",
-  "headline": "TDP backs venue for Vijayawada mayor oath, criticises YSRCP",
-  "hook": "A local power tussle over where the mayor takes oath.",
-  "what": "The Telugu Desam Party defended holding the Vijayawada mayor’s swearing‑in at a chosen site, rejecting criticism from the YSR Congress Party. A Vijayawada MP said no rule forces the ceremony to be in the VMC council hall. YSRCP corporators have asked the district collector to intervene.",
-  "why": "Such disputes highlight how local politics can affect civic events that impact youth services. Stay aware of local governance issues and follow updates from reliable sources.",
-  "tags": [
-   "Vijayawada",
-   "Mayor",
-   "TDP",
-   "YSRCP",
-   "LocalPolitics"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "6db9b6e69037",
+ "created": "2026-11-22T15:03:45+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-samrudhi-sm82-november-22-2026-sunday-draw-winning-numbers-live-updates-and-more-vq2mjx6r",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala Samrudhi SM-82 Lottery Results Released Today",
+  "hook": "Check if you’ve won the ₹1 crore top prize.",
+  "what": "The Kerala State Lottery Department posted the Samrudhi SM-82 draw outcomes on 22 Nov 2026. The top prize stands at one crore rupees, with a full list of winning numbers now available.",
+  "why": "Young people can verify their tickets quickly online and claim any prize before the deadline.",
+  "tags": [
+   "KeralaLottery",
+   "Samrudhi",
+   "Prize1Crore",
+   "LotteryResults",
+   "CheckNumbers"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം സംരുദ്ധി SM-82 ലോട്ടറി ഫലങ്ങൾ ഇന്ന് പ്രഖ്യാപിച്ചു",
+  "hook": "₹1 കോടി പ്രധാന സമ്മാനം നിങ്ങൾക്ക് കിട്ടിയോ എന്ന് നോക്കൂ.",
+  "what": "കേരള സംസ്ഥാന ലോട്ടറി വകുപ്പ് 22 നവംബർ 2026-ന് സംരുദ്ധി SM-82 ഡ്രോയുടെ ഫലങ്ങൾ പ്രസിദ്ധീകരിച്ചു. ഒന്നുകോടി രൂപയുടെ പ്രധാന സമ്മാനം ലഭ്യമാണ്, എല്ലാ വിജയി നമ്പറുകളും ഇപ്പോൾ ലഭ്യമാണ്.",
+  "why": "ടിക്കറ്റ് ഉള്ളവർ ഓൺലൈനിൽ വേഗത്തിൽ പരിശോധിച്ച്, സമയപരിധിക്ക് മുമ്പ് അവകാശം നേടാം.",
+  "tags": [
+   "കേരളലോട്ടറി",
+   "സംരുദ്ധി",
+   "1കോടി",
+   "ഫലങ്ങൾ",
+   "ടിക്കറ്റ്"
+  ]
+ }
+}

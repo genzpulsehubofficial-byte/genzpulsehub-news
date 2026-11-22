@@ -1,0 +1,37 @@
+{
+ "id": "781339b5a1fa",
+ "created": "2026-11-22T15:03:41+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/how-to-master-the-inner-game-of-wealth-5-money-lessons-from-t-harv-eker-s-bestseller-secrets-of-the-millionaire-mind-11795338831249.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Shift Your Money Mindset with 5 Simple Lessons",
+  "hook": "Your thoughts about cash can shape your future earnings.",
+  "what": "Author T. Harv Eker says financial success starts with a mindset shift. He lists five steps: take charge of your money, set bold goals, create value for others, manage and grow money wisely, and keep learning.",
+  "why": "These habits can help Indian teens build stronger financial foundations early. Start by examining how you view money and set small, clear goals.",
+  "tags": [
+   "money mindset",
+   "financial habits",
+   "young investors",
+   "self growth",
+   "wealth basics"
+  ]
+ },
+ "ml": {
+  "headline": "പണം ചിന്ത മാറ്റി 5 ലളിത പാഠങ്ങൾ",
+  "hook": "പണത്തെക്കുറിച്ചുള്ള നിങ്ങളുടെ ചിന്തകൾ നിങ്ങളുടെ വരുമാനം രൂപപ്പെടുത്തും.",
+  "what": "T. Harv Eker പറയുന്നു, സാമ്പത്തിക വിജയത്തിന് ആദ്യം മനോഭാവം മാറ്റണം. അദ്ദേഹം അഞ്ച് ചുവടുകൾ പറയുന്നു: നിങ്ങളുടെ ധനം നിയന്ത്രിക്കുക, വലിയ ലക്ഷ്യങ്ങൾ നിശ്ചയിക്കുക, മറ്റുള്ളവർക്കു മൂല്യം സൃഷ്ടിക്കുക, പണം സുതാര്യമായി കൈകാര്യം ചെയ്ത് നിക്ഷേപിക്കുക, തുടർച്ചയായി പഠിക്കുക.",
+  "why": "ഈ ശീലങ്ങൾ യുവജനങ്ങൾക്ക് നല്ല സാമ്പത്തിക ജീവിതം ആരംഭിക്കാൻ സഹായിക്കും. നിങ്ങളുടെ പണത്തെക്കുറിച്ചുള്ള സമീപനം പരിശോധിച്ച് ചെറിയ ലക്ഷ്യങ്ങൾ നിശ്ചയിച്ച് തുടങ്ങൂ.",
+  "tags": [
+   "പണം ചിന്ത",
+   "സാമ്പത്തിക ശീലങ്ങൾ",
+   "യുവ നിക്ഷേപകർ",
+   "സ്വയംവികാസം",
+   "വെൽത്ത്"
+  ]
+ }
+}
