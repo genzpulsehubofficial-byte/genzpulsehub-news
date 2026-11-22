@@ -1,0 +1,37 @@
+{
+ "id": "b36fdd993ea3",
+ "created": "2026-11-22T21:58:55+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Barca Blaugranes",
+ "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWkxWjhoakRaQTRYQkpmVWE2dGlDQ3V1bXNxWTR4VjNKcDNkbUZqTGdhdFUwRmJOOHgtcU1ja04xMXhWN0JZbllpWlBhQjQ1ZjA2a0VOcG9ISHloLW1SWlUwVzJSMFg3WGFPSGM2czZIS2dLZVUzYm9OQXNSSG8tamR6TjJJUGRiYmlwMUh0NHM1MzBQTzZsZDB3ZjRFY1dRQ0N4UWhRSDJrQVdMNVJfWlRyb1RYREEySmgwSHFRUGhBZVdN?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Barcelona edges Villarreal 3-2 in La Liga thriller",
+  "hook": "A last‑minute comeback keeps Barça’s title hopes alive.",
+  "what": "Barcelona defeated Villarreal 3‑2 in a La Liga match on 22 Nov 2026. The win came after a dramatic finish, with Barcelona scoring the decisive goal late in the game.",
+  "why": "The result keeps Barcelona in the race for the league crown, showing the team’s resilience – a cue for young fans to stay focused on their goals despite setbacks.",
+  "tags": [
+   "LaLiga",
+   "Barcelona",
+   "Villarreal",
+   "football",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "ബാഴ്സലോണ 3-2 ന് വിരല്ലെയർനെ തോൽപ്പിച്ചു",
+  "hook": "അവസാന നിമിഷം വരെ പോരാട്ടം, ബാർസയുടെ ശീർഷക സ്വപ്നം നിലനിർത്തി",
+  "what": "22 നവംബർ 2026-ന് ബാഴ്സലോണ 3‑2 ന് വിരല്ലെയർനെ തോൽപ്പിച്ചു. അവസാന നിമിഷം വരെ തീവ്രമായ മത്സരം, ബാഴ്സലോണ അവസാനത്തിൽ വിജയഗോൾ നേടി.",
+  "why": "ഈ വിജയം ബാഴ്സലോണയുടെ ചാമ്പ്യൻഷിപ്പ് മത്സരത്തിൽ അവരെ മുന്നേറുന്നു, യുവാക്കൾക്ക് തിരിച്ചടികളിൽ നിന്നു മുന്നേറാൻ പ്രചോദനം നൽകും.",
+  "tags": [
+   "LaLiga",
+   "Barcelona",
+   "Villarreal",
+   "football",
+   "sports"
+  ]
+ }
+}

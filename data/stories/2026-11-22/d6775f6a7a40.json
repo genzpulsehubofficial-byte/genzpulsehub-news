@@ -1,0 +1,35 @@
+{
+ "id": "d6775f6a7a40",
+ "created": "2026-11-22T21:58:44+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-arrives-in-delhi-for-first-official-visit-to-india/article71731829.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Nepal PM Balendra Shah lands in Delhi for first official visit",
+  "hook": "New talks could shape India‑Nepal ties for years",
+  "what": "Nepal’s prime minister Balendra Shah arrived in Delhi for his inaugural official trip to India. He will meet the Indian prime minister on Monday to discuss bilateral relations.",
+  "why": "The meeting aims to set a political roadmap for the two neighbours, influencing trade, travel and regional cooperation that affect youth opportunities.",
+  "tags": [
+   "IndiaNepal",
+   "BilateralTalks",
+   "YouthImpact",
+   "Diplomacy"
+  ]
+ },
+ "ml": {
+  "headline": "നെപാളിന്റെ പ്രധാനമന്ത്രി ബാലേന്ദ്ര ഷാ ദില്ലിയിൽ ആദ്യ ഔദ്യോഗിക സന്ദർശനം",
+  "hook": "പുതിയ ചർച്ചകൾ ഇന്ത്യ‑നെപാൾ ബന്ധം വർഷങ്ങളോളം രൂപപ്പെടുത്താം",
+  "what": "നെപാളിന്റെ പ്രധാനമന്ത്രിയായ ബാലേന്ദ്ര ഷാ ദില്ലിയിൽ ആദ്യ ഔദ്യോഗിക യാത്ര നടത്തി. അദ്ദേഹം തിങ്കളാഴ്ച ഇന്ത്യൻ പ്രധാനമന്ത്രിയുമായി ഇരുവരുടെയും ബന്ധത്തെക്കുറിച്ച് ചർച്ച ചെയ്യും.",
+  "why": "ഈ കൂടിക്കാഴ്ച രണ്ട് രാജ്യങ്ങളുടെയും രാഷ്ട്രീയ ദിശ നിശ്ചയിക്കാൻ ലക്ഷ്യമിടുന്നു, ഇത് യുവതലമുറയുടെ തൊഴിൽ, യാത്ര, പ്രദേശിക സഹകരണത്തെ ബാധിക്കും.",
+  "tags": [
+   "IndiaNepal",
+   "BilateralTalks",
+   "YouthImpact",
+   "Diplomacy"
+  ]
+ }
+}

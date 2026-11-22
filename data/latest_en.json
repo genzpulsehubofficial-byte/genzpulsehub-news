@@ -1,5 +1,117 @@
 [
  {
+  "id": "d6775f6a7a40",
+  "created": "2026-11-22T21:58:44+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-arrives-in-delhi-for-first-official-visit-to-india/article71731829.ece",
+  "headline": "Nepal PM Balendra Shah lands in Delhi for first official visit",
+  "hook": "New talks could shape India‑Nepal ties for years",
+  "what": "Nepal’s prime minister Balendra Shah arrived in Delhi for his inaugural official trip to India. He will meet the Indian prime minister on Monday to discuss bilateral relations.",
+  "why": "The meeting aims to set a political roadmap for the two neighbours, influencing trade, travel and regional cooperation that affect youth opportunities.",
+  "tags": [
+   "IndiaNepal",
+   "BilateralTalks",
+   "YouthImpact",
+   "Diplomacy"
+  ]
+ },
+ {
+  "id": "8ab05d2f2a02",
+  "created": "2026-11-22T21:58:48+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGo3WGRicFUxejN1YmlsVDc5UmJVRWMtTHNVaEk0aGVXZl83OHJnaGVFLTlkY0lDZTVSZWw2VVJKQVVsYlNqeDdqNFM1SllZNG84YmpTUV9aNGxwMGVtRGR5V2YtTFpNX0xLdU5KcFljbHY4X3ZJcGU4cm5hWHMwb214OFRuVUstbFJUWEROeU0tYnVjVTBqRUpFTk9KVmcxb3NRQkZMdnQzTzBIenVPOGVRTDR3bEJXSmRTbkJNWHlrdldlODBaQVE0WUpNdkxlazFCQVhwZUY3cXVOeFhhNA?oc=5",
+  "headline": "FSSAI moves to prosecute Bisleri over contaminated water",
+  "hook": "Your bottled water might contain cancer‑linked chemicals.",
+  "what": "The food regulator found bromate and hydrocarbons in a Bisleri water sample. These substances are considered unsafe. FSSAI has ordered legal action against the company.",
+  "why": "Young consumers rely on safe drinking water; checking labels and opting for trusted sources is important.",
+  "tags": [
+   "FSSAI",
+   "Bisleri",
+   "waterSafety",
+   "health",
+   "India"
+  ]
+ },
+ {
+  "id": "50a942b95b73",
+  "created": "2026-11-22T21:58:50+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/india-cherishes-special-friendship-s-jaishankar-meets-nepal-pm-balen-shah-12362718#publisher=newsstand",
+  "headline": "India's Jaishankar calls Nepal tie a special friendship",
+  "hook": "India reaffirms close bond with Nepal in top‑level talks",
+  "what": "External Affairs Minister S. Jaishankar met Nepal’s Prime Minister Balen Shah. He said India cherishes its special friendship with Nepal.",
+  "why": "The statement highlights friendly ties that can affect travel, study and work options for young Indians.",
+  "tags": [
+   "India Nepal",
+   "diplomacy",
+   "friendship",
+   "foreign affairs"
+  ]
+ },
+ {
+  "id": "5b8e630f2d55",
+  "created": "2026-11-22T21:58:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/fd-interest-rate-vs-maturity-date-should-you-chase-higher-returns-or-choose-a-tenure-that-suits-your-financial-goals-11795361826216.html",
+  "headline": "Higher FD rates aren’t always the best choice",
+  "hook": "Think beyond the top rate before locking your money.",
+  "what": "Experts say picking the biggest fixed‑deposit interest isn’t automatically wise. They advise looking at the deposit’s term, how easily you can access funds, the risk of having to reinvest later, and any charges for early exit.",
+  "why": "Young savers need cash for studies or emergencies, so matching the tenure to personal plans avoids hidden costs. Check the terms before committing.",
+  "tags": [
+   "FD",
+   "savings",
+   "finance",
+   "younginvestors",
+   "moneytips"
+  ]
+ },
+ {
+  "id": "b36fdd993ea3",
+  "created": "2026-11-22T21:58:55+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Barca Blaugranes",
+  "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWkxWjhoakRaQTRYQkpmVWE2dGlDQ3V1bXNxWTR4VjNKcDNkbUZqTGdhdFUwRmJOOHgtcU1ja04xMXhWN0JZbllpWlBhQjQ1ZjA2a0VOcG9ISHloLW1SWlUwVzJSMFg3WGFPSGM2czZIS2dLZVUzYm9OQXNSSG8tamR6TjJJUGRiYmlwMUh0NHM1MzBQTzZsZDB3ZjRFY1dRQ0N4UWhRSDJrQVdMNVJfWlRyb1RYREEySmgwSHFRUGhBZVdN?oc=5",
+  "headline": "Barcelona edges Villarreal 3-2 in La Liga thriller",
+  "hook": "A last‑minute comeback keeps Barça’s title hopes alive.",
+  "what": "Barcelona defeated Villarreal 3‑2 in a La Liga match on 22 Nov 2026. The win came after a dramatic finish, with Barcelona scoring the decisive goal late in the game.",
+  "why": "The result keeps Barcelona in the race for the league crown, showing the team’s resilience – a cue for young fans to stay focused on their goals despite setbacks.",
+  "tags": [
+   "LaLiga",
+   "Barcelona",
+   "Villarreal",
+   "football",
+   "sports"
+  ]
+ },
+ {
+  "id": "ae5d483b503d",
+  "created": "2026-11-22T21:58:58+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "BBC",
+  "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdVlHU2Z6eERmOGtld0l1c2RiRFFtb2FKWkhJTkd1bGpneXlHanRBVmNZX1R4V2MyZGFrVjVLSXhtbS1WQnp5cnh4Y2hJVWxycVFiUjFrbHRPU01rWVJqVzlob1ZoVm5EQ0dF?oc=5",
+  "headline": "Marquez clinches eighth MotoGP crown in Portugal",
+  "hook": "Spain’s Ducati star matches record with a stunning win",
+  "what": "Marc Marquez secured his eighth MotoGP world championship at the Portuguese Grand Prix. The victory ties the all‑time record for most titles. He rode for Ducati.",
+  "why": "Young riders see the benchmark for consistency and success. Aspiring racers can study his performance for inspiration.",
+  "tags": [
+   "MotoGP",
+   "Marquez",
+   "Ducati",
+   "record",
+   "Portugal"
+  ]
+ },
+ {
   "id": "8363e8d1131e",
   "created": "2026-11-22T21:12:16+05:30",
   "category": "kerala",
@@ -639,119 +751,6 @@
    "Visakhapatnam",
    "shopping",
    "finance"
-  ]
- },
- {
-  "id": "1a2cf6311063",
-  "created": "2026-11-22T15:01:34+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece",
-  "headline": "BJP Rajya Sabha MP Ramrao Wadkute Passes Away in Delhi",
-  "hook": "Sitting Parliament member Ramrao Wadkute has died following a cardiac arrest.",
-  "what": "BJP Rajya Sabha MP Ramrao Wadkute has passed away in Delhi after experiencing a cardiac arrest. He hailed from Parbhani in the Marathwada area of Maharashtra. He had become a member of the upper house after being elected in April this year.",
-  "why": "Following national developments helps young citizens stay informed about representatives in the Indian Parliament.",
-  "tags": [
-   "Parliament",
-   "RajyaSabha",
-   "NationalNews",
-   "Maharashtra"
-  ]
- },
- {
-  "id": "144d17fd3b59",
-  "created": "2026-11-22T15:02:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/delhi-police-busts-pan-india-investment-fraud-worth-67-78-lakh-7-arrested-across-5-states-5-lessons-for-investors-11795337958446.html",
-  "headline": "Delhi Police nab 7 in ₹68 lakh investment scam",
-  "hook": "A nationwide fraud duped investors through fake trading apps and WhatsApp.",
-  "what": "Delhi Police arrested seven suspects across five states for running a ₹67.78 lakh investment scam. The scheme used counterfeit trading platforms and WhatsApp groups to lure victims.",
-  "why": "It highlights how online investment offers can be traps, so young Indians should verify any platform before putting money in.",
-  "tags": [
-   "investmentfraud",
-   "DelhiPolice",
-   "scamalert",
-   "younginvestors",
-   "WhatsApp"
-  ]
- },
- {
-  "id": "781339b5a1fa",
-  "created": "2026-11-22T15:03:41+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/how-to-master-the-inner-game-of-wealth-5-money-lessons-from-t-harv-eker-s-bestseller-secrets-of-the-millionaire-mind-11795338831249.html",
-  "headline": "Shift Your Money Mindset with 5 Simple Lessons",
-  "hook": "Your thoughts about cash can shape your future earnings.",
-  "what": "Author T. Harv Eker says financial success starts with a mindset shift. He lists five steps: take charge of your money, set bold goals, create value for others, manage and grow money wisely, and keep learning.",
-  "why": "These habits can help Indian teens build stronger financial foundations early. Start by examining how you view money and set small, clear goals.",
-  "tags": [
-   "money mindset",
-   "financial habits",
-   "young investors",
-   "self growth",
-   "wealth basics"
-  ]
- },
- {
-  "id": "7a374a21dce2",
-  "created": "2026-11-22T15:03:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece",
-  "headline": "i-ALERT cuts diesel use on 1,500 RTC buses",
-  "hook": "New tech saves thousands of litres of fuel daily.",
-  "what": "The i-ALERT system was fitted on 1,500 Ashok Leyland BS‑VI buses operated by RTC. It reduces diesel consumption by about 6,603 litres each day, amounting to roughly 1,98,090 litres a month.",
-  "why": "Lower fuel use means cheaper rides and fewer emissions, helping the environment and your pocket.",
-  "tags": [
-   "iAlert",
-   "fuelSavings",
-   "greenTech",
-   "RTC",
-   "AshokLeyland"
-  ]
- },
- {
-  "id": "6db9b6e69037",
-  "created": "2026-11-22T15:03:45+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-samrudhi-sm82-november-22-2026-sunday-draw-winning-numbers-live-updates-and-more-vq2mjx6r",
-  "headline": "Kerala Samrudhi SM-82 Lottery Results Released Today",
-  "hook": "Check if you’ve won the ₹1 crore top prize.",
-  "what": "The Kerala State Lottery Department posted the Samrudhi SM-82 draw outcomes on 22 Nov 2026. The top prize stands at one crore rupees, with a full list of winning numbers now available.",
-  "why": "Young people can verify their tickets quickly online and claim any prize before the deadline.",
-  "tags": [
-   "KeralaLottery",
-   "Samrudhi",
-   "Prize1Crore",
-   "LotteryResults",
-   "CheckNumbers"
-  ]
- },
- {
-  "id": "5123c63b90d9",
-  "created": "2026-11-22T14:05:22+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
-  "headline": "Hundreds Hospitalised After Chowmein at Madhya Pradesh Fair",
-  "hook": "A village fair snack sent over 100 kids to the hospital.",
-  "what": "More than 100 children and 12 adults were taken to the Kirnapur community health centre after eating chowmein at a local fair. A total of 118 children were first admitted, and 45 of them were later moved to Balaghat district hospital for further care.",
-  "why": "The incident underscores the need for strict food safety at public events, reminding young people to be careful about street food hygiene.",
-  "tags": [
-   "health",
-   "foodpoisoning",
-   "MadhyaPradesh",
-   "India",
-   "safety"
   ]
  }
 ]

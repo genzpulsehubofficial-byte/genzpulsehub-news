@@ -1,0 +1,37 @@
+{
+ "id": "ae5d483b503d",
+ "created": "2026-11-22T21:58:58+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "BBC",
+ "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdVlHU2Z6eERmOGtld0l1c2RiRFFtb2FKWkhJTkd1bGpneXlHanRBVmNZX1R4V2MyZGFrVjVLSXhtbS1WQnp5cnh4Y2hJVWxycVFiUjFrbHRPU01rWVJqVzlob1ZoVm5EQ0dF?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Marquez clinches eighth MotoGP crown in Portugal",
+  "hook": "Spain’s Ducati star matches record with a stunning win",
+  "what": "Marc Marquez secured his eighth MotoGP world championship at the Portuguese Grand Prix. The victory ties the all‑time record for most titles. He rode for Ducati.",
+  "why": "Young riders see the benchmark for consistency and success. Aspiring racers can study his performance for inspiration.",
+  "tags": [
+   "MotoGP",
+   "Marquez",
+   "Ducati",
+   "record",
+   "Portugal"
+  ]
+ },
+ "ml": {
+  "headline": "മാർക്വെസ് പോർച്ചുഗലിൽ എട്ടാമത്തെ മോറ്റോജിപി ചാമ്പ്യൻഷിപ്പ് നേടി",
+  "hook": "സ്പെയിനിലെ ഡുകാറ്റി റൈഡർ റെക്കോർഡ് തുല്യപ്പെടുത്തി",
+  "what": "മാർക് മാർക്വെസ് പോർച്ചുഗൽ ഗ്രാൻഡ് പ്രിക്സിൽ എട്ടാമത്തെ മോറ്റോജിപി ലോക ചാമ്പ്യൻഷിപ്പ് ഉറപ്പിച്ചു. ഈ വിജയം എല്ലാ കാലത്തും ഏറ്റവും കൂടുതൽ ശീർഷകങ്ങൾക്കുള്ള റെക്കോർഡ് തുല്യപ്പെടുത്തി. അദ്ദേഹം ഡുകാറ്റി ടീമിനായി മത്സരിച്ചു.",
+  "why": "ഇത് യുവ റൈഡർമാർക്ക് സ്ഥിരതയും വിജയവും ലക്ഷ്യമിടാൻ പ്രചോദനമാകും. ഭാവി മത്സരാർത്ഥികൾ അദ്ദേഹത്തിന്റെ പ്രകടനം പഠിക്കാം.",
+  "tags": [
+   "MotoGP",
+   "Marquez",
+   "Ducati",
+   "record",
+   "Portugal"
+  ]
+ }
+}

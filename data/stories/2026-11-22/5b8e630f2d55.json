@@ -1,0 +1,37 @@
+{
+ "id": "5b8e630f2d55",
+ "created": "2026-11-22T21:58:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/fd-interest-rate-vs-maturity-date-should-you-chase-higher-returns-or-choose-a-tenure-that-suits-your-financial-goals-11795361826216.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Higher FD rates aren’t always the best choice",
+  "hook": "Think beyond the top rate before locking your money.",
+  "what": "Experts say picking the biggest fixed‑deposit interest isn’t automatically wise. They advise looking at the deposit’s term, how easily you can access funds, the risk of having to reinvest later, and any charges for early exit.",
+  "why": "Young savers need cash for studies or emergencies, so matching the tenure to personal plans avoids hidden costs. Check the terms before committing.",
+  "tags": [
+   "FD",
+   "savings",
+   "finance",
+   "younginvestors",
+   "moneytips"
+  ]
+ },
+ "ml": {
+  "headline": "ഉയർന്ന FD പലിശ എല്ലായ്പ്പോഴും മികച്ചതല്ല",
+  "hook": "പണം ലോക്ക് ചെയ്യുന്നതിന് മുൻപ് നിരക്ക് മാത്രം നോക്കരുത്.",
+  "what": "വിദഗ്ധർ പറയുന്നത്, ഏറ്റവും ഉയർന്ന ഫിക്‌സ്‌ഡ് ഡെപ്പോസിറ്റ് പലിശ തിരഞ്ഞെടുക്കുന്നത് സ്വാഭാവികമായി സ്മാർട്ട് ആകില്ല. നിക്ഷേപത്തിന്റെ കാലാവധി, പണം എളുപ്പത്തിൽ ലഭ്യമാക്കാനുള്ള സൗകര്യം, വീണ്ടും നിക്ഷേപിക്കേണ്ടി വരാനുള്ള അപകടം, മുൻകൂർ പിൻവലിക്കലിന്റെ ശിക്ഷ എന്നിവ പരിഗണിക്കണം.",
+  "why": "പഠനം, അടിയന്തര ചെലവുകൾ എന്നിവയ്ക്ക് പണം ആവശ്യമാകാം, അതിനാൽ കാലാവധി വ്യക്തിഗത പദ്ധതികളോട് പൊരുത്തപ്പെടുത്തുന്നത് അധിക ചെലവുകൾ ഒഴിവാക്കും. നിബന്ധനകൾ പരിശോധിച്ച് തീരുമാനിക്കുക.",
+  "tags": [
+   "FD",
+   "savings",
+   "finance",
+   "younginvestors",
+   "moneytips"
+  ]
+ }
+}

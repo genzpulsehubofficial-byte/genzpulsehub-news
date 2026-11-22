@@ -1,0 +1,35 @@
+{
+ "id": "50a942b95b73",
+ "created": "2026-11-22T21:58:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/india-cherishes-special-friendship-s-jaishankar-meets-nepal-pm-balen-shah-12362718#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India's Jaishankar calls Nepal tie a special friendship",
+  "hook": "India reaffirms close bond with Nepal in top‑level talks",
+  "what": "External Affairs Minister S. Jaishankar met Nepal’s Prime Minister Balen Shah. He said India cherishes its special friendship with Nepal.",
+  "why": "The statement highlights friendly ties that can affect travel, study and work options for young Indians.",
+  "tags": [
+   "India Nepal",
+   "diplomacy",
+   "friendship",
+   "foreign affairs"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ ജൈഷങ്കർ നെപ്പാളുമായി പ്രത്യേക സൗഹൃദം എന്ന് വിളിച്ചു",
+  "hook": "ഇന്ത്യ-നെപ്പാൾ ബന്ധം ഉയർന്ന തലത്തിൽ ഉറപ്പിച്ചു",
+  "what": "വൈദ്യുതി മന്ത്രിയായ എസ്. ജയശങ്കർ നെപ്പാളിന്റെ പ്രധാനമന്ത്രിയായ ബാലൻ ഷാഹുമായി കൂടിക്കാഴ്ച നടത്തി. അദ്ദേഹം ഇന്ത്യയുടെ പ്രത്യേക സൗഹൃദം നെപ്പാളിനോടുള്ളതെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് യുവാക്കൾക്ക് യാത്ര, പഠനം, ജോലി എന്നിവയിൽ സൗഹൃദം നൽകുന്ന അവസരങ്ങളെ സൂചിപ്പിക്കുന്നു.",
+  "tags": [
+   "ഇന്ത്യ നെപ്പാൾ",
+   "ദൂരെപ്പാട്",
+   "സൗഹൃദം",
+   "വൈദ്യുതി"
+  ]
+ }
+}

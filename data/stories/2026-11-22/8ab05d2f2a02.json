@@ -1,0 +1,37 @@
+{
+ "id": "8ab05d2f2a02",
+ "created": "2026-11-22T21:58:48+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGo3WGRicFUxejN1YmlsVDc5UmJVRWMtTHNVaEk0aGVXZl83OHJnaGVFLTlkY0lDZTVSZWw2VVJKQVVsYlNqeDdqNFM1SllZNG84YmpTUV9aNGxwMGVtRGR5V2YtTFpNX0xLdU5KcFljbHY4X3ZJcGU4cm5hWHMwb214OFRuVUstbFJUWEROeU0tYnVjVTBqRUpFTk9KVmcxb3NRQkZMdnQzTzBIenVPOGVRTDR3bEJXSmRTbkJNWHlrdldlODBaQVE0WUpNdkxlazFCQVhwZUY3cXVOeFhhNA?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "FSSAI moves to prosecute Bisleri over contaminated water",
+  "hook": "Your bottled water might contain cancer‑linked chemicals.",
+  "what": "The food regulator found bromate and hydrocarbons in a Bisleri water sample. These substances are considered unsafe. FSSAI has ordered legal action against the company.",
+  "why": "Young consumers rely on safe drinking water; checking labels and opting for trusted sources is important.",
+  "tags": [
+   "FSSAI",
+   "Bisleri",
+   "waterSafety",
+   "health",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "FSSAI ബിസ്ലേറിയെ മലിന ജലത്തിന് കേസ് ചെയ്തു",
+  "hook": "നിങ്ങളുടെ ബോട്ടിൽ വെള്ളത്തിൽ കാൻസർ‑ബന്ധിത രാസവസ്തുക്കൾ ഉണ്ടാകാം.",
+  "what": "ഭക്ഷ്യനിയന്ത്രകൻ ഒരു ബിസ്ലേറി വെള്ളം സാമ്പിളിൽ ബ്രോമേറ്റ്, ഹൈഡ്രോക്കാർബൺസ് കണ്ടെത്തി. ഈ രാസവസ്തുക്കൾ സുരക്ഷിതമല്ല. FSSAI കമ്പനിയോട് നിയമ നടപടികൾ സ്വീകരിക്കാൻ ആജ്ഞാപിച്ചു.",
+  "why": "യുവജനങ്ങൾക്ക് ശുദ്ധമായ കുടിവെള്ളം അത്യാവശ്യമാണ്; ലേബൽ പരിശോധിച്ച് വിശ്വസനീയ ബ്രാൻഡുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "FSSAI",
+   "Bisleri",
+   "വെള്ളസുരക്ഷ",
+   "ആരോഗ്യം",
+   "ഇന്ത്യ"
+  ]
+ }
+}
