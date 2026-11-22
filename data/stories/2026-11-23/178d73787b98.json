@@ -1,0 +1,37 @@
+{
+ "id": "178d73787b98",
+ "created": "2026-11-23T03:47:23+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Oncodaily",
+ "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Strand Life Sciences expands affordable multi‑cancer blood test",
+  "hook": "A new blood test could spot several cancers early, and it’s heading to more hospitals.",
+  "what": "Strand Life Sciences announced plans to roll out its multi‑cancer detection blood test to additional hospitals while working to lower the price. The company also aims to enter the United States and Southeast Asian markets.",
+  "why": "Early, low‑cost screening can help young people catch cancers sooner, potentially saving lives and reducing treatment costs. Keep an eye on upcoming screening options at local labs.",
+  "tags": [
+   "cancerScreening",
+   "bloodTest",
+   "StrandLife",
+   "healthTech",
+   "earlyDetection"
+  ]
+ },
+ "ml": {
+  "headline": "Strand Life Sciences‑ന്റെ വിലകുറഞ്ഞ മള്‍ട്ടി‑കാന്‍സര്‍ ബ്ലഡ് ടെസ്റ്റ് കൂടുതല്‍ ആശുപത്രികളിലേക്ക്",
+  "hook": "പല തരത്തിലുള്ള കാന്‍സറുകള്‍ കണ്ടെത്താന്‍ സഹായിക്കുന്ന പുതിയ രക്തപരിശോധന കൂടുതല്‍ സ്ഥലങ്ങളിലേക്ക് വരുന്നു.",
+  "what": "Strand Life Sciences തന്റെ മള്‍ട്ടി‑കാന്‍സര്‍ കണ്ടെത്തല്‍ രക്തപരിശോധന കൂടുതല്‍ ആശുപത്രികളില്‍ അവതരിപ്പിക്കുകയും ചെലവ് കുറയ്ക്കാന്‍ ശ്രമിക്കുകയും ചെയ്യുമെന്ന് പ്രഖ്യാപിച്ചു. കൂടാതെ, ഈ ടെസ്റ്റ് യു.എസ്.യും ദക്ഷിണ‑കിഴക്കന്‍ ഏഷ്യാ വിപണികളിലേക്കും വ്യാപിപ്പിക്കാനാണ് ലക്ഷ്യം.",
+  "why": "വിലകുറഞ്ഞ, മുന്‍കൂട്ടി കണ്ടെത്തല്‍ സ്ക്രീനിംഗ് യുവജനങ്ങള്‍ക്ക് രോഗം നേരത്തെ കണ്ടെത്താന്‍ സഹായിക്കും, ചികിത്സാ ചെലവ് കുറയ്ക്കാന്‍ ഇടയാക്കും. അടുത്തിടെ നിങ്ങളുടെ സമീപത്തെ ലാബില്‍ ലഭ്യമാകുന്ന പരിശോധനകള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "കാന്‍സര്‍സ്ക്രീനിംഗ്",
+   "രക്തപരിശോധന",
+   "StrandLife",
+   "ഹെല്‍ത്ത്‌ടെക്",
+   "മുന്‍കൂട്ടിദെറ്റക്ഷന്‍"
+  ]
+ }
+}

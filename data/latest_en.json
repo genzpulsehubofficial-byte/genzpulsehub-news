@@ -1,5 +1,100 @@
 [
  {
+  "id": "9d561cc7e83a",
+  "created": "2026-11-23T03:46:15+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+  "headline": "‘You Can See Everything’ documentary crosses $100M globally",
+  "hook": "A new doc on a Silicon Valley scandal is booming worldwide.",
+  "what": "The documentary ‘You Can See Everything’ about Elizabeth Holmes has earned over $100 million worldwide. It is now being released in international markets.",
+  "why": "Its popularity highlights strong interest in tech‑industry stories, and Indian viewers can stream it to learn about entrepreneurship risks.",
+  "tags": [
+   "docu",
+   "tech",
+   "streaming",
+   "entrepreneurship",
+   "India"
+  ]
+ },
+ {
+  "id": "df538031d139",
+  "created": "2026-11-23T03:47:19+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-to-issue-cards-with-qr-code-for-identity-checks/article71731836.ece",
+  "headline": "Mumbai Police launch QR‑code ID cards for officers",
+  "hook": "New digital cards let cops verify identities instantly.",
+  "what": "The city’s police force received QR‑code identity cards on Nov 21, 2026, after the launch by Devendra Fadnavis. The cards have been handed out to staff, including traffic police, as part of the force’s digitisation drive.",
+  "why": "The move aims to speed up identity verification and modernise policing, helping young citizens see a tech‑savvy police service.",
+  "tags": [
+   "Mumbai",
+   "Police",
+   "QRcode",
+   "Digital",
+   "Safety"
+  ]
+ },
+ {
+  "id": "793f85aa40b7",
+  "created": "2026-11-23T03:47:21+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/man-injured-in-crocodile-attack-near-chidambaram/article71730998.ece",
+  "headline": "Man Injured in Crocodile Attack Near Chidambaram",
+  "hook": "A crocodile bite leaves a local man hurt.",
+  "what": "A man was attacked by a crocodile close to Chidambaram, resulting in injuries. The incident was reported in the area.",
+  "why": "Such wildlife encounters highlight safety risks near water bodies, urging youngsters to stay cautious when near rivers or wetlands.",
+  "tags": [
+   "crocodile",
+   "Chidambaram",
+   "wildlife",
+   "safety",
+   "India"
+  ]
+ },
+ {
+  "id": "178d73787b98",
+  "created": "2026-11-23T03:47:23+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Oncodaily",
+  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5",
+  "headline": "Strand Life Sciences expands affordable multi‑cancer blood test",
+  "hook": "A new blood test could spot several cancers early, and it’s heading to more hospitals.",
+  "what": "Strand Life Sciences announced plans to roll out its multi‑cancer detection blood test to additional hospitals while working to lower the price. The company also aims to enter the United States and Southeast Asian markets.",
+  "why": "Early, low‑cost screening can help young people catch cancers sooner, potentially saving lives and reducing treatment costs. Keep an eye on upcoming screening options at local labs.",
+  "tags": [
+   "cancerScreening",
+   "bloodTest",
+   "StrandLife",
+   "healthTech",
+   "earlyDetection"
+  ]
+ },
+ {
+  "id": "3de25e3b587e",
+  "created": "2026-11-23T03:47:25+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Conversation",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1ZBZG1PMFRKWlRNWjhUTWY4aHV4RVVoM0FCRG52bzR6bEUxbDhHZ2d5ZmsyM0pXcXJVb2lHVy16VlRHVmlsSjNFMzhnU18wXy01VE5mS1h5eUhCeG9obVRDSGxYZkhXdFhtMW85cWNWMjNteW93OV9FMHVqVVVHNllPa3pVNThKX2RNVW81Ry1GeHVEUTgwcXZwNlMxZDFMMHRYWWJreUFsZmtpMEdoRQ?oc=5",
+  "headline": "GTA 6 Clip Shows Woman Shot 24 Times, Sparks Debate",
+  "hook": "A viral gameplay video has ignited a fresh controversy over game violence.",
+  "what": "A video circulating online shows a player in GTA 6 shooting a female character 24 times. The clip has led to discussions about the acceptability of murder versus sexual assault in video games.",
+  "why": "Young gamers and parents are urged to think about the impact of such content; some influencers suggest keeping the game away from minors.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "violence",
+   "parents",
+   "debate"
+  ]
+ },
+ {
   "id": "716c53fa8fce",
   "created": "2026-11-23T02:56:25+05:30",
   "category": "tech",
@@ -654,100 +749,6 @@
    "youthsports",
    "RBC",
    "academy"
-  ]
- },
- {
-  "id": "1d2beb2407b7",
-  "created": "2026-11-22T20:28:25+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/fight-over-popcorn-salt-kozhikode-beach-cops-attacked-s8s5m35t",
-  "headline": "Popcorn Salt Dispute Sparks Beach Brawl, Police Hurt",
-  "hook": "A missing pinch of salt turned into a fight on Kozhikode shore.",
-  "what": "On November 21, a disagreement over unsalted popcorn at Kozhikode Beach led to a physical clash. Two civil police officers were injured after a kiosk worker allegedly attacked them and fled.",
-  "why": "Such incidents show why minor arguments should stay calm, especially for youths in public places. Stay aware and avoid escalating small disputes.",
-  "tags": [
-   "Kozhikode",
-   "Beach",
-   "Police",
-   "Popcorn",
-   "Kerala"
-  ]
- },
- {
-  "id": "d58b20cf6e4e",
-  "created": "2026-11-22T20:28:28+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "India Today",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzRPTTJrRjVGUktHSjhsWGMzcUUybW5MME5DSV9Bd0hfeUJmVGVLbWdEeFJtMFc1NmJCbGQtN1l4UTc0ajBtMjdObXloOFg4Qk90UHQwTjMyeVpRUDRkb05VdHdIZzZXSElyeWxtQWlyVEVxd2h4aVN6UU5jWjMxZm1yd2hkdXNjYWVYNEJjLUFGWUpJby1ENXdIejluemJsbXl6YjJCQWxQRjRVekpxMtIBtgFBVV95cUxQcFlZNzNONE1GYVFTWERYYUxfa044X3lRenNNY2o4T2ExR3BIRFYtVGQtTVJDSER5c0NXYUtGRXhGSC0tVVlFQU50d0dZM0lZaVpkRDZBX3M3N3V0SXZQM0lvcnBhVUNKRVV2V0RHdXJlS1dkTEg2TnlOVllFWVpDTklMZGtSUmt6VlFRS3hGcTJETmZESEhPZURaYTdoSnRmek1XbGFDWlI4VldMMXlxRVpqaVpWdw?oc=5",
-  "headline": "Tharoor Plays GTA 6, Calls Demonetisation ‘Grand Theft’",
-  "hook": "A parliamentarian’s gaming session sparks a political jab.",
-  "what": "Shashi Tharoor posted a video of himself playing the new Grand Theft Auto VI. While navigating the game, he quipped that India’s 2016 demonetisation resembled a ‘grand theft, without auto.’",
-  "why": "The comment links a popular game to a controversial policy, reminding young voters of past economic moves and encouraging them to stay informed.",
-  "tags": [
-   "gaming",
-   "politics",
-   "demonetisation",
-   "GTA6",
-   "India"
-  ]
- },
- {
-  "id": "0db7b717ca2c",
-  "created": "2026-11-22T19:37:12+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/borrowing-money-to-invest-in-stocks-charlie-mungers-warning-explains-why-a-market-crash-can-put-your-savings-at-risk-11795355402379.html",
-  "headline": "Munger cautions: Borrowing to buy stocks can wipe out savings",
-  "hook": "Leverage can turn a 30% dip into a 45% loss.",
-  "what": "Charlie Munger warned investors not to use borrowed money for stock purchases. He explained that a 30% market fall could erase about 45% of the original capital when leverage is used. Margin calls, interest charges and forced sales amplify the risk.",
-  "why": "Young investors should avoid borrowing to trade, as a market slump could quickly deplete their funds. Keeping investments unleveraged protects savings.",
-  "tags": [
-   "investing",
-   "leverage",
-   "Munger",
-   "stockmarket",
-   "financialrisk"
-  ]
- },
- {
-  "id": "4ebb9ee16d08",
-  "created": "2026-11-22T19:37:16+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-promises-four-lane-highway-fly-over-in-bhimavaram-if-bjp-wins/article71731460.ece",
-  "headline": "Minister vows new highway and fly‑over for Bhimavaram",
-  "hook": "A fresh road plan could reshape travel for Bhimavaram youth.",
-  "what": "A Union Minister announced that a four‑lane highway and a fly‑over will be built in Bhimavaram if the BJP wins the upcoming election.",
-  "why": "Improved connectivity may ease daily commutes and open up job or study opportunities for local teens. Stay updated on the election outcome.",
-  "tags": [
-   "Bhimavaram",
-   "Infrastructure",
-   "Election",
-   "Youth"
-  ]
- },
- {
-  "id": "e10646578eaf",
-  "created": "2026-11-22T19:37:19+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raps-a-small-town-firm-thats-now-a-trusted-partner-in-indias-space-and-defence-missions/article71730831.ece",
-  "headline": "Small-town RAPS powers India's space and defence projects",
-  "hook": "A tiny firm from a small town now fuels 30 Indian space and defence missions",
-  "what": "Ramesh’s Aerospace Products & Services Pvt. Ltd. (RAPS) is AS9100‑certified and supplies composite subsystems for about 30 defence and aerospace programmes across India. The company, based in a small town, has become a trusted supplier for the country’s space and defence missions.",
-  "why": "It shows that startups from any corner can contribute to high‑tech national projects, encouraging young engineers to explore careers in aerospace and defence technology.",
-  "tags": [
-   "space",
-   "defence",
-   "startup",
-   "aerospace",
-   "madeinindia"
   ]
  }
 ]

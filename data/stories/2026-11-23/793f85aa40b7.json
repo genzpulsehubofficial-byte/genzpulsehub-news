@@ -1,0 +1,37 @@
+{
+ "id": "793f85aa40b7",
+ "created": "2026-11-23T03:47:21+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/man-injured-in-crocodile-attack-near-chidambaram/article71730998.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Man Injured in Crocodile Attack Near Chidambaram",
+  "hook": "A crocodile bite leaves a local man hurt.",
+  "what": "A man was attacked by a crocodile close to Chidambaram, resulting in injuries. The incident was reported in the area.",
+  "why": "Such wildlife encounters highlight safety risks near water bodies, urging youngsters to stay cautious when near rivers or wetlands.",
+  "tags": [
+   "crocodile",
+   "Chidambaram",
+   "wildlife",
+   "safety",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ചിദംബരത്തിന് സമീപം കൂമ്പാരം കടിച്ചതില്‍ ഒരു മനുഷ്യന് പരിക്ക്",
+  "hook": "കൂമ്പാരത്തിന്റെ കടിയാല്‍ ഒരു ആളിന് പരിക്ക് സംഭവിച്ചു.",
+  "what": "ചിദംബരത്തിന് സമീപം ഒരു മനുഷ്യന് കൂമ്പാരം കടിച്ചു, അവന് പരിക്ക് ലഭിച്ചു. സംഭവം ആ പ്രദേശത്ത് റിപ്പോര്‍ട്ട് ചെയ്തു.",
+  "why": "ജലാശയങ്ങളോട് അടുത്തിടത്ത് വന്യജീവി ആക്രമണങ്ങള്‍ അപകടം സൃഷ്ടിക്കാം, അതിനാല്‍ യുവാക്കള്‍ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "കൂമ്പാരം",
+   "ചിദംബരം",
+   "വന്യജീവി",
+   "സുരക്ഷ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

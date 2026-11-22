@@ -1,0 +1,37 @@
+{
+ "id": "df538031d139",
+ "created": "2026-11-23T03:47:19+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-to-issue-cards-with-qr-code-for-identity-checks/article71731836.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Mumbai Police launch QR‑code ID cards for officers",
+  "hook": "New digital cards let cops verify identities instantly.",
+  "what": "The city’s police force received QR‑code identity cards on Nov 21, 2026, after the launch by Devendra Fadnavis. The cards have been handed out to staff, including traffic police, as part of the force’s digitisation drive.",
+  "why": "The move aims to speed up identity verification and modernise policing, helping young citizens see a tech‑savvy police service.",
+  "tags": [
+   "Mumbai",
+   "Police",
+   "QRcode",
+   "Digital",
+   "Safety"
+  ]
+ },
+ "ml": {
+  "headline": "മുംബൈ പോലീസ് QR‑കോഡ് ഐഡി കാർഡുകൾ പുറത്തിറക്കി",
+  "hook": "പോലീസ് ഉദ്യോഗസ്ഥരുടെ തിരിച്ചറിയൽ തൽക്ഷണം പരിശോധിക്കാൻ പുതിയ ഡിജിറ്റൽ കാർഡുകൾ.",
+  "what": "21 നവംബർ 2026-ന് ദേവേന്ദ്ര ഫഡ്നവിസ് ഉദ്ഘാടനം ചെയ്തതോടെ, QR‑കോഡ് അടങ്ങിയ ഐഡി കാർഡുകൾ മുംബൈ പോലീസ് ജീവനക്കാരെ, ട്രാഫിക് പോലീസ് ഉൾപ്പെടെ, വിതരണം ചെയ്തു. ഇത് പോലീസ് വിഭാഗത്തിന്റെ ഡിജിറ്റലൈസേഷൻ ശ്രമത്തിന്റെ ഭാഗമാണ്.",
+  "why": "ഇത് തിരിച്ചറിയൽ പരിശോധന വേഗത്തിലാക്കുകയും, യുവജനങ്ങൾക്ക് സാങ്കേതിക വിദ്യയുള്ള പോലീസ് സേവനം കാണിക്കാൻ സഹായിക്കുകയും ചെയ്യും.",
+  "tags": [
+   "മുംബൈ",
+   "പോലീസ്",
+   "QRcode",
+   "ഡിജിറ്റൽ",
+   "സുരക്ഷ"
+  ]
+ }
+}

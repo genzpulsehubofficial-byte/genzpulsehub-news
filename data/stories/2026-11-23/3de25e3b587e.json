@@ -1,0 +1,37 @@
+{
+ "id": "3de25e3b587e",
+ "created": "2026-11-23T03:47:25+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Conversation",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1ZBZG1PMFRKWlRNWjhUTWY4aHV4RVVoM0FCRG52bzR6bEUxbDhHZ2d5ZmsyM0pXcXJVb2lHVy16VlRHVmlsSjNFMzhnU18wXy01VE5mS1h5eUhCeG9obVRDSGxYZkhXdFhtMW85cWNWMjNteW93OV9FMHVqVVVHNllPa3pVNThKX2RNVW81Ry1GeHVEUTgwcXZwNlMxZDFMMHRYWWJreUFsZmtpMEdoRQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 Clip Shows Woman Shot 24 Times, Sparks Debate",
+  "hook": "A viral gameplay video has ignited a fresh controversy over game violence.",
+  "what": "A video circulating online shows a player in GTA 6 shooting a female character 24 times. The clip has led to discussions about the acceptability of murder versus sexual assault in video games.",
+  "why": "Young gamers and parents are urged to think about the impact of such content; some influencers suggest keeping the game away from minors.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "violence",
+   "parents",
+   "debate"
+  ]
+ },
+ "ml": {
+  "headline": "GTA 6‑ലെ ക്ലിപ്പില്‍ സ്ത്രീയെ 24 തവണ വെടിവെച്ചു, ചര്‍ച്ചയ്ക്ക് ഇടയാക്കി",
+  "hook": "വൈറല്‍ ഗെയിംപ്ലേ വീഡിയോയില്‍ ഹിംസാ വിഷയത്തില്‍ പുതിയ ചർച്ചകള്‍ ഉണര്‍ന്നു.",
+  "what": "ഓണ്‍ലൈനില്‍ ചുറ്റി വരുന്ന ഒരു വീഡിയോയില്‍ GTA 6‑ല്‍ ഒരു പ്ലെയര്‍ സ്ത്രീ കഥാപാത്രത്തെ 24 തവണ വെടിവെക്കുന്നത് കാണിക്കുന്നു. ഈ ക്ലിപ്പ് ഗെയിമിലെ കൊലപാതകവും ലൈംഗിക ആക്രമണവും തമ്മിലുള്ള അംഗീകാരം സംബന്ധിച്ച് ചര്‍ച്ചകള്‍ സൃഷ്ടിച്ചു.",
+  "why": "യുവജനങ്ങളും മാതാപിതാക്കളും ഇത്തരം ഉള്ളടക്കത്തിന്റെ സ്വാധീനം പരിഗണിക്കണം; ചില ഇന്‍ഫ്ലുവന്‍സര്‍മാര്‍ ഈ ഗെയിം കുട്ടികളില്‍ നിന്ന് അകലെയാക്കാന്‍ ഉപദേശിക്കുന്നു.",
+  "tags": [
+   "GTA6",
+   "ഗെയിമിംഗ്",
+   "ഹിംസ",
+   "മാതാപിതാക്കൾ",
+   "ചർച്ച"
+  ]
+ }
+}

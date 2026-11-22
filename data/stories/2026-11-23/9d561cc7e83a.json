@@ -1,0 +1,37 @@
+{
+ "id": "9d561cc7e83a",
+ "created": "2026-11-23T03:46:15+05:30",
+ "category": "entertainment",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "‘You Can See Everything’ documentary crosses $100M globally",
+  "hook": "A new doc on a Silicon Valley scandal is booming worldwide.",
+  "what": "The documentary ‘You Can See Everything’ about Elizabeth Holmes has earned over $100 million worldwide. It is now being released in international markets.",
+  "why": "Its popularity highlights strong interest in tech‑industry stories, and Indian viewers can stream it to learn about entrepreneurship risks.",
+  "tags": [
+   "docu",
+   "tech",
+   "streaming",
+   "entrepreneurship",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "‘You Can See Everything’ ഡോക്യുമെന്ററി $100M ഗ്ലോബലായി നേടി",
+  "hook": "സിലിക്കൺ വാലി വിവാദത്തെക്കുറിച്ചുള്ള പുതിയ ഡോക്യുമെന്ററി ലോകമെമ്പാടും ഹിറ്റ് ആകുന്നു.",
+  "what": "‘You Can See Everything’ എന്ന എലിസബത്ത് ഹോംസ് ഡോക്യുമെന്ററി $100 മില്യൺ‌ക്ക് മുകളിൽ വരുമാനം നേടി. ഇപ്പോൾ ഇത് അന്താരാഷ്ട്രമായി റിലീസ് ചെയ്യപ്പെടുന്നു.",
+  "why": "ഇത് ടെക്‌സ്റ്റാർട്ടപ്പുകളുടെ അപകടങ്ങളെക്കുറിച്ച് യുവാക്കൾക്ക് അറിവ് നൽകുന്നു, ഇന്ത്യയിൽ സ്ട്രീം ചെയ്ത് കാണാം.",
+  "tags": [
+   "ഡോക്യു",
+   "ടെക്",
+   "സ്റ്റ്രീമിംഗ്",
+   "ഉദ്യമം",
+   "ഇന്ത്യ"
+  ]
+ }
+}
