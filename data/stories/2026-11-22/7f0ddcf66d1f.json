@@ -1,0 +1,37 @@
+{
+ "id": "7f0ddcf66d1f",
+ "created": "2026-11-22T20:28:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/indias-diversity-is-amazing-putin-praises-indian-civilisation-linguistic-diversity-recalls-conversation-with-pm-modi-101795354092820.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Putin lauds India's rich civilisation and language diversity",
+  "hook": "Putin says he’s stunned by how many Indians speak the main language",
+  "what": "Russian President Vladimir Putin praised India’s civilisation and its linguistic variety. He recalled a recent chat with Prime Minister Narendra Modi about the large number of Indians speaking the country’s main language, expressing amazement at the response.",
+  "why": "It highlights India’s cultural influence on the world stage, giving young Indians a reason to feel proud of their heritage.",
+  "tags": [
+   "India",
+   "Putin",
+   "language",
+   "culture",
+   "Modi"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിൻ ഇന്ത്യയുടെ സമ്പന്ന സിവിലിസേഷനും ഭാഷാ വൈവിധ്യവും പ്രശംസിച്ചു",
+  "hook": "ലോക നേതാവ് ഇന്ത്യയിലെ പ്രധാന ഭാഷ സംസാരിക്കുന്നവരുടെ എണ്ണം കൊണ്ട് അത്ഭുതപ്പെട്ടു",
+  "what": "റഷ്യൻ പ്രസിഡണ്ട് വ്ലാദിമിർ പുതിൻ ഇന്ത്യയുടെ സിവിലിസേഷനും ഭാഷാ വൈവിധ്യവും പ്രശംസിച്ചു. പ്രധാന ഭാഷ സംസാരിക്കുന്നവരുടെ വലിയ എണ്ണം സംബന്ധിച്ച് അദ്ദേഹം പ്രധാനമന്ത്രി മോഡിയുമായി നടത്തിയ സംഭാഷണം ഓർമ്മിച്ചു, അതിൽ അദ്ദേഹം അത്ഭുതപ്പെട്ടു.",
+  "why": "ഇന്ത്യയുടെ സാംസ്കാരിക സ്വാധീനം ലോകത്ത് ശ്രദ്ധ നേടുന്നു; യുവജനങ്ങൾക്ക് സ്വന്തം പൈതൃകം അഭിമാനത്തോടെ കാണാൻ ഇത് സഹായിക്കുന്നു.",
+  "tags": [
+   "ഇന്ത്യ",
+   "പുതിൻ",
+   "ഭാഷ",
+   "സംസ്‌കാരം",
+   "മോഡി"
+  ]
+ }
+}

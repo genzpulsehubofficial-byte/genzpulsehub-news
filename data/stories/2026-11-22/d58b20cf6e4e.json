@@ -1,0 +1,37 @@
+{
+ "id": "d58b20cf6e4e",
+ "created": "2026-11-22T20:28:28+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "India Today",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzRPTTJrRjVGUktHSjhsWGMzcUUybW5MME5DSV9Bd0hfeUJmVGVLbWdEeFJtMFc1NmJCbGQtN1l4UTc0ajBtMjdObXloOFg4Qk90UHQwTjMyeVpRUDRkb05VdHdIZzZXSElyeWxtQWlyVEVxd2h4aVN6UU5jWjMxZm1yd2hkdXNjYWVYNEJjLUFGWUpJby1ENXdIejluemJsbXl6YjJCQWxQRjRVekpxMtIBtgFBVV95cUxQcFlZNzNONE1GYVFTWERYYUxfa044X3lRenNNY2o4T2ExR3BIRFYtVGQtTVJDSER5c0NXYUtGRXhGSC0tVVlFQU50d0dZM0lZaVpkRDZBX3M3N3V0SXZQM0lvcnBhVUNKRVV2V0RHdXJlS1dkTEg2TnlOVllFWVpDTklMZGtSUmt6VlFRS3hGcTJETmZESEhPZURaYTdoSnRmek1XbGFDWlI4VldMMXlxRVpqaVpWdw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Tharoor Plays GTA 6, Calls Demonetisation ‘Grand Theft’",
+  "hook": "A parliamentarian’s gaming session sparks a political jab.",
+  "what": "Shashi Tharoor posted a video of himself playing the new Grand Theft Auto VI. While navigating the game, he quipped that India’s 2016 demonetisation resembled a ‘grand theft, without auto.’",
+  "why": "The comment links a popular game to a controversial policy, reminding young voters of past economic moves and encouraging them to stay informed.",
+  "tags": [
+   "gaming",
+   "politics",
+   "demonetisation",
+   "GTA6",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "തറൂർ GTA 6 കളിച്ച്, ഡെമോനെറ്റൈസേഷൻ ‘ഗ്രാൻഡ് തിഫ്റ്റ്’ എന്ന് വിളിച്ചു",
+  "hook": "ഒരു രാഷ്ട്രീയക്കാരന്റെ ഗെയിം സെഷന്‍ സോഷ്യല്‍ മീഡിയയില്‍ ചൂട് പിടിച്ചു.",
+  "what": "ശശി തറൂർ GTA VI കളിക്കുന്ന വീഡിയോ സോഷ്യല്‍ മീഡിയയില്‍ പങ്കുവച്ചു. ഗെയിം കളിക്കുമ്പോൾ 2016‑ലെ ഡെമോനെറ്റൈസേഷൻ ‘ഓട്ടോ ഇല്ലാത്ത ഗ്രാൻഡ് തിഫ്റ്റ്’ എന്ന് അദ്ദേഹം പരാമർശിച്ചു.",
+  "why": "പ്രസിദ്ധമായ ഗെയിം ഉപയോഗിച്ച് ഒരു പ്രധാന നയത്തെ ചൂണ്ടിക്കാണിച്ചതിലൂടെ യുവജനങ്ങൾക്ക് രാഷ്ട്രീയ‑ആർത്ഥിക വിഷയങ്ങൾ ഓർമ്മപ്പെടുത്തുന്നു, അവരെ ജാഗ്രതയോടെ നിലനിർത്താൻ പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "രാഷ്ട്രീയം",
+   "ഡെമോനെറ്റൈസേഷൻ",
+   "GTA6",
+   "ഇന്ത്യ"
+  ]
+ }
+}

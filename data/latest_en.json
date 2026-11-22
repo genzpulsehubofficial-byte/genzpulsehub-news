@@ -1,5 +1,81 @@
 [
  {
+  "id": "7f0ddcf66d1f",
+  "created": "2026-11-22T20:28:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/indias-diversity-is-amazing-putin-praises-indian-civilisation-linguistic-diversity-recalls-conversation-with-pm-modi-101795354092820.html",
+  "headline": "Putin lauds India's rich civilisation and language diversity",
+  "hook": "Putin says he’s stunned by how many Indians speak the main language",
+  "what": "Russian President Vladimir Putin praised India’s civilisation and its linguistic variety. He recalled a recent chat with Prime Minister Narendra Modi about the large number of Indians speaking the country’s main language, expressing amazement at the response.",
+  "why": "It highlights India’s cultural influence on the world stage, giving young Indians a reason to feel proud of their heritage.",
+  "tags": [
+   "India",
+   "Putin",
+   "language",
+   "culture",
+   "Modi"
+  ]
+ },
+ {
+  "id": "3fd4a31cd46b",
+  "created": "2026-11-22T20:28:19+05:30",
+  "category": "sports",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/usharafali-confirms-2-crore-investment-by-rbcin-football-academy/article71731492.ece",
+  "headline": "RBC pumps ₹2 crore into Sharafali’s football academy",
+  "hook": "Big cash boost for a youth football hub.",
+  "what": "The Special Investigation Team found that RBC transferred ₹2 crore to the academy’s account. U. Sharafali is the academy’s managing director.",
+  "why": "Such funding could improve training facilities for aspiring players, offering more opportunities for young talent. Keep an eye on local sports programs for scholarships or trials.",
+  "tags": [
+   "football",
+   "investment",
+   "youthsports",
+   "RBC",
+   "academy"
+  ]
+ },
+ {
+  "id": "1d2beb2407b7",
+  "created": "2026-11-22T20:28:25+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/fight-over-popcorn-salt-kozhikode-beach-cops-attacked-s8s5m35t",
+  "headline": "Popcorn Salt Dispute Sparks Beach Brawl, Police Hurt",
+  "hook": "A missing pinch of salt turned into a fight on Kozhikode shore.",
+  "what": "On November 21, a disagreement over unsalted popcorn at Kozhikode Beach led to a physical clash. Two civil police officers were injured after a kiosk worker allegedly attacked them and fled.",
+  "why": "Such incidents show why minor arguments should stay calm, especially for youths in public places. Stay aware and avoid escalating small disputes.",
+  "tags": [
+   "Kozhikode",
+   "Beach",
+   "Police",
+   "Popcorn",
+   "Kerala"
+  ]
+ },
+ {
+  "id": "d58b20cf6e4e",
+  "created": "2026-11-22T20:28:28+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "India Today",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzRPTTJrRjVGUktHSjhsWGMzcUUybW5MME5DSV9Bd0hfeUJmVGVLbWdEeFJtMFc1NmJCbGQtN1l4UTc0ajBtMjdObXloOFg4Qk90UHQwTjMyeVpRUDRkb05VdHdIZzZXSElyeWxtQWlyVEVxd2h4aVN6UU5jWjMxZm1yd2hkdXNjYWVYNEJjLUFGWUpJby1ENXdIejluemJsbXl6YjJCQWxQRjRVekpxMtIBtgFBVV95cUxQcFlZNzNONE1GYVFTWERYYUxfa044X3lRenNNY2o4T2ExR3BIRFYtVGQtTVJDSER5c0NXYUtGRXhGSC0tVVlFQU50d0dZM0lZaVpkRDZBX3M3N3V0SXZQM0lvcnBhVUNKRVV2V0RHdXJlS1dkTEg2TnlOVllFWVpDTklMZGtSUmt6VlFRS3hGcTJETmZESEhPZURaYTdoSnRmek1XbGFDWlI4VldMMXlxRVpqaVpWdw?oc=5",
+  "headline": "Tharoor Plays GTA 6, Calls Demonetisation ‘Grand Theft’",
+  "hook": "A parliamentarian’s gaming session sparks a political jab.",
+  "what": "Shashi Tharoor posted a video of himself playing the new Grand Theft Auto VI. While navigating the game, he quipped that India’s 2016 demonetisation resembled a ‘grand theft, without auto.’",
+  "why": "The comment links a popular game to a controversial policy, reminding young voters of past economic moves and encouraging them to stay informed.",
+  "tags": [
+   "gaming",
+   "politics",
+   "demonetisation",
+   "GTA6",
+   "India"
+  ]
+ },
+ {
   "id": "0db7b717ca2c",
   "created": "2026-11-22T19:37:12+05:30",
   "category": "money",
@@ -677,79 +753,6 @@
    "360Audio",
    "Tech",
    "Music"
-  ]
- },
- {
-  "id": "d44b980db559",
-  "created": "2026-11-22T13:14:28+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/two-army-personnel-wives-and-3-children-among-7-killed-in-gujarat-truck-car-collision-101795332000265.html",
-  "headline": "Truck-car crash in Kutch kills seven, including army families",
-  "hook": "A tragic collision in Gujarat claims the lives of two soldiers and their families.",
-  "what": "A car hit a truck in Gujarat's Kutch district, resulting in seven deaths. The victims were from two Uttarakhand families, comprising two serving army personnel, their spouses and three children.",
-  "why": "The incident highlights road safety concerns for young Indians and the need to drive responsibly, especially when armed forces members are involved.",
-  "tags": [
-   "GujaratAccident",
-   "RoadSafety",
-   "ArmyFamilies"
-  ]
- },
- {
-  "id": "680d31e0cf5d",
-  "created": "2026-11-22T13:14:31+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
-  "headline": "Indian man taken into ICE custody after Texas sentence",
-  "hook": "ICE steps in right after his prison term ends",
-  "what": "Raghul Anandakrishnan, an Indian-origin resident, was moved from a Texas county jail to ICE custody on Nov 22. He had finished a prison term for a visual recording conviction.",
-  "why": "The incident shows that immigration authorities can act after criminal convictions, so Indian nationals in the US should stay informed about legal consequences.",
-  "tags": [
-   "ICE",
-   "Texas",
-   "Immigration",
-   "Legal"
-  ]
- },
- {
-  "id": "222dfc08d063",
-  "created": "2026-11-22T13:14:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/why-investors-show-preference-for-mutual-funds-fixed-deposits-expert-explains-fds-remain-king-of-fixed-income-11795325467250.html",
-  "headline": "Urban Indians Split Between Mutual Funds and Fixed Deposits",
-  "hook": "Most young savers are already using digital platforms.",
-  "what": "A survey of 1,212 urban adults found that 83% are saving or investing, with 80% doing it online. About 65% start investing before age 30. Mutual funds and fixed deposits are almost equally popular among them.",
-  "why": "Knowing this split helps teens decide where to grow their money early, and shows digital tools are key for starting early.",
-  "tags": [
-   "saving",
-   "investing",
-   "mutualfunds",
-   "fixeddeposit",
-   "digital"
-  ]
- },
- {
-  "id": "794753b87c62",
-  "created": "2026-11-22T13:14:36+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/lifestyle/health/what-is-membranous-nephropathy-symptoms-causes-fairness-cream-keralam-jgu5zohd",
-  "headline": "Membranous Nephropathy: Kidney Issue Linked to Fairness Cream Cases",
-  "hook": "Your kidneys could be at risk from popular creams.",
-  "what": "Membranous nephropathy is a kidney disorder that damages the filtering membranes. Recent reports in Kerala have linked several cases of this disease to the use of certain fairness creams. Health officials are outlining its symptoms, causes, diagnosis and treatment.",
-  "why": "Teens using skin‑lightening products should watch for kidney‑related symptoms and consult a doctor if they appear.",
-  "tags": [
-   "kidneyhealth",
-   "fairnesscream",
-   "kerala",
-   "healthawareness",
-   "membranousnephropathy"
   ]
  }
 ]

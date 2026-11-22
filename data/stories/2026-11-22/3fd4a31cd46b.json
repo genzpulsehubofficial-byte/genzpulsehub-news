@@ -1,0 +1,37 @@
+{
+ "id": "3fd4a31cd46b",
+ "created": "2026-11-22T20:28:19+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/usharafali-confirms-2-crore-investment-by-rbcin-football-academy/article71731492.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "RBC pumps ₹2 crore into Sharafali’s football academy",
+  "hook": "Big cash boost for a youth football hub.",
+  "what": "The Special Investigation Team found that RBC transferred ₹2 crore to the academy’s account. U. Sharafali is the academy’s managing director.",
+  "why": "Such funding could improve training facilities for aspiring players, offering more opportunities for young talent. Keep an eye on local sports programs for scholarships or trials.",
+  "tags": [
+   "football",
+   "investment",
+   "youthsports",
+   "RBC",
+   "academy"
+  ]
+ },
+ "ml": {
+  "headline": "RBC 2 കോടി രൂപ ഷറഫാലിയുടെ ഫുട്ബോൾ അക്കാദമിയിലേക്ക്",
+  "hook": "യുവ ഫുട്ബോൾ കേന്ദ്രത്തിന് വലിയ നിക്ഷേപം",
+  "what": "സ്പെഷ്യൽ ഇൻവെസ്റ്റിഗേഷൻ ടീം കണ്ടെത്തിയത്, RBC അക്കാദമിയുടെ അക്കൗണ്ടിലേക്ക് 2 കോടി രൂപ മാറ്റിയതായി. യു. ഷറഫാലി ആ അക്കാദമിയുടെ മാനേജിംഗ് ഡയറക്ടർ ആണ്.",
+  "why": "ഇത്തരം നിധി പരിശീലന സൗകര്യങ്ങൾ മെച്ചപ്പെടുത്താൻ സഹായിക്കും, യുവ കളിക്കാർക്ക് കൂടുതൽ അവസരങ്ങൾ നൽകും. സ്‌പോർട്‌സ് പ്രോഗ്രാമുകളിൽ സ്കോളർഷിപ്പ് അല്ലെങ്കിൽ ട്രയൽസ് നോക്കുക.",
+  "tags": [
+   "ഫുട്ബോൾ",
+   "നിക്ഷേപം",
+   "യുവസ്പോർട്‌സ്",
+   "RBC",
+   "അക്കാദമി"
+  ]
+ }
+}

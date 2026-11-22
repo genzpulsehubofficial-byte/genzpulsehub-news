@@ -1,0 +1,37 @@
+{
+ "id": "1d2beb2407b7",
+ "created": "2026-11-22T20:28:25+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/fight-over-popcorn-salt-kozhikode-beach-cops-attacked-s8s5m35t",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Popcorn Salt Dispute Sparks Beach Brawl, Police Hurt",
+  "hook": "A missing pinch of salt turned into a fight on Kozhikode shore.",
+  "what": "On November 21, a disagreement over unsalted popcorn at Kozhikode Beach led to a physical clash. Two civil police officers were injured after a kiosk worker allegedly attacked them and fled.",
+  "why": "Such incidents show why minor arguments should stay calm, especially for youths in public places. Stay aware and avoid escalating small disputes.",
+  "tags": [
+   "Kozhikode",
+   "Beach",
+   "Police",
+   "Popcorn",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "പോപ്പ്‌കോൺ ഉപ്പില്ലായ്മയാൽ കടലോരത്തിൽ പൊട്ടിപ്പുറപ്പെട്ട പോരാട്ടം, പോലീസ് പരിക്കേറ്റു",
+  "hook": "കൊഴികോഡ് കടലിൽ ഒരു ഉപ്പില്ലാത്ത പോപ്പ്‌കോൺ കാരണമായി കലഹം.",
+  "what": "നവംബർ 21ന്, കൊഴിക്കോഡ് കടലോരത്തിൽ ഉപ്പില്ലാത്ത പോപ്പ്‌കോൺ സംബന്ധിച്ച ചെറിയ തർക്കം ശാരീരികമയമായ പൊട്ടിത്തെറിവിലേക്ക് മാറി. ഒരു കിയോസ്ക് തൊഴിലാളി പോലീസ് ഉദ്യോഗസ്ഥരിൽ രണ്ട് പേർക്ക് പരിക്ക് വരുത്തി, ശേഷം ഓടി പോയതായി ആരോപണം.",
+  "why": "ഇത്തരത്തിലുള്ള സംഭവങ്ങൾ ചെറുതായ തർക്കങ്ങളും എളുപ്പത്തിൽ വലുതാക്കാതിരിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു; യുവാക്കൾ പൊതുസ്ഥലങ്ങളിൽ ശാന്തത പാലിക്കണം.",
+  "tags": [
+   "കൊഴികോഡ്",
+   "കടലോരം",
+   "പോലീസ്",
+   "പോപ്പ്‌കോൺ",
+   "കേരളം"
+  ]
+ }
+}
