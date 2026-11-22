@@ -1,0 +1,37 @@
+{
+ "id": "d85828f828db",
+ "created": "2026-11-22T17:42:43+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-why-employees-want-50-da-merged-with-basic-pay-before-fitment-factor-calculation-11795347645844.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Employees push to merge 50% DA with basic pay",
+  "hook": "A tweak in pay rules could boost future salaries.",
+  "what": "The BPMS union has asked the 8th Pay Commission to combine half of the current Dearness Allowance with basic salary and pension before finalising the new pay structure. The suggestion aims to increase the salary base used for the fitment factor, but it still needs government clearance.",
+  "why": "If approved, it could raise the reference salary for many workers, affecting future raises and pensions, which may impact young job seekers and their families.",
+  "tags": [
+   "paycommission",
+   "salary",
+   "DA",
+   "government",
+   "employees"
+  ]
+ },
+ "ml": {
+  "headline": "ഉദ്യോഗസ്ഥർ 50% DA‑യെ അടിസ്ഥാന ശമ്പളത്തോട് കൂട്ടിച്ചേർക്കാൻ ആവശ്യപ്പെടുന്നു",
+  "hook": "ശമ്പള നിയമത്തിലെ ഒരു മാറ്റം ഭാവി വേതനങ്ങളെ ഉയർത്താം",
+  "what": "BPMS യൂണിയൻ 8th Pay Commission‑നെ നിലവിലുള്ള ഡിയറ്നസ് അലവൻസ്‌ന്റെ 50% അടിസ്ഥാന ശമ്പളത്തിലും പെൻഷനിലും കൂട്ടിച്ചേർക്കാൻ ആവശ്യപ്പെട്ടു. ഇത് ഫിറ്റ്‌മെന്റ് ഫാക്ടർ കണക്കാക്കാൻ ഉപയോഗിക്കുന്ന ശമ്പള അടിസ്ഥാനത്തെ ഉയർത്താൻ ലക്ഷ്യമിടുന്നു, പക്ഷേ ഇതിന് സർക്കാർ അനുമതി വേണ്ടതാണ്.",
+  "why": "അംഗീകൃതമാകുന്നുവെങ്കിൽ, പല തൊഴിലാളികളുടെ അടിസ്ഥാന ശമ്പളവും പെൻഷനും ഉയരും, ഇത് യുവ ജോലിക്കാരുടെയും കുടുംബങ്ങളുടെയും ഭാവി വേതനത്തെ ബാധിക്കും.",
+  "tags": [
+   "paycommission",
+   "salary",
+   "DA",
+   "government",
+   "employees"
+  ]
+ }
+}

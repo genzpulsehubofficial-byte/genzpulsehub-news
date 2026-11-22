@@ -1,5 +1,98 @@
 [
  {
+  "id": "31134503eba3",
+  "created": "2026-11-22T17:41:40+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/ems-namboodiripad-s-daughter-radha-dies-101795340062888.html",
+  "headline": "EMS Namboodiripad’s daughter Radha passes away",
+  "hook": "A prominent political family faces a tragic loss.",
+  "what": "Radha, the daughter of EMS Namboodiripad, has died. The news was reported recently.",
+  "why": "The death marks a personal tragedy for a well‑known family, reminding us of the human side behind public figures.",
+  "tags": [
+   "EMS",
+   "Radha",
+   "loss"
+  ]
+ },
+ {
+  "id": "d85828f828db",
+  "created": "2026-11-22T17:42:43+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-why-employees-want-50-da-merged-with-basic-pay-before-fitment-factor-calculation-11795347645844.html",
+  "headline": "Employees push to merge 50% DA with basic pay",
+  "hook": "A tweak in pay rules could boost future salaries.",
+  "what": "The BPMS union has asked the 8th Pay Commission to combine half of the current Dearness Allowance with basic salary and pension before finalising the new pay structure. The suggestion aims to increase the salary base used for the fitment factor, but it still needs government clearance.",
+  "why": "If approved, it could raise the reference salary for many workers, affecting future raises and pensions, which may impact young job seekers and their families.",
+  "tags": [
+   "paycommission",
+   "salary",
+   "DA",
+   "government",
+   "employees"
+  ]
+ },
+ {
+  "id": "e02be9877a2a",
+  "created": "2026-11-22T17:42:49+05:30",
+  "category": "exams",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jkssb-exam-cheating-racket-six-more-arrested-six-government-employees-among-accused/article71731253.ece",
+  "headline": "JKSSB cheating ring sees six more arrests, includes govt staff",
+  "hook": "Exam paper leaked on Telegram, police nab more culprits",
+  "what": "Police arrested six additional people in a cheating network tied to the JKSSB exam. The scheme allegedly involved removing the question paper from the test centre, photographing it and sharing it via Telegram with selected candidates. Six government employees are among those charged.",
+  "why": "Such fraud harms fair competition for jobs that many young Indians aspire to, so staying alert and reporting irregularities is important. Focus on honest preparation for exams.",
+  "tags": [
+   "exams",
+   "cheating",
+   "JKSSB",
+   "telegram",
+   "arrests"
+  ]
+ },
+ {
+  "id": "9dd0dccc3289",
+  "created": "2026-11-22T17:42:53+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+  "headline": "Aakasamlo Oka Tara’s Day 3 Box Office Report",
+  "hook": "The Telugu drama sees mixed reactions and modest earnings.",
+  "what": "Day three earnings were reported after the film showed strong growth on its second day, almost matching the opening of ‘Sita Ramam’. Reviews highlighted Dulquer Salmaan and Satvika Veeravalli’s performances, while filmmaker Arun Gopy praised Salmaan’s appeal to non‑Malayali viewers.",
+  "why": "Understanding its performance helps young movie‑goers decide if the film is worth watching now or later.",
+  "tags": [
+   "AakasamloOkaTara",
+   "DulquerSalmaan",
+   "TeluguCinema",
+   "BoxOffice",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "ae645419da94",
+  "created": "2026-11-22T17:42:55+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "DD News",
+  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXh3TzNoMzlRS194V2dOUlhrbEwtY3oxUko2dFBILTZEUllhRnFwd3QxQU5tWGNMeWJHb2NlTXZhcXIzMXRBekwtb1A2dDBGZVZNX0xZb2FqT1h3czQycFYwR2JEd3UtdHJwRU1oTmxCMVN0aFVaeV9hejhVR0Fkd1c5Ull0TXV1bU5iUFVJOUlJdFQ3OHB3d0QwNVhETVRQWnVaLTdxdE1XRE1ydVQ1NzlHN0dxdlVtUkhfbw?oc=5",
+  "headline": "India pivots to preventive and precision health research",
+  "hook": "The nation is now focusing on early detection and personalized care.",
+  "what": "India is redirecting its health research agenda toward preventive strategies and precision medicine, using molecular and genetic methods. This shift highlights the country's growing role as a global centre for diabetes research and innovation. The priorities were underscored at the Health Summit 2026.",
+  "why": "Early detection and tailored treatments can improve health outcomes for young people, especially for diabetes. Staying aware of preventive health options helps teens take charge of their wellbeing.",
+  "tags": [
+   "health",
+   "prevention",
+   "precisionMedicine",
+   "diabetes",
+   "research"
+  ]
+ },
+ {
   "id": "f23f1afaea78",
   "created": "2026-11-22T16:49:31+05:30",
   "category": "kerala",
@@ -654,101 +747,6 @@
    "weather",
    "climate",
    "alert"
-  ]
- },
- {
-  "id": "c4c554eefdc1",
-  "created": "2026-11-22T10:58:35+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-poor-aqi-minimum-temperature-settles-at-118c/article71730652.ece",
-  "headline": "Delhi's AQI hits 'poor' levels, temps dip to 11.8°C",
-  "hook": "Breathing in Delhi? Air quality just got worse.",
-  "what": "Delhi's air quality index reached the 'poor' category, while the minimum temperature settled at 11.8°C. The highest AQI reading was 377 at IGNOU-Maidan Garhi, followed by 340 in Uttam Nagar.",
-  "why": "Poor air quality can affect health, especially for students and outdoor activities. Teens should consider wearing masks and limiting prolonged exposure.",
-  "tags": [
-   "Delhi",
-   "AQI",
-   "AirQuality",
-   "Health",
-   "Weather"
-  ]
- },
- {
-  "id": "32f39f3daf99",
-  "created": "2026-11-22T10:58:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPSFFyYlEwRDF5U1psMTRxWTc5bUJRYmhtTXRqZEpvOE55YmFDZ3NLalNaWVpoUlZ0YzNtaVg5b3g4RFNjRGM0dFRjYncwSnpBSFhJX1V5SHNidmF2U1pteEJISHNmU3pOLTh5dFJ5ZU5OQVRPM1BCbDdIWGxuUlFaaEhPcHJydUstTml5T3hHaU9HT19TcHVzVmQxRGw5ZFRuMFNWSFBRWHV4NXZyUk1lNExXcmdjVEdUWlVTekhVTWVTVlhDbThoNVJkMkhFcmh3X0dwMUdBa2J6Y3BRdmdIRnRGS3B4VnJpeUR1bHozbVBnUkFuS1BKRXdaVnlHcTdpT1lGM1dtNnZPYWRrc0dLXzZHcGtqd2M4VVI4eWtNSExtMnVlQ1FRcmxEVW03UEJOd21iZVVBR0NzTkxpX1g3dU5KTVJoTWwwa3dJb1liVkJiMDZNUmowMFM1ZTdmYjZPY1d1bUtaRjFLNnFjQnNyS0tLVVVTLVF3Q1otSkZKSWtXMjlhbVNxZ011SDRxeGtEUENBZFNCQTNGbFJYajk0S3hBNEhtVUpDSXpsQQ?oc=5",
-  "headline": "Gold down 4.5%, silver down 6.6% in a day",
-  "hook": "Prices of both precious metals slumped, catching shoppers off guard.",
-  "what": "Gold fell to about Rs 1.21 lakh, a 4.49% drop. Silver slipped to Rs 1.47 lakh, down 6.6% in the same session. The fall came as wedding‑season shoppers were expected to boost demand.",
-  "why": "Lower prices may tempt first‑time buyers, but experts advise waiting as prices could move again. Teens planning big purchases should keep an eye on the trend before deciding.",
-  "tags": [
-   "gold",
-   "silver",
-   "prices",
-   "festive",
-   "shopping"
-  ]
- },
- {
-  "id": "38c45bec7c1d",
-  "created": "2026-11-22T09:56:43+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzgzZFhZa0NXR0x1SWhqV0JvSVZFVmVmcXlYM2JtRUNaak93ODlwY0szMVZrR1g4Q0RkSDhEQmRGcnFkU25iZXAyMHdRLWJfOVotVFBHUk9xWjl2QTZ4b1M2ZXNFRVQtV1pWVE0wNHlCWUJ1LW8yZFNpYUhNYTFXU0ppRHRhTHlZWWs1OERJSkZ4X2x6OFNweDU1Vmw0cERIZDh4eXA0aXNPUEM5bVBTRWdUY3ZaVEd4NHRzdktzckktejZISThnM2JIdXU4M2dtVzVrbXNMN0JPZmlGZW9n?oc=5",
-  "headline": "Pilgrims' car hits parked truck, nine dead in Kota",
-  "hook": "A family tragedy on the highway leaves many grieving.",
-  "what": "A vehicle carrying devotees from Khatu Shyam temple collided with a stationary truck on a Rajasthan highway. The crash killed at least nine members of a Maharashtra family and injured several others.",
-  "why": "Road safety is crucial for young travelers; always stay alert and follow traffic rules.",
-  "tags": [
-   "roadaccident",
-   "Kota",
-   "pilgrimage",
-   "safety",
-   "news"
-  ]
- },
- {
-  "id": "f06c99912557",
-  "created": "2026-11-22T09:57:02+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/pak-minister-musadik-malik-at-delhi-sco-event-purana-qila-a-story-of-1-wall-2-rivals-12360124#publisher=newsstand",
-  "headline": "Pak minister calls Purana Qila a tale of two rivals",
-  "hook": "A Pakistani official links Delhi’s historic fort to rivalry.",
-  "what": "During the SCO meeting in Delhi, Pakistan’s minister Malik said Purana Qila represents one wall and two rivals. The comment was shared by his office on X.",
-  "why": "Understanding such statements helps youths grasp regional narratives that shape media and diplomatic talk. Stay informed and verify sources.",
-  "tags": [
-   "SCO",
-   "Delhi",
-   "PuranaQila",
-   "Pakistan",
-   "India"
-  ]
- },
- {
-  "id": "45281b632d55",
-  "created": "2026-11-22T09:57:07+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-benz-crash-car-owner-judge-says-son-took-it-without-his-knowledge-urges-mvd-not-to-suspend-rc-adpujtv8",
-  "headline": "Judge says son drove Mercedes without his consent, asks to keep RC",
-  "hook": "A court plea could spare a family’s car registration after a crash.",
-  "what": "In the Cheranalloor collision, the judge told the Ernakulam RTO that his minor son had taken the Mercedes-Benz without his permission. He asked the Motor Vehicles Department not to cancel the vehicle’s registration certificate.",
-  "why": "Young drivers need parental oversight; keeping the RC avoids extra paperwork and fees. Teens should get proper consent before using family cars.",
-  "tags": [
-   "Kochi",
-   "roadSafety",
-   "legal",
-   "RC",
-   "Mercedes"
   ]
  }
 ]

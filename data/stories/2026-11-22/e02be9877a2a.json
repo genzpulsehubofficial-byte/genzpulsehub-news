@@ -1,0 +1,37 @@
+{
+ "id": "e02be9877a2a",
+ "created": "2026-11-22T17:42:49+05:30",
+ "category": "exams",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jkssb-exam-cheating-racket-six-more-arrested-six-government-employees-among-accused/article71731253.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "JKSSB cheating ring sees six more arrests, includes govt staff",
+  "hook": "Exam paper leaked on Telegram, police nab more culprits",
+  "what": "Police arrested six additional people in a cheating network tied to the JKSSB exam. The scheme allegedly involved removing the question paper from the test centre, photographing it and sharing it via Telegram with selected candidates. Six government employees are among those charged.",
+  "why": "Such fraud harms fair competition for jobs that many young Indians aspire to, so staying alert and reporting irregularities is important. Focus on honest preparation for exams.",
+  "tags": [
+   "exams",
+   "cheating",
+   "JKSSB",
+   "telegram",
+   "arrests"
+  ]
+ },
+ "ml": {
+  "headline": "JKSSB ചീട്ടിംഗ് റിംഗ്: ആറു അധികം അറസ്റ്റുകൾ, സർക്കാർ ജീവനക്കാരും ഉൾപ്പെടെ",
+  "hook": "പരീക്ഷാ പേപ്പർ ടെലിഗ്രാമിൽ ചോർന്ന്, പോലീസ് കൂടുതൽ കുറ്റവാളികളെ പിടിച്ചു",
+  "what": "പോലീസ് ജെകെഎസ്‌എസ്‌ബി പരീക്ഷയിൽ ചീട്ടിംഗ് നടത്തുന്ന ഒരു കൂട്ടത്തിൽ ആറു പേർ കൂടി അറസ്റ്റു ചെയ്തു. ചോദ്യം പേപ്പർ പരീക്ഷാ മുറിയിൽ നിന്ന് പുറത്തെടുത്ത്, ഫോട്ടോ എടുത്ത്, ടെലിഗ്രാമിലൂടെ ചില ഉദ്യോഗാർത്ഥികളിലേക്ക് പങ്കുവെച്ചതായി ആരോപണം. ഈ കേസിൽ ആറു സർക്കാർ ജീവനക്കാരും ഉൾപ്പെട്ടിട്ടുണ്ട്.",
+  "why": "ഇത്തരത്തിലുള്ള ചീട്ടിംഗ് നീതിയുള്ള ജോലി മത്സരത്തെ ബാധിക്കുന്നു, അതിനാൽ അന്യായ പ്രവർത്തനങ്ങൾ കണ്ടാൽ ഉടൻ റിപ്പോർട്ട് ചെയ്യുക. പരീക്ഷകൾക്ക് സത്യസന്ധമായി തയ്യാറെടുക്കുക.",
+  "tags": [
+   "exams",
+   "cheating",
+   "JKSSB",
+   "telegram",
+   "arrests"
+  ]
+ }
+}

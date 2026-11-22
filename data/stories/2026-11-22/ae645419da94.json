@@ -1,0 +1,37 @@
+{
+ "id": "ae645419da94",
+ "created": "2026-11-22T17:42:55+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "DD News",
+ "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXh3TzNoMzlRS194V2dOUlhrbEwtY3oxUko2dFBILTZEUllhRnFwd3QxQU5tWGNMeWJHb2NlTXZhcXIzMXRBekwtb1A2dDBGZVZNX0xZb2FqT1h3czQycFYwR2JEd3UtdHJwRU1oTmxCMVN0aFVaeV9hejhVR0Fkd1c5Ull0TXV1bU5iUFVJOUlJdFQ3OHB3d0QwNVhETVRQWnVaLTdxdE1XRE1ydVQ1NzlHN0dxdlVtUkhfbw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India pivots to preventive and precision health research",
+  "hook": "The nation is now focusing on early detection and personalized care.",
+  "what": "India is redirecting its health research agenda toward preventive strategies and precision medicine, using molecular and genetic methods. This shift highlights the country's growing role as a global centre for diabetes research and innovation. The priorities were underscored at the Health Summit 2026.",
+  "why": "Early detection and tailored treatments can improve health outcomes for young people, especially for diabetes. Staying aware of preventive health options helps teens take charge of their wellbeing.",
+  "tags": [
+   "health",
+   "prevention",
+   "precisionMedicine",
+   "diabetes",
+   "research"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ ആരോഗ്യ ഗവേഷണം പ്രതിരോധവും കൃത്യചികിത്സയിലേക്കു മാറുന്നു",
+  "hook": "രാജ്യം ഇപ്പോൾ പ്രാരംഭ കണ്ടെത്തലും വ്യക്തിഗത പരിചരണവും ലക്ഷ്യമിടുന്നു.",
+  "what": "ഇന്ത്യ ആരോഗ്യ ഗവേഷണത്തെ പ്രതിരോധപരമായ സമീപനങ്ങളിലേക്കും മോലിക്കുലർ, ജെനറ്റിക് രീതികളിലൂടെയുള്ള കൃത്യചികിത്സയിലേക്കും മാറ്റുകയാണ്. ഇതോടെ ഡയബറ്റീസ് ഗവേഷണവും നവോത്ഥാനവും സംബന്ധിച്ച് രാജ്യത്തിന്റെ ആഗോള സ്ഥാനം ശക്തിപ്പെടുന്നു. ഈ ദിശാ-നിർദ്ദേശങ്ങൾ ഹെൽത്ത് സമിറ്റ് 2026-ൽ ചർച്ചയായി.",
+  "why": "പ്രാരംഭ കണ്ടെത്തലും വ്യക്തിഗത ചികിത്സയും യുവജനങ്ങളുടെ ആരോഗ്യഫലങ്ങൾ മെച്ചപ്പെടുത്താൻ സഹായിക്കും, പ്രത്യേകിച്ച് ഡയബറ്റീസ് പോലുള്ള രോഗങ്ങളിൽ. പ്രതിരോധ ആരോഗ്യവികല്പങ്ങളെക്കുറിച്ച് അറിവ് നേടുന്നത് കൗമാരക്കാർക്ക് സ്വന്തം ആരോഗ്യത്തെ നിയന്ത്രിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "ആരോഗ്യം",
+   "പ്രതിരോധം",
+   "കൃത്യചികിത്സ",
+   "ഡയബറ്റീസ്",
+   "ഗവേഷണം"
+  ]
+ }
+}

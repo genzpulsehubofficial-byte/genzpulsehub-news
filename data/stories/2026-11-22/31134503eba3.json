@@ -1,0 +1,33 @@
+{
+ "id": "31134503eba3",
+ "created": "2026-11-22T17:41:40+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/ems-namboodiripad-s-daughter-radha-dies-101795340062888.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "EMS Namboodiripad’s daughter Radha passes away",
+  "hook": "A prominent political family faces a tragic loss.",
+  "what": "Radha, the daughter of EMS Namboodiripad, has died. The news was reported recently.",
+  "why": "The death marks a personal tragedy for a well‑known family, reminding us of the human side behind public figures.",
+  "tags": [
+   "EMS",
+   "Radha",
+   "loss"
+  ]
+ },
+ "ml": {
+  "headline": "EMS Namboodiripad‑ന്റെ മകൾ രാധ മരിച്ചുവെന്ന് അറിയിപ്പുണ്ട്",
+  "hook": "പ്രശസ്ത രാഷ്ട്രീയ കുടുംബം ഒരു ദുർഭാഗ്യകരമായ നഷ്ടം നേരിടുന്നു.",
+  "what": "EMS Namboodiripad‑ന്റെ മകൾ രാധയുടെ മരണത്തെക്കുറിച്ച് വാർത്ത പുറത്തുവന്നു. ഈ സംഭവം അടുത്തിടെ അറിയിക്കപ്പെട്ടു.",
+  "why": "പ്രസിദ്ധ കുടുംബത്തിന്റെ വ്യക്തിപരമായ ദുർഭാഗ്യം യുവജനങ്ങൾക്ക് പൊതുപ്രവർത്തകരുടെ ജീവിതം എത്രയോ സങ്കീർണ്ണമാണെന്ന് ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "EMS",
+   "Radha",
+   "loss"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "9dd0dccc3289",
+ "created": "2026-11-22T17:42:53+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Aakasamlo Oka Tara’s Day 3 Box Office Report",
+  "hook": "The Telugu drama sees mixed reactions and modest earnings.",
+  "what": "Day three earnings were reported after the film showed strong growth on its second day, almost matching the opening of ‘Sita Ramam’. Reviews highlighted Dulquer Salmaan and Satvika Veeravalli’s performances, while filmmaker Arun Gopy praised Salmaan’s appeal to non‑Malayali viewers.",
+  "why": "Understanding its performance helps young movie‑goers decide if the film is worth watching now or later.",
+  "tags": [
+   "AakasamloOkaTara",
+   "DulquerSalmaan",
+   "TeluguCinema",
+   "BoxOffice",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "ആകാശത്തില്‍ ഒരു താറയുടെ മൂന്നാം ദിവസം ബോക്സ് ഓഫീസ്",
+  "hook": "ടെലുങ്ക് ഡ്രാമയ്ക്ക് മിശ്ര പ്രതികരണങ്ങളും മിതമായ വരുമാനവും",
+  "what": "മൂന്നാം ദിവസത്തെ വരുമാനം റിപ്പോർട്ട് ചെയ്തു, രണ്ടാം ദിവസം ശക്തമായ വളർച്ച കാണിച്ച് ‘സീതാ രാമം’യുടെ തുറക്കലിനോട് അടുത്തു. വിമർശകർ ദുൾക്കർ സൽമാനും സത്വിക വീരവല്ലിയും അഭിനയത്തെ പ്രശംസിച്ചു, സംവിധായകൻ അരുണ്‍ ഗോപ്പി ദുൾക്കർ മലയാലി അല്ലാത്ത പ്രേക്ഷകർക്ക് ആകർഷകമാണെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് യുവാക്കൾക്ക് സിനിമ ഇപ്പോൾ കാണണോ, പിന്നെ കാണണോ എന്ന് തീരുമാനിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "AakasamloOkaTara",
+   "DulquerSalmaan",
+   "TeluguCinema",
+   "BoxOffice",
+   "GenZ"
+  ]
+ }
+}
