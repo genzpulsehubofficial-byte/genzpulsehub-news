@@ -1,0 +1,37 @@
+{
+ "id": "c4c554eefdc1",
+ "created": "2026-11-22T10:58:35+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-poor-aqi-minimum-temperature-settles-at-118c/article71730652.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi's AQI hits 'poor' levels, temps dip to 11.8°C",
+  "hook": "Breathing in Delhi? Air quality just got worse.",
+  "what": "Delhi's air quality index reached the 'poor' category, while the minimum temperature settled at 11.8°C. The highest AQI reading was 377 at IGNOU-Maidan Garhi, followed by 340 in Uttam Nagar.",
+  "why": "Poor air quality can affect health, especially for students and outdoor activities. Teens should consider wearing masks and limiting prolonged exposure.",
+  "tags": [
+   "Delhi",
+   "AQI",
+   "AirQuality",
+   "Health",
+   "Weather"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെൽഹിയിലെ AQI 'പൂർ' നിലയിൽ, താപനില 11.8°C",
+  "hook": "ഡെൽഹിയിൽ ശ്വസിക്കാൻ ബുദ്ധിമുട്ടാണോ?",
+  "what": "ഡെൽഹിയുടെ വായു ഗുണനിലവാരം 'പൂർ' വിഭാഗത്തിൽ എത്തിയിട്ടുണ്ട്, കുറഞ്ഞ താപനില 11.8°C ആയി. ഏറ്റവും ഉയർന്ന AQI 377 IGNOU-മൈദാൻ ഗർഹിയിൽ, ഉത്തം നഗറിൽ 340 രേഖപ്പെടുത്തി.",
+  "why": "മലിന വായു ആരോഗ്യത്തെ ബാധിക്കാം, പ്രത്യേകിച്ച് വിദ്യാർത്ഥികൾക്കും പുറം പ്രവർത്തനങ്ങൾക്കും. മാസ്ക് ധരിച്ച്, ദീർഘകാലം പുറത്തു ചെലവിടുന്നത് കുറയ്ക്കുക.",
+  "tags": [
+   "ഡെൽഹി",
+   "AQI",
+   "വായു",
+   "ആരോഗ്യം",
+   "കാലാവസ്ഥ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "0383d7cf8d0b",
+ "created": "2026-11-22T10:58:25+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/crime/court-issues-production-warrant-kochi-arson-case-accused-nia-pti0757gqzm",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "NIA court orders production of Kochi arson suspect",
+  "hook": "The suspect in the Kochi fire faces a new court order.",
+  "what": "A National Investigation Agency court issued a production warrant for Ebin Paul, accused in the Kochi arson case. The warrant follows the agency’s petition to keep him in custody while probing possible terror links.",
+  "why": "It highlights how serious crimes are pursued through legal channels, reminding youths to stay informed about safety and the justice system.",
+  "tags": [
+   "Kochi",
+   "NIA",
+   "court",
+   "arson",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "NIA കോടതിയിൽ കൊച്ചി അഗ്നി കേസിലെ സംശയിതന്‍ പ്രൊഡക്ഷൻ വാർണ്ടു",
+  "hook": "കൊച്ചി അഗ്നി കേസിലെ സംശയിതന്‍ പുതിയ കോടതി ഉത്തരവ് ലഭിച്ചു.",
+  "what": "NIAയുടെ അഭ്യർത്ഥനയ്ക്ക് ശേഷം, കോടതി എബിൻ പോൾക്ക് പ്രൊഡക്ഷൻ വാർണ്ടു പുറപ്പെടുവിച്ചു. അവൻ കൊച്ചി അഗ്നി കേസിൽ കുറ്റക്കാരനായി ആരോപിക്കപ്പെടുന്നു, ഭീകരതുമായി ബന്ധം അന്വേഷിക്കുന്നു.",
+  "why": "ഇത് ഗുരുതര കുറ്റങ്ങളിലേക്കുള്ള അന്വേഷണം തുടരുന്നതിനെ സൂചിപ്പിക്കുന്നു, നിയമപ്രക്രിയയുടെ ഭാഗമാണ്. യുവാക്കൾക്ക് നിയമവിവരങ്ങൾ അറിയാൻ പ്രാധാന്യം.",
+  "tags": [
+   "കൊച്ചി",
+   "NIA",
+   "കോടതി",
+   "അഗ്നി",
+   "കേരളം"
+  ]
+ }
+}

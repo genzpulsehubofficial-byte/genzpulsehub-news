@@ -1,0 +1,37 @@
+{
+ "id": "7a43fd7dd4b7",
+ "created": "2026-11-22T10:58:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/equity-ltcg-tax-abolition-will-scrapping-capital-gains-tax-boost-fpi-inflows-mutual-fund-investments-ca-explains-11795317886212.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Abolishing equity LTCG tax may lure FPIs, boost mutual funds",
+  "hook": "No tax on stock gains could mean bigger returns for you.",
+  "what": "The government is weighing the removal of the long‑term capital gains tax on equity. A Chartered Accountant says this could lift after‑tax returns, bring foreign portfolio investors back, and spur more household money into mutual funds.",
+  "why": "Higher returns can make market investing more appealing for young savers. Watch the policy change before deciding on equity investments.",
+  "tags": [
+   "LTCG",
+   "FPI",
+   "mutualfunds",
+   "taxreform",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "ഇക്വിറ്റി LTCG നികുതി ഒഴിവാക്കുന്നത് FPIs-നെ ആകർഷിക്കാം, മ്യൂച്വൽ ഫണ്ടുകൾക്ക് വളർച്ച നൽകാം",
+  "hook": "സ്റ്റോക്ക് ലാഭത്തിൽ നികുതി ഇല്ലെങ്കിൽ, നിങ്ങളുടെ വരുമാനം കൂടാം.",
+  "what": "സർക്കാർ ഇക്വിറ്റി ലംഘിതകാല മൂലധന ലാഭ നികുതി ഒഴിവാക്കാൻ ചിന്തിക്കുന്നു. ഒരു ചാർട്ടേഡ് അക്കൗണ്ടന്റ് പറയുന്നു, ഇതു ശേഷം‑നികുതി ലാഭം ഉയർത്തുകയും, വിദേശ പോർട്ട്ഫോളിയോ നിക്ഷേപകരെ തിരികെ കൊണ്ടുവരുകയും, കുടുംബ നിക്ഷേപം മ്യൂച്വൽ ഫണ്ടുകളിൽ വർദ്ധിപ്പിക്കുകയും ചെയ്യും.",
+  "why": "വളർന്ന ലാഭം യുവ സംരക്ഷകർക്ക് മാർക്കറ്റ് നിക്ഷേപം കൂടുതൽ ആകർഷകമാക്കും. നികുതി മാറ്റം വരുമ്പോൾ തന്നെ നിങ്ങളുടെ ഇക്വിറ്റി നിക്ഷേപം പ്ലാൻ ചെയ്യുക.",
+  "tags": [
+   "LTCG",
+   "FPI",
+   "മ്യൂച്വൽഫണ്ട്",
+   "നികുതിസംശോധനം",
+   "നിക്ഷേപം"
+  ]
+ }
+}

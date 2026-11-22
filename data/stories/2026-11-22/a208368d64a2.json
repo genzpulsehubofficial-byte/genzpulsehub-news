@@ -1,0 +1,37 @@
+{
+ "id": "a208368d64a2",
+ "created": "2026-11-22T10:58:32+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Three cyclones hit Bay of Bengal in three weeks",
+  "hook": "A rare storm streak is rattling the eastern coast.",
+  "what": "The Bay of Bengal experienced three cyclones within a three‑week span. Such a concentration of storms is unusual but has occurred before.",
+  "why": "Post‑monsoon cyclone activity has risen since the early 2000s, so staying updated on weather alerts is essential for safety.",
+  "tags": [
+   "cyclone",
+   "bayofbengal",
+   "weather",
+   "climate",
+   "alert"
+  ]
+ },
+ "ml": {
+  "headline": "മൂന്ന് സൈക്ലോണ്‍ മൂന്ന് ആഴ്ചയില്‍ ബേ ഓഫ് ബെംഗള്‍ കടന്നു",
+  "hook": "പൂര്‍വ്വം അപൂര്‍വം ആയ ഈ ചുഴലിക്കാറ്റ് സ്ട്രീം കിഴക്കന്‍ തീരം കുലുക്കുന്നു.",
+  "what": "ബേ ഓഫ് ബെംഗളില്‍ മൂന്ന് ആഴ്ചയില്‍ മൂന്ന് സൈക്ലോണ്‍ രൂപം കൊണ്ടു. ഇത്തരമൊരു സാന്ദ്രത അപൂര്‍വം ആണെങ്കിലും മുമ്പും ഉണ്ടായിട്ടുണ്ട്.",
+  "why": "2000‑കളുടെ തുടക്കത്തില്‍ നിന്ന് പോസ്റ്റ്‑മോണ്സൂണ്‍ സൈക്ലോണ്‍ എണ്ണം വര്‍ധിച്ചുകൊണ്ടിരിക്കുന്നു, അതിനാല്‍ കാലാവസ്ഥാ മുന്നറിയിപ്പുകള്‍ ശ്രദ്ധിക്കുക പ്രധാനമാണ്.",
+  "tags": [
+   "cyclone",
+   "bayofbengal",
+   "weather",
+   "climate",
+   "alert"
+  ]
+ }
+}

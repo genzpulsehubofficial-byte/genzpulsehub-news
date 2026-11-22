@@ -1,0 +1,37 @@
+{
+ "id": "32f39f3daf99",
+ "created": "2026-11-22T10:58:38+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPSFFyYlEwRDF5U1psMTRxWTc5bUJRYmhtTXRqZEpvOE55YmFDZ3NLalNaWVpoUlZ0YzNtaVg5b3g4RFNjRGM0dFRjYncwSnpBSFhJX1V5SHNidmF2U1pteEJISHNmU3pOLTh5dFJ5ZU5OQVRPM1BCbDdIWGxuUlFaaEhPcHJydUstTml5T3hHaU9HT19TcHVzVmQxRGw5ZFRuMFNWSFBRWHV4NXZyUk1lNExXcmdjVEdUWlVTekhVTWVTVlhDbThoNVJkMkhFcmh3X0dwMUdBa2J6Y3BRdmdIRnRGS3B4VnJpeUR1bHozbVBnUkFuS1BKRXdaVnlHcTdpT1lGM1dtNnZPYWRrc0dLXzZHcGtqd2M4VVI4eWtNSExtMnVlQ1FRcmxEVW03UEJOd21iZVVBR0NzTkxpX1g3dU5KTVJoTWwwa3dJb1liVkJiMDZNUmowMFM1ZTdmYjZPY1d1bUtaRjFLNnFjQnNyS0tLVVVTLVF3Q1otSkZKSWtXMjlhbVNxZ011SDRxeGtEUENBZFNCQTNGbFJYajk0S3hBNEhtVUpDSXpsQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold down 4.5%, silver down 6.6% in a day",
+  "hook": "Prices of both precious metals slumped, catching shoppers off guard.",
+  "what": "Gold fell to about Rs 1.21 lakh, a 4.49% drop. Silver slipped to Rs 1.47 lakh, down 6.6% in the same session. The fall came as wedding‑season shoppers were expected to boost demand.",
+  "why": "Lower prices may tempt first‑time buyers, but experts advise waiting as prices could move again. Teens planning big purchases should keep an eye on the trend before deciding.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "festive",
+   "shopping"
+  ]
+ },
+ "ml": {
+  "headline": "സ്വര്‍ണ്ണം 4.5% ഇടിഞ്ഞു, വെള്ളി 6.6% ഇടിഞ്ഞു",
+  "hook": "ഇരുവരുടെയും വിലയില്‍ വലിയ ഇടിവ്, ഷോപ്പർമാരെ അമ്പരപ്പിച്ചു.",
+  "what": "സ്വര്‍ണ്ണം ഏകദേശം 1.21 ലക്ഷം രൂപയിലേക്ക്, 4.49% കുറവായി. വെള്ളി 1.47 ലക്ഷം രൂപയിലേക്ക്, 6.6% ഇടിഞ്ഞു. വിവാഹകാല ഷോപ്പർമാരുടെ ആവശ്യം പ്രതീക്ഷിക്കുമ്പോൾ വിലകള്‍ താഴ്ന്നു.",
+  "why": "കുറഞ്ഞ വിലകള്‍ ആദ്യവാങ്ങുന്നവരെ ആകർഷിക്കാം, പക്ഷേ വിദഗ്ധര്‍ വീണ്ടും മാറ്റം വരാം എന്ന് പറഞ്ഞ് കാത്തിരിക്കണമെന്ന് ഉപദേശിക്കുന്നു. വലിയ വാങ്ങലുകള്‍ പ്ലാന്‍ ചെയ്യുന്ന യുവാക്കള്‍ ഈ പ്രവണത നിരീക്ഷിക്കണം.",
+  "tags": [
+   "സ്വര്‍ണ്ണം",
+   "വെള്ളി",
+   "വില",
+   "പെരുമാറ്റം",
+   "ഷോപ്പിംഗ്"
+  ]
+ }
+}

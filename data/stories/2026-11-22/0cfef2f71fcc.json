@@ -1,0 +1,37 @@
+{
+ "id": "0cfef2f71fcc",
+ "created": "2026-11-22T10:58:30+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-train-food-safety-hygiene-railway-officers-dub717m3",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala Train Food Stalls Lacking Cleanliness, Few Inspectors",
+  "hook": "Dirty snacks on the rails could make your journey sick.",
+  "what": "Reports show food vendors on Kerala trains are serving near toilets and beside garbage bins. Only two railway food safety officers are responsible for supervising almost 200 stalls and train services. The poor hygiene has sparked concerns.",
+  "why": "Unsanitary food can cause illness, especially for students traveling daily. Teens should be cautious about where they buy meals on trains and report any violations.",
+  "tags": [
+   "Kerala",
+   "TrainFood",
+   "Hygiene",
+   "Safety",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "കേരള ട്രെയിൻ ഭക്ഷണ സ്റ്റാളുകൾ ശുചിത്വം കുറവാണ്, നിരീക്ഷകർ കുറവാണ്",
+  "hook": "റെയിലിൽ നിന്നുള്ള മലിന സ്നാക്കുകൾ നിങ്ങളുടെ യാത്രയെ അസ്വസ്ഥമാക്കാം.",
+  "what": "റിപ്പോർട്ടുകൾ പ്രകാരം കേരള ട്രെയിനുകളിൽ ഭക്ഷ്യവ്യാപാരികൾ ശൗചാലയത്തിന് സമീപം, മാലിന്യക്കുപ്പികളോട് ചേർന്ന് ഭക്ഷണം വിൽക്കുന്നു. ഏകദേശം 200 സ്റ്റാളുകളും ട്രെയിൻ സേവനങ്ങളും മേൽനോട്ടം വഹിക്കാൻ രണ്ട് ഭക്ഷ്യസുരക്ഷാ ഉദ്യോഗസ്ഥർ മാത്രമാണ്. ഈ ശുചിത്വക്കുറവ് ആശങ്കകൾ ഉയർത്തി.",
+  "why": "മലിന ഭക്ഷണം രോഗം പിടിക്കാൻ കാരണമാകാം, പ്രത്യേകിച്ച് ദിവസേന യാത്ര ചെയ്യുന്ന വിദ്യാർത്ഥികൾക്ക്. ട്രെയിനിൽ ഭക്ഷണം വാങ്ങുമ്പോൾ ജാഗ്രത പാലിച്ച്, ലംഘനങ്ങൾ റിപ്പോർട്ട് ചെയ്യുക.",
+  "tags": [
+   "കേരളം",
+   "ട്രെയിൻഭക്ഷണം",
+   "ശുചിത്വം",
+   "സുരക്ഷ",
+   "യുവാക്കൾ"
+  ]
+ }
+}
