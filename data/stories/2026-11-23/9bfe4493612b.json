@@ -1,0 +1,37 @@
+{
+ "id": "9bfe4493612b",
+ "created": "2026-11-23T05:25:20+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/bangalore/sir-voters-challenge-deletions-say-officials-asking-them-to-withdraw-appeals-file-form-6/article71701977.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Karnataka voters contest removal, allege officials filed Form 6 for them",
+  "hook": "Your vote could be erased without you even knowing.",
+  "what": "In Bengaluru, several voters whose names were removed from the electoral list have filed Form 6 to challenge the deletions. They say election officials asked them to withdraw their appeals and even filed Form 6 on their behalf when they sought reversal.",
+  "why": "If voter records can be deleted unnoticed, it could affect future elections, including student votes. Young people should verify their voter status and seek help if they face similar issues.",
+  "tags": [
+   "Karnataka",
+   "VoterRights",
+   "Election",
+   "Form6",
+   "YouthVote"
+  ]
+ },
+ "ml": {
+  "headline": "Karnataka ಮತದಾರರು ಅಳಿಸುವಿಕೆಗೆ ವಿರೋಧ, ಅಧಿಕಾರಿಗಳು Form 6 ಸಲ್ಲಿಸಿದ್ದಾರೆ",
+  "hook": "നിങ്ങളുടെ വോട്ട് അറിയാതെ നീക്കം ചെയ്യപ്പെടാം",
+  "what": "ബെംഗളൂരുവിലെ ചിലർ അവരുടെ പേരുകൾ തിരഞ്ഞെടുപ്പ് പട്ടികയിൽ നിന്ന് ഒഴിവാക്കിയതായി കണ്ടെത്തി, Form 6 വഴി ഈ നീക്കം ചോദ്യമാക്കി. അവർ പറയുന്നത്, തിരഞ്ഞെടുപ്പ് ഉദ്യോഗസ്ഥർ അവരുടെ അപേക്ഷ പിൻവലിക്കാൻ ആവശ്യപ്പെട്ടു, കൂടാതെ അവരെ സഹായിക്കാൻ Form 6 സ്വയം സമർപ്പിച്ചതാണ്.",
+  "why": "വോട്ടർ ലിസ്റ്റിൽ നിന്നുള്ള അപ്രതീക്ഷിതമായ നീക്കം ഭാവി തിരഞ്ഞെടുപ്പുകളിൽ, യുവജനങ്ങളുടെ വോട്ട്‌വുമുൾപ്പെടെ, ബാധിക്കാം. നിങ്ങളുടെ വോട്ട് സ്ഥിതി പരിശോധിച്ച്, പ്രശ്നം നേരിടുമ്പോൾ സഹായം തേടുക.",
+  "tags": [
+   "Karnataka",
+   "VoterRights",
+   "Election",
+   "Form6",
+   "YouthVote"
+  ]
+ }
+}

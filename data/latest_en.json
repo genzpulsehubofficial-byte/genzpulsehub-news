@@ -1,5 +1,98 @@
 [
  {
+  "id": "9bfe4493612b",
+  "created": "2026-11-23T05:25:20+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/bangalore/sir-voters-challenge-deletions-say-officials-asking-them-to-withdraw-appeals-file-form-6/article71701977.ece",
+  "headline": "Karnataka voters contest removal, allege officials filed Form 6 for them",
+  "hook": "Your vote could be erased without you even knowing.",
+  "what": "In Bengaluru, several voters whose names were removed from the electoral list have filed Form 6 to challenge the deletions. They say election officials asked them to withdraw their appeals and even filed Form 6 on their behalf when they sought reversal.",
+  "why": "If voter records can be deleted unnoticed, it could affect future elections, including student votes. Young people should verify their voter status and seek help if they face similar issues.",
+  "tags": [
+   "Karnataka",
+   "VoterRights",
+   "Election",
+   "Form6",
+   "YouthVote"
+  ]
+ },
+ {
+  "id": "c7cb6f5aca76",
+  "created": "2026-11-23T05:25:25+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/police-in-karnataka-prevent-ys-sharmila-from-entering-disputed-property/article71732226.ece",
+  "headline": "Karnataka police block Congress leader Sharmila at Yelahanka site",
+  "hook": "A court order stopped her from entering the contested land.",
+  "what": "Bengaluru’s North East Division police prevented Y.S. Sharmila, head of the Andhra Pradesh Congress, from stepping onto a disputed property in Yelahanka. The action follows an interim injunction issued by a Devanahalli court.",
+  "why": "It highlights how legal orders can shape political moves; young voters should note the courts’ role in such disputes.",
+  "tags": [
+   "politics",
+   "Karnataka",
+   "court",
+   "youth"
+  ]
+ },
+ {
+  "id": "ac973edcee7b",
+  "created": "2026-11-23T05:25:27+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "CNBC TV18",
+  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEZfYlhWWmItelZTYmRtU3lYc2hjdjFHZ3VRYTRGQU9zZmR1eU9saWtWZkpoQzhfYjdPRkFuQkJfRjJIOEV3MVN4eHgzMmFIMUpFYVc3VGtTZlpjZlViQ3lDbmd6SndGLU9RLTI2STU2UkdON3lVV20taG03UnRPTE1nNFlBVHJIRkREaHpUTDEzeVdoUTNkRDhmbHhCc3BsM3Y0MEd0QnN6YUJH0gGyAUFVX3lxTE1WM3ZCOWJ0V1JNdnJKWGdmWFo5cWZXN3RycVEwT1lCSTFWVTUyUDRFSWVvbDAyWW9DWXlfdTIyWlJhaE5ESVdTSnloa29kanVkOHlNQXlYeDJzQUFrZEJzQWwwdk9wWmpVUG1Td3R1OEVoMnJhZEFRSmNYMm1OR2lCSXJKVWd4V3FoZmo3Mk10RVh6SUpDYUhtZVY2S1hMQVJTQ0MtYXpOTW5DQWRJVnI5dUE?oc=5",
+  "headline": "IMD warns heavy rain in Tamil Nadu, fog across four states",
+  "hook": "Rainy roads and foggy mornings ahead—plan your travel wisely.",
+  "what": "The India Meteorological Department issued a heavy rain alert for Tamil Nadu on November 23. It also issued a dense fog warning covering four states.",
+  "why": "Students and commuters should check local forecasts and consider alternate routes or expect delays.",
+  "tags": [
+   "IMD",
+   "RainAlert",
+   "FogWarning",
+   "TravelTips"
+  ]
+ },
+ {
+  "id": "59c5d609420c",
+  "created": "2026-11-23T05:25:32+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFR0TzVOaS05aDVsUDRxSHNrbXluRkZXbFctblpRTEtzd1FqQUdQUHpPMU80ZFBQMVJ5aDUwS1UyVzgzcU5rZktPR0R5YXFDalhFV2o5UUhwa1NFSXo2Vk8ya0MwR3hiS2w0SVZ4WXREV3JiYlZsc292UTUzTWJqb0dpM1FfT1ExdFVVVXBhSnZNSDhhbEExMjkwMExRRWszbXEtZ25TMlZ3VXMtWm96U05mLWFSb0VwN1dGTXFtQTFSSDZPNmZsRkNleFVheS1LWmJKUllpTExxZk0yZ1dSNmx6MzBSWDZS?oc=5",
+  "headline": "Tata Sons to Choose IPO or Private Path This Week",
+  "hook": "The biggest family business may hit the stock market soon.",
+  "what": "Tata Sons' board is meeting this week to decide on a public listing or staying private. The discussion follows an internal rift among the group's largest shareholder. The outcome will shape the company's ownership structure.",
+  "why": "A potential IPO could give young investors new entry points and shift market dynamics. Keep an eye on the news if you plan to invest through platforms like UPI.",
+  "tags": [
+   "TataSons",
+   "IPO",
+   "stockmarket",
+   "investing",
+   "business"
+  ]
+ },
+ {
+  "id": "1318dfc0d214",
+  "created": "2026-11-23T05:25:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "ABS-CBN",
+  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2dmd2pyOHZuWGlGZGtVZXBlbHZUSmw0N2RYZ2dCZ2pBY1AxUzVFTC1Iay1jUG9xeDAyNXpZLVV1RG1FcVhvSW5CdkhVWWs1RHA1cV9zRXo5LTRPZnhuUFBrajByY0pGM2s1QjdUcnV1MnMzU0ozQ3ctUkhHQUtYZDdCelNpV1E5Y0VTZ3ktcFVHdjQ0dGhtYm1hQ1Ztek9sZ2t2b2pPLWtDVVJnbW5vYXBBZ0xIN2c4Q2tiX3REUVk1RXlyZXh2MzRkUzZlZw?oc=5",
+  "headline": "Oasis Gaming wins Predator League 2027 PH qualifiers",
+  "hook": "Your favorite Valorant squad just clinched the top spot!",
+  "what": "Oasis Gaming emerged as the champion in the Predator League 2027 qualifiers for the Philippines. The victory secures their place in the upcoming national tournament.",
+  "why": "This win highlights the growing esports scene in India, offering inspiration for aspiring gamers and potential career paths. Keep an eye on upcoming matches to support the team.",
+  "tags": [
+   "Valorant",
+   "OasisGaming",
+   "PredatorLeague",
+   "Esports",
+   "PH"
+  ]
+ },
+ {
   "id": "f8b8a2fb3565",
   "created": "2026-11-23T04:42:55+05:30",
   "category": "money",
@@ -654,100 +747,6 @@
    "BilateralTalks",
    "YouthImpact",
    "Diplomacy"
-  ]
- },
- {
-  "id": "8ab05d2f2a02",
-  "created": "2026-11-22T21:58:48+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGo3WGRicFUxejN1YmlsVDc5UmJVRWMtTHNVaEk0aGVXZl83OHJnaGVFLTlkY0lDZTVSZWw2VVJKQVVsYlNqeDdqNFM1SllZNG84YmpTUV9aNGxwMGVtRGR5V2YtTFpNX0xLdU5KcFljbHY4X3ZJcGU4cm5hWHMwb214OFRuVUstbFJUWEROeU0tYnVjVTBqRUpFTk9KVmcxb3NRQkZMdnQzTzBIenVPOGVRTDR3bEJXSmRTbkJNWHlrdldlODBaQVE0WUpNdkxlazFCQVhwZUY3cXVOeFhhNA?oc=5",
-  "headline": "FSSAI moves to prosecute Bisleri over contaminated water",
-  "hook": "Your bottled water might contain cancer‑linked chemicals.",
-  "what": "The food regulator found bromate and hydrocarbons in a Bisleri water sample. These substances are considered unsafe. FSSAI has ordered legal action against the company.",
-  "why": "Young consumers rely on safe drinking water; checking labels and opting for trusted sources is important.",
-  "tags": [
-   "FSSAI",
-   "Bisleri",
-   "waterSafety",
-   "health",
-   "India"
-  ]
- },
- {
-  "id": "50a942b95b73",
-  "created": "2026-11-22T21:58:50+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/india-cherishes-special-friendship-s-jaishankar-meets-nepal-pm-balen-shah-12362718#publisher=newsstand",
-  "headline": "India's Jaishankar calls Nepal tie a special friendship",
-  "hook": "India reaffirms close bond with Nepal in top‑level talks",
-  "what": "External Affairs Minister S. Jaishankar met Nepal’s Prime Minister Balen Shah. He said India cherishes its special friendship with Nepal.",
-  "why": "The statement highlights friendly ties that can affect travel, study and work options for young Indians.",
-  "tags": [
-   "India Nepal",
-   "diplomacy",
-   "friendship",
-   "foreign affairs"
-  ]
- },
- {
-  "id": "5b8e630f2d55",
-  "created": "2026-11-22T21:58:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/fd-interest-rate-vs-maturity-date-should-you-chase-higher-returns-or-choose-a-tenure-that-suits-your-financial-goals-11795361826216.html",
-  "headline": "Higher FD rates aren’t always the best choice",
-  "hook": "Think beyond the top rate before locking your money.",
-  "what": "Experts say picking the biggest fixed‑deposit interest isn’t automatically wise. They advise looking at the deposit’s term, how easily you can access funds, the risk of having to reinvest later, and any charges for early exit.",
-  "why": "Young savers need cash for studies or emergencies, so matching the tenure to personal plans avoids hidden costs. Check the terms before committing.",
-  "tags": [
-   "FD",
-   "savings",
-   "finance",
-   "younginvestors",
-   "moneytips"
-  ]
- },
- {
-  "id": "b36fdd993ea3",
-  "created": "2026-11-22T21:58:55+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Barca Blaugranes",
-  "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLWkxWjhoakRaQTRYQkpmVWE2dGlDQ3V1bXNxWTR4VjNKcDNkbUZqTGdhdFUwRmJOOHgtcU1ja04xMXhWN0JZbllpWlBhQjQ1ZjA2a0VOcG9ISHloLW1SWlUwVzJSMFg3WGFPSGM2czZIS2dLZVUzYm9OQXNSSG8tamR6TjJJUGRiYmlwMUh0NHM1MzBQTzZsZDB3ZjRFY1dRQ0N4UWhRSDJrQVdMNVJfWlRyb1RYREEySmgwSHFRUGhBZVdN?oc=5",
-  "headline": "Barcelona edges Villarreal 3-2 in La Liga thriller",
-  "hook": "A last‑minute comeback keeps Barça’s title hopes alive.",
-  "what": "Barcelona defeated Villarreal 3‑2 in a La Liga match on 22 Nov 2026. The win came after a dramatic finish, with Barcelona scoring the decisive goal late in the game.",
-  "why": "The result keeps Barcelona in the race for the league crown, showing the team’s resilience – a cue for young fans to stay focused on their goals despite setbacks.",
-  "tags": [
-   "LaLiga",
-   "Barcelona",
-   "Villarreal",
-   "football",
-   "sports"
-  ]
- },
- {
-  "id": "ae5d483b503d",
-  "created": "2026-11-22T21:58:58+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wdVlHU2Z6eERmOGtld0l1c2RiRFFtb2FKWkhJTkd1bGpneXlHanRBVmNZX1R4V2MyZGFrVjVLSXhtbS1WQnp5cnh4Y2hJVWxycVFiUjFrbHRPU01rWVJqVzlob1ZoVm5EQ0dF?oc=5",
-  "headline": "Marquez clinches eighth MotoGP crown in Portugal",
-  "hook": "Spain’s Ducati star matches record with a stunning win",
-  "what": "Marc Marquez secured his eighth MotoGP world championship at the Portuguese Grand Prix. The victory ties the all‑time record for most titles. He rode for Ducati.",
-  "why": "Young riders see the benchmark for consistency and success. Aspiring racers can study his performance for inspiration.",
-  "tags": [
-   "MotoGP",
-   "Marquez",
-   "Ducati",
-   "record",
-   "Portugal"
   ]
  }
 ]

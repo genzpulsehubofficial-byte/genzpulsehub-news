@@ -1,0 +1,35 @@
+{
+ "id": "c7cb6f5aca76",
+ "created": "2026-11-23T05:25:25+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/karnataka/police-in-karnataka-prevent-ys-sharmila-from-entering-disputed-property/article71732226.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Karnataka police block Congress leader Sharmila at Yelahanka site",
+  "hook": "A court order stopped her from entering the contested land.",
+  "what": "Bengaluru’s North East Division police prevented Y.S. Sharmila, head of the Andhra Pradesh Congress, from stepping onto a disputed property in Yelahanka. The action follows an interim injunction issued by a Devanahalli court.",
+  "why": "It highlights how legal orders can shape political moves; young voters should note the courts’ role in such disputes.",
+  "tags": [
+   "politics",
+   "Karnataka",
+   "court",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "കർണാടക പോലീസ് ശർമിലയെ യെലഹങ്കാ സ്ഥലത്ത് തടഞ്ഞു",
+  "hook": "കോടതി ഉത്തരവ് അവരെ വിവാദ ഭൂമിയിൽ പ്രവേശിക്കാൻ തടഞ്ഞു.",
+  "what": "ബെംഗളൂരു ഉത്തരകിഴക്കൻ വിഭാഗം പോലീസ്, ആന്ധ്രപ്രദേശ് കോൺഗ്രസ് തലവനായ യെസ് ശർമിലയെ യെലഹങ്കയിലെ വിവാദ സ്വത്തിൽ പ്രവേശിക്കാൻ അനുവദിച്ചില്ല. ഇത് ദേവനഹല്ലി കോടതിയുടെ ഇടക്കാല തടയൽ ഉത്തരവിന്റെ അടിസ്ഥാനത്തിലാണ്.",
+  "why": "നിയമപരമായ ഉത്തരവുകൾ രാഷ്ട്രീയ പ്രവർത്തനങ്ങളെ ബാധിക്കാം; യുവജനങ്ങൾക്കു കോടതിയുടെ പങ്ക് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "കർണാടക",
+   "കോടതി",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

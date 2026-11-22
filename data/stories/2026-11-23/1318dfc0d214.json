@@ -1,0 +1,37 @@
+{
+ "id": "1318dfc0d214",
+ "created": "2026-11-23T05:25:33+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "ABS-CBN",
+ "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2dmd2pyOHZuWGlGZGtVZXBlbHZUSmw0N2RYZ2dCZ2pBY1AxUzVFTC1Iay1jUG9xeDAyNXpZLVV1RG1FcVhvSW5CdkhVWWs1RHA1cV9zRXo5LTRPZnhuUFBrajByY0pGM2s1QjdUcnV1MnMzU0ozQ3ctUkhHQUtYZDdCelNpV1E5Y0VTZ3ktcFVHdjQ0dGhtYm1hQ1Ztek9sZ2t2b2pPLWtDVVJnbW5vYXBBZ0xIN2c4Q2tiX3REUVk1RXlyZXh2MzRkUzZlZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Oasis Gaming wins Predator League 2027 PH qualifiers",
+  "hook": "Your favorite Valorant squad just clinched the top spot!",
+  "what": "Oasis Gaming emerged as the champion in the Predator League 2027 qualifiers for the Philippines. The victory secures their place in the upcoming national tournament.",
+  "why": "This win highlights the growing esports scene in India, offering inspiration for aspiring gamers and potential career paths. Keep an eye on upcoming matches to support the team.",
+  "tags": [
+   "Valorant",
+   "OasisGaming",
+   "PredatorLeague",
+   "Esports",
+   "PH"
+  ]
+ },
+ "ml": {
+  "headline": "Oasis Gaming ജയം നേടി Predator League 2027 PH ക്വാളിഫയറ്സ്",
+  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട Valorant ടീം മുകളിൽ എത്തിയിരിക്കുന്നു!",
+  "what": "Oasis Gaming, Philippines‑ലെ Predator League 2027 ക്വാളിഫയറ്സിൽ ചാമ്പ്യൻ ആയി. ഈ വിജയം അവരെ വരാനിരിക്കുന്ന ദേശീയ ടൂർണമെന്റിലേക്ക് ഉറപ്പിക്കുന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ ഇ‑സ്പോർട്സ് രംഗത്തിന്റെ വളർച്ച കാണിക്കുന്നു, ഗെയിമർമാർക്ക് കരിയർ സാധ്യതകൾ നൽകുന്നു. അടുത്ത മത്സരങ്ങൾ പിന്തുടർന്ന് ടീമിനെ പിന്തുണക്കൂ.",
+  "tags": [
+   "Valorant",
+   "OasisGaming",
+   "PredatorLeague",
+   "Esports",
+   "PH"
+  ]
+ }
+}

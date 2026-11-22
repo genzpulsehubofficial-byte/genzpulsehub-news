@@ -1,0 +1,37 @@
+{
+ "id": "59c5d609420c",
+ "created": "2026-11-23T05:25:32+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFR0TzVOaS05aDVsUDRxSHNrbXluRkZXbFctblpRTEtzd1FqQUdQUHpPMU80ZFBQMVJ5aDUwS1UyVzgzcU5rZktPR0R5YXFDalhFV2o5UUhwa1NFSXo2Vk8ya0MwR3hiS2w0SVZ4WXREV3JiYlZsc292UTUzTWJqb0dpM1FfT1ExdFVVVXBhSnZNSDhhbEExMjkwMExRRWszbXEtZ25TMlZ3VXMtWm96U05mLWFSb0VwN1dGTXFtQTFSSDZPNmZsRkNleFVheS1LWmJKUllpTExxZk0yZ1dSNmx6MzBSWDZS?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tata Sons to Choose IPO or Private Path This Week",
+  "hook": "The biggest family business may hit the stock market soon.",
+  "what": "Tata Sons' board is meeting this week to decide on a public listing or staying private. The discussion follows an internal rift among the group's largest shareholder. The outcome will shape the company's ownership structure.",
+  "why": "A potential IPO could give young investors new entry points and shift market dynamics. Keep an eye on the news if you plan to invest through platforms like UPI.",
+  "tags": [
+   "TataSons",
+   "IPO",
+   "stockmarket",
+   "investing",
+   "business"
+  ]
+ },
+ "ml": {
+  "headline": "Tata Sons ഈ ആഴ്ച IPO അല്ലെങ്കിൽ സ്വകാര്യ മാർഗം തിരഞ്ഞെടുക്കും",
+  "hook": "വലിയ കുടുംബ ബിസിനസ് സ്റ്റോക്ക് മാർക്കറ്റിലേക്ക് കടക്കാൻ സാധ്യത",
+  "what": "Tata Sons ബോർഡ് ഈ ആഴ്ച കമ്പനി ലിസ്റ്റ് ചെയ്യണോ, സ്വകാര്യമായി തുടരണോ എന്നതിനെക്കുറിച്ച് തീരുമാനിക്കാൻ കൂടിയിരിക്കുന്നു. ഗ്രൂപ്പിന്റെ പ്രധാന ഷെയർഹോൾഡർ തമ്മിലുള്ള ആന്തരിക സംഘർഷം ഈ ചർച്ചയ്ക്ക് പശ്ചാത്തലമാകുന്നു. ഈ തീരുമാനത്തിൽ കമ്പനിയുടെ ഉടമസ്ഥതാ ഘടന മാറും.",
+  "why": "പൊതു ലിസ്റ്റിംഗ് യുവ നിക്ഷേപകർക്ക് പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം, മാർക്കറ്റ് ഡൈനാമിക്സ് മാറ്റാം. നിങ്ങൾ UPI പോലുള്ള ആപ്പുകൾ വഴി നിക്ഷേപം ആലോചിക്കുന്നുവെങ്കിൽ ഈ വാർത്ത ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "TataSons",
+   "IPO",
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "നിക്ഷേപം",
+   "ബിസിനസ്"
+  ]
+ }
+}

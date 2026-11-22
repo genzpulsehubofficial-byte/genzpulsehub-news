@@ -1,0 +1,35 @@
+{
+ "id": "ac973edcee7b",
+ "created": "2026-11-23T05:25:27+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "CNBC TV18",
+ "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEZfYlhWWmItelZTYmRtU3lYc2hjdjFHZ3VRYTRGQU9zZmR1eU9saWtWZkpoQzhfYjdPRkFuQkJfRjJIOEV3MVN4eHgzMmFIMUpFYVc3VGtTZlpjZlViQ3lDbmd6SndGLU9RLTI2STU2UkdON3lVV20taG03UnRPTE1nNFlBVHJIRkREaHpUTDEzeVdoUTNkRDhmbHhCc3BsM3Y0MEd0QnN6YUJH0gGyAUFVX3lxTE1WM3ZCOWJ0V1JNdnJKWGdmWFo5cWZXN3RycVEwT1lCSTFWVTUyUDRFSWVvbDAyWW9DWXlfdTIyWlJhaE5ESVdTSnloa29kanVkOHlNQXlYeDJzQUFrZEJzQWwwdk9wWmpVUG1Td3R1OEVoMnJhZEFRSmNYMm1OR2lCSXJKVWd4V3FoZmo3Mk10RVh6SUpDYUhtZVY2S1hMQVJTQ0MtYXpOTW5DQWRJVnI5dUE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "IMD warns heavy rain in Tamil Nadu, fog across four states",
+  "hook": "Rainy roads and foggy mornings ahead—plan your travel wisely.",
+  "what": "The India Meteorological Department issued a heavy rain alert for Tamil Nadu on November 23. It also issued a dense fog warning covering four states.",
+  "why": "Students and commuters should check local forecasts and consider alternate routes or expect delays.",
+  "tags": [
+   "IMD",
+   "RainAlert",
+   "FogWarning",
+   "TravelTips"
+  ]
+ },
+ "ml": {
+  "headline": "IMD മുന്നറിയിപ്പ്: തമിഴ്നാട്ടിൽ കനത്ത മഴ, നാല് സംസ്ഥാനങ്ങളിൽ മൂടൽമഞ്ഞ്",
+  "hook": "മഴയും മൂടൽമഞ്ഞും വരുന്നു—യാത്രാ പ്ലാനുകൾ പരിശോധിക്കുക.",
+  "what": "ഇന്ത്യാ കാലാവസ്ഥ വകുപ്പ് 23 നവംബർ തിയതിയോടെ തമിഴ്നാട്ടിന് കനത്ത മഴയുടെ മുന്നറിയിപ്പ് പുറപ്പെടുവിച്ചു. കൂടാതെ നാല് സംസ്ഥാനങ്ങളിൽ മൂടൽമഞ്ഞ് മുന്നറിയിപ്പ് നൽകിയിട്ടുണ്ട്.",
+  "why": "വിദ്യാർത്ഥികളും യാത്രക്കാരും കാലാവസ്ഥാ അപ്ഡേറ്റ് പരിശോധിച്ച്, വഴികളിൽ വൈകിപ്പോവാൻ സാധ്യതയുള്ളതിനാൽ മാറ്റം വരുത്തണം.",
+  "tags": [
+   "IMD",
+   "മഴഅലർട്ട്",
+   "മൂടൽമഞ്ഞ്",
+   "യാത്ര"
+  ]
+ }
+}
