@@ -1,0 +1,37 @@
+{
+ "id": "1f6aac06eee5",
+ "created": "2026-11-22T06:52:55+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSTEzb3JHU2lISDZlTDZuQnJlc2lZOTg3UFE4WVJ1VDlJVFZhM29rU2tfci1YMV9oZkV2QTcySGFJNllIMWQ3SzdRNVA3bUpJQ3VEd0hIcVJPNGJEdEx1RUxWQlQxRW1xWHBtaklHbm5OVHl1NXBYMjU4VVpLUzJEMENpOGl1blp0V2lQT0VhREd2NmlsaURiemE5bHhPU3NuNjNvRWRPRXJ4STBOQ0tEOV9pWmhaZ2lhNjIzclBvTzU5M3dqTUZnZllmMHk0R01pTF9CUkZoMWlPTmlrOVdCTlNtWHRnNTdFUFh1YUY4dWpNWGtVdGNGUGNuY19lbkI1elpOamRkYnJmWVQxbVBQWXhqQjd5UzVER0FUaVp4d293dUpodkE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Pakistan wins Blind Cricket Asia Cup amid umpire controversy",
+  "hook": "Umpire’s fighter‑jet celebration leads India to skip the trophy ceremony",
+  "what": "Pakistan was declared champion of the men's blind cricket Asia Cup after the final was called off because of rain. The match official celebrated with the Pakistani side, mimicking fighter‑jet gestures, prompting criticism from the Indian blind cricket team.",
+  "why": "The incident highlights concerns over fair play and officiating standards, prompting Indian players to raise the issue through official channels.",
+  "tags": [
+   "blindcricket",
+   "AsiaCup",
+   "sportscontroversy",
+   "India",
+   "Pakistan"
+  ]
+ },
+ "ml": {
+  "headline": "പാകിസ്താൻ ബ്ലൈൻഡ് ക്രിക്കറ്റ് ഏഷ്യാ കപ്പിൽ ജേതാവായി, ഉംപയർ വിവാദം",
+  "hook": "ഉംപയറുടെ ഫൈറ്റർ‑ജെറ്റ് ജെസ്റ്റർ കാരണം ഇന്ത്യ സമ്മാന ചടങ്ങിൽ നിന്ന് മാറി",
+  "what": "വർഷാവർഷം മഴ കാരണം ഫൈനൽ റദ്ദാക്കിയതിനു ശേഷം പുരുഷ ബ്ലൈൻഡ് ക്രിക്കറ്റ് ഏഷ്യാ കപ്പിന്റെ വിജയിയായി പാകിസ്താൻ പ്രഖ്യാപിച്ചു. മത്സരത്തിന്റെ ഉംപയർ പാകിസ്താൻ കളിക്കാരോടൊപ്പം ഫൈറ്റർ‑ജെറ്റ് ചലനങ്ങൾ ചെയ്തു, ഇതിനെതിരെ ഇന്ത്യൻ ബ്ലൈൻഡ് ക്രിക്കറ്റ് ടീം വിമർശനം പ്രകടിപ്പിച്ചു.",
+  "why": "ഇത് കളി ന്യായതയും ഉംപയർ മാനദണ്ഡങ്ങളും സംബന്ധിച്ച ചോദ്യങ്ങൾ ഉയർത്തുന്നു, അതിനാൽ ഇന്ത്യൻ കളിക്കാർ ഔദ്യോഗികമായി പ്രശ്നം ഉയർത്തേണ്ടതുണ്ട്.",
+  "tags": [
+   "blindcricket",
+   "AsiaCup",
+   "sportscontroversy",
+   "India",
+   "Pakistan"
+  ]
+ }
+}

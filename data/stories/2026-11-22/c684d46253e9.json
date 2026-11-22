@@ -1,0 +1,35 @@
+{
+ "id": "c684d46253e9",
+ "created": "2026-11-22T06:52:49+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "WKYC",
+ "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRzg3a1hVRDBzNFdUa1Q2M3BBUC1selpzRzRaMExZS0NrcFhCNnBwcFVNVHB4N3dHOWtkZ2ktbVpHZUMtUF85X1ZlSXI2UmNjWHdXM2FrYkRrS3lVcTFSSk9JbDFnUGp2UDNENUFrSlF0c1hvRTZDQlpFdTRiSlh0QmY3dVdCTlBIQk5XVVNYRTlZM1I5ak4wazlKd0xlMF91ZDhzQ25iVkpGLWlJVTFKSFJ5c0Zta1pxa0FTU21rNVlyWDljNlBBOU1yX0lVVjM0dzc0?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Shootout in Parma, Ohio leaves several injured and dead",
+  "hook": "A shooting at a local event center shocked the community.",
+  "what": "Police arrived at Ridge Road in Parma, Ohio after reports of gunfire. The attack resulted in at least three fatalities and multiple injuries, including one person seriously wounded.",
+  "why": "Violent incidents can happen anywhere, so stay aware and follow safety guidelines when attending public gatherings.",
+  "tags": [
+   "ParmaShooting",
+   "OhioNews",
+   "PublicSafety",
+   "Breaking"
+  ]
+ },
+ "ml": {
+  "headline": "പാർമ, ഒഹിയോയിൽ നടന്ന വെടിവെപ്പിൽ നിരവധി പേർ പരിക്കേറ്റു",
+  "hook": "പ്രാദേശിക ഇവന്റ് സെന്ററിൽ നടന്ന ഷൂട്ടിംഗ് സമൂഹത്തെ ഞെട്ടിച്ചു.",
+  "what": "പാർമയിലെ റിഡ്ജ് റോഡിൽ വെടിവെപ്പിന്റെ വിവരം ലഭിച്ച് പോലീസ് സ്ഥലത്ത് എത്തി. ഈ സംഭവത്തിൽ കുറഞ്ഞത് മൂന്ന് പേർ മരിക്കുകയും, നിരവധി പേർ പരിക്കേറ്റതുമാണ്, അതിൽ ഒരാൾക്ക് ഗുരുതരമായ പരിക്ക്.",
+  "why": "ഇത്തരത്തിലുള്ള സംഭവങ്ങൾ എവിടെയെങ്കിലും സംഭവിക്കാം, അതിനാൽ പൊതുജന പരിപാടികളിൽ സുരക്ഷാ മാർഗങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ParmaShooting",
+   "Ohio",
+   "PublicSafety",
+   "Breaking"
+  ]
+ }
+}

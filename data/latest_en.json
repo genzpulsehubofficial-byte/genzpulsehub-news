@@ -1,5 +1,80 @@
 [
  {
+  "id": "a974da899555",
+  "created": "2026-11-22T06:51:46+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-msa-and-irtsa-proposals-show-how-fitment-factors-could-reshape-central-government-salary-structures-11795013686090.html",
+  "headline": "Two Pay Commission proposals could reshape govt salary gap",
+  "hook": "MSA and IRTSA suggest different fitment factors for central staff pay.",
+  "what": "The 8th Pay Commission is reviewing two rival proposals – one from MSA and another from IRTSA. Both outline distinct fitment factors and basic salary levels for central government employees.",
+  "why": "Changes could affect future job prospects and earnings for young aspirants in the civil services. Keep an eye on the final recommendations as they may influence salary growth and the gap between junior and senior posts.",
+  "tags": [
+   "paycommission",
+   "govtsalary",
+   "jobs",
+   "india",
+   "youngprofessionals"
+  ]
+ },
+ {
+  "id": "c684d46253e9",
+  "created": "2026-11-22T06:52:49+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "WKYC",
+  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRzg3a1hVRDBzNFdUa1Q2M3BBUC1selpzRzRaMExZS0NrcFhCNnBwcFVNVHB4N3dHOWtkZ2ktbVpHZUMtUF85X1ZlSXI2UmNjWHdXM2FrYkRrS3lVcTFSSk9JbDFnUGp2UDNENUFrSlF0c1hvRTZDQlpFdTRiSlh0QmY3dVdCTlBIQk5XVVNYRTlZM1I5ak4wazlKd0xlMF91ZDhzQ25iVkpGLWlJVTFKSFJ5c0Zta1pxa0FTU21rNVlyWDljNlBBOU1yX0lVVjM0dzc0?oc=5",
+  "headline": "Shootout in Parma, Ohio leaves several injured and dead",
+  "hook": "A shooting at a local event center shocked the community.",
+  "what": "Police arrived at Ridge Road in Parma, Ohio after reports of gunfire. The attack resulted in at least three fatalities and multiple injuries, including one person seriously wounded.",
+  "why": "Violent incidents can happen anywhere, so stay aware and follow safety guidelines when attending public gatherings.",
+  "tags": [
+   "ParmaShooting",
+   "OhioNews",
+   "PublicSafety",
+   "Breaking"
+  ]
+ },
+ {
+  "id": "68a6def6c80c",
+  "created": "2026-11-22T06:52:52+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
+  "headline": "India, Bulgaria approve new cooperation roadmap",
+  "hook": "India and Bulgaria set a clear plan for future ties",
+  "what": "India and Bulgaria met to discuss their bilateral relationship, including cooperation on IMEC and the Black Sea situation. Foreign Minister S. Jaishankar said the teams have prepared a detailed roadmap, which will be approved today, outlining future activities.",
+  "why": "The agreement could boost trade and job opportunities for Indian youth and shape India's role in regional security. Keep an eye out for new programmes or scholarships that may follow.",
+  "tags": [
+   "IndiaBulgaria",
+   "diplomacy",
+   "youthOpportunities",
+   "trade",
+   "security"
+  ]
+ },
+ {
+  "id": "1f6aac06eee5",
+  "created": "2026-11-22T06:52:55+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSTEzb3JHU2lISDZlTDZuQnJlc2lZOTg3UFE4WVJ1VDlJVFZhM29rU2tfci1YMV9oZkV2QTcySGFJNllIMWQ3SzdRNVA3bUpJQ3VEd0hIcVJPNGJEdEx1RUxWQlQxRW1xWHBtaklHbm5OVHl1NXBYMjU4VVpLUzJEMENpOGl1blp0V2lQT0VhREd2NmlsaURiemE5bHhPU3NuNjNvRWRPRXJ4STBOQ0tEOV9pWmhaZ2lhNjIzclBvTzU5M3dqTUZnZllmMHk0R01pTF9CUkZoMWlPTmlrOVdCTlNtWHRnNTdFUFh1YUY4dWpNWGtVdGNGUGNuY19lbkI1elpOamRkYnJmWVQxbVBQWXhqQjd5UzVER0FUaVp4d293dUpodkE?oc=5",
+  "headline": "Pakistan wins Blind Cricket Asia Cup amid umpire controversy",
+  "hook": "Umpire’s fighter‑jet celebration leads India to skip the trophy ceremony",
+  "what": "Pakistan was declared champion of the men's blind cricket Asia Cup after the final was called off because of rain. The match official celebrated with the Pakistani side, mimicking fighter‑jet gestures, prompting criticism from the Indian blind cricket team.",
+  "why": "The incident highlights concerns over fair play and officiating standards, prompting Indian players to raise the issue through official channels.",
+  "tags": [
+   "blindcricket",
+   "AsiaCup",
+   "sportscontroversy",
+   "India",
+   "Pakistan"
+  ]
+ },
+ {
   "id": "bde68f7f816f",
   "created": "2026-11-22T05:35:01+05:30",
   "category": "headlines",
@@ -679,81 +754,6 @@
    "Australia",
    "England",
    "MCG"
-  ]
- },
- {
-  "id": "ce1eff5eb8eb",
-  "created": "2026-11-22T00:10:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/india-not-a-rogue-state-wangchuk-slams-administration-over-house-arrest-says-police-deployment-outside-home-withdrawn-after-court-plea-101795273631177.html",
-  "headline": "Wangchuk Calls Police Action Unjust, Court Pulls Back Guard",
-  "hook": "A protest leader says his freedom was curbed, but courts stepped in.",
-  "what": "Wangchuk said the police presence outside his house was illegal and likened it to house arrest. After he appealed to the court, the authorities withdrew the deployment.",
-  "why": "It shows that legal channels can challenge state actions, reminding young Indians to know their rights and seek court help if faced with similar restrictions.",
-  "tags": [
-   "Wangchuk",
-   "court",
-   "police",
-   "rights",
-   "India"
-  ]
- },
- {
-  "id": "aa973ceafbf4",
-  "created": "2026-11-22T00:10:06+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tripura/mha-sanctions-more-central-forces-for-tripura-municipal-elections/article71729425.ece",
-  "headline": "MHA deploys extra central forces for Tripura polls",
-  "hook": "More security troops are on the way for Tripura's municipal voting.",
-  "what": "The Ministry of Home Affairs has approved the deployment of additional central security personnel for the upcoming municipal elections in Tripura. The move aims to bolster law and order during the voting process.",
-  "why": "A smoother, safer election helps maintain democratic stability, which impacts everyone's future. Stay informed about local voting dates and follow safety guidelines.",
-  "tags": [
-   "Tripura",
-   "elections",
-   "security",
-   "MHA"
-  ]
- },
- {
-  "id": "75638ba7b352",
-  "created": "2026-11-22T00:10:07+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmRoUllqQXVJUGl2TC1abDlwckNWNFpSb25CQ19TMm8wRjB4TWI2RlJKRnV4Xy1qb0MyaXRQUE9fUnV4aEl5Q0lnRFR5UWkteGtxbmEwdmhaTFIwZWpGNVNydDlGYnFsdllRanlzMWlJLVEwcWYxbUREU1BzMWpzQlNHUzNDV3pQYTlIZXN3?oc=5",
-  "headline": "‘Aakasamlo Oka Tara’ sees steady day‑2 box office",
-  "hook": "The Telugu drama keeps the buzz alive after its debut.",
-  "what": "The film starring Dulquer Salmaan and Satvika Veeravalli earned box‑office revenue on its second day. Critics highlighted its hopeful theme and praised the performances.",
-  "why": "For young viewers the movie is generating positive word‑of‑mouth and could be a good weekend pick, especially with star support from Prabhas.",
-  "tags": [
-   "AakasamloOkaTara",
-   "TeluguCinema",
-   "DulquerSalmaan",
-   "BoxOffice",
-   "MovieReviews"
-  ]
- },
- {
-  "id": "c7d86839c836",
-  "created": "2026-11-22T00:10:09+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "BBC",
-  "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZYlZZMGhuOUUyWWZQUjJ4bTdfbWZoMWEtbVphVThzeXUtOGJkaGNCc1g5ZzRUNjVhWVBFNUQwMDVMUUxsMkMwaHdMN3Q1NWZFZ051YjZvVnZHeDNGUXhlTzBEMFAwZw?oc=5",
-  "headline": "Alcaraz defeats Shelton to book ATP Finals final spot",
-  "hook": "Spain's teen star clinches a place in the season‑ending showdown",
-  "what": "Carlos Alcaraz overcame Ben Shelton in the Nitto ATP Finals, securing his place in the championship match. The win came after a decisive tie‑break.",
-  "why": "Reaching the final boosts his ranking and offers another chance at a major title, inspiring young players across India.",
-  "tags": [
-   "ATP",
-   "tennis",
-   "Alcaraz",
-   "Shelton",
-   "finals"
   ]
  }
 ]

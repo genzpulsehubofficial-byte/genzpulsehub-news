@@ -1,0 +1,37 @@
+{
+ "id": "68a6def6c80c",
+ "created": "2026-11-22T06:52:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India, Bulgaria approve new cooperation roadmap",
+  "hook": "India and Bulgaria set a clear plan for future ties",
+  "what": "India and Bulgaria met to discuss their bilateral relationship, including cooperation on IMEC and the Black Sea situation. Foreign Minister S. Jaishankar said the teams have prepared a detailed roadmap, which will be approved today, outlining future activities.",
+  "why": "The agreement could boost trade and job opportunities for Indian youth and shape India's role in regional security. Keep an eye out for new programmes or scholarships that may follow.",
+  "tags": [
+   "IndiaBulgaria",
+   "diplomacy",
+   "youthOpportunities",
+   "trade",
+   "security"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ‑ബൾഗേറിയാ പുതിയ സഹകരണ റോഡ്‌മാപ്പ് അംഗീകരിച്ചു",
+  "hook": "ഇന്ത്യയും ബൾഗേറിയയും ഭാവി ബന്ധങ്ങൾക്ക് വ്യക്തമായ പദ്ധതി വെച്ചിരിക്കുന്നു",
+  "what": "ഇന്ത്യയും ബൾഗേറിയയും തമ്മിലുള്ള ദ്വിപക്ഷ ബന്ധം, IMEC, ബ്ലാക്ക് സീ സ്ഥിതി എന്നിവയെക്കുറിച്ച് ചർച്ച നടത്തി. വിദേശമന്ത്രി എസ്. ജൈശങ്കർ പറഞ്ഞു, ടീമുകൾ വിശദമായ സഹകരണ റോഡ്‌മാപ്പ് തയ്യാറാക്കി, ഇന്നുതന്നെ അംഗീകരിക്കും.",
+  "why": "ഇത് വ്യാപാരവും തൊഴിൽ അവസരങ്ങളും വർദ്ധിപ്പിച്ച് യുവജനങ്ങൾക്ക് പുതിയ സാധ്യതകൾ തുറക്കും. പ്രദേശിക സുരക്ഷയിൽ ഇന്ത്യയുടെ പങ്ക് ശക്തിപ്പെടുത്തുന്നതും ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "IndiaBulgaria",
+   "diplomacy",
+   "youthOpportunities",
+   "trade",
+   "security"
+  ]
+ }
+}

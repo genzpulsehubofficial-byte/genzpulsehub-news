@@ -1,0 +1,37 @@
+{
+ "id": "a974da899555",
+ "created": "2026-11-22T06:51:46+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-msa-and-irtsa-proposals-show-how-fitment-factors-could-reshape-central-government-salary-structures-11795013686090.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Two Pay Commission proposals could reshape govt salary gap",
+  "hook": "MSA and IRTSA suggest different fitment factors for central staff pay.",
+  "what": "The 8th Pay Commission is reviewing two rival proposals – one from MSA and another from IRTSA. Both outline distinct fitment factors and basic salary levels for central government employees.",
+  "why": "Changes could affect future job prospects and earnings for young aspirants in the civil services. Keep an eye on the final recommendations as they may influence salary growth and the gap between junior and senior posts.",
+  "tags": [
+   "paycommission",
+   "govtsalary",
+   "jobs",
+   "india",
+   "youngprofessionals"
+  ]
+ },
+ "ml": {
+  "headline": "8-ാം പേ കമ്മീഷന്റെ രണ്ട് നിർദ്ദേശങ്ങൾ സർക്കാർ ശമ്പള വ്യത്യാസം മാറ്റാം",
+  "hook": "MSA, IRTSA എന്നിവയുടെ വ്യത്യസ്ത ഫിറ്റ്മെന്റ് ഫാക്ടറുകൾ കേന്ദ്ര ജീവനക്കാരുടെ ശമ്പളത്തെ ബാധിക്കും.",
+  "what": "8-ാം പേ കമ്മീഷൻ MSA, IRTSA എന്നീ രണ്ട് വ്യത്യസ്ത നിർദ്ദേശങ്ങൾ പരിശോധിക്കുന്നു. ഇരുവരും ഫിറ്റ്മെന്റ് ഫാക്ടറുകളും അടിസ്ഥാന ശമ്പളങ്ങളും വ്യത്യസ്തമായി നിർദ്ദേശിക്കുന്നു.",
+  "why": "ഇത് സിവിൽ സർവീസ് ആഗ്രഹിക്കുന്ന യുവജനങ്ങളുടെ ഭാവി ശമ്പളവും കരിയർ വളർച്ചയും ബാധിക്കും. അന്തിമ തീരുമാനം എങ്ങനെയാണെന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "paycommission",
+   "govtsalary",
+   "jobs",
+   "india",
+   "youngprofessionals"
+  ]
+ }
+}
