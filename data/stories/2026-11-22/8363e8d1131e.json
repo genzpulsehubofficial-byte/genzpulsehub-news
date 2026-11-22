@@ -1,0 +1,35 @@
+{
+ "id": "8363e8d1131e",
+ "created": "2026-11-22T21:12:16+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala seizes ₹10 lakh worth of fake cosmetics after teen kidney case",
+  "hook": "Your favorite beauty products could be harming your kidneys.",
+  "what": "The state launched Operation Soundarya, conducting inspections across Kerala on Sunday. Officials confiscated counterfeit cosmetic items valued at over ₹10 lakh. The action follows a teenager’s kidney disease linked to such products.",
+  "why": "Unsafe cosmetics can cause serious health issues, so teens should verify product authenticity before use. Report any suspicious items to authorities.",
+  "tags": [
+   "Kerala",
+   "CosmeticsSafety",
+   "TeenHealth",
+   "FakeProducts"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം ₹10 ലക്ഷം മൂല്യമുള്ള വ്യാജ കോസ്മെറ്റിക്സ് പിടിച്ചു, കൗമാരക്കാരന്‍ കിഡ്നി രോഗം",
+  "hook": "നിങ്ങളുടെ ബ്യൂട്ടി പ്രോഡക്റ്റുകൾ നിങ്ങളുടെ ആരോഗ്യത്തെ ഭീഷണിപ്പെടുത്താം.",
+  "what": "ഓപ്പറേഷൻ സൗന്ദർയ്യാ kapsamında സംസ്ഥാനതല പരിശോധനകൾ ഞായറാഴ്ച നടന്നു. അധികാരികൾ ₹10 ലക്ഷം കവിഞ്ഞ മൂല്യമുള്ള വ്യാജ കോസ്മെറ്റിക് ഉൽപ്പന്നങ്ങൾ പിടിച്ചു. ഒരു കൗമാരക്കാരന്റെ കിഡ്നി രോഗം ഈ കേസിന് പ്രേരകമായി.",
+  "why": "അസുരക്ഷിത കോസ്മെറ്റിക്സ് ഗുരുതര ആരോഗ്യ പ്രശ്നങ്ങൾ സൃഷ്ടിക്കാം, അതിനാൽ ഉൽപ്പന്നത്തിന്റെ യാഥാർത്ഥ്യം പരിശോധിച്ച് ഉപയോഗിക്കുക. സംശയമുള്ള വസ്തുക്കൾ ഉടൻ അധികാരികളെ അറിയിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "കോസ്മെറ്റിക്സുരക്ഷ",
+   "കൗമാരാരോഗ്യം",
+   "വ്യാജഉൽപ്പന്നങ്ങൾ"
+  ]
+ }
+}

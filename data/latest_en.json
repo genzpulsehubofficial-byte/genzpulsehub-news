@@ -1,5 +1,80 @@
 [
  {
+  "id": "8363e8d1131e",
+  "created": "2026-11-22T21:12:16+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cracks-down-on-unsafe-cosmetics-after-teens-kidney-disease/article71731711.ece",
+  "headline": "Kerala seizes ₹10 lakh worth of fake cosmetics after teen kidney case",
+  "hook": "Your favorite beauty products could be harming your kidneys.",
+  "what": "The state launched Operation Soundarya, conducting inspections across Kerala on Sunday. Officials confiscated counterfeit cosmetic items valued at over ₹10 lakh. The action follows a teenager’s kidney disease linked to such products.",
+  "why": "Unsafe cosmetics can cause serious health issues, so teens should verify product authenticity before use. Report any suspicious items to authorities.",
+  "tags": [
+   "Kerala",
+   "CosmeticsSafety",
+   "TeenHealth",
+   "FakeProducts"
+  ]
+ },
+ {
+  "id": "e6e619c841ef",
+  "created": "2026-11-22T21:12:19+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/government-proposes-amendments-to-kerala-administrative-service-rules/article71731940.ece",
+  "headline": "Kerala govt to tweak KAS rules for clarity",
+  "hook": "Clearer admin service rules could impact your career plans.",
+  "what": "The Kerala government has issued a notification proposing amendments to the Kerala Administrative Service (KAS) rules. The changes aim to eliminate ambiguities and correct errors that have entered the existing regulations.",
+  "why": "For students eyeing civil service jobs, clearer rules mean better understanding of eligibility and procedures. Stay updated on the revisions if you plan to apply.",
+  "tags": [
+   "Kerala",
+   "KAS",
+   "CivilService",
+   "Jobs",
+   "Updates"
+  ]
+ },
+ {
+  "id": "0394cfacd848",
+  "created": "2026-11-22T21:12:24+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/will-a-pf-withdrawal-for-buying-a-house-be-tax-free-after-five-years-of-service-11795331943996.html",
+  "headline": "PF house‑loan withdrawal stays tax‑free after 5 years",
+  "hook": "You can tap your PF for a home without paying tax.",
+  "what": "Employees with over five years of service can withdraw part of their PF for eligible house purchases. The account remains active and the remaining balance continues to earn interest.",
+  "why": "It lets young workers fund a home purchase without a tax burden, so they can plan their savings better.",
+  "tags": [
+   "PF",
+   "taxfree",
+   "homebuying",
+   "finance",
+   "youngworkers"
+  ]
+ },
+ {
+  "id": "48e6fb253dbf",
+  "created": "2026-11-22T21:12:26+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "ESPN India",
+  "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1NuSmNyOHFQOFZlR2tRdlNjRzVuakh2Q2tnMlNnMWR6QUEyV1o4R1RQT01zOXloVDdzaXJLNk9rS3lhXzZmSHFEeF8wTDUxNFYtLWpzVnpIcktOVHpjcU1LVjVfWDdCWjRJR1NSYlBNV0JPeUFCMnpEZGVyd0JsLXdEb2NjTHJmSUU3T1h5V2JkaElhaU93ZzFYQ3dULWZydXMzQkdJLXNpODBPV0h2c2dtX1lENWdpb3VqTGpsWFhxd0NuNXQzZkRfS3hNTTJla3ZQUFlZUQ?oc=5",
+  "headline": "Asia Cup Rising Stars 8th match set for Doha",
+  "hook": "Young cricketers battle it out under lights on Nov 22",
+  "what": "The eighth game of Group B in the Asia Cup Rising Stars 50‑over tournament will be played as a day‑night fixture in Doha on 22 November 2026. It is part of the ongoing youth competition.",
+  "why": "The match offers a platform for emerging talent to showcase skills, and fans can catch the action live or via streaming. Keep an eye on team line‑ups for future star prospects.",
+  "tags": [
+   "cricket",
+   "AsiaCup",
+   "RisingStars",
+   "Doha",
+   "YouthSports"
+  ]
+ },
+ {
   "id": "7f0ddcf66d1f",
   "created": "2026-11-22T20:28:14+05:30",
   "category": "headlines",
@@ -677,82 +752,6 @@
    "MadhyaPradesh",
    "India",
    "safety"
-  ]
- },
- {
-  "id": "ae6af8e8ccba",
-  "created": "2026-11-22T14:06:26+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/factions-of-parishioners-clash-at-kerala-catholic-church-over-resignation-of-priest-police-deployed-101795334303786.html",
-  "headline": "Parishioner groups clash at Kerala church over priest's resignation",
-  "hook": "A priest was locked inside his own church as factions fought.",
-  "what": "At St Anne's Church in Pettah, Kerala, two factions of parishioners confronted each other over Father Theodosius D Cruz's resignation. One group locked the priest inside the presbytery on Sunday morning. Police were deployed to the site.",
-  "why": "The incident shows how local disputes can spill into religious spaces and draw police involvement. Staying aware of community issues helps youths understand safety and civic response.",
-  "tags": [
-   "Kerala",
-   "Church",
-   "Clash",
-   "Police",
-   "Youth"
-  ]
- },
- {
-  "id": "70b11158d867",
-  "created": "2026-11-22T14:06:31+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fnpo-seeks-maximum-four-year-promotion-wait-for-postal-staff-flags-vacancies-and-career-stagnation-11795332754011.html",
-  "headline": "Postal workers demand four-year cap on promotion wait",
-  "hook": "Long promotion delays are pushing postal staff to quit.",
-  "what": "The Federation of National Postal Organisations has asked the 8th Pay Commission to limit the service period required for promotion to four years. They say the move will tackle career stagnation, long promotion delays and existing vacancies in the Department of Posts.",
-  "why": "If promotions speed up, it could improve job prospects and reduce staff shortages, affecting services teens rely on.",
-  "tags": [
-   "postaljobs",
-   "career",
-   "government",
-   "youth",
-   "jobs"
-  ]
- },
- {
-  "id": "59133ea9aece",
-  "created": "2026-11-22T14:06:33+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptiq6901ahx",
-  "headline": "Kerala to launch rehab and free health for Endosulfan victims",
-  "hook": "Free medical care coming for those affected by toxic pesticide.",
-  "what": "The state government said it will roll out a scientific rehabilitation program for people affected by Endosulfan in Kasaragod. It also promised free healthcare services for the victims.",
-  "why": "Access to treatment can improve health and livelihood for many families in the region. Young people can spread the word or volunteer with local NGOs.",
-  "tags": [
-   "Kasaragod",
-   "Endosulfan",
-   "HealthCare",
-   "Kerala",
-   "Rehab"
-  ]
- },
- {
-  "id": "e62ffefb7894",
-  "created": "2026-11-22T14:06:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/audio/features/best-clip-on-earbuds-in-india-sony-realme-moto-noise-boat-12340588",
-  "headline": "Sony LinkBuds Clip adds 360 Audio, three modes",
-  "hook": "Clip‑on earbuds now deliver immersive sound on the go",
-  "what": "Sony’s LinkBuds Clip earbuds support the 360 Reality Audio format. They also provide three distinct listening modes.",
-  "why": "Young listeners can enjoy richer, spatial audio for music and games, and switch modes to suit different activities.",
-  "tags": [
-   "Sony",
-   "Earbuds",
-   "360Audio",
-   "Tech",
-   "Music"
   ]
  }
 ]

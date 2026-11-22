@@ -1,0 +1,37 @@
+{
+ "id": "0394cfacd848",
+ "created": "2026-11-22T21:12:24+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/will-a-pf-withdrawal-for-buying-a-house-be-tax-free-after-five-years-of-service-11795331943996.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "PF house‑loan withdrawal stays tax‑free after 5 years",
+  "hook": "You can tap your PF for a home without paying tax.",
+  "what": "Employees with over five years of service can withdraw part of their PF for eligible house purchases. The account remains active and the remaining balance continues to earn interest.",
+  "why": "It lets young workers fund a home purchase without a tax burden, so they can plan their savings better.",
+  "tags": [
+   "PF",
+   "taxfree",
+   "homebuying",
+   "finance",
+   "youngworkers"
+  ]
+ },
+ "ml": {
+  "headline": "5 വര്‍ഷത്തിന് ശേഷം PF വീട്ടു വാങ്ങലിന് നികുതിയില്ല",
+  "hook": "നിങ്ങളുടെ PF ഉപയോഗിച്ച് വീട്ടു വാങ്ങി, നികുതി അടയ്ക്കേണ്ടതില്ല.",
+  "what": "അഞ്ചിലധികം വര്‍ഷത്തെ സേവനമുള്ള ജീവനക്കാര്‍ക്ക്, യോഗ്യമായ വീടു വാങ്ങലിന് PFയുടെ ഭാഗം പിൻവലിക്കാം. അക്കൗണ്ട് അടയ്ക്കാതെ ശേഷിക്കുന്ന തുകക്ക് പലിശ ലഭിക്കും.",
+  "why": "ഇത് യുവ തൊഴിലാളികള്‍ക്ക് നികുതി ചുമത്താതെ വീടു വാങ്ങാനുള്ള ധനം ലഭ്യമാക്കുന്നു, അതിനാല്‍ സാമ്പത്തിക പദ്ധതി മെച്ചപ്പെടുത്താം.",
+  "tags": [
+   "PF",
+   "നികുതിയില്ല",
+   "വീട്",
+   "ഫിനാൻസ്",
+   "യുവകർ"
+  ]
+ }
+}

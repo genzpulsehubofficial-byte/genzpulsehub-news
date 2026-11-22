@@ -1,0 +1,37 @@
+{
+ "id": "48e6fb253dbf",
+ "created": "2026-11-22T21:12:26+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "ESPN India",
+ "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1NuSmNyOHFQOFZlR2tRdlNjRzVuakh2Q2tnMlNnMWR6QUEyV1o4R1RQT01zOXloVDdzaXJLNk9rS3lhXzZmSHFEeF8wTDUxNFYtLWpzVnpIcktOVHpjcU1LVjVfWDdCWjRJR1NSYlBNV0JPeUFCMnpEZGVyd0JsLXdEb2NjTHJmSUU3T1h5V2JkaElhaU93ZzFYQ3dULWZydXMzQkdJLXNpODBPV0h2c2dtX1lENWdpb3VqTGpsWFhxd0NuNXQzZkRfS3hNTTJla3ZQUFlZUQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Asia Cup Rising Stars 8th match set for Doha",
+  "hook": "Young cricketers battle it out under lights on Nov 22",
+  "what": "The eighth game of Group B in the Asia Cup Rising Stars 50‑over tournament will be played as a day‑night fixture in Doha on 22 November 2026. It is part of the ongoing youth competition.",
+  "why": "The match offers a platform for emerging talent to showcase skills, and fans can catch the action live or via streaming. Keep an eye on team line‑ups for future star prospects.",
+  "tags": [
+   "cricket",
+   "AsiaCup",
+   "RisingStars",
+   "Doha",
+   "YouthSports"
+  ]
+ },
+ "ml": {
+  "headline": "Asia Cup Rising Stars 8‑ാം മത്സരം ദോഹയില്‍",
+  "hook": "യുവ ക്രിക്കറ്റര്‍മാര്‍ 22 Nov‑ന് ലൈറ്റില്‍ കളിക്കും",
+  "what": "Group B‑യുടെ 8‑ാം മത്സരം 50‑ഓവര്‍ Asia Cup Rising Stars ടൂര്‍നമെന്റില്‍ 22 നവംബര്‍ 2026-ന് ദോഹയില്‍ ഡേ‑നൈറ്റ് ഫോര്‍മാറ്റില്‍ നടക്കും. ഇത് യുവ കളിക്കാര്‍ക്കുള്ള മത്സരത്തിന്റെ ഒരു ഭാഗമാണ്.",
+  "why": "ഇവിടെ പുതിയ പ്രതിഭകള്‍ തങ്ങളുടെ കഴിവുകള്‍ തെളിയിക്കാന്‍ അവസരം ലഭിക്കുന്നു, ആരാധകര്‍ക്ക് ലൈവ് അല്ലെങ്കില്‍ സ്‌ട്രിമിംഗ് വഴി കാണാം. ടീമുകളുടെ തിരഞ്ഞെടുപ്പില്‍ ശ്രദ്ധിക്കുക, ഭാവിയിലെ താരങ്ങള്‍ കണ്ടെത്താന്‍.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "AsiaCup",
+   "RisingStars",
+   "ദോഹ",
+   "യുവകായികം"
+  ]
+ }
+}
