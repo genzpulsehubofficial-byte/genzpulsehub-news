@@ -1,5 +1,42 @@
 [
  {
+  "id": "08a62cb5af8c",
+  "created": "2026-11-22T22:46:56+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/arunachal-pradesh/amit-shah-says-congress-neglected-development-provided-inadequate-funds-during-its-rule-in-arunachal-pradesh/article71731087.ece",
+  "headline": "Centre rolls out ₹5,600 crore plan for Arunachal border villages",
+  "hook": "Your hometown could get a massive upgrade under the new Vibrant Villages scheme.",
+  "what": "Union Home Minister Amit Shah launched 199 Vibrant Villages projects in Arunachal Pradesh, allocating over ₹5,610 crore. The initiative targets border villages, with 40 already seeing people return.",
+  "why": "Improved infrastructure and jobs in remote areas could open new opportunities for youth and curb migration. Keep an eye on government schemes that may affect local development.",
+  "tags": [
+   "Arunachal",
+   "VibrantVillages",
+   "Development",
+   "Migration"
+  ]
+ },
+ {
+  "id": "611eee3b6aee",
+  "created": "2026-11-22T22:46:58+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/income-tax-notice-sent-to-your-old-address-when-can-itat-declare-reassessment-proceedings-invalid-for-taxpayers-11795365987908.html",
+  "headline": "ITAT voids tax reassessment after notice sent to old address",
+  "hook": "Your tax notice might be invalid if it went to a place you left.",
+  "what": "The Delhi ITAT overturned a reassessment case involving a former DTC employee. The court found that the Income Tax Department had mailed the required notice to the employee’s previous office address, not his current one, violating procedural rules.",
+  "why": "It shows that tax notices must be correctly served; if you move, ensure the department has your updated address to avoid invalid proceedings.",
+  "tags": [
+   "tax",
+   "ITAT",
+   "notice",
+   "legal",
+   "young"
+  ]
+ },
+ {
   "id": "d6775f6a7a40",
   "created": "2026-11-22T21:58:44+05:30",
   "category": "headlines",
@@ -713,44 +750,6 @@
    "Monsoon",
    "StudentLife",
    "IMD"
-  ]
- },
- {
-  "id": "af2dad5e78cb",
-  "created": "2026-11-22T16:00:58+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptisrq8ipiw",
-  "headline": "Kerala to provide scientific rehab and free healthcare for Kasaragod Endosulfan victims",
-  "hook": "Free health aid and rehab plan announced for those affected by Endosulfan in Kasaragod.",
-  "what": "The Kerala government said it will launch a scientific rehabilitation package for people affected by Endosulfan in Kasaragod. The scheme also includes free healthcare services for the victims.",
-  "why": "It aims to address long‑term health impacts of the pesticide, offering support to affected families. Young people can spread the word or seek assistance if they or relatives are impacted.",
-  "tags": [
-   "Kerala",
-   "Endosulfan",
-   "Health",
-   "Rehab",
-   "Kasaragod"
-  ]
- },
- {
-  "id": "47af2d534721",
-  "created": "2026-11-22T16:01:00+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-prices-slide-visakhapatnam-buyers-andhra-pradesh-cautious-check-city-retail-rates-24k-22k-18k-gold-999-fine-silver-11795335542746.html",
-  "headline": "Gold prices dip in Visakhapatnam, shoppers stay wary",
-  "hook": "Gold’s slip might affect your birthday bling plans",
-  "what": "The retail price of gold in Visakhapatnam fell over the last week. The decline was seen across 24K, 22K and 18K varieties. Despite the drop, buyers are staying cautious.",
-  "why": "A lower price could make gold purchases more affordable, but caution suggests waiting for stable rates before buying.",
-  "tags": [
-   "gold",
-   "prices",
-   "Visakhapatnam",
-   "shopping",
-   "finance"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "611eee3b6aee",
+ "created": "2026-11-22T22:46:58+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/income-tax-notice-sent-to-your-old-address-when-can-itat-declare-reassessment-proceedings-invalid-for-taxpayers-11795365987908.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT voids tax reassessment after notice sent to old address",
+  "hook": "Your tax notice might be invalid if it went to a place you left.",
+  "what": "The Delhi ITAT overturned a reassessment case involving a former DTC employee. The court found that the Income Tax Department had mailed the required notice to the employee’s previous office address, not his current one, violating procedural rules.",
+  "why": "It shows that tax notices must be correctly served; if you move, ensure the department has your updated address to avoid invalid proceedings.",
+  "tags": [
+   "tax",
+   "ITAT",
+   "notice",
+   "legal",
+   "young"
+  ]
+ },
+ "ml": {
+  "headline": "ITAT പഴയ വിലാസത്തിൽ നോട്ടീസ് അയച്ചതിനെ തുടർന്ന് നികുതി പുന:മൂല്യനിർണയം റദ്ദാക്കി",
+  "hook": "നികുതി നോട്ടീസ് പഴയ വിലാസത്തിൽ പോയാൽ, അത് അസാധുവാകാം",
+  "what": "ഡെലിയുടെ ITAT ഒരു വിരമിച്ച DTC ജീവനക്കാരന്റെ പുന:മൂല്യനിർണയ കേസ് റദ്ദാക്കി. നികുതി വകുപ്പ് ആവശ്യമായ നോട്ടീസ് ജീവനക്കാരന്റെ മുൻ ഓഫീസ് വിലാസത്തിലേക്ക് അയച്ചതാണെന്ന് കോടതി കണ്ടെത്തി, ഇത് പ്രക്രിയാ നിയമം ലംഘിച്ചതായി.",
+  "why": "ഇത് നികുതി നോട്ടീസ് ശരിയായി ലഭിക്കേണ്ടതിന്റെ പ്രാധാന്യം കാണിക്കുന്നു; നിങ്ങൾ മാറുമ്പോൾ, നിങ്ങളുടെ最新地址 നികുതി വകുപ്പിനോട് അപ്ഡേറ്റ് ചെയ്യുക, അസാധുവായ നടപടികളിൽ നിന്ന് രക്ഷപ്പെടാൻ.",
+  "tags": [
+   "നികുതി",
+   "ITAT",
+   "നോട്ടീസ്",
+   "നിയമം",
+   "യുവകർ"
+  ]
+ }
+}
