@@ -1,0 +1,37 @@
+{
+ "id": "5b3fccae649c",
+ "created": "2026-11-23T01:21:20+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Oncodaily",
+ "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR0hkMWEtTlRhaFZxYmY1NUtMVi1TZWx5OHgwUVBWVlZxemU2T1ZLVXFHekk1R2xzU2JCaHVuc2xQVlZNMnN2clZYRmJXUHlHeUtkc2VlOEh5Z1Z1ZnFZQ0hWbw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gastric Cancer Month 2026: Spot 5 Hidden Symptoms",
+  "hook": "A simple stomach ache could hide a serious warning.",
+  "what": "June marks Gastric Cancer Awareness Month 2026 worldwide. Doctors highlight five symptoms that are often mistaken for acidity or indigestion. They urge people not to ignore persistent stomach discomfort.",
+  "why": "Early detection can improve outcomes, so teens should watch for unusual stomach issues and seek medical advice if they persist.",
+  "tags": [
+   "gastriccancer",
+   "healthawareness",
+   "youthhealth",
+   "prevention",
+   "symptoms"
+  ]
+ },
+ "ml": {
+  "headline": "ഗാസ്ട്രിക് കാൻസർ മാസം 2026: 5 മറഞ്ഞ ലക്ഷണങ്ങൾ",
+  "hook": "വയറിലെ ലളിതമായ വേദന ഒരു ഗൗരവമായ മുന്നറിയിപ്പ് ആയേക്കാം.",
+  "what": "ഗ്ലോബൽ ഗാസ്ട്രിക് കാൻസർ അവേർനെസ് മാസം 2026 ഈ മാസം ആരംഭിച്ചു. ഡോക്ടർമാർ ആമ്ലത്വം അല്ലെങ്കിൽ ജീർണ്ണപ്രശ്നം എന്ന് കരുതുന്ന അഞ്ച് ലക്ഷണങ്ങൾ ശ്രദ്ധിക്കണമെന്ന് പറയുന്നു. സ്ഥിരമായ വയറുവേദന അവഗണിക്കരുതെന്ന് അവർ ഊന്നിപ്പറയുന്നു.",
+  "why": "മുന്നറിയിപ്പ് ചികിത്സാ ഫലങ്ങൾ മെച്ചപ്പെടുത്തും, അതിനാൽ യുവാക്കൾക്ക് അസാധാരണമായ വയറുവേദനകൾ ശ്രദ്ധിച്ച്, തുടർച്ചയായി ഉണ്ടെങ്കിൽ ഡോക്ടറോട് സംസാരിക്കണം.",
+  "tags": [
+   "ഗാസ്ട്രിക്‌കാൻസർ",
+   "ആരോഗ്യബോധം",
+   "യുവാവസ്ഥ",
+   "മുന്‍നിരീക്ഷണം",
+   "ലക്ഷണങ്ങൾ"
+  ]
+ }
+}

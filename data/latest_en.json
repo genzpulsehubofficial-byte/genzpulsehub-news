@@ -1,5 +1,100 @@
 [
  {
+  "id": "d8d3ca3594c1",
+  "created": "2026-11-23T01:20:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/over-4850-buses-16-special-trains-to-run-for-karthigai-deepam-in-tiruvannamalai/article71731380.ece",
+  "headline": "4,850 Buses and 16 Trains Ready for Karthigai Deepam",
+  "hook": "Massive travel boost for the biggest night of lights in Tamil Nadu.",
+  "what": "The state has deployed over 4,850 buses and 16 special trains to move pilgrims to Tiruvannamalai for the Karthigai Deepam festival. Officials inspected civic and security arrangements before the event.",
+  "why": "Extra transport aims to ease crowd movement and keep safety high, so plan your trip early if you’re heading to the celebrations.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Tiruvannamalai",
+   "Travel",
+   "Festival",
+   "TamilNadu"
+  ]
+ },
+ {
+  "id": "a17e25e307c8",
+  "created": "2026-11-23T01:21:17+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/hyderabad-police-probe-hoax-threat-email-warning-of-mumbai-like-attack-12363391#publisher=newsstand",
+  "headline": "Hyderabad Police Investigate Hoax Email Threat",
+  "hook": "A fake warning sparked a citywide alert.",
+  "what": "A threatening email claiming a 26/11‑style attack was sent in Hyderabad. Police say the message is a hoax. Cyber Crime officials are tracing the senders.",
+  "why": "Students should verify alerts before sharing them, as false warnings can cause panic. Stay alert to official updates from authorities.",
+  "tags": [
+   "Hyderabad",
+   "CyberCrime",
+   "HoaxAlert",
+   "Safety",
+   "Youth"
+  ]
+ },
+ {
+  "id": "5b3fccae649c",
+  "created": "2026-11-23T01:21:20+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Oncodaily",
+  "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqR0hkMWEtTlRhaFZxYmY1NUtMVi1TZWx5OHgwUVBWVlZxemU2T1ZLVXFHekk1R2xzU2JCaHVuc2xQVlZNMnN2clZYRmJXUHlHeUtkc2VlOEh5Z1Z1ZnFZQ0hWbw?oc=5",
+  "headline": "Gastric Cancer Month 2026: Spot 5 Hidden Symptoms",
+  "hook": "A simple stomach ache could hide a serious warning.",
+  "what": "June marks Gastric Cancer Awareness Month 2026 worldwide. Doctors highlight five symptoms that are often mistaken for acidity or indigestion. They urge people not to ignore persistent stomach discomfort.",
+  "why": "Early detection can improve outcomes, so teens should watch for unusual stomach issues and seek medical advice if they persist.",
+  "tags": [
+   "gastriccancer",
+   "healthawareness",
+   "youthhealth",
+   "prevention",
+   "symptoms"
+  ]
+ },
+ {
+  "id": "2897c37c2bc9",
+  "created": "2026-11-23T01:21:23+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXh6RUkzdU5jUWc4MW9SVVdzeUpFN29lWl8tSHR1MXdYc0c2YjAtc2JWMnVlQk1ZdElZQ3FiWFRJZVk2S3JPYlhzSzBVbGdOcW5wczRDVkJESEI5SkRzVFlEV293Y0c0T29Ycl91a19Bcl9uNFg5dEhTNEU4YUF4M3BVc0pKNWhHYll6M2ZVODJPMXQ5ZFI4Uk5ZUUpVWEZhR2Q2T2w3SWk1QXdaQ0Q5V0tn0gG3AUFVX3lxTFBfaGdZeDVjTHpueWVQSWtsX2hPQlBkTWRkRW1EbjgzQ1dQRzhjc2RVVUZaVHVOdzFvR0RyQzlfNWRqT1lQbjNaVURzNFFZcmduZ1h2WnZxSzh5RVlsMjlhckdSY1J0RThHQ3k2V0RoQU5hYTIwQkdzX1M1RUVjek9hRDJJNWpHcmNYWlR4eElTYnFMeWpReWJOVWtMNG9zZ0E1UW55WllmQkN0ZkhxSTNsNEs3aU91TQ?oc=5",
+  "headline": "Liverpool rout 10-man Man United in Pochettino’s rough debut",
+  "hook": "A fresh United boss watches his side get demolished.",
+  "what": "Liverpool beat Manchester United by a large margin after United were reduced to ten men when Leny Yoro was sent off. The result marked a disastrous opening for new United manager Mauricio Pochettino.",
+  "why": "United’s poor start could affect their league standing and fan morale, so followers should watch upcoming matches and any squad changes.",
+  "tags": [
+   "Liverpool",
+   "ManUtd",
+   "PremierLeague",
+   "Pochettino",
+   "Football"
+  ]
+ },
+ {
+  "id": "d545fa0b300f",
+  "created": "2026-11-23T01:21:26+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Moneycontrol.com",
+  "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSzR6VzNLbnVxS2RQb3NZOWhrTGs2NzE5N1M3VVctRGpWQlRVbTJBSHZaQ0RaUHZtUlFTMDNtSW9zTDlZUlo2elA4bzJUNnZwc1lTam9nZmt6eF9jZG9TNllRQmN2WklhbU54VHlrdTNaUTExdENkUnZjOWg2emo3QkNLemFaX2Jyc0lMRldxazhPZzlybUxWMGhwV0NtRF9XU19lSzE0cTE0NFhzLXdNcl9oX09MQ1J6THNpdk9VZm9XMFhpSTM2VFZGaUtUVTg0aEx3SUtrZ05xZURkaDd5OWV2UklEOFZmMmhudXdyY3ZZSVMtRi000gH8AUFVX3lxTFB5Ukhfb1VXWTNGOGNCU2FHcTBCUG9nRjdLYk1IREJ0OHdEX2RnaWQzdmp4TEFQS2dkQl93cEFNdmJVYlRDZ25OS2tPQ1BCUVJNSW90TWtBWVAzSjl4VFVXSU96dFVSTTkzY2I0SUp4dER6VW90MjdMaDMwSDlTcDE4TXVrUFgxb1BNZ01wY0dPV3RncS1aRVdiOUdlaThkaTNtSzVpbzJ2TnRvSG5MSldJTWc3X3c4Rk80MmJPU2ZxemdJSXdUdE1CR3BTN3Z0RnMyRmcwOUFLN3hodlZoaWFvWFZYTjgzeEp0SzB3eEk0c2NxSWw5T1laUl9CRQ?oc=5",
+  "headline": "US GDP, FIIs and Oil to Drive Dalal Street This Week",
+  "hook": "Ten data points could set the tone for Indian stocks.",
+  "what": "Analysts say the upcoming week will hinge on US GDP figures, foreign institutional investor sentiment, crude oil price moves and flash PMI numbers. Additional triggers include the NIFTY monthly expiry and overall FII activity.",
+  "why": "These indicators affect market direction, so young investors should watch them before making trades.",
+  "tags": [
+   "stockmarket",
+   "USGDP",
+   "FIIs",
+   "oilprices",
+   "PMI"
+  ]
+ },
+ {
   "id": "a7d29f2d9db9",
   "created": "2026-11-23T00:29:41+05:30",
   "category": "headlines",
@@ -653,101 +748,6 @@
    "EMS",
    "Radha",
    "loss"
-  ]
- },
- {
-  "id": "d85828f828db",
-  "created": "2026-11-22T17:42:43+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-salary-hike-why-employees-want-50-da-merged-with-basic-pay-before-fitment-factor-calculation-11795347645844.html",
-  "headline": "Employees push to merge 50% DA with basic pay",
-  "hook": "A tweak in pay rules could boost future salaries.",
-  "what": "The BPMS union has asked the 8th Pay Commission to combine half of the current Dearness Allowance with basic salary and pension before finalising the new pay structure. The suggestion aims to increase the salary base used for the fitment factor, but it still needs government clearance.",
-  "why": "If approved, it could raise the reference salary for many workers, affecting future raises and pensions, which may impact young job seekers and their families.",
-  "tags": [
-   "paycommission",
-   "salary",
-   "DA",
-   "government",
-   "employees"
-  ]
- },
- {
-  "id": "e02be9877a2a",
-  "created": "2026-11-22T17:42:49+05:30",
-  "category": "exams",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jkssb-exam-cheating-racket-six-more-arrested-six-government-employees-among-accused/article71731253.ece",
-  "headline": "JKSSB cheating ring sees six more arrests, includes govt staff",
-  "hook": "Exam paper leaked on Telegram, police nab more culprits",
-  "what": "Police arrested six additional people in a cheating network tied to the JKSSB exam. The scheme allegedly involved removing the question paper from the test centre, photographing it and sharing it via Telegram with selected candidates. Six government employees are among those charged.",
-  "why": "Such fraud harms fair competition for jobs that many young Indians aspire to, so staying alert and reporting irregularities is important. Focus on honest preparation for exams.",
-  "tags": [
-   "exams",
-   "cheating",
-   "JKSSB",
-   "telegram",
-   "arrests"
-  ]
- },
- {
-  "id": "9dd0dccc3289",
-  "created": "2026-11-22T17:42:53+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW5XYWRBUjBnbU5HYjFzMHpTcUZXb0R5MnNtWTg4cHhIRVI4QjgtLWVkeXVUeFk3b0FrTE85eGlGNWdDc21DMWRwaWdjX21yb3NxYXBqUGNHYXROaklvaG0xa3k1TGs1UldxZmZyZGdCVEl5Z0NQcXZpSG9ZWjFibUFXSEFuemZmdFd5N3h3?oc=5",
-  "headline": "Aakasamlo Oka Tara’s Day 3 Box Office Report",
-  "hook": "The Telugu drama sees mixed reactions and modest earnings.",
-  "what": "Day three earnings were reported after the film showed strong growth on its second day, almost matching the opening of ‘Sita Ramam’. Reviews highlighted Dulquer Salmaan and Satvika Veeravalli’s performances, while filmmaker Arun Gopy praised Salmaan’s appeal to non‑Malayali viewers.",
-  "why": "Understanding its performance helps young movie‑goers decide if the film is worth watching now or later.",
-  "tags": [
-   "AakasamloOkaTara",
-   "DulquerSalmaan",
-   "TeluguCinema",
-   "BoxOffice",
-   "GenZ"
-  ]
- },
- {
-  "id": "ae645419da94",
-  "created": "2026-11-22T17:42:55+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "DD News",
-  "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXh3TzNoMzlRS194V2dOUlhrbEwtY3oxUko2dFBILTZEUllhRnFwd3QxQU5tWGNMeWJHb2NlTXZhcXIzMXRBekwtb1A2dDBGZVZNX0xZb2FqT1h3czQycFYwR2JEd3UtdHJwRU1oTmxCMVN0aFVaeV9hejhVR0Fkd1c5Ull0TXV1bU5iUFVJOUlJdFQ3OHB3d0QwNVhETVRQWnVaLTdxdE1XRE1ydVQ1NzlHN0dxdlVtUkhfbw?oc=5",
-  "headline": "India pivots to preventive and precision health research",
-  "hook": "The nation is now focusing on early detection and personalized care.",
-  "what": "India is redirecting its health research agenda toward preventive strategies and precision medicine, using molecular and genetic methods. This shift highlights the country's growing role as a global centre for diabetes research and innovation. The priorities were underscored at the Health Summit 2026.",
-  "why": "Early detection and tailored treatments can improve health outcomes for young people, especially for diabetes. Staying aware of preventive health options helps teens take charge of their wellbeing.",
-  "tags": [
-   "health",
-   "prevention",
-   "precisionMedicine",
-   "diabetes",
-   "research"
-  ]
- },
- {
-  "id": "f23f1afaea78",
-  "created": "2026-11-22T16:49:31+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/em-radha-daughter-of-ems-namboodiripad-passes-away/article71730912.ece",
-  "headline": "Kerala activist E.M. Radha, 70, passes away",
-  "hook": "A veteran of Kerala’s women and senior bodies dies.",
-  "what": "E.M. Radha, aged 70 and daughter of former chief minister E.M.S. Namboodiripad, died recently. She had been part of the Kerala State Elderly Commission and previously served on the State Women’s Commission.",
-  "why": "Her work shaped policies for seniors and women in Kerala, highlighting the value of public service for young people.",
-  "tags": [
-   "Kerala",
-   "ElderlyCommission",
-   "WomenCommission",
-   "EMRadha",
-   "PublicService"
   ]
  }
 ]

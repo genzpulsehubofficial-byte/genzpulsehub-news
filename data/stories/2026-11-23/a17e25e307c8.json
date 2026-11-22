@@ -1,0 +1,37 @@
+{
+ "id": "a17e25e307c8",
+ "created": "2026-11-23T01:21:17+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/hyderabad-police-probe-hoax-threat-email-warning-of-mumbai-like-attack-12363391#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Hyderabad Police Investigate Hoax Email Threat",
+  "hook": "A fake warning sparked a citywide alert.",
+  "what": "A threatening email claiming a 26/11‑style attack was sent in Hyderabad. Police say the message is a hoax. Cyber Crime officials are tracing the senders.",
+  "why": "Students should verify alerts before sharing them, as false warnings can cause panic. Stay alert to official updates from authorities.",
+  "tags": [
+   "Hyderabad",
+   "CyberCrime",
+   "HoaxAlert",
+   "Safety",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഹൈദരാബാദ് പോലീസ് ഹോക്ക് ഇമെയിൽ ഭീഷണി പരിശോധിക്കുന്നു",
+  "hook": "ഒരു കൃത്രിമ മുന്നറിയിപ്പ് നഗരത്തെ ഉണർത്തി.",
+  "what": "ഹൈദരാബാദിൽ 26/11‑പോലുള്ള ആക്രമണം എന്ന് ഭീഷണിപ്പെടുത്തുന്ന ഒരു ഇമെയിൽ ലഭിച്ചു. പോലീസ് ഇത് ഹോക്ക് ആണെന്ന് സ്ഥിരീകരിച്ചു. സൈബർ ക്രൈം ഉദ്യോഗസ്ഥർ അയച്ചവരെ കണ്ടെത്താൻ ശ്രമിക്കുന്നു.",
+  "why": "വിദ്യാർത്ഥികൾ മുന്നറിയിപ്പുകൾ പങ്കിടുന്നതിന് മുമ്പ് ഔദ്യോഗിക ഉറവിടം പരിശോധിക്കണം, തെറ്റായ വാർത്തകൾ ഭയമുണ്ടാക്കാം. അധികാരികളുടെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Hyderabad",
+   "CyberCrime",
+   "HoaxAlert",
+   "Safety",
+   "Youth"
+  ]
+ }
+}

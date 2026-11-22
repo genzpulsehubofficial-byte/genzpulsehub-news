@@ -1,0 +1,37 @@
+{
+ "id": "d545fa0b300f",
+ "created": "2026-11-23T01:21:26+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Moneycontrol.com",
+ "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSzR6VzNLbnVxS2RQb3NZOWhrTGs2NzE5N1M3VVctRGpWQlRVbTJBSHZaQ0RaUHZtUlFTMDNtSW9zTDlZUlo2elA4bzJUNnZwc1lTam9nZmt6eF9jZG9TNllRQmN2WklhbU54VHlrdTNaUTExdENkUnZjOWg2emo3QkNLemFaX2Jyc0lMRldxazhPZzlybUxWMGhwV0NtRF9XU19lSzE0cTE0NFhzLXdNcl9oX09MQ1J6THNpdk9VZm9XMFhpSTM2VFZGaUtUVTg0aEx3SUtrZ05xZURkaDd5OWV2UklEOFZmMmhudXdyY3ZZSVMtRi000gH8AUFVX3lxTFB5Ukhfb1VXWTNGOGNCU2FHcTBCUG9nRjdLYk1IREJ0OHdEX2RnaWQzdmp4TEFQS2dkQl93cEFNdmJVYlRDZ25OS2tPQ1BCUVJNSW90TWtBWVAzSjl4VFVXSU96dFVSTTkzY2I0SUp4dER6VW90MjdMaDMwSDlTcDE4TXVrUFgxb1BNZ01wY0dPV3RncS1aRVdiOUdlaThkaTNtSzVpbzJ2TnRvSG5MSldJTWc3X3c4Rk80MmJPU2ZxemdJSXdUdE1CR3BTN3Z0RnMyRmcwOUFLN3hodlZoaWFvWFZYTjgzeEp0SzB3eEk0c2NxSWw5T1laUl9CRQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US GDP, FIIs and Oil to Drive Dalal Street This Week",
+  "hook": "Ten data points could set the tone for Indian stocks.",
+  "what": "Analysts say the upcoming week will hinge on US GDP figures, foreign institutional investor sentiment, crude oil price moves and flash PMI numbers. Additional triggers include the NIFTY monthly expiry and overall FII activity.",
+  "why": "These indicators affect market direction, so young investors should watch them before making trades.",
+  "tags": [
+   "stockmarket",
+   "USGDP",
+   "FIIs",
+   "oilprices",
+   "PMI"
+  ]
+ },
+ "ml": {
+  "headline": "US GDP, FIIs, എണ്ണ ഈ ആഴ്ച ഡാലല്‍ സ്റ്റ്രീറ്റ് നയിക്കും",
+  "hook": "പത്ത് പ്രധാന ഡാറ്റാ പോയിന്റുകൾ ഇന്ത്യൻ ഷെയറുകൾക്ക് വഴികാട്ടി",
+  "what": "വിശകലകർ പറയുന്നത്, അടുത്ത ആഴ്ച US GDP, വിദേശ സ്ഥാപന നിക്ഷേപകരുടെ മനോഭാവം, ക്രൂഡ് ഓയിൽ വില, ഫ്ലാഷ് PMI സംഖ്യകൾ എന്നിവയാണ് മാർക്കറ്റിന്റെ ദിശ നിർണ്ണയിക്കാൻ പ്രധാനമെന്ന്. കൂടാതെ NIFTY മാസാന്തം എക്സ്പൈറി, മൊത്തം FII പ്രവർത്തനവും പ്രധാന ട്രിഗറുകളാണ്.",
+  "why": "ഈ സൂചികകൾ മാർക്കറ്റ് ചലനത്തെ ബാധിക്കും, അതിനാൽ ട്രേഡിംഗ് തീരുമാനങ്ങൾ എടുക്കുന്നതിന് മുമ്പ് അവ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "USGDP",
+   "FIIs",
+   "എണ്ണവില",
+   "PMI"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "d8d3ca3594c1",
+ "created": "2026-11-23T01:20:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/over-4850-buses-16-special-trains-to-run-for-karthigai-deepam-in-tiruvannamalai/article71731380.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "4,850 Buses and 16 Trains Ready for Karthigai Deepam",
+  "hook": "Massive travel boost for the biggest night of lights in Tamil Nadu.",
+  "what": "The state has deployed over 4,850 buses and 16 special trains to move pilgrims to Tiruvannamalai for the Karthigai Deepam festival. Officials inspected civic and security arrangements before the event.",
+  "why": "Extra transport aims to ease crowd movement and keep safety high, so plan your trip early if you’re heading to the celebrations.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Tiruvannamalai",
+   "Travel",
+   "Festival",
+   "TamilNadu"
+  ]
+ },
+ "ml": {
+  "headline": "കാർത്തികൈദീപത്തിനായി 4,850 ബസുകളും 16 ട്രെയിനുകളും",
+  "hook": "തമിഴ്നാട്ടിലെ വലിയ വെളിച്ചോത്സവത്തിന് യാത്രാ സൗകര്യം വർദ്ധിച്ചു.",
+  "what": "കാർത്തികൈദീപം ആഘോഷിക്കാൻ തിരുവന്നാമലായി പോകുന്ന ഭക്തികൾക്കായി 4,850‑ലധികം ബസുകളും 16 പ്രത്യേക ട്രെയിനുകളും വിന്യസിച്ചു. ചടങ്ങിന് മുമ്പ് സിവിക്, സുരക്ഷാ ഒരുക്കങ്ങൾ പരിശോധിച്ചു.",
+  "why": "വലിയ തിരക്കുകൾ ഒഴിവാക്കാനും സുരക്ഷ ഉറപ്പാക്കാനും ഈ അധിക ഗതാഗതം സഹായിക്കുന്നു; നിങ്ങൾക്ക് പോകാൻ പദ്ധതിയുണ്ടെങ്കിൽ മുൻകൂട്ടി യാത്രാ ക്രമീകരണം ചെയ്യുക.",
+  "tags": [
+   "കാർത്തികൈദീപം",
+   "തിരുവന്നാമലായി",
+   "യാത്ര",
+   "പൂവത്സരം",
+   "തമിഴ്നാട്"
+  ]
+ }
+}

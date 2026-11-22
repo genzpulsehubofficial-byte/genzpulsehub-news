@@ -1,0 +1,37 @@
+{
+ "id": "2897c37c2bc9",
+ "created": "2026-11-23T01:21:23+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXh6RUkzdU5jUWc4MW9SVVdzeUpFN29lWl8tSHR1MXdYc0c2YjAtc2JWMnVlQk1ZdElZQ3FiWFRJZVk2S3JPYlhzSzBVbGdOcW5wczRDVkJESEI5SkRzVFlEV293Y0c0T29Ycl91a19Bcl9uNFg5dEhTNEU4YUF4M3BVc0pKNWhHYll6M2ZVODJPMXQ5ZFI4Uk5ZUUpVWEZhR2Q2T2w3SWk1QXdaQ0Q5V0tn0gG3AUFVX3lxTFBfaGdZeDVjTHpueWVQSWtsX2hPQlBkTWRkRW1EbjgzQ1dQRzhjc2RVVUZaVHVOdzFvR0RyQzlfNWRqT1lQbjNaVURzNFFZcmduZ1h2WnZxSzh5RVlsMjlhckdSY1J0RThHQ3k2V0RoQU5hYTIwQkdzX1M1RUVjek9hRDJJNWpHcmNYWlR4eElTYnFMeWpReWJOVWtMNG9zZ0E1UW55WllmQkN0ZkhxSTNsNEs3aU91TQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Liverpool rout 10-man Man United in Pochettino’s rough debut",
+  "hook": "A fresh United boss watches his side get demolished.",
+  "what": "Liverpool beat Manchester United by a large margin after United were reduced to ten men when Leny Yoro was sent off. The result marked a disastrous opening for new United manager Mauricio Pochettino.",
+  "why": "United’s poor start could affect their league standing and fan morale, so followers should watch upcoming matches and any squad changes.",
+  "tags": [
+   "Liverpool",
+   "ManUtd",
+   "PremierLeague",
+   "Pochettino",
+   "Football"
+  ]
+ },
+ "ml": {
+  "headline": "ലിവർപൂൾ 10-മാൻ മാൻ യുണൈറ്റഡ്‌നെ പച്ചെറ്റിനോയുടെ ദുരിതഭരിതമായ തുടക്കത്തിൽ പരാജയപ്പെടുത്തി",
+  "hook": "പുതിയ മാനേജർ പച്ചെറ്റിനോയുടെ ആദ്യ മത്സരം തന്നെ വലിയ തോൽവിയായി.",
+  "what": "ലിവർപൂൾ മാൻ യുണൈറ്റഡ്‌നെ വലിയ തോതിൽ തോൽപ്പിച്ചു, ലെനി യോറോയുടെ റെഡ് കാർഡിനുശേഷം യുണൈറ്റഡ് 10-മാനായി കളിച്ചു. ഇത് പച്ചെറ്റിനോയുടെ മാന്ചസ്റ്റർ യുണൈറ്റഡ്‌ക്കുള്ള ദുരിതകരമായ തുടക്കമായി.",
+  "why": "യുണൈറ്റഡിന്റെ ഈ തോൽവി ലീഗ് സ്ഥാനത്തെ ബാധിക്കാം, അതിനാൽ ഫാൻമാർ അടുത്ത മത്സരങ്ങളും ടീമിന്റെ മാറ്റങ്ങളും ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Liverpool",
+   "ManUtd",
+   "PremierLeague",
+   "Pochettino",
+   "Football"
+  ]
+ }
+}
