@@ -1,0 +1,37 @@
+{
+ "id": "31331367d933",
+ "created": "2026-11-22T16:50:16+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/no-invite-for-tejashwi-yadav-rjd-workers-tear-down-posters-on-nitish-setu-12361713#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "RJD workers remove posters from Nitish Setu after Yadav not invited",
+  "hook": "Tejashwi Yadav was left out, and his party’s workers pulled down bridge ads.",
+  "what": "RJD members dismantled campaign posters that were displayed on the Nitish Setu bridge. The removal came after Tejashwi Yadav was not given an invitation to an event.",
+  "why": "It highlights political tension in Bihar and shows how parties react to perceived slights. Stay aware of local political developments that could affect community projects.",
+  "tags": [
+   "politics",
+   "Bihar",
+   "RJD",
+   "NitishSetu",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "RJD തൊഴിലാളികൾ Yadavക്ക് ക്ഷണം ഇല്ലാതെ Nitish Setuയിലെ പോസ്റ്ററുകൾ നീക്കി",
+  "hook": "Tejashwi Yadavക്ക് ക്ഷണം ലഭിച്ചില്ല, അതിനുശേഷം RJD അംഗങ്ങൾ പാലം上的 പോസ്റ്ററുകൾ തകർത്തു.",
+  "what": "RJD അംഗങ്ങൾ Nitish Setu പാലത്തിൽ സ്ഥാപിച്ചിരുന്ന പ്രചാരണ പോസ്റ്ററുകൾ നീക്കി. ഈ നടപടി Yadavക്ക് ക്ഷണം ലഭിച്ചില്ലെന്ന കാരണത്താൽ ഉണ്ടായി.",
+  "why": "ഇത് ബിഹാറിലെ രാഷ്ട്രീയ സംഘർഷം കാണിക്കുന്നു, യുവജനങ്ങൾക്ക് പ്രദേശിക രാഷ്ട്രീയത്തെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കാൻ ആവശ്യമാണ്.",
+  "tags": [
+   "rajneeti",
+   "Bihar",
+   "RJD",
+   "NitishSetu",
+   "youth"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "df8c709ecebd",
+ "created": "2026-11-22T16:50:24+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/audio/reviews/lumio-aura-5-review-12354857",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Lumio Aura 5 speakers hit Indian market at ₹22,999",
+  "hook": "A compact speaker that could replace your soundbar.",
+  "what": "Lumio launched the Aura 5 speaker in India with a price tag of ₹22,999. Reviewers say it can serve as an alternative to a traditional soundbar.",
+  "why": "For teens looking for good audio without a bulky setup, the Aura 5 offers a budget-friendly option. Consider it if you want decent sound for music or movies at home.",
+  "tags": [
+   "Lumio",
+   "speakers",
+   "audio",
+   "budget",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Lumio Aura 5 സ്പീക്കറുകൾ ഇന്ത്യയിൽ ₹22,999 വിലയിൽ",
+  "hook": "ബൾക്കി സൌണ്ട്‌ബാർക്ക് പകരം ഇതു ഉപയോഗിക്കാം.",
+  "what": "Lumio ഇന്ത്യയിൽ Aura 5 സ്പീക്കർ ₹22,999 വിലയിൽ പുറത്തിറക്കി. റിവ്യൂവുകൾ പറയുന്നു, ഇത് സാധാരണ സൌണ്ട്‌ബാറിന് പകരം ഉപയോഗിക്കാം.",
+  "why": "വലിയ ഉപകരണം ഇല്ലാതെ നല്ല ശബ്ദം വേണമെന്നു ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് ഇത് ബജറ്റിന് അനുയോജ്യമാണ്. വീട്ടിൽ സംഗീതം അല്ലെങ്കിൽ സിനിമകൾക്കായി നല്ല ശബ്ദം വേണമെങ്കിൽ പരിഗണിക്കാം.",
+  "tags": [
+   "Lumio",
+   "സ്പീക്കർ",
+   "ഓഡിയോ",
+   "ബജറ്റ്",
+   "ടെക്"
+  ]
+ }
+}

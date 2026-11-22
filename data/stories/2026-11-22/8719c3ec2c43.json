@@ -1,0 +1,37 @@
+{
+ "id": "8719c3ec2c43",
+ "created": "2026-11-22T16:50:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "News On AIR",
+ "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmFLSkZkaUdadk5zT0t0NkhqSDZPTXM3a1Q4UGpCb1RrLTlIZEdCVEVXcXNkVWxLeHRuYm9FS2NNb1JUSzNXcGJjMERkRUVHZzQwXy1BanUySUd5VTBxZFF3YWsyUGt3WDByT1RYYTBLTm9vVVVjM1FwQm5jOXNhSU1NaTBYQVE3ZkpmLXJGY25wUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US President lauds India's fast growth and low rates",
+  "hook": "Trump says India’s economy could inspire the US.",
+  "what": "The US President praised India’s recent economic expansion and its low borrowing costs. He noted India’s growth around 7% and said the US could aim for 14‑15% growth. His comments highlighted India’s rising global profile.",
+  "why": "The remarks signal international focus on India’s economy, which could affect future trade and job prospects. Young Indians should stay informed about such developments.",
+  "tags": [
+   "IndiaEconomy",
+   "USPresident",
+   "Growth",
+   "InterestRates",
+   "GlobalFocus"
+  ]
+ },
+ "ml": {
+  "headline": "അമേരിക്കന്‍ പ്രസിഡന്റ് ഇന്ത്യയുടെ വേഗത്തിലുള്ള വളര്‍ച്ചയും കുറഞ്ഞ പലിശയും പ്രശംസിച്ചു",
+  "hook": "ട്രംപ് പറയുന്നു, ഇന്ത്യയുടെ സാമ്പത്തികം അമേരിക്കക്ക് മാതൃകയാകാം",
+  "what": "അമേരിക്കന്‍ പ്രസിഡന്റ് ഇന്ത്യയുടെ സാമ്പത്തിക വളര്‍ച്ചയും കുറഞ്ഞ വായ്പാ നിരക്കുകളും പ്രശംസിച്ചു. ഇന്ത്യയുടെ വളര്‍ച്ച ഏകദേശം 7% ആണെന്ന് അദ്ദേഹം പറഞ്ഞു, യു.എസ് 14‑15% വളര്‍ച്ച ലക്ഷ്യമിടാം എന്ന് സൂചിപ്പിച്ചു. ഈ അഭിപ്രായം ഇന്ത്യയുടെ അന്താരാഷ്ട്ര പ്രാധാന്യം ഉയർത്തി.",
+  "why": "ഇത് ലോകം ഇന്ത്യയുടെ സാമ്പത്തികത്തില്‍ ശ്രദ്ധ കേന്ദ്രീകരിക്കുന്നതിന്റെ സൂചനയാണ്, ഭാവി വ്യാപാരവും തൊഴില്‍ അവസരങ്ങളും ബാധിക്കാം. യുവജനങ്ങള്‍ ഇത്തരത്തിലുള്ള മാറ്റങ്ങളെക്കുറിച്ച് അറിയണം.",
+  "tags": [
+   "ഇന്ത്യാേക്കണോമി",
+   "അമേരിക്കന്‍പ്രസിഡന്റ്",
+   "വളര്‍ച്ച",
+   "പലിശ",
+   "ഗ്ലോബല്‍"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "95dbdab00452",
+ "created": "2026-11-22T16:50:23+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/retired-employees-win-33-95-lakh-gratuity-battle-as-supreme-court-says-pending-appeal-cannot-delay-retirement-benefits-11795343617020.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court orders ₹33.95 lakh gratuity for retired DDA staff",
+  "hook": "Your retirement payout can’t be held up by endless appeals.",
+  "what": "The Supreme Court directed that two former DDA employees receive a total of ₹33.95 lakh as gratuity. Both were cleared of corruption charges, and the court said a pending appeal cannot stall their retirement benefits.",
+  "why": "It shows that legal delays can’t block earned benefits, reminding young workers to stay aware of employee rights. Keep an eye on grievance processes to protect your future payouts.",
+  "tags": [
+   "SupremeCourt",
+   "Gratuity",
+   "RetirementRights",
+   "DDA",
+   "LegalNews"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി 33.95 ലക്ഷം ഗ്രാച്ച്വിറ്റി വിരമിച്ച DDA ജീവനക്കാരന്‍",
+  "hook": "വിരമിച്ചവരുടെ പേയ്മെന്റ് നീണ്ടപ്പീഡനങ്ങളാൽ തടയാൻ കഴിയില്ല.",
+  "what": "സുപ്രീം കോടതി രണ്ട് മുൻ DDA ജീവനക്കാരന്‍ 33.95 ലക്ഷം രൂപ ഗ്രാച്ച്വിറ്റി നൽകാൻ നിർദ്ദേശിച്ചു. ഇരുവരും അഴിമതി കേസിൽ മോചിതരായി, അവരുടെ വിരമിക്കൽ ആനുകൂല്യങ്ങൾ വിചാരണയിൽ നിന്ന് തടയാൻ കഴിയില്ലെന്ന് കോടതി പറഞ്ഞു.",
+  "why": "ഇത് നിയമവിലംബം ആനുകൂല്യങ്ങൾ തടയാൻ പാടില്ലെന്ന് കാണിക്കുന്നു, തൊഴിൽ അവകാശങ്ങളെക്കുറിച്ച് അറിവ് വേണം. യുവ തൊഴിലാളികൾക്ക് തങ്ങളുടെ അവകാശങ്ങൾ സമയത്ത് ഉറപ്പാക്കാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "സുപ്രീംകോടതി",
+   "ഗ്രാച്ച്വിറ്റി",
+   "വിരമിക്കൽഅവകാശം",
+   "DDA",
+   "നിയമവാർത്ത"
+  ]
+ }
+}
