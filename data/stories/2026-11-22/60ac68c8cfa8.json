@@ -1,0 +1,35 @@
+{
+ "id": "60ac68c8cfa8",
+ "created": "2026-11-22T07:58:30+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/sir-special-summary-revision-adds-163-lakh-voters-in-kerala-k8k5tpyu",
+ "source_count": 1,
+ "provider": "gemini",
+ "en": {
+  "headline": "Over 1.63 Lakh New Voters Added to Kerala Draft Electoral Roll",
+  "hook": "Fresh voter list numbers for Kerala are out with a noticeable increase!",
+  "what": "The Election Commission published its Special Summary Revision draft roll on November 12, adding 1,63,318 new voters in Kerala. With this update, the state's total voter count has reached 2.73 crore. The final electoral list will be released on January 4.",
+  "why": "It shows how the state's voting base is shaping up ahead of the official final list coming out in January.",
+  "tags": [
+   "Kerala",
+   "VoterList",
+   "ElectionCommission",
+   "KeralaNews"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളത്തിലെ വോട്ടർ പട്ടികയിൽ 1.63 ലക്ഷത്തിലധികം പുതിയ വോട്ടർമാർ",
+  "hook": "കേരളത്തിലെ ഏറ്റവും പുതിയ വോട്ടർ പട്ടിക വിവരങ്ങൾ പുറത്തുവന്നു!",
+  "what": "നവംബർ 12-ന് തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ പ്രസിദ്ധീകരിച്ച കരട് വോട്ടർ പട്ടികയിൽ 1,63,318 പുതിയ വോട്ടർമാരെ ഉൾപ്പെടുത്തി. ഇതോടെ സംസ്ഥാനത്തെ ആകെ വോട്ടർമാരുടെ എണ്ണം 2.73 കോടിയായി. അന്തിമ വോട്ടർ പട്ടിക ജനുവരി 4-ന് പ്രസിദ്ധീകരിക്കും.",
+  "why": "ജനുവരിയിൽ വരുന്ന അന്തിമ പട്ടികയ്ക്ക് മുന്നോടിയായി സംസ്ഥാനത്തെ വോട്ടർമാരുടെ എണ്ണത്തിലുണ്ടായ മാറ്റങ്ങൾ അറിയാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "Kerala",
+   "VoterList",
+   "ElectionCommission",
+   "KeralaNews"
+  ]
+ }
+}

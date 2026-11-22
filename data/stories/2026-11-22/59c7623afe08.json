@@ -1,0 +1,37 @@
+{
+ "id": "59c7623afe08",
+ "created": "2026-11-22T07:59:35+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/karnataka/fujifilms-spectrum-tour-enthrals-visual-creators-photography-enthusiasts-in-bengaluru/article71646534.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Fujifilm’s Spectrum Tour Lights Up Bengaluru Creators",
+  "hook": "Three days of hands‑on fun for vloggers and photographers.",
+  "what": "The Fujifilm Spectrum tour set up three days of interactive zones in Bengaluru. Participants could try out vlogging, cinematography, street photography and portrait sessions. The event was aimed at visual creators and photography fans.",
+  "why": "Young creators get a chance to test gear and learn new techniques, helping them boost their content. Look for similar events or local workshops to sharpen your skills.",
+  "tags": [
+   "Fujifilm",
+   "Bengaluru",
+   "Photography",
+   "Vlogging",
+   "CreativeTech"
+  ]
+ },
+ "ml": {
+  "headline": "Fujifilm‑ന്റെ Spectrum Tour Bengaluru‑യിൽ സൃഷ്ടികളെ ചൂടാക്കി",
+  "hook": "വ്ലോഗറുകൾക്കും ഫോട്ടോഗ്രാഫർമാർക്കും മൂന്ന് ദിവസത്തെ ഹാൻഡ്സ്‑ഓൺ മজা",
+  "what": "Fujifilm‑ന്റെ Spectrum Tour Bengaluru‑യിൽ മൂന്ന് ദിവസത്തെ ഇന്ററാക്ടീവ് സോൺസ് ഒരുക്കി. പങ്കെടുത്തവർക്ക് വ്ലോഗിംഗ്, സിനിമാറ്റോഗ്രഫി, സ്റ്റ്രീറ്റ് ഫോട്ടോഗ്രഫി, പോർട്രെയ്റ്റ് സെഷനുകൾ പരീക്ഷിക്കാൻ അവസരം ലഭിച്ചു. ഇവന്റ് ദൃശ്യ സൃഷ്ടികളെയും ഫോട്ടോ പ്രേമികളെയും ലക്ഷ്യമിട്ടതാണ്.",
+  "why": "യുവ സൃഷ്ടികൾക്ക് ഉപകരണം പരീക്ഷിക്കുകയും പുതിയ സാങ്കേതികതകൾ പഠിക്കുകയും ചെയ്യാൻ ഇത് ഒരു നല്ല അവസരമാണ്, നിങ്ങളുടെ കണ്ടെന്റ് മെച്ചപ്പെടുത്താൻ സഹായിക്കും. സമാന ഇവന്റുകൾ അല്ലെങ്കിൽ ലോക്കൽ വർക്ക്‌ഷോപ്പുകൾ നോക്കി നിങ്ങളുടെ കഴിവുകൾ ഉയർത്തൂ.",
+  "tags": [
+   "Fujifilm",
+   "Bengaluru",
+   "ഫോട്ടോഗ്രഫി",
+   "വ്ലോഗിംഗ്",
+   "ക്രിയേറ്റീവ്"
+  ]
+ }
+}

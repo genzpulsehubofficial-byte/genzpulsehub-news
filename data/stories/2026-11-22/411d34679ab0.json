@@ -1,0 +1,35 @@
+{
+ "id": "411d34679ab0",
+ "created": "2026-11-22T07:57:36+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-axis-branches-closed-these-five-days-23-30-november-check-city-dates-rbi-calendar-11795311812498.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SBI, HDFC, ICICI shut for five days Nov 23‑30",
+  "hook": "Your bank may be closed—plan cash needs now!",
+  "what": "The State Bank of India, HDFC Bank and ICICI Bank will not operate on five designated days between 23 and 30 November. The closures apply to branches across various regions as per the RBI holiday calendar.",
+  "why": "Students and workers should note the dates to avoid missed transactions or bill payments. Use digital banking or visit before or after the holidays.",
+  "tags": [
+   "bankholidays",
+   "SBI",
+   "HDFC",
+   "ICICI"
+  ]
+ },
+ "ml": {
+  "headline": "SBI, HDFC, ICICI ബാങ്കുകൾ നവംബർ 23‑30 വരെ അഞ്ചു ദിവസത്തെ അടച്ചിടൽ",
+  "hook": "നിങ്ങളുടെ ബാങ്ക് അടഞ്ഞിരിക്കാം—പണം കൈവശം വെക്കാൻ പ്ലാൻ ചെയ്യൂ!",
+  "what": "സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ, HDFC ബാങ്ക്, ICICI ബാങ്ക് എന്നിവ നവംബർ 23 മുതൽ 30 വരെ അഞ്ചു ദിവസത്തെ അവധി ദിനങ്ങളിലായി ശാഖകൾ പ്രവർത്തിക്കില്ല. ഈ ദിവസങ്ങളിൽ വിവിധ പ്രദേശങ്ങളിലെ ശാഖകൾ RBIയുടെ അവധി പട്ടിക പ്രകാരം അടഞ്ഞിരിക്കും.",
+  "why": "വിദ്യാർത്ഥികളും ജോലി ചെയ്യുന്നവരും ഈ തീയതികൾ ശ്രദ്ധിച്ച് ഇടപാടുകൾ അല്ലെങ്കിൽ ബിൽ പേയ്‌മെന്റുകൾ നഷ്ടപ്പെടാതിരിക്കാൻ ഡിജിറ്റൽ ബാങ്കിംഗ് ഉപയോഗിക്കാം അല്ലെങ്കിൽ അവധി മുമ്പോ ശേഷം സന്ദർശിക്കാം.",
+  "tags": [
+   "ബാങ്ക്‌അവധി",
+   "SBI",
+   "HDFC",
+   "ICICI"
+  ]
+ }
+}

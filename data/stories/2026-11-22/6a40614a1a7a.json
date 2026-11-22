@@ -1,0 +1,37 @@
+{
+ "id": "6a40614a1a7a",
+ "created": "2026-11-22T07:59:32+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/company-fd-interest-rates-in-november-2026-muthoot-capital-offers-8-95-compare-shriram-bajaj-finance-and-others-now-11795310664714.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Muthoot Capital tops company FD rates at 8.95%",
+  "hook": "Grab the best fixed‑deposit return for your savings now.",
+  "what": "Muthoot Capital Services is offering an 8.95% interest rate on company fixed deposits for November 2026. Other firms like Shriram Finance and Bajaj Finance have lower rates across one‑year, three‑year and five‑year tenures.",
+  "why": "Higher returns can boost your short‑term savings, so compare the available rates before locking in your money.",
+  "tags": [
+   "FD",
+   "interest",
+   "savings",
+   "finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Muthoot Capital 8.95% FD നിരക്ക് കൊണ്ട് മുന്നിൽ",
+  "hook": "നിങ്ങളുടെ സംരക്ഷണത്തിന് മികച്ച ഫിക്‌സ്‌ഡ് ഡെപ്പോസിറ്റ് റേറ്റ് പിടിച്ചെടുക്കൂ.",
+  "what": "Muthoot Capital Services നവംബർ 2026‑ൽ 8.95% കമ്പനി FD നിരക്ക് നൽകുന്നു. Shriram Finance, Bajaj Finance പോലുള്ള മറ്റ് കമ്പനികളുടെ ഒരു, മൂന്ന്, അഞ്ച് വർഷത്തെ നിരക്കുകൾ ഇതിലും കുറവാണ്.",
+  "why": "ഉയർന്ന വരുമാനം നിങ്ങളുടെ ചെറു കാലത്തെ സംരക്ഷണം വർദ്ധിപ്പിക്കും, അതിനാൽ പണം ലോക്ക് ചെയ്യുന്നതിന് മുമ്പ് നിരക്കുകൾ താരതമ്യം ചെയ്യുക.",
+  "tags": [
+   "FD",
+   "interest",
+   "savings",
+   "finance",
+   "India"
+  ]
+ }
+}

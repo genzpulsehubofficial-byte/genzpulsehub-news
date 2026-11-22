@@ -1,5 +1,117 @@
 [
  {
+  "id": "411d34679ab0",
+  "created": "2026-11-22T07:57:36+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/bank-holidays-next-week-sbi-hdfc-icici-axis-branches-closed-these-five-days-23-30-november-check-city-dates-rbi-calendar-11795311812498.html",
+  "headline": "SBI, HDFC, ICICI shut for five days Nov 23‑30",
+  "hook": "Your bank may be closed—plan cash needs now!",
+  "what": "The State Bank of India, HDFC Bank and ICICI Bank will not operate on five designated days between 23 and 30 November. The closures apply to branches across various regions as per the RBI holiday calendar.",
+  "why": "Students and workers should note the dates to avoid missed transactions or bill payments. Use digital banking or visit before or after the holidays.",
+  "tags": [
+   "bankholidays",
+   "SBI",
+   "HDFC",
+   "ICICI"
+  ]
+ },
+ {
+  "id": "60ac68c8cfa8",
+  "created": "2026-11-22T07:58:30+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/sir-special-summary-revision-adds-163-lakh-voters-in-kerala-k8k5tpyu",
+  "headline": "Over 1.63 Lakh New Voters Added to Kerala Draft Electoral Roll",
+  "hook": "Fresh voter list numbers for Kerala are out with a noticeable increase!",
+  "what": "The Election Commission published its Special Summary Revision draft roll on November 12, adding 1,63,318 new voters in Kerala. With this update, the state's total voter count has reached 2.73 crore. The final electoral list will be released on January 4.",
+  "why": "It shows how the state's voting base is shaping up ahead of the official final list coming out in January.",
+  "tags": [
+   "Kerala",
+   "VoterList",
+   "ElectionCommission",
+   "KeralaNews"
+  ]
+ },
+ {
+  "id": "6a40614a1a7a",
+  "created": "2026-11-22T07:59:32+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/company-fd-interest-rates-in-november-2026-muthoot-capital-offers-8-95-compare-shriram-bajaj-finance-and-others-now-11795310664714.html",
+  "headline": "Muthoot Capital tops company FD rates at 8.95%",
+  "hook": "Grab the best fixed‑deposit return for your savings now.",
+  "what": "Muthoot Capital Services is offering an 8.95% interest rate on company fixed deposits for November 2026. Other firms like Shriram Finance and Bajaj Finance have lower rates across one‑year, three‑year and five‑year tenures.",
+  "why": "Higher returns can boost your short‑term savings, so compare the available rates before locking in your money.",
+  "tags": [
+   "FD",
+   "interest",
+   "savings",
+   "finance",
+   "India"
+  ]
+ },
+ {
+  "id": "59c7623afe08",
+  "created": "2026-11-22T07:59:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/fujifilms-spectrum-tour-enthrals-visual-creators-photography-enthusiasts-in-bengaluru/article71646534.ece",
+  "headline": "Fujifilm’s Spectrum Tour Lights Up Bengaluru Creators",
+  "hook": "Three days of hands‑on fun for vloggers and photographers.",
+  "what": "The Fujifilm Spectrum tour set up three days of interactive zones in Bengaluru. Participants could try out vlogging, cinematography, street photography and portrait sessions. The event was aimed at visual creators and photography fans.",
+  "why": "Young creators get a chance to test gear and learn new techniques, helping them boost their content. Look for similar events or local workshops to sharpen your skills.",
+  "tags": [
+   "Fujifilm",
+   "Bengaluru",
+   "Photography",
+   "Vlogging",
+   "CreativeTech"
+  ]
+ },
+ {
+  "id": "2b517b264525",
+  "created": "2026-11-22T07:59:38+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Rediff",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMDN6SGVBLUtZRzJYZkNBbDZrR2xuWjlOWXhibzY0LUdEdno2MTViRlVHc2x6VXNIbm9YOFRZeTg4VWNNZXlFTFdzemd2N3pOckhrMnlYYmJ2NzJoWnhLcngySlF0VWpWNDJ0X1RyUnlQMjBTcGc?oc=5",
+  "headline": "India loses Sundar, Akash Deep; 8 wickets down vs NZ",
+  "hook": "Two key wickets fell as India fights back in the first test.",
+  "what": "In the first test against New Zealand, batsmen Sundar and Akash Deep were dismissed. Their wickets left India with eight down.",
+  "why": "The loss puts pressure on India's batting line‑up, making the match tense for fans. Keep following the live score for updates.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "sports"
+  ]
+ },
+ {
+  "id": "83a2d41df297",
+  "created": "2026-11-22T07:59:41+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-covid-19-glove-row-1-crore-bought-half-spoil-at-709-cr-loss-vigilance-probe-ordered-otnytkoq",
+  "headline": "Kerala health probe finds ₹7.09 cr loss in glove purchase",
+  "hook": "Half the bought gloves rotted, prompting a vigilance inquiry.",
+  "what": "The state health department’s internal audit showed KMSCL bought about one crore COVID‑19 gloves at high prices. Roughly fifty percent of the stock became unusable, leading to a loss of around ₹7.09 crore. The report has asked for a vigilance investigation into former GM S R Dileep Kumar.",
+  "why": "Misuse of public money can affect health services that young people depend on. Stay informed and demand accountability in government spending.",
+  "tags": [
+   "Kerala",
+   "Health",
+   "Corruption",
+   "Vigilance",
+   "Gloves"
+  ]
+ },
+ {
   "id": "a974da899555",
   "created": "2026-11-22T06:51:46+05:30",
   "category": "jobs",
@@ -640,120 +752,6 @@
    "OBCMorcha",
    "politics",
    "youth"
-  ]
- },
- {
-  "id": "08b57770bae7",
-  "created": "2026-11-22T01:01:32+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/pm-modi-inaugurates-bridge-named-after-nitish-kumar-in-bihars-vaishali-12360068#publisher=newsstand",
-  "headline": "PM Modi Opens Nitish Kumar Bridge in Bihar",
-  "hook": "A new 4,280‑crore bridge links Vaishali.",
-  "what": "Prime Minister Narendra Modi inaugurated a bridge in Vaishali, Bihar, named after Nitish Kumar. The structure cost about Rs 4,280 crore to build.",
-  "why": "The bridge will make travel easier for students and job seekers in the area, so keep an eye on local transport updates.",
-  "tags": [
-   "Infrastructure",
-   "Bihar",
-   "Bridge",
-   "YouthTravel",
-   "India"
-  ]
- },
- {
-  "id": "df0cbaf8a585",
-  "created": "2026-11-22T01:01:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-  "headline": "Trump slams FBI database hack as ‘not good’",
-  "hook": "Even the president is alarmed by a breach in a key crime database.",
-  "what": "The FBI is investigating a reported intrusion of the National Crime Information Center, a major law‑enforcement database. President Trump said the incident is “not good.”",
-  "why": "A breach could expose personal data and affect safety services, so stay aware of online security and follow official updates.",
-  "tags": [
-   "FBI",
-   "hack",
-   "security",
-   "news",
-   "tech"
-  ]
- },
- {
-  "id": "d13f94b2942a",
-  "created": "2026-11-22T01:01:36+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
-  "headline": "India's crypto exchanges hit by banking, regulator and hack woes",
-  "hook": "Your favorite crypto platform could be facing big trouble.",
-  "what": "Cryptocurrency exchanges in India are dealing with bank service cuts, tighter regulatory checks and recent cyber‑security breaches. These issues are exposing weak spots in the sector's operations. Users are seeing delays and some withdrawals not processing.",
-  "why": "Young traders rely on smooth crypto transactions; disruptions can affect investments and access to funds. Stay alert to platform updates and consider diversifying where you keep digital assets.",
-  "tags": [
-   "crypto",
-   "banking",
-   "regulation",
-   "cybersecurity",
-   "India"
-  ]
- },
- {
-  "id": "205d1ef4f3ed",
-  "created": "2026-11-22T01:01:39+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbk0wWldXbnY3OU1hVUV2NlM5clpEUzRmeVVDQzM2X21HTHdwZUJrMTFYWnBhTS10LUdlUGtIUHoxbFUxYkJxbUtjLWgxMVZZT3F5cTNxOVRmQUxZSEdWNC1pcGhvbE5IYUVWX1dORy00ZDlkUFJ3UV9iYlVCdUd1cFRHSEtkbnV6Vm1RWGMwcHdhOEpLbVo4czVQeERkcXFP?oc=5",
-  "headline": "India leads NZ by 118 after Rahul's 136 in Wellington",
-  "hook": "Rahul's big century pushes India ahead in the first Test.",
-  "what": "In the first Test of India's 2026 tour of New Zealand at Wellington, KL Rahul scored 136. Shubman Gill made 98, and India secured a 118‑run lead on Day 3.",
-  "why": "The strong start shows India's ability to compete overseas, inspiring young cricket fans. Keep watching the series for more action.",
-  "tags": [
-   "cricket",
-   "India",
-   "NewZealand",
-   "Test",
-   "sports"
-  ]
- },
- {
-  "id": "ff15c2bd8458",
-  "created": "2026-11-22T01:01:41+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR2VQNG1FcVR5Z0FfanJCQlJfVVpiLUNiSG5LcHVEdEtmdnotMXhXY3g3TEhwdFpfdUxmM25ZaTdSLXJvSXo4cjhjbEs4T0stTTdBRjEzQkxQVzhnNEt1QjRrTzZ5amlnVThKS0trVWo4ZEVDa1ptWWNVUzR2dDA2WFJRRnhrUDJaUWxVZjRweWNMTmdWeXVUQmxaZGxRN1I1T291bnd2TXZqUkpHN0Y0NHBBZTAxcFNhSmNMZF9BZ1dzczc5VThmLTE4MWp5bExOUDd1NDd0OHA0SWx4dEgxQtIB5gFBVV95cUxQWC10Ynl3VS1EY0szM0dGY3NycEJrU1hGZFBfSFlqUjNUVU84NkVxVDBIcEZYZFZDSHVIVGZ4bGFKamtvckNTMlU3SzVlQUJHcVVabXZDN3M4V0tlVFhfeDhENlhqeTMwUjhjSzQtMkpkUVFDdm96MGVKVWp5VmRsaXowTHpSR1BGMklVelRrVGJKcmZXX3daQXRXdk1XYjlfZTFiTF90aE9FOWJYeG9LTm9YWERjbnlaUXNrVzVmZXo0M3Itb1lGZjBjX3NXbXVvNldvb2JNUW15SkszcEJidHBva2Zvdw?oc=5",
-  "headline": "Scientists find way to curb harmful fungus without killing it",
-  "hook": "A fresh angle against drug‑resistant yeast could change treatment.",
-  "what": "Researchers at the Centre for Cellular and Molecular Biology have identified a method that targets the disease‑causing form of a common fungus while allowing its growth to continue. The approach aims to disarm the pathogen rather than destroy it, offering a new direction for antifungal research.",
-  "why": "With fungal infections becoming harder to treat, this strategy could help keep medicines effective. Teens should stay aware of hygiene practices that prevent fungal spread.",
-  "tags": [
-   "fungus",
-   "antifungal",
-   "research",
-   "health",
-   "CCMB"
-  ]
- },
- {
-  "id": "ee235d6db08f",
-  "created": "2026-11-22T00:10:01+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmpVeWFEN21jVng4YTAzQUdPbkdXUy1ZVlB5VUpkbjRXX2Fjc2RmVXN5UndRajZsM3VXTWx4QWpmMWRVUXA5Y3VaSi1iQU5zQzRpRWZuNm5vM3JxMEVLVWxSLUJiWmU3Uy1HUURDNVdTNzVrMlBpck5aQy13Z1ZQYzY1TmpDcVRUWE93?oc=5",
-  "headline": "Australia clinches T20I win over England at MCG",
-  "hook": "A nail‑biting finish sees Aussie youngsters lift the trophy chase",
-  "what": "Australia defeated England in the opening T20 International of a five‑match series at the Melbourne Cricket Ground. Nikhil Chaudhary and Aaron Edwards played key roles in the final over, securing a record run chase. The victory gave Australia a 1‑0 series lead.",
-  "why": "The win revives Aussie momentum after a tough week and highlights emerging talent that Indian fans can watch. Follow the series for more exciting cricket action.",
-  "tags": [
-   "cricket",
-   "T20",
-   "Australia",
-   "England",
-   "MCG"
   ]
  }
 ]

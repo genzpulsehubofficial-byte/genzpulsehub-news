@@ -1,0 +1,37 @@
+{
+ "id": "2b517b264525",
+ "created": "2026-11-22T07:59:38+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Rediff",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PMDN6SGVBLUtZRzJYZkNBbDZrR2xuWjlOWXhibzY0LUdEdno2MTViRlVHc2x6VXNIbm9YOFRZeTg4VWNNZXlFTFdzemd2N3pOckhrMnlYYmJ2NzJoWnhLcngySlF0VWpWNDJ0X1RyUnlQMjBTcGc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India loses Sundar, Akash Deep; 8 wickets down vs NZ",
+  "hook": "Two key wickets fell as India fights back in the first test.",
+  "what": "In the first test against New Zealand, batsmen Sundar and Akash Deep were dismissed. Their wickets left India with eight down.",
+  "why": "The loss puts pressure on India's batting line‑up, making the match tense for fans. Keep following the live score for updates.",
+  "tags": [
+   "cricket",
+   "India",
+   "NewZealand",
+   "Test",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യക്ക് സുന്ദർ, ആകാശ് ദീപ് പുറന്തള്ളി; NZ‑വിരുദ്ധം 8 വീക്കറ്റുകൾ",
+  "hook": "പുതിയ ടെസ്റ്റിൽ രണ്ട് പ്രധാന wicketകൾ വീണു, ഇന്ത്യയുടെ പോരാട്ടം ചൂടേറുന്നു.",
+  "what": "ന്യൂസിലാൻഡിനോട് ആദ്യ ടെസ്റ്റിൽ സുന്ദറും ആകാശ് ദീപും ഔട്ട് ആയിരുന്നു. ഇതോടെ ഇന്ത്യയുടെ സ്കോർ 8 വീക്കറ്റുകൾ താഴെ.",
+  "why": "ഇത് ഇന്ത്യയുടെ ബാറ്റിംഗ് ക്രമത്തെ സമ്മർദ്ദത്തിലാക്കുന്നു, ആരാധകർക്ക് മത്സരം ആവേശകരമാക്കുന്നു. തത്സമയ സ്കോർ പിന്തുടരൂ.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "ന്യൂസിലാൻഡ്",
+   "ടെസ്റ്റ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

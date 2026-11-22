@@ -1,0 +1,37 @@
+{
+ "id": "83a2d41df297",
+ "created": "2026-11-22T07:59:41+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-covid-19-glove-row-1-crore-bought-half-spoil-at-709-cr-loss-vigilance-probe-ordered-otnytkoq",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala health probe finds ₹7.09 cr loss in glove purchase",
+  "hook": "Half the bought gloves rotted, prompting a vigilance inquiry.",
+  "what": "The state health department’s internal audit showed KMSCL bought about one crore COVID‑19 gloves at high prices. Roughly fifty percent of the stock became unusable, leading to a loss of around ₹7.09 crore. The report has asked for a vigilance investigation into former GM S R Dileep Kumar.",
+  "why": "Misuse of public money can affect health services that young people depend on. Stay informed and demand accountability in government spending.",
+  "tags": [
+   "Kerala",
+   "Health",
+   "Corruption",
+   "Vigilance",
+   "Gloves"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം ആരോഗ്യവകുപ്പ് ഗ്ലൗസ് വാങ്ങലിൽ 7.09 കോടി നഷ്ടം കണ്ടെത്തി",
+  "hook": "ഒരു കോടി ഗ്ലൗസിൽ പകുതി നശിച്ചു, അന്വേഷണം തുടങ്ങി.",
+  "what": "സംസ്ഥാന ആരോഗ്യവകുപ്പിന്റെ ആഭ്യന്തര പരിശോധനയിൽ കെഎംഎസ്‌സിഎൽ ഏകദേശം ഒരു കോടി COVID‑19 ഗ്ലൗസ് വിലക്കയറ്റം കൊണ്ട് വാങ്ങിയതായി കണ്ടെത്തി. വാങ്ങിയ ഗ്ലൗസിന്റെ പകുതി ഉപയോഗയോഗ്യമല്ലാതെ പോയി, ഏകദേശം 7.09 കോടി രൂപ നഷ്ടം സംഭവിച്ചു. റിപ്പോർട്ട് മുൻ ജനറൽ മാനേജർ എസ് ആർ ദിലീപ് കുമാറിനെതിരെ വിച്വലൻസ് അന്വേഷണം ആവശ്യപ്പെട്ടു.",
+  "why": "പൊതു നിധികളുടെ ദുരുപയോഗം യുവജനങ്ങളുടെ ആരോഗ്യ സേവനങ്ങളെ ബാധിക്കും. സർക്കാർ ചെലവുകൾക്ക് ഉത്തരവാദിത്വം ആവശ്യപ്പെടുക.",
+  "tags": [
+   "കേരളം",
+   "ആരോഗ്യം",
+   "കറപ്ഷൻ",
+   "വിവേചനം",
+   "ഗ്ലൗസ്"
+  ]
+ }
+}
