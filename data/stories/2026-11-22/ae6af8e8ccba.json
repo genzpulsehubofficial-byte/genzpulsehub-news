@@ -1,0 +1,37 @@
+{
+ "id": "ae6af8e8ccba",
+ "created": "2026-11-22T14:06:26+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/factions-of-parishioners-clash-at-kerala-catholic-church-over-resignation-of-priest-police-deployed-101795334303786.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Parishioner groups clash at Kerala church over priest's resignation",
+  "hook": "A priest was locked inside his own church as factions fought.",
+  "what": "At St Anne's Church in Pettah, Kerala, two factions of parishioners confronted each other over Father Theodosius D Cruz's resignation. One group locked the priest inside the presbytery on Sunday morning. Police were deployed to the site.",
+  "why": "The incident shows how local disputes can spill into religious spaces and draw police involvement. Staying aware of community issues helps youths understand safety and civic response.",
+  "tags": [
+   "Kerala",
+   "Church",
+   "Clash",
+   "Police",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "പെട്ടയിലെ സെയ്ന്റ് ആന്‍സ് ചർച്ചില്‍ പുരോഹിതന്‍ രാജി ചുറ്റി സംഘര്‍ഷം",
+  "hook": "ഒരു സംഘം പുരോഹിതനെ പ്രിസ്ബറിയില്‍ അടച്ചു, മറ്റൊരു സംഘം തര്‍ക്കിച്ചു.",
+  "what": "കേരളത്തിലെ പെട്ട, സെയ്ന്റ് ആന്‍സ് ചർച്ചില്‍ രണ്ട് പാരിഷ്യന്‍ സംഘങ്ങള്‍ ഫാദര്‍ തിയോഡോസിയസ് ഡി ക്രൂസ് രാജി സംബന്ധിച്ച് തര്‍ക്കം തുടങ്ങി. ഒരു സംഘം അവനെ പ്രിസ്ബറിയില്‍ അടച്ചു, ഞായറാഴ്ച രാവിലെ. പോലീസ് സന്നിഹിതമായി.",
+  "why": "മതസ്ഥലങ്ങളില്‍ സമൂഹ തര്‍ക്കങ്ങള്‍ പോലീസിന്റെ ഇടപെടല്‍ ആവശ്യപ്പെടുന്ന സാഹചര്യങ്ങള്‍ കാണിക്കുന്നു. യുവാക്കള്‍ ഇത്തരത്തിലുള്ള സംഭവങ്ങള്‍ ശ്രദ്ധിച്ച്, സുരക്ഷയും നിയമവ്യവസ്ഥയും മനസിലാക്കണം.",
+  "tags": [
+   "കേരളം",
+   "ചര്‍ച്ച്",
+   "സംഘര്‍ഷം",
+   "പോലീസ്",
+   "യുവാക്കള്‍"
+  ]
+ }
+}

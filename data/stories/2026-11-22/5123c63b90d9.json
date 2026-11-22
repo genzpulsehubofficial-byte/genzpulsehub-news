@@ -1,0 +1,37 @@
+{
+ "id": "5123c63b90d9",
+ "created": "2026-11-22T14:05:22+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Hundreds Hospitalised After Chowmein at Madhya Pradesh Fair",
+  "hook": "A village fair snack sent over 100 kids to the hospital.",
+  "what": "More than 100 children and 12 adults were taken to the Kirnapur community health centre after eating chowmein at a local fair. A total of 118 children were first admitted, and 45 of them were later moved to Balaghat district hospital for further care.",
+  "why": "The incident underscores the need for strict food safety at public events, reminding young people to be careful about street food hygiene.",
+  "tags": [
+   "health",
+   "foodpoisoning",
+   "MadhyaPradesh",
+   "India",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "മധ്യപ്രദേശിലെ മേളയില്‍ ചോവ്മൈന്‍ കഴിച്ചതിന് ശേഷം നൂറുകണക്കിന് ആശുപത്രിയില്‍",
+  "hook": "ഒരു ഗ്രാമമേളയിലെ സ്നാക്ക് 100‑ലധികം കുട്ടികളെ ആശുപത്രിയിലേക്ക് കൊണ്ടുപോയി.",
+  "what": "മേളയില്‍ ചോവ്മൈന്‍ കഴിച്ചതിന് ശേഷം 100‑ലധികം കുട്ടികളും 12 പ്രായപൂർത്തിയായവരും കിർണാപൂർ കമ്മ്യൂണിറ്റി ഹെൽത്ത് സെന്ററിലേക്ക് കൊണ്ടുവന്നു. ആകെ 118 കുട്ടികളെ ആദ്യം പ്രവേശിപ്പിച്ചു, അതില്‍ 45 കുട്ടികളെ കൂടുതൽ ചികിത്സക്കായി ബാലഘാട് ജില്ലാ ആശുപത്രിയിലേക്ക് മാറ്റി.",
+  "why": "പൊതുജനമേളകളിൽ ഭക്ഷ്യസുരക്ഷയുടെ പ്രാധാന്യം ഇതിലൂടെ വ്യക്തമാവുന്നു; യുവാക്കൾക്ക് സ്ട്രീറ്റ് ഫുഡ് ശുചിത്വം ശ്രദ്ധിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "health",
+   "foodpoisoning",
+   "MadhyaPradesh",
+   "India",
+   "safety"
+  ]
+ }
+}

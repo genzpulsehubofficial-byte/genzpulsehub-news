@@ -1,0 +1,37 @@
+{
+ "id": "e62ffefb7894",
+ "created": "2026-11-22T14:06:35+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/audio/features/best-clip-on-earbuds-in-india-sony-realme-moto-noise-boat-12340588",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sony LinkBuds Clip adds 360 Audio, three modes",
+  "hook": "Clip‑on earbuds now deliver immersive sound on the go",
+  "what": "Sony’s LinkBuds Clip earbuds support the 360 Reality Audio format. They also provide three distinct listening modes.",
+  "why": "Young listeners can enjoy richer, spatial audio for music and games, and switch modes to suit different activities.",
+  "tags": [
+   "Sony",
+   "Earbuds",
+   "360Audio",
+   "Tech",
+   "Music"
+  ]
+ },
+ "ml": {
+  "headline": "Sony LinkBuds Clip‑ല്‍ 360 Reality Audio, മൂന്ന് മോഡുകള്‍",
+  "hook": "ക്ലിപ്പ്‑ഓണ്‍ earbuds‑ല്‍ ഇനി സ്പേഷ്യല്‍ സൌണ്ട്",
+  "what": "Sonyയുടെ LinkBuds Clip 360 Reality Audio പിന്തുണയ്ക്കുന്നു. കൂടാതെ മൂന്ന് വ്യത്യസ്ത ലിസണിംഗ് മോഡുകള്‍ ലഭ്യമാണ്.",
+  "why": "മ്യൂസിക്, ഗെയിംസ് എന്നിവയില്‍ കൂടുതല്‍ ഡൂപ്പ് അനുഭവം ആഗ്രഹിക്കുന്ന യുവാക്കള്‍ക്ക് മോഡ് മാറ്റി ഉപയോഗിക്കാം.",
+  "tags": [
+   "Sony",
+   "Earbuds",
+   "360Audio",
+   "Tech",
+   "Music"
+  ]
+ }
+}

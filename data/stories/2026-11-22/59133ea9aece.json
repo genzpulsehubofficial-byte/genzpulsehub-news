@@ -1,0 +1,37 @@
+{
+ "id": "59133ea9aece",
+ "created": "2026-11-22T14:06:33+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptiq6901ahx",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala to launch rehab and free health for Endosulfan victims",
+  "hook": "Free medical care coming for those affected by toxic pesticide.",
+  "what": "The state government said it will roll out a scientific rehabilitation program for people affected by Endosulfan in Kasaragod. It also promised free healthcare services for the victims.",
+  "why": "Access to treatment can improve health and livelihood for many families in the region. Young people can spread the word or volunteer with local NGOs.",
+  "tags": [
+   "Kasaragod",
+   "Endosulfan",
+   "HealthCare",
+   "Kerala",
+   "Rehab"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം എൻഡോസൾഫാൻ ബാധിതർക്കു സൗജന്യ ചികിത്സയും ശാസ്ത്രീയ പുനരധിവാസവും",
+  "hook": "എൻഡോസൾഫാൻ ബാധിതർക്ക് സൗജന്യ ആരോഗ്യ സേവനങ്ങൾ ഉടൻ ലഭിക്കും.",
+  "what": "സംസ്ഥാന സർക്കാർ കാസർഗോഡ് ജില്ലയിലെ എൻഡോസൾഫാൻ ബാധിതർക്കായി ശാസ്ത്രീയ പുനരധിവാസ പദ്ധതി ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. കൂടാതെ, അവർക്കു സൗജന്യ ആരോഗ്യ സേവനങ്ങളും നൽകും.",
+  "why": "ഇത് രോഗബാധിതരുടെ ആരോഗ്യവും ജീവിത നിലവാരവും മെച്ചപ്പെടുത്താൻ സഹായിക്കും. യുവാക്കൾ ഈ വാർത്ത പങ്കുവെച്ച്, പ്രാദേശിക സംഘടനകളിൽ സഹായം ചെയ്യാം.",
+  "tags": [
+   "Kasaragod",
+   "Endosulfan",
+   "ആരോഗ്യം",
+   "കേരളം",
+   "പുനരധിവാസം"
+  ]
+ }
+}

@@ -1,5 +1,100 @@
 [
  {
+  "id": "5123c63b90d9",
+  "created": "2026-11-22T14:05:22+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
+  "headline": "Hundreds Hospitalised After Chowmein at Madhya Pradesh Fair",
+  "hook": "A village fair snack sent over 100 kids to the hospital.",
+  "what": "More than 100 children and 12 adults were taken to the Kirnapur community health centre after eating chowmein at a local fair. A total of 118 children were first admitted, and 45 of them were later moved to Balaghat district hospital for further care.",
+  "why": "The incident underscores the need for strict food safety at public events, reminding young people to be careful about street food hygiene.",
+  "tags": [
+   "health",
+   "foodpoisoning",
+   "MadhyaPradesh",
+   "India",
+   "safety"
+  ]
+ },
+ {
+  "id": "ae6af8e8ccba",
+  "created": "2026-11-22T14:06:26+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/factions-of-parishioners-clash-at-kerala-catholic-church-over-resignation-of-priest-police-deployed-101795334303786.html",
+  "headline": "Parishioner groups clash at Kerala church over priest's resignation",
+  "hook": "A priest was locked inside his own church as factions fought.",
+  "what": "At St Anne's Church in Pettah, Kerala, two factions of parishioners confronted each other over Father Theodosius D Cruz's resignation. One group locked the priest inside the presbytery on Sunday morning. Police were deployed to the site.",
+  "why": "The incident shows how local disputes can spill into religious spaces and draw police involvement. Staying aware of community issues helps youths understand safety and civic response.",
+  "tags": [
+   "Kerala",
+   "Church",
+   "Clash",
+   "Police",
+   "Youth"
+  ]
+ },
+ {
+  "id": "70b11158d867",
+  "created": "2026-11-22T14:06:31+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fnpo-seeks-maximum-four-year-promotion-wait-for-postal-staff-flags-vacancies-and-career-stagnation-11795332754011.html",
+  "headline": "Postal workers demand four-year cap on promotion wait",
+  "hook": "Long promotion delays are pushing postal staff to quit.",
+  "what": "The Federation of National Postal Organisations has asked the 8th Pay Commission to limit the service period required for promotion to four years. They say the move will tackle career stagnation, long promotion delays and existing vacancies in the Department of Posts.",
+  "why": "If promotions speed up, it could improve job prospects and reduce staff shortages, affecting services teens rely on.",
+  "tags": [
+   "postaljobs",
+   "career",
+   "government",
+   "youth",
+   "jobs"
+  ]
+ },
+ {
+  "id": "59133ea9aece",
+  "created": "2026-11-22T14:06:33+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptiq6901ahx",
+  "headline": "Kerala to launch rehab and free health for Endosulfan victims",
+  "hook": "Free medical care coming for those affected by toxic pesticide.",
+  "what": "The state government said it will roll out a scientific rehabilitation program for people affected by Endosulfan in Kasaragod. It also promised free healthcare services for the victims.",
+  "why": "Access to treatment can improve health and livelihood for many families in the region. Young people can spread the word or volunteer with local NGOs.",
+  "tags": [
+   "Kasaragod",
+   "Endosulfan",
+   "HealthCare",
+   "Kerala",
+   "Rehab"
+  ]
+ },
+ {
+  "id": "e62ffefb7894",
+  "created": "2026-11-22T14:06:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/audio/features/best-clip-on-earbuds-in-india-sony-realme-moto-noise-boat-12340588",
+  "headline": "Sony LinkBuds Clip adds 360 Audio, three modes",
+  "hook": "Clip‑on earbuds now deliver immersive sound on the go",
+  "what": "Sony’s LinkBuds Clip earbuds support the 360 Reality Audio format. They also provide three distinct listening modes.",
+  "why": "Young listeners can enjoy richer, spatial audio for music and games, and switch modes to suit different activities.",
+  "tags": [
+   "Sony",
+   "Earbuds",
+   "360Audio",
+   "Tech",
+   "Music"
+  ]
+ },
+ {
   "id": "d44b980db559",
   "created": "2026-11-22T13:14:28+05:30",
   "category": "headlines",
@@ -650,101 +745,6 @@
    "TDP",
    "YSRCP",
    "LocalPolitics"
-  ]
- },
- {
-  "id": "735650ba9496",
-  "created": "2026-11-22T05:35:05+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Indian Express",
-  "source_url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
-  "headline": "India, China commanders meet again on Arunachal border",
-  "hook": "Another round of talks aims to ease border tension.",
-  "what": "Senior military officials from India and China held a second meeting. The talks focused on calming the situation along the Arunachal frontier.",
-  "why": "Peaceful borders help keep the region stable, which matters for students and travelers. Stay updated with official announcements.",
-  "tags": [
-   "IndiaChina",
-   "Arunachal",
-   "Border",
-   "Security",
-   "Youth"
-  ]
- },
- {
-  "id": "e4d561ce4256",
-  "created": "2026-11-22T05:35:08+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnlmVlNrcU9RM0pXY21Gb3BuU2pWcmZOOVY4cTBHSldmdTJXTmFwaDVCR0Z0VXhyeUp1VUlOVERTUjJzcnBWV3FxbGZ6a3BSUzZJVXRJZGNwZ0FrYzJWVERaRFBNWFZmbENrTzctSFlGMDBob3ZDUmE4TWZMdDN2TDVMMA?oc=5",
-  "headline": "ENE Repeat's Day 3 Box Office Figures Await After 47% Drop",
-  "hook": "The Vishwak Sen starrer’s earnings dip, fans watch the next day closely.",
-  "what": "Tharun Bhascker's ENE Repeat earned Rs 19.40 crore worldwide on its second day, a 47% fall from the previous day. Day‑three numbers are being reported but no figures are released yet. The film is praised as a tribute to friendship and cinema.",
-  "why": "Box‑office trends signal audience interest and affect future projects; teens can stream the movie if they want to watch it.",
-  "tags": [
-   "ENERepeat",
-   "BoxOffice",
-   "VishwakSen",
-   "TharunBhascker",
-   "Bollywood"
-  ]
- },
- {
-  "id": "a8e85f6c5baf",
-  "created": "2026-11-22T05:35:10+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Flashscore.com",
-  "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBCZzY5LUlab2NPOXhJdVhtT2NFMVpDMDAwQ0xOdGU2eVN6VnY3eFZLWGJudEFYMGJMaFZKbGFiX2dGRVdicFpQeUxyVEZoY2xuZDZoMGl1QjVWZlU0RnhGV0pKVzBYUUtOWDF0TEY1RW5nLVZKUERRY0pTWkFZVlotcmlGVXRGUW5XMlJPLXpINERwdDZz?oc=5",
-  "headline": "Moller vs Seyboth Wild set for 21 Nov 2026",
-  "hook": "A tennis clash you won’t want to miss",
-  "what": "Elmer Moller will take on Thiago Seyboth Wild on 21 November 2026, as listed on Flashscore. The match details are posted on the site.",
-  "why": "Keeping up with live scores helps young fans stay connected to the sport and follow their favourite players.",
-  "tags": [
-   "tennis",
-   "sports",
-   "liveScore",
-   "match",
-   "youngFans"
-  ]
- },
- {
-  "id": "eea0f2074f37",
-  "created": "2026-11-22T05:35:13+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNczNTTlRMMGdfMDhFb3hRYVlWcGxxN0MzdWJMUEo4NUhtTjZKVFhGOTk5aVlGcW5oaUkyVnoyWHItT0xERzJuLUJxakk4eVFPcDR0Z203ZVJYaUM1QkdqNU1DN0JIdXpZZEtDcEFNWGozVlhxTnBPT3c2NW5XaDFkdzgtNHl6UGZ1X3VZeXp1c1pNeTduRzRvVFdyOHRuaUstV0V2MnI2MGZjZm85OTEta0JVOWFKR1pxX3Z6SkhKbEhmQkY3TU5SQndSQnkwY0dETUR6THAzZ1NMQVpGUEdGZE5yRnRrR2ZZNkxZb1djS2NiSmRILU1RUm5nNTB0Mll6NXJDLVJ5eHZfdw?oc=5",
-  "headline": "Boycott calls Sandpaper Gate bigger than Cronje scandal",
-  "hook": "A cricket great says the scandal eclipses past match‑fixing.",
-  "what": "Former England opener Geoffrey Boycott said the Sandpaper incident surpasses the Hansie Cronje fixing case. He added that Steve Smith and David Warner should have faced longer bans and that the whole Australian side was involved.",
-  "why": "For Indian fans, it highlights the seriousness of cheating in sport and the need to support clean cricket. Keep an eye on upcoming investigations and discussions.",
-  "tags": [
-   "cricket",
-   "sandpapergate",
-   "sportsintegrity",
-   "boycott",
-   "australia"
-  ]
- },
- {
-  "id": "4b549fa965dd",
-  "created": "2026-11-22T05:35:16+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "GSMArena.com",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdThCNF9CNGcySjNKNFpBQzBNVkRkMVNBWWpHTGpBUWNKaGJFcFJtZEQzNTBVN1duMXNRWm9mbVdBdU0tZFQ1Rzl2Yzl1Z1d6dnBiRVlyMUNWV0otbFR0bEctc1hWcXpNeS1PQUNKcmk3TDVnZ0xOYVdtNXhtTHlld1JNQkM2NFhEb0NzWU12WTF0VEh1LXJwNkVVVHRMX1pRLXlKc1JYR3RTY3RfQllNdNIBrAFBVV95cUxQT3dfVV81TFQ5R1N0RTk3MUhEQ015QU9FSUFrNUFRaFNWQzQ2bVhicExhTVRpN3pJQUltd2g1aGxhRzhqdjFBQ3B4QXFKZU5pUHlINlRDcURVeDNXMU1UdS0xSC1LZ1BKLTlZdnkzM2Qwa1RnRENXSVVJbzNUa2t6eGMtWkE2QURPM1g1VW5mT2pST0hMeTUzc0pUV0piYmpFazhIVVk5OXp4Wm9l?oc=5",
-  "headline": "iPhone Air 2 leak reveals dual-camera design",
-  "hook": "A fresh dummy unit shows Apple’s next-gen iPhone upgrade.",
-  "what": "A leaked dummy unit of the upcoming iPhone Air 2 displays a dual-camera setup. The same leak hints at a production milestone that points to a March 2027 launch for the iPhone 18 and iPhone Air 2. Reports also suggest the iPhone 18 may be priced close to Rs 1 lakh.",
-  "why": "For Indian Gen Z, the design hints at better photography and a possible price jump, so budgeting early could help.",
-  "tags": [
-   "iPhone",
-   "Apple",
-   "leak",
-   "tech",
-   "India"
   ]
  }
 ]

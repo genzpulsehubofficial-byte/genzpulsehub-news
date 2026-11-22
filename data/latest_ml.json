@@ -1,5 +1,100 @@
 [
  {
+  "id": "5123c63b90d9",
+  "created": "2026-11-22T14:05:22+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/madhya-pradesh/over-100-children-12-adults-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh/article71730680.ece",
+  "headline": "മധ്യപ്രദേശിലെ മേളയില്‍ ചോവ്മൈന്‍ കഴിച്ചതിന് ശേഷം നൂറുകണക്കിന് ആശുപത്രിയില്‍",
+  "hook": "ഒരു ഗ്രാമമേളയിലെ സ്നാക്ക് 100‑ലധികം കുട്ടികളെ ആശുപത്രിയിലേക്ക് കൊണ്ടുപോയി.",
+  "what": "മേളയില്‍ ചോവ്മൈന്‍ കഴിച്ചതിന് ശേഷം 100‑ലധികം കുട്ടികളും 12 പ്രായപൂർത്തിയായവരും കിർണാപൂർ കമ്മ്യൂണിറ്റി ഹെൽത്ത് സെന്ററിലേക്ക് കൊണ്ടുവന്നു. ആകെ 118 കുട്ടികളെ ആദ്യം പ്രവേശിപ്പിച്ചു, അതില്‍ 45 കുട്ടികളെ കൂടുതൽ ചികിത്സക്കായി ബാലഘാട് ജില്ലാ ആശുപത്രിയിലേക്ക് മാറ്റി.",
+  "why": "പൊതുജനമേളകളിൽ ഭക്ഷ്യസുരക്ഷയുടെ പ്രാധാന്യം ഇതിലൂടെ വ്യക്തമാവുന്നു; യുവാക്കൾക്ക് സ്ട്രീറ്റ് ഫുഡ് ശുചിത്വം ശ്രദ്ധിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "health",
+   "foodpoisoning",
+   "MadhyaPradesh",
+   "India",
+   "safety"
+  ]
+ },
+ {
+  "id": "ae6af8e8ccba",
+  "created": "2026-11-22T14:06:26+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/factions-of-parishioners-clash-at-kerala-catholic-church-over-resignation-of-priest-police-deployed-101795334303786.html",
+  "headline": "പെട്ടയിലെ സെയ്ന്റ് ആന്‍സ് ചർച്ചില്‍ പുരോഹിതന്‍ രാജി ചുറ്റി സംഘര്‍ഷം",
+  "hook": "ഒരു സംഘം പുരോഹിതനെ പ്രിസ്ബറിയില്‍ അടച്ചു, മറ്റൊരു സംഘം തര്‍ക്കിച്ചു.",
+  "what": "കേരളത്തിലെ പെട്ട, സെയ്ന്റ് ആന്‍സ് ചർച്ചില്‍ രണ്ട് പാരിഷ്യന്‍ സംഘങ്ങള്‍ ഫാദര്‍ തിയോഡോസിയസ് ഡി ക്രൂസ് രാജി സംബന്ധിച്ച് തര്‍ക്കം തുടങ്ങി. ഒരു സംഘം അവനെ പ്രിസ്ബറിയില്‍ അടച്ചു, ഞായറാഴ്ച രാവിലെ. പോലീസ് സന്നിഹിതമായി.",
+  "why": "മതസ്ഥലങ്ങളില്‍ സമൂഹ തര്‍ക്കങ്ങള്‍ പോലീസിന്റെ ഇടപെടല്‍ ആവശ്യപ്പെടുന്ന സാഹചര്യങ്ങള്‍ കാണിക്കുന്നു. യുവാക്കള്‍ ഇത്തരത്തിലുള്ള സംഭവങ്ങള്‍ ശ്രദ്ധിച്ച്, സുരക്ഷയും നിയമവ്യവസ്ഥയും മനസിലാക്കണം.",
+  "tags": [
+   "കേരളം",
+   "ചര്‍ച്ച്",
+   "സംഘര്‍ഷം",
+   "പോലീസ്",
+   "യുവാക്കള്‍"
+  ]
+ },
+ {
+  "id": "70b11158d867",
+  "created": "2026-11-22T14:06:31+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fnpo-seeks-maximum-four-year-promotion-wait-for-postal-staff-flags-vacancies-and-career-stagnation-11795332754011.html",
+  "headline": "പോസ്റ്റൽ ജീവനക്കാർക്ക് പ്രമോഷൻ കാത്തിരിപ്പ് നാല് വർഷം വരെ",
+  "hook": "ദീർഘകാല പ്രമോഷൻ വൈകി ജീവനക്കാർ രാജി വെക്കാൻ ആലോചിക്കുന്നു.",
+  "what": "ഫെഡറേഷൻ ഓഫ് നാഷണൽ പോസ്റ്റൽ ഓർഗനൈസേഷനുകൾ 8-ാം പേ കമ്മീഷനെ പ്രമോഷൻ യോഗ്യതയ്ക്ക് സേവനകാലം നാല് വർഷം വരെ പരിമിതപ്പെടുത്താൻ ആവശ്യപ്പെട്ടു. ഇത് കരിയർ നിശ്ചലത, പ്രമോഷൻ വൈകി, ഡിപ്പാർട്മെന്റ് ഓഫ് പോസ്റ്റ്സിലെ ഒഴിവുകൾ എന്നിവ പരിഹരിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "പ്രമോഷൻ വേഗത്തിൽ നടക്കുകയാണെങ്കിൽ ജോലി അവസരങ്ങൾ മെച്ചപ്പെടുകയും, സേവനക്കുറവ് കുറയുകയും ചെയ്യും, ഇത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്.",
+  "tags": [
+   "പോസ്റ്റ്",
+   "ജോലി",
+   "കരിയർ",
+   "യുവജനങ്ങൾ",
+   "സർക്കാർ"
+  ]
+ },
+ {
+  "id": "59133ea9aece",
+  "created": "2026-11-22T14:06:33+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-rehabilitation-package-kasaragod-endosulfan-victims-ptiq6901ahx",
+  "headline": "കേരളം എൻഡോസൾഫാൻ ബാധിതർക്കു സൗജന്യ ചികിത്സയും ശാസ്ത്രീയ പുനരധിവാസവും",
+  "hook": "എൻഡോസൾഫാൻ ബാധിതർക്ക് സൗജന്യ ആരോഗ്യ സേവനങ്ങൾ ഉടൻ ലഭിക്കും.",
+  "what": "സംസ്ഥാന സർക്കാർ കാസർഗോഡ് ജില്ലയിലെ എൻഡോസൾഫാൻ ബാധിതർക്കായി ശാസ്ത്രീയ പുനരധിവാസ പദ്ധതി ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. കൂടാതെ, അവർക്കു സൗജന്യ ആരോഗ്യ സേവനങ്ങളും നൽകും.",
+  "why": "ഇത് രോഗബാധിതരുടെ ആരോഗ്യവും ജീവിത നിലവാരവും മെച്ചപ്പെടുത്താൻ സഹായിക്കും. യുവാക്കൾ ഈ വാർത്ത പങ്കുവെച്ച്, പ്രാദേശിക സംഘടനകളിൽ സഹായം ചെയ്യാം.",
+  "tags": [
+   "Kasaragod",
+   "Endosulfan",
+   "ആരോഗ്യം",
+   "കേരളം",
+   "പുനരധിവാസം"
+  ]
+ },
+ {
+  "id": "e62ffefb7894",
+  "created": "2026-11-22T14:06:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/audio/features/best-clip-on-earbuds-in-india-sony-realme-moto-noise-boat-12340588",
+  "headline": "Sony LinkBuds Clip‑ല്‍ 360 Reality Audio, മൂന്ന് മോഡുകള്‍",
+  "hook": "ക്ലിപ്പ്‑ഓണ്‍ earbuds‑ല്‍ ഇനി സ്പേഷ്യല്‍ സൌണ്ട്",
+  "what": "Sonyയുടെ LinkBuds Clip 360 Reality Audio പിന്തുണയ്ക്കുന്നു. കൂടാതെ മൂന്ന് വ്യത്യസ്ത ലിസണിംഗ് മോഡുകള്‍ ലഭ്യമാണ്.",
+  "why": "മ്യൂസിക്, ഗെയിംസ് എന്നിവയില്‍ കൂടുതല്‍ ഡൂപ്പ് അനുഭവം ആഗ്രഹിക്കുന്ന യുവാക്കള്‍ക്ക് മോഡ് മാറ്റി ഉപയോഗിക്കാം.",
+  "tags": [
+   "Sony",
+   "Earbuds",
+   "360Audio",
+   "Tech",
+   "Music"
+  ]
+ },
+ {
   "id": "d44b980db559",
   "created": "2026-11-22T13:14:28+05:30",
   "category": "headlines",
@@ -650,101 +745,6 @@
    "TDP",
    "YSRCP",
    "LocalPolitics"
-  ]
- },
- {
-  "id": "735650ba9496",
-  "created": "2026-11-22T05:35:05+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Indian Express",
-  "source_url": "https://indianexpress.com/article/india/india-china-commanders-meet-again-to-try-and-calm-arunachal-frontier-10973140/",
-  "headline": "ഇന്ത്യ‑ചൈന കമാൻഡർമാർ വീണ്ടും അരുണാചൽ അതിർത്തിയിൽ കൂടിക്കാഴ്ച",
-  "hook": "പുനഃസംവാദം അതിർത്തി സംഘർഷം ശമിപ്പിക്കാൻ ലക്ഷ്യമിടുന്നു.",
-  "what": "ഇന്ത്യയും ചൈനയും സീനിയർ സൈനിക ഉദ്യോഗസ്ഥർ രണ്ടാമത് കൂടിക്കാഴ്ച നടത്തി. ചർച്ചകൾ അരുണാചൽ അതിർത്തിയിലെ സാഹചര്യത്തെ ശമിപ്പിക്കാൻ കേന്ദ്രീകരിച്ചു.",
-  "why": "ശാന്തമായ അതിർത്തി പ്രദേശിക സുരക്ഷ ഉറപ്പാക്കുന്നു, ഇത് വിദ്യാർത്ഥികളുടെയും യാത്രക്കാരുടെയും ജീവിതത്തെ ബാധിക്കുന്നു. ഔദ്യോഗിക അറിയിപ്പുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "IndiaChina",
-   "Arunachal",
-   "Border",
-   "Security",
-   "Youth"
-  ]
- },
- {
-  "id": "e4d561ce4256",
-  "created": "2026-11-22T05:35:08+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnlmVlNrcU9RM0pXY21Gb3BuU2pWcmZOOVY4cTBHSldmdTJXTmFwaDVCR0Z0VXhyeUp1VUlOVERTUjJzcnBWV3FxbGZ6a3BSUzZJVXRJZGNwZ0FrYzJWVERaRFBNWFZmbENrTzctSFlGMDBob3ZDUmE4TWZMdDN2TDVMMA?oc=5",
-  "headline": "ENE Repeat ന്റെ മൂന്നാം ദിവസം ബോക്സ് ഓഫീസ് സംഖ്യകൾ കാത്തിരിക്കുന്നു, 47% ഇടിവ്",
-  "hook": "വിഷ്വക് സെന്‍ സ്റ്റാറിന്റെ വരുമാന ഇടിവ്, ഫാന്‍സ് അടുത്ത ദിവസം ശ്രദ്ധിക്കുന്നു.",
-  "what": "Tharun Bhascker സംവിധാനം ചെയ്ത ENE Repeat രണ്ടാം ദിവസം ലോകവ്യാപകമായി 19.40 കോടി രൂപ നേടി, മുൻ ദിവസം比 47% കുറവ് രേഖപ്പെടുത്തി. മൂന്നാം ദിവസത്തെ സംഖ്യകൾ ഇപ്പോൾ റിപ്പോർട്ട് ചെയ്യപ്പെടുന്നു, പക്ഷേ വിശദാംശങ്ങൾ ലഭ്യമല്ല. സിനിമയെ സൗഹൃദവും സിനിമയും പ്രതിനിധീകരിക്കുന്ന ഒരു സ്നേഹപത്രമായി പ്രശംസിച്ചു.",
-  "why": "ബോക്സ് ഓഫീസ് പ്രവണതകൾ ഭാവി പ്രോജക്റ്റുകൾക്കും പ്രേക്ഷക താൽപ്പര്യത്തിനും സൂചന നൽകുന്നു; താങ്കൾക്ക് സിനിമയിൽ താൽപ്പര്യമുണ്ടെങ്കിൽ സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോംസ് വഴി കാണാം.",
-  "tags": [
-   "ENERepeat",
-   "BoxOffice",
-   "VishwakSen",
-   "TharunBhascker",
-   "Bollywood"
-  ]
- },
- {
-  "id": "a8e85f6c5baf",
-  "created": "2026-11-22T05:35:10+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Flashscore.com",
-  "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnBCZzY5LUlab2NPOXhJdVhtT2NFMVpDMDAwQ0xOdGU2eVN6VnY3eFZLWGJudEFYMGJMaFZKbGFiX2dGRVdicFpQeUxyVEZoY2xuZDZoMGl1QjVWZlU0RnhGV0pKVzBYUUtOWDF0TEY1RW5nLVZKUERRY0pTWkFZVlotcmlGVXRGUW5XMlJPLXpINERwdDZz?oc=5",
-  "headline": "Moller vs Seyboth Wild 21 നവം 2026-ന്",
-  "hook": "മിസ്സാക്കാൻ പാടില്ലാത്ത ഒരു ടെന്‍സ് ക്ലാഷ്",
-  "what": "Flashscore-ല്‍ പ്രകാരം, Elmer Moller 21 നവം 2026-ന് Thiago Seyboth Wild-നെതിരെ കളിക്കും. മത്സരത്തിന്റെ വിവരങ്ങള്‍ സൈറ്റില്‍ ലഭ്യമാണ്.",
-  "why": "ലൈവ് സ്കോര്‍ പിന്തുടര്‍ന്നു കളിക്കാരെ പിന്തുണയ്ക്കാനും സ്പോര്‍ട്ട്‌വേര്‍ ആകാന്‍ യുവാക്കള്‍ക്ക് സഹായം ലഭിക്കും.",
-  "tags": [
-   "ടെന്നിസ്",
-   "സ്പോര്‍ട്ട്",
-   "ലൈവ്‌സ്‌കോര്‍",
-   "മാച്ച്",
-   "യുവജനങ്ങള്‍"
-  ]
- },
- {
-  "id": "eea0f2074f37",
-  "created": "2026-11-22T05:35:13+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNczNTTlRMMGdfMDhFb3hRYVlWcGxxN0MzdWJMUEo4NUhtTjZKVFhGOTk5aVlGcW5oaUkyVnoyWHItT0xERzJuLUJxakk4eVFPcDR0Z203ZVJYaUM1QkdqNU1DN0JIdXpZZEtDcEFNWGozVlhxTnBPT3c2NW5XaDFkdzgtNHl6UGZ1X3VZeXp1c1pNeTduRzRvVFdyOHRuaUstV0V2MnI2MGZjZm85OTEta0JVOWFKR1pxX3Z6SkhKbEhmQkY3TU5SQndSQnkwY0dETUR6THAzZ1NMQVpGUEdGZE5yRnRrR2ZZNkxZb1djS2NiSmRILU1RUm5nNTB0Mll6NXJDLVJ5eHZfdw?oc=5",
-  "headline": "ബോയ്‌കോട്ട് പറയുന്നു സാൻഡ്‌പേപ്പർ ഗേറ്റ് ക്രോൺജെ സ്കാൻഡലിനേക്കാൾ വലിയതാണെന്ന്",
-  "hook": "ക്രിക്കറ്റ് ലെജൻഡ് ഈ സ്കാൻഡൽ പഴയ ഫിക്സിംഗ് കേസിനെ മറികടക്കുന്നു",
-  "what": "മുൻ ഇംഗ്ലീഷ് ഓപ്പണർ ജെഫ്രി ബോയ്‌കോട്ട് സാൻഡ്‌പേപ്പർ ഗേറ്റ് ഹാൻസി ക്രോൺജെയുടെ മാച്ച്‑ഫിക്സിംഗ് കേസിനേക്കാൾ വലുതാണെന്ന് പറഞ്ഞു. സ്റ്റെവ് സ്മിത്തും ഡേവിഡ് വാർണറും കൂടുതൽ ദീർഘമായ നിരോധനങ്ങൾ ലഭിക്കേണ്ടതുണ്ടെന്ന്, മുഴുവൻ ഓസ്‌ട്രേലിയൻ ടീം ചതിക്കുകയാണെന്ന് അദ്ദേഹം കൂട്ടിച്ചേർത്തു.",
-  "why": "ഇന്ത്യൻ യുവാക്കൾക്ക് ഇത് കായികം里的 ചതിയ്ക്കുള്ള ഗൗരവം കാണിക്കുന്നു, ശുചിത്വം നിലനിർത്താൻ പിന്തുണ നൽകണം. പുതിയ അന്വേഷണം, ചർച്ചകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ക്രിക്കറ്റ്",
-   "സാൻഡ്‌പേപ്പർഗേറ്റ്",
-   "സ്പോർട്സ്ഇന്റഗ്രിറ്റി",
-   "ബോയ്‌കോട്ട്",
-   "ഓസ്‌ട്രേലിയ"
-  ]
- },
- {
-  "id": "4b549fa965dd",
-  "created": "2026-11-22T05:35:16+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "GSMArena.com",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdThCNF9CNGcySjNKNFpBQzBNVkRkMVNBWWpHTGpBUWNKaGJFcFJtZEQzNTBVN1duMXNRWm9mbVdBdU0tZFQ1Rzl2Yzl1Z1d6dnBiRVlyMUNWV0otbFR0bEctc1hWcXpNeS1PQUNKcmk3TDVnZ0xOYVdtNXhtTHlld1JNQkM2NFhEb0NzWU12WTF0VEh1LXJwNkVVVHRMX1pRLXlKc1JYR3RTY3RfQllNdNIBrAFBVV95cUxQT3dfVV81TFQ5R1N0RTk3MUhEQ015QU9FSUFrNUFRaFNWQzQ2bVhicExhTVRpN3pJQUltd2g1aGxhRzhqdjFBQ3B4QXFKZU5pUHlINlRDcURVeDNXMU1UdS0xSC1LZ1BKLTlZdnkzM2Qwa1RnRENXSVVJbzNUa2t6eGMtWkE2QURPM1g1VW5mT2pST0hMeTUzc0pUV0piYmpFazhIVVk5OXp4Wm9l?oc=5",
-  "headline": "iPhone Air 2 ലെക്‌ ചൂണ്ടി ഡ്യൂവൽ‑ക്യാമറ ഡിസൈന്‍",
-  "hook": "ഒരു പുതിയ ഡമ്മി യൂണിറ്റ് ആപ്പിളിന്റെ അടുത്ത iPhone അപ്ഗ്രേഡ് കാണിച്ചു.",
-  "what": "iPhone Air 2യുടെ ഒരു ലീക്ക് ചെയ്ത ഡമ്മി യൂണിറ്റ് ഡ്യൂവൽ‑ക്യാമറ കാണിക്കുന്നു. അതേ ലീക്കിൽ iPhone 18, iPhone Air 2 എന്നിവയുടെ മാർച്ച് 2027 ലോഞ്ച് സൂചിപ്പിക്കുന്ന പ്രൊഡക്ഷൻ മൈൽസ്റ്റോൺ കാണുന്നു. iPhone 18യുടെ വില ഏകദേശം 1 ലക്ഷം രൂപയായിരിക്കാം എന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
-  "why": "ഇത് ഇന്ത്യയിലെ യുവജനങ്ങൾക്ക് മെച്ചപ്പെട്ട ഫോട്ടോഗ്രഫി, വില വർദ്ധനവ് എന്നിവയുടെ സൂചനയാണ്, അതിനാൽ മുൻകൂട്ടി ബജറ്റ് പ്ലാൻ ചെയ്യുന്നത് നല്ലത്.",
-  "tags": [
-   "iPhone",
-   "Apple",
-   "ലീക്ക്",
-   "ടെക്",
-   "ഇന്ത്യ"
   ]
  }
 ]
