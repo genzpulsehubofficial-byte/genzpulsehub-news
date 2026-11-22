@@ -1,0 +1,37 @@
+{
+ "id": "222dfc08d063",
+ "created": "2026-11-22T13:14:34+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/why-investors-show-preference-for-mutual-funds-fixed-deposits-expert-explains-fds-remain-king-of-fixed-income-11795325467250.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Urban Indians Split Between Mutual Funds and Fixed Deposits",
+  "hook": "Most young savers are already using digital platforms.",
+  "what": "A survey of 1,212 urban adults found that 83% are saving or investing, with 80% doing it online. About 65% start investing before age 30. Mutual funds and fixed deposits are almost equally popular among them.",
+  "why": "Knowing this split helps teens decide where to grow their money early, and shows digital tools are key for starting early.",
+  "tags": [
+   "saving",
+   "investing",
+   "mutualfunds",
+   "fixeddeposit",
+   "digital"
+  ]
+ },
+ "ml": {
+  "headline": "നഗരവാസികളിൽ മ്യൂച്വൽ ഫണ്ടും ഫിക്‌സ്‌ഡ് ഡെപ്പോസിറ്റും തുല്യമായി",
+  "hook": "പല യുവ സംരക്ഷകർ ഡിജിറ്റൽ പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നു.",
+  "what": "1,212 നഗരവാസികളിൽ 83% പേർ സംരക്ഷണം അല്ലെങ്കിൽ നിക്ഷേപം ചെയ്യുന്നു, അതിൽ 80% പേർ ഡിജിറ്റൽ വഴി ചെയ്യുന്നു. 30 വയസിനു മുമ്പ് ഏകദേശം 65% പേർ നിക്ഷേപം ആരംഭിക്കുന്നു. മ്യൂച്വൽ ഫണ്ടുകളും ഫിക്‌സ്‌ഡ് ഡെപ്പോസിറ്റുകളും പ്രചുരം തുല്യമായി പ്രിയപ്പെട്ടവയാണ്.",
+  "why": "ഇത് യുവാക്കൾക്ക് അവരുടെ പണം എവിടെ വളർത്തണം എന്ന് തീരുമാനിക്കാൻ സഹായിക്കും, ഡിജിറ്റൽ ഉപകരണങ്ങൾ ആരംഭിക്കാൻ പ്രധാനമാണെന്ന് കാണിക്കുന്നു.",
+  "tags": [
+   "സംരക്ഷണം",
+   "നിക്ഷേപം",
+   "മ്യൂച്വൽഫണ്ട്",
+   "ഫിക്‌സ്‌ഡ്ഡെപ്പോ",
+   "ഡിജിറ്റൽ"
+  ]
+ }
+}

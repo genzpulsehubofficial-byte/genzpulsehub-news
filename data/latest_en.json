@@ -1,5 +1,95 @@
 [
  {
+  "id": "d44b980db559",
+  "created": "2026-11-22T13:14:28+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/two-army-personnel-wives-and-3-children-among-7-killed-in-gujarat-truck-car-collision-101795332000265.html",
+  "headline": "Truck-car crash in Kutch kills seven, including army families",
+  "hook": "A tragic collision in Gujarat claims the lives of two soldiers and their families.",
+  "what": "A car hit a truck in Gujarat's Kutch district, resulting in seven deaths. The victims were from two Uttarakhand families, comprising two serving army personnel, their spouses and three children.",
+  "why": "The incident highlights road safety concerns for young Indians and the need to drive responsibly, especially when armed forces members are involved.",
+  "tags": [
+   "GujaratAccident",
+   "RoadSafety",
+   "ArmyFamilies"
+  ]
+ },
+ {
+  "id": "680d31e0cf5d",
+  "created": "2026-11-22T13:14:31+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
+  "headline": "Indian man taken into ICE custody after Texas sentence",
+  "hook": "ICE steps in right after his prison term ends",
+  "what": "Raghul Anandakrishnan, an Indian-origin resident, was moved from a Texas county jail to ICE custody on Nov 22. He had finished a prison term for a visual recording conviction.",
+  "why": "The incident shows that immigration authorities can act after criminal convictions, so Indian nationals in the US should stay informed about legal consequences.",
+  "tags": [
+   "ICE",
+   "Texas",
+   "Immigration",
+   "Legal"
+  ]
+ },
+ {
+  "id": "222dfc08d063",
+  "created": "2026-11-22T13:14:34+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/why-investors-show-preference-for-mutual-funds-fixed-deposits-expert-explains-fds-remain-king-of-fixed-income-11795325467250.html",
+  "headline": "Urban Indians Split Between Mutual Funds and Fixed Deposits",
+  "hook": "Most young savers are already using digital platforms.",
+  "what": "A survey of 1,212 urban adults found that 83% are saving or investing, with 80% doing it online. About 65% start investing before age 30. Mutual funds and fixed deposits are almost equally popular among them.",
+  "why": "Knowing this split helps teens decide where to grow their money early, and shows digital tools are key for starting early.",
+  "tags": [
+   "saving",
+   "investing",
+   "mutualfunds",
+   "fixeddeposit",
+   "digital"
+  ]
+ },
+ {
+  "id": "794753b87c62",
+  "created": "2026-11-22T13:14:36+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/lifestyle/health/what-is-membranous-nephropathy-symptoms-causes-fairness-cream-keralam-jgu5zohd",
+  "headline": "Membranous Nephropathy: Kidney Issue Linked to Fairness Cream Cases",
+  "hook": "Your kidneys could be at risk from popular creams.",
+  "what": "Membranous nephropathy is a kidney disorder that damages the filtering membranes. Recent reports in Kerala have linked several cases of this disease to the use of certain fairness creams. Health officials are outlining its symptoms, causes, diagnosis and treatment.",
+  "why": "Teens using skin‑lightening products should watch for kidney‑related symptoms and consult a doctor if they appear.",
+  "tags": [
+   "kidneyhealth",
+   "fairnesscream",
+   "kerala",
+   "healthawareness",
+   "membranousnephropathy"
+  ]
+ },
+ {
+  "id": "ab4ea1d977ba",
+  "created": "2026-11-22T13:14:38+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/thiruvananthapuram-church-clash-priest-resignation-protest-pti0nz2k65f",
+  "headline": "Police intervene as parishioners fight over priest's resignation in Thiruvananthapuram",
+  "hook": "A church dispute turned chaotic, prompting police action in the capital.",
+  "what": "At St Anne's Church in Thiruvananthapuram, two groups of worshippers clashed over calls for the resignation of the parish priest, Father Theodosius D Cruz. Police were called in and deployed to the scene.",
+  "why": "The incident shows how tensions can flare within community spaces, urging young people to stay informed and steer clear of volatile gatherings.",
+  "tags": [
+   "Thiruvananthapuram",
+   "ChurchClash",
+   "KeralaNews"
+  ]
+ },
+ {
   "id": "b66b3565549e",
   "created": "2026-11-22T11:56:29+05:30",
   "category": "tech",
@@ -655,101 +745,6 @@
    "leak",
    "tech",
    "India"
-  ]
- },
- {
-  "id": "52189579fbef",
-  "created": "2026-11-22T04:50:40+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "LiveNOW from FOX",
-  "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2g3ZEs3QXFpRUZfUEF2ak93WVAzeGotdGg4OVdEUnViNklaZUs3NWxvNVdWeDUtT05DQnAtNUp2bGpUYW9yTVlKY0hmdmNDQU95QURzWE5wNUF0YTVLNkNTdV9sc3UwTzQ0cnpBR1FSelBJTkpxdnFnMlYwS1JHaF9UNC1KNmIwZWhMUnowcFdhVUJpMlVtMm5kRzI?oc=5",
-  "headline": "Study uncovers 27 new insights on endometriosis",
-  "hook": "A fresh study reveals more about a condition many women face.",
-  "what": "Researchers identified 27 new clues linked to endometriosis, a painful disease affecting about one in ten women. The findings expand current understanding of the condition.",
-  "why": "These insights could aid better diagnosis and treatment, which matters for young women experiencing symptoms.",
-  "tags": [
-   "endometriosis",
-   "womenhealth",
-   "research",
-   "teenhealth",
-   "India"
-  ]
- },
- {
-  "id": "985420d8fa39",
-  "created": "2026-11-22T04:50:43+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG4wY3ZESmpaVExscklIdFdvaUp0ZXJ4a2N2Szc5V2VJV2NwMWZFLU5YWFd0Y2ZFNU4zRGo1RG5VazBFRVlnUGhPcmxiRjc4U25qeFAwREpZcjFVeUdVRldoaEUyUXQtSG1TV1ZDVDJzd1RUNzFzVk1QS3BtdGZ2UXkwYy11N2RBOFlYSzNNZzYxRkVjYXlTcHhMTQ?oc=5",
-  "headline": "Lisbon streets fill as cost‑of‑living protests swell",
-  "hook": "Young Indians feel the pinch too—see why youths are marching across Europe.",
-  "what": "Large crowds gathered in Lisbon and other cities in Portugal, France and Spain to demonstrate against rising living expenses, especially housing costs. Demonstrators demanded lower rents and higher wages.",
-  "why": "The surge in living costs highlights challenges many young people face worldwide, reminding Indian teens to stay aware of economic trends and consider budgeting or advocacy.",
-  "tags": [
-   "costofliving",
-   "protest",
-   "housing",
-   "Portugal",
-   "youth"
-  ]
- },
- {
-  "id": "2430833a641d",
-  "created": "2026-11-22T04:50:48+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "The Washington Post",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
-  "headline": "RFK Jr. pledges action as measles resurges worldwide",
-  "hook": "Kids are losing oxygen while measles cases climb again.",
-  "what": "Robert F. Kennedy Jr. says he will tackle the growing measles outbreak after earlier downplaying it. Health officials note children are suffering from oxygen shortages as the disease spreads.",
-  "why": "The rise threatens global vaccination goals and even caused the U.S. to lose its measles‑free status, urging nations to boost immunisation efforts.",
-  "tags": [
-   "measles",
-   "health",
-   "vaccination",
-   "global",
-   "youth"
-  ]
- },
- {
-  "id": "36c84f9e6c78",
-  "created": "2026-11-22T04:02:26+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
-  "headline": "Crypto startups push for tax breaks before Budget 2027",
-  "hook": "India’s crypto scene is asking the govt for relief.",
-  "what": "The Bharat Web3 Association has sent its suggestions to the finance ministry. It is asking for tax relief for crypto startups ahead of the Union Budget.",
-  "why": "Tax incentives could boost crypto entrepreneurship, creating jobs for tech‑savvy youth. Keep an eye on the budget for any changes that may affect startup opportunities.",
-  "tags": [
-   "crypto",
-   "tax",
-   "startups",
-   "budget",
-   "India"
-  ]
- },
- {
-  "id": "735c8ba834bc",
-  "created": "2026-11-22T04:02:28+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/european-union-proposes-tax-on-big-tech-in-new-budget-draft-12360091#publisher=newsstand",
-  "headline": "EU Drafts Tax on Big Tech, France Calls It Disappointing",
-  "hook": "A new EU tax could change how you use your favorite apps.",
-  "what": "The European Union has added a tax on large technology firms to its latest budget draft. France’s president’s office said the move was disappointing.",
-  "why": "The tax might affect pricing or availability of global apps that Indian teens use, so staying aware of any changes is useful.",
-  "tags": [
-   "EU",
-   "BigTech",
-   "Tax",
-   "France",
-   "Youth"
   ]
  }
 ]

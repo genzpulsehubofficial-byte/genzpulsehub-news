@@ -1,0 +1,33 @@
+{
+ "id": "d44b980db559",
+ "created": "2026-11-22T13:14:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/two-army-personnel-wives-and-3-children-among-7-killed-in-gujarat-truck-car-collision-101795332000265.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Truck-car crash in Kutch kills seven, including army families",
+  "hook": "A tragic collision in Gujarat claims the lives of two soldiers and their families.",
+  "what": "A car hit a truck in Gujarat's Kutch district, resulting in seven deaths. The victims were from two Uttarakhand families, comprising two serving army personnel, their spouses and three children.",
+  "why": "The incident highlights road safety concerns for young Indians and the need to drive responsibly, especially when armed forces members are involved.",
+  "tags": [
+   "GujaratAccident",
+   "RoadSafety",
+   "ArmyFamilies"
+  ]
+ },
+ "ml": {
+  "headline": "കുച്‌ ചുമലിൽ ട്രക്ക്-കാർ അപകടം, ഏഴ് പേർ മരണം, സൈനിക കുടുംബങ്ങൾ",
+  "hook": "ഗുജറാത്തിലെ ഒരു കൂട്ടം വാഹനാപകടം രണ്ട് സൈനികരും അവരുടെ കുടുംബങ്ങളും നഷ്ടപ്പെടുത്തി.",
+  "what": "കുച്‌ ജില്ലയിൽ ഒരു കാർ ഒരു ട്രക്കുമായി തട്ടിക്കിടക്കുമ്പോൾ ഏഴ് പേർ മരണമടഞ്ഞു. ഇരുവരും ഉറ്ററഖണ്ടിലെ സൈനികരും, അവരുടെ ഭാര്യകളും മൂന്ന് കുട്ടികളും ഉൾപ്പെടുന്നു.",
+  "why": "ഇത് റോഡ് സുരക്ഷയുടെ പ്രാധാന്യം ചൂണ്ടിക്കാട്ടുന്നു, യുവാക്കൾ സുരക്ഷിതമായി യാത്ര ചെയ്യണം, പ്രത്യേകിച്ച് സൈനികർ ഉൾപ്പെടുമ്പോൾ.",
+  "tags": [
+   "GujaratAccident",
+   "RoadSafety",
+   "ArmyFamilies"
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "ab4ea1d977ba",
+ "created": "2026-11-22T13:14:38+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/thiruvananthapuram-church-clash-priest-resignation-protest-pti0nz2k65f",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Police intervene as parishioners fight over priest's resignation in Thiruvananthapuram",
+  "hook": "A church dispute turned chaotic, prompting police action in the capital.",
+  "what": "At St Anne's Church in Thiruvananthapuram, two groups of worshippers clashed over calls for the resignation of the parish priest, Father Theodosius D Cruz. Police were called in and deployed to the scene.",
+  "why": "The incident shows how tensions can flare within community spaces, urging young people to stay informed and steer clear of volatile gatherings.",
+  "tags": [
+   "Thiruvananthapuram",
+   "ChurchClash",
+   "KeralaNews"
+  ]
+ },
+ "ml": {
+  "headline": "പോലീസ് ഇടപെട്ടു, തിരുവാന്നപുരം ചർച്ച് സംഘർഷം",
+  "hook": "പള്ളി内部 തർക്കം കുഴപ്പമാക്കി, തലസ്ഥാനത്ത് പോലീസ് എത്തി.",
+  "what": "ത്രി‌വാന്നപുരത്തിലെ സെയിന്റ് ആന്‍സ് ചർച്ചിൽ, പുരോഹിതന്‍ രാജി ചോദിക്കുന്നതിനെക്കുറിച്ച് വിശ്വാസികളിൽ രണ്ട് കൂട്ടങ്ങൾ ഏറ്റുമുട്ടി. പോലീസ്现场യിൽ എത്തി, സുരക്ഷ ഉറപ്പാക്കി.",
+  "why": "ഇത്തരത്തിലുള്ള സംഘർഷങ്ങൾ സമൂഹത്തിൽ ഉള്ള വ്യത്യാസങ്ങൾ കാണിക്കുന്നു; യുവാക്കൾ വിവരങ്ങളോട് ജാഗ്രത പാലിച്ച്, അപ്രതീക്ഷിത കലഹങ്ങളിൽ പങ്കെടരാതെ ഇരിക്കുക.",
+  "tags": [
+   "തിരുവാന്നപുരം",
+   "പള്ളി",
+   "കേരളവാർത്ത"
+  ]
+ }
+}

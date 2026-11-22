@@ -1,0 +1,35 @@
+{
+ "id": "680d31e0cf5d",
+ "created": "2026-11-22T13:14:31+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Indian man taken into ICE custody after Texas sentence",
+  "hook": "ICE steps in right after his prison term ends",
+  "what": "Raghul Anandakrishnan, an Indian-origin resident, was moved from a Texas county jail to ICE custody on Nov 22. He had finished a prison term for a visual recording conviction.",
+  "why": "The incident shows that immigration authorities can act after criminal convictions, so Indian nationals in the US should stay informed about legal consequences.",
+  "tags": [
+   "ICE",
+   "Texas",
+   "Immigration",
+   "Legal"
+  ]
+ },
+ "ml": {
+  "headline": "ടെക്സാസില്‍ ശിക്ഷ പൂര്‍ത്തിയാക്കിയ ശേഷം ഇന്ത്യൻ പുരുഷന്‍ ICE-യുടെ കൈവശം",
+  "hook": "ശിക്ഷ പൂർത്തിയായ ഉടന്‍ ICE ഇടപെടുന്നു",
+  "what": "ഇന്ത്യൻ മൂലക്കാരനായ രഘു അനന്ദകൃഷ്ണന്‍ 22 നവംബറിൽ ടെക്സാസ് കൗണ്ടി ജയിൽ നിന്ന് ICE-യുടെ കൈവശം ആയി. അദ്ദേഹം ദൃശ്യ റെക്കോഡിംഗ് കുറ്റത്തിൽ ശിക്ഷ പൂർത്തിയാക്കിയിരുന്നു.",
+  "why": "ഇത് ക്രിമിനൽ കേസുകൾക്ക് ശേഷം കുടിയേറ്റ അധികാരികൾ ഇടപെടാം എന്ന് കാണിക്കുന്നു; അതിനാൽ അമേരിക്കയിൽ ഉള്ള ഇന്ത്യൻ യുവാക്കൾ നിയമപരമായ ഫലങ്ങൾക്കായി ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "ICE",
+   "Texas",
+   "Immigration",
+   "Legal"
+  ]
+ }
+}

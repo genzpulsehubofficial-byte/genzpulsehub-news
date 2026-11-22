@@ -1,0 +1,37 @@
+{
+ "id": "794753b87c62",
+ "created": "2026-11-22T13:14:36+05:30",
+ "category": "health",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/lifestyle/health/what-is-membranous-nephropathy-symptoms-causes-fairness-cream-keralam-jgu5zohd",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Membranous Nephropathy: Kidney Issue Linked to Fairness Cream Cases",
+  "hook": "Your kidneys could be at risk from popular creams.",
+  "what": "Membranous nephropathy is a kidney disorder that damages the filtering membranes. Recent reports in Kerala have linked several cases of this disease to the use of certain fairness creams. Health officials are outlining its symptoms, causes, diagnosis and treatment.",
+  "why": "Teens using skin‑lightening products should watch for kidney‑related symptoms and consult a doctor if they appear.",
+  "tags": [
+   "kidneyhealth",
+   "fairnesscream",
+   "kerala",
+   "healthawareness",
+   "membranousnephropathy"
+  ]
+ },
+ "ml": {
+  "headline": "മെംബ്രേന്‍സ് നെഫ്രോപതി: ഫെയര്‍നെസ് ക്രീം കേസുകളുമായി ബന്ധപ്പെട്ട വൃക്ക രോഗം",
+  "hook": "പോപ്പുലര്‍ ക്രീം ഉപയോഗം നിങ്ങളുടെ വൃക്കയെ ബാധിക്കാം.",
+  "what": "മെംബ്രേന്‍സ് നെഫ്രോപതി എന്നത് വൃക്കയുടെ ഫില്‍ട്ടറിംഗ് മെംബ്രെയിനുകള്‍ നശിക്കുന്ന ഒരു രോഗമാണ്. കേരളത്തില്‍ ചില ഫെയര്‍നെസ് ക്രീം ഉപയോഗവുമായി ബന്ധപ്പെട്ട കേസുകള്‍ റിപ്പോര്‍ട്ട് ചെയ്തിട്ടുണ്ട്. ആരോഗ്യ വിദഗ്ധര്‍ ലക്ഷണങ്ങള്‍, കാരണങ്ങള്‍, പരിശോധനയും ചികിത്സയും വിശദീകരിക്കുന്നു.",
+  "why": "തോല്‍ ലൈറ്റ്‌നിംഗ് ഉല്‍പ്പന്നങ്ങള്‍ ഉപയോഗിക്കുന്ന യുവാക്കള്‍ വൃക്ക സംബന്ധമായ ലക്ഷണങ്ങള്‍ ശ്രദ്ധിച്ച്, സംശയമുണ്ടെങ്കില്‍ ഡോക്ടറിനെ കാണണം.",
+  "tags": [
+   "വൃക്കാരോഗ്യം",
+   "ഫെയര്‍നസ്‌ക്രീം",
+   "കേരളം",
+   "ആരോഗ്യബോധം",
+   "മെംബ്രേന്‍സ്നെഫ്രോപതി"
+  ]
+ }
+}
