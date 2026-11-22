@@ -1,0 +1,37 @@
+{
+ "id": "45281b632d55",
+ "created": "2026-11-22T09:57:07+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-benz-crash-car-owner-judge-says-son-took-it-without-his-knowledge-urges-mvd-not-to-suspend-rc-adpujtv8",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Judge says son drove Mercedes without his consent, asks to keep RC",
+  "hook": "A court plea could spare a family’s car registration after a crash.",
+  "what": "In the Cheranalloor collision, the judge told the Ernakulam RTO that his minor son had taken the Mercedes-Benz without his permission. He asked the Motor Vehicles Department not to cancel the vehicle’s registration certificate.",
+  "why": "Young drivers need parental oversight; keeping the RC avoids extra paperwork and fees. Teens should get proper consent before using family cars.",
+  "tags": [
+   "Kochi",
+   "roadSafety",
+   "legal",
+   "RC",
+   "Mercedes"
+  ]
+ },
+ "ml": {
+  "headline": "ജഡ്ജി പറയുന്നു, മകന്‍ അനുമതിയില്ലാതെ മെര്‍സിഡീസ് ഓടിച്ചു, RC നിലനിർത്താൻ അപേക്ഷ",
+  "hook": "ഒരു കോടതിയുടെ അപേക്ഷയോടെ കാർ രജിസ്ട്രേഷൻ താൽക്കാലികമായി സുരക്ഷിതമാക്കാം.",
+  "what": "ചെറാനല്ലൂർ അപകടത്തിൽ, ജഡ്ജി എർണാകുളം ആർ.റ്റി.ഒ.ക്ക് തന്റെ ചെറുപ്പക്കാരനായ മകൻ അനുമതിയില്ലാതെ മെർസിഡീസ്‑ബെൻസ് എടുത്തു എന്ന് അറിയിച്ചു. വാഹനത്തിന്റെ രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് (RC) റദ്ദാക്കരുതെന്ന് അദ്ദേഹം ആവശ്യപ്പെട്ടു.",
+  "why": "കുട്ടികൾക്ക് വാഹന ഉപയോഗത്തിൽ മാതാപിതാക്കളുടെ അനുമതി ഉറപ്പാക്കണം; RC നിലനിർത്തുന്നത് അധിക ചെലവുകളും പ്രക്രിയയും ഒഴിവാക്കും. യുവാക്കൾ വാഹനങ്ങൾ കൈവശം വെയ്ക്കുമ്പോൾ നിയമപരമായ അനുമതികൾ ഉറപ്പാക്കണം.",
+  "tags": [
+   "കൊച്ചി",
+   "റോഡ്‌സേഫ്റ്റി",
+   "നിയമം",
+   "RC",
+   "Mercedes"
+  ]
+ }
+}

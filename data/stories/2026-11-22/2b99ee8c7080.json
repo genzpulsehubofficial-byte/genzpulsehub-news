@@ -1,0 +1,37 @@
+{
+ "id": "2b99ee8c7080",
+ "created": "2026-11-22T09:57:12+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/no-credit-history-at-all-why-having-no-credit-score-is-not-same-as-having-poor-score-what-it-means-11795309018837.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "No credit history isn’t a bad score – learn why",
+  "hook": "Zero credit record isn’t a penalty; it’s just a blank slate.",
+  "what": "People without any credit history don’t automatically get a low CIBIL rating. The piece explains the difference and its impact on loan and credit‑card approvals. It also suggests steps for first‑time borrowers to start building a credit profile.",
+  "why": "Knowing this helps Gen Z avoid misconceptions when applying for loans or cards. Begin with small credit activities to create a positive record.",
+  "tags": [
+   "finance",
+   "credit",
+   "loans",
+   "GenZ",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ക്രെഡിറ്റ് ചരിത്രമില്ലെന്ന്, മോശം സ്കോർ അല്ല",
+  "hook": "ക്രെഡിറ്റ് ഇല്ലാത്തത് ശിക്ഷയല്ല, വെറും ശൂന്യപേജ് മാത്രമാണ്.",
+  "what": "ക്രെഡിറ്റ് ചരിത്രമില്ലാത്തവർക്കും സ്വാഭാവികമായി കുറഞ്ഞ CIBIL സ്കോർ ലഭിക്കില്ല. ലോണും ക്രെഡിറ്റ് കാർഡും അംഗീകരണത്തിൽ ഇത് എങ്ങനെ ബാധിക്കുന്നു, ആദ്യമായി കടം എടുക്കുന്നവർക്ക് ക്രെഡിറ്റ് നിർമ്മിക്കാൻ എന്ത് ചെയ്യാം എന്നതും വിശദീകരിക്കുന്നു.",
+  "why": "ഇത് മനസ്സിലാക്കുന്നത് യുവാക്കൾക്ക് ലോണോ കാർഡോ അപേക്ഷിക്കുമ്പോൾ തെറ്റിദ്ധാരണകൾ ഒഴിവാക്കാൻ സഹായിക്കും. ചെറിയ ക്രെഡിറ്റ് പ്രവർത്തനങ്ങളിലൂടെ നല്ല രേഖ സൃഷ്ടിക്കാൻ തുടങ്ങാം.",
+  "tags": [
+   "ഫിനാൻസ്",
+   "ക്രെഡിറ്റ്",
+   "ലോൺ",
+   "ഇന്ത്യ",
+   "ജെൻ‌എസ്"
+  ]
+ }
+}

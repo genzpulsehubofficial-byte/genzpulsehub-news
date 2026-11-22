@@ -1,0 +1,37 @@
+{
+ "id": "f06c99912557",
+ "created": "2026-11-22T09:57:02+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/pak-minister-musadik-malik-at-delhi-sco-event-purana-qila-a-story-of-1-wall-2-rivals-12360124#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Pak minister calls Purana Qila a tale of two rivals",
+  "hook": "A Pakistani official links Delhi’s historic fort to rivalry.",
+  "what": "During the SCO meeting in Delhi, Pakistan’s minister Malik said Purana Qila represents one wall and two rivals. The comment was shared by his office on X.",
+  "why": "Understanding such statements helps youths grasp regional narratives that shape media and diplomatic talk. Stay informed and verify sources.",
+  "tags": [
+   "SCO",
+   "Delhi",
+   "PuranaQila",
+   "Pakistan",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പാക് മന്ത്രിയുടെ അഭിപ്രായം: പുരാണ കില്ല ഒരു മതിലും രണ്ട് എതിരാളികളും",
+  "hook": "ഡെല്‍ഹിയിലെ SCO സമ്മേളനത്തില്‍ ചരിത്ര കോട്ടയെപ്പറ്റി ഒരു വിവാദം",
+  "what": "ഡെല്‍ഹിയിലെ SCO സമ്മേളനത്തില്‍, പാക്കിസ്താന്റെ മന്ത്രിയായ മാലിക് പുരാണ കില്ലയെ ഒരു മതിലും രണ്ട് എതിരാളികളും എന്നതായി പറഞ്ഞു. ഈ പ്രസംഗം അദ്ദേഹത്തിന്റെ ഓഫീസ് X-ല്‍ പങ്കുവെച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള അഭിപ്രായങ്ങള്‍ പ്രദേശിക കഥകളെ മനസ്സിലാക്കാന്‍ സഹായിക്കും, അതിനാല്‍ യുവാക്കള്‍ വാര്‍ത്തകളില്‍ ജാഗ്രത പുലര്‍ത്തണം.",
+  "tags": [
+   "SCO",
+   "Delhi",
+   "PuranaQila",
+   "Pakistan",
+   "India"
+  ]
+ }
+}

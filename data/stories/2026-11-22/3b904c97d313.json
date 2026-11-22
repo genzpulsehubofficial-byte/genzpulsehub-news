@@ -1,0 +1,35 @@
+{
+ "id": "3b904c97d313",
+ "created": "2026-11-22T09:57:10+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-pallikkal-panchayat-rs-500-snake-rescue-assistance-scheme-nhp9hhnk",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Pallikkal panchayat offers Rs 500 per snake rescue",
+  "hook": "Got a snake at home? The panchayat will help pay the catcher.",
+  "what": "The Pallikkal local body announced it will reimburse licensed snake catchers with Rs 500 for each rescue. The move aims to reduce the cost families face when dealing with snake encounters.",
+  "why": "This support can lower expenses for households in snake‑prone areas, encouraging safe removal. Residents should contact authorized catchers for assistance.",
+  "tags": [
+   "Pallikkal",
+   "SnakeRescue",
+   "LocalGov",
+   "Safety"
+  ]
+ },
+ "ml": {
+  "headline": "പല്ലിക്കല്‍ പട്ടണം സ്നേക്ക് രക്ഷയ്ക്ക് 500 രൂപ നല്‍കും",
+  "hook": "വീട്ടില്‍ പാമ്പ് കണ്ടാല്‍ ഇനി പിടിക്കാനായി പണം ലഭിക്കും",
+  "what": "പല്ലിക്കല്‍ ഗ്രാമപഞ്ചായത്ത് ലൈസന്‍സ് ലഭിച്ച സ്നേക്ക് കാച്ചര്‍മാര്‍ക്ക് ഓരോ രക്ഷയ്ക്കും 500 രൂപ നല്‍കാന്‍ തീരുമാനിച്ചു. ഇതിലൂടെ കുടുംബങ്ങള്‍ നേരിടുന്ന ചെലവ് കുറയ്ക്കുകയാണ് ലക്ഷ്യം.",
+  "why": "പാമ്പ് സംഭവങ്ങളുള്ള പ്രദേശങ്ങളിലെ കുടുംബങ്ങള്‍ക്ക് സാമ്പത്തിക ഭാരം കുറയുകയും സുരക്ഷിതമായി പാമ്പ് നീക്കാന്‍ പ്രോത്സാഹനം ലഭിക്കുകയും ചെയ്യും. അതിനാല്‍ അംഗീകൃത കാച്ചര്‍മാരെ ബന്ധപ്പെടുക.",
+  "tags": [
+   "പല്ലിക്കല്",
+   "പാമ്പ്‌രക്ഷ",
+   "പട്ടണം",
+   "സുരക്ഷ"
+  ]
+ }
+}

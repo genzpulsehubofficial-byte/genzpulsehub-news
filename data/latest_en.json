@@ -1,5 +1,99 @@
 [
  {
+  "id": "38c45bec7c1d",
+  "created": "2026-11-22T09:56:43+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMzgzZFhZa0NXR0x1SWhqV0JvSVZFVmVmcXlYM2JtRUNaak93ODlwY0szMVZrR1g4Q0RkSDhEQmRGcnFkU25iZXAyMHdRLWJfOVotVFBHUk9xWjl2QTZ4b1M2ZXNFRVQtV1pWVE0wNHlCWUJ1LW8yZFNpYUhNYTFXU0ppRHRhTHlZWWs1OERJSkZ4X2x6OFNweDU1Vmw0cERIZDh4eXA0aXNPUEM5bVBTRWdUY3ZaVEd4NHRzdktzckktejZISThnM2JIdXU4M2dtVzVrbXNMN0JPZmlGZW9n?oc=5",
+  "headline": "Pilgrims' car hits parked truck, nine dead in Kota",
+  "hook": "A family tragedy on the highway leaves many grieving.",
+  "what": "A vehicle carrying devotees from Khatu Shyam temple collided with a stationary truck on a Rajasthan highway. The crash killed at least nine members of a Maharashtra family and injured several others.",
+  "why": "Road safety is crucial for young travelers; always stay alert and follow traffic rules.",
+  "tags": [
+   "roadaccident",
+   "Kota",
+   "pilgrimage",
+   "safety",
+   "news"
+  ]
+ },
+ {
+  "id": "f06c99912557",
+  "created": "2026-11-22T09:57:02+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/pak-minister-musadik-malik-at-delhi-sco-event-purana-qila-a-story-of-1-wall-2-rivals-12360124#publisher=newsstand",
+  "headline": "Pak minister calls Purana Qila a tale of two rivals",
+  "hook": "A Pakistani official links Delhi’s historic fort to rivalry.",
+  "what": "During the SCO meeting in Delhi, Pakistan’s minister Malik said Purana Qila represents one wall and two rivals. The comment was shared by his office on X.",
+  "why": "Understanding such statements helps youths grasp regional narratives that shape media and diplomatic talk. Stay informed and verify sources.",
+  "tags": [
+   "SCO",
+   "Delhi",
+   "PuranaQila",
+   "Pakistan",
+   "India"
+  ]
+ },
+ {
+  "id": "45281b632d55",
+  "created": "2026-11-22T09:57:07+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kochi-benz-crash-car-owner-judge-says-son-took-it-without-his-knowledge-urges-mvd-not-to-suspend-rc-adpujtv8",
+  "headline": "Judge says son drove Mercedes without his consent, asks to keep RC",
+  "hook": "A court plea could spare a family’s car registration after a crash.",
+  "what": "In the Cheranalloor collision, the judge told the Ernakulam RTO that his minor son had taken the Mercedes-Benz without his permission. He asked the Motor Vehicles Department not to cancel the vehicle’s registration certificate.",
+  "why": "Young drivers need parental oversight; keeping the RC avoids extra paperwork and fees. Teens should get proper consent before using family cars.",
+  "tags": [
+   "Kochi",
+   "roadSafety",
+   "legal",
+   "RC",
+   "Mercedes"
+  ]
+ },
+ {
+  "id": "3b904c97d313",
+  "created": "2026-11-22T09:57:10+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-pallikkal-panchayat-rs-500-snake-rescue-assistance-scheme-nhp9hhnk",
+  "headline": "Pallikkal panchayat offers Rs 500 per snake rescue",
+  "hook": "Got a snake at home? The panchayat will help pay the catcher.",
+  "what": "The Pallikkal local body announced it will reimburse licensed snake catchers with Rs 500 for each rescue. The move aims to reduce the cost families face when dealing with snake encounters.",
+  "why": "This support can lower expenses for households in snake‑prone areas, encouraging safe removal. Residents should contact authorized catchers for assistance.",
+  "tags": [
+   "Pallikkal",
+   "SnakeRescue",
+   "LocalGov",
+   "Safety"
+  ]
+ },
+ {
+  "id": "2b99ee8c7080",
+  "created": "2026-11-22T09:57:12+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/no-credit-history-at-all-why-having-no-credit-score-is-not-same-as-having-poor-score-what-it-means-11795309018837.html",
+  "headline": "No credit history isn’t a bad score – learn why",
+  "hook": "Zero credit record isn’t a penalty; it’s just a blank slate.",
+  "what": "People without any credit history don’t automatically get a low CIBIL rating. The piece explains the difference and its impact on loan and credit‑card approvals. It also suggests steps for first‑time borrowers to start building a credit profile.",
+  "why": "Knowing this helps Gen Z avoid misconceptions when applying for loans or cards. Begin with small credit activities to create a positive record.",
+  "tags": [
+   "finance",
+   "credit",
+   "loans",
+   "GenZ",
+   "India"
+  ]
+ },
+ {
   "id": "9127aaaf88a3",
   "created": "2026-11-22T08:49:14+05:30",
   "category": "headlines",
@@ -656,101 +750,6 @@
    "HomeCinema",
    "50Inch",
    "Gadgets"
-  ]
- },
- {
-  "id": "127326b87b53",
-  "created": "2026-11-22T02:44:01+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-  "headline": "Nvidia earnings clash with execs urging CEO comeback",
-  "hook": "Two very different views on Nvidia surface at once.",
-  "what": "Nvidia released its latest earnings report, showing one side of the story. At the same time, several tech executives are publicly demanding that Jensen Huang return to lead the company.",
-  "why": "The split signals uncertainty in the chip sector, so young investors should watch how the market reacts.",
-  "tags": [
-   "Nvidia",
-   "earnings",
-   "tech",
-   "CEO",
-   "market"
-  ]
- },
- {
-  "id": "bada9c04309f",
-  "created": "2026-11-22T02:44:03+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Variety",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
-  "headline": "‘Hunger Games: Sunrise on the Reaping’ pulls $56M debut",
-  "hook": "The latest Hunger Games spin‑off hits big numbers on opening day.",
-  "what": "The new film ‘Hunger Games: Sunrise on the Reaping’ earned $56 million in its opening. Variety reports a total opening of $120 million, placing it among the top‑four series openings. Critics note the movie stays within the familiar dystopian vibe.",
-  "why": "Strong box‑office numbers show the franchise still draws young audiences, indicating a good time to catch the film with friends. Keep an eye on release dates at nearby theatres.",
-  "tags": [
-   "HungerGames",
-   "BoxOffice",
-   "NewRelease",
-   "Movies",
-   "GenZ"
-  ]
- },
- {
-  "id": "bab6d36485bb",
-  "created": "2026-11-22T02:44:07+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "NDTV Profit",
-  "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGRQZ3huUkNwYnlWX18xQkFhMGJZbEZuVm9IbDBtMnlHY1ROV1RZM08zQzNoano4dkZFZEVnVHhIbEFtcmdQOElBVjlyNUVsSWkzYVZDVk1qUDlCWk4weEhrOWxsaHZ6MmozSUFlUWtKdC03U05FNXBEQS1WTnFOVE5uak1pVG5wWkU1bXM4dUJZX0pKZzhZaTF1REExZnhvWnJWUk1kZ3JNem9zSGtCdm5EYW1sTWJLZm1HdnA2bVBDQUYxT0psRlp2MNIB0wFBVV95cUxQcTZhandZZ0RXMTlBOHRqNWFGMmxMZUtZNzF0eHp1NFZqdnl6YzVGNDA5MDVKSEhoYTl0LVkxeFVacFprMDZndEhPUXZiTWNuRThBNUotOW1FT25XV3hnVklsUDZpbGpSQ1Npcm1rbDRHbVBDTjV2MzFWdE4yVTdoUDNMV2ZnV05xYnZUeFoycXQ5TC11cC1jZWRndHFUUmJMb0IxdTV3a2E1YUU3eU9jZmUtc0tIcFlUNko5SVVoQ0tqYTVwTHkwTlU5X3RmNExJLW9Z?oc=5",
-  "headline": "Unions Push 4-Year Promotion Cap in 8th Pay Commission",
-  "hook": "Young workers could see faster career moves if the demand succeeds.",
-  "what": "The 8th Pay Commission, a year after its launch, faces union demands to limit the promotion waiting period to four years instead of the current twelve. Unions also want half of the dearness allowance merged into basic pay and a minimum pension of Rs 45,000.",
-  "why": "If adopted, these changes could speed up promotions and raise retirement income for government staff, influencing future job prospects for young aspirants.",
-  "tags": [
-   "paycommission",
-   "governmentjobs",
-   "pensions",
-   "promotion",
-   "uniondemands"
-  ]
- },
- {
-  "id": "bf9ae6686c30",
-  "created": "2026-11-22T01:56:22+05:30",
-  "category": "sports",
-  "breaking": true,
-  "source": "India Today",
-  "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPellMa3UzaXEwUWFZeU9vSkt2a2h1aE9FbENGaTBNSWczd2JmWjFRdUREdWdmVnNJeVAwbTJIN1NaTVBrdFpqbkhCeUJqc2F4VENOTF9qZXlzeGp2X1N6YUZCdkFqSVZuMGNabEtGbVNlVl9CZG1ub3ZzSHV5d1Z4OW0zazNXYjNYcm9WYThTNTJ6VmluazU0QkVBZmN3TGFPZjlZQmJWNi1ScjB1OXB3cUZid1B6azVha3lNVUM2VjRub0o0aWVqNDVGWEdPS3ZCRmdmUUw2cDlUMFVKSTR1RVd3?oc=5",
-  "headline": "Cricketer Yuzvendra Chahal Joins BJP, Gets OBC Morcha Role",
-  "hook": "A cricket star steps into politics with a new party post",
-  "what": "Yuzvendra Chahal, the Indian spin bowler, officially became a member of the Bharatiya Janata Party. The party named him a special invitee to the OBC Morcha executive committee.",
-  "why": "His entry may draw youth attention to politics and shows the party’s outreach to sports figures. Young voters can watch how his influence shapes party messaging.",
-  "tags": [
-   "cricket",
-   "politics",
-   "BJP",
-   "youth",
-   "OBC"
-  ]
- },
- {
-  "id": "ba836cba0853",
-  "created": "2026-11-22T01:56:28+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Arab News",
-  "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFgyNTdDOWZ5elVQWDhhenhwRjJlWm85RnlyNmUwVXN0WHBxa1drZUFod056VW8tTUNESENwVUJFVFBvZlNIZE53Y0dCMjJ2cU5nUkp2VlVYQ2x0WGR6eFZmc2N1dVNsMnI1c2R2UHV2ZGRqVFBNZzF1QjZocEdJN0ZTaDhNN3VhcW53dXlkN1M4cDJtQXdvMjZnb05adDRGcUczalljY0hjWVBjd2J5Y3BZOXRxRTVtS2c?oc=5",
-  "headline": "Ebola fight in DRC stalled by terrain, violence, distrust",
-  "hook": "Remote villages, conflict and fear are slowing the cure.",
-  "what": "Handicap International reports that difficult geography, ongoing violence and community mistrust are hampering efforts to control the Bundibugyo Ebola outbreak in the Democratic Republic of the Congo. WHO and Africa CDC highlighted the need to reach hard‑to‑access areas as the disease continues to spread.",
-  "why": "It shows how local conditions can worsen health crises, reminding young Indians to support global health aid and stay aware of outbreaks.",
-  "tags": [
-   "ebola",
-   "drcongo",
-   "health",
-   "outbreak",
-   "aid"
   ]
  }
 ]
