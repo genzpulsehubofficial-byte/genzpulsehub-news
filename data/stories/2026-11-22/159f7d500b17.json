@@ -1,0 +1,35 @@
+{
+ "id": "159f7d500b17",
+ "created": "2026-11-22T11:56:35+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/over-100-children-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh-101795327918987.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "100+ Kids Hospitalised After Chowmein at Madhya Pradesh Fair",
+  "hook": "A tasty snack turned risky for over a hundred youngsters.",
+  "what": "More than a hundred children were admitted to a hospital after eating chowmein at a village fair in Madhya Pradesh. The district collector went to the hospital, asked about their condition and told doctors to provide proper care.",
+  "why": "It shows how important food safety is at public events. Teens should stay cautious with street food and seek help if they feel unwell.",
+  "tags": [
+   "foodSafety",
+   "MadhyaPradesh",
+   "healthAlert",
+   "fair"
+  ]
+ },
+ "ml": {
+  "headline": "100‑ലധികം കുട്ടികൾക്ക് ചൗവ്മെയ്ൻ കഴിച്ചതിന് ശേഷം ആശുപത്രി പ്രവേശനം",
+  "hook": "ഒരു രുചികരമായ സ്നാക്ക്, ആയിരം കുട്ടികളിൽ ആരോഗ്യ പ്രശ്നം.",
+  "what": "മധ്യപ്രദേശിലെ ഒരു ഗ്രാമോത്സവത്തിൽ ചൗവ്മെയ്ൻ കഴിച്ചതിനുശേഷം 100‑ലധികം കുട്ടികൾ ആശുപത്രിയിൽ ചേർക്കപ്പെട്ടു. ജില്ലാ കളക്ടർ ആശുപത്രി സന്ദർശിച്ച് രോഗികളുടെ നില ചോദിച്ചു, ഡോക്ടർമാർക്ക് ശരിയായ പരിചരണം നൽകാൻ നിർദ്ദേശിച്ചു.",
+  "why": "പൊതു പരിപാടികളിൽ ഭക്ഷ്യസുരക്ഷയുടെ പ്രാധാന്യം ഇതിലൂടെ വ്യക്തമാകുന്നു; യുവാക്കൾ തെരുവ് ഭക്ഷണത്തിൽ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "ഭക്ഷ്യസുരക്ഷ",
+   "മധ്യപ്രദേശ്",
+   "ആരോഗ്യഅലർട്ട്",
+   "ഉത്സവം"
+  ]
+ }
+}

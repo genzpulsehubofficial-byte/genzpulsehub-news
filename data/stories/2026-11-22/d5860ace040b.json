@@ -1,0 +1,37 @@
+{
+ "id": "d5860ace040b",
+ "created": "2026-11-22T11:56:38+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold falls 31%, Silver drops 64% since Jan peak",
+  "hook": "Your ₹10 lakh metal stash could be worth far less now.",
+  "what": "Gold has slipped about 31.5% and silver about 64.2% from their January highs as of Nov 20. Analysts point to expectations of higher US interest rates, a strong dollar and selling pressure as main drivers. Some factors like inflation worries, geopolitical tension and central‑bank purchases could still buoy gold.",
+  "why": "Young investors need to watch how global cues affect precious‑metal returns and consider diversifying beyond gold and silver. Stay updated on market trends before committing more money.",
+  "tags": [
+   "gold",
+   "silver",
+   "investing",
+   "markets",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ജനുവരിയിൽ നിന്ന് സ്വർണം 31% ഇടിഞ്ഞു, വെള്ളി 64% ഇടിഞ്ഞു",
+  "hook": "₹10 ലക്ഷം നിക്ഷേപം ഇപ്പോൾ വളരെ കുറവായിരിക്കാം",
+  "what": "ജനുവരിയിൽ നിന്നുള്ള ഉയർന്ന മൂല്യങ്ങളിൽ നിന്ന് സ്വർണം 31.5%യും വെള്ളി 64.2%യും ഇടിഞ്ഞു, നവംബർ 20 വരെ. വിദേശത്ത് ഉയർന്ന യു‌എസ്‌ പലിശ നിരക്ക് പ്രതീക്ഷ, ശക്തമായ ഡോളർ, നിക്ഷേപകരുടെ വിറ്റു പോകൽ എന്നിവയാണ് പ്രധാന കാരണങ്ങൾ. എന്നാൽ ഉയർന്ന വിലക്കയറ്റം, ഭൂ-രാഷ്ട്രീയ അപകടം, കേന്ദ്ര ബാങ്കുകളുടെ വാങ്ങൽ എന്നിവ സ്വർണത്തെ പിന്തുണയ്ക്കാം.",
+  "why": "യുവ നിക്ഷേപകർ ആഗോള മാർക്കറ്റ് മാറ്റങ്ങൾ ശ്രദ്ധിച്ച്, സ്വർണം‑വെള്ളി മാത്രം ആശ്രയിക്കാതെ മറ്റ് ആസ്തികളിലും വൈവിധ്യം കൊണ്ടുവരണം. കൂടുതൽ നിക്ഷേപം ചെയ്യുന്നതിന് മുൻപ് മാർക്കറ്റ് വാർത്തകൾ നിരന്തരം പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "വെള്ളി",
+   "നിക്ഷേപം",
+   "മാർക്കറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

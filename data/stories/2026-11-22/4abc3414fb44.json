@@ -1,0 +1,37 @@
+{
+ "id": "4abc3414fb44",
+ "created": "2026-11-22T11:56:44+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/how-to/features/how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-12338946",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Enable Wi‑Fi Calling on iPhone & Android in India",
+  "hook": "Stay connected even without mobile signal—use Wi‑Fi calling now!",
+  "what": "A guide has been released showing how to turn on Wi‑Fi Calling on iPhone and Android phones in India. It walks users through the required settings.",
+  "why": "Following the guide lets you activate the feature on your device.",
+  "tags": [
+   "wifiCalling",
+   "iPhone",
+   "Android",
+   "India",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "iPhone, Android-ൽ Wi‑Fi Calling എങ്ങനെ ഓൺ ചെയ്യാം",
+  "hook": "സിഗ്നൽ ഇല്ലെങ്കിലും ഇന്റർനെറ്റിലൂടെ കോളുകൾ ചെയ്യൂ!",
+  "what": "ഇന്ത്യയിൽ iPhone, Android ഫോണുകളിൽ Wi‑Fi Calling സജ്ജമാക്കാനുള്ള ഒരു ഗൈഡ് പുറത്തിറക്കി. സജ്ജീകരണങ്ങൾ വഴി ഫീച്ചർ ആക്ടിവേറ്റ് ചെയ്യാം.",
+  "why": "ഗൈഡ് പിന്തുടർന്ന് നിങ്ങളുടെ ഡിവൈസിൽ Wi‑Fi Calling ഓൺ ചെയ്യാം.",
+  "tags": [
+   "wifiCalling",
+   "iPhone",
+   "Android",
+   "India",
+   "tech"
+  ]
+ }
+}

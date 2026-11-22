@@ -1,5 +1,98 @@
 [
  {
+  "id": "b66b3565549e",
+  "created": "2026-11-22T11:56:29+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/article71730740.ece",
+  "headline": "Undersea cable to boost internet for Andaman’s eight islands",
+  "hook": "Your island’s Wi‑Fi could get a serious upgrade soon.",
+  "what": "The PANI project will lay an undersea fiber‑optic cable linking eight islands of the Andaman archipelago. The network aims to improve mobile and internet services in those remote areas.",
+  "why": "Better connectivity means smoother streaming, gaming and study resources for island youth, and faster alerts in crises. Keep an eye on rollout updates for when services become available.",
+  "tags": [
+   "Andaman",
+   "UnderseaCable",
+   "InternetBoost",
+   "YouthTech"
+  ]
+ },
+ {
+  "id": "159f7d500b17",
+  "created": "2026-11-22T11:56:35+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/over-100-children-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh-101795327918987.html",
+  "headline": "100+ Kids Hospitalised After Chowmein at Madhya Pradesh Fair",
+  "hook": "A tasty snack turned risky for over a hundred youngsters.",
+  "what": "More than a hundred children were admitted to a hospital after eating chowmein at a village fair in Madhya Pradesh. The district collector went to the hospital, asked about their condition and told doctors to provide proper care.",
+  "why": "It shows how important food safety is at public events. Teens should stay cautious with street food and seek help if they feel unwell.",
+  "tags": [
+   "foodSafety",
+   "MadhyaPradesh",
+   "healthAlert",
+   "fair"
+  ]
+ },
+ {
+  "id": "d5860ace040b",
+  "created": "2026-11-22T11:56:38+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html",
+  "headline": "Gold falls 31%, Silver drops 64% since Jan peak",
+  "hook": "Your ₹10 lakh metal stash could be worth far less now.",
+  "what": "Gold has slipped about 31.5% and silver about 64.2% from their January highs as of Nov 20. Analysts point to expectations of higher US interest rates, a strong dollar and selling pressure as main drivers. Some factors like inflation worries, geopolitical tension and central‑bank purchases could still buoy gold.",
+  "why": "Young investors need to watch how global cues affect precious‑metal returns and consider diversifying beyond gold and silver. Stay updated on market trends before committing more money.",
+  "tags": [
+   "gold",
+   "silver",
+   "investing",
+   "markets",
+   "india"
+  ]
+ },
+ {
+  "id": "3c6bf25f79ea",
+  "created": "2026-11-22T11:56:40+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/dont-treat-employees-like-children-spotify-continues-work-from-anywhere-policy-how-it-helps-the-company-moneywise-11795324228234.html",
+  "headline": "Spotify keeps Work‑From‑Anywhere, cuts costs and turnover",
+  "hook": "Work from anywhere could be the new norm for your future job",
+  "what": "Spotify has maintained its Work‑From‑Anywhere policy. The approach is said to lower office expenses and employee churn while expanding the talent pool. The company reports fewer resignations and faster hiring.",
+  "why": "For Indian Gen Z, remote‑first roles may offer more job options and reduce competition for office space. Keep an eye on companies adopting flexible work models.",
+  "tags": [
+   "Spotify",
+   "WorkFromAnywhere",
+   "Jobs",
+   "RemoteWork",
+   "Hiring"
+  ]
+ },
+ {
+  "id": "4abc3414fb44",
+  "created": "2026-11-22T11:56:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/how-to/features/how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-12338946",
+  "headline": "Enable Wi‑Fi Calling on iPhone & Android in India",
+  "hook": "Stay connected even without mobile signal—use Wi‑Fi calling now!",
+  "what": "A guide has been released showing how to turn on Wi‑Fi Calling on iPhone and Android phones in India. It walks users through the required settings.",
+  "why": "Following the guide lets you activate the feature on your device.",
+  "tags": [
+   "wifiCalling",
+   "iPhone",
+   "Android",
+   "India",
+   "tech"
+  ]
+ },
+ {
   "id": "0383d7cf8d0b",
   "created": "2026-11-22T10:58:25+05:30",
   "category": "kerala",
@@ -657,100 +750,6 @@
    "Tax",
    "France",
    "Youth"
-  ]
- },
- {
-  "id": "6fa62192c3a0",
-  "created": "2026-11-22T04:02:31+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BleepingComputer",
-  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFra01VVnJrbXZhbjlKN2xxZjFNUXhTYTJEcVQyTTdRUGdVcUVWWTRTcFdMODBYUTRxb1lRYktrUEx6cHNhbmVhaGlOQVIyalJ3ZVVXX1lhMjFXWkJRckZpamxjaUFsRzR2MWwtY0RObG5KQjJtc3lfc21qLWJ5NEd2Qzg4dHpERXVkenBtWTJCNlF6QXJ3dUpQVTBWV1NzUVpoeWRUdkltMFNFV0NmTlM5NlQ?oc=5",
-  "headline": "Microsoft patches Entra Connect Health breach vulnerability",
-  "hook": "Your school’s cloud accounts could be at risk",
-  "what": "A security flaw in Microsoft’s Entra Connect Health service was used to access tenant metadata. The issue, first seen after a July outage, has now been patched by Microsoft. A related phishing risk still lacks a fix.",
-  "why": "Students and young professionals using Microsoft cloud services should watch for suspicious emails and tighten their account security settings.",
-  "tags": [
-   "Microsoft",
-   "security",
-   "cloud",
-   "privacy",
-   "students"
-  ]
- },
- {
-  "id": "abd2d736d2b5",
-  "created": "2026-11-22T04:02:33+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Gulf News",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjExV0VPZjRISlBIazV0U04wckNUNU1VX1FYNE41UGxBR19oSmJFRndRb3A4R0ZsTlNlRGt0RlAwVmQ1YnBHUHYtV0lEdUZuSFFPQjNVMl9oOVRoRVZWdllJbnF2bFdIX0s5aEwxR3FWdjNYUzNBaTNSSFVkVkw0NjZyVEsxbzRPODNJclNfY2poTmxiYTdJbGlrUFNOR1hINk9jTlA3R19LWWpOT1pVdXVwam90UEZjZnZrdjV0Q3ZKdHRGZ2xRNjBHcFNFRGVCelhIY1ZqbnZOLXlIMENZRdIB8wFBVV95cUxPTlNXLUxQSm5LT2Y2T094bDJhbEpheVFYbVB3MENHUWdDZ3V4cW1hdlpINUZpM3J5eFMxWVFPZHlCUmVaZUMwbXdNYld6MkFVS0RkTDRHcVdscjJNdmtqOXdRNmdTWUp3emZGWVRmMllNWDZJTDFsMGx4UEdmaDY2U3F6aUJtRVotNDNuZHR2VkxfTVBYRS1kVGdUaTZwUFRGSjBWQlFjRUVQeHBicUZfSURCcjh0WDI2ZW8yXzdyN1ZSUm1xZmRsTHR1YWw2LWF1ZXBYMnpZT3RoeUpQZko1S2RiYy0tRVpKdG1VVkJwdkI2SVk?oc=5",
-  "headline": "Anirudh and Kavya's red‑black wedding dazzles with stars",
-  "hook": "A star‑studded reception lit up Chennai with red and black glamour.",
-  "what": "Music composer Anirudh Ravichander and entrepreneur Kavya Maran tied the knot on November 11. Their reception featured guests like chief minister Vijay, actor Rajinikanth, and political leader M.K. Stalin. Prime Minister Narendra Modi also sent a congratulatory letter.",
-  "why": "The event shows how entertainment, politics and business intersect, a trend many Indian teens follow on social media. Keep an eye on the celebrities and leaders who shape pop culture.",
-  "tags": [
-   "celebritywedding",
-   "Chennai",
-   "redandblack",
-   "politics",
-   "popculture"
-  ]
- },
- {
-  "id": "ccfe2ec613ac",
-  "created": "2026-11-22T04:02:35+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Kalkine India",
-  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21tYTY5eXNIeVJtVVRqS242VTdhd21oYzN1T1BVZ09FMzFKVGJxNUxVVEtOQVQ0MGc2OU1BRzVqbVRNNEowTVVEc0ktV3ZZT1VWTGoxblBqV0toSHRpY1BRdEdfY2E1aW1qRVhNWUtsZXdBU3VLczNiaWIzY2Z2M1dqN3FXdnpOVGhQb08tZkNuNEZ3WVdUTGx1OTdPdU5mUC1jUThyTGRvZndWS0kteGdnYXZNbmtFa0JKWnJsZUZWblg2SU1PSkRGQTBJT2FHdVgyMkhyNHdvVzJWbDVCXzZYYWtBamk0?oc=5",
-  "headline": "White Blood Cell DNA Boosts Cancer Test Accuracy, says Indian Study",
-  "hook": "Your own DNA could make blood cancer screens clearer and cheaper.",
-  "what": "Researchers in India found that DNA from white blood cells can amplify cancer signals in blood tests instead of diluting them. Strand Life Sciences is using this insight in its CancerSpot multi‑cancer blood test and plans to roll it out to more hospitals while cutting costs. The company also aims to enter US and Southeast Asian markets.",
-  "why": "Earlier and more affordable cancer detection could benefit young people and families, so watch for new screening options becoming available nearby.",
-  "tags": [
-   "cancer",
-   "bloodtest",
-   "healthtech",
-   "India",
-   "earlydetection"
-  ]
- },
- {
-  "id": "8d54d4add32f",
-  "created": "2026-11-22T03:25:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-  "headline": "Signal blocks screenshots on Android and iOS",
-  "hook": "Your chat screenshots might soon be impossible.",
-  "what": "Signal has added a restriction that prevents users from taking screenshots in its mobile apps on Android and iOS. The change comes as the messaging service cites growing AI surveillance concerns.",
-  "why": "Teens who rely on Signal for private chats may lose the ability to capture messages. Consider using alternative ways to save info or switch to other secure apps.",
-  "tags": [
-   "Signal",
-   "privacy",
-   "screenshots",
-   "AI",
-   "tech"
-  ]
- },
- {
-  "id": "7f6dccb8b87f",
-  "created": "2026-11-22T03:26:17+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
-  "headline": "Atomberg Teams Up With Tata’s Voltas To Make AC Compressors",
-  "hook": "Two major Indian appliance brands are joining forces to build cooling tech.",
-  "what": "Startup Atomberg has signed a joint venture agreement with Tata-owned brand Voltas. Together, both companies will manufacture compressors designed for room air conditioners.",
-  "why": "Collaborations like this help strengthen domestic consumer tech and appliance manufacturing in India.",
-  "tags": [
-   "Atomberg",
-   "Voltas",
-   "TechNews",
-   "IndianStartups"
   ]
  }
 ]

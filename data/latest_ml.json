@@ -1,5 +1,98 @@
 [
  {
+  "id": "b66b3565549e",
+  "created": "2026-11-22T11:56:29+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/article71730740.ece",
+  "headline": "അണ്ടർസീ കേബിൾ ആൻഡമാൻ 8 ദ്വീപുകൾക്ക് ഇന്റർനെറ്റ് മെച്ചപ്പെടുത്തും",
+  "hook": "നിങ്ങളുടെ ദ്വീപിലെ വൈ‑ഫൈക്ക് വരാനിരിക്കുന്ന വലിയ അപ്ഗ്രേഡ്!",
+  "what": "PANI പ്രോജക്റ്റ് ആൻഡമാൻ archipelagoയിലെ എട്ട് ദ്വീപുകൾക്ക് അണ്ടർസീ ഫൈബർ‑ഓപ്റ്റിക് കേബിൾ സ്ഥാപിക്കും. ഈ നെറ്റ്‌വർക്ക് ദൂരെ ഉള്ള പ്രദേശങ്ങളിലെ മൊബൈൽ, ഇന്റർനെറ്റ് സേവനങ്ങൾ മെച്ചപ്പെടുത്താൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് യുവാക്കൾക്ക് സ്മൂത്ത് സ്ട്രീമിംഗ്, ഗെയിമിംഗ്, പഠന സാമഗ്രികൾ എന്നിവക്ക് സഹായിക്കും, കൂടാതെ അടിയന്തിര സാഹചര്യങ്ങളിൽ വേഗത്തിലുള്ള അലർട്ടുകൾ നൽകും. സേവനം എപ്പോൾ ലഭ്യമാകും എന്നതിനെക്കുറിച്ച് അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Andaman",
+   "UnderseaCable",
+   "InternetBoost",
+   "YouthTech"
+  ]
+ },
+ {
+  "id": "159f7d500b17",
+  "created": "2026-11-22T11:56:35+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/over-100-children-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh-101795327918987.html",
+  "headline": "100‑ലധികം കുട്ടികൾക്ക് ചൗവ്മെയ്ൻ കഴിച്ചതിന് ശേഷം ആശുപത്രി പ്രവേശനം",
+  "hook": "ഒരു രുചികരമായ സ്നാക്ക്, ആയിരം കുട്ടികളിൽ ആരോഗ്യ പ്രശ്നം.",
+  "what": "മധ്യപ്രദേശിലെ ഒരു ഗ്രാമോത്സവത്തിൽ ചൗവ്മെയ്ൻ കഴിച്ചതിനുശേഷം 100‑ലധികം കുട്ടികൾ ആശുപത്രിയിൽ ചേർക്കപ്പെട്ടു. ജില്ലാ കളക്ടർ ആശുപത്രി സന്ദർശിച്ച് രോഗികളുടെ നില ചോദിച്ചു, ഡോക്ടർമാർക്ക് ശരിയായ പരിചരണം നൽകാൻ നിർദ്ദേശിച്ചു.",
+  "why": "പൊതു പരിപാടികളിൽ ഭക്ഷ്യസുരക്ഷയുടെ പ്രാധാന്യം ഇതിലൂടെ വ്യക്തമാകുന്നു; യുവാക്കൾ തെരുവ് ഭക്ഷണത്തിൽ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "ഭക്ഷ്യസുരക്ഷ",
+   "മധ്യപ്രദേശ്",
+   "ആരോഗ്യഅലർട്ട്",
+   "ഉത്സവം"
+  ]
+ },
+ {
+  "id": "d5860ace040b",
+  "created": "2026-11-22T11:56:38+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html",
+  "headline": "ജനുവരിയിൽ നിന്ന് സ്വർണം 31% ഇടിഞ്ഞു, വെള്ളി 64% ഇടിഞ്ഞു",
+  "hook": "₹10 ലക്ഷം നിക്ഷേപം ഇപ്പോൾ വളരെ കുറവായിരിക്കാം",
+  "what": "ജനുവരിയിൽ നിന്നുള്ള ഉയർന്ന മൂല്യങ്ങളിൽ നിന്ന് സ്വർണം 31.5%യും വെള്ളി 64.2%യും ഇടിഞ്ഞു, നവംബർ 20 വരെ. വിദേശത്ത് ഉയർന്ന യു‌എസ്‌ പലിശ നിരക്ക് പ്രതീക്ഷ, ശക്തമായ ഡോളർ, നിക്ഷേപകരുടെ വിറ്റു പോകൽ എന്നിവയാണ് പ്രധാന കാരണങ്ങൾ. എന്നാൽ ഉയർന്ന വിലക്കയറ്റം, ഭൂ-രാഷ്ട്രീയ അപകടം, കേന്ദ്ര ബാങ്കുകളുടെ വാങ്ങൽ എന്നിവ സ്വർണത്തെ പിന്തുണയ്ക്കാം.",
+  "why": "യുവ നിക്ഷേപകർ ആഗോള മാർക്കറ്റ് മാറ്റങ്ങൾ ശ്രദ്ധിച്ച്, സ്വർണം‑വെള്ളി മാത്രം ആശ്രയിക്കാതെ മറ്റ് ആസ്തികളിലും വൈവിധ്യം കൊണ്ടുവരണം. കൂടുതൽ നിക്ഷേപം ചെയ്യുന്നതിന് മുൻപ് മാർക്കറ്റ് വാർത്തകൾ നിരന്തരം പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "വെള്ളി",
+   "നിക്ഷേപം",
+   "മാർക്കറ്റ്",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "3c6bf25f79ea",
+  "created": "2026-11-22T11:56:40+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/dont-treat-employees-like-children-spotify-continues-work-from-anywhere-policy-how-it-helps-the-company-moneywise-11795324228234.html",
+  "headline": "Spotify Work‑From‑Anywhere നയം തുടരുന്നു, ചെലവും ജീവനക്കാരുടെ മാറ്റവും കുറയ്ക്കുന്നു",
+  "hook": "വീട്ടിൽ നിന്ന് ജോലി ചെയ്യാൻ സാധിക്കുന്നതും, ഭാവി ജോലികളിൽ കൂടുതൽ അവസരങ്ങളും",
+  "what": "Spotify തന്റെ Work‑From‑Anywhere നയം തുടരുന്നു. ഈ മോഡൽ ഓഫീസ് ചെലവുകൾ കുറയ്ക്കുകയും, ജീവനക്കാരുടെ മാറൽ കുറയ്ക്കുകയും, കൂടുതൽ പ്രതിഭകളെ ആകർഷിക്കുകയും ചെയ്യുന്നു. കമ്പനിക്ക് കുറഞ്ഞ രാജികളും, വേഗത്തിലുള്ള നിയമനങ്ങളും രേഖപ്പെടുത്തിയിട്ടുണ്ട്.",
+  "why": "ഇത് ഇന്ത്യയിലെ Gen Z‑ക്ക് ദൂരസ്ഥ ജോലികളിൽ കൂടുതൽ അവസരങ്ങൾ തുറക്കുന്നു, ജോലി തിരഞ്ഞെടുപ്പിൽ സൗകര്യം നൽകുന്നു. ഇത്തരത്തിലുള്ള കമ്പനികളിൽ അവസരങ്ങൾ നോക്കുക.",
+  "tags": [
+   "Spotify",
+   "WorkFromAnywhere",
+   "Jobs",
+   "RemoteWork",
+   "Hiring"
+  ]
+ },
+ {
+  "id": "4abc3414fb44",
+  "created": "2026-11-22T11:56:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/how-to/features/how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-12338946",
+  "headline": "iPhone, Android-ൽ Wi‑Fi Calling എങ്ങനെ ഓൺ ചെയ്യാം",
+  "hook": "സിഗ്നൽ ഇല്ലെങ്കിലും ഇന്റർനെറ്റിലൂടെ കോളുകൾ ചെയ്യൂ!",
+  "what": "ഇന്ത്യയിൽ iPhone, Android ഫോണുകളിൽ Wi‑Fi Calling സജ്ജമാക്കാനുള്ള ഒരു ഗൈഡ് പുറത്തിറക്കി. സജ്ജീകരണങ്ങൾ വഴി ഫീച്ചർ ആക്ടിവേറ്റ് ചെയ്യാം.",
+  "why": "ഗൈഡ് പിന്തുടർന്ന് നിങ്ങളുടെ ഡിവൈസിൽ Wi‑Fi Calling ഓൺ ചെയ്യാം.",
+  "tags": [
+   "wifiCalling",
+   "iPhone",
+   "Android",
+   "India",
+   "tech"
+  ]
+ },
+ {
   "id": "0383d7cf8d0b",
   "created": "2026-11-22T10:58:25+05:30",
   "category": "kerala",
@@ -657,100 +750,6 @@
    "Tax",
    "France",
    "Youth"
-  ]
- },
- {
-  "id": "6fa62192c3a0",
-  "created": "2026-11-22T04:02:31+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BleepingComputer",
-  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHFra01VVnJrbXZhbjlKN2xxZjFNUXhTYTJEcVQyTTdRUGdVcUVWWTRTcFdMODBYUTRxb1lRYktrUEx6cHNhbmVhaGlOQVIyalJ3ZVVXX1lhMjFXWkJRckZpamxjaUFsRzR2MWwtY0RObG5KQjJtc3lfc21qLWJ5NEd2Qzg4dHpERXVkenBtWTJCNlF6QXJ3dUpQVTBWV1NzUVpoeWRUdkltMFNFV0NmTlM5NlQ?oc=5",
-  "headline": "Microsoft Entra Connect Health ദോഷം പാച്ച് ചെയ്തു",
-  "hook": "നിങ്ങളുടെ സ്കൂൾ ക്ലൗഡ് അക്കൗണ്ടുകൾ അപകടത്തിൽ",
-  "what": "Microsoft Entra Connect Health സേവനത്തിലെ സുരക്ഷാ ദോഷം ഉപയോഗിച്ച് ടെനന്റ് മെറ്റാഡേറ്റാ ചോരപ്പെട്ടു. ജൂലൈ ഔട്ട്‌േജിന് ശേഷം കണ്ടെത്തിയ ഈ പ്രശ്നം ഇപ്പോൾ Microsoft പാച്ച് ചെയ്തു. പക്ഷേ, ഫിഷിംഗ് ബന്ധപ്പെട്ട ഒരു അപകടം ഇപ്പോഴും പരിഹരിച്ചിട്ടില്ല.",
-  "why": "Microsoft ക്ലൗഡ് ഉപയോഗിക്കുന്ന വിദ്യാർത്ഥികളും യുവപ്രവർത്തകരും സംശയകരമായ ഇമെയിലുകൾക്ക് ജാഗ്രത പാലിക്കുകയും അക്കൗണ്ട് സുരക്ഷാ ക്രമീകരണങ്ങൾ ശക്തമാക്കുകയും ചെയ്യണം.",
-  "tags": [
-   "Microsoft",
-   "സുരക്ഷ",
-   "ക്ലൗഡ്",
-   "സ്വകാര്യത",
-   "വിദ്യാർത്ഥി"
-  ]
- },
- {
-  "id": "abd2d736d2b5",
-  "created": "2026-11-22T04:02:33+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Gulf News",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjExV0VPZjRISlBIazV0U04wckNUNU1VX1FYNE41UGxBR19oSmJFRndRb3A4R0ZsTlNlRGt0RlAwVmQ1YnBHUHYtV0lEdUZuSFFPQjNVMl9oOVRoRVZWdllJbnF2bFdIX0s5aEwxR3FWdjNYUzNBaTNSSFVkVkw0NjZyVEsxbzRPODNJclNfY2poTmxiYTdJbGlrUFNOR1hINk9jTlA3R19LWWpOT1pVdXVwam90UEZjZnZrdjV0Q3ZKdHRGZ2xRNjBHcFNFRGVCelhIY1ZqbnZOLXlIMENZRdIB8wFBVV95cUxPTlNXLUxQSm5LT2Y2T094bDJhbEpheVFYbVB3MENHUWdDZ3V4cW1hdlpINUZpM3J5eFMxWVFPZHlCUmVaZUMwbXdNYld6MkFVS0RkTDRHcVdscjJNdmtqOXdRNmdTWUp3emZGWVRmMllNWDZJTDFsMGx4UEdmaDY2U3F6aUJtRVotNDNuZHR2VkxfTVBYRS1kVGdUaTZwUFRGSjBWQlFjRUVQeHBicUZfSURCcjh0WDI2ZW8yXzdyN1ZSUm1xZmRsTHR1YWw2LWF1ZXBYMnpZT3RoeUpQZko1S2RiYy0tRVpKdG1VVkJwdkI2SVk?oc=5",
-  "headline": "അനിരുദ്ധും കവ്യയും ചുവപ്പും കറുപ്പും നിറഞ്ഞ വിവാഹം",
-  "hook": "ചെന്നൈയില്‍ ചുവപ്പും കറുപ്പും നിറഞ്ഞ സ്റ്റാര്‍-പൂര്‍ണ്ണ റിസപ്ഷന്‍.",
-  "what": "മ്യൂസിക് കമ്പോസര്‍ അനിരുദ്ധും ബിസിനസ് വനിതാ കവ്യ മരാനും 11 നവംബര്‍ വിവാഹിതരായി. റിസപ്ഷന്‍യില്‍ സി.എം. വിജയ്, രജിനികാന്ത്, എം.കെ. സ്റ്റാലിന്‍ എന്നിവരും പങ്കെടുത്തു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഒരു അഭിനന്ദന കത്ത് അയച്ചു.",
-  "why": "വിനോദം, രാഷ്ട്രീയവും ബിസിനസും ഒന്നിച്ച് ചേരുന്ന ഈ തരംഗം യുവജനങ്ങള്‍ സോഷ്യല്‍ മീഡിയയില്‍ പിന്തുടരുന്നു. പ്രശസ്തി, നേതാക്കള്‍ എന്നിവരുടെ ചലനങ്ങള്‍ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "celebritywedding",
-   "Chennai",
-   "redandblack",
-   "politics",
-   "popculture"
-  ]
- },
- {
-  "id": "ccfe2ec613ac",
-  "created": "2026-11-22T04:02:35+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Kalkine India",
-  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV21tYTY5eXNIeVJtVVRqS242VTdhd21oYzN1T1BVZ09FMzFKVGJxNUxVVEtOQVQ0MGc2OU1BRzVqbVRNNEowTVVEc0ktV3ZZT1VWTGoxblBqV0toSHRpY1BRdEdfY2E1aW1qRVhNWUtsZXdBU3VLczNiaWIzY2Z2M1dqN3FXdnpOVGhQb08tZkNuNEZ3WVdUTGx1OTdPdU5mUC1jUThyTGRvZndWS0kteGdnYXZNbmtFa0JKWnJsZUZWblg2SU1PSkRGQTBJT2FHdVgyMkhyNHdvVzJWbDVCXzZYYWtBamk0?oc=5",
-  "headline": "വൈറ്റ് ബ്ലഡ് സെൽ DNA കാൻസർ ടെസ്റ്റ് കൃത്യത ഉയർത്തുന്നു, ഇന്ത്യൻ പഠനം പറയുന്നു",
-  "hook": "നിങ്ങളുടെ DNA തന്നെ ബ്ലഡ് കാൻസർ സ്ക്രീൻ കൂടുതൽ വ്യക്തവും സുലഭവുമാക്കും.",
-  "what": "ഇന്ത്യയിലെ ഗവേഷകർ കണ്ടെത്തിയത് വൈറ്റ് ബ്ലഡ് സെല്ലുകളുടെ DNA കാൻസർ സിഗ്നലുകൾ ശക്തിപ്പെടുത്തുന്നു, ദുർബലമാക്കുന്നില്ല. സ്റ്റ്രാൻഡ് ലൈഫ് സയൻസസ് ഈ കണ്ടെത്തൽ CancerSpot മൾട്ടി‑കാൻസർ ബ്ലഡ് ടെസ്റ്റിൽ ഉപയോഗിച്ച് കൂടുതൽ ആശുപത്രികളിലേക്ക് വ്യാപിപ്പിക്കുകയും ചെലവ് കുറയ്ക്കുകയും ചെയ്യാൻ പദ്ധതിയിടുന്നു. കൂടാതെ US, ദക്ഷിണ‑കിഴക്കൻ ഏഷ്യൻ മാർക്കറ്റുകളിലും പ്രവേശിക്കാൻ ലക്ഷ്യമിടുന്നു.",
-  "why": "വേഗത്തിലുള്ള, കുറഞ്ഞ വിലയുള്ള കാൻസർ കണ്ടെത്തൽ യുവജനങ്ങളുടെയും കുടുംബങ്ങളുടെയും ആരോഗ്യ സംരക്ഷണത്തിൽ സഹായിക്കും, അതിനാൽ അടുത്തിടെ ലഭ്യമാകുന്ന സ്ക്രീനിംഗ് ഓപ്ഷനുകൾക്ക് ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "കാൻസർ",
-   "ബ്ലഡ്ടെസ്റ്റ്",
-   "ഹെൽത്ത്‌ടെക്",
-   "ഇന്ത്യ",
-   "പ്രാരംഭകണ്ടെത്തൽ"
-  ]
- },
- {
-  "id": "8d54d4add32f",
-  "created": "2026-11-22T03:25:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-  "headline": "Signal മൊബൈൽ സ്ക്രീൻഷോട്ട് തടയുന്നു",
-  "hook": "നിങ്ങളുടെ ചാറ്റ് സ്ക്രീൻഷോട്ട് ഇനി സാധ്യമാകില്ല.",
-  "what": "Signal തന്റെ Android, iOS ആപ്പുകളിൽ സ്ക്രീൻഷോട്ട് എടുക്കുന്നത് നിരോധിച്ചു. AI നിരീക്ഷണത്തെക്കുറിച്ചുള്ള ആശങ്കകളെ തുടർന്ന് ഈ മാറ്റം നടപ്പിലാക്കി.",
-  "why": "സ്വകാര്യ ചാറ്റുകൾ സംരക്ഷിക്കാൻ സ്ക്രീൻഷോട്ട് ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഇത് ബാധകമാകും. മറ്റ് സുരക്ഷിത ആപ്പുകൾ പരീക്ഷിക്കുകയോ, വിവരങ്ങൾ മറ്റുവിധത്തിൽ സംരക്ഷിക്കുകയോ ചെയ്യാം.",
-  "tags": [
-   "Signal",
-   "സ്വകാര്യത",
-   "സ്ക്രീൻഷോട്ട്",
-   "AI",
-   "ടെക്"
-  ]
- },
- {
-  "id": "7f6dccb8b87f",
-  "created": "2026-11-22T03:26:17+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
-  "headline": "എസി കംപ്രസ്സറുകൾ നിർമ്മിക്കാൻ വോൾട്ടാസും ആറ്റംബർഗും കൈകോർക്കുന്നു",
-  "hook": "റൂം എസി ഘടകങ്ങൾ ഒരുമിച്ച് നിർമ്മിക്കാൻ രണ്ട് പ്രമുഖ ബ്രാൻഡുകൾ ഒന്നിക്കുന്നു.",
-  "what": "ടാറ്റയുടെ കീഴിലുള്ള വോൾട്ടാസുമായി ചേർന്ന് സംയുക്ത സംരംഭം തുടങ്ങാൻ ആറ്റംബർഗ് കരാർ ഒപ്പുവെച്ചു. റൂം എയർ കണ്ടീഷണറുകൾക്കുള്ള കംപ്രസ്സറുകൾ നിർമ്മിക്കുകയാണ് ഈ കൂട്ടുകെട്ടിന്റെ ലക്ഷ്യം.",
-  "why": "ഇന്ത്യൻ ഇലക്ട്രോണിക്സ് നിർമ്മാണ മേഖലയ്ക്ക് കരുത്തുപകരാൻ ഇത്തരം പുതിയ പദ്ധതികൾ സഹായിക്കും.",
-  "tags": [
-   "Atomberg",
-   "Voltas",
-   "TechNews",
-   "KeralaTech"
   ]
  }
 ]

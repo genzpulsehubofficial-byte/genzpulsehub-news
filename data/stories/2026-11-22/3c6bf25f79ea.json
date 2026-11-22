@@ -1,0 +1,37 @@
+{
+ "id": "3c6bf25f79ea",
+ "created": "2026-11-22T11:56:40+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/dont-treat-employees-like-children-spotify-continues-work-from-anywhere-policy-how-it-helps-the-company-moneywise-11795324228234.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Spotify keeps Work‑From‑Anywhere, cuts costs and turnover",
+  "hook": "Work from anywhere could be the new norm for your future job",
+  "what": "Spotify has maintained its Work‑From‑Anywhere policy. The approach is said to lower office expenses and employee churn while expanding the talent pool. The company reports fewer resignations and faster hiring.",
+  "why": "For Indian Gen Z, remote‑first roles may offer more job options and reduce competition for office space. Keep an eye on companies adopting flexible work models.",
+  "tags": [
+   "Spotify",
+   "WorkFromAnywhere",
+   "Jobs",
+   "RemoteWork",
+   "Hiring"
+  ]
+ },
+ "ml": {
+  "headline": "Spotify Work‑From‑Anywhere നയം തുടരുന്നു, ചെലവും ജീവനക്കാരുടെ മാറ്റവും കുറയ്ക്കുന്നു",
+  "hook": "വീട്ടിൽ നിന്ന് ജോലി ചെയ്യാൻ സാധിക്കുന്നതും, ഭാവി ജോലികളിൽ കൂടുതൽ അവസരങ്ങളും",
+  "what": "Spotify തന്റെ Work‑From‑Anywhere നയം തുടരുന്നു. ഈ മോഡൽ ഓഫീസ് ചെലവുകൾ കുറയ്ക്കുകയും, ജീവനക്കാരുടെ മാറൽ കുറയ്ക്കുകയും, കൂടുതൽ പ്രതിഭകളെ ആകർഷിക്കുകയും ചെയ്യുന്നു. കമ്പനിക്ക് കുറഞ്ഞ രാജികളും, വേഗത്തിലുള്ള നിയമനങ്ങളും രേഖപ്പെടുത്തിയിട്ടുണ്ട്.",
+  "why": "ഇത് ഇന്ത്യയിലെ Gen Z‑ക്ക് ദൂരസ്ഥ ജോലികളിൽ കൂടുതൽ അവസരങ്ങൾ തുറക്കുന്നു, ജോലി തിരഞ്ഞെടുപ്പിൽ സൗകര്യം നൽകുന്നു. ഇത്തരത്തിലുള്ള കമ്പനികളിൽ അവസരങ്ങൾ നോക്കുക.",
+  "tags": [
+   "Spotify",
+   "WorkFromAnywhere",
+   "Jobs",
+   "RemoteWork",
+   "Hiring"
+  ]
+ }
+}
