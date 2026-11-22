@@ -1,0 +1,37 @@
+{
+ "id": "e10646578eaf",
+ "created": "2026-11-22T19:37:19+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raps-a-small-town-firm-thats-now-a-trusted-partner-in-indias-space-and-defence-missions/article71730831.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Small-town RAPS powers India's space and defence projects",
+  "hook": "A tiny firm from a small town now fuels 30 Indian space and defence missions",
+  "what": "Ramesh’s Aerospace Products & Services Pvt. Ltd. (RAPS) is AS9100‑certified and supplies composite subsystems for about 30 defence and aerospace programmes across India. The company, based in a small town, has become a trusted supplier for the country’s space and defence missions.",
+  "why": "It shows that startups from any corner can contribute to high‑tech national projects, encouraging young engineers to explore careers in aerospace and defence technology.",
+  "tags": [
+   "space",
+   "defence",
+   "startup",
+   "aerospace",
+   "madeinindia"
+  ]
+ },
+ "ml": {
+  "headline": "ചെറിയ പട്ടണത്തിലെ RAPS, ഇന്ത്യയുടെ സ്പേസ്, പ്രതിരോധ പദ്ധതികളെ ശക്തിപ്പെടുത്തുന്നു",
+  "hook": "ഒരു ചെറിയ പട്ടണത്തിലെ കമ്പനിയാണ് 30-ത്തിലധികം സ്പേസ്, പ്രതിരോധ പദ്ധതികളിൽ ഭാഗം വഹിക്കുന്നത്",
+  "what": "Ramesh’s Aerospace Products & Services Pvt. Ltd. (RAPS) AS9100 സർട്ടിഫൈഡ് MSME ആയി, ഇന്ത്യയിലെ ഏകദേശം 30 പ്രതിരോധ‑വിമാന പദ്ധതികൾക്ക് കമ്പോസിറ്റ് സബ്‌സിസ്റ്റംസ് നൽകുന്നു. ഈ ചെറിയ പട്ടണത്തെ അടിസ്ഥാനമാക്കിയുള്ള സ്ഥാപനമാണ് രാജ്യത്തിന്റെ സ്പേസ്, പ്രതിരോധ മിഷനുകളിൽ വിശ്വസനീയ പങ്കാളി.",
+  "why": "ഇത് ഏത് സ്ഥലത്തുനിന്നും ഉയർന്ന സാങ്കേതിക മേഖലകളിൽ പങ്കാളിയാകാൻ കഴിയും എന്ന് കാണിക്കുന്നു, യുവ എഞ്ചിനീയർമാർക്ക് aerospace, defence മേഖലകളിൽ കരിയർ പരിഗണിക്കാൻ പ്രചോദനമാകും.",
+  "tags": [
+   "സ്പേസ്",
+   "പ്രതിരോധ",
+   "സ്റ്റാർട്ടപ്പ്",
+   "എയ്റോസ്പേസ്",
+   "മെയ്ഡ്‌ഇൻഇന്ത്യ"
+  ]
+ }
+}

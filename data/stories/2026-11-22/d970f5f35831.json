@@ -1,0 +1,37 @@
+{
+ "id": "d970f5f35831",
+ "created": "2026-11-22T19:37:24+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV Sports",
+ "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWHNTTE5Ubmx2SThwckVNdE9mcjFwSkktWEoyOWpweXotMkxiaE43NTdDMFNIcERrRFZOUlFtS0tQc1JzajZVd3JqUDBwa1Z4b3VKcVMwanRPajgzS0VLYnBUUXY1TWpKME56czB2eGRMTkwxVzdGYWFSanBsRTB3cWxuSGZrejhOZG1HSENKU09QNWowOENEWnBVakdvb2xtNU5vSU9xaU9obXVJOFNYWW9LTzJGMjk0MkhrOWtBYzlWeURyQVotcENzMVIzeUxSaXpXaFRGZFFfbHdORkNWdDd4WHhvNUp6aVdZeW5ad012M1pkT2lUQlB3TGZQbzQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India sets 314-run chase vs Pakistan, Sooryavanshi in focus",
+  "hook": "A big target and a fiery showdown shape the Rising Stars clash.",
+  "what": "In the Asia Cup Rising Stars match, India posted a target of 314 runs for Pakistan. Bowler Vaibhav Sooryavanshi drew special attention. Meanwhile, Harshit Rana got into a heated exchange with Pakistani batsmen, including sledging and an aggressive send‑off.",
+  "why": "The high target showcases India's batting depth, while the on‑field tension highlights the intensity of the rivalry, reminding young fans to enjoy the sport responsibly.",
+  "tags": [
+   "cricket",
+   "india",
+   "pakistan",
+   "asiacup",
+   "risingstars"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ 314 റൺ ലക്ഷ്യം വെച്ച് പാക്കിസ്താൻ നേരിടുന്നു, സൂര്യവംശി ശ്രദ്ധയിൽ",
+  "hook": "വലിയ ലക്ഷ്യവും തീപിടിച്ച വാദവുമാണ് റൈസിംഗ് സ്റ്റാർസ് മത്സരത്തെ ചൂടാക്കുന്നത്.",
+  "what": "ആഷ്യാ കപ്പ് റൈസിംഗ് സ്റ്റാർസ് മത്സരത്തിൽ, ഇന്ത്യ പാക്കിസ്താനിന് 314 റൺ ലക്ഷ്യം നിശ്ചയിച്ചു. വൈഭവ സൂര്യവംശി ശ്രദ്ധയുടെ കേന്ദ്രമായി. അതേ സമയം, ഹർഷിത് രാണാ പാക്കിസ്താനി ബാറ്റ്സ്മാനുകളുമായി തീപിടിച്ച വാദവുമുണ്ടാക്കി, സ്ലെഡ്ജിംഗ്, ആക്രാമകമായ വിടവാങ്ങൽ എന്നിവ നടത്തി.",
+  "why": "ഇത് ഇന്ത്യൻ ക്രിക്കറ്റ് ശക്തി കാണിക്കുന്നു, കൂടാതെ ഇരുപക്ഷം തമ്മിലുള്ള കടുത്ത മത്സരം യുവാക്കളെ കളിയുടെ ആവേശം ഉത്തരവാദിത്വത്തോടെ ആസ്വദിക്കാൻ പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "ഇന്ത്യ",
+   "പാക്കിസ്താൻ",
+   "ആഷ്യാകപ്പ്",
+   "റൈസിംഗ്‌സ്റ്റാർസ്"
+  ]
+ }
+}

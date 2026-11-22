@@ -1,5 +1,99 @@
 [
  {
+  "id": "0db7b717ca2c",
+  "created": "2026-11-22T19:37:12+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/borrowing-money-to-invest-in-stocks-charlie-mungers-warning-explains-why-a-market-crash-can-put-your-savings-at-risk-11795355402379.html",
+  "headline": "Munger cautions: Borrowing to buy stocks can wipe out savings",
+  "hook": "Leverage can turn a 30% dip into a 45% loss.",
+  "what": "Charlie Munger warned investors not to use borrowed money for stock purchases. He explained that a 30% market fall could erase about 45% of the original capital when leverage is used. Margin calls, interest charges and forced sales amplify the risk.",
+  "why": "Young investors should avoid borrowing to trade, as a market slump could quickly deplete their funds. Keeping investments unleveraged protects savings.",
+  "tags": [
+   "investing",
+   "leverage",
+   "Munger",
+   "stockmarket",
+   "financialrisk"
+  ]
+ },
+ {
+  "id": "4ebb9ee16d08",
+  "created": "2026-11-22T19:37:16+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-promises-four-lane-highway-fly-over-in-bhimavaram-if-bjp-wins/article71731460.ece",
+  "headline": "Minister vows new highway and fly‑over for Bhimavaram",
+  "hook": "A fresh road plan could reshape travel for Bhimavaram youth.",
+  "what": "A Union Minister announced that a four‑lane highway and a fly‑over will be built in Bhimavaram if the BJP wins the upcoming election.",
+  "why": "Improved connectivity may ease daily commutes and open up job or study opportunities for local teens. Stay updated on the election outcome.",
+  "tags": [
+   "Bhimavaram",
+   "Infrastructure",
+   "Election",
+   "Youth"
+  ]
+ },
+ {
+  "id": "e10646578eaf",
+  "created": "2026-11-22T19:37:19+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/raps-a-small-town-firm-thats-now-a-trusted-partner-in-indias-space-and-defence-missions/article71730831.ece",
+  "headline": "Small-town RAPS powers India's space and defence projects",
+  "hook": "A tiny firm from a small town now fuels 30 Indian space and defence missions",
+  "what": "Ramesh’s Aerospace Products & Services Pvt. Ltd. (RAPS) is AS9100‑certified and supplies composite subsystems for about 30 defence and aerospace programmes across India. The company, based in a small town, has become a trusted supplier for the country’s space and defence missions.",
+  "why": "It shows that startups from any corner can contribute to high‑tech national projects, encouraging young engineers to explore careers in aerospace and defence technology.",
+  "tags": [
+   "space",
+   "defence",
+   "startup",
+   "aerospace",
+   "madeinindia"
+  ]
+ },
+ {
+  "id": "1e5cbe2ba3ad",
+  "created": "2026-11-22T19:37:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+  "headline": "Anthropic’s quirky IPO rattles bankers, shares dip",
+  "hook": "AI startup’s odd listing shakes Wall Street.",
+  "what": "Anthropic went public using an unconventional process similar to SpaceX’s. The approach upset some investment banks. After the debut, its stock fell as tech shares slumped.",
+  "why": "It shows that even hot AI firms can face market turbulence, a reminder to watch how tech IPOs affect stock markets.",
+  "tags": [
+   "AI",
+   "IPO",
+   "techstocks",
+   "WallStreet",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "d970f5f35831",
+  "created": "2026-11-22T19:37:24+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "NDTV Sports",
+  "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWHNTTE5Ubmx2SThwckVNdE9mcjFwSkktWEoyOWpweXotMkxiaE43NTdDMFNIcERrRFZOUlFtS0tQc1JzajZVd3JqUDBwa1Z4b3VKcVMwanRPajgzS0VLYnBUUXY1TWpKME56czB2eGRMTkwxVzdGYWFSanBsRTB3cWxuSGZrejhOZG1HSENKU09QNWowOENEWnBVakdvb2xtNU5vSU9xaU9obXVJOFNYWW9LTzJGMjk0MkhrOWtBYzlWeURyQVotcENzMVIzeUxSaXpXaFRGZFFfbHdORkNWdDd4WHhvNUp6aVdZeW5ad012M1pkT2lUQlB3TGZQbzQ?oc=5",
+  "headline": "India sets 314-run chase vs Pakistan, Sooryavanshi in focus",
+  "hook": "A big target and a fiery showdown shape the Rising Stars clash.",
+  "what": "In the Asia Cup Rising Stars match, India posted a target of 314 runs for Pakistan. Bowler Vaibhav Sooryavanshi drew special attention. Meanwhile, Harshit Rana got into a heated exchange with Pakistani batsmen, including sledging and an aggressive send‑off.",
+  "why": "The high target showcases India's batting depth, while the on‑field tension highlights the intensity of the rivalry, reminding young fans to enjoy the sport responsibly.",
+  "tags": [
+   "cricket",
+   "india",
+   "pakistan",
+   "asiacup",
+   "risingstars"
+  ]
+ },
+ {
   "id": "95d58c3be206",
   "created": "2026-11-22T18:37:56+05:30",
   "category": "money",
@@ -656,97 +750,6 @@
    "kerala",
    "healthawareness",
    "membranousnephropathy"
-  ]
- },
- {
-  "id": "ab4ea1d977ba",
-  "created": "2026-11-22T13:14:38+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/thiruvananthapuram-church-clash-priest-resignation-protest-pti0nz2k65f",
-  "headline": "Police intervene as parishioners fight over priest's resignation in Thiruvananthapuram",
-  "hook": "A church dispute turned chaotic, prompting police action in the capital.",
-  "what": "At St Anne's Church in Thiruvananthapuram, two groups of worshippers clashed over calls for the resignation of the parish priest, Father Theodosius D Cruz. Police were called in and deployed to the scene.",
-  "why": "The incident shows how tensions can flare within community spaces, urging young people to stay informed and steer clear of volatile gatherings.",
-  "tags": [
-   "Thiruvananthapuram",
-   "ChurchClash",
-   "KeralaNews"
-  ]
- },
- {
-  "id": "b66b3565549e",
-  "created": "2026-11-22T11:56:29+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/article71730740.ece",
-  "headline": "Undersea cable to boost internet for Andaman’s eight islands",
-  "hook": "Your island’s Wi‑Fi could get a serious upgrade soon.",
-  "what": "The PANI project will lay an undersea fiber‑optic cable linking eight islands of the Andaman archipelago. The network aims to improve mobile and internet services in those remote areas.",
-  "why": "Better connectivity means smoother streaming, gaming and study resources for island youth, and faster alerts in crises. Keep an eye on rollout updates for when services become available.",
-  "tags": [
-   "Andaman",
-   "UnderseaCable",
-   "InternetBoost",
-   "YouthTech"
-  ]
- },
- {
-  "id": "159f7d500b17",
-  "created": "2026-11-22T11:56:35+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/over-100-children-hospitalised-after-eating-chowmein-at-village-fair-in-madhya-pradesh-101795327918987.html",
-  "headline": "100+ Kids Hospitalised After Chowmein at Madhya Pradesh Fair",
-  "hook": "A tasty snack turned risky for over a hundred youngsters.",
-  "what": "More than a hundred children were admitted to a hospital after eating chowmein at a village fair in Madhya Pradesh. The district collector went to the hospital, asked about their condition and told doctors to provide proper care.",
-  "why": "It shows how important food safety is at public events. Teens should stay cautious with street food and seek help if they feel unwell.",
-  "tags": [
-   "foodSafety",
-   "MadhyaPradesh",
-   "healthAlert",
-   "fair"
-  ]
- },
- {
-  "id": "d5860ace040b",
-  "created": "2026-11-22T11:56:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html",
-  "headline": "Gold falls 31%, Silver drops 64% since Jan peak",
-  "hook": "Your ₹10 lakh metal stash could be worth far less now.",
-  "what": "Gold has slipped about 31.5% and silver about 64.2% from their January highs as of Nov 20. Analysts point to expectations of higher US interest rates, a strong dollar and selling pressure as main drivers. Some factors like inflation worries, geopolitical tension and central‑bank purchases could still buoy gold.",
-  "why": "Young investors need to watch how global cues affect precious‑metal returns and consider diversifying beyond gold and silver. Stay updated on market trends before committing more money.",
-  "tags": [
-   "gold",
-   "silver",
-   "investing",
-   "markets",
-   "india"
-  ]
- },
- {
-  "id": "3c6bf25f79ea",
-  "created": "2026-11-22T11:56:40+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/dont-treat-employees-like-children-spotify-continues-work-from-anywhere-policy-how-it-helps-the-company-moneywise-11795324228234.html",
-  "headline": "Spotify keeps Work‑From‑Anywhere, cuts costs and turnover",
-  "hook": "Work from anywhere could be the new norm for your future job",
-  "what": "Spotify has maintained its Work‑From‑Anywhere policy. The approach is said to lower office expenses and employee churn while expanding the talent pool. The company reports fewer resignations and faster hiring.",
-  "why": "For Indian Gen Z, remote‑first roles may offer more job options and reduce competition for office space. Keep an eye on companies adopting flexible work models.",
-  "tags": [
-   "Spotify",
-   "WorkFromAnywhere",
-   "Jobs",
-   "RemoteWork",
-   "Hiring"
   ]
  }
 ]

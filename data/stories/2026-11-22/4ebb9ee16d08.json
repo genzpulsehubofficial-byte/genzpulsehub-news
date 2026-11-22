@@ -1,0 +1,35 @@
+{
+ "id": "4ebb9ee16d08",
+ "created": "2026-11-22T19:37:16+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-promises-four-lane-highway-fly-over-in-bhimavaram-if-bjp-wins/article71731460.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Minister vows new highway and fly‑over for Bhimavaram",
+  "hook": "A fresh road plan could reshape travel for Bhimavaram youth.",
+  "what": "A Union Minister announced that a four‑lane highway and a fly‑over will be built in Bhimavaram if the BJP wins the upcoming election.",
+  "why": "Improved connectivity may ease daily commutes and open up job or study opportunities for local teens. Stay updated on the election outcome.",
+  "tags": [
+   "Bhimavaram",
+   "Infrastructure",
+   "Election",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "മന്ത്രി വാഗ്ദാനം ചെയ്തു ഭിമവാരം നഗരത്തിന് നാല് ലെയിൻ ഹൈവേ, ഫ്ലൈ‑ഓവർ",
+  "hook": "പുതിയ റോഡ് പദ്ധതി യുവാക്കളുടെ യാത്രാ സൗകര്യം മാറ്റി നിർത്താം.",
+  "what": "ഒരു യൂണിയൻ മന്ത്രിയ്ക്ക്, ബി.ജെ.പി. വിജയിച്ചാൽ, ഭിമവാരത്തിൽ നാല് ലെയിൻ ഹൈവേയും ഫ്ലൈ‑ഓവറും നിർമ്മിക്കുമെന്ന് പ്രഖ്യാപിച്ചു.",
+  "why": "മികച്ച കണക്ഷൻ വിദ്യാർത്ഥികൾക്ക് യാത്രയും ജോലി, പഠന അവസരങ്ങളും എളുപ്പമാക്കും. തിരഞ്ഞെടുപ്പ് ഫലങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഭിമവാരം",
+   "അടിസ്ഥാനസൗകര്യം",
+   "തിരഞ്ഞെടുപ്പ്",
+   "യുവാക്കൾ"
+  ]
+ }
+}

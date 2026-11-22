@@ -1,0 +1,37 @@
+{
+ "id": "0db7b717ca2c",
+ "created": "2026-11-22T19:37:12+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/borrowing-money-to-invest-in-stocks-charlie-mungers-warning-explains-why-a-market-crash-can-put-your-savings-at-risk-11795355402379.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Munger cautions: Borrowing to buy stocks can wipe out savings",
+  "hook": "Leverage can turn a 30% dip into a 45% loss.",
+  "what": "Charlie Munger warned investors not to use borrowed money for stock purchases. He explained that a 30% market fall could erase about 45% of the original capital when leverage is used. Margin calls, interest charges and forced sales amplify the risk.",
+  "why": "Young investors should avoid borrowing to trade, as a market slump could quickly deplete their funds. Keeping investments unleveraged protects savings.",
+  "tags": [
+   "investing",
+   "leverage",
+   "Munger",
+   "stockmarket",
+   "financialrisk"
+  ]
+ },
+ "ml": {
+  "headline": "Munger മുന്നറിയിപ്പ്: കടം എടുത്ത് സ്റ്റോക്ക് വാങ്ങൽ, സംരക്ഷണം നശിക്കും",
+  "hook": "ലീവറേജ് 30% ഇടിവ് 45% നഷ്ടമാക്കി മാറ്റാം.",
+  "what": "Charlie Munger നിക്ഷേപകരോട് സ്റ്റോക്കുകൾക്കായി കടം എടുത്തു വാങ്ങരുതെന്ന് മുന്നറിയിപ്പ് നൽകി. 30% മാർക്കറ്റ് ഇടിവ് ലീവറേജ് ഉപയോഗിച്ചാൽ മൂലധനത്തിന്റെ ഏകദേശം 45% നഷ്ടമാകാം എന്ന് അദ്ദേഹം വിശദീകരിച്ചു. മാർജിൻ കോളുകൾ, പലിശ ചാർജുകൾ, നിർബന്ധിത വിൽപ്പന എന്നിവ ഈ അപകടം വർധിപ്പിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകർ കടം എടുത്ത് ട്രേഡ് ചെയ്യുന്നത് ഒഴിവാക്കണം, കാരണം മാർക്കറ്റ് ഇടിവ് അവരുടെ ഫണ്ടുകൾ വേഗത്തിൽ ചുരുങ്ങാൻ ഇടയാകും. ലീവറേജ് ഇല്ലാതെ നിക്ഷേപം നടത്തുന്നത് സംരക്ഷണം ഉറപ്പാക്കും.",
+  "tags": [
+   "നിക്ഷേപം",
+   "ലീവറേജ്",
+   "Munger",
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "ആർഥികഅപകടം"
+  ]
+ }
+}

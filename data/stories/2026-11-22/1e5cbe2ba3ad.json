@@ -1,0 +1,37 @@
+{
+ "id": "1e5cbe2ba3ad",
+ "created": "2026-11-22T19:37:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic’s quirky IPO rattles bankers, shares dip",
+  "hook": "AI startup’s odd listing shakes Wall Street.",
+  "what": "Anthropic went public using an unconventional process similar to SpaceX’s. The approach upset some investment banks. After the debut, its stock fell as tech shares slumped.",
+  "why": "It shows that even hot AI firms can face market turbulence, a reminder to watch how tech IPOs affect stock markets.",
+  "tags": [
+   "AI",
+   "IPO",
+   "techstocks",
+   "WallStreet",
+   "Anthropic"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic‑ന്റെ വിചിത്ര IPO ബാങ്കർമാരെ കുലുക്കി, ഷെയർസ്‌ താഴ്ന്നു",
+  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ അസാധാരണ ലിസ്റ്റിംഗ് വാൾ സ്റ്റ്രീറ്റിനെ അമ്പരപ്പിച്ചു.",
+  "what": "Anthropic, SpaceX പോലെ, ഒരു വ്യത്യസ്ത IPO പ്രക്രിയ ഉപയോഗിച്ചു. ഈ രീതിയാൽ ചില ബാങ്കർമാർ അസന്തുഷ്ടരായി. ലിസ്റ്റിംഗ് ശേഷം, ടെക് ഷെയറുകളുടെ ഇടിവ് മൂലം അതിന്റെ സ്റ്റോക്ക് താഴ്ന്നു.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് ടെക് കമ്പനികളുടെ മാർക്കറ്റ് അപകടങ്ങൾ കാണിക്കുന്നു; സ്റ്റോക്ക് മാർക്കറ്റിലെ ചലനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AI",
+   "IPO",
+   "techstocks",
+   "WallStreet",
+   "Anthropic"
+  ]
+ }
+}
