@@ -1,0 +1,37 @@
+{
+ "id": "78518b7dcf59",
+ "created": "2026-11-23T02:09:47+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "WHO chief: Conflict near Congo Ebola zone hampers response",
+  "hook": "War near the outbreak is slowing lifesaving aid.",
+  "what": "The World Health Organization's head said that fighting near the Ebola‑affected area in the Democratic Republic of Congo is interfering with the disease response. The clashes are making it harder for health teams to reach affected communities.",
+  "why": "Delays can hinder containment and raise the risk of spread beyond Africa. Staying informed helps support global health efforts.",
+  "tags": [
+   "WHO",
+   "Ebola",
+   "Congo",
+   "HealthCrisis",
+   "Conflict"
+  ]
+ },
+ "ml": {
+  "headline": "WHO ചീഫ്: കോൺഗോയിലെ ഈബോളാ പ്രദേശത്ത് പോരാട്ടം പ്രതികരണം തടയുന്നു",
+  "hook": "മഹാമാരിയുടെ സമീപത്തെ യുദ്ധം ജീവൻ രക്ഷാ സഹായം മന്ദഗതിയിലാക്കുന്നു.",
+  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷന്റെ ചീഫ്, കോൺഗോയിലെ ഈബോളാ ബാധിത പ്രദേശത്തിന് സമീപം നടക്കുന്ന പോരാട്ടം രോഗപ്രതിരോധ പ്രവർത്തനങ്ങളെ തടസ്സപ്പെടുത്തുന്നുവെന്ന് പറഞ്ഞു. ഈ സംഘർഷം ആരോഗ്യ ടീമുകൾക്ക് ബാധിത സമൂഹങ്ങളിലേക്ക് എത്തുന്നത് ബുദ്ധിമുട്ടാക്കുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള തടസ്സങ്ങൾ രോഗം നിയന്ത്രിക്കാൻ വൈകാൻ കാരണമാകാം, അതിലൂടെ ആഫ്രിക്കയ്ക്ക് പുറത്തും വ്യാപന സാധ്യത ഉയരും. വിവരങ്ങൾ അറിയുന്നത് ഗ്ലോബൽ ഹെൽത്ത് ശ്രമങ്ങളെ പിന്തുണയ്ക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "WHO",
+   "Ebola",
+   "Congo",
+   "Health",
+   "Conflict"
+  ]
+ }
+}

@@ -1,5 +1,62 @@
 [
  {
+  "id": "9d8c520acc65",
+  "created": "2026-11-23T02:08:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Yahoo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+  "headline": "Apple വികസിപ്പിക്കുന്നു സ്വയംപ്രവർത്തി AI ഏജന്റ്, കോഡ് എഴുതും, ആപ്പുകൾ നിയന്ത്രിക്കും",
+  "hook": "ഒരു പുതിയ AI നിങ്ങളുടെ iPhone ആപ്പുകൾക്ക് കോഡ് എഴുതിയും നിയന്ത്രിക്കയും ചെയ്യും.",
+  "what": "Apple സ്വയംപ്രവർത്തി ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ഏജന്റ് വികസിപ്പിക്കുന്നു, അത് കോഡ് സൃഷ്ടിക്കുകയും ആപ്പുകൾ ഉപയോഗിക്കുകയും ചെയ്യും. ഇത് AI മത്സരത്തിൽ പിന്നിലാകാതെ തുടരാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പുറത്തിറങ്ങിയാൽ യുവജനങ്ങൾക്ക് ആപ്പുകൾ സൃഷ്ടിക്കാനും കസ്റ്റമൈസ് ചെയ്യാനും പുതിയ മാർഗങ്ങൾ ലഭിക്കും, അതിനാൽ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Tech",
+   "Apps",
+   "Innovation"
+  ]
+ },
+ {
+  "id": "78518b7dcf59",
+  "created": "2026-11-23T02:09:47+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+  "headline": "WHO ചീഫ്: കോൺഗോയിലെ ഈബോളാ പ്രദേശത്ത് പോരാട്ടം പ്രതികരണം തടയുന്നു",
+  "hook": "മഹാമാരിയുടെ സമീപത്തെ യുദ്ധം ജീവൻ രക്ഷാ സഹായം മന്ദഗതിയിലാക്കുന്നു.",
+  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷന്റെ ചീഫ്, കോൺഗോയിലെ ഈബോളാ ബാധിത പ്രദേശത്തിന് സമീപം നടക്കുന്ന പോരാട്ടം രോഗപ്രതിരോധ പ്രവർത്തനങ്ങളെ തടസ്സപ്പെടുത്തുന്നുവെന്ന് പറഞ്ഞു. ഈ സംഘർഷം ആരോഗ്യ ടീമുകൾക്ക് ബാധിത സമൂഹങ്ങളിലേക്ക് എത്തുന്നത് ബുദ്ധിമുട്ടാക്കുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള തടസ്സങ്ങൾ രോഗം നിയന്ത്രിക്കാൻ വൈകാൻ കാരണമാകാം, അതിലൂടെ ആഫ്രിക്കയ്ക്ക് പുറത്തും വ്യാപന സാധ്യത ഉയരും. വിവരങ്ങൾ അറിയുന്നത് ഗ്ലോബൽ ഹെൽത്ത് ശ്രമങ്ങളെ പിന്തുണയ്ക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "WHO",
+   "Ebola",
+   "Congo",
+   "Health",
+   "Conflict"
+  ]
+ },
+ {
+  "id": "52ab67dd54d2",
+  "created": "2026-11-23T02:09:53+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+  "headline": "തക്ഷശിലാ സർവകലാശാല എഴുത്തുകാരന്‍ S. Ramakrishnan-നും ഗായിക K.S. Chithra-ക്കും ആദര ഡോക്ടറേറ്റ്",
+  "hook": "നിങ്ങളുടെ പ്രിയ എഴുത്തുകാരനും ഐക്കോണിക് ഗായികയും ഡോക്ടറേറ്റ് നേടി!",
+  "what": "തക്ഷശിലാ സർവകലാശാല S. Ramakrishnan-നും K.S. Chithra-നും ആദര ഡോക്ടറേറ്റ് നല്‍കി. സാഹിത്യം, സംഗീതം എന്നിവയില്‍ അവരുടെ സംഭാവനകള്‍ അംഗീകരിച്ചാണ് ഈ പുരസ്‌കാരം.",
+  "why": "കലാ മേഖലയില്‍ ഇത്തരത്തിലുള്ള അംഗീകാരം സൃഷ്ടിപരമായ കരിയറുകള്‍ക്ക് മാന്യത നല്‍കുന്നു. യുവ വായനക്കാരും സംഗീതപ്രേമികളും അവരുടെ വിജയത്തില്‍ പ്രചോദനം കണ്ടെത്താം.",
+  "tags": [
+   "Takshashila",
+   "Doctorate",
+   "Sramakrishnan",
+   "KSChithra",
+   "Prerana"
+  ]
+ },
+ {
   "id": "d8d3ca3594c1",
   "created": "2026-11-23T01:20:14+05:30",
   "category": "headlines",
@@ -693,61 +750,6 @@
    "ജോലി",
    "വികസനം",
    "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "de7992906a5f",
-  "created": "2026-11-22T18:39:04+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/features/xiaomi-18-pro-max-vs-iphone-18-pro-max-vs-oppo-find-x10-pro-max-price-specifications-features-comparison-12345045",
-  "headline": "Xiaomi, iPhone, Oppo ഫ്ലാഗ്ഷിപ്പ് ഫോണുകളുടെ താരതമ്യം",
-  "hook": "ഏത് ഫ്ലാഗ്ഷിപ്പ് ഫോണാണ് നിങ്ങളുടെ ബജറ്റിനോട് ഏറ്റവും പൊരുത്തം?",
-  "what": "ഒരു ലേഖനത്തിൽ Xiaomi 18 Pro Max, iPhone 18 Pro Max, Oppo Find X10 Pro Max എന്നിവയുടെ വിലയും പ്രധാന സവിശേഷതകളും ഒന്നിച്ച് കാണിക്കുന്നു. വായനക്കാർക്ക് വ്യത്യാസങ്ങൾ ഒരു നോട്ടത്തിൽ മനസ്സിലാക്കാൻ ഇത് സഹായിക്കുന്നു.",
-  "why": "സ്പെക്‌സ്‌യും ചെലവുമറിയുന്നത് യുവാക്കൾക്ക് അവരുടെ ആവശ്യത്തിനും ബജറ്റിനും അനുയോജ്യമായ ഫോൺ തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. അപ്ഗ്രേഡ് ചെയ്യുന്നതിന് മുമ്പ് ഈ താരതമ്യം പരിശോധിക്കുക.",
-  "tags": [
-   "ഫോൺ",
-   "താരതമ്യം",
-   "ടെക്",
-   "ബജറ്റ്",
-   "ഗാഡ്ജറ്റ്സ്"
-  ]
- },
- {
-  "id": "1e91b51ae7c5",
-  "created": "2026-11-22T18:39:07+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "EU Perspectives",
-  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
-  "headline": "GTA VI ദിനംപ്രതി $3.8 ബില്യൺ വിൽപ്പന, റെക്കോർഡ് തകർത്തു",
-  "hook": "വൈസ് സിറ്റി കളിക്കാൻ ജോലി വിട്ടു പോയവരും",
-  "what": "Grand Theft Auto VI ആദ്യ ദിനത്തിൽ $3.8 ബില്യൺ വിൽപ്പന നേടി, ഇതുവരെ ഏറ്റവും വലിയ വിനോദ ലോഞ്ച് ആയി. നെതർലാൻഡിലെ ജീവനക്കാരും, യുവാക്കളും, അമേരിക്കൻ സൈനികരും ജോലിയിൽ നിന്ന് മാറി ഗെയിം കളിച്ചതായി റിപ്പോർട്ടുകൾ.",
-  "why": "പുതിയ ഗെയിമുകളുടെ ഹൈപ്പിനെ കാണിക്കുന്നു, വിനോദം ജീവിതത്തിൽ എങ്ങനെ ഇടം പിടിക്കുന്നു. നിങ്ങൾക്ക് കളിക്കാൻ ആഗ്രഹമുണ്ടെങ്കിൽ, പഠനമോ ജോലിയോ ബാധിക്കാതെ സമയം ക്രമീകരിക്കുക.",
-  "tags": [
-   "GTA6",
-   "Gaming",
-   "RecordSales",
-   "Launch",
-   "Youth"
-  ]
- },
- {
-  "id": "31134503eba3",
-  "created": "2026-11-22T17:41:40+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/ems-namboodiripad-s-daughter-radha-dies-101795340062888.html",
-  "headline": "EMS Namboodiripad‑ന്റെ മകൾ രാധ മരിച്ചുവെന്ന് അറിയിപ്പുണ്ട്",
-  "hook": "പ്രശസ്ത രാഷ്ട്രീയ കുടുംബം ഒരു ദുർഭാഗ്യകരമായ നഷ്ടം നേരിടുന്നു.",
-  "what": "EMS Namboodiripad‑ന്റെ മകൾ രാധയുടെ മരണത്തെക്കുറിച്ച് വാർത്ത പുറത്തുവന്നു. ഈ സംഭവം അടുത്തിടെ അറിയിക്കപ്പെട്ടു.",
-  "why": "പ്രസിദ്ധ കുടുംബത്തിന്റെ വ്യക്തിപരമായ ദുർഭാഗ്യം യുവജനങ്ങൾക്ക് പൊതുപ്രവർത്തകരുടെ ജീവിതം എത്രയോ സങ്കീർണ്ണമാണെന്ന് ഓർമ്മപ്പെടുത്തുന്നു.",
-  "tags": [
-   "EMS",
-   "Radha",
-   "loss"
   ]
  }
 ]

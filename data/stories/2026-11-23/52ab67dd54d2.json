@@ -1,0 +1,37 @@
+{
+ "id": "52ab67dd54d2",
+ "created": "2026-11-23T02:09:53+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Takshashila University awards honorary doctorates to writer and singer",
+  "hook": "Your favorite author and legendary voice get a PhD honor!",
+  "what": "Takshashila University has granted honorary doctorates to novelist S. Ramakrishnan and veteran playback singer K.S. Chithra. The ceremony recognized their contributions to literature and music.",
+  "why": "Celebrating achievements in arts shows that creative careers can earn academic respect. Young readers and music fans can draw inspiration from their success.",
+  "tags": [
+   "Takshashila",
+   "HonoraryDoctorate",
+   "Sramakrishnan",
+   "KSChithra",
+   "Inspiration"
+  ]
+ },
+ "ml": {
+  "headline": "തക്ഷശിലാ സർവകലാശാല എഴുത്തുകാരന്‍ S. Ramakrishnan-നും ഗായിക K.S. Chithra-ക്കും ആദര ഡോക്ടറേറ്റ്",
+  "hook": "നിങ്ങളുടെ പ്രിയ എഴുത്തുകാരനും ഐക്കോണിക് ഗായികയും ഡോക്ടറേറ്റ് നേടി!",
+  "what": "തക്ഷശിലാ സർവകലാശാല S. Ramakrishnan-നും K.S. Chithra-നും ആദര ഡോക്ടറേറ്റ് നല്‍കി. സാഹിത്യം, സംഗീതം എന്നിവയില്‍ അവരുടെ സംഭാവനകള്‍ അംഗീകരിച്ചാണ് ഈ പുരസ്‌കാരം.",
+  "why": "കലാ മേഖലയില്‍ ഇത്തരത്തിലുള്ള അംഗീകാരം സൃഷ്ടിപരമായ കരിയറുകള്‍ക്ക് മാന്യത നല്‍കുന്നു. യുവ വായനക്കാരും സംഗീതപ്രേമികളും അവരുടെ വിജയത്തില്‍ പ്രചോദനം കണ്ടെത്താം.",
+  "tags": [
+   "Takshashila",
+   "Doctorate",
+   "Sramakrishnan",
+   "KSChithra",
+   "Prerana"
+  ]
+ }
+}

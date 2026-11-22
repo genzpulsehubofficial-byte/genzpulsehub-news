@@ -1,0 +1,37 @@
+{
+ "id": "9d8c520acc65",
+ "created": "2026-11-23T02:08:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Yahoo Finance",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple builds autonomous AI agent that can code and run apps",
+  "hook": "A new AI could write code and control your iPhone apps.",
+  "what": "Apple is developing an autonomous artificial‑intelligence agent that can generate code and operate applications. The effort aims to keep pace with rivals in the AI space.",
+  "why": "If released, the tool could change how young users create and customize apps on their devices, so stay tuned for updates.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Tech",
+   "Apps",
+   "Innovation"
+  ]
+ },
+ "ml": {
+  "headline": "Apple വികസിപ്പിക്കുന്നു സ്വയംപ്രവർത്തി AI ഏജന്റ്, കോഡ് എഴുതും, ആപ്പുകൾ നിയന്ത്രിക്കും",
+  "hook": "ഒരു പുതിയ AI നിങ്ങളുടെ iPhone ആപ്പുകൾക്ക് കോഡ് എഴുതിയും നിയന്ത്രിക്കയും ചെയ്യും.",
+  "what": "Apple സ്വയംപ്രവർത്തി ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ഏജന്റ് വികസിപ്പിക്കുന്നു, അത് കോഡ് സൃഷ്ടിക്കുകയും ആപ്പുകൾ ഉപയോഗിക്കുകയും ചെയ്യും. ഇത് AI മത്സരത്തിൽ പിന്നിലാകാതെ തുടരാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പുറത്തിറങ്ങിയാൽ യുവജനങ്ങൾക്ക് ആപ്പുകൾ സൃഷ്ടിക്കാനും കസ്റ്റമൈസ് ചെയ്യാനും പുതിയ മാർഗങ്ങൾ ലഭിക്കും, അതിനാൽ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Tech",
+   "Apps",
+   "Innovation"
+  ]
+ }
+}

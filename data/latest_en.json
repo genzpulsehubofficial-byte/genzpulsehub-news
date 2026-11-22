@@ -1,5 +1,62 @@
 [
  {
+  "id": "9d8c520acc65",
+  "created": "2026-11-23T02:08:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Yahoo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
+  "headline": "Apple builds autonomous AI agent that can code and run apps",
+  "hook": "A new AI could write code and control your iPhone apps.",
+  "what": "Apple is developing an autonomous artificial‑intelligence agent that can generate code and operate applications. The effort aims to keep pace with rivals in the AI space.",
+  "why": "If released, the tool could change how young users create and customize apps on their devices, so stay tuned for updates.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Tech",
+   "Apps",
+   "Innovation"
+  ]
+ },
+ {
+  "id": "78518b7dcf59",
+  "created": "2026-11-23T02:09:47+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+  "headline": "WHO chief: Conflict near Congo Ebola zone hampers response",
+  "hook": "War near the outbreak is slowing lifesaving aid.",
+  "what": "The World Health Organization's head said that fighting near the Ebola‑affected area in the Democratic Republic of Congo is interfering with the disease response. The clashes are making it harder for health teams to reach affected communities.",
+  "why": "Delays can hinder containment and raise the risk of spread beyond Africa. Staying informed helps support global health efforts.",
+  "tags": [
+   "WHO",
+   "Ebola",
+   "Congo",
+   "HealthCrisis",
+   "Conflict"
+  ]
+ },
+ {
+  "id": "52ab67dd54d2",
+  "created": "2026-11-23T02:09:53+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+  "headline": "Takshashila University awards honorary doctorates to writer and singer",
+  "hook": "Your favorite author and legendary voice get a PhD honor!",
+  "what": "Takshashila University has granted honorary doctorates to novelist S. Ramakrishnan and veteran playback singer K.S. Chithra. The ceremony recognized their contributions to literature and music.",
+  "why": "Celebrating achievements in arts shows that creative careers can earn academic respect. Young readers and music fans can draw inspiration from their success.",
+  "tags": [
+   "Takshashila",
+   "HonoraryDoctorate",
+   "Sramakrishnan",
+   "KSChithra",
+   "Inspiration"
+  ]
+ },
+ {
   "id": "d8d3ca3594c1",
   "created": "2026-11-23T01:20:14+05:30",
   "category": "headlines",
@@ -693,61 +750,6 @@
    "Jobs",
    "Development",
    "Youth"
-  ]
- },
- {
-  "id": "de7992906a5f",
-  "created": "2026-11-22T18:39:04+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/features/xiaomi-18-pro-max-vs-iphone-18-pro-max-vs-oppo-find-x10-pro-max-price-specifications-features-comparison-12345045",
-  "headline": "Xiaomi, iPhone and Oppo flagships compared side‑by‑side",
-  "hook": "Which top phone gives you the most bang for your buck?",
-  "what": "A new article lines up the Xiaomi 18 Pro Max, iPhone 18 Pro Max and Oppo Find X10 Pro Max, detailing their prices and key specifications. The piece lets readers see differences at a glance.",
-  "why": "Understanding the specs and cost helps young shoppers pick a phone that matches their needs and budget. Check the comparison before you upgrade.",
-  "tags": [
-   "phone",
-   "comparison",
-   "tech",
-   "budget",
-   "gadgets"
-  ]
- },
- {
-  "id": "1e91b51ae7c5",
-  "created": "2026-11-22T18:39:07+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "EU Perspectives",
-  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
-  "headline": "GTA VI breaks records with $3.8 bn day‑one sales",
-  "hook": "Gamers even left work to dive into Vice City",
-  "what": "Grand Theft Auto VI sold $3.8 billion on its first day, the biggest launch in entertainment history. Reports say employees in the Netherlands, young men and U.S. soldiers skipped work to play the game.",
-  "why": "The launch shows how massive hype can pull people away from daily duties. If you plan to play, organise your time so school or work isn’t affected.",
-  "tags": [
-   "GTA6",
-   "Gaming",
-   "RecordSales",
-   "Launch",
-   "Youth"
-  ]
- },
- {
-  "id": "31134503eba3",
-  "created": "2026-11-22T17:41:40+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/ems-namboodiripad-s-daughter-radha-dies-101795340062888.html",
-  "headline": "EMS Namboodiripad’s daughter Radha passes away",
-  "hook": "A prominent political family faces a tragic loss.",
-  "what": "Radha, the daughter of EMS Namboodiripad, has died. The news was reported recently.",
-  "why": "The death marks a personal tragedy for a well‑known family, reminding us of the human side behind public figures.",
-  "tags": [
-   "EMS",
-   "Radha",
-   "loss"
   ]
  }
 ]
