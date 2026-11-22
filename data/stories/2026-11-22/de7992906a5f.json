@@ -1,0 +1,37 @@
+{
+ "id": "de7992906a5f",
+ "created": "2026-11-22T18:39:04+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/features/xiaomi-18-pro-max-vs-iphone-18-pro-max-vs-oppo-find-x10-pro-max-price-specifications-features-comparison-12345045",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Xiaomi, iPhone and Oppo flagships compared side‑by‑side",
+  "hook": "Which top phone gives you the most bang for your buck?",
+  "what": "A new article lines up the Xiaomi 18 Pro Max, iPhone 18 Pro Max and Oppo Find X10 Pro Max, detailing their prices and key specifications. The piece lets readers see differences at a glance.",
+  "why": "Understanding the specs and cost helps young shoppers pick a phone that matches their needs and budget. Check the comparison before you upgrade.",
+  "tags": [
+   "phone",
+   "comparison",
+   "tech",
+   "budget",
+   "gadgets"
+  ]
+ },
+ "ml": {
+  "headline": "Xiaomi, iPhone, Oppo ഫ്ലാഗ്ഷിപ്പ് ഫോണുകളുടെ താരതമ്യം",
+  "hook": "ഏത് ഫ്ലാഗ്ഷിപ്പ് ഫോണാണ് നിങ്ങളുടെ ബജറ്റിനോട് ഏറ്റവും പൊരുത്തം?",
+  "what": "ഒരു ലേഖനത്തിൽ Xiaomi 18 Pro Max, iPhone 18 Pro Max, Oppo Find X10 Pro Max എന്നിവയുടെ വിലയും പ്രധാന സവിശേഷതകളും ഒന്നിച്ച് കാണിക്കുന്നു. വായനക്കാർക്ക് വ്യത്യാസങ്ങൾ ഒരു നോട്ടത്തിൽ മനസ്സിലാക്കാൻ ഇത് സഹായിക്കുന്നു.",
+  "why": "സ്പെക്‌സ്‌യും ചെലവുമറിയുന്നത് യുവാക്കൾക്ക് അവരുടെ ആവശ്യത്തിനും ബജറ്റിനും അനുയോജ്യമായ ഫോൺ തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. അപ്ഗ്രേഡ് ചെയ്യുന്നതിന് മുമ്പ് ഈ താരതമ്യം പരിശോധിക്കുക.",
+  "tags": [
+   "ഫോൺ",
+   "താരതമ്യം",
+   "ടെക്",
+   "ബജറ്റ്",
+   "ഗാഡ്ജറ്റ്സ്"
+  ]
+ }
+}

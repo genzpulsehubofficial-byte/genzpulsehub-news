@@ -1,5 +1,100 @@
 [
  {
+  "id": "95d58c3be206",
+  "created": "2026-11-22T18:37:56+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-prices-plunge-ahead-of-wedding-season-how-much-can-families-save-when-buying-bridal-jewellery-now-11795351268809.html",
+  "headline": "Gold drops 24%, easing wedding jewellery costs",
+  "hook": "Gold’s slump could save families big on bridal bling",
+  "what": "Gold prices have slipped almost 24% from their August 2026 high. The decline comes just before the peak wedding season. Couples planning gold jewellery can now expect lower bills.",
+  "why": "Lower gold rates mean cheaper bridal sets, freeing up money for other wedding expenses. Families should consider buying now while prices are down.",
+  "tags": [
+   "gold",
+   "wedding",
+   "savings",
+   "jewellery",
+   "finance"
+  ]
+ },
+ {
+  "id": "1d6cb21b1322",
+  "created": "2026-11-22T18:39:00+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGwwV0U5M05udnJyMGFXblpMVTNtMEE3YkduMlFwRWpZb21haVRuMG8yM1NkRmwwelF2ajFlbFZremlvaE5NbDFlbWhxSGRpR1lhVklkLTRlbHJpZG1BN3ZYRUVhYnl6SEthTUxrRnlkZDhUaF9yMEZaUnhuaU9OcDlLVkotT2JwT3VxUktzTk1lUlNhQXVaMlNLMi1KaFloY2JZZ0lYLUtrNDVQbEtyaGVTZmg0WmlyTllOWXVLSFk4ZjVKd3V5Q1V6S3RLMDBpUnd2Tzc5RWVkZnZDSjVacW0wVlo0TlE?oc=5",
+  "headline": "Shashi Tharoor plays GTA 6, likens demonetisation to theft",
+  "hook": "The MP compares a game he can’t master to a 2016 policy.",
+  "what": "Union minister Shashi Tharoor played the newly released Grand Theft Auto VI for the first time. While struggling with the game’s controls, he called the 2016 demonetisation move a ‘grand theft without auto’ and took a swipe at the current government.",
+  "why": "His comment ties a popular video game to a controversial economic decision, sparking conversation among youth about policy impacts. It shows how pop culture can be used to discuss politics.",
+  "tags": [
+   "ShashiTharoor",
+   "GTA6",
+   "Demonetisation",
+   "IndiaPolitics",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "85f600102523",
+  "created": "2026-11-22T18:39:03+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-promoting-amaravati-economic-region-as-andhra-pradeshs-major-growth-engine/article71731285.ece",
+  "headline": "Andhra Pradesh aims to shape Amaravati Economic Region by 2027",
+  "hook": "A massive development plan could boost jobs and opportunities across nine districts.",
+  "what": "The state government, through the CRDA, is working with LASA and PwC India to develop the Amaravati Economic Region. The region covers nine districts, spans 44,817 sq km and has a GSDP of ₹6.23 lakh crore. The plan aims to be finalized by July 2027.",
+  "why": "The project could create new jobs and infrastructure, affecting education and career prospects for youth. Stay informed about upcoming opportunities in the region.",
+  "tags": [
+   "Amaravati",
+   "AndhraPradesh",
+   "Jobs",
+   "Development",
+   "Youth"
+  ]
+ },
+ {
+  "id": "de7992906a5f",
+  "created": "2026-11-22T18:39:04+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/features/xiaomi-18-pro-max-vs-iphone-18-pro-max-vs-oppo-find-x10-pro-max-price-specifications-features-comparison-12345045",
+  "headline": "Xiaomi, iPhone and Oppo flagships compared side‑by‑side",
+  "hook": "Which top phone gives you the most bang for your buck?",
+  "what": "A new article lines up the Xiaomi 18 Pro Max, iPhone 18 Pro Max and Oppo Find X10 Pro Max, detailing their prices and key specifications. The piece lets readers see differences at a glance.",
+  "why": "Understanding the specs and cost helps young shoppers pick a phone that matches their needs and budget. Check the comparison before you upgrade.",
+  "tags": [
+   "phone",
+   "comparison",
+   "tech",
+   "budget",
+   "gadgets"
+  ]
+ },
+ {
+  "id": "1e91b51ae7c5",
+  "created": "2026-11-22T18:39:07+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "EU Perspectives",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkpxMEg5VGpKSFhobTdvVWtqVzQxZ09TMklFOFBHUzhlRGFLdWdWNWtRclBnckk0R0NnbUlZZjlaYlc5SmUwN3UyZmxiUkVDQnU1dFdTTUdaY0lsTEh0OFVJdFlSUFdDSUNCX0RaWnNKTTFaSDE3WWROTUhBbjlSeFh1ODAyaEVnVktJVS1fNVBpNjJCZUE?oc=5",
+  "headline": "GTA VI breaks records with $3.8 bn day‑one sales",
+  "hook": "Gamers even left work to dive into Vice City",
+  "what": "Grand Theft Auto VI sold $3.8 billion on its first day, the biggest launch in entertainment history. Reports say employees in the Netherlands, young men and U.S. soldiers skipped work to play the game.",
+  "why": "The launch shows how massive hype can pull people away from daily duties. If you plan to play, organise your time so school or work isn’t affected.",
+  "tags": [
+   "GTA6",
+   "Gaming",
+   "RecordSales",
+   "Launch",
+   "Youth"
+  ]
+ },
+ {
   "id": "31134503eba3",
   "created": "2026-11-22T17:41:40+05:30",
   "category": "headlines",
@@ -652,101 +747,6 @@
    "Jobs",
    "RemoteWork",
    "Hiring"
-  ]
- },
- {
-  "id": "4abc3414fb44",
-  "created": "2026-11-22T11:56:44+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/how-to/features/how-to-enable-wi-fi-calling-on-iphone-and-android-in-india-step-by-step-guide-12338946",
-  "headline": "Enable Wi‑Fi Calling on iPhone & Android in India",
-  "hook": "Stay connected even without mobile signal—use Wi‑Fi calling now!",
-  "what": "A guide has been released showing how to turn on Wi‑Fi Calling on iPhone and Android phones in India. It walks users through the required settings.",
-  "why": "Following the guide lets you activate the feature on your device.",
-  "tags": [
-   "wifiCalling",
-   "iPhone",
-   "Android",
-   "India",
-   "tech"
-  ]
- },
- {
-  "id": "0383d7cf8d0b",
-  "created": "2026-11-22T10:58:25+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/crime/court-issues-production-warrant-kochi-arson-case-accused-nia-pti0757gqzm",
-  "headline": "NIA court orders production of Kochi arson suspect",
-  "hook": "The suspect in the Kochi fire faces a new court order.",
-  "what": "A National Investigation Agency court issued a production warrant for Ebin Paul, accused in the Kochi arson case. The warrant follows the agency’s petition to keep him in custody while probing possible terror links.",
-  "why": "It highlights how serious crimes are pursued through legal channels, reminding youths to stay informed about safety and the justice system.",
-  "tags": [
-   "Kochi",
-   "NIA",
-   "court",
-   "arson",
-   "Kerala"
-  ]
- },
- {
-  "id": "7a43fd7dd4b7",
-  "created": "2026-11-22T10:58:28+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/equity-ltcg-tax-abolition-will-scrapping-capital-gains-tax-boost-fpi-inflows-mutual-fund-investments-ca-explains-11795317886212.html",
-  "headline": "Abolishing equity LTCG tax may lure FPIs, boost mutual funds",
-  "hook": "No tax on stock gains could mean bigger returns for you.",
-  "what": "The government is weighing the removal of the long‑term capital gains tax on equity. A Chartered Accountant says this could lift after‑tax returns, bring foreign portfolio investors back, and spur more household money into mutual funds.",
-  "why": "Higher returns can make market investing more appealing for young savers. Watch the policy change before deciding on equity investments.",
-  "tags": [
-   "LTCG",
-   "FPI",
-   "mutualfunds",
-   "taxreform",
-   "investing"
-  ]
- },
- {
-  "id": "0cfef2f71fcc",
-  "created": "2026-11-22T10:58:30+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-train-food-safety-hygiene-railway-officers-dub717m3",
-  "headline": "Kerala Train Food Stalls Lacking Cleanliness, Few Inspectors",
-  "hook": "Dirty snacks on the rails could make your journey sick.",
-  "what": "Reports show food vendors on Kerala trains are serving near toilets and beside garbage bins. Only two railway food safety officers are responsible for supervising almost 200 stalls and train services. The poor hygiene has sparked concerns.",
-  "why": "Unsanitary food can cause illness, especially for students traveling daily. Teens should be cautious about where they buy meals on trains and report any violations.",
-  "tags": [
-   "Kerala",
-   "TrainFood",
-   "Hygiene",
-   "Safety",
-   "Youth"
-  ]
- },
- {
-  "id": "a208368d64a2",
-  "created": "2026-11-22T10:58:32+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
-  "headline": "Three cyclones hit Bay of Bengal in three weeks",
-  "hook": "A rare storm streak is rattling the eastern coast.",
-  "what": "The Bay of Bengal experienced three cyclones within a three‑week span. Such a concentration of storms is unusual but has occurred before.",
-  "why": "Post‑monsoon cyclone activity has risen since the early 2000s, so staying updated on weather alerts is essential for safety.",
-  "tags": [
-   "cyclone",
-   "bayofbengal",
-   "weather",
-   "climate",
-   "alert"
   ]
  }
 ]

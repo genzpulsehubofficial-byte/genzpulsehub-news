@@ -1,0 +1,37 @@
+{
+ "id": "95d58c3be206",
+ "created": "2026-11-22T18:37:56+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-prices-plunge-ahead-of-wedding-season-how-much-can-families-save-when-buying-bridal-jewellery-now-11795351268809.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold drops 24%, easing wedding jewellery costs",
+  "hook": "Gold’s slump could save families big on bridal bling",
+  "what": "Gold prices have slipped almost 24% from their August 2026 high. The decline comes just before the peak wedding season. Couples planning gold jewellery can now expect lower bills.",
+  "why": "Lower gold rates mean cheaper bridal sets, freeing up money for other wedding expenses. Families should consider buying now while prices are down.",
+  "tags": [
+   "gold",
+   "wedding",
+   "savings",
+   "jewellery",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "സ്വർണ്ണം 24% ഇടിഞ്ഞു, വിവാഹ ആഭരണ ചെലവ് ലഘൂകരിച്ചു",
+  "hook": "സ്വർണ്ണം താഴ്ന്നത്, കുടുംബങ്ങൾക്ക് വിവാഹ ആഭരണത്തിൽ വലിയ ലാഭം",
+  "what": "സ്വർണ്ണത്തിന്റെ വില ഓഗസ്റ്റ് 2026ലെ ഉയർന്നതിൽ നിന്ന് ഏകദേശം 24% കുറയുകയാണ്. വിവാഹ സീസണിന് മുൻപേ ഈ ഇടിവ് സംഭവിച്ചു. സ്വർണ്ണ ആഭരണം വാങ്ങാൻ പദ്ധതിയിട്ട ദമ്പതികൾക്ക് ഇപ്പോൾ വില കുറഞ്ഞതുകൊണ്ട് ചെലവ് കുറവാകും.",
+  "why": "കുറഞ്ഞ സ്വർണ്ണവില വിവാഹ സെറ്റുകൾക്ക് ചെലവ് കുറയ്ക്കും, മറ്റ് വിവാഹ ചെലവുകൾക്കായി പണം ഉപയോഗിക്കാം. വില കുറഞ്ഞപ്പോൾ തന്നെ വാങ്ങാൻ കുടുംബങ്ങൾ ചിന്തിക്കണം.",
+  "tags": [
+   "സ്വർണ്ണം",
+   "വിവാഹം",
+   "സംരക്ഷണം",
+   "ആഭരണം",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

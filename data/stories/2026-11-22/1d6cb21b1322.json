@@ -1,0 +1,37 @@
+{
+ "id": "1d6cb21b1322",
+ "created": "2026-11-22T18:39:00+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGwwV0U5M05udnJyMGFXblpMVTNtMEE3YkduMlFwRWpZb21haVRuMG8yM1NkRmwwelF2ajFlbFZremlvaE5NbDFlbWhxSGRpR1lhVklkLTRlbHJpZG1BN3ZYRUVhYnl6SEthTUxrRnlkZDhUaF9yMEZaUnhuaU9OcDlLVkotT2JwT3VxUktzTk1lUlNhQXVaMlNLMi1KaFloY2JZZ0lYLUtrNDVQbEtyaGVTZmg0WmlyTllOWXVLSFk4ZjVKd3V5Q1V6S3RLMDBpUnd2Tzc5RWVkZnZDSjVacW0wVlo0TlE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Shashi Tharoor plays GTA 6, likens demonetisation to theft",
+  "hook": "The MP compares a game he can’t master to a 2016 policy.",
+  "what": "Union minister Shashi Tharoor played the newly released Grand Theft Auto VI for the first time. While struggling with the game’s controls, he called the 2016 demonetisation move a ‘grand theft without auto’ and took a swipe at the current government.",
+  "why": "His comment ties a popular video game to a controversial economic decision, sparking conversation among youth about policy impacts. It shows how pop culture can be used to discuss politics.",
+  "tags": [
+   "ShashiTharoor",
+   "GTA6",
+   "Demonetisation",
+   "IndiaPolitics",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "ഷാഷി തരൂർ GTA 6 കളിച്ചു, ഡിമോനെറ്റൈഷന്‍ ‘ഓട്ടോ ഇല്ലാത്ത ചോറി’ എന്ന് വിളിച്ചു",
+  "hook": "ഗെയിം നിയന്ത്രണത്തിൽ തളർന്നിരിക്കുമ്പോൾ, 2016‑ലെ സാമ്പത്തിക നീക്കത്തെക്കുറിച്ച് അദ്ദേഹം കടുത്ത വിമർശനം നടത്തി.",
+  "what": "കേന്ദ്രമന്ത്രിയായ ഷാഷി തരൂർ പുതിയ Grand Theft Auto VI ആദ്യമായി കളിച്ചു. ഗെയിമിന്റെ നിയന്ത്രണങ്ങളുമായി പോരാടുമ്പോൾ, 2016‑ലെ ഡിമോനെറ്റൈഷന്‍ ‘ഓട്ടോ ഇല്ലാത്ത ചോറി’ എന്ന് വിളിച്ച് നിലവിലെ സർക്കാരിനെ ചൂണ്ടിക്കാട്ടി.",
+  "why": "യുവാക്കൾക്ക് ഗെയിമും രാഷ്ട്രീയവും എങ്ങനെ ഒത്തുചേരുന്നു എന്ന് കാണാൻ ഇത് ഒരു ഉദാഹരണമാണ്. ഇതിലൂടെ നയങ്ങളിലെ സ്വാധീനം ചർച്ച ചെയ്യാൻ പ്രേരണ ലഭിക്കും.",
+  "tags": [
+   "ShashiTharoor",
+   "GTA6",
+   "Demonetisation",
+   "IndiaPolitics",
+   "Gaming"
+  ]
+ }
+}
