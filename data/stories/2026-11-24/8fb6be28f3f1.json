@@ -1,0 +1,37 @@
+{
+ "id": "8fb6be28f3f1",
+ "created": "2026-11-24T01:17:03+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Politicians React to Jensen Huang’s Quick Return to Nvidia",
+  "hook": "Both parties are visibly upset over the sudden leadership comeback.",
+  "what": "Jensen Huang has been reinstated as Nvidia’s leader less than two weeks after being removed. Politicians from across the spectrum expressed anger, agitation and confusion about the move.",
+  "why": "The tech giant’s leadership shift could affect AI and gaming markets that many Indian youths follow. Keep an eye on Nvidia’s announcements for potential product or job impacts.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "politics",
+   "tech",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "രാഷ്ട്രീയക്കാർ ജെൻസൻ ഹുവാങിന്റെ നിവിഡിയയിലെ വേഗത്തിലുള്ള തിരിച്ചുവരവിന് പ്രതികരിക്കുന്നു",
+  "hook": "എല്ലാ പാർട്ടികളും ഈ അപ്രതീക്ഷിത നേതൃപരിവർത്തനത്തിൽ കോപം, ആശയക്കുഴപ്പം പ്രകടിപ്പിക്കുന്നു.",
+  "what": "ജെൻസൻ ഹുവാങ് രണ്ട് ആഴ്ചയ്ക്കു താഴെ നീക്കംചെയ്യപ്പെട്ടതിനു ശേഷം നിവിഡിയയുടെ നേതാവായി വീണ്ടും നിയമിതനായി. വിവിധ രാഷ്ട്രീയക്കാരൻമാർ ഈ തീരുമാനത്തെക്കുറിച്ച് കോപം, ഉത്കണ്ഠ, ആശയക്കുഴപ്പം എന്നിവ പ്രകടിപ്പിച്ചു.",
+  "why": "നിവിഡിയയുടെ നേതൃമാറ്റം AI, ഗെയിമിംഗ് മേഖലകളെ ബാധിക്കാം, ഇത് യുവജനങ്ങളുടെ കരിയർ, ഗെയിമിംഗ് അനുഭവം എന്നിവയിൽ സ്വാധീനിക്കും. കമ്പനിയുടെ ഭാവി പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "politics",
+   "tech",
+   "AI"
+  ]
+ }
+}

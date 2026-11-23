@@ -1,5 +1,119 @@
 [
  {
+  "id": "56e2dcc04652",
+  "created": "2026-11-24T01:16:00+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
+  "headline": "Delhi police officer suspended after halting wedding over pricey car",
+  "hook": "A wedding got called off because of a Rs 13‑lakh car—see why the cop faced suspension.",
+  "what": "A Delhi police officer cancelled a wedding scheduled for Nov 20 after a dispute involving a car worth Rs 13 lakh. The incident led to the officer’s suspension.",
+  "why": "It shows how personal conflicts can impact official duties and result in disciplinary action, reminding youths to stay aware of legal responsibilities.",
+  "tags": [
+   "Delhi",
+   "Police",
+   "Wedding",
+   "Suspension",
+   "News"
+  ]
+ },
+ {
+  "id": "8fb6be28f3f1",
+  "created": "2026-11-24T01:17:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+  "headline": "Politicians React to Jensen Huang’s Quick Return to Nvidia",
+  "hook": "Both parties are visibly upset over the sudden leadership comeback.",
+  "what": "Jensen Huang has been reinstated as Nvidia’s leader less than two weeks after being removed. Politicians from across the spectrum expressed anger, agitation and confusion about the move.",
+  "why": "The tech giant’s leadership shift could affect AI and gaming markets that many Indian youths follow. Keep an eye on Nvidia’s announcements for potential product or job impacts.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "politics",
+   "tech",
+   "AI"
+  ]
+ },
+ {
+  "id": "347446a18553",
+  "created": "2026-11-24T01:17:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
+  "headline": "Krushi OWS launches road‑safety contests for school kids",
+  "hook": "Your school could be part of a road‑safety challenge!",
+  "what": "Krushi OWS organized competitions focused on road safety for school students. The events aim to teach safe commuting habits through quizzes and activities. Participating schools compete to showcase their knowledge.",
+  "why": "Understanding road rules helps teens stay safe while traveling to school or hanging out. Students can join the contests through their schools and learn practical safety tips.",
+  "tags": [
+   "road safety",
+   "school",
+   "contest",
+   "awareness",
+   "India"
+  ]
+ },
+ {
+  "id": "7601f68fa236",
+  "created": "2026-11-24T01:17:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "headline": "Google AI Search now reads Drive and Wallet data",
+  "hook": "Your files and payments can now shape search answers",
+  "what": "Google has enabled AI Mode in Search to pull information from users’ Drive storage and Wallet. The Gemini app also receives the same personal‑intelligence feature. This lets the AI use existing Google data to give more tailored replies.",
+  "why": "For Gen Z, this means quicker, context‑aware answers using your own documents or payment info. Keep your data organized and review privacy settings before relying on the feature.",
+  "tags": [
+   "GoogleAI",
+   "Search",
+   "Drive",
+   "Wallet",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "42dce5f6b948",
+  "created": "2026-11-24T01:17:10+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+  "headline": "ENE Repeat shines as weekend hit",
+  "hook": "The new Telugu film is pulling big crowds.",
+  "what": "ENE Repeat gathered an Rs 8 crore share in its first three days and kept momentum into day five. Critics call it a lively tribute to friendship and cinema.",
+  "why": "Its success shows regional movies can draw young audiences, so keep an eye on local releases for fresh entertainment.",
+  "tags": [
+   "TeluguCinema",
+   "BoxOffice",
+   "ENERepeat",
+   "YouthMovies",
+   "WeekendHit"
+  ]
+ },
+ {
+  "id": "a093c642dc4b",
+  "created": "2026-11-24T01:17:13+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "WSJ",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+  "headline": "CrowdStrike to acquire Zscaler in $44 billion stock swap",
+  "hook": "A massive cyber‑security deal could reshape the tech job market.",
+  "what": "CrowdStrike announced a deal to buy Zscaler using a stock‑exchange transaction valued at about $44 billion. The agreement will combine two leading cloud‑security firms under one ownership.",
+  "why": "The merger may boost demand for cybersecurity skills, a sector where Indian youth can find career opportunities. Keep an eye on related hiring trends.",
+  "tags": [
+   "cybersecurity",
+   "technews",
+   "stockswap",
+   "jobs",
+   "India"
+  ]
+ },
+ {
   "id": "e7b2f1f21e3e",
   "created": "2026-11-24T00:06:04+05:30",
   "category": "headlines",
@@ -637,119 +751,6 @@
    "streaming",
    "drishyam",
    "spiderman"
-  ]
- },
- {
-  "id": "81aaa2c40f2e",
-  "created": "2026-11-23T17:23:42+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-killed-13-injured-as-bus-hits-van-near-mailam/article71734131.ece",
-  "headline": "Bus-Van Crash Near Mailam Leaves 2 Dead, 13 Injured",
-  "hook": "A sudden collision on a Tamil Nadu road claims lives.",
-  "what": "A bus struck a van close to Mailam, resulting in two fatalities and thirteen people injured.",
-  "why": "Road accidents remain a major risk for travelers; staying alert and following safety rules can help prevent such tragedies.",
-  "tags": [
-   "accident",
-   "TamilNadu",
-   "roadsafety",
-   "news"
-  ]
- },
- {
-  "id": "d8cdc3ee2ccb",
-  "created": "2026-11-23T17:23:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "BusinessLine",
-  "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXVvX3Q4QlppbDhBeHJUUFk3VFg5eVZZWHlqOTE2Nl83MEJEb18wZFFrdHpfbGRick45U29mbUFpWjBwcW04ZkJwcGpYRWIwWjJLdzYwWVBKUGZHeHYxWnVjTVlVSGxaTkM5S0gwTDQzQ1M0X2l0YkpGOFRoWDZJRHphUXVuUElBUFNFQVJidkJGZnBkMHdLRkhfNlpyek9CcHNReTBNWTAxaTlqTlFEUVJtT3B1WWpFMjdVV1o2RnFlRG9k0gHLAUFVX3lxTE5EMkMzZFZKYV9tWG5zTmQ1eDQ0dW9iRzFmdC13QWpkRzN0Q2cxTWRfSW1CM3J2QWZ1Y2VheU9JX2NyMWNWc05hQWhza2RRR21LdkZUTjdhWThDTnBqQVNxTzFkdjFkd0Q5Q1ZGMlFscHk2bkRVY2pORjUxbWlJdS0yR1h1T1g0ZjRKaVRsT0RhOHhPbERzc3Q5MkVWX0Rnd19YTkE1clN4Q2tZcVB1bzNRMHRZaTJtUFJNV2pmWjI4Ulg4dTBZeWdlYzVB?oc=5",
-  "headline": "Sensex drops 1,484 points as banks pull market down",
-  "hook": "India’s biggest indices tumble, wiping out billions in wealth.",
-  "what": "The Sensex fell by 1,484 points and the Nifty slid to 25,349.65 on November 23. The slump was led by a sharp sell‑off in banking stocks, causing investors to lose over Rs 5 lakh crore in market value.",
-  "why": "Such a steep fall can affect savings, investments and future job prospects for young Indians. Keep an eye on market trends and consider diversifying your portfolio.",
-  "tags": [
-   "stockmarket",
-   "sensex",
-   "nifty",
-   "banks",
-   "crash"
-  ]
- },
- {
-  "id": "2613f6d34fc1",
-  "created": "2026-11-23T17:23:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
-  "headline": "Matters.AI secures ₹115 cr in pre‑Series A funding",
-  "hook": "A home‑grown AI security startup just got a big cash boost.",
-  "what": "The AI‑focused data security platform Matters.AI, previously known as OptiQ.AI, raised 115 crore rupees (about $12 million) in a pre‑Series A round. The funding was led by Tanglin Venture Partners along with other investors.",
-  "why": "The capital will help the startup expand its AI security solutions, impacting how businesses protect data. Young tech enthusiasts may find new job or internship openings.",
-  "tags": [
-   "AI",
-   "DataSecurity",
-   "StartupFunding",
-   "Tech",
-   "India"
-  ]
- },
- {
-  "id": "65a7dd8087c8",
-  "created": "2026-11-23T17:23:50+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
-  "headline": "Zavya secures ₹22.6 Cr to expand silver jewellery line",
-  "hook": "A budget jewellery brand just got a big funding boost.",
-  "what": "Zavya, a startup focused on affordable everyday silver jewellery, raised ₹22.6 crore (about $2.4 million) in a pre‑Series A round. The funding was led by Daksham Growth.",
-  "why": "The capital will help the company scale production and reach more young shoppers across India. Entrepreneurs can note the growing investor interest in budget fashion accessories.",
-  "tags": [
-   "startup",
-   "funding",
-   "jewellery",
-   "silver",
-   "youngentrepreneurs"
-  ]
- },
- {
-  "id": "7d8cc24024b3",
-  "created": "2026-11-23T16:29:50+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece",
-  "headline": "India pledges ₹15,000 crore development aid to Nepal",
-  "hook": "Big boost for Nepal’s growth, says Indian govt",
-  "what": "India announced a development package worth more than ₹15,000 crore for Nepal. Nepal’s prime minister said the two countries share strong ties.",
-  "why": "The investment could create jobs and trade links that benefit Indian youth. Watch for cross‑border projects and possible study or travel chances.",
-  "tags": [
-   "India",
-   "Nepal",
-   "development",
-   "aid",
-   "youth"
-  ]
- },
- {
-  "id": "b931da1be7d4",
-  "created": "2026-11-23T16:30:01+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
-  "headline": "West Bengal to adopt 'Paschim Banga' as English name",
-  "hook": "The state’s English name may soon match its Bengali one.",
-  "what": "The BJP‑led government has suggested using the Bengali term ‘Paschim Banga’ for the state in English contexts. Currently the English name is West Bengal.",
-  "why": "A single name could affect maps, official documents and the region’s identity, so students should note the change for future references.",
-  "tags": [
-   "WestBengal",
-   "PaschimBanga",
-   "NameChange",
-   "India",
-   "BJP"
   ]
  }
 ]

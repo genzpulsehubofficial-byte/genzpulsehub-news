@@ -1,0 +1,37 @@
+{
+ "id": "56e2dcc04652",
+ "created": "2026-11-24T01:16:00+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi police officer suspended after halting wedding over pricey car",
+  "hook": "A wedding got called off because of a Rs 13‑lakh car—see why the cop faced suspension.",
+  "what": "A Delhi police officer cancelled a wedding scheduled for Nov 20 after a dispute involving a car worth Rs 13 lakh. The incident led to the officer’s suspension.",
+  "why": "It shows how personal conflicts can impact official duties and result in disciplinary action, reminding youths to stay aware of legal responsibilities.",
+  "tags": [
+   "Delhi",
+   "Police",
+   "Wedding",
+   "Suspension",
+   "News"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെൽഹി പോലീസ് ഓഫീസർ 13 ലക്ഷം രൂപ കാർ കാരണം വിവാഹം റദ്ദാക്കി, സസ്പെൻഡ്",
+  "hook": "13 ലക്ഷം രൂപ മൂല്യമുള്ള ഒരു കാർ കാരണമായി വിവാഹം റദ്ദാക്കിയതോടെ ഓഫീസർ സസ്പെൻഡായി—എന്താണ് സംഭവിച്ചത്?",
+  "what": "ഡെൽഹി പോലീസ് ഉദ്യോഗസ്ഥൻ നവംബർ 20 ന് നിശ്ചയിച്ചിരുന്ന വിവാഹം ഒരു 13 ലക്ഷം രൂപയുടെ കാറുമായി ബന്ധപ്പെട്ട പ്രശ്നം കാരണം റദ്ദാക്കി. ഇതിന്റെ ഫലമായി അവനെ സസ്പെൻഡു ചെയ്തു.",
+  "why": "ഇത് വ്യക്തിഗത തർക്കങ്ങൾ ഔദ്യോഗിക ചുമതലകളെ എങ്ങനെ ബാധിക്കാം എന്നതിന്റെ ഉദാഹരണമാണ്, യുവാക്കൾക്ക് നിയമപരമായ ഉത്തരവാദിത്വങ്ങൾ മനസ്സിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "ഡെൽഹി",
+   "പോലീസ്",
+   "വിവാഹം",
+   "സസ്പെൻഷൻ",
+   "വാർത്ത"
+  ]
+ }
+}

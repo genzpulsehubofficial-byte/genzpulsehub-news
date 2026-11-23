@@ -1,0 +1,37 @@
+{
+ "id": "347446a18553",
+ "created": "2026-11-24T01:17:06+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Krushi OWS launches road‑safety contests for school kids",
+  "hook": "Your school could be part of a road‑safety challenge!",
+  "what": "Krushi OWS organized competitions focused on road safety for school students. The events aim to teach safe commuting habits through quizzes and activities. Participating schools compete to showcase their knowledge.",
+  "why": "Understanding road rules helps teens stay safe while traveling to school or hanging out. Students can join the contests through their schools and learn practical safety tips.",
+  "tags": [
+   "road safety",
+   "school",
+   "contest",
+   "awareness",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Krushi OWS സ്കൂൾ കുട്ടികൾക്ക് റോഡ് സുരക്ഷാ മത്സരങ്ങൾ",
+  "hook": "നിങ്ങളുടെ സ്കൂളും റോഡ് സുരക്ഷാ ചലഞ്ചിൽ ചേരാം!",
+  "what": "Krushi OWS സ്കൂൾ വിദ്യാർത്ഥികൾക്കായി റോഡ് സുരക്ഷാ വിഷയത്തിൽ മത്സരങ്ങൾ സംഘടിപ്പിച്ചു. ക്വിസുകളും പ്രവർത്തനങ്ങളുമിലൂടെ സുരക്ഷിത യാത്രാ ശീലങ്ങൾ പഠിപ്പിക്കാൻ ഇവ ലക്ഷ്യമിടുന്നു. പങ്കെടുത്ത സ്കൂളുകൾ അവരുടെ അറിവ് പ്രദർശിപ്പിക്കാൻ മത്സരിക്കുന്നു.",
+  "why": "റോഡ് നിയമങ്ങൾ അറിയുന്നത് സ്കൂൾ പോകുമ്പോഴും സുഹൃത്തുക്കളുമായി പുറപ്പെടുമ്പോഴും സുരക്ഷ ഉറപ്പാക്കുന്നു. വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂളിലൂടെ ഈ മത്സരങ്ങളിൽ ചേരുകയും പ്രായോഗിക സുരക്ഷാ ഉപദേശങ്ങൾ നേടുകയും ചെയ്യാം.",
+  "tags": [
+   "റോഡ് സുരക്ഷ",
+   "സ്കൂൾ",
+   "മത്സരം",
+   "അവബോധം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

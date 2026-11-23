@@ -1,0 +1,37 @@
+{
+ "id": "42dce5f6b948",
+ "created": "2026-11-24T01:17:10+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ENE Repeat shines as weekend hit",
+  "hook": "The new Telugu film is pulling big crowds.",
+  "what": "ENE Repeat gathered an Rs 8 crore share in its first three days and kept momentum into day five. Critics call it a lively tribute to friendship and cinema.",
+  "why": "Its success shows regional movies can draw young audiences, so keep an eye on local releases for fresh entertainment.",
+  "tags": [
+   "TeluguCinema",
+   "BoxOffice",
+   "ENERepeat",
+   "YouthMovies",
+   "WeekendHit"
+  ]
+ },
+ "ml": {
+  "headline": "ENE Repeat വാരാന്ത്യത്തില്‍ ഹിറ്റ് ആയി",
+  "hook": "പുതിയ ടെലുങ്ക് ഫിലിം വലിയ തിരക്കു സൃഷ്ടിക്കുന്നു.",
+  "what": "മൂന്ന് ദിവസത്തില്‍ ENE Repeat 8 കോടി ഷെയര്‍ നേടി, അഞ്ചാം ദിവസത്തിലും ഈ ചലനം തുടരുന്നു. വിമര്‍ശകര്‍ ഇതിനെ സൗഹൃദവും സിനിമയും ആഘോഷിക്കുന്ന ഒരു സജീവ സമര്‍പ്പണം എന്ന് പറയുന്നു.",
+  "why": "പ്രാദേശിക സിനിമകള്‍ യുവാക്കള്‍ക്ക് ആകര്‍ഷകമാകുമെന്ന് ഇത് തെളിയിക്കുന്നു, പുതിയ വിനോദം തേടാന്‍ ലോക്കല്‍ റിലീസുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "TeluguCinema",
+   "BoxOffice",
+   "ENERepeat",
+   "YouthMovies",
+   "WeekendHit"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "a093c642dc4b",
+ "created": "2026-11-24T01:17:13+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "WSJ",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "CrowdStrike to acquire Zscaler in $44 billion stock swap",
+  "hook": "A massive cyber‑security deal could reshape the tech job market.",
+  "what": "CrowdStrike announced a deal to buy Zscaler using a stock‑exchange transaction valued at about $44 billion. The agreement will combine two leading cloud‑security firms under one ownership.",
+  "why": "The merger may boost demand for cybersecurity skills, a sector where Indian youth can find career opportunities. Keep an eye on related hiring trends.",
+  "tags": [
+   "cybersecurity",
+   "technews",
+   "stockswap",
+   "jobs",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "CrowdStrike-ന് Zscaler-നെ $44 ബില്യൺ സ്റ്റോക്ക് സ്വാപ്പിൽ വാങ്ങാൻ",
+  "hook": "വലിയ സൈബർ സുരക്ഷാ ഇടപാട് ജോലികളിൽ പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം.",
+  "what": "CrowdStrike, Zscaler-നെ $44 ബില്യൺ മൂല്യമുള്ള സ്റ്റോക്ക് സ്വാപ്പ് വഴി വാങ്ങാൻ തീരുമാനിച്ചു. ഇതോടെ രണ്ട് പ്രധാന ക്ലൗഡ്‑സെക്യൂരിറ്റി കമ്പനികൾ ഒരുമിക്കും.",
+  "why": "സൈബർ സുരക്ഷാ മേഖലയിൽ കഴിവുകൾക്ക് ആവശ്യം വർധിക്കും, അതിനാൽ ഇന്ത്യയിലെ യുവകൾക്ക് തൊഴിൽ സാധ്യതകൾ ഉയരും. ബന്ധപ്പെട്ട നിയമനങ്ങളിലേക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സൈബർസെക്യൂരിറ്റി",
+   "ടെക്നോളജി",
+   "ജോലികൾ",
+   "ഇന്ത്യ",
+   "സ്റ്റോക്ക്സ്വാപ്പ്"
+  ]
+ }
+}

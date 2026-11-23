@@ -1,0 +1,37 @@
+{
+ "id": "7601f68fa236",
+ "created": "2026-11-24T01:17:09+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google AI Search now reads Drive and Wallet data",
+  "hook": "Your files and payments can now shape search answers",
+  "what": "Google has enabled AI Mode in Search to pull information from users’ Drive storage and Wallet. The Gemini app also receives the same personal‑intelligence feature. This lets the AI use existing Google data to give more tailored replies.",
+  "why": "For Gen Z, this means quicker, context‑aware answers using your own documents or payment info. Keep your data organized and review privacy settings before relying on the feature.",
+  "tags": [
+   "GoogleAI",
+   "Search",
+   "Drive",
+   "Wallet",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "Google AI Search ഇനി Drive, Wallet ഡാറ്റ വായിക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ഫയലുകളും പേയ്മെന്റുകളും തിരച്ചിലിന്റെ ഉത്തരങ്ങളെ രൂപപ്പെടുത്തും",
+  "what": "Google AI മോഡ് Search‑ന് ഉപയോക്താവിന്റെ Drive സ്റ്റോറേജും Wallet‑ഉം നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിക്കാൻ അനുവദിച്ചു. Gemini ആപ്പിനും ഇതേ വ്യക്തിഗത ബുദ്ധി ഫീച്ചർ ലഭിച്ചു. ഇതിലൂടെ AI‑ക്ക് Google‑ന്റെ ഉള്ള ഡാറ്റ ഉപയോഗിച്ച് കൂടുതൽ വ്യക്തിഗത മറുപടികൾ നൽകാൻ കഴിയും.",
+  "why": "Gen Z‑ക്കായി, സ്വന്തം ഡോക്യുമെന്റുകളും പേയ്മെന്റ് വിവരങ്ങളും ഉപയോഗിച്ച് വേഗത്തിൽ, കോൺടെക്സ്റ്റ്‑അവേർഡ് ഉത്തരങ്ങൾ ലഭിക്കും. ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ ഡാറ്റ ക്രമീകരിക്കുകയും സ്വകാര്യതാ സജ്ജീകരണങ്ങൾ പരിശോധിക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "GoogleAI",
+   "Search",
+   "Drive",
+   "Wallet",
+   "GenZ"
+  ]
+ }
+}

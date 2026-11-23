@@ -1,5 +1,119 @@
 [
  {
+  "id": "56e2dcc04652",
+  "created": "2026-11-24T01:16:00+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
+  "headline": "ഡെൽഹി പോലീസ് ഓഫീസർ 13 ലക്ഷം രൂപ കാർ കാരണം വിവാഹം റദ്ദാക്കി, സസ്പെൻഡ്",
+  "hook": "13 ലക്ഷം രൂപ മൂല്യമുള്ള ഒരു കാർ കാരണമായി വിവാഹം റദ്ദാക്കിയതോടെ ഓഫീസർ സസ്പെൻഡായി—എന്താണ് സംഭവിച്ചത്?",
+  "what": "ഡെൽഹി പോലീസ് ഉദ്യോഗസ്ഥൻ നവംബർ 20 ന് നിശ്ചയിച്ചിരുന്ന വിവാഹം ഒരു 13 ലക്ഷം രൂപയുടെ കാറുമായി ബന്ധപ്പെട്ട പ്രശ്നം കാരണം റദ്ദാക്കി. ഇതിന്റെ ഫലമായി അവനെ സസ്പെൻഡു ചെയ്തു.",
+  "why": "ഇത് വ്യക്തിഗത തർക്കങ്ങൾ ഔദ്യോഗിക ചുമതലകളെ എങ്ങനെ ബാധിക്കാം എന്നതിന്റെ ഉദാഹരണമാണ്, യുവാക്കൾക്ക് നിയമപരമായ ഉത്തരവാദിത്വങ്ങൾ മനസ്സിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "ഡെൽഹി",
+   "പോലീസ്",
+   "വിവാഹം",
+   "സസ്പെൻഷൻ",
+   "വാർത്ത"
+  ]
+ },
+ {
+  "id": "8fb6be28f3f1",
+  "created": "2026-11-24T01:17:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+  "headline": "രാഷ്ട്രീയക്കാർ ജെൻസൻ ഹുവാങിന്റെ നിവിഡിയയിലെ വേഗത്തിലുള്ള തിരിച്ചുവരവിന് പ്രതികരിക്കുന്നു",
+  "hook": "എല്ലാ പാർട്ടികളും ഈ അപ്രതീക്ഷിത നേതൃപരിവർത്തനത്തിൽ കോപം, ആശയക്കുഴപ്പം പ്രകടിപ്പിക്കുന്നു.",
+  "what": "ജെൻസൻ ഹുവാങ് രണ്ട് ആഴ്ചയ്ക്കു താഴെ നീക്കംചെയ്യപ്പെട്ടതിനു ശേഷം നിവിഡിയയുടെ നേതാവായി വീണ്ടും നിയമിതനായി. വിവിധ രാഷ്ട്രീയക്കാരൻമാർ ഈ തീരുമാനത്തെക്കുറിച്ച് കോപം, ഉത്കണ്ഠ, ആശയക്കുഴപ്പം എന്നിവ പ്രകടിപ്പിച്ചു.",
+  "why": "നിവിഡിയയുടെ നേതൃമാറ്റം AI, ഗെയിമിംഗ് മേഖലകളെ ബാധിക്കാം, ഇത് യുവജനങ്ങളുടെ കരിയർ, ഗെയിമിംഗ് അനുഭവം എന്നിവയിൽ സ്വാധീനിക്കും. കമ്പനിയുടെ ഭാവി പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "politics",
+   "tech",
+   "AI"
+  ]
+ },
+ {
+  "id": "347446a18553",
+  "created": "2026-11-24T01:17:06+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
+  "headline": "Krushi OWS സ്കൂൾ കുട്ടികൾക്ക് റോഡ് സുരക്ഷാ മത്സരങ്ങൾ",
+  "hook": "നിങ്ങളുടെ സ്കൂളും റോഡ് സുരക്ഷാ ചലഞ്ചിൽ ചേരാം!",
+  "what": "Krushi OWS സ്കൂൾ വിദ്യാർത്ഥികൾക്കായി റോഡ് സുരക്ഷാ വിഷയത്തിൽ മത്സരങ്ങൾ സംഘടിപ്പിച്ചു. ക്വിസുകളും പ്രവർത്തനങ്ങളുമിലൂടെ സുരക്ഷിത യാത്രാ ശീലങ്ങൾ പഠിപ്പിക്കാൻ ഇവ ലക്ഷ്യമിടുന്നു. പങ്കെടുത്ത സ്കൂളുകൾ അവരുടെ അറിവ് പ്രദർശിപ്പിക്കാൻ മത്സരിക്കുന്നു.",
+  "why": "റോഡ് നിയമങ്ങൾ അറിയുന്നത് സ്കൂൾ പോകുമ്പോഴും സുഹൃത്തുക്കളുമായി പുറപ്പെടുമ്പോഴും സുരക്ഷ ഉറപ്പാക്കുന്നു. വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂളിലൂടെ ഈ മത്സരങ്ങളിൽ ചേരുകയും പ്രായോഗിക സുരക്ഷാ ഉപദേശങ്ങൾ നേടുകയും ചെയ്യാം.",
+  "tags": [
+   "റോഡ് സുരക്ഷ",
+   "സ്കൂൾ",
+   "മത്സരം",
+   "അവബോധം",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "7601f68fa236",
+  "created": "2026-11-24T01:17:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "headline": "Google AI Search ഇനി Drive, Wallet ഡാറ്റ വായിക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ഫയലുകളും പേയ്മെന്റുകളും തിരച്ചിലിന്റെ ഉത്തരങ്ങളെ രൂപപ്പെടുത്തും",
+  "what": "Google AI മോഡ് Search‑ന് ഉപയോക്താവിന്റെ Drive സ്റ്റോറേജും Wallet‑ഉം നിന്നുള്ള വിവരങ്ങൾ ഉപയോഗിക്കാൻ അനുവദിച്ചു. Gemini ആപ്പിനും ഇതേ വ്യക്തിഗത ബുദ്ധി ഫീച്ചർ ലഭിച്ചു. ഇതിലൂടെ AI‑ക്ക് Google‑ന്റെ ഉള്ള ഡാറ്റ ഉപയോഗിച്ച് കൂടുതൽ വ്യക്തിഗത മറുപടികൾ നൽകാൻ കഴിയും.",
+  "why": "Gen Z‑ക്കായി, സ്വന്തം ഡോക്യുമെന്റുകളും പേയ്മെന്റ് വിവരങ്ങളും ഉപയോഗിച്ച് വേഗത്തിൽ, കോൺടെക്സ്റ്റ്‑അവേർഡ് ഉത്തരങ്ങൾ ലഭിക്കും. ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങളുടെ ഡാറ്റ ക്രമീകരിക്കുകയും സ്വകാര്യതാ സജ്ജീകരണങ്ങൾ പരിശോധിക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "GoogleAI",
+   "Search",
+   "Drive",
+   "Wallet",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "42dce5f6b948",
+  "created": "2026-11-24T01:17:10+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
+  "headline": "ENE Repeat വാരാന്ത്യത്തില്‍ ഹിറ്റ് ആയി",
+  "hook": "പുതിയ ടെലുങ്ക് ഫിലിം വലിയ തിരക്കു സൃഷ്ടിക്കുന്നു.",
+  "what": "മൂന്ന് ദിവസത്തില്‍ ENE Repeat 8 കോടി ഷെയര്‍ നേടി, അഞ്ചാം ദിവസത്തിലും ഈ ചലനം തുടരുന്നു. വിമര്‍ശകര്‍ ഇതിനെ സൗഹൃദവും സിനിമയും ആഘോഷിക്കുന്ന ഒരു സജീവ സമര്‍പ്പണം എന്ന് പറയുന്നു.",
+  "why": "പ്രാദേശിക സിനിമകള്‍ യുവാക്കള്‍ക്ക് ആകര്‍ഷകമാകുമെന്ന് ഇത് തെളിയിക്കുന്നു, പുതിയ വിനോദം തേടാന്‍ ലോക്കല്‍ റിലീസുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "TeluguCinema",
+   "BoxOffice",
+   "ENERepeat",
+   "YouthMovies",
+   "WeekendHit"
+  ]
+ },
+ {
+  "id": "a093c642dc4b",
+  "created": "2026-11-24T01:17:13+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "WSJ",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+  "headline": "CrowdStrike-ന് Zscaler-നെ $44 ബില്യൺ സ്റ്റോക്ക് സ്വാപ്പിൽ വാങ്ങാൻ",
+  "hook": "വലിയ സൈബർ സുരക്ഷാ ഇടപാട് ജോലികളിൽ പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം.",
+  "what": "CrowdStrike, Zscaler-നെ $44 ബില്യൺ മൂല്യമുള്ള സ്റ്റോക്ക് സ്വാപ്പ് വഴി വാങ്ങാൻ തീരുമാനിച്ചു. ഇതോടെ രണ്ട് പ്രധാന ക്ലൗഡ്‑സെക്യൂരിറ്റി കമ്പനികൾ ഒരുമിക്കും.",
+  "why": "സൈബർ സുരക്ഷാ മേഖലയിൽ കഴിവുകൾക്ക് ആവശ്യം വർധിക്കും, അതിനാൽ ഇന്ത്യയിലെ യുവകൾക്ക് തൊഴിൽ സാധ്യതകൾ ഉയരും. ബന്ധപ്പെട്ട നിയമനങ്ങളിലേക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സൈബർസെക്യൂരിറ്റി",
+   "ടെക്നോളജി",
+   "ജോലികൾ",
+   "ഇന്ത്യ",
+   "സ്റ്റോക്ക്സ്വാപ്പ്"
+  ]
+ },
+ {
   "id": "e7b2f1f21e3e",
   "created": "2026-11-24T00:06:04+05:30",
   "category": "headlines",
@@ -637,118 +751,6 @@
    "സ്റ്റ്രീമിംഗ്",
    "drishyam",
    "spiderman"
-  ]
- },
- {
-  "id": "81aaa2c40f2e",
-  "created": "2026-11-23T17:23:42+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-killed-13-injured-as-bus-hits-van-near-mailam/article71734131.ece",
-  "headline": "മൈലാമിന് സമീപം ബസ്-വാൻ കൂട്ടിയിടിയിൽ 2 പേർ മരണം, 13 പേർ പരിക്കേറ്റു",
-  "hook": "ടാമിൽ നദിയിലെ ഒരു റോഡിൽ സംഭവിച്ച അപ്രതീക്ഷിത കൂട്ടിയിടി.",
-  "what": "മൈലാമിന് അടുത്തുള്ള ഒരു റോഡിൽ ബസ് ഒരു വാനുമായി അടിച്ചു, രണ്ട് പേർ മരിക്കുകയും പതിന്മൂന്ന് പേർക്ക് പരിക്ക് വരുകയും ചെയ്തു.",
-  "why": "യാത്രക്കാർക്ക് റോഡ് സുരക്ഷയുടെ പ്രാധാന്യം ഓർമ്മപ്പെടുത്തുന്ന സംഭവം; ജാഗ്രതയും സുരക്ഷാ മാർഗങ്ങളും പാലിക്കുന്നത് അപകടം കുറയ്ക്കാം.",
-  "tags": [
-   "അപകടം",
-   "തമിഴ്നാട്",
-   "റോഡ്സേഫ്റ്റി",
-   "വാർത്ത"
-  ]
- },
- {
-  "id": "d8cdc3ee2ccb",
-  "created": "2026-11-23T17:23:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "BusinessLine",
-  "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXVvX3Q4QlppbDhBeHJUUFk3VFg5eVZZWHlqOTE2Nl83MEJEb18wZFFrdHpfbGRick45U29mbUFpWjBwcW04ZkJwcGpYRWIwWjJLdzYwWVBKUGZHeHYxWnVjTVlVSGxaTkM5S0gwTDQzQ1M0X2l0YkpGOFRoWDZJRHphUXVuUElBUFNFQVJidkJGZnBkMHdLRkhfNlpyek9CcHNReTBNWTAxaTlqTlFEUVJtT3B1WWpFMjdVV1o2RnFlRG9k0gHLAUFVX3lxTE5EMkMzZFZKYV9tWG5zTmQ1eDQ0dW9iRzFmdC13QWpkRzN0Q2cxTWRfSW1CM3J2QWZ1Y2VheU9JX2NyMWNWc05hQWhza2RRR21LdkZUTjdhWThDTnBqQVNxTzFkdjFkd0Q5Q1ZGMlFscHk2bkRVY2pORjUxbWlJdS0yR1h1T1g0ZjRKaVRsT0RhOHhPbERzc3Q5MkVWX0Rnd19YTkE1clN4Q2tZcVB1bzNRMHRZaTJtUFJNV2pmWjI4Ulg4dTBZeWdlYzVB?oc=5",
-  "headline": "ബാങ്കുകൾക്ക്‌ പിന്നിൽ സെന്‍സെക്സ് 1,484 പോയിന്റ് ഇടിഞ്ഞു",
-  "hook": "ഇന്ത്യയുടെ പ്രധാന സൂചികകൾ തകർന്നു, ബില്യൺ രൂപയുടെ നിക്ഷേപം നഷ്ടമായി.",
-  "what": "23 നവംബർ സെന്‍സെക്സ് 1,484 പോയിന്റ് ഇടിഞ്ഞു, നിഫ്റ്റി 25,349.65 വരെ താഴ്ന്നു. ബാങ്ക് സ്റ്റോക്കുകളുടെ വേഗത്തിലുള്ള വിൽപ്പന മൂലം മാർക്കറ്റ്‌ക്ക്‌ വലിയ ഇടിവുണ്ടായി, നിക്ഷേപകർ 5 ലക്ഷം കോടി രൂപയ്ക്ക് മുകളിലുള്ള നഷ്ടം അനുഭവിച്ചു.",
-  "why": "ഇത്തരത്തിലുള്ള ഇടിവ് യുവജനങ്ങളുടെ സേവിംഗ്സും നിക്ഷേപങ്ങളും ഭാവി ജോലിചെയ്യാനുള്ള സാധ്യതകളെയും ബാധിക്കും. മാർക്കറ്റ്‌ ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക, നിങ്ങളുടെ പോർട്ട്ഫോളിയോ വൈവിധ്യമാക്കാൻ ശ്രമിക്കുക.",
-  "tags": [
-   "stockmarket",
-   "sensex",
-   "nifty",
-   "banks",
-   "crash"
-  ]
- },
- {
-  "id": "2613f6d34fc1",
-  "created": "2026-11-23T17:23:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
-  "headline": "Matters.AI secured ₹115 cr pre‑Series A ഫണ്ടിംഗ്",
-  "hook": "ഒരു ഇന്ത്യൻ AI ഡാറ്റ സുരക്ഷാ സ്റ്റാർട്ടപ്പ് വലിയ നിക്ഷേപം നേടി.",
-  "what": "AI‑അധിഷ്ഠിത ഡാറ്റ സുരക്ഷാ പ്ലാറ്റ്ഫോം Matters.AI, മുൻപ് OptiQ.AI എന്നറിയപ്പെട്ടത്, 115 കോടി രൂപ (ഏകദേശം $12 മില്യൺ) pre‑Series A ഫണ്ടിംഗ് നേടി. ഈ റൗണ്ട് Tanglin Venture Partners നയിക്കുകയും മറ്റ് നിക്ഷേപകരും പങ്കാളികളായി.",
-  "why": "ഈ നിക്ഷേപം കമ്പനി AI സുരക്ഷാ പരിഹാരങ്ങൾ വികസിപ്പിക്കാൻ സഹായിക്കും, ബിസിനസ്സുകൾക്ക് ഡാറ്റ സംരക്ഷണം മെച്ചപ്പെടുത്താൻ. ടെക് മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്ന യുവജനങ്ങൾക്ക് പുതിയ ജോലി അല്ലെങ്കിൽ ഇന്റേൺഷിപ്പ് അവസരങ്ങൾ തുറക്കാം.",
-  "tags": [
-   "AI",
-   "ഡാറ്റസെക്യൂരിറ്റി",
-   "സ്റ്റാർട്ടപ്പ്",
-   "ടെക്",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "65a7dd8087c8",
-  "created": "2026-11-23T17:23:50+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
-  "headline": "Zavya‑ക്ക് സിൽവർ ജ്വല്ലറി വ്യാപനത്തിന് ₹22.6 കോടി ഫണ്ടിംഗ്",
-  "hook": "ബജറ്റ് ജ്വല്ലറി ബ്രാൻഡിന് വലിയ നിക്ഷേപം ലഭിച്ചു.",
-  "what": "ദൈനംദിന സിൽവർ ജ്വല്ലറിയിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ച സ്റ്റാർട്ടപ്പ് Zavya, പ്രീ‑സീരീസ് എ റൗണ്ടിൽ ഏകദേശം $2.4 മില്യൺ (₹22.6 കോടി) സമാഹരിച്ചു. ഈ ഫണ്ടിംഗ് Daksham Growth നയിച്ചു.",
-  "why": "ഈ പണം ഉൽപ്പാദനം വർദ്ധിപ്പിക്കാനും ഇന്ത്യയിലെ യുവ ഉപഭോക്താക്കളിലേക്ക് എത്തിക്കാനും സഹായിക്കും. ബജറ്റ് ഫാഷൻ ആക്സസറികളിൽ നിക്ഷേപം വർദ്ധിക്കുന്നതിനെ യുവ സംരംഭകർ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "സ്റ്റാർട്ടപ്പ്",
-   "ഫണ്ടിംഗ്",
-   "ജ്വല്ലറി",
-   "സിൽവർ",
-   "യുവസംരംഭകർ"
-  ]
- },
- {
-  "id": "7d8cc24024b3",
-  "created": "2026-11-23T16:29:50+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece",
-  "headline": "ഇന്ത്യാ 15,000 കോടി രൂപയുടെ വികസന സഹായം നേപ്പാളിന്",
-  "hook": "ഇന്ത്യയുടെ വലിയ സഹായം നേപ്പാളിന്റെ വളർച്ചയ്ക്ക്",
-  "what": "ഇന്ത്യാ 15,000 കോടി രൂപയ്ക്ക് മുകളിലുള്ള വികസന പാക്കേജ് നേപ്പാളിന് നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. നേപ്പാളിന്റെ പ്രധാനമന്ത്രി ബന്ധങ്ങൾ ശക്തമാണെന്ന് പറഞ്ഞു.",
-  "why": "ഇത് ജോലി, വ്യാപാരം തുടങ്ങിയ അവസരങ്ങൾ സൃഷ്ടിച്ച് ഇന്ത്യൻ യുവാക്കൾക്ക് ഗുണം ചെയ്യാം. അതിനാൽ അതിർത്തി പദ്ധതികളിലും പഠന‑യാത്രാ അവസരങ്ങളിലും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ഇന്ത്യ",
-   "നേപ്പാൾ",
-   "വികസനം",
-   "സഹായം",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "b931da1be7d4",
-  "created": "2026-11-23T16:30:01+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
-  "headline": "പശ്ചിമ ബംഗാളിന് ഇംഗ്ലീഷിൽ 'പശ്ചിമ ബംഗാ' എന്ന് പേര്",
-  "hook": "സംസ്ഥാനത്തിന്റെ ഇംഗ്ലീഷ് പേര് ഇനി ബംഗാളി പോലെ തന്നെ.",
-  "what": "ഭാരതീയ ജനതാ പാര്‍ട്ടി സര്‍ക്കാരു സംസ്ഥാനത്തെ ഇംഗ്ലീഷ് പേരായി ബംഗാളി 'പശ്ചിമ ബംഗാ' ഉപയോഗിക്കാൻ നിര്‍ദ്ദേശിച്ചു. ഇപ്പോള്‍ ഇംഗ്ലീഷില്‍ West Bengal എന്നാണ് അറിയപ്പെടുന്നത്.",
-  "why": "പേര് ഒരേ ആക്കുന്നത് മാപ്പുകള്‍, രേഖകള്‍, തിരിച്ചറിവ് എന്നിവയില്‍ ബാധകമാകും; വിദ്യാർത്ഥികള്‍ ഭാവിയില്‍ ഈ മാറ്റം ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "പശ്ചിമബംഗാൾ",
-   "പേര്‌മാറ്റം",
-   "ഇന്ത്യ",
-   "ബിജെപി"
   ]
  }
 ]
