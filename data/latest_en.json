@@ -1,5 +1,98 @@
 [
  {
+  "id": "e44b6b3d5153",
+  "created": "2026-11-24T05:03:58+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-shares-surge-more-than-30-after-jensen-huangs-return-12368290#publisher=newsstand",
+  "headline": "Nvidia Stock Jumps Over 30% After CEO Return",
+  "hook": "The boss is back and the market is buzzing.",
+  "what": "Jensen Huang resumed his role as Nvidia’s chief executive on Monday. Following his comeback, Nvidia’s shares rose more than 30% in trading.",
+  "why": "A sharp stock move can affect tech‑related investments and job prospects for students interested in AI and gaming. Keep an eye on market updates if you follow tech trends.",
+  "tags": [
+   "Nvidia",
+   "stock",
+   "tech",
+   "AI",
+   "gaming"
+  ]
+ },
+ {
+  "id": "6d0f89cd6390",
+  "created": "2026-11-24T05:04:02+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Hagerty",
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWJGLXpLd2k2TkplakUwMnIybkV1bHd6LXVNX2pZeUlhNUhZdGV4Zng0Z2YydDdJb2F0aVdsWWpZZVJSaXExdzVxZlZQZEhrbW5ORUdOdHR2UGt6SXJaQTI4blRRQzg2cVdHNkZuM2RMYTNCZGlESnNVY3VNaEVBdU5NeU1lYnhjU3p1VTEtOVRtdw?oc=5",
+  "headline": "Hagerty reveals 7 dream cars for GTA VI",
+  "hook": "Gamers get a sneak peek at the rides they'd love in Vice City.",
+  "what": "Hagerty published a list of seven vehicles they’d love to see in the upcoming Grand Theft Auto VI. The article highlights the models they consider the coolest for cruising around the game’s Vice City setting.",
+  "why": "Knowing which cars fans are excited about can shape expectations for GTA VI’s vehicle roster, and players can start planning their in‑game collections.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "cars",
+   "Hagerty",
+   "ViceCity"
+  ]
+ },
+ {
+  "id": "1f165a47af18",
+  "created": "2026-11-24T05:04:05+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+  "headline": "Figma employee files lawsuit over harassment claims",
+  "hook": "A staff member says the design platform forced her to face harassers.",
+  "what": "A current employee has sued Figma and its CEO, alleging sexual harassment and discrimination. The complaint says the company required her to confront the alleged harassers.",
+  "why": "It raises concerns about workplace safety in tech firms, urging young professionals to know their rights and seek help if needed.",
+  "tags": [
+   "Figma",
+   "lawsuit",
+   "harassment",
+   "tech",
+   "workplace"
+  ]
+ },
+ {
+  "id": "41db1aa58dcf",
+  "created": "2026-11-24T05:04:07+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
+  "headline": "North Korea threatens to shut Swiss diplomatic office",
+  "hook": "A senior official warns the newly opened Swiss mission may be closed.",
+  "what": "North Korea's powerful sister of the supreme leader said the Swiss diplomatic office could be closed. The warning came just weeks after Switzerland opened the office.",
+  "why": "It highlights how quickly diplomatic ties can change, which may affect travel and business links. Stay updated on international news for any advisories.",
+  "tags": [
+   "NorthKorea",
+   "Switzerland",
+   "Diplomacy"
+  ]
+ },
+ {
+  "id": "7544cf472c1a",
+  "created": "2026-11-24T05:04:10+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Nature",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04V3dJSkZZN3pfdjNEOG9EMkl1TGtReHNLaXVqRm5wdWlWcTVnVGVjVk9CQkZSZEN3TFRNS0txNGp2UWJIMXFwZGRuNmFaZXFuT1NRMVBDVFhZUmpVZG0w?oc=5",
+  "headline": "PET scans guide radiotherapy for bulky DLBCL",
+  "hook": "New study checks if PET can decide extra radiation for big lymphomas",
+  "what": "A recent study evaluated consolidation radiotherapy for patients with bulky diffuse large B‑cell lymphoma. The decision to give radiotherapy was based on response assessment using PET imaging.",
+  "why": "Knowing when radiotherapy is needed can improve outcomes and avoid unnecessary side effects, relevant for anyone facing this cancer.",
+  "tags": [
+   "DLBCL",
+   "radiotherapy",
+   "PET",
+   "cancer",
+   "treatment"
+  ]
+ },
+ {
   "id": "ada2460a24f6",
   "created": "2026-11-24T04:04:27+05:30",
   "category": "tech",
@@ -656,101 +749,6 @@
    "BuildingSafety",
    "CivicAccountability",
    "IndiaLaw"
-  ]
- },
- {
-  "id": "eb7a14a8931c",
-  "created": "2026-11-23T22:11:18+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
-  "headline": "PJTSAU adds two degree programmes, launches farmer outreach in Jan",
-  "hook": "New courses and a farmer support tour start this year",
-  "what": "PJTSAU announced the introduction of two new undergraduate degree programmes. The university also scheduled a series of ‘Rythu Bharosa Yatras’ beginning in January.",
-  "why": "Students can explore these fresh study options, and the tours aim to address farmer concerns, which matters for youth from agricultural backgrounds.",
-  "tags": [
-   "education",
-   "degrees",
-   "farmers",
-   "youth",
-   "India"
-  ]
- },
- {
-  "id": "83d30330309f",
-  "created": "2026-11-23T22:11:20+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/market-correction-or-a-bad-mutual-fund-5-checks-you-must-make-before-deciding-whether-to-exit-or-stay-invested-11795432862240.html",
-  "headline": "Mutual fund dip? Check 5 factors before pulling out",
-  "hook": "A slump may be market correction, not a bad fund.",
-  "what": "A mutual fund’s weak returns could be due to a market correction rather than poor management. Experts suggest reviewing five key aspects such as benchmark performance, risk‑adjusted returns and alignment with personal goals before deciding to exit.",
-  "why": "Young investors should avoid hasty withdrawals that could hurt long‑term growth; instead, match the fund’s performance with their own financial plans.",
-  "tags": [
-   "mutualfunds",
-   "investing",
-   "finance",
-   "genz",
-   "moneytips"
-  ]
- },
- {
-  "id": "2957e402b12d",
-  "created": "2026-11-23T21:15:30+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/nvidia-reinstates-jensen-huang-as-president-ceo/",
-  "headline": "NVIDIA puts Jensen Huang back as CEO",
-  "hook": "The chip giant’s top boss returns in under two weeks.",
-  "what": "NVIDIA announced that co‑founder Jensen Huang is once again serving as its president and chief executive officer. The decision was made just 11 days after his earlier departure.",
-  "why": "For Indian Gen Z interested in tech careers, this signals stability at a leading AI hardware firm. Keep an eye on NVIDIA’s product roadmaps and job openings.",
-  "tags": [
-   "NVIDIA",
-   "JensenHuang",
-   "TechJobs",
-   "AI",
-   "Gaming"
-  ]
- },
- {
-  "id": "f103976eb5e4",
-  "created": "2026-11-23T21:15:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "MarketWatch",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
-  "headline": "Nvidia reinstates Jensen Huang, shares soar 30%",
-  "hook": "Wall Street bounces back as AI stocks rally.",
-  "what": "Nvidia announced Jensen Huang back as CEO, sending its stock up about 30%. Major US indexes jumped, with the Nasdaq gaining roughly 7%, and the S&P 500 and Dow also rising.",
-  "why": "The surge shows how AI‑related stocks can move markets, affecting investment opportunities for young investors. Keep an eye on tech stocks and consider diversifying.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "stockmarket",
-   "Nasdaq",
-   "investing"
-  ]
- },
- {
-  "id": "aa93777566bc",
-  "created": "2026-11-23T21:15:37+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-  "headline": "Trump backs Jensen Huang’s Nvidia comeback, cites no wrongdoing",
-  "hook": "The ex‑president steps in as Nvidia’s chief returns.",
-  "what": "Former President Donald Trump said there’s no evidence of any misconduct regarding Jensen Huang’s return to Nvidia. He referenced the U.S. Attorney General while urging the company to keep its export‑control probe ongoing.",
-  "why": "For tech‑savvy youth, it shows political focus on a major chip maker and ongoing regulatory scrutiny, so stay aware of any policy shifts that could affect jobs or product availability.",
-  "tags": [
-   "Trump",
-   "Nvidia",
-   "JensenHuang",
-   "TechPolicy",
-   "ExportControl"
   ]
  }
 ]

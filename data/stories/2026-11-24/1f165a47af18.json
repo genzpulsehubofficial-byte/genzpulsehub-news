@@ -1,0 +1,37 @@
+{
+ "id": "1f165a47af18",
+ "created": "2026-11-24T05:04:05+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Figma employee files lawsuit over harassment claims",
+  "hook": "A staff member says the design platform forced her to face harassers.",
+  "what": "A current employee has sued Figma and its CEO, alleging sexual harassment and discrimination. The complaint says the company required her to confront the alleged harassers.",
+  "why": "It raises concerns about workplace safety in tech firms, urging young professionals to know their rights and seek help if needed.",
+  "tags": [
+   "Figma",
+   "lawsuit",
+   "harassment",
+   "tech",
+   "workplace"
+  ]
+ },
+ "ml": {
+  "headline": "Figma ജീവനക്കാരി ഹറാസ്മെന്റ് കേസ് ഫയൽ ചെയ്തു",
+  "hook": "ഒരു ജീവനക്കാരി കമ്പനിയെ ഹറാസ്മെന്റ് നേരിടാൻ നിർബന്ധിച്ചതായി പറയുന്നു.",
+  "what": "ഒരു നിലവിലെ ജീവനക്കാരി Figmaയും അതിന്റെ CEOയുംക്കെതിരെ ലൈംഗിക ഹറാസ്മെന്റ്, വിവേചനം എന്നിവയുടെ ആരോപണങ്ങളോടെ കേസ് നൽകിയിട്ടുണ്ട്. അവൾക്ക് കമ്പനിയുടെ നിർദ്ദേശം ഹറാസ്മെന്റ് ചെയ്തവരെ നേരിടാൻ ആയിരുന്നുവെന്ന് അവൾ പറയുന്നു.",
+  "why": "ടെക് കമ്പനികളിലെ ജോലി സ്ഥലത്തെ സുരക്ഷാ പ്രശ്നങ്ങളെ ഇത് ചൂണ്ടിക്കാണിക്കുന്നു, യുവ പ്രൊഫഷണലുകൾക്ക് അവകാശങ്ങൾ അറിയാനും സഹായം തേടാനും പ്രോത്സാഹനം നൽകുന്നു.",
+  "tags": [
+   "Figma",
+   "കേസ്",
+   "ഹറാസ്മെന്റ്",
+   "ടെക്",
+   "ജോലി"
+  ]
+ }
+}

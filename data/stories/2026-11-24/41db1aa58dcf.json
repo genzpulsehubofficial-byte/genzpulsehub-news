@@ -1,0 +1,33 @@
+{
+ "id": "41db1aa58dcf",
+ "created": "2026-11-24T05:04:07+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "North Korea threatens to shut Swiss diplomatic office",
+  "hook": "A senior official warns the newly opened Swiss mission may be closed.",
+  "what": "North Korea's powerful sister of the supreme leader said the Swiss diplomatic office could be closed. The warning came just weeks after Switzerland opened the office.",
+  "why": "It highlights how quickly diplomatic ties can change, which may affect travel and business links. Stay updated on international news for any advisories.",
+  "tags": [
+   "NorthKorea",
+   "Switzerland",
+   "Diplomacy"
+  ]
+ },
+ "ml": {
+  "headline": "North Korea സ്വിസ് ഡിപ്ലോമാറ്റിക് ഓഫീസ് അടയ്ക്കാൻ ഭീഷണി",
+  "hook": "ഉന്നത ഉദ്യോഗസ്ഥൻ പുതിയ സ്വിസ് മിഷൻ അടയ്ക്കാൻ സാധ്യതയുണ്ടെന്ന് മുന്നറിയിപ്പ് നൽകി.",
+  "what": "North Koreaയുടെ സുപ്രീം ലീഡറുടെ സഹോദരി, ശക്തനായ ഉദ്യോഗസ്ഥൻ, സ്വിസ് ഡിപ്ലോമാറ്റിക് ഓഫീസ് അടയ്ക്കാൻ സാധ്യതയുണ്ടെന്ന് അറിയിച്ചു. ഈ മുന്നറിയിപ്പ് സ്വിസ് ഓഫീസ് തുറന്ന കുറച്ച് ആഴ്ചകൾക്ക് ശേഷം വന്നതാണ്.",
+  "why": "അന്താരാഷ്ട്ര ബന്ധങ്ങളുടെ അനിശ്ചിതത്വം കാണിക്കുന്നു, ഇത് യാത്രയും വ്യാപാരവും ബാധിക്കാം. പുതുക്കിയ വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "NorthKorea",
+   "Switzerland",
+   "Diplomacy"
+  ]
+ }
+}

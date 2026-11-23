@@ -1,0 +1,37 @@
+{
+ "id": "6d0f89cd6390",
+ "created": "2026-11-24T05:04:02+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Hagerty",
+ "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWJGLXpLd2k2TkplakUwMnIybkV1bHd6LXVNX2pZeUlhNUhZdGV4Zng0Z2YydDdJb2F0aVdsWWpZZVJSaXExdzVxZlZQZEhrbW5ORUdOdHR2UGt6SXJaQTI4blRRQzg2cVdHNkZuM2RMYTNCZGlESnNVY3VNaEVBdU5NeU1lYnhjU3p1VTEtOVRtdw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Hagerty reveals 7 dream cars for GTA VI",
+  "hook": "Gamers get a sneak peek at the rides they'd love in Vice City.",
+  "what": "Hagerty published a list of seven vehicles they’d love to see in the upcoming Grand Theft Auto VI. The article highlights the models they consider the coolest for cruising around the game’s Vice City setting.",
+  "why": "Knowing which cars fans are excited about can shape expectations for GTA VI’s vehicle roster, and players can start planning their in‑game collections.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "cars",
+   "Hagerty",
+   "ViceCity"
+  ]
+ },
+ "ml": {
+  "headline": "Hagerty-യുടെ GTA VI-ക്കുള്ള 7 സ്വപ്ന കാറുകൾ",
+  "hook": "ഗെയിമർമാർക്ക് Vice City‑യിൽ ഓടിക്കാൻ ആഗ്രഹിക്കുന്ന കാറുകളുടെ പട്ടിക ഇവിടെ!",
+  "what": "Hagerty, വരാനിരിക്കുന്ന Grand Theft Auto VI-യിൽ കാണാൻ ആഗ്രഹിക്കുന്ന ഏഴ് വാഹനങ്ങളുടെ പട്ടിക പ്രസിദ്ധീകരിച്ചു. ലേഖനം, ഗെയിമിന്റെ Vice City സജ്ജീകരണത്തിൽ ചുറ്റിക്കറങ്ങാൻ ഏറ്റവും കൂൾ എന്ന് അവർ കരുതുന്ന മോഡലുകൾ എടുത്തുകാട്ടുന്നു.",
+  "why": "ഫാൻമാരുടെ ഇഷ്ടം അറിയുന്നത് GTA VI-യുടെ കാർ തിരഞ്ഞെടുപ്പിനെക്കുറിച്ചുള്ള പ്രതീക്ഷകൾ രൂപപ്പെടുത്താൻ സഹായിക്കും, കൂടാതെ കളിക്കാർ അവരുടെ ഇൻ‑ഗെയിം ശേഖരം പ്ലാൻ ചെയ്യാം.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "cars",
+   "Hagerty",
+   "ViceCity"
+  ]
+ }
+}

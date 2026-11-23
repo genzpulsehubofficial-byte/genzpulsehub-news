@@ -1,0 +1,37 @@
+{
+ "id": "e44b6b3d5153",
+ "created": "2026-11-24T05:03:58+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/nvidia-shares-surge-more-than-30-after-jensen-huangs-return-12368290#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia Stock Jumps Over 30% After CEO Return",
+  "hook": "The boss is back and the market is buzzing.",
+  "what": "Jensen Huang resumed his role as Nvidia’s chief executive on Monday. Following his comeback, Nvidia’s shares rose more than 30% in trading.",
+  "why": "A sharp stock move can affect tech‑related investments and job prospects for students interested in AI and gaming. Keep an eye on market updates if you follow tech trends.",
+  "tags": [
+   "Nvidia",
+   "stock",
+   "tech",
+   "AI",
+   "gaming"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia സ്റ്റോക്ക് 30%‑ക്ക് മുകളിലേക്ക്, CEO മടങ്ങിയെത്തി",
+  "hook": "ബോസ് മടങ്ങി, മാർക്കറ്റിൽ ചൂട്!",
+  "what": "ജെൻസൻ ഹുവാങ്ങ് തിങ്കളാഴ്ച Nvidiaയുടെ CEO ആയി തിരികെ വന്നു. അദ്ദേഹത്തിന്റെ മടങ്ങിയെത്തലിന് ശേഷം Nvidiaയുടെ ഷെയറുകൾ 30%‑ക്ക് മുകളിലേക്ക് ഉയർന്നു.",
+  "why": "ഇത്തരമൊരു സ്റ്റോക്ക് ചലനം AI, ഗെയിമിംഗ് മേഖലകളിൽ കരിയർ ആഗ്രഹിക്കുന്നവർക്കും മാർക്കറ്റ് ട്രെൻഡുകൾ പിന്തുടരുന്നവർക്കും പ്രധാനമാണ്. ടെക് വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "സ്റ്റോക്ക്",
+   "ടെക്",
+   "AI",
+   "ഗെയിമിംഗ്"
+  ]
+ }
+}
