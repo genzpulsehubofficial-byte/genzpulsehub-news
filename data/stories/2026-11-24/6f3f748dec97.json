@@ -1,0 +1,37 @@
+{
+ "id": "6f3f748dec97",
+ "created": "2026-11-24T04:04:39+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "ASM Journals",
+ "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMHp2THRNM1JJRXJXdHZMSFVqeklvRXNsSWpBc3Q2WWFQQmpUazdiUW9vdFhSZF9DMV9oYUttMWlYZ2RWRk5jWTlERFdGeVhoS085LVNFVGhodTZo?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI and TraDIS boost phage research, raise safety worries",
+  "hook": "Bacteria‑killing viruses get a tech upgrade – but at what cost?",
+  "what": "Scientists are using the TraDIS technique to pinpoint the receptors that bacteriophages bind to on bacteria. AI tools are also being applied to design viruses and enhance phage effectiveness against antibiotic‑resistant infections. Experts warn that AI‑crafted viruses could pose biosecurity risks.",
+  "why": "Understanding phage receptors and improving their power could help tackle drug‑resistant bugs, a growing concern for young people. Staying aware of the safety debate around AI‑made viruses is important as the technology spreads.",
+  "tags": [
+   "AI",
+   "phage",
+   "antibioticResistance",
+   "biosecurity",
+   "research"
+  ]
+ },
+ "ml": {
+  "headline": "AIയും TraDISയും ഫേജ് ഗവേഷണം മെച്ചപ്പെടുത്തുന്നു, സുരക്ഷാ ആശങ്കകൾ ഉയരുന്നു",
+  "hook": "ബാക്ടീരിയ കൊല്ലുന്ന വൈറസുകൾക്ക് ടെക് അപ്ഗ്രേഡ് – പക്ഷേ വില എന്താണ്?",
+  "what": "ഗവേഷകർ TraDIS എന്ന രീതിയിലൂടെ ഫേജുകൾ ബാക്ടീരിയയുടെ ഏത് ഭാഗങ്ങളോട് ചേർക്കുന്നു എന്ന് കണ്ടെത്തുന്നു. AI ഉപകരണങ്ങൾ ഉപയോഗിച്ച് വൈറസുകൾ രൂപകൽപ്പന ചെയ്യുകയും ഫേജുകളുടെ ആന്റിബയോട്ടിക്‑റെസിസ്റ്റന്റ് ബാക്ടീരിയയോട് പോരാട്ട ശേഷി വർദ്ധിപ്പിക്കുകയും ചെയ്യുന്നു. AI‑നിർമിത വൈറസുകൾ ബയോ‑സെക്യൂരിറ്റി അപകടം സൃഷ്ടിക്കാം എന്ന് വിദഗ്ധർ മുന്നറിയിപ്പ് നൽകുന്നു.",
+  "why": "ഫേജ് റിസപ്റ്ററുകൾ മനസ്സിലാക്കുകയും അവയുടെ കഴിവ് മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നത് മരുന്ന് പ്രതിരോധം വർദ്ധിക്കുന്ന രോഗങ്ങളോട് പോരാടാൻ സഹായിക്കും, ഇത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. AI‑നിർമിത വൈറസുകളുടെ സുരക്ഷാ ചർച്ചകളിൽ ശ്രദ്ധ നൽകുന്നത് ഭാവിയിലെ സാങ്കേതിക ഉപയോഗത്തെക്കുറിച്ച് ജാഗ്രത നിലനിർത്താൻ സഹായിക്കും.",
+  "tags": [
+   "AI",
+   "phage",
+   "antibioticResistance",
+   "biosecurity",
+   "research"
+  ]
+ }
+}

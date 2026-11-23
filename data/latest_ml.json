@@ -1,5 +1,62 @@
 [
  {
+  "id": "ada2460a24f6",
+  "created": "2026-11-24T04:04:27+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+  "headline": "Jensen Huang Nvidia‑ലേക്ക് തിരിച്ചു, Musk പറയുന്നു പിഴവ് ശരിയാക്കി",
+  "hook": "Nvidia‑യുടെ ചീഫ് മടങ്ങി, Elon Musk പോലും സന്തോഷിക്കുന്നു.",
+  "what": "Jensen Huang ഒരു സ്കാൻഡലിന് ശേഷം Nvidia‑യിൽ വീണ്ടും ചുമതല ഏറ്റെടുത്തു. Elon Musk \"പിഴവ് ശരിയാക്കി\" എന്ന് പറഞ്ഞു. മറ്റുള്ളവരും ആശ്വാസം പ്രകടിപ്പിച്ചു.",
+  "why": "ഇത് വലിയ ടെക് കമ്പനികൾ നേതൃപരിഷ്കാരങ്ങൾ എത്ര വേഗം കൈകാര്യം ചെയ്യുന്നു എന്ന് കാണിക്കുന്നു, ഇത് യുവ ടെക് ആസ്വാദകർക്കുള്ള ജോലി, ഉൽപ്പന്ന സാധ്യതകളെ ബാധിക്കും.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "ElonMusk",
+   "TechNews",
+   "Scandal"
+  ]
+ },
+ {
+  "id": "27065c561fbc",
+  "created": "2026-11-24T04:04:31+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "headline": "Anthropic പുറത്തിറക്കി Claude Ship, AI‑യോടെ കോഡ് അംഗീകാരം",
+  "hook": "നിങ്ങളുടെ അടുത്ത കോഡ് റിവ്യൂ ഒരു ബോട്ട് ചെയ്യാം.",
+  "what": "Anthropic ഒരു പുതിയ ടൂൾ Claude Ship പുറത്തിറക്കി, AI ഏജന്റുകൾക്ക് കോഡ് മാറ്റങ്ങൾ പരിശോധിക്കാൻ, തിരുത്താൻ, അംഗീകരിക്കാൻ കഴിയും. AI‑ജനിതമായ കോഡ് വർധിക്കുമ്പോൾ റിവ്യൂ സമയം കുറയ്ക്കാൻ ഇത് സഹായിക്കും.",
+  "why": "ഇത് യുവ ഡെവലപ്പർമാർക്ക് പ്രോജക്റ്റ് ഡെഡ്‌ലൈനുകൾ വേഗത്തിൽ പൂർത്തിയാക്കാൻ സഹായിക്കും, പുതിയ സാങ്കേതിക വിദ്യകൾ പഠിക്കാൻ സമയം ലഭിക്കും. ഇത്തരമൊരു ടൂൾ ശ്രദ്ധയിൽവെച്ച് നിങ്ങളുടെ വർക്ക്‌ഫ്ലോ മെച്ചപ്പെടുത്താം.",
+  "tags": [
+   "AI",
+   "കോഡ്",
+   "ഡെവലപ്പർ",
+   "ഓട്ടോമേഷൻ",
+   "ടെക്"
+  ]
+ },
+ {
+  "id": "6f3f748dec97",
+  "created": "2026-11-24T04:04:39+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "ASM Journals",
+  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMHp2THRNM1JJRXJXdHZMSFVqeklvRXNsSWpBc3Q2WWFQQmpUazdiUW9vdFhSZF9DMV9oYUttMWlYZ2RWRk5jWTlERFdGeVhoS085LVNFVGhodTZo?oc=5",
+  "headline": "AIയും TraDISയും ഫേജ് ഗവേഷണം മെച്ചപ്പെടുത്തുന്നു, സുരക്ഷാ ആശങ്കകൾ ഉയരുന്നു",
+  "hook": "ബാക്ടീരിയ കൊല്ലുന്ന വൈറസുകൾക്ക് ടെക് അപ്ഗ്രേഡ് – പക്ഷേ വില എന്താണ്?",
+  "what": "ഗവേഷകർ TraDIS എന്ന രീതിയിലൂടെ ഫേജുകൾ ബാക്ടീരിയയുടെ ഏത് ഭാഗങ്ങളോട് ചേർക്കുന്നു എന്ന് കണ്ടെത്തുന്നു. AI ഉപകരണങ്ങൾ ഉപയോഗിച്ച് വൈറസുകൾ രൂപകൽപ്പന ചെയ്യുകയും ഫേജുകളുടെ ആന്റിബയോട്ടിക്‑റെസിസ്റ്റന്റ് ബാക്ടീരിയയോട് പോരാട്ട ശേഷി വർദ്ധിപ്പിക്കുകയും ചെയ്യുന്നു. AI‑നിർമിത വൈറസുകൾ ബയോ‑സെക്യൂരിറ്റി അപകടം സൃഷ്ടിക്കാം എന്ന് വിദഗ്ധർ മുന്നറിയിപ്പ് നൽകുന്നു.",
+  "why": "ഫേജ് റിസപ്റ്ററുകൾ മനസ്സിലാക്കുകയും അവയുടെ കഴിവ് മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നത് മരുന്ന് പ്രതിരോധം വർദ്ധിക്കുന്ന രോഗങ്ങളോട് പോരാടാൻ സഹായിക്കും, ഇത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. AI‑നിർമിത വൈറസുകളുടെ സുരക്ഷാ ചർച്ചകളിൽ ശ്രദ്ധ നൽകുന്നത് ഭാവിയിലെ സാങ്കേതിക ഉപയോഗത്തെക്കുറിച്ച് ജാഗ്രത നിലനിർത്താൻ സഹായിക്കും.",
+  "tags": [
+   "AI",
+   "phage",
+   "antibioticResistance",
+   "biosecurity",
+   "research"
+  ]
+ },
+ {
   "id": "9d1f6a725104",
   "created": "2026-11-24T03:06:23+05:30",
   "category": "tech",
@@ -694,63 +751,6 @@
    "ജെൻസൻഹുവാങ്",
    "ടെക്‌പോളിസി",
    "എക്സ്പോർട്ട്കൺട്രോൾ"
-  ]
- },
- {
-  "id": "f0db71fbaaf8",
-  "created": "2026-11-23T21:15:39+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
-  "headline": "ജർമ്മനി, ഡെൻമാർക്കിലെ സ്കൂളുകൾക്ക് ബോംബ് ഭീഷണി",
-  "hook": "ഇമെയിൽ വഴി Hundreds സ്കൂളുകൾക്ക് ഭീഷണി, വിദ്യാർത്ഥികൾ ജാഗ്രതയിൽ.",
-  "what": "പോലീസ് പ്രകാരം ജർമ്മനിയിലെ 450-ത്തിലധികം സ്കൂളുകൾക്കും ഡെൻമാർക്കിലെ ചില സ്കൂളുകൾക്കും ഇമെയിൽ വഴി ബോംബ് ഭീഷണി ലഭിച്ചു. ഭീഷണിയുടെ ഉറവിടം അന്വേഷിക്കുന്നു.",
-  "why": "ഇത്തരത്തിലുള്ള ഭീഷണികൾ പഠനത്തെ ബാധിക്കുകയും സുരക്ഷാ ആശങ്കകൾ ഉയർത്തുകയും ചെയ്യുന്നു; വിദ്യാർത്ഥികൾ സ്കൂൾ സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കണം.",
-  "tags": [
-   "ബോംബ്ഭീഷണി",
-   "സ്കൂൾസുരക്ഷ",
-   "ജർമ്മനി",
-   "ഡെൻമാർക്ക്",
-   "വാർത്ത"
-  ]
- },
- {
-  "id": "81fdaace49ee",
-  "created": "2026-11-23T21:15:43+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-civilian-defence-staff-seek-6-annual-increment-ops-and-50-da-merger-13-key-demands-explained-11795439112048.html",
-  "headline": "സിവിലിയൻ ഡിഫൻസ് സ്റ്റാഫ് 6% വേതനവർധന, OPS‑DA മർജ്‌മെന്റ് ആവശ്യപ്പെടുന്നു",
-  "hook": "യൂണിയൻ 8th Pay Commission‑ലേക്ക് 13 ആവശ്യങ്ങൾ സമർപ്പിച്ചു.",
-  "what": "ഭാരതീയ പ്രതിരക്ഷ തൊഴിലാളി സംഘം 8th Pay Commission‑നൊപ്പം രണ്ടാം ചർച്ചാ സത്രം നടത്തി. ഏപ്രിൽ 2026‑ലെ വിശദമായ പ്രതിനിധാനം കൂട്ടിച്ചേർത്ത്, 6% വാർഷിക വർധനയും OPS‑നെ 50% ഡെയർനെസ് അലവൻസുമായി ചേർക്കലും ഉൾപ്പെടെ 13 ആവശ്യങ്ങൾ അടങ്ങിയ പുതിയ മെമ്മോരാണ്ടം സമർപ്പിച്ചു.",
-  "why": "വേതന വർധനയും അലവൻസ് മാറ്റങ്ങളും ഡിഫൻസ് സിവിലിയൻ ജോലികളിലെ ശമ്പള ഘടനയെ ബാധിക്കും, ഇത് ഈ മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് പ്രാധാന്യമുള്ളതാണ്.",
-  "tags": [
-   "defence",
-   "paycommission",
-   "jobs",
-   "salary",
-   "union"
-  ]
- },
- {
-  "id": "4f1a9ab4bfdd",
-  "created": "2026-11-23T21:15:45+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tiruchi-road-accident-toll-rises-to-9/article71735471.ece",
-  "headline": "തിരുചിയിൽ റോഡ് അപകടത്തിൽ ഒമ്പത് പേർ മരണം",
-  "hook": "തിരുചിയിലെ ഒരു റോഡ് അപകടത്തിൽ ഒമ്പത് പേർ കൊല്ലപ്പെട്ടു.",
-  "what": "തിരുചിയിൽ ഒരു റോഡ് അപകടം സംഭവിച്ചു. മരണസംഖ്യ ഒമ്പതിലേക്ക് ഉയർന്നു.",
-  "why": "റോഡ് സുരക്ഷ എല്ലാവർക്കും പ്രധാനമാണ്; ട്രാഫിക് നിയമങ്ങൾ പാലിച്ച് അപകടങ്ങൾ ഒഴിവാക്കാം.",
-  "tags": [
-   "തിരുചി",
-   "റോഡ്അപകടം",
-   "സുരക്ഷ",
-   "ഇന്ത്യ",
-   "വാർത്ത"
   ]
  }
 ]

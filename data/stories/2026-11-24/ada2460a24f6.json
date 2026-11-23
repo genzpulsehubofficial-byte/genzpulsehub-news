@@ -1,0 +1,37 @@
+{
+ "id": "ada2460a24f6",
+ "created": "2026-11-24T04:04:27+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Jensen Huang returns to Nvidia, Musk says error fixed",
+  "hook": "The Nvidia chief is back and even Elon Musk is celebrating.",
+  "what": "Jensen Huang has been reinstated at Nvidia after a recent scandal. Elon Musk posted that the mistake has been corrected. Others also expressed relief.",
+  "why": "The move shows how quickly major tech firms can resolve leadership issues, which can affect product releases and job opportunities for young tech enthusiasts.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "ElonMusk",
+   "TechNews",
+   "Scandal"
+  ]
+ },
+ "ml": {
+  "headline": "Jensen Huang Nvidia‑ലേക്ക് തിരിച്ചു, Musk പറയുന്നു പിഴവ് ശരിയാക്കി",
+  "hook": "Nvidia‑യുടെ ചീഫ് മടങ്ങി, Elon Musk പോലും സന്തോഷിക്കുന്നു.",
+  "what": "Jensen Huang ഒരു സ്കാൻഡലിന് ശേഷം Nvidia‑യിൽ വീണ്ടും ചുമതല ഏറ്റെടുത്തു. Elon Musk \"പിഴവ് ശരിയാക്കി\" എന്ന് പറഞ്ഞു. മറ്റുള്ളവരും ആശ്വാസം പ്രകടിപ്പിച്ചു.",
+  "why": "ഇത് വലിയ ടെക് കമ്പനികൾ നേതൃപരിഷ്കാരങ്ങൾ എത്ര വേഗം കൈകാര്യം ചെയ്യുന്നു എന്ന് കാണിക്കുന്നു, ഇത് യുവ ടെക് ആസ്വാദകർക്കുള്ള ജോലി, ഉൽപ്പന്ന സാധ്യതകളെ ബാധിക്കും.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "ElonMusk",
+   "TechNews",
+   "Scandal"
+  ]
+ }
+}
