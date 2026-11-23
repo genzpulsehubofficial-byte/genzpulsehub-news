@@ -1,5 +1,118 @@
 [
  {
+  "id": "fe61c52bf33a",
+  "created": "2026-11-24T02:15:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+  "headline": "CJP’s Saurav Das says Delhi immigration halted his UK flight",
+  "hook": "A top legal figure claims he was barred from leaving India.",
+  "what": "Saurav Das posted on X that Delhi immigration officials stopped him at the counter before his 1 a.m. flight to London. He says he was prevented from boarding.",
+  "why": "The incident raises questions about travel restrictions and legal processes, urging young Indians to stay aware of immigration rules.",
+  "tags": [
+   "Delhi",
+   "Immigration",
+   "Travel",
+   "UK",
+   "Legal"
+  ]
+ },
+ {
+  "id": "2475b067992d",
+  "created": "2026-11-24T02:15:08+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+  "headline": "Nvidia staff hail CEO Jensen Huang on HQ return",
+  "hook": "The Nvidia boss got a hero’s welcome back at the office.",
+  "what": "Jensen Huang walked into Nvidia’s headquarters and was greeted enthusiastically by employees. He told the team he aims to be a better CEO this time.",
+  "why": "For Indian tech fans, it shows leadership changes can spark excitement and may shape the company’s future products. Keep an eye on Nvidia’s moves if you follow AI or gaming tech.",
+  "tags": [
+   "Nvidia",
+   "CEO",
+   "Tech",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "892b93d368f9",
+  "created": "2026-11-24T02:15:11+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+  "headline": "Tamil Nadu proposes scholarships for Sri Lankan medical students",
+  "hook": "Study medicine in India with a new scholarship offer",
+  "what": "A proposal has been submitted to extend scholarships to Sri Lankan students who want to pursue medical courses in Tamil Nadu. The plan aims to help cover their education expenses.",
+  "why": "This could boost regional collaboration and create fresh opportunities for youths interested in medical fields. Keep an eye out for updates if you’re considering studying abroad.",
+  "tags": [
+   "scholarship",
+   "medicalEducation",
+   "SriLanka",
+   "TamilNadu",
+   "studyAbroad"
+  ]
+ },
+ {
+  "id": "51e9740479f1",
+  "created": "2026-11-24T02:15:13+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/steadview-capital-sells-lenskart-shares-worth-%e2%82%b9921-cr/",
+  "headline": "Steadview Capital offloads Lenskart shares worth ₹921 cr",
+  "hook": "Big hedge fund trims its stake in India's eyewear leader.",
+  "what": "Steadview Capital, an early investor, sold about 1.27 crore Lenskart shares through several block trades. The transaction is valued at roughly ₹921 crore.",
+  "why": "The move signals a shift in the fund's exposure to the eyewear market and may influence market sentiment for young investors watching Indian startups.",
+  "tags": [
+   "Lenskart",
+   "Steadview",
+   "Stocks",
+   "Investing"
+  ]
+ },
+ {
+  "id": "95e42a4e3cee",
+  "created": "2026-11-24T02:15:16+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "TODAY.com",
+  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmlYdHhvNTFuVUxITkV5NVZ4OHlKSElXZ1poa0RwQTUtdW82TC1ERmpvZE42VmZOYWlFd1BHT1FRMGFwVnMzamJiNGFLWUd4Z0oycmVNeFhMRlpac0tMTVZSbU9ROUh6MUJtWGRmeTlFdlE1dGkwNXFhWElwVmc0YnpIYmM5NUgyb1hMTmtOYW9uUEpyVXpzR21WdXVBR3hYR0pOUWIwLXlCdw?oc=5",
+  "headline": "US loses measles elimination; 7 more childhood diseases may return",
+  "hook": "A US outbreak could signal new risks for kids worldwide.",
+  "what": "The United States has been stripped of its measles elimination status after the biggest outbreak since 1991. Health experts warn that, alongside measles, seven other common childhood illnesses might reappear.",
+  "why": "It underscores the need to stay current with vaccinations, even in strong health systems. Teens should ensure they’re fully immunised and encourage younger siblings to get their shots.",
+  "tags": [
+   "measles",
+   "vaccination",
+   "health",
+   "global",
+   "kids"
+  ]
+ },
+ {
+  "id": "a4354f1e094d",
+  "created": "2026-11-24T02:15:18+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "FXEmpire",
+  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnRoWE1pMWt1cjhrV0ZCNldXZmVObEtEQnNFb0xWQXJaeDk1NGtYbEU4dndSU1BrR184dEV6VXUxY091dXdKZjJfT2VDbkF1eHgzVGRCY1Z6LXBuNmVESWFSODlpM21kTDJrcF9TcEdLbGtWY3N4bjNPblZXT19EaVpDQlBDOTRVb0JWb2lfeDZ2T1pmU3d0X2Rvcy1oaW5IQzlLY0VrRTVDd3Qy?oc=5",
+  "headline": "Gold may hit $3,500 but could face sell‑off",
+  "hook": "A rise in gold price might be short‑lived.",
+  "what": "Analysts expect gold to climb back to around $3,500. However, they warn that selling pressure could limit the rally.",
+  "why": "For young investors, the possible volatility means cautious timing before buying.",
+  "tags": [
+   "gold",
+   "prices",
+   "investing",
+   "markets",
+   "india"
+  ]
+ },
+ {
   "id": "56e2dcc04652",
   "created": "2026-11-24T01:16:00+05:30",
   "category": "headlines",
@@ -638,119 +751,6 @@
    "Aid",
    "Floods",
    "Development"
-  ]
- },
- {
-  "id": "a9bcce701cf6",
-  "created": "2026-11-23T18:32:28+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-vs-bitcoin-bitcoins-chances-of-beating-gold-fall-from-47-to-19-on-kalshi-what-should-investors-know-11795437774269.html",
-  "headline": "Bitcoin's odds vs gold drop to 19% for 2026",
-  "hook": "Traders now see Bitcoin far less likely to outshine gold.",
-  "what": "On Kalshi, the chance that Bitcoin will beat gold’s performance by 2026 fell to 19%, down from 47% in September. The decline reflects Bitcoin’s weaker showing relative to gold.",
-  "why": "Young investors should note the rising doubt about Bitcoin as a safe‑haven, and consider the risk before preferring crypto over traditional stores of value.",
-  "tags": [
-   "bitcoin",
-   "gold",
-   "investing",
-   "crypto",
-   "markets"
-  ]
- },
- {
-  "id": "5706d609f707",
-  "created": "2026-11-23T18:32:31+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/taxpayers-can-disclose-multiple-foreign-assets-in-one-declaration-for-a-single-rs-1-lakh-fee-i-t-dept-clarifies-fastds-11795431561766.html",
-  "headline": "One ₹1 lakh fee covers all foreign assets in FAST‑DS",
-  "hook": "Got overseas investments? You can now file them together for a flat fee.",
-  "what": "The Income Tax department clarified that under the FAST‑DS scheme, a taxpayer can disclose any number of foreign assets in a single declaration by paying a flat fee of ₹1 lakh. This applies to unreported overseas investments and holdings.",
-  "why": "It simplifies compliance for those with overseas assets, reducing paperwork and cost. Young investors with foreign holdings should consider using FAST‑DS to regularize their tax status.",
-  "tags": [
-   "tax",
-   "foreignassets",
-   "FASTDS",
-   "compliance",
-   "youthfinance"
-  ]
- },
- {
-  "id": "2d40a7053369",
-  "created": "2026-11-23T18:32:32+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/only-bs-vi-vehicles-should-be-allowed-in-delhi-top-court-on-curbing-pollution-12365734#publisher=newsstand",
-  "headline": "Top Court says only BS‑VI vehicles allowed in Delhi",
-  "hook": "Your ride could be banned to protect Delhi’s air",
-  "what": "The highest court ordered that only BS‑VI compliant vehicles may operate in Delhi, citing pollution concerns. Justice Joymalya Bagchi noted that this winter the city’s air is still relatively safe for lungs.",
-  "why": "Poor air quality affects health, especially for young people. Check if your vehicle meets BS‑VI standards or consider greener transport options.",
-  "tags": [
-   "Delhi",
-   "BSVI",
-   "pollution",
-   "court",
-   "airquality"
-  ]
- },
- {
-  "id": "b113de488e18",
-  "created": "2026-11-23T18:32:35+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-study-elderly-women-lifestyle-diseases-pti7fsyk2q5",
-  "headline": "Elderly women in Thrissur face higher disease and money risks",
-  "hook": "Women over 60 in Thrissur are hit hardest by health and cash woes.",
-  "what": "A recent study in Thrissur found that senior women are more likely to suffer from lifestyle‑related illnesses compared with men. The same research highlighted that older women also experience greater financial insecurity.",
-  "why": "Understanding these gaps can guide families and policymakers to support older women better, and encourages younger generations to plan for ageing care.",
-  "tags": [
-   "elderly",
-   "women",
-   "health",
-   "Kerala"
-  ]
- },
- {
-  "id": "217037d34525",
-  "created": "2026-11-23T17:23:37+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/dhanraj-murder-case-court-convicts-three-accused-acquits-17-others/article71733965.ece",
-  "headline": "Three convicted, 17 cleared in Dhanraj murder case",
-  "hook": "A 2016 killing gets a fresh verdict after years of court battles.",
-  "what": "A court sentenced three people for the murder of Dhanraj, a former CPI(M) branch secretary and DYFI leader, and acquitted 17 others. Dhanraj was hacked to death on July 11, 2016, in Ezhimala.",
-  "why": "The ruling shows how long serious criminal cases can take, reminding young people to stay informed about the justice system.",
-  "tags": [
-   "DhanrajCase",
-   "Kerala",
-   "Justice",
-   "CPIM",
-   "DYFI"
-  ]
- },
- {
-  "id": "6cf7f499c1ff",
-  "created": "2026-11-23T17:23:40+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "IMDb",
-  "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBobC1rNUNWOVJDZkwwN1k4ZW0wM2x3NGhVWnE2TkZpVGhFMnlEWXVuTXd4Zmd2dXZRSFlsM2tVc1EwbkhYajhLZ2dFXzBadHpKc2RBVkN0eE5VT0xRQUxQcGR3?oc=5",
-  "headline": "New OTT movies drop this week: Drishyam 3, Hanuman Ansh, Spider‑Man",
-  "hook": "Your weekend binge list just got bigger.",
-  "what": "From November 23 to 29, several titles hit streaming platforms, including the sequel Drishyam 3, the mythological adventure Hanuman Ansh, and the superhero film Spider‑Man: Brand New Day. More releases are also scheduled during the same period.",
-  "why": "These fresh releases give Gen‑Z a chance to catch up on popular franchises without leaving home. Check your favorite OTT apps and add them to your watchlist.",
-  "tags": [
-   "OTT",
-   "movies",
-   "streaming",
-   "drishyam",
-   "spiderman"
   ]
  }
 ]

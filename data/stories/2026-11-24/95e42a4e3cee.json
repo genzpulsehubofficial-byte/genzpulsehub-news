@@ -1,0 +1,37 @@
+{
+ "id": "95e42a4e3cee",
+ "created": "2026-11-24T02:15:16+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "TODAY.com",
+ "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmlYdHhvNTFuVUxITkV5NVZ4OHlKSElXZ1poa0RwQTUtdW82TC1ERmpvZE42VmZOYWlFd1BHT1FRMGFwVnMzamJiNGFLWUd4Z0oycmVNeFhMRlpac0tMTVZSbU9ROUh6MUJtWGRmeTlFdlE1dGkwNXFhWElwVmc0YnpIYmM5NUgyb1hMTmtOYW9uUEpyVXpzR21WdXVBR3hYR0pOUWIwLXlCdw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US loses measles elimination; 7 more childhood diseases may return",
+  "hook": "A US outbreak could signal new risks for kids worldwide.",
+  "what": "The United States has been stripped of its measles elimination status after the biggest outbreak since 1991. Health experts warn that, alongside measles, seven other common childhood illnesses might reappear.",
+  "why": "It underscores the need to stay current with vaccinations, even in strong health systems. Teens should ensure they’re fully immunised and encourage younger siblings to get their shots.",
+  "tags": [
+   "measles",
+   "vaccination",
+   "health",
+   "global",
+   "kids"
+  ]
+ },
+ "ml": {
+  "headline": "US-ൽ മീസിൽസ് ഇല്ലാതാക്കൽ നില നഷ്ടപ്പെട്ടു; 7 കുട്ടി രോഗങ്ങൾ കൂടി മടങ്ങാം",
+  "hook": "അമേരിക്കയിലെ ഈ പ്രചണ്ഡം ലോകവ്യാപകമായി കുട്ടികളിൽ പുതിയ അപകടങ്ങൾ സൃഷ്ടിക്കാം.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് 1991 മുതൽ ഏറ്റവും വലിയ മീസിൽസ് പ്രചരണം ശേഷം അതിന്റെ ഇല്ലാതാക്കൽ സ്ഥിതി നഷ്ടപ്പെടുത്തി. ഡോക്ടർമാർ മീസിൽസിനൊപ്പം ഏഴ് മറ്റ് സാധാരണ ബാല്യരോഗങ്ങളും വീണ്ടും കാണപ്പെടാം എന്ന് മുന്നറിയിപ്പ് നൽകി.",
+  "why": "ഇത് വാക്സിനേഷൻ സമയോചിതമായി ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യം ചൂണ്ടിക്കാണിക്കുന്നു. യുവാക്കൾ അവരുടെ എല്ലാ ലസിക്കുകളും പുതുക്കി, ചെറു സഹോദരങ്ങളെയും വാക്സിനേറ്റ് ചെയ്യാൻ പ്രോത്സാഹിപ്പിക്കണം.",
+  "tags": [
+   "മീസിൽസ്",
+   "വാക്സിൻ",
+   "ആരോഗ്യം",
+   "ഗ്ലോബൽ",
+   "കുട്ടികൾ"
+  ]
+ }
+}

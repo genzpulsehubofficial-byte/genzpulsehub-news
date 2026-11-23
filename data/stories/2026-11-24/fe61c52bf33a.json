@@ -1,0 +1,37 @@
+{
+ "id": "fe61c52bf33a",
+ "created": "2026-11-24T02:15:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP’s Saurav Das says Delhi immigration halted his UK flight",
+  "hook": "A top legal figure claims he was barred from leaving India.",
+  "what": "Saurav Das posted on X that Delhi immigration officials stopped him at the counter before his 1 a.m. flight to London. He says he was prevented from boarding.",
+  "why": "The incident raises questions about travel restrictions and legal processes, urging young Indians to stay aware of immigration rules.",
+  "tags": [
+   "Delhi",
+   "Immigration",
+   "Travel",
+   "UK",
+   "Legal"
+  ]
+ },
+ "ml": {
+  "headline": "CJP-യുടെ സൌരവ് ദാസ് പറയുന്നു, ഡെലിയിലെ ഇമിഗ്രേഷൻ അദ്ദേഹത്തെ യു.കെ. യാത്രയിൽ തടഞ്ഞു",
+  "hook": "മുൻ ചീഫ് ജസ്റ്റിസ് ഡെലിയിൽ നിന്ന് പുറപ്പെടാൻ തടയപ്പെട്ടു എന്ന് അവകാശപ്പെട്ടു.",
+  "what": "സൌരവ് ദാസ് X-ൽ പോസ്റ്റ് ചെയ്തു, ഡെലിയുടെ ഇമിഗ്രേഷൻ കൗണ്ടറിൽ 1 am ലണ്ടൻ ഫ്ലൈറ്റിന് മുമ്പ് അദ്ദേഹം തടയപ്പെട്ടു എന്ന്. അതിനാൽ അദ്ദേഹം വിമാനത്തിൽ കയറാൻ കഴിഞ്ഞില്ല.",
+  "why": "ഇത് യാത്രാ നിയന്ത്രണങ്ങളും നിയമ നടപടികളും സംബന്ധിച്ച ചോദ്യങ്ങൾ ഉയർത്തുന്നു; യുവാക്കൾക്ക് ഇമിഗ്രേഷൻ നിയമങ്ങൾ അറിയുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "ഡെലി",
+   "ഇമിഗ്രേഷൻ",
+   "യാത്ര",
+   "യുകെ",
+   "നിയമ"
+  ]
+ }
+}

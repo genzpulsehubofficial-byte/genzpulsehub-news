@@ -1,0 +1,37 @@
+{
+ "id": "2475b067992d",
+ "created": "2026-11-24T02:15:08+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia staff hail CEO Jensen Huang on HQ return",
+  "hook": "The Nvidia boss got a hero’s welcome back at the office.",
+  "what": "Jensen Huang walked into Nvidia’s headquarters and was greeted enthusiastically by employees. He told the team he aims to be a better CEO this time.",
+  "why": "For Indian tech fans, it shows leadership changes can spark excitement and may shape the company’s future products. Keep an eye on Nvidia’s moves if you follow AI or gaming tech.",
+  "tags": [
+   "Nvidia",
+   "CEO",
+   "Tech",
+   "AI",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia ജീവനക്കാരും ജെൻസൻ ഹുവാങിനെ ഹീറോ പോലെ സ്വാഗതം",
+  "hook": "Nvidiaയുടെ CEO ഓഫിസിലേക്ക് തിരിച്ചുവരുമ്പോൾ ജീവനക്കാർ അദ്ദേഹത്തെ ഹീറോ പോലെ വരവേൽക്കി.",
+  "what": "ജെൻസൻ ഹുവാങ് Nvidiaയുടെ മുഖ്യ ഓഫിസിൽ എത്തിയപ്പോൾ ജീവനക്കാർ ആവേശത്തോടെ അദ്ദേഹത്തെ സ്വാഗതം ചെയ്തു. അദ്ദേഹം ഈ തവണ കൂടുതൽ നല്ല CEO ആകാൻ ശ്രമിക്കുമെന്ന് പറഞ്ഞു.",
+  "why": "ഇന്ത്യയിലെ ടെക് ആസ്വാദകർക്ക് ഇത് നേതൃപരിവർത്തനം കമ്പനിയുടെ ഭാവി ഉൽപ്പന്നങ്ങളെ എങ്ങനെ ബാധിക്കും എന്ന് കാണിക്കുന്നു. AI, ഗെയിമിംഗ് എന്നിവയിൽ താൽപ്പര്യമുണ്ടെങ്കിൽ Nvidiaയുടെ അടുത്ത ചുവടുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "CEO",
+   "Tech",
+   "AI",
+   "Gaming"
+  ]
+ }
+}

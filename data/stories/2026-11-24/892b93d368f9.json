@@ -1,0 +1,37 @@
+{
+ "id": "892b93d368f9",
+ "created": "2026-11-24T02:15:11+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tamil Nadu proposes scholarships for Sri Lankan medical students",
+  "hook": "Study medicine in India with a new scholarship offer",
+  "what": "A proposal has been submitted to extend scholarships to Sri Lankan students who want to pursue medical courses in Tamil Nadu. The plan aims to help cover their education expenses.",
+  "why": "This could boost regional collaboration and create fresh opportunities for youths interested in medical fields. Keep an eye out for updates if you’re considering studying abroad.",
+  "tags": [
+   "scholarship",
+   "medicalEducation",
+   "SriLanka",
+   "TamilNadu",
+   "studyAbroad"
+  ]
+ },
+ "ml": {
+  "headline": "തമിഴ്നാട്ടിൽ இலங்கை വിദ്യാർത്ഥികൾക്ക് മെഡിക്കൽ സ്കോളർഷിപ്പ്",
+  "hook": "ഇന്ത്യയിൽ മെഡിക്കൽ പഠിക്കാൻ പുതിയ സ്കോളർഷിപ്പ് അവസരം",
+  "what": "ഇന്ത്യയിലെ തമിഴ്നാട്ടിൽ മെഡിക്കൽ പഠിക്കാൻ ആഗ്രഹിക്കുന്ന இலங்கை വിദ്യാർത്ഥികൾക്ക് സ്കോളർഷിപ്പ് വിപുലീകരിക്കാൻ ഒരു നിർദ്ദേശം സമർപ്പിച്ചു. ഈ പദ്ധതി അവരുടെ വിദ്യാഭ്യാസ ചെലവുകൾ പിന്തുണയ്ക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പ്രദേശിക സഹകരണം വർദ്ധിപ്പിക്കുകയും, മെഡിക്കൽ മേഖലയിൽ താൽപ്പര്യമുള്ള യുവാക്കൾക്ക് പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കുകയും ചെയ്യും. അപ്ഡേറ്റുകൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സ്കോളർഷിപ്പ്",
+   "മെഡിക്കൽ",
+   "ഇലങ്കി",
+   "തമിഴ്നാട്",
+   "വിദ്യാഭ്യാസം"
+  ]
+ }
+}

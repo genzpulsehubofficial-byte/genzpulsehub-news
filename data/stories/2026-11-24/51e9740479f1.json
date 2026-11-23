@@ -1,0 +1,35 @@
+{
+ "id": "51e9740479f1",
+ "created": "2026-11-24T02:15:13+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/steadview-capital-sells-lenskart-shares-worth-%e2%82%b9921-cr/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Steadview Capital offloads Lenskart shares worth ₹921 cr",
+  "hook": "Big hedge fund trims its stake in India's eyewear leader.",
+  "what": "Steadview Capital, an early investor, sold about 1.27 crore Lenskart shares through several block trades. The transaction is valued at roughly ₹921 crore.",
+  "why": "The move signals a shift in the fund's exposure to the eyewear market and may influence market sentiment for young investors watching Indian startups.",
+  "tags": [
+   "Lenskart",
+   "Steadview",
+   "Stocks",
+   "Investing"
+  ]
+ },
+ "ml": {
+  "headline": "Steadview Capital Lenskart ഷെയറുകൾ ₹921 കോടി മൂല്യത്തിൽ വിറ്റു",
+  "hook": "ഇന്ത്യൻ ഐവെയർ ബ്രാൻഡിൽ വലിയ ഹെഡ്ജ് ഫണ്ട് പങ്ക് കുറച്ചു.",
+  "what": "Steadview Capital, Lenskart‑ന്റെ ആദ്യ നിക്ഷേപകർ, ഏകദേശം 1.27 കോടി ഷെയറുകൾ പല ബ്ലോക്ക് ട്രേഡുകളിലൂടെ വിറ്റു. ഈ ഇടപാട് ഏകദേശം ₹921 കോടി മൂല്യമാണു.",
+  "why": "ഫണ്ടിന്റെ ഈ മാറ്റം eyewear മാർക്കറ്റിലെ അവരുടെ എക്സ്പോഷർ കുറയ്ക്കുന്നതാണ്, സ്റ്റാർട്ടപ്പ് രംഗത്തെ യുവ നിക്ഷേപകർക്ക് മാർക്കറ്റ് മനോഭാവം ബാധിക്കാം.",
+  "tags": [
+   "Lenskart",
+   "Steadview",
+   "Stocks",
+   "Investing"
+  ]
+ }
+}

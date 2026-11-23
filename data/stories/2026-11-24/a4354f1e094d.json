@@ -1,0 +1,37 @@
+{
+ "id": "a4354f1e094d",
+ "created": "2026-11-24T02:15:18+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "FXEmpire",
+ "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnRoWE1pMWt1cjhrV0ZCNldXZmVObEtEQnNFb0xWQXJaeDk1NGtYbEU4dndSU1BrR184dEV6VXUxY091dXdKZjJfT2VDbkF1eHgzVGRCY1Z6LXBuNmVESWFSODlpM21kTDJrcF9TcEdLbGtWY3N4bjNPblZXT19EaVpDQlBDOTRVb0JWb2lfeDZ2T1pmU3d0X2Rvcy1oaW5IQzlLY0VrRTVDd3Qy?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold may hit $3,500 but could face sell‑off",
+  "hook": "A rise in gold price might be short‑lived.",
+  "what": "Analysts expect gold to climb back to around $3,500. However, they warn that selling pressure could limit the rally.",
+  "why": "For young investors, the possible volatility means cautious timing before buying.",
+  "tags": [
+   "gold",
+   "prices",
+   "investing",
+   "markets",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ് $3,500 വരെ ഉയരും, പക്ഷേ വിറ്റഴിക്കലിന് സമ്മർദ്ദം",
+  "hook": "വില ഉയരാം, പക്ഷേ അത് താൽക്കാലികം ആകാം.",
+  "what": "വിശകലകർ ഗോൾഡിന്റെ വില $3,500 വരെ മടങ്ങാൻ സാധ്യതയുണ്ടെന്ന് പറയുന്നു. എന്നാൽ വിറ്റഴിക്കലിന്റെ സമ്മർദ്ദം ഈ ഉയർച്ചയെ നിയന്ത്രിക്കാം.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഈ ചഞ്ചലതയെ ശ്രദ്ധിച്ച്, വാങ്ങുന്നതിന് മുൻപ് സമയം നോക്കണം.",
+  "tags": [
+   "gold",
+   "price",
+   "invest",
+   "markets",
+   "india"
+  ]
+ }
+}
