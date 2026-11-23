@@ -1,0 +1,37 @@
+{
+ "id": "4ac5346543a4",
+ "created": "2026-11-23T06:20:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Houthis say they hit Saudi Rabigh refinery, 6 injured",
+  "hook": "A claimed drone strike on a key Saudi oil plant left several hurt.",
+  "what": "The Yemen‑based Houthi movement said its drones struck the Rabigh oil refinery on the Red Sea coast and hit a radar installation. They reported at least six people were injured. Saudi officials have not confirmed any damage.",
+  "why": "Disruptions at a major refinery could affect global oil prices, which can influence fuel costs in India. Keep an eye on travel and transport expenses.",
+  "tags": [
+   "Houthis",
+   "SaudiOil",
+   "MiddleEast",
+   "OilPrices",
+   "YouthNews"
+  ]
+ },
+ "ml": {
+  "headline": "Houthis പറഞ്ഞു, സൌദി റബിഘ് റിഫൈനറി ലക്ഷ്യം, 6 പേർക്ക് പരിക്ക്",
+  "hook": "യമന്‍ ഹൂതി ഗ്രൂപ്പ് ഡ്രോണ്‍ ആക്രമണം നടത്തി, പ്രധാന എണ്ണക്കടയില്‍ പരിക്ക്",
+  "what": "യമന്‍ ഹൂതികള്‍ അവരുടെ ഡ്രോണുകള്‍ ഉപയോഗിച്ച് റെഡ് സീ തീരത്തെ സൌദി റബിഘ് എണ്ണറിഫൈനറിയും ഒരു റഡാറും ലക്ഷ്യമിട്ടതായി അവര്‍ പറഞ്ഞു. ഇതില്‍ കുറഞ്ഞത് ആറ് പേർക്ക് പരിക്ക് സംഭവിച്ചു. സൌദി വശത്ത് നാശം സ്ഥിരീകരിച്ചിട്ടില്ല.",
+  "why": "ഇത്തരത്തിലുള്ള ആക്രമണങ്ങള്‍ എണ്ണവിലകളെ ബാധിക്കാം, അതിനാല്‍ ഇന്ത്യയിലെ ഇന്ധന വിലകളിലും ബാധ ഉണ്ടാകാം. യാത്രാ ചെലവുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Houthis",
+   "SaudiOil",
+   "MiddleEast",
+   "OilPrices",
+   "YouthNews"
+  ]
+ }
+}

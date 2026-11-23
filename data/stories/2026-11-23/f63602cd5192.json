@@ -1,0 +1,37 @@
+{
+ "id": "f63602cd5192",
+ "created": "2026-11-23T06:20:41+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb3lfaXFRdnFjRWM3eE82RU1BNTBJNjZ6T1RnUXdobk5RTU9JOExiVzhSSGR6MllnQlBqZElJazh4YmlFd01lOFNpRkJtbV9SLTJqdUdObk0zWFdwWGN3UmEtQnJWdkdPbGRwMEtIZEpLVGd6U3N1eXVpcU1MTWp1eVljazBsSWE2ZVlJV2ZJbFo2YVRHNzJSNG9pNHI3SkxTZGlLTGsyUjB4RFhrUXJ5Nkl3S0N6VWhtMEhlNmNGNGNfc2tubGRqczRzbnQ3c0VLVTRETkJYc212RG9tOWl1UTJfdEp1NmhfN3dlR0IweERKZ9IB-AFBVV95cUxNdG5fMUFJUUNfR0hvbzJfTjJtcEVicGROMF83RHZ3a2NJWWVZWEhaVFdONTVvSUpQaVd2WWV3SGV5Ni02ZWFwcEJqR3BCbzctV2xMU0U0UTNuc3JJSER2aXhxLUF3Mm0wclRsR0t2dmsyLUxlUWNkbV9aT2p6dzN6OFBrdUl3X01mSW56ZnBVM1BucTJpUmtkRDNDOUx5WF8yckZWaGFyZGZSbWxoM19nX2w3OWktYW8xLWNNenZmbjRwZHFpLTlUNFV3UkFjSzlIRXF3akxOYmRRdThLVmVLUkZ5TzU4X18wejdURnVuNVlRTDRGYzBCVA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ICE detains father, daughter en route to baptism in Seattle",
+  "hook": "A family’s travel for a baptism turned into an ICE raid.",
+  "what": "Immigration officials stopped a father and his daughter at Seattle‑Tacoma International Airport, saying they were heading to a family baptism. Their lawyer confirmed the purpose of the trip.",
+  "why": "The arrests sparked criticism from the state governor, labor unions and the Port of Seattle, who called the action alarming and urged scrutiny of ICE practices.",
+  "tags": [
+   "ICE",
+   "Seattle",
+   "baptism",
+   "immigration",
+   "rights"
+  ]
+ },
+ "ml": {
+  "headline": "സിയാറ്റിലിൽ ബാപ്തിസം യാത്രയിൽ ICE പിടിച്ചെടുത്തു",
+  "hook": "കുടുംബ ബാപ്തിസം യാത്രയിൽ ഐസി‌യുടെ അപ്രതീക്ഷിത ഇടപെടൽ.",
+  "what": "ഇമിഗ്രേഷൻ ഉദ്യോഗസ്ഥർ സിയാറ്റിൽ‑ടാകോമ അന്താരാഷ്ട്ര വിമാനത്താവളത്തിൽ ഒരു അച്ഛനും മകളും തടഞ്ഞു, അവർ കുടുംബ ബാപ്തിസം പോകുന്നതായി പറയുന്നു. അവരുടെ അഭിഭാഷകൻ ഈ യാത്രയുടെ ഉദ്ദേശം സ്ഥിരീകരിച്ചു.",
+  "why": "ഈ അറസ്റ്റുകൾ സംസ്ഥാന ഗവർണർ, തൊഴിലാളി യൂണിയനുകൾ, സിയാറ്റിൽ പോർട്ട് എന്നിവരുടെ കടുത്ത വിമർശനം നേടി, ICE നടപടികളിൽ കൂടുതൽ പരിശോധന ആവശ്യപ്പെടുന്നു.",
+  "tags": [
+   "ICE",
+   "Seattle",
+   "baptism",
+   "immigration",
+   "rights"
+  ]
+ }
+}

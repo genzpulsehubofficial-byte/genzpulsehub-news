@@ -1,0 +1,35 @@
+{
+ "id": "1371b80214ca",
+ "created": "2026-11-23T06:20:31+05:30",
+ "category": "entertainment",
+ "region": "kl",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdDJYXzlHOFRDaU9xVUtNUUFmNlJQeTFsRU14TFZBVkgzYmdhbzdXaEt5VXJCbHBQMmVlNGw1S2U4dk95cUFmbWJ0bkZGcFdaekxlaVcxWjdjX3hkalpDbFVSd2tSS2RwclB2T05ad0tGY3JlbzR1ejRvdFBUUFp4NXozMzJ4SjhrbmN3aDUxVU1CazdiS1Z5Q01ScXhLNnd3QWNaRG9wekZxNGxyTjA0S0hwN1pyVGJnN1RlRklvRzRoMGlubUc1WVRTQ0pBTjhlcVp5MkhQazY3UzlLSkJyYjVCYTVuRjFEMXhPdnBoYVpFVEM2M2ZPdzFSR1VkQTFTdzlpLWhsQUtheGgyNk9mWVNjZ2NOalpHenQ1S2daNDY5czVmWWkyQjR6bl9aR04wS3ZEdkV0azBJdFpTb3B3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Dulquer's 'Aakasamlo Oka Tara' hits Rs13.1cr in 3 days",
+  "hook": "The film saw a 29% jump on its third Sunday.",
+  "what": "The Malayalam movie 'Aakasamlo Oka Tara' earned a net of Rs 13.10 crore in India after three days of release. On Sunday its earnings rose by 29.2% compared to the previous day.",
+  "why": "The strong box‑office response indicates high audience interest, so teens can consider watching it in theatres now.",
+  "tags": [
+   "Dulquer",
+   "BoxOffice",
+   "AakasamloOkaTara",
+   "Mollywood"
+  ]
+ },
+ "ml": {
+  "headline": "ദുൾക്കറിന്റെ 'ആകാശത്തിൽ ഒരു താരം' 3 ദിവസത്തിൽ 13.1 കോടി",
+  "hook": "മൂന്നാം ഞായറാഴ്ചയിൽ സിനിമയുടെ ശേഖരം 29% വർധിച്ചു.",
+  "what": "മലയാളം ചിത്രം 'ആകാശത്തിൽ ഒരു താരം' ഇന്ത്യയിൽ മൂന്ന് ദിവസത്തെ ശുദ്ധ വരുമാനം 13.10 കോടി ആയി. ഞായറാഴ്ച അത് മുൻ ദിവസം比 29.2% ഉയർന്നു.",
+  "why": "യുവാക്കൾക്ക് സിനിമ കാണാൻ സമയം ലഭിച്ചു, ബോക്സ് ഓഫീസ് ശക്തി കാണിക്കുന്നു.",
+  "tags": [
+   "ദുൾക്കർ",
+   "ബോക്സോഫീസ്",
+   "ആകാശത്തിൽഒരു താരം",
+   "മോളിവുഡ്"
+  ]
+ }
+}

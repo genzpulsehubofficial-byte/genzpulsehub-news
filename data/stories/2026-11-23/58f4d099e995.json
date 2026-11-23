@@ -1,0 +1,37 @@
+{
+ "id": "58f4d099e995",
+ "created": "2026-11-23T06:20:45+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Chess.com",
+ "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGxMcnJpbE91TllOV2JlWEVqYjZON2M3OFE2bnBTNTQ3dHZrZDdZYzNjOGJJQVFOczNlWUNwTTBCNHJhN3MySW5JalJCT1RKa2xNRUlVYktBR1VVUkF3Qzh4eHgwa19XMG9MN05aTWNEV1M0dWl6NVFuUS1FVWM0UEpRZVJRS2lPRkhB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sindarov to start 2026 title match with White",
+  "hook": "First move set, watch the opening battle unfold.",
+  "what": "In the 2026 FIDE World Chess Championship, Sindarov will play the first game with the white pieces. Gukesh, the defending champion, will start the match with black.",
+  "why": "The opening colors can shape early strategies, making the first game crucial for momentum. Keep an eye on the game for insights into high‑level play.",
+  "tags": [
+   "chess",
+   "worldchampionship",
+   "2026",
+   "sports",
+   "Gukesh"
+  ]
+ },
+ "ml": {
+  "headline": "2026 ചാമ്പ്യന്‍ഷിപ്പില്‍ സിന്ദരോവ് വൈറ്റ്‌ ആയി തുടങ്ങും",
+  "hook": "ആദ്യ നീക്കം, മത്സരത്തിന്റെ തുടക്കം കാണൂ.",
+  "what": "2026 FIDE വേൾഡ് ചസ് ചാമ്പ്യന്‍ഷിപ്പിൽ സിന്ദരോവ് ആദ്യ ഗെയിം വൈറ്റ് ആയി കളിക്കും. നിലവിലെ ചാമ്പ്യൻ ഗുകേഷ് കറുപ്പ് ആയി തുടങ്ങും.",
+  "why": "പീസുകളുടെ നിറം പ്രാരംഭ തന്ത്രത്തെ ബാധിക്കും, ആദ്യ ഗെയിം മത്സരത്തിന്റെ ഊർജ്ജം നിശ്ചയിക്കും. ഉയർന്ന തലത്തിലുള്ള കളി കാണാൻ ഇത് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ചെസ്",
+   "വേൾഡ്‌ചാമ്പ്യന്‍ഷിപ്പ്",
+   "2026",
+   "സ്പോർട്സ്",
+   "ഗുകേഷ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f0cf11036cc5",
+ "created": "2026-11-23T06:20:47+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Gizmodo",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1Vvd1pZV21fd1BnUlBxS1JwY3Y3UjFzeGVUZlYxcnJLTkJ5bzNReHBGaFFqcUkyYUttT0xKcC11eS16cnEyQ0NVeHpQUGo0aUtkZTVEdFdDME1xWWVtSzRHNlpCR2RvYzZpZ2hrdUJkRTFhbjNOamw5YnJGVmVpZS1xb3NoMDJJSWtJRDRBMWN1VWFqSHI2TjJPR0MxZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Hunger Games prequel pulls $120M in opening",
+  "hook": "The new film broke box‑office records just before Thanksgiving.",
+  "what": "The movie opened with a $56 million weekend and quickly climbed to a $120 million domestic total, making it the fourth‑largest series debut. It was released over the pre‑Thanksgiving weekend.",
+  "why": "A strong box‑office showing signals big teen interest and may shape upcoming pop‑culture trends. Catch the film if you’re into the franchise.",
+  "tags": [
+   "HungerGames",
+   "BoxOffice",
+   "Prequel",
+   "Movies",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "ഹംഗര്‍ ഗെയിംസ് പ്രീക്വല്‍ 120 മില്യണ്‍ ഡോളര്‍ വരുമാനം നേടി",
+  "hook": "താങ്ക്സ്ഗിവിംഗ് മുന്‍പ് റിലീസ് ആയ ഈ സിനിമ ബോക്സ് ഓഫീസ് റെക്കോഡുകള്‍ തകര്‍ത്തു.",
+  "what": "ഫിലിം ആദ്യ വാരത്തില്‍ 56 മില്യണ്‍ ഡോളര്‍ നേടി, ഉടന്‍ 120 മില്യണ്‍ ഡോളര്‍ ഡൊമസ്റ്റിക് മൊത്തം വരുമാനത്തില്‍ എത്തി, സീരീസില്‍ നാലാമത്തെ വലിയ ഡെബ്യൂ ആയി. ഇത് പ്രീ‑താങ്ക്സ്ഗിവിംഗ് വാരാന്ത്യത്തില്‍ പുറത്തിറങ്ങി.",
+  "why": "ഇത് യുവജനങ്ങളുടെ വലിയ താല്‍പര്യം കാണിക്കുന്നു, അടുത്തകാലത്തെ പോപ്പ്‑കള്‍ച്ചറിനെ സ്വാധീനിക്കാം. ഫ്രാഞ്ചൈസി ഇഷ്ടമുള്ളവര്‍ കാണാം.",
+  "tags": [
+   "HungerGames",
+   "BoxOffice",
+   "Prequel",
+   "Movies",
+   "GenZ"
+  ]
+ }
+}

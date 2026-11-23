@@ -1,0 +1,35 @@
+{
+ "id": "618a9904c822",
+ "created": "2026-11-23T06:20:43+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Arab News",
+ "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2hEeHFjbHYzdmd2TEY5SDB0OXEzM3FoQ2hqOGZ4cE1HY0FXVVBGZ1pXQUYzZmVtQWxQQnhFWmFHYU1mSnRBWEtfNTB4SU9oZC1wTHdtMnNhdUlOeWhMNDZLWFdoWndUc2RIOHA1OHpfRkdva0NxdEhycFBxYmZ6OUxINGpWR0NKOHZYek1iUU82ZElmZ3ZyeHhEWS1nNzRIdktwTXNYSE1hZWpPdkRKWkJudTR3TDhPOTFv?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Conflict Near Congo Ebola Zone Hinders Health Response",
+  "hook": "Fighting near the outbreak is slowing Ebola control efforts.",
+  "what": "The WHO chief said that ongoing fighting near the Ebola‑affected area in the Democratic Republic of Congo is disrupting the work of health teams. The violence is making it harder to contain the virus.",
+  "why": "Disruptions can delay containment, raising the risk of spread, so staying informed and supporting health initiatives matters for young people.",
+  "tags": [
+   "Congo",
+   "Ebola",
+   "health",
+   "conflict"
+  ]
+ },
+ "ml": {
+  "headline": "കോംഗോ എബോളാ പ്രദേശത്ത് സംഘര്‍ഷം ആരോഗ്യ പ്രതികരണം തടയുന്നു",
+  "hook": "വൈറസ്‌ക്കെതിരെ പോരാട്ടം തടസ്സപ്പെടുത്തുന്ന യുദ്ധം.",
+  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷൻ (WHO) ചീഫ്, കോൺഗോയിലെ എബോളാ ബാധിത പ്രദേശത്തിന് സമീപം നടക്കുന്ന യുദ്ധം ആരോഗ്യ ടീമുകളുടെ പ്രവർത്തനത്തെ തടസ്സപ്പെടുത്തുന്നുവെന്ന് പറഞ്ഞു. ഈ ഹിംസാ സാഹചര്യത്തിൽ വൈറസ് നിയന്ത്രിക്കാൻ ബുദ്ധിമുട്ടാണ്.",
+  "why": "പ്രതികരണത്തിൽ തടസ്സം വന്നാൽ രോഗം കൂടുതൽ വ്യാപിക്കാൻ സാധ്യത, അതിനാൽ യുവാക്കൾക്ക് വിവരങ്ങളോട് ജാഗ്രത പാലിക്കുകയും ആരോഗ്യ സഹായം പിന്തുണക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "കോംഗോ",
+   "എബോളാ",
+   "ആരോഗ്യം",
+   "സംഘര്‍ഷം"
+  ]
+ }
+}
