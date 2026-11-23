@@ -1,0 +1,37 @@
+{
+ "id": "a5588002be86",
+ "created": "2026-11-24T03:06:32+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Madras HC gives police 1 day to check victim's consent",
+  "hook": "A court orders a quick check if the assault victim wants the case closed.",
+  "what": "The Madras High Court ordered police to find out within a day whether the victim of a physical assault agrees to withdraw the criminal case against the accused, a bank manager. The court gave the police a single day to verify the victim's stance.",
+  "why": "It shows how victim consent influences the closure of assault cases and stresses the importance of legal rights. Young Indians should know they can seek justice and understand court procedures.",
+  "tags": [
+   "court",
+   "legal",
+   "assault",
+   "victimrights",
+   "madras"
+  ]
+ },
+ "ml": {
+  "headline": "മദ്രാസ് ഹൈക്കോടതി 1 ദിവസം കൊണ്ട് ഇരയന്റെ സമ്മതം പരിശോധിക്കാൻ പോലീസ് നിർദ്ദേശിച്ചു",
+  "hook": "അപകടം നേരിട്ട വ്യക്തി കേസ് അടയ്ക്കാൻ സമ്മതിക്കുന്നോ എന്ന് കോടതി വേഗത്തിൽ പരിശോധിക്കുന്നു.",
+  "what": "മദ്രാസ് ഹൈക്കോടതി, ഇരയന് ശാരീരിക ആക്രമണം നടന്നതിന്റെ പശ്ചാത്തലത്തിൽ, കുറ്റക്കാരനെതിരെ ക്രിമിനൽ കേസ് അടയ്ക്കാൻ അവന് സമ്മതമുണ്ടോ എന്ന് പോലീസ് ഒരു ദിവസത്തിനുള്ളിൽ കണ്ടെത്താൻ നിർദ്ദേശിച്ചു. കോടതി പോലീസ് ഒരു ദിവസം മാത്രം സമയം നൽകി ഇരയുടെ നിലപാട് ഉറപ്പാക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത് കുറ്റവാളികളെ നിയമപരമായി പിടികൂടാനുള്ള പ്രക്രിയയും, ഇരയുടെ സമ്മതം പ്രധാനമാണെന്നതും കാണിക്കുന്നു. യുവാക്കൾക്ക് അവരുടെ നിയമ അവകാശങ്ങളെക്കുറിച്ച് അറിവുണ്ടാകണം.",
+  "tags": [
+   "കോടതി",
+   "നിയമം",
+   "ആക്രമണം",
+   "ഇരയുടെഅവകാശം",
+   "മദ്രാസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "9d1f6a725104",
+ "created": "2026-11-24T03:06:23+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Megaspeed faces possible U.S. blacklist, business restrictions loom",
+  "hook": "Your favourite tech firm could lose U.S. ties soon",
+  "what": "Megaspeed, once headed by Alice Huang, is likely to be placed on a U.S. blacklist. That would stop it from dealing with American firms unless those firms obtain a special government licence.",
+  "why": "If the company’s products or services are used locally, the ban could affect their availability or cost. Stay alert for any updates that might impact services you use.",
+  "tags": [
+   "Megaspeed",
+   "USBlacklist",
+   "TechNews",
+   "Startup",
+   "Regulation"
+  ]
+ },
+ "ml": {
+  "headline": "Megaspeed‑ന് യു‌എസ് ബ്ലാക്ക്ലിസ്റ്റ്, ബിസിനസ് നിയന്ത്രണം",
+  "hook": "നിങ്ങളുടെ പ്രിയപ്പെട്ട ടെക് കമ്പനിക്ക് അമേരിക്കൻ മാർക്കറ്റിൽ തടസം വരാം",
+  "what": "Megaspeed, മുൻപ് ആലീസ് ഹുവാങ് നയിച്ചിരുന്ന, യു‌എസ് ബ്ലാക്ക്ലിസ്റ്റിലേക്കു ചേർക്കപ്പെടാൻ സാധ്യതയുണ്ട്. ഇതിലൂടെ അമേരിക്കൻ കമ്പനികളുമായി ഇടപാട് ചെയ്യാൻ പ്രത്യേക ലൈസൻസ് ആവശ്യമാകും.",
+  "why": "ഇത് ഇന്ത്യയിൽ കമ്പനിയുടെ ഉൽപ്പന്നങ്ങളോ സേവനങ്ങളോ ലഭ്യതയെ ബാധിക്കാം, അതിനാൽ മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Megaspeed",
+   "USBlacklist",
+   "TechNews",
+   "Startup",
+   "Regulation"
+  ]
+ }
+}

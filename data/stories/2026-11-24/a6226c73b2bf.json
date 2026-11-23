@@ -1,0 +1,37 @@
+{
+ "id": "a6226c73b2bf",
+ "created": "2026-11-24T03:06:41+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "India Today",
+ "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Google, Microsoft to pause hiring in India by 2027",
+  "hook": "Big tech may stop hiring and cut jobs soon.",
+  "what": "Google and Microsoft said they will freeze hiring in India starting in 2027. Google is also reportedly planning another round of layoffs.",
+  "why": "This could limit job opportunities for fresh graduates and interns; students should look at other tech firms or upgrade their skills.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Layoffs",
+   "TechJobs"
+  ]
+ },
+ "ml": {
+  "headline": "Google, Microsoft 2027‑ൽ ഇന്ത്യയിൽ ഹയർിംഗ് നിർത്തും",
+  "hook": "വലിയ ടെക് കമ്പനികൾ ജോലി നിർത്തി, ലെയ്ഔട്ടുകൾ വരാം.",
+  "what": "Google, Microsoft 2027‑ൽ ഇന്ത്യയിൽ ഹയർിംഗ് ഫ്രീസ് ചെയ്യുമെന്ന് പ്രഖ്യാപിച്ചു. Google-യും പുതിയ ലെയ്ഔട്ട് പ്ലാൻ ചെയ്യുന്നതായി റിപ്പോർട്ടുകൾ പറയുന്നു.",
+  "why": "പുതിയ ബിരുദധാരികൾക്കും ഇന്റേൺഷിപ്പുകൾക്കുമായി ജോലി അവസരങ്ങൾ കുറയാം; മറ്റ് ടെക് കമ്പനികളിൽ അവസരങ്ങൾ നോക്കുകയോ കഴിവുകൾ മെച്ചപ്പെടുത്തുകയോ ചെയ്യുക.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Layoffs",
+   "TechJobs"
+  ]
+ }
+}

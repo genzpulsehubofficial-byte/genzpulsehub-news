@@ -1,0 +1,37 @@
+{
+ "id": "0d558b3de257",
+ "created": "2026-11-24T03:06:34+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CrowdStrike to acquire Zscaler in $44 billion deal",
+  "hook": "Biggest cyber‑security merger could reshape online safety for you.",
+  "what": "US cybersecurity firm CrowdStrike announced it will buy cloud‑security company Zscaler for about $44 billion. The move comes as AI‑driven attacks increase worldwide. The merger will combine endpoint protection with secure web access.",
+  "why": "More of daily life is online, so stronger security tools affect students and young users. Watch for new safety features and emerging job roles in cyber‑defence.",
+  "tags": [
+   "cybersecurity",
+   "tech",
+   "AI",
+   "merger",
+   "jobs"
+  ]
+ },
+ "ml": {
+  "headline": "CrowdStrike‑ന് Zscaler വാങ്ങാൻ $44 ബില്യൺ ഡീൽ",
+  "hook": "വലിയ സൈബർസെക്യൂരിറ്റി മർജർ നിങ്ങളുടെ ഓൺലൈൻ സുരക്ഷ മാറ്റാം.",
+  "what": "അമേരിക്കൻ സൈബർസെക്യൂരിറ്റി കമ്പനിയായ CrowdStrike, ക്ലൗഡ്‑സെക്യൂരിറ്റി Zscaler‑നെ $44 ബില്യൺക്ക് വാങ്ങുമെന്ന് പ്രഖ്യാപിച്ചു. AI‑പ്രേരിത സൈബർ ആക്രമണങ്ങൾ വർധിക്കുന്ന സാഹചര്യത്തിലാണ് ഇത്. ഈ മർജർ എൻഡ്‌പോയിന്റ് സംരക്ഷണവും സുരക്ഷിത വെബ് ആക്സസും ഒന്നാക്കും.",
+  "why": "ദൈനംദിന ജീവിതം കൂടുതൽ ഓൺലൈനിലാകുന്നതിനാൽ ശക്തമായ സുരക്ഷാ ഉപകരണങ്ങൾ വിദ്യാർത്ഥികളെയും യുവജനങ്ങളെയും ബാധിക്കും. പുതിയ സുരക്ഷാ ഫീച്ചറുകളും സൈബർ ഡിഫൻസ് മേഖലയിൽ തൊഴിൽ അവസരങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സൈബർസെക്യൂരിറ്റി",
+   "ടെക്",
+   "AI",
+   "മർജർ",
+   "ജോബ്"
+  ]
+ }
+}

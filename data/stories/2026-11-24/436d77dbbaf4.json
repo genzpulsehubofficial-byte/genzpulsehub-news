@@ -1,0 +1,37 @@
+{
+ "id": "436d77dbbaf4",
+ "created": "2026-11-24T03:06:29+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/cjps-saurav-das-says-stopped-at-delhi-airport-barred-from-flying-to-london-lecture-at-oxford-university-101795456221713.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP official says Delhi airport stopped his Oxford lecture flight",
+  "hook": "Did a Delhi immigration snag a top legal mind before his Oxford talk?",
+  "what": "Saurav Das, a senior official at the Chief Justice’s Programme, says he was prevented from boarding a flight to London for an Oxford lecture. He claims immigration officials stopped him at Delhi airport. A Delhi Police spokesperson said they have no information on the incident and that immigration officials are handling it.",
+  "why": "It shows that airport procedures can affect anyone traveling abroad. Keep your travel documents ready and follow official updates.",
+  "tags": [
+   "travel",
+   "news",
+   "Delhi",
+   "Oxford",
+   "immigration"
+  ]
+ },
+ "ml": {
+  "headline": "സി.ജെ.പി. ഉദ്യോഗസ്ഥന് ഡെല്‍ഹി വിമാനത്താവളത്തില്‍ ഒക്‌സ്ഫോര്‍ഡ് ലെക്ചര്‍ യാത്ര തടഞ്ഞു",
+  "hook": "ഡെല്‍ഹി ഇമിഗ്രേഷന്‍ ഉദ്യോഗസ്ഥര്‍ ഒരു പ്രമുഖ നിയമവേദിയുടെ ലെക്ചര്‍ യാത്രയില്‍ ഇടപെട്ടോ?",
+  "what": "സി.ജെ.പി. പ്രോഗ്രാമിലെ സോരവ് ദാസ്, ഒക്‌സ്ഫോര്‍ഡിലെ ലെക്ചറിനായി ലണ്ടന്‍ പോകാന്‍ പോകുമ്പോള്‍ ഡെല്‍ഹി വിമാനത്താവളത്തില്‍ ബോര്‍ഡിംഗ് തടഞ്ഞു എന്ന് അവകാശപ്പെടുന്നു. അദ്ദേഹം ഇമിഗ്രേഷന്‍ ഉദ്യോഗസ്ഥര്‍ തടഞ്ഞതായി പറയുന്നു. ഡെല്‍ഹി പോലീസ് ഒരു ഉദ്യോഗസ്ഥന്‍ ഈ സംഭവത്തെക്കുറിച്ച് അറിയില്ലെന്ന്, ഇമിഗ്രേഷന്‍ ഉദ്യോഗസ്ഥര്‍ ഇതില്‍ ഉള്‍പ്പെട്ടിരിക്കുന്നു എന്ന് അറിയിച്ചു.",
+  "why": "ഇത് വിദേശയാത്രയില്‍ ഉണ്ടാകാവുന്ന പ്രക്രിയാ പ്രശ്നങ്ങള്‍ കാണിക്കുന്നു, എല്ലാവരും യാത്രാ രേഖകള്‍ പരിശോധിച്ച് ഔദ്യോഗിക അപ്ഡേറ്റുകള്‍ പിന്തുടരണം.",
+  "tags": [
+   "യാത്ര",
+   "വാർത്ത",
+   "ഡെല്‍ഹി",
+   "ഒക്‌സ്ഫോര്‍ഡ്",
+   "ഇമിഗ്രേഷന്‍"
+  ]
+ }
+}

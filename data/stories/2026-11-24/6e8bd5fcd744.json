@@ -1,0 +1,35 @@
+{
+ "id": "6e8bd5fcd744",
+ "created": "2026-11-24T03:06:39+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Moneycontrol.com",
+ "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOemhfYmlWWVpBMTBQT18yVGxhU0t3Rno4ODFONXZlZVN5SmZGa2ZEdFgxc0ZJdjZORDNfQWY3R25Vdld3Zk5pNU9HZGJvMEIxdUwxY0lNOTFYQjl0NkdVbUlLLVMwVVFyUklJazZsNEZKUlU2eWF3X1VoX29wbWs2Mk9WazlMQkVTVFB1NlVRUlh2c25CYmQwUk52dXJHQlZBY2gtVjB1bGJ4NHJRR0g5VTJCdFJSTmxqX2V3MlpQR2JXekZLcjJtUVJ2T3JSSzdjX216RjNWdVg4MFFrckhhVmdRWnlfWGVKT0k4UkhjeWM2dS05NWfSAfsBQVVfeXFMTVZwaldmTEZ4Y2lHRjFJbzA3NFEtZ0E1Q1ZmcFZEa3BTNUNTTjJFVkpHel9vb2pYZldESFpWVGR6TTM4X1dxV0dsNzFoUXA3SXlaT1pkZk9maHBuT3ZENC1aVkdjSnZSTmlfazJGOFotQkJTcGVENS16dDZVOWM5OHJwMmtqY2NXR3l3X0NIQ2I3X24xMzJERmsyYWdVREx2aGpwUFdNczVrU0J1Vi10dlVYbnFFcHhfcWViODBBLU5LYTRHUEIyY0dabkJmT3FLUUZVZEpTZUNHVzJoZXEyN1dYVl9SdXRLNGg0MXJQUTFMeWx3UThiLUtzMlU?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI Plans ‘Stop Switch’ to Halt Outgoing Payments",
+  "hook": "Your big transfers may need a trusted person’s nod.",
+  "what": "The Reserve Bank of India has drafted a ‘Stop Switch’ that can freeze all outgoing digital payments. For high‑value transfers, banks would require approval from a pre‑selected trusted person. The move aims to tighten security against payment fraud.",
+  "why": "It gives users more control and could protect teens from losing money in scams. Keep your trusted contacts updated in your bank app.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "banking"
+  ]
+ },
+ "ml": {
+  "headline": "RBI അവതരിപ്പിക്കുന്നു ‘Stop Switch’ വഴി പേയ്മെന്റുകൾ നിർത്താൻ",
+  "hook": "വലിയ ട്രാൻസ്ഫറുകൾക്ക് ഇനി നിങ്ങളുടെ വിശ്വസ്ത വ്യക്തിയുടെ അനുമതി വേണം.",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ‘Stop Switch’ എന്ന സംവിധാനം രൂപകൽപ്പന ചെയ്തു, ഇത് എല്ലാ പുറം പേയ്മെന്റുകളും താൽക്കാലികമായി തടയാൻ കഴിയും. ഉയർന്ന മൂല്യമുള്ള ട്രാൻസ്ഫറുകൾക്ക് ബാങ്കുകൾ മുൻകൂട്ടി നിശ്ചയിച്ച വിശ്വസ്ത വ്യക്തിയുടെ അംഗീകാരം ആവശ്യപ്പെടും. ഈ നടപടിയുടെ ലക്ഷ്യം പേയ്മെന്റ് തട്ടിപ്പുകൾ കുറയ്ക്കുകയാണ്.",
+  "why": "ഇത് ഉപയോക്താക്കൾക്ക് കൂടുതൽ നിയന്ത്രണം നൽകുകയും തട്ടിപ്പുകളിൽ നിന്ന് പണം നഷ്ടപ്പെടുന്നത് തടയുകയും ചെയ്യും. നിങ്ങളുടെ ബാങ്ക് ആപ്പിൽ വിശ്വസ്ത വ്യക്തികളെ പുതുക്കി സൂക്ഷിക്കുക.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "banking"
+  ]
+ }
+}
