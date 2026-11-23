@@ -1,0 +1,37 @@
+{
+ "id": "83d30330309f",
+ "created": "2026-11-23T22:11:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/market-correction-or-a-bad-mutual-fund-5-checks-you-must-make-before-deciding-whether-to-exit-or-stay-invested-11795432862240.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Mutual fund dip? Check 5 factors before pulling out",
+  "hook": "A slump may be market correction, not a bad fund.",
+  "what": "A mutual fund’s weak returns could be due to a market correction rather than poor management. Experts suggest reviewing five key aspects such as benchmark performance, risk‑adjusted returns and alignment with personal goals before deciding to exit.",
+  "why": "Young investors should avoid hasty withdrawals that could hurt long‑term growth; instead, match the fund’s performance with their own financial plans.",
+  "tags": [
+   "mutualfunds",
+   "investing",
+   "finance",
+   "genz",
+   "moneytips"
+  ]
+ },
+ "ml": {
+  "headline": "മ്യൂച്വല്‍ ഫണ്ട് ഇടിവ്? പുറത്തു പോകാന്‍ മുമ്പ് 5 കാര്യങ്ങള്‍ പരിശോധിക്കുക",
+  "hook": "താഴ്ന്ന റിട്ടേണ്‍ മാര്‍ക്കറ്റ് തിരുത്തലാകാം, ഫണ്ട് മോശമല്ല.",
+  "what": "മ്യൂച്വല്‍ ഫണ്ടിന്റെ കുറഞ്ഞ വരുമാനം മാര്‍ക്കറ്റ് തിരുത്തലിന്റെ ഫലമായിരിക്കാം, മാനേജ്മെന്റ് ദുർബലതയല്ല. ബെഞ്ച്മാര്‍ക്ക് പ്രകടനം, റിസ്ക്‑അഡ്ജസ്റ്റഡ് റിട്ടേണ്‍, വ്യക്തിഗത ലക്ഷ്യങ്ങള്‍ എന്നിവ ഉള്‍പ്പെടുന്ന അഞ്ച് പ്രധാന ഘടകങ്ങള്‍ പരിശോധിച്ച് തീരുമാനമെടുക്കാന്‍ നിര്‍ദ്ദേശിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകര്‍ തല്‍ക്കാലം പിന്‍വലിക്കല്‍ ഒഴിവാക്കി, ദീര്‍ഘകാല വളര്‍ച്ചയ്ക്ക് തക്ക പദ്ധതികളുമായി ഫണ്ടിന്റെ പ്രകടനം താരതമ്യം ചെയ്യണം.",
+  "tags": [
+   "മ്യൂച്വല്‍ഫണ്ട്",
+   "നിക്ഷേപം",
+   "ഫിനാന്‍സ്",
+   "ജനറേഷന്‍ज़െഡ്",
+   "പണം"
+  ]
+ }
+}

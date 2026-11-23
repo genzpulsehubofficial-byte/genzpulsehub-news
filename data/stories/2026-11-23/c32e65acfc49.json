@@ -1,0 +1,35 @@
+{
+ "id": "c32e65acfc49",
+ "created": "2026-11-23T22:11:13+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "CrowdStrike to buy Zscaler for $44 bn, boosting AI readiness",
+  "hook": "Your favorite apps could become safer with AI‑driven security",
+  "what": "CrowdStrike announced it will acquire Zscaler for $44 bn. Zscaler supplies zero‑trust solutions to large enterprises. The purchase is meant to help customers adopt AI agents more effectively.",
+  "why": "Stronger security tools can protect the online services teens use daily. Keep an eye on security updates from your apps.",
+  "tags": [
+   "cybersecurity",
+   "AI",
+   "tech",
+   "acquisition"
+  ]
+ },
+ "ml": {
+  "headline": "CrowdStrike-ന് Zscaler-നെ $44 bn-ൽ വാങ്ങി, AI‑സുരക്ഷ ശക്തമാക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ആപ്പുകൾ AI‑ചാലിത സുരക്ഷയോടെ കൂടുതൽ സുരക്ഷിതമാകും",
+  "what": "CrowdStrike Zscaler-നെ $44 bn-ക്ക് ഏറ്റെടുക്കുമെന്ന് പ്രഖ്യാപിച്ചു. Zscaler വലിയ സ്ഥാപനങ്ങൾക്ക് zero‑trust ഉൽപ്പന്നങ്ങൾ നൽകുന്നു. ഈ ഇടപാട് ഉപഭോക്താക്കളെ AI ഏജന്റുകൾ ഉപയോഗിക്കാൻ കൂടുതൽ സജ്ജമാക്കും.",
+  "why": "വളർന്ന സുരക്ഷാ പരിഹാരങ്ങൾ യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ഡിജിറ്റൽ സേവനങ്ങളെ സംരക്ഷിക്കും. നിങ്ങളുടെ ആപ്പുകളുടെ സുരക്ഷാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "cybersecurity",
+   "AI",
+   "tech",
+   "acquisition"
+  ]
+ }
+}

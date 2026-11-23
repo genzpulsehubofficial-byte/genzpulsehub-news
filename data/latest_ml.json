@@ -1,5 +1,98 @@
 [
  {
+  "id": "e4d7bd0a9654",
+  "created": "2026-11-23T22:11:06+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+  "headline": "RBI അവതരിപ്പിക്കുന്നു ‘Stop Switch’ പേയ്മെന്റ് തട്ടിപ്പ്‌ക്കെതിരെ",
+  "hook": "ഫ്രോഡ് കണ്ടെത്തിയാൽ നിങ്ങളുടെ ആപ്പ് ഉടൻ ഫ്രീസ് ആകാം.",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഇലക്ട്രോണിക് ഇടപാടുകൾക്കായി പുതിയ സുരക്ഷാ നടപടികൾ രൂപകൽപ്പന ചെയ്തു. ഒരു നിർദ്ദേശം അക്കൗണ്ട് മുഴുവൻ ‘Stop Switch’ ഉപയോഗിച്ച് എല്ലാ പ്രവർത്തനങ്ങളും തടയാൻ. ഇതിലൂടെ തട്ടിപ്പുകാർക്ക് പണം മാറ്റാൻ കഴിയില്ല.",
+  "why": "മൊബൈൽ വാലറ്റ് ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഇതു വേഗത്തിലുള്ള സംരക്ഷണം നൽകും. ഏത് അലർട്ട് ലഭിക്കാനായി നിങ്ങളുടെ കോൺടാക്റ്റ് വിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "youthSafety",
+   "tech"
+  ]
+ },
+ {
+  "id": "c32e65acfc49",
+  "created": "2026-11-23T22:11:13+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+  "headline": "CrowdStrike-ന് Zscaler-നെ $44 bn-ൽ വാങ്ങി, AI‑സുരക്ഷ ശക്തമാക്കുന്നു",
+  "hook": "നിങ്ങളുടെ ആപ്പുകൾ AI‑ചാലിത സുരക്ഷയോടെ കൂടുതൽ സുരക്ഷിതമാകും",
+  "what": "CrowdStrike Zscaler-നെ $44 bn-ക്ക് ഏറ്റെടുക്കുമെന്ന് പ്രഖ്യാപിച്ചു. Zscaler വലിയ സ്ഥാപനങ്ങൾക്ക് zero‑trust ഉൽപ്പന്നങ്ങൾ നൽകുന്നു. ഈ ഇടപാട് ഉപഭോക്താക്കളെ AI ഏജന്റുകൾ ഉപയോഗിക്കാൻ കൂടുതൽ സജ്ജമാക്കും.",
+  "why": "വളർന്ന സുരക്ഷാ പരിഹാരങ്ങൾ യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ഡിജിറ്റൽ സേവനങ്ങളെ സംരക്ഷിക്കും. നിങ്ങളുടെ ആപ്പുകളുടെ സുരക്ഷാ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "cybersecurity",
+   "AI",
+   "tech",
+   "acquisition"
+  ]
+ },
+ {
+  "id": "e5c3e57da340",
+  "created": "2026-11-23T22:11:15+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant/article71735727.ece",
+  "headline": "സുപ്രീം കോടതി സിവിക് അധികാരികളെ കെട്ടിട നിയമ ലംഘനത്തിൽ പങ്കാളികളെന്ന് ചൂണ്ടിക്കാട്ടി",
+  "hook": "നിങ്ങളുടെ പ്രദേശത്തെ അനധികൃത കെട്ടിടങ്ങൾ ഉദ്യോഗസ്ഥരുടെ അനുമതിയോടെ ഉണ്ടാകാം.",
+  "what": "സുപ്രീം കോടതി സിവിക് അധികാരികൾ കെട്ടിട നിയമ ലംഘനത്തിൽ സജീവമായി സഹായിക്കുന്നതായി കണ്ടെത്തി. എല്ലാ സംസ്ഥാനങ്ങളും കേന്ദ്രഭരണ പ്രദേശങ്ങളും ഇതിനെ തടയാൻ നിർദ്ദേശങ്ങൾ സമർപ്പിക്കാൻ അഭ്യർത്ഥിച്ചു.",
+  "why": "അസുരക്ഷിതമായ കെട്ടിടങ്ങൾ യുവജനങ്ങളുടെ സുരക്ഷയെ ബാധിക്കും. നിയമം കർശനമായി നടപ്പാക്കണം.",
+  "tags": [
+   "സുപ്രീംകോടതി",
+   "കെട്ടിടസുരക്ഷ",
+   "സിവികജവാബ്ദാരി",
+   "ഇന്ത്യനിയമ"
+  ]
+ },
+ {
+  "id": "eb7a14a8931c",
+  "created": "2026-11-23T22:11:18+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
+  "headline": "PJTSAU രണ്ട് പുതിയ ബിരുദ കോഴ്സുകൾ, ജനുവരിയിൽ ‘Rythu Bharosa Yatras’",
+  "hook": "പുതിയ കോഴ്സുകളും കർഷക യാത്രകളും ഈ വർഷം തുടങ്ങുന്നു",
+  "what": "PJTSAU രണ്ട് പുതിയ ബിരുദ പ്രോഗ്രാമുകൾ ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ജനുവരിയിൽ ‘Rythu Bharosa Yatras’ എന്ന പേരിൽ കർഷകർക്ക് സഹായം നൽകുന്ന യാത്രകൾ സംഘടിപ്പിക്കും.",
+  "why": "ഇത് വിദ്യാർത്ഥികൾക്ക് പുതിയ പഠന അവസരങ്ങൾ നൽകും, കർഷക സമൂഹത്തെ പിന്തുണയ്ക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് ബന്ധപ്പെട്ട വിവരം നൽകും.",
+  "tags": [
+   "education",
+   "degrees",
+   "farmers",
+   "youth",
+   "India"
+  ]
+ },
+ {
+  "id": "83d30330309f",
+  "created": "2026-11-23T22:11:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/market-correction-or-a-bad-mutual-fund-5-checks-you-must-make-before-deciding-whether-to-exit-or-stay-invested-11795432862240.html",
+  "headline": "മ്യൂച്വല്‍ ഫണ്ട് ഇടിവ്? പുറത്തു പോകാന്‍ മുമ്പ് 5 കാര്യങ്ങള്‍ പരിശോധിക്കുക",
+  "hook": "താഴ്ന്ന റിട്ടേണ്‍ മാര്‍ക്കറ്റ് തിരുത്തലാകാം, ഫണ്ട് മോശമല്ല.",
+  "what": "മ്യൂച്വല്‍ ഫണ്ടിന്റെ കുറഞ്ഞ വരുമാനം മാര്‍ക്കറ്റ് തിരുത്തലിന്റെ ഫലമായിരിക്കാം, മാനേജ്മെന്റ് ദുർബലതയല്ല. ബെഞ്ച്മാര്‍ക്ക് പ്രകടനം, റിസ്ക്‑അഡ്ജസ്റ്റഡ് റിട്ടേണ്‍, വ്യക്തിഗത ലക്ഷ്യങ്ങള്‍ എന്നിവ ഉള്‍പ്പെടുന്ന അഞ്ച് പ്രധാന ഘടകങ്ങള്‍ പരിശോധിച്ച് തീരുമാനമെടുക്കാന്‍ നിര്‍ദ്ദേശിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകര്‍ തല്‍ക്കാലം പിന്‍വലിക്കല്‍ ഒഴിവാക്കി, ദീര്‍ഘകാല വളര്‍ച്ചയ്ക്ക് തക്ക പദ്ധതികളുമായി ഫണ്ടിന്റെ പ്രകടനം താരതമ്യം ചെയ്യണം.",
+  "tags": [
+   "മ്യൂച്വല്‍ഫണ്ട്",
+   "നിക്ഷേപം",
+   "ഫിനാന്‍സ്",
+   "ജനറേഷന്‍ज़െഡ്",
+   "പണം"
+  ]
+ },
+ {
   "id": "2957e402b12d",
   "created": "2026-11-23T21:15:30+05:30",
   "category": "tech",
@@ -656,100 +749,6 @@
    "സുരക്ഷ",
    "റഗുലേറ്റർ",
    "ആരോഗ്യം"
-  ]
- },
- {
-  "id": "c32d2e58af5f",
-  "created": "2026-11-23T13:59:10+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Deccan Chronicle",
-  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREh1Q1RhTVM4TXE2aF9YbVMxLWp1bDU3OVNLYXJFZ1ZtR3NBSmszOFNndDZlNWUwc3piMUZzUkVILWhnXzFXdjdmR29wSERiVEJYRjN2RTdpRUpMekU3Mmdibzh0OGVxZGM2RXlmSk40U3FPb2Rpem80SmpBQWFqeUo0WDVvUHdJZXd1M21TWGNfWmFKWUZiNmNHZHhpNW12VWM0UGFFLTY4Mm83MHdNazEzenBGZE9HQlViZ2xEV2JLUFNhd2fSAcsBQVVfeXFMTy1yelo5eTBTQm0tbEw2NGZ5ZHd5N1BsdDBVMWtpTEhBaHNmLUcyS2RLXzd2ZmxwQTE4MWhJR3c2dkFOQ1UxaHNSWVBHYnFGcXAwZ2FxaVo0NTIxVk1UY2h3TVdZOEZFN2tZNVpJbllKQ3BMT0cwbG13Tmo1Uko4UGJYclJZWU1TMEdURXhRMUI4cU82YlkwanNzZk1VZHRXWFF3RGlHc3BHYlM1R0FNMzVKdVdxTDB5czZhWThIajNtcTVQVmxnMzFGUW8?oc=5",
-  "headline": "ഒക്ടോബർ 1 മുതൽ ഒമ്പത് ജില്ലകളിൽ മഴ കുറവ്",
-  "hook": "വറ്റിയ കാലാവസ്ഥ സംസ്ഥാനത്തെ ജീവിതത്തെ ബാധിക്കുന്നു.",
-  "what": "ഇന്ത്യൻ കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഒക്ടോബർ 1 മുതൽ കേരളത്തിലെ ഒമ്പത് ജില്ലകളിൽ മഴ കുറവാണ്. ഈ കുറവ് എല്ലാ ബന്ധപ്പെട്ട ജില്ലകളിലും രേഖപ്പെടുത്തിയിട്ടുണ്ട്.",
-  "why": "മഴക്കുറവ് ജലവിതരണവും കൃഷിയും ബാധിക്കാം, അതിനാൽ യുവാക്കൾക്ക് പ്രാദേശിക കാലാവസ്ഥാ അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "കേരളം",
-   "മഴ",
-   "വാതാവരണം",
-   "ഐഎംഡി",
-   "മോണ്സൺ"
-  ]
- },
- {
-  "id": "8a29128d243a",
-  "created": "2026-11-23T13:59:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Al Jazeera",
-  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
-  "headline": "AI ബബിള്‍ ആശങ്കകള്‍ കൊണ്ട് ഏഷ്യന്‍ മാര്‍ക്കറ്റുകള്‍ ഇടിഞ്ഞു",
-  "hook": "ടെക്‌ ഹൈപ്പ് നിക്ഷേപകര്‍ക്ക് തടസ്സമാകാം.",
-  "what": "AI മേഖലയുടെ അത്യധികം മൂല്യവുമാണ് കാരണം ഏഷ്യയിലെ സ്റ്റോക്കുകള്‍ തീവ്രമായി ഇടിഞ്ഞു. അമേരിക്കന്‍ ഫ്യൂച്ചറുകള്‍ ഉയര്‍ന്നു, പ്രദേശിക ഇടിവിനെ കുറയ്ക്കാന്‍ ശ്രമിച്ചു. വ്യാപാരികള്‍ AI റാലി നിലനില്‍ക്കില്ലെന്ന ഭയത്താല്‍ വിറ്റഴിക്കലാണ് നടക്കുന്നത് എന്ന് പറഞ്ഞു.",
-  "why": "AI‑ബന്ധിത സ്റ്റോക്കുകളുടെ മന്ദഗതി യുവ നിക്ഷേപകരെയും ടെക്‌ കരിയര്‍ ആഗ്രഹികളെയും ബാധിക്കാം. AI‑കേന്ദ്രിത ആസ്തികളില്‍ പണം ഇടുന്നതിന് മുന്‍പ് മാര്‍ക്കറ്റ് പ്രവണതകള്‍ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "AsianMarkets",
-   "AI",
-   "Stocks",
-   "Investing",
-   "Tech"
-  ]
- },
- {
-  "id": "56a1afc83ddc",
-  "created": "2026-11-23T13:59:15+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/da-hike-tripura-increase-dearness-allowance-by-3-pc-to-44-pc-basic-salary-cm-saha-says-enhance-component-36-pc-from-2022-11795418979503.html",
-  "headline": "ട്രിപുരയിൽ ഡിഎ 44% ആയി ഉയർന്നു",
-  "hook": "ഒക്ടോബർ മുതൽ സംസ്ഥാന ജീവനക്കാർക്ക് പുതിയ ശമ്പളവളർച്ച",
-  "what": "സംസ്ഥാന സർക്കാർ ഡിയർനെസ് അലവൻസ്, റിലീഫ് എന്നിവ 3% വർധിപ്പിച്ച് അടിസ്ഥാന ശമ്പളത്തിന്റെ 44% ആയി നിശ്ചയിച്ചു. ഈ മാറ്റം ഒക്ടോബർ 1 2026 മുതൽ പ്രാബല്യത്തിൽ വരും, വർഷംതോറും ഏകദേശം ₹300 കോടി ചെലവാകും. 2022 മുതൽ ഈ ഘടകം 36% വർധിച്ചു.",
-  "why": "ഇത് കേന്ദ്ര സർക്കാരിന്റെ ജീവനക്കാരുമായി ശമ്പള വ്യത്യാസം കുറയ്ക്കാൻ ലക്ഷ്യമിടുന്നു, ജോലിക്കായി നോക്കുന്ന യുവാക്കൾക്ക് സംസ്ഥാന ശമ്പള ഘടന മനസ്സിലാക്കാൻ സഹായിക്കും. ഒക്ടോബർ മാസത്തിൽ പേസ്‌ലിപ്പുകൾ പരിശോധിക്കുക.",
-  "tags": [
-   "ട്രിപുര",
-   "ഡിഎവളർച്ച",
-   "സർക്കാർശമ്പളം",
-   "യുവജോലികൾ",
-   "വേതനവാർത്ത"
-  ]
- },
- {
-  "id": "a9826c6db8f5",
-  "created": "2026-11-23T13:59:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-series-price-rise-higher-than-s26-rising-component-cost-12364889",
-  "headline": "Galaxy S27, മെമ്മറി വിലവർധനവാൽ S26‑നെക്കാൾ വില കൂടാൻ സാധ്യത",
-  "hook": "മെമ്മറി ചെലവുകൾ ഉയർന്നാൽ നിങ്ങളുടെ അടുത്ത ഫോണിന്റെ വില ഉയരും.",
-  "what": "Samsung ഫെബ്രുവരി 2026‑ൽ Galaxy S26 പുറത്തിറക്കി. അടുത്തു വരാനിരിക്കുന്ന Galaxy S27‑യുടെ വില മെമ്മറി വില വർധനവിനാൽ കൂടുതലാകാൻ സാധ്യതയുണ്ട്.",
-  "why": "പുതിയ ഫോൺ വാങ്ങാൻ പദ്ധതിയുണ്ടെങ്കിൽ, വില വർധനം നിങ്ങളുടെ ബജറ്റിനെ ബാധിക്കാം; അതിനാൽ കാത്തിരിക്കുകയോ മറ്റ് ഓപ്ഷനുകൾ പരിശോധിക്കുകയോ ചെയ്യാം.",
-  "tags": [
-   "സാംസങ്",
-   "ഗാലക്സി",
-   "വിലവർധന",
-   "ടെക്"
-  ]
- },
- {
-  "id": "85563e2edc18",
-  "created": "2026-11-23T12:21:32+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZW1zdm1ETVYzS2NqQnRabEpUTXVLVmFVSFJVbl9LYmRGeFZ0anFaNWoxTkw4dnRwN2lHMlE4NnRBTHkwbWc3aExQY085czA5eURMenZrdlI0dEZ3Z1FXR1FZUEVSZmswUmt5Q0kxdWdEb2tuYWJ1UnBqSG9LZVhtNXBld0N3VDdfbG9UeER2WmQyR05XS3J5TnVqMUFkeW13X3A0MVBVbjBvc2FFWUxJamtiUUpWa0xkTVJTUWprZ1JtN08tS2h1WExkT1pEMm5nMlNYeldQNFFBM3NxeVBKZ2h4ZjdZYXRhZEdQWURlNUhaNTVWRmfSAfsBQVVfeXFMTTNaUFdPOVFOV1FxSXVlX2dFVnJobXZmWXZfRUV0bXhVSE5ScFRudXdvUVVaSzh2alFPV1NyU2lua1F1d295anJ0SjBLLWNzMnY1Sm9RaVhVb2tqT2F0V29xVmVBUTNkZFVDVENDc2drV3hoLUNpLUN6OS1tUTJsay14TlNaVDk0VXhqV1o1MVJHVy1xQVZvS3RJOVlyalQzODFxbWo2aU5MZVRTYUNIVVBxR1ZuTUQyRjZCVFNadFpuTXc1Q2hFYUNpR1c2bUgtRDhZZDhuMVJGeWNDd1I4Sk1rQ3I1ZDZuZVpNS2lBQ2UwXzNjZS16NXNES0E?oc=5",
-  "headline": "Sensex ≈ 900 പോയിന്റ് വീഴ്ച, Nifty 25,600‑ക്കു താഴെ",
-  "hook": "ഗ്ലോബൽ സേൽ‑ഓഫ്‌ മൂലം ഇന്ത്യയുടെ മാർക്കറ്റുകൾ ഇടിഞ്ഞു.",
-  "what": "ആദ്യ വ്യാപാരത്തിൽ Sensex ≈ 900 പോയിന്റ് കുറഞ്ഞു, Nifty 25,600 മീതെ ഇടിഞ്ഞു. പ്രതിരക്ഷാ‑കേന്ദ്രിത Nifty ഇൻഡക്സ് 1 ശതമാനം താഴ്ന്നു.",
-  "why": "വിസ്വവ്യാപക സേൽ‑ഓഫ്‌യും രണ്ട് ദിവസത്തെ ഉയർച്ചയ്ക്ക് ശേഷം ലാഭം പിടിച്ചെടുക്കലും മാർക്കറ്റിനെ ബാധിച്ചതുകൊണ്ട്, യുവ നിക്ഷേപകർ ജാഗ്രത പാലിച്ച് അടുത്ത ചലനങ്ങൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "സ്റ്റോക്ക്മാർക്കറ്റ്",
-   "സെൻസെക്സ്",
-   "നിഫ്റ്റി",
-   "ഡിഫെൻസ്",
-   "ഗ്ലോബൽ"
   ]
  }
 ]

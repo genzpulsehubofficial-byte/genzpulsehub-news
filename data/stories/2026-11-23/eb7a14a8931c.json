@@ -1,0 +1,37 @@
+{
+ "id": "eb7a14a8931c",
+ "created": "2026-11-23T22:11:18+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "PJTSAU adds two degree programmes, launches farmer outreach in Jan",
+  "hook": "New courses and a farmer support tour start this year",
+  "what": "PJTSAU announced the introduction of two new undergraduate degree programmes. The university also scheduled a series of ‘Rythu Bharosa Yatras’ beginning in January.",
+  "why": "Students can explore these fresh study options, and the tours aim to address farmer concerns, which matters for youth from agricultural backgrounds.",
+  "tags": [
+   "education",
+   "degrees",
+   "farmers",
+   "youth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "PJTSAU രണ്ട് പുതിയ ബിരുദ കോഴ്സുകൾ, ജനുവരിയിൽ ‘Rythu Bharosa Yatras’",
+  "hook": "പുതിയ കോഴ്സുകളും കർഷക യാത്രകളും ഈ വർഷം തുടങ്ങുന്നു",
+  "what": "PJTSAU രണ്ട് പുതിയ ബിരുദ പ്രോഗ്രാമുകൾ ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ജനുവരിയിൽ ‘Rythu Bharosa Yatras’ എന്ന പേരിൽ കർഷകർക്ക് സഹായം നൽകുന്ന യാത്രകൾ സംഘടിപ്പിക്കും.",
+  "why": "ഇത് വിദ്യാർത്ഥികൾക്ക് പുതിയ പഠന അവസരങ്ങൾ നൽകും, കർഷക സമൂഹത്തെ പിന്തുണയ്ക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് ബന്ധപ്പെട്ട വിവരം നൽകും.",
+  "tags": [
+   "education",
+   "degrees",
+   "farmers",
+   "youth",
+   "India"
+  ]
+ }
+}

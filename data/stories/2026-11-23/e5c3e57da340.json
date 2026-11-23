@@ -1,0 +1,35 @@
+{
+ "id": "e5c3e57da340",
+ "created": "2026-11-23T22:11:15+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant/article71735727.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court calls out civic bodies for ignoring building rules",
+  "hook": "Your neighborhood’s illegal constructions might be backed by officials.",
+  "what": "The Supreme Court said civic authorities are actively helping violations of building bye‑laws. It asked all states and union territories to send suggestions on how to curb these breaches.",
+  "why": "Unsafe structures affect safety of residents, especially students. Authorities need to enforce rules to ensure safe living spaces.",
+  "tags": [
+   "SupremeCourt",
+   "BuildingSafety",
+   "CivicAccountability",
+   "IndiaLaw"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി സിവിക് അധികാരികളെ കെട്ടിട നിയമ ലംഘനത്തിൽ പങ്കാളികളെന്ന് ചൂണ്ടിക്കാട്ടി",
+  "hook": "നിങ്ങളുടെ പ്രദേശത്തെ അനധികൃത കെട്ടിടങ്ങൾ ഉദ്യോഗസ്ഥരുടെ അനുമതിയോടെ ഉണ്ടാകാം.",
+  "what": "സുപ്രീം കോടതി സിവിക് അധികാരികൾ കെട്ടിട നിയമ ലംഘനത്തിൽ സജീവമായി സഹായിക്കുന്നതായി കണ്ടെത്തി. എല്ലാ സംസ്ഥാനങ്ങളും കേന്ദ്രഭരണ പ്രദേശങ്ങളും ഇതിനെ തടയാൻ നിർദ്ദേശങ്ങൾ സമർപ്പിക്കാൻ അഭ്യർത്ഥിച്ചു.",
+  "why": "അസുരക്ഷിതമായ കെട്ടിടങ്ങൾ യുവജനങ്ങളുടെ സുരക്ഷയെ ബാധിക്കും. നിയമം കർശനമായി നടപ്പാക്കണം.",
+  "tags": [
+   "സുപ്രീംകോടതി",
+   "കെട്ടിടസുരക്ഷ",
+   "സിവികജവാബ്ദാരി",
+   "ഇന്ത്യനിയമ"
+  ]
+ }
+}

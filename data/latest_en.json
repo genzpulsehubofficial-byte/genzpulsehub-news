@@ -1,5 +1,98 @@
 [
  {
+  "id": "e4d7bd0a9654",
+  "created": "2026-11-23T22:11:06+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+  "headline": "RBI plans ‘Stop Switch’ to curb payment frauds",
+  "hook": "Your app could be frozen instantly if fraud is detected.",
+  "what": "The Reserve Bank of India has drafted new safety measures for electronic transactions. One proposal is an account‑wide ‘Stop Switch’ that can block all activity on a compromised account. The aim is to stop fraudsters from moving money.",
+  "why": "Young users who rely on mobile wallets can benefit from quicker protection. Keep your contact details updated to receive any alerts.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "youthSafety",
+   "tech"
+  ]
+ },
+ {
+  "id": "c32e65acfc49",
+  "created": "2026-11-23T22:11:13+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+  "headline": "CrowdStrike to buy Zscaler for $44 bn, boosting AI readiness",
+  "hook": "Your favorite apps could become safer with AI‑driven security",
+  "what": "CrowdStrike announced it will acquire Zscaler for $44 bn. Zscaler supplies zero‑trust solutions to large enterprises. The purchase is meant to help customers adopt AI agents more effectively.",
+  "why": "Stronger security tools can protect the online services teens use daily. Keep an eye on security updates from your apps.",
+  "tags": [
+   "cybersecurity",
+   "AI",
+   "tech",
+   "acquisition"
+  ]
+ },
+ {
+  "id": "e5c3e57da340",
+  "created": "2026-11-23T22:11:15+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant/article71735727.ece",
+  "headline": "Supreme Court calls out civic bodies for ignoring building rules",
+  "hook": "Your neighborhood’s illegal constructions might be backed by officials.",
+  "what": "The Supreme Court said civic authorities are actively helping violations of building bye‑laws. It asked all states and union territories to send suggestions on how to curb these breaches.",
+  "why": "Unsafe structures affect safety of residents, especially students. Authorities need to enforce rules to ensure safe living spaces.",
+  "tags": [
+   "SupremeCourt",
+   "BuildingSafety",
+   "CivicAccountability",
+   "IndiaLaw"
+  ]
+ },
+ {
+  "id": "eb7a14a8931c",
+  "created": "2026-11-23T22:11:18+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/pjtsau-to-launch-two-new-degree-course-rythu-bharosa-yatras-planned-from-jan/article71735624.ece",
+  "headline": "PJTSAU adds two degree programmes, launches farmer outreach in Jan",
+  "hook": "New courses and a farmer support tour start this year",
+  "what": "PJTSAU announced the introduction of two new undergraduate degree programmes. The university also scheduled a series of ‘Rythu Bharosa Yatras’ beginning in January.",
+  "why": "Students can explore these fresh study options, and the tours aim to address farmer concerns, which matters for youth from agricultural backgrounds.",
+  "tags": [
+   "education",
+   "degrees",
+   "farmers",
+   "youth",
+   "India"
+  ]
+ },
+ {
+  "id": "83d30330309f",
+  "created": "2026-11-23T22:11:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/market-correction-or-a-bad-mutual-fund-5-checks-you-must-make-before-deciding-whether-to-exit-or-stay-invested-11795432862240.html",
+  "headline": "Mutual fund dip? Check 5 factors before pulling out",
+  "hook": "A slump may be market correction, not a bad fund.",
+  "what": "A mutual fund’s weak returns could be due to a market correction rather than poor management. Experts suggest reviewing five key aspects such as benchmark performance, risk‑adjusted returns and alignment with personal goals before deciding to exit.",
+  "why": "Young investors should avoid hasty withdrawals that could hurt long‑term growth; instead, match the fund’s performance with their own financial plans.",
+  "tags": [
+   "mutualfunds",
+   "investing",
+   "finance",
+   "genz",
+   "moneytips"
+  ]
+ },
+ {
   "id": "2957e402b12d",
   "created": "2026-11-23T21:15:30+05:30",
   "category": "tech",
@@ -657,100 +750,6 @@
    "safety",
    "regulator",
    "health"
-  ]
- },
- {
-  "id": "c32d2e58af5f",
-  "created": "2026-11-23T13:59:10+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Deccan Chronicle",
-  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREh1Q1RhTVM4TXE2aF9YbVMxLWp1bDU3OVNLYXJFZ1ZtR3NBSmszOFNndDZlNWUwc3piMUZzUkVILWhnXzFXdjdmR29wSERiVEJYRjN2RTdpRUpMekU3Mmdibzh0OGVxZGM2RXlmSk40U3FPb2Rpem80SmpBQWFqeUo0WDVvUHdJZXd1M21TWGNfWmFKWUZiNmNHZHhpNW12VWM0UGFFLTY4Mm83MHdNazEzenBGZE9HQlViZ2xEV2JLUFNhd2fSAcsBQVVfeXFMTy1yelo5eTBTQm0tbEw2NGZ5ZHd5N1BsdDBVMWtpTEhBaHNmLUcyS2RLXzd2ZmxwQTE4MWhJR3c2dkFOQ1UxaHNSWVBHYnFGcXAwZ2FxaVo0NTIxVk1UY2h3TVdZOEZFN2tZNVpJbllKQ3BMT0cwbG13Tmo1Uko4UGJYclJZWU1TMEdURXhRMUI4cU82YlkwanNzZk1VZHRXWFF3RGlHc3BHYlM1R0FNMzVKdVdxTDB5czZhWThIajNtcTVQVmxnMzFGUW8?oc=5",
-  "headline": "Nine Kerala districts see deficient rain since Oct 1",
-  "hook": "Dry spell hits half the state, affecting daily life.",
-  "what": "The India Meteorological Department reports that nine districts in Kerala have recorded below‑normal rainfall from October 1. The shortfall is noted across all listed districts.",
-  "why": "Insufficient rain can strain water supply and agriculture, so young people should keep an eye on local weather updates.",
-  "tags": [
-   "Kerala",
-   "Rainfall",
-   "Weather",
-   "IMD",
-   "Monsoon"
-  ]
- },
- {
-  "id": "8a29128d243a",
-  "created": "2026-11-23T13:59:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Al Jazeera",
-  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
-  "headline": "Asian markets slide amid AI bubble worries",
-  "hook": "Tech hype may be hitting a wall for investors.",
-  "what": "Stocks across Asia dropped sharply as investors grew nervous about an over‑inflated AI sector. US futures rose, trying to offset the regional decline. Traders said the sell‑off was driven by fears the AI rally is unsustainable.",
-  "why": "A slowdown in AI‑related stocks could affect young investors and anyone eyeing tech‑focused careers. Keep an eye on market trends before putting money into AI‑centric assets.",
-  "tags": [
-   "AsianMarkets",
-   "AI",
-   "Stocks",
-   "Investing",
-   "Tech"
-  ]
- },
- {
-  "id": "56a1afc83ddc",
-  "created": "2026-11-23T13:59:15+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/da-hike-tripura-increase-dearness-allowance-by-3-pc-to-44-pc-basic-salary-cm-saha-says-enhance-component-36-pc-from-2022-11795418979503.html",
-  "headline": "Tripura lifts DA to 44% of basic salary",
-  "hook": "A fresh pay boost hits state workers from October",
-  "what": "The state government has raised dearness allowance and relief by three percentage points, setting them at 44% of basic pay. The change becomes effective on October 1, 2026 and will cost about ₹300 crore annually. It also reflects a 36% rise in the component since 2022.",
-  "why": "The increase narrows the pay gap with central government staff, helping young job‑seekers understand state salary levels. Employees should review their updated pay slips after October.",
-  "tags": [
-   "Tripura",
-   "DAincrease",
-   "governmentpay",
-   "youngworkers",
-   "salarynews"
-  ]
- },
- {
-  "id": "a9826c6db8f5",
-  "created": "2026-11-23T13:59:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-series-price-rise-higher-than-s26-rising-component-cost-12364889",
-  "headline": "Galaxy S27 may be pricier than S26 amid memory cost rise",
-  "hook": "Higher memory prices could bump up your next phone bill.",
-  "what": "Samsung launched the Galaxy S26 in February 2026. The upcoming Galaxy S27 is expected to cost more because memory component prices have surged.",
-  "why": "If you plan to upgrade, the price hike could affect your budget, so consider waiting or checking other options.",
-  "tags": [
-   "Samsung",
-   "GalaxyS27",
-   "TechNews",
-   "PriceRise"
-  ]
- },
- {
-  "id": "85563e2edc18",
-  "created": "2026-11-23T12:21:32+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZW1zdm1ETVYzS2NqQnRabEpUTXVLVmFVSFJVbl9LYmRGeFZ0anFaNWoxTkw4dnRwN2lHMlE4NnRBTHkwbWc3aExQY085czA5eURMenZrdlI0dEZ3Z1FXR1FZUEVSZmswUmt5Q0kxdWdEb2tuYWJ1UnBqSG9LZVhtNXBld0N3VDdfbG9UeER2WmQyR05XS3J5TnVqMUFkeW13X3A0MVBVbjBvc2FFWUxJamtiUUpWa0xkTVJTUWprZ1JtN08tS2h1WExkT1pEMm5nMlNYeldQNFFBM3NxeVBKZ2h4ZjdZYXRhZEdQWURlNUhaNTVWRmfSAfsBQVVfeXFMTTNaUFdPOVFOV1FxSXVlX2dFVnJobXZmWXZfRUV0bXhVSE5ScFRudXdvUVVaSzh2alFPV1NyU2lua1F1d295anJ0SjBLLWNzMnY1Sm9RaVhVb2tqT2F0V29xVmVBUTNkZFVDVENDc2drV3hoLUNpLUN6OS1tUTJsay14TlNaVDk0VXhqV1o1MVJHVy1xQVZvS3RJOVlyalQzODFxbWo2aU5MZVRTYUNIVVBxR1ZuTUQyRjZCVFNadFpuTXc1Q2hFYUNpR1c2bUgtRDhZZDhuMVJGeWNDd1I4Sk1rQ3I1ZDZuZVpNS2lBQ2UwXzNjZS16NXNES0E?oc=5",
-  "headline": "Sensex falls ~900 pts, Nifty slips below 25,600",
-  "hook": "Markets tumble as global sell‑off hits Indian indices.",
-  "what": "The Sensex dropped about 900 points while the Nifty fell below the 25,600 mark in early trade. The defence‑focused Nifty index also slipped 1%.",
-  "why": "A worldwide sell‑off and profit‑taking after two days of gains are pulling the market down, so young investors should stay cautious and watch for further moves.",
-  "tags": [
-   "stockmarket",
-   "sensex",
-   "nifty",
-   "defence",
-   "global"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "e4d7bd0a9654",
+ "created": "2026-11-23T22:11:06+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI plans ‘Stop Switch’ to curb payment frauds",
+  "hook": "Your app could be frozen instantly if fraud is detected.",
+  "what": "The Reserve Bank of India has drafted new safety measures for electronic transactions. One proposal is an account‑wide ‘Stop Switch’ that can block all activity on a compromised account. The aim is to stop fraudsters from moving money.",
+  "why": "Young users who rely on mobile wallets can benefit from quicker protection. Keep your contact details updated to receive any alerts.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "youthSafety",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "RBI അവതരിപ്പിക്കുന്നു ‘Stop Switch’ പേയ്മെന്റ് തട്ടിപ്പ്‌ക്കെതിരെ",
+  "hook": "ഫ്രോഡ് കണ്ടെത്തിയാൽ നിങ്ങളുടെ ആപ്പ് ഉടൻ ഫ്രീസ് ആകാം.",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഇലക്ട്രോണിക് ഇടപാടുകൾക്കായി പുതിയ സുരക്ഷാ നടപടികൾ രൂപകൽപ്പന ചെയ്തു. ഒരു നിർദ്ദേശം അക്കൗണ്ട് മുഴുവൻ ‘Stop Switch’ ഉപയോഗിച്ച് എല്ലാ പ്രവർത്തനങ്ങളും തടയാൻ. ഇതിലൂടെ തട്ടിപ്പുകാർക്ക് പണം മാറ്റാൻ കഴിയില്ല.",
+  "why": "മൊബൈൽ വാലറ്റ് ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഇതു വേഗത്തിലുള്ള സംരക്ഷണം നൽകും. ഏത് അലർട്ട് ലഭിക്കാനായി നിങ്ങളുടെ കോൺടാക്റ്റ് വിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യുക.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "fraudPrevention",
+   "youthSafety",
+   "tech"
+  ]
+ }
+}
