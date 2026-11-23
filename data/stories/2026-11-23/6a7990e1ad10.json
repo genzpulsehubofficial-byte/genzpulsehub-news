@@ -1,0 +1,37 @@
+{
+ "id": "6a7990e1ad10",
+ "created": "2026-11-23T23:10:27+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Amazon buys Decart AI tech for $7.5B, eyes Trainium chip sales",
+  "hook": "Big AI boost as Amazon adds Decart’s tech and gears up to market its Trainium chips.",
+  "what": "Amazon announced it will acquire Decart’s AI optimization technology and its research team in a deal reported to be worth $7.5 billion. The move comes as the e‑commerce giant readies its own Trainium AI chips for sale.",
+  "why": "The acquisition could speed up AI services and tools that power apps and platforms used by Gen Z. Keep an eye on new AI features in Amazon services and potential job opportunities in AI development.",
+  "tags": [
+   "Amazon",
+   "AI",
+   "TechAcquisition",
+   "Trainium",
+   "Startups"
+  ]
+ },
+ "ml": {
+  "headline": "Amazon Decart AI ടെക്‌നം $7.5B‑ൽ വാങ്ങി, Trainium ചിപ്പ് വിൽപ്പനയ്ക്ക് തയ്യാറാകുന്നു",
+  "hook": "Amazon Decart‑ന്റെ ടെക്‌നം ചേർത്ത് Trainium ചിപ്പുകൾ മാർക്കറ്റിൽ കൊണ്ടുവരാൻ സജ്ജമാകുന്നു.",
+  "what": "Amazon Decart‑ന്റെ AI ഒപ്റ്റിമൈസേഷൻ ടെക്‌നോളജി, ഗവേഷണ ടീം എന്നിവ $7.5 ബില്യൺ മൂല്യമുള്ള കരാറിൽ ഏറ്റെടുക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ഈ ഇടപാട്, കമ്പനിയുടെ സ്വന്തം Trainium AI ചിപ്പുകൾ വിൽപ്പനയ്ക്ക് തയ്യാറാക്കുന്നതിന്റെ ഭാഗമാണ്.",
+  "why": "ഇത് Gen Z ഉപയോഗിക്കുന്ന ആപ്പുകളും പ്ലാറ്റ്ഫോംകളും കൂടുതൽ ശക്തമായ AI ഫീച്ചറുകൾ ലഭിക്കാൻ സഹായിക്കും. Amazon‑ന്റെ AI സേവനങ്ങളിലെ പുതിയ അപ്ഡേറ്റുകളും AI വികസനത്തിൽ ജോലി അവസരങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Amazon",
+   "AI",
+   "വാങ്ങൽ",
+   "Trainium",
+   "സ്റ്റാർട്ടപ്പ്"
+  ]
+ }
+}

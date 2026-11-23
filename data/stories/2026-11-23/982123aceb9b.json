@@ -1,0 +1,37 @@
+{
+ "id": "982123aceb9b",
+ "created": "2026-11-23T23:10:29+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Meta drops 2030 net‑zero pledge",
+  "hook": "The social‑media giant reverses its climate target.",
+  "what": "In its 2026 sustainability report, Meta said it will no longer aim for net‑zero emissions by 2030. The company removed the earlier commitment from its plans.",
+  "why": "The shift could affect how other tech firms set environmental goals, and young users may want to review the sustainability claims of the platforms they use.",
+  "tags": [
+   "Meta",
+   "sustainability",
+   "tech",
+   "climate",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Meta 2030 നെറ്റ്-സീറോ ലക്ഷ്യം ഒഴിവാക്കി",
+  "hook": "സോഷ്യൽ മീഡിയ ഭീമന്‍ തന്‍റെ കാലാവസ്ഥ ലക്ഷ്യം തിരിച്ചു മാറ്റി.",
+  "what": "Metaയുടെ 2026 സുസ്ഥിരത റിപ്പോർട്ടിൽ 2030‑ഓടെ നെറ്റ്‑സീറോ നേടാനുള്ള പ്രതിജ്ഞ ഒഴിവാക്കിയെന്ന് പ്രഖ്യാപിച്ചു. മുമ്പ് പറഞ്ഞ ലക്ഷ്യം ഇനി പദ്ധതികളിൽ ഉൾപ്പെടുന്നില്ല.",
+  "why": "ഈ മാറ്റം മറ്റ് ടെക് കമ്പനികളുടെ പരിസ്ഥിതി ലക്ഷ്യങ്ങളെ ബാധിക്കാം, അതിനാൽ യുവ ഉപയോക്താക്കൾ പ്ലാറ്റ്ഫോംകളുടെ സുസ്ഥിരതാ അവകാശവാദങ്ങൾ പരിശോധിക്കേണ്ടി വരാം.",
+  "tags": [
+   "Meta",
+   "sustainability",
+   "tech",
+   "climate",
+   "India"
+  ]
+ }
+}

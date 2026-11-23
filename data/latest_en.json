@@ -1,5 +1,119 @@
 [
  {
+  "id": "bd9e415d2bb9",
+  "created": "2026-11-23T23:10:15+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+  "headline": "Jensen Huang Returns to Nvidia; Alice Huang’s Role Noted",
+  "hook": "Tech fans, note the leadership shuffle at top AI firms.",
+  "what": "Jensen Huang has rejoined Nvidia. Alice Huang, also called Huang Le, served as managing director and executive at Megaspeed.",
+  "why": "Leadership changes can influence product roadmaps and job prospects in the tech sector, so stay updated if you’re aiming for a career in AI or gaming.",
+  "tags": [
+   "Nvidia",
+   "Leadership",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "da5c54b88f67",
+  "created": "2026-11-23T23:10:19+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "India Weekly",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFd3UDlGa3FDU0VIOG1OdDBsUnJ2bXdMZEJHWjVGbmRSdi11MjRTOXpiVmhXeDF4OVlESXVtVS1SSGZqa3F6a3hYZEk1TlVFX3NWOVJtdzlsa2NXam1aNnAzQnpaZXE1by1PMzVLdnNCZmhmWWc5ZWpLNTJFZ1RtSE5sb2tMUWVTbkNOaVZHYkFvNnRyWXROQlc3SDBUdw?oc=5",
+  "headline": "New OTT Drops: Blade Runner 2099, Hanuman Ansh Arrive",
+  "hook": "Your weekend binge list just got bigger.",
+  "what": "Streaming platforms are adding fresh titles this week. Among the releases are Blade Runner 2099 and the mythological series Hanuman Ansh. Several other shows and movies are also debuting.",
+  "why": "These additions give teens more options for entertainment and cultural content. Check your favorite OTT app to start watching.",
+  "tags": [
+   "OTT",
+   "BingeWatch",
+   "NewReleases",
+   "BladeRunner",
+   "Hanuman"
+  ]
+ },
+ {
+  "id": "7b577f1df425",
+  "created": "2026-11-23T23:10:22+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/videos/why-west-bengal-may-soon-be-renamed-paschim-banga-explained/article71736055.ece",
+  "headline": "West Bengal set to be renamed Paschim Banga",
+  "hook": "Your state might get a new name soon",
+  "what": "The West Bengal government is preparing a resolution to change the state's name to Paschim Banga. The move raises questions about a state's authority to rename itself and the history of the current name. An earlier proposal to rename the state Bangla did not materialise.",
+  "why": "A name change could affect official documents, school curricula and regional identity, so students should stay updated on any legal steps.",
+  "tags": [
+   "WestBengal",
+   "PaschimBanga",
+   "NameChange",
+   "India",
+   "Youth"
+  ]
+ },
+ {
+  "id": "c7906cd691d2",
+  "created": "2026-11-23T23:10:24+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-2026-earn-up-to-21-000-new-rules-may-make-sickness-and-maternity-benefit-claims-easier-for-employees-11795453581482.html",
+  "headline": "ESIC 2026: Faster Sickness & Maternity Payouts for Low‑Earners",
+  "hook": "Skip the paperwork—your health benefits could be auto‑approved.",
+  "what": "The Employees’ State Insurance Corporation has introduced 2026 rules that allow a deemed‑claim process for eligible sickness and maternity benefits. The scheme applies to workers whose wages are up to ₹21,000 a month and removes the need for extensive documentation. Payments will be released directly under the new system.",
+  "why": "Young employees can now claim health support more quickly, reducing downtime for work or studies. Check your wage bracket and keep your ESIC details current to benefit.",
+  "tags": [
+   "ESIC",
+   "sickbenefit",
+   "maternity",
+   "youngworkers",
+   "India"
+  ]
+ },
+ {
+  "id": "6a7990e1ad10",
+  "created": "2026-11-23T23:10:27+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "headline": "Amazon buys Decart AI tech for $7.5B, eyes Trainium chip sales",
+  "hook": "Big AI boost as Amazon adds Decart’s tech and gears up to market its Trainium chips.",
+  "what": "Amazon announced it will acquire Decart’s AI optimization technology and its research team in a deal reported to be worth $7.5 billion. The move comes as the e‑commerce giant readies its own Trainium AI chips for sale.",
+  "why": "The acquisition could speed up AI services and tools that power apps and platforms used by Gen Z. Keep an eye on new AI features in Amazon services and potential job opportunities in AI development.",
+  "tags": [
+   "Amazon",
+   "AI",
+   "TechAcquisition",
+   "Trainium",
+   "Startups"
+  ]
+ },
+ {
+  "id": "982123aceb9b",
+  "created": "2026-11-23T23:10:29+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+  "headline": "Meta drops 2030 net‑zero pledge",
+  "hook": "The social‑media giant reverses its climate target.",
+  "what": "In its 2026 sustainability report, Meta said it will no longer aim for net‑zero emissions by 2030. The company removed the earlier commitment from its plans.",
+  "why": "The shift could affect how other tech firms set environmental goals, and young users may want to review the sustainability claims of the platforms they use.",
+  "tags": [
+   "Meta",
+   "sustainability",
+   "tech",
+   "climate",
+   "India"
+  ]
+ },
+ {
   "id": "e4d7bd0a9654",
   "created": "2026-11-23T22:11:06+05:30",
   "category": "tech",
@@ -638,118 +752,6 @@
    "legal",
    "defamation",
    "india"
-  ]
- },
- {
-  "id": "0e5d670771c6",
-  "created": "2026-11-23T15:23:41+05:30",
-  "category": "exams",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/kerala-high-court-sets-aside-suspension-of-16-sree-sankaracharya-university-of-sanskrit-students-101795424838285.html",
-  "headline": "Kerala HC orders special exams for 16 suspended Sanskrit students",
-  "hook": "Your campus rights just got a boost – court steps in.",
-  "what": "The Kerala High Court overturned the suspension of 16 students from Sree Sankaracharya University of Sanskrit. It instructed the university to conduct special examinations for them within six weeks.",
-  "why": "It shows that legal recourse can protect student rights, and those facing similar issues can seek court intervention. Stay aware of university policies and your rights.",
-  "tags": [
-   "Kerala",
-   "StudentRights",
-   "Exams",
-   "University"
-  ]
- },
- {
-  "id": "de8d1e800fd2",
-  "created": "2026-11-23T15:23:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-price-forecast-goldman-sachs-sees-4-650-by-2027-despite-us-rate-pressures-what-investors-should-do-11795423263881.html",
-  "headline": "Gold to hit $4,650/oz by 2027, says Goldman Sachs",
-  "hook": "Rising gold could reshape teen savings plans.",
-  "what": "Goldman Sachs projects the price of gold to climb to $4,650 per ounce by 2027. The bank expects gold to outperform silver, driven by continued buying from central banks. Higher US interest rates are also influencing investment demand.",
-  "why": "For young Indians, a higher gold price may make it a more attractive long‑term store of value. Consider diversifying savings or keeping an eye on gold‑linked investment options.",
-  "tags": [
-   "gold",
-   "investment",
-   "finance",
-   "GenZ",
-   "India"
-  ]
- },
- {
-  "id": "398a46bb8188",
-  "created": "2026-11-23T15:23:46+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/new-nfo-alert-bandhan-nifty-commodities-index-fund-see-full-offer-period-minimum-investment-amount-other-details-11795409449700.html",
-  "headline": "Bandhan launches Nifty Commodities Index Fund",
-  "hook": "Tap into oil, metals, power and more with a fresh mutual fund.",
-  "what": "Bandhan Mutual Fund has introduced an open‑ended Nifty Commodities Index Fund. The scheme gives investors exposure to sectors such as oil & gas, metals & mining, power, construction materials and chemicals. Full details on the offer period and minimum entry are now available.",
-  "why": "Diversifying early can boost long‑term wealth, and this fund opens a route into commodity‑linked assets for young savers. Check the terms and consider adding it to your portfolio.",
-  "tags": [
-   "investing",
-   "mutualfunds",
-   "commodities",
-   "finance",
-   "younginvestors"
-  ]
- },
- {
-  "id": "3b3284ad3c7a",
-  "created": "2026-11-23T15:23:48+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-bhagyathara-bt-81-november-23-2026-vavdnthq",
-  "headline": "Kerala Lottery Bhagyathara BT-81 Results Announced",
-  "hook": "Find out if you hit the Rs 1 crore jackpot today.",
-  "what": "The Bhagyathara BT-81 draw for November 23, 2026 has released its winning numbers. The top prize is Rs 1 crore, with consolation prizes also announced.",
-  "why": "Lottery wins can boost personal finances, so check the results and claim any prize before the deadline.",
-  "tags": [
-   "KeralaLottery",
-   "Bhagyathara",
-   "Rs1Crore",
-   "LotteryResults",
-   "YouthFinance"
-  ]
- },
- {
-  "id": "b6d0e0d6cfa4",
-  "created": "2026-11-23T13:59:00+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "BusinessLine",
-  "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlJPZ3o3c2tvTzBqcUlxeW11ZnBxWE00d3J3UUdEZjBQVzI1RUpfZ0p4bXlXTEYtODVsSjJzY2ZjUlMwRU5EZTBRRTFKSjlWeUJBX2Z4Z01YYUM0X0x2UUhFZnRKU3E0SkhIa1BVdC1iSlV1dEZVUmRuV1RoTk9zd0xLZld6T3FTamctTk5DejRyazhJS0R5NVg2MloyYVdmLXpCbkY1ZF9CbGNSRmUwU2FtTVA1MjBxNERIU1U3enFyZFZmbVlN0gHOAUFVX3lxTE5XbDRreWhyUDQ0ck1tNEJydmttTVBaRDhUNUZBTDlDSGtINkM2aE9oZmx0Rm5mT19Da1lsSHZHYkZHT0owUFdVU1VvZ2hwRVdBVDJ5NzkxOW1acHlRYlZiUE93SGRJengxQVdickxrOTgzMEpjRi1tNW03WUhQN3JLTE50Tm5GTDdoczFJbEJmd25NUndNb0Z0bHptWEVhbFN1TmxsQU9IWE9tblVIeDZ3RzQyamJtVC1qQ1M2eUpIckp6MzRha3UtbDBlWW5R?oc=5",
-  "headline": "Sensex slides 1,000 pts, Nifty dips below 25,500 amid global sell‑off",
-  "hook": "Global market pressure drags India’s indices down sharply.",
-  "what": "On November 23, the Sensex fell about 1,000 points while the Nifty slipped under 25,500 as investors reacted to a worldwide sell‑off. The drop followed a two‑day rally and was accompanied by profit‑taking.",
-  "why": "The fall highlights market volatility, so young investors should reassess risk and avoid rushed trades.",
-  "tags": [
-   "markets",
-   "stocks",
-   "India",
-   "finance"
-  ]
- },
- {
-  "id": "e165d59a8805",
-  "created": "2026-11-23T13:59:08+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
-  "headline": "Bisleri says its water is safe despite regulator alert",
-  "hook": "Is the bottled water you drink really free of harmful chemicals?",
-  "what": "A regulator raised concerns about possible carcinogens in Bisleri water. The company responded that its product remains safe to drink and noted it has not received any formal notice.",
-  "why": "Young consumers should stay informed about product safety alerts and check for official updates before making purchase decisions.",
-  "tags": [
-   "Bisleri",
-   "water",
-   "safety",
-   "regulator",
-   "health"
   ]
  }
 ]

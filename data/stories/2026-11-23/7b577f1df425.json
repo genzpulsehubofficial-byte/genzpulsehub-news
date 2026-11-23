@@ -1,0 +1,37 @@
+{
+ "id": "7b577f1df425",
+ "created": "2026-11-23T23:10:22+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/videos/why-west-bengal-may-soon-be-renamed-paschim-banga-explained/article71736055.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "West Bengal set to be renamed Paschim Banga",
+  "hook": "Your state might get a new name soon",
+  "what": "The West Bengal government is preparing a resolution to change the state's name to Paschim Banga. The move raises questions about a state's authority to rename itself and the history of the current name. An earlier proposal to rename the state Bangla did not materialise.",
+  "why": "A name change could affect official documents, school curricula and regional identity, so students should stay updated on any legal steps.",
+  "tags": [
+   "WestBengal",
+   "PaschimBanga",
+   "NameChange",
+   "India",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "West Bengal-ന്‌ ഉടൻ Paschim Banga എന്ന പേര്",
+  "hook": "നിങ്ങളുടെ സംസ്ഥാനത്തിന്‌ പുതിയ പേര് വരാൻ സാധ്യത",
+  "what": "പശ്ചിമ ബംഗാൾ സർക്കാരു സംസ്ഥാനത്തിന്റെ പേര് Paschim Banga ആക്കാൻ അസംബ്ലിയിൽ ഒരു പ്രമേയം അവതരിപ്പിക്കാൻ തയ്യാറെടുക്കുന്നു. ഈ മാറ്റം സംസ്ഥാനത്തിന്‌ സ്വതന്ത്രമായി പേര് മാറ്റാൻ കഴിയും എന്ന ചോദ്യങ്ങൾ ഉയർത്തുന്നു. മുമ്പ് Bangla എന്ന് പേര് മാറ്റാൻ ഒരു നിർദ്ദേശം ഉണ്ടായിരുന്നെങ്കിലും നടപ്പിലായില്ല.",
+  "why": "പേര് മാറ്റം ഔദ്യോഗിക രേഖകൾ, സ്കൂൾ പാഠപുസ്തകങ്ങൾ, പ്രദേശിക തിരിച്ചറിവ് എന്നിവയെ ബാധിക്കാം, അതിനാൽ യുവാക്കൾ നിയമപരമായ നടപടികളിൽ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "WestBengal",
+   "PaschimBanga",
+   "പേര്‌മാറ്റം",
+   "ഇന്ത്യ",
+   "യുവാക്കൾ"
+  ]
+ }
+}

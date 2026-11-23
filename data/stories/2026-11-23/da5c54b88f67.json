@@ -1,0 +1,37 @@
+{
+ "id": "da5c54b88f67",
+ "created": "2026-11-23T23:10:19+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "India Weekly",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFd3UDlGa3FDU0VIOG1OdDBsUnJ2bXdMZEJHWjVGbmRSdi11MjRTOXpiVmhXeDF4OVlESXVtVS1SSGZqa3F6a3hYZEk1TlVFX3NWOVJtdzlsa2NXam1aNnAzQnpaZXE1by1PMzVLdnNCZmhmWWc5ZWpLNTJFZ1RtSE5sb2tMUWVTbkNOaVZHYkFvNnRyWXROQlc3SDBUdw?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "New OTT Drops: Blade Runner 2099, Hanuman Ansh Arrive",
+  "hook": "Your weekend binge list just got bigger.",
+  "what": "Streaming platforms are adding fresh titles this week. Among the releases are Blade Runner 2099 and the mythological series Hanuman Ansh. Several other shows and movies are also debuting.",
+  "why": "These additions give teens more options for entertainment and cultural content. Check your favorite OTT app to start watching.",
+  "tags": [
+   "OTT",
+   "BingeWatch",
+   "NewReleases",
+   "BladeRunner",
+   "Hanuman"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ OTT റിലീസ്: Blade Runner 2099, Hanuman Ansh",
+  "hook": "വാരാന്ത്യത്തെ ബിംഗ്‌വാച്ച് പ്ലാൻ ഇപ്പോൾ അപ്ഡേറ്റ് ചെയ്യൂ!",
+  "what": "ഈ ആഴ്ച OTT പ്ലാറ്റ്ഫോംമുകളിൽ പുതിയ ഷോകൾ വരുന്നു. Blade Runner 2099, Hanuman Ansh എന്നിവ ഉൾപ്പെടെ നിരവധി സിനിമകളും സീരീസുകളും ലോഞ്ച് ചെയ്യുന്നു.",
+  "why": "ഇത് യുവാക്കൾക്ക് വിനോദവും സംസ്കാരപരമായ ഉള്ളടക്കവും നൽകുന്നു. നിങ്ങളുടെ ആപ്പ് തുറന്ന് കാണാൻ തുടങ്ങൂ.",
+  "tags": [
+   "OTT",
+   "പുതിയറിലീസ്",
+   "ബിംഗ്‌വാച്ച്",
+   "BladeRunner",
+   "Hanuman"
+  ]
+ }
+}

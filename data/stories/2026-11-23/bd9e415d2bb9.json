@@ -1,0 +1,37 @@
+{
+ "id": "bd9e415d2bb9",
+ "created": "2026-11-23T23:10:15+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Jensen Huang Returns to Nvidia; Alice Huang’s Role Noted",
+  "hook": "Tech fans, note the leadership shuffle at top AI firms.",
+  "what": "Jensen Huang has rejoined Nvidia. Alice Huang, also called Huang Le, served as managing director and executive at Megaspeed.",
+  "why": "Leadership changes can influence product roadmaps and job prospects in the tech sector, so stay updated if you’re aiming for a career in AI or gaming.",
+  "tags": [
+   "Nvidia",
+   "Leadership",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "ജെൻസൻ ഹുവാങ് NVIDIA-യിലേക്ക് മടങ്ങി; ആലീസ് ഹുവാങിന്റെ പദവി ശ്രദ്ധയിൽ",
+  "hook": "ടെക് ആരാധകർ, മുൻനിര AI കമ്പനികളിലെ നേതൃമാറ്റം ശ്രദ്ധിക്കുക.",
+  "what": "ജെൻസൻ ഹുവാങ് NVIDIA-യിലേക്ക് തിരികെ ചേർന്നു. ആലീസ് ഹുവാങ്, ഹുവാങ് ലെ എന്നും അറിയപ്പെടുന്നത്, മെഗാസ്പീഡിൽ മാനേജിംഗ് ഡയറക്ടറും എക്സിക്യൂട്ടീവുമായിരുന്നു.",
+  "why": "നേതൃത്വ മാറ്റങ്ങൾ ഉൽപ്പന്ന പ്ലാനുകളും ടെക് ജോലികളുടെയും സാധ്യതയും ബാധിക്കാം, AI അല്ലെങ്കിൽ ഗെയിമിംഗ് മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്നവർക്ക് ഇത് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "Nvidia",
+   "Leadership",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ }
+}

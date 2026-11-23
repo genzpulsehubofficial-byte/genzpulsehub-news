@@ -1,0 +1,37 @@
+{
+ "id": "c7906cd691d2",
+ "created": "2026-11-23T23:10:24+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-2026-earn-up-to-21-000-new-rules-may-make-sickness-and-maternity-benefit-claims-easier-for-employees-11795453581482.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ESIC 2026: Faster Sickness & Maternity Payouts for Low‑Earners",
+  "hook": "Skip the paperwork—your health benefits could be auto‑approved.",
+  "what": "The Employees’ State Insurance Corporation has introduced 2026 rules that allow a deemed‑claim process for eligible sickness and maternity benefits. The scheme applies to workers whose wages are up to ₹21,000 a month and removes the need for extensive documentation. Payments will be released directly under the new system.",
+  "why": "Young employees can now claim health support more quickly, reducing downtime for work or studies. Check your wage bracket and keep your ESIC details current to benefit.",
+  "tags": [
+   "ESIC",
+   "sickbenefit",
+   "maternity",
+   "youngworkers",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ESIC 2026: കുറഞ്ഞ വരുമാനക്കാർക്ക് രോഗ‑മാതൃത്വ സഹായം വേഗത്തിൽ",
+  "hook": "പേപ്പർവർക്കില്ല—നിങ്ങളുടെ ആരോഗ്യസഹായം സ്വയം അംഗീകരിക്കാം.",
+  "what": "Employees’ State Insurance Corporation 2026‑ലെ പുതിയ നിയമങ്ങളിലൂടെ രോഗവും മാതൃത്വവും സംബന്ധിച്ച അവകാശങ്ങൾ സ്വയം‑ക്ലെയിം ചെയ്യാൻ സാധിക്കും. മാസവേതനം ₹21,000 വരെ ഉള്ള തൊഴിലാളികൾക്ക് ഈ സൗകര്യം ലഭിക്കും, കൂടാതെ കാഗിതപ്പണി കുറയും. പുതിയ സംവിധാനം പ്രകാരം പണമടവ് നേരിട്ട് നൽകപ്പെടും.",
+  "why": "യുവപ്രവർത്തകർക്ക് ആരോഗ്യസഹായം വേഗത്തിൽ ലഭിക്കുന്നത് ജോലി അല്ലെങ്കിൽ പഠനം തടസ്സപ്പെടാതെ തുടരാൻ സഹായിക്കും. നിങ്ങളുടെ വരുമാനപരിധി പരിശോധിച്ച് ESIC വിവരങ്ങൾ പുതുക്കി വയ്ക്കുക.",
+  "tags": [
+   "ESIC",
+   "ആരോഗ്യസഹായം",
+   "മാതൃത്വ",
+   "യുവപ്രവർത്തകർ",
+   "ഇന്ത്യ"
+  ]
+ }
+}
