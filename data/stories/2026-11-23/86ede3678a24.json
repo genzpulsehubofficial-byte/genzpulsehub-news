@@ -1,0 +1,37 @@
+{
+ "id": "86ede3678a24",
+ "created": "2026-11-23T16:30:04+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-72-choose-auto-choice-over-active-choice-in-fy27-what-absl-pension-fund-data-reveals-11795428242555.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Most NPS Users Opt for Auto Choice",
+  "hook": "Nearly three‑quarters of NPS members let the system pick their investments.",
+  "what": "ABSL Pension Fund data shows about 72% of its NPS participants choose the Auto Choice option, while fewer pick Active Choice or the Minimum Savings Fund. Preferences shift across different age groups.",
+  "why": "Knowing this trend helps young Indians decide whether a guided or self‑directed retirement plan suits them best.",
+  "tags": [
+   "NPS",
+   "retirement",
+   "investing",
+   "ABSL",
+   "AutoChoice"
+  ]
+ },
+ "ml": {
+  "headline": "NPS‑ൽ ഭൂരിഭാഗം ആളുകൾ Auto Choice തിരഞ്ഞെടുക്കുന്നു",
+  "hook": "മൂന്നു നാലിലധികം NPS അംഗങ്ങൾ സ്വയം നിക്ഷേപം തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്നു.",
+  "what": "ABSL Pension Fund‑യുടെ ഡാറ്റ പ്രകാരം, ഏകദേശം 72% അംഗങ്ങൾ Auto Choice‑നെ തിരഞ്ഞെടുക്കുന്നു, Active Choice അല്ലെങ്കിൽ Minimum Savings Fund‑നെ കുറച്ച് പേർ മാത്രം തിരഞ്ഞെടുക്കുന്നു. പ്രായം അനുസരിച്ച് ഇഷ്ടങ്ങൾ മാറുന്നു.",
+  "why": "ഈ പ്രവണതകൾ അറിയുന്നത് യുവാക്കൾക്ക് വിരമിക്കൽ നിക്ഷേപം എങ്ങനെ കൈകാര്യം ചെയ്യണം, സ്വയം നിയന്ത്രിക്കണോ, സംവിധാനത്തിന് വിടയോ എന്ന് തീരുമാനിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "NPS",
+   "വിരമിക്കൽ",
+   "നിക്ഷേപം",
+   "ABSL",
+   "AutoChoice"
+  ]
+ }
+}

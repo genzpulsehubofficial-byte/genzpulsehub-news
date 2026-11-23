@@ -1,0 +1,37 @@
+{
+ "id": "7d8cc24024b3",
+ "created": "2026-11-23T16:29:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "India pledges ₹15,000 crore development aid to Nepal",
+  "hook": "Big boost for Nepal’s growth, says Indian govt",
+  "what": "India announced a development package worth more than ₹15,000 crore for Nepal. Nepal’s prime minister said the two countries share strong ties.",
+  "why": "The investment could create jobs and trade links that benefit Indian youth. Watch for cross‑border projects and possible study or travel chances.",
+  "tags": [
+   "India",
+   "Nepal",
+   "development",
+   "aid",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യാ 15,000 കോടി രൂപയുടെ വികസന സഹായം നേപ്പാളിന്",
+  "hook": "ഇന്ത്യയുടെ വലിയ സഹായം നേപ്പാളിന്റെ വളർച്ചയ്ക്ക്",
+  "what": "ഇന്ത്യാ 15,000 കോടി രൂപയ്ക്ക് മുകളിലുള്ള വികസന പാക്കേജ് നേപ്പാളിന് നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. നേപ്പാളിന്റെ പ്രധാനമന്ത്രി ബന്ധങ്ങൾ ശക്തമാണെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ജോലി, വ്യാപാരം തുടങ്ങിയ അവസരങ്ങൾ സൃഷ്ടിച്ച് ഇന്ത്യൻ യുവാക്കൾക്ക് ഗുണം ചെയ്യാം. അതിനാൽ അതിർത്തി പദ്ധതികളിലും പഠന‑യാത്രാ അവസരങ്ങളിലും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഇന്ത്യ",
+   "നേപ്പാൾ",
+   "വികസനം",
+   "സഹായം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

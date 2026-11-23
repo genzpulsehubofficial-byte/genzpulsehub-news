@@ -1,0 +1,37 @@
+{
+ "id": "012479a7a0e4",
+ "created": "2026-11-23T16:30:18+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/cryptocurrency/news/upbit-and-bithumb-halt-cyber-transfers-over-suspected-bridge-exploit-crypto-network-suspension-eth-sol-12365572",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Upbit, Bithumb pause CYBER moves over bridge hack fear",
+  "hook": "Crypto transfers on hold – what this means for you.",
+  "what": "South Korean exchanges Upbit and Bithumb have stopped CYBER token transfers after spotting odd blockchain activity. They suspect a bridge exploit but have not explained the exact cause.",
+  "why": "A pause could affect anyone holding CYBER or using these platforms, so keep an eye on official updates before moving funds.",
+  "tags": [
+   "crypto",
+   "blockchain",
+   "security",
+   "upbit",
+   "bithumb"
+  ]
+ },
+ "ml": {
+  "headline": "Upbit, Bithumb CYBER ട്രാൻസ്ഫറുകൾ ബ്രിഡ്ജ് ഹാക്ക് സംശയത്തിൽ നിർത്തി",
+  "hook": "ക്രിപ്റ്റോ ട്രാൻസ്ഫറുകൾ നിർത്തി – നിങ്ങളുടെ കാര്യത്തിൽ എന്ത് മാറ്റം?",
+  "what": "ദക്ഷിണ കൊറിയൻ എക്സ്ചേഞ്ചുകൾ Upbit, Bithumb അന്യമായ ബ്ലോക്ക്ചെയിൻ പ്രവർത്തനം കണ്ടു CYBER ട്രാൻസ്ഫറുകൾ താൽക്കാലികമായി നിർത്തി. ബ്രിഡ്ജ് എക്‌സ്പ്ലോയ്‌റ്റ് സംശയമുണ്ടെങ്കിലും കാരണത്തെക്കുറിച്ച് വിശദീകരണം നൽകിയിട്ടില്ല.",
+  "why": "ഇത് CYBER ഹോൾഡറുകളെയും ഈ പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നവരെയും ബാധിക്കാം, അതിനാൽ ഫണ്ടുകൾ മാറ്റുന്നതിന് മുൻപ് ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "ബ്ലോക്ക്ചെയിൻ",
+   "സെക്യൂരിറ്റി",
+   "upbit",
+   "bithumb"
+  ]
+ }
+}

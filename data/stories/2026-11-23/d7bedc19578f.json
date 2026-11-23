@@ -1,0 +1,37 @@
+{
+ "id": "d7bedc19578f",
+ "created": "2026-11-23T16:30:09+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/taxpayer-sold-bitcoin-worth-4-94-crore-and-disclosed-it-in-itr-yet-faced-a-tax-notice-why-hc-ruling-explained-11795429551337.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Taxpayer disclosed ₹4.94 crore Bitcoin sale, still got notice; HC quashes",
+  "hook": "Even if you report crypto gains, you might still get a tax notice.",
+  "what": "A man reported selling Bitcoin worth about ₹4.94 crore in his income‑tax return and later received a reassessment notice. He appealed to the Gujarat High Court, which set aside the notice, stressing the need for proper disclosure and supporting records.",
+  "why": "The case highlights that clear documentation of crypto transactions can shield you from tax probes. Young investors should keep detailed records and report gains accurately.",
+  "tags": [
+   "tax",
+   "crypto",
+   "finance",
+   "India",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ബിറ്റ്‌കോയ്ൻ ₹4.94 കോടി വിൽപ്പന റിപ്പോർട്ട് ചെയ്തെങ്കിലും നോട്ടീസ്; HC റദ്ദാക്കി",
+  "hook": "ക്രിപ്റ്റോ ലാഭം പ്രഖ്യാപിച്ചാലും നികുതി നോട്ടീസ് വരാം.",
+  "what": "ഒരു നികുതിദായകൻ തന്റെ വരുമാന നികുതിചെയ്യലിൽ ₹4.94 കോടി മൂല്യമുള്ള ബിറ്റ്‌കോയ്ൻ വിൽപ്പന രേഖപ്പെടുത്തി. അതിനുശേഷം അവന്‍ ഒരു റീഅസെസ്മെന്റ് നോട്ടീസ് ലഭിച്ചു. ഗുജറാത്ത് ഹൈക്കോടതി അത് റദ്ദാക്കി, ശരിയായ രേഖകളുടെ പ്രാധാന്യം ചൂണ്ടിക്കാട്ടി.",
+  "why": "ക്രിപ്റ്റോ ഇടപാടുകളുടെ വിശദമായ രേഖകൾ ഉണ്ടെങ്കിൽ നികുതി പരിശോധനകളിൽ നിന്ന് രക്ഷപ്പെടാം. യുവ നിക്ഷേപകർ ലാഭം ശരിയായി പ്രഖ്യാപിക്കുകയും രേഖപ്പെടുത്തുകയും ചെയ്യണം.",
+  "tags": [
+   "നികുതി",
+   "ക്രിപ്റ്റോ",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ",
+   "യുവാക്കൾ"
+  ]
+ }
+}

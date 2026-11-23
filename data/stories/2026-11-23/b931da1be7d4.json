@@ -1,0 +1,36 @@
+{
+ "id": "b931da1be7d4",
+ "created": "2026-11-23T16:30:01+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "West Bengal to adopt 'Paschim Banga' as English name",
+  "hook": "The state’s English name may soon match its Bengali one.",
+  "what": "The BJP‑led government has suggested using the Bengali term ‘Paschim Banga’ for the state in English contexts. Currently the English name is West Bengal.",
+  "why": "A single name could affect maps, official documents and the region’s identity, so students should note the change for future references.",
+  "tags": [
+   "WestBengal",
+   "PaschimBanga",
+   "NameChange",
+   "India",
+   "BJP"
+  ]
+ },
+ "ml": {
+  "headline": "പശ്ചിമ ബംഗാളിന് ഇംഗ്ലീഷിൽ 'പശ്ചിമ ബംഗാ' എന്ന് പേര്",
+  "hook": "സംസ്ഥാനത്തിന്റെ ഇംഗ്ലീഷ് പേര് ഇനി ബംഗാളി പോലെ തന്നെ.",
+  "what": "ഭാരതീയ ജനതാ പാര്‍ട്ടി സര്‍ക്കാരു സംസ്ഥാനത്തെ ഇംഗ്ലീഷ് പേരായി ബംഗാളി 'പശ്ചിമ ബംഗാ' ഉപയോഗിക്കാൻ നിര്‍ദ്ദേശിച്ചു. ഇപ്പോള്‍ ഇംഗ്ലീഷില്‍ West Bengal എന്നാണ് അറിയപ്പെടുന്നത്.",
+  "why": "പേര് ഒരേ ആക്കുന്നത് മാപ്പുകള്‍, രേഖകള്‍, തിരിച്ചറിവ് എന്നിവയില്‍ ബാധകമാകും; വിദ്യാർത്ഥികള്‍ ഭാവിയില്‍ ഈ മാറ്റം ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "പശ്ചിമബംഗാൾ",
+   "പേര്‌മാറ്റം",
+   "ഇന്ത്യ",
+   "ബിജെപി"
+  ]
+ }
+}

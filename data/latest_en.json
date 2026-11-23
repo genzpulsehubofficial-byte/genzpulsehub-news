@@ -1,5 +1,119 @@
 [
  {
+  "id": "7d8cc24024b3",
+  "created": "2026-11-23T16:29:50+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece",
+  "headline": "India pledges ₹15,000 crore development aid to Nepal",
+  "hook": "Big boost for Nepal’s growth, says Indian govt",
+  "what": "India announced a development package worth more than ₹15,000 crore for Nepal. Nepal’s prime minister said the two countries share strong ties.",
+  "why": "The investment could create jobs and trade links that benefit Indian youth. Watch for cross‑border projects and possible study or travel chances.",
+  "tags": [
+   "India",
+   "Nepal",
+   "development",
+   "aid",
+   "youth"
+  ]
+ },
+ {
+  "id": "b931da1be7d4",
+  "created": "2026-11-23T16:30:01+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+  "headline": "West Bengal to adopt 'Paschim Banga' as English name",
+  "hook": "The state’s English name may soon match its Bengali one.",
+  "what": "The BJP‑led government has suggested using the Bengali term ‘Paschim Banga’ for the state in English contexts. Currently the English name is West Bengal.",
+  "why": "A single name could affect maps, official documents and the region’s identity, so students should note the change for future references.",
+  "tags": [
+   "WestBengal",
+   "PaschimBanga",
+   "NameChange",
+   "India",
+   "BJP"
+  ]
+ },
+ {
+  "id": "86ede3678a24",
+  "created": "2026-11-23T16:30:04+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-72-choose-auto-choice-over-active-choice-in-fy27-what-absl-pension-fund-data-reveals-11795428242555.html",
+  "headline": "Most NPS Users Opt for Auto Choice",
+  "hook": "Nearly three‑quarters of NPS members let the system pick their investments.",
+  "what": "ABSL Pension Fund data shows about 72% of its NPS participants choose the Auto Choice option, while fewer pick Active Choice or the Minimum Savings Fund. Preferences shift across different age groups.",
+  "why": "Knowing this trend helps young Indians decide whether a guided or self‑directed retirement plan suits them best.",
+  "tags": [
+   "NPS",
+   "retirement",
+   "investing",
+   "ABSL",
+   "AutoChoice"
+  ]
+ },
+ {
+  "id": "d7bedc19578f",
+  "created": "2026-11-23T16:30:09+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/taxpayer-sold-bitcoin-worth-4-94-crore-and-disclosed-it-in-itr-yet-faced-a-tax-notice-why-hc-ruling-explained-11795429551337.html",
+  "headline": "Taxpayer disclosed ₹4.94 crore Bitcoin sale, still got notice; HC quashes",
+  "hook": "Even if you report crypto gains, you might still get a tax notice.",
+  "what": "A man reported selling Bitcoin worth about ₹4.94 crore in his income‑tax return and later received a reassessment notice. He appealed to the Gujarat High Court, which set aside the notice, stressing the need for proper disclosure and supporting records.",
+  "why": "The case highlights that clear documentation of crypto transactions can shield you from tax probes. Young investors should keep detailed records and report gains accurately.",
+  "tags": [
+   "tax",
+   "crypto",
+   "finance",
+   "India",
+   "youth"
+  ]
+ },
+ {
+  "id": "89d9609e159a",
+  "created": "2026-11-23T16:30:15+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Esquire India",
+  "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXVzblhkc1dSRWI1dmxqWndSYXZZUkk0M3JfVHJkU09TVF9MNW8xRlVVT2Nwc3BzbU5SeVNjMm51Vnc4VEROeXc5Q2dxWVhDN1dfRFpSRlY5dUliY0xlMjlDNHFUNzhhUzExaURTNG1UZzc4Yi1iNm5RUkNXU1dnMjdObm13cjE5NG5rX2lmcXp5VlExRDBXemZVY3c4aHZzNV9IaGhabUNpN1RsM3RHRGd4LTN4R2hXTlBBMTQxem5zVEV0WHFmMG9DRlR3NFlPdnBLaWNILXZSWkdjOXM4Z2FPVXXSAfIBQVVfeXFMT0pfdkFtVlliT1BLNUdHdkViUmlOZHBFQThoNUZrTTdleEMydm9GMG1JZXBJYXc5LS1LRkgtQk1BaUkxams5M2J2UGV1WDdPV3VUWDJYeW1MajNXRkpaTGdXVndXVU9PQ1NNUXowMXlxbWVHYUxsYVNWdVBDLVJMRk1nNVNKcHlmNjZNNWp1Z3hZNVM1VWVwQzJzbVpMS3pVUHFZVndTaHRZNDVzekxCVE1DLVRkY01pVlBHenV6ZVo1MHhSbDAtQklEY1FIdkpDTFFpRHdmSlVfRThoeFRjbnFGb2U5TEZQcHdsNU1JeXFkb1E?oc=5",
+  "headline": "New OTT Hits: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
+  "hook": "Stream the latest sci‑fi, mythic saga and thriller now.",
+  "what": "This week several new titles arrived on streaming platforms, including Blade Runner 2099, Hanuman Ansh and Drishyam 3. They are now available to watch online.",
+  "why": "These releases add fresh content for binge‑watchers and fans of sci‑fi, mythology and crime drama. Open your favourite OTT app and start streaming.",
+  "tags": [
+   "OTT",
+   "NewReleases",
+   "Streaming",
+   "Movies",
+   "Series"
+  ]
+ },
+ {
+  "id": "012479a7a0e4",
+  "created": "2026-11-23T16:30:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/cryptocurrency/news/upbit-and-bithumb-halt-cyber-transfers-over-suspected-bridge-exploit-crypto-network-suspension-eth-sol-12365572",
+  "headline": "Upbit, Bithumb pause CYBER moves over bridge hack fear",
+  "hook": "Crypto transfers on hold – what this means for you.",
+  "what": "South Korean exchanges Upbit and Bithumb have stopped CYBER token transfers after spotting odd blockchain activity. They suspect a bridge exploit but have not explained the exact cause.",
+  "why": "A pause could affect anyone holding CYBER or using these platforms, so keep an eye on official updates before moving funds.",
+  "tags": [
+   "crypto",
+   "blockchain",
+   "security",
+   "upbit",
+   "bithumb"
+  ]
+ },
+ {
   "id": "e85539b2d0c4",
   "created": "2026-11-23T15:23:35+05:30",
   "category": "headlines",
@@ -637,119 +751,6 @@
    "BKI",
    "LawrenceBishnoi",
    "ProclaimedOffenders"
-  ]
- },
- {
-  "id": "04504f1c4726",
-  "created": "2026-11-23T07:40:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-  "headline": "Big investors poured billions into Anthropic before its IPO",
-  "hook": "Why top funds are backing the AI startup",
-  "what": "Notable Capital, Singapore’s GIC and Baillie Gifford each invested billions in Anthropic ahead of its public listing. The three firms explained the factors that gave them confidence in the AI company.",
-  "why": "Seeing how major investors assess AI firms helps young tech fans spot promising startups. Keep an eye on AI trends and learn about venture funding.",
-  "tags": [
-   "AI",
-   "startup",
-   "investment",
-   "tech",
-   "funding"
-  ]
- },
- {
-  "id": "555b7cb0f63c",
-  "created": "2026-11-23T07:40:59+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Chess News | ChessBase",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9KcFRRdFVQTnV1R01GM2htOXB1eWM1TmU5UW9aVV9kejRWNndRZnpFSmQxcnhvU1J5MkFFLXVFQWE1RjJpOGhJb0FudnBRbWFSQjY2Nnd2djZJX2FERXFGbmhTOHdua0w1VXhHRkV4MDZPRzRpXzlNalVrR0ZMX3dsb1ZlYk1xNHZCX1FIRFNzeXgyLVlWR2xwUjc5aV9BeWVmYjd2WHlLYVU1aVRocg?oc=5",
-  "headline": "2026 World Chess Title Match Begins Today",
-  "hook": "The champion Gukesh faces Sindarov in the opening game.",
-  "what": "The 2026 FIDE World Chess Championship started with a press conference and ceremony. In Game 1, defending champion Gukesh will play with the black pieces while challenger Sindarov has white.",
-  "why": "Young players can watch the match to see top‑level strategies and get inspiration for their own chess practice.",
-  "tags": [
-   "chess",
-   "worldchampionship",
-   "Gukesh",
-   "Sindarov",
-   "sports"
-  ]
- },
- {
-  "id": "054af1c102e6",
-  "created": "2026-11-23T07:41:02+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "ScienceDaily",
-  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0STNVNnF5YnVEZ1pHUE5GZmNoMk1RRVo1bjdiSVdnWWk0Zkp3VjFVTEhHa1VZN3NKMDhKS2RhQk1ZS1FIeGV3RVBHT0ZhdzNTc1ljN0c4LTBrZmcyMDlYaS1aYUh3NG1wSGNFTm5qbw?oc=5",
-  "headline": "US loses measles‑free status as cases near 6,000",
-  "hook": "Vaccine myths are bringing back a disease once thought gone.",
-  "what": "The United States has been stripped of its measles elimination designation after 25 years. Reported cases have climbed to almost 6,000, marking a worsening outbreak. Health officials link the surge to persistent misinformation about vaccines.",
-  "why": "It shows how false information can undo public‑health gains, highlighting the need for accurate vaccine knowledge. Teens should stay informed and follow immunisation guidelines.",
-  "tags": [
-   "measles",
-   "vaccines",
-   "publichealth",
-   "outbreak",
-   "US"
-  ]
- },
- {
-  "id": "1371b80214ca",
-  "created": "2026-11-23T06:20:31+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdDJYXzlHOFRDaU9xVUtNUUFmNlJQeTFsRU14TFZBVkgzYmdhbzdXaEt5VXJCbHBQMmVlNGw1S2U4dk95cUFmbWJ0bkZGcFdaekxlaVcxWjdjX3hkalpDbFVSd2tSS2RwclB2T05ad0tGY3JlbzR1ejRvdFBUUFp4NXozMzJ4SjhrbmN3aDUxVU1CazdiS1Z5Q01ScXhLNnd3QWNaRG9wekZxNGxyTjA0S0hwN1pyVGJnN1RlRklvRzRoMGlubUc1WVRTQ0pBTjhlcVp5MkhQazY3UzlLSkJyYjVCYTVuRjFEMXhPdnBoYVpFVEM2M2ZPdzFSR1VkQTFTdzlpLWhsQUtheGgyNk9mWVNjZ2NOalpHenQ1S2daNDY5czVmWWkyQjR6bl9aR04wS3ZEdkV0azBJdFpTb3B3?oc=5",
-  "headline": "Dulquer's 'Aakasamlo Oka Tara' hits Rs13.1cr in 3 days",
-  "hook": "The film saw a 29% jump on its third Sunday.",
-  "what": "The Malayalam movie 'Aakasamlo Oka Tara' earned a net of Rs 13.10 crore in India after three days of release. On Sunday its earnings rose by 29.2% compared to the previous day.",
-  "why": "The strong box‑office response indicates high audience interest, so teens can consider watching it in theatres now.",
-  "tags": [
-   "Dulquer",
-   "BoxOffice",
-   "AakasamloOkaTara",
-   "Mollywood"
-  ]
- },
- {
-  "id": "4ac5346543a4",
-  "created": "2026-11-23T06:20:38+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg?oc=5",
-  "headline": "Houthis say they hit Saudi Rabigh refinery, 6 injured",
-  "hook": "A claimed drone strike on a key Saudi oil plant left several hurt.",
-  "what": "The Yemen‑based Houthi movement said its drones struck the Rabigh oil refinery on the Red Sea coast and hit a radar installation. They reported at least six people were injured. Saudi officials have not confirmed any damage.",
-  "why": "Disruptions at a major refinery could affect global oil prices, which can influence fuel costs in India. Keep an eye on travel and transport expenses.",
-  "tags": [
-   "Houthis",
-   "SaudiOil",
-   "MiddleEast",
-   "OilPrices",
-   "YouthNews"
-  ]
- },
- {
-  "id": "f63602cd5192",
-  "created": "2026-11-23T06:20:41+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb3lfaXFRdnFjRWM3eE82RU1BNTBJNjZ6T1RnUXdobk5RTU9JOExiVzhSSGR6MllnQlBqZElJazh4YmlFd01lOFNpRkJtbV9SLTJqdUdObk0zWFdwWGN3UmEtQnJWdkdPbGRwMEtIZEpLVGd6U3N1eXVpcU1MTWp1eVljazBsSWE2ZVlJV2ZJbFo2YVRHNzJSNG9pNHI3SkxTZGlLTGsyUjB4RFhrUXJ5Nkl3S0N6VWhtMEhlNmNGNGNfc2tubGRqczRzbnQ3c0VLVTRETkJYc212RG9tOWl1UTJfdEp1NmhfN3dlR0IweERKZ9IB-AFBVV95cUxNdG5fMUFJUUNfR0hvbzJfTjJtcEVicGROMF83RHZ3a2NJWWVZWEhaVFdONTVvSUpQaVd2WWV3SGV5Ni02ZWFwcEJqR3BCbzctV2xMU0U0UTNuc3JJSER2aXhxLUF3Mm0wclRsR0t2dmsyLUxlUWNkbV9aT2p6dzN6OFBrdUl3X01mSW56ZnBVM1BucTJpUmtkRDNDOUx5WF8yckZWaGFyZGZSbWxoM19nX2w3OWktYW8xLWNNenZmbjRwZHFpLTlUNFV3UkFjSzlIRXF3akxOYmRRdThLVmVLUkZ5TzU4X18wejdURnVuNVlRTDRGYzBCVA?oc=5",
-  "headline": "ICE detains father, daughter en route to baptism in Seattle",
-  "hook": "A family’s travel for a baptism turned into an ICE raid.",
-  "what": "Immigration officials stopped a father and his daughter at Seattle‑Tacoma International Airport, saying they were heading to a family baptism. Their lawyer confirmed the purpose of the trip.",
-  "why": "The arrests sparked criticism from the state governor, labor unions and the Port of Seattle, who called the action alarming and urged scrutiny of ICE practices.",
-  "tags": [
-   "ICE",
-   "Seattle",
-   "baptism",
-   "immigration",
-   "rights"
   ]
  }
 ]

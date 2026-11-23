@@ -1,5 +1,118 @@
 [
  {
+  "id": "7d8cc24024b3",
+  "created": "2026-11-23T16:29:50+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-announces-development-package-of-24000-crore-nepalese-rupees-for-nepals-development/article71734100.ece",
+  "headline": "ഇന്ത്യാ 15,000 കോടി രൂപയുടെ വികസന സഹായം നേപ്പാളിന്",
+  "hook": "ഇന്ത്യയുടെ വലിയ സഹായം നേപ്പാളിന്റെ വളർച്ചയ്ക്ക്",
+  "what": "ഇന്ത്യാ 15,000 കോടി രൂപയ്ക്ക് മുകളിലുള്ള വികസന പാക്കേജ് നേപ്പാളിന് നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. നേപ്പാളിന്റെ പ്രധാനമന്ത്രി ബന്ധങ്ങൾ ശക്തമാണെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ജോലി, വ്യാപാരം തുടങ്ങിയ അവസരങ്ങൾ സൃഷ്ടിച്ച് ഇന്ത്യൻ യുവാക്കൾക്ക് ഗുണം ചെയ്യാം. അതിനാൽ അതിർത്തി പദ്ധതികളിലും പഠന‑യാത്രാ അവസരങ്ങളിലും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഇന്ത്യ",
+   "നേപ്പാൾ",
+   "വികസനം",
+   "സഹായം",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "b931da1be7d4",
+  "created": "2026-11-23T16:30:01+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/west-bengal-new-name-rename-paschim-banga/article71734146.ece",
+  "headline": "പശ്ചിമ ബംഗാളിന് ഇംഗ്ലീഷിൽ 'പശ്ചിമ ബംഗാ' എന്ന് പേര്",
+  "hook": "സംസ്ഥാനത്തിന്റെ ഇംഗ്ലീഷ് പേര് ഇനി ബംഗാളി പോലെ തന്നെ.",
+  "what": "ഭാരതീയ ജനതാ പാര്‍ട്ടി സര്‍ക്കാരു സംസ്ഥാനത്തെ ഇംഗ്ലീഷ് പേരായി ബംഗാളി 'പശ്ചിമ ബംഗാ' ഉപയോഗിക്കാൻ നിര്‍ദ്ദേശിച്ചു. ഇപ്പോള്‍ ഇംഗ്ലീഷില്‍ West Bengal എന്നാണ് അറിയപ്പെടുന്നത്.",
+  "why": "പേര് ഒരേ ആക്കുന്നത് മാപ്പുകള്‍, രേഖകള്‍, തിരിച്ചറിവ് എന്നിവയില്‍ ബാധകമാകും; വിദ്യാർത്ഥികള്‍ ഭാവിയില്‍ ഈ മാറ്റം ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "പശ്ചിമബംഗാൾ",
+   "പേര്‌മാറ്റം",
+   "ഇന്ത്യ",
+   "ബിജെപി"
+  ]
+ },
+ {
+  "id": "86ede3678a24",
+  "created": "2026-11-23T16:30:04+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-72-choose-auto-choice-over-active-choice-in-fy27-what-absl-pension-fund-data-reveals-11795428242555.html",
+  "headline": "NPS‑ൽ ഭൂരിഭാഗം ആളുകൾ Auto Choice തിരഞ്ഞെടുക്കുന്നു",
+  "hook": "മൂന്നു നാലിലധികം NPS അംഗങ്ങൾ സ്വയം നിക്ഷേപം തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്നു.",
+  "what": "ABSL Pension Fund‑യുടെ ഡാറ്റ പ്രകാരം, ഏകദേശം 72% അംഗങ്ങൾ Auto Choice‑നെ തിരഞ്ഞെടുക്കുന്നു, Active Choice അല്ലെങ്കിൽ Minimum Savings Fund‑നെ കുറച്ച് പേർ മാത്രം തിരഞ്ഞെടുക്കുന്നു. പ്രായം അനുസരിച്ച് ഇഷ്ടങ്ങൾ മാറുന്നു.",
+  "why": "ഈ പ്രവണതകൾ അറിയുന്നത് യുവാക്കൾക്ക് വിരമിക്കൽ നിക്ഷേപം എങ്ങനെ കൈകാര്യം ചെയ്യണം, സ്വയം നിയന്ത്രിക്കണോ, സംവിധാനത്തിന് വിടയോ എന്ന് തീരുമാനിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "NPS",
+   "വിരമിക്കൽ",
+   "നിക്ഷേപം",
+   "ABSL",
+   "AutoChoice"
+  ]
+ },
+ {
+  "id": "d7bedc19578f",
+  "created": "2026-11-23T16:30:09+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/taxpayer-sold-bitcoin-worth-4-94-crore-and-disclosed-it-in-itr-yet-faced-a-tax-notice-why-hc-ruling-explained-11795429551337.html",
+  "headline": "ബിറ്റ്‌കോയ്ൻ ₹4.94 കോടി വിൽപ്പന റിപ്പോർട്ട് ചെയ്തെങ്കിലും നോട്ടീസ്; HC റദ്ദാക്കി",
+  "hook": "ക്രിപ്റ്റോ ലാഭം പ്രഖ്യാപിച്ചാലും നികുതി നോട്ടീസ് വരാം.",
+  "what": "ഒരു നികുതിദായകൻ തന്റെ വരുമാന നികുതിചെയ്യലിൽ ₹4.94 കോടി മൂല്യമുള്ള ബിറ്റ്‌കോയ്ൻ വിൽപ്പന രേഖപ്പെടുത്തി. അതിനുശേഷം അവന്‍ ഒരു റീഅസെസ്മെന്റ് നോട്ടീസ് ലഭിച്ചു. ഗുജറാത്ത് ഹൈക്കോടതി അത് റദ്ദാക്കി, ശരിയായ രേഖകളുടെ പ്രാധാന്യം ചൂണ്ടിക്കാട്ടി.",
+  "why": "ക്രിപ്റ്റോ ഇടപാടുകളുടെ വിശദമായ രേഖകൾ ഉണ്ടെങ്കിൽ നികുതി പരിശോധനകളിൽ നിന്ന് രക്ഷപ്പെടാം. യുവ നിക്ഷേപകർ ലാഭം ശരിയായി പ്രഖ്യാപിക്കുകയും രേഖപ്പെടുത്തുകയും ചെയ്യണം.",
+  "tags": [
+   "നികുതി",
+   "ക്രിപ്റ്റോ",
+   "ഫിനാൻസ്",
+   "ഇന്ത്യ",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "89d9609e159a",
+  "created": "2026-11-23T16:30:15+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Esquire India",
+  "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXVzblhkc1dSRWI1dmxqWndSYXZZUkk0M3JfVHJkU09TVF9MNW8xRlVVT2Nwc3BzbU5SeVNjMm51Vnc4VEROeXc5Q2dxWVhDN1dfRFpSRlY5dUliY0xlMjlDNHFUNzhhUzExaURTNG1UZzc4Yi1iNm5RUkNXU1dnMjdObm13cjE5NG5rX2lmcXp5VlExRDBXemZVY3c4aHZzNV9IaGhabUNpN1RsM3RHRGd4LTN4R2hXTlBBMTQxem5zVEV0WHFmMG9DRlR3NFlPdnBLaWNILXZSWkdjOXM4Z2FPVXXSAfIBQVVfeXFMT0pfdkFtVlliT1BLNUdHdkViUmlOZHBFQThoNUZrTTdleEMydm9GMG1JZXBJYXc5LS1LRkgtQk1BaUkxams5M2J2UGV1WDdPV3VUWDJYeW1MajNXRkpaTGdXVndXVU9PQ1NNUXowMXlxbWVHYUxsYVNWdVBDLVJMRk1nNVNKcHlmNjZNNWp1Z3hZNVM1VWVwQzJzbVpMS3pVUHFZVndTaHRZNDVzekxCVE1DLVRkY01pVlBHenV6ZVo1MHhSbDAtQklEY1FIdkpDTFFpRHdmSlVfRThoeFRjbnFGb2U5TEZQcHdsNU1JeXFkb1E?oc=5",
+  "headline": "പുതിയ OTT റിലീസ്: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
+  "hook": "ഇപ്പോൾ തന്നെ സ്ട്രീം ചെയ്ത് പുതിയ സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ത്രില്ലർ ആസ്വദിക്കൂ.",
+  "what": "ഈ ആഴ്ച നിരവധി പുതിയ ഷോകൾ OTT പ്ലാറ്റ്ഫോമുകളിൽ ലഭ്യമായി, Blade Runner 2099, Hanuman Ansh, Drishyam 3 എന്നിവ ഉൾപ്പെടെ. ഇവയെല്ലാം ഓൺലൈൻ ആയി കാണാം.",
+  "why": "ബിംഗെ‑വാച്ചർമാർക്കും സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ക്രൈം ഡ്രാമാ ആരാധകർക്കും പുതിയ കണ്ടന്റുകൾ ലഭിക്കുന്നു. നിങ്ങളുടെ പ്രിയ OTT ആപ്പിൽ തുറന്ന് കാണൂ.",
+  "tags": [
+   "OTT",
+   "NewReleases",
+   "Streaming",
+   "Movies",
+   "Series"
+  ]
+ },
+ {
+  "id": "012479a7a0e4",
+  "created": "2026-11-23T16:30:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/cryptocurrency/news/upbit-and-bithumb-halt-cyber-transfers-over-suspected-bridge-exploit-crypto-network-suspension-eth-sol-12365572",
+  "headline": "Upbit, Bithumb CYBER ട്രാൻസ്ഫറുകൾ ബ്രിഡ്ജ് ഹാക്ക് സംശയത്തിൽ നിർത്തി",
+  "hook": "ക്രിപ്റ്റോ ട്രാൻസ്ഫറുകൾ നിർത്തി – നിങ്ങളുടെ കാര്യത്തിൽ എന്ത് മാറ്റം?",
+  "what": "ദക്ഷിണ കൊറിയൻ എക്സ്ചേഞ്ചുകൾ Upbit, Bithumb അന്യമായ ബ്ലോക്ക്ചെയിൻ പ്രവർത്തനം കണ്ടു CYBER ട്രാൻസ്ഫറുകൾ താൽക്കാലികമായി നിർത്തി. ബ്രിഡ്ജ് എക്‌സ്പ്ലോയ്‌റ്റ് സംശയമുണ്ടെങ്കിലും കാരണത്തെക്കുറിച്ച് വിശദീകരണം നൽകിയിട്ടില്ല.",
+  "why": "ഇത് CYBER ഹോൾഡറുകളെയും ഈ പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നവരെയും ബാധിക്കാം, അതിനാൽ ഫണ്ടുകൾ മാറ്റുന്നതിന് മുൻപ് ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "ബ്ലോക്ക്ചെയിൻ",
+   "സെക്യൂരിറ്റി",
+   "upbit",
+   "bithumb"
+  ]
+ },
+ {
   "id": "e85539b2d0c4",
   "created": "2026-11-23T15:23:35+05:30",
   "category": "headlines",
@@ -637,119 +750,6 @@
    "BKI",
    "LawrenceBishnoi",
    "കுற்றവാളി"
-  ]
- },
- {
-  "id": "04504f1c4726",
-  "created": "2026-11-23T07:40:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-  "headline": "വലിയ നിക്ഷേപകർ ഐപിഒക്ക് മുമ്പ് Anthropic‑ലേക്ക് ബില്യൺസ് നിക്ഷേപിച്ചു",
-  "hook": "മികച്ച ഫണ്ടുകൾ AI സ്റ്റാർട്ടപ്പിനെ എന്തുകൊണ്ട് പിന്തുണക്കുന്നു",
-  "what": "Notable Capital, Singapore‑ന്റെ GIC, Baillie Gifford എന്നിവർ Anthropic‑ലേക്ക് ഐപിഒക്ക് മുമ്പ് ബില്യൺസ് തുക നിക്ഷേപിച്ചു. ഈ മൂന്ന് സ്ഥാപനങ്ങളും AI കമ്പനിയിൽ വിശ്വാസം വളർത്തിയ കാരണങ്ങൾ പങ്കുവെച്ചു.",
-  "why": "വലിയ നിക്ഷേപകർ AI കമ്പനികളെ എങ്ങനെ വിലയിരുത്തുന്നു എന്ന് അറിയുന്നത് യുവ ടെക് ആസ്വാദകർക്ക് പുതിയ സ്റ്റാർട്ടപ്പുകൾ തിരിച്ചറിയാൻ സഹായിക്കും. AI ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക, വെഞ്ചർ ഫണ്ടിംഗ് പഠിക്കുക.",
-  "tags": [
-   "AI",
-   "startup",
-   "investment",
-   "tech",
-   "funding"
-  ]
- },
- {
-  "id": "555b7cb0f63c",
-  "created": "2026-11-23T07:40:59+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Chess News | ChessBase",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9KcFRRdFVQTnV1R01GM2htOXB1eWM1TmU5UW9aVV9kejRWNndRZnpFSmQxcnhvU1J5MkFFLXVFQWE1RjJpOGhJb0FudnBRbWFSQjY2Nnd2djZJX2FERXFGbmhTOHdua0w1VXhHRkV4MDZPRzRpXzlNalVrR0ZMX3dsb1ZlYk1xNHZCX1FIRFNzeXgyLVlWR2xwUjc5aV9BeWVmYjd2WHlLYVU1aVRocg?oc=5",
-  "headline": "2026 ലോക ചസ്‌തം ശീർഷക മത്സരം ഇന്ന് ആരംഭിച്ചു",
-  "hook": "രക്ഷാകർതാവ് ഗുകേഷ്, സിന്ദറോവുമായുള്ള ആദ്യ കളി",
-  "what": "2026 FIDE ലോക ചസ്‌തം ചാമ്പ്യൻഷിപ്പ് പ്രസ് കോൺഫറൻസ്, ചടങ്ങുകളോടെ തുടങ്ങി. ആദ്യ ഗെയിമിൽ, പ്രതിരക്ഷകൻ ഗുകേഷ് കറുത്ത കല്ലുകൾ, സിന്ദറോവ് വെളുപ്പ്.",
-  "why": "ഇത് യുവ ചസ്‌തം കളിക്കാർക്ക് മികച്ച തന്ത്രങ്ങൾ കാണാൻ, സ്വന്തം കളി മെച്ചപ്പെടുത്താൻ പ്രചോദനം നൽകും.",
-  "tags": [
-   "ചസ്‌തം",
-   "വേൾഡ്‌ചാമ്പ്യൻഷിപ്പ്",
-   "ഗുകേഷ്",
-   "സിന്ദറോവ്",
-   "സ്പോർട്സ്"
-  ]
- },
- {
-  "id": "054af1c102e6",
-  "created": "2026-11-23T07:41:02+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "ScienceDaily",
-  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0STNVNnF5YnVEZ1pHUE5GZmNoMk1RRVo1bjdiSVdnWWk0Zkp3VjFVTEhHa1VZN3NKMDhKS2RhQk1ZS1FIeGV3RVBHT0ZhdzNTc1ljN0c4LTBrZmcyMDlYaS1aYUh3NG1wSGNFTm5qbw?oc=5",
-  "headline": "യു.എസിന് measles‑മുക്തി നില നഷ്ടം, കേസുകൾ 6,000‑നടുത്തു",
-  "hook": "വാക്‌സിൻ കപടവാദങ്ങൾ വീണ്ടും measles‑നെ തിരികെ കൊണ്ടുവന്നു.",
-  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് 25 വർഷം measles‑മുക്തി നിലയിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ടു. കേസുകൾ 6,000‑നടുത്തു ഉയർന്നു, രോഗവ്യാപനം വഷളായി. ആരോഗ്യ അധികാരികൾ ഈ വർദ്ധനവിന് വാക്‌സിൻ സംബന്ധമായ തെറ്റായ വിവരങ്ങൾ പ്രധാന കാരണമെന്ന് പറയുന്നു.",
-  "why": "തെറ്റായ വിവരങ്ങൾ ആരോഗ്യ നേട്ടങ്ങൾ നശിപ്പിക്കാം, അതിനാൽ ശരിയായ വാക്‌സിനേഷൻ വിവരങ്ങൾ അറിയേണ്ടത് അത്യാവശ്യമാണ്. യുവാക്കൾ വാക്‌സിനേഷൻ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കണം.",
-  "tags": [
-   "measles",
-   "വാക്‌സിൻ",
-   "പബ്ലിക് ഹെൽത്ത്",
-   "വൈറസ്",
-   "US"
-  ]
- },
- {
-  "id": "1371b80214ca",
-  "created": "2026-11-23T06:20:31+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNdDJYXzlHOFRDaU9xVUtNUUFmNlJQeTFsRU14TFZBVkgzYmdhbzdXaEt5VXJCbHBQMmVlNGw1S2U4dk95cUFmbWJ0bkZGcFdaekxlaVcxWjdjX3hkalpDbFVSd2tSS2RwclB2T05ad0tGY3JlbzR1ejRvdFBUUFp4NXozMzJ4SjhrbmN3aDUxVU1CazdiS1Z5Q01ScXhLNnd3QWNaRG9wekZxNGxyTjA0S0hwN1pyVGJnN1RlRklvRzRoMGlubUc1WVRTQ0pBTjhlcVp5MkhQazY3UzlLSkJyYjVCYTVuRjFEMXhPdnBoYVpFVEM2M2ZPdzFSR1VkQTFTdzlpLWhsQUtheGgyNk9mWVNjZ2NOalpHenQ1S2daNDY5czVmWWkyQjR6bl9aR04wS3ZEdkV0azBJdFpTb3B3?oc=5",
-  "headline": "ദുൾക്കറിന്റെ 'ആകാശത്തിൽ ഒരു താരം' 3 ദിവസത്തിൽ 13.1 കോടി",
-  "hook": "മൂന്നാം ഞായറാഴ്ചയിൽ സിനിമയുടെ ശേഖരം 29% വർധിച്ചു.",
-  "what": "മലയാളം ചിത്രം 'ആകാശത്തിൽ ഒരു താരം' ഇന്ത്യയിൽ മൂന്ന് ദിവസത്തെ ശുദ്ധ വരുമാനം 13.10 കോടി ആയി. ഞായറാഴ്ച അത് മുൻ ദിവസം比 29.2% ഉയർന്നു.",
-  "why": "യുവാക്കൾക്ക് സിനിമ കാണാൻ സമയം ലഭിച്ചു, ബോക്സ് ഓഫീസ് ശക്തി കാണിക്കുന്നു.",
-  "tags": [
-   "ദുൾക്കർ",
-   "ബോക്സോഫീസ്",
-   "ആകാശത്തിൽഒരു താരം",
-   "മോളിവുഡ്"
-  ]
- },
- {
-  "id": "4ac5346543a4",
-  "created": "2026-11-23T06:20:38+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg?oc=5",
-  "headline": "Houthis പറഞ്ഞു, സൌദി റബിഘ് റിഫൈനറി ലക്ഷ്യം, 6 പേർക്ക് പരിക്ക്",
-  "hook": "യമന്‍ ഹൂതി ഗ്രൂപ്പ് ഡ്രോണ്‍ ആക്രമണം നടത്തി, പ്രധാന എണ്ണക്കടയില്‍ പരിക്ക്",
-  "what": "യമന്‍ ഹൂതികള്‍ അവരുടെ ഡ്രോണുകള്‍ ഉപയോഗിച്ച് റെഡ് സീ തീരത്തെ സൌദി റബിഘ് എണ്ണറിഫൈനറിയും ഒരു റഡാറും ലക്ഷ്യമിട്ടതായി അവര്‍ പറഞ്ഞു. ഇതില്‍ കുറഞ്ഞത് ആറ് പേർക്ക് പരിക്ക് സംഭവിച്ചു. സൌദി വശത്ത് നാശം സ്ഥിരീകരിച്ചിട്ടില്ല.",
-  "why": "ഇത്തരത്തിലുള്ള ആക്രമണങ്ങള്‍ എണ്ണവിലകളെ ബാധിക്കാം, അതിനാല്‍ ഇന്ത്യയിലെ ഇന്ധന വിലകളിലും ബാധ ഉണ്ടാകാം. യാത്രാ ചെലവുകള്‍ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Houthis",
-   "SaudiOil",
-   "MiddleEast",
-   "OilPrices",
-   "YouthNews"
-  ]
- },
- {
-  "id": "f63602cd5192",
-  "created": "2026-11-23T06:20:41+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb3lfaXFRdnFjRWM3eE82RU1BNTBJNjZ6T1RnUXdobk5RTU9JOExiVzhSSGR6MllnQlBqZElJazh4YmlFd01lOFNpRkJtbV9SLTJqdUdObk0zWFdwWGN3UmEtQnJWdkdPbGRwMEtIZEpLVGd6U3N1eXVpcU1MTWp1eVljazBsSWE2ZVlJV2ZJbFo2YVRHNzJSNG9pNHI3SkxTZGlLTGsyUjB4RFhrUXJ5Nkl3S0N6VWhtMEhlNmNGNGNfc2tubGRqczRzbnQ3c0VLVTRETkJYc212RG9tOWl1UTJfdEp1NmhfN3dlR0IweERKZ9IB-AFBVV95cUxNdG5fMUFJUUNfR0hvbzJfTjJtcEVicGROMF83RHZ3a2NJWWVZWEhaVFdONTVvSUpQaVd2WWV3SGV5Ni02ZWFwcEJqR3BCbzctV2xMU0U0UTNuc3JJSER2aXhxLUF3Mm0wclRsR0t2dmsyLUxlUWNkbV9aT2p6dzN6OFBrdUl3X01mSW56ZnBVM1BucTJpUmtkRDNDOUx5WF8yckZWaGFyZGZSbWxoM19nX2w3OWktYW8xLWNNenZmbjRwZHFpLTlUNFV3UkFjSzlIRXF3akxOYmRRdThLVmVLUkZ5TzU4X18wejdURnVuNVlRTDRGYzBCVA?oc=5",
-  "headline": "സിയാറ്റിലിൽ ബാപ്തിസം യാത്രയിൽ ICE പിടിച്ചെടുത്തു",
-  "hook": "കുടുംബ ബാപ്തിസം യാത്രയിൽ ഐസി‌യുടെ അപ്രതീക്ഷിത ഇടപെടൽ.",
-  "what": "ഇമിഗ്രേഷൻ ഉദ്യോഗസ്ഥർ സിയാറ്റിൽ‑ടാകോമ അന്താരാഷ്ട്ര വിമാനത്താവളത്തിൽ ഒരു അച്ഛനും മകളും തടഞ്ഞു, അവർ കുടുംബ ബാപ്തിസം പോകുന്നതായി പറയുന്നു. അവരുടെ അഭിഭാഷകൻ ഈ യാത്രയുടെ ഉദ്ദേശം സ്ഥിരീകരിച്ചു.",
-  "why": "ഈ അറസ്റ്റുകൾ സംസ്ഥാന ഗവർണർ, തൊഴിലാളി യൂണിയനുകൾ, സിയാറ്റിൽ പോർട്ട് എന്നിവരുടെ കടുത്ത വിമർശനം നേടി, ICE നടപടികളിൽ കൂടുതൽ പരിശോധന ആവശ്യപ്പെടുന്നു.",
-  "tags": [
-   "ICE",
-   "Seattle",
-   "baptism",
-   "immigration",
-   "rights"
   ]
  }
 ]

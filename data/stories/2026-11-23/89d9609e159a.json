@@ -1,0 +1,37 @@
+{
+ "id": "89d9609e159a",
+ "created": "2026-11-23T16:30:15+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Esquire India",
+ "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXVzblhkc1dSRWI1dmxqWndSYXZZUkk0M3JfVHJkU09TVF9MNW8xRlVVT2Nwc3BzbU5SeVNjMm51Vnc4VEROeXc5Q2dxWVhDN1dfRFpSRlY5dUliY0xlMjlDNHFUNzhhUzExaURTNG1UZzc4Yi1iNm5RUkNXU1dnMjdObm13cjE5NG5rX2lmcXp5VlExRDBXemZVY3c4aHZzNV9IaGhabUNpN1RsM3RHRGd4LTN4R2hXTlBBMTQxem5zVEV0WHFmMG9DRlR3NFlPdnBLaWNILXZSWkdjOXM4Z2FPVXXSAfIBQVVfeXFMT0pfdkFtVlliT1BLNUdHdkViUmlOZHBFQThoNUZrTTdleEMydm9GMG1JZXBJYXc5LS1LRkgtQk1BaUkxams5M2J2UGV1WDdPV3VUWDJYeW1MajNXRkpaTGdXVndXVU9PQ1NNUXowMXlxbWVHYUxsYVNWdVBDLVJMRk1nNVNKcHlmNjZNNWp1Z3hZNVM1VWVwQzJzbVpMS3pVUHFZVndTaHRZNDVzekxCVE1DLVRkY01pVlBHenV6ZVo1MHhSbDAtQklEY1FIdkpDTFFpRHdmSlVfRThoeFRjbnFGb2U5TEZQcHdsNU1JeXFkb1E?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "New OTT Hits: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
+  "hook": "Stream the latest sci‑fi, mythic saga and thriller now.",
+  "what": "This week several new titles arrived on streaming platforms, including Blade Runner 2099, Hanuman Ansh and Drishyam 3. They are now available to watch online.",
+  "why": "These releases add fresh content for binge‑watchers and fans of sci‑fi, mythology and crime drama. Open your favourite OTT app and start streaming.",
+  "tags": [
+   "OTT",
+   "NewReleases",
+   "Streaming",
+   "Movies",
+   "Series"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ OTT റിലീസ്: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
+  "hook": "ഇപ്പോൾ തന്നെ സ്ട്രീം ചെയ്ത് പുതിയ സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ത്രില്ലർ ആസ്വദിക്കൂ.",
+  "what": "ഈ ആഴ്ച നിരവധി പുതിയ ഷോകൾ OTT പ്ലാറ്റ്ഫോമുകളിൽ ലഭ്യമായി, Blade Runner 2099, Hanuman Ansh, Drishyam 3 എന്നിവ ഉൾപ്പെടെ. ഇവയെല്ലാം ഓൺലൈൻ ആയി കാണാം.",
+  "why": "ബിംഗെ‑വാച്ചർമാർക്കും സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ക്രൈം ഡ്രാമാ ആരാധകർക്കും പുതിയ കണ്ടന്റുകൾ ലഭിക്കുന്നു. നിങ്ങളുടെ പ്രിയ OTT ആപ്പിൽ തുറന്ന് കാണൂ.",
+  "tags": [
+   "OTT",
+   "NewReleases",
+   "Streaming",
+   "Movies",
+   "Series"
+  ]
+ }
+}
