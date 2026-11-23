@@ -1,0 +1,37 @@
+{
+ "id": "85563e2edc18",
+ "created": "2026-11-23T12:21:32+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Business Standard",
+ "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZW1zdm1ETVYzS2NqQnRabEpUTXVLVmFVSFJVbl9LYmRGeFZ0anFaNWoxTkw4dnRwN2lHMlE4NnRBTHkwbWc3aExQY085czA5eURMenZrdlI0dEZ3Z1FXR1FZUEVSZmswUmt5Q0kxdWdEb2tuYWJ1UnBqSG9LZVhtNXBld0N3VDdfbG9UeER2WmQyR05XS3J5TnVqMUFkeW13X3A0MVBVbjBvc2FFWUxJamtiUUpWa0xkTVJTUWprZ1JtN08tS2h1WExkT1pEMm5nMlNYeldQNFFBM3NxeVBKZ2h4ZjdZYXRhZEdQWURlNUhaNTVWRmfSAfsBQVVfeXFMTTNaUFdPOVFOV1FxSXVlX2dFVnJobXZmWXZfRUV0bXhVSE5ScFRudXdvUVVaSzh2alFPV1NyU2lua1F1d295anJ0SjBLLWNzMnY1Sm9RaVhVb2tqT2F0V29xVmVBUTNkZFVDVENDc2drV3hoLUNpLUN6OS1tUTJsay14TlNaVDk0VXhqV1o1MVJHVy1xQVZvS3RJOVlyalQzODFxbWo2aU5MZVRTYUNIVVBxR1ZuTUQyRjZCVFNadFpuTXc1Q2hFYUNpR1c2bUgtRDhZZDhuMVJGeWNDd1I4Sk1rQ3I1ZDZuZVpNS2lBQ2UwXzNjZS16NXNES0E?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex falls ~900 pts, Nifty slips below 25,600",
+  "hook": "Markets tumble as global sell‑off hits Indian indices.",
+  "what": "The Sensex dropped about 900 points while the Nifty fell below the 25,600 mark in early trade. The defence‑focused Nifty index also slipped 1%.",
+  "why": "A worldwide sell‑off and profit‑taking after two days of gains are pulling the market down, so young investors should stay cautious and watch for further moves.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "defence",
+   "global"
+  ]
+ },
+ "ml": {
+  "headline": "Sensex ≈ 900 പോയിന്റ് വീഴ്ച, Nifty 25,600‑ക്കു താഴെ",
+  "hook": "ഗ്ലോബൽ സേൽ‑ഓഫ്‌ മൂലം ഇന്ത്യയുടെ മാർക്കറ്റുകൾ ഇടിഞ്ഞു.",
+  "what": "ആദ്യ വ്യാപാരത്തിൽ Sensex ≈ 900 പോയിന്റ് കുറഞ്ഞു, Nifty 25,600 മീതെ ഇടിഞ്ഞു. പ്രതിരക്ഷാ‑കേന്ദ്രിത Nifty ഇൻഡക്സ് 1 ശതമാനം താഴ്ന്നു.",
+  "why": "വിസ്വവ്യാപക സേൽ‑ഓഫ്‌യും രണ്ട് ദിവസത്തെ ഉയർച്ചയ്ക്ക് ശേഷം ലാഭം പിടിച്ചെടുക്കലും മാർക്കറ്റിനെ ബാധിച്ചതുകൊണ്ട്, യുവ നിക്ഷേപകർ ജാഗ്രത പാലിച്ച് അടുത്ത ചലനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "സെൻസെക്സ്",
+   "നിഫ്റ്റി",
+   "ഡിഫെൻസ്",
+   "ഗ്ലോബൽ"
+  ]
+ }
+}

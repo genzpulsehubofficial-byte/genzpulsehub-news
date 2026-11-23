@@ -1,5 +1,99 @@
 [
  {
+  "id": "85563e2edc18",
+  "created": "2026-11-23T12:21:32+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Business Standard",
+  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZW1zdm1ETVYzS2NqQnRabEpUTXVLVmFVSFJVbl9LYmRGeFZ0anFaNWoxTkw4dnRwN2lHMlE4NnRBTHkwbWc3aExQY085czA5eURMenZrdlI0dEZ3Z1FXR1FZUEVSZmswUmt5Q0kxdWdEb2tuYWJ1UnBqSG9LZVhtNXBld0N3VDdfbG9UeER2WmQyR05XS3J5TnVqMUFkeW13X3A0MVBVbjBvc2FFWUxJamtiUUpWa0xkTVJTUWprZ1JtN08tS2h1WExkT1pEMm5nMlNYeldQNFFBM3NxeVBKZ2h4ZjdZYXRhZEdQWURlNUhaNTVWRmfSAfsBQVVfeXFMTTNaUFdPOVFOV1FxSXVlX2dFVnJobXZmWXZfRUV0bXhVSE5ScFRudXdvUVVaSzh2alFPV1NyU2lua1F1d295anJ0SjBLLWNzMnY1Sm9RaVhVb2tqT2F0V29xVmVBUTNkZFVDVENDc2drV3hoLUNpLUN6OS1tUTJsay14TlNaVDk0VXhqV1o1MVJHVy1xQVZvS3RJOVlyalQzODFxbWo2aU5MZVRTYUNIVVBxR1ZuTUQyRjZCVFNadFpuTXc1Q2hFYUNpR1c2bUgtRDhZZDhuMVJGeWNDd1I4Sk1rQ3I1ZDZuZVpNS2lBQ2UwXzNjZS16NXNES0E?oc=5",
+  "headline": "Sensex falls ~900 pts, Nifty slips below 25,600",
+  "hook": "Markets tumble as global sell‑off hits Indian indices.",
+  "what": "The Sensex dropped about 900 points while the Nifty fell below the 25,600 mark in early trade. The defence‑focused Nifty index also slipped 1%.",
+  "why": "A worldwide sell‑off and profit‑taking after two days of gains are pulling the market down, so young investors should stay cautious and watch for further moves.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "defence",
+   "global"
+  ]
+ },
+ {
+  "id": "c21b7c9c793f",
+  "created": "2026-11-23T12:22:35+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5",
+  "headline": "Nepal PM visits India to discuss energy and connectivity",
+  "hook": "New talks could boost cross‑border projects for students and startups.",
+  "what": "Prime Minister Balendra Shah arrived in India for a bilateral meeting with Prime Minister Narendra Modi. The agenda includes cooperation on energy, transport links and trade. India is also weighing a $2 billion development package for Kathmandu.",
+  "why": "Stronger ties may open job opportunities and easier travel for Indian youth. Watch for upcoming projects that could affect education and employment prospects.",
+  "tags": [
+   "IndiaNepal",
+   "energy",
+   "trade",
+   "development",
+   "youth"
+  ]
+ },
+ {
+  "id": "922d94a0f5ba",
+  "created": "2026-11-23T12:22:38+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
+  "headline": "Bisleri claims its water meets safety standards after FSSAI probe",
+  "hook": "Your bottled water might still be safe, says the brand.",
+  "what": "Bisleri responded to a Food Safety and Standards Authority of India (FSSAI) action, stating that five out of six water samples taken from its Goa plant in September 2025 complied with required standards. An independent laboratory also reported that the bromate level in the contested sample was within the permissible limit. The company says it has not received any formal notice.",
+  "why": "Ensuring bottled water safety is crucial for daily hydration, especially for students and active teens. Consumers can continue using Bisleri but stay alert for any official updates.",
+  "tags": [
+   "Bisleri",
+   "WaterSafety",
+   "FSSAI",
+   "Health"
+  ]
+ },
+ {
+  "id": "0e00d0fe5c70",
+  "created": "2026-11-23T12:22:41+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHpFRVlpMElRNDFuR2czMUFtYTJaNkJKUVVlUXpCSXRJNTYwcFVGMWw2RzNIZGoxTVAzd2RWVC1hTGJkdXZXTWlCdThOQTNKcC13RWdDb0xRalNXa1R1bGtiWFhKUU00ZEJpaGl1c3h3WE0wNk9kc3pKUXJFYWt0NmI1SHJtQThDcFk2Q2NB?oc=5",
+  "headline": "Dulquer Salmaan's Telugu film sees modest rise on day 4",
+  "hook": "The star’s new movie is gaining traction but still faces box‑office hurdles.",
+  "what": "On its fourth day, Aakasamlo Oka Tara continued its theatrical run. Director Arun Gopy praised Dulquer Salmaan after screenings with non‑Malayali viewers. Reviews highlighted Salmaan and Satvika Veeravalli’s performances and the film’s hopeful theme. The Hindu noted a 29.2% jump on Sunday, pushing India net earnings to roughly Rs 13.1 crore, while other reports said the film is still struggling to pick up speed.",
+  "why": "The film’s mixed performance shows how regional cinema can attract a broader audience, and teens interested in movies can check it out to see fresh talent and storytelling.",
+  "tags": [
+   "DulquerSalmaan",
+   "TeluguFilm",
+   "BoxOffice",
+   "AakasamloOkaTara",
+   "GenZMovies"
+  ]
+ },
+ {
+  "id": "ee4486786ce7",
+  "created": "2026-11-23T12:22:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Bloomberg.com",
+  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
+  "headline": "Gold Bounces Back After Fed Rate Hike Bets Ease",
+  "hook": "Gold climbs as investors pause on near‑term US rate hikes.",
+  "what": "The metal recovered from a 14‑month low, moving above the $3,500 level. Traders cut expectations that the Federal Reserve will raise rates soon, and a tech sell‑off shifted money toward safe‑haven assets.",
+  "why": "Rising gold prices can impact savings and jewellery costs for Indian teens. Watch market trends before planning big purchases.",
+  "tags": [
+   "gold",
+   "markets",
+   "investing",
+   "finance",
+   "india"
+  ]
+ },
+ {
   "id": "c5d05bb61d37",
   "created": "2026-11-23T11:10:53+05:30",
   "category": "headlines",
@@ -656,99 +750,6 @@
    "GitHub",
    "gaming",
    "leak"
-  ]
- },
- {
-  "id": "78ef99aa5b36",
-  "created": "2026-11-23T04:43:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZnJ4ZnVjZlpKRHJNS3U3Q0ZDb3FFdHFiZjI1VGZNaHNFbkcxVWFJYVhmRWNtNlJUVFhLSmN2LTdNNVpLTl9oXzdHeEcxZmdoX1hudkM1NmY5ZFl3ZXRmUm5PTTZTTEJIWnFLZHRRVXVpWThMOWhlSUJlQVhpbGYyRzBCUnFLRUV3Y1lGMkhhWE5qbFdIZ0gxenhoWVNNZnlDcGxwUTFHLXg1TW1KaUZCLW5NbWhvXzFPUzRrU19kb1dva3NLbmFHLVdWTXRGdHhVWjZOMWpEWG5XeFdG?oc=5",
-  "headline": "Nvidia RTX Spark Mini PCs Launch in Europe",
-  "hook": "Compact powerhouses from Asus, Dell and MSI are now available overseas.",
-  "what": "Nvidia's RTX Spark mini desktop series arrived in Europe today. The units pack a 20‑core processor, up to 128 GB RAM, a 4 TB SSD and 6,144 CUDA cores. Asus, Dell and MSI are the first manufacturers offering the models.",
-  "why": "The specs make these tiny rigs suitable for gaming, content creation and AI work, so Indian teens interested in high‑performance computing should watch for local releases and pricing.",
-  "tags": [
-   "tech",
-   "Nvidia",
-   "miniPC",
-   "gaming",
-   "Europe"
-  ]
- },
- {
-  "id": "d01bbb042eeb",
-  "created": "2026-11-23T04:43:26+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Delhi/wanted-man-held-after-14-months-for-mob-attack-on-delhi-police-team-in-chhatarpur/article71731513.ece",
-  "headline": "Wanted mob attacker nabbed after 14 months",
-  "hook": "Police finally caught the suspect linked to a Delhi police assault.",
-  "what": "Arbaj Khan, also known as Baiju, was arrested on November 20 by the South district Special Staff. He had been wanted for a mob attack on a Delhi police team in Chhatarpur. The arrest took place in Gadpur village, Bhiwadi.",
-  "why": "The capture shows that authorities continue to pursue those involved in attacks on police, underscoring the importance of staying away from violent confrontations.",
-  "tags": [
-   "DelhiPolice",
-   "Chhatarpur",
-   "Arrest",
-   "MobAttack"
-  ]
- },
- {
-  "id": "85a7e1ba23cb",
-  "created": "2026-11-23T04:43:28+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1RMYTR3NWNtdW90QkhmVXBKR05TQTFXVHNhaU1EQXRqZE4tSmgyVHB1bjctakc1WHZ3RllvVGhFYVFDYzhRdXV2S24yMkpURU9IY3RDbXhzNl9Vb0ZITlBSQjBYQmhGcEQzXzNoRUNBZGtkeU45NVYxR3VnUnJtTElxQ2xBTkdLM2ptbXUzcXJaeXJnREVCeGlGWkNoYjREVk52VVlQalVuYzRMMFBSNXhPTUJlemdydEQ3VUx6ZjFNUC1vSkw0VF96U3gyUjRZUUgyUWpCemtnZw?oc=5",
-  "headline": "Trump aide demands clarity on Nvidia's China chip sales",
-  "hook": "A senior Trump staffer is pressing for answers on a big tech deal.",
-  "what": "Trump aide Bessent said the United States needs explanations about Nvidia selling chips to China. The comment was made amid ongoing scrutiny of technology exports. No further details were provided.",
-  "why": "Understanding such trade moves helps young Indians gauge global tech trends and potential market impacts. Keep an eye on policy debates that could affect tech availability and prices.",
-  "tags": [
-   "Nvidia",
-   "China",
-   "TechTrade",
-   "USPolitics"
-  ]
- },
- {
-  "id": "9d561cc7e83a",
-  "created": "2026-11-23T03:46:15+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-  "headline": "‘You Can See Everything’ documentary crosses $100M globally",
-  "hook": "A new doc on a Silicon Valley scandal is booming worldwide.",
-  "what": "The documentary ‘You Can See Everything’ about Elizabeth Holmes has earned over $100 million worldwide. It is now being released in international markets.",
-  "why": "Its popularity highlights strong interest in tech‑industry stories, and Indian viewers can stream it to learn about entrepreneurship risks.",
-  "tags": [
-   "docu",
-   "tech",
-   "streaming",
-   "entrepreneurship",
-   "India"
-  ]
- },
- {
-  "id": "df538031d139",
-  "created": "2026-11-23T03:47:19+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/mumbai/mumbai-police-to-issue-cards-with-qr-code-for-identity-checks/article71731836.ece",
-  "headline": "Mumbai Police launch QR‑code ID cards for officers",
-  "hook": "New digital cards let cops verify identities instantly.",
-  "what": "The city’s police force received QR‑code identity cards on Nov 21, 2026, after the launch by Devendra Fadnavis. The cards have been handed out to staff, including traffic police, as part of the force’s digitisation drive.",
-  "why": "The move aims to speed up identity verification and modernise policing, helping young citizens see a tech‑savvy police service.",
-  "tags": [
-   "Mumbai",
-   "Police",
-   "QRcode",
-   "Digital",
-   "Safety"
   ]
  }
 ]

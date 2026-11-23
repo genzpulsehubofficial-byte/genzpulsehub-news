@@ -1,0 +1,37 @@
+{
+ "id": "ee4486786ce7",
+ "created": "2026-11-23T12:22:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Bloomberg.com",
+ "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold Bounces Back After Fed Rate Hike Bets Ease",
+  "hook": "Gold climbs as investors pause on near‑term US rate hikes.",
+  "what": "The metal recovered from a 14‑month low, moving above the $3,500 level. Traders cut expectations that the Federal Reserve will raise rates soon, and a tech sell‑off shifted money toward safe‑haven assets.",
+  "why": "Rising gold prices can impact savings and jewellery costs for Indian teens. Watch market trends before planning big purchases.",
+  "tags": [
+   "gold",
+   "markets",
+   "investing",
+   "finance",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഫെഡ് റേറ്റ് ഹൈക്ക് ബേറ്റ് കുറയുമ്പോൾ ഗോൾഡ് മടങ്ങി ഉയർന്നു",
+  "hook": "യു.എസ്. റേറ്റ് ഉയർത്താൻ സാധ്യത കുറയുമ്പോൾ ഗോൾഡ് വില ഉയർന്നു.",
+  "what": "ഗോൾഡ് 14‑മാസം കുറഞ്ഞതിൽ നിന്ന് തിരിച്ചു വന്നു, $3,500‑ക്ക് മുകളിൽ എത്തി. ഫെഡറൽ റിസർവ് അടുത്തിടെ പലിശ ഉയർത്തും എന്ന പ്രതീക്ഷ കുറയുകയും, ടെക് സ്റ്റോക്കുകൾ ഇടിഞ്ഞതോടെ നിക്ഷേപകർ സുരക്ഷിത ആസ്തികളിലേക്ക് തിരിഞ്ഞു.",
+  "why": "ഗോൾഡ് വില ഉയർന്നാൽ യുവാക്കളുടെ സേവിംഗ്സും ആഭരണ ചെലവും ബാധിക്കാം. വലിയ വാങ്ങലുകൾക്ക് മുൻപ് മാർക്കറ്റ് സ്ഥിതിഗതികൾ നോക്കുക.",
+  "tags": [
+   "gold",
+   "markets",
+   "investing",
+   "finance",
+   "india"
+  ]
+ }
+}
