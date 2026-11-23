@@ -1,0 +1,37 @@
+{
+ "id": "b06e6638e47f",
+ "created": "2026-11-23T08:37:30+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSmdhaldXb0U1ZkdRM2RlWkRfWFZRa3BIS21TcGtBUWp4elN2Q2VrOHYxRTlSSHY2enpscWd2YXNxYTRwbTg4dGd0aTNCMWRoVmctNEIwWlQ2b1R2blVfRzJWbjJ3bFRpazZha3RqakhuU2dKRUVSZE9PMWR1Ri1ZRTBYR09lMWIxemc1YVZ4V0FLa09LUDVCa1lnenFSLW94T3Fhc0swWFVqcEl6SmhlZEc5b0w4am0zbjFmdlBuem9LQTNjR0JheGstSmd4VXlXdzU4OEFrb2E2TWRjY2hBTk5DM1Rsa2t4ZXlUZFFWaTY2NUxIcXJjX2dZWmtRSU9mVnF5bEhrd2I4QUnSAZACQVVfeXFMUDdtTWhXU3FiNXFXWDd3RzN4RkhQMEc1aXVrU1E5a2FZYXBxaHk1ZlN5c0RjNldmbG9RU0x0Y0pBNGtjSnpic0VYZW1qX2o4Yk9GTFpFQV9zN0FXTzBfdGg5Q3Rtb00zaXVoc3FXbG5BaWxmaWRhZUltYmwwZFVXSk5EV2wzcDMwbUljNDNnZmI1MDVpelVCbVhwd095RWxoTXAzTnAzd1gzTGZzNGJORXlaYTR3UkVZR281TWk0RUNtVkEtc0dDRmdkMks5YjNQaUI4Z1hBcWJrcjZ3dklINkhjOVN5XzVINjZQUUY3c3FIRkxKdlh3aXBsX1V3LWUzZmRCRWdsdmRyV1BWVXF0NV8?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex surges 898 points, Nifty hits 25,800 amid global cues",
+  "hook": "India’s markets climb while many world indices slip.",
+  "what": "On November 23, the Sensex rose by 898 points and the Nifty reached 25,800. The rise came as major global indices such as the DJIA, S&P, Nasdaq, Kospi, Nikkei and Taiwan’s market showed mixed signals.",
+  "why": "A strong domestic rally offers opportunities for young investors, but they should stay aware of global trends that could affect volatility.",
+  "tags": [
+   "stockmarket",
+   "Sensex",
+   "Nifty",
+   "globalindices",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Sensex 898 പോയിന്റ് ഉയർന്നു, Nifty 25,800‑ലേക്ക്, ഗ്ലോബൽ സൂചനകളോടെ",
+  "hook": "വേൾഡ് മാർക്കറ്റുകൾ ഇടിവിൽ, ഇന്ത്യയുടെ സ്റ്റോക്ക് മാർക്കറ്റ് ഉയരുന്നു.",
+  "what": "23 നവംബർ, Sensex 898 പോയിന്റ് വർധിച്ചു, Nifty 25,800 വരെ എത്തി. DJIA, S&P, Nasdaq, Kospi, Nikkei, Taiwan പോലുള്ള അന്താരാഷ്ട്ര സൂചികകളുടെ മാറ്റങ്ങൾക്കിടയിലും ഇത് സംഭവിച്ചു.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഈ ഉയർച്ച ഉപയോഗിച്ച് ലാഭം നേടാം, പക്ഷേ അന്താരാഷ്ട്ര പ്രവണതകൾ ശ്രദ്ധയിൽ വയ്ക്കണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "Sensex",
+   "Nifty",
+   "ഗ്ലോബൽ",
+   "നിക്ഷേപം"
+  ]
+ }
+}

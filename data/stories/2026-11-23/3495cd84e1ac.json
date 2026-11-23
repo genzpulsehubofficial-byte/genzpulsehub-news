@@ -1,0 +1,37 @@
+{
+ "id": "3495cd84e1ac",
+ "created": "2026-11-23T08:37:09+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/no-cop31-cover-decision-leaves-india-s-equity-finance-demands-unresolved-101795402935579.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India’s climate finance demands stay unsettled after COP31",
+  "hook": "India pushes for public, concessional climate money, but talks stalled",
+  "what": "At the recent COP31 summit, no agreement was reached on covering climate finance. India’s request for the funding to be mainly public and concessional remained unanswered. The country also warned against increasing the burden on developing nations.",
+  "why": "Young Indians should watch how climate funding policies could affect future jobs and sustainability projects. Stay informed and support initiatives that promote affordable green financing.",
+  "tags": [
+   "climatefinance",
+   "COP31",
+   "India",
+   "sustainability",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "COP31‑ലെ ഇന്ത്യയുടെ കാലാവസ്ഥ ധനവിനിയോഗം അനിശ്ചിതമായി",
+  "hook": "പൊതു, concessional ധനം ആവശ്യപ്പെടുന്ന ഇന്ത്യ, ചർച്ചകൾ നിർത്തി",
+  "what": "COP31 സമ്മേളനത്തിൽ കാലാവസ്ഥ ധനവിനിയോഗം സംബന്ധിച്ച തീരുമാനമില്ല. ഇന്ത്യയുടെ പൊതുവും concessional‑ഉം ആയ ധനവിനിയോഗം ആവശ്യപ്പെടൽ പരിഹരിക്കപ്പെട്ടില്ല. വികസനശേഷി രാജ്യങ്ങളിലേക്കുള്ള ഭാരം കൂടാതെ ധനം ലഭിക്കണമെന്ന് ഇന്ത്യ ഊന്നി പറഞ്ഞു.",
+  "why": "ഇത് യുവജനങ്ങളുടെ ഭാവി ജോലികളിലും സുസ്ഥിര പദ്ധതികളിലും സ്വാധീനം ചെലുത്താം. സൗജന്യവും പരിസ്ഥിതി സൗഹൃദവുമായ ധനവിനിയോഗം പിന്തുണയ്ക്കാൻ വിവരങ്ങൾ അറിയുക.",
+  "tags": [
+   "കാലാവസ്ഥധനം",
+   "COP31",
+   "ഇന്ത്യ",
+   "സുസ്ഥിരത",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "d1b6453264ef",
+ "created": "2026-11-23T08:37:28+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/guruvayur-dwadashi-pan-am-offering-weddings-krccpitv",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Guruvayur Temple Receives ₹16.43 Lakh Dwadashi Offering",
+  "hook": "57 early‑morning weddings and a crowd of 10,000 gathered for the feast.",
+  "what": "The temple collected 16.43 lakh rupees as Dwadashi panam. A total of 57 couples tied the knot before 8 am, and close to ten thousand people attended the communal meal.",
+  "why": "Such large gatherings show the continued cultural pull of temple festivals among youth, and remind them to respect local customs when attending.",
+  "tags": [
+   "Guruvayur",
+   "Dwadashi",
+   "TempleFest",
+   "YouthCulture",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുരുവായൂർ ക്ഷേത്രം 16.43 ലക്ഷം ദ്വാദശി പണം സ്വീകരിച്ചു",
+  "hook": "8 മണിക്ക് മുമ്പ് 57 വിവാഹങ്ങളും 10,000 പേർ ഭക്ഷണവിരുന്നും പങ്കെടുത്തു.",
+  "what": "ക്ഷേത്രം ദ്വാദശി പണമായി 16.43 ലക്ഷം രൂപ ശേഖരിച്ചു. രാവിലെ 8 മണിക്ക് മുമ്പ് 57 ദമ്പതികൾ വിവാഹം കഴിച്ചു, ഏകദേശം പത്ത് ആയിരം പേർ വിരുന്നിൽ പങ്കെടുത്തു.",
+  "why": "ഇത്തരത്തിലുള്ള വലിയ സംഗമങ്ങൾ ക്ഷേത്രോത്സവങ്ങളുടെ സാംസ്കാരിക ആകർഷണം കാണിക്കുന്നു, യുവാക്കൾക്ക് ഇവയിൽ പങ്കെടുക്കുമ്പോൾ പ്രാദേശിക ആചാരങ്ങളെ മാനിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "ഗുരുവായൂർ",
+   "ദ്വാദശി",
+   "ക്ഷേത്രോത്സവം",
+   "യുവസംസ്‌കാരം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

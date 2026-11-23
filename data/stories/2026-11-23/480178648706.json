@@ -1,0 +1,37 @@
+{
+ "id": "480178648706",
+ "created": "2026-11-23T08:37:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/address-terror-issue-through-joint-forum-says-pakistan-minister-malik-101795401960572.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Pakistani minister urges joint forum to tackle regional terror",
+  "hook": "Both India and Pakistan say terrorism hurts them both.",
+  "what": "During a visit to India for an SCO meeting, Pakistan’s minister said the terror problem impacts the whole region. He suggested creating a joint forum to address it, noting that Pakistan has also faced terrorism.",
+  "why": "Cooperation on security could improve safety for students and travelers across borders. Stay informed about regional peace initiatives.",
+  "tags": [
+   "terror",
+   "regionalsecurity",
+   "IndiaPakistan",
+   "SCO",
+   "jointforum"
+  ]
+ },
+ "ml": {
+  "headline": "പാകിസ്ഥാനി മന്ത്രി പ്രദേശിക ഭീകരതയ്‌ക്ക് സംയുക്ത ഫോറം ആവശ്യപ്പെട്ടു",
+  "hook": "ഇന്ത്യയും പാകിസ്ഥാനും ഇരുവരും ഭീകരതയിൽ നിന്ന് ബാധിക്കപ്പെട്ടതായി പറയുന്നു.",
+  "what": "SCO മീറ്റിംഗിനായി ഇന്ത്യ സന്ദർശിച്ചപ്പോൾ, പാകിസ്ഥാനി മന്ത്രി ഭീകരതാ പ്രശ്നം മുഴുവൻ പ്രദേശത്തെ ബാധിക്കുന്നതാണെന്ന് പറഞ്ഞു. അത് പരിഹരിക്കാൻ സംയുക്ത ഫോറം രൂപീകരിക്കണമെന്ന് അദ്ദേഹം നിർദേശിച്ചു, പാകിസ്ഥാനും ഭീകരതയിൽ നിന്ന് ബാധിക്കപ്പെട്ടിട്ടുണ്ടെന്ന് ചൂണ്ടിക്കാട്ടി.",
+  "why": "സുരക്ഷാ സഹകരണം വിദ്യാർത്ഥികളുടെയും യാത്രക്കാരുടെയും സുരക്ഷ വർദ്ധിപ്പിക്കാൻ സഹായിക്കും. പ്രദേശിക സമാധാന ശ്രമങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "tags": [
+   "ഭീകരത",
+   "പ്രദേശികസുരക്ഷ",
+   "ഇന്ത്യപാകിസ്ഥാൻ",
+   "SCO",
+   "ഫോറം"
+  ]
+ }
+}

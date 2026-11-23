@@ -1,0 +1,37 @@
+{
+ "id": "a072727147c0",
+ "created": "2026-11-23T08:37:21+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/fake-food-safety-officer-cheats-hotels-thrissur-arrested-rpcq0028",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Man pretends FSSAI inspector, dines free, extorts hotels in Thrissur",
+  "hook": "A fake health officer is scamming dozens of eateries.",
+  "what": "Police say a man disguised as a Food Safety Authority official visited more than 15 hotels in Thrissur, ate without paying and demanded money. The alleged fraud involved posing as a health inspector.",
+  "why": "Such scams threaten trust in food safety checks; youngsters should verify officials' identity before complying.",
+  "tags": [
+   "Thrissur",
+   "FSSAI",
+   "fraud",
+   "hotel",
+   "scam"
+  ]
+ },
+ "ml": {
+  "headline": "മാൻ FSSAI ഇൻസ്പെക്ടർ ആയി നടിച്ച് തൃശൂരിലെ ഹോട്ടലുകളിൽ സൗജന്യ ഭക്ഷണം, പണം മോഷ്ടിച്ചു",
+  "hook": "ഒരു വ്യാജ ആരോഗ്യ ഉദ്യോഗസ്ഥൻ നിരവധി ഭക്ഷണശാലകളെ ചതിക്കുന്നു.",
+  "what": "പോലീസ് പറയുന്നു, ഒരു വ്യക്തി FSSAI ഓഫീസർ, ഹെൽത്ത് ഇൻസ്പെക്ടർ ആയി നടിച്ച് തൃശൂരിലെ 15‑ത്തിലധികം ഹോട്ടലുകൾ സന്ദർശിച്ചു, പണം കൊടുക്കാതെ ഭക്ഷണം കഴിച്ചു, പണം ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത്തരമൊരു തട്ടിപ്പ് ഭക്ഷ്യ സുരക്ഷാ പരിശോധനകളിൽ വിശ്വാസം തകർക്കാം; യുവാക്കൾക്ക് ഉദ്യോഗസ്ഥരുടെ തിരിച്ചറിവ് പരിശോധിക്കാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Thrissur",
+   "FSSAI",
+   "തട്ടിപ്പ്",
+   "ഹോട്ടൽ",
+   "സ്കാം"
+  ]
+ }
+}
