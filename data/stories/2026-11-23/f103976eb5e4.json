@@ -1,0 +1,37 @@
+{
+ "id": "f103976eb5e4",
+ "created": "2026-11-23T21:15:34+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "MarketWatch",
+ "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia reinstates Jensen Huang, shares soar 30%",
+  "hook": "Wall Street bounces back as AI stocks rally.",
+  "what": "Nvidia announced Jensen Huang back as CEO, sending its stock up about 30%. Major US indexes jumped, with the Nasdaq gaining roughly 7%, and the S&P 500 and Dow also rising.",
+  "why": "The surge shows how AI‑related stocks can move markets, affecting investment opportunities for young investors. Keep an eye on tech stocks and consider diversifying.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "Nasdaq",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia Jensen Huang-നെ വീണ്ടും CEO ആക്കി, ഷെയറുകൾ 30% ഉയർന്നു",
+  "hook": "AI സ്റ്റോക്കുകളുടെ ഉയർച്ചയോടെ Wall Street വീണ്ടും ചലിച്ചു",
+  "what": "Nvidia Jensen Huang-നെ CEO ആയി തിരികെ നിയമിച്ചു, ഇതോടെ അതിന്റെ ഷെയറുകൾ ഏകദേശം 30% ഉയർന്നു. പ്രധാന യു.എസ്. സൂചികകൾ ഉയർന്നു, Nasdaq ഏകദേശം 7% വർദ്ധിച്ചു, S&P 500, Dow എന്നിവയും ഉയർന്നു.",
+  "why": "AI‑ബന്ധപ്പെട്ട കമ്പനികളുടെ ചലനങ്ങൾ മാർക്കറ്റിനെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ഇത് കാണിക്കുന്നു, യുവ നിക്ഷേപകർക്ക് അവസരങ്ങൾ സൃഷ്ടിക്കുന്നു. ടെക് സ്റ്റോക്കുകൾ ശ്രദ്ധിക്കുക, നിക്ഷേപം വൈവിധ്യമാക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "സ്റ്റോക്ക്‌മാർക്കറ്റ്",
+   "Nasdaq",
+   "നിക്ഷേപം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f0db71fbaaf8",
+ "created": "2026-11-23T21:15:39+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bomb threats sent to hundreds of schools in Germany, Denmark",
+  "hook": "Students and staff are on high alert after email threats hit schools.",
+  "what": "Police say about 450 schools in Germany and several in Denmark received bomb threats via email. Authorities are investigating the source of the messages.",
+  "why": "Such threats disrupt learning and raise safety concerns, reminding students to stay vigilant and follow school safety protocols.",
+  "tags": [
+   "bombthreats",
+   "school safety",
+   "Germany",
+   "Denmark",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "ജർമ്മനി, ഡെൻമാർക്കിലെ സ്കൂളുകൾക്ക് ബോംബ് ഭീഷണി",
+  "hook": "ഇമെയിൽ വഴി Hundreds സ്കൂളുകൾക്ക് ഭീഷണി, വിദ്യാർത്ഥികൾ ജാഗ്രതയിൽ.",
+  "what": "പോലീസ് പ്രകാരം ജർമ്മനിയിലെ 450-ത്തിലധികം സ്കൂളുകൾക്കും ഡെൻമാർക്കിലെ ചില സ്കൂളുകൾക്കും ഇമെയിൽ വഴി ബോംബ് ഭീഷണി ലഭിച്ചു. ഭീഷണിയുടെ ഉറവിടം അന്വേഷിക്കുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള ഭീഷണികൾ പഠനത്തെ ബാധിക്കുകയും സുരക്ഷാ ആശങ്കകൾ ഉയർത്തുകയും ചെയ്യുന്നു; വിദ്യാർത്ഥികൾ സ്കൂൾ സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "ബോംബ്ഭീഷണി",
+   "സ്കൂൾസുരക്ഷ",
+   "ജർമ്മനി",
+   "ഡെൻമാർക്ക്",
+   "വാർത്ത"
+  ]
+ }
+}

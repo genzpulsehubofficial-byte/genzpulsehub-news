@@ -1,14 +1,12 @@
 {
- "last_run": "2026-11-23T20:02:18+05:30",
- "fetched": 231,
- "made": 5,
+ "last_run": "2026-11-23T21:15:45+05:30",
+ "fetched": 275,
+ "made": 6,
  "providers": {
-  "groq": 5
+  "groq": 6
  },
  "dead_feeds": [
   "Indian Express",
-  "Google News Business",
-  "Google News Sports",
   "Onmanorama"
  ],
  "ai_all_failed": 0,

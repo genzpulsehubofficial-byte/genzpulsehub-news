@@ -1,5 +1,119 @@
 [
  {
+  "id": "2957e402b12d",
+  "created": "2026-11-23T21:15:30+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/nvidia-reinstates-jensen-huang-as-president-ceo/",
+  "headline": "NVIDIA puts Jensen Huang back as CEO",
+  "hook": "The chip giant’s top boss returns in under two weeks.",
+  "what": "NVIDIA announced that co‑founder Jensen Huang is once again serving as its president and chief executive officer. The decision was made just 11 days after his earlier departure.",
+  "why": "For Indian Gen Z interested in tech careers, this signals stability at a leading AI hardware firm. Keep an eye on NVIDIA’s product roadmaps and job openings.",
+  "tags": [
+   "NVIDIA",
+   "JensenHuang",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "f103976eb5e4",
+  "created": "2026-11-23T21:15:34+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "MarketWatch",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
+  "headline": "Nvidia reinstates Jensen Huang, shares soar 30%",
+  "hook": "Wall Street bounces back as AI stocks rally.",
+  "what": "Nvidia announced Jensen Huang back as CEO, sending its stock up about 30%. Major US indexes jumped, with the Nasdaq gaining roughly 7%, and the S&P 500 and Dow also rising.",
+  "why": "The surge shows how AI‑related stocks can move markets, affecting investment opportunities for young investors. Keep an eye on tech stocks and consider diversifying.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "Nasdaq",
+   "investing"
+  ]
+ },
+ {
+  "id": "aa93777566bc",
+  "created": "2026-11-23T21:15:37+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+  "headline": "Trump backs Jensen Huang’s Nvidia comeback, cites no wrongdoing",
+  "hook": "The ex‑president steps in as Nvidia’s chief returns.",
+  "what": "Former President Donald Trump said there’s no evidence of any misconduct regarding Jensen Huang’s return to Nvidia. He referenced the U.S. Attorney General while urging the company to keep its export‑control probe ongoing.",
+  "why": "For tech‑savvy youth, it shows political focus on a major chip maker and ongoing regulatory scrutiny, so stay aware of any policy shifts that could affect jobs or product availability.",
+  "tags": [
+   "Trump",
+   "Nvidia",
+   "JensenHuang",
+   "TechPolicy",
+   "ExportControl"
+  ]
+ },
+ {
+  "id": "f0db71fbaaf8",
+  "created": "2026-11-23T21:15:39+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
+  "headline": "Bomb threats sent to hundreds of schools in Germany, Denmark",
+  "hook": "Students and staff are on high alert after email threats hit schools.",
+  "what": "Police say about 450 schools in Germany and several in Denmark received bomb threats via email. Authorities are investigating the source of the messages.",
+  "why": "Such threats disrupt learning and raise safety concerns, reminding students to stay vigilant and follow school safety protocols.",
+  "tags": [
+   "bombthreats",
+   "school safety",
+   "Germany",
+   "Denmark",
+   "news"
+  ]
+ },
+ {
+  "id": "81fdaace49ee",
+  "created": "2026-11-23T21:15:43+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-civilian-defence-staff-seek-6-annual-increment-ops-and-50-da-merger-13-key-demands-explained-11795439112048.html",
+  "headline": "Civilian defence staff push for 6% raise, OPS‑DA merger",
+  "hook": "The union has filed 13 demands to the 8th Pay Commission.",
+  "what": "The Bharatiya Pratiraksha Mazdoor Sangh met the 8th Pay Commission for a second round of talks. It submitted a fresh memorandum that adds to a detailed representation made in April 2026, outlining 13 demands such as a 6% yearly increase and a merger of OPS with a 50% dearness allowance.",
+  "why": "Higher pay and allowances could affect future job prospects and salary structures in defence civilian roles, influencing career choices for youth interested in such jobs.",
+  "tags": [
+   "defence",
+   "paycommission",
+   "jobs",
+   "salary",
+   "union"
+  ]
+ },
+ {
+  "id": "4f1a9ab4bfdd",
+  "created": "2026-11-23T21:15:45+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tiruchi-road-accident-toll-rises-to-9/article71735471.ece",
+  "headline": "Nine dead in Tiruchi road crash",
+  "hook": "A road accident in Tiruchi claimed nine lives.",
+  "what": "A road accident occurred in Tiruchi. The death toll rose to nine.",
+  "why": "Road safety matters to everyone; follow traffic rules and avoid risky driving.",
+  "tags": [
+   "Tiruchi",
+   "roadaccident",
+   "safety",
+   "India",
+   "news"
+  ]
+ },
+ {
   "id": "90f831b4fd3e",
   "created": "2026-11-23T20:02:04+05:30",
   "category": "tech",
@@ -637,118 +751,6 @@
    "nifty",
    "defence",
    "global"
-  ]
- },
- {
-  "id": "c21b7c9c793f",
-  "created": "2026-11-23T12:22:35+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRi1rXzlya1hfdlVjcWRxYkFNdUF4d01CREF0cjhHUnJVTXBKeFp4b21kejVxdXVVcEt5M2pIdmhiM2hORUlHbWhFMVlSQi01VjlTLXkzRUh6Uy10UlZDeDdCU3laUVdINDJiWGwwQ2tTNVM3WFI0aU9xRUpZX3N1bDEyc1EzZURESHBUck84ajROajJmcC03R1JGbnpRd3haU3NYTWl6LVRISmtDT2NtQVpzSXBUaVBmWTFRUTdFSnVlRkFxdkZXXzZZQnlJYk9hdkVsMVB6ZHF4QWhhbUtIZ2VuQno2RlpkTlQ5dGRsdWdfcUVNRXQ4eDdSMFQ5RWVjdVHSAYgCQVVfeXFMT0c5UjlUaVBqN3IwcUhBQnhjTTk0OXJxakNEc3pDVEdkQ0RBVVlYQm9RMkhUQmZCYVlHVUMwSkRiZldxMC0zejJLNXA0aUh1bHdWdFlOSmRaZ2ZxNE9RanBrbFRZVGZkNTVkNWFwcEJfU1RPcllLWlB2d0s5T2pMcmdCbFpKSDRKd0hjTGVDZGxUdEFwTk9aeExhV3I1YU0zalZiSjd6VFJtTVlGcGFfcG9QMkhCNnlCRnpJYWVNQ2ZSLXd1cUV5eUZCeGlRRUExYlhmaDlncDBoRUN3WHFPR0x2SndYRXBZUm5hZzllZGt4Zzg5eUtKTmk5QzRvYmFpNTRZVUZLTjRa?oc=5",
-  "headline": "Nepal PM visits India to discuss energy and connectivity",
-  "hook": "New talks could boost cross‑border projects for students and startups.",
-  "what": "Prime Minister Balendra Shah arrived in India for a bilateral meeting with Prime Minister Narendra Modi. The agenda includes cooperation on energy, transport links and trade. India is also weighing a $2 billion development package for Kathmandu.",
-  "why": "Stronger ties may open job opportunities and easier travel for Indian youth. Watch for upcoming projects that could affect education and employment prospects.",
-  "tags": [
-   "IndiaNepal",
-   "energy",
-   "trade",
-   "development",
-   "youth"
-  ]
- },
- {
-  "id": "922d94a0f5ba",
-  "created": "2026-11-23T12:22:38+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/sci-tech/health/bisleri-says-its-water-safe-for-consumption-after-fssai-sanctions-prosecution-says-it-has-received-no-notice/article71733517.ece",
-  "headline": "Bisleri claims its water meets safety standards after FSSAI probe",
-  "hook": "Your bottled water might still be safe, says the brand.",
-  "what": "Bisleri responded to a Food Safety and Standards Authority of India (FSSAI) action, stating that five out of six water samples taken from its Goa plant in September 2025 complied with required standards. An independent laboratory also reported that the bromate level in the contested sample was within the permissible limit. The company says it has not received any formal notice.",
-  "why": "Ensuring bottled water safety is crucial for daily hydration, especially for students and active teens. Consumers can continue using Bisleri but stay alert for any official updates.",
-  "tags": [
-   "Bisleri",
-   "WaterSafety",
-   "FSSAI",
-   "Health"
-  ]
- },
- {
-  "id": "0e00d0fe5c70",
-  "created": "2026-11-23T12:22:41+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZHpFRVlpMElRNDFuR2czMUFtYTJaNkJKUVVlUXpCSXRJNTYwcFVGMWw2RzNIZGoxTVAzd2RWVC1hTGJkdXZXTWlCdThOQTNKcC13RWdDb0xRalNXa1R1bGtiWFhKUU00ZEJpaGl1c3h3WE0wNk9kc3pKUXJFYWt0NmI1SHJtQThDcFk2Q2NB?oc=5",
-  "headline": "Dulquer Salmaan's Telugu film sees modest rise on day 4",
-  "hook": "The star’s new movie is gaining traction but still faces box‑office hurdles.",
-  "what": "On its fourth day, Aakasamlo Oka Tara continued its theatrical run. Director Arun Gopy praised Dulquer Salmaan after screenings with non‑Malayali viewers. Reviews highlighted Salmaan and Satvika Veeravalli’s performances and the film’s hopeful theme. The Hindu noted a 29.2% jump on Sunday, pushing India net earnings to roughly Rs 13.1 crore, while other reports said the film is still struggling to pick up speed.",
-  "why": "The film’s mixed performance shows how regional cinema can attract a broader audience, and teens interested in movies can check it out to see fresh talent and storytelling.",
-  "tags": [
-   "DulquerSalmaan",
-   "TeluguFilm",
-   "BoxOffice",
-   "AakasamloOkaTara",
-   "GenZMovies"
-  ]
- },
- {
-  "id": "ee4486786ce7",
-  "created": "2026-11-23T12:22:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Bloomberg.com",
-  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVy1Pa3puQ1RUS0xLT3pTdTBrdUc0Q0J4TkFqMW81cXpOdUpQSU9LV2wtNlJIS19wOG9uMEVEUlZkZUNIQXJBcXdNeWdaV0JiXzF4WGluNWtSaVU4T09reFVtYkc0dXJOZkFLXzFMUGNzOVl1SHRVaG5PR3dvVnpwR3VTbGJibEloRHVzcjQxYWc5UWxZdWR5OWdmdGE5UTh0c1NSRF9vc09YUk1aVHNFNmFVZw?oc=5",
-  "headline": "Gold Bounces Back After Fed Rate Hike Bets Ease",
-  "hook": "Gold climbs as investors pause on near‑term US rate hikes.",
-  "what": "The metal recovered from a 14‑month low, moving above the $3,500 level. Traders cut expectations that the Federal Reserve will raise rates soon, and a tech sell‑off shifted money toward safe‑haven assets.",
-  "why": "Rising gold prices can impact savings and jewellery costs for Indian teens. Watch market trends before planning big purchases.",
-  "tags": [
-   "gold",
-   "markets",
-   "investing",
-   "finance",
-   "india"
-  ]
- },
- {
-  "id": "c5d05bb61d37",
-  "created": "2026-11-23T11:10:53+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/nepal-pm-balendra-shah-to-meet-pm-modi-today-whats-on-agenda-12363959#publisher=newsstand",
-  "headline": "Nepal PM Shah to meet Modi, receives Rashtrapati welcome",
-  "hook": "Young Nepalese leader heads to Delhi for a high‑profile meet.",
-  "what": "India’s Prime Minister Narendra Modi will host Nepal’s 35‑year‑old Prime Minister Balendra Shah. The Nepalese leader is set to receive a ceremonial welcome at the Rashtrapati Bhavan.",
-  "why": "The meeting is a major diplomatic event between the two neighboring nations, influencing decisions that affect young people.",
-  "tags": [
-   "India",
-   "Nepal",
-   "PMMeeting",
-   "Youth",
-   "Diplomacy"
-  ]
- },
- {
-  "id": "dd6e9b5e5472",
-  "created": "2026-11-23T11:11:56+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
-  "headline": "Nepal PM Balen Shah kicks off first India visit",
-  "hook": "First bilateral trip since taking office, talks on power and links",
-  "what": "Nepal’s prime minister Balen Shah arrived in India for his first official bilateral foreign visit since assuming office in March. The agenda includes discussions on energy cooperation and improving connectivity between the two countries.",
-  "why": "Stronger energy ties and better transport links can affect electricity costs and travel options for Indian youth. Keep an eye on any policy updates.",
-  "tags": [
-   "NepalIndia",
-   "EnergyTalks",
-   "YouthImpact",
-   "BilateralVisit"
   ]
  }
 ]

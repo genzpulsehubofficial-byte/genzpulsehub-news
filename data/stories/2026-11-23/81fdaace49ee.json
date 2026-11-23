@@ -1,0 +1,37 @@
+{
+ "id": "81fdaace49ee",
+ "created": "2026-11-23T21:15:43+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-civilian-defence-staff-seek-6-annual-increment-ops-and-50-da-merger-13-key-demands-explained-11795439112048.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Civilian defence staff push for 6% raise, OPS‑DA merger",
+  "hook": "The union has filed 13 demands to the 8th Pay Commission.",
+  "what": "The Bharatiya Pratiraksha Mazdoor Sangh met the 8th Pay Commission for a second round of talks. It submitted a fresh memorandum that adds to a detailed representation made in April 2026, outlining 13 demands such as a 6% yearly increase and a merger of OPS with a 50% dearness allowance.",
+  "why": "Higher pay and allowances could affect future job prospects and salary structures in defence civilian roles, influencing career choices for youth interested in such jobs.",
+  "tags": [
+   "defence",
+   "paycommission",
+   "jobs",
+   "salary",
+   "union"
+  ]
+ },
+ "ml": {
+  "headline": "സിവിലിയൻ ഡിഫൻസ് സ്റ്റാഫ് 6% വേതനവർധന, OPS‑DA മർജ്‌മെന്റ് ആവശ്യപ്പെടുന്നു",
+  "hook": "യൂണിയൻ 8th Pay Commission‑ലേക്ക് 13 ആവശ്യങ്ങൾ സമർപ്പിച്ചു.",
+  "what": "ഭാരതീയ പ്രതിരക്ഷ തൊഴിലാളി സംഘം 8th Pay Commission‑നൊപ്പം രണ്ടാം ചർച്ചാ സത്രം നടത്തി. ഏപ്രിൽ 2026‑ലെ വിശദമായ പ്രതിനിധാനം കൂട്ടിച്ചേർത്ത്, 6% വാർഷിക വർധനയും OPS‑നെ 50% ഡെയർനെസ് അലവൻസുമായി ചേർക്കലും ഉൾപ്പെടെ 13 ആവശ്യങ്ങൾ അടങ്ങിയ പുതിയ മെമ്മോരാണ്ടം സമർപ്പിച്ചു.",
+  "why": "വേതന വർധനയും അലവൻസ് മാറ്റങ്ങളും ഡിഫൻസ് സിവിലിയൻ ജോലികളിലെ ശമ്പള ഘടനയെ ബാധിക്കും, ഇത് ഈ മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് പ്രാധാന്യമുള്ളതാണ്.",
+  "tags": [
+   "defence",
+   "paycommission",
+   "jobs",
+   "salary",
+   "union"
+  ]
+ }
+}

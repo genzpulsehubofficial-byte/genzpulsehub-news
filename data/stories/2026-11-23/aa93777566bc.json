@@ -1,0 +1,37 @@
+{
+ "id": "aa93777566bc",
+ "created": "2026-11-23T21:15:37+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump backs Jensen Huang’s Nvidia comeback, cites no wrongdoing",
+  "hook": "The ex‑president steps in as Nvidia’s chief returns.",
+  "what": "Former President Donald Trump said there’s no evidence of any misconduct regarding Jensen Huang’s return to Nvidia. He referenced the U.S. Attorney General while urging the company to keep its export‑control probe ongoing.",
+  "why": "For tech‑savvy youth, it shows political focus on a major chip maker and ongoing regulatory scrutiny, so stay aware of any policy shifts that could affect jobs or product availability.",
+  "tags": [
+   "Trump",
+   "Nvidia",
+   "JensenHuang",
+   "TechPolicy",
+   "ExportControl"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് ജെൻസൻ ഹുവാങിന്റെ Nvidia മടങ്ങൽ പിന്തുണക്കുന്നു",
+  "hook": "മുൻ പ്രസിഡന്റ് Nvidiaയുടെ ചീഫ് മടങ്ങിയെത്തുമ്പോൾ ഇടപെടുന്നു.",
+  "what": "മുൻ പ്രസിഡണ്ട് ഡൊണൾഡ് ട്രംപ്, ജെൻസൻ ഹുവാങിന്റെ Nvidiaയിലേക്ക് മടങ്ങലിന് കുറ്റം തെളിയിക്കാൻ തെളിവില്ലെന്ന് പറഞ്ഞു. അദ്ദേഹം യു.എസ്. അറ്റോർണി ജനറലിനെ ഉദ്ധരിച്ച്, കമ്പനി എക്സ്പോർട്ട്‑കൺട്രോൾ അന്വേഷണത്തെ തുടർന്നു നടത്താൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ടെക്‌ക്കുതുകുള്ള യുവാക്കൾക്ക്, ചിപ്പ് കമ്പനികളിൽ രാഷ്ട്രീയ ശ്രദ്ധയും നിയന്ത്രണ പരിശോധനയും ഉണ്ടെന്ന് കാണിക്കുന്നു; നയമാറ്റങ്ങൾ ജോലി അല്ലെങ്കിൽ ഉൽപ്പന്ന ലഭ്യതയെ ബാധിക്കാം, അതിനാൽ ജാഗ്രതയോടെ ഇരിക്കുക.",
+  "tags": [
+   "ട്രംപ്",
+   "Nvidia",
+   "ജെൻസൻഹുവാങ്",
+   "ടെക്‌പോളിസി",
+   "എക്സ്പോർട്ട്കൺട്രോൾ"
+  ]
+ }
+}

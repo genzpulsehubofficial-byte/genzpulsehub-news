@@ -1,0 +1,37 @@
+{
+ "id": "4f1a9ab4bfdd",
+ "created": "2026-11-23T21:15:45+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tiruchi-road-accident-toll-rises-to-9/article71735471.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nine dead in Tiruchi road crash",
+  "hook": "A road accident in Tiruchi claimed nine lives.",
+  "what": "A road accident occurred in Tiruchi. The death toll rose to nine.",
+  "why": "Road safety matters to everyone; follow traffic rules and avoid risky driving.",
+  "tags": [
+   "Tiruchi",
+   "roadaccident",
+   "safety",
+   "India",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "തിരുചിയിൽ റോഡ് അപകടത്തിൽ ഒമ്പത് പേർ മരണം",
+  "hook": "തിരുചിയിലെ ഒരു റോഡ് അപകടത്തിൽ ഒമ്പത് പേർ കൊല്ലപ്പെട്ടു.",
+  "what": "തിരുചിയിൽ ഒരു റോഡ് അപകടം സംഭവിച്ചു. മരണസംഖ്യ ഒമ്പതിലേക്ക് ഉയർന്നു.",
+  "why": "റോഡ് സുരക്ഷ എല്ലാവർക്കും പ്രധാനമാണ്; ട്രാഫിക് നിയമങ്ങൾ പാലിച്ച് അപകടങ്ങൾ ഒഴിവാക്കാം.",
+  "tags": [
+   "തിരുചി",
+   "റോഡ്അപകടം",
+   "സുരക്ഷ",
+   "ഇന്ത്യ",
+   "വാർത്ത"
+  ]
+ }
+}

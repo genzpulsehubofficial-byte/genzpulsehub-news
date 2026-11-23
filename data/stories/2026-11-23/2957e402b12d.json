@@ -1,0 +1,37 @@
+{
+ "id": "2957e402b12d",
+ "created": "2026-11-23T21:15:30+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/nvidia-reinstates-jensen-huang-as-president-ceo/",
+ "source_count": 6,
+ "provider": "groq",
+ "en": {
+  "headline": "NVIDIA puts Jensen Huang back as CEO",
+  "hook": "The chip giant’s top boss returns in under two weeks.",
+  "what": "NVIDIA announced that co‑founder Jensen Huang is once again serving as its president and chief executive officer. The decision was made just 11 days after his earlier departure.",
+  "why": "For Indian Gen Z interested in tech careers, this signals stability at a leading AI hardware firm. Keep an eye on NVIDIA’s product roadmaps and job openings.",
+  "tags": [
+   "NVIDIA",
+   "JensenHuang",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "NVIDIA-യിൽ ജെൻസൻ ഹുവാങ് വീണ്ടും CEO",
+  "hook": "ചിപ്പ് ദിഗ്ഗജയുടെ മേധാവി രണ്ട് ആഴ്ചയ്ക്കുള്ളിൽ മടങ്ങി.",
+  "what": "NVIDIA പ്രഖ്യാപിച്ചു, സഹസ്ഥാപകനായ ജെൻസൻ ഹുവാങ് വീണ്ടും പ്രസിഡന്റ്, ചീഫ് എക്സിക്യൂട്ടീവ് ഓഫീസർ ആയി. ഈ തീരുമാനം അദ്ദേഹത്തിന്റെ മുൻ രാജി കഴിഞ്ഞ 11 ദിവസത്തിനുള്ളിലാണ്.",
+  "why": "ഇന്ത്യൻ ജെൻ Z-ക്കായി, AI ഹാർഡ്‌വെയർ മേഖലയിൽ സ്ഥിരതയുള്ള നേതൃപദവി കാണിക്കുന്നു. NVIDIAയുടെ ഉൽപ്പന്നങ്ങളും ജോലിഅവസരങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "NVIDIA",
+   "JensenHuang",
+   "TechJobs",
+   "AI",
+   "Gaming"
+  ]
+ }
+}
