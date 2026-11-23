@@ -1,0 +1,37 @@
+{
+ "id": "c5d05bb61d37",
+ "created": "2026-11-23T11:10:53+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/nepal-pm-balendra-shah-to-meet-pm-modi-today-whats-on-agenda-12363959#publisher=newsstand",
+ "source_count": 5,
+ "provider": "groq",
+ "en": {
+  "headline": "Nepal PM Shah to meet Modi, receives Rashtrapati welcome",
+  "hook": "Young Nepalese leader heads to Delhi for a high‑profile meet.",
+  "what": "India’s Prime Minister Narendra Modi will host Nepal’s 35‑year‑old Prime Minister Balendra Shah. The Nepalese leader is set to receive a ceremonial welcome at the Rashtrapati Bhavan.",
+  "why": "The meeting is a major diplomatic event between the two neighboring nations, influencing decisions that affect young people.",
+  "tags": [
+   "India",
+   "Nepal",
+   "PMMeeting",
+   "Youth",
+   "Diplomacy"
+  ]
+ },
+ "ml": {
+  "headline": "നെപ്പാളിന്റെ 35‑വയസ്സുകാരനായ പ്രധാനമന്ത്രി ശാ‍ഹിന് മോഡിയുമായി കൂടിക്കാഴ്ച, റാഷ്‌ട്രപതി ഭവനത്തിൽ ഔപചാരിക സ്വാഗതം",
+  "hook": "യുവാവായ നെപ്പാൾ PM, ഇന്ത്യയുടെ തലവനുമായി ഡെലിയിൽ കൂടുന്നു.",
+  "what": "ഇന്ത്യയുടെ പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി, 35‑വയസ്സുള്ള നെപ്പാൾ PM ബാലേന്ദ്ര ശാ‍ഹിനെ റാഷ്‌ട്രപതി ഭവനത്തിൽ ഔപചാരികമായി സ്വീകരിക്കും.",
+  "why": "ഇരുരാജ്യങ്ങളിലെ പ്രധാനപ്പെട്ട ഈ ദൂതപ്രവർത്തനം യുവജനങ്ങളെ ബാധിക്കുന്ന തീരുമാനങ്ങളെ സ്വാധീനിക്കാം.",
+  "tags": [
+   "India",
+   "Nepal",
+   "PMMeeting",
+   "Youth",
+   "Diplomacy"
+  ]
+ }
+}

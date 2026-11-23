@@ -1,0 +1,35 @@
+{
+ "id": "dd6e9b5e5472",
+ "created": "2026-11-23T11:11:56+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Nepal PM Balen Shah kicks off first India visit",
+  "hook": "First bilateral trip since taking office, talks on power and links",
+  "what": "Nepal’s prime minister Balen Shah arrived in India for his first official bilateral foreign visit since assuming office in March. The agenda includes discussions on energy cooperation and improving connectivity between the two countries.",
+  "why": "Stronger energy ties and better transport links can affect electricity costs and travel options for Indian youth. Keep an eye on any policy updates.",
+  "tags": [
+   "NepalIndia",
+   "EnergyTalks",
+   "YouthImpact",
+   "BilateralVisit"
+  ]
+ },
+ "ml": {
+  "headline": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രി ബാലൻ ഷാ ഇന്ത്യയിലേക്ക്",
+  "hook": "മാർച്ചിൽ വഹിച്ചുമുതൽ ആദ്യത്തെ ഇരട്ടരാജ്യ സന്ദർശനം, ഊർജ്ജവും ബന്ധങ്ങളും ചർച്ച",
+  "what": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രിയായ ബാലൻ ഷാ, മാർച്ചിൽ ഓഫീസ് ഏറ്റെടുത്തതുമുതൽ ആദ്യ ഔദ്യോഗിക ഇരട്ടരാജ്യ സന്ദർശനം ഇന്ത്യയിൽ ആരംഭിച്ചു. ഊർജ്ജ സഹകരണം, ബന്ധം മെച്ചപ്പെടുത്തൽ എന്നിവയാണ് ചർച്ചയുടെ വിഷയങ്ങൾ.",
+  "why": "ഇന്ത്യ-നെപ്പാൾ തമ്മിലുള്ള ഊർജ്ജവും ഗതാഗതവും മെച്ചപ്പെടുന്നത് യുവജനങ്ങളുടെ വൈദ്യുതി നിരക്കും യാത്രാ സൗകര്യങ്ങളും ബാധിക്കും. പുതിയ നയങ്ങളിലേക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "നെപ്പാൾഇന്ത്യ",
+   "ഊർജ്ജം",
+   "യുവജനങ്ങൾ",
+   "ഇരട്ടരാജ്യ"
+  ]
+ }
+}

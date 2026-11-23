@@ -1,5 +1,118 @@
 [
  {
+  "id": "c5d05bb61d37",
+  "created": "2026-11-23T11:10:53+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nepal-pm-balendra-shah-to-meet-pm-modi-today-whats-on-agenda-12363959#publisher=newsstand",
+  "headline": "നെപ്പാളിന്റെ 35‑വയസ്സുകാരനായ പ്രധാനമന്ത്രി ശാ‍ഹിന് മോഡിയുമായി കൂടിക്കാഴ്ച, റാഷ്‌ട്രപതി ഭവനത്തിൽ ഔപചാരിക സ്വാഗതം",
+  "hook": "യുവാവായ നെപ്പാൾ PM, ഇന്ത്യയുടെ തലവനുമായി ഡെലിയിൽ കൂടുന്നു.",
+  "what": "ഇന്ത്യയുടെ പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി, 35‑വയസ്സുള്ള നെപ്പാൾ PM ബാലേന്ദ്ര ശാ‍ഹിനെ റാഷ്‌ട്രപതി ഭവനത്തിൽ ഔപചാരികമായി സ്വീകരിക്കും.",
+  "why": "ഇരുരാജ്യങ്ങളിലെ പ്രധാനപ്പെട്ട ഈ ദൂതപ്രവർത്തനം യുവജനങ്ങളെ ബാധിക്കുന്ന തീരുമാനങ്ങളെ സ്വാധീനിക്കാം.",
+  "tags": [
+   "India",
+   "Nepal",
+   "PMMeeting",
+   "Youth",
+   "Diplomacy"
+  ]
+ },
+ {
+  "id": "dd6e9b5e5472",
+  "created": "2026-11-23T11:11:56+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece",
+  "headline": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രി ബാലൻ ഷാ ഇന്ത്യയിലേക്ക്",
+  "hook": "മാർച്ചിൽ വഹിച്ചുമുതൽ ആദ്യത്തെ ഇരട്ടരാജ്യ സന്ദർശനം, ഊർജ്ജവും ബന്ധങ്ങളും ചർച്ച",
+  "what": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രിയായ ബാലൻ ഷാ, മാർച്ചിൽ ഓഫീസ് ഏറ്റെടുത്തതുമുതൽ ആദ്യ ഔദ്യോഗിക ഇരട്ടരാജ്യ സന്ദർശനം ഇന്ത്യയിൽ ആരംഭിച്ചു. ഊർജ്ജ സഹകരണം, ബന്ധം മെച്ചപ്പെടുത്തൽ എന്നിവയാണ് ചർച്ചയുടെ വിഷയങ്ങൾ.",
+  "why": "ഇന്ത്യ-നെപ്പാൾ തമ്മിലുള്ള ഊർജ്ജവും ഗതാഗതവും മെച്ചപ്പെടുന്നത് യുവജനങ്ങളുടെ വൈദ്യുതി നിരക്കും യാത്രാ സൗകര്യങ്ങളും ബാധിക്കും. പുതിയ നയങ്ങളിലേക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "നെപ്പാൾഇന്ത്യ",
+   "ഊർജ്ജം",
+   "യുവജനങ്ങൾ",
+   "ഇരട്ടരാജ്യ"
+  ]
+ },
+ {
+  "id": "4632fa1c9823",
+  "created": "2026-11-23T11:11:59+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Bloomberg.com",
+  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
+  "headline": "Apple‑ന്റെ പഴയ AI പ്ലാൻ മത്സരത്തിൽ പിന്നിലാക്കാം",
+  "hook": "Apple‑ന്റെ AI തന്ത്രം ഇപ്പോൾ മത്സരത്തിൽ പിന്നിലായി.",
+  "what": "വിശകലകർ പറയുന്നത് Apple AI ഏജന്റുകൾക്കായി പഴയ രീതിയിലാണ് പ്രവർത്തിക്കുന്നത്, മറ്റ് കമ്പനികൾ മുന്നേറുകയാണ്. Siri‑യുമായി ബന്ധപ്പെട്ട പഴയ ഇൻഫ്രാസ്ട്രക്ചറിലെ ജോലികൾ കമ്പനി കുറച്ചു, പുതിയ AI പ്രോജക്റ്റുകൾക്ക് ബാധകമല്ല.",
+  "why": "ഇത് iPhone ഉപയോക്താക്കൾക്ക് AI ഫീച്ചറുകൾ മന്ദഗതിയിൽ വരാൻ കാരണമാകും. അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച്, AI ഉപകരണങ്ങൾ മന്ദഗതിയാണെങ്കിൽ മറ്റ് ആപ്പുകൾ പരീക്ഷിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Siri",
+   "technology",
+   "innovation"
+  ]
+ },
+ {
+  "id": "51195da5cdb6",
+  "created": "2026-11-23T11:12:01+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/vizhinjam-to-get-indias-first-outer-service-port-modelled-on-uaes-fujairah-yshkoumt",
+  "headline": "Vizhinjam-ൽ ഇന്ത്യയുടെ ആദ്യ ഔട്ടർ സർവീസ് പോർട്ട്",
+  "hook": "പ്രധാന അന്തർദേശീയ കടൽമാർഗത്തിൽ കപ്പലുകൾക്ക് സേവനങ്ങൾ നൽകാൻ Vizhinjam-ൽ പുതിയ ഔട്ടർ പോർട്ട്.",
+  "what": "UAE-യുടെ Fujairah മോഡലിൽ നിർമിക്കാൻ പദ്ധതിയിട്ട Vizhinjam-ലെ ഔട്ടർ സർവീസ് പോർട്ട് അന്തർദേശീയ ഷിപ്പിംഗ് ലൈനിന് അടുത്താണ്, കടന്നുപോകുന്ന കപ്പലുകൾക്ക് വിവിധ സേവനങ്ങൾ നൽകും.",
+  "why": "ഇത് കേരളത്തിലെ യുവാക്കൾക്ക് വ്യാപാര അവസരങ്ങളും ജോലികളും സൃഷ്ടിക്കാൻ സഹായിക്കും. വികസനത്തെക്കുറിച്ച് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Vizhinjam",
+   "Port",
+   "Shipping",
+   "Kerala",
+   "Infrastructure"
+  ]
+ },
+ {
+  "id": "ce67698a9673",
+  "created": "2026-11-23T11:12:04+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXM4Y2JIaVA1eFg2cTNjS1IwZnZyeVFQWHZ2VjRkWDE1NTZtVkxqSzVDVFJoUldLa3lCc1oxbGlob25pY0pUVERsMWZGWE9Ta0hZUV8wZlJ2a0JpSV9iLW9BT1hoN1ZqMUJZMDd1ZWNuVWh4NGxXODJVNHJ4cWV0VnQ2Q3g2dkh5VDhMOEVHYURaaTFqdlFHYzRwTkU2czRSaUl1Zlc4aDFEMkZuLUtJM0c5QWlFS0JfdUU3VFBaUXI2R1B3aVhCNXhNT0kwVTRYOUYwbjE5Vi1YSF93OUc0T9IB5wFBVV95cUxPNnYyX1Y4cnp3TEdTdGNBX2t6WlBzaVZiY1dfMWZpX0l0ZktQcW9zRXV3cHpnQWVGb2p3Zm8yOUJ0eEtGeGJ2Nk02RnRIYVR2MG9aTDFxN1I3dHRWaFdILUdiNzIwZkF5dFAtWUNuR0hUUXJINTlvYnRlMkxTeHFRendDdU9Md3M0OExfRl9Ec1NNcmppOWUxVFk2U0tJNUlzckpVUm1VejBld0JhMHlHWVF2X1AwNWppaE1zc2ozUFlwcVFRTUpBZm8xX1dRSGJzdURlN0w3WVhjN2R2MXFKUkV3UUduUmc?oc=5",
+  "headline": "Nvidia എക്സിക്യൂട്ടീവിന്റെ ബന്ധം ചൈനീസ് സ്പൈ ബന്ധങ്ങളുമായി, NYT പറയുന്നു",
+  "hook": "ഒരു പ്രണയകഥ സാങ്കേതിക രഹസ്യങ്ങളിലേക്ക് വഴിയൊരുക്കി.",
+  "what": "ന്യൂയോർക്ക്ടൈംസ് റിപ്പോർട്ട് ചെയ്തതനുസരിച്ച്, അലീസ് ഹുവാങ് Nvidiaയുടെ സിഇഒയുമായി ബന്ധത്തിൽ ആയിരിക്കുമ്പോൾ ചൈനീസ് ഗൂഢാലോചന ഏജൻസിയുമായി ബന്ധം പുലർത്തിയതായി കണ്ടെത്തി. ഈ വാർത്ത മറ്റ് മാധ്യമങ്ങളിലുമുള്ള വ്യാപകമായ ചിപ് നെറ്റ്‌വർക്കുമായി ബന്ധപ്പെട്ടതായി സൂചിപ്പിക്കുന്നു.",
+  "why": "ടെക് സുരക്ഷയും അന്താരാഷ്ട്ര ഗൂഢാലോചനയും തമ്മിലുള്ള ബന്ധം കാണിക്കുന്നു, ഡാറ്റാ പ്രൈവസി, സൈബർ സുരക്ഷ എന്നിവയിൽ ജാഗ്രത പാലിക്കാൻ യുവാക്കൾക്ക് പ്രാധാന്യം.",
+  "tags": [
+   "Nvidia",
+   "spy",
+   "tech",
+   "security",
+   "AI"
+  ]
+ },
+ {
+  "id": "283b4d1bb649",
+  "created": "2026-11-23T11:12:06+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/gold-silver-prices-shimla-jewellers-opportunity-wedding-season-sharp-decline-in-check-retail-rates-himachal-city-mumbai-11795400397897.html",
+  "headline": "ഗോൾഡ് വില ഇടിവ് ഷിംലയുടെ വിവാഹ സീസണിൽ ജ്വല്ലറി ബുക്കിംഗുകൾക്ക് ഉത്തേജനം",
+  "hook": "കുറഞ്ഞ ഗോൾഡ് നിരക്കുകൾ യുവ ദമ്പതികളെ വേഗത്തിൽ ബുക്ക് ചെയ്യാൻ പ്രേരിപ്പിക്കുന്നു",
+  "what": "ഗോൾഡും വെള്ളിയും വിലയിൽ വലിയ ഇടിവ് വന്നതോടെ ഷിംലയിൽ വിവാഹം കഴിക്കാൻ പോകുന്നവരുടെ ജ്വല്ലറി ബുക്കിംഗുകൾ വർധിച്ചു. കടക്കാർ കുറഞ്ഞ വിലയിൽ ഉപഭോക്താക്കൾക്ക് വാങ്ങാൻ അവസരം ലഭിച്ചതായി പറയുന്നു.",
+  "why": "വിവാഹം പ്ലാൻ ചെയ്യുന്നവർക്കോ സമ്മാനങ്ങൾ വാങ്ങാൻ ആഗ്രഹിക്കുന്നവർക്കോ ഈ വിലക്കുറവ് ചെലവു ലാഭം നൽകും. വാങ്ങുന്നതിന് മുമ്പ് വിലമാറ്റങ്ങൾ ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വിവാഹം",
+   "ഷിംല",
+   "വില",
+   "ജ്വല്ലറി"
+  ]
+ },
+ {
   "id": "0a050e0ddd7c",
   "created": "2026-11-23T09:49:57+05:30",
   "category": "headlines",
@@ -636,119 +749,6 @@
    "QRcode",
    "ഡിജിറ്റൽ",
    "സുരക്ഷ"
-  ]
- },
- {
-  "id": "793f85aa40b7",
-  "created": "2026-11-23T03:47:21+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/man-injured-in-crocodile-attack-near-chidambaram/article71730998.ece",
-  "headline": "ചിദംബരത്തിന് സമീപം കൂമ്പാരം കടിച്ചതില്‍ ഒരു മനുഷ്യന് പരിക്ക്",
-  "hook": "കൂമ്പാരത്തിന്റെ കടിയാല്‍ ഒരു ആളിന് പരിക്ക് സംഭവിച്ചു.",
-  "what": "ചിദംബരത്തിന് സമീപം ഒരു മനുഷ്യന് കൂമ്പാരം കടിച്ചു, അവന് പരിക്ക് ലഭിച്ചു. സംഭവം ആ പ്രദേശത്ത് റിപ്പോര്‍ട്ട് ചെയ്തു.",
-  "why": "ജലാശയങ്ങളോട് അടുത്തിടത്ത് വന്യജീവി ആക്രമണങ്ങള്‍ അപകടം സൃഷ്ടിക്കാം, അതിനാല്‍ യുവാക്കള്‍ ജാഗ്രത പാലിക്കണം.",
-  "tags": [
-   "കൂമ്പാരം",
-   "ചിദംബരം",
-   "വന്യജീവി",
-   "സുരക്ഷ",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "178d73787b98",
-  "created": "2026-11-23T03:47:23+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Oncodaily",
-  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41VEIyWVA4ckE2cV9wM0lpa0ttT3Y4ZmJ5anhfQlNJV0k0Z3NzeHRkbXExWU1ZY3VWdEstTzB1S055WkNaWnF1V2ZVMVZNcjg4MElVV1Z3YWNIVkw1T1RSczBucV9PRGNBWjBYNDhnZUtYdw?oc=5",
-  "headline": "Strand Life Sciences‑ന്റെ വിലകുറഞ്ഞ മള്‍ട്ടി‑കാന്‍സര്‍ ബ്ലഡ് ടെസ്റ്റ് കൂടുതല്‍ ആശുപത്രികളിലേക്ക്",
-  "hook": "പല തരത്തിലുള്ള കാന്‍സറുകള്‍ കണ്ടെത്താന്‍ സഹായിക്കുന്ന പുതിയ രക്തപരിശോധന കൂടുതല്‍ സ്ഥലങ്ങളിലേക്ക് വരുന്നു.",
-  "what": "Strand Life Sciences തന്റെ മള്‍ട്ടി‑കാന്‍സര്‍ കണ്ടെത്തല്‍ രക്തപരിശോധന കൂടുതല്‍ ആശുപത്രികളില്‍ അവതരിപ്പിക്കുകയും ചെലവ് കുറയ്ക്കാന്‍ ശ്രമിക്കുകയും ചെയ്യുമെന്ന് പ്രഖ്യാപിച്ചു. കൂടാതെ, ഈ ടെസ്റ്റ് യു.എസ്.യും ദക്ഷിണ‑കിഴക്കന്‍ ഏഷ്യാ വിപണികളിലേക്കും വ്യാപിപ്പിക്കാനാണ് ലക്ഷ്യം.",
-  "why": "വിലകുറഞ്ഞ, മുന്‍കൂട്ടി കണ്ടെത്തല്‍ സ്ക്രീനിംഗ് യുവജനങ്ങള്‍ക്ക് രോഗം നേരത്തെ കണ്ടെത്താന്‍ സഹായിക്കും, ചികിത്സാ ചെലവ് കുറയ്ക്കാന്‍ ഇടയാക്കും. അടുത്തിടെ നിങ്ങളുടെ സമീപത്തെ ലാബില്‍ ലഭ്യമാകുന്ന പരിശോധനകള്‍ പരിശോധിക്കുക.",
-  "tags": [
-   "കാന്‍സര്‍സ്ക്രീനിംഗ്",
-   "രക്തപരിശോധന",
-   "StrandLife",
-   "ഹെല്‍ത്ത്‌ടെക്",
-   "മുന്‍കൂട്ടിദെറ്റക്ഷന്‍"
-  ]
- },
- {
-  "id": "3de25e3b587e",
-  "created": "2026-11-23T03:47:25+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Conversation",
-  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1ZBZG1PMFRKWlRNWjhUTWY4aHV4RVVoM0FCRG52bzR6bEUxbDhHZ2d5ZmsyM0pXcXJVb2lHVy16VlRHVmlsSjNFMzhnU18wXy01VE5mS1h5eUhCeG9obVRDSGxYZkhXdFhtMW85cWNWMjNteW93OV9FMHVqVVVHNllPa3pVNThKX2RNVW81Ry1GeHVEUTgwcXZwNlMxZDFMMHRYWWJreUFsZmtpMEdoRQ?oc=5",
-  "headline": "GTA 6‑ലെ ക്ലിപ്പില്‍ സ്ത്രീയെ 24 തവണ വെടിവെച്ചു, ചര്‍ച്ചയ്ക്ക് ഇടയാക്കി",
-  "hook": "വൈറല്‍ ഗെയിംപ്ലേ വീഡിയോയില്‍ ഹിംസാ വിഷയത്തില്‍ പുതിയ ചർച്ചകള്‍ ഉണര്‍ന്നു.",
-  "what": "ഓണ്‍ലൈനില്‍ ചുറ്റി വരുന്ന ഒരു വീഡിയോയില്‍ GTA 6‑ല്‍ ഒരു പ്ലെയര്‍ സ്ത്രീ കഥാപാത്രത്തെ 24 തവണ വെടിവെക്കുന്നത് കാണിക്കുന്നു. ഈ ക്ലിപ്പ് ഗെയിമിലെ കൊലപാതകവും ലൈംഗിക ആക്രമണവും തമ്മിലുള്ള അംഗീകാരം സംബന്ധിച്ച് ചര്‍ച്ചകള്‍ സൃഷ്ടിച്ചു.",
-  "why": "യുവജനങ്ങളും മാതാപിതാക്കളും ഇത്തരം ഉള്ളടക്കത്തിന്റെ സ്വാധീനം പരിഗണിക്കണം; ചില ഇന്‍ഫ്ലുവന്‍സര്‍മാര്‍ ഈ ഗെയിം കുട്ടികളില്‍ നിന്ന് അകലെയാക്കാന്‍ ഉപദേശിക്കുന്നു.",
-  "tags": [
-   "GTA6",
-   "ഗെയിമിംഗ്",
-   "ഹിംസ",
-   "മാതാപിതാക്കൾ",
-   "ചർച്ച"
-  ]
- },
- {
-  "id": "716c53fa8fce",
-  "created": "2026-11-23T02:56:25+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-  "headline": "OpenAI പ്രധാന ശാസ്ത്രജ്ഞൻ പറയുന്നു AI വേഗപരിധിക്ക് അളവ് ആവശ്യമുണ്ട്",
-  "hook": "AI വളർച്ചയെ മന്ദഗതിയാക്കാൻ പുതിയ ഒരു കാഴ്ചപ്പാട്.",
-  "what": "OpenAIയുടെ പ്രധാന ശാസ്ത്രജ്ഞൻ AI വികസനത്തിന് വേഗപരിധി നിശ്ചയിക്കാൻ ആദ്യം അതിന്റെ വേഗം എങ്ങനെ അളക്കാം എന്ന് ഒരു ഏകോപിത മാർഗം വേണമെന്ന് വിശദീകരിച്ചു. അളവുകോലുകൾക്ക് സമ്മതം ഇല്ലാതെ പരിധി പ്രാവർത്തികമാക്കാൻ സാധിക്കില്ലെന്ന് അദ്ദേഹം ഊന്നി പറഞ്ഞു.",
-  "why": "AI നിയന്ത്രണത്തെക്കുറിച്ചുള്ള ചർച്ചകൾ അറിയുന്നത് യുവജനങ്ങൾക്ക് ഭാവി സാങ്കേതിക നയങ്ങളോട് സജ്ജമാകാൻ സഹായിക്കും. ഈ വിഷയങ്ങളിലേയ്ക്ക് ശ്രദ്ധ കൊടുക്കുക, കാരണം അത് നിങ്ങൾ ഉപയോഗിക്കുന്ന ആപ്പുകളും സേവനങ്ങളും ബാധിച്ചേക്കാം.",
-  "tags": [
-   "AI",
-   "OpenAI",
-   "നിയന്ത്രണം",
-   "ടെക്",
-   "ഭാവി"
-  ]
- },
- {
-  "id": "66ae122a2b7c",
-  "created": "2026-11-23T02:56:27+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-  "headline": "ഇന്ന് തന്നെ പുതിയ സുഹൃത്തുക്കൾ കണ്ടെത്താൻ മികച്ച ആപ്പുകൾ",
-  "hook": "നിനക്ക് വേണ്ടി രൂപകൽപ്പന ചെയ്ത ആപ്പുകൾ കൊണ്ട് ഉടൻ തന്നെ കൂട്ടുകാരെ കണ്ടെത്തൂ",
-  "what": "സുഹൃത്തുകൾ കണ്ടെത്താൻ സഹായിക്കുന്ന ആപ്പുകളുടെ പുതിയ ലിസ്റ്റ്, BFF പോലുള്ള ഡിസ്‌കവറി ടൂൾസ് മുതൽ Timeleft പോലുള്ള ഇവന്റ്‑ഫോക്കസ്ഡ് പ്ലാറ്റ്ഫോം വരെ ഉൾക്കൊള്ളുന്നു.",
-  "why": "ഇന്ത്യയിലെ യുവാക്കൾക്ക് അവരുടെ സോഷ്യൽ നെറ്റ്‌വർക്കുകൾ വികസിപ്പിക്കാനും ഇവന്റുകളിൽ പങ്കുചേരാനും ഇത് സഹായിക്കും; ലിസ്റ്റിലെ ആപ്പുകൾ പരീക്ഷിച്ച് ബന്ധങ്ങൾ സൃഷ്ടിക്കുക.",
-  "tags": [
-   "സുഹൃത്തുകൾ",
-   "ആപ്പുകൾ",
-   "സോഷ്യൽ",
-   "BFF",
-   "Timeleft"
-  ]
- },
- {
-  "id": "18ffd3a05345",
-  "created": "2026-11-23T02:56:30+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/18th-up-legislative-assembly-sits-less-than-90-days-experts-point-to-unhealthy-concentration-of-power-in-the-executive/article71732384.ece",
-  "headline": "യു.പി. അസംബ്ലി 90 ദിവസത്തിൽ താഴെ, വിദഗ്ധർ ശക്തി കേന്ദ്രീകരണം ചൂണ്ടിക്കാട്ടി",
-  "hook": "നിങ്ങളുടെ പ്രതിനിധികൾ കുറച്ച് മാത്രമേ കൂടിക്കാഴ്ച നടത്തൂ—നിങ്ങളുടെ ശബ്ദം നഷ്ടമാകുമോ?",
-  "what": "18-ാം ഉത്തർപ്രദേശ് നിയമസഭ 90 ദിവസത്തിൽ താഴെ മാത്രമാണ് കൂടിയിരിക്കുന്നത്. വിദഗ്ധർ പറയുന്നു, ഇതു നിയമനിർമ്മാണ മേൽനോട്ടം കുറയ്ക്കുകയും എം.എൽ.എമാർക്ക് ജനകീയ പ്രശ്നങ്ങൾ ഉയർത്താനുള്ള അവസരം കുറയ്ക്കുകയും ചെയ്യുന്നു.",
-  "why": "കൂടിയില്ലാത്ത യോഗങ്ങൾ എക്സിക്യൂട്ടീവിന് കൂടുതൽ നിയന്ത്രണമില്ലാത്ത ശക്തി നൽകുന്നു, ഇത് യുവജനങ്ങളെയുൾപ്പെടെ എല്ലാവരെയും ബാധിക്കും. പ്രതിനിധികളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കുക, അവരുടെ പ്രവർത്തനങ്ങൾ നിരീക്ഷിക്കുക.",
-  "tags": [
-   "UPElection",
-   "Legislature",
-   "YouthVoice",
-   "Governance"
   ]
  }
 ]

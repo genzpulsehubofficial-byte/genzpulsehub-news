@@ -1,0 +1,37 @@
+{
+ "id": "4632fa1c9823",
+ "created": "2026-11-23T11:11:59+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Bloomberg.com",
+ "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple's Old AI Playbook Risks Falling Behind Competitors",
+  "hook": "Apple’s AI strategy may be losing the race.",
+  "what": "Analysts say Apple is still using an outdated approach to AI agents while rivals move ahead. The company recently cut Siri jobs tied to older infrastructure, though newer AI projects were spared.",
+  "why": "For Gen Z, this could mean slower rollout of AI features on iPhones and apps they use. Keep an eye on updates and consider alternatives if AI tools lag.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Siri",
+   "tech",
+   "innovation"
+  ]
+ },
+ "ml": {
+  "headline": "Apple‑ന്റെ പഴയ AI പ്ലാൻ മത്സരത്തിൽ പിന്നിലാക്കാം",
+  "hook": "Apple‑ന്റെ AI തന്ത്രം ഇപ്പോൾ മത്സരത്തിൽ പിന്നിലായി.",
+  "what": "വിശകലകർ പറയുന്നത് Apple AI ഏജന്റുകൾക്കായി പഴയ രീതിയിലാണ് പ്രവർത്തിക്കുന്നത്, മറ്റ് കമ്പനികൾ മുന്നേറുകയാണ്. Siri‑യുമായി ബന്ധപ്പെട്ട പഴയ ഇൻഫ്രാസ്ട്രക്ചറിലെ ജോലികൾ കമ്പനി കുറച്ചു, പുതിയ AI പ്രോജക്റ്റുകൾക്ക് ബാധകമല്ല.",
+  "why": "ഇത് iPhone ഉപയോക്താക്കൾക്ക് AI ഫീച്ചറുകൾ മന്ദഗതിയിൽ വരാൻ കാരണമാകും. അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച്, AI ഉപകരണങ്ങൾ മന്ദഗതിയാണെങ്കിൽ മറ്റ് ആപ്പുകൾ പരീക്ഷിക്കുക.",
+  "tags": [
+   "Apple",
+   "AI",
+   "Siri",
+   "technology",
+   "innovation"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "ce67698a9673",
+ "created": "2026-11-23T11:12:04+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXM4Y2JIaVA1eFg2cTNjS1IwZnZyeVFQWHZ2VjRkWDE1NTZtVkxqSzVDVFJoUldLa3lCc1oxbGlob25pY0pUVERsMWZGWE9Ta0hZUV8wZlJ2a0JpSV9iLW9BT1hoN1ZqMUJZMDd1ZWNuVWh4NGxXODJVNHJ4cWV0VnQ2Q3g2dkh5VDhMOEVHYURaaTFqdlFHYzRwTkU2czRSaUl1Zlc4aDFEMkZuLUtJM0c5QWlFS0JfdUU3VFBaUXI2R1B3aVhCNXhNT0kwVTRYOUYwbjE5Vi1YSF93OUc0T9IB5wFBVV95cUxPNnYyX1Y4cnp3TEdTdGNBX2t6WlBzaVZiY1dfMWZpX0l0ZktQcW9zRXV3cHpnQWVGb2p3Zm8yOUJ0eEtGeGJ2Nk02RnRIYVR2MG9aTDFxN1I3dHRWaFdILUdiNzIwZkF5dFAtWUNuR0hUUXJINTlvYnRlMkxTeHFRendDdU9Md3M0OExfRl9Ec1NNcmppOWUxVFk2U0tJNUlzckpVUm1VejBld0JhMHlHWVF2X1AwNWppaE1zc2ozUFlwcVFRTUpBZm8xX1dRSGJzdURlN0w3WVhjN2R2MXFKUkV3UUduUmc?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia exec’s alleged affair linked to Chinese spy contacts, says NYT",
+  "hook": "A reported romance tied to alleged spy communications.",
+  "what": "The New York Times reported that Alice Huang was in contact with a Chinese intelligence agency while she was involved in a relationship with Nvidia’s chief executive. The report mentions her connection to a broader network discussed in other media outlets.",
+  "why": "It shows how personal ties can intersect with tech security and international espionage, reminding young people to stay aware of data privacy and the geopolitical stakes of technology.",
+  "tags": [
+   "Nvidia",
+   "spy",
+   "tech",
+   "security",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia എക്സിക്യൂട്ടീവിന്റെ ബന്ധം ചൈനീസ് സ്പൈ ബന്ധങ്ങളുമായി, NYT പറയുന്നു",
+  "hook": "ഒരു പ്രണയകഥ സാങ്കേതിക രഹസ്യങ്ങളിലേക്ക് വഴിയൊരുക്കി.",
+  "what": "ന്യൂയോർക്ക്ടൈംസ് റിപ്പോർട്ട് ചെയ്തതനുസരിച്ച്, അലീസ് ഹുവാങ് Nvidiaയുടെ സിഇഒയുമായി ബന്ധത്തിൽ ആയിരിക്കുമ്പോൾ ചൈനീസ് ഗൂഢാലോചന ഏജൻസിയുമായി ബന്ധം പുലർത്തിയതായി കണ്ടെത്തി. ഈ വാർത്ത മറ്റ് മാധ്യമങ്ങളിലുമുള്ള വ്യാപകമായ ചിപ് നെറ്റ്‌വർക്കുമായി ബന്ധപ്പെട്ടതായി സൂചിപ്പിക്കുന്നു.",
+  "why": "ടെക് സുരക്ഷയും അന്താരാഷ്ട്ര ഗൂഢാലോചനയും തമ്മിലുള്ള ബന്ധം കാണിക്കുന്നു, ഡാറ്റാ പ്രൈവസി, സൈബർ സുരക്ഷ എന്നിവയിൽ ജാഗ്രത പാലിക്കാൻ യുവാക്കൾക്ക് പ്രാധാന്യം.",
+  "tags": [
+   "Nvidia",
+   "spy",
+   "tech",
+   "security",
+   "AI"
+  ]
+ }
+}

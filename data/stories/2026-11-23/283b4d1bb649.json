@@ -1,0 +1,37 @@
+{
+ "id": "283b4d1bb649",
+ "created": "2026-11-23T11:12:06+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/gold-silver-prices-shimla-jewellers-opportunity-wedding-season-sharp-decline-in-check-retail-rates-himachal-city-mumbai-11795400397897.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold price dip sparks jewellery bookings in Shimla wedding season",
+  "hook": "Lower gold rates are pulling couples to book rings early",
+  "what": "Gold and silver prices fell sharply, prompting more customers in Shimla to book jewellery for upcoming weddings. Jewelers report a surge in bookings as buyers take advantage of the lower rates.",
+  "why": "For teens planning weddings or buying gifts, the price drop means cheaper options. Keep an eye on market trends before finalising purchases.",
+  "tags": [
+   "gold",
+   "wedding",
+   "Shimla",
+   "prices",
+   "jewellery"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ് വില ഇടിവ് ഷിംലയുടെ വിവാഹ സീസണിൽ ജ്വല്ലറി ബുക്കിംഗുകൾക്ക് ഉത്തേജനം",
+  "hook": "കുറഞ്ഞ ഗോൾഡ് നിരക്കുകൾ യുവ ദമ്പതികളെ വേഗത്തിൽ ബുക്ക് ചെയ്യാൻ പ്രേരിപ്പിക്കുന്നു",
+  "what": "ഗോൾഡും വെള്ളിയും വിലയിൽ വലിയ ഇടിവ് വന്നതോടെ ഷിംലയിൽ വിവാഹം കഴിക്കാൻ പോകുന്നവരുടെ ജ്വല്ലറി ബുക്കിംഗുകൾ വർധിച്ചു. കടക്കാർ കുറഞ്ഞ വിലയിൽ ഉപഭോക്താക്കൾക്ക് വാങ്ങാൻ അവസരം ലഭിച്ചതായി പറയുന്നു.",
+  "why": "വിവാഹം പ്ലാൻ ചെയ്യുന്നവർക്കോ സമ്മാനങ്ങൾ വാങ്ങാൻ ആഗ്രഹിക്കുന്നവർക്കോ ഈ വിലക്കുറവ് ചെലവു ലാഭം നൽകും. വാങ്ങുന്നതിന് മുമ്പ് വിലമാറ്റങ്ങൾ ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വിവാഹം",
+   "ഷിംല",
+   "വില",
+   "ജ്വല്ലറി"
+  ]
+ }
+}
