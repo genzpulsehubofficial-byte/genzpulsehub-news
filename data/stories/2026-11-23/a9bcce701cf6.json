@@ -1,0 +1,37 @@
+{
+ "id": "a9bcce701cf6",
+ "created": "2026-11-23T18:32:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-vs-bitcoin-bitcoins-chances-of-beating-gold-fall-from-47-to-19-on-kalshi-what-should-investors-know-11795437774269.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bitcoin's odds vs gold drop to 19% for 2026",
+  "hook": "Traders now see Bitcoin far less likely to outshine gold.",
+  "what": "On Kalshi, the chance that Bitcoin will beat gold’s performance by 2026 fell to 19%, down from 47% in September. The decline reflects Bitcoin’s weaker showing relative to gold.",
+  "why": "Young investors should note the rising doubt about Bitcoin as a safe‑haven, and consider the risk before preferring crypto over traditional stores of value.",
+  "tags": [
+   "bitcoin",
+   "gold",
+   "investing",
+   "crypto",
+   "markets"
+  ]
+ },
+ "ml": {
+  "headline": "2026‑ലെ സ്വർണ്ണത്തെ മറികടക്കാൻ ബിറ്റ്‌കോയ്ൻ 19% സാധ്യത",
+  "hook": "വ്യാപാരികൾക്ക് ബിറ്റ്‌കോയ്ൻ സ്വർണ്ണത്തെക്കാൾ മികച്ചത് ആകാൻ സാധ്യത കുറവായി",
+  "what": "Kalshi പ്ലാറ്റ്ഫോമിൽ 2026‑ൽ ബിറ്റ്‌കോയ്ൻ സ്വർണ്ണത്തെക്കാൾ മികച്ച പ്രകടനം കാണിക്കാനുള്ള സാധ്യത 19% ആയി കുറഞ്ഞു, സെപ്റ്റംബറിൽ അത് 47% ആയിരുന്നു. ഈ ഇടിവ് ബിറ്റ്‌കോയ്ൻ സ്വർണ്ണത്തോടുള്ള താരതമ്യേന ദുർബലതയെ സൂചിപ്പിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഇത് ക്രിപ്റ്റോയുടെ സുരക്ഷിതത്വത്തെക്കുറിച്ചുള്ള സംശയങ്ങൾ ഉയർത്തുന്നു, അതിനാൽ സ്വർണ്ണം പോലുള്ള പരമ്പരാഗത മൂല്യസംഭരണികളുമായി താരതമ്യം ചെയ്ത് ജാഗ്രതയോടെ തീരുമാനമെടുക്കണം.",
+  "tags": [
+   "ബിറ്റ്‌കോയ്ൻ",
+   "സ്വർണ്ണം",
+   "നിക്ഷേപം",
+   "ക്രിപ്റ്റോ",
+   "മാർക്കറ്റ്"
+  ]
+ }
+}

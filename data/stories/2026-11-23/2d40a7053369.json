@@ -1,0 +1,37 @@
+{
+ "id": "2d40a7053369",
+ "created": "2026-11-23T18:32:32+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/only-bs-vi-vehicles-should-be-allowed-in-delhi-top-court-on-curbing-pollution-12365734#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Top Court says only BS‑VI vehicles allowed in Delhi",
+  "hook": "Your ride could be banned to protect Delhi’s air",
+  "what": "The highest court ordered that only BS‑VI compliant vehicles may operate in Delhi, citing pollution concerns. Justice Joymalya Bagchi noted that this winter the city’s air is still relatively safe for lungs.",
+  "why": "Poor air quality affects health, especially for young people. Check if your vehicle meets BS‑VI standards or consider greener transport options.",
+  "tags": [
+   "Delhi",
+   "BSVI",
+   "pollution",
+   "court",
+   "airquality"
+  ]
+ },
+ "ml": {
+  "headline": "മഹാന്യായം പറയുന്നു, ഡെല്‍ഹിയില്‍ BS‑VI കാറുകള്‍ മാത്രമേ അനുവദിക്കൂ",
+  "hook": "നിന്റെ ഗാഡി നിരോധിക്കപ്പെടാം, ഡെല്‍ഹിയുടെ വായു സംരക്ഷിക്കാന്‍",
+  "what": "മഹാന്യായം ഡെല്‍ഹിയില്‍ BS‑VI സ്റ്റാന്‍ഡേര്‍ഡ് പാലിക്കുന്ന വാഹനങ്ങള്‍ മാത്രമേ ഉപയോഗിക്കാവൂ എന്ന് നിര്‍ദ്ദേശിച്ചു, വായു മലിനതയെക്കുറിച്ച് ചിന്തിച്ച്. ജസ്റ്റിസ് ജോയ്മല്യ ബാഗ്ചി പറഞ്ഞു, ഈ ശീതകാലത്ത് ശ്വാസകോശങ്ങള്‍ ഇപ്പോഴും സുരക്ഷിതമാണ്.",
+  "why": "വായു മലിനത ആരോഗ്യത്തെ ബാധിക്കുന്നു, പ്രത്യേകിച്ച് യുവാക്കള്‍ക്ക്. നിന്റെ കാറിന്റെ BS‑VI നില പരിശോധിക്കുകയോ, പരിസ്ഥിതി സൗഹൃദ ഗതാഗതം തിരഞ്ഞെടുക്കുകയോ ചെയ്യുക.",
+  "tags": [
+   "ഡെല്‍ഹി",
+   "BSVI",
+   "മലിനത",
+   "ന്യായം",
+   "വായു"
+  ]
+ }
+}

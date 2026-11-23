@@ -1,0 +1,37 @@
+{
+ "id": "5706d609f707",
+ "created": "2026-11-23T18:32:31+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/taxpayers-can-disclose-multiple-foreign-assets-in-one-declaration-for-a-single-rs-1-lakh-fee-i-t-dept-clarifies-fastds-11795431561766.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "One ₹1 lakh fee covers all foreign assets in FAST‑DS",
+  "hook": "Got overseas investments? You can now file them together for a flat fee.",
+  "what": "The Income Tax department clarified that under the FAST‑DS scheme, a taxpayer can disclose any number of foreign assets in a single declaration by paying a flat fee of ₹1 lakh. This applies to unreported overseas investments and holdings.",
+  "why": "It simplifies compliance for those with overseas assets, reducing paperwork and cost. Young investors with foreign holdings should consider using FAST‑DS to regularize their tax status.",
+  "tags": [
+   "tax",
+   "foreignassets",
+   "FASTDS",
+   "compliance",
+   "youthfinance"
+  ]
+ },
+ "ml": {
+  "headline": "₹1 ലക്ഷം ഫീസ്‌ കൊണ്ട് FAST‑DS‑ൽ എല്ലാ വിദേശ ആസ്തികളും",
+  "hook": "വിദേശ നിക്ഷേപം ഉണ്ടോ? ഒറ്റ ഫീസ്‌ കൊണ്ട് ഒരേ സമയം ഫയൽ ചെയ്യാം.",
+  "what": "ഇൻകം ടാക്സ് വകുപ്പ് FAST‑DS പദ്ധതിയിൽ, ഒരു നികുതിദാതാവ് ഒരേ പ്രഖ്യാപനത്തിൽ അനേകം വിദേശ ആസ്തികൾ പ്രഖ്യാപിക്കാൻ ₹1 ലക്ഷം ഏക ഫീസ്‌ അടയ്ക്കാം എന്ന് വ്യക്തമാക്കിയിട്ടുണ്ട്. ഇതിലൂടെ റിപ്പോർട്ട് ചെയ്യാത്ത വിദേശ നിക്ഷേപങ്ങളും സ്വത്തുകളും ഉൾപ്പെടും.",
+  "why": "ഇത് വിദേശ ആസ്തികളുള്ളവർക്കുള്ള കംപ്ലയൻസ് ലളിതമാക്കുന്നു, പേപ്പർവർക്കും ചെലവുമു കുറയ്ക്കുന്നു. യുവ നിക്ഷേപകർ FAST‑DS ഉപയോഗിച്ച് അവരുടെ നികുതി സ്ഥിതി സാധൂകരിക്കാം.",
+  "tags": [
+   "tax",
+   "foreignassets",
+   "FASTDS",
+   "compliance",
+   "youthfinance"
+  ]
+ }
+}

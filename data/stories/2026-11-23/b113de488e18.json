@@ -1,0 +1,35 @@
+{
+ "id": "b113de488e18",
+ "created": "2026-11-23T18:32:35+05:30",
+ "category": "health",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-study-elderly-women-lifestyle-diseases-pti7fsyk2q5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Elderly women in Thrissur face higher disease and money risks",
+  "hook": "Women over 60 in Thrissur are hit hardest by health and cash woes.",
+  "what": "A recent study in Thrissur found that senior women are more likely to suffer from lifestyle‑related illnesses compared with men. The same research highlighted that older women also experience greater financial insecurity.",
+  "why": "Understanding these gaps can guide families and policymakers to support older women better, and encourages younger generations to plan for ageing care.",
+  "tags": [
+   "elderly",
+   "women",
+   "health",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "ത്രിസൂരിലെ മുതിർന്ന സ്ത്രീകൾക്ക് രോഗവും സാമ്പത്തികവും കൂടുതൽ ഭീഷണി",
+  "hook": "60 വയസ്സിന് മുകളിലുള്ള സ്ത്രീകൾക്ക് ആരോഗ്യവും പണവുമുള്ള പ്രശ്നങ്ങൾ തീവ്രമാണ്.",
+  "what": "ത്രിസൂരിൽ നടത്തിയ ഒരു പഠനത്തിൽ മുതിർന്ന സ്ത്രീകൾക്ക് ജീവിതശൈലി രോഗങ്ങൾ പുരുഷന്മുകളേക്കാൾ കൂടുതലാണെന്ന് കണ്ടെത്തി. അതുപോലെ, മുതിർന്ന സ്ത്രീകൾക്ക് സാമ്പത്തിക സുരക്ഷിതത്വം കുറവാണെന്ന് റിപ്പോർട്ട് ചെയ്തു.",
+  "why": "ഈ വ്യത്യാസം മനസ്സിലാക്കി കുടുംബങ്ങളും നയനിർമാതാക്കളും മുതിർന്ന സ്ത്രീകളുടെ പിന്തുണ മെച്ചപ്പെടുത്താം, യുവാക്കൾക്ക് ഭാവി പദ്ധതികളിൽ ശ്രദ്ധ നൽകാൻ സഹായിക്കും.",
+  "tags": [
+   "മുതിർന്നവർ",
+   "സ്ത്രീകൾ",
+   "ആരോഗ്യം",
+   "കേരളം"
+  ]
+ }
+}

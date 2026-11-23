@@ -1,5 +1,99 @@
 [
  {
+  "id": "b90388a9f149",
+  "created": "2026-11-23T18:32:24+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/pm-narendra-modi-announces-rs-15-000-crore-development-package-for-nepal-12365344#publisher=newsstand",
+  "headline": "India pledges Rs 15,000‑crore development aid to Nepal",
+  "hook": "Massive aid package announced as Nepal reels from floods",
+  "what": "Prime Minister Narendra Modi said India will provide a development package worth Rs 15,000 crore to Nepal. He also expressed India's condolences for the lives lost in Nepal's recent floods.",
+  "why": "The assistance could boost cross‑border projects and job opportunities, impacting trade and travel for Indian youth. Knowing about regional cooperation helps young people stay informed.",
+  "tags": [
+   "India",
+   "Nepal",
+   "Aid",
+   "Floods",
+   "Development"
+  ]
+ },
+ {
+  "id": "a9bcce701cf6",
+  "created": "2026-11-23T18:32:28+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-vs-bitcoin-bitcoins-chances-of-beating-gold-fall-from-47-to-19-on-kalshi-what-should-investors-know-11795437774269.html",
+  "headline": "Bitcoin's odds vs gold drop to 19% for 2026",
+  "hook": "Traders now see Bitcoin far less likely to outshine gold.",
+  "what": "On Kalshi, the chance that Bitcoin will beat gold’s performance by 2026 fell to 19%, down from 47% in September. The decline reflects Bitcoin’s weaker showing relative to gold.",
+  "why": "Young investors should note the rising doubt about Bitcoin as a safe‑haven, and consider the risk before preferring crypto over traditional stores of value.",
+  "tags": [
+   "bitcoin",
+   "gold",
+   "investing",
+   "crypto",
+   "markets"
+  ]
+ },
+ {
+  "id": "5706d609f707",
+  "created": "2026-11-23T18:32:31+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/taxpayers-can-disclose-multiple-foreign-assets-in-one-declaration-for-a-single-rs-1-lakh-fee-i-t-dept-clarifies-fastds-11795431561766.html",
+  "headline": "One ₹1 lakh fee covers all foreign assets in FAST‑DS",
+  "hook": "Got overseas investments? You can now file them together for a flat fee.",
+  "what": "The Income Tax department clarified that under the FAST‑DS scheme, a taxpayer can disclose any number of foreign assets in a single declaration by paying a flat fee of ₹1 lakh. This applies to unreported overseas investments and holdings.",
+  "why": "It simplifies compliance for those with overseas assets, reducing paperwork and cost. Young investors with foreign holdings should consider using FAST‑DS to regularize their tax status.",
+  "tags": [
+   "tax",
+   "foreignassets",
+   "FASTDS",
+   "compliance",
+   "youthfinance"
+  ]
+ },
+ {
+  "id": "2d40a7053369",
+  "created": "2026-11-23T18:32:32+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/only-bs-vi-vehicles-should-be-allowed-in-delhi-top-court-on-curbing-pollution-12365734#publisher=newsstand",
+  "headline": "Top Court says only BS‑VI vehicles allowed in Delhi",
+  "hook": "Your ride could be banned to protect Delhi’s air",
+  "what": "The highest court ordered that only BS‑VI compliant vehicles may operate in Delhi, citing pollution concerns. Justice Joymalya Bagchi noted that this winter the city’s air is still relatively safe for lungs.",
+  "why": "Poor air quality affects health, especially for young people. Check if your vehicle meets BS‑VI standards or consider greener transport options.",
+  "tags": [
+   "Delhi",
+   "BSVI",
+   "pollution",
+   "court",
+   "airquality"
+  ]
+ },
+ {
+  "id": "b113de488e18",
+  "created": "2026-11-23T18:32:35+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-study-elderly-women-lifestyle-diseases-pti7fsyk2q5",
+  "headline": "Elderly women in Thrissur face higher disease and money risks",
+  "hook": "Women over 60 in Thrissur are hit hardest by health and cash woes.",
+  "what": "A recent study in Thrissur found that senior women are more likely to suffer from lifestyle‑related illnesses compared with men. The same research highlighted that older women also experience greater financial insecurity.",
+  "why": "Understanding these gaps can guide families and policymakers to support older women better, and encourages younger generations to plan for ageing care.",
+  "tags": [
+   "elderly",
+   "women",
+   "health",
+   "Kerala"
+  ]
+ },
+ {
   "id": "217037d34525",
   "created": "2026-11-23T17:23:37+05:30",
   "category": "kerala",
@@ -655,100 +749,6 @@
    "Nepal",
    "train",
    "travel",
-   "youth"
-  ]
- },
- {
-  "id": "0538d34a3691",
-  "created": "2026-11-23T09:50:01+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/business-news/why-tata-steel-sold-two-key-businesses-to-apl-apollo-for-rs-28-000-crore-12364032#publisher=newsstand",
-  "headline": "Tata Steel sells tubes, pipes, colors to APL Apollo for Rs 28k",
-  "hook": "Big steel deal reshapes India's industrial landscape.",
-  "what": "APL Apollo said it will acquire Tata Steel’s tubes and pipes business together with the whole stake in Tata Steel Colors. The transaction is valued at roughly Rs 28,000 crore.",
-  "why": "The sale could influence job opportunities and product supply in construction and manufacturing. Stay updated on industry news for possible career or investment effects.",
-  "tags": [
-   "TataSteel",
-   "APLApollo",
-   "BusinessDeal",
-   "IndiaIndustry",
-   "Jobs"
-  ]
- },
- {
-  "id": "a3a387d3f64d",
-  "created": "2026-11-23T09:50:02+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-23-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795339984528.html",
-  "headline": "Gold and silver rates released for Delhi, Mumbai, Kolkata",
-  "hook": "See today’s metal prices before you plan any purchase.",
-  "what": "Retail rates for 24K and 22K gold and 999 silver were published for major Indian cities on 23 Nov, alongside MCX market figures.",
-  "why": "Knowing the current rates helps young shoppers budget for gifts or investments during upcoming celebrations.",
-  "tags": [
-   "gold",
-   "silver",
-   "prices",
-   "Delhi",
-   "Mumbai"
-  ]
- },
- {
-  "id": "26a16575bf7c",
-  "created": "2026-11-23T09:50:05+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kozhikode-beach-food-street-unhygienic-conditions-gxjikcrt",
-  "headline": "Kozhikode Beach Food Street Still Faces Hygiene Issues",
-  "hook": "Flies, filthy water and risky cooking linger despite official checks.",
-  "what": "Inspections led by the District Collector found flies on dishes, dirty water and unsafe cooking at the Kozhikode beach food street. The problems remain even after the inspections.",
-  "why": "Poor hygiene can lead to foodborne illness, so teens should be careful when buying street food. Choose stalls that look clean and follow safe practices.",
-  "tags": [
-   "Kozhikode",
-   "FoodSafety",
-   "StreetFood",
-   "Health"
-  ]
- },
- {
-  "id": "dded29fcddd3",
-  "created": "2026-11-23T09:50:08+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/property-seller-escapes-6-75-lakh-cash-penalty-5-lessons-from-itat-chennai-ruling-for-property-buyers-and-sellers-11795401434461.html",
-  "headline": "ITAT Chennai lifts ₹6.75 lakh tax penalty on seller",
-  "hook": "A property seller avoids a huge cash fine—what it means for you.",
-  "what": "The Chennai ITAT annulled a ₹6.75 lakh income‑tax penalty imposed on a seller who had taken a cash advance. The judgment also highlighted the reasonable‑cause rule and listed five key tips for buyers and sellers.",
-  "why": "Young buyers and sellers should understand tax implications of cash deals to avoid penalties. Follow the outlined pointers to stay compliant.",
-  "tags": [
-   "property",
-   "tax",
-   "buyers",
-   "sellers",
-   "ITAT"
-  ]
- },
- {
-  "id": "3495cd84e1ac",
-  "created": "2026-11-23T08:37:09+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/no-cop31-cover-decision-leaves-india-s-equity-finance-demands-unresolved-101795402935579.html",
-  "headline": "India’s climate finance demands stay unsettled after COP31",
-  "hook": "India pushes for public, concessional climate money, but talks stalled",
-  "what": "At the recent COP31 summit, no agreement was reached on covering climate finance. India’s request for the funding to be mainly public and concessional remained unanswered. The country also warned against increasing the burden on developing nations.",
-  "why": "Young Indians should watch how climate funding policies could affect future jobs and sustainability projects. Stay informed and support initiatives that promote affordable green financing.",
-  "tags": [
-   "climatefinance",
-   "COP31",
-   "India",
-   "sustainability",
    "youth"
   ]
  }

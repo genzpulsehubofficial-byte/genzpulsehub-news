@@ -1,0 +1,37 @@
+{
+ "id": "b90388a9f149",
+ "created": "2026-11-23T18:32:24+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/pm-narendra-modi-announces-rs-15-000-crore-development-package-for-nepal-12365344#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "India pledges Rs 15,000‑crore development aid to Nepal",
+  "hook": "Massive aid package announced as Nepal reels from floods",
+  "what": "Prime Minister Narendra Modi said India will provide a development package worth Rs 15,000 crore to Nepal. He also expressed India's condolences for the lives lost in Nepal's recent floods.",
+  "why": "The assistance could boost cross‑border projects and job opportunities, impacting trade and travel for Indian youth. Knowing about regional cooperation helps young people stay informed.",
+  "tags": [
+   "India",
+   "Nepal",
+   "Aid",
+   "Floods",
+   "Development"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ 15,000 കോടി രൂപയുടെ വികസന സഹായം നേപ്പാളിന്‍",
+  "hook": "വെള്ളപ്പൊക്കത്തിന് ശേഷം നേപ്പാളിന്‍ വലിയ സഹായ പദ്ധതി പ്രഖ്യാപിച്ചു",
+  "what": "പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഇന്ത്യ 15,000 കോടി രൂപയുടെ വികസന പാക്കേജ് നേപ്പാളിന്‍ നൽകുമെന്ന് അറിയിച്ചു. വെള്ളപ്പൊക്കത്തില്‍ മരിച്ചവരെക്കുറിച്ച് ഇന്ത്യയുടെ ദുഃഖം പ്രകടിപ്പിച്ചു.",
+  "why": "ഇത് അതിർത്തി പദ്ധതികളിലും തൊഴിൽ അവസരങ്ങളിലും സ്വാധീനം ചെലുത്തി, യുവജനങ്ങളുടെ വ്യാപാര‑യാത്രാ ജീവിതത്തെ ബാധിക്കും. പ്രദേശിക സഹകരണം മനസ്സിലാക്കാൻ ഇത് അറിയേണ്ടതാണ്.",
+  "tags": [
+   "ഇന്ത്യ",
+   "നേപ്പാൾ",
+   "സഹായം",
+   "വെള്ളപ്പൊക്കം",
+   "വികസനം"
+  ]
+ }
+}
