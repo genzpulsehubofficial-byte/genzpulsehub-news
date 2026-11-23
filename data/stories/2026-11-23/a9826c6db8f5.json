@@ -1,0 +1,35 @@
+{
+ "id": "a9826c6db8f5",
+ "created": "2026-11-23T13:59:18+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-series-price-rise-higher-than-s26-rising-component-cost-12364889",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Galaxy S27 may be pricier than S26 amid memory cost rise",
+  "hook": "Higher memory prices could bump up your next phone bill.",
+  "what": "Samsung launched the Galaxy S26 in February 2026. The upcoming Galaxy S27 is expected to cost more because memory component prices have surged.",
+  "why": "If you plan to upgrade, the price hike could affect your budget, so consider waiting or checking other options.",
+  "tags": [
+   "Samsung",
+   "GalaxyS27",
+   "TechNews",
+   "PriceRise"
+  ]
+ },
+ "ml": {
+  "headline": "Galaxy S27, മെമ്മറി വിലവർധനവാൽ S26‑നെക്കാൾ വില കൂടാൻ സാധ്യത",
+  "hook": "മെമ്മറി ചെലവുകൾ ഉയർന്നാൽ നിങ്ങളുടെ അടുത്ത ഫോണിന്റെ വില ഉയരും.",
+  "what": "Samsung ഫെബ്രുവരി 2026‑ൽ Galaxy S26 പുറത്തിറക്കി. അടുത്തു വരാനിരിക്കുന്ന Galaxy S27‑യുടെ വില മെമ്മറി വില വർധനവിനാൽ കൂടുതലാകാൻ സാധ്യതയുണ്ട്.",
+  "why": "പുതിയ ഫോൺ വാങ്ങാൻ പദ്ധതിയുണ്ടെങ്കിൽ, വില വർധനം നിങ്ങളുടെ ബജറ്റിനെ ബാധിക്കാം; അതിനാൽ കാത്തിരിക്കുകയോ മറ്റ് ഓപ്ഷനുകൾ പരിശോധിക്കുകയോ ചെയ്യാം.",
+  "tags": [
+   "സാംസങ്",
+   "ഗാലക്സി",
+   "വിലവർധന",
+   "ടെക്"
+  ]
+ }
+}

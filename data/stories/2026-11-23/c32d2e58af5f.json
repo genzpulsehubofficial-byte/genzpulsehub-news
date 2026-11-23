@@ -1,0 +1,37 @@
+{
+ "id": "c32d2e58af5f",
+ "created": "2026-11-23T13:59:10+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Deccan Chronicle",
+ "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREh1Q1RhTVM4TXE2aF9YbVMxLWp1bDU3OVNLYXJFZ1ZtR3NBSmszOFNndDZlNWUwc3piMUZzUkVILWhnXzFXdjdmR29wSERiVEJYRjN2RTdpRUpMekU3Mmdibzh0OGVxZGM2RXlmSk40U3FPb2Rpem80SmpBQWFqeUo0WDVvUHdJZXd1M21TWGNfWmFKWUZiNmNHZHhpNW12VWM0UGFFLTY4Mm83MHdNazEzenBGZE9HQlViZ2xEV2JLUFNhd2fSAcsBQVVfeXFMTy1yelo5eTBTQm0tbEw2NGZ5ZHd5N1BsdDBVMWtpTEhBaHNmLUcyS2RLXzd2ZmxwQTE4MWhJR3c2dkFOQ1UxaHNSWVBHYnFGcXAwZ2FxaVo0NTIxVk1UY2h3TVdZOEZFN2tZNVpJbllKQ3BMT0cwbG13Tmo1Uko4UGJYclJZWU1TMEdURXhRMUI4cU82YlkwanNzZk1VZHRXWFF3RGlHc3BHYlM1R0FNMzVKdVdxTDB5czZhWThIajNtcTVQVmxnMzFGUW8?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nine Kerala districts see deficient rain since Oct 1",
+  "hook": "Dry spell hits half the state, affecting daily life.",
+  "what": "The India Meteorological Department reports that nine districts in Kerala have recorded below‑normal rainfall from October 1. The shortfall is noted across all listed districts.",
+  "why": "Insufficient rain can strain water supply and agriculture, so young people should keep an eye on local weather updates.",
+  "tags": [
+   "Kerala",
+   "Rainfall",
+   "Weather",
+   "IMD",
+   "Monsoon"
+  ]
+ },
+ "ml": {
+  "headline": "ഒക്ടോബർ 1 മുതൽ ഒമ്പത് ജില്ലകളിൽ മഴ കുറവ്",
+  "hook": "വറ്റിയ കാലാവസ്ഥ സംസ്ഥാനത്തെ ജീവിതത്തെ ബാധിക്കുന്നു.",
+  "what": "ഇന്ത്യൻ കാലാവസ്ഥ വകുപ്പ് പറയുന്നത് ഒക്ടോബർ 1 മുതൽ കേരളത്തിലെ ഒമ്പത് ജില്ലകളിൽ മഴ കുറവാണ്. ഈ കുറവ് എല്ലാ ബന്ധപ്പെട്ട ജില്ലകളിലും രേഖപ്പെടുത്തിയിട്ടുണ്ട്.",
+  "why": "മഴക്കുറവ് ജലവിതരണവും കൃഷിയും ബാധിക്കാം, അതിനാൽ യുവാക്കൾക്ക് പ്രാദേശിക കാലാവസ്ഥാ അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "മഴ",
+   "വാതാവരണം",
+   "ഐഎംഡി",
+   "മോണ്സൺ"
+  ]
+ }
+}

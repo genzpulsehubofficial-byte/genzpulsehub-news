@@ -1,0 +1,37 @@
+{
+ "id": "8a29128d243a",
+ "created": "2026-11-23T13:59:13+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Asian markets slide amid AI bubble worries",
+  "hook": "Tech hype may be hitting a wall for investors.",
+  "what": "Stocks across Asia dropped sharply as investors grew nervous about an over‑inflated AI sector. US futures rose, trying to offset the regional decline. Traders said the sell‑off was driven by fears the AI rally is unsustainable.",
+  "why": "A slowdown in AI‑related stocks could affect young investors and anyone eyeing tech‑focused careers. Keep an eye on market trends before putting money into AI‑centric assets.",
+  "tags": [
+   "AsianMarkets",
+   "AI",
+   "Stocks",
+   "Investing",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "AI ബബിള്‍ ആശങ്കകള്‍ കൊണ്ട് ഏഷ്യന്‍ മാര്‍ക്കറ്റുകള്‍ ഇടിഞ്ഞു",
+  "hook": "ടെക്‌ ഹൈപ്പ് നിക്ഷേപകര്‍ക്ക് തടസ്സമാകാം.",
+  "what": "AI മേഖലയുടെ അത്യധികം മൂല്യവുമാണ് കാരണം ഏഷ്യയിലെ സ്റ്റോക്കുകള്‍ തീവ്രമായി ഇടിഞ്ഞു. അമേരിക്കന്‍ ഫ്യൂച്ചറുകള്‍ ഉയര്‍ന്നു, പ്രദേശിക ഇടിവിനെ കുറയ്ക്കാന്‍ ശ്രമിച്ചു. വ്യാപാരികള്‍ AI റാലി നിലനില്‍ക്കില്ലെന്ന ഭയത്താല്‍ വിറ്റഴിക്കലാണ് നടക്കുന്നത് എന്ന് പറഞ്ഞു.",
+  "why": "AI‑ബന്ധിത സ്റ്റോക്കുകളുടെ മന്ദഗതി യുവ നിക്ഷേപകരെയും ടെക്‌ കരിയര്‍ ആഗ്രഹികളെയും ബാധിക്കാം. AI‑കേന്ദ്രിത ആസ്തികളില്‍ പണം ഇടുന്നതിന് മുന്‍പ് മാര്‍ക്കറ്റ് പ്രവണതകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "AsianMarkets",
+   "AI",
+   "Stocks",
+   "Investing",
+   "Tech"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "b6d0e0d6cfa4",
+ "created": "2026-11-23T13:59:00+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "BusinessLine",
+ "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlJPZ3o3c2tvTzBqcUlxeW11ZnBxWE00d3J3UUdEZjBQVzI1RUpfZ0p4bXlXTEYtODVsSjJzY2ZjUlMwRU5EZTBRRTFKSjlWeUJBX2Z4Z01YYUM0X0x2UUhFZnRKU3E0SkhIa1BVdC1iSlV1dEZVUmRuV1RoTk9zd0xLZld6T3FTamctTk5DejRyazhJS0R5NVg2MloyYVdmLXpCbkY1ZF9CbGNSRmUwU2FtTVA1MjBxNERIU1U3enFyZFZmbVlN0gHOAUFVX3lxTE5XbDRreWhyUDQ0ck1tNEJydmttTVBaRDhUNUZBTDlDSGtINkM2aE9oZmx0Rm5mT19Da1lsSHZHYkZHT0owUFdVU1VvZ2hwRVdBVDJ5NzkxOW1acHlRYlZiUE93SGRJengxQVdickxrOTgzMEpjRi1tNW03WUhQN3JLTE50Tm5GTDdoczFJbEJmd25NUndNb0Z0bHptWEVhbFN1TmxsQU9IWE9tblVIeDZ3RzQyamJtVC1qQ1M2eUpIckp6MzRha3UtbDBlWW5R?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex slides 1,000 pts, Nifty dips below 25,500 amid global sell‑off",
+  "hook": "Global market pressure drags India’s indices down sharply.",
+  "what": "On November 23, the Sensex fell about 1,000 points while the Nifty slipped under 25,500 as investors reacted to a worldwide sell‑off. The drop followed a two‑day rally and was accompanied by profit‑taking.",
+  "why": "The fall highlights market volatility, so young investors should reassess risk and avoid rushed trades.",
+  "tags": [
+   "markets",
+   "stocks",
+   "India",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "Sensex 1,000 പോയിന്റ് ഇടിഞ്ഞു, Nifty 25,500‑ക്ക് താഴെ, ഗ്ലോബൽ സേൽ‑ഓഫ്",
+  "hook": "ലോക മാർക്കറ്റിലെ സമ്മർദ്ദം ഇന്ത്യയുടെ സൂചികകളെ കുത്തനെ താഴ്ത്തി.",
+  "what": "23 നവംബർ Sensex ഏകദേശം 1,000 പോയിന്റ് വീഴ്ചയും Nifty 25,500‑ക്ക് താഴെയെത്തിയതും ഗ്ലോബൽ സേൽ‑ഓഫിന്റെ ഫലമായി. രണ്ട് ദിവസത്തെ ഉയർച്ചയ്ക്ക് ശേഷം ലാഭം എടുത്തു വ്യാപാരം കുറഞ്ഞു.",
+  "why": "ഇത് മാർക്കറ്റിലെ അസ്ഥിരത കാണിക്കുന്നു; യുവ നിക്ഷേപകർ അപകടം വിലയിരുത്തി, ആവേശത്തോടെ ഇടപെടാതെ സൂക്ഷിക്കണം.",
+  "tags": [
+   "മാർക്കറ്റ്",
+   "സ്റ്റോക്ക്",
+   "ഇന്ത്യ",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

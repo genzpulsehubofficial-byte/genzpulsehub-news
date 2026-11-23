@@ -1,0 +1,37 @@
+{
+ "id": "e165d59a8805",
+ "created": "2026-11-23T13:59:08+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Bisleri says its water is safe despite regulator alert",
+  "hook": "Is the bottled water you drink really free of harmful chemicals?",
+  "what": "A regulator raised concerns about possible carcinogens in Bisleri water. The company responded that its product remains safe to drink and noted it has not received any formal notice.",
+  "why": "Young consumers should stay informed about product safety alerts and check for official updates before making purchase decisions.",
+  "tags": [
+   "Bisleri",
+   "water",
+   "safety",
+   "regulator",
+   "health"
+  ]
+ },
+ "ml": {
+  "headline": "റഗുലേറ്ററിന്റെ മുന്നറിയിപ്പിനിടയിലും ബിസ്ലേരി വെള്ളം സുരക്ഷിതം എന്ന് പറയുന്നു",
+  "hook": "നിങ്ങൾ കുടിക്കുന്ന ബോട്ടിൽ വെള്ളത്തിൽ ഹാനികരമായ രാസവസ്തുക്കൾ ഉണ്ടോ?",
+  "what": "ഒരു റഗുലേറ്റർ ബിസ്ലേരി വെള്ളത്തിൽ കാർസിനോജെൻസ് ഉണ്ടാകാമെന്ന് സൂചിപ്പിച്ചു. കമ്പനി അതിന്റെ വെള്ളം കുടിക്കാൻ സുരക്ഷിതമാണെന്ന്, ഇതുവരെ ഔദ്യോഗിക നോട്ടീസ് ലഭിച്ചിട്ടില്ലെന്ന് പറഞ്ഞു.",
+  "why": "യുവജനങ്ങൾ ഉൽപ്പന്നങ്ങളുടെ സുരക്ഷാ അറിയിപ്പുകൾ ശ്രദ്ധിച്ച്, വാങ്ങുന്നതിന് മുമ്പ് ഔദ്യോഗിക വിവരങ്ങൾ പരിശോധിക്കണം.",
+  "tags": [
+   "Bisleri",
+   "വെള്ളം",
+   "സുരക്ഷ",
+   "റഗുലേറ്റർ",
+   "ആരോഗ്യം"
+  ]
+ }
+}

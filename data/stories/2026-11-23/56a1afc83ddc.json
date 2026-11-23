@@ -1,0 +1,37 @@
+{
+ "id": "56a1afc83ddc",
+ "created": "2026-11-23T13:59:15+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/da-hike-tripura-increase-dearness-allowance-by-3-pc-to-44-pc-basic-salary-cm-saha-says-enhance-component-36-pc-from-2022-11795418979503.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tripura lifts DA to 44% of basic salary",
+  "hook": "A fresh pay boost hits state workers from October",
+  "what": "The state government has raised dearness allowance and relief by three percentage points, setting them at 44% of basic pay. The change becomes effective on October 1, 2026 and will cost about ₹300 crore annually. It also reflects a 36% rise in the component since 2022.",
+  "why": "The increase narrows the pay gap with central government staff, helping young job‑seekers understand state salary levels. Employees should review their updated pay slips after October.",
+  "tags": [
+   "Tripura",
+   "DAincrease",
+   "governmentpay",
+   "youngworkers",
+   "salarynews"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രിപുരയിൽ ഡിഎ 44% ആയി ഉയർന്നു",
+  "hook": "ഒക്ടോബർ മുതൽ സംസ്ഥാന ജീവനക്കാർക്ക് പുതിയ ശമ്പളവളർച്ച",
+  "what": "സംസ്ഥാന സർക്കാർ ഡിയർനെസ് അലവൻസ്, റിലീഫ് എന്നിവ 3% വർധിപ്പിച്ച് അടിസ്ഥാന ശമ്പളത്തിന്റെ 44% ആയി നിശ്ചയിച്ചു. ഈ മാറ്റം ഒക്ടോബർ 1 2026 മുതൽ പ്രാബല്യത്തിൽ വരും, വർഷംതോറും ഏകദേശം ₹300 കോടി ചെലവാകും. 2022 മുതൽ ഈ ഘടകം 36% വർധിച്ചു.",
+  "why": "ഇത് കേന്ദ്ര സർക്കാരിന്റെ ജീവനക്കാരുമായി ശമ്പള വ്യത്യാസം കുറയ്ക്കാൻ ലക്ഷ്യമിടുന്നു, ജോലിക്കായി നോക്കുന്ന യുവാക്കൾക്ക് സംസ്ഥാന ശമ്പള ഘടന മനസ്സിലാക്കാൻ സഹായിക്കും. ഒക്ടോബർ മാസത്തിൽ പേസ്‌ലിപ്പുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "ട്രിപുര",
+   "ഡിഎവളർച്ച",
+   "സർക്കാർശമ്പളം",
+   "യുവജോലികൾ",
+   "വേതനവാർത്ത"
+  ]
+ }
+}

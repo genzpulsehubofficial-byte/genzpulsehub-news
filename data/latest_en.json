@@ -1,5 +1,117 @@
 [
  {
+  "id": "b6d0e0d6cfa4",
+  "created": "2026-11-23T13:59:00+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "BusinessLine",
+  "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlJPZ3o3c2tvTzBqcUlxeW11ZnBxWE00d3J3UUdEZjBQVzI1RUpfZ0p4bXlXTEYtODVsSjJzY2ZjUlMwRU5EZTBRRTFKSjlWeUJBX2Z4Z01YYUM0X0x2UUhFZnRKU3E0SkhIa1BVdC1iSlV1dEZVUmRuV1RoTk9zd0xLZld6T3FTamctTk5DejRyazhJS0R5NVg2MloyYVdmLXpCbkY1ZF9CbGNSRmUwU2FtTVA1MjBxNERIU1U3enFyZFZmbVlN0gHOAUFVX3lxTE5XbDRreWhyUDQ0ck1tNEJydmttTVBaRDhUNUZBTDlDSGtINkM2aE9oZmx0Rm5mT19Da1lsSHZHYkZHT0owUFdVU1VvZ2hwRVdBVDJ5NzkxOW1acHlRYlZiUE93SGRJengxQVdickxrOTgzMEpjRi1tNW03WUhQN3JLTE50Tm5GTDdoczFJbEJmd25NUndNb0Z0bHptWEVhbFN1TmxsQU9IWE9tblVIeDZ3RzQyamJtVC1qQ1M2eUpIckp6MzRha3UtbDBlWW5R?oc=5",
+  "headline": "Sensex slides 1,000 pts, Nifty dips below 25,500 amid global sell‑off",
+  "hook": "Global market pressure drags India’s indices down sharply.",
+  "what": "On November 23, the Sensex fell about 1,000 points while the Nifty slipped under 25,500 as investors reacted to a worldwide sell‑off. The drop followed a two‑day rally and was accompanied by profit‑taking.",
+  "why": "The fall highlights market volatility, so young investors should reassess risk and avoid rushed trades.",
+  "tags": [
+   "markets",
+   "stocks",
+   "India",
+   "finance"
+  ]
+ },
+ {
+  "id": "e165d59a8805",
+  "created": "2026-11-23T13:59:08+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/received-no-notice-water-safe-for-consumption-bisleri-amid-row-12364435#publisher=newsstand",
+  "headline": "Bisleri says its water is safe despite regulator alert",
+  "hook": "Is the bottled water you drink really free of harmful chemicals?",
+  "what": "A regulator raised concerns about possible carcinogens in Bisleri water. The company responded that its product remains safe to drink and noted it has not received any formal notice.",
+  "why": "Young consumers should stay informed about product safety alerts and check for official updates before making purchase decisions.",
+  "tags": [
+   "Bisleri",
+   "water",
+   "safety",
+   "regulator",
+   "health"
+  ]
+ },
+ {
+  "id": "c32d2e58af5f",
+  "created": "2026-11-23T13:59:10+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Deccan Chronicle",
+  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREh1Q1RhTVM4TXE2aF9YbVMxLWp1bDU3OVNLYXJFZ1ZtR3NBSmszOFNndDZlNWUwc3piMUZzUkVILWhnXzFXdjdmR29wSERiVEJYRjN2RTdpRUpMekU3Mmdibzh0OGVxZGM2RXlmSk40U3FPb2Rpem80SmpBQWFqeUo0WDVvUHdJZXd1M21TWGNfWmFKWUZiNmNHZHhpNW12VWM0UGFFLTY4Mm83MHdNazEzenBGZE9HQlViZ2xEV2JLUFNhd2fSAcsBQVVfeXFMTy1yelo5eTBTQm0tbEw2NGZ5ZHd5N1BsdDBVMWtpTEhBaHNmLUcyS2RLXzd2ZmxwQTE4MWhJR3c2dkFOQ1UxaHNSWVBHYnFGcXAwZ2FxaVo0NTIxVk1UY2h3TVdZOEZFN2tZNVpJbllKQ3BMT0cwbG13Tmo1Uko4UGJYclJZWU1TMEdURXhRMUI4cU82YlkwanNzZk1VZHRXWFF3RGlHc3BHYlM1R0FNMzVKdVdxTDB5czZhWThIajNtcTVQVmxnMzFGUW8?oc=5",
+  "headline": "Nine Kerala districts see deficient rain since Oct 1",
+  "hook": "Dry spell hits half the state, affecting daily life.",
+  "what": "The India Meteorological Department reports that nine districts in Kerala have recorded below‑normal rainfall from October 1. The shortfall is noted across all listed districts.",
+  "why": "Insufficient rain can strain water supply and agriculture, so young people should keep an eye on local weather updates.",
+  "tags": [
+   "Kerala",
+   "Rainfall",
+   "Weather",
+   "IMD",
+   "Monsoon"
+  ]
+ },
+ {
+  "id": "8a29128d243a",
+  "created": "2026-11-23T13:59:13+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWg2VjJNckwyMnpNTjV6cnBRckpmX2hndGxyM29qMnU0aml6bUNicGJPNXJKdzludzVfYVNhSHpJR0xhZjJMeHFDM3d4MldqQUJPbE9ha3VFbjMyLXFEeS1VSkFxejNJN2czNFlnMF9uNGdnb2lPUUdoTmZZeUFrbHFfNjVsZzc5QUVSR3hST2VYaDB1S2dYd0ktRWNoSHNmQUHSAacBQVVfeXFMUHlLZVl5SzNCcWd0RjktYlZwT2pDLXNDZmg1dzNKQ2k4VFZaa08xWjhQcEFubzhxYnpsZWxQU3ZIaGZSZlFzOGlrY3RRNUlLczVZRk8xN05VdkduMFRaVy03ME5zMWFtT0JSSWRqTzZ0cjVtUVBwYzJ5LWZhM0FiOFlSSlJHS1ZhcmZqeGlFdi1CLTBLeVpVSFNJVElhSnQxQmU4WS1hSWM?oc=5",
+  "headline": "Asian markets slide amid AI bubble worries",
+  "hook": "Tech hype may be hitting a wall for investors.",
+  "what": "Stocks across Asia dropped sharply as investors grew nervous about an over‑inflated AI sector. US futures rose, trying to offset the regional decline. Traders said the sell‑off was driven by fears the AI rally is unsustainable.",
+  "why": "A slowdown in AI‑related stocks could affect young investors and anyone eyeing tech‑focused careers. Keep an eye on market trends before putting money into AI‑centric assets.",
+  "tags": [
+   "AsianMarkets",
+   "AI",
+   "Stocks",
+   "Investing",
+   "Tech"
+  ]
+ },
+ {
+  "id": "56a1afc83ddc",
+  "created": "2026-11-23T13:59:15+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/da-hike-tripura-increase-dearness-allowance-by-3-pc-to-44-pc-basic-salary-cm-saha-says-enhance-component-36-pc-from-2022-11795418979503.html",
+  "headline": "Tripura lifts DA to 44% of basic salary",
+  "hook": "A fresh pay boost hits state workers from October",
+  "what": "The state government has raised dearness allowance and relief by three percentage points, setting them at 44% of basic pay. The change becomes effective on October 1, 2026 and will cost about ₹300 crore annually. It also reflects a 36% rise in the component since 2022.",
+  "why": "The increase narrows the pay gap with central government staff, helping young job‑seekers understand state salary levels. Employees should review their updated pay slips after October.",
+  "tags": [
+   "Tripura",
+   "DAincrease",
+   "governmentpay",
+   "youngworkers",
+   "salarynews"
+  ]
+ },
+ {
+  "id": "a9826c6db8f5",
+  "created": "2026-11-23T13:59:18+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-series-price-rise-higher-than-s26-rising-component-cost-12364889",
+  "headline": "Galaxy S27 may be pricier than S26 amid memory cost rise",
+  "hook": "Higher memory prices could bump up your next phone bill.",
+  "what": "Samsung launched the Galaxy S26 in February 2026. The upcoming Galaxy S27 is expected to cost more because memory component prices have surged.",
+  "why": "If you plan to upgrade, the price hike could affect your budget, so consider waiting or checking other options.",
+  "tags": [
+   "Samsung",
+   "GalaxyS27",
+   "TechNews",
+   "PriceRise"
+  ]
+ },
+ {
   "id": "85563e2edc18",
   "created": "2026-11-23T12:21:32+05:30",
   "category": "money",
@@ -637,119 +749,6 @@
    "Karnataka",
    "court",
    "youth"
-  ]
- },
- {
-  "id": "ac973edcee7b",
-  "created": "2026-11-23T05:25:27+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "CNBC TV18",
-  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVEZfYlhWWmItelZTYmRtU3lYc2hjdjFHZ3VRYTRGQU9zZmR1eU9saWtWZkpoQzhfYjdPRkFuQkJfRjJIOEV3MVN4eHgzMmFIMUpFYVc3VGtTZlpjZlViQ3lDbmd6SndGLU9RLTI2STU2UkdON3lVV20taG03UnRPTE1nNFlBVHJIRkREaHpUTDEzeVdoUTNkRDhmbHhCc3BsM3Y0MEd0QnN6YUJH0gGyAUFVX3lxTE1WM3ZCOWJ0V1JNdnJKWGdmWFo5cWZXN3RycVEwT1lCSTFWVTUyUDRFSWVvbDAyWW9DWXlfdTIyWlJhaE5ESVdTSnloa29kanVkOHlNQXlYeDJzQUFrZEJzQWwwdk9wWmpVUG1Td3R1OEVoMnJhZEFRSmNYMm1OR2lCSXJKVWd4V3FoZmo3Mk10RVh6SUpDYUhtZVY2S1hMQVJTQ0MtYXpOTW5DQWRJVnI5dUE?oc=5",
-  "headline": "IMD warns heavy rain in Tamil Nadu, fog across four states",
-  "hook": "Rainy roads and foggy mornings ahead—plan your travel wisely.",
-  "what": "The India Meteorological Department issued a heavy rain alert for Tamil Nadu on November 23. It also issued a dense fog warning covering four states.",
-  "why": "Students and commuters should check local forecasts and consider alternate routes or expect delays.",
-  "tags": [
-   "IMD",
-   "RainAlert",
-   "FogWarning",
-   "TravelTips"
-  ]
- },
- {
-  "id": "59c5d609420c",
-  "created": "2026-11-23T05:25:32+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdFR0TzVOaS05aDVsUDRxSHNrbXluRkZXbFctblpRTEtzd1FqQUdQUHpPMU80ZFBQMVJ5aDUwS1UyVzgzcU5rZktPR0R5YXFDalhFV2o5UUhwa1NFSXo2Vk8ya0MwR3hiS2w0SVZ4WXREV3JiYlZsc292UTUzTWJqb0dpM1FfT1ExdFVVVXBhSnZNSDhhbEExMjkwMExRRWszbXEtZ25TMlZ3VXMtWm96U05mLWFSb0VwN1dGTXFtQTFSSDZPNmZsRkNleFVheS1LWmJKUllpTExxZk0yZ1dSNmx6MzBSWDZS?oc=5",
-  "headline": "Tata Sons to Choose IPO or Private Path This Week",
-  "hook": "The biggest family business may hit the stock market soon.",
-  "what": "Tata Sons' board is meeting this week to decide on a public listing or staying private. The discussion follows an internal rift among the group's largest shareholder. The outcome will shape the company's ownership structure.",
-  "why": "A potential IPO could give young investors new entry points and shift market dynamics. Keep an eye on the news if you plan to invest through platforms like UPI.",
-  "tags": [
-   "TataSons",
-   "IPO",
-   "stockmarket",
-   "investing",
-   "business"
-  ]
- },
- {
-  "id": "1318dfc0d214",
-  "created": "2026-11-23T05:25:33+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "ABS-CBN",
-  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2dmd2pyOHZuWGlGZGtVZXBlbHZUSmw0N2RYZ2dCZ2pBY1AxUzVFTC1Iay1jUG9xeDAyNXpZLVV1RG1FcVhvSW5CdkhVWWs1RHA1cV9zRXo5LTRPZnhuUFBrajByY0pGM2s1QjdUcnV1MnMzU0ozQ3ctUkhHQUtYZDdCelNpV1E5Y0VTZ3ktcFVHdjQ0dGhtYm1hQ1Ztek9sZ2t2b2pPLWtDVVJnbW5vYXBBZ0xIN2c4Q2tiX3REUVk1RXlyZXh2MzRkUzZlZw?oc=5",
-  "headline": "Oasis Gaming wins Predator League 2027 PH qualifiers",
-  "hook": "Your favorite Valorant squad just clinched the top spot!",
-  "what": "Oasis Gaming emerged as the champion in the Predator League 2027 qualifiers for the Philippines. The victory secures their place in the upcoming national tournament.",
-  "why": "This win highlights the growing esports scene in India, offering inspiration for aspiring gamers and potential career paths. Keep an eye on upcoming matches to support the team.",
-  "tags": [
-   "Valorant",
-   "OasisGaming",
-   "PredatorLeague",
-   "Esports",
-   "PH"
-  ]
- },
- {
-  "id": "f8b8a2fb3565",
-  "created": "2026-11-23T04:42:55+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "FXEmpire",
-  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5",
-  "headline": "Gold prices tumble as Fed hike fears rise",
-  "hook": "Your savings could feel the pinch as gold slides.",
-  "what": "Gold’s value kept dropping, mirroring the sharp sell‑off seen in 2022. Analysts link the decline to worries about U.S. interest‑rate hikes and a broader market pullback tied to AI‑related trades.",
-  "why": "A falling gold price can affect investment plans and the cost of jewellery for young Indians. Keep an eye on rate news before making big purchases.",
-  "tags": [
-   "gold",
-   "markets",
-   "finance",
-   "investing",
-   "rates"
-  ]
- },
- {
-  "id": "d6affc8cb7f5",
-  "created": "2026-11-23T04:43:18+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/cop31-longest-un-climate-climate-ends-without-a-deal-over-fossil-fuels-deadlock-12363368#publisher=newsstand",
-  "headline": "UN climate talks end with no fossil fuel phase‑out deal",
-  "hook": "Talks stalled as oil‑rich nations blocked any cut‑back plan.",
-  "what": "The latest UN climate negotiations concluded without an agreement. Delegates could not agree on phasing out fossil fuels because oil‑producing countries opposed any mention of it.",
-  "why": "Without a global plan to curb fossil fuels, climate impacts may worsen, affecting future generations. Young Indians should stay informed and push for sustainable policies.",
-  "tags": [
-   "climate",
-   "UN",
-   "fossilfuels",
-   "youth",
-   "policy"
-  ]
- },
- {
-  "id": "3d6f86569bfb",
-  "created": "2026-11-23T04:43:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWdWUVg3WTkwb2lLVTY2YkZnclN4Wkh4Nmx3QklfTEpCNTZjVTBURmRTZDQ0MGQ0NXo1NG5KX256a3FORVhVaFhycVRIbDkwTXJhOWJrQlZhaGc3YnFjajFhWk92R3htbWpyZzFBVlRLOXJISU1VQ3E4Mkl4dHhYQmFpamRJTmFaWnFKQnlXSy1DcGtucV9WcmVvUnpBbC1hMmFXYi1FT1FJSUZ5VmFET3JyX2tJcEZQWDhlUzFUaEU0WEJTSVlrUTVSd3k3YnFLMGtpZGIwb3UtdXd6YWVNS0EtdDNUbDliS0ZMdzBB?oc=5",
-  "headline": "GitHub teams chase PC port of leaked GTA VI Xbox build",
-  "hook": "Three open‑source projects are trying to run GTA VI on PC, but the core file is still missing.",
-  "what": "An anonymous hacker called Cyberleek released an Xbox version of the unreleased GTA VI. Three separate GitHub initiatives are attempting to convert that build for PC, yet they do not have the executable file needed. Developers have also released a tool named Leonida that can run the game natively on PC.",
-  "why": "A successful PC port could let gamers play the game before its official launch, but the missing executable limits progress. Stay cautious about unofficial downloads and watch the open‑source efforts.",
-  "tags": [
-   "GTA6",
-   "PCport",
-   "GitHub",
-   "gaming",
-   "leak"
   ]
  }
 ]
