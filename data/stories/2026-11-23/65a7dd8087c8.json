@@ -1,0 +1,37 @@
+{
+ "id": "65a7dd8087c8",
+ "created": "2026-11-23T17:23:50+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Zavya secures ₹22.6 Cr to expand silver jewellery line",
+  "hook": "A budget jewellery brand just got a big funding boost.",
+  "what": "Zavya, a startup focused on affordable everyday silver jewellery, raised ₹22.6 crore (about $2.4 million) in a pre‑Series A round. The funding was led by Daksham Growth.",
+  "why": "The capital will help the company scale production and reach more young shoppers across India. Entrepreneurs can note the growing investor interest in budget fashion accessories.",
+  "tags": [
+   "startup",
+   "funding",
+   "jewellery",
+   "silver",
+   "youngentrepreneurs"
+  ]
+ },
+ "ml": {
+  "headline": "Zavya‑ക്ക് സിൽവർ ജ്വല്ലറി വ്യാപനത്തിന് ₹22.6 കോടി ഫണ്ടിംഗ്",
+  "hook": "ബജറ്റ് ജ്വല്ലറി ബ്രാൻഡിന് വലിയ നിക്ഷേപം ലഭിച്ചു.",
+  "what": "ദൈനംദിന സിൽവർ ജ്വല്ലറിയിൽ ശ്രദ്ധ കേന്ദ്രീകരിച്ച സ്റ്റാർട്ടപ്പ് Zavya, പ്രീ‑സീരീസ് എ റൗണ്ടിൽ ഏകദേശം $2.4 മില്യൺ (₹22.6 കോടി) സമാഹരിച്ചു. ഈ ഫണ്ടിംഗ് Daksham Growth നയിച്ചു.",
+  "why": "ഈ പണം ഉൽപ്പാദനം വർദ്ധിപ്പിക്കാനും ഇന്ത്യയിലെ യുവ ഉപഭോക്താക്കളിലേക്ക് എത്തിക്കാനും സഹായിക്കും. ബജറ്റ് ഫാഷൻ ആക്സസറികളിൽ നിക്ഷേപം വർദ്ധിക്കുന്നതിനെ യുവ സംരംഭകർ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "സ്റ്റാർട്ടപ്പ്",
+   "ഫണ്ടിംഗ്",
+   "ജ്വല്ലറി",
+   "സിൽവർ",
+   "യുവസംരംഭകർ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "6cf7f499c1ff",
+ "created": "2026-11-23T17:23:40+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "IMDb",
+ "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBobC1rNUNWOVJDZkwwN1k4ZW0wM2x3NGhVWnE2TkZpVGhFMnlEWXVuTXd4Zmd2dXZRSFlsM2tVc1EwbkhYajhLZ2dFXzBadHpKc2RBVkN0eE5VT0xRQUxQcGR3?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "New OTT movies drop this week: Drishyam 3, Hanuman Ansh, Spider‑Man",
+  "hook": "Your weekend binge list just got bigger.",
+  "what": "From November 23 to 29, several titles hit streaming platforms, including the sequel Drishyam 3, the mythological adventure Hanuman Ansh, and the superhero film Spider‑Man: Brand New Day. More releases are also scheduled during the same period.",
+  "why": "These fresh releases give Gen‑Z a chance to catch up on popular franchises without leaving home. Check your favorite OTT apps and add them to your watchlist.",
+  "tags": [
+   "OTT",
+   "movies",
+   "streaming",
+   "drishyam",
+   "spiderman"
+  ]
+ },
+ "ml": {
+  "headline": "ഈ ആഴ്ച പുതിയ OTT ചിത്രങ്ങള്‍: Drishyam 3, Hanuman Ansh, Spider‑Man",
+  "hook": "വീക്കെന്‍ഡ് ബിംജി പ്ലാന്‍ ഇനി കൂടുതല്‍ നിറവേറുന്നു.",
+  "what": "നവംബര്‍ 23 മുതല്‍ 29 വരെ, Drishyam 3, Hanuman Ansh, Spider‑Man: Brand New Day എന്നിവ ഉള്‍പ്പെടെ നിരവധി സിനിമകള്‍ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോംമുകളില്‍ ലഭ്യമാകും. അതേ കാലയളവില്‍ മറ്റു റിലീസുകളും ഉണ്ടാകും.",
+  "why": "പുതിയ റിലീസുകള്‍ വീട്ടില്‍ തന്നെ ജനപ്രിയ സിനിമകള്‍ കാണാന്‍ അവസരം നല്‍കുന്നു. നിങ്ങളുടെ OTT ആപ്പില്‍ ഇവ ചേര്‍ത്ത് പ്ലേലിസ്റ്റ് തയ്യാറാക്കൂ.",
+  "tags": [
+   "OTT",
+   "ചിത്രം",
+   "സ്റ്റ്രീമിംഗ്",
+   "drishyam",
+   "spiderman"
+  ]
+ }
+}

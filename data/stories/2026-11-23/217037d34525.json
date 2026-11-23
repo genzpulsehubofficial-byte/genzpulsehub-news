@@ -1,0 +1,37 @@
+{
+ "id": "217037d34525",
+ "created": "2026-11-23T17:23:37+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/dhanraj-murder-case-court-convicts-three-accused-acquits-17-others/article71733965.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Three convicted, 17 cleared in Dhanraj murder case",
+  "hook": "A 2016 killing gets a fresh verdict after years of court battles.",
+  "what": "A court sentenced three people for the murder of Dhanraj, a former CPI(M) branch secretary and DYFI leader, and acquitted 17 others. Dhanraj was hacked to death on July 11, 2016, in Ezhimala.",
+  "why": "The ruling shows how long serious criminal cases can take, reminding young people to stay informed about the justice system.",
+  "tags": [
+   "DhanrajCase",
+   "Kerala",
+   "Justice",
+   "CPIM",
+   "DYFI"
+  ]
+ },
+ "ml": {
+  "headline": "മൂന്ന് കുറ്റക്കാരന്‍ ശിക്ഷ, १७ പേർ മോചനം: ധന്‍രാജ് കൊല കേസ്",
+  "hook": "2016-ലെ ഒരു കൊലപാതകത്തിന്‍റേ പുതിയ വിധി, യുവാക്കള്‍ ശ്രദ്ധിക്കേണ്ടത്.",
+  "what": "ഒരു കോടതി മൂന്ന് ആളുകളെ ധന്‍രാജിന്റെ കൊലക്കുറ്റത്തില്‍ ശിക്ഷിച്ചു, १७ പേരെ മോചനം നല്‍കി. ധന്‍രാജ് 2016 ജൂലൈ 11-ന് എഴിമലയില്‍ ശവകുടം മുറിച്ചു കൊല്ലപ്പെട്ടു, അദ്ദേഹം മുന്‍ സി.പി.ഐ(എം) ശാഖാ സെക്രട്ടറി, ഡിവൈഎഫ്‌ഐ നേതാവായിരുന്നു.",
+  "why": "ഈ വിധി ഗൗരവമുള്ള കുറ്റങ്ങളില്‍ നീതി പ്രക്രിയയുടെ ദൈര്‍ഘ്യം കാണിക്കുന്നു, യുവാക്കൾക്ക് നിയമം പാലിക്കാനും അവബോധം നിലനിർത്താനും പ്രേരിപ്പിക്കുന്നു.",
+  "tags": [
+   "ധന്‍രാജ്‌കേസ്",
+   "കേരളം",
+   "ന്യായം",
+   "സി.പി.ഐഎം",
+   "ഡിവൈഎഫ്‌ഐ"
+  ]
+ }
+}

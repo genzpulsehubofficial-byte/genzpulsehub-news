@@ -1,5 +1,118 @@
 [
  {
+  "id": "217037d34525",
+  "created": "2026-11-23T17:23:37+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/dhanraj-murder-case-court-convicts-three-accused-acquits-17-others/article71733965.ece",
+  "headline": "Three convicted, 17 cleared in Dhanraj murder case",
+  "hook": "A 2016 killing gets a fresh verdict after years of court battles.",
+  "what": "A court sentenced three people for the murder of Dhanraj, a former CPI(M) branch secretary and DYFI leader, and acquitted 17 others. Dhanraj was hacked to death on July 11, 2016, in Ezhimala.",
+  "why": "The ruling shows how long serious criminal cases can take, reminding young people to stay informed about the justice system.",
+  "tags": [
+   "DhanrajCase",
+   "Kerala",
+   "Justice",
+   "CPIM",
+   "DYFI"
+  ]
+ },
+ {
+  "id": "6cf7f499c1ff",
+  "created": "2026-11-23T17:23:40+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IMDb",
+  "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBobC1rNUNWOVJDZkwwN1k4ZW0wM2x3NGhVWnE2TkZpVGhFMnlEWXVuTXd4Zmd2dXZRSFlsM2tVc1EwbkhYajhLZ2dFXzBadHpKc2RBVkN0eE5VT0xRQUxQcGR3?oc=5",
+  "headline": "New OTT movies drop this week: Drishyam 3, Hanuman Ansh, Spider‑Man",
+  "hook": "Your weekend binge list just got bigger.",
+  "what": "From November 23 to 29, several titles hit streaming platforms, including the sequel Drishyam 3, the mythological adventure Hanuman Ansh, and the superhero film Spider‑Man: Brand New Day. More releases are also scheduled during the same period.",
+  "why": "These fresh releases give Gen‑Z a chance to catch up on popular franchises without leaving home. Check your favorite OTT apps and add them to your watchlist.",
+  "tags": [
+   "OTT",
+   "movies",
+   "streaming",
+   "drishyam",
+   "spiderman"
+  ]
+ },
+ {
+  "id": "81aaa2c40f2e",
+  "created": "2026-11-23T17:23:42+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-killed-13-injured-as-bus-hits-van-near-mailam/article71734131.ece",
+  "headline": "Bus-Van Crash Near Mailam Leaves 2 Dead, 13 Injured",
+  "hook": "A sudden collision on a Tamil Nadu road claims lives.",
+  "what": "A bus struck a van close to Mailam, resulting in two fatalities and thirteen people injured.",
+  "why": "Road accidents remain a major risk for travelers; staying alert and following safety rules can help prevent such tragedies.",
+  "tags": [
+   "accident",
+   "TamilNadu",
+   "roadsafety",
+   "news"
+  ]
+ },
+ {
+  "id": "d8cdc3ee2ccb",
+  "created": "2026-11-23T17:23:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "BusinessLine",
+  "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXVvX3Q4QlppbDhBeHJUUFk3VFg5eVZZWHlqOTE2Nl83MEJEb18wZFFrdHpfbGRick45U29mbUFpWjBwcW04ZkJwcGpYRWIwWjJLdzYwWVBKUGZHeHYxWnVjTVlVSGxaTkM5S0gwTDQzQ1M0X2l0YkpGOFRoWDZJRHphUXVuUElBUFNFQVJidkJGZnBkMHdLRkhfNlpyek9CcHNReTBNWTAxaTlqTlFEUVJtT3B1WWpFMjdVV1o2RnFlRG9k0gHLAUFVX3lxTE5EMkMzZFZKYV9tWG5zTmQ1eDQ0dW9iRzFmdC13QWpkRzN0Q2cxTWRfSW1CM3J2QWZ1Y2VheU9JX2NyMWNWc05hQWhza2RRR21LdkZUTjdhWThDTnBqQVNxTzFkdjFkd0Q5Q1ZGMlFscHk2bkRVY2pORjUxbWlJdS0yR1h1T1g0ZjRKaVRsT0RhOHhPbERzc3Q5MkVWX0Rnd19YTkE1clN4Q2tZcVB1bzNRMHRZaTJtUFJNV2pmWjI4Ulg4dTBZeWdlYzVB?oc=5",
+  "headline": "Sensex drops 1,484 points as banks pull market down",
+  "hook": "India’s biggest indices tumble, wiping out billions in wealth.",
+  "what": "The Sensex fell by 1,484 points and the Nifty slid to 25,349.65 on November 23. The slump was led by a sharp sell‑off in banking stocks, causing investors to lose over Rs 5 lakh crore in market value.",
+  "why": "Such a steep fall can affect savings, investments and future job prospects for young Indians. Keep an eye on market trends and consider diversifying your portfolio.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "banks",
+   "crash"
+  ]
+ },
+ {
+  "id": "2613f6d34fc1",
+  "created": "2026-11-23T17:23:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
+  "headline": "Matters.AI secures ₹115 cr in pre‑Series A funding",
+  "hook": "A home‑grown AI security startup just got a big cash boost.",
+  "what": "The AI‑focused data security platform Matters.AI, previously known as OptiQ.AI, raised 115 crore rupees (about $12 million) in a pre‑Series A round. The funding was led by Tanglin Venture Partners along with other investors.",
+  "why": "The capital will help the startup expand its AI security solutions, impacting how businesses protect data. Young tech enthusiasts may find new job or internship openings.",
+  "tags": [
+   "AI",
+   "DataSecurity",
+   "StartupFunding",
+   "Tech",
+   "India"
+  ]
+ },
+ {
+  "id": "65a7dd8087c8",
+  "created": "2026-11-23T17:23:50+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/zavya-nets-%e2%82%b922-6-cr-to-scale-everyday-silver-jewellery-biz/",
+  "headline": "Zavya secures ₹22.6 Cr to expand silver jewellery line",
+  "hook": "A budget jewellery brand just got a big funding boost.",
+  "what": "Zavya, a startup focused on affordable everyday silver jewellery, raised ₹22.6 crore (about $2.4 million) in a pre‑Series A round. The funding was led by Daksham Growth.",
+  "why": "The capital will help the company scale production and reach more young shoppers across India. Entrepreneurs can note the growing investor interest in budget fashion accessories.",
+  "tags": [
+   "startup",
+   "funding",
+   "jewellery",
+   "silver",
+   "youngentrepreneurs"
+  ]
+ },
+ {
   "id": "7d8cc24024b3",
   "created": "2026-11-23T16:29:50+05:30",
   "category": "headlines",
@@ -637,120 +750,6 @@
    "India",
    "sustainability",
    "youth"
-  ]
- },
- {
-  "id": "a072727147c0",
-  "created": "2026-11-23T08:37:21+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/fake-food-safety-officer-cheats-hotels-thrissur-arrested-rpcq0028",
-  "headline": "Man pretends FSSAI inspector, dines free, extorts hotels in Thrissur",
-  "hook": "A fake health officer is scamming dozens of eateries.",
-  "what": "Police say a man disguised as a Food Safety Authority official visited more than 15 hotels in Thrissur, ate without paying and demanded money. The alleged fraud involved posing as a health inspector.",
-  "why": "Such scams threaten trust in food safety checks; youngsters should verify officials' identity before complying.",
-  "tags": [
-   "Thrissur",
-   "FSSAI",
-   "fraud",
-   "hotel",
-   "scam"
-  ]
- },
- {
-  "id": "480178648706",
-  "created": "2026-11-23T08:37:23+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/address-terror-issue-through-joint-forum-says-pakistan-minister-malik-101795401960572.html",
-  "headline": "Pakistani minister urges joint forum to tackle regional terror",
-  "hook": "Both India and Pakistan say terrorism hurts them both.",
-  "what": "During a visit to India for an SCO meeting, Pakistan’s minister said the terror problem impacts the whole region. He suggested creating a joint forum to address it, noting that Pakistan has also faced terrorism.",
-  "why": "Cooperation on security could improve safety for students and travelers across borders. Stay informed about regional peace initiatives.",
-  "tags": [
-   "terror",
-   "regionalsecurity",
-   "IndiaPakistan",
-   "SCO",
-   "jointforum"
-  ]
- },
- {
-  "id": "d1b6453264ef",
-  "created": "2026-11-23T08:37:28+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/guruvayur-dwadashi-pan-am-offering-weddings-krccpitv",
-  "headline": "Guruvayur Temple Receives ₹16.43 Lakh Dwadashi Offering",
-  "hook": "57 early‑morning weddings and a crowd of 10,000 gathered for the feast.",
-  "what": "The temple collected 16.43 lakh rupees as Dwadashi panam. A total of 57 couples tied the knot before 8 am, and close to ten thousand people attended the communal meal.",
-  "why": "Such large gatherings show the continued cultural pull of temple festivals among youth, and remind them to respect local customs when attending.",
-  "tags": [
-   "Guruvayur",
-   "Dwadashi",
-   "TempleFest",
-   "YouthCulture",
-   "India"
-  ]
- },
- {
-  "id": "b06e6638e47f",
-  "created": "2026-11-23T08:37:30+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSmdhaldXb0U1ZkdRM2RlWkRfWFZRa3BIS21TcGtBUWp4elN2Q2VrOHYxRTlSSHY2enpscWd2YXNxYTRwbTg4dGd0aTNCMWRoVmctNEIwWlQ2b1R2blVfRzJWbjJ3bFRpazZha3RqakhuU2dKRUVSZE9PMWR1Ri1ZRTBYR09lMWIxemc1YVZ4V0FLa09LUDVCa1lnenFSLW94T3Fhc0swWFVqcEl6SmhlZEc5b0w4am0zbjFmdlBuem9LQTNjR0JheGstSmd4VXlXdzU4OEFrb2E2TWRjY2hBTk5DM1Rsa2t4ZXlUZFFWaTY2NUxIcXJjX2dZWmtRSU9mVnF5bEhrd2I4QUnSAZACQVVfeXFMUDdtTWhXU3FiNXFXWDd3RzN4RkhQMEc1aXVrU1E5a2FZYXBxaHk1ZlN5c0RjNldmbG9RU0x0Y0pBNGtjSnpic0VYZW1qX2o4Yk9GTFpFQV9zN0FXTzBfdGg5Q3Rtb00zaXVoc3FXbG5BaWxmaWRhZUltYmwwZFVXSk5EV2wzcDMwbUljNDNnZmI1MDVpelVCbVhwd095RWxoTXAzTnAzd1gzTGZzNGJORXlaYTR3UkVZR281TWk0RUNtVkEtc0dDRmdkMks5YjNQaUI4Z1hBcWJrcjZ3dklINkhjOVN5XzVINjZQUUY3c3FIRkxKdlh3aXBsX1V3LWUzZmRCRWdsdmRyV1BWVXF0NV8?oc=5",
-  "headline": "Sensex surges 898 points, Nifty hits 25,800 amid global cues",
-  "hook": "India’s markets climb while many world indices slip.",
-  "what": "On November 23, the Sensex rose by 898 points and the Nifty reached 25,800. The rise came as major global indices such as the DJIA, S&P, Nasdaq, Kospi, Nikkei and Taiwan’s market showed mixed signals.",
-  "why": "A strong domestic rally offers opportunities for young investors, but they should stay aware of global trends that could affect volatility.",
-  "tags": [
-   "stockmarket",
-   "Sensex",
-   "Nifty",
-   "globalindices",
-   "investing"
-  ]
- },
- {
-  "id": "d84117491dd5",
-  "created": "2026-11-23T07:40:49+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/tamil-nadu-moves-supreme-court-seeking-review-of-november-20-karthigai-deepam-order-101795397551479.html",
-  "headline": "Tamil Nadu asks Supreme Court to revisit Karthigai Deepam order",
-  "hook": "State moves to challenge a recent festival ruling.",
-  "what": "The Hindu Religious & Charitable Endowments department of Tamil Nadu filed a review petition with the Supreme Court on November 21. The petition seeks a review of the court’s November 20 order on the Karthigai Deepam festival.",
-  "why": "The outcome could change how the festival is observed, affecting students and families. Stay updated for any impact on holidays or public events.",
-  "tags": [
-   "TamilNadu",
-   "SupremeCourt",
-   "KarthigaiDeepam",
-   "LegalReview",
-   "Youth"
-  ]
- },
- {
-  "id": "7a0e2ede6c7a",
-  "created": "2026-11-23T07:40:52+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/amritsar-grenade-attack-us-based-happy-passia-8-others-declared-proclaimed-offenders-101795398793577.html",
-  "headline": "US-based Happy Passia named in Amritsar grenade case",
-  "hook": "Eight more suspects now officially on the run.",
-  "what": "Happy Passia, based in the US, and eight others have been declared proclaimed offenders in the Amritsar grenade attack. Intelligence officials say Passia is linked to the banned Babbar Khalsa International and worked with Lawrence Bishnoi’s network.",
-  "why": "The case highlights the presence of outlawed groups and their networks, urging young people to stay alert and report any suspicious activity.",
-  "tags": [
-   "Amritsar",
-   "GrenadeAttack",
-   "BKI",
-   "LawrenceBishnoi",
-   "ProclaimedOffenders"
   ]
  }
 ]

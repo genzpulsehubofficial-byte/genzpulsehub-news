@@ -1,0 +1,35 @@
+{
+ "id": "81aaa2c40f2e",
+ "created": "2026-11-23T17:23:42+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/two-killed-13-injured-as-bus-hits-van-near-mailam/article71734131.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bus-Van Crash Near Mailam Leaves 2 Dead, 13 Injured",
+  "hook": "A sudden collision on a Tamil Nadu road claims lives.",
+  "what": "A bus struck a van close to Mailam, resulting in two fatalities and thirteen people injured.",
+  "why": "Road accidents remain a major risk for travelers; staying alert and following safety rules can help prevent such tragedies.",
+  "tags": [
+   "accident",
+   "TamilNadu",
+   "roadsafety",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "മൈലാമിന് സമീപം ബസ്-വാൻ കൂട്ടിയിടിയിൽ 2 പേർ മരണം, 13 പേർ പരിക്കേറ്റു",
+  "hook": "ടാമിൽ നദിയിലെ ഒരു റോഡിൽ സംഭവിച്ച അപ്രതീക്ഷിത കൂട്ടിയിടി.",
+  "what": "മൈലാമിന് അടുത്തുള്ള ഒരു റോഡിൽ ബസ് ഒരു വാനുമായി അടിച്ചു, രണ്ട് പേർ മരിക്കുകയും പതിന്മൂന്ന് പേർക്ക് പരിക്ക് വരുകയും ചെയ്തു.",
+  "why": "യാത്രക്കാർക്ക് റോഡ് സുരക്ഷയുടെ പ്രാധാന്യം ഓർമ്മപ്പെടുത്തുന്ന സംഭവം; ജാഗ്രതയും സുരക്ഷാ മാർഗങ്ങളും പാലിക്കുന്നത് അപകടം കുറയ്ക്കാം.",
+  "tags": [
+   "അപകടം",
+   "തമിഴ്നാട്",
+   "റോഡ്സേഫ്റ്റി",
+   "വാർത്ത"
+  ]
+ }
+}

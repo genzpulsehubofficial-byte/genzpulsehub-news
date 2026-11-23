@@ -1,0 +1,37 @@
+{
+ "id": "2613f6d34fc1",
+ "created": "2026-11-23T17:23:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Matters.AI secures ₹115 cr in pre‑Series A funding",
+  "hook": "A home‑grown AI security startup just got a big cash boost.",
+  "what": "The AI‑focused data security platform Matters.AI, previously known as OptiQ.AI, raised 115 crore rupees (about $12 million) in a pre‑Series A round. The funding was led by Tanglin Venture Partners along with other investors.",
+  "why": "The capital will help the startup expand its AI security solutions, impacting how businesses protect data. Young tech enthusiasts may find new job or internship openings.",
+  "tags": [
+   "AI",
+   "DataSecurity",
+   "StartupFunding",
+   "Tech",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Matters.AI secured ₹115 cr pre‑Series A ഫണ്ടിംഗ്",
+  "hook": "ഒരു ഇന്ത്യൻ AI ഡാറ്റ സുരക്ഷാ സ്റ്റാർട്ടപ്പ് വലിയ നിക്ഷേപം നേടി.",
+  "what": "AI‑അധിഷ്ഠിത ഡാറ്റ സുരക്ഷാ പ്ലാറ്റ്ഫോം Matters.AI, മുൻപ് OptiQ.AI എന്നറിയപ്പെട്ടത്, 115 കോടി രൂപ (ഏകദേശം $12 മില്യൺ) pre‑Series A ഫണ്ടിംഗ് നേടി. ഈ റൗണ്ട് Tanglin Venture Partners നയിക്കുകയും മറ്റ് നിക്ഷേപകരും പങ്കാളികളായി.",
+  "why": "ഈ നിക്ഷേപം കമ്പനി AI സുരക്ഷാ പരിഹാരങ്ങൾ വികസിപ്പിക്കാൻ സഹായിക്കും, ബിസിനസ്സുകൾക്ക് ഡാറ്റ സംരക്ഷണം മെച്ചപ്പെടുത്താൻ. ടെക് മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്ന യുവജനങ്ങൾക്ക് പുതിയ ജോലി അല്ലെങ്കിൽ ഇന്റേൺഷിപ്പ് അവസരങ്ങൾ തുറക്കാം.",
+  "tags": [
+   "AI",
+   "ഡാറ്റസെക്യൂരിറ്റി",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ടെക്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

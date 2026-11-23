@@ -1,0 +1,37 @@
+{
+ "id": "d8cdc3ee2ccb",
+ "created": "2026-11-23T17:23:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "BusinessLine",
+ "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXVvX3Q4QlppbDhBeHJUUFk3VFg5eVZZWHlqOTE2Nl83MEJEb18wZFFrdHpfbGRick45U29mbUFpWjBwcW04ZkJwcGpYRWIwWjJLdzYwWVBKUGZHeHYxWnVjTVlVSGxaTkM5S0gwTDQzQ1M0X2l0YkpGOFRoWDZJRHphUXVuUElBUFNFQVJidkJGZnBkMHdLRkhfNlpyek9CcHNReTBNWTAxaTlqTlFEUVJtT3B1WWpFMjdVV1o2RnFlRG9k0gHLAUFVX3lxTE5EMkMzZFZKYV9tWG5zTmQ1eDQ0dW9iRzFmdC13QWpkRzN0Q2cxTWRfSW1CM3J2QWZ1Y2VheU9JX2NyMWNWc05hQWhza2RRR21LdkZUTjdhWThDTnBqQVNxTzFkdjFkd0Q5Q1ZGMlFscHk2bkRVY2pORjUxbWlJdS0yR1h1T1g0ZjRKaVRsT0RhOHhPbERzc3Q5MkVWX0Rnd19YTkE1clN4Q2tZcVB1bzNRMHRZaTJtUFJNV2pmWjI4Ulg4dTBZeWdlYzVB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex drops 1,484 points as banks pull market down",
+  "hook": "India’s biggest indices tumble, wiping out billions in wealth.",
+  "what": "The Sensex fell by 1,484 points and the Nifty slid to 25,349.65 on November 23. The slump was led by a sharp sell‑off in banking stocks, causing investors to lose over Rs 5 lakh crore in market value.",
+  "why": "Such a steep fall can affect savings, investments and future job prospects for young Indians. Keep an eye on market trends and consider diversifying your portfolio.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "banks",
+   "crash"
+  ]
+ },
+ "ml": {
+  "headline": "ബാങ്കുകൾക്ക്‌ പിന്നിൽ സെന്‍സെക്സ് 1,484 പോയിന്റ് ഇടിഞ്ഞു",
+  "hook": "ഇന്ത്യയുടെ പ്രധാന സൂചികകൾ തകർന്നു, ബില്യൺ രൂപയുടെ നിക്ഷേപം നഷ്ടമായി.",
+  "what": "23 നവംബർ സെന്‍സെക്സ് 1,484 പോയിന്റ് ഇടിഞ്ഞു, നിഫ്റ്റി 25,349.65 വരെ താഴ്ന്നു. ബാങ്ക് സ്റ്റോക്കുകളുടെ വേഗത്തിലുള്ള വിൽപ്പന മൂലം മാർക്കറ്റ്‌ക്ക്‌ വലിയ ഇടിവുണ്ടായി, നിക്ഷേപകർ 5 ലക്ഷം കോടി രൂപയ്ക്ക് മുകളിലുള്ള നഷ്ടം അനുഭവിച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള ഇടിവ് യുവജനങ്ങളുടെ സേവിംഗ്സും നിക്ഷേപങ്ങളും ഭാവി ജോലിചെയ്യാനുള്ള സാധ്യതകളെയും ബാധിക്കും. മാർക്കറ്റ്‌ ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക, നിങ്ങളുടെ പോർട്ട്ഫോളിയോ വൈവിധ്യമാക്കാൻ ശ്രമിക്കുക.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "banks",
+   "crash"
+  ]
+ }
+}
