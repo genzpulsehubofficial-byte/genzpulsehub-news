@@ -1,5 +1,99 @@
 [
  {
+  "id": "0a050e0ddd7c",
+  "created": "2026-11-23T09:49:57+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/nepal-pm-india-visit-live-updates-balendra-balen-shah-pm-modi-meeting-ayodhya-janakpur-train-railway-bilateral-talks-101795403583195.html",
+  "headline": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രി മോഡിയുമായി കൂടിക്കാഴ്ച, അയോധ്യ‑ജനക്പുർ ട്രെയിൻ ഫ്ലാഗ്‑ഓഫ്",
+  "hook": "പ്രധാനമന്ത്രി ബാലൻ ഷാ ഇന്ത്യയിലേക്ക്, ചർച്ചകളും പുതിയ റെയിൽ ലിങ്കും.",
+  "what": "ബാലൻ ഷാ ഇന്ത്യയുടെ പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡിയുമായി രണ്ട് രാജ്യങ്ങളിലെ ബന്ധം ചർച്ച ചെയ്യാൻ കൂടിയിരിക്കുന്നു. അവർ സാര്യു‑കമല എക്സ്പ്രസ്, അയോധ്യയും ജനക്പുരയും ബന്ധിപ്പിക്കുന്ന ട്രെയിൻ, വെർച്വൽ ആയി ആരംഭിക്കും.",
+  "why": "ഈ ട്രെയിൻ വിദ്യാർത്ഥികളും വിനോദസഞ്ചാരികളും അതിർത്തി കടന്ന് എളുപ്പത്തിൽ സഞ്ചരിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് കൂടുതൽ സഞ്ചാരവും സാംസ്കാരികം പഠിക്കാനും അവസരം ലഭിക്കും.",
+  "tags": [
+   "India",
+   "Nepal",
+   "train",
+   "travel",
+   "youth"
+  ]
+ },
+ {
+  "id": "0538d34a3691",
+  "created": "2026-11-23T09:50:01+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/why-tata-steel-sold-two-key-businesses-to-apl-apollo-for-rs-28-000-crore-12364032#publisher=newsstand",
+  "headline": "ടാറ്റാ സ്റ്റീൽ ട്യൂബ്സ്, പൈപ്പുകൾ, കളർസ് APL അപോലോക്ക് 28k രൂപയ്ക്ക് വിറ്റു",
+  "hook": "വലിയ സ്റ്റീൽ ഡീൽ ഇന്ത്യയുടെ വ്യവസായ രംഗം മാറ്റുന്നു.",
+  "what": "APL അപോലോ ടാറ്റാ സ്റ്റീൽയുടെ ട്യൂബ്സ്, പൈപ്പുകൾ ബിസിനസും, ടാറ്റാ സ്റ്റീൽ കളർസിലെ മുഴുവൻ ഷെയറും വാങ്ങുമെന്ന് പ്രഖ്യാപിച്ചു. ഈ ഇടപാട് ഏകദേശം 28,000 കോടി രൂപ മൂല്യമുള്ളതാണ്.",
+  "why": "ഇത് കൺസ്ട്രക്ഷൻ, മാൻഫാക്ചറിംഗ് മേഖലകളിലെ ജോലികളിലും ഉൽപ്പന്ന ലഭ്യതയിലും ബാധകമാകാം. കരിയർ അല്ലെങ്കിൽ നിക്ഷേപം സംബന്ധിച്ച് വിവരങ്ങൾ അറിയാൻ വ്യവസായ വാർത്തകൾ പിന്തുടരുക.",
+  "tags": [
+   "ടാറ്റാ സ്റ്റീൽ",
+   "APL അപോലോ",
+   "ബിസിനസ് ഡീൽ",
+   "ഇന്ത്യ ഇൻഡസ്ട്രി",
+   "ജോബ്"
+  ]
+ },
+ {
+  "id": "a3a387d3f64d",
+  "created": "2026-11-23T09:50:02+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-23-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795339984528.html",
+  "headline": "ഡെല്‍ലി, മുംബൈ, കൊല്‍ക്കത്തയിലെ ഗോള്‍ഡ്, സില്‍വര്‍ വിലകള്‍ പുറപ്പെട്ടു",
+  "hook": "വാങ്ങല്‍ പ്ലാന്‍ ചെയ്യുന്നതിന് മുമ്പ് ഇന്നത്തെ മെറ്റല്‍ വിലകള്‍ നോക്കൂ.",
+  "what": "23 നവംബറില്‍ 24K, 22K ഗോള്‍ഡ്, 999 സില്‍വര്‍ എന്നിവയുടെ റീട്ടെയില്‍ നിരക്കുകള്‍ പ്രധാന നഗരങ്ങളിലായി MCX മാര്‍ക്കറ്റ് അപ്ഡേറ്റുകള്‍ സഹിതം പ്രഖ്യാപിച്ചു.",
+  "why": "ഇപ്പോഴത്തെ വിലകള്‍ അറിയുന്നത് ഉത്സവങ്ങളോ സമ്മാനങ്ങളോ വാങ്ങാന്‍ ആലോചിക്കുന്ന യുവാക്കള്‍ക്ക് ബജറ്റ് പ്ലാന്‍ ചെയ്യാന്‍ സഹായിക്കും.",
+  "tags": [
+   "ഗോൾഡ്",
+   "സിൽവർ",
+   "വിലകൾ",
+   "ഡെൽലി",
+   "മുംബൈ"
+  ]
+ },
+ {
+  "id": "26a16575bf7c",
+  "created": "2026-11-23T09:50:05+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kozhikode-beach-food-street-unhygienic-conditions-gxjikcrt",
+  "headline": "കോഴിക്കോട് ബീച്ച് ഫുഡ് സ്ട്രീറ്റിൽ ശുചിത്വ പ്രശ്നങ്ങൾ തുടരുന്നു",
+  "hook": "പരിശോധനകൾക്ക് ശേഷം പോലും ഭക്ഷണത്തിൽ ചീന്തുകൾ, മലിന ജലം, അപകടകരമായ പാചകം കാണാം.",
+  "what": "ജില്ലാ കലക്ടർ നടത്തിയ പരിശോധനയിൽ ഭക്ഷണത്തിൽ ചീന്തുകൾ, മലിന ജലം, സുരക്ഷിതമല്ലാത്ത പാചക രീതികൾ കണ്ടെത്തി. ഔദ്യോഗിക പരിശോധനകളുണ്ടായിട്ടും ഈ പ്രശ്നങ്ങൾ തുടരുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള ശുചിത്വക്കുറവ് ഭക്ഷണവിഷബാധയുടെ അപകടം വർദ്ധിപ്പിക്കുന്നു, അതിനാൽ യുവാക്കൾക്ക് സ്ട്രീറ്റ് ഫുഡ് വാങ്ങുമ്പോൾ ശുചിത്വം പരിശോധിക്കണം. ശുചിയായ സ്റ്റാളുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "കോഴിക്കോട്",
+   "ഭക്ഷണസുരക്ഷ",
+   "സ്റ്റ്രീറ്റ്‌ഫുഡ്",
+   "ആരോഗ്യം"
+  ]
+ },
+ {
+  "id": "dded29fcddd3",
+  "created": "2026-11-23T09:50:08+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/property-seller-escapes-6-75-lakh-cash-penalty-5-lessons-from-itat-chennai-ruling-for-property-buyers-and-sellers-11795401434461.html",
+  "headline": "ചെന്നൈ ITAT ₹6.75 ലക്ഷം പിഴ ഒഴിവാക്കി",
+  "hook": "ഒരു പ്രോപ്പർട്ടി വിൽപ്പനക്കാരന് വലിയ പിഴ ഒഴിവായി—നിങ്ങൾക്ക് എന്ത് അർത്ഥം?",
+  "what": "ചെന്നൈ ITAT ഒരു കാഷ് അഡ്വാൻസ് എടുത്ത വിൽപ്പനക്കാരന് നൽകിയ ₹6.75 ലക്ഷം വരുമാന നികുതി പിഴ റദ്ദാക്കി. ഈ വിധി യുക്തിസഹ കാരണ നിയമവും വാങ്ങുന്നവർക്കും വിൽപ്പനക്കാരനും വേണ്ട അഞ്ച് പ്രധാന നിർദ്ദേശങ്ങളും ചൂണ്ടിക്കാട്ടി.",
+  "why": "പണം കൈമാറ്റം ചെയ്യുന്ന ഇടപാടുകളിൽ നികുതി നിയമം അറിയുന്നത് പിഴകൾ ഒഴിവാക്കാൻ സഹായിക്കും. ഈ നിർദ്ദേശങ്ങൾ പാലിച്ച് നിയമപരമായി ഇടപഴകുക.",
+  "tags": [
+   "പ്രോപ്പർട്ടി",
+   "നികുതി",
+   "വാങ്ങുന്നവർ",
+   "വിൽപ്പനക്കാരൻ",
+   "ITAT"
+  ]
+ },
+ {
   "id": "3495cd84e1ac",
   "created": "2026-11-23T08:37:09+05:30",
   "category": "money",
@@ -655,101 +749,6 @@
    "Legislature",
    "YouthVoice",
    "Governance"
-  ]
- },
- {
-  "id": "f5ffd6ab03ee",
-  "created": "2026-11-23T02:56:32+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
-  "headline": "പെരുമ്പാവൂരില്‍ ബാലന്റെ മരണം ശേഷം ഫാക്ടറി പരിശോധന കർശനമാകും",
-  "hook": "ഒരു കുട്ടിയുടെ മരണത്തിന് ശേഷം കേരളത്തിലെ ഫാക്ടറികളിൽ സുരക്ഷാ പരിശോധനകൾ വർധിപ്പിക്കുന്നു.",
-  "what": "പെരുമ്പാവൂരിലെ ഒരു ഫാക്ടറിയിൽ ഒരു ബാലന്റെ മരണം സംഭവിച്ചു. അതിനാൽ അധികാരികൾ ഫാക്ടറി പരിശോധനകൾ കർശനമാക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ഉടൻ അപകടം സൃഷ്ടിക്കുന്ന നിയമവിരുദ്ധതകൾ കണ്ടെത്തിയാൽ കർശന നിയമ നടപടികൾ സ്വീകരിക്കും.",
-  "why": "സുരക്ഷിതമായ തൊഴിൽസ്ഥലങ്ങൾ യുവജനങ്ങളുടെ ജീവിതം സംരക്ഷിക്കുന്നു; unsafe സാഹചര്യങ്ങൾ കണ്ടെത്തിയാൽ ബന്ധപ്പെട്ട വകുപ്പുകളെ അറിയിക്കുക.",
-  "tags": [
-   "കേരളം",
-   "ഫാക്ടറി",
-   "സുരക്ഷ",
-   "പരിശോധനം",
-   "യുവജനങ്ങൾ"
-  ]
- },
- {
-  "id": "be1f28e0f6ba",
-  "created": "2026-11-23T02:56:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Barchart.com",
-  "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR3RGUXpRU3hQZS13ckJJLThxS0l5b0hsSDVUSEl1QW5HZDh4RnhQOGhhbGwwaEQ4RG5Sb1JmcE5IeUtzb1EyNlJXV19nclpyalh6dHJkRTVzaDlQUWdGa0RPdUNQT1JKbUpiZl9lcWNlNTg0LWtzN2h2Mk5kNnpiTjR6Tld2VDcwTDBQcEtRNmJ6Y053b1VTV3FVTGN0bkUtbzBSZDZWWk9nRk1Xc3RscG1rSXR5bldEZUM3VzhDZ01oZ2NxdHAyYlVaRXR0cmFyTDI1UDhjZEZmeGRuLWpYa0M4Nm1iT1FDdmliRGY2V3h1OFhxRnBicVlKZ2wwdEpFZm5Cb3MyZ2pLbEdnRHowckJR?oc=5",
-  "headline": "ജെൻസൻ ഹുവാങ് ഇല്ലാതെ ന്വിഡിയയുടെ വരുമാനം $115 ബില്യൺ",
-  "hook": "സ്ഥാപകനില്ലെങ്കിലും ചിപ്പ് കമ്പനി റെക്കോർഡ് വിൽപ്പന നേടി.",
-  "what": "ന്വിഡിയ തന്റെ ഏറ്റവും പുതിയ കാലയളവിൽ $115 ബില്യൺ വരുമാനം പ്രഖ്യാപിച്ചു, ഇത് സ്ഥാപകൻ ജെൻസൻ ഹുവാങ് സിഇഒ ആയി ഇല്ലാത്ത ആദ്യ റിപ്പോർട്ടാണ്. കമ്പനി വളർച്ച വേഗത്തിൽ നടക്കുന്നതായി, ചീഫ് ഓപ്പറേറ്റിംഗ് ഓഫീസർ ഉപഭോക്താക്കൾ ഇപ്പോഴും അതിനോടു ചേർന്നിരിക്കുന്നുവെന്ന് പറഞ്ഞു.",
-  "why": "എഐ ചിപ്പുകളുടെ ഉയർന്ന ആവശ്യകത യുവജനങ്ങൾക്ക് ടെക് ജോലികളും നിക്ഷേപ അവസരങ്ങളും തുറക്കാം. നിങ്ങൾക്ക് ടെക് കരിയർ അല്ലെങ്കിൽ സ്റ്റോക്ക് മാർക്കറ്റ് താൽപ്പര്യമുണ്ടെങ്കിൽ ഈ മേഖലയിൽ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "TechGrowth",
-   "Stocks",
-   "Jobs"
-  ]
- },
- {
-  "id": "9d8c520acc65",
-  "created": "2026-11-23T02:08:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Yahoo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
-  "headline": "Apple വികസിപ്പിക്കുന്നു സ്വയംപ്രവർത്തി AI ഏജന്റ്, കോഡ് എഴുതും, ആപ്പുകൾ നിയന്ത്രിക്കും",
-  "hook": "ഒരു പുതിയ AI നിങ്ങളുടെ iPhone ആപ്പുകൾക്ക് കോഡ് എഴുതിയും നിയന്ത്രിക്കയും ചെയ്യും.",
-  "what": "Apple സ്വയംപ്രവർത്തി ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് ഏജന്റ് വികസിപ്പിക്കുന്നു, അത് കോഡ് സൃഷ്ടിക്കുകയും ആപ്പുകൾ ഉപയോഗിക്കുകയും ചെയ്യും. ഇത് AI മത്സരത്തിൽ പിന്നിലാകാതെ തുടരാൻ ലക്ഷ്യമിടുന്നു.",
-  "why": "ഇത് പുറത്തിറങ്ങിയാൽ യുവജനങ്ങൾക്ക് ആപ്പുകൾ സൃഷ്ടിക്കാനും കസ്റ്റമൈസ് ചെയ്യാനും പുതിയ മാർഗങ്ങൾ ലഭിക്കും, അതിനാൽ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Apple",
-   "AI",
-   "Tech",
-   "Apps",
-   "Innovation"
-  ]
- },
- {
-  "id": "78518b7dcf59",
-  "created": "2026-11-23T02:09:47+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
-  "headline": "WHO ചീഫ്: കോൺഗോയിലെ ഈബോളാ പ്രദേശത്ത് പോരാട്ടം പ്രതികരണം തടയുന്നു",
-  "hook": "മഹാമാരിയുടെ സമീപത്തെ യുദ്ധം ജീവൻ രക്ഷാ സഹായം മന്ദഗതിയിലാക്കുന്നു.",
-  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷന്റെ ചീഫ്, കോൺഗോയിലെ ഈബോളാ ബാധിത പ്രദേശത്തിന് സമീപം നടക്കുന്ന പോരാട്ടം രോഗപ്രതിരോധ പ്രവർത്തനങ്ങളെ തടസ്സപ്പെടുത്തുന്നുവെന്ന് പറഞ്ഞു. ഈ സംഘർഷം ആരോഗ്യ ടീമുകൾക്ക് ബാധിത സമൂഹങ്ങളിലേക്ക് എത്തുന്നത് ബുദ്ധിമുട്ടാക്കുന്നു.",
-  "why": "ഇത്തരത്തിലുള്ള തടസ്സങ്ങൾ രോഗം നിയന്ത്രിക്കാൻ വൈകാൻ കാരണമാകാം, അതിലൂടെ ആഫ്രിക്കയ്ക്ക് പുറത്തും വ്യാപന സാധ്യത ഉയരും. വിവരങ്ങൾ അറിയുന്നത് ഗ്ലോബൽ ഹെൽത്ത് ശ്രമങ്ങളെ പിന്തുണയ്ക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "WHO",
-   "Ebola",
-   "Congo",
-   "Health",
-   "Conflict"
-  ]
- },
- {
-  "id": "52ab67dd54d2",
-  "created": "2026-11-23T02:09:53+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
-  "headline": "തക്ഷശിലാ സർവകലാശാല എഴുത്തുകാരന്‍ S. Ramakrishnan-നും ഗായിക K.S. Chithra-ക്കും ആദര ഡോക്ടറേറ്റ്",
-  "hook": "നിങ്ങളുടെ പ്രിയ എഴുത്തുകാരനും ഐക്കോണിക് ഗായികയും ഡോക്ടറേറ്റ് നേടി!",
-  "what": "തക്ഷശിലാ സർവകലാശാല S. Ramakrishnan-നും K.S. Chithra-നും ആദര ഡോക്ടറേറ്റ് നല്‍കി. സാഹിത്യം, സംഗീതം എന്നിവയില്‍ അവരുടെ സംഭാവനകള്‍ അംഗീകരിച്ചാണ് ഈ പുരസ്‌കാരം.",
-  "why": "കലാ മേഖലയില്‍ ഇത്തരത്തിലുള്ള അംഗീകാരം സൃഷ്ടിപരമായ കരിയറുകള്‍ക്ക് മാന്യത നല്‍കുന്നു. യുവ വായനക്കാരും സംഗീതപ്രേമികളും അവരുടെ വിജയത്തില്‍ പ്രചോദനം കണ്ടെത്താം.",
-  "tags": [
-   "Takshashila",
-   "Doctorate",
-   "Sramakrishnan",
-   "KSChithra",
-   "Prerana"
   ]
  }
 ]

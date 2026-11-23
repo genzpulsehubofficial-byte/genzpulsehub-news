@@ -1,5 +1,99 @@
 [
  {
+  "id": "0a050e0ddd7c",
+  "created": "2026-11-23T09:49:57+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/nepal-pm-india-visit-live-updates-balendra-balen-shah-pm-modi-meeting-ayodhya-janakpur-train-railway-bilateral-talks-101795403583195.html",
+  "headline": "Nepal PM meets Modi, flags off Ayodhya‑Janakpur train",
+  "hook": "Prime Minister Balen Shah heads to Delhi for talks and a new rail link.",
+  "what": "Balen Shah will meet Indian Prime Minister Narendra Modi for bilateral discussions. The leaders will also virtually launch the Saryu‑Kamala Express, a rail service linking Ayodhya in Uttar Pradesh with Janakpur in Nepal.",
+  "why": "The new train could make travel easier for students and tourists across the border. Young Indians can look forward to smoother cross‑country trips and cultural exchange.",
+  "tags": [
+   "India",
+   "Nepal",
+   "train",
+   "travel",
+   "youth"
+  ]
+ },
+ {
+  "id": "0538d34a3691",
+  "created": "2026-11-23T09:50:01+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/business-news/why-tata-steel-sold-two-key-businesses-to-apl-apollo-for-rs-28-000-crore-12364032#publisher=newsstand",
+  "headline": "Tata Steel sells tubes, pipes, colors to APL Apollo for Rs 28k",
+  "hook": "Big steel deal reshapes India's industrial landscape.",
+  "what": "APL Apollo said it will acquire Tata Steel’s tubes and pipes business together with the whole stake in Tata Steel Colors. The transaction is valued at roughly Rs 28,000 crore.",
+  "why": "The sale could influence job opportunities and product supply in construction and manufacturing. Stay updated on industry news for possible career or investment effects.",
+  "tags": [
+   "TataSteel",
+   "APLApollo",
+   "BusinessDeal",
+   "IndiaIndustry",
+   "Jobs"
+  ]
+ },
+ {
+  "id": "a3a387d3f64d",
+  "created": "2026-11-23T09:50:02+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-23-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795339984528.html",
+  "headline": "Gold and silver rates released for Delhi, Mumbai, Kolkata",
+  "hook": "See today’s metal prices before you plan any purchase.",
+  "what": "Retail rates for 24K and 22K gold and 999 silver were published for major Indian cities on 23 Nov, alongside MCX market figures.",
+  "why": "Knowing the current rates helps young shoppers budget for gifts or investments during upcoming celebrations.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "Delhi",
+   "Mumbai"
+  ]
+ },
+ {
+  "id": "26a16575bf7c",
+  "created": "2026-11-23T09:50:05+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kozhikode-beach-food-street-unhygienic-conditions-gxjikcrt",
+  "headline": "Kozhikode Beach Food Street Still Faces Hygiene Issues",
+  "hook": "Flies, filthy water and risky cooking linger despite official checks.",
+  "what": "Inspections led by the District Collector found flies on dishes, dirty water and unsafe cooking at the Kozhikode beach food street. The problems remain even after the inspections.",
+  "why": "Poor hygiene can lead to foodborne illness, so teens should be careful when buying street food. Choose stalls that look clean and follow safe practices.",
+  "tags": [
+   "Kozhikode",
+   "FoodSafety",
+   "StreetFood",
+   "Health"
+  ]
+ },
+ {
+  "id": "dded29fcddd3",
+  "created": "2026-11-23T09:50:08+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/property-seller-escapes-6-75-lakh-cash-penalty-5-lessons-from-itat-chennai-ruling-for-property-buyers-and-sellers-11795401434461.html",
+  "headline": "ITAT Chennai lifts ₹6.75 lakh tax penalty on seller",
+  "hook": "A property seller avoids a huge cash fine—what it means for you.",
+  "what": "The Chennai ITAT annulled a ₹6.75 lakh income‑tax penalty imposed on a seller who had taken a cash advance. The judgment also highlighted the reasonable‑cause rule and listed five key tips for buyers and sellers.",
+  "why": "Young buyers and sellers should understand tax implications of cash deals to avoid penalties. Follow the outlined pointers to stay compliant.",
+  "tags": [
+   "property",
+   "tax",
+   "buyers",
+   "sellers",
+   "ITAT"
+  ]
+ },
+ {
   "id": "3495cd84e1ac",
   "created": "2026-11-23T08:37:09+05:30",
   "category": "money",
@@ -655,100 +749,6 @@
    "Legislature",
    "YouthVoice",
    "Governance"
-  ]
- },
- {
-  "id": "f5ffd6ab03ee",
-  "created": "2026-11-23T02:56:32+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala//article71732057.ece",
-  "headline": "Factory checks to tighten after boy's death in Perumbavoor",
-  "hook": "A tragic accident is prompting stricter safety sweeps in Kerala factories.",
-  "what": "A boy died in a factory incident in Perumbavoor, near Kochi. Authorities announced that factory inspections will be stepped up. Any establishment found breaching safety rules that pose immediate danger will face legal action.",
-  "why": "Safer workplaces protect young people and their families; report unsafe conditions to the relevant authorities.",
-  "tags": [
-   "Kerala",
-   "FactorySafety",
-   "Youth",
-   "Inspection"
-  ]
- },
- {
-  "id": "be1f28e0f6ba",
-  "created": "2026-11-23T02:56:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Barchart.com",
-  "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR3RGUXpRU3hQZS13ckJJLThxS0l5b0hsSDVUSEl1QW5HZDh4RnhQOGhhbGwwaEQ4RG5Sb1JmcE5IeUtzb1EyNlJXV19nclpyalh6dHJkRTVzaDlQUWdGa0RPdUNQT1JKbUpiZl9lcWNlNTg0LWtzN2h2Mk5kNnpiTjR6Tld2VDcwTDBQcEtRNmJ6Y053b1VTV3FVTGN0bkUtbzBSZDZWWk9nRk1Xc3RscG1rSXR5bldEZUM3VzhDZ01oZ2NxdHAyYlVaRXR0cmFyTDI1UDhjZEZmeGRuLWpYa0M4Nm1iT1FDdmliRGY2V3h1OFhxRnBicVlKZ2wwdEpFZm5Cb3MyZ2pLbEdnRHowckJR?oc=5",
-  "headline": "Nvidia posts $115 B revenue despite CEO’s exit",
-  "hook": "The chip giant hits record sales even as its founder steps back.",
-  "what": "Nvidia reported $115 billion in revenue for its latest quarter, the first without founder Jensen Huang as CEO. The company said growth is accelerating, and its chief operating officer noted that customers remain with the firm.",
-  "why": "Strong earnings highlight ongoing demand for AI chips, which could shape tech job prospects and investment choices for Indian youth. Keep an eye on the sector if you’re eyeing a tech career or stock market moves.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "TechGrowth",
-   "Stocks",
-   "Jobs"
-  ]
- },
- {
-  "id": "9d8c520acc65",
-  "created": "2026-11-23T02:08:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Yahoo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZkZLdmwyWGlObEo1YVNleUhDTEtRYlFmSUd5TUkwUUNOcm4wUi1ubVJGS2UwTjFtVWZoNHI0OUhELUNlTURHNmlCdVhrbVVUQmppRXk3OVJqX051VkpSOGZYeWlnVlc3aHRSeUZjYU02Y21uR0s3LWd4d3AzNjBEQ0MxZ2E1WE5qOWdya1VoZFd3b0VwTlNSQ0NzdE9BUQ?oc=5",
-  "headline": "Apple builds autonomous AI agent that can code and run apps",
-  "hook": "A new AI could write code and control your iPhone apps.",
-  "what": "Apple is developing an autonomous artificial‑intelligence agent that can generate code and operate applications. The effort aims to keep pace with rivals in the AI space.",
-  "why": "If released, the tool could change how young users create and customize apps on their devices, so stay tuned for updates.",
-  "tags": [
-   "Apple",
-   "AI",
-   "Tech",
-   "Apps",
-   "Innovation"
-  ]
- },
- {
-  "id": "78518b7dcf59",
-  "created": "2026-11-23T02:09:47+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
-  "headline": "WHO chief: Conflict near Congo Ebola zone hampers response",
-  "hook": "War near the outbreak is slowing lifesaving aid.",
-  "what": "The World Health Organization's head said that fighting near the Ebola‑affected area in the Democratic Republic of Congo is interfering with the disease response. The clashes are making it harder for health teams to reach affected communities.",
-  "why": "Delays can hinder containment and raise the risk of spread beyond Africa. Staying informed helps support global health efforts.",
-  "tags": [
-   "WHO",
-   "Ebola",
-   "Congo",
-   "HealthCrisis",
-   "Conflict"
-  ]
- },
- {
-  "id": "52ab67dd54d2",
-  "created": "2026-11-23T02:09:53+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
-  "headline": "Takshashila University awards honorary doctorates to writer and singer",
-  "hook": "Your favorite author and legendary voice get a PhD honor!",
-  "what": "Takshashila University has granted honorary doctorates to novelist S. Ramakrishnan and veteran playback singer K.S. Chithra. The ceremony recognized their contributions to literature and music.",
-  "why": "Celebrating achievements in arts shows that creative careers can earn academic respect. Young readers and music fans can draw inspiration from their success.",
-  "tags": [
-   "Takshashila",
-   "HonoraryDoctorate",
-   "Sramakrishnan",
-   "KSChithra",
-   "Inspiration"
   ]
  }
 ]

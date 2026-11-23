@@ -1,0 +1,37 @@
+{
+ "id": "dded29fcddd3",
+ "created": "2026-11-23T09:50:08+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/property-seller-escapes-6-75-lakh-cash-penalty-5-lessons-from-itat-chennai-ruling-for-property-buyers-and-sellers-11795401434461.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT Chennai lifts ₹6.75 lakh tax penalty on seller",
+  "hook": "A property seller avoids a huge cash fine—what it means for you.",
+  "what": "The Chennai ITAT annulled a ₹6.75 lakh income‑tax penalty imposed on a seller who had taken a cash advance. The judgment also highlighted the reasonable‑cause rule and listed five key tips for buyers and sellers.",
+  "why": "Young buyers and sellers should understand tax implications of cash deals to avoid penalties. Follow the outlined pointers to stay compliant.",
+  "tags": [
+   "property",
+   "tax",
+   "buyers",
+   "sellers",
+   "ITAT"
+  ]
+ },
+ "ml": {
+  "headline": "ചെന്നൈ ITAT ₹6.75 ലക്ഷം പിഴ ഒഴിവാക്കി",
+  "hook": "ഒരു പ്രോപ്പർട്ടി വിൽപ്പനക്കാരന് വലിയ പിഴ ഒഴിവായി—നിങ്ങൾക്ക് എന്ത് അർത്ഥം?",
+  "what": "ചെന്നൈ ITAT ഒരു കാഷ് അഡ്വാൻസ് എടുത്ത വിൽപ്പനക്കാരന് നൽകിയ ₹6.75 ലക്ഷം വരുമാന നികുതി പിഴ റദ്ദാക്കി. ഈ വിധി യുക്തിസഹ കാരണ നിയമവും വാങ്ങുന്നവർക്കും വിൽപ്പനക്കാരനും വേണ്ട അഞ്ച് പ്രധാന നിർദ്ദേശങ്ങളും ചൂണ്ടിക്കാട്ടി.",
+  "why": "പണം കൈമാറ്റം ചെയ്യുന്ന ഇടപാടുകളിൽ നികുതി നിയമം അറിയുന്നത് പിഴകൾ ഒഴിവാക്കാൻ സഹായിക്കും. ഈ നിർദ്ദേശങ്ങൾ പാലിച്ച് നിയമപരമായി ഇടപഴകുക.",
+  "tags": [
+   "പ്രോപ്പർട്ടി",
+   "നികുതി",
+   "വാങ്ങുന്നവർ",
+   "വിൽപ്പനക്കാരൻ",
+   "ITAT"
+  ]
+ }
+}

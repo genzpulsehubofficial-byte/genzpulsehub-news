@@ -1,0 +1,37 @@
+{
+ "id": "0538d34a3691",
+ "created": "2026-11-23T09:50:01+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/business-news/why-tata-steel-sold-two-key-businesses-to-apl-apollo-for-rs-28-000-crore-12364032#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Tata Steel sells tubes, pipes, colors to APL Apollo for Rs 28k",
+  "hook": "Big steel deal reshapes India's industrial landscape.",
+  "what": "APL Apollo said it will acquire Tata Steel’s tubes and pipes business together with the whole stake in Tata Steel Colors. The transaction is valued at roughly Rs 28,000 crore.",
+  "why": "The sale could influence job opportunities and product supply in construction and manufacturing. Stay updated on industry news for possible career or investment effects.",
+  "tags": [
+   "TataSteel",
+   "APLApollo",
+   "BusinessDeal",
+   "IndiaIndustry",
+   "Jobs"
+  ]
+ },
+ "ml": {
+  "headline": "ടാറ്റാ സ്റ്റീൽ ട്യൂബ്സ്, പൈപ്പുകൾ, കളർസ് APL അപോലോക്ക് 28k രൂപയ്ക്ക് വിറ്റു",
+  "hook": "വലിയ സ്റ്റീൽ ഡീൽ ഇന്ത്യയുടെ വ്യവസായ രംഗം മാറ്റുന്നു.",
+  "what": "APL അപോലോ ടാറ്റാ സ്റ്റീൽയുടെ ട്യൂബ്സ്, പൈപ്പുകൾ ബിസിനസും, ടാറ്റാ സ്റ്റീൽ കളർസിലെ മുഴുവൻ ഷെയറും വാങ്ങുമെന്ന് പ്രഖ്യാപിച്ചു. ഈ ഇടപാട് ഏകദേശം 28,000 കോടി രൂപ മൂല്യമുള്ളതാണ്.",
+  "why": "ഇത് കൺസ്ട്രക്ഷൻ, മാൻഫാക്ചറിംഗ് മേഖലകളിലെ ജോലികളിലും ഉൽപ്പന്ന ലഭ്യതയിലും ബാധകമാകാം. കരിയർ അല്ലെങ്കിൽ നിക്ഷേപം സംബന്ധിച്ച് വിവരങ്ങൾ അറിയാൻ വ്യവസായ വാർത്തകൾ പിന്തുടരുക.",
+  "tags": [
+   "ടാറ്റാ സ്റ്റീൽ",
+   "APL അപോലോ",
+   "ബിസിനസ് ഡീൽ",
+   "ഇന്ത്യ ഇൻഡസ്ട്രി",
+   "ജോബ്"
+  ]
+ }
+}

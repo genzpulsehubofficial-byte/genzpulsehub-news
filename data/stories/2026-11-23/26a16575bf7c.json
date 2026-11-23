@@ -1,0 +1,35 @@
+{
+ "id": "26a16575bf7c",
+ "created": "2026-11-23T09:50:05+05:30",
+ "category": "health",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kozhikode-beach-food-street-unhygienic-conditions-gxjikcrt",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kozhikode Beach Food Street Still Faces Hygiene Issues",
+  "hook": "Flies, filthy water and risky cooking linger despite official checks.",
+  "what": "Inspections led by the District Collector found flies on dishes, dirty water and unsafe cooking at the Kozhikode beach food street. The problems remain even after the inspections.",
+  "why": "Poor hygiene can lead to foodborne illness, so teens should be careful when buying street food. Choose stalls that look clean and follow safe practices.",
+  "tags": [
+   "Kozhikode",
+   "FoodSafety",
+   "StreetFood",
+   "Health"
+  ]
+ },
+ "ml": {
+  "headline": "കോഴിക്കോട് ബീച്ച് ഫുഡ് സ്ട്രീറ്റിൽ ശുചിത്വ പ്രശ്നങ്ങൾ തുടരുന്നു",
+  "hook": "പരിശോധനകൾക്ക് ശേഷം പോലും ഭക്ഷണത്തിൽ ചീന്തുകൾ, മലിന ജലം, അപകടകരമായ പാചകം കാണാം.",
+  "what": "ജില്ലാ കലക്ടർ നടത്തിയ പരിശോധനയിൽ ഭക്ഷണത്തിൽ ചീന്തുകൾ, മലിന ജലം, സുരക്ഷിതമല്ലാത്ത പാചക രീതികൾ കണ്ടെത്തി. ഔദ്യോഗിക പരിശോധനകളുണ്ടായിട്ടും ഈ പ്രശ്നങ്ങൾ തുടരുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള ശുചിത്വക്കുറവ് ഭക്ഷണവിഷബാധയുടെ അപകടം വർദ്ധിപ്പിക്കുന്നു, അതിനാൽ യുവാക്കൾക്ക് സ്ട്രീറ്റ് ഫുഡ് വാങ്ങുമ്പോൾ ശുചിത്വം പരിശോധിക്കണം. ശുചിയായ സ്റ്റാളുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "കോഴിക്കോട്",
+   "ഭക്ഷണസുരക്ഷ",
+   "സ്റ്റ്രീറ്റ്‌ഫുഡ്",
+   "ആരോഗ്യം"
+  ]
+ }
+}

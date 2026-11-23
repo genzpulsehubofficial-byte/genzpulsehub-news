@@ -1,0 +1,37 @@
+{
+ "id": "0a050e0ddd7c",
+ "created": "2026-11-23T09:49:57+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/nepal-pm-india-visit-live-updates-balendra-balen-shah-pm-modi-meeting-ayodhya-janakpur-train-railway-bilateral-talks-101795403583195.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Nepal PM meets Modi, flags off Ayodhya‑Janakpur train",
+  "hook": "Prime Minister Balen Shah heads to Delhi for talks and a new rail link.",
+  "what": "Balen Shah will meet Indian Prime Minister Narendra Modi for bilateral discussions. The leaders will also virtually launch the Saryu‑Kamala Express, a rail service linking Ayodhya in Uttar Pradesh with Janakpur in Nepal.",
+  "why": "The new train could make travel easier for students and tourists across the border. Young Indians can look forward to smoother cross‑country trips and cultural exchange.",
+  "tags": [
+   "India",
+   "Nepal",
+   "train",
+   "travel",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "നെപ്പാളിന്റെ പ്രധാനമന്ത്രി മോഡിയുമായി കൂടിക്കാഴ്ച, അയോധ്യ‑ജനക്പുർ ട്രെയിൻ ഫ്ലാഗ്‑ഓഫ്",
+  "hook": "പ്രധാനമന്ത്രി ബാലൻ ഷാ ഇന്ത്യയിലേക്ക്, ചർച്ചകളും പുതിയ റെയിൽ ലിങ്കും.",
+  "what": "ബാലൻ ഷാ ഇന്ത്യയുടെ പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡിയുമായി രണ്ട് രാജ്യങ്ങളിലെ ബന്ധം ചർച്ച ചെയ്യാൻ കൂടിയിരിക്കുന്നു. അവർ സാര്യു‑കമല എക്സ്പ്രസ്, അയോധ്യയും ജനക്പുരയും ബന്ധിപ്പിക്കുന്ന ട്രെയിൻ, വെർച്വൽ ആയി ആരംഭിക്കും.",
+  "why": "ഈ ട്രെയിൻ വിദ്യാർത്ഥികളും വിനോദസഞ്ചാരികളും അതിർത്തി കടന്ന് എളുപ്പത്തിൽ സഞ്ചരിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് കൂടുതൽ സഞ്ചാരവും സാംസ്കാരികം പഠിക്കാനും അവസരം ലഭിക്കും.",
+  "tags": [
+   "India",
+   "Nepal",
+   "train",
+   "travel",
+   "youth"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "a3a387d3f64d",
+ "created": "2026-11-23T09:50:02+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-23-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795339984528.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold and silver rates released for Delhi, Mumbai, Kolkata",
+  "hook": "See today’s metal prices before you plan any purchase.",
+  "what": "Retail rates for 24K and 22K gold and 999 silver were published for major Indian cities on 23 Nov, alongside MCX market figures.",
+  "why": "Knowing the current rates helps young shoppers budget for gifts or investments during upcoming celebrations.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "Delhi",
+   "Mumbai"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെല്‍ലി, മുംബൈ, കൊല്‍ക്കത്തയിലെ ഗോള്‍ഡ്, സില്‍വര്‍ വിലകള്‍ പുറപ്പെട്ടു",
+  "hook": "വാങ്ങല്‍ പ്ലാന്‍ ചെയ്യുന്നതിന് മുമ്പ് ഇന്നത്തെ മെറ്റല്‍ വിലകള്‍ നോക്കൂ.",
+  "what": "23 നവംബറില്‍ 24K, 22K ഗോള്‍ഡ്, 999 സില്‍വര്‍ എന്നിവയുടെ റീട്ടെയില്‍ നിരക്കുകള്‍ പ്രധാന നഗരങ്ങളിലായി MCX മാര്‍ക്കറ്റ് അപ്ഡേറ്റുകള്‍ സഹിതം പ്രഖ്യാപിച്ചു.",
+  "why": "ഇപ്പോഴത്തെ വിലകള്‍ അറിയുന്നത് ഉത്സവങ്ങളോ സമ്മാനങ്ങളോ വാങ്ങാന്‍ ആലോചിക്കുന്ന യുവാക്കള്‍ക്ക് ബജറ്റ് പ്ലാന്‍ ചെയ്യാന്‍ സഹായിക്കും.",
+  "tags": [
+   "ഗോൾഡ്",
+   "സിൽവർ",
+   "വിലകൾ",
+   "ഡെൽലി",
+   "മുംബൈ"
+  ]
+ }
+}
