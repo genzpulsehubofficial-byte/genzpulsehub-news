@@ -1,0 +1,35 @@
+{
+ "id": "cee7642fe340",
+ "created": "2026-11-24T00:06:10+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court calls out civic bodies for building code breaches",
+  "hook": "The top court says local officials are helping ignore construction rules.",
+  "what": "The Supreme Court highlighted that some civic authorities are actively colluding in serious violations of building bye‑laws. It has asked states and union territories to send suggestions on how to curb these breaches.",
+  "why": "Young people need safer homes and neighborhoods, so better enforcement can prevent unsafe structures. Authorities should review the guidelines and propose corrective steps.",
+  "tags": [
+   "SupremeCourt",
+   "buildingCodes",
+   "civicAuthorities",
+   "IndiaLaw"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി സിവിക് അധികാരികളെ കെട്ടിട നിയമ ലംഘനത്തിൽ കുറ്റം ചുമത്തുന്നു",
+  "hook": "മുകളിൽ നിന്നുള്ള കോടതി, ചില മുനിസിപ്പൽ ഉദ്യോഗസ്ഥർ കെട്ടിട ചട്ടം ലംഘിക്കാൻ സഹായിക്കുന്നു എന്ന് പറയുന്നു.",
+  "what": "സുപ്രീം കോടതി ചില സിവിക് അധികാരികൾ കെട്ടിട ബൈ‑ലോ നിയമങ്ങൾ ഗൗരവമായി ലംഘിക്കുന്നതിൽ സജീവമായി പങ്കാളികളാണെന്ന് ചൂണ്ടിക്കാട്ടി. സംസ്ഥാനങ്ങളും യൂണിയൻ ടെറിട്ടറികളും ഈ ലംഘനങ്ങൾ തടയാൻ നിർദ്ദേശങ്ങൾ അയക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "സുരക്ഷിതമായ വീടുകളും പരിസരങ്ങളും ഉറപ്പാക്കാൻ നിയമം കർശനമായി നടപ്പിലാക്കണം. അതിനായി അധികാരികൾ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പരിശോധിച്ച് പരിഹാരങ്ങൾ നിർദ്ദേശിക്കണം.",
+  "tags": [
+   "SupremeCourt",
+   "കെട്ടിടനിയമം",
+   "സിവിക്‌അധികാരം",
+   "ഇന്ത്യനിയമം"
+  ]
+ }
+}

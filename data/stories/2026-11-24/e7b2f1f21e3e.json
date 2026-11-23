@@ -1,0 +1,35 @@
+{
+ "id": "e7b2f1f21e3e",
+ "created": "2026-11-24T00:06:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/man-gets-death-sentence-for-sisters-murder-jumps-from-5th-floor-dies-12367978#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Man sentenced to death for sister's murder kills himself",
+  "hook": "He jumped from the courtroom building right after the verdict.",
+  "what": "A man received a death penalty for killing his sister. After leaving the courtroom, he leapt from the fifth floor of the building and died.",
+  "why": "The event shows how severe court rulings can affect mental health, reminding young people to seek support when under stress.",
+  "tags": [
+   "court",
+   "deathpenalty",
+   "suicide",
+   "crime"
+  ]
+ },
+ "ml": {
+  "headline": "സഹോദരിയുടെ കൊലപാതകത്തിന് മരണം ശിക്ഷ, സ്വയം ചാടിയവൻ",
+  "hook": "വീഡിയോയിൽ, വിധി കേട്ട ശേഷം അവൻ കോടതി കെട്ടിടത്തിന്റെ അഞ്ചാം നിലയിൽ നിന്ന് ചാടി മരിച്ചുവെന്ന് റിപ്പോർട്ട്.",
+  "what": "ഒരു വ്യക്തി തന്റെ സഹോദരിയെ കൊല്ലുന്നതിനായി മരണം ശിക്ഷ ലഭിച്ചു. കോടതിയിൽ നിന്ന് പുറത്ത് വന്നതിനു ശേഷം, അവൻ കെട്ടിടത്തിന്റെ അഞ്ചാം നിലയിൽ നിന്ന് ചാടി മരിച്ചുവെന്ന് അറിയപ്പെട്ടു.",
+  "why": "ഇത്തരമൊരു സംഭവത്തിൽ കോടതി വിധിയുടെ മാനസിക സമ്മർദ്ദം കാണിക്കുന്നു; യുവാക്കൾക്ക് മാനസിക സഹായം തേടാൻ പ്രോത്സാഹനം.",
+  "tags": [
+   "കോടതി",
+   "മരണശിക്ഷ",
+   "സ്വയംഹത്യ",
+   "കുറ്റം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "b725dc615480",
+ "created": "2026-11-24T00:06:17+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Uswitch",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JV0J3UEF4elFCQ2RibzdwZEFvZHJISXdxdGRhekNrNTJBVkpPaGR1NWRjcG1tTUZyMi1oODJiX05zcGpSZXpQWGZNM3ctdnRBRTJmbzFFUGhYMkhtVFY5T0JVMTF3OGdmeVBTSGRWWWphT3JCa1E?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Samsung Galaxy Z Fold8 Ultra slashed by £555 on Black Friday",
+  "hook": "Grab a flagship foldable for less this weekend!",
+  "what": "Amazon UK's Black Friday sale offers up to £555 off the Samsung Galaxy Z Fold8 Ultra. The same promotion also highlights a near $1,000 saving on the Galaxy S26 Ultra.",
+  "why": "Young shoppers can snag a high‑end Android foldable at a fraction of the price, helping stretch a limited budget.",
+  "tags": [
+   "Samsung",
+   "BlackFriday",
+   "PhoneDeals",
+   "Foldable",
+   "Discount"
+  ]
+ },
+ "ml": {
+  "headline": "Samsung Galaxy Z Fold8 Ultra-ന് Black Friday-യിൽ £555 വിലക്കുറവ്",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ ഫ്ലാഗ്ഷിപ്പ് ഫോൺ കുറവിൽ പിടിക്കൂ!",
+  "what": "Amazon UK-യുടെ Black Friday വിൽപ്പനയിൽ Samsung Galaxy Z Fold8 Ultra-യ്ക്ക് £555 വരെ വിലക്കുറവ് ലഭിക്കുന്നു. അതേ പ്രമോഷനിൽ Galaxy S26 Ultra-യിൽ ഏകദേശം $1,000 സംരക്ഷിക്കാൻ കഴിയും എന്ന് കാണിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾക്ക് ഉയർന്ന സ്പെക്‌സുള്ള ഫോൺ കുറവിൽ വാങ്ങാൻ അവസരമാകുന്നു, ബജറ്റ് നിയന്ത്രിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "Samsung",
+   "BlackFriday",
+   "PhoneDeals",
+   "Foldable",
+   "Discount"
+  ]
+ }
+}

@@ -1,5 +1,98 @@
 [
  {
+  "id": "e7b2f1f21e3e",
+  "created": "2026-11-24T00:06:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/man-gets-death-sentence-for-sisters-murder-jumps-from-5th-floor-dies-12367978#publisher=newsstand",
+  "headline": "സഹോദരിയുടെ കൊലപാതകത്തിന് മരണം ശിക്ഷ, സ്വയം ചാടിയവൻ",
+  "hook": "വീഡിയോയിൽ, വിധി കേട്ട ശേഷം അവൻ കോടതി കെട്ടിടത്തിന്റെ അഞ്ചാം നിലയിൽ നിന്ന് ചാടി മരിച്ചുവെന്ന് റിപ്പോർട്ട്.",
+  "what": "ഒരു വ്യക്തി തന്റെ സഹോദരിയെ കൊല്ലുന്നതിനായി മരണം ശിക്ഷ ലഭിച്ചു. കോടതിയിൽ നിന്ന് പുറത്ത് വന്നതിനു ശേഷം, അവൻ കെട്ടിടത്തിന്റെ അഞ്ചാം നിലയിൽ നിന്ന് ചാടി മരിച്ചുവെന്ന് അറിയപ്പെട്ടു.",
+  "why": "ഇത്തരമൊരു സംഭവത്തിൽ കോടതി വിധിയുടെ മാനസിക സമ്മർദ്ദം കാണിക്കുന്നു; യുവാക്കൾക്ക് മാനസിക സഹായം തേടാൻ പ്രോത്സാഹനം.",
+  "tags": [
+   "കോടതി",
+   "മരണശിക്ഷ",
+   "സ്വയംഹത്യ",
+   "കുറ്റം"
+  ]
+ },
+ {
+  "id": "cee7642fe340",
+  "created": "2026-11-24T00:06:10+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
+  "headline": "സുപ്രീം കോടതി സിവിക് അധികാരികളെ കെട്ടിട നിയമ ലംഘനത്തിൽ കുറ്റം ചുമത്തുന്നു",
+  "hook": "മുകളിൽ നിന്നുള്ള കോടതി, ചില മുനിസിപ്പൽ ഉദ്യോഗസ്ഥർ കെട്ടിട ചട്ടം ലംഘിക്കാൻ സഹായിക്കുന്നു എന്ന് പറയുന്നു.",
+  "what": "സുപ്രീം കോടതി ചില സിവിക് അധികാരികൾ കെട്ടിട ബൈ‑ലോ നിയമങ്ങൾ ഗൗരവമായി ലംഘിക്കുന്നതിൽ സജീവമായി പങ്കാളികളാണെന്ന് ചൂണ്ടിക്കാട്ടി. സംസ്ഥാനങ്ങളും യൂണിയൻ ടെറിട്ടറികളും ഈ ലംഘനങ്ങൾ തടയാൻ നിർദ്ദേശങ്ങൾ അയക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "സുരക്ഷിതമായ വീടുകളും പരിസരങ്ങളും ഉറപ്പാക്കാൻ നിയമം കർശനമായി നടപ്പിലാക്കണം. അതിനായി അധികാരികൾ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പരിശോധിച്ച് പരിഹാരങ്ങൾ നിർദ്ദേശിക്കണം.",
+  "tags": [
+   "SupremeCourt",
+   "കെട്ടിടനിയമം",
+   "സിവിക്‌അധികാരം",
+   "ഇന്ത്യനിയമം"
+  ]
+ },
+ {
+  "id": "a2f14d06f82b",
+  "created": "2026-11-24T00:06:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+  "headline": "Nvidia CEO Jensen Huang Senate-യിൽ സാക്ഷ്യം വഹിക്കും",
+  "hook": "ചിപ്‌മാസ്റ്ററിന് ഉയർന്ന തലത്തിലുള്ള ചോദ്യംവേല കാത്തിരിക്കുകയാണ്",
+  "what": "Nvidiaയുടെ CEO ആയി വീണ്ടും നിയമിതനായ Jensen Huang അടുത്ത ആഴ്ച Senate-യിൽ സാക്ഷ്യം വഹിക്കും. ഇരുപാർട്ടിയും ചേർന്ന് അവനെ ചൈനീസ് ചോരക്കാരനുമായി ബന്ധപ്പെട്ട സംഭവത്തെക്കുറിച്ച് ചോദിക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ഈ സാക്ഷ്യം ഗ്ലോബൽ ടെക്‌ രംഗത്തെ രാഷ്ട്രീയ ബന്ധം കാണിക്കുന്നു, ഇത് ഗെയിമിംഗ്, AI, ആപ്പുകൾ എന്നിവ ഉപയോഗിക്കുന്ന യുവജനങ്ങളെ ബാധിക്കാം. ടെക് നയങ്ങളിലോ ഉൽപ്പന്ന ലഭ്യതയിലോ വരുന്ന മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "Senate",
+   "TechPolitics",
+   "AI",
+   "China"
+  ]
+ },
+ {
+  "id": "158d978601e3",
+  "created": "2026-11-24T00:06:15+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The CSR Journal",
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
+  "headline": "Google, Microsoft 2027‑ൽ ഇന്ത്യയിൽ പുതിയ നിയമനങ്ങൾ നിർത്താൻ സാധ്യത",
+  "hook": "വലിയ ടെക് കമ്പനികൾ നിയമനം നിർത്തിയാൽ പുതിയ ബിരുദധാരികൾക്ക് ബാധകമാകും",
+  "what": "റിപ്പോർട്ടുകൾ പ്രകാരം Google, Microsoft 2027 മുതൽ ഇന്ത്യയിൽ നിയമനം നിർത്താൻ പദ്ധതിയിടുന്നു. ഇത് സ്ഥിരീകരിക്കപ്പെട്ടിട്ടില്ല, പക്ഷേ ഒരു സാധ്യതയായി ചൂണ്ടിക്കാട്ടുന്നു.",
+  "why": "ഇത് സത്യമെങ്കിൽ, പുതിയ ബിരുദധാരികളും വിദ്യാർത്ഥികളും ജോലി അവസരങ്ങൾ കുറയാൻ സാധ്യതയുണ്ട്, അതിനാൽ കമ്പനികളുടെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Jobs",
+   "India"
+  ]
+ },
+ {
+  "id": "b725dc615480",
+  "created": "2026-11-24T00:06:17+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Uswitch",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JV0J3UEF4elFCQ2RibzdwZEFvZHJISXdxdGRhekNrNTJBVkpPaGR1NWRjcG1tTUZyMi1oODJiX05zcGpSZXpQWGZNM3ctdnRBRTJmbzFFUGhYMkhtVFY5T0JVMTF3OGdmeVBTSGRWWWphT3JCa1E?oc=5",
+  "headline": "Samsung Galaxy Z Fold8 Ultra-ന് Black Friday-യിൽ £555 വിലക്കുറവ്",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ ഫ്ലാഗ്ഷിപ്പ് ഫോൺ കുറവിൽ പിടിക്കൂ!",
+  "what": "Amazon UK-യുടെ Black Friday വിൽപ്പനയിൽ Samsung Galaxy Z Fold8 Ultra-യ്ക്ക് £555 വരെ വിലക്കുറവ് ലഭിക്കുന്നു. അതേ പ്രമോഷനിൽ Galaxy S26 Ultra-യിൽ ഏകദേശം $1,000 സംരക്ഷിക്കാൻ കഴിയും എന്ന് കാണിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾക്ക് ഉയർന്ന സ്പെക്‌സുള്ള ഫോൺ കുറവിൽ വാങ്ങാൻ അവസരമാകുന്നു, ബജറ്റ് നിയന്ത്രിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "Samsung",
+   "BlackFriday",
+   "PhoneDeals",
+   "Foldable",
+   "Discount"
+  ]
+ },
+ {
   "id": "bd9e415d2bb9",
   "created": "2026-11-23T23:10:15+05:30",
   "category": "tech",
@@ -656,101 +749,6 @@
    "പേര്‌മാറ്റം",
    "ഇന്ത്യ",
    "ബിജെപി"
-  ]
- },
- {
-  "id": "86ede3678a24",
-  "created": "2026-11-23T16:30:04+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-72-choose-auto-choice-over-active-choice-in-fy27-what-absl-pension-fund-data-reveals-11795428242555.html",
-  "headline": "NPS‑ൽ ഭൂരിഭാഗം ആളുകൾ Auto Choice തിരഞ്ഞെടുക്കുന്നു",
-  "hook": "മൂന്നു നാലിലധികം NPS അംഗങ്ങൾ സ്വയം നിക്ഷേപം തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്നു.",
-  "what": "ABSL Pension Fund‑യുടെ ഡാറ്റ പ്രകാരം, ഏകദേശം 72% അംഗങ്ങൾ Auto Choice‑നെ തിരഞ്ഞെടുക്കുന്നു, Active Choice അല്ലെങ്കിൽ Minimum Savings Fund‑നെ കുറച്ച് പേർ മാത്രം തിരഞ്ഞെടുക്കുന്നു. പ്രായം അനുസരിച്ച് ഇഷ്ടങ്ങൾ മാറുന്നു.",
-  "why": "ഈ പ്രവണതകൾ അറിയുന്നത് യുവാക്കൾക്ക് വിരമിക്കൽ നിക്ഷേപം എങ്ങനെ കൈകാര്യം ചെയ്യണം, സ്വയം നിയന്ത്രിക്കണോ, സംവിധാനത്തിന് വിടയോ എന്ന് തീരുമാനിക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "NPS",
-   "വിരമിക്കൽ",
-   "നിക്ഷേപം",
-   "ABSL",
-   "AutoChoice"
-  ]
- },
- {
-  "id": "d7bedc19578f",
-  "created": "2026-11-23T16:30:09+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/taxpayer-sold-bitcoin-worth-4-94-crore-and-disclosed-it-in-itr-yet-faced-a-tax-notice-why-hc-ruling-explained-11795429551337.html",
-  "headline": "ബിറ്റ്‌കോയ്ൻ ₹4.94 കോടി വിൽപ്പന റിപ്പോർട്ട് ചെയ്തെങ്കിലും നോട്ടീസ്; HC റദ്ദാക്കി",
-  "hook": "ക്രിപ്റ്റോ ലാഭം പ്രഖ്യാപിച്ചാലും നികുതി നോട്ടീസ് വരാം.",
-  "what": "ഒരു നികുതിദായകൻ തന്റെ വരുമാന നികുതിചെയ്യലിൽ ₹4.94 കോടി മൂല്യമുള്ള ബിറ്റ്‌കോയ്ൻ വിൽപ്പന രേഖപ്പെടുത്തി. അതിനുശേഷം അവന്‍ ഒരു റീഅസെസ്മെന്റ് നോട്ടീസ് ലഭിച്ചു. ഗുജറാത്ത് ഹൈക്കോടതി അത് റദ്ദാക്കി, ശരിയായ രേഖകളുടെ പ്രാധാന്യം ചൂണ്ടിക്കാട്ടി.",
-  "why": "ക്രിപ്റ്റോ ഇടപാടുകളുടെ വിശദമായ രേഖകൾ ഉണ്ടെങ്കിൽ നികുതി പരിശോധനകളിൽ നിന്ന് രക്ഷപ്പെടാം. യുവ നിക്ഷേപകർ ലാഭം ശരിയായി പ്രഖ്യാപിക്കുകയും രേഖപ്പെടുത്തുകയും ചെയ്യണം.",
-  "tags": [
-   "നികുതി",
-   "ക്രിപ്റ്റോ",
-   "ഫിനാൻസ്",
-   "ഇന്ത്യ",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "89d9609e159a",
-  "created": "2026-11-23T16:30:15+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Esquire India",
-  "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXVzblhkc1dSRWI1dmxqWndSYXZZUkk0M3JfVHJkU09TVF9MNW8xRlVVT2Nwc3BzbU5SeVNjMm51Vnc4VEROeXc5Q2dxWVhDN1dfRFpSRlY5dUliY0xlMjlDNHFUNzhhUzExaURTNG1UZzc4Yi1iNm5RUkNXU1dnMjdObm13cjE5NG5rX2lmcXp5VlExRDBXemZVY3c4aHZzNV9IaGhabUNpN1RsM3RHRGd4LTN4R2hXTlBBMTQxem5zVEV0WHFmMG9DRlR3NFlPdnBLaWNILXZSWkdjOXM4Z2FPVXXSAfIBQVVfeXFMT0pfdkFtVlliT1BLNUdHdkViUmlOZHBFQThoNUZrTTdleEMydm9GMG1JZXBJYXc5LS1LRkgtQk1BaUkxams5M2J2UGV1WDdPV3VUWDJYeW1MajNXRkpaTGdXVndXVU9PQ1NNUXowMXlxbWVHYUxsYVNWdVBDLVJMRk1nNVNKcHlmNjZNNWp1Z3hZNVM1VWVwQzJzbVpMS3pVUHFZVndTaHRZNDVzekxCVE1DLVRkY01pVlBHenV6ZVo1MHhSbDAtQklEY1FIdkpDTFFpRHdmSlVfRThoeFRjbnFGb2U5TEZQcHdsNU1JeXFkb1E?oc=5",
-  "headline": "പുതിയ OTT റിലീസ്: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
-  "hook": "ഇപ്പോൾ തന്നെ സ്ട്രീം ചെയ്ത് പുതിയ സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ത്രില്ലർ ആസ്വദിക്കൂ.",
-  "what": "ഈ ആഴ്ച നിരവധി പുതിയ ഷോകൾ OTT പ്ലാറ്റ്ഫോമുകളിൽ ലഭ്യമായി, Blade Runner 2099, Hanuman Ansh, Drishyam 3 എന്നിവ ഉൾപ്പെടെ. ഇവയെല്ലാം ഓൺലൈൻ ആയി കാണാം.",
-  "why": "ബിംഗെ‑വാച്ചർമാർക്കും സയൻസ്‑ഫിക്ഷൻ, പുരാണം, ക്രൈം ഡ്രാമാ ആരാധകർക്കും പുതിയ കണ്ടന്റുകൾ ലഭിക്കുന്നു. നിങ്ങളുടെ പ്രിയ OTT ആപ്പിൽ തുറന്ന് കാണൂ.",
-  "tags": [
-   "OTT",
-   "NewReleases",
-   "Streaming",
-   "Movies",
-   "Series"
-  ]
- },
- {
-  "id": "012479a7a0e4",
-  "created": "2026-11-23T16:30:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/cryptocurrency/news/upbit-and-bithumb-halt-cyber-transfers-over-suspected-bridge-exploit-crypto-network-suspension-eth-sol-12365572",
-  "headline": "Upbit, Bithumb CYBER ട്രാൻസ്ഫറുകൾ ബ്രിഡ്ജ് ഹാക്ക് സംശയത്തിൽ നിർത്തി",
-  "hook": "ക്രിപ്റ്റോ ട്രാൻസ്ഫറുകൾ നിർത്തി – നിങ്ങളുടെ കാര്യത്തിൽ എന്ത് മാറ്റം?",
-  "what": "ദക്ഷിണ കൊറിയൻ എക്സ്ചേഞ്ചുകൾ Upbit, Bithumb അന്യമായ ബ്ലോക്ക്ചെയിൻ പ്രവർത്തനം കണ്ടു CYBER ട്രാൻസ്ഫറുകൾ താൽക്കാലികമായി നിർത്തി. ബ്രിഡ്ജ് എക്‌സ്പ്ലോയ്‌റ്റ് സംശയമുണ്ടെങ്കിലും കാരണത്തെക്കുറിച്ച് വിശദീകരണം നൽകിയിട്ടില്ല.",
-  "why": "ഇത് CYBER ഹോൾഡറുകളെയും ഈ പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുന്നവരെയും ബാധിക്കാം, അതിനാൽ ഫണ്ടുകൾ മാറ്റുന്നതിന് മുൻപ് ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ക്രിപ്റ്റോ",
-   "ബ്ലോക്ക്ചെയിൻ",
-   "സെക്യൂരിറ്റി",
-   "upbit",
-   "bithumb"
-  ]
- },
- {
-  "id": "e85539b2d0c4",
-  "created": "2026-11-23T15:23:35+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/article71734067.ece",
-  "headline": "ഡെൽഹി കോടതി ധ്രുവ റാത്തിക്ക് നോൺ‑ബെയിലബിൾ വാറന്റ് പുറപ്പെടുവിച്ചു",
-  "hook": "ഒരു കോടതി നടപടി പ്രശസ്ത ക്രിയേറ്ററിനെ ലക്ഷ്യം വെയ്ക്കുന്നു.",
-  "what": "ഡെൽഹി ജഡ്ജി അനം റൈസ് ഖാൻ ധ്രുവ റാത്തിക്ക് നോൺ‑ബെയിലബിൾ വാറന്റ് പുറപ്പെടുവിച്ചു. ഈ വാറന്റ് 2018‑ലെ ഡിഫാമേഷൻ കേസുമായി ബന്ധപ്പെട്ടതാണ്, വിചിത്രം സാംസ്കൃതിയാൻ (വികാസ് പാണ്ടേ) തന്റെ യൂട്യൂബ് വീഡിയോയെ അടിസ്ഥാനമാക്കി ഫയൽ ചെയ്തതാണ്.",
-  "why": "ഓൺലൈൻ വീഡിയോകൾ നിയമപരമായ പ്രശ്നങ്ങളിലേക്ക് നയിക്കാം; ഉള്ളടക്കം പോസ്റ്റ് ചെയ്യുന്നതിന് മുൻപ് പരിശോധിക്കുക.",
-  "tags": [
-   "ധ്രുവറാത്തി",
-   "യൂട്യൂബ്",
-   "നിയമം",
-   "ഡിഫാമേഷൻ",
-   "ഇന്ത്യ"
   ]
  }
 ]

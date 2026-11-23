@@ -1,0 +1,37 @@
+{
+ "id": "158d978601e3",
+ "created": "2026-11-24T00:06:15+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "The CSR Journal",
+ "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Google, Microsoft May Halt New Hires in India by 2027",
+  "hook": "Big tech could pause recruitment, impacting fresh grads.",
+  "what": "Reports suggest Google and Microsoft are planning to stop hiring in India starting 2027. The move is described as an alleged freeze, not confirmed.",
+  "why": "If true, it may limit entry‑level opportunities for students and recent graduates, so keep an eye on company announcements.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Jobs",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Google, Microsoft 2027‑ൽ ഇന്ത്യയിൽ പുതിയ നിയമനങ്ങൾ നിർത്താൻ സാധ്യത",
+  "hook": "വലിയ ടെക് കമ്പനികൾ നിയമനം നിർത്തിയാൽ പുതിയ ബിരുദധാരികൾക്ക് ബാധകമാകും",
+  "what": "റിപ്പോർട്ടുകൾ പ്രകാരം Google, Microsoft 2027 മുതൽ ഇന്ത്യയിൽ നിയമനം നിർത്താൻ പദ്ധതിയിടുന്നു. ഇത് സ്ഥിരീകരിക്കപ്പെട്ടിട്ടില്ല, പക്ഷേ ഒരു സാധ്യതയായി ചൂണ്ടിക്കാട്ടുന്നു.",
+  "why": "ഇത് സത്യമെങ്കിൽ, പുതിയ ബിരുദധാരികളും വിദ്യാർത്ഥികളും ജോലി അവസരങ്ങൾ കുറയാൻ സാധ്യതയുണ്ട്, അതിനാൽ കമ്പനികളുടെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Jobs",
+   "India"
+  ]
+ }
+}

@@ -1,5 +1,98 @@
 [
  {
+  "id": "e7b2f1f21e3e",
+  "created": "2026-11-24T00:06:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/man-gets-death-sentence-for-sisters-murder-jumps-from-5th-floor-dies-12367978#publisher=newsstand",
+  "headline": "Man sentenced to death for sister's murder kills himself",
+  "hook": "He jumped from the courtroom building right after the verdict.",
+  "what": "A man received a death penalty for killing his sister. After leaving the courtroom, he leapt from the fifth floor of the building and died.",
+  "why": "The event shows how severe court rulings can affect mental health, reminding young people to seek support when under stress.",
+  "tags": [
+   "court",
+   "deathpenalty",
+   "suicide",
+   "crime"
+  ]
+ },
+ {
+  "id": "cee7642fe340",
+  "created": "2026-11-24T00:06:10+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
+  "headline": "Supreme Court calls out civic bodies for building code breaches",
+  "hook": "The top court says local officials are helping ignore construction rules.",
+  "what": "The Supreme Court highlighted that some civic authorities are actively colluding in serious violations of building bye‑laws. It has asked states and union territories to send suggestions on how to curb these breaches.",
+  "why": "Young people need safer homes and neighborhoods, so better enforcement can prevent unsafe structures. Authorities should review the guidelines and propose corrective steps.",
+  "tags": [
+   "SupremeCourt",
+   "buildingCodes",
+   "civicAuthorities",
+   "IndiaLaw"
+  ]
+ },
+ {
+  "id": "a2f14d06f82b",
+  "created": "2026-11-24T00:06:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+  "headline": "Nvidia CEO Jensen Huang to testify before Senate next week",
+  "hook": "The chip boss faces a high‑stakes Senate grilling",
+  "what": "Jensen Huang, newly reinstated as Nvidia’s chief executive, is slated to appear at a Senate hearing next week. Lawmakers from both parties have asked him to discuss a matter involving a suspected Chinese spy.",
+  "why": "The hearing shows how global tech leaders can get caught up in geopolitics, which may affect the AI, gaming and app ecosystems that Indian youth rely on. Keep an eye on any policy shifts that could impact tech products and services.",
+  "tags": [
+   "Nvidia",
+   "Senate",
+   "TechPolitics",
+   "AI",
+   "China"
+  ]
+ },
+ {
+  "id": "158d978601e3",
+  "created": "2026-11-24T00:06:15+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The CSR Journal",
+  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
+  "headline": "Google, Microsoft May Halt New Hires in India by 2027",
+  "hook": "Big tech could pause recruitment, impacting fresh grads.",
+  "what": "Reports suggest Google and Microsoft are planning to stop hiring in India starting 2027. The move is described as an alleged freeze, not confirmed.",
+  "why": "If true, it may limit entry‑level opportunities for students and recent graduates, so keep an eye on company announcements.",
+  "tags": [
+   "Google",
+   "Microsoft",
+   "HiringFreeze",
+   "Jobs",
+   "India"
+  ]
+ },
+ {
+  "id": "b725dc615480",
+  "created": "2026-11-24T00:06:17+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Uswitch",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JV0J3UEF4elFCQ2RibzdwZEFvZHJISXdxdGRhekNrNTJBVkpPaGR1NWRjcG1tTUZyMi1oODJiX05zcGpSZXpQWGZNM3ctdnRBRTJmbzFFUGhYMkhtVFY5T0JVMTF3OGdmeVBTSGRWWWphT3JCa1E?oc=5",
+  "headline": "Samsung Galaxy Z Fold8 Ultra slashed by £555 on Black Friday",
+  "hook": "Grab a flagship foldable for less this weekend!",
+  "what": "Amazon UK's Black Friday sale offers up to £555 off the Samsung Galaxy Z Fold8 Ultra. The same promotion also highlights a near $1,000 saving on the Galaxy S26 Ultra.",
+  "why": "Young shoppers can snag a high‑end Android foldable at a fraction of the price, helping stretch a limited budget.",
+  "tags": [
+   "Samsung",
+   "BlackFriday",
+   "PhoneDeals",
+   "Foldable",
+   "Discount"
+  ]
+ },
+ {
   "id": "bd9e415d2bb9",
   "created": "2026-11-23T23:10:15+05:30",
   "category": "tech",
@@ -657,101 +750,6 @@
    "NameChange",
    "India",
    "BJP"
-  ]
- },
- {
-  "id": "86ede3678a24",
-  "created": "2026-11-23T16:30:04+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/nps-retirement-planning-72-choose-auto-choice-over-active-choice-in-fy27-what-absl-pension-fund-data-reveals-11795428242555.html",
-  "headline": "Most NPS Users Opt for Auto Choice",
-  "hook": "Nearly three‑quarters of NPS members let the system pick their investments.",
-  "what": "ABSL Pension Fund data shows about 72% of its NPS participants choose the Auto Choice option, while fewer pick Active Choice or the Minimum Savings Fund. Preferences shift across different age groups.",
-  "why": "Knowing this trend helps young Indians decide whether a guided or self‑directed retirement plan suits them best.",
-  "tags": [
-   "NPS",
-   "retirement",
-   "investing",
-   "ABSL",
-   "AutoChoice"
-  ]
- },
- {
-  "id": "d7bedc19578f",
-  "created": "2026-11-23T16:30:09+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/taxpayer-sold-bitcoin-worth-4-94-crore-and-disclosed-it-in-itr-yet-faced-a-tax-notice-why-hc-ruling-explained-11795429551337.html",
-  "headline": "Taxpayer disclosed ₹4.94 crore Bitcoin sale, still got notice; HC quashes",
-  "hook": "Even if you report crypto gains, you might still get a tax notice.",
-  "what": "A man reported selling Bitcoin worth about ₹4.94 crore in his income‑tax return and later received a reassessment notice. He appealed to the Gujarat High Court, which set aside the notice, stressing the need for proper disclosure and supporting records.",
-  "why": "The case highlights that clear documentation of crypto transactions can shield you from tax probes. Young investors should keep detailed records and report gains accurately.",
-  "tags": [
-   "tax",
-   "crypto",
-   "finance",
-   "India",
-   "youth"
-  ]
- },
- {
-  "id": "89d9609e159a",
-  "created": "2026-11-23T16:30:15+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Esquire India",
-  "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaXVzblhkc1dSRWI1dmxqWndSYXZZUkk0M3JfVHJkU09TVF9MNW8xRlVVT2Nwc3BzbU5SeVNjMm51Vnc4VEROeXc5Q2dxWVhDN1dfRFpSRlY5dUliY0xlMjlDNHFUNzhhUzExaURTNG1UZzc4Yi1iNm5RUkNXU1dnMjdObm13cjE5NG5rX2lmcXp5VlExRDBXemZVY3c4aHZzNV9IaGhabUNpN1RsM3RHRGd4LTN4R2hXTlBBMTQxem5zVEV0WHFmMG9DRlR3NFlPdnBLaWNILXZSWkdjOXM4Z2FPVXXSAfIBQVVfeXFMT0pfdkFtVlliT1BLNUdHdkViUmlOZHBFQThoNUZrTTdleEMydm9GMG1JZXBJYXc5LS1LRkgtQk1BaUkxams5M2J2UGV1WDdPV3VUWDJYeW1MajNXRkpaTGdXVndXVU9PQ1NNUXowMXlxbWVHYUxsYVNWdVBDLVJMRk1nNVNKcHlmNjZNNWp1Z3hZNVM1VWVwQzJzbVpMS3pVUHFZVndTaHRZNDVzekxCVE1DLVRkY01pVlBHenV6ZVo1MHhSbDAtQklEY1FIdkpDTFFpRHdmSlVfRThoeFRjbnFGb2U5TEZQcHdsNU1JeXFkb1E?oc=5",
-  "headline": "New OTT Hits: Blade Runner 2099, Hanuman Ansh, Drishyam 3",
-  "hook": "Stream the latest sci‑fi, mythic saga and thriller now.",
-  "what": "This week several new titles arrived on streaming platforms, including Blade Runner 2099, Hanuman Ansh and Drishyam 3. They are now available to watch online.",
-  "why": "These releases add fresh content for binge‑watchers and fans of sci‑fi, mythology and crime drama. Open your favourite OTT app and start streaming.",
-  "tags": [
-   "OTT",
-   "NewReleases",
-   "Streaming",
-   "Movies",
-   "Series"
-  ]
- },
- {
-  "id": "012479a7a0e4",
-  "created": "2026-11-23T16:30:18+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/cryptocurrency/news/upbit-and-bithumb-halt-cyber-transfers-over-suspected-bridge-exploit-crypto-network-suspension-eth-sol-12365572",
-  "headline": "Upbit, Bithumb pause CYBER moves over bridge hack fear",
-  "hook": "Crypto transfers on hold – what this means for you.",
-  "what": "South Korean exchanges Upbit and Bithumb have stopped CYBER token transfers after spotting odd blockchain activity. They suspect a bridge exploit but have not explained the exact cause.",
-  "why": "A pause could affect anyone holding CYBER or using these platforms, so keep an eye on official updates before moving funds.",
-  "tags": [
-   "crypto",
-   "blockchain",
-   "security",
-   "upbit",
-   "bithumb"
-  ]
- },
- {
-  "id": "e85539b2d0c4",
-  "created": "2026-11-23T15:23:35+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/article71734067.ece",
-  "headline": "Delhi Court Issues Non‑Bailable Warrant for YouTuber Dhruv Rathee",
-  "hook": "A court order targets a popular creator.",
-  "what": "A Delhi judicial magistrate ordered a non‑bailable warrant against Dhruv Rathee. The warrant is linked to a defamation case filed by Vikas Sanskrityayan, also known as Vikas Pandey, over a video on Rathee’s YouTube channel.",
-  "why": "It shows that online videos can lead to serious legal action, so creators should verify content before posting.",
-  "tags": [
-   "dhruvrathee",
-   "youtube",
-   "legal",
-   "defamation",
-   "india"
   ]
  }
 ]

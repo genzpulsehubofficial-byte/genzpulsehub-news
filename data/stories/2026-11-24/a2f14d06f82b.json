@@ -1,0 +1,37 @@
+{
+ "id": "a2f14d06f82b",
+ "created": "2026-11-24T00:06:12+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO Jensen Huang to testify before Senate next week",
+  "hook": "The chip boss faces a high‑stakes Senate grilling",
+  "what": "Jensen Huang, newly reinstated as Nvidia’s chief executive, is slated to appear at a Senate hearing next week. Lawmakers from both parties have asked him to discuss a matter involving a suspected Chinese spy.",
+  "why": "The hearing shows how global tech leaders can get caught up in geopolitics, which may affect the AI, gaming and app ecosystems that Indian youth rely on. Keep an eye on any policy shifts that could impact tech products and services.",
+  "tags": [
+   "Nvidia",
+   "Senate",
+   "TechPolitics",
+   "AI",
+   "China"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia CEO Jensen Huang Senate-യിൽ സാക്ഷ്യം വഹിക്കും",
+  "hook": "ചിപ്‌മാസ്റ്ററിന് ഉയർന്ന തലത്തിലുള്ള ചോദ്യംവേല കാത്തിരിക്കുകയാണ്",
+  "what": "Nvidiaയുടെ CEO ആയി വീണ്ടും നിയമിതനായ Jensen Huang അടുത്ത ആഴ്ച Senate-യിൽ സാക്ഷ്യം വഹിക്കും. ഇരുപാർട്ടിയും ചേർന്ന് അവനെ ചൈനീസ് ചോരക്കാരനുമായി ബന്ധപ്പെട്ട സംഭവത്തെക്കുറിച്ച് ചോദിക്കാൻ ആവശ്യപ്പെട്ടു.",
+  "why": "ഈ സാക്ഷ്യം ഗ്ലോബൽ ടെക്‌ രംഗത്തെ രാഷ്ട്രീയ ബന്ധം കാണിക്കുന്നു, ഇത് ഗെയിമിംഗ്, AI, ആപ്പുകൾ എന്നിവ ഉപയോഗിക്കുന്ന യുവജനങ്ങളെ ബാധിക്കാം. ടെക് നയങ്ങളിലോ ഉൽപ്പന്ന ലഭ്യതയിലോ വരുന്ന മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "Senate",
+   "TechPolitics",
+   "AI",
+   "China"
+  ]
+ }
+}
