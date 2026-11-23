@@ -1,5 +1,100 @@
 [
  {
+  "id": "d84117491dd5",
+  "created": "2026-11-23T07:40:49+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/tamil-nadu-moves-supreme-court-seeking-review-of-november-20-karthigai-deepam-order-101795397551479.html",
+  "headline": "Tamil Nadu asks Supreme Court to revisit Karthigai Deepam order",
+  "hook": "State moves to challenge a recent festival ruling.",
+  "what": "The Hindu Religious & Charitable Endowments department of Tamil Nadu filed a review petition with the Supreme Court on November 21. The petition seeks a review of the court’s November 20 order on the Karthigai Deepam festival.",
+  "why": "The outcome could change how the festival is observed, affecting students and families. Stay updated for any impact on holidays or public events.",
+  "tags": [
+   "TamilNadu",
+   "SupremeCourt",
+   "KarthigaiDeepam",
+   "LegalReview",
+   "Youth"
+  ]
+ },
+ {
+  "id": "7a0e2ede6c7a",
+  "created": "2026-11-23T07:40:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/amritsar-grenade-attack-us-based-happy-passia-8-others-declared-proclaimed-offenders-101795398793577.html",
+  "headline": "US-based Happy Passia named in Amritsar grenade case",
+  "hook": "Eight more suspects now officially on the run.",
+  "what": "Happy Passia, based in the US, and eight others have been declared proclaimed offenders in the Amritsar grenade attack. Intelligence officials say Passia is linked to the banned Babbar Khalsa International and worked with Lawrence Bishnoi’s network.",
+  "why": "The case highlights the presence of outlawed groups and their networks, urging young people to stay alert and report any suspicious activity.",
+  "tags": [
+   "Amritsar",
+   "GrenadeAttack",
+   "BKI",
+   "LawrenceBishnoi",
+   "ProclaimedOffenders"
+  ]
+ },
+ {
+  "id": "04504f1c4726",
+  "created": "2026-11-23T07:40:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "headline": "Big investors poured billions into Anthropic before its IPO",
+  "hook": "Why top funds are backing the AI startup",
+  "what": "Notable Capital, Singapore’s GIC and Baillie Gifford each invested billions in Anthropic ahead of its public listing. The three firms explained the factors that gave them confidence in the AI company.",
+  "why": "Seeing how major investors assess AI firms helps young tech fans spot promising startups. Keep an eye on AI trends and learn about venture funding.",
+  "tags": [
+   "AI",
+   "startup",
+   "investment",
+   "tech",
+   "funding"
+  ]
+ },
+ {
+  "id": "555b7cb0f63c",
+  "created": "2026-11-23T07:40:59+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Chess News | ChessBase",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9KcFRRdFVQTnV1R01GM2htOXB1eWM1TmU5UW9aVV9kejRWNndRZnpFSmQxcnhvU1J5MkFFLXVFQWE1RjJpOGhJb0FudnBRbWFSQjY2Nnd2djZJX2FERXFGbmhTOHdua0w1VXhHRkV4MDZPRzRpXzlNalVrR0ZMX3dsb1ZlYk1xNHZCX1FIRFNzeXgyLVlWR2xwUjc5aV9BeWVmYjd2WHlLYVU1aVRocg?oc=5",
+  "headline": "2026 World Chess Title Match Begins Today",
+  "hook": "The champion Gukesh faces Sindarov in the opening game.",
+  "what": "The 2026 FIDE World Chess Championship started with a press conference and ceremony. In Game 1, defending champion Gukesh will play with the black pieces while challenger Sindarov has white.",
+  "why": "Young players can watch the match to see top‑level strategies and get inspiration for their own chess practice.",
+  "tags": [
+   "chess",
+   "worldchampionship",
+   "Gukesh",
+   "Sindarov",
+   "sports"
+  ]
+ },
+ {
+  "id": "054af1c102e6",
+  "created": "2026-11-23T07:41:02+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "ScienceDaily",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0STNVNnF5YnVEZ1pHUE5GZmNoMk1RRVo1bjdiSVdnWWk0Zkp3VjFVTEhHa1VZN3NKMDhKS2RhQk1ZS1FIeGV3RVBHT0ZhdzNTc1ljN0c4LTBrZmcyMDlYaS1aYUh3NG1wSGNFTm5qbw?oc=5",
+  "headline": "US loses measles‑free status as cases near 6,000",
+  "hook": "Vaccine myths are bringing back a disease once thought gone.",
+  "what": "The United States has been stripped of its measles elimination designation after 25 years. Reported cases have climbed to almost 6,000, marking a worsening outbreak. Health officials link the surge to persistent misinformation about vaccines.",
+  "why": "It shows how false information can undo public‑health gains, highlighting the need for accurate vaccine knowledge. Teens should stay informed and follow immunisation guidelines.",
+  "tags": [
+   "measles",
+   "vaccines",
+   "publichealth",
+   "outbreak",
+   "US"
+  ]
+ },
+ {
   "id": "1371b80214ca",
   "created": "2026-11-23T06:20:31+05:30",
   "category": "entertainment",
@@ -654,99 +749,6 @@
    "FIIs",
    "oilprices",
    "PMI"
-  ]
- },
- {
-  "id": "a7d29f2d9db9",
-  "created": "2026-11-23T00:29:41+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/anti-hindu-bjp-on-tamil-nadus-governments-deepam-order-review-plea-12363216#publisher=newsstand",
-  "headline": "BJP calls Tamil Nadu review of Deepam order anti‑Hindu",
-  "hook": "A stone pillar in Madurai sparks a political clash.",
-  "what": "The BJP has labelled the Tamil Nadu government's move to review the Deepam order as anti‑Hindu. Deepathoon is a stone pillar situated on Thiruparankundram hill in Madurai.",
-  "why": "The dispute highlights tensions over cultural symbols that could affect community sentiments. Young readers should stay aware of how heritage sites become political flashpoints.",
-  "tags": [
-   "BJP",
-   "TamilNadu",
-   "Deepam",
-   "Madurai",
-   "culture"
-  ]
- },
- {
-  "id": "4c8d170c04d8",
-  "created": "2026-11-23T00:29:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
-  "headline": "Eight dead as minivan crashes into tree in Tiruchirappalli",
-  "hook": "A speeding ride turned deadly on a Tamil Nadu road.",
-  "what": "A minivan lost control and hit a roadside tree in Tiruchirappalli, killing eight people. Police say overspeeding caused the driver to lose control.",
-  "why": "Road safety is crucial for students traveling by road; obey speed limits to avoid tragedies.",
-  "tags": [
-   "roadSafety",
-   "TamilNadu",
-   "Accident",
-   "YouthAlert"
-  ]
- },
- {
-  "id": "fac07b9541bf",
-  "created": "2026-11-23T00:29:52+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Oncodaily",
-  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemhVdi0yLVRtLXlqUGYwX256X1lFV25ySFg5R2JoX1RwbmZRMGUwSzB3QWJIcmsyZFRmTTczcExqSXZacU04SFQzMTcxTHZKMjJ3czUxU3hXSzRORG1obk56aERxYjEzUk1DMU01WjN2SGZ5Ni1reGFzY1FYU1J4U3FR?oc=5",
-  "headline": "New Drug Daraxonrasib Shows 90% Tumor Halt in Pancreatic Cancer",
-  "hook": "A breakthrough pill could change outcomes for a deadly disease.",
-  "what": "A new oral medication called daraxonrasib, used with chemotherapy, has shown strong results in treating metastatic pancreatic cancer. Clinical trials reported that tumor growth stopped in about 90% of patients.",
-  "why": "Pancreatic cancer is often fatal, so this development offers hope for patients and families. Stay informed about emerging treatments and discuss options with healthcare providers.",
-  "tags": [
-   "pancreaticcancer",
-   "breakthrough",
-   "health",
-   "research",
-   "India"
-  ]
- },
- {
-  "id": "b6639db1aad5",
-  "created": "2026-11-22T23:39:12+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
-  "headline": "FSSAI Orders Action Against Bisleri Over Unsafe Packaged Water",
-  "hook": "Your go-to bottled water brand is facing legal action over safety rules.",
-  "what": "Food safety regulator FSSAI has ordered legal prosecution against Bisleri International. A sample of its packaged drinking water failed safety standards after bromate levels were found exceeding prescribed limits. The water was officially marked unsafe under the Food Safety and Standards Act, 2006.",
-  "why": "When buying packaged water outside, quality checks matter, and officials are pulling up major brands that fail safety rules.",
-  "tags": [
-   "Bisleri",
-   "FSSAI",
-   "FoodSafety",
-   "DrinkingWater"
-  ]
- },
- {
-  "id": "4c53fb9b6430",
-  "created": "2026-11-22T23:40:41+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/sip-on-salary-day-or-at-month-end-does-your-mutual-fund-investment-date-affect-returns-what-sensex-data-reveal-11795368672894.html",
-  "headline": "SIP timing barely changes returns, study shows",
-  "hook": "Your pay‑day won’t magically boost mutual fund gains.",
-  "what": "Research by WhiteOak Capital looked at Sensex data and compared 10‑year SIP outcomes for different calendar dates. The difference in average returns was only about 0.06 percentage points.",
-  "why": "For young investors, the exact day you start a SIP matters little, so focus on regular investing rather than timing. Keep your contributions consistent.",
-  "tags": [
-   "SIP",
-   "mutualfund",
-   "investing",
-   "finance",
-   "Sensex"
   ]
  }
 ]

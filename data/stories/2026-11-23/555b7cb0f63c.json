@@ -1,0 +1,37 @@
+{
+ "id": "555b7cb0f63c",
+ "created": "2026-11-23T07:40:59+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Chess News | ChessBase",
+ "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9KcFRRdFVQTnV1R01GM2htOXB1eWM1TmU5UW9aVV9kejRWNndRZnpFSmQxcnhvU1J5MkFFLXVFQWE1RjJpOGhJb0FudnBRbWFSQjY2Nnd2djZJX2FERXFGbmhTOHdua0w1VXhHRkV4MDZPRzRpXzlNalVrR0ZMX3dsb1ZlYk1xNHZCX1FIRFNzeXgyLVlWR2xwUjc5aV9BeWVmYjd2WHlLYVU1aVRocg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "2026 World Chess Title Match Begins Today",
+  "hook": "The champion Gukesh faces Sindarov in the opening game.",
+  "what": "The 2026 FIDE World Chess Championship started with a press conference and ceremony. In Game 1, defending champion Gukesh will play with the black pieces while challenger Sindarov has white.",
+  "why": "Young players can watch the match to see top‑level strategies and get inspiration for their own chess practice.",
+  "tags": [
+   "chess",
+   "worldchampionship",
+   "Gukesh",
+   "Sindarov",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "2026 ലോക ചസ്‌തം ശീർഷക മത്സരം ഇന്ന് ആരംഭിച്ചു",
+  "hook": "രക്ഷാകർതാവ് ഗുകേഷ്, സിന്ദറോവുമായുള്ള ആദ്യ കളി",
+  "what": "2026 FIDE ലോക ചസ്‌തം ചാമ്പ്യൻഷിപ്പ് പ്രസ് കോൺഫറൻസ്, ചടങ്ങുകളോടെ തുടങ്ങി. ആദ്യ ഗെയിമിൽ, പ്രതിരക്ഷകൻ ഗുകേഷ് കറുത്ത കല്ലുകൾ, സിന്ദറോവ് വെളുപ്പ്.",
+  "why": "ഇത് യുവ ചസ്‌തം കളിക്കാർക്ക് മികച്ച തന്ത്രങ്ങൾ കാണാൻ, സ്വന്തം കളി മെച്ചപ്പെടുത്താൻ പ്രചോദനം നൽകും.",
+  "tags": [
+   "ചസ്‌തം",
+   "വേൾഡ്‌ചാമ്പ്യൻഷിപ്പ്",
+   "ഗുകേഷ്",
+   "സിന്ദറോവ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

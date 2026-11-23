@@ -1,0 +1,37 @@
+{
+ "id": "7a0e2ede6c7a",
+ "created": "2026-11-23T07:40:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/amritsar-grenade-attack-us-based-happy-passia-8-others-declared-proclaimed-offenders-101795398793577.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US-based Happy Passia named in Amritsar grenade case",
+  "hook": "Eight more suspects now officially on the run.",
+  "what": "Happy Passia, based in the US, and eight others have been declared proclaimed offenders in the Amritsar grenade attack. Intelligence officials say Passia is linked to the banned Babbar Khalsa International and worked with Lawrence Bishnoi’s network.",
+  "why": "The case highlights the presence of outlawed groups and their networks, urging young people to stay alert and report any suspicious activity.",
+  "tags": [
+   "Amritsar",
+   "GrenadeAttack",
+   "BKI",
+   "LawrenceBishnoi",
+   "ProclaimedOffenders"
+  ]
+ },
+ "ml": {
+  "headline": "അമൃത്സർ ഗ്രനേഡ് കേസിൽ US-അധിഷ്ഠിത Happy Passia പ്രഖ്യാപിത കുറ്റവാളി",
+  "hook": "എട്ടു കൂടി പേരുകൾ ഇപ്പോൾ ഔദ്യോഗികമായി പിടിച്ചെടുക്കാൻ ശ്രമിക്കുന്നു.",
+  "what": "US-അധിഷ്ഠിത Happy Passiaയും മറ്റെട്ട് പേരുകളും അമൃത്സർ ഗ്രനേഡ് ആക്രമണത്തിൽപ്പെട്ടതായി പ്രഖ്യാപിത കുറ്റവാളികളായി പ്രഖ്യാപിച്ചു. ഇന്റലിജൻസ് ഉദ്യോഗസ്ഥരുടെ പ്രകാരം Passia, നിരോധിത Babbar Khalsa International (BKI) സംഘവുമായി ബന്ധപ്പെട്ടവനും Lawrence Bishnoiയുടെ നെറ്റ്‌വർക്കുമായി പ്രവർത്തിച്ചതായി കണ്ടെത്തി.",
+  "why": "ഇത് നിരോധിത സംഘങ്ങളുടെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു; യുവജനങ്ങൾ സുരക്ഷാ മുന്നറിയിപ്പുകൾ ശ്രദ്ധിച്ച് സംശയകരമായ പ്രവർത്തനങ്ങൾ ഉടൻ റിപ്പോർട്ട് ചെയ്യണം.",
+  "tags": [
+   "അമൃത്സർ",
+   "ഗ്രനേഡ്",
+   "BKI",
+   "LawrenceBishnoi",
+   "കுற்றവാളി"
+  ]
+ }
+}

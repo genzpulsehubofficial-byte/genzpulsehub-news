@@ -1,0 +1,37 @@
+{
+ "id": "04504f1c4726",
+ "created": "2026-11-23T07:40:55+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Big investors poured billions into Anthropic before its IPO",
+  "hook": "Why top funds are backing the AI startup",
+  "what": "Notable Capital, Singapore’s GIC and Baillie Gifford each invested billions in Anthropic ahead of its public listing. The three firms explained the factors that gave them confidence in the AI company.",
+  "why": "Seeing how major investors assess AI firms helps young tech fans spot promising startups. Keep an eye on AI trends and learn about venture funding.",
+  "tags": [
+   "AI",
+   "startup",
+   "investment",
+   "tech",
+   "funding"
+  ]
+ },
+ "ml": {
+  "headline": "വലിയ നിക്ഷേപകർ ഐപിഒക്ക് മുമ്പ് Anthropic‑ലേക്ക് ബില്യൺസ് നിക്ഷേപിച്ചു",
+  "hook": "മികച്ച ഫണ്ടുകൾ AI സ്റ്റാർട്ടപ്പിനെ എന്തുകൊണ്ട് പിന്തുണക്കുന്നു",
+  "what": "Notable Capital, Singapore‑ന്റെ GIC, Baillie Gifford എന്നിവർ Anthropic‑ലേക്ക് ഐപിഒക്ക് മുമ്പ് ബില്യൺസ് തുക നിക്ഷേപിച്ചു. ഈ മൂന്ന് സ്ഥാപനങ്ങളും AI കമ്പനിയിൽ വിശ്വാസം വളർത്തിയ കാരണങ്ങൾ പങ്കുവെച്ചു.",
+  "why": "വലിയ നിക്ഷേപകർ AI കമ്പനികളെ എങ്ങനെ വിലയിരുത്തുന്നു എന്ന് അറിയുന്നത് യുവ ടെക് ആസ്വാദകർക്ക് പുതിയ സ്റ്റാർട്ടപ്പുകൾ തിരിച്ചറിയാൻ സഹായിക്കും. AI ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക, വെഞ്ചർ ഫണ്ടിംഗ് പഠിക്കുക.",
+  "tags": [
+   "AI",
+   "startup",
+   "investment",
+   "tech",
+   "funding"
+  ]
+ }
+}

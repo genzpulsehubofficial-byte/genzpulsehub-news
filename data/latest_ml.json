@@ -1,5 +1,100 @@
 [
  {
+  "id": "d84117491dd5",
+  "created": "2026-11-23T07:40:49+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/tamil-nadu-moves-supreme-court-seeking-review-of-november-20-karthigai-deepam-order-101795397551479.html",
+  "headline": "തമിഴ്നാട് സുപ്രീം കോടതി കർതിഗൈ ദീപം ഉത്തരവിനെ വീണ്ടും പരിശോധിക്കാൻ അപേക്ഷിച്ചു",
+  "hook": "സംസ്ഥാനത്തെ ഒരു പുതിയ ഉത്സവ വിധിയെ ചോദ്യം ചെയ്യാൻ നീക്കം.",
+  "what": "തമിഴ്നാടിന്റെ ഹിന്ദു മത-ചാരിറ്റി വകുപ്പ് നവംബർ 21-ന് സുപ്രീം കോടതിയിൽ അവലോകന അപേക്ഷ സമർപ്പിച്ചു. ഈ അപേക്ഷ നവംബർ 20-ന് പുറപ്പെടുവിച്ച കർതിഗൈ ദീപം സംബന്ധിച്ച ഉത്തരവിനെ വീണ്ടും പരിശോധിക്കാൻ ആവശ്യപ്പെടുന്നു.",
+  "why": "ഈ വിധി ഉത്സവം എങ്ങനെ ആഘോഷിക്കും എന്നതിൽ മാറ്റം വരുത്താൻ സാധ്യതയുണ്ട്, വിദ്യാർത്ഥികളും കുടുംബങ്ങളും ബാധിക്കപ്പെടാം. ഫലത്തെക്കുറിച്ച് അറിയിക്കൂ, അവധി അല്ലെങ്കിൽ പൊതു പരിപാടികളിൽ മാറ്റം വരുമോ എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "തമിഴ്നാട്",
+   "സുപ്രീംകോടതി",
+   "കർതിഗൈദീപം",
+   "നിയമപരിശോധന",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "7a0e2ede6c7a",
+  "created": "2026-11-23T07:40:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/amritsar-grenade-attack-us-based-happy-passia-8-others-declared-proclaimed-offenders-101795398793577.html",
+  "headline": "അമൃത്സർ ഗ്രനേഡ് കേസിൽ US-അധിഷ്ഠിത Happy Passia പ്രഖ്യാപിത കുറ്റവാളി",
+  "hook": "എട്ടു കൂടി പേരുകൾ ഇപ്പോൾ ഔദ്യോഗികമായി പിടിച്ചെടുക്കാൻ ശ്രമിക്കുന്നു.",
+  "what": "US-അധിഷ്ഠിത Happy Passiaയും മറ്റെട്ട് പേരുകളും അമൃത്സർ ഗ്രനേഡ് ആക്രമണത്തിൽപ്പെട്ടതായി പ്രഖ്യാപിത കുറ്റവാളികളായി പ്രഖ്യാപിച്ചു. ഇന്റലിജൻസ് ഉദ്യോഗസ്ഥരുടെ പ്രകാരം Passia, നിരോധിത Babbar Khalsa International (BKI) സംഘവുമായി ബന്ധപ്പെട്ടവനും Lawrence Bishnoiയുടെ നെറ്റ്‌വർക്കുമായി പ്രവർത്തിച്ചതായി കണ്ടെത്തി.",
+  "why": "ഇത് നിരോധിത സംഘങ്ങളുടെ സാന്നിധ്യം സൂചിപ്പിക്കുന്നു; യുവജനങ്ങൾ സുരക്ഷാ മുന്നറിയിപ്പുകൾ ശ്രദ്ധിച്ച് സംശയകരമായ പ്രവർത്തനങ്ങൾ ഉടൻ റിപ്പോർട്ട് ചെയ്യണം.",
+  "tags": [
+   "അമൃത്സർ",
+   "ഗ്രനേഡ്",
+   "BKI",
+   "LawrenceBishnoi",
+   "കுற்றവാളി"
+  ]
+ },
+ {
+  "id": "04504f1c4726",
+  "created": "2026-11-23T07:40:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "headline": "വലിയ നിക്ഷേപകർ ഐപിഒക്ക് മുമ്പ് Anthropic‑ലേക്ക് ബില്യൺസ് നിക്ഷേപിച്ചു",
+  "hook": "മികച്ച ഫണ്ടുകൾ AI സ്റ്റാർട്ടപ്പിനെ എന്തുകൊണ്ട് പിന്തുണക്കുന്നു",
+  "what": "Notable Capital, Singapore‑ന്റെ GIC, Baillie Gifford എന്നിവർ Anthropic‑ലേക്ക് ഐപിഒക്ക് മുമ്പ് ബില്യൺസ് തുക നിക്ഷേപിച്ചു. ഈ മൂന്ന് സ്ഥാപനങ്ങളും AI കമ്പനിയിൽ വിശ്വാസം വളർത്തിയ കാരണങ്ങൾ പങ്കുവെച്ചു.",
+  "why": "വലിയ നിക്ഷേപകർ AI കമ്പനികളെ എങ്ങനെ വിലയിരുത്തുന്നു എന്ന് അറിയുന്നത് യുവ ടെക് ആസ്വാദകർക്ക് പുതിയ സ്റ്റാർട്ടപ്പുകൾ തിരിച്ചറിയാൻ സഹായിക്കും. AI ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക, വെഞ്ചർ ഫണ്ടിംഗ് പഠിക്കുക.",
+  "tags": [
+   "AI",
+   "startup",
+   "investment",
+   "tech",
+   "funding"
+  ]
+ },
+ {
+  "id": "555b7cb0f63c",
+  "created": "2026-11-23T07:40:59+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Chess News | ChessBase",
+  "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZU9KcFRRdFVQTnV1R01GM2htOXB1eWM1TmU5UW9aVV9kejRWNndRZnpFSmQxcnhvU1J5MkFFLXVFQWE1RjJpOGhJb0FudnBRbWFSQjY2Nnd2djZJX2FERXFGbmhTOHdua0w1VXhHRkV4MDZPRzRpXzlNalVrR0ZMX3dsb1ZlYk1xNHZCX1FIRFNzeXgyLVlWR2xwUjc5aV9BeWVmYjd2WHlLYVU1aVRocg?oc=5",
+  "headline": "2026 ലോക ചസ്‌തം ശീർഷക മത്സരം ഇന്ന് ആരംഭിച്ചു",
+  "hook": "രക്ഷാകർതാവ് ഗുകേഷ്, സിന്ദറോവുമായുള്ള ആദ്യ കളി",
+  "what": "2026 FIDE ലോക ചസ്‌തം ചാമ്പ്യൻഷിപ്പ് പ്രസ് കോൺഫറൻസ്, ചടങ്ങുകളോടെ തുടങ്ങി. ആദ്യ ഗെയിമിൽ, പ്രതിരക്ഷകൻ ഗുകേഷ് കറുത്ത കല്ലുകൾ, സിന്ദറോവ് വെളുപ്പ്.",
+  "why": "ഇത് യുവ ചസ്‌തം കളിക്കാർക്ക് മികച്ച തന്ത്രങ്ങൾ കാണാൻ, സ്വന്തം കളി മെച്ചപ്പെടുത്താൻ പ്രചോദനം നൽകും.",
+  "tags": [
+   "ചസ്‌തം",
+   "വേൾഡ്‌ചാമ്പ്യൻഷിപ്പ്",
+   "ഗുകേഷ്",
+   "സിന്ദറോവ്",
+   "സ്പോർട്സ്"
+  ]
+ },
+ {
+  "id": "054af1c102e6",
+  "created": "2026-11-23T07:41:02+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "ScienceDaily",
+  "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0STNVNnF5YnVEZ1pHUE5GZmNoMk1RRVo1bjdiSVdnWWk0Zkp3VjFVTEhHa1VZN3NKMDhKS2RhQk1ZS1FIeGV3RVBHT0ZhdzNTc1ljN0c4LTBrZmcyMDlYaS1aYUh3NG1wSGNFTm5qbw?oc=5",
+  "headline": "യു.എസിന് measles‑മുക്തി നില നഷ്ടം, കേസുകൾ 6,000‑നടുത്തു",
+  "hook": "വാക്‌സിൻ കപടവാദങ്ങൾ വീണ്ടും measles‑നെ തിരികെ കൊണ്ടുവന്നു.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് 25 വർഷം measles‑മുക്തി നിലയിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ടു. കേസുകൾ 6,000‑നടുത്തു ഉയർന്നു, രോഗവ്യാപനം വഷളായി. ആരോഗ്യ അധികാരികൾ ഈ വർദ്ധനവിന് വാക്‌സിൻ സംബന്ധമായ തെറ്റായ വിവരങ്ങൾ പ്രധാന കാരണമെന്ന് പറയുന്നു.",
+  "why": "തെറ്റായ വിവരങ്ങൾ ആരോഗ്യ നേട്ടങ്ങൾ നശിപ്പിക്കാം, അതിനാൽ ശരിയായ വാക്‌സിനേഷൻ വിവരങ്ങൾ അറിയേണ്ടത് അത്യാവശ്യമാണ്. യുവാക്കൾ വാക്‌സിനേഷൻ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "measles",
+   "വാക്‌സിൻ",
+   "പബ്ലിക് ഹെൽത്ത്",
+   "വൈറസ്",
+   "US"
+  ]
+ },
+ {
   "id": "1371b80214ca",
   "created": "2026-11-23T06:20:31+05:30",
   "category": "entertainment",
@@ -655,99 +750,6 @@
    "FIIs",
    "എണ്ണവില",
    "PMI"
-  ]
- },
- {
-  "id": "a7d29f2d9db9",
-  "created": "2026-11-23T00:29:41+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/anti-hindu-bjp-on-tamil-nadus-governments-deepam-order-review-plea-12363216#publisher=newsstand",
-  "headline": "BJP പറയുന്നു തമിഴ്‌നാട് ഡീപം ഓർഡർ റിവ്യൂ ആന്റി‑ഹിന്ദു",
-  "hook": "മദுரൈയിലെ ഒരു കല്ലുപടം രാഷ്ട്രീയത്തിൽ ഇടംപിടിച്ചു.",
-  "what": "தமிழ்நாடு அரசு ഡീപം ഓർഡർ റിവ്യൂ ചെയ്യാനുള്ള അപേക്ഷയ്ക്ക് BJP ആന്റി‑ഹിന്ദു എന്ന് വിളിച്ചു. ഡീപാത്തൂൺ എന്ന കല്ലുപടം തിരുപാറങ്കുന്ദ്രം മലയുടെ മുകളിൽ മദുരൈയിൽ സ്ഥിതി ചെയ്യുന്നു.",
-  "why": "ഈ വിവാദം സാംസ്കാരിക ചിഹ്നങ്ങളുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയ സംഘർഷം കാണിക്കുന്നു, അതിനാൽ യുവജനങ്ങൾ ഇതിന്റെ പ്രഭാവം മനസ്സിലാക്കണം.",
-  "tags": [
-   "BJP",
-   "TamilNadu",
-   "Deepam",
-   "Madurai",
-   "സംസ്കാരം"
-  ]
- },
- {
-  "id": "4c8d170c04d8",
-  "created": "2026-11-23T00:29:47+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/eight-killed-as-speeding-minivan-rams-into-roadside-tree-in-tamil-nadus-tiruchirappalli-101795369432656.html",
-  "headline": "ട്രിചിരപ്പള്ളി റോഡില്‍ മിനിവാന്‍ മരത്തില്‍ തട്ടി എട്ട് മരണം",
-  "hook": "വേഗത്തില്‍ ഓടിച്ചിരുന്ന വാഹനത്തില്‍ ദുരന്തം സംഭവിച്ചു.",
-  "what": "ട്രിചിരപ്പള്ളിയില്‍ ഒരു മിനിവാന്‍ നിയന്ത്രണം നഷ്ടപ്പെടുത്തി അരികില്‍ മരത്തില്‍ ഇടിച്ചു, അതില്‍ എട്ട് പേർ കൊല്ലപ്പെട്ടു. പോലീസ് പറയുന്നത്, വേഗം കൂടിയതുകൊണ്ട് ഡ്രൈവർ നിയന്ത്രണം നഷ്ടപ്പെട്ടതാണ്.",
-  "why": "പാതയിലേയ്ക്ക് പോകുന്ന യുവാക്കൾക്ക് വേഗപരിധി പാലിക്കുന്നത് ജീവിതം രക്ഷിക്കും.",
-  "tags": [
-   "റോഡ്‌സേഫ്റ്റി",
-   "തമിഴ്നാട്",
-   "ദുരന്തം",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "fac07b9541bf",
-  "created": "2026-11-23T00:29:52+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Oncodaily",
-  "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemhVdi0yLVRtLXlqUGYwX256X1lFV25ySFg5R2JoX1RwbmZRMGUwSzB3QWJIcmsyZFRmTTczcExqSXZacU04SFQzMTcxTHZKMjJ3czUxU3hXSzRORG1obk56aERxYjEzUk1DMU01WjN2SGZ5Ni1reGFzY1FYU1J4U3FR?oc=5",
-  "headline": "പാൻക്രിയാറ്റിക് കാൻസറിന് 90% ട്യൂമർ നിർത്തുന്ന പുതിയ മരുന്ന്",
-  "hook": "ഈ突破ം രോഗികളുടെയും കുടുംബങ്ങളുടെയും ജീവിതം മാറ്റാം.",
-  "what": "ഡറാക്സോൺറാസിബ് എന്ന പുതിയ ഗുളിക, കെമോതെറാപ്പിയോടൊപ്പം ഉപയോഗിച്ച്, മെറ്റാസ്റ്റാറ്റിക് പാൻക്രിയാറ്റിക് കാൻസറിൽ ട്യൂമർ വളർച്ച 90% രോഗികളിൽ നിർത്തി എന്ന് പരീക്ഷണത്തിൽ കാണിച്ചു.",
-  "why": "പാൻക്രിയാറ്റിക് കാൻസർ സാധാരണയായി ഗുരുതരമായതിനാൽ, ഈ കണ്ടെത്തൽ പ്രത്യാശ നൽകുന്നു. പുതിയ ചികിത്സകളെക്കുറിച്ച് അറിഞ്ഞ് ഡോക്ടറുമായി ചർച്ച ചെയ്യുക.",
-  "tags": [
-   "പാൻക്രിയാറ്റിക്",
-   "മരുന്ന്",
-   "വൈദ്യശാസ്ത്രം",
-   "പുതുമ",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "b6639db1aad5",
-  "created": "2026-11-22T23:39:12+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/fssai-orders-prosecution-against-bisleri-international-for-unsafe-packaged-drinking-water/article71732196.ece",
-  "headline": "ഗുണനിലവാരമില്ലാത്ത കുപ്പിവെള്ളം: ബിസ്‌ലറിക്കെതിരെ നടപടിയെടുക്കാൻ FSSAI ഉത്തരവ്",
-  "hook": "പാക്കേജ്ഡ് കുടിവെള്ളത്തിന്റെ സുരക്ഷയെക്കുറിച്ച് പ്രധാനപ്പെട്ട ഒരു വിവരം പുറത്തുവന്നിരിക്കുന്നു.",
-  "what": "ബിസ്‌ലേരി ഇന്റർനാഷണലിനെതിരെ നിയമനടപടി സ്വീകരിക്കാൻ FSSAI ഉത്തരവിട്ടു. പരിശോധിച്ച കുടിവെള്ള സാമ്പിളിൽ ബ്രോമേറ്റ് അളവ് നിശ്ചിത പരിധി കഴിഞ്ഞതായി കണ്ടെത്തി. തുടർന്ന് 2006-ലെ ഭക്ഷ്യസുരക്ഷാ നിയമപ്രകാരം ഈ വെള്ളം സുരക്ഷിതമല്ലെന്ന് അധികൃതർ വ്യക്തമാക്കി.",
-  "why": "യാത്രകളിലും മറ്റും വാങ്ങുന്ന കുപ്പിവെള്ളത്തിന്റെ ഗുണനിലവാരം ഉറപ്പാക്കാൻ അധികൃതർ കർശന നടപടികൾ സ്വീകരിക്കുന്നുണ്ട്.",
-  "tags": [
-   "Bisleri",
-   "FSSAI",
-   "DrinkingWater",
-   "FoodSafety"
-  ]
- },
- {
-  "id": "4c53fb9b6430",
-  "created": "2026-11-22T23:40:41+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/sip-on-salary-day-or-at-month-end-does-your-mutual-fund-investment-date-affect-returns-what-sensex-data-reveal-11795368672894.html",
-  "headline": "SIP ആരംഭിക്കുന്ന തീയതി ലാഭത്തിൽ കുറച്ച് മാറ്റം മാത്രം",
-  "hook": "വേതനദിനം നിങ്ങളുടെ മ്യൂച്വൽ ഫണ്ട് ലാഭം വർദ്ധിപ്പിക്കില്ല.",
-  "what": "WhiteOak Capital നടത്തിയ വിശകലനത്തിൽ Sensex ഡാറ്റ ഉപയോഗിച്ച് 10‑വർഷ SIP ഫലങ്ങൾ വ്യത്യസ്ത തീയതികളിൽ താരതമ്യം ചെയ്തു. ശരാശരി ലാഭത്തിൽ 0.06 ശതമാന പോയിന്റ് മാത്രമാണ് വ്യത്യാസം.",
-  "why": "യുവ നിക്ഷേപകർക്ക് SIP ആരംഭിക്കുന്ന ദിവസം പ്രധാനമല്ല; സ്ഥിരമായ നിക്ഷേപം തുടരാൻ ശ്രദ്ധിക്കുക. സമയം നോക്കാതെ പതിവായി നിക്ഷേപിക്കുക.",
-  "tags": [
-   "SIP",
-   "മ്യൂച്വൽഫണ്ട്",
-   "നിക്ഷേപം",
-   "ഫിനാൻസ്",
-   "Sensex"
   ]
  }
 ]

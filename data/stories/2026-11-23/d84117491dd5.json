@@ -1,0 +1,37 @@
+{
+ "id": "d84117491dd5",
+ "created": "2026-11-23T07:40:49+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/tamil-nadu-moves-supreme-court-seeking-review-of-november-20-karthigai-deepam-order-101795397551479.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Tamil Nadu asks Supreme Court to revisit Karthigai Deepam order",
+  "hook": "State moves to challenge a recent festival ruling.",
+  "what": "The Hindu Religious & Charitable Endowments department of Tamil Nadu filed a review petition with the Supreme Court on November 21. The petition seeks a review of the court’s November 20 order on the Karthigai Deepam festival.",
+  "why": "The outcome could change how the festival is observed, affecting students and families. Stay updated for any impact on holidays or public events.",
+  "tags": [
+   "TamilNadu",
+   "SupremeCourt",
+   "KarthigaiDeepam",
+   "LegalReview",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "തമിഴ്നാട് സുപ്രീം കോടതി കർതിഗൈ ദീപം ഉത്തരവിനെ വീണ്ടും പരിശോധിക്കാൻ അപേക്ഷിച്ചു",
+  "hook": "സംസ്ഥാനത്തെ ഒരു പുതിയ ഉത്സവ വിധിയെ ചോദ്യം ചെയ്യാൻ നീക്കം.",
+  "what": "തമിഴ്നാടിന്റെ ഹിന്ദു മത-ചാരിറ്റി വകുപ്പ് നവംബർ 21-ന് സുപ്രീം കോടതിയിൽ അവലോകന അപേക്ഷ സമർപ്പിച്ചു. ഈ അപേക്ഷ നവംബർ 20-ന് പുറപ്പെടുവിച്ച കർതിഗൈ ദീപം സംബന്ധിച്ച ഉത്തരവിനെ വീണ്ടും പരിശോധിക്കാൻ ആവശ്യപ്പെടുന്നു.",
+  "why": "ഈ വിധി ഉത്സവം എങ്ങനെ ആഘോഷിക്കും എന്നതിൽ മാറ്റം വരുത്താൻ സാധ്യതയുണ്ട്, വിദ്യാർത്ഥികളും കുടുംബങ്ങളും ബാധിക്കപ്പെടാം. ഫലത്തെക്കുറിച്ച് അറിയിക്കൂ, അവധി അല്ലെങ്കിൽ പൊതു പരിപാടികളിൽ മാറ്റം വരുമോ എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "തമിഴ്നാട്",
+   "സുപ്രീംകോടതി",
+   "കർതിഗൈദീപം",
+   "നിയമപരിശോധന",
+   "യുവാക്കൾ"
+  ]
+ }
+}

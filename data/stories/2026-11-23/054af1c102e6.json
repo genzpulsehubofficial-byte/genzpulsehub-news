@@ -1,0 +1,37 @@
+{
+ "id": "054af1c102e6",
+ "created": "2026-11-23T07:41:02+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "ScienceDaily",
+ "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0STNVNnF5YnVEZ1pHUE5GZmNoMk1RRVo1bjdiSVdnWWk0Zkp3VjFVTEhHa1VZN3NKMDhKS2RhQk1ZS1FIeGV3RVBHT0ZhdzNTc1ljN0c4LTBrZmcyMDlYaS1aYUh3NG1wSGNFTm5qbw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US loses measles‑free status as cases near 6,000",
+  "hook": "Vaccine myths are bringing back a disease once thought gone.",
+  "what": "The United States has been stripped of its measles elimination designation after 25 years. Reported cases have climbed to almost 6,000, marking a worsening outbreak. Health officials link the surge to persistent misinformation about vaccines.",
+  "why": "It shows how false information can undo public‑health gains, highlighting the need for accurate vaccine knowledge. Teens should stay informed and follow immunisation guidelines.",
+  "tags": [
+   "measles",
+   "vaccines",
+   "publichealth",
+   "outbreak",
+   "US"
+  ]
+ },
+ "ml": {
+  "headline": "യു.എസിന് measles‑മുക്തി നില നഷ്ടം, കേസുകൾ 6,000‑നടുത്തു",
+  "hook": "വാക്‌സിൻ കപടവാദങ്ങൾ വീണ്ടും measles‑നെ തിരികെ കൊണ്ടുവന്നു.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് 25 വർഷം measles‑മുക്തി നിലയിൽ നിന്ന് ഒഴിവാക്കപ്പെട്ടു. കേസുകൾ 6,000‑നടുത്തു ഉയർന്നു, രോഗവ്യാപനം വഷളായി. ആരോഗ്യ അധികാരികൾ ഈ വർദ്ധനവിന് വാക്‌സിൻ സംബന്ധമായ തെറ്റായ വിവരങ്ങൾ പ്രധാന കാരണമെന്ന് പറയുന്നു.",
+  "why": "തെറ്റായ വിവരങ്ങൾ ആരോഗ്യ നേട്ടങ്ങൾ നശിപ്പിക്കാം, അതിനാൽ ശരിയായ വാക്‌സിനേഷൻ വിവരങ്ങൾ അറിയേണ്ടത് അത്യാവശ്യമാണ്. യുവാക്കൾ വാക്‌സിനേഷൻ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "measles",
+   "വാക്‌സിൻ",
+   "പബ്ലിക് ഹെൽത്ത്",
+   "വൈറസ്",
+   "US"
+  ]
+ }
+}
