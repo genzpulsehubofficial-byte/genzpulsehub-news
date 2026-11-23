@@ -1,0 +1,37 @@
+{
+ "id": "e85539b2d0c4",
+ "created": "2026-11-23T15:23:35+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/delhi-court-issues-non-bailable-warrant-against-dhruv-rathee-in-2018-defamation-case/article71734067.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi Court Issues Non‑Bailable Warrant for YouTuber Dhruv Rathee",
+  "hook": "A court order targets a popular creator.",
+  "what": "A Delhi judicial magistrate ordered a non‑bailable warrant against Dhruv Rathee. The warrant is linked to a defamation case filed by Vikas Sanskrityayan, also known as Vikas Pandey, over a video on Rathee’s YouTube channel.",
+  "why": "It shows that online videos can lead to serious legal action, so creators should verify content before posting.",
+  "tags": [
+   "dhruvrathee",
+   "youtube",
+   "legal",
+   "defamation",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെൽഹി കോടതി ധ്രുവ റാത്തിക്ക് നോൺ‑ബെയിലബിൾ വാറന്റ് പുറപ്പെടുവിച്ചു",
+  "hook": "ഒരു കോടതി നടപടി പ്രശസ്ത ക്രിയേറ്ററിനെ ലക്ഷ്യം വെയ്ക്കുന്നു.",
+  "what": "ഡെൽഹി ജഡ്ജി അനം റൈസ് ഖാൻ ധ്രുവ റാത്തിക്ക് നോൺ‑ബെയിലബിൾ വാറന്റ് പുറപ്പെടുവിച്ചു. ഈ വാറന്റ് 2018‑ലെ ഡിഫാമേഷൻ കേസുമായി ബന്ധപ്പെട്ടതാണ്, വിചിത്രം സാംസ്കൃതിയാൻ (വികാസ് പാണ്ടേ) തന്റെ യൂട്യൂബ് വീഡിയോയെ അടിസ്ഥാനമാക്കി ഫയൽ ചെയ്തതാണ്.",
+  "why": "ഓൺലൈൻ വീഡിയോകൾ നിയമപരമായ പ്രശ്നങ്ങളിലേക്ക് നയിക്കാം; ഉള്ളടക്കം പോസ്റ്റ് ചെയ്യുന്നതിന് മുൻപ് പരിശോധിക്കുക.",
+  "tags": [
+   "ധ്രുവറാത്തി",
+   "യൂട്യൂബ്",
+   "നിയമം",
+   "ഡിഫാമേഷൻ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

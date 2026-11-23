@@ -1,0 +1,35 @@
+{
+ "id": "0e5d670771c6",
+ "created": "2026-11-23T15:23:41+05:30",
+ "category": "exams",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/kerala-high-court-sets-aside-suspension-of-16-sree-sankaracharya-university-of-sanskrit-students-101795424838285.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala HC orders special exams for 16 suspended Sanskrit students",
+  "hook": "Your campus rights just got a boost – court steps in.",
+  "what": "The Kerala High Court overturned the suspension of 16 students from Sree Sankaracharya University of Sanskrit. It instructed the university to conduct special examinations for them within six weeks.",
+  "why": "It shows that legal recourse can protect student rights, and those facing similar issues can seek court intervention. Stay aware of university policies and your rights.",
+  "tags": [
+   "Kerala",
+   "StudentRights",
+   "Exams",
+   "University"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം ഹൈക്കോടതി 16 സസ്‌പെന്‍ഡഡ് സംസ്‌കൃത വിദ്യാർത്ഥികൾക്ക് പ്രത്യേക പരീക്ഷകൾ നിർദേശിച്ചു",
+  "hook": "ക്യാമ്പസ് അവകാശങ്ങൾക്കായി കോടതിയുടെ ഇടപെടൽ, വിദ്യാർത്ഥികൾക്ക് പ്രതീക്ഷ",
+  "what": "കേരളം ഹൈക്കോടതി സ്രീ ശങ്കരാചാര്യ സർവകലാശാലയിലെ 16 വിദ്യാർത്ഥികളുടെ സസ്‌പെന്‍ഷന്‍ റദ്ദാക്കി. അവർക്കായി ആറാഴ്ചയ്ക്കുള്ളിൽ പ്രത്യേക പരീക്ഷകൾ നടത്താൻ സർവകലാശാലക്ക് നിർദ്ദേശം നൽകി.",
+  "why": "ഇത് വിദ്യാർത്ഥികളുടെ നിയമപരമായ സംരക്ഷണം ഉറപ്പാക്കുന്നു, സമാന പ്രശ്നങ്ങളുള്ളവർ കോടതി വഴി സഹായം തേടാം. നിങ്ങളുടെ സർവകലാശാലയുടെ നയങ്ങളും അവകാശങ്ങളും അറിയുക.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാർത്ഥി അവകാശം",
+   "പരീക്ഷ",
+   "സർവകലാശാല"
+  ]
+ }
+}

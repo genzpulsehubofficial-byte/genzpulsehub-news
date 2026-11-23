@@ -1,0 +1,37 @@
+{
+ "id": "de8d1e800fd2",
+ "created": "2026-11-23T15:23:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-price-forecast-goldman-sachs-sees-4-650-by-2027-despite-us-rate-pressures-what-investors-should-do-11795423263881.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold to hit $4,650/oz by 2027, says Goldman Sachs",
+  "hook": "Rising gold could reshape teen savings plans.",
+  "what": "Goldman Sachs projects the price of gold to climb to $4,650 per ounce by 2027. The bank expects gold to outperform silver, driven by continued buying from central banks. Higher US interest rates are also influencing investment demand.",
+  "why": "For young Indians, a higher gold price may make it a more attractive long‑term store of value. Consider diversifying savings or keeping an eye on gold‑linked investment options.",
+  "tags": [
+   "gold",
+   "investment",
+   "finance",
+   "GenZ",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ് 2027-ഓടെ $4,650/ഓൺസ് എത്തും, ഗോൾഡ്മാൻ സാച്സ് പറയുന്നു",
+  "hook": "വളരുന്ന ഗോൾഡ് യുവാക്കളുടെ സംരക്ഷണ പദ്ധതികളെ മാറ്റാം",
+  "what": "ഗോൾഡ്‌മാൻ സാച്സ് 2027 വരെ ഗോൾഡിന്റെ വില $4,650 പ്രതി ഔൺസ് വരെ ഉയരും എന്ന് പ്രവചിച്ചു. കേന്ദ്ര ബാങ്കുകളുടെ തുടർച്ചയായ വാങ്ങലുകൾ കാരണം ഗോൾഡ് സിൽവറിനെക്കാൾ മികച്ച പ്രകടനം കാണുമെന്ന് അവർ കരുതുന്നു. യുഎസ് പലിശ നിരക്കുകളുടെ ഉയർച്ചയും നിക്ഷേപ ആവശ്യമാറ്റങ്ങളും ഇതിൽ പങ്ക് വഹിക്കുന്നു.",
+  "why": "ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഉയർന്ന ഗോൾഡ് വില ദീർഘകാല മൂല്യസംരക്ഷണത്തിന് ആകർഷകമാകാം. ഗോൾഡുമായി ബന്ധപ്പെട്ട നിക്ഷേപ ഓപ്ഷനുകൾ പരിശോധിക്കാൻ പരിഗണിക്കുക.",
+  "tags": [
+   "gold",
+   "investment",
+   "finance",
+   "GenZ",
+   "India"
+  ]
+ }
+}

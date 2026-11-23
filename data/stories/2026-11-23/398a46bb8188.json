@@ -1,0 +1,37 @@
+{
+ "id": "398a46bb8188",
+ "created": "2026-11-23T15:23:46+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/new-nfo-alert-bandhan-nifty-commodities-index-fund-see-full-offer-period-minimum-investment-amount-other-details-11795409449700.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bandhan launches Nifty Commodities Index Fund",
+  "hook": "Tap into oil, metals, power and more with a fresh mutual fund.",
+  "what": "Bandhan Mutual Fund has introduced an open‑ended Nifty Commodities Index Fund. The scheme gives investors exposure to sectors such as oil & gas, metals & mining, power, construction materials and chemicals. Full details on the offer period and minimum entry are now available.",
+  "why": "Diversifying early can boost long‑term wealth, and this fund opens a route into commodity‑linked assets for young savers. Check the terms and consider adding it to your portfolio.",
+  "tags": [
+   "investing",
+   "mutualfunds",
+   "commodities",
+   "finance",
+   "younginvestors"
+  ]
+ },
+ "ml": {
+  "headline": "Bandhan പുറത്തിറക്കിയ Nifty Commodities Index Fund",
+  "hook": "എണ്ണ, ലോഹം, പവർ തുടങ്ങിയവയിൽ നിക്ഷേപിക്കാൻ പുതിയ മ്യൂച്വൽ ഫണ്ട്.",
+  "what": "Bandhan Mutual Fund ഒരു ഓപ്പൺ‑എൻഡഡ് Nifty Commodities Index Fund ആരംഭിച്ചു. ഈ സ്കീം എണ്ണ‑വാതകം, ലോഹ‑ഖനനം, പവർ, നിർമാണ സാമഗ്രി, കെമിക്കൽസ് തുടങ്ങിയ മേഖലകളിൽ നിക്ഷേപ അവസരം നൽകുന്നു. ഓഫർ കാലയളവ്, കുറഞ്ഞ നിക്ഷേപം എന്നിവയുടെ വിശദാംശങ്ങൾ ലഭ്യമാണ്.",
+  "why": "ഇളയവയസ്സിൽ തന്നെ പോർട്ട്ഫോളിയോ വൈവിധ്യമാക്കുന്നത് ദീർഘകാല സമ്പാദ്യത്തിന് സഹായകമാണ്, ഈ ഫണ്ട് കൊമോഡിറ്റി‑ബന്ധിത ആസ്തികളിലേക്ക് പ്രവേശനം നൽകുന്നു. നിബന്ധനകൾ പരിശോധിച്ച് നിങ്ങളുടെ നിക്ഷേപത്തിൽ ഉൾപ്പെടുത്താൻ പരിഗണിക്കുക.",
+  "tags": [
+   "investing",
+   "mutualfunds",
+   "commodities",
+   "finance",
+   "younginvestors"
+  ]
+ }
+}
