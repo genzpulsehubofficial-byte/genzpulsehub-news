@@ -1,0 +1,35 @@
+{
+ "id": "ae050d6bb8e4",
+ "created": "2026-11-23T20:02:10+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/karnataka/mudigere-mla-resigns-over-elephant-operation/article71734618.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Mudigere MLA quits over elephant operation",
+  "hook": "A local lawmaker steps down after an elephant incident.",
+  "what": "The elected representative from Mudigere has handed in his resignation. He said an elephant operation prompted his decision.",
+  "why": "It shows how wildlife issues can reach the political arena, reminding young people to stay aware of environmental concerns.",
+  "tags": [
+   "Mudigere",
+   "MLA",
+   "Elephant",
+   "Resignation"
+  ]
+ },
+ "ml": {
+  "headline": "Mudigere MLA എലിഫന്റ് പ്രവർത്തനത്തെ തുടർന്ന് രാജിനാമം സമർപ്പിച്ചു",
+  "hook": "ഒരു പ്രദേശിക രാഷ്ട്രീയക്കാരൻ എലിഫന്റ് സംഭവത്തിന് ശേഷം രാജിനാമം നൽകി.",
+  "what": "Mudigereയുടെ തിരഞ്ഞെടുക്കപ്പെട്ട പ്രതിനിധി രാജിനാമം സമർപ്പിച്ചു. അദ്ദേഹം എലിഫന്റ് പ്രവർത്തനത്തെ കാരണം എടുത്തു.",
+  "why": "ഇത് വന്യജീവി പ്രശ്നങ്ങൾ രാഷ്ട്രീയത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് കാണിക്കുന്നു, യുവാക്കൾക്ക് പരിസ്ഥിതി കാര്യങ്ങളിൽ ജാഗ്രതയോടെ ഇരിക്കുക.",
+  "tags": [
+   "Mudigere",
+   "MLA",
+   "Elephant",
+   "Resignation"
+  ]
+ }
+}

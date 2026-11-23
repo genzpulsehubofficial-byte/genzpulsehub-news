@@ -1,0 +1,37 @@
+{
+ "id": "6110a208cfbb",
+ "created": "2026-11-23T20:02:18+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/crif-high-mark-is-now-crif-credit-information-services-what-borrowers-should-know-11795440659739.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CRIF High Mark rebrands as CRIF Credit Information Services",
+  "hook": "Your credit data now flows through a newly named service.",
+  "what": "CRIF High Mark has changed its name to CRIF Credit Information Services. The firm supplies credit information and analytics to banks, NBFCs, housing finance firms and micro‑finance lenders. It continues to serve a wide range of lenders.",
+  "why": "Borrowers should note that the same entity will still handle their credit reports, affecting loan approvals across many lenders. Keep an eye on your credit score when applying for credit.",
+  "tags": [
+   "credit",
+   "loans",
+   "finance",
+   "borrowers",
+   "CRIF"
+  ]
+ },
+ "ml": {
+  "headline": "CRIF High Mark-ന് പേര് മാറി CRIF Credit Information Services",
+  "hook": "നിങ്ങളുടെ ക്രെഡിറ്റ് ഡാറ്റ ഇപ്പോൾ പുതിയ പേരിൽ സേവനം നൽകുന്നു.",
+  "what": "CRIF High Mark-ന്റെ പേര് CRIF Credit Information Services ആയി മാറ്റി. ബാങ്കുകൾ, NBFCs, ഹൗസിംഗ് ഫിനാൻസ്, മൈക്രോഫിനാൻസ് സ്ഥാപനങ്ങൾ എന്നിവയ്ക്ക് ക്രെഡിറ്റ് വിവരങ്ങളും അനലിറ്റിക്സും നൽകുന്നു. ഇത് വിവിധ വായ്പദാതാക്കൾക്ക് സേവനം തുടരുന്നു.",
+  "why": "വായ്പക്കാർക്ക് അവരുടെ ക്രെഡിറ്റ് റിപ്പോർട്ട് ഇതേ സ്ഥാപനത്തിൽ നിന്നാണ് ലഭിക്കുന്നത്, അതിനാൽ വായ്പാ അംഗീകാരത്തിൽ ഇത് ബാധകമാകും. ക്രെഡിറ്റ് സ്കോർ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ക്രെഡിറ്റ്",
+   "വായ്പ",
+   "ഫിനാൻസ്",
+   "borrowers",
+   "CRIF"
+  ]
+ }
+}

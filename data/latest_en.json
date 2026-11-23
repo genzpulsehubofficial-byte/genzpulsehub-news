@@ -1,5 +1,99 @@
 [
  {
+  "id": "90f831b4fd3e",
+  "created": "2026-11-23T20:02:04+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+  "headline": "Nvidia reinstates Jensen Huang as CEO",
+  "hook": "Big chip maker flips its leadership decision overnight.",
+  "what": "Nvidia announced that Jensen Huang will return to the chief executive role after a recent reversal. The move received backing from high‑level U.S. officials. The change overturns the company's earlier plan.",
+  "why": "Tech students and gamers should note the stability of a major AI hardware leader, which could affect future job and product opportunities. Keep an eye on Nvidia’s upcoming announcements.",
+  "tags": [
+   "Nvidia",
+   "Leadership",
+   "TechNews",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "ae050d6bb8e4",
+  "created": "2026-11-23T20:02:10+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/karnataka/mudigere-mla-resigns-over-elephant-operation/article71734618.ece",
+  "headline": "Mudigere MLA quits over elephant operation",
+  "hook": "A local lawmaker steps down after an elephant incident.",
+  "what": "The elected representative from Mudigere has handed in his resignation. He said an elephant operation prompted his decision.",
+  "why": "It shows how wildlife issues can reach the political arena, reminding young people to stay aware of environmental concerns.",
+  "tags": [
+   "Mudigere",
+   "MLA",
+   "Elephant",
+   "Resignation"
+  ]
+ },
+ {
+  "id": "1762dd8f0899",
+  "created": "2026-11-23T20:02:13+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/rbi-proposes-new-rules-to-protect-bank-accounts-from-fraud-heres-how-stop-switch-and-trusted-person-approval-work-11795441662320.html",
+  "headline": "RBI drafts rules to block fraud with Stop Switch",
+  "hook": "Your bank could soon let you freeze any payment instantly.",
+  "what": "The Reserve Bank of India has suggested a ‘Stop Switch’ that lets users halt outgoing digital transfers. It also proposes personal limits on transactions and a trusted‑person check for large moves. The draft aims to make banks more responsible for payment scams.",
+  "why": "If adopted, it gives youngsters more control over their money and could reduce fraud losses. Keep an eye on your bank’s updates and set limits when possible.",
+  "tags": [
+   "RBI",
+   "banking",
+   "fraud",
+   "digitalpayments",
+   "youthfinance"
+  ]
+ },
+ {
+  "id": "23de3667e273",
+  "created": "2026-11-23T20:02:15+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+  "headline": "Uber rolls out recorded rides in US pilot",
+  "hook": "Your next Uber could be filmed from start to finish.",
+  "what": "Uber is testing a feature called Record My Ride in the United States. When chosen, the driver’s phone front camera captures the entire trip. These trips appear under a new “Recorded Rides” label in the app.",
+  "why": "For young riders it adds a safety layer and provides evidence if anything goes wrong. Watch for similar options when they become available locally.",
+  "tags": [
+   "Uber",
+   "RideSafety",
+   "Tech",
+   "Privacy",
+   "USPilot"
+  ]
+ },
+ {
+  "id": "6110a208cfbb",
+  "created": "2026-11-23T20:02:18+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/crif-high-mark-is-now-crif-credit-information-services-what-borrowers-should-know-11795440659739.html",
+  "headline": "CRIF High Mark rebrands as CRIF Credit Information Services",
+  "hook": "Your credit data now flows through a newly named service.",
+  "what": "CRIF High Mark has changed its name to CRIF Credit Information Services. The firm supplies credit information and analytics to banks, NBFCs, housing finance firms and micro‑finance lenders. It continues to serve a wide range of lenders.",
+  "why": "Borrowers should note that the same entity will still handle their credit reports, affecting loan approvals across many lenders. Keep an eye on your credit score when applying for credit.",
+  "tags": [
+   "credit",
+   "loans",
+   "finance",
+   "borrowers",
+   "CRIF"
+  ]
+ },
+ {
   "id": "b90388a9f149",
   "created": "2026-11-23T18:32:24+05:30",
   "category": "headlines",
@@ -655,101 +749,6 @@
    "EnergyTalks",
    "YouthImpact",
    "BilateralVisit"
-  ]
- },
- {
-  "id": "4632fa1c9823",
-  "created": "2026-11-23T11:11:59+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Bloomberg.com",
-  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
-  "headline": "Apple's Old AI Playbook Risks Falling Behind Competitors",
-  "hook": "Apple’s AI strategy may be losing the race.",
-  "what": "Analysts say Apple is still using an outdated approach to AI agents while rivals move ahead. The company recently cut Siri jobs tied to older infrastructure, though newer AI projects were spared.",
-  "why": "For Gen Z, this could mean slower rollout of AI features on iPhones and apps they use. Keep an eye on updates and consider alternatives if AI tools lag.",
-  "tags": [
-   "Apple",
-   "AI",
-   "Siri",
-   "tech",
-   "innovation"
-  ]
- },
- {
-  "id": "51195da5cdb6",
-  "created": "2026-11-23T11:12:01+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/vizhinjam-to-get-indias-first-outer-service-port-modelled-on-uaes-fujairah-yshkoumt",
-  "headline": "Vizhinjam to host India's first outer service port",
-  "hook": "A new outer port at Vizhinjam will serve ships on a key route.",
-  "what": "The proposed outer service port at Vizhinjam is modelled on Fujairah in the UAE. It will sit close to an international shipping lane and offer a range of services to passing vessels.",
-  "why": "The facility could create trade opportunities and jobs for Kerala's youth. Stay tuned for updates on its development.",
-  "tags": [
-   "Vizhinjam",
-   "Port",
-   "Shipping",
-   "Kerala",
-   "Infrastructure"
-  ]
- },
- {
-  "id": "ce67698a9673",
-  "created": "2026-11-23T11:12:04+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMXM4Y2JIaVA1eFg2cTNjS1IwZnZyeVFQWHZ2VjRkWDE1NTZtVkxqSzVDVFJoUldLa3lCc1oxbGlob25pY0pUVERsMWZGWE9Ta0hZUV8wZlJ2a0JpSV9iLW9BT1hoN1ZqMUJZMDd1ZWNuVWh4NGxXODJVNHJ4cWV0VnQ2Q3g2dkh5VDhMOEVHYURaaTFqdlFHYzRwTkU2czRSaUl1Zlc4aDFEMkZuLUtJM0c5QWlFS0JfdUU3VFBaUXI2R1B3aVhCNXhNT0kwVTRYOUYwbjE5Vi1YSF93OUc0T9IB5wFBVV95cUxPNnYyX1Y4cnp3TEdTdGNBX2t6WlBzaVZiY1dfMWZpX0l0ZktQcW9zRXV3cHpnQWVGb2p3Zm8yOUJ0eEtGeGJ2Nk02RnRIYVR2MG9aTDFxN1I3dHRWaFdILUdiNzIwZkF5dFAtWUNuR0hUUXJINTlvYnRlMkxTeHFRendDdU9Md3M0OExfRl9Ec1NNcmppOWUxVFk2U0tJNUlzckpVUm1VejBld0JhMHlHWVF2X1AwNWppaE1zc2ozUFlwcVFRTUpBZm8xX1dRSGJzdURlN0w3WVhjN2R2MXFKUkV3UUduUmc?oc=5",
-  "headline": "Nvidia exec’s alleged affair linked to Chinese spy contacts, says NYT",
-  "hook": "A reported romance tied to alleged spy communications.",
-  "what": "The New York Times reported that Alice Huang was in contact with a Chinese intelligence agency while she was involved in a relationship with Nvidia’s chief executive. The report mentions her connection to a broader network discussed in other media outlets.",
-  "why": "It shows how personal ties can intersect with tech security and international espionage, reminding young people to stay aware of data privacy and the geopolitical stakes of technology.",
-  "tags": [
-   "Nvidia",
-   "spy",
-   "tech",
-   "security",
-   "AI"
-  ]
- },
- {
-  "id": "283b4d1bb649",
-  "created": "2026-11-23T11:12:06+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-silver-prices-shimla-jewellers-opportunity-wedding-season-sharp-decline-in-check-retail-rates-himachal-city-mumbai-11795400397897.html",
-  "headline": "Gold price dip sparks jewellery bookings in Shimla wedding season",
-  "hook": "Lower gold rates are pulling couples to book rings early",
-  "what": "Gold and silver prices fell sharply, prompting more customers in Shimla to book jewellery for upcoming weddings. Jewelers report a surge in bookings as buyers take advantage of the lower rates.",
-  "why": "For teens planning weddings or buying gifts, the price drop means cheaper options. Keep an eye on market trends before finalising purchases.",
-  "tags": [
-   "gold",
-   "wedding",
-   "Shimla",
-   "prices",
-   "jewellery"
-  ]
- },
- {
-  "id": "0a050e0ddd7c",
-  "created": "2026-11-23T09:49:57+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/nepal-pm-india-visit-live-updates-balendra-balen-shah-pm-modi-meeting-ayodhya-janakpur-train-railway-bilateral-talks-101795403583195.html",
-  "headline": "Nepal PM meets Modi, flags off Ayodhya‑Janakpur train",
-  "hook": "Prime Minister Balen Shah heads to Delhi for talks and a new rail link.",
-  "what": "Balen Shah will meet Indian Prime Minister Narendra Modi for bilateral discussions. The leaders will also virtually launch the Saryu‑Kamala Express, a rail service linking Ayodhya in Uttar Pradesh with Janakpur in Nepal.",
-  "why": "The new train could make travel easier for students and tourists across the border. Young Indians can look forward to smoother cross‑country trips and cultural exchange.",
-  "tags": [
-   "India",
-   "Nepal",
-   "train",
-   "travel",
-   "youth"
   ]
  }
 ]

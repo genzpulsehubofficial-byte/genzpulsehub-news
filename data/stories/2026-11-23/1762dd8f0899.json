@@ -1,0 +1,37 @@
+{
+ "id": "1762dd8f0899",
+ "created": "2026-11-23T20:02:13+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/rbi-proposes-new-rules-to-protect-bank-accounts-from-fraud-heres-how-stop-switch-and-trusted-person-approval-work-11795441662320.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI drafts rules to block fraud with Stop Switch",
+  "hook": "Your bank could soon let you freeze any payment instantly.",
+  "what": "The Reserve Bank of India has suggested a ‘Stop Switch’ that lets users halt outgoing digital transfers. It also proposes personal limits on transactions and a trusted‑person check for large moves. The draft aims to make banks more responsible for payment scams.",
+  "why": "If adopted, it gives youngsters more control over their money and could reduce fraud losses. Keep an eye on your bank’s updates and set limits when possible.",
+  "tags": [
+   "RBI",
+   "banking",
+   "fraud",
+   "digitalpayments",
+   "youthfinance"
+  ]
+ },
+ "ml": {
+  "headline": "RBI മോഷണത്തിനെതിരെ സ്റ്റോപ്പ് സ്വിച്ച് നിയമം",
+  "hook": "നിങ്ങളുടെ ബാങ്ക് ഉടൻ പേയ്മെന്റുകൾ തടയാൻ സഹായിക്കും.",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ‘സ്റ്റോപ്പ് സ്വിച്ച്’ എന്ന സംവിധാനം നിർദ്ദേശിച്ചു, ഇത് ഡിജിറ്റൽ പേയ്മെന്റുകൾ നിർത്താൻ ഉപയോക്താവിന് കഴിയും. കൂടാതെ, വ്യക്തിഗത ട്രാൻസാക്ഷൻ പരിധികളും, വലിയ ട്രാൻസ്ഫറുകൾക്ക് വിശ്വസ്ത വ്യക്തിയുടെ അംഗീകാരവും ഉൾപ്പെടുന്നു. ഈ കരട് ബാങ്കുകൾക്ക് ഡിജിറ്റൽ പേയ്മെന്റ് തട്ടിപ്പിൽ കൂടുതൽ ഉത്തരവാദിത്വം നൽകാൻ ഉദ്ദേശിക്കുന്നു.",
+  "why": "ഇത് യുവാക്കൾക്ക് അവരുടെ പണം കൂടുതൽ സുരക്ഷിതമാക്കാൻ സഹായിക്കും, തട്ടിപ്പ് അപകടം കുറയ്ക്കും. നിങ്ങളുടെ ബാങ്കിന്റെ പുതിയ നയങ്ങൾ ശ്രദ്ധിക്കുക, പരിധികൾ സജ്ജമാക്കുക.",
+  "tags": [
+   "RBI",
+   "ബാങ്കിംഗ്",
+   "തട്ടിപ്പ്",
+   "ഡിജിറ്റൽപേയ്‌മെന്റ്",
+   "യുവാഫിനാൻസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "23de3667e273",
+ "created": "2026-11-23T20:02:15+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Uber rolls out recorded rides in US pilot",
+  "hook": "Your next Uber could be filmed from start to finish.",
+  "what": "Uber is testing a feature called Record My Ride in the United States. When chosen, the driver’s phone front camera captures the entire trip. These trips appear under a new “Recorded Rides” label in the app.",
+  "why": "For young riders it adds a safety layer and provides evidence if anything goes wrong. Watch for similar options when they become available locally.",
+  "tags": [
+   "Uber",
+   "RideSafety",
+   "Tech",
+   "Privacy",
+   "USPilot"
+  ]
+ },
+ "ml": {
+  "headline": "Uber-ന്‍ യു.എസ്.‑ൽ റെക്കോഡഡ് റൈഡുകള്‍ പരീക്ഷണം",
+  "hook": "നിങ്ങളുടെ അടുത്ത Uber യാത്ര മുഴുവന്‍ ക്യാമറയില്‍ പിടിക്കും.",
+  "what": "Uber, Record My Ride എന്ന ഫീച്ചര്‍ യു.എസ്.‑ൽ പരീക്ഷിക്കുന്നു. ഡ്രൈവര്‍ ഫോണ്‍‑യുടെ ഫ്രണ്ട് ക്യാമറ മുഴുവന്‍ യാത്ര റെക്കോഡ് ചെയ്യുന്നു. ആപ്പില്‍ ഇത് “Recorded Rides” എന്ന ലേബലില്‍ കാണാം.",
+  "why": "യുവാക്കള്‍ക്ക് സുരക്ഷാ ഉറപ്പും പ്രശ്നം സംഭവിച്ചാല്‍ തെളിവും നല്‍കും. ഇന്ത്യയില്‍ ഇതുപോലുള്ള സൗകര്യം വരുമ്പോള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Uber",
+   "RideSafety",
+   "Tech",
+   "Privacy",
+   "USPilot"
+  ]
+ }
+}
