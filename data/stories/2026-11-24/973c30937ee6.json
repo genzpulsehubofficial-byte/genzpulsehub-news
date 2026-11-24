@@ -1,0 +1,37 @@
+{
+ "id": "973c30937ee6",
+ "created": "2026-11-24T06:02:50+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "CNBC TV18",
+ "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTJMdUhCdHZLQlA3c0ZNZDkwLW9sTTBtdENXMjB1Qjk5Zk5pUHJMOWN1cUYxNUNjV3l1WGxOVXV2ekVKQ2pWZm9aM3NRNXFVY1hWOVBvQVlETWVkTHhZLUZEUXd4V3V3SlFyVWZVdTFxTnVfWWE0R3RsVXNhbmdhYWJJRVFTaURGRzJ1c2FjYTdlVGxmYmNEdHNNWFZrQjZiWUJPTWJ6R3FHNXoxVGFVVXdmN2Z0TDRHQ240TTR1Wm5Id9IBxwFBVV95cUxOZWJZMWdHZGVBTnFLUjJPa0xNSFZfWnJ4aG1ldjlITlNIYnpLX0lVbVRENlVTcWhvUlN1Tjg2VkJUdFBnLXRuY0RwU2cwR3FTb0t3MXRCQWQ1OF9mckc2WUFrM0xvdERKaW5iYWhiQTIyMjgxT2VOUGl5YW9sSEZtbFpTdG1FUU12ZmlqVHVfSkpUemZXSER5M1IyVzhYT1poQ0pnam5uWUZrdUZXUkVTMTlnaFNpSnFJbERaVVpfc28yOU5BdzFj?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Heavy rain warning for Kerala, Tamil Nadu; fog expected in UP, Assam",
+  "hook": "Stay safe—carry an umbrella and drive carefully",
+  "what": "The India Meteorological Department has issued a heavy rain alert for Kerala and Tamil Nadu. It also warned that dense fog could develop in parts of Uttar Pradesh and Assam. Residents should monitor updates.",
+  "why": "Monsoon showers can cause flooding, while fog reduces visibility on roads, affecting travel plans for students and commuters. Keep an eye on local alerts and plan accordingly.",
+  "tags": [
+   "weather",
+   "rain",
+   "fog",
+   "India",
+   "alert"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം, തമിഴ്നാട് കട്ടിയുള്ള മഴ അലർട്ട്; UP, അസം‑ൽ മൂടൽമഞ്ഞ്",
+  "hook": "കുട എടുത്തു, സുരക്ഷിതമായി യാത്ര ചെയ്യൂ",
+  "what": "ഇന്ത്യാ കാലാവസ്ഥ വകുപ്പ് കേരളവും തമിഴ്നാടും കട്ടിയുള്ള മഴയുടെ അലർട്ട് പുറപ്പെട്ടു. കൂടാതെ ഉത്തരപ്രദേശവും അസം പ്രദേശവും മൂടൽമഞ്ഞ് വരാൻ സാധ്യതയെന്ന് മുന്നറിയിപ്പ് നൽകി. അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "why": "വർഷം കൂടിയാൽ വെള്ളപ്പൊക്കം, മൂടൽമഞ്ഞ് റോഡുകളിൽ ദൃശ്യമാനത കുറയ്ക്കും, വിദ്യാർത്ഥികളും യാത്രക്കാരും ബാധിക്കും. പ്രാദേശിക മുന്നറിയിപ്പുകൾ പരിശോധിച്ച് പദ്ധതികൾ ക്രമീകരിക്കുക.",
+  "tags": [
+   "കാലാവസ്ഥ",
+   "മഴ",
+   "മൂടൽമഞ്ഞ്",
+   "ഇന്ത്യ",
+   "മുന്നറിയിപ്പ്"
+  ]
+ }
+}

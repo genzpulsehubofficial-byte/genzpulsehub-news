@@ -1,0 +1,37 @@
+{
+ "id": "3c966673a66d",
+ "created": "2026-11-24T06:02:53+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "CNET",
+ "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mMTZza0Rjb1NzMG1INzJzbm4yV0hJa3E4MVdVbVdVWGJwZEpVTXFYRy12NHI4b2pMOUx0eVVjUHlpVlpvajA3SDR3UGk0THhoeW9uVVN4Q25PS1JvRjZEWlJBLVFMTnROTDJtblRjdFRQRGpGRjF5U05B?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Black Friday streaming offers start at just $2 a month",
+  "hook": "Grab top shows for the price of a snack.",
+  "what": "This Black Friday, major streaming platforms are rolling out discounted subscriptions. Paramount+ is available for two months at $2.99, Apple TV Plus drops to $6.99 per month, and services like HBO Max and Roku have deals beginning at $2 a month.",
+  "why": "Lower prices let teens stream more movies and series without stretching their budget. Visit the platforms' sites soon to claim the offers before they end.",
+  "tags": [
+   "streaming",
+   "blackfriday",
+   "deals",
+   "movies",
+   "budget"
+  ]
+ },
+ "ml": {
+  "headline": "ബ്ലാക്ക് ഫ്രൈഡേ സ്ട്രീമിംഗ് ഡീലുകൾ ₹2 മുതൽ",
+  "hook": "പോപ്പുലർ ഷോകൾക്ക് സ്നാക്ക് വിലയിൽ സബ്സ്ക്രൈബ് ചെയ്യൂ.",
+  "what": "ഈ ബ്ലാക്ക് ഫ്രൈഡേയിൽ, പ്രധാന സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോംമുകൾ വിലകുറഞ്ഞ സബ്സ്ക്രിപ്ഷൻ ഓഫറുകൾ നൽകുന്നു. പരമൗണ്ട്+ രണ്ട് മാസത്തിന് ₹2.99, ആപ്പിൾ TV പ്ലസ് മാസം ₹6.99, HBO Max, Roku എന്നിവയും ₹2 മുതൽ ആരംഭിക്കുന്ന ഡീലുകൾ ഉണ്ട്.",
+  "why": "കുറഞ്ഞ ചെലവിൽ കൂടുതൽ സിനിമകളും സീരീസുകളും കാണാൻ കഴിയും. ഓഫറുകൾ കാലാവധി അവസാനിക്കുന്നതിനു മുൻപ് പ്ലാറ്റ്ഫോം വെബ്സൈറ്റിൽ രജിസ്റ്റർ ചെയ്യൂ.",
+  "tags": [
+   "streaming",
+   "blackfriday",
+   "deals",
+   "movies",
+   "budget"
+  ]
+ }
+}

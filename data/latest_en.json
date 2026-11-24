@@ -1,5 +1,100 @@
 [
  {
+  "id": "d620bae6b91e",
+  "created": "2026-11-24T06:02:46+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/s-jaishankar-holds-phone-conversation-with-russian-counterpart-lavrov-12368390#publisher=newsstand",
+  "headline": "India's foreign minister talks with Russia's Lavrov as US pushes for peace",
+  "hook": "A key call between New Delhi and Moscow hits the news feed.",
+  "what": "Foreign Minister S. Jaishankar spoke with Russian Foreign Minister Sergey Lavrov on the phone. The conversation took place while the United States is renewing its push to end the conflict.",
+  "why": "The dialogue reflects India's role in global diplomatic moves, which could affect international stability and India's foreign policy stance. Stay updated on such developments to understand how global events may impact India.",
+  "tags": [
+   "IndiaRussia",
+   "Diplomacy",
+   "USpeace",
+   "Jaishankar",
+   "Lavrov"
+  ]
+ },
+ {
+  "id": "973c30937ee6",
+  "created": "2026-11-24T06:02:50+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "CNBC TV18",
+  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTJMdUhCdHZLQlA3c0ZNZDkwLW9sTTBtdENXMjB1Qjk5Zk5pUHJMOWN1cUYxNUNjV3l1WGxOVXV2ekVKQ2pWZm9aM3NRNXFVY1hWOVBvQVlETWVkTHhZLUZEUXd4V3V3SlFyVWZVdTFxTnVfWWE0R3RsVXNhbmdhYWJJRVFTaURGRzJ1c2FjYTdlVGxmYmNEdHNNWFZrQjZiWUJPTWJ6R3FHNXoxVGFVVXdmN2Z0TDRHQ240TTR1Wm5Id9IBxwFBVV95cUxOZWJZMWdHZGVBTnFLUjJPa0xNSFZfWnJ4aG1ldjlITlNIYnpLX0lVbVRENlVTcWhvUlN1Tjg2VkJUdFBnLXRuY0RwU2cwR3FTb0t3MXRCQWQ1OF9mckc2WUFrM0xvdERKaW5iYWhiQTIyMjgxT2VOUGl5YW9sSEZtbFpTdG1FUU12ZmlqVHVfSkpUemZXSER5M1IyVzhYT1poQ0pnam5uWUZrdUZXUkVTMTlnaFNpSnFJbERaVVpfc28yOU5BdzFj?oc=5",
+  "headline": "Heavy rain warning for Kerala, Tamil Nadu; fog expected in UP, Assam",
+  "hook": "Stay safe—carry an umbrella and drive carefully",
+  "what": "The India Meteorological Department has issued a heavy rain alert for Kerala and Tamil Nadu. It also warned that dense fog could develop in parts of Uttar Pradesh and Assam. Residents should monitor updates.",
+  "why": "Monsoon showers can cause flooding, while fog reduces visibility on roads, affecting travel plans for students and commuters. Keep an eye on local alerts and plan accordingly.",
+  "tags": [
+   "weather",
+   "rain",
+   "fog",
+   "India",
+   "alert"
+  ]
+ },
+ {
+  "id": "3c966673a66d",
+  "created": "2026-11-24T06:02:53+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "CNET",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mMTZza0Rjb1NzMG1INzJzbm4yV0hJa3E4MVdVbVdVWGJwZEpVTXFYRy12NHI4b2pMOUx0eVVjUHlpVlpvajA3SDR3UGk0THhoeW9uVVN4Q25PS1JvRjZEWlJBLVFMTnROTDJtblRjdFRQRGpGRjF5U05B?oc=5",
+  "headline": "Black Friday streaming offers start at just $2 a month",
+  "hook": "Grab top shows for the price of a snack.",
+  "what": "This Black Friday, major streaming platforms are rolling out discounted subscriptions. Paramount+ is available for two months at $2.99, Apple TV Plus drops to $6.99 per month, and services like HBO Max and Roku have deals beginning at $2 a month.",
+  "why": "Lower prices let teens stream more movies and series without stretching their budget. Visit the platforms' sites soon to claim the offers before they end.",
+  "tags": [
+   "streaming",
+   "blackfriday",
+   "deals",
+   "movies",
+   "budget"
+  ]
+ },
+ {
+  "id": "0d63fb1e6c01",
+  "created": "2026-11-24T06:02:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "headline": "Supertake secures $20M to automate stock picks via AI",
+  "hook": "Your market hunch could now power a ready‑made portfolio.",
+  "what": "Startup Supertake announced a $20 million funding round. The platform uses AI agents to turn users’ market forecasts into diversified stock portfolios, removing the need for manual stock selection.",
+  "why": "For Gen Z investors, the service could simplify entry into the stock market and let them act on predictions without deep research. Interested users can sign up to try the AI‑driven portfolio builder.",
+  "tags": [
+   "AI",
+   "FinTech",
+   "Investing",
+   "Startups",
+   "Stocks"
+  ]
+ },
+ {
+  "id": "7cca7ac383d4",
+  "created": "2026-11-24T06:02:57+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Forex Factory",
+  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZUNmd6MkR1azZXTVRCSFBmQWpYOWNYVjV0UTJMQ2M3NEV4YjU1SjNONUVfMzNmWV9NenBOMHd3SjNqemNqRkJrNTlKNy1sWUk1c2NtYnlJMXZNM1pXYWQ2SXYtMkFEZ3VVeXNBZkQ4QkxTcVloVmdNNnEwQTBtSE80RHRDNDjSAYwBQVVfeXFMTlJQNThiOHpNSEJhZm1TS1BEajR5cHBiamxDa1ZZcWwxeWRYTEl5T3RvZkhOTHZUY0xEb1RiNTdacEF1NkpORVNOR202ajZ3dlhZcVRSZDRHUzlRbWZsV2cwWm1oWi1UV3FMUVhsclZSLXZwWXJQMXl1VEFEVHhVaHZROXdIZDBEb2F4Zks?oc=5",
+  "headline": "Nvidia shares jump as Jensen Huang resumes CEO role",
+  "hook": "Investors are buzzing over the AI leader’s comeback.",
+  "what": "Nvidia’s stock climbed sharply after Jensen Huang announced his return as chief executive. The surge helped lift the Nasdaq index by about 7% on Monday, marking its strongest day since 2020. Asian markets also saw gains following the news.",
+  "why": "The rally shows renewed confidence in AI‑driven growth, which could influence tech‑related job prospects and investment choices for young Indians. Keep an eye on market trends if you’re considering tech stocks or related careers.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "Nasdaq",
+   "JensenHuang"
+  ]
+ },
+ {
   "id": "e44b6b3d5153",
   "created": "2026-11-24T05:03:58+05:30",
   "category": "tech",
@@ -656,99 +751,6 @@
    "maternity",
    "youngworkers",
    "India"
-  ]
- },
- {
-  "id": "6a7990e1ad10",
-  "created": "2026-11-23T23:10:27+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-  "headline": "Amazon buys Decart AI tech for $7.5B, eyes Trainium chip sales",
-  "hook": "Big AI boost as Amazon adds Decart’s tech and gears up to market its Trainium chips.",
-  "what": "Amazon announced it will acquire Decart’s AI optimization technology and its research team in a deal reported to be worth $7.5 billion. The move comes as the e‑commerce giant readies its own Trainium AI chips for sale.",
-  "why": "The acquisition could speed up AI services and tools that power apps and platforms used by Gen Z. Keep an eye on new AI features in Amazon services and potential job opportunities in AI development.",
-  "tags": [
-   "Amazon",
-   "AI",
-   "TechAcquisition",
-   "Trainium",
-   "Startups"
-  ]
- },
- {
-  "id": "982123aceb9b",
-  "created": "2026-11-23T23:10:29+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-  "headline": "Meta drops 2030 net‑zero pledge",
-  "hook": "The social‑media giant reverses its climate target.",
-  "what": "In its 2026 sustainability report, Meta said it will no longer aim for net‑zero emissions by 2030. The company removed the earlier commitment from its plans.",
-  "why": "The shift could affect how other tech firms set environmental goals, and young users may want to review the sustainability claims of the platforms they use.",
-  "tags": [
-   "Meta",
-   "sustainability",
-   "tech",
-   "climate",
-   "India"
-  ]
- },
- {
-  "id": "e4d7bd0a9654",
-  "created": "2026-11-23T22:11:06+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
-  "headline": "RBI plans ‘Stop Switch’ to curb payment frauds",
-  "hook": "Your app could be frozen instantly if fraud is detected.",
-  "what": "The Reserve Bank of India has drafted new safety measures for electronic transactions. One proposal is an account‑wide ‘Stop Switch’ that can block all activity on a compromised account. The aim is to stop fraudsters from moving money.",
-  "why": "Young users who rely on mobile wallets can benefit from quicker protection. Keep your contact details updated to receive any alerts.",
-  "tags": [
-   "RBI",
-   "digitalPayments",
-   "fraudPrevention",
-   "youthSafety",
-   "tech"
-  ]
- },
- {
-  "id": "c32e65acfc49",
-  "created": "2026-11-23T22:11:13+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-  "headline": "CrowdStrike to buy Zscaler for $44 bn, boosting AI readiness",
-  "hook": "Your favorite apps could become safer with AI‑driven security",
-  "what": "CrowdStrike announced it will acquire Zscaler for $44 bn. Zscaler supplies zero‑trust solutions to large enterprises. The purchase is meant to help customers adopt AI agents more effectively.",
-  "why": "Stronger security tools can protect the online services teens use daily. Keep an eye on security updates from your apps.",
-  "tags": [
-   "cybersecurity",
-   "AI",
-   "tech",
-   "acquisition"
-  ]
- },
- {
-  "id": "e5c3e57da340",
-  "created": "2026-11-23T22:11:15+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant/article71735727.ece",
-  "headline": "Supreme Court calls out civic bodies for ignoring building rules",
-  "hook": "Your neighborhood’s illegal constructions might be backed by officials.",
-  "what": "The Supreme Court said civic authorities are actively helping violations of building bye‑laws. It asked all states and union territories to send suggestions on how to curb these breaches.",
-  "why": "Unsafe structures affect safety of residents, especially students. Authorities need to enforce rules to ensure safe living spaces.",
-  "tags": [
-   "SupremeCourt",
-   "BuildingSafety",
-   "CivicAccountability",
-   "IndiaLaw"
   ]
  }
 ]

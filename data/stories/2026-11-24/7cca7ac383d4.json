@@ -1,0 +1,37 @@
+{
+ "id": "7cca7ac383d4",
+ "created": "2026-11-24T06:02:57+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Forex Factory",
+ "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZUNmd6MkR1azZXTVRCSFBmQWpYOWNYVjV0UTJMQ2M3NEV4YjU1SjNONUVfMzNmWV9NenBOMHd3SjNqemNqRkJrNTlKNy1sWUk1c2NtYnlJMXZNM1pXYWQ2SXYtMkFEZ3VVeXNBZkQ4QkxTcVloVmdNNnEwQTBtSE80RHRDNDjSAYwBQVVfeXFMTlJQNThiOHpNSEJhZm1TS1BEajR5cHBiamxDa1ZZcWwxeWRYTEl5T3RvZkhOTHZUY0xEb1RiNTdacEF1NkpORVNOR202ajZ3dlhZcVRSZDRHUzlRbWZsV2cwWm1oWi1UV3FMUVhsclZSLXZwWXJQMXl1VEFEVHhVaHZROXdIZDBEb2F4Zks?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia shares jump as Jensen Huang resumes CEO role",
+  "hook": "Investors are buzzing over the AI leader’s comeback.",
+  "what": "Nvidia’s stock climbed sharply after Jensen Huang announced his return as chief executive. The surge helped lift the Nasdaq index by about 7% on Monday, marking its strongest day since 2020. Asian markets also saw gains following the news.",
+  "why": "The rally shows renewed confidence in AI‑driven growth, which could influence tech‑related job prospects and investment choices for young Indians. Keep an eye on market trends if you’re considering tech stocks or related careers.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "Nasdaq",
+   "JensenHuang"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia ഷെയറുകൾ ഉയർന്നു, Jensen Huang CEO ആയി തിരിച്ചു",
+  "hook": "AI നേതാവിന്റെ തിരിച്ചുവരവിൽ നിക്ഷേപകർ ആവേശം കാണിക്കുന്നു.",
+  "what": "Jensen Huang CEO സ്ഥാനത്ത് മടങ്ങിയെന്ന് പ്രഖ്യാപിച്ചതിനുശേഷം Nvidiaയുടെ ഷെയറുകൾ വേഗത്തിൽ ഉയർന്നു. ഈ ഉയർച്ച Nasdaq സൂചികയെ ഏകദേശം 7% വർദ്ധിപ്പിച്ചു, 2020‑ന് ശേഷം ഏറ്റവും ശക്തമായ തിങ്കളാഴ്ചയായി. ഏഷ്യൻ മാർക്കറ്റുകളും ഈ വാർത്തയിൽ പോസിറ്റീവ് ആയി.",
+  "why": "AI വളർച്ചയിൽ വിശ്വാസം വർദ്ധിച്ചതിനാൽ ടെക് ജോലികളും നിക്ഷേപങ്ങളും സംബന്ധിച്ച് യുവ ഇന്ത്യക്കാർക്ക് ഇത് പ്രാധാന്യമുള്ളതാണ്. ടെക് സ്റ്റോക്കുകൾ അല്ലെങ്കിൽ ബന്ധപ്പെട്ട കരിയറുകൾ പരിഗണിക്കുന്നവർ മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "Nasdaq",
+   "JensenHuang"
+  ]
+ }
+}

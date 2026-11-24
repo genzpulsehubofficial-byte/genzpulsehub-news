@@ -1,0 +1,37 @@
+{
+ "id": "d620bae6b91e",
+ "created": "2026-11-24T06:02:46+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/s-jaishankar-holds-phone-conversation-with-russian-counterpart-lavrov-12368390#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India's foreign minister talks with Russia's Lavrov as US pushes for peace",
+  "hook": "A key call between New Delhi and Moscow hits the news feed.",
+  "what": "Foreign Minister S. Jaishankar spoke with Russian Foreign Minister Sergey Lavrov on the phone. The conversation took place while the United States is renewing its push to end the conflict.",
+  "why": "The dialogue reflects India's role in global diplomatic moves, which could affect international stability and India's foreign policy stance. Stay updated on such developments to understand how global events may impact India.",
+  "tags": [
+   "IndiaRussia",
+   "Diplomacy",
+   "USpeace",
+   "Jaishankar",
+   "Lavrov"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ വിദേശമന്ത്രി ജൈഷങ്കർ, റഷ്യയുടെ ലാവ്രോവ്‌യുമായി യുഎസ് സമാധാന ശ്രമങ്ങളിലേയ്ക്ക് ഇടയിൽ ഫോൺ സംഭാഷണം",
+  "hook": "ന്യൂ ഡെലിയും മോസ്കോയും തമ്മിലുള്ള പ്രധാന കോളാണ് ഇത്.",
+  "what": "വൈദ്യുതി മന്ത്രിയായ എസ്. ജൈഷങ്കർ, റഷ്യയുടെ വിദേശമന്ത്രിയായ സെർഗെയ് ലാവ്രോവുമായി ഫോൺ വഴി സംസാരിച്ചു. ഈ സംഭാഷണം യുഎസ്‌യുടെ സംഘർഷം അവസാനിപ്പിക്കാൻ പുതുക്കിയ ശ്രമങ്ങളിലുണ്ടായ സമയത്ത് നടന്നു.",
+  "why": "ഇത് ഇന്ത്യയുടെ ആഗോള നയതന്ത്രത്തിൽ ഉള്ള പങ്ക് കാണിക്കുന്നു, ലോക സമാധാനത്തെ ബാധിക്കാം. ഇത്തരത്തിലുള്ള വാർത്തകൾ ശ്രദ്ധിച്ച്, അന്താരാഷ്ട്ര സംഭവവികാസങ്ങൾ നമ്മുടെ രാജ്യത്തെ എങ്ങനെ ബാധിക്കും എന്ന് മനസ്സിലാക്കാം.",
+  "tags": [
+   "IndiaRussia",
+   "Diplomacy",
+   "USpeace",
+   "Jaishankar",
+   "Lavrov"
+  ]
+ }
+}

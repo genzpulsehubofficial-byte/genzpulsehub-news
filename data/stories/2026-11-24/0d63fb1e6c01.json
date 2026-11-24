@@ -1,0 +1,37 @@
+{
+ "id": "0d63fb1e6c01",
+ "created": "2026-11-24T06:02:55+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Supertake secures $20M to automate stock picks via AI",
+  "hook": "Your market hunch could now power a ready‑made portfolio.",
+  "what": "Startup Supertake announced a $20 million funding round. The platform uses AI agents to turn users’ market forecasts into diversified stock portfolios, removing the need for manual stock selection.",
+  "why": "For Gen Z investors, the service could simplify entry into the stock market and let them act on predictions without deep research. Interested users can sign up to try the AI‑driven portfolio builder.",
+  "tags": [
+   "AI",
+   "FinTech",
+   "Investing",
+   "Startups",
+   "Stocks"
+  ]
+ },
+ "ml": {
+  "headline": "Supertake-ന് $20 മില്യൺ ഫണ്ടിംഗ്, AI‑യിലൂടെ സ്റ്റോക്ക് തിരഞ്ഞെടുപ്പ്",
+  "hook": "നിങ്ങളുടെ മാർക്കറ്റ് പ്രവചനങ്ങൾ AI‑യുടെ സഹായത്തോടെ പോർട്ട്ഫോളിയോ ആക്കാം.",
+  "what": "സ്റ്റാർട്ടപ്പ് Supertake $20 മില്യൺ ഫണ്ടിംഗ് നേടി. AI ഏജന്റുകൾ ഉപയോക്താക്കളുടെ മാർക്കറ്റ് പ്രവചനങ്ങളെ സ്വയമേവ സ്റ്റോക്ക് പോർട്ട്ഫോളിയോയാക്കി മാറ്റുന്നു, സ്വയം സ്റ്റോക്ക് തിരഞ്ഞെടുക്കേണ്ടതില്ല.",
+  "why": "ഇത് യുവ നിക്ഷേപകർക്ക് വിപണിയിൽ പ്രവേശനം ലളിതമാക്കും, ആഴത്തിലുള്ള പഠനം കൂടാതെ തന്നെ പ്രവചനങ്ങൾ പ്രയോഗിക്കാൻ സഹായിക്കും. ആപ്പിൽ സൈൻ അപ് ചെയ്ത് AI‑ചാലിത പോർട്ട്ഫോളിയോ പരീക്ഷിക്കാം.",
+  "tags": [
+   "AI",
+   "FinTech",
+   "നിക്ഷേപം",
+   "സ്റ്റാർട്ടപ്പ്",
+   "സ്റ്റോക്ക്"
+  ]
+ }
+}
