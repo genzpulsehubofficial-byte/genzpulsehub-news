@@ -1,0 +1,37 @@
+{
+ "id": "5004cab8d19f",
+ "created": "2026-11-24T15:19:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/egypt-trip-cost-from-india-eight-day-itinerary-budget-11795496422496.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bengaluru couple tours Egypt in 8 days for ₹3.23 lakh",
+  "hook": "See how they stretched a modest budget for a dream trip.",
+  "what": "The pair spent eight days in Egypt in December 2025, spending about ₹3.23 lakh on flights, hotels and private taxis. They mapped their itinerary in advance to keep costs down.",
+  "why": "Young travelers can learn budgeting tricks for overseas trips and consider early planning to manage expenses.",
+  "tags": [
+   "travel",
+   "budget",
+   "Egypt",
+   "India",
+   "youngtravellers"
+  ]
+ },
+ "ml": {
+  "headline": "ബെംഗളൂരു ദമ്പതികൾ 8 ദിവസത്തിൽ ഈജിപ്ത്‌ യാത്രയ്ക്ക് ₹3.23 ലക്ഷം",
+  "hook": "മിതമായ ബജറ്റിൽ സ്വപ്നയാത്ര എങ്ങനെ സാധ്യമാക്കി എന്ന് നോക്കൂ.",
+  "what": "ഡിസംബർ 2025‑ൽ അവർ ഈജിപ്തിൽ 8 ദിവസം ചെലവഴിച്ച്, വിമാനങ്ങൾ, ഹോട്ടലുകൾ, സ്വകാര്യ ടാക്സികൾ എന്നിവയ്ക്ക് ഏകദേശം ₹3.23 ലക്ഷം ചെലവിട്ടു. മുൻകൂട്ടി പദ്ധതിയിട്ടതിലൂടെ ചിലവുകൾ നിയന്ത്രിച്ചു.",
+  "why": "യുവ യാത്രികർ വിദേശയാത്രയുടെ ബജറ്റ് പ്ലാൻ ചെയ്യാനും ചെലവ് കുറയ്ക്കാനുള്ള മാർഗങ്ങൾ പഠിക്കാം.",
+  "tags": [
+   "യാത്ര",
+   "ബജറ്റ്",
+   "ഈജിപ്ത്",
+   "ഇന്ത്യ",
+   "യുവയാത്രികർ"
+  ]
+ }
+}

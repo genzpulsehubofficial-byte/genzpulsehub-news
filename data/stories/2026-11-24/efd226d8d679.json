@@ -1,0 +1,35 @@
+{
+ "id": "efd226d8d679",
+ "created": "2026-11-24T15:19:51+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/shashi-tharoor-denies-groupism-kerala-congress-kpcc-ptid4hddo1h",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tharoor urges swift choice for Kerala Congress chief, rejects faction tags",
+  "hook": "The MP says he's not part of any Kerala Congress cliques.",
+  "what": "Congress MP Shashi Tharoor said he is neither 'Congress I' nor 'Congress A', distancing himself from Kerala's internal factions. He asked the party's top leadership to promptly decide on a new Kerala Pradesh Congress Committee chief.",
+  "why": "The appointment will influence the party's direction in Kerala and impact policies that matter to young voters. Keep an eye on how the leadership race unfolds.",
+  "tags": [
+   "KeralaPolitics",
+   "Congress",
+   "YouthVote",
+   "Leadership"
+  ]
+ },
+ "ml": {
+  "headline": "തറൂർ കെരള കോൺഗ്രസ് നേതാവിനുള്ള തിരഞ്ഞെടുപ്പ് വേഗത്തിൽ, വിഭാഗങ്ങളോട് നിരാകരണം",
+  "hook": "മന്ത്രിസഭാ അംഗം തറൂർ, കെരളയിലെ കോൺഗ്രസ് വിഭാഗങ്ങളോട് സ്വന്തം ബന്ധം ഇല്ലെന്ന് പറഞ്ഞു.",
+  "what": "കോൺഗ്രസ് എംപി ശശി തറൂർ 'കോൺഗ്രസ് I' അല്ല 'കോൺഗ്രസ് A' എന്നും പറഞ്ഞ് കെരളയിലെ വിഭാഗീയ രാഷ്ട്രീയത്തിൽ നിന്ന് വേർപിരിഞ്ഞു. പാർട്ടി ഉയർന്ന തലവൻ KPCC പുതിയ നേതാവിനെ വേഗത്തിൽ തിരഞ്ഞെടുക്കണമെന്ന് അദ്ദേഹം ആവശ്യപ്പെട്ടു.",
+  "why": "ഈ തീരുമാനം കെരളയിലെ രാഷ്ട്രീയ ദിശയും യുവജനങ്ങൾക്ക് ബാധകമായ നയങ്ങളും സ്വാധീനിക്കും. നേതൃ തിരഞ്ഞെടുപ്പിന്റെ പുരോഗതി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കെരളരാഷ്ട്രീയം",
+   "കോൺഗ്രസ്",
+   "യുവവോട്ട്",
+   "നേതൃത്വം"
+  ]
+ }
+}

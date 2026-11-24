@@ -1,0 +1,37 @@
+{
+ "id": "300f4a411e49",
+ "created": "2026-11-24T15:19:48+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Motorola rolls out Edge 70 Neo in India",
+  "hook": "A new premium phone with a massive battery hits the market.",
+  "what": "Motorola introduced the Edge 70 Neo for the Indian premium segment. The device comes with a 7,000 mAh battery, a 144 Hz screen and AI‑driven photography features.",
+  "why": "Young users get a phone that can last longer and capture better photos, useful for gaming and social media. Check availability before it sells out.",
+  "tags": [
+   "Motorola",
+   "Edge70Neo",
+   "Tech",
+   "Launch",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Motorola Edge 70 Neo ഇന്ത്യയിൽ പുറത്തിറക്കി",
+  "hook": "വലിയ ബാറ്ററിയും AI ഫോട്ടോവൈബും ഉള്ള പുതിയ പ്രീമിയം ഫോൺ",
+  "what": "Motorola ഇന്ത്യയിലെ പ്രീമിയം സെഗ്മെന്റിനായി Edge 70 Neo ലോഞ്ച് ചെയ്തു. 7,000 mAh ബാറ്ററി, 144 Hz സ്ക്രീൻ, AI ഫോട്ടോഗ്രാഫി എന്നിവ ഇതിൽ ഉണ്ട്.",
+  "why": "ദീർഘകാല ഉപയോഗവും മികച്ച ഫോട്ടോകളും ആവശ്യമുള്ള യുവാക്കൾക്ക് ഇത് ഉപകാരപ്പെടും. ലഭ്യത പരിശോധിച്ച് വാങ്ങൂ.",
+  "tags": [
+   "Motorola",
+   "Edge70Neo",
+   "Tech",
+   "Launch",
+   "India"
+  ]
+ }
+}

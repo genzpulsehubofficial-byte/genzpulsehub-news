@@ -1,0 +1,37 @@
+{
+ "id": "4ee38de6e8bb",
+ "created": "2026-11-24T15:19:44+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/akali-bjp-to-fight-punjab-assembly-election-together-what-led-to-split-6-years-ago-12369967#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "BJP and Akali Dal team up for Punjab elections",
+  "hook": "Two major parties reunite after years apart to contest Punjab votes",
+  "what": "The Bharatiya Janata Party and Shiromani Akali Dal announced they will contest the upcoming Punjab state election together. This marks a reunion after a split six years ago.",
+  "why": "Their alliance could reshape the state's political landscape, influencing policies that affect education, jobs, and local development. Young voters should watch the campaign to see how the partnership impacts issues that matter to them.",
+  "tags": [
+   "PunjabElection",
+   "BJP",
+   "AkaliDal",
+   "YouthVote",
+   "IndiaPolitics"
+  ]
+ },
+ "ml": {
+  "headline": "BJP‑യും അകലി ദാൽ‑യും पंजाब തെരഞ്ഞെടുപ്പിൽ കൂട്ടുകെട്ട്",
+  "hook": "ആറ് വർഷം കഴിഞ്ഞ് രണ്ട് വലിയ പാർട്ടികൾ വീണ്ടും ഒരുമിച്ചു",
+  "what": "ഭാരതീയ ജനതാ പാർട്ടി (BJP)യും ശിരോമണി അകലി ദാൽ (Akali Dal)യും വരാനിരിക്കുന്ന پنجاب സംസ്ഥാന തിരഞ്ഞെടുപ്പിൽ ഒരുമിച്ച് മത്സരിക്കാൻ തീരുമാനിച്ചു. ഇത് ആറു വർഷം മുൻപ് ഉണ്ടായ വിഭജനം കഴിഞ്ഞുള്ള പുനർസംയോജനമാണ്.",
+  "why": "ഈ കൂട്ടുകെട്ട് സംസ്ഥാനത്തിന്റെ രാഷ്ട്രീയ ദിശയെ മാറ്റാൻ സാധ്യതയുണ്ട്, വിദ്യാഭ്യാസം, തൊഴിൽ, വികസനം തുടങ്ങിയ യുവജനങ്ങൾക്ക് പ്രധാനമായ വിഷയങ്ങളെ ബാധിക്കും. യുവവോട്ടർമാർക്ക് ഈ ക്യാമ്പെയിൻ ശ്രദ്ധിച്ച്, അവരുടെ സ്വാധീനം എവിടെയാണെന്ന് മനസിലാക്കണം.",
+  "tags": [
+   "PunjabElection",
+   "BJP",
+   "AkaliDal",
+   "YouthVote",
+   "IndiaPolitics"
+  ]
+ }
+}
