@@ -1,0 +1,35 @@
+{
+ "id": "181680616e2c",
+ "created": "2026-11-25T03:20:45+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/Delhi/court-rejects-pg-operators-bail-in-satya-niketan-collapse-case/article71737209.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Court denies bail to PG owner in Satya Niketan collapse",
+  "hook": "A landlord’s profit chase cost seven student lives – now facing jail.",
+  "what": "The court refused bail for the proprietor of a paying‑guest house after a building collapse in Satya Niketan killed seven students. Judges said the accused put profit ahead of safety and must face strict legal action.",
+  "why": "It warns young people about unsafe student housing, urging them to check safety certifications before moving in.",
+  "tags": [
+   "court",
+   "student safety",
+   "PG",
+   "legal"
+  ]
+ },
+ "ml": {
+  "headline": "കോടതി സത്യനികേതൻ കൊളാപ്സിൽ പി.ജി ഉടമയുടെ ബെയിൽ നിരാകരിച്ചു",
+  "hook": "ലാഭം മുൻപിൽ വെച്ച ഉടമയുടെ കൃത്യം ഏഴു വിദ്യാർത്ഥികളുടെ ജീവിതം എടുത്തു.",
+  "what": "കോടതി സത്യനികേതൻ പ്രദേശത്തെ ഒരു പി.ജി ഹൗസിന്റെ വീഴ്ചയിൽ ഏഴു വിദ്യാർത്ഥികൾ മരിച്ചതിനുശേഷം ഉടമയ്ക്ക് ബെയിൽ അനുവദിച്ചില്ല. ജഡ്ജിമാർ, സുരക്ഷാ മാനദണ്ഡങ്ങൾ അവഗണിച്ച് ലാഭം മുൻപിൽ വെച്ചതാണെന്ന് പറഞ്ഞു, കർശനമായ നിയമ നടപടികൾ ആവശ്യമാണ് എന്ന് ചൂണ്ടിക്കാട്ടി.",
+  "why": "ഇത് വിദ്യാർത്ഥി ഹൗസിംഗ് സുരക്ഷയുടെ പ്രാധാന്യം കാണിക്കുന്നു; താമസമിടം തിരഞ്ഞെടുക്കുമ്പോൾ സുരക്ഷാ സർട്ടിഫിക്കറ്റുകൾ പരിശോധിക്കാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "കോടതി",
+   "വിദ്യാർത്ഥി സുരക്ഷ",
+   "പി.ജി",
+   "നിയമം"
+  ]
+ }
+}

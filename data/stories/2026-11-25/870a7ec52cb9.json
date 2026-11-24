@@ -1,0 +1,37 @@
+{
+ "id": "870a7ec52cb9",
+ "created": "2026-11-25T03:20:51+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2p3Z2lHSHljektESlNJRW1tczA1d1dIbXptZGRtZkhEb1VIeHYxU0oxOU5aVmUwaTlfYkw3eF9LbzlwdFdIYVZtdVg4SFB5dE45RksxVlI5T3UydTFjNWp2UXAtcTJQb1dVVWo0ZTFhVHNGZTBRbWxFTWJlU3cybzhnRXo0QjFvVUtKMUhfNGp0aVdacDJYSThVYW9ZZE9CXzFfb2ptTUxmY1RqbWkydjFQdW5rcXlHeEZrSWZXSkFhaE9CV25aSHFycTk?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ben Stokes signs up for IPL 2027 auction, Bangladesh squad listed",
+  "hook": "England’s star all‑rounder is now in the IPL mix again.",
+  "what": "Former England captain Ben Stokes has entered the registration for the 2027 Indian Premier League auction. Alongside him, twelve Bangladeshi cricketers have also been named in the auction list. Other names such as Aaryavir Sehwag and Mohit Ulva are also registered, while Anvay Dravid and Mustafizur are absent.",
+  "why": "His presence could raise the competition level and attract global attention, which may inspire aspiring cricketers. Keep an eye on the auction updates if you follow IPL team selections.",
+  "tags": [
+   "IPL",
+   "BenStokes",
+   "Bangladesh",
+   "cricket",
+   "auction"
+  ]
+ },
+ "ml": {
+  "headline": "ബെൻ സ്റ്റോക്ക്സ് IPL 2027 ഓക്‍ഷന്‍ രജിസ്റ്റര്‍ ചെയ്തു, ബംഗ്ലാദേശ് കളിക്കാര്‍ പട്ടികയില്‍",
+  "hook": "ഇംഗ്ലണ്ടിന്റെ പ്രശസ്ത ഓള്‍‑റൗണ്ടര്‍ വീണ്ടും IPL‑ല്‍ വരുന്നു.",
+  "what": "മുൻ ഇംഗ്ലണ്ട് ക്യാപ്റ്റൻ ബെൻ സ്റ്റോക്ക്സ് 2027 ഇന്ത്യൻ പ്രീമിയർ ലീഗ് ഓക്‍ഷന്‍ രജിസ്ട്രേഷൻ പൂർത്തിയാക്കി. അതോടൊപ്പം 12 ബംഗ്ലാദേശ് ക്രിക്കറ്റർമാരും പട്ടികയിൽ ഉൾപ്പെടുത്തിയിട്ടുണ്ട്. ആര്യവീർ സെഹ്വാഗും മോഹിത് ഉൽവയും രജിസ്റ്റർ ചെയ്തിരിക്കുമ്പോൾ അന്വേ ഡ്രാവിഡും മുസ്തഫിസറും പട്ടികയിൽ ഇല്ല.",
+  "why": "അവരുടെ പങ്കാളിത്തം മത്സരത്തിന്റെ നിലവാരം ഉയർത്തുകയും യുവ ക്രിക്കറ്റർമാർക്ക് പ്രചോദനം നൽകുകയും ചെയ്യും. IPL ടീമുകളുടെ തിരഞ്ഞെടുപ്പുകൾക്കുള്ള പുതിയ വിവരങ്ങൾ പിന്തുടരുക.",
+  "tags": [
+   "IPL",
+   "BenStokes",
+   "Bangladesh",
+   "ക്രിക്കറ്റ്",
+   "ഓക്‍ഷന്‍"
+  ]
+ }
+}

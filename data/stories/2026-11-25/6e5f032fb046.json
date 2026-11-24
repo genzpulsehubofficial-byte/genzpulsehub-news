@@ -1,0 +1,37 @@
+{
+ "id": "6e5f032fb046",
+ "created": "2026-11-25T03:20:40+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Top AI assistants still stumble on daily tasks",
+  "hook": "Even the smartest bots can’t handle simple chores safely",
+  "what": "A fresh benchmark shows that leading AI models often fail to perform routine tasks reliably. They may also create new issues while trying.",
+  "why": "For teens using AI helpers, it means staying cautious and double‑checking results.",
+  "tags": [
+   "AI",
+   "tech",
+   "bots",
+   "benchmark",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "മികച്ച AI അസിസ്റ്റന്റുകൾക്കും ദൈനംദിന ജോലികളിൽ പ്രശ്നം",
+  "hook": "ഏറ്റവും ബുദ്ധിമാനായ ബോട്ടുകൾ പോലും ലളിതമായ കാര്യങ്ങൾ സുരക്ഷിതമായി ചെയ്യാൻ കഴിയുന്നില്ല",
+  "what": "പുതിയ ബെഞ്ച്മാർക്ക് പ്രകാരം മുൻനിര AI മോഡലുകൾ പതിവ് ജോലികൾ വിശ്വസനീയമായി പൂർത്തിയാക്കുന്നതിൽ പരാജയപ്പെടുന്നു, കൂടാതെ പുതിയ പ്രശ്നങ്ങളും സൃഷ്ടിക്കാൻ സാധ്യതയുണ്ട്",
+  "why": "AI സഹായം ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഫലങ്ങൾ പരിശോധിച്ച് ജാഗ്രത പാലിക്കണം",
+  "tags": [
+   "AI",
+   "ടെക്",
+   "ബെഞ്ച്മാർക്ക്",
+   "സുരക്ഷ",
+   "ബോട്ട്"
+  ]
+ }
+}

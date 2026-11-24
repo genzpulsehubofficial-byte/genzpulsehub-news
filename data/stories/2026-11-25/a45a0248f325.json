@@ -1,0 +1,37 @@
+{
+ "id": "a45a0248f325",
+ "created": "2026-11-25T03:20:48+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Chess.com",
+ "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gukesh Holds Sindarov to Draw in World Chess Opener",
+  "hook": "Young Indian prodigy survives a tense finish to keep his title hopes alive.",
+  "what": "In the opening match of the World Chess Championship, Indian grandmaster Gukesh secured a draw against Sindarov. He managed the time pressure and earned a half‑point.",
+  "why": "The result keeps Gukesh in contention and highlights the value of staying calm under pressure, a lesson for aspiring players.",
+  "tags": [
+   "chess",
+   "Gukesh",
+   "WorldChampionship",
+   "draw",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുകേഷ് സിന്‍ഡറോവിനെതിരെ ഡ്റോ നേടി",
+  "hook": "യുവ ഇന്ത്യൻ ചതുരംഗ പ്രതിഭ സമയം സമ്മർദ്ദം മറികടന്ന് പോയിന്റ് ഉറപ്പിച്ചു.",
+  "what": "ലോക ചതുരംഗ ചാമ്പ്യൻഷിപ്പിന്റെ ആദ്യ കളിയിൽ, ഇന്ത്യൻ ഗ്രാൻഡ് മാസ്റ്റർ ഗുകേഷ് സിന്‍ഡറോവിനോട് സമതുല്യ ഫലം നേടി. സമയ സമ്മർദ്ദം നേരിടുമ്പോഴും അദ്ദേഹം പകുതി പോയിന്റ് ഉറപ്പിച്ചു.",
+  "why": "ഈ ഫലം ഗുകേഷിന്റെ ശീർഷകവാദം നിലനിർത്തുന്നു, സമ്മർദ്ദത്തിൽ ശാന്തതയുടെ പ്രാധാന്യം കാണിക്കുന്നു, യുവ കളിക്കാർക്ക് പ്രചോദനമാകും.",
+  "tags": [
+   "ചതുരംഗ",
+   "ഗുകേഷ്",
+   "ലോകചാമ്പ്യൻഷിപ്പ്",
+   "ഡ്രോ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

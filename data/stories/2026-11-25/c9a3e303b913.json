@@ -1,0 +1,37 @@
+{
+ "id": "c9a3e303b913",
+ "created": "2026-11-25T03:20:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/us-court-finds-chinas-huawei-guilty-of-conspiracy-to-steal-trade-secrets-12372803#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US Court Convicts Huawei of Trade Secret Theft",
+  "hook": "Big tech showdown: Huawei faces US conviction.",
+  "what": "A US federal court ruled that Chinese telecom giant Huawei conspired to steal trade secrets. The verdict includes convictions for the company. Huawei's lawyer said they will appeal the decision.",
+  "why": "The case highlights risks of intellectual property theft and could affect tech products and jobs. Stay aware of security and data privacy when using devices.",
+  "tags": [
+   "Huawei",
+   "UScourt",
+   "TechNews",
+   "TradeSecrets",
+   "Appeal"
+  ]
+ },
+ "ml": {
+  "headline": "US Court Huawei-നെ Trade Secret മോഷണത്തിൽ ദോഷിതമായി കണ്ടെത്തി",
+  "hook": "വലിയ ടെക് പോരാട്ടം: Huawei-യ്ക്ക് US-ൽ ശിക്ഷ",
+  "what": "ഒരു US ഫെഡറൽ കോടതി Huawei ചൈനീസ് ടെലികോം കമ്പനിയെ Trade Secret മോഷണത്തിൽ കൂട്ടുകെട്ടുണ്ടാക്കി എന്ന് വിധിച്ചു. കമ്പനിക്ക് കുറ്റം ചുമത്തപ്പെട്ടു. Huawei‑യുടെ അഭിഭാഷകൻ അവർ വിധിയെതിരെ അപ്പീൽ ചെയ്യും എന്ന് പറഞ്ഞു.",
+  "why": "ഇത് ബുദ്ധി സ്വത്തവകാശ ലംഘനത്തിന്റെ അപകടം കാണിക്കുന്നു, ടെക് ഉൽപ്പന്നങ്ങളുടെയും ജോലികളുടെയും ഭാവിയെ ബാധിക്കാം. ഉപകരണങ്ങളും ആപ്പുകളും ഉപയോഗിക്കുമ്പോൾ സുരക്ഷയും ഡാറ്റാ സ്വകാര്യതയും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Huawei",
+   "UScourt",
+   "TechNews",
+   "TradeSecrets",
+   "Appeal"
+  ]
+ }
+}
