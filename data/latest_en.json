@@ -1,5 +1,81 @@
 [
  {
+  "id": "9c4debde0cd2",
+  "created": "2026-11-24T23:07:24+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Investopedia",
+  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5",
+  "headline": "Nvidia slump drags Nasdaq, S&P 500 lower",
+  "hook": "AI hype cools as Nvidia shares tumble.",
+  "what": "After a strong rally on Monday, U.S. equity indexes slipped on Tuesday. Nvidia’s price drop sparked a broader retreat in technology stocks, pulling down the Nasdaq and the S&P 500.",
+  "why": "Young investors should watch AI‑related holdings for volatility and consider diversifying.",
+  "tags": [
+   "Nvidia",
+   "AI stocks",
+   "Nasdaq",
+   "S&P500",
+   "market dip"
+  ]
+ },
+ {
+  "id": "92b9681163bc",
+  "created": "2026-11-24T23:07:32+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+  "headline": "Harbinger secures funding from Palmer Luckey’s Erebor Bank",
+  "hook": "Electric truck maker taps a new banking partner for cash.",
+  "what": "The EV truck startup Harbinger has partnered with Erebor Bank, owned by Palmer Luckey, to obtain financing. This adds a fresh source of capital for the company.",
+  "why": "New funding can help the startup expand, potentially creating jobs and tech opportunities for Indian youth. Keep an eye on emerging EV ventures.",
+  "tags": [
+   "electric trucks",
+   "startup funding",
+   "EV",
+   "tech",
+   "finance"
+  ]
+ },
+ {
+  "id": "448b2b137040",
+  "created": "2026-11-24T23:07:35+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/can-a-husband-gift-cash-to-his-wife-without-triggering-a-tax-demand-itat-examines-58-lakh-bank-deposits-11795540367914.html",
+  "headline": "Delhi tribunal orders tax probe into ₹58 lakh family cash transfer",
+  "hook": "Large cash gifts between spouses may attract tax scrutiny",
+  "what": "The Delhi Income Tax Appellate Tribunal told the tax department to review a ₹58.07 lakh deposit made by a woman. Authorities will check if the money came from cash her husband withdrew after selling agricultural land.",
+  "why": "Young people should keep proper records for big family money moves to avoid tax issues",
+  "tags": [
+   "tax",
+   "familytransfer",
+   "finance",
+   "india",
+   "legal"
+  ]
+ },
+ {
+  "id": "0ccf74717777",
+  "created": "2026-11-24T23:07:37+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
+  "headline": "Para-sports selection trials take place in Visakhapatnam",
+  "hook": "Young athletes get a chance to represent India",
+  "what": "The para-sports federation organized selection trials in Visakhapatnam. Athletes competed for spots in upcoming events.",
+  "why": "These trials help identify talent for international competitions, offering opportunities for aspiring para-athletes.",
+  "tags": [
+   "para sports",
+   "selection",
+   "Visakhapatnam",
+   "athletics",
+   "opportunity"
+  ]
+ },
+ {
   "id": "56e92488bf36",
   "created": "2026-11-24T22:14:59+05:30",
   "category": "headlines",
@@ -677,81 +753,6 @@
    "Congress",
    "YouthVote",
    "Leadership"
-  ]
- },
- {
-  "id": "5004cab8d19f",
-  "created": "2026-11-24T15:19:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/egypt-trip-cost-from-india-eight-day-itinerary-budget-11795496422496.html",
-  "headline": "Bengaluru couple tours Egypt in 8 days for ₹3.23 lakh",
-  "hook": "See how they stretched a modest budget for a dream trip.",
-  "what": "The pair spent eight days in Egypt in December 2025, spending about ₹3.23 lakh on flights, hotels and private taxis. They mapped their itinerary in advance to keep costs down.",
-  "why": "Young travelers can learn budgeting tricks for overseas trips and consider early planning to manage expenses.",
-  "tags": [
-   "travel",
-   "budget",
-   "Egypt",
-   "India",
-   "youngtravellers"
-  ]
- },
- {
-  "id": "58c3a4cf05b4",
-  "created": "2026-11-24T14:07:59+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/congress-wants-100-seats-in-up-samajwadi-party-offers-26-cites-past-results-12369700#publisher=newsstand",
-  "headline": "Congress seeks 100 UP seats, SP offers 26",
-  "hook": "Two major parties are negotiating seat sharing for Uttar Pradesh polls.",
-  "what": "Congress has asked for 100 constituencies in Uttar Pradesh, while the Samajwadi Party has countered with an offer of 26 seats, citing its past performance.",
-  "why": "The agreement will shape alliances in the upcoming state election and impact policies that affect young Indians.",
-  "tags": [
-   "UP elections",
-   "seat sharing",
-   "Congress",
-   "Samajwadi"
-  ]
- },
- {
-  "id": "1310fd5702de",
-  "created": "2026-11-24T14:08:05+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeENHOTllUlZXRVE1NUFaN2g1MEwwUWEwdndjM3hBa1Y5VUMtc29CYWVNRldrSk5DY2ZHWFB0c29XVGdPR2Z3aUszMUZRbXowc0NTcXJfa19aTUU2WEJSQmFzNzJxWUl1N2Q1UWlnc0FVbU9IMUxRMURoajVFa25oSUN2aWp2Z3hpUURhYzNIYU5xc0NRZTRzSnFtMjVkek8xMmkzcE5UMmVaVHlld1pZcVV2SzZzRW8?oc=5",
-  "headline": "BJP and SAD reunite for Punjab Assembly election",
-  "hook": "Two major parties are teaming up again in Punjab.",
-  "what": "The Bharatiya Janata Party and the Shiromani Akali Dal announced a joint contest for the upcoming Punjab state elections. They will hold a joint press conference to formalise the alliance.",
-  "why": "The partnership could influence policies on jobs and education that affect young Indians. Stay updated on each party’s agenda before voting.",
-  "tags": [
-   "Punjab",
-   "Elections",
-   "BJP",
-   "SAD",
-   "Alliance"
-  ]
- },
- {
-  "id": "f0db54d2c14e",
-  "created": "2026-11-24T14:08:08+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/multi-asset-mutual-fund-inflows-gold-silver-rally-11795500319894.html",
-  "headline": "Investors shy away from multi‑asset funds",
-  "hook": "Can't guess the next market winner? Diversify instead.",
-  "what": "Investors find it hard to forecast which asset class will rise, leading them to move out of multi‑asset funds. Spreading money across different assets ensures exposure to at least one that performs well in any economic phase.",
-  "why": "Young investors can protect savings by diversifying rather than relying on a single fund type. Consider allocating across varied assets to ride market cycles.",
-  "tags": [
-   "investing",
-   "diversification",
-   "markets",
-   "youngfinance",
-   "funds"
   ]
  }
 ]

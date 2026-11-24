@@ -1,0 +1,37 @@
+{
+ "id": "0ccf74717777",
+ "created": "2026-11-24T23:07:37+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Para-sports selection trials take place in Visakhapatnam",
+  "hook": "Young athletes get a chance to represent India",
+  "what": "The para-sports federation organized selection trials in Visakhapatnam. Athletes competed for spots in upcoming events.",
+  "why": "These trials help identify talent for international competitions, offering opportunities for aspiring para-athletes.",
+  "tags": [
+   "para sports",
+   "selection",
+   "Visakhapatnam",
+   "athletics",
+   "opportunity"
+  ]
+ },
+ "ml": {
+  "headline": "വിശാഖപട്ടണിൽ പരാ-സ്പോർട്സ് തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ",
+  "hook": "യുവ para-അത്ലീറ്റുകൾക്ക് ഇന്ത്യയെ പ്രതിനിധീകരിക്കാൻ അവസരം",
+  "what": "പരാ-സ്പോർട്സ് ഫെഡറേഷൻ വിശാഖപട്ടണിൽ തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ സംഘടിപ്പിച്ചു. മത്സരകർ വരാനിരിക്കുന്ന ഇവന്റുകൾക്കുള്ള സ്ഥാനങ്ങൾക്കായി മത്സരിച്ചു.",
+  "why": "ഇവ ട്രയലുകൾ അന്തർദേശീയ മത്സരങ്ങൾക്ക് പ്രതിഭ കണ്ടെത്താൻ സഹായിക്കുന്നു, aspiring para-അത്ലീറ്റുകൾക്ക് അവസരങ്ങൾ തുറക്കുന്നു.",
+  "tags": [
+   "para sports",
+   "selection",
+   "Visakhapatnam",
+   "athletics",
+   "opportunity"
+  ]
+ }
+}

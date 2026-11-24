@@ -1,5 +1,81 @@
 [
  {
+  "id": "9c4debde0cd2",
+  "created": "2026-11-24T23:07:24+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Investopedia",
+  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5",
+  "headline": "Nvidia ഇടിവ് Nasdaq, S&P 500 നെ താഴ്ത്തി",
+  "hook": "AI ആവേശം തണുത്തു, Nvidia ഷെയർ വീണു.",
+  "what": "തിങ്കളാഴ്ച വലിയ ഉയർച്ചക്കു ശേഷം, ചൊവ്വാഴ്ച അമേരിക്കൻ സ്റ്റോക്ക് സൂചികകൾ കുറച്ചു. Nvidiaയുടെ വില ഇടിവ് ടെക് ഷെയറുകൾക്ക് വ്യാപകമായ വീഴ്ചയ്ക്ക് കാരണമായി, Nasdaq, S&P 500 എന്നിവയെ താഴ്ത്തി.",
+  "why": "AI‑ബന്ധിത നിക്ഷേപങ്ങൾ ചഞ്ചലമാണെന്ന് ശ്രദ്ധിച്ച്, പോർട്ട്ഫോളിയോ വൈവിധ്യം ഉറപ്പാക്കണം.",
+  "tags": [
+   "Nvidia",
+   "AI സ്റ്റോക്കുകൾ",
+   "Nasdaq",
+   "S&P500",
+   "മാർക്കറ്റ് ഇടിവ്"
+  ]
+ },
+ {
+  "id": "92b9681163bc",
+  "created": "2026-11-24T23:07:32+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+  "headline": "Harbinger Palmer Luckey‑യുടെ Erebor Bank‑യിൽ നിന്ന് ഫണ്ടിംഗ് secured",
+  "hook": "ഇലക്ട്രിക് ട്രക്ക് സ്റ്റാർട്ടപ്പ് പുതിയ ബാങ്കിംഗ് പങ്കാളി വഴി പണം ഉറപ്പിച്ചു.",
+  "what": "EV ട്രക്ക് സ്റ്റാർട്ടപ്പ് Harbinger, Palmer Luckey‑യുടെ Erebor Bank‑നൊപ്പം ഫണ്ടിംഗ് ഉറപ്പിച്ചു. ഇത് കമ്പനിക്ക് പുതിയ മൂലധനം നൽകുന്നു.",
+  "why": "പുതിയ ഫണ്ടിംഗ് കമ്പനിയ്ക്ക് വളർച്ചയ്ക്ക് സഹായിക്കും, ഇത് യുവജനങ്ങൾക്ക് ജോലിയും ടെക് അവസരങ്ങളും സൃഷ്ടിക്കാം. EV മേഖലയിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഇലക്ട്രിക് ട്രക്ക്",
+   "സ്റ്റാർട്ടപ്പ് ഫണ്ടിംഗ്",
+   "EV",
+   "ടെക്",
+   "ഫിനാൻസ്"
+  ]
+ },
+ {
+  "id": "448b2b137040",
+  "created": "2026-11-24T23:07:35+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/can-a-husband-gift-cash-to-his-wife-without-triggering-a-tax-demand-itat-examines-58-lakh-bank-deposits-11795540367914.html",
+  "headline": "ഡെല്‍‌ഹി ട്രൈബ്യൂണല്‍ ₹58 ലക്ഷം കുടുംബ ക്യാഷ് ട്രാന്‍സ്ഫറിന്‍‌റേ ടാക്‌സ് പരിശോധന നിര്‍ദ്ദേശിച്ചു",
+  "hook": "ഭാര്യ‑ഭര്‍ത്താവിന്‍‌റേ വലിയ ക്യാഷ് സമ്മാനങ്ങള്‍ ടാക്‌സ് ചോദ്യങ്ങളിലേക്കു നയിക്കാം",
+  "what": "ഡെല്‍‌ഹി ഇന്‍കം‑ടാക്‌സ് അപീല്‍ ട്രൈബ്യൂണല്‍ ഒരു സ്ത്രീയുടെ ₹58.07 ലക്ഷം ബാങ്ക് ഡെപ്പോസിറ്റ് പരിശോധിക്കാന്‍ വകുപ്പിനെ നിര്‍ദ്ദേശിച്ചു. ഈ തുക അവളുടെ ഭര്‍ത്താവ് കൃഷി ഭൂമി വിറ്റ ശേഷം എടുത്ത ക്യാഷില്‍ നിന്നാണോ എന്ന് പരിശോധിക്കും.",
+  "why": "വലിയ കുടുംബ പണം കൈമാറ്റങ്ങള്‍ക്ക് ശരിയായ രേഖകള്‍ സൂക്ഷിക്കുന്നത് ടാക്‌സ് പ്രശ്നങ്ങള്‍ ഒഴിവാക്കാന്‍ സഹായിക്കും",
+  "tags": [
+   "tax",
+   "familytransfer",
+   "finance",
+   "india",
+   "legal"
+  ]
+ },
+ {
+  "id": "0ccf74717777",
+  "created": "2026-11-24T23:07:37+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
+  "headline": "വിശാഖപട്ടണിൽ പരാ-സ്പോർട്സ് തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ",
+  "hook": "യുവ para-അത്ലീറ്റുകൾക്ക് ഇന്ത്യയെ പ്രതിനിധീകരിക്കാൻ അവസരം",
+  "what": "പരാ-സ്പോർട്സ് ഫെഡറേഷൻ വിശാഖപട്ടണിൽ തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ സംഘടിപ്പിച്ചു. മത്സരകർ വരാനിരിക്കുന്ന ഇവന്റുകൾക്കുള്ള സ്ഥാനങ്ങൾക്കായി മത്സരിച്ചു.",
+  "why": "ഇവ ട്രയലുകൾ അന്തർദേശീയ മത്സരങ്ങൾക്ക് പ്രതിഭ കണ്ടെത്താൻ സഹായിക്കുന്നു, aspiring para-അത്ലീറ്റുകൾക്ക് അവസരങ്ങൾ തുറക്കുന്നു.",
+  "tags": [
+   "para sports",
+   "selection",
+   "Visakhapatnam",
+   "athletics",
+   "opportunity"
+  ]
+ },
+ {
   "id": "56e92488bf36",
   "created": "2026-11-24T22:14:59+05:30",
   "category": "headlines",
@@ -677,81 +753,6 @@
    "കോൺഗ്രസ്",
    "യുവവോട്ട്",
    "നേതൃത്വം"
-  ]
- },
- {
-  "id": "5004cab8d19f",
-  "created": "2026-11-24T15:19:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/egypt-trip-cost-from-india-eight-day-itinerary-budget-11795496422496.html",
-  "headline": "ബെംഗളൂരു ദമ്പതികൾ 8 ദിവസത്തിൽ ഈജിപ്ത്‌ യാത്രയ്ക്ക് ₹3.23 ലക്ഷം",
-  "hook": "മിതമായ ബജറ്റിൽ സ്വപ്നയാത്ര എങ്ങനെ സാധ്യമാക്കി എന്ന് നോക്കൂ.",
-  "what": "ഡിസംബർ 2025‑ൽ അവർ ഈജിപ്തിൽ 8 ദിവസം ചെലവഴിച്ച്, വിമാനങ്ങൾ, ഹോട്ടലുകൾ, സ്വകാര്യ ടാക്സികൾ എന്നിവയ്ക്ക് ഏകദേശം ₹3.23 ലക്ഷം ചെലവിട്ടു. മുൻകൂട്ടി പദ്ധതിയിട്ടതിലൂടെ ചിലവുകൾ നിയന്ത്രിച്ചു.",
-  "why": "യുവ യാത്രികർ വിദേശയാത്രയുടെ ബജറ്റ് പ്ലാൻ ചെയ്യാനും ചെലവ് കുറയ്ക്കാനുള്ള മാർഗങ്ങൾ പഠിക്കാം.",
-  "tags": [
-   "യാത്ര",
-   "ബജറ്റ്",
-   "ഈജിപ്ത്",
-   "ഇന്ത്യ",
-   "യുവയാത്രികർ"
-  ]
- },
- {
-  "id": "58c3a4cf05b4",
-  "created": "2026-11-24T14:07:59+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/congress-wants-100-seats-in-up-samajwadi-party-offers-26-cites-past-results-12369700#publisher=newsstand",
-  "headline": "കംഗ്രസ്സ് 100 സീറ്റ് വേണമെന്ന്, എസ്.പി 26 സീറ്റ് ഓഫർ",
-  "hook": "ഉത്തരപ്രദേശ് തിരഞ്ഞെടുപ്പിന് രണ്ട് പ്രധാന പാർട്ടികൾ സീറ്റ് പങ്കിടൽ ചർച്ച ചെയ്യുന്നു.",
-  "what": "കംഗ്രസ്സ് ഉത്തർപ്രദേശിൽ 100 സ്ഥാനങ്ങൾ ആവശ്യപ്പെട്ടു, സമാജവാദി പാർട്ടി 26 സ്ഥാനങ്ങൾ മാത്രം നൽകാൻ നിർദ്ദേശിച്ചു, അതിന്റെ മുൻ പ്രകടനം ഉദ്ധരിച്ച്.",
-  "why": "ഇത് തിരഞ്ഞെടുപ്പിന്റെ കൂട്ടുകെട്ടിനെ ബാധിക്കും, യുവജനങ്ങളുടെ ഭാവി നയങ്ങളെ സ്വാധീനിക്കും.",
-  "tags": [
-   "UP തിരഞ്ഞെടുപ്പ്",
-   "സീറ്റ് പങ്കിടൽ",
-   "കംഗ്രസ്സ്",
-   "സമാജവാദി"
-  ]
- },
- {
-  "id": "1310fd5702de",
-  "created": "2026-11-24T14:08:05+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeENHOTllUlZXRVE1NUFaN2g1MEwwUWEwdndjM3hBa1Y5VUMtc29CYWVNRldrSk5DY2ZHWFB0c29XVGdPR2Z3aUszMUZRbXowc0NTcXJfa19aTUU2WEJSQmFzNzJxWUl1N2Q1UWlnc0FVbU9IMUxRMURoajVFa25oSUN2aWp2Z3hpUURhYzNIYU5xc0NRZTRzSnFtMjVkek8xMmkzcE5UMmVaVHlld1pZcVV2SzZzRW8?oc=5",
-  "headline": "BJP, SAD വീണ്ടും ഒന്നിച്ചു, പഞ്ചാബ് തെരഞ്ഞെടുപ്പിൽ",
-  "hook": "പഞ്ചാബിലെ രണ്ട് വലിയ പാർട്ടികൾ വീണ്ടും കൂട്ടുകെട്ട്.",
-  "what": "ഭാരതീയ ജനതാ പാർട്ടി (BJP)യും ശിരോമണി അക്കാലി ദാൽ (SAD)യും വരാനിരിക്കുന്ന പഞ്ചാബ് നിയമസഭ തിരഞ്ഞെടുപ്പിൽ ഒരുമിച്ച് മത്സരിക്കാൻ തീരുമാനിച്ചു. കൂട്ടുകെട്ട് ഔപചാരികമാക്കാൻ അവർ ഒരു സംയുക്ത പ്രസ് കോൺഫറൻസ് നടത്തും.",
-  "why": "ഈ കൂട്ടുകെട്ട് സംസ്ഥാനത്തിന്റെ രാഷ്ട്രീയ ദിശയെ ബാധിക്കാം, യുവജനങ്ങളുടെ തൊഴിൽ, വിദ്യാഭ്യാസം എന്നിവയിലും സ്വാധീനം ചെലുത്താം. തിരഞ്ഞെടുപ്പിന് മുമ്പ് പാർട്ടികളുടെ പദ്ധതികളെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
-  "tags": [
-   "പഞ്ചാബ്",
-   "തിരഞ്ഞെടുപ്പ്",
-   "BJP",
-   "SAD",
-   "കൂട്ടുകെട്ട്"
-  ]
- },
- {
-  "id": "f0db54d2c14e",
-  "created": "2026-11-24T14:08:08+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/multi-asset-mutual-fund-inflows-gold-silver-rally-11795500319894.html",
-  "headline": "നിക്ഷേപകർ മൾട്ടി‑ആസറ്റ് ഫണ്ടുകളിൽ നിന്ന് പിന്മാറുന്നു",
-  "hook": "അടുത്ത വിപണി വിജയി പ്രവചിക്കാൻ ബുദ്ധിമുട്ടാണോ? വൈവിധ്യം തിരഞ്ഞെടുക്കൂ.",
-  "what": "വിപണിയിലെ ഏത് ആസ്തി വർദ്ധിക്കും എന്ന് നിക്ഷേപകർക്ക് ഉറപ്പില്ല, അതിനാൽ മൾട്ടി‑ആസറ്റ് ഫണ്ടുകൾ വിടുന്നു. വിവിധ ആസ്തികളിൽ പണം വിതരണം ചെയ്യുന്നത് ഏതെങ്കിലും കാലഘട്ടത്തിൽ നല്ല പ്രകടനം കാണുന്ന ആസ്തിയിൽ പങ്കാളിത്തം ഉറപ്പാക്കുന്നു.",
-  "why": "യുവ നിക്ഷേപകർ അവരുടെ സംരക്ഷണം സുരക്ഷിതമാക്കാൻ വൈവിധ്യമാർന്ന പോർട്ട്ഫോളിയോ തിരഞ്ഞെടുക്കണം. ഒരു ഫണ്ടിൽ മാത്രം ആശ്രയിക്കാതെ വിവിധ ആസ്തികളിൽ നിക്ഷേപിക്കുക.",
-  "tags": [
-   "നിക്ഷേപം",
-   "വൈവിധ്യം",
-   "വിപണി",
-   "യുവധനം",
-   "ഫണ്ടുകൾ"
   ]
  }
 ]

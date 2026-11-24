@@ -1,0 +1,37 @@
+{
+ "id": "9c4debde0cd2",
+ "created": "2026-11-24T23:07:24+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Investopedia",
+ "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia slump drags Nasdaq, S&P 500 lower",
+  "hook": "AI hype cools as Nvidia shares tumble.",
+  "what": "After a strong rally on Monday, U.S. equity indexes slipped on Tuesday. Nvidia’s price drop sparked a broader retreat in technology stocks, pulling down the Nasdaq and the S&P 500.",
+  "why": "Young investors should watch AI‑related holdings for volatility and consider diversifying.",
+  "tags": [
+   "Nvidia",
+   "AI stocks",
+   "Nasdaq",
+   "S&P500",
+   "market dip"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia ഇടിവ് Nasdaq, S&P 500 നെ താഴ്ത്തി",
+  "hook": "AI ആവേശം തണുത്തു, Nvidia ഷെയർ വീണു.",
+  "what": "തിങ്കളാഴ്ച വലിയ ഉയർച്ചക്കു ശേഷം, ചൊവ്വാഴ്ച അമേരിക്കൻ സ്റ്റോക്ക് സൂചികകൾ കുറച്ചു. Nvidiaയുടെ വില ഇടിവ് ടെക് ഷെയറുകൾക്ക് വ്യാപകമായ വീഴ്ചയ്ക്ക് കാരണമായി, Nasdaq, S&P 500 എന്നിവയെ താഴ്ത്തി.",
+  "why": "AI‑ബന്ധിത നിക്ഷേപങ്ങൾ ചഞ്ചലമാണെന്ന് ശ്രദ്ധിച്ച്, പോർട്ട്ഫോളിയോ വൈവിധ്യം ഉറപ്പാക്കണം.",
+  "tags": [
+   "Nvidia",
+   "AI സ്റ്റോക്കുകൾ",
+   "Nasdaq",
+   "S&P500",
+   "മാർക്കറ്റ് ഇടിവ്"
+  ]
+ }
+}

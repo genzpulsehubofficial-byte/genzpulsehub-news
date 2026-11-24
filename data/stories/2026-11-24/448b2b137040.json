@@ -1,0 +1,37 @@
+{
+ "id": "448b2b137040",
+ "created": "2026-11-24T23:07:35+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/can-a-husband-gift-cash-to-his-wife-without-triggering-a-tax-demand-itat-examines-58-lakh-bank-deposits-11795540367914.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi tribunal orders tax probe into ₹58 lakh family cash transfer",
+  "hook": "Large cash gifts between spouses may attract tax scrutiny",
+  "what": "The Delhi Income Tax Appellate Tribunal told the tax department to review a ₹58.07 lakh deposit made by a woman. Authorities will check if the money came from cash her husband withdrew after selling agricultural land.",
+  "why": "Young people should keep proper records for big family money moves to avoid tax issues",
+  "tags": [
+   "tax",
+   "familytransfer",
+   "finance",
+   "india",
+   "legal"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെല്‍‌ഹി ട്രൈബ്യൂണല്‍ ₹58 ലക്ഷം കുടുംബ ക്യാഷ് ട്രാന്‍സ്ഫറിന്‍‌റേ ടാക്‌സ് പരിശോധന നിര്‍ദ്ദേശിച്ചു",
+  "hook": "ഭാര്യ‑ഭര്‍ത്താവിന്‍‌റേ വലിയ ക്യാഷ് സമ്മാനങ്ങള്‍ ടാക്‌സ് ചോദ്യങ്ങളിലേക്കു നയിക്കാം",
+  "what": "ഡെല്‍‌ഹി ഇന്‍കം‑ടാക്‌സ് അപീല്‍ ട്രൈബ്യൂണല്‍ ഒരു സ്ത്രീയുടെ ₹58.07 ലക്ഷം ബാങ്ക് ഡെപ്പോസിറ്റ് പരിശോധിക്കാന്‍ വകുപ്പിനെ നിര്‍ദ്ദേശിച്ചു. ഈ തുക അവളുടെ ഭര്‍ത്താവ് കൃഷി ഭൂമി വിറ്റ ശേഷം എടുത്ത ക്യാഷില്‍ നിന്നാണോ എന്ന് പരിശോധിക്കും.",
+  "why": "വലിയ കുടുംബ പണം കൈമാറ്റങ്ങള്‍ക്ക് ശരിയായ രേഖകള്‍ സൂക്ഷിക്കുന്നത് ടാക്‌സ് പ്രശ്നങ്ങള്‍ ഒഴിവാക്കാന്‍ സഹായിക്കും",
+  "tags": [
+   "tax",
+   "familytransfer",
+   "finance",
+   "india",
+   "legal"
+  ]
+ }
+}
