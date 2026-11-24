@@ -1,0 +1,37 @@
+{
+ "id": "468b094d23b1",
+ "created": "2026-11-24T08:23:45+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-sp-seat-sharing-discussions-to-continue-on-november-24/article71734959.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "SP and Congress begin seat‑share talks for UP polls",
+  "hook": "A quick 20‑minute meeting could shape Uttar Pradesh’s election map.",
+  "what": "Leaders from the Samajwadi Party and the Congress met at the Delhi home of MP Pramod Tiwari. The brief discussion lasted around twenty minutes, and they plan to reconvene on November 24 to continue negotiations.",
+  "why": "The outcome will decide how the two parties divide contesting seats, influencing the choices young voters have in the state’s upcoming election.",
+  "tags": [
+   "UP",
+   "elections",
+   "seatshare",
+   "SP",
+   "Congress"
+  ]
+ },
+ "ml": {
+  "headline": "SP, Congress UP തിരഞ്ഞെടുപ്പിനായി സീറ്റ്‑ഷെയർ ചർച്ചകൾ തുടങ്ങി",
+  "hook": "20 മിനിറ്റ് മാത്രം നീണ്ട യോഗം, ഉത്തർപ്രദേശ് തിരഞ്ഞെടുപ്പ് മാപ്പ് രൂപപ്പെടുത്താം",
+  "what": "Samajwadi Party, Congress നേതാക്കൾ MP പ്രമോദ് തിവാരി님의 ഡെൽഹി വസതിയിൽ കൂടിക്കാഴ്ച നടത്തി. ചർച്ച ഏകദേശം ഇരുപത് മിനിറ്റ് നീണ്ടു, നവംബർ 24-ന് വീണ്ടും കൂടാൻ പദ്ധതിയുണ്ട്.",
+  "why": "ഇരുവരുടെയും സീറ്റ് വിഭജനം സംസ്ഥാന തിരഞ്ഞെടുപ്പിൽ യുവവോട്ടർമാർക്ക് ലഭ്യമായ ഓപ്ഷനുകൾക്ക് വലിയ സ്വാധീനം ചെലുത്തും.",
+  "tags": [
+   "UP",
+   "തിരഞ്ഞെടുപ്പ്",
+   "സീറ്റ്‌ഷെയർ",
+   "SP",
+   "Congress"
+  ]
+ }
+}

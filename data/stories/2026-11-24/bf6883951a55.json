@@ -1,0 +1,37 @@
+{
+ "id": "bf6883951a55",
+ "created": "2026-11-24T08:24:51+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/money/rubber-prices-fall-by-rs-50-in-18-days-in-keralam-small-farmers-face-fresh-setback-gianp46n",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala rubber prices drop Rs 50 in 18 days",
+  "hook": "Rubber farmers see earnings shrink fast",
+  "what": "Rubber prices in Kerala fell by Rs 50 per kilogram over 18 days after reaching Rs 300 per kg on Nov 2. The decline has left small farmers concerned.",
+  "why": "Lower rubber prices affect incomes of many rural families, potentially impacting local economies. Young people in agriculture‑related jobs should monitor market trends.",
+  "tags": [
+   "rubber",
+   "kerala",
+   "farmers",
+   "prices",
+   "agri"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളത്തിൽ റബർ വില 18 ദിവസത്തിൽ 50 രൂപ കുറഞ്ഞു",
+  "hook": "റബർ കർഷകർക്ക് വരുമാനം വേഗത്തിൽ ചുരുങ്ങി",
+  "what": "കേരളത്തിലെ റബർ വില നവംബർ 2-ന് 300 രൂപയിൽ എത്തി, തുടർന്ന് 18 ദിവസത്തിൽ 50 രൂപ വീതം കുറഞ്ഞു. ഈ ഇടിവ് ചെറുകൃഷി കർഷകരെ ആശങ്കപ്പെടുത്തുന്നു.",
+  "why": "വില കുറയുന്നത് ഗ്രാമീണ കുടുംബങ്ങളുടെ വരുമാനത്തെ ബാധിക്കും, പ്രദേശിക സാമ്പത്തികത്തിൽ സ്വാധീനം ചെലുത്താം. കൃഷി ബന്ധപ്പെട്ട ജോലികളിൽ താൽപ്പര്യമുള്ള യുവാക്കൾ മാർക്കറ്റ് മാറ്റങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "റബർ",
+   "കേരളം",
+   "കർഷകർ",
+   "വില",
+   "കൃഷി"
+  ]
+ }
+}

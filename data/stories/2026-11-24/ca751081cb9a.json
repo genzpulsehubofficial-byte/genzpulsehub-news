@@ -1,0 +1,37 @@
+{
+ "id": "ca751081cb9a",
+ "created": "2026-11-24T08:24:54+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Mezha.net",
+ "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU1SVGpES29TZThkRjBxRXBscFF0VndXa3FrQ3BVbGw1YnRXcFV6NUFGM0VoMXRBS192NE9tMkd2dVNWZFFHVnRBQXVGUDcxaU4ta0Fkd0ZuUHFpaWdKTXNUZkRiN2lJaWc4WFJEQUdBX184NldtbUxRdWY4cE4wbQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Motorola Edge 70 Neo launches with 7,000 mAh battery",
+  "hook": "A massive battery and smooth 144Hz screen hit Indian shelves.",
+  "what": "Motorola introduced the Edge 70 Neo in India on Nov 24, featuring a 7,000 mAh battery and a 144Hz display. The device comes in a dark green finish and offers up to 8 GB RAM, removing the 12 GB option.",
+  "why": "The larger battery means longer gaming or streaming sessions without charging, and the high‑refresh screen improves visual fluidity—useful for mobile gamers and content creators.",
+  "tags": [
+   "Motorola",
+   "Edge70Neo",
+   "TechLaunch",
+   "Gaming",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Motorola Edge 70 Neo 7,000 mAh ബാറ്ററിയോടെ പുറത്തിറങ്ങി",
+  "hook": "വലിയ ബാറ്ററിയും 144Hz സ്‌ക്രീനും ഇനി ഇന്ത്യയിൽ.",
+  "what": "Motorola Nov 24-ന് Edge 70 Neo ഇന്ത്യയിൽ ലോഞ്ച് ചെയ്തു. 7,000 mAh ബാറ്ററിയും 144Hz ഡിസ്പ്ലേയും, ഡാർക്ക് ഗ്രീൻ കളറും, 8 GB RAM വരെ, 12 GB ഓപ്ഷൻ ഒഴിവാക്കി.",
+  "why": "വലുതായ ബാറ്ററി ഗെയിമിംഗും വീഡിയോ സ്റ്റ്രീമിംഗും കൂടുതൽ സമയം ചാർജ് ചെയ്യാതെ ചെയ്യാൻ സഹായിക്കും, ഉയർന്ന റിഫ്രെഷ് സ്‌ക്രീൻ സ്മൂത്ത് അനുഭവം നൽകും.",
+  "tags": [
+   "Motorola",
+   "Edge70Neo",
+   "Tech",
+   "Gaming",
+   "India"
+  ]
+ }
+}

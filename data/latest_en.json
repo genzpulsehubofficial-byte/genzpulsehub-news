@@ -1,5 +1,119 @@
 [
  {
+  "id": "468b094d23b1",
+  "created": "2026-11-24T08:23:45+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-sp-seat-sharing-discussions-to-continue-on-november-24/article71734959.ece",
+  "headline": "SP and Congress begin seat‑share talks for UP polls",
+  "hook": "A quick 20‑minute meeting could shape Uttar Pradesh’s election map.",
+  "what": "Leaders from the Samajwadi Party and the Congress met at the Delhi home of MP Pramod Tiwari. The brief discussion lasted around twenty minutes, and they plan to reconvene on November 24 to continue negotiations.",
+  "why": "The outcome will decide how the two parties divide contesting seats, influencing the choices young voters have in the state’s upcoming election.",
+  "tags": [
+   "UP",
+   "elections",
+   "seatshare",
+   "SP",
+   "Congress"
+  ]
+ },
+ {
+  "id": "56a3f6a53e6e",
+  "created": "2026-11-24T08:24:49+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
+  "headline": "CBI gets Kazakhstan to deport Haryana murder suspect",
+  "hook": "A wanted killer is finally on his way back to India.",
+  "what": "The Central Bureau of Investigation secured the deportation of a Haryana murder suspect who was in Kazakhstan. A Red Notice against the accused, Ashish Kumar, was issued via INTERPOL in September 2026.",
+  "why": "It shows that international cooperation can bring fugitives to justice, reinforcing safety and rule of law. Stay aware of legal updates.",
+  "tags": [
+   "CBI",
+   "Kazakhstan",
+   "Interpol",
+   "Haryana",
+   "Justice"
+  ]
+ },
+ {
+  "id": "bf6883951a55",
+  "created": "2026-11-24T08:24:51+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/money/rubber-prices-fall-by-rs-50-in-18-days-in-keralam-small-farmers-face-fresh-setback-gianp46n",
+  "headline": "Kerala rubber prices drop Rs 50 in 18 days",
+  "hook": "Rubber farmers see earnings shrink fast",
+  "what": "Rubber prices in Kerala fell by Rs 50 per kilogram over 18 days after reaching Rs 300 per kg on Nov 2. The decline has left small farmers concerned.",
+  "why": "Lower rubber prices affect incomes of many rural families, potentially impacting local economies. Young people in agriculture‑related jobs should monitor market trends.",
+  "tags": [
+   "rubber",
+   "kerala",
+   "farmers",
+   "prices",
+   "agri"
+  ]
+ },
+ {
+  "id": "ca751081cb9a",
+  "created": "2026-11-24T08:24:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Mezha.net",
+  "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU1SVGpES29TZThkRjBxRXBscFF0VndXa3FrQ3BVbGw1YnRXcFV6NUFGM0VoMXRBS192NE9tMkd2dVNWZFFHVnRBQXVGUDcxaU4ta0Fkd0ZuUHFpaWdKTXNUZkRiN2lJaWc4WFJEQUdBX184NldtbUxRdWY4cE4wbQ?oc=5",
+  "headline": "Motorola Edge 70 Neo launches with 7,000 mAh battery",
+  "hook": "A massive battery and smooth 144Hz screen hit Indian shelves.",
+  "what": "Motorola introduced the Edge 70 Neo in India on Nov 24, featuring a 7,000 mAh battery and a 144Hz display. The device comes in a dark green finish and offers up to 8 GB RAM, removing the 12 GB option.",
+  "why": "The larger battery means longer gaming or streaming sessions without charging, and the high‑refresh screen improves visual fluidity—useful for mobile gamers and content creators.",
+  "tags": [
+   "Motorola",
+   "Edge70Neo",
+   "TechLaunch",
+   "Gaming",
+   "India"
+  ]
+ },
+ {
+  "id": "42d174b43000",
+  "created": "2026-11-24T08:24:55+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWFZRVlPMFo0bW1hVUV6WTZIYnN6QjJwRldybmhRdWhqYmYtYW5jNUFfUVo2anhGMWxuV0NDTGRFU0tZR05GQXNNb1BtdWxiaE5zMXYxSU1ZdW8wc0c5WkIwSlZvVmJJMDQ2MmJwUF93U3N5b29xaUJVZjJQLXJNRmdTbmFNM1c0bU5Kb0k1eC00ai04MUszdktIbUt2VzUza21uWDZaTUo?oc=5",
+  "headline": "Blair Tickner out, Matt Fisher replaces him for India Test",
+  "hook": "New Zealand’s pace attack gets a shake‑up ahead of the second Test.",
+  "what": "Fast bowler Blair Tickner has been sidelined with a hamstring problem and will miss the second match against India. New Zealand has brought in Matt Fisher as his replacement.",
+  "why": "The change could affect the team’s bowling strength, so fans should keep an eye on the line‑up before the game starts.",
+  "tags": [
+   "cricket",
+   "NZvsIND",
+   "TestSeries",
+   "injury",
+   "teamnews"
+  ]
+ },
+ {
+  "id": "296c600eda08",
+  "created": "2026-11-24T08:24:58+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakdkVllkMHBtMU10ajkxYkFWUnRxTnJHellZendGUDctWGZhSi0xOXdyVzFublNqX0Joa3RJR3VMVlpOaVhPaHAzcENxcnN1c0VrelkxTU8ya2hENThadFVuTnQwelYzZkRjME1XTVRHYnVybEI5cXlTcjV5UDZ0OUwxaVV1VE9CWURHaXR6WGx4T19oX0QzM1FGSnNLS2JzdmV5YXduWkNXTnJQMU54ekZLMnlMelE1YWRTdWNmV095aHlKb2d2dDN3eGxmWmc?oc=5",
+  "headline": "Researchers test if MIND diet really boosts brain health",
+  "hook": "Is the popular brain‑food plan actually effective?",
+  "what": "Scientists conducted a study to evaluate the MIND diet’s impact on cognitive function. The research aimed to verify claims about its benefits for the brain.",
+  "why": "Knowing whether the diet works helps teens choose foods that support mental performance.",
+  "tags": [
+   "MINDdiet",
+   "brainhealth",
+   "nutrition",
+   "research",
+   "teens"
+  ]
+ },
+ {
   "id": "c1e90ee3d523",
   "created": "2026-11-24T07:28:40+05:30",
   "category": "headlines",
@@ -636,118 +750,6 @@
    "contest",
    "awareness",
    "India"
-  ]
- },
- {
-  "id": "7601f68fa236",
-  "created": "2026-11-24T01:17:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-  "headline": "Google AI Search now reads Drive and Wallet data",
-  "hook": "Your files and payments can now shape search answers",
-  "what": "Google has enabled AI Mode in Search to pull information from users’ Drive storage and Wallet. The Gemini app also receives the same personal‑intelligence feature. This lets the AI use existing Google data to give more tailored replies.",
-  "why": "For Gen Z, this means quicker, context‑aware answers using your own documents or payment info. Keep your data organized and review privacy settings before relying on the feature.",
-  "tags": [
-   "GoogleAI",
-   "Search",
-   "Drive",
-   "Wallet",
-   "GenZ"
-  ]
- },
- {
-  "id": "42dce5f6b948",
-  "created": "2026-11-24T01:17:10+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBQYzFFUGYwLTRBczV3SjZPRUdlSkhwTDAzY1pzRFAwR3NQSGdLQmlVclFPZVFSQjJWaUFTVy1aeDB6eXdVV0pUNUR0eV9jeFFrZ1NYaGtEVTNpcVl3Uk5ISktGMkFQQlNTMWdpZlMtaVdRcnVna0NURTRwUGxNUzZiNA?oc=5",
-  "headline": "ENE Repeat shines as weekend hit",
-  "hook": "The new Telugu film is pulling big crowds.",
-  "what": "ENE Repeat gathered an Rs 8 crore share in its first three days and kept momentum into day five. Critics call it a lively tribute to friendship and cinema.",
-  "why": "Its success shows regional movies can draw young audiences, so keep an eye on local releases for fresh entertainment.",
-  "tags": [
-   "TeluguCinema",
-   "BoxOffice",
-   "ENERepeat",
-   "YouthMovies",
-   "WeekendHit"
-  ]
- },
- {
-  "id": "a093c642dc4b",
-  "created": "2026-11-24T01:17:13+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "WSJ",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
-  "headline": "CrowdStrike to acquire Zscaler in $44 billion stock swap",
-  "hook": "A massive cyber‑security deal could reshape the tech job market.",
-  "what": "CrowdStrike announced a deal to buy Zscaler using a stock‑exchange transaction valued at about $44 billion. The agreement will combine two leading cloud‑security firms under one ownership.",
-  "why": "The merger may boost demand for cybersecurity skills, a sector where Indian youth can find career opportunities. Keep an eye on related hiring trends.",
-  "tags": [
-   "cybersecurity",
-   "technews",
-   "stockswap",
-   "jobs",
-   "India"
-  ]
- },
- {
-  "id": "e7b2f1f21e3e",
-  "created": "2026-11-24T00:06:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/man-gets-death-sentence-for-sisters-murder-jumps-from-5th-floor-dies-12367978#publisher=newsstand",
-  "headline": "Man sentenced to death for sister's murder kills himself",
-  "hook": "He jumped from the courtroom building right after the verdict.",
-  "what": "A man received a death penalty for killing his sister. After leaving the courtroom, he leapt from the fifth floor of the building and died.",
-  "why": "The event shows how severe court rulings can affect mental health, reminding young people to seek support when under stress.",
-  "tags": [
-   "court",
-   "deathpenalty",
-   "suicide",
-   "crime"
-  ]
- },
- {
-  "id": "cee7642fe340",
-  "created": "2026-11-24T00:06:10+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
-  "headline": "Supreme Court calls out civic bodies for building code breaches",
-  "hook": "The top court says local officials are helping ignore construction rules.",
-  "what": "The Supreme Court highlighted that some civic authorities are actively colluding in serious violations of building bye‑laws. It has asked states and union territories to send suggestions on how to curb these breaches.",
-  "why": "Young people need safer homes and neighborhoods, so better enforcement can prevent unsafe structures. Authorities should review the guidelines and propose corrective steps.",
-  "tags": [
-   "SupremeCourt",
-   "buildingCodes",
-   "civicAuthorities",
-   "IndiaLaw"
-  ]
- },
- {
-  "id": "a2f14d06f82b",
-  "created": "2026-11-24T00:06:12+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-  "headline": "Nvidia CEO Jensen Huang to testify before Senate next week",
-  "hook": "The chip boss faces a high‑stakes Senate grilling",
-  "what": "Jensen Huang, newly reinstated as Nvidia’s chief executive, is slated to appear at a Senate hearing next week. Lawmakers from both parties have asked him to discuss a matter involving a suspected Chinese spy.",
-  "why": "The hearing shows how global tech leaders can get caught up in geopolitics, which may affect the AI, gaming and app ecosystems that Indian youth rely on. Keep an eye on any policy shifts that could impact tech products and services.",
-  "tags": [
-   "Nvidia",
-   "Senate",
-   "TechPolitics",
-   "AI",
-   "China"
   ]
  }
 ]

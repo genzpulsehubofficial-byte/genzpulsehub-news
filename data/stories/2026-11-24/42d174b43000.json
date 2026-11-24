@@ -1,0 +1,37 @@
+{
+ "id": "42d174b43000",
+ "created": "2026-11-24T08:24:55+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWFZRVlPMFo0bW1hVUV6WTZIYnN6QjJwRldybmhRdWhqYmYtYW5jNUFfUVo2anhGMWxuV0NDTGRFU0tZR05GQXNNb1BtdWxiaE5zMXYxSU1ZdW8wc0c5WkIwSlZvVmJJMDQ2MmJwUF93U3N5b29xaUJVZjJQLXJNRmdTbmFNM1c0bU5Kb0k1eC00ai04MUszdktIbUt2VzUza21uWDZaTUo?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Blair Tickner out, Matt Fisher replaces him for India Test",
+  "hook": "New Zealand’s pace attack gets a shake‑up ahead of the second Test.",
+  "what": "Fast bowler Blair Tickner has been sidelined with a hamstring problem and will miss the second match against India. New Zealand has brought in Matt Fisher as his replacement.",
+  "why": "The change could affect the team’s bowling strength, so fans should keep an eye on the line‑up before the game starts.",
+  "tags": [
+   "cricket",
+   "NZvsIND",
+   "TestSeries",
+   "injury",
+   "teamnews"
+  ]
+ },
+ "ml": {
+  "headline": "Blair Tickner ഇല്ല, Matt Fisher India Test‑ൽ വരുന്നു",
+  "hook": "India‑വിരുദ്ധ രണ്ടാം ടെസ്റ്റിന് മുമ്പ് New Zealand‑ന്റെ പെയ്സ്‌മെയ്ക്ക് മാറ്റം.",
+  "what": "Fast bowler Blair Tickner-ന് ഹാംസ്‌ട്രിംഗ് പരിക്ക് വന്നതിനാൽ India‑വിരുദ്ധ രണ്ടാം ടെസ്റ്റ് കളിക്കാൻ കഴിയില്ല. New Zealand Matt Fisher-നെ പുതിയ സീമറായി വിളിച്ചു.",
+  "why": "ഈ മാറ്റം ടീമിന്റെ ബോൾിംഗ് ശക്തിയെ ബാധിക്കാം, അതിനാൽ ഗെയിം തുടങ്ങുന്നതിന് മുൻപ് ലൈനപ്പ് നോക്കണം.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "NZvsIND",
+   "ടെസ്റ്റ്",
+   "ഇഞ്ചറി",
+   "ടീംന്യൂസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "296c600eda08",
+ "created": "2026-11-24T08:24:58+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "News-Medical",
+ "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakdkVllkMHBtMU10ajkxYkFWUnRxTnJHellZendGUDctWGZhSi0xOXdyVzFublNqX0Joa3RJR3VMVlpOaVhPaHAzcENxcnN1c0VrelkxTU8ya2hENThadFVuTnQwelYzZkRjME1XTVRHYnVybEI5cXlTcjV5UDZ0OUwxaVV1VE9CWURHaXR6WGx4T19oX0QzM1FGSnNLS2JzdmV5YXduWkNXTnJQMU54ekZLMnlMelE1YWRTdWNmV095aHlKb2d2dDN3eGxmWmc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Researchers test if MIND diet really boosts brain health",
+  "hook": "Is the popular brain‑food plan actually effective?",
+  "what": "Scientists conducted a study to evaluate the MIND diet’s impact on cognitive function. The research aimed to verify claims about its benefits for the brain.",
+  "why": "Knowing whether the diet works helps teens choose foods that support mental performance.",
+  "tags": [
+   "MINDdiet",
+   "brainhealth",
+   "nutrition",
+   "research",
+   "teens"
+  ]
+ },
+ "ml": {
+  "headline": "ഗവേഷകർ MIND ഡയറ്റ് മസ്തിഷ്‌കം മെച്ചപ്പെടുത്തുമോ എന്ന് പരിശോധിച്ചു",
+  "hook": "പ്രചാരം നേടിയ മസ്തിഷ്‌കം‑പോഷക പദ്ധതി യഥാർത്ഥത്തിൽ ഫലപ്രദമാണോ?",
+  "what": "ശാസ്ത്രജ്ഞർ MIND ഡയറ്റിന്റെ ബുദ്ധി പ്രവർത്തനത്തിൽ ഉള്ള സ്വാധീനം വിലയിരുത്താൻ ഒരു പഠനം നടത്തി. ഈ ഗവേഷണം അതിന്റെ മസ്തിഷ്‌ക ഗുണങ്ങളെക്കുറിച്ചുള്ള അവകാശവാദങ്ങൾ പരിശോധിച്ചു.",
+  "why": "ഡയറ്റ് ഫലപ്രദമാണോ എന്ന് അറിയുന്നത്, യുവാക്കൾക്ക് മാനസിക പ്രകടനത്തിന് ശരിയായ ഭക്ഷണം തിരഞ്ഞെടുക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "MINDഡയറ്റ്",
+   "മസ്തിഷ്കം",
+   "പോഷകാഹാരം",
+   "ഗവേഷണം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

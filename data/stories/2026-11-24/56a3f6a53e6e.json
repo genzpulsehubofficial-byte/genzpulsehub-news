@@ -1,0 +1,37 @@
+{
+ "id": "56a3f6a53e6e",
+ "created": "2026-11-24T08:24:49+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "CBI gets Kazakhstan to deport Haryana murder suspect",
+  "hook": "A wanted killer is finally on his way back to India.",
+  "what": "The Central Bureau of Investigation secured the deportation of a Haryana murder suspect who was in Kazakhstan. A Red Notice against the accused, Ashish Kumar, was issued via INTERPOL in September 2026.",
+  "why": "It shows that international cooperation can bring fugitives to justice, reinforcing safety and rule of law. Stay aware of legal updates.",
+  "tags": [
+   "CBI",
+   "Kazakhstan",
+   "Interpol",
+   "Haryana",
+   "Justice"
+  ]
+ },
+ "ml": {
+  "headline": "CBI-ക്ക് ഖസഖ്സ്താനിൽ നിന്ന് ഹരിയാനാ കുറ്റവാളി ഡിപോർട്ട്",
+  "hook": "ഇന്റർപോൾ റെഡ് നോട്ട്‌ ഉള്ള ഒരു കൊലപാതക സംശയിതൻ ഇന്ത്യയിലേക്ക് തിരിച്ചു വരുന്നു.",
+  "what": "കേന്ദ്ര അന്വേഷണ ബ്യൂറോ (CBI) ഖസഖ്സ്താനിൽ നിന്ന് ഹരിയാനാ കൊലപാതക സംശയിതനെ ഡിപോർട്ട് ചെയ്യാൻ ഉറപ്പിച്ചു. സെപ്റ്റംബർ 2026-ൽ ഇന്റർപോൾ വഴി ആഷിഷ് കുമാറിന് റെഡ് നോട്ട് പുറപ്പെടുവിച്ചിരുന്നു.",
+  "why": "ഇത് അന്തർദേശീയ സഹകരണത്തോടെ കുറ്റവാളികളെ പിടിക്കാനാകുമെന്ന് കാണിക്കുന്നു, നിയമം പാലിക്കപ്പെടുന്നതിന് ഉറപ്പ് നൽകുന്നു. യുവജനങ്ങൾ നിയമ വാർത്തകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "CBI",
+   "Kazakhstan",
+   "Interpol",
+   "Haryana",
+   "Justice"
+  ]
+ }
+}
