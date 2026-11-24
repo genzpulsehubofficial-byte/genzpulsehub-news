@@ -1,0 +1,37 @@
+{
+ "id": "3f6ac050c459",
+ "created": "2026-11-24T10:28:38+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/gold-rate-today-november-24-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10975933/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold prices for 18-24 carat listed across major cities",
+  "hook": "Check today’s gold rates before you shop or invest.",
+  "what": "The latest rates for 18, 22 and 24 carat gold have been released for cities such as Chennai, Mumbai, Delhi and Kolkata. Prices differ by city and purity. The information is current for November 24.",
+  "why": "Young shoppers and investors can use these figures to plan purchases or gauge market trends. Watching the rates helps avoid surprise costs.",
+  "tags": [
+   "gold",
+   "prices",
+   "india",
+   "investing",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "18‑24 കാരറ്റ് ഗോള്‍ഡ് വിലകള്‍ പ്രധാന നഗരങ്ങളില്‍",
+  "hook": "ഇന്ന് ഗോള്‍ഡ് വില പരിശോധിച്ച് ഷോപ്പിംഗ് അല്ലെങ്കില്‍ നിക്ഷേപം പ്ലാന്‍ ചെയ്യൂ.",
+  "what": "ചെന്നൈ, മുംബൈ, ഡെല്‍ഹി, കൊല്‍ക്കത്ത എന്നിവിടങ്ങളിലെ 18, 22, 24 കാരറ്റ് ഗോള്‍ഡ് വിലകള്‍ നവംബർ 24 ന് അപ്ഡേറ്റ് ചെയ്തു. നഗരവും ശുദ്ധതയും അനുസരിച്ച് വില വ്യത്യാസം കാണാം.",
+  "why": "യുവ നിക്ഷേപകരും ഷോപ്പറുകളും ഈ വിവരങ്ങള്‍ ഉപയോഗിച്ച് വാങ്ങല്‍ അല്ലെങ്കില്‍ നിക്ഷേപം തീരുമാനിക്കാം. വില മാറ്റങ്ങള്‍ ശ്രദ്ധയില്‍ വെക്കുക.",
+  "tags": [
+   "ഗോള്‍ഡ്",
+   "വില",
+   "ഇന്ത്യ",
+   "നിക്ഷേപം",
+   "ഫിനാന്‍സ്"
+  ]
+ }
+}

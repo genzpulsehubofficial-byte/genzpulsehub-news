@@ -1,0 +1,37 @@
+{
+ "id": "a3b407a6363e",
+ "created": "2026-11-24T10:28:21+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/kannauj-road-accident-student-children-killed-injured-november-24-2026/article71737189.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Truck hits school bus in Kannauj, 4 kids dead",
+  "hook": "A school trip turned tragic after a truck slammed into a stopped bus.",
+  "what": "A stationary school bus carrying about 50 passengers, including students returning from a Taj Mahal outing, was struck by a truck in Kannauj, Uttar Pradesh. The collision killed at least four children and injured 32 others.",
+  "why": "Such accidents highlight road safety concerns for school trips; students and parents should ensure proper travel arrangements and vigilance.",
+  "tags": [
+   "road safety",
+   "school accident",
+   "Uttar Pradesh",
+   "students",
+   "Kannauj"
+  ]
+ },
+ "ml": {
+  "headline": "കന്നൗജില്‍ ട്രക്ക് സ്‌കൂൾ ബസ് തട്ടിയതോടെ 4 കുട്ടികള്‍ മരണം",
+  "hook": "താജ്മഹൽ യാത്രയിലേയ്ക്ക് മടങ്ങിയിരുന്ന സ്കൂൾ ബസ്, ട്രക്കിന്റെ ഇടിയോടെ ദുഃഖകരമായ സംഭവം.",
+  "what": "ഉത്തരപ്രദേശിലെ കന്നൗജില്‍ ഒരു നിർത്തിയിരുന്ന സ്കൂൾ ബസ്, താജ്മഹലിലേക്കുള്ള യാത്രയില്‍ നിന്നു മടങ്ങി വരുന്നതായിരുന്നു, ഏകദേശം 50 ആളുകളെ, കുട്ടികളെയും ഉള്‍പ്പെടുത്തി, ഒരു ട്രക്കിന് ഇടയിലായി. ഇതില്‍ കുറഞ്ഞത് നാല് കുട്ടികള്‍ മരിക്കുകയും 32 പേർക്ക് പരിക്ക് വരികയും ചെയ്തു.",
+  "why": "ഇത്തരത്തിലുള്ള അപകടങ്ങള്‍ സ്കൂൾ യാത്രകളിലെ സുരക്ഷാ പ്രശ്നങ്ങള്‍ ചൂണ്ടിക്കാട്ടുന്നു; വിദ്യാർത്ഥികളും മാതാപിതാക്കളും യാത്രാ ക്രമീകരണങ്ങളും ജാഗ്രതയും ഉറപ്പാക്കണം.",
+  "tags": [
+   "റോഡ് സുരക്ഷ",
+   "സ്കൂൾ അപകടം",
+   "ഉത്തരപ്രദേശം",
+   "വിദ്യാർത്ഥികൾ",
+   "കന്നൗജ്"
+  ]
+ }
+}

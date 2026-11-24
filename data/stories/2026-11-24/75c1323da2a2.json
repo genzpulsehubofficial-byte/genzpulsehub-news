@@ -1,0 +1,37 @@
+{
+ "id": "75c1323da2a2",
+ "created": "2026-11-24T10:28:39+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "US puts Singapore AI firm Megaspeed on export blacklist",
+  "hook": "A Singapore AI startup is now barred from US trade.",
+  "what": "The United States added Megaspeed to its export control list after a spying controversy linked to Nvidia. The decision follows concerns about the company's involvement in the scandal.",
+  "why": "The move may affect access to US AI tools for Indian students and startups, so keep an eye on trade regulations.",
+  "tags": [
+   "tech",
+   "USpolicy",
+   "AI",
+   "trade",
+   "Singapore"
+  ]
+ },
+ "ml": {
+  "headline": "US സിംഗപ്പൂർ AI കമ്പനി Megaspeed-നെ എക്സ്പോർട്ട് ബ്ലാക്ക്ലിസ്റ്റിലാക്കി",
+  "hook": "ഒരു സിംഗപ്പൂർ AI സ്റ്റാർട്ടപ്പ് ഇപ്പോൾ US വ്യാപാരത്തിൽ നിന്ന് തടയപ്പെട്ടു.",
+  "what": "Nvidia-യുമായി ബന്ധപ്പെട്ട ചോറിയോപ്പം കാരണം US Megaspeed-നെ എക്സ്പോർട്ട് നിയന്ത്രണ പട്ടികയിൽ ചേർത്തു. കമ്പനി സ്കാൻഡലിൽ പങ്കാളിയായതിനെക്കുറിച്ച് ആശങ്കകൾ ഉണ്ട്.",
+  "why": "ഇത് ഇന്ത്യയിലെ വിദ്യാർത്ഥികളുടെയും സ്റ്റാർട്ടപ്പുകളുടെയും US AI ഉപകരണങ്ങളിലേക്കുള്ള പ്രവേശനത്തെ ബാധിക്കാം, അതിനാൽ വ്യാപാര നിയമങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "tech",
+   "USpolicy",
+   "AI",
+   "trade",
+   "Singapore"
+  ]
+ }
+}

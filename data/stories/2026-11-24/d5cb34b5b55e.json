@@ -1,0 +1,37 @@
+{
+ "id": "d5cb34b5b55e",
+ "created": "2026-11-24T10:28:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-price-in-bangalore-today-24-november-tuesday-check-latest-24k-22k-and-20k-gold-rates-in-silicon-valley-of-india-11795494486201.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bangalore gold prices edge up on Nov 24",
+  "hook": "A slight rise could affect your savings plans.",
+  "what": "Gold rates in Bangalore increased modestly on Tuesday, 24 November. The update lists current prices for 24K, 22K, 20K and 18K gold, and shows how they compare with the past week, month and a year ago.",
+  "why": "Even a small change can impact buying decisions for jewellery or investments, so keep an eye on the latest rates before making a purchase.",
+  "tags": [
+   "gold",
+   "Bangalore",
+   "prices",
+   "investments",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ബെംഗളൂരുവിലെ സ്വർണ്ണവിലകൾ 24 നവംബർ ദിവസം ചെറുതായി ഉയർന്നു",
+  "hook": "ചെറു വർധനവു നിങ്ങളുടെ സംരക്ഷണ പദ്ധതികളെ ബാധിക്കാം.",
+  "what": "24 നവംബർ ചൊവ്വാഴ്ച ബെംഗളൂരുവിലെ സ്വർണ്ണവിലകൾ ചെറുതായി ഉയർന്നു. 24K, 22K, 20K, 18K സ്വർണ്ണത്തിന്റെ നിലവിലെ നിരക്കുകളും, കഴിഞ്ഞ ആഴ്ച, മാസം, ഒരു വർഷം മുൻപുള്ള വിലകളുമായി താരതമ്യം ചെയ്യുന്നതും ഈ അപ്ഡേറ്റിൽ ഉൾപ്പെടുത്തിയിരിക്കുന്നു.",
+  "why": "ചെറു മാറ്റം പോലും ആഭരണമോ നിക്ഷേപമോ വാങ്ങുന്നതിൽ സ്വാധീനം ചെലുത്താം; വാങ്ങൽ തീരുമാനമെടുക്കുന്നതിന് മുമ്പ് പുതിയ നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വർണം",
+   "ബെംഗളൂർ",
+   "വില",
+   "നിക്ഷേപം",
+   "യുവാക്കൾ"
+  ]
+ }
+}

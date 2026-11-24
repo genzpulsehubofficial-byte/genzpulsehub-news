@@ -1,5 +1,119 @@
 [
  {
+  "id": "a3b407a6363e",
+  "created": "2026-11-24T10:28:21+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/kannauj-road-accident-student-children-killed-injured-november-24-2026/article71737189.ece",
+  "headline": "Truck hits school bus in Kannauj, 4 kids dead",
+  "hook": "A school trip turned tragic after a truck slammed into a stopped bus.",
+  "what": "A stationary school bus carrying about 50 passengers, including students returning from a Taj Mahal outing, was struck by a truck in Kannauj, Uttar Pradesh. The collision killed at least four children and injured 32 others.",
+  "why": "Such accidents highlight road safety concerns for school trips; students and parents should ensure proper travel arrangements and vigilance.",
+  "tags": [
+   "road safety",
+   "school accident",
+   "Uttar Pradesh",
+   "students",
+   "Kannauj"
+  ]
+ },
+ {
+  "id": "3f6ac050c459",
+  "created": "2026-11-24T10:28:38+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/gold-rate-today-november-24-check-18-22-and-24-carat-gold-prices-in-chennai-mumbai-delhi-kolkata-and-other-cities-10975933/",
+  "headline": "Gold prices for 18-24 carat listed across major cities",
+  "hook": "Check today’s gold rates before you shop or invest.",
+  "what": "The latest rates for 18, 22 and 24 carat gold have been released for cities such as Chennai, Mumbai, Delhi and Kolkata. Prices differ by city and purity. The information is current for November 24.",
+  "why": "Young shoppers and investors can use these figures to plan purchases or gauge market trends. Watching the rates helps avoid surprise costs.",
+  "tags": [
+   "gold",
+   "prices",
+   "india",
+   "investing",
+   "finance"
+  ]
+ },
+ {
+  "id": "75c1323da2a2",
+  "created": "2026-11-24T10:28:39+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzQzaW8ybWpocDRMUXdIRU1XWXk5TmZEa0F4VG10U19qamdObWdpMDFKeFNsdWMtRlI2RDRxUDllUm9WaTEyVlc3MllMZWZueVRIWGtVTTZJdVhyQm1DbnVaNU1YMkRhbHdKQUxRT3FOQ2dXOXR4LXlnNXBNVkpKeE9hQlRzbHhLbWJHdlMydHllMGJMamNCVm04TWwxUUtRTXhhQUZoY3ZONURYVHFpdDliWWRONGR1NHfSAb8BQVVfeXFMTUtjTm5TTXAxUTFsSERQWTlKQ1c2NDd0NVJDa1dBTm1fSEJyZ2hGZTRJX29YamI4TFB1TUJiY0hoTjQtWk41aUpObzFGX0E5QVBCNFZUNzFyNHh6c2JkcU90MWxXZVE3WnpZOFdlR2VCU1MwemJvTGVOZTJLLXZUY201N0hVc0RhYjUyejluZ0U5UDhZZ2MyeU1MbXh6RkpJSUx5dmtub2F5bW9GZFF1Z0JJQTVOeGNvLXk0cHhMam8?oc=5",
+  "headline": "US puts Singapore AI firm Megaspeed on export blacklist",
+  "hook": "A Singapore AI startup is now barred from US trade.",
+  "what": "The United States added Megaspeed to its export control list after a spying controversy linked to Nvidia. The decision follows concerns about the company's involvement in the scandal.",
+  "why": "The move may affect access to US AI tools for Indian students and startups, so keep an eye on trade regulations.",
+  "tags": [
+   "tech",
+   "USpolicy",
+   "AI",
+   "trade",
+   "Singapore"
+  ]
+ },
+ {
+  "id": "6134c2783518",
+  "created": "2026-11-24T10:28:41+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-launches-avalkkoppam-initiative-against-violence-on-women-pti890vasgv",
+  "headline": "Kerala launches Avalkkoppam to curb women’s violence",
+  "hook": "A new state drive tackles abuse at home and online.",
+  "what": "The government is starting the Avalkkoppam program, targeting domestic and cyber abuse against women. It aligns with the global 16‑day Orange the World campaign.",
+  "why": "Young people can learn about safe digital habits and support victims, helping build a safer community.",
+  "tags": [
+   "Kerala",
+   "WomenSafety",
+   "Campaign",
+   "OrangeTheWorld",
+   "Avalkkoppam"
+  ]
+ },
+ {
+  "id": "d5cb34b5b55e",
+  "created": "2026-11-24T10:28:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-price-in-bangalore-today-24-november-tuesday-check-latest-24k-22k-and-20k-gold-rates-in-silicon-valley-of-india-11795494486201.html",
+  "headline": "Bangalore gold prices edge up on Nov 24",
+  "hook": "A slight rise could affect your savings plans.",
+  "what": "Gold rates in Bangalore increased modestly on Tuesday, 24 November. The update lists current prices for 24K, 22K, 20K and 18K gold, and shows how they compare with the past week, month and a year ago.",
+  "why": "Even a small change can impact buying decisions for jewellery or investments, so keep an eye on the latest rates before making a purchase.",
+  "tags": [
+   "gold",
+   "Bangalore",
+   "prices",
+   "investments",
+   "youth"
+  ]
+ },
+ {
+  "id": "4afdc7fbaa5b",
+  "created": "2026-11-24T10:28:46+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/games/features/gta-6-weapons-guide-full-list-of-all-guns-and-items-available-in-game-12367875",
+  "headline": "Complete GTA 6 Weapons List Now Available",
+  "hook": "All the guns you’ll need in GTA 6, in one guide.",
+  "what": "A new guide has compiled every firearm, rifle and other weapon featured in GTA 6. The list covers the full range of armaments players can find in the game.",
+  "why": "Knowing the available weapons helps gamers plan their gameplay and choose the right gear. Check the guide before diving into missions.",
+  "tags": [
+   "GTA6",
+   "gaming",
+   "weapons",
+   "guide",
+   "teens"
+  ]
+ },
+ {
   "id": "e77457ee3096",
   "created": "2026-11-24T09:23:21+05:30",
   "category": "tech",
@@ -638,118 +752,6 @@
    "AI",
    "merger",
    "jobs"
-  ]
- },
- {
-  "id": "6e8bd5fcd744",
-  "created": "2026-11-24T03:06:39+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Moneycontrol.com",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOemhfYmlWWVpBMTBQT18yVGxhU0t3Rno4ODFONXZlZVN5SmZGa2ZEdFgxc0ZJdjZORDNfQWY3R25Vdld3Zk5pNU9HZGJvMEIxdUwxY0lNOTFYQjl0NkdVbUlLLVMwVVFyUklJazZsNEZKUlU2eWF3X1VoX29wbWs2Mk9WazlMQkVTVFB1NlVRUlh2c25CYmQwUk52dXJHQlZBY2gtVjB1bGJ4NHJRR0g5VTJCdFJSTmxqX2V3MlpQR2JXekZLcjJtUVJ2T3JSSzdjX216RjNWdVg4MFFrckhhVmdRWnlfWGVKT0k4UkhjeWM2dS05NWfSAfsBQVVfeXFMTVZwaldmTEZ4Y2lHRjFJbzA3NFEtZ0E1Q1ZmcFZEa3BTNUNTTjJFVkpHel9vb2pYZldESFpWVGR6TTM4X1dxV0dsNzFoUXA3SXlaT1pkZk9maHBuT3ZENC1aVkdjSnZSTmlfazJGOFotQkJTcGVENS16dDZVOWM5OHJwMmtqY2NXR3l3X0NIQ2I3X24xMzJERmsyYWdVREx2aGpwUFdNczVrU0J1Vi10dlVYbnFFcHhfcWViODBBLU5LYTRHUEIyY0dabkJmT3FLUUZVZEpTZUNHVzJoZXEyN1dYVl9SdXRLNGg0MXJQUTFMeWx3UThiLUtzMlU?oc=5",
-  "headline": "RBI Plans ‘Stop Switch’ to Halt Outgoing Payments",
-  "hook": "Your big transfers may need a trusted person’s nod.",
-  "what": "The Reserve Bank of India has drafted a ‘Stop Switch’ that can freeze all outgoing digital payments. For high‑value transfers, banks would require approval from a pre‑selected trusted person. The move aims to tighten security against payment fraud.",
-  "why": "It gives users more control and could protect teens from losing money in scams. Keep your trusted contacts updated in your bank app.",
-  "tags": [
-   "RBI",
-   "digitalPayments",
-   "fraudPrevention",
-   "banking"
-  ]
- },
- {
-  "id": "a6226c73b2bf",
-  "created": "2026-11-24T03:06:41+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "India Today",
-  "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5",
-  "headline": "Google, Microsoft to pause hiring in India by 2027",
-  "hook": "Big tech may stop hiring and cut jobs soon.",
-  "what": "Google and Microsoft said they will freeze hiring in India starting in 2027. Google is also reportedly planning another round of layoffs.",
-  "why": "This could limit job opportunities for fresh graduates and interns; students should look at other tech firms or upgrade their skills.",
-  "tags": [
-   "Google",
-   "Microsoft",
-   "HiringFreeze",
-   "Layoffs",
-   "TechJobs"
-  ]
- },
- {
-  "id": "fe61c52bf33a",
-  "created": "2026-11-24T02:15:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cjps-saurav-das-claims-he-was-stopped-at-delhi-airport-from-travelling-to-uk/article71736209.ece",
-  "headline": "CJP’s Saurav Das says Delhi immigration halted his UK flight",
-  "hook": "A top legal figure claims he was barred from leaving India.",
-  "what": "Saurav Das posted on X that Delhi immigration officials stopped him at the counter before his 1 a.m. flight to London. He says he was prevented from boarding.",
-  "why": "The incident raises questions about travel restrictions and legal processes, urging young Indians to stay aware of immigration rules.",
-  "tags": [
-   "Delhi",
-   "Immigration",
-   "Travel",
-   "UK",
-   "Legal"
-  ]
- },
- {
-  "id": "2475b067992d",
-  "created": "2026-11-24T02:15:08+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-  "headline": "Nvidia staff hail CEO Jensen Huang on HQ return",
-  "hook": "The Nvidia boss got a hero’s welcome back at the office.",
-  "what": "Jensen Huang walked into Nvidia’s headquarters and was greeted enthusiastically by employees. He told the team he aims to be a better CEO this time.",
-  "why": "For Indian tech fans, it shows leadership changes can spark excitement and may shape the company’s future products. Keep an eye on Nvidia’s moves if you follow AI or gaming tech.",
-  "tags": [
-   "Nvidia",
-   "CEO",
-   "Tech",
-   "AI",
-   "Gaming"
-  ]
- },
- {
-  "id": "892b93d368f9",
-  "created": "2026-11-24T02:15:11+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/proposal-for-extending-scholarship-to-sri-lankan-students-to-pursue-medical-education-in-tamil-nadu/article71735477.ece",
-  "headline": "Tamil Nadu proposes scholarships for Sri Lankan medical students",
-  "hook": "Study medicine in India with a new scholarship offer",
-  "what": "A proposal has been submitted to extend scholarships to Sri Lankan students who want to pursue medical courses in Tamil Nadu. The plan aims to help cover their education expenses.",
-  "why": "This could boost regional collaboration and create fresh opportunities for youths interested in medical fields. Keep an eye out for updates if you’re considering studying abroad.",
-  "tags": [
-   "scholarship",
-   "medicalEducation",
-   "SriLanka",
-   "TamilNadu",
-   "studyAbroad"
-  ]
- },
- {
-  "id": "51e9740479f1",
-  "created": "2026-11-24T02:15:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/steadview-capital-sells-lenskart-shares-worth-%e2%82%b9921-cr/",
-  "headline": "Steadview Capital offloads Lenskart shares worth ₹921 cr",
-  "hook": "Big hedge fund trims its stake in India's eyewear leader.",
-  "what": "Steadview Capital, an early investor, sold about 1.27 crore Lenskart shares through several block trades. The transaction is valued at roughly ₹921 crore.",
-  "why": "The move signals a shift in the fund's exposure to the eyewear market and may influence market sentiment for young investors watching Indian startups.",
-  "tags": [
-   "Lenskart",
-   "Steadview",
-   "Stocks",
-   "Investing"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "6134c2783518",
+ "created": "2026-11-24T10:28:41+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-launches-avalkkoppam-initiative-against-violence-on-women-pti890vasgv",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala launches Avalkkoppam to curb women’s violence",
+  "hook": "A new state drive tackles abuse at home and online.",
+  "what": "The government is starting the Avalkkoppam program, targeting domestic and cyber abuse against women. It aligns with the global 16‑day Orange the World campaign.",
+  "why": "Young people can learn about safe digital habits and support victims, helping build a safer community.",
+  "tags": [
+   "Kerala",
+   "WomenSafety",
+   "Campaign",
+   "OrangeTheWorld",
+   "Avalkkoppam"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം ആരംഭിച്ചു അവൾക്കൊപ്പം: സ്ത്രീകളിലെ ഹിംസക്ക് വിരുദ്ധം",
+  "hook": "വീട്ടിലും ഓൺലൈനിലും ഉള്ള ദുരുപയോഗം നിർത്താൻ സംസ്ഥാനത്തിന്റെ പുതിയ ശ്രമം.",
+  "what": "അവൾക്കൊപ്പം എന്ന പദ്ധതി, വീട്ടിലെയും സൈബർ ഹിംസയെയും ലക്ഷ്യമാക്കി, 16‑ദിന ‘ഓറഞ്ച് ദി വേൾഡ്’ ക്യാമ്പെയിനിന്റെ ഭാഗമാണ്.",
+  "why": "യുവാക്കൾ ഡിജിറ്റൽ സുരക്ഷയും പിന്തുണയും കുറിച്ച് അറിഞ്ഞ്, സുരക്ഷിത സമൂഹം സൃഷ്ടിക്കാൻ സഹായിക്കാം.",
+  "tags": [
+   "കേരളം",
+   "സ്ത്രീസുരക്ഷ",
+   "ക്യാമ്പെയിൻ",
+   "ഓറഞ്ച് ദി വേൾഡ്",
+   "അവൾക്കൊപ്പം"
+  ]
+ }
+}
