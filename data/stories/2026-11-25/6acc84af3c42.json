@@ -1,0 +1,37 @@
+{
+ "id": "6acc84af3c42",
+ "created": "2026-11-25T04:21:57+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Journal of Medical Internet Research (JMIR)",
+ "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcDltTVI3U3haVTRXNjNwN1pQd0ZrOUx2eTZObVBDUUNVdVhqZVdSanRudU5mYjVmb3llSnozd2JxOHZKdi1mak1fbw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "AI diet apps don’t outshine traditional meal plans",
+  "hook": "A recent Aussie study says AI isn’t a magic fix for nutrition.",
+  "what": "Researchers compared an AI‑driven diet approach with standard dietary advice. The AI system tried to estimate calories and nutrients from food photos. Results showed no clear benefit over conventional methods.",
+  "why": "For students tracking meals, sticking to proven diet guidelines may be just as effective as fancy apps. Keep logging food and stay aware of nutrition basics.",
+  "tags": [
+   "AI",
+   "nutrition",
+   "diet",
+   "study",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "AI ഡയറ്റ് ആപ്പുകൾ പരമ്പരാഗത ഭക്ഷണപദ്ധതിയെ മറികടക്കില്ല",
+  "hook": "ഓസ്‌ട്രേലിയയിൽ നടത്തിയ പഠനം AI പോഷക കണക്കുകൾ മാജിക്‌മല്ലെന്ന് പറയുന്നു.",
+  "what": "ഗവേഷകർ AI‑അധിഷ്ഠിത ഡയറ്റ് രീതിയെ സാധാരണ ഭക്ഷണ ഉപദേശവുമായി താരതമ്യം ചെയ്തു. AI സിസ്റ്റം ഭക്ഷണ ഫോട്ടോകളിൽ നിന്ന് കലോറി, പോഷകങ്ങൾ കണക്കാക്കാൻ ശ്രമിച്ചു. ഫലത്തിൽ പരമ്പരാഗത രീതികളേക്കാൾ വ്യക്തമായ നേട്ടം കാണാനായില്ല.",
+  "why": "ഭക്ഷണം ട്രാക്ക് ചെയ്യാൻ ശ്രമിക്കുന്ന വിദ്യാർത്ഥികൾക്ക്, പുതിയ ആപ്പുകൾക്കു പകരം ഉറപ്പുള്ള ഭക്ഷണ മാർഗ്ഗനിർദ്ദേശങ്ങൾ മതിയാകും. പോഷക അടിസ്ഥാനങ്ങൾ അറിയാൻ തുടർച്ചയായി ലോഗ് ചെയ്യുക.",
+  "tags": [
+   "AI",
+   "പോഷണം",
+   "ഡയറ്റ്",
+   "പഠനം",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ }
+}

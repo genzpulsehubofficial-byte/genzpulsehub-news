@@ -1,5 +1,99 @@
 [
  {
+  "id": "7a5947019eec",
+  "created": "2026-11-25T04:21:46+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+  "headline": "Nvidia CEO says succession plans add extra hierarchy",
+  "hook": "After a two‑week founder‑free trial, the boss still opposes a succession plan.",
+  "what": "Jensen Huang said that a formal succession plan would create unnecessary layers of management. Nvidia recently ran for two weeks without his direct leadership to test how the firm operates.",
+  "why": "Young professionals can learn how leadership decisions shape big‑tech culture and affect future job opportunities. Watching such moves helps you gauge the environment of future workplaces.",
+  "tags": [
+   "tech",
+   "leadership",
+   "succession",
+   "startup",
+   "Nvidia"
+  ]
+ },
+ {
+  "id": "f56339fa2708",
+  "created": "2026-11-25T04:21:50+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
+  "headline": "Kerala student brings gun to school, accidentally shoots classmate",
+  "hook": "A school prank turned deadly when a gun was fired.",
+  "what": "A student allegedly took a firearm to school to show it off. While handling it, the gun went off and injured a classmate. Police say the weapon was brought by the same classmate who was shot.",
+  "why": "It highlights the danger of weapons on campuses and the need for stricter safety checks. Students should report any suspicious items to authorities.",
+  "tags": [
+   "Kerala",
+   "school safety",
+   "gun",
+   "news"
+  ]
+ },
+ {
+  "id": "aa4de903f56e",
+  "created": "2026-11-25T04:21:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
+  "headline": "Assam CM says IPS clash not a big issue",
+  "hook": "Two top police officers squared off, but the chief says it's minor.",
+  "what": "A dispute broke out between two Indian Police Service officers at a battalion headquarters in western Assam on Nov 22, 2026. The state’s chief minister described the incident as not serious.",
+  "why": "Knowing about internal police tensions helps youths gauge law‑order stability; no immediate action needed.",
+  "tags": [
+   "Assam",
+   "Police",
+   "CM",
+   "IPS",
+   "news"
+  ]
+ },
+ {
+  "id": "42cb577d7e78",
+  "created": "2026-11-25T04:21:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "headline": "Walmart launches Black Friday shopping via Meta’s Muse AI",
+  "hook": "Grab holiday steals straight from a chat with Muse.",
+  "what": "Walmart has added its Black Friday offers to Meta’s AI chat agent, Muse. Shoppers can now browse and buy deals by talking to the virtual assistant.",
+  "why": "It speeds up holiday shopping for teens who live on messaging apps and shows how retailers are using AI to reach younger buyers.",
+  "tags": [
+   "Walmart",
+   "Meta",
+   "AI",
+   "BlackFriday",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "6acc84af3c42",
+  "created": "2026-11-25T04:21:57+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Journal of Medical Internet Research (JMIR)",
+  "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcDltTVI3U3haVTRXNjNwN1pQd0ZrOUx2eTZObVBDUUNVdVhqZVdSanRudU5mYjVmb3llSnozd2JxOHZKdi1mak1fbw?oc=5",
+  "headline": "AI diet apps don’t outshine traditional meal plans",
+  "hook": "A recent Aussie study says AI isn’t a magic fix for nutrition.",
+  "what": "Researchers compared an AI‑driven diet approach with standard dietary advice. The AI system tried to estimate calories and nutrients from food photos. Results showed no clear benefit over conventional methods.",
+  "why": "For students tracking meals, sticking to proven diet guidelines may be just as effective as fancy apps. Keep logging food and stay aware of nutrition basics.",
+  "tags": [
+   "AI",
+   "nutrition",
+   "diet",
+   "study",
+   "students"
+  ]
+ },
+ {
   "id": "6e5f032fb046",
   "created": "2026-11-25T03:20:40+05:30",
   "category": "tech",
@@ -657,101 +751,6 @@
    "rising stars",
    "doha",
    "indvuae"
-  ]
- },
- {
-  "id": "09c554659873",
-  "created": "2026-11-24T21:06:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
-  "headline": "Ranbir Kapoor's 'Ramayana' hits ₹1,700 cr in 19 days",
-  "hook": "The epic just broke new box‑office records.",
-  "what": "The film crossed the ₹1,700 crore mark on its 19th day, with domestic earnings topping ₹1,000 crore and worldwide total exceeding ₹1,600 crore. It also became the top‑earning Indian movie overseas, excluding China, and outperformed 'Dhurandhar' in the US market.",
-  "why": "Such earnings show the strong pull of Indian mythological cinema among young audiences; fans can watch the movie in theatres with lower ticket prices now.",
-  "tags": [
-   "Ramayana",
-   "BoxOffice",
-   "RanbirKapoor",
-   "IndianCinema",
-   "Records"
-  ]
- },
- {
-  "id": "f2133ca073bd",
-  "created": "2026-11-24T19:58:15+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZdIB5wFBVV95cUxQRVMxTWk2RHpVaHdVTkJOdnBGWnJlbjFXYlRlcG54NG9LXzVwS2NET3Atd3RzREQyMWdJV3JhcDhpVkw2bUlXb2FsV09mZUp5X0hCREFndXpkVmF0SkszSVRMRmxNdGNVU01LbThLWWtjcDVtNnlVR2FTWDdlb3lVYld6X2RaRjNCc3VsVWYtdFN3SEM1Z2hGYjVBQ2RIdkd3d0hsclltbHVuajNGUm5xWjUtMkprMW1JcXNnb2k3Y3U5cUFXblZNVEs5dXdyZ0JiRXNiLTBoTkgzdHJaclU2ZUZfeXNJMlU?oc=5",
-  "headline": "Supreme Court permits one‑time Karthigai Deepam lighting at Thirupparankundram",
-  "hook": "The iconic lamp finally shines on the hill after a court nod.",
-  "what": "The Supreme Court gave a limited, one‑time permission to light the Karthigai Deepam at its traditional spot on the Thirupparankundram hills. The lamp was lit during the festival despite earlier disputes. Authorities oversaw the event.",
-  "why": "The decision shows how legal rulings can affect cultural celebrations, reminding youths to stay informed about civic processes. Follow official updates if you plan to attend.",
-  "tags": [
-   "KarthigaiDeepam",
-   "Thirupparankundram",
-   "SupremeCourt",
-   "FestivalNews",
-   "India"
-  ]
- },
- {
-  "id": "56f9f0386fab",
-  "created": "2026-11-24T19:58:19+05:30",
-  "category": "sports",
-  "breaking": true,
-  "source": "Cricinfo",
-  "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
-  "headline": "Teen Vaibhav Sooryavanshi hits 204 in 53 balls",
-  "hook": "A 13‑plus Indian smashed a List A double‑century record.",
-  "what": "Vaibhav Sooryavanshi scored 204 runs from 53 deliveries, including 28 sixes, becoming the fastest player to reach both 100 and 200 in List A cricket. The innings came against the United Arab Emirates.",
-  "why": "The feat highlights emerging talent for Indian cricket and inspires young players to aim high.",
-  "tags": [
-   "cricket",
-   "record",
-   "listA",
-   "teen",
-   "India"
-  ]
- },
- {
-  "id": "084408452e49",
-  "created": "2026-11-24T19:58:22+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/uttarakhands-baini-bhuli-yojana-5-23-lakh-women-to-get-rs-20-000-aid-in-2-instalments-check-who-will-benefit-11795522896531.html",
-  "headline": "Uttarakhand to give 5.23 lakh women ₹20,000 each",
-  "hook": "First ₹10,000 hits wallets this December",
-  "what": "Uttarakhand will distribute ₹20,000 to each of 5.23 lakh women under the Baini‑Bhuli Yojana. The scheme is funded with ₹523 crore. The initial ₹10,000 will be credited directly to beneficiaries' bank accounts in December.",
-  "why": "The cash boost aims to strengthen financial security for women, influencing families and local economies. Eligible women should verify their bank details to receive the payment.",
-  "tags": [
-   "Uttarakhand",
-   "women",
-   "cash aid",
-   "government scheme",
-   "financial support"
-  ]
- },
- {
-  "id": "da5605187dcd",
-  "created": "2026-11-24T19:58:25+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "IPO Watch",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca29DRDdWc0pWN0Y5VW9wVk9ZZEZveTBsSXg4c05DeDY0WXFLR21YVTVNY0ZxZlFtYWE0Q1lzUkQ2WmNnZDZQTzBUM0lGYnpxRFYzY3pmSTBRUlU?oc=5",
-  "headline": "Matangi Rubber and Monomark Engineering set for December IPOs",
-  "hook": "Two new stock listings could open fresh investment chances for young savers.",
-  "what": "Matangi Rubber Ltd announced its initial public offering slated for December, with price band and issue size to be disclosed. Monomark Engineering plans a fresh issue of ₹120 crore, targeting FY26 revenue of about ₹562 crore. The promoters of Monomark currently hold over 91% of the shares before the issue.",
-  "why": "These listings give Gen Z investors new options to start building a portfolio, but they should research the companies and risks before buying shares.",
-  "tags": [
-   "IPO",
-   "stockmarket",
-   "investing",
-   "younginvestors",
-   "finance"
   ]
  }
 ]

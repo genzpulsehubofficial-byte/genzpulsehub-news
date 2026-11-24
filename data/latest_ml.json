@@ -1,5 +1,99 @@
 [
  {
+  "id": "7a5947019eec",
+  "created": "2026-11-25T04:21:46+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+  "headline": "Nvidia CEO പറയുന്നു, സക്സെഷന്‍ പ്ലാന്‍ അധിക ഹിയറാര്‍ക്കി സൃഷ്ടിക്കും",
+  "hook": "രണ്ട് ആഴ്ച ഫൗണ്ടര്‍ ഇല്ലാതെ പരീക്ഷിച്ച ശേഷം, ബോസ് സക്സെഷന്‍ പ്ലാന്‍ എതിർക്കുന്നു.",
+  "what": "Jensen Huang ഒരു ഔപചാരിക സക്സെഷന്‍ പ്ലാന്‍ അധിക മാനേജ്മെന്റ് ലെയറുകള്‍ ഉണ്ടാക്കുമെന്ന് പറഞ്ഞു. Nvidia തന്റെ നേരിട്ടുള്ള നേതൃത്വമില്ലാതെ രണ്ട് ആഴ്ച പ്രവര്‍ത്തിച്ച് കമ്പനി എങ്ങനെ പ്രവര്‍ത്തിക്കുന്നു എന്ന് നോക്കി.",
+  "why": "ഇവിടെ നിന്നു യുവ പ്രൊഫഷണലുകള്‍ക്ക് വലിയ ടെക് കമ്പനികളിലെ നേതൃ തീരുമാനങ്ങള്‍ ജോലി സാധ്യതകളെ എങ്ങനെ സ്വാധീനിക്കുന്നു എന്ന് മനസിലാക്കാം. ഇത്തരത്തിലുള്ള മാറ്റങ്ങള്‍ ഭാവി ജോലി സ്ഥലത്തെ അന്തരീക്ഷം കാണാന്‍ സഹായിക്കും.",
+  "tags": [
+   "tech",
+   "leadership",
+   "succession",
+   "startup",
+   "Nvidia"
+  ]
+ },
+ {
+  "id": "f56339fa2708",
+  "created": "2026-11-25T04:21:50+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
+  "headline": "കേരള വിദ്യാർത്ഥി സ്കൂളിൽ ആയുധം കൊണ്ടുവന്ന് കൂട്ടുകാരനെ തെറ്റായി വെടിവെച്ചു",
+  "hook": "പറയാൻ കൊണ്ടുവന്ന ആയുധം സ്കൂളിൽ അപകടം സൃഷ്ടിച്ചു.",
+  "what": "ഒരു വിദ്യാർത്ഥി പ്രദർശനത്തിനായി ആയുധം സ്കൂളിൽ കൊണ്ടുവന്നതായി ആരോപണം. അതിനെ കൈകാര്യം ചെയ്യുമ്പോൾ ആയുധം പൊട്ടുകയും ഒരു കൂട്ടുകാരനെ പരിക്കേൽപ്പിക്കുകയും ചെയ്തു. പോലീസ് പറയുന്നു, ആ ആയുധം തന്നെ പരിക്കേറ്റ വിദ്യാർത്ഥി കൊണ്ടുവന്നതാണ്.",
+  "why": "ക്യാമ്പസുകളിൽ ആയുധം കൊണ്ടുവരുന്നത് വലിയ അപകടം സൃഷ്ടിക്കുന്നു, സുരക്ഷാ പരിശോധനകൾ കർശനമാക്കണം. വിദ്യാർത്ഥികൾക്ക് സംശയകരമായ വസ്തുക്കൾ ഉടൻ അധികാരികളോട് അറിയിക്കാൻ നിർദ്ദേശിക്കുന്നു.",
+  "tags": [
+   "Kerala",
+   "school safety",
+   "gun",
+   "news"
+  ]
+ },
+ {
+  "id": "aa4de903f56e",
+  "created": "2026-11-25T04:21:52+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
+  "headline": "അസ്സാം സി.എം. ഐപിഎസ് സംഘർഷം ചെറിയ കാര്യമെന്ന്",
+  "hook": "രണ്ട് ഐപിഎസ് ഉദ്യോഗസ്ഥർ ഏറ്റുമുട്ടി, പക്ഷേ പ്രധാനമന്ത്രി ഇത് ചെറിയതാണെന്ന് പറയുന്നു.",
+  "what": "2026 നവംബർ 22ന് പടിഞ്ഞാറൻ അസ്സാമിലെ ഒരു പോലീസ് ബട്ടാലിയൻ ഹെഡ്ക്വാർട്ടറിൽ രണ്ട് ഐപിഎസ് ഓഫീസർമാർക്കിടയിൽ സംഘർഷം സംഭവിച്ചു. സംസ്ഥാനത്തിന്റെ സി.എം. ഇതിനെ വലിയ പ്രശ്നമല്ലെന്ന് വിലയിരുത്തി.",
+  "why": "ഇത്തരത്തിലുള്ള പോലീസ് അകത്തെ തർക്കങ്ങൾ സമൂഹത്തിന്റെ സുരക്ഷയെ ബാധിക്കാം; ഇപ്പോൾ പ്രത്യേക നടപടികളില്ല.",
+  "tags": [
+   "അസ്സാം",
+   "പോലീസ്",
+   "സി.എം.",
+   "ഐപിഎസ്",
+   "വാർത്ത"
+  ]
+ },
+ {
+  "id": "42cb577d7e78",
+  "created": "2026-11-25T04:21:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+  "headline": "Walmart-ന് Metaയുടെ Muse AI-യിലൂടെ Black Friday ഡീലുകൾ",
+  "hook": "Muse-നൊപ്പം ചാറ്റ് ചെയ്ത് അവധി ഓഫറുകൾ പിടിക്കാം.",
+  "what": "Walmart, Metaയുടെ Muse AI-യുമായി ചേർന്ന് Black Friday ഓഫറുകൾ ചാറ്റ്‌ബോട്ടിലൂടെ ലഭ്യമാക്കി. ഉപയോക്താക്കൾ ഈ വെർച്വൽ അസിസ്റ്റന്റുമായി സംസാരിച്ച് ഷോപ്പിംഗ് ചെയ്യാം.",
+  "why": "ഇത് മെസ്സേജിംഗ് ആപ്പുകൾക്ക് പരിചിതമായ യുവാക്കൾക്ക് ഷോപ്പിംഗ് എളുപ്പമാക്കും, AI ഉപയോഗിച്ച് റീട്ടെയിലർമാർ പുതിയ ഉപഭോക്താക്കളെ ആകർഷിക്കുന്നു.",
+  "tags": [
+   "Walmart",
+   "Meta",
+   "AI",
+   "BlackFriday",
+   "Shopping"
+  ]
+ },
+ {
+  "id": "6acc84af3c42",
+  "created": "2026-11-25T04:21:57+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Journal of Medical Internet Research (JMIR)",
+  "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcDltTVI3U3haVTRXNjNwN1pQd0ZrOUx2eTZObVBDUUNVdVhqZVdSanRudU5mYjVmb3llSnozd2JxOHZKdi1mak1fbw?oc=5",
+  "headline": "AI ഡയറ്റ് ആപ്പുകൾ പരമ്പരാഗത ഭക്ഷണപദ്ധതിയെ മറികടക്കില്ല",
+  "hook": "ഓസ്‌ട്രേലിയയിൽ നടത്തിയ പഠനം AI പോഷക കണക്കുകൾ മാജിക്‌മല്ലെന്ന് പറയുന്നു.",
+  "what": "ഗവേഷകർ AI‑അധിഷ്ഠിത ഡയറ്റ് രീതിയെ സാധാരണ ഭക്ഷണ ഉപദേശവുമായി താരതമ്യം ചെയ്തു. AI സിസ്റ്റം ഭക്ഷണ ഫോട്ടോകളിൽ നിന്ന് കലോറി, പോഷകങ്ങൾ കണക്കാക്കാൻ ശ്രമിച്ചു. ഫലത്തിൽ പരമ്പരാഗത രീതികളേക്കാൾ വ്യക്തമായ നേട്ടം കാണാനായില്ല.",
+  "why": "ഭക്ഷണം ട്രാക്ക് ചെയ്യാൻ ശ്രമിക്കുന്ന വിദ്യാർത്ഥികൾക്ക്, പുതിയ ആപ്പുകൾക്കു പകരം ഉറപ്പുള്ള ഭക്ഷണ മാർഗ്ഗനിർദ്ദേശങ്ങൾ മതിയാകും. പോഷക അടിസ്ഥാനങ്ങൾ അറിയാൻ തുടർച്ചയായി ലോഗ് ചെയ്യുക.",
+  "tags": [
+   "AI",
+   "പോഷണം",
+   "ഡയറ്റ്",
+   "പഠനം",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ },
+ {
   "id": "6e5f032fb046",
   "created": "2026-11-25T03:20:40+05:30",
   "category": "tech",
@@ -657,101 +751,6 @@
    "റൈസിംഗ് സ്റ്റാർസ്",
    "ഡോഹ",
    "ഇന്ത്യUAE"
-  ]
- },
- {
-  "id": "09c554659873",
-  "created": "2026-11-24T21:06:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
-  "headline": "റൺബീർ കപൂർ 'റാമായണം' 19 ദിവസംക്ക് ₹1,700 കോടി",
-  "hook": "ഈ മഹാകാവ്യം പുതിയ ബോക്സ് ഓഫീസ് മൈൽസ്റ്റോൺ തകർത്തു.",
-  "what": "19‑ാം ദിവസം വരെ സിനിമയുടെ സമാഹാരം ₹1,700 കോടി എത്തി, ആഭ്യന്തരത്തിൽ ₹1,000 കോടി കടന്ന്, ആഗോളമായി ₹1,600 കോടി കവിയുന്നു. ചൈന ഒഴികെ വിദേശത്തും ഇന്ത്യൻ ചിത്രങ്ങളിൽ ഏറ്റവും കൂടുതൽ വരുമാനം നേടി, യു‌എസ് മാർക്കറ്റിൽ 'ധുരന്ധർ'നെ മറികടന്നു.",
-  "why": "ഇത് യുവാക്കൾക്ക് ഇന്ത്യൻ കഥകളുടെ ആകർഷണം തെളിയിക്കുന്നു; ഇപ്പോൾ കുറവ് ടിക്കറ്റുകൾ കൊണ്ട് സിനിമ കാണാം.",
-  "tags": [
-   "Ramayana",
-   "BoxOffice",
-   "RanbirKapoor",
-   "IndianCinema",
-   "Records"
-  ]
- },
- {
-  "id": "f2133ca073bd",
-  "created": "2026-11-24T19:58:15+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZdIB5wFBVV95cUxQRVMxTWk2RHpVaHdVTkJOdnBGWnJlbjFXYlRlcG54NG9LXzVwS2NET3Atd3RzREQyMWdJV3JhcDhpVkw2bUlXb2FsV09mZUp5X0hCREFndXpkVmF0SkszSVRMRmxNdGNVU01LbThLWWtjcDVtNnlVR2FTWDdlb3lVYld6X2RaRjNCc3VsVWYtdFN3SEM1Z2hGYjVBQ2RIdkd3d0hsclltbHVuajNGUm5xWjUtMkprMW1JcXNnb2k3Y3U5cUFXblZNVEs5dXdyZ0JiRXNiLTBoTkgzdHJaclU2ZUZfeXNJMlU?oc=5",
-  "headline": "സുപ്രീം കോടതി തിറുപ്പാറങ്കുന്ദ്രത്തിൽ ഒരു തവണ കർതിഗൈ ദീപം തെളിക്കാൻ അനുമതി",
-  "hook": "വൈരുദ്ധ്യങ്ങൾക്കിടയിലും പാരമ്പര്യ സ്ഥലത്ത് ദീപം തെളിഞ്ഞു.",
-  "what": "സുപ്രീം കോടതി തിറുപ്പാറങ്കുന്ദ്രത്തിലെ കർതിഗൈ ദീപം പരമ്പരാഗത സ്ഥാനത്ത് ഒരു തവണ മാത്രമായി തെളിക്കാൻ അനുമതി നൽകി. അവധി ദിനത്തിൽ ദീപം ദഹിപ്പിച്ചു, മുമ്പുള്ള തർക്കങ്ങൾക്കിടയിലും ചടങ്ങ് നടന്നു. ഉദ്യോഗസ്ഥർ മേൽനോട്ടം വഹിച്ചു.",
-  "why": "നിയമപരമായ തീരുമാനങ്ങൾ സാംസ്കാരിക ആഘോഷങ്ങളെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ഇത് കാണിക്കുന്നു, യുവാക്കൾക്ക് സമൂഹത്തെക്കുറിച്ച് അറിവ് വർദ്ധിപ്പിക്കാൻ സഹായിക്കും. ഇവന്റ് സംബന്ധിച്ച ഔദ്യോഗിക അറിയിപ്പുകൾ പിന്തുടരുക.",
-  "tags": [
-   "കർതിഗൈദീപം",
-   "തിരുപ്പാറങ്കുന്ദ്രം",
-   "സുപ്രീംകോടതി",
-   "പണ്ടാരമത്സരം",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "56f9f0386fab",
-  "created": "2026-11-24T19:58:19+05:30",
-  "category": "sports",
-  "breaking": true,
-  "source": "Cricinfo",
-  "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
-  "headline": "ടീൻ വൈഭവ് സൂര്യവംശി 53 ബോളിൽ 204 റൺസ്",
-  "hook": "13‑പ്ലസ് വയസ്സുള്ള ഇന്ത്യൻ യുവാവ് ലിസ്റ്റ എ റെക്കോർഡ് തകർത്തു.",
-  "what": "വൈഭവ് സൂര്യവംശി 53 ഡെലിവറികളിൽ 204 റൺസ് നേടി, 28 സിക്സ് അടിച്ചു, ലിസ്റ്റ എ ക്രിക്കറ്റിൽ 100, 200 റൺസ്最快 എത്തിയത്. ഈ ഇൻനിംഗ് യു.എഇവിനെതിരെ ആയിരുന്നു.",
-  "why": "ഇത് ഇന്ത്യൻ ക്രിക്കറ്റിലെ പുതിയ പ്രതിഭയെ കാണിക്കുന്നു, യുവ കളിക്കാർക്ക് പ്രചോദനം നൽകുന്നു.",
-  "tags": [
-   "ക്രിക്കറ്റ്",
-   "റെക്കോർഡ്",
-   "ലിസ്റ്റഎ",
-   "ടീൻ",
-   "ഇന്ത്യ"
-  ]
- },
- {
-  "id": "084408452e49",
-  "created": "2026-11-24T19:58:22+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/uttarakhands-baini-bhuli-yojana-5-23-lakh-women-to-get-rs-20-000-aid-in-2-instalments-check-who-will-benefit-11795522896531.html",
-  "headline": "ഉത്തറാഖണ്ഡ് 5.23 ലക്ഷം സ്ത്രീകൾക്ക് ₹20,000",
-  "hook": "ഡിസംബറിൽ ആദ്യ ₹10,000 നേരിട്ട് അക്കൗണ്ടിലേക്ക്",
-  "what": "ഉത്തറാഖണ്ഡ് സർക്കാർ ബൈനി‑ഭൂലി പദ്ധതി പ്രകാരം 5.23 ലക്ഷം സ്ത്രീകൾക്ക് ഓരോരുത്തർക്കും ₹20,000 നൽകും. ഈ പദ്ധതി ₹523 കോടി ചെലവിൽ നടപ്പാക്കുന്നു. ആദ്യ ₹10,000 ഡിസംബറിൽ നേരിട്ട് ബാങ്ക് അക്കൗണ്ടിലേക്ക് ഇടപാടാകും.",
-  "why": "ഇത് സ്ത്രീകളുടെ സാമ്പത്തിക സുരക്ഷ മെച്ചപ്പെടുത്താൻ ലക്ഷ്യമിടുന്നു, കുടുംബങ്ങളിലേക്കും പ്രാദേശിക സാമ്പത്തികത്തിലേക്കും പ്രഭാവം ചെലുത്താം. യോഗ്യതയുള്ളവർ ബാങ്ക് വിശദാംശങ്ങൾ പുതുക്കി പണം ലഭ്യമാക്കുക.",
-  "tags": [
-   "ഉത്തറാഖണ്ഡ്",
-   "സ്ത്രീകൾ",
-   "പണസഹായം",
-   "സർക്കാർപദ്ധതി",
-   "വിതരണ"
-  ]
- },
- {
-  "id": "da5605187dcd",
-  "created": "2026-11-24T19:58:25+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "IPO Watch",
-  "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca29DRDdWc0pWN0Y5VW9wVk9ZZEZveTBsSXg4c05DeDY0WXFLR21YVTVNY0ZxZlFtYWE0Q1lzUkQ2WmNnZDZQTzBUM0lGYnpxRFYzY3pmSTBRUlU?oc=5",
-  "headline": "മതംഗി റബർ, മോനോമാർക്ക് എഞ്ചിനീയറിംഗ് ഡിസംബർ IPO ലേക്ക്",
-  "hook": "ഇരുവരും പുതിയ സ്റ്റോക്ക് ലിസ്റ്റിംഗുകൾ യുവ നിക്ഷേപകർക്ക് അവസരം നൽകുന്നു.",
-  "what": "മതംഗി റബർ ലിമിറ്റഡ് ഡിസംബറിൽ IPO പ്രഖ്യാപിച്ചു, വില ബാൻഡ്, ഇഷ്യൂ സൈസ് എന്നിവ പിന്നീട് അറിയിക്കും. മോനോമാർക്ക് എഞ്ചിനീയറിംഗ് ₹120 കോടി പുതിയ ഇഷ്യൂ ചെയ്യാൻ പദ്ധതിയിടുന്നു, FY26 വരുമാനം ഏകദേശം ₹562 കോടി ലക്ഷ്യമിടുന്നു. മോനോമാർക്ക് പ്രോംമോട്ടർമാർ ഇപ്പോൾ 91%‑ലധികം ഷെയറുകൾ കൈവശം വെയ്ക്കുന്നു.",
-  "why": "ഈ ലിസ്റ്റിംഗുകൾ ജെൻ Z നിക്ഷേപകർക്ക് പോർട്ട്ഫോളിയോ ആരംഭിക്കാൻ പുതിയ അവസരങ്ങൾ നൽകുന്നു, പക്ഷേ ഷെയറുകൾ വാങ്ങുന്നതിന് മുമ്പ് കമ്പനിയും അപകടങ്ങളും പഠിക്കുക.",
-  "tags": [
-   "IPO",
-   "പങ്കു വിപണി",
-   "നിക്ഷേപം",
-   "യുവനിക്ഷേപകർ",
-   "ഫിനാൻസ്"
   ]
  }
 ]

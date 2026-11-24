@@ -1,0 +1,37 @@
+{
+ "id": "7a5947019eec",
+ "created": "2026-11-25T04:21:46+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO says succession plans add extra hierarchy",
+  "hook": "After a two‑week founder‑free trial, the boss still opposes a succession plan.",
+  "what": "Jensen Huang said that a formal succession plan would create unnecessary layers of management. Nvidia recently ran for two weeks without his direct leadership to test how the firm operates.",
+  "why": "Young professionals can learn how leadership decisions shape big‑tech culture and affect future job opportunities. Watching such moves helps you gauge the environment of future workplaces.",
+  "tags": [
+   "tech",
+   "leadership",
+   "succession",
+   "startup",
+   "Nvidia"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia CEO പറയുന്നു, സക്സെഷന്‍ പ്ലാന്‍ അധിക ഹിയറാര്‍ക്കി സൃഷ്ടിക്കും",
+  "hook": "രണ്ട് ആഴ്ച ഫൗണ്ടര്‍ ഇല്ലാതെ പരീക്ഷിച്ച ശേഷം, ബോസ് സക്സെഷന്‍ പ്ലാന്‍ എതിർക്കുന്നു.",
+  "what": "Jensen Huang ഒരു ഔപചാരിക സക്സെഷന്‍ പ്ലാന്‍ അധിക മാനേജ്മെന്റ് ലെയറുകള്‍ ഉണ്ടാക്കുമെന്ന് പറഞ്ഞു. Nvidia തന്റെ നേരിട്ടുള്ള നേതൃത്വമില്ലാതെ രണ്ട് ആഴ്ച പ്രവര്‍ത്തിച്ച് കമ്പനി എങ്ങനെ പ്രവര്‍ത്തിക്കുന്നു എന്ന് നോക്കി.",
+  "why": "ഇവിടെ നിന്നു യുവ പ്രൊഫഷണലുകള്‍ക്ക് വലിയ ടെക് കമ്പനികളിലെ നേതൃ തീരുമാനങ്ങള്‍ ജോലി സാധ്യതകളെ എങ്ങനെ സ്വാധീനിക്കുന്നു എന്ന് മനസിലാക്കാം. ഇത്തരത്തിലുള്ള മാറ്റങ്ങള്‍ ഭാവി ജോലി സ്ഥലത്തെ അന്തരീക്ഷം കാണാന്‍ സഹായിക്കും.",
+  "tags": [
+   "tech",
+   "leadership",
+   "succession",
+   "startup",
+   "Nvidia"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "f56339fa2708",
+ "created": "2026-11-25T04:21:50+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala student brings gun to school, accidentally shoots classmate",
+  "hook": "A school prank turned deadly when a gun was fired.",
+  "what": "A student allegedly took a firearm to school to show it off. While handling it, the gun went off and injured a classmate. Police say the weapon was brought by the same classmate who was shot.",
+  "why": "It highlights the danger of weapons on campuses and the need for stricter safety checks. Students should report any suspicious items to authorities.",
+  "tags": [
+   "Kerala",
+   "school safety",
+   "gun",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "കേരള വിദ്യാർത്ഥി സ്കൂളിൽ ആയുധം കൊണ്ടുവന്ന് കൂട്ടുകാരനെ തെറ്റായി വെടിവെച്ചു",
+  "hook": "പറയാൻ കൊണ്ടുവന്ന ആയുധം സ്കൂളിൽ അപകടം സൃഷ്ടിച്ചു.",
+  "what": "ഒരു വിദ്യാർത്ഥി പ്രദർശനത്തിനായി ആയുധം സ്കൂളിൽ കൊണ്ടുവന്നതായി ആരോപണം. അതിനെ കൈകാര്യം ചെയ്യുമ്പോൾ ആയുധം പൊട്ടുകയും ഒരു കൂട്ടുകാരനെ പരിക്കേൽപ്പിക്കുകയും ചെയ്തു. പോലീസ് പറയുന്നു, ആ ആയുധം തന്നെ പരിക്കേറ്റ വിദ്യാർത്ഥി കൊണ്ടുവന്നതാണ്.",
+  "why": "ക്യാമ്പസുകളിൽ ആയുധം കൊണ്ടുവരുന്നത് വലിയ അപകടം സൃഷ്ടിക്കുന്നു, സുരക്ഷാ പരിശോധനകൾ കർശനമാക്കണം. വിദ്യാർത്ഥികൾക്ക് സംശയകരമായ വസ്തുക്കൾ ഉടൻ അധികാരികളോട് അറിയിക്കാൻ നിർദ്ദേശിക്കുന്നു.",
+  "tags": [
+   "Kerala",
+   "school safety",
+   "gun",
+   "news"
+  ]
+ }
+}

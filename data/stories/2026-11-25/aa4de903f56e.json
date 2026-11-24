@@ -1,0 +1,37 @@
+{
+ "id": "aa4de903f56e",
+ "created": "2026-11-25T04:21:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Assam CM says IPS clash not a big issue",
+  "hook": "Two top police officers squared off, but the chief says it's minor.",
+  "what": "A dispute broke out between two Indian Police Service officers at a battalion headquarters in western Assam on Nov 22, 2026. The state’s chief minister described the incident as not serious.",
+  "why": "Knowing about internal police tensions helps youths gauge law‑order stability; no immediate action needed.",
+  "tags": [
+   "Assam",
+   "Police",
+   "CM",
+   "IPS",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "അസ്സാം സി.എം. ഐപിഎസ് സംഘർഷം ചെറിയ കാര്യമെന്ന്",
+  "hook": "രണ്ട് ഐപിഎസ് ഉദ്യോഗസ്ഥർ ഏറ്റുമുട്ടി, പക്ഷേ പ്രധാനമന്ത്രി ഇത് ചെറിയതാണെന്ന് പറയുന്നു.",
+  "what": "2026 നവംബർ 22ന് പടിഞ്ഞാറൻ അസ്സാമിലെ ഒരു പോലീസ് ബട്ടാലിയൻ ഹെഡ്ക്വാർട്ടറിൽ രണ്ട് ഐപിഎസ് ഓഫീസർമാർക്കിടയിൽ സംഘർഷം സംഭവിച്ചു. സംസ്ഥാനത്തിന്റെ സി.എം. ഇതിനെ വലിയ പ്രശ്നമല്ലെന്ന് വിലയിരുത്തി.",
+  "why": "ഇത്തരത്തിലുള്ള പോലീസ് അകത്തെ തർക്കങ്ങൾ സമൂഹത്തിന്റെ സുരക്ഷയെ ബാധിക്കാം; ഇപ്പോൾ പ്രത്യേക നടപടികളില്ല.",
+  "tags": [
+   "അസ്സാം",
+   "പോലീസ്",
+   "സി.എം.",
+   "ഐപിഎസ്",
+   "വാർത്ത"
+  ]
+ }
+}

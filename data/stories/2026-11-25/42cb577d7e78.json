@@ -1,0 +1,37 @@
+{
+ "id": "42cb577d7e78",
+ "created": "2026-11-25T04:21:54+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Walmart launches Black Friday shopping via Meta’s Muse AI",
+  "hook": "Grab holiday steals straight from a chat with Muse.",
+  "what": "Walmart has added its Black Friday offers to Meta’s AI chat agent, Muse. Shoppers can now browse and buy deals by talking to the virtual assistant.",
+  "why": "It speeds up holiday shopping for teens who live on messaging apps and shows how retailers are using AI to reach younger buyers.",
+  "tags": [
+   "Walmart",
+   "Meta",
+   "AI",
+   "BlackFriday",
+   "Shopping"
+  ]
+ },
+ "ml": {
+  "headline": "Walmart-ന് Metaയുടെ Muse AI-യിലൂടെ Black Friday ഡീലുകൾ",
+  "hook": "Muse-നൊപ്പം ചാറ്റ് ചെയ്ത് അവധി ഓഫറുകൾ പിടിക്കാം.",
+  "what": "Walmart, Metaയുടെ Muse AI-യുമായി ചേർന്ന് Black Friday ഓഫറുകൾ ചാറ്റ്‌ബോട്ടിലൂടെ ലഭ്യമാക്കി. ഉപയോക്താക്കൾ ഈ വെർച്വൽ അസിസ്റ്റന്റുമായി സംസാരിച്ച് ഷോപ്പിംഗ് ചെയ്യാം.",
+  "why": "ഇത് മെസ്സേജിംഗ് ആപ്പുകൾക്ക് പരിചിതമായ യുവാക്കൾക്ക് ഷോപ്പിംഗ് എളുപ്പമാക്കും, AI ഉപയോഗിച്ച് റീട്ടെയിലർമാർ പുതിയ ഉപഭോക്താക്കളെ ആകർഷിക്കുന്നു.",
+  "tags": [
+   "Walmart",
+   "Meta",
+   "AI",
+   "BlackFriday",
+   "Shopping"
+  ]
+ }
+}
