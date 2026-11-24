@@ -1,0 +1,35 @@
+{
+ "id": "cf9b308e161c",
+ "created": "2026-11-25T05:13:37+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CIA unclassified system hit by cyberattack",
+  "hook": "A breach hit a CIA system, but details remain unknown.",
+  "what": "A cyberattack compromised an unclassified CIA system. Authorities have not disclosed what data was accessed or who carried out the attack.",
+  "why": "Understanding such breaches helps young users stay aware of online security risks. Keep software updated and use strong passwords.",
+  "tags": [
+   "cyberattack",
+   "CIA",
+   "security",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "CIAയുടെ അന്ക്ലാസിഫൈഡ് സിസ്റ്റം സൈബർ ആക്രമണത്തിന് ഇരയായി",
+  "hook": "ഒരു സൈബർ ആക്രമണം CIAയുടെ സിസ്റ്റം തകർത്തു, വിശദാംശങ്ങൾ അജ്ഞാതം.",
+  "what": "ഒരു സൈബർ ആക്രമണം അന്ക്ലാസിഫൈഡ് CIA സിസ്റ്റം ബാധിച്ചു. എന്ത് ഡാറ്റ ചോർത്തി, ആര് ചെയ്തുവെന്ന് ഇപ്പോഴും വ്യക്തമല്ല.",
+  "why": "ഇത്തരത്തിലുള്ള ഭേദഗതികൾ ഓൺലൈൻ സുരക്ഷയുടെ പ്രാധാന്യം കാണിക്കുന്നു. സോഫ്റ്റ്വെയർ അപ്ഡേറ്റ് ചെയ്യുക, ശക്തമായ പാസ്‌വേഡ് ഉപയോഗിക്കുക.",
+  "tags": [
+   "cyberattack",
+   "CIA",
+   "security",
+   "tech"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "9a0e5afa3161",
+ "created": "2026-11-25T05:13:24+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/family-of-ailing-navy-veteran-jailed-in-qatar-seeks-indian-missions-help-for-his-release-10977118/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Navy veteran in Qatar prison, family asks Indian embassy for help",
+  "hook": "A sick ex‑serviceman stuck overseas is pleading for India's help.",
+  "what": "A former Indian Navy personnel, who is ill, is currently incarcerated in Qatar. His relatives have approached the Indian diplomatic mission, requesting assistance to secure his release.",
+  "why": "The case highlights challenges faced by Indians abroad and the role of embassies in consular support. Families in similar situations should know they can seek help from Indian missions.",
+  "tags": [
+   "Navy",
+   "Qatar",
+   "ConsularHelp",
+   "IndiaAbroad",
+   "Veteran"
+  ]
+ },
+ "ml": {
+  "headline": "കത്തറയിലെ തടവിൽ, രോഗബാധിത നേവി വിരമിച്ചവന്‍ കുടുംബം ഇന്ത്യൻ എംബസിയുടെ സഹായം ചോദിച്ചു",
+  "hook": "വളരെ രോഗം ബാധിച്ച ഒരു മുൻ-നേവി വിദേശ തടവിൽ, ഇന്ത്യയുടെ സഹായം തേടുന്നു.",
+  "what": "ഒരു രോഗബാധിത ഇന്ത്യൻ നേവി വിരമിച്ചവൻ കത്തറയിൽ തടവിലാണു. അദ്ദേഹത്തിന്റെ കുടുംബം ഇന്ത്യൻ ദൂതാവാസം സമീപിച്ച് മോചനം ഉറപ്പാക്കാൻ സഹായം ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത് വിദേശത്ത് കുടിയിരിക്കുന്ന ഇന്ത്യൻ പൗരന്മാർക്ക് കോൺസുലർ സഹായത്തിന്റെ പ്രാധാന്യം കാണിക്കുന്നു. സമാന സാഹചര്യങ്ങളിലുള്ളവർ ഇന്ത്യൻ എംബസികളിൽ സഹായം തേടണം.",
+  "tags": [
+   "Navy",
+   "Qatar",
+   "ConsularHelp",
+   "IndiaAbroad",
+   "Veteran"
+  ]
+ }
+}

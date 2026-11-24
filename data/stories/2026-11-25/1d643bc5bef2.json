@@ -1,0 +1,37 @@
+{
+ "id": "1d643bc5bef2",
+ "created": "2026-11-25T05:13:44+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Nature",
+ "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Brain study finds PTSD leaves unique molecular marks",
+  "hook": "Your brain may carry a chemical scar after trauma.",
+  "what": "Scientists examined 302 human brains and discovered distinct chemical and epigenetic patterns linked to post‑traumatic stress disorder. The signatures appeared in multiple brain regions and were different from those associated with major depressive disorder.",
+  "why": "Knowing these molecular clues could guide the creation of personalized PTSD treatments, offering hope for young people dealing with trauma.",
+  "tags": [
+   "PTSD",
+   "brain",
+   "research",
+   "health",
+   "science"
+  ]
+ },
+ "ml": {
+  "headline": "മസ്തിഷ്ക പഠനത്തിൽ PTSD‑ക്ക് പ്രത്യേക മോളിക്യുലർ അടയാളം",
+  "hook": "മാനസിക ട്രോമ കഴിഞ്ഞാൽ മസ്തിഷ്കത്തിൽ രാസമുദ്രം ഉണ്ടാകാം.",
+  "what": "302 മനുഷ്യ മസ്തിഷ്കങ്ങൾ പഠിച്ച് ശാസ്ത്രജ്ഞർ PTSD‑ക്ക് പ്രത്യേക രാസവും എപ്പിജെനറ്റിക് സിഗ്നേച്ചറുകളും കണ്ടെത്തി. ഈ അടയാളങ്ങൾ വിവിധ മേഖലകളിൽ കാണപ്പെട്ടു, ഡിപ്രഷൻ‑ക്കുള്ളവയുമായി വ്യത്യസ്തമാണ്.",
+  "why": "ഈ മോളിക്യുലർ സൂചനകൾ മനസ്സിലാക്കുന്നത് PTSD‑ക്കുള്ള വ്യക്തിഗത ചികിത്സകൾ വികസിപ്പിക്കാൻ സഹായിക്കും, യുവജനങ്ങൾക്ക് പ്രത്യാശ നൽകും.",
+  "tags": [
+   "PTSD",
+   "മസ്തിഷ്കം",
+   "ഗവേഷണം",
+   "ആരോഗ്യം",
+   "ശാസ്ത്രം"
+  ]
+ }
+}

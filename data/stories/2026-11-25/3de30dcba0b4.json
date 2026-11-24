@@ -1,0 +1,35 @@
+{
+ "id": "3de30dcba0b4",
+ "created": "2026-11-25T05:13:42+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Aakasamlo Oka Tara Holds Steady on Day 5",
+  "hook": "The Dulquer‑led Telugu drama keeps the buzz alive.",
+  "what": "The film posted its fifth‑day earnings after a 44% dip on day four, when it made Rs 3.20 crore on Monday. It also outperformed ‘Sita Ramam’ in several markets on Sunday.",
+  "why": "For Gen‑Z movie‑goers, the numbers show Dulquer’s growing pull in Telugu cinema and hint at a good weekend watch.",
+  "tags": [
+   "Dulquer",
+   "TeluguFilm",
+   "BoxOffice",
+   "AakasamloOkaTara"
+  ]
+ },
+ "ml": {
+  "headline": "ആകാശത്തിൽ ഒരു താരം അഞ്ചാം ദിവസം സ്ഥിരം വരുമാനം",
+  "hook": "ദുൾക്കറിന്റെ പുതിയ ടെലുങ്ക് ചിത്രം ചർച്ചയിൽ തുടരുന്നു.",
+  "what": "ദിവസം നാലിൽ 44% ഇടിവ് ഉണ്ടായിരുന്നെങ്കിലും, തിങ്കളാഴ്ച 3.20 കോടി രൂപ നേടി അഞ്ചാം ദിവസം വരുമാനം രേഖപ്പെടുത്തി. ഞായറാഴ്ച ചില മാർക്കറ്റുകളിൽ 'സീതാ രാമം'നെ മറികടന്നു.",
+  "why": "ജനറേഷൻ Z‑ക്ക് ദുൾക്കറിന്റെ ടെലുങ്ക് സിനിമയിലെ ആകർഷണം കാണാൻ ഇതൊരു നല്ല അവസരമാണ്, കൂടാതെ വാരാന്ത്യത്തിൽ സിനിമ കാണാൻ ആലോചിക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "ദുൾക്കർ",
+   "ടെലുങ്ക്‌ഫിലിം",
+   "ബോക്സ്‌ഓഫീസ്",
+   "ആകാശത്തിൽഒരു താരം"
+  ]
+ }
+}

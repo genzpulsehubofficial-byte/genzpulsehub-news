@@ -1,0 +1,37 @@
+{
+ "id": "898838d52c4f",
+ "created": "2026-11-25T05:13:35+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Mashable",
+ "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Rockstar shuts down illegal GTA 6 PC port",
+  "hook": "Your favorite GTA 6 fan‑made PC copy just vanished",
+  "what": "Rockstar Games removed an unauthorized PC version of the upcoming GTA 6 called “Leonida.” Hackers had created the unofficial recompilation even though the game has no official PC release date.",
+  "why": "It shows pirated game builds can be quickly taken down, so avoid unverified downloads and wait for the official launch.",
+  "tags": [
+   "GTA6",
+   "Rockstar",
+   "gaming",
+   "PC",
+   "piracy"
+  ]
+ },
+ "ml": {
+  "headline": "റോക്ക്സ്റ്റാർ അനധികൃത GTA 6 PC പോർട്ട് അടച്ചു",
+  "hook": "നിങ്ങൾക്ക് ഇഷ്ടമുള്ള GTA 6 ഫാൻ‑മെയ്ഡ് PC പതിപ്പ് ഇല്ലാതായി",
+  "what": "റോക്ക്സ്റ്റാർ ഗെയിംസ് ‘Leonida’ എന്ന പേരിലുള്ള അനധികൃത GTA 6 PC പതിപ്പ് നീക്കം ചെയ്തു. ഗെയിമിന് ഔദ്യോഗിക PC റിലീസ് തീയതി ഇല്ലെങ്കിലും ഹാക്കർമാർ അനധികൃതമായി ഒരു പതിപ്പ് തയ്യാറാക്കിയിരുന്നു.",
+  "why": "പൈറസി പതിപ്പുകൾ വേഗത്തിൽ അടച്ചുതീർക്കപ്പെടുന്നതാണ്, അതിനാൽ ഉറപ്പില്ലാത്ത ഡൗൺലോഡുകൾ ഒഴിവാക്കി ഔദ്യോഗിക റിലീസ് കാത്തിരിക്കണം.",
+  "tags": [
+   "GTA6",
+   "Rockstar",
+   "gaming",
+   "PC",
+   "piracy"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "bfbc28af353a",
+ "created": "2026-11-25T05:13:39+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Deadline",
+ "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWcyUjFNNndhcWF0ZzF4VzBkMnkyc05aOEZNdHlORWFZVXFkVURCakJ3dWx2UF9SaVh6WmFvRVlfa1dZMFpKdkd4Yk8zUmdob1RIZDBNTlJmdnNISEV2WlU0aUhGSDhEaHNUN2NwN2dNTTBqb1FzMUI2UzBaUk52N2RpU2w3NUhPSlNVaTJ1U3RYdVRJN2pQQzU2RnBoYTRGd1BnYg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Big Black Friday Cuts on Top Streaming Services",
+  "hook": "Grab massive discounts and binge your favorite shows now!",
+  "what": "Disney+, HBO Max, Paramount+, Peacock and other platforms are rolling out Black Friday offers. HBO Max is slashing its annual subscription by 50%, while Amazon discounts six months of Apple TV by nearly $50. Paramount+ provides up to 75% off, especially appealing to music lovers.",
+  "why": "These deals let Indian teens save money while catching up on popular series like Traitors, Tulsa King, Yellowjackets and Hallmark movies. Check the platforms’ websites to claim the offers before they expire.",
+  "tags": [
+   "streaming",
+   "blackfriday",
+   "discounts",
+   "binge",
+   "teen"
+  ]
+ },
+ "ml": {
+  "headline": "ബ്ലാക്ക് ഫ്രൈഡേയിൽ സ്ട്രീമിംഗ് ഓഫറുകൾ",
+  "hook": "വലിയ ഡിസ്‌കൗണ്ടുകൾ കൊണ്ട് നിങ്ങളുടെ പ്രിയ ഷോകൾ ഇനി ഒരുമിച്ച് കാണൂ!",
+  "what": "Disney+, HBO Max, Paramount+, Peacock എന്നിവയുടെ ബ്ലാക്ക് ഫ്രൈഡേ ഓഫറുകൾ വരുന്നു. HBO Max വാർഷിക സബ്സ്ക്രിപ്ഷൻ 50% കുറവായി, Amazon Apple TVയുടെ ആറുമാസം تقریباً $50 കുറവായി. Paramount+ 75% വരെ വിലക്കുറവ് നൽകുന്നു, പ്രത്യേകിച്ച് മ്യൂസിക് ഫാൻമാർക്ക്.",
+  "why": "ഇത് ഇന്ത്യൻ ടെനുകൾക്ക് പണം ലാഭിച്ച് Traitors, Tulsa King, Yellowjackets, Hallmark സിനിമകൾ പോലുള്ള ഷോകൾ കാണാൻ സഹായിക്കും. ഓഫറുകൾ അവസാനിക്കുന്നതിനു മുൻപ് പ്ലാറ്റ്ഫോം വെബ്സൈറ്റുകൾ സന്ദർശിക്കുക.",
+  "tags": [
+   "സ്റ്റ്രീമിംഗ്",
+   "ബ്ലാക്ക്ഫ്രൈഡേ",
+   "ഡിസ്‌കൗണ്ട്",
+   "ബിംജ്",
+   "ടീൻ"
+  ]
+ }
+}

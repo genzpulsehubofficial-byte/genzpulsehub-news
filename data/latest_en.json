@@ -1,5 +1,117 @@
 [
  {
+  "id": "9a0e5afa3161",
+  "created": "2026-11-25T05:13:24+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/family-of-ailing-navy-veteran-jailed-in-qatar-seeks-indian-missions-help-for-his-release-10977118/",
+  "headline": "Navy veteran in Qatar prison, family asks Indian embassy for help",
+  "hook": "A sick ex‑serviceman stuck overseas is pleading for India's help.",
+  "what": "A former Indian Navy personnel, who is ill, is currently incarcerated in Qatar. His relatives have approached the Indian diplomatic mission, requesting assistance to secure his release.",
+  "why": "The case highlights challenges faced by Indians abroad and the role of embassies in consular support. Families in similar situations should know they can seek help from Indian missions.",
+  "tags": [
+   "Navy",
+   "Qatar",
+   "ConsularHelp",
+   "IndiaAbroad",
+   "Veteran"
+  ]
+ },
+ {
+  "id": "898838d52c4f",
+  "created": "2026-11-25T05:13:35+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Mashable",
+  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
+  "headline": "Rockstar shuts down illegal GTA 6 PC port",
+  "hook": "Your favorite GTA 6 fan‑made PC copy just vanished",
+  "what": "Rockstar Games removed an unauthorized PC version of the upcoming GTA 6 called “Leonida.” Hackers had created the unofficial recompilation even though the game has no official PC release date.",
+  "why": "It shows pirated game builds can be quickly taken down, so avoid unverified downloads and wait for the official launch.",
+  "tags": [
+   "GTA6",
+   "Rockstar",
+   "gaming",
+   "PC",
+   "piracy"
+  ]
+ },
+ {
+  "id": "cf9b308e161c",
+  "created": "2026-11-25T05:13:37+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand",
+  "headline": "CIA unclassified system hit by cyberattack",
+  "hook": "A breach hit a CIA system, but details remain unknown.",
+  "what": "A cyberattack compromised an unclassified CIA system. Authorities have not disclosed what data was accessed or who carried out the attack.",
+  "why": "Understanding such breaches helps young users stay aware of online security risks. Keep software updated and use strong passwords.",
+  "tags": [
+   "cyberattack",
+   "CIA",
+   "security",
+   "tech"
+  ]
+ },
+ {
+  "id": "bfbc28af353a",
+  "created": "2026-11-25T05:13:39+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Deadline",
+  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWcyUjFNNndhcWF0ZzF4VzBkMnkyc05aOEZNdHlORWFZVXFkVURCakJ3dWx2UF9SaVh6WmFvRVlfa1dZMFpKdkd4Yk8zUmdob1RIZDBNTlJmdnNISEV2WlU0aUhGSDhEaHNUN2NwN2dNTTBqb1FzMUI2UzBaUk52N2RpU2w3NUhPSlNVaTJ1U3RYdVRJN2pQQzU2RnBoYTRGd1BnYg?oc=5",
+  "headline": "Big Black Friday Cuts on Top Streaming Services",
+  "hook": "Grab massive discounts and binge your favorite shows now!",
+  "what": "Disney+, HBO Max, Paramount+, Peacock and other platforms are rolling out Black Friday offers. HBO Max is slashing its annual subscription by 50%, while Amazon discounts six months of Apple TV by nearly $50. Paramount+ provides up to 75% off, especially appealing to music lovers.",
+  "why": "These deals let Indian teens save money while catching up on popular series like Traitors, Tulsa King, Yellowjackets and Hallmark movies. Check the platforms’ websites to claim the offers before they expire.",
+  "tags": [
+   "streaming",
+   "blackfriday",
+   "discounts",
+   "binge",
+   "teen"
+  ]
+ },
+ {
+  "id": "3de30dcba0b4",
+  "created": "2026-11-25T05:13:42+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
+  "headline": "Aakasamlo Oka Tara Holds Steady on Day 5",
+  "hook": "The Dulquer‑led Telugu drama keeps the buzz alive.",
+  "what": "The film posted its fifth‑day earnings after a 44% dip on day four, when it made Rs 3.20 crore on Monday. It also outperformed ‘Sita Ramam’ in several markets on Sunday.",
+  "why": "For Gen‑Z movie‑goers, the numbers show Dulquer’s growing pull in Telugu cinema and hint at a good weekend watch.",
+  "tags": [
+   "Dulquer",
+   "TeluguFilm",
+   "BoxOffice",
+   "AakasamloOkaTara"
+  ]
+ },
+ {
+  "id": "1d643bc5bef2",
+  "created": "2026-11-25T05:13:44+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Nature",
+  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5",
+  "headline": "Brain study finds PTSD leaves unique molecular marks",
+  "hook": "Your brain may carry a chemical scar after trauma.",
+  "what": "Scientists examined 302 human brains and discovered distinct chemical and epigenetic patterns linked to post‑traumatic stress disorder. The signatures appeared in multiple brain regions and were different from those associated with major depressive disorder.",
+  "why": "Knowing these molecular clues could guide the creation of personalized PTSD treatments, offering hope for young people dealing with trauma.",
+  "tags": [
+   "PTSD",
+   "brain",
+   "research",
+   "health",
+   "science"
+  ]
+ },
+ {
   "id": "7a5947019eec",
   "created": "2026-11-25T04:21:46+05:30",
   "category": "tech",
@@ -637,120 +749,6 @@
    "ITAT",
    "refund",
    "business"
-  ]
- },
- {
-  "id": "8a546b15d29e",
-  "created": "2026-11-24T22:15:14+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-  "headline": "Solar and Batteries Target Power Needs of Future AI Data Centers",
-  "hook": "AI farms could run on sunshine and stored energy.",
-  "what": "Next‑generation AI data centers will require tens of gigawatts of electricity each year. An investor linked to Crusoe believes solar power and battery storage are the logical solution.",
-  "why": "This shift could create greener tech jobs and lower energy costs, relevant for students interested in sustainability or tech careers. Keep an eye on renewable projects in the AI space.",
-  "tags": [
-   "AI",
-   "solar",
-   "batteries",
-   "data centers",
-   "renewable"
-  ]
- },
- {
-  "id": "6fb34fc76109",
-  "created": "2026-11-24T22:15:17+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-eased-no-separate-claims-needed-for-sickness-maternity-benefits-check-payout-deadlines-11795530243559.html",
-  "headline": "ESIC simplifies sickness, maternity payouts under new 2026 rules",
-  "hook": "No more paperwork for common health benefits—money goes straight to you.",
-  "what": "The Employees’ State Insurance (General) Regulations, 2026 started on November 21, replacing the 1950 rules. Under the new framework, eligible workers get sickness and maternity benefits via direct payments, without filing separate claims. Payout timelines are now clearly defined.",
-  "why": "Young workers can expect faster cash support when they’re ill or pregnant, so they should verify the deadline for receiving payments to avoid missing out.",
-  "tags": [
-   "ESIC",
-   "healthbenefits",
-   "directpay",
-   "youngworkers",
-   "India"
-  ]
- },
- {
-  "id": "b44a4be1f4b4",
-  "created": "2026-11-24T21:05:44+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZQ?oc=5",
-  "headline": "Karthigai Deepam lit at Thirupparankundram despite SC ban",
-  "hook": "Traditional lamp ceremony sparks police clash and court orders",
-  "what": "During the Karthigai Deepam celebration, a lamp was lit at the historic Thirupparankundram site even though the Supreme Court had ordered it not to be. The High Court issued a John Doe order to stop calls for violating that order. Members of Hindu groups protested and clashed with police, while the Tamil Nadu BJP chief warned of deploying 10,000 officers.",
-  "why": "The incident shows how religious customs can clash with legal rulings, reminding young people to stay aware of civic issues and respect court decisions.",
-  "tags": [
-   "KarthigaiDeepam",
-   "Thirupparankundram",
-   "courtorder",
-   "protest",
-   "India"
-  ]
- },
- {
-  "id": "788f82c758da",
-  "created": "2026-11-24T21:05:50+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/from-return-her-to-extradite-her-bangladeshs-shifting-sheikh-hasina-stance-12371603#publisher=newsstand",
-  "headline": "Bangladesh calls Hasina's return claim a bluff",
-  "hook": "She announced a comeback, but officials say it's a lie.",
-  "what": "Sheikh Hasina said she will return. Bangladesh officials responded by calling the statement a bluff.",
-  "why": "Keeping up with nearby political news helps you stay aware of regional developments.",
-  "tags": [
-   "Bangladesh",
-   "Hasina",
-   "politics",
-   "India",
-   "news"
-  ]
- },
- {
-  "id": "14678828ea47",
-  "created": "2026-11-24T21:05:52+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The 420.in",
-  "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qaXNlYlpUcll6TnU0eXMyNGdfblRZYUdyOU1Ha3pRQ1RpcEgxb0NMOUlwa0l0UzdZYVh3cFpqaUxueXhxTWwtcjBfNEctMmFTZkJJRHpOakg0YXVsVlg1YmM0U0dJUW1RM1NyaDZwc2FWeGEtRXM0?oc=5",
-  "headline": "Four nabbed in Surat UPI fraud of ₹9.02 lakh",
-  "hook": "A big UPI scam in Surat leads to four arrests.",
-  "what": "Police in Surat arrested four suspects accused of siphoning about ₹9.02 lakh through the UPI payment system. The alleged fraud involved unauthorized transfers using digital wallets.",
-  "why": "Young users should double‑check transaction details and protect UPI PINs to avoid similar scams.",
-  "tags": [
-   "Surat",
-   "UPI",
-   "fraud",
-   "cybercrime",
-   "teensafety"
-  ]
- },
- {
-  "id": "4efcd7b1199d",
-  "created": "2026-11-24T21:05:58+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "ESPN India",
-  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnNBSkdCblNqTS1kdFFrQmQxYzhrMzMxSUF5V1pTenFhckRBOHRsZDRUaW5jbnpuY1o0RDJsbVBRWGYyMGFEQXk3Yzd6OW5ZSjFRV1VMZ3FHY2ExdHlTRS15WFV0dzBEN1dqWnV3X01pNHhhYmhOZWJ2NjBCLU1aSnpDVFBZQktYNXRLWm5HOVdqR21PTlROY3ZrMmhlWHltR0pNeUJ1bHhRblUwSG9Pa0FLNGw3bnkxaGlORWJucmU3X0x4ckY1RDlobXFqUEpyNUJIbA?oc=5",
-  "headline": "IND-A faces UAE in Asia Cup Rising Stars clash",
-  "hook": "Catch the next big youth cricket showdown in Doha tonight!",
-  "what": "The 11th Group B match of the Asia Cup Rising Stars is set for Doha on Nov 24, 2026. India A will play the United Arab Emirates in a day‑night 50‑over game. The 12th Group B match is also scheduled at the same venue.",
-  "why": "It gives young cricketers a stage to shine and fans a glimpse of future stars. Follow live updates on ESPN or Cricinfo.",
-  "tags": [
-   "cricket",
-   "asia cup",
-   "rising stars",
-   "doha",
-   "indvuae"
   ]
  }
 ]
