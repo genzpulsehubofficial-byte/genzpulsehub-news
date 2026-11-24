@@ -1,0 +1,37 @@
+{
+ "id": "da5605187dcd",
+ "created": "2026-11-24T19:58:25+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "IPO Watch",
+ "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca29DRDdWc0pWN0Y5VW9wVk9ZZEZveTBsSXg4c05DeDY0WXFLR21YVTVNY0ZxZlFtYWE0Q1lzUkQ2WmNnZDZQTzBUM0lGYnpxRFYzY3pmSTBRUlU?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Matangi Rubber and Monomark Engineering set for December IPOs",
+  "hook": "Two new stock listings could open fresh investment chances for young savers.",
+  "what": "Matangi Rubber Ltd announced its initial public offering slated for December, with price band and issue size to be disclosed. Monomark Engineering plans a fresh issue of ₹120 crore, targeting FY26 revenue of about ₹562 crore. The promoters of Monomark currently hold over 91% of the shares before the issue.",
+  "why": "These listings give Gen Z investors new options to start building a portfolio, but they should research the companies and risks before buying shares.",
+  "tags": [
+   "IPO",
+   "stockmarket",
+   "investing",
+   "younginvestors",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "മതംഗി റബർ, മോനോമാർക്ക് എഞ്ചിനീയറിംഗ് ഡിസംബർ IPO ലേക്ക്",
+  "hook": "ഇരുവരും പുതിയ സ്റ്റോക്ക് ലിസ്റ്റിംഗുകൾ യുവ നിക്ഷേപകർക്ക് അവസരം നൽകുന്നു.",
+  "what": "മതംഗി റബർ ലിമിറ്റഡ് ഡിസംബറിൽ IPO പ്രഖ്യാപിച്ചു, വില ബാൻഡ്, ഇഷ്യൂ സൈസ് എന്നിവ പിന്നീട് അറിയിക്കും. മോനോമാർക്ക് എഞ്ചിനീയറിംഗ് ₹120 കോടി പുതിയ ഇഷ്യൂ ചെയ്യാൻ പദ്ധതിയിടുന്നു, FY26 വരുമാനം ഏകദേശം ₹562 കോടി ലക്ഷ്യമിടുന്നു. മോനോമാർക്ക് പ്രോംമോട്ടർമാർ ഇപ്പോൾ 91%‑ലധികം ഷെയറുകൾ കൈവശം വെയ്ക്കുന്നു.",
+  "why": "ഈ ലിസ്റ്റിംഗുകൾ ജെൻ Z നിക്ഷേപകർക്ക് പോർട്ട്ഫോളിയോ ആരംഭിക്കാൻ പുതിയ അവസരങ്ങൾ നൽകുന്നു, പക്ഷേ ഷെയറുകൾ വാങ്ങുന്നതിന് മുമ്പ് കമ്പനിയും അപകടങ്ങളും പഠിക്കുക.",
+  "tags": [
+   "IPO",
+   "പങ്കു വിപണി",
+   "നിക്ഷേപം",
+   "യുവനിക്ഷേപകർ",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

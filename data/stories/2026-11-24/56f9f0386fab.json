@@ -1,0 +1,37 @@
+{
+ "id": "56f9f0386fab",
+ "created": "2026-11-24T19:58:19+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": true,
+ "source": "Cricinfo",
+ "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlFZLUZIeDUtcGR6ZmlmSm5hSldhc1VlMG1SN2JiV3Y0RjExZjAzQnZfdXlkeTUyZVlEQmZLZXdfeGdCdTFjTUNvdm5iTUhpNVhpUjNRY25CNGJhYkJybG1UcGt3UDJkRlVoMUxXUVEwakg4SG1BU2pqNjVvQkpQMlVIbUN0ZFY3MmFUeWlrdU81dUVCT2xoclhHTDJIS3c0bDNkSWUyQnVoZWFmT0xLUVpsZXR3eENuXzRkcGpyREbSAdIBQVVfeXFMUFk1YWw2V0lIVWNqMURTQ1BIYWNHSFFieE5icDdCVU5jeVBHYmgyZ2JVZlVtbFJfNDBtUVBwT0U2dzZzZ0pmMnAwRkF6VzdTcXVxM1pmS2RZMzh5dWs4enZGYmNsaGtjQmxRWG9CdnZQd2cxWEdnRGlDeURjd050VWJMUmFlWGpGMkNOZDdvNGwteDRnZHZjclZXa2ROakVNU1dzM043dDZQdnNGdWdESDhUZ0ZNZGJ4OWdETVlIdnBOWEEyRUdaSk81R0NROVhNRWNB?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Teen Vaibhav Sooryavanshi hits 204 in 53 balls",
+  "hook": "A 13‑plus Indian smashed a List A double‑century record.",
+  "what": "Vaibhav Sooryavanshi scored 204 runs from 53 deliveries, including 28 sixes, becoming the fastest player to reach both 100 and 200 in List A cricket. The innings came against the United Arab Emirates.",
+  "why": "The feat highlights emerging talent for Indian cricket and inspires young players to aim high.",
+  "tags": [
+   "cricket",
+   "record",
+   "listA",
+   "teen",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ടീൻ വൈഭവ് സൂര്യവംശി 53 ബോളിൽ 204 റൺസ്",
+  "hook": "13‑പ്ലസ് വയസ്സുള്ള ഇന്ത്യൻ യുവാവ് ലിസ്റ്റ എ റെക്കോർഡ് തകർത്തു.",
+  "what": "വൈഭവ് സൂര്യവംശി 53 ഡെലിവറികളിൽ 204 റൺസ് നേടി, 28 സിക്സ് അടിച്ചു, ലിസ്റ്റ എ ക്രിക്കറ്റിൽ 100, 200 റൺസ്最快 എത്തിയത്. ഈ ഇൻനിംഗ് യു.എഇവിനെതിരെ ആയിരുന്നു.",
+  "why": "ഇത് ഇന്ത്യൻ ക്രിക്കറ്റിലെ പുതിയ പ്രതിഭയെ കാണിക്കുന്നു, യുവ കളിക്കാർക്ക് പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "റെക്കോർഡ്",
+   "ലിസ്റ്റഎ",
+   "ടീൻ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

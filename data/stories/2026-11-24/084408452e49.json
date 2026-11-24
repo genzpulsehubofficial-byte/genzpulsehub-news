@@ -1,0 +1,37 @@
+{
+ "id": "084408452e49",
+ "created": "2026-11-24T19:58:22+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/uttarakhands-baini-bhuli-yojana-5-23-lakh-women-to-get-rs-20-000-aid-in-2-instalments-check-who-will-benefit-11795522896531.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Uttarakhand to give 5.23 lakh women ₹20,000 each",
+  "hook": "First ₹10,000 hits wallets this December",
+  "what": "Uttarakhand will distribute ₹20,000 to each of 5.23 lakh women under the Baini‑Bhuli Yojana. The scheme is funded with ₹523 crore. The initial ₹10,000 will be credited directly to beneficiaries' bank accounts in December.",
+  "why": "The cash boost aims to strengthen financial security for women, influencing families and local economies. Eligible women should verify their bank details to receive the payment.",
+  "tags": [
+   "Uttarakhand",
+   "women",
+   "cash aid",
+   "government scheme",
+   "financial support"
+  ]
+ },
+ "ml": {
+  "headline": "ഉത്തറാഖണ്ഡ് 5.23 ലക്ഷം സ്ത്രീകൾക്ക് ₹20,000",
+  "hook": "ഡിസംബറിൽ ആദ്യ ₹10,000 നേരിട്ട് അക്കൗണ്ടിലേക്ക്",
+  "what": "ഉത്തറാഖണ്ഡ് സർക്കാർ ബൈനി‑ഭൂലി പദ്ധതി പ്രകാരം 5.23 ലക്ഷം സ്ത്രീകൾക്ക് ഓരോരുത്തർക്കും ₹20,000 നൽകും. ഈ പദ്ധതി ₹523 കോടി ചെലവിൽ നടപ്പാക്കുന്നു. ആദ്യ ₹10,000 ഡിസംബറിൽ നേരിട്ട് ബാങ്ക് അക്കൗണ്ടിലേക്ക് ഇടപാടാകും.",
+  "why": "ഇത് സ്ത്രീകളുടെ സാമ്പത്തിക സുരക്ഷ മെച്ചപ്പെടുത്താൻ ലക്ഷ്യമിടുന്നു, കുടുംബങ്ങളിലേക്കും പ്രാദേശിക സാമ്പത്തികത്തിലേക്കും പ്രഭാവം ചെലുത്താം. യോഗ്യതയുള്ളവർ ബാങ്ക് വിശദാംശങ്ങൾ പുതുക്കി പണം ലഭ്യമാക്കുക.",
+  "tags": [
+   "ഉത്തറാഖണ്ഡ്",
+   "സ്ത്രീകൾ",
+   "പണസഹായം",
+   "സർക്കാർപദ്ധതി",
+   "വിതരണ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f8f92f4c9cca",
+ "created": "2026-11-24T19:58:27+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Help Net Security",
+ "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVNKSl9ONzdZTkhBbkxabVNqZGY2emVTeDJlQW1reTFmYUtDSGU4Q2x3TEUwaTJ6UzdYU0FQWEpOZ04zZzVHdHRSTTN2elMxY3hEOXp5SzRrRk04V1BJdDBTWFBmTFppVTk5dXIyWVNsSVdJWWZ6RHJoNXMxczNaSUFjUWV6NWYzQUM2R0kyeUtRN0EwajRFYS13dzlLTTJm?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA VI leak culprit gets 7-year sentence, released same day",
+  "hook": "A gamer’s cheat turned into a courtroom drama.",
+  "what": "A hacker who stole and shared about 90 unreleased Grand Theft Auto VI videos was sentenced to seven years in prison. He was released on licence later that day with a warning not to repeat the offence.",
+  "why": "Shows that sharing pirated game content can lead to serious legal trouble, so avoid distributing leaked media.",
+  "tags": [
+   "gaming",
+   "cybercrime",
+   "legal",
+   "GTA6",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "GTA VI ലീക്ക് ചെയ്തവന് 7 വര്‍ഷം ശിക്ഷ, അതേ ദിവസം മോചനം",
+  "hook": "ഗെയിമര്‍ ചതിക്കുമ്പോള്‍ കോടതിയില്‍ കുടുങ്ങി.",
+  "what": "ഏകദേശം 90 അൺറിലീസ് ചെയ്ത GTA VI വീഡിയോകള്‍ ചോരുകയും പങ്കിടുകയും ചെയ്ത ഹാക്കറിന് ഏഴ് വര്‍ഷത്തെ ശിക്ഷ വിധിച്ചു. ആ ദിവസം തന്നെ ലൈസന്‍സില്‍ മോചനം നല്‍കി, വീണ്ടും ഇതു ചെയ്യരുതെന്ന് മുന്നറിയിപ്പ് നല്‍കി.",
+  "why": "പിറകില്‍ നിന്ന് ഗെയിം ക്ലിപ്പുകള്‍ പങ്കിടുന്നത് നിയമപരമായ പ്രശ്നങ്ങളിലേക്ക് നയിക്കാം; അതിനാല്‍ ലീക്ക് ചെയ്ത ഉള്ളടക്കം പങ്കിടുന്നത് ഒഴിവാക്കുക.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "സൈബർക്രൈം",
+   "നിയമം",
+   "GTA6",
+   "വാർത്ത"
+  ]
+ }
+}
