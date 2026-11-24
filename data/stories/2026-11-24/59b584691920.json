@@ -1,0 +1,35 @@
+{
+ "id": "59b584691920",
+ "created": "2026-11-24T16:21:23+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/bangalore/bomb-threat-email-targets-diljit-dosanjhs-bengaluru-concert-north-cybercrime-police-register-fir/article71737622.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bomb threat email sent against Diljit Dosanjh’s Bengaluru show",
+  "hook": "A scary email warned of a bomb at Diljit’s concert and a nearby metro.",
+  "what": "An email threatened an IED blast at Diljit Dosanjh’s concert in Bengaluru and at Madavara Metro Station. The North Cybercrime Police filed an FIR after receiving the threat, which ended with the slogan “Khalistan Zindabad”.",
+  "why": "Such threats raise safety concerns for large public events, so attendees should stay alert and follow official security instructions.",
+  "tags": [
+   "Diljit",
+   "Bengaluru",
+   "BombThreat",
+   "ConcertSafety"
+  ]
+ },
+ "ml": {
+  "headline": "ബോംബ് ഭീഷണി ഇമെയിൽ ദില്ജിത്‌ ഡോസാഞ്ചിന്റെ ബെംഗളൂരു ഷോവിനെ ലക്ഷ്യം",
+  "hook": "ദില്ജിത്തിന്റെ കോൺസർട്ടിലും മഡവാറ മെട്രോ സ്റ്റേഷനിലും ബോംബ് ഭീഷണി ഇമെയിൽ വന്നതായി പോലീസ് അറിയിച്ചു.",
+  "what": "ബെംഗളൂരുവിലെ ദില്ജിത് ഡോസാഞ്ചിന്റെ കോൺസർട്ടിലും മഡവാറ മെട്രോ സ്റ്റേഷനിലും ഐഇഡി ബോംബ് പൊട്ടിത്തെറിക്കാൻ ഭീഷണി നൽകുന്ന ഒരു ഇമെയിൽ ലഭിച്ചു. ഉത്തര സൈബർക്രൈം പോലീസ് FIR രജിസ്റ്റർ ചെയ്തു. ആ ഇമെയിലിന്റെ അവസാനം “ഖലിസ്താൻ സിന്ദബാദ്” എന്ന സ്ലോഗൻ ഉണ്ടായിരുന്നുവെന്ന് റിപ്പോർട്ട്.",
+  "why": "ഇത്തരത്തിലുള്ള ഭീഷണികൾ വലിയ ഇവന്റുകളുടെ സുരക്ഷയെ ബാധിക്കുന്നു; അതിനാൽ പങ്കെടുത്തവർക്കു ജാഗ്രത പാലിച്ച് അധികാരികളുടെ നിർദ്ദേശങ്ങൾ പിന്തുടരാൻ ആവശ്യമാണ്.",
+  "tags": [
+   "ദില്ജിത്",
+   "ബെംഗളൂർ",
+   "ബോംബ്ഭീഷണി",
+   "കോൺസർട്ട്‌സുരക്ഷ"
+  ]
+ }
+}

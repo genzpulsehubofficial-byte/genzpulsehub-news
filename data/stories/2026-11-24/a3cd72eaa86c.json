@@ -1,0 +1,37 @@
+{
+ "id": "a3cd72eaa86c",
+ "created": "2026-11-24T16:21:24+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "The Week",
+ "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjFoLVdkLTFrVVNicG0wc2kwbTlQVTQ5RGRDMkZqbEJheUZiM2R5WmxrS3hZS1lNWmF1NGxCcGI3RE91Q0NYUHFQSmo4VUtRck9iSlpLVFhjTVhDQ2JjeTNzNy0ybG5vcUtIc3VNUy00U1FacWtHQ2JUbzlfVUpoUXpnd3o3dGdLYkRrbjNxVy1zNUM0WHUxX2xOT1dzbTlyODdrUm9zaUV0Q21VdlRZWlBrZGM4Vi1wRDBqamZzODIzakHSAcgBQVVfeXFMT2daY0FiOWd2dGRPUzdRN3AzWVkyQ1hhTlUtN1dIcndMTkJvZXVjWmZHVjRiZk56N2dpVjVFZE5PWVlsdDc0OXZqMm9KdEVVdzZ4VjVCbGNZbWtaRWl6c3pUVXh5SnhKRUFMdUVDOVdPX2MzbERNMndhNlZ5TktYUXhzc0F3bVFmMWVhdzU5LWN2TXlCS2phS0JrMzBSYVA2RGRkZm01WDlJR0c0QUtmYkpFNE54VlBQUmh1UmFhTHRUZjlsb3dPOXM?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "IMD warns heavy rain in South, fog in North",
+  "hook": "Rainy days and foggy mornings ahead—plan your commute.",
+  "what": "The Indian Meteorological Department has issued a heavy‑rain alert for the southern states and warned of dense fog in northern regions. Residents are advised to stay updated on weather updates.",
+  "why": "Rain and fog can affect travel and outdoor plans, so check alerts before heading out.",
+  "tags": [
+   "weather",
+   "rain",
+   "fog",
+   "IMD",
+   "alert"
+  ]
+ },
+ "ml": {
+  "headline": "IMD‑യുടെ മുന്നറിയിപ്പ്: തെക്കില്‍ ശക്തമായ മഴ, വടക്കില്‍ മൂടല്‍ മഞ്ഞ്",
+  "hook": "മഴയും മൂടല്‍ മഞ്ഞും വരുന്നു—യാത്രാ പദ്ധതികള്‍ പരിശോധിക്കുക.",
+  "what": "ഇന്ത്യന്‍ മെടിയോറോളജിക്കല്‍ ഡിപ്പാര്‍ട്ട്‌മെന്റ് തെക്കന്‍ സംസ്ഥാനങ്ങളില്‍ ശക്തമായ മഴയുടെ അലര്‍ട്ട് പുറപ്പെടുവിക്കുകയും വടക്കന്‍ പ്രദേശങ്ങളില്‍ മൂടല്‍ മഞ്ഞ് വരാന്‍ സാധ്യതയുണ്ടെന്ന് അറിയിക്കുകയും ചെയ്തു. ആളുകള്‍ കാലാവസ്ഥാ അപ്ഡേറ്റുകള്‍ പിന്തുടരാന്‍ നിര്‍ദേശിക്കുന്നു.",
+  "why": "മഴയും മൂടല്‍ മഞ്ഞും യാത്രയും പുറം പ്രവര്‍ത്തനങ്ങളും ബാധിക്കും, അതിനാല്‍ പുറപ്പെടുന്നതിന് മുമ്പ് അറിയിപ്പ് പരിശോധിക്കുക.",
+  "tags": [
+   "weather",
+   "rain",
+   "fog",
+   "IMD",
+   "alert"
+  ]
+ }
+}

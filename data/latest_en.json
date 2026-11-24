@@ -1,5 +1,80 @@
 [
  {
+  "id": "d791c2b42679",
+  "created": "2026-11-24T16:21:13+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gandhi-a-chor-in-school-after-emergency-101795513629852.html",
+  "headline": "Priyanka Gandhi says she slapped boy who called Sanjay a thief",
+  "hook": "A family story reveals a school‑yard showdown over politics",
+  "what": "Priyanka Gandhi recalled hitting a classmate after he called her uncle Sanjay Gandhi a 'chor' (thief) during school days following the Emergency. She shared the memory while talking with her mother Sonia and brother Rahul.",
+  "why": "It shows how political legacies can affect personal interactions, reminding youths to think before using harsh words.",
+  "tags": [
+   "politics",
+   "history",
+   "Gandhi",
+   "India",
+   "youth"
+  ]
+ },
+ {
+  "id": "59b584691920",
+  "created": "2026-11-24T16:21:23+05:30",
+  "category": "entertainment",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/bangalore/bomb-threat-email-targets-diljit-dosanjhs-bengaluru-concert-north-cybercrime-police-register-fir/article71737622.ece",
+  "headline": "Bomb threat email sent against Diljit Dosanjh’s Bengaluru show",
+  "hook": "A scary email warned of a bomb at Diljit’s concert and a nearby metro.",
+  "what": "An email threatened an IED blast at Diljit Dosanjh’s concert in Bengaluru and at Madavara Metro Station. The North Cybercrime Police filed an FIR after receiving the threat, which ended with the slogan “Khalistan Zindabad”.",
+  "why": "Such threats raise safety concerns for large public events, so attendees should stay alert and follow official security instructions.",
+  "tags": [
+   "Diljit",
+   "Bengaluru",
+   "BombThreat",
+   "ConcertSafety"
+  ]
+ },
+ {
+  "id": "a3cd72eaa86c",
+  "created": "2026-11-24T16:21:24+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Week",
+  "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjFoLVdkLTFrVVNicG0wc2kwbTlQVTQ5RGRDMkZqbEJheUZiM2R5WmxrS3hZS1lNWmF1NGxCcGI3RE91Q0NYUHFQSmo4VUtRck9iSlpLVFhjTVhDQ2JjeTNzNy0ybG5vcUtIc3VNUy00U1FacWtHQ2JUbzlfVUpoUXpnd3o3dGdLYkRrbjNxVy1zNUM0WHUxX2xOT1dzbTlyODdrUm9zaUV0Q21VdlRZWlBrZGM4Vi1wRDBqamZzODIzakHSAcgBQVVfeXFMT2daY0FiOWd2dGRPUzdRN3AzWVkyQ1hhTlUtN1dIcndMTkJvZXVjWmZHVjRiZk56N2dpVjVFZE5PWVlsdDc0OXZqMm9KdEVVdzZ4VjVCbGNZbWtaRWl6c3pUVXh5SnhKRUFMdUVDOVdPX2MzbERNMndhNlZ5TktYUXhzc0F3bVFmMWVhdzU5LWN2TXlCS2phS0JrMzBSYVA2RGRkZm01WDlJR0c0QUtmYkpFNE54VlBQUmh1UmFhTHRUZjlsb3dPOXM?oc=5",
+  "headline": "IMD warns heavy rain in South, fog in North",
+  "hook": "Rainy days and foggy mornings ahead—plan your commute.",
+  "what": "The Indian Meteorological Department has issued a heavy‑rain alert for the southern states and warned of dense fog in northern regions. Residents are advised to stay updated on weather updates.",
+  "why": "Rain and fog can affect travel and outdoor plans, so check alerts before heading out.",
+  "tags": [
+   "weather",
+   "rain",
+   "fog",
+   "IMD",
+   "alert"
+  ]
+ },
+ {
+  "id": "02a9bbc47cf2",
+  "created": "2026-11-24T16:21:29+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfo-may-let-employees-deposit-pf-money-directly-via-uan-beyond-12-mandate-what-the-proposal-means-for-you-11795514057212.html",
+  "headline": "EPFO proposes direct PF deposits via UAN",
+  "hook": "Add to your retirement fund without your boss.",
+  "what": "The Employees’ Provident Fund Organisation has suggested a rule change that would let members put voluntary contributions straight into their UAN‑linked PF accounts, bypassing the employer. The proposal also mentions allowing small third‑party contributions, such as tips, which could help gig workers.",
+  "why": "This could give freelancers and young employees more control over their savings and make it easier to boost their retirement corpus. Keep an eye on the final rules and consider using the option once it’s approved.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "UAN",
+   "GigEconomy",
+   "Savings"
+  ]
+ },
+ {
   "id": "6fd5c5e96892",
   "created": "2026-11-24T15:19:32+05:30",
   "category": "headlines",
@@ -674,82 +749,6 @@
    "TechLaunch",
    "Gaming",
    "India"
-  ]
- },
- {
-  "id": "42d174b43000",
-  "created": "2026-11-24T08:24:55+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWFZRVlPMFo0bW1hVUV6WTZIYnN6QjJwRldybmhRdWhqYmYtYW5jNUFfUVo2anhGMWxuV0NDTGRFU0tZR05GQXNNb1BtdWxiaE5zMXYxSU1ZdW8wc0c5WkIwSlZvVmJJMDQ2MmJwUF93U3N5b29xaUJVZjJQLXJNRmdTbmFNM1c0bU5Kb0k1eC00ai04MUszdktIbUt2VzUza21uWDZaTUo?oc=5",
-  "headline": "Blair Tickner out, Matt Fisher replaces him for India Test",
-  "hook": "New Zealand’s pace attack gets a shake‑up ahead of the second Test.",
-  "what": "Fast bowler Blair Tickner has been sidelined with a hamstring problem and will miss the second match against India. New Zealand has brought in Matt Fisher as his replacement.",
-  "why": "The change could affect the team’s bowling strength, so fans should keep an eye on the line‑up before the game starts.",
-  "tags": [
-   "cricket",
-   "NZvsIND",
-   "TestSeries",
-   "injury",
-   "teamnews"
-  ]
- },
- {
-  "id": "296c600eda08",
-  "created": "2026-11-24T08:24:58+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "News-Medical",
-  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNakdkVllkMHBtMU10ajkxYkFWUnRxTnJHellZendGUDctWGZhSi0xOXdyVzFublNqX0Joa3RJR3VMVlpOaVhPaHAzcENxcnN1c0VrelkxTU8ya2hENThadFVuTnQwelYzZkRjME1XTVRHYnVybEI5cXlTcjV5UDZ0OUwxaVV1VE9CWURHaXR6WGx4T19oX0QzM1FGSnNLS2JzdmV5YXduWkNXTnJQMU54ekZLMnlMelE1YWRTdWNmV095aHlKb2d2dDN3eGxmWmc?oc=5",
-  "headline": "Researchers test if MIND diet really boosts brain health",
-  "hook": "Is the popular brain‑food plan actually effective?",
-  "what": "Scientists conducted a study to evaluate the MIND diet’s impact on cognitive function. The research aimed to verify claims about its benefits for the brain.",
-  "why": "Knowing whether the diet works helps teens choose foods that support mental performance.",
-  "tags": [
-   "MINDdiet",
-   "brainhealth",
-   "nutrition",
-   "research",
-   "teens"
-  ]
- },
- {
-  "id": "c1e90ee3d523",
-  "created": "2026-11-24T07:28:40+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-alleges-he-was-stopped-from-flying-to-uk-at-delhi-airport-12368482#publisher=newsstand",
-  "headline": "CJP's Saurav Das says Delhi immigration halted his UK flight",
-  "hook": "Got blocked at the airport? Here's what happened.",
-  "what": "Saurav Das, a member of the CJP, claimed he was stopped at the immigration counter in Delhi. He says officials prevented him from boarding a flight to the United Kingdom.",
-  "why": "Travel restrictions can affect students planning to study abroad. Stay updated on visa and immigration guidelines before booking trips.",
-  "tags": [
-   "travel",
-   "immigration",
-   "Delhi",
-   "UK",
-   "students"
-  ]
- },
- {
-  "id": "75c64450e095",
-  "created": "2026-11-24T07:28:43+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/red-bra-nvidia-flag-trump-welcomes-jensen-huang-with-assassination-meme-12368514#publisher=newsstand",
-  "headline": "Nvidia reinstates Jensen Huang as CEO",
-  "hook": "The AI chip leader brings back its founder at the helm.",
-  "what": "Nvidia announced on Monday that Jensen Huang will resume his role as chief executive. The decision restores the company's original leadership.",
-  "why": "Huang's return could influence AI product rollouts that shape the tech teens use daily. Keep an eye on upcoming Nvidia announcements.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "Tech",
-   "AI",
-   "CEO"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "02a9bbc47cf2",
+ "created": "2026-11-24T16:21:29+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epfo-may-let-employees-deposit-pf-money-directly-via-uan-beyond-12-mandate-what-the-proposal-means-for-you-11795514057212.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO proposes direct PF deposits via UAN",
+  "hook": "Add to your retirement fund without your boss.",
+  "what": "The Employees’ Provident Fund Organisation has suggested a rule change that would let members put voluntary contributions straight into their UAN‑linked PF accounts, bypassing the employer. The proposal also mentions allowing small third‑party contributions, such as tips, which could help gig workers.",
+  "why": "This could give freelancers and young employees more control over their savings and make it easier to boost their retirement corpus. Keep an eye on the final rules and consider using the option once it’s approved.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "UAN",
+   "GigEconomy",
+   "Savings"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO നിർദ്ദേശം: UAN വഴി നേരിട്ട് PF നിക്ഷേപം",
+  "hook": "നിങ്ങളുടെ ജോലി ദാതാവില്ലാതെ തന്നെ വിരമിക്കൽ ഫണ്ട് കൂട്ടാം",
+  "what": "Employees’ Provident Fund Organisation (EPFO) അംഗങ്ങൾക്ക് അവരുടെ UAN‑ലിങ്ക് ചെയ്ത PF അക്കൗണ്ടിലേക്ക് നേരിട്ട് സ്വമേധയാ സംഭാവന ചെയ്യാൻ പുതിയ നിയമം നിർദ്ദേശിച്ചു, തൊഴിലുടമയുടെ വഴി വേണ്ടാതെ. കൂടാതെ, ഉപഭോക്തൃ ടിപ്പ് പോലുള്ള ചെറു മൂന്നാം കക്ഷി സംഭാവനകൾക്കും അവസരം നൽകാൻ പദ്ധതിയുണ്ട്, ഇത് ഗിഗ് തൊഴിലാളികളെ സഹായിക്കും.",
+  "why": "ഇത് ഫ്രീലാൻസർമാർക്കും യുവ തൊഴിലാളികൾക്കും അവരുടെ സേവിംഗ്സിൽ കൂടുതൽ നിയന്ത്രണം നൽകും, വിരമിക്കൽ നിധി വേഗത്തിൽ കൂട്ടാൻ സഹായിക്കും. അന്തിമ നിയമം വരുമ്പോൾ ഈ സൗകര്യം ഉപയോഗിക്കാൻ തയ്യാറാവുക.",
+  "tags": [
+   "EPFO",
+   "PF",
+   "UAN",
+   "GigEconomy",
+   "Savings"
+  ]
+ }
+}

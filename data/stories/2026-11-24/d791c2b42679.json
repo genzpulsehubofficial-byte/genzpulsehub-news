@@ -1,0 +1,37 @@
+{
+ "id": "d791c2b42679",
+ "created": "2026-11-24T16:21:13+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gandhi-a-chor-in-school-after-emergency-101795513629852.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Priyanka Gandhi says she slapped boy who called Sanjay a thief",
+  "hook": "A family story reveals a school‑yard showdown over politics",
+  "what": "Priyanka Gandhi recalled hitting a classmate after he called her uncle Sanjay Gandhi a 'chor' (thief) during school days following the Emergency. She shared the memory while talking with her mother Sonia and brother Rahul.",
+  "why": "It shows how political legacies can affect personal interactions, reminding youths to think before using harsh words.",
+  "tags": [
+   "politics",
+   "history",
+   "Gandhi",
+   "India",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "പ്രിയങ്ക ഗാൻധി പറഞ്ഞു, സഞ്ജയ്‌നെ ‘ചോർ’ എന്ന് വിളിച്ച കുട്ടിയെ അടിച്ചു",
+  "hook": "കുടുംബം പങ്കുവെച്ച കഥ, സ്കൂൾ കാലത്തെ രാഷ്ട്രീയ തർക്കം",
+  "what": "പ്രിയങ്ക ഗാൻധി, അടിയന്തരാവസ്ഥക്കു ശേഷം സ്കൂളിൽ സഞ്ജയ് ഗാൻധിയെ ‘ചോർ’ എന്ന് വിളിച്ച ഒരു കുട്ടിയെ അടിച്ചതായി ഓർമ്മിച്ചു. ഈ സംഭവത്തെക്കുറിച്ച് അമ്മ സോണിയയും സഹോദരൻ രാഹുലും കൂടെ സംസാരിക്കുമ്പോൾ അവൾ പങ്കുവെച്ചു.",
+  "why": "രാഷ്ട്രീയ ചരിത്രം വ്യക്തിഗത ജീവിതത്തെ എങ്ങനെ സ്വാധീനിക്കുന്നു എന്ന് ഇത് കാണിക്കുന്നു, യുവാക്കൾക്ക് വാക്കുകളുടെ പ്രഭാവം ഓർക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "politics",
+   "history",
+   "Gandhi",
+   "India",
+   "youth"
+  ]
+ }
+}
