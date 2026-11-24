@@ -1,0 +1,37 @@
+{
+ "id": "230bcfc8be90",
+ "created": "2026-11-24T22:15:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/uchipillayar-temple-board-defends-lighting-of-karthigai-deepam-at-usual-spot-despite-sc-order-madurai-tvk-political-row-deepathoon-pillar-101795533479214.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Temple board insists on traditional Karthigai Deepam lighting spot",
+  "hook": "They say age‑old customs trump the court’s directive.",
+  "what": "The temple’s managing committee voted unanimously to keep the lamp lighting at its historic location, despite a Supreme Court order calling for a change.",
+  "why": "For young people, it shows the clash between heritage practices and legal rulings, reminding them to respect tradition while staying aware of the law.",
+  "tags": [
+   "KarthigaiDeepam",
+   "TempleCustoms",
+   "Heritage",
+   "SupremeCourt",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ക്ഷേത്ര ബോർഡ് പരമ്പരാഗത കാർത്തികൈ ദീപം വിളക്കിടൽ നിലനിർത്തുന്നു",
+  "hook": "കോടതി നിർദ്ദേശം മറികടന്ന്, പഴയ ആചാരങ്ങൾ പ്രധാനമെന്ന് അവർ പറയുന്നു.",
+  "what": "ക്ഷേത്രത്തിന്റെ ഭരണകൂടം ഏകമതമായി വിളക്ക് പതിവുള്ള സ്ഥലത്ത് തന്നെ വെക്കാൻ തീരുമാനിച്ചു, സുപ്രീം കോടതി നിർദ്ദേശം അവഗണിച്ച്.",
+  "why": "ഇത് യുവാക്കളെ പരമ്പരാഗതം, നിയമം എന്നിവയുടെ സംഘർഷം കാണിക്കാൻ സഹായിക്കുന്നു; ആചാരങ്ങളെ ആദരിക്കുമ്പോൾ നിയമം ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "KarthigaiDeepam",
+   "ക്ഷേത്രം",
+   "പാരമ്പര്യം",
+   "കോടതി",
+   "യുവാക്കൾ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "084bbe901246",
+ "created": "2026-11-24T22:15:09+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Uber, Nuro test driverless Lucid SUVs in California",
+  "hook": "Self‑driving cars are hitting real streets now.",
+  "what": "Uber teamed up with robot‑delivery firm Nuro to run driver‑less trials of Lucid’s Gravity SUV model. The vehicles are being driven on public roads around the San Francisco Bay Area.",
+  "why": "Shows how autonomous tech is moving toward everyday use, hinting at future ride‑hailing options for Indian youth. Keep an eye on similar trials that could arrive locally.",
+  "tags": [
+   "autonomous",
+   "rideshare",
+   "tech",
+   "futuremobility",
+   "US"
+  ]
+ },
+ "ml": {
+  "headline": "Uber, Nuro ആരംഭിച്ചു ഡ്രൈവർലെസ് Lucid SUV ടെസ്റ്റിംഗ്",
+  "hook": "സ്വയം ചലിക്കുന്ന കാറുകൾ ഇപ്പോൾ പൊതുവഴികളിൽ",
+  "what": "Uber, റോബോട്ട് ഡെലിവറി കമ്പനി Nuro ചേർന്ന് Lucid Gravity SUV മോഡലിന്റെ ഡ്രൈവർലെസ് പരീക്ഷണം നടത്തുന്നു. ഈ കാറുകൾ സാൻ ഫ്രാൻസിസ്കോ ബേ ഏരിയയിലെ പൊതുവഴികളിൽ ഓടുന്നു.",
+  "why": "സ്വയമേവ ചലിക്കുന്ന സാങ്കേതികവിദ്യയുടെ പ്രയോജനങ്ങൾ കാണിക്കുന്നു, ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഭാവിയിലെ റൈഡ്‑ഷെയർ സേവനങ്ങൾക്കുള്ള സൂചന. സമാന പരീക്ഷണങ്ങൾ നമ്മുടെ രാജ്യത്തിലും വരാൻ സാധ്യതയുണ്ട്, അതിനായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "സ്വയമേവ",
+   "റൈഡ്ഷെയർ",
+   "ടെക്",
+   "ഭാവി",
+   "US"
+  ]
+ }
+}

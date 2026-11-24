@@ -1,5 +1,118 @@
 [
  {
+  "id": "56e92488bf36",
+  "created": "2026-11-24T22:14:59+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/indians-among-13-killed-in-bus-truck-collision-in-uae-12371888#publisher=newsstand",
+  "headline": "13 Dead in UAE Bus‑Truck Crash, Indians Among Victims",
+  "hook": "A bus with 41 passengers collided with a truck, killing 13.",
+  "what": "A passenger bus carrying 41 people in the United Arab Emirates hit a truck, resulting in 13 fatalities. Indian nationals were among those killed.",
+  "why": "Young travelers should double‑check transport safety when abroad and keep emergency contacts ready.",
+  "tags": [
+   "UAE",
+   "bus crash",
+   "travel safety",
+   "Indian diaspora"
+  ]
+ },
+ {
+  "id": "230bcfc8be90",
+  "created": "2026-11-24T22:15:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/uchipillayar-temple-board-defends-lighting-of-karthigai-deepam-at-usual-spot-despite-sc-order-madurai-tvk-political-row-deepathoon-pillar-101795533479214.html",
+  "headline": "Temple board insists on traditional Karthigai Deepam lighting spot",
+  "hook": "They say age‑old customs trump the court’s directive.",
+  "what": "The temple’s managing committee voted unanimously to keep the lamp lighting at its historic location, despite a Supreme Court order calling for a change.",
+  "why": "For young people, it shows the clash between heritage practices and legal rulings, reminding them to respect tradition while staying aware of the law.",
+  "tags": [
+   "KarthigaiDeepam",
+   "TempleCustoms",
+   "Heritage",
+   "SupremeCourt",
+   "Youth"
+  ]
+ },
+ {
+  "id": "084bbe901246",
+  "created": "2026-11-24T22:15:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+  "headline": "Uber, Nuro test driverless Lucid SUVs in California",
+  "hook": "Self‑driving cars are hitting real streets now.",
+  "what": "Uber teamed up with robot‑delivery firm Nuro to run driver‑less trials of Lucid’s Gravity SUV model. The vehicles are being driven on public roads around the San Francisco Bay Area.",
+  "why": "Shows how autonomous tech is moving toward everyday use, hinting at future ride‑hailing options for Indian youth. Keep an eye on similar trials that could arrive locally.",
+  "tags": [
+   "autonomous",
+   "rideshare",
+   "tech",
+   "futuremobility",
+   "US"
+  ]
+ },
+ {
+  "id": "b86b566ffe45",
+  "created": "2026-11-24T22:15:11+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/can-the-income-tax-department-tax-your-gst-refund-itat-rules-in-favour-of-taxpayer-explains-when-it-is-not-taxable-11795533638753.html",
+  "headline": "GST refunds not automatically taxable, Delhi ITAT rules",
+  "hook": "Your GST refund won’t be taxed just because it shows up in audit.",
+  "what": "A Delhi Income Tax Appellate Tribunal decision clarified that a GST refund cannot be considered taxable income solely based on its appearance in a tax audit report. The ruling protects businesses that had previously paid GST but did not record it as an expense.",
+  "why": "This means firms can claim refunds without fearing extra income‑tax liability, helping cash flow. Companies should keep proper GST records to avoid disputes.",
+  "tags": [
+   "GST",
+   "tax",
+   "ITAT",
+   "refund",
+   "business"
+  ]
+ },
+ {
+  "id": "8a546b15d29e",
+  "created": "2026-11-24T22:15:14+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+  "headline": "Solar and Batteries Target Power Needs of Future AI Data Centers",
+  "hook": "AI farms could run on sunshine and stored energy.",
+  "what": "Next‑generation AI data centers will require tens of gigawatts of electricity each year. An investor linked to Crusoe believes solar power and battery storage are the logical solution.",
+  "why": "This shift could create greener tech jobs and lower energy costs, relevant for students interested in sustainability or tech careers. Keep an eye on renewable projects in the AI space.",
+  "tags": [
+   "AI",
+   "solar",
+   "batteries",
+   "data centers",
+   "renewable"
+  ]
+ },
+ {
+  "id": "6fb34fc76109",
+  "created": "2026-11-24T22:15:17+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-eased-no-separate-claims-needed-for-sickness-maternity-benefits-check-payout-deadlines-11795530243559.html",
+  "headline": "ESIC simplifies sickness, maternity payouts under new 2026 rules",
+  "hook": "No more paperwork for common health benefits—money goes straight to you.",
+  "what": "The Employees’ State Insurance (General) Regulations, 2026 started on November 21, replacing the 1950 rules. Under the new framework, eligible workers get sickness and maternity benefits via direct payments, without filing separate claims. Payout timelines are now clearly defined.",
+  "why": "Young workers can expect faster cash support when they’re ill or pregnant, so they should verify the deadline for receiving payments to avoid missing out.",
+  "tags": [
+   "ESIC",
+   "healthbenefits",
+   "directpay",
+   "youngworkers",
+   "India"
+  ]
+ },
+ {
   "id": "b44a4be1f4b4",
   "created": "2026-11-24T21:05:44+05:30",
   "category": "headlines",
@@ -639,117 +752,6 @@
    "markets",
    "youngfinance",
    "funds"
-  ]
- },
- {
-  "id": "bb9ed3720b07",
-  "created": "2026-11-24T14:08:10+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/atal-pension-yojana-enrolling-at-30-check-investment-required-for-5-000-monthly-pension-after-retirement-11795501755628.html",
-  "headline": "30-year-olds can lock ₹5k monthly pension with APY",
-  "hook": "Start early, retire with a steady ₹5,000 each month",
-  "what": "The Atal Pension Yojana calculator shows that a person who joins at age 30 can receive a guaranteed ₹5,000 per month after turning 60. It lists the amount to be paid monthly, quarterly or half‑yearly and the total outlay over 30 years. Eligibility rules are also provided.",
-  "why": "Understanding the contribution schedule helps young Indians plan long‑term savings for a reliable retirement income. Interested users can view the APY calculator and consider enrolling now.",
-  "tags": [
-   "AtalPension",
-   "RetirementSavings",
-   "GenZFinance",
-   "India"
-  ]
- },
- {
-  "id": "c2bf77b41301",
-  "created": "2026-11-24T14:08:12+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/how-to/features/how-to-fix-5g-connectivity-issues-on-android-and-iphone-12366701",
-  "headline": "5G glitch? Check your SIM and plan first",
-  "hook": "Your phone’s 5G could be silent because of the wrong SIM or plan.",
-  "what": "If 5G isn’t showing up, the issue often lies in the SIM card or the mobile subscription. Both need to be compatible with the new network.",
-  "why": "Young users rely on fast data for streaming and gaming, so confirming the right SIM and plan keeps you connected without extra hassle.",
-  "tags": [
-   "5G",
-   "mobile",
-   "techtips",
-   "connectivity"
-  ]
- },
- {
-  "id": "3ca98d9c7135",
-  "created": "2026-11-24T14:08:14+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/",
-  "headline": "Google Cloud cuts about 30 jobs in India, denies wider layoffs",
-  "hook": "A small staff reduction, not a massive layoff wave.",
-  "what": "Google Cloud said it let go of roughly 30 employees in India last week. The company also stated that rumors of a large‑scale layoff are unfounded.",
-  "why": "For job‑seekers and tech students, the news shows the cloud sector still has openings while occasional small cuts happen. Keep an eye on official announcements before reacting to rumors.",
-  "tags": [
-   "GoogleCloud",
-   "Jobs",
-   "India",
-   "TechSector",
-   "Layoffs"
-  ]
- },
- {
-  "id": "f9d7df9192af",
-  "created": "2026-11-24T12:42:36+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/nvidia-jensen-huang-ceo-news-the-directors-who-put-jensen-huang-back-in-charge-of-nvidia-12369375#publisher=newsstand",
-  "headline": "Nvidia Board Restores Jensen Huang as CEO",
-  "hook": "The quiet board finally put the founder back at the helm.",
-  "what": "Nvidia’s board, long out of the spotlight, voted to put Jensen Huang back in charge of the company. The chipmaker has become a global powerhouse in graphics and AI hardware.",
-  "why": "Leadership shifts at a major tech firm can influence the devices and AI tools teens use. Keep an eye on Nvidia’s product updates.",
-  "tags": [
-   "Nvidia",
-   "TechLeadership",
-   "AI",
-   "Gaming"
-  ]
- },
- {
-  "id": "3a42eaadc7be",
-  "created": "2026-11-24T12:42:39+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/sheikh-hasina-is-terrorist-can-only-return-in-handcuffs-bangladesh-on-ex-pms-homecoming-call-12369327#publisher=newsstand",
-  "headline": "Bangladesh Says Hasina Can Return Only in Handcuffs",
-  "hook": "Ex‑PM Sheikh Hasina faces a stark demand as she seeks to come back.",
-  "what": "Former Prime Minister Sheikh Hasina asked the Bangladeshi government to organise her return. A statement labeled her a terrorist and said she could only come back in handcuffs.",
-  "why": "The comment highlights rising political tension in the region, which could affect travel and news for young Indians. Stay updated on cross‑border developments.",
-  "tags": [
-   "Bangladesh",
-   "SheikhHasina",
-   "politics",
-   "homecoming",
-   "regional"
-  ]
- },
- {
-  "id": "9c10f793addc",
-  "created": "2026-11-24T12:42:42+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
-  "headline": "Kerala vs Assam T20 clash on Nov 24",
-  "hook": "Catch the action live as Kerala takes on Assam!",
-  "what": "Kerala and Assam will meet in the Syed Mushtaq Ali Trophy on 24 November 2026. Live streaming and real‑time scorecards are available on Sportsdunia and other platforms.",
-  "why": "Young fans can follow the game online and support their state team. Stay updated for scores and highlights.",
-  "tags": [
-   "cricket",
-   "Kerala",
-   "Assam",
-   "T20",
-   "SyedMushtaqAli"
   ]
  }
 ]

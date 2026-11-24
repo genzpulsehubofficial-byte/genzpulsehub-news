@@ -1,0 +1,37 @@
+{
+ "id": "8a546b15d29e",
+ "created": "2026-11-24T22:15:14+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Solar and Batteries Target Power Needs of Future AI Data Centers",
+  "hook": "AI farms could run on sunshine and stored energy.",
+  "what": "Next‑generation AI data centers will require tens of gigawatts of electricity each year. An investor linked to Crusoe believes solar power and battery storage are the logical solution.",
+  "why": "This shift could create greener tech jobs and lower energy costs, relevant for students interested in sustainability or tech careers. Keep an eye on renewable projects in the AI space.",
+  "tags": [
+   "AI",
+   "solar",
+   "batteries",
+   "data centers",
+   "renewable"
+  ]
+ },
+ "ml": {
+  "headline": "സോളാർ, ബാറ്ററികൾ ഭാവി AI ഡാറ്റാ സെന്ററുകളുടെ വൈദ്യുതി ആവശ്യങ്ങൾ നിറവേറ്റും",
+  "hook": "AI ഫാംസ് സൂര്യപ്രകാശവും സംരക്ഷിത ഊർജവും ഉപയോഗിച്ച് പ്രവർത്തിക്കാം.",
+  "what": "അടുത്ത തലമുറ AI ഡാറ്റാ സെന്ററുകൾക്ക് ഓരോ വർഷവും ദശലക്ഷം ഗിഗാവാട്ട് വൈദ്യുതി ആവശ്യമാകും. ക്രൂസോയുടെ ഒരു നിക്ഷേപകൻ സോളാർ, ബാറ്ററി സ്റ്റോറേജ് എന്നിവയാണ് ഉചിതമായ പരിഹാരം എന്ന് വിശ്വസിക്കുന്നു.",
+  "why": "ഇത് സുസ്ഥിര സാങ്കേതിക തൊഴിൽ അവസരങ്ങളും ഊർജ്ജ ചെലവ് കുറയ്ക്കലും സൃഷ്ടിക്കാൻ കഴിയും, ടെക് അല്ലെങ്കിൽ പരിസ്ഥിതി രംഗത്ത് താൽപ്പര്യമുള്ള യുവാക്കൾക്ക് ശ്രദ്ധേയമാണ്.",
+  "tags": [
+   "AI",
+   "സോളാർ",
+   "ബാറ്ററികൾ",
+   "ഡാറ്റാ സെന്ററുകൾ",
+   "പുനരുപയോഗം"
+  ]
+ }
+}

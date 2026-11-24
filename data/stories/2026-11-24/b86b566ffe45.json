@@ -1,0 +1,37 @@
+{
+ "id": "b86b566ffe45",
+ "created": "2026-11-24T22:15:11+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/can-the-income-tax-department-tax-your-gst-refund-itat-rules-in-favour-of-taxpayer-explains-when-it-is-not-taxable-11795533638753.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GST refunds not automatically taxable, Delhi ITAT rules",
+  "hook": "Your GST refund won’t be taxed just because it shows up in audit.",
+  "what": "A Delhi Income Tax Appellate Tribunal decision clarified that a GST refund cannot be considered taxable income solely based on its appearance in a tax audit report. The ruling protects businesses that had previously paid GST but did not record it as an expense.",
+  "why": "This means firms can claim refunds without fearing extra income‑tax liability, helping cash flow. Companies should keep proper GST records to avoid disputes.",
+  "tags": [
+   "GST",
+   "tax",
+   "ITAT",
+   "refund",
+   "business"
+  ]
+ },
+ "ml": {
+  "headline": "GST റീഫണ്ട് സ്വയം നികുതിയില്ല, ഡെലീ ITAT വിധി",
+  "hook": "നിങ്ങളുടെ GST റീഫണ്ട്, ഓഡിറ്റ് റിപ്പോർട്ടിൽ വന്നാലും നികുതിയാകില്ല.",
+  "what": "ഡെലീ ഇൻകം ടാക്സ് അപീൽ ട്രിബ്യൂണൽ (ITAT) എടുത്ത ഒരു വിധിയിൽ, GST റീഫണ്ട് صرف ഓഡിറ്റ് റിപ്പോർട്ടിൽ കാണുന്നതുകൊണ്ട് സ്വയം നികുതിയാക്കാൻ കഴിയില്ലെന്ന് വ്യക്തമാക്കിയിട്ടുണ്ട്. ഈ തീരുമാനം, GST അടച്ചിട്ടു ചെലവായി രേഖപ്പെടുത്താത്ത ബിസിനസ്സുകൾക്ക് ആശ്വാസം നൽകുന്നു.",
+  "why": "ഇത് കമ്പനികൾക്ക് റീഫണ്ട് ലഭിക്കുമ്പോൾ അധിക ഇൻകം ടാക്സ് ഭയമില്ലാതെ ക്യാഷ് ഫ്ലോ മെച്ചപ്പെടുത്താൻ സഹായിക്കുന്നു. ശരിയായ GST രേഖകൾ സൂക്ഷിക്കുന്നത് വിവാദങ്ങൾ ഒഴിവാക്കാൻ പ്രധാനമാണ്.",
+  "tags": [
+   "GST",
+   "tax",
+   "ITAT",
+   "refund",
+   "business"
+  ]
+ }
+}

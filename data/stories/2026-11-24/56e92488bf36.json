@@ -1,0 +1,35 @@
+{
+ "id": "56e92488bf36",
+ "created": "2026-11-24T22:14:59+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/indians-among-13-killed-in-bus-truck-collision-in-uae-12371888#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "13 Dead in UAE Bus‑Truck Crash, Indians Among Victims",
+  "hook": "A bus with 41 passengers collided with a truck, killing 13.",
+  "what": "A passenger bus carrying 41 people in the United Arab Emirates hit a truck, resulting in 13 fatalities. Indian nationals were among those killed.",
+  "why": "Young travelers should double‑check transport safety when abroad and keep emergency contacts ready.",
+  "tags": [
+   "UAE",
+   "bus crash",
+   "travel safety",
+   "Indian diaspora"
+  ]
+ },
+ "ml": {
+  "headline": "യുഎഇയില്‍ ബസ്‑ട്രക്ക് കൂട്ടിയിടിയില്‍ 13 പേര്‍ മരണം, ഇന്ത്യക്കാരും ഉള്‍പ്പെടെ",
+  "hook": "41 ആളുകളുള്ള ഒരു ബസ് ട്രക്കുമായി ഇടിഞ്ഞു, 13 പേർ കൊല്ലപ്പെട്ടു.",
+  "what": "യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സിൽ 41 യാത്രക്കാരുള്ള ഒരു യാത്രാ ബസ് ഒരു ട്രക്കുമായി തട്ടിയപ്പോൾ 13 പേർ മരണമടഞ്ഞു. അതിൽ ഇന്ത്യക്കാരും ഉണ്ടായിരുന്നു.",
+  "why": "വിദേശയാത്ര ചെയ്യുമ്പോൾ ഗതാഗത സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം, അടിയന്തിര ബന്ധങ്ങൾ സജ്ജമാക്കണം.",
+  "tags": [
+   "UAE",
+   "ബസ് അപകടം",
+   "യാത്രാ സുരക്ഷ",
+   "ഇന്ത്യൻ സമൂഹം"
+  ]
+ }
+}

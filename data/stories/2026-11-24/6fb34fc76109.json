@@ -1,0 +1,37 @@
+{
+ "id": "6fb34fc76109",
+ "created": "2026-11-24T22:15:17+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-eased-no-separate-claims-needed-for-sickness-maternity-benefits-check-payout-deadlines-11795530243559.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ESIC simplifies sickness, maternity payouts under new 2026 rules",
+  "hook": "No more paperwork for common health benefits—money goes straight to you.",
+  "what": "The Employees’ State Insurance (General) Regulations, 2026 started on November 21, replacing the 1950 rules. Under the new framework, eligible workers get sickness and maternity benefits via direct payments, without filing separate claims. Payout timelines are now clearly defined.",
+  "why": "Young workers can expect faster cash support when they’re ill or pregnant, so they should verify the deadline for receiving payments to avoid missing out.",
+  "tags": [
+   "ESIC",
+   "healthbenefits",
+   "directpay",
+   "youngworkers",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ESIC പുതിയ 2026 നിയമം കൊണ്ട് രോഗ, ഗർഭധാരണം പെയ്മെന്റുകൾ ലളിതമാക്കി",
+  "hook": "പേപ്പർവർക്കില്ല, പണം നേരിട്ട് നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക്.",
+  "what": "Employees’ State Insurance (General) Regulations, 2026 നവംബർ 21-ന് പ്രാബല്യത്തിൽ വന്നു, 1950‑ലെ പഴയ നിയമം മാറ്റി. പുതിയ നിയമത്തിൽ യോഗ്യരായ തൊഴിലാളികൾക്ക് രോഗവും ഗർഭധാരണവും സംബന്ധിച്ച ആനുകൂല്യങ്ങൾ വേർതിരിച്ച ക്ലെയിം ചെയ്യാതെ നേരിട്ട് ലഭിക്കും. പെയ്മെന്റ് സമയപരിധി ഇപ്പോൾ വ്യക്തമാക്കിയിട്ടുണ്ട്.",
+  "why": "ഇവിടെ യുവ തൊഴിലാളികൾക്ക് രോഗമോ ഗർഭധാരണമോ സമയത്ത് വേഗത്തിൽ സാമ്പത്തിക സഹായം ലഭിക്കും, അതിനാൽ പേയ്മെന്റ് ഡെഡ്‌ലൈൻ പരിശോധിച്ച് നഷ്ടം ഒഴിവാക്കണം.",
+  "tags": [
+   "ESIC",
+   "ആരോഗ്യലാഭം",
+   "നേരിട്ടുപേയ്‌മെന്റ്",
+   "യുവതൊഴിലാളി",
+   "ഇന്ത്യ"
+  ]
+ }
+}
