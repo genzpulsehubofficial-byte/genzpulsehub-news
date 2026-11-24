@@ -1,5 +1,116 @@
 [
  {
+  "id": "c1e90ee3d523",
+  "created": "2026-11-24T07:28:40+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-alleges-he-was-stopped-from-flying-to-uk-at-delhi-airport-12368482#publisher=newsstand",
+  "headline": "CJP-യുടെ സൌരവ് ദാസ്‌ പറഞ്ഞു, ഡെല്‍ഹി ഇമിഗ്രേഷന്‍ അദ്ദേഹത്തെ UK വിമാനത്തില്‍ നിന്ന് തടഞ്ഞു",
+  "hook": "വിമാനത്തില്‍ നിന്ന് തടയപ്പെട്ടോ? ഇതാ വിശദാംശങ്ങള്‍",
+  "what": "CJP-യുടെ അംഗമായ സൌരവ് ദാസ്‌ ഡെല്‍ഹി വിമാനത്താവളത്തിലെ ഇമിഗ്രേഷന്‍ കൗണ്ടറിൽ തടയപ്പെട്ടതായി അവകാശപ്പെട്ടു. അദ്ദേഹം യു.കെ.യിലേക്ക് പോകുന്ന വിമാനത്തിൽ നിന്ന് പുറത്താക്കപ്പെട്ടു എന്ന് പറഞ്ഞു.",
+  "why": "വിദ്യാർത്ഥികൾ വിദേശ പഠനത്തിനായി യാത്ര ചെയ്യുമ്പോൾ ഇമിഗ്രേഷൻ നിയമങ്ങൾ അറിയുന്നത് പ്രധാനമാണ്. യാത്രാ പദ്ധതികൾ ആസൂത്രണം ചെയ്യുന്നതിന് മുമ്പ് വിസയും പ്രവേശന മാർഗങ്ങളും പരിശോധിക്കുക.",
+  "tags": [
+   "യാത്ര",
+   "ഇമിഗ്രേഷൻ",
+   "ഡെല്‍ഹി",
+   "UK",
+   "വിദ്യാർത്ഥി"
+  ]
+ },
+ {
+  "id": "75c64450e095",
+  "created": "2026-11-24T07:28:43+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/red-bra-nvidia-flag-trump-welcomes-jensen-huang-with-assassination-meme-12368514#publisher=newsstand",
+  "headline": "Nvidia-ന് Jensen Huang-നെ CEO ആയി വീണ്ടും നിയമിച്ചു",
+  "hook": "AI ചിപ്പ് കമ്പനിയുടെ സ്ഥാപകനെ വീണ്ടും മേൽക്കോയ്മയിൽ കൊണ്ടുവന്നു.",
+  "what": "Nvidia തിങ്കളാഴ്ച Jensen Huang-നെ ചീഫ് എക്സിക്യൂട്ടീവ് ആയി തിരികെ നിയമിച്ചതായി പ്രഖ്യാപിച്ചു. ഇതോടെ കമ്പനി തന്റെ ആദ്യ നേതാവിനെ വീണ്ടും കൈവശംവെക്കുന്നു.",
+  "why": "Huang-ന്റെ തിരിച്ചുവരവ് AI ഉൽപ്പന്നങ്ങളുടെ വികസനത്തെ ബാധിക്കും, അത് യുവജനങ്ങളുടെ ഡിജിറ്റൽ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. Nvidia-യുടെ അടുത്ത പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "AI",
+   "CEO"
+  ]
+ },
+ {
+  "id": "60fe8bef7489",
+  "created": "2026-11-24T07:28:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
+  "headline": "മംഗളാഴ്ച 24 നവംബറിൽ 21 നഗരങ്ങളിൽ ബാങ്ക് ശാഖകൾ അടയ്ക്കും",
+  "hook": "നിങ്ങളുടെ ബാങ്ക് ഇന്ന് അടഞ്ഞിരിക്കാം—പോകുന്നതിന് മുമ്പ് പരിശോധിക്കുക.",
+  "what": "RBI 24 നവംബറിന് 21 നഗരങ്ങളിൽ ബാങ്ക് ശാഖകൾക്ക് അവധി പ്രഖ്യാപിച്ചു. മറ്റ് സ്ഥലങ്ങളിലെ ശാഖകൾ സാധാരണ പോലെ പ്രവർത്തിക്കും.",
+  "why": "പണമിടപാട് അല്ലെങ്കിൽ ക്യാഷ് ആവശ്യമുള്ളവർക്കു അവരുടെ ശാഖയുടെ നില പരിശോധിക്കുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "ബാങ്ക്‌അവധി",
+   "RBI",
+   "ഇന്ത്യ",
+   "ഫിനാൻസ്",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ },
+ {
+  "id": "ca05dc719665",
+  "created": "2026-11-24T07:28:45+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The New Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnVpYWxzVkQ1SWVjSmdFSllQODUyQld3bXR1bEVIMGJCaWEwT05QRTQtX19WTEYwQjZzZ1dsM1V4SVc4Qm9QSlpuTXV2NzZQemNnVWJTTjczWWxJazRjaE1tbkZGVTNfMlJlVmlOb2o5YUkzYUJqNkI4VlJVY0FBMW16ZU1yWTNhOFk1RTIyMzBsblowXzMwVEw4Z2gySC1YSW9OcC1PNV9pdmkzenhIcEpBbWg4Z9IBwwFBVV95cUxNSXh4QllJeVJCTUFlME9hcWVyaWpjWEltYW5STndCUjBGN05IeHQydnlNT3VPOUozUjVnMTBfcXNYYjVybUFodTFJWUxQZGg1bkFiT1BndThVTC11QVpnSnhxbnhtellfRGZ6UC1YYU9TUUhhTVlOZXlmdVBQcEU0SFNxWWlsanQzSG9rVkpoaTV6cDZmWV9RUnMyanotZ2p4NDNRNlk5aGRpcWNPRnRKMjgwZWhBZEI1UTI5YjcyS0EzV0E?oc=5",
+  "headline": "ഇന്ന് കേരളത്തില്‍ കിഴക്കന്‍ മണ്‍സൂണ്‍ മടങ്ങി വരാന്‍ സാധ്യത",
+  "hook": "ഇപ്പോള്‍ തന്നെ മഴ തുടങ്ങാം എന്ന് പ്രവചനം.",
+  "what": "മാനവവിദ്യാഭ്യാസം പറയുന്നത്, ഇന്ന് മുതല്‍ കേരളത്തില്‍ കിഴക്കന്‍ മണ്‍സൂണ്‍ വീണ്ടുമെത്തും. ഇത് പല പ്രദേശങ്ങളിലും മഴവെള്ളം കൊണ്ടുവരാന്‍ സാധ്യത.",
+  "why": "പുതിയ മഴ യാത്രാ പദ്ധതികളെയും പുറം പ്രവര്‍ത്തനങ്ങളെയും ബാധിക്കാം. പുറപ്പെടുന്നതിന് മുമ്പ് പ്രാദേശിക കാലാവസ്ഥാ പ്രവചനങ്ങള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "KeralaWeather",
+   "Monsoon2026",
+   "RainAlert"
+  ]
+ },
+ {
+  "id": "349252638715",
+  "created": "2026-11-24T07:28:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Education Times",
+  "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTdqcWJGLThEYkdBSTRtRV9QMzd4MVJHZFRkeXFaRl80Yll1ZW02YjNxVU9PQkkyOWROMFpEVWJheHNyN3NfTEtKU3BDS0tOQVkxczhzdWR1cDEzYU42cXdJQ2dvU3daSjdhdWthdlRsSUhGZkdVRHY1dnJoNG1UWlJBdUF5STc0bDdwdEd5ZVNtdXk5Q2s1cDRTQ1pkV0dqaHdsOVdvNVBjejVwTXJOLS11RloyekNtTTNyZExJTUVTTTV6MFpjckVTcTZjajlkNkphRjZLRERDN2xXVzdhMmJtUnRSQ25ZMXRhank1MFlqWVdDcUV2and6V0FHY0FyLWY3ZExuNllNeVhyVjlpcEFsQXNnZG1sSVlXSVVjR0cxZw?oc=5",
+  "headline": "ഇന്ത്യൻ ഗണിതശാസ്ത്രജ്ഞ നീന ഗുപ്ത 70‑വർഷം പഴക്കമുള്ള പ്രശ്നം പരിഹരിച്ചു",
+  "hook": "ഈ വിജയം പെൺകുട്ടികളെ ഗണിതത്തിലേക്ക് ആകർഷിക്കാൻ കഴിയും.",
+  "what": "ഇന്ത്യൻ ഗണിതശാസ്ത്രജ്ഞ നീന ഗുപ്ത 70 വർഷം പരിഹരിക്കപ്പെടാതെ നിന്ന ഗണിത പ്രശ്നം അവൾ പരിഹരിച്ചു. ഈ പരിഹാരം ഗണിതശാസ്ത്രത്തിൽ ഒരു പ്രധാന നേട്ടം ആയി.",
+  "why": "സ്ത്രീകൾക്ക് STEM മേഖലയിൽ എന്ത് ചെയ്യാൻ കഴിയുമെന്ന് ഈ വിജയം കാണിക്കുന്നു, വിദ്യാർത്ഥികളെ ഗണിതം പഠിക്കാൻ പ്രോത്സാഹിപ്പിക്കും.",
+  "tags": [
+   "STEM",
+   "സ്ത്രീകൾ",
+   "ഗണിതം",
+   "പ്രചോദനം"
+  ]
+ },
+ {
+  "id": "f47f4b3350fe",
+  "created": "2026-11-24T07:28:49+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWxuYmJPRHFmTUo2LWVxUW1VRFdSX254LWU1UXM1a0ZFSF9vd2FROThHdkdNXzA3blAydENEcUdLanBrSGR2V3hkSm1pWE5oQnJweWRFNE93X0FteGFZR014Y1FJc2lLLTdDbHBTemdTTUZ3bmMycUNzLWZsZDh5TldlcERQNUR4NHVQSUpCQXdIR2dzdERqSGhIVVA4VUU0ZFhseE0tZjl0bUZKOEhZTmcyOA?oc=5",
+  "headline": "യോഗയിലൂടെ ശക്തിയും ബാലന്‍സും, വയസ് മന്ദഗതിയാക്കാം?",
+  "hook": "മികച്ച ഫിറ്റ്‌നസ്, യുവാവസ്ഥയുടെ ഒരു ചുവടു? യോഗം പരീക്ഷിക്കൂ.",
+  "what": "യോഗം മസില്‍ ശക്തി വര്‍ധിപ്പിക്കുകയും ബാലന്‍സ് മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നു. വയസ് മന്ദഗതിയാക്കുന്നതില്‍ അതിന്റെ ഫലത്തെക്കുറിച്ച് ഇപ്പോഴും പഠനം നടക്കുന്നു.",
+  "why": "ശക്തമായ മസിലുകളും സ്ഥിരമായ ബാലന്‍സും നിങ്ങളെ സജീവമായി നിലനിര്‍ത്തുകയും പരിക്കുകള്‍ ഒഴിവാക്കുകയും ചെയ്യുന്നു, ഇത് തിരക്കേറിയ ടെന്‍റുകള്‍ക്ക് പ്രധാനമാണ്. യോഗം വയസ്‑ബന്ധിത ക്ഷയത്തെ മന്ദഗതിയാക്കുന്നുവെന്ന് തെളിയിച്ചാല്‍ ആരോഗ്യകരമായ ജീവിതശൈലിയില്‍ ഒരു ലളിതമായ കൂട്ടിച്ചേര്‍പ്പ് ആകും.",
+  "tags": [
+   "യോഗ",
+   "ഫിറ്റ്‌നസ്",
+   "ആരോഗ്യം",
+   "വയസ്‌മന്ദഗതി",
+   "ടീന്‍സ്"
+  ]
+ },
+ {
   "id": "d620bae6b91e",
   "created": "2026-11-24T06:02:46+05:30",
   "category": "headlines",
@@ -637,120 +748,6 @@
    "TechPolitics",
    "AI",
    "China"
-  ]
- },
- {
-  "id": "158d978601e3",
-  "created": "2026-11-24T00:06:15+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The CSR Journal",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
-  "headline": "Google, Microsoft 2027‑ൽ ഇന്ത്യയിൽ പുതിയ നിയമനങ്ങൾ നിർത്താൻ സാധ്യത",
-  "hook": "വലിയ ടെക് കമ്പനികൾ നിയമനം നിർത്തിയാൽ പുതിയ ബിരുദധാരികൾക്ക് ബാധകമാകും",
-  "what": "റിപ്പോർട്ടുകൾ പ്രകാരം Google, Microsoft 2027 മുതൽ ഇന്ത്യയിൽ നിയമനം നിർത്താൻ പദ്ധതിയിടുന്നു. ഇത് സ്ഥിരീകരിക്കപ്പെട്ടിട്ടില്ല, പക്ഷേ ഒരു സാധ്യതയായി ചൂണ്ടിക്കാട്ടുന്നു.",
-  "why": "ഇത് സത്യമെങ്കിൽ, പുതിയ ബിരുദധാരികളും വിദ്യാർത്ഥികളും ജോലി അവസരങ്ങൾ കുറയാൻ സാധ്യതയുണ്ട്, അതിനാൽ കമ്പനികളുടെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Google",
-   "Microsoft",
-   "HiringFreeze",
-   "Jobs",
-   "India"
-  ]
- },
- {
-  "id": "b725dc615480",
-  "created": "2026-11-24T00:06:17+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Uswitch",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JV0J3UEF4elFCQ2RibzdwZEFvZHJISXdxdGRhekNrNTJBVkpPaGR1NWRjcG1tTUZyMi1oODJiX05zcGpSZXpQWGZNM3ctdnRBRTJmbzFFUGhYMkhtVFY5T0JVMTF3OGdmeVBTSGRWWWphT3JCa1E?oc=5",
-  "headline": "Samsung Galaxy Z Fold8 Ultra-ന് Black Friday-യിൽ £555 വിലക്കുറവ്",
-  "hook": "ഈ വാരാന്ത്യത്തിൽ ഫ്ലാഗ്ഷിപ്പ് ഫോൺ കുറവിൽ പിടിക്കൂ!",
-  "what": "Amazon UK-യുടെ Black Friday വിൽപ്പനയിൽ Samsung Galaxy Z Fold8 Ultra-യ്ക്ക് £555 വരെ വിലക്കുറവ് ലഭിക്കുന്നു. അതേ പ്രമോഷനിൽ Galaxy S26 Ultra-യിൽ ഏകദേശം $1,000 സംരക്ഷിക്കാൻ കഴിയും എന്ന് കാണിക്കുന്നു.",
-  "why": "യുവജനങ്ങൾക്ക് ഉയർന്ന സ്പെക്‌സുള്ള ഫോൺ കുറവിൽ വാങ്ങാൻ അവസരമാകുന്നു, ബജറ്റ് നിയന്ത്രിക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "Samsung",
-   "BlackFriday",
-   "PhoneDeals",
-   "Foldable",
-   "Discount"
-  ]
- },
- {
-  "id": "bd9e415d2bb9",
-  "created": "2026-11-23T23:10:15+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
-  "headline": "ജെൻസൻ ഹുവാങ് NVIDIA-യിലേക്ക് മടങ്ങി; ആലീസ് ഹുവാങിന്റെ പദവി ശ്രദ്ധയിൽ",
-  "hook": "ടെക് ആരാധകർ, മുൻനിര AI കമ്പനികളിലെ നേതൃമാറ്റം ശ്രദ്ധിക്കുക.",
-  "what": "ജെൻസൻ ഹുവാങ് NVIDIA-യിലേക്ക് തിരികെ ചേർന്നു. ആലീസ് ഹുവാങ്, ഹുവാങ് ലെ എന്നും അറിയപ്പെടുന്നത്, മെഗാസ്പീഡിൽ മാനേജിംഗ് ഡയറക്ടറും എക്സിക്യൂട്ടീവുമായിരുന്നു.",
-  "why": "നേതൃത്വ മാറ്റങ്ങൾ ഉൽപ്പന്ന പ്ലാനുകളും ടെക് ജോലികളുടെയും സാധ്യതയും ബാധിക്കാം, AI അല്ലെങ്കിൽ ഗെയിമിംഗ് മേഖലയിൽ കരിയർ ആഗ്രഹിക്കുന്നവർക്ക് ഇത് ശ്രദ്ധിക്കേണ്ടതാണ്.",
-  "tags": [
-   "Nvidia",
-   "Leadership",
-   "TechJobs",
-   "AI",
-   "Gaming"
-  ]
- },
- {
-  "id": "da5c54b88f67",
-  "created": "2026-11-23T23:10:19+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "India Weekly",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFd3UDlGa3FDU0VIOG1OdDBsUnJ2bXdMZEJHWjVGbmRSdi11MjRTOXpiVmhXeDF4OVlESXVtVS1SSGZqa3F6a3hYZEk1TlVFX3NWOVJtdzlsa2NXam1aNnAzQnpaZXE1by1PMzVLdnNCZmhmWWc5ZWpLNTJFZ1RtSE5sb2tMUWVTbkNOaVZHYkFvNnRyWXROQlc3SDBUdw?oc=5",
-  "headline": "പുതിയ OTT റിലീസ്: Blade Runner 2099, Hanuman Ansh",
-  "hook": "വാരാന്ത്യത്തെ ബിംഗ്‌വാച്ച് പ്ലാൻ ഇപ്പോൾ അപ്ഡേറ്റ് ചെയ്യൂ!",
-  "what": "ഈ ആഴ്ച OTT പ്ലാറ്റ്ഫോംമുകളിൽ പുതിയ ഷോകൾ വരുന്നു. Blade Runner 2099, Hanuman Ansh എന്നിവ ഉൾപ്പെടെ നിരവധി സിനിമകളും സീരീസുകളും ലോഞ്ച് ചെയ്യുന്നു.",
-  "why": "ഇത് യുവാക്കൾക്ക് വിനോദവും സംസ്കാരപരമായ ഉള്ളടക്കവും നൽകുന്നു. നിങ്ങളുടെ ആപ്പ് തുറന്ന് കാണാൻ തുടങ്ങൂ.",
-  "tags": [
-   "OTT",
-   "പുതിയറിലീസ്",
-   "ബിംഗ്‌വാച്ച്",
-   "BladeRunner",
-   "Hanuman"
-  ]
- },
- {
-  "id": "7b577f1df425",
-  "created": "2026-11-23T23:10:22+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/videos/why-west-bengal-may-soon-be-renamed-paschim-banga-explained/article71736055.ece",
-  "headline": "West Bengal-ന്‌ ഉടൻ Paschim Banga എന്ന പേര്",
-  "hook": "നിങ്ങളുടെ സംസ്ഥാനത്തിന്‌ പുതിയ പേര് വരാൻ സാധ്യത",
-  "what": "പശ്ചിമ ബംഗാൾ സർക്കാരു സംസ്ഥാനത്തിന്റെ പേര് Paschim Banga ആക്കാൻ അസംബ്ലിയിൽ ഒരു പ്രമേയം അവതരിപ്പിക്കാൻ തയ്യാറെടുക്കുന്നു. ഈ മാറ്റം സംസ്ഥാനത്തിന്‌ സ്വതന്ത്രമായി പേര് മാറ്റാൻ കഴിയും എന്ന ചോദ്യങ്ങൾ ഉയർത്തുന്നു. മുമ്പ് Bangla എന്ന് പേര് മാറ്റാൻ ഒരു നിർദ്ദേശം ഉണ്ടായിരുന്നെങ്കിലും നടപ്പിലായില്ല.",
-  "why": "പേര് മാറ്റം ഔദ്യോഗിക രേഖകൾ, സ്കൂൾ പാഠപുസ്തകങ്ങൾ, പ്രദേശിക തിരിച്ചറിവ് എന്നിവയെ ബാധിക്കാം, അതിനാൽ യുവാക്കൾ നിയമപരമായ നടപടികളിൽ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "WestBengal",
-   "PaschimBanga",
-   "പേര്‌മാറ്റം",
-   "ഇന്ത്യ",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "c7906cd691d2",
-  "created": "2026-11-23T23:10:24+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-2026-earn-up-to-21-000-new-rules-may-make-sickness-and-maternity-benefit-claims-easier-for-employees-11795453581482.html",
-  "headline": "ESIC 2026: കുറഞ്ഞ വരുമാനക്കാർക്ക് രോഗ‑മാതൃത്വ സഹായം വേഗത്തിൽ",
-  "hook": "പേപ്പർവർക്കില്ല—നിങ്ങളുടെ ആരോഗ്യസഹായം സ്വയം അംഗീകരിക്കാം.",
-  "what": "Employees’ State Insurance Corporation 2026‑ലെ പുതിയ നിയമങ്ങളിലൂടെ രോഗവും മാതൃത്വവും സംബന്ധിച്ച അവകാശങ്ങൾ സ്വയം‑ക്ലെയിം ചെയ്യാൻ സാധിക്കും. മാസവേതനം ₹21,000 വരെ ഉള്ള തൊഴിലാളികൾക്ക് ഈ സൗകര്യം ലഭിക്കും, കൂടാതെ കാഗിതപ്പണി കുറയും. പുതിയ സംവിധാനം പ്രകാരം പണമടവ് നേരിട്ട് നൽകപ്പെടും.",
-  "why": "യുവപ്രവർത്തകർക്ക് ആരോഗ്യസഹായം വേഗത്തിൽ ലഭിക്കുന്നത് ജോലി അല്ലെങ്കിൽ പഠനം തടസ്സപ്പെടാതെ തുടരാൻ സഹായിക്കും. നിങ്ങളുടെ വരുമാനപരിധി പരിശോധിച്ച് ESIC വിവരങ്ങൾ പുതുക്കി വയ്ക്കുക.",
-  "tags": [
-   "ESIC",
-   "ആരോഗ്യസഹായം",
-   "മാതൃത്വ",
-   "യുവപ്രവർത്തകർ",
-   "ഇന്ത്യ"
   ]
  }
 ]

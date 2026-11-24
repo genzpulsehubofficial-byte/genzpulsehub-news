@@ -1,0 +1,37 @@
+{
+ "id": "60fe8bef7489",
+ "created": "2026-11-24T07:28:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bank branches closed in 21 Indian cities on Tuesday",
+  "hook": "Your nearby bank could be shut today—check before you go.",
+  "what": "On 24 November the RBI announced a holiday for bank branches in 21 cities across India. Branches in other areas will operate as normal.",
+  "why": "Young people should verify their branch’s status to avoid missed payments or cash needs.",
+  "tags": [
+   "bankholiday",
+   "RBI",
+   "India",
+   "finance",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "മംഗളാഴ്ച 24 നവംബറിൽ 21 നഗരങ്ങളിൽ ബാങ്ക് ശാഖകൾ അടയ്ക്കും",
+  "hook": "നിങ്ങളുടെ ബാങ്ക് ഇന്ന് അടഞ്ഞിരിക്കാം—പോകുന്നതിന് മുമ്പ് പരിശോധിക്കുക.",
+  "what": "RBI 24 നവംബറിന് 21 നഗരങ്ങളിൽ ബാങ്ക് ശാഖകൾക്ക് അവധി പ്രഖ്യാപിച്ചു. മറ്റ് സ്ഥലങ്ങളിലെ ശാഖകൾ സാധാരണ പോലെ പ്രവർത്തിക്കും.",
+  "why": "പണമിടപാട് അല്ലെങ്കിൽ ക്യാഷ് ആവശ്യമുള്ളവർക്കു അവരുടെ ശാഖയുടെ നില പരിശോധിക്കുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "ബാങ്ക്‌അവധി",
+   "RBI",
+   "ഇന്ത്യ",
+   "ഫിനാൻസ്",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ }
+}

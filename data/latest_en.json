@@ -1,5 +1,116 @@
 [
  {
+  "id": "c1e90ee3d523",
+  "created": "2026-11-24T07:28:40+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-alleges-he-was-stopped-from-flying-to-uk-at-delhi-airport-12368482#publisher=newsstand",
+  "headline": "CJP's Saurav Das says Delhi immigration halted his UK flight",
+  "hook": "Got blocked at the airport? Here's what happened.",
+  "what": "Saurav Das, a member of the CJP, claimed he was stopped at the immigration counter in Delhi. He says officials prevented him from boarding a flight to the United Kingdom.",
+  "why": "Travel restrictions can affect students planning to study abroad. Stay updated on visa and immigration guidelines before booking trips.",
+  "tags": [
+   "travel",
+   "immigration",
+   "Delhi",
+   "UK",
+   "students"
+  ]
+ },
+ {
+  "id": "75c64450e095",
+  "created": "2026-11-24T07:28:43+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/red-bra-nvidia-flag-trump-welcomes-jensen-huang-with-assassination-meme-12368514#publisher=newsstand",
+  "headline": "Nvidia reinstates Jensen Huang as CEO",
+  "hook": "The AI chip leader brings back its founder at the helm.",
+  "what": "Nvidia announced on Monday that Jensen Huang will resume his role as chief executive. The decision restores the company's original leadership.",
+  "why": "Huang's return could influence AI product rollouts that shape the tech teens use daily. Keep an eye on upcoming Nvidia announcements.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "AI",
+   "CEO"
+  ]
+ },
+ {
+  "id": "60fe8bef7489",
+  "created": "2026-11-24T07:28:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/bank-holiday-today-tuesday-24-november-branches-closed-in-these-21-cities-across-india-check-rbi-list-and-reasons-11795479485133.html",
+  "headline": "Bank branches closed in 21 Indian cities on Tuesday",
+  "hook": "Your nearby bank could be shut today—check before you go.",
+  "what": "On 24 November the RBI announced a holiday for bank branches in 21 cities across India. Branches in other areas will operate as normal.",
+  "why": "Young people should verify their branch’s status to avoid missed payments or cash needs.",
+  "tags": [
+   "bankholiday",
+   "RBI",
+   "India",
+   "finance",
+   "students"
+  ]
+ },
+ {
+  "id": "ca05dc719665",
+  "created": "2026-11-24T07:28:45+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "The New Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnVpYWxzVkQ1SWVjSmdFSllQODUyQld3bXR1bEVIMGJCaWEwT05QRTQtX19WTEYwQjZzZ1dsM1V4SVc4Qm9QSlpuTXV2NzZQemNnVWJTTjczWWxJazRjaE1tbkZGVTNfMlJlVmlOb2o5YUkzYUJqNkI4VlJVY0FBMW16ZU1yWTNhOFk1RTIyMzBsblowXzMwVEw4Z2gySC1YSW9OcC1PNV9pdmkzenhIcEpBbWg4Z9IBwwFBVV95cUxNSXh4QllJeVJCTUFlME9hcWVyaWpjWEltYW5STndCUjBGN05IeHQydnlNT3VPOUozUjVnMTBfcXNYYjVybUFodTFJWUxQZGg1bkFiT1BndThVTC11QVpnSnhxbnhtellfRGZ6UC1YYU9TUUhhTVlOZXlmdVBQcEU0SFNxWWlsanQzSG9rVkpoaTV6cDZmWV9RUnMyanotZ2p4NDNRNlk5aGRpcWNPRnRKMjgwZWhBZEI1UTI5YjcyS0EzV0E?oc=5",
+  "headline": "Northeast monsoon set to return in Kerala today",
+  "hook": "Rain may start falling across the state right now.",
+  "what": "Meteorologists say the northeast monsoon is expected to revive from today in Kerala. The weather pattern could bring showers to many regions.",
+  "why": "Fresh rain can affect travel plans and outdoor activities for students and young people. Keep an eye on local forecasts before heading out.",
+  "tags": [
+   "KeralaWeather",
+   "Monsoon2026",
+   "RainAlert"
+  ]
+ },
+ {
+  "id": "349252638715",
+  "created": "2026-11-24T07:28:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Education Times",
+  "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTdqcWJGLThEYkdBSTRtRV9QMzd4MVJHZFRkeXFaRl80Yll1ZW02YjNxVU9PQkkyOWROMFpEVWJheHNyN3NfTEtKU3BDS0tOQVkxczhzdWR1cDEzYU42cXdJQ2dvU3daSjdhdWthdlRsSUhGZkdVRHY1dnJoNG1UWlJBdUF5STc0bDdwdEd5ZVNtdXk5Q2s1cDRTQ1pkV0dqaHdsOVdvNVBjejVwTXJOLS11RloyekNtTTNyZExJTUVTTTV6MFpjckVTcTZjajlkNkphRjZLRERDN2xXVzdhMmJtUnRSQ25ZMXRhank1MFlqWVdDcUV2and6V0FHY0FyLWY3ZExuNllNeVhyVjlpcEFsQXNnZG1sSVlXSVVjR0cxZw?oc=5",
+  "headline": "Indian mathematician Neena Gupta cracks 70‑year‑old problem",
+  "hook": "A breakthrough that could spark more girls into math.",
+  "what": "Neena Gupta, an Indian mathematician, solved a math problem that had stayed unsolved for seven decades. Her solution marks a notable achievement in mathematics.",
+  "why": "Her success shows what women can achieve in STEM and may motivate students to explore math careers.",
+  "tags": [
+   "STEM",
+   "WomenInScience",
+   "MathBreakthrough",
+   "Inspiration"
+  ]
+ },
+ {
+  "id": "f47f4b3350fe",
+  "created": "2026-11-24T07:28:49+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWxuYmJPRHFmTUo2LWVxUW1VRFdSX254LWU1UXM1a0ZFSF9vd2FROThHdkdNXzA3blAydENEcUdLanBrSGR2V3hkSm1pWE5oQnJweWRFNE93X0FteGFZR014Y1FJc2lLLTdDbHBTemdTTUZ3bmMycUNzLWZsZDh5TldlcERQNUR4NHVQSUpCQXdIR2dzdERqSGhIVVA4VUU0ZFhseE0tZjl0bUZKOEhZTmcyOA?oc=5",
+  "headline": "Yoga Boosts Strength and Balance, May Help Slow Aging",
+  "hook": "Want better fitness and maybe a youthful edge? Try yoga.",
+  "what": "Yoga is known to increase muscular strength and improve balance. Its impact on slowing the aging process is still being examined.",
+  "why": "Stronger muscles and steadier balance help you stay active and avoid injuries, which matters for busy teens. If yoga also delays age‑related decline, it’s a simple habit to add to a healthy routine.",
+  "tags": [
+   "yoga",
+   "fitness",
+   "health",
+   "antiaging",
+   "teens"
+  ]
+ },
+ {
   "id": "d620bae6b91e",
   "created": "2026-11-24T06:02:46+05:30",
   "category": "headlines",
@@ -637,120 +748,6 @@
    "TechPolitics",
    "AI",
    "China"
-  ]
- },
- {
-  "id": "158d978601e3",
-  "created": "2026-11-24T00:06:15+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The CSR Journal",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
-  "headline": "Google, Microsoft May Halt New Hires in India by 2027",
-  "hook": "Big tech could pause recruitment, impacting fresh grads.",
-  "what": "Reports suggest Google and Microsoft are planning to stop hiring in India starting 2027. The move is described as an alleged freeze, not confirmed.",
-  "why": "If true, it may limit entry‑level opportunities for students and recent graduates, so keep an eye on company announcements.",
-  "tags": [
-   "Google",
-   "Microsoft",
-   "HiringFreeze",
-   "Jobs",
-   "India"
-  ]
- },
- {
-  "id": "b725dc615480",
-  "created": "2026-11-24T00:06:17+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Uswitch",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JV0J3UEF4elFCQ2RibzdwZEFvZHJISXdxdGRhekNrNTJBVkpPaGR1NWRjcG1tTUZyMi1oODJiX05zcGpSZXpQWGZNM3ctdnRBRTJmbzFFUGhYMkhtVFY5T0JVMTF3OGdmeVBTSGRWWWphT3JCa1E?oc=5",
-  "headline": "Samsung Galaxy Z Fold8 Ultra slashed by £555 on Black Friday",
-  "hook": "Grab a flagship foldable for less this weekend!",
-  "what": "Amazon UK's Black Friday sale offers up to £555 off the Samsung Galaxy Z Fold8 Ultra. The same promotion also highlights a near $1,000 saving on the Galaxy S26 Ultra.",
-  "why": "Young shoppers can snag a high‑end Android foldable at a fraction of the price, helping stretch a limited budget.",
-  "tags": [
-   "Samsung",
-   "BlackFriday",
-   "PhoneDeals",
-   "Foldable",
-   "Discount"
-  ]
- },
- {
-  "id": "bd9e415d2bb9",
-  "created": "2026-11-23T23:10:15+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/jensen-huang-alice-huang-nvidia-jensen-huang-is-back-at-nvidia-but-where-is-alice-huang-12367715#publisher=newsstand",
-  "headline": "Jensen Huang Returns to Nvidia; Alice Huang’s Role Noted",
-  "hook": "Tech fans, note the leadership shuffle at top AI firms.",
-  "what": "Jensen Huang has rejoined Nvidia. Alice Huang, also called Huang Le, served as managing director and executive at Megaspeed.",
-  "why": "Leadership changes can influence product roadmaps and job prospects in the tech sector, so stay updated if you’re aiming for a career in AI or gaming.",
-  "tags": [
-   "Nvidia",
-   "Leadership",
-   "TechJobs",
-   "AI",
-   "Gaming"
-  ]
- },
- {
-  "id": "da5c54b88f67",
-  "created": "2026-11-23T23:10:19+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "India Weekly",
-  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTFd3UDlGa3FDU0VIOG1OdDBsUnJ2bXdMZEJHWjVGbmRSdi11MjRTOXpiVmhXeDF4OVlESXVtVS1SSGZqa3F6a3hYZEk1TlVFX3NWOVJtdzlsa2NXam1aNnAzQnpaZXE1by1PMzVLdnNCZmhmWWc5ZWpLNTJFZ1RtSE5sb2tMUWVTbkNOaVZHYkFvNnRyWXROQlc3SDBUdw?oc=5",
-  "headline": "New OTT Drops: Blade Runner 2099, Hanuman Ansh Arrive",
-  "hook": "Your weekend binge list just got bigger.",
-  "what": "Streaming platforms are adding fresh titles this week. Among the releases are Blade Runner 2099 and the mythological series Hanuman Ansh. Several other shows and movies are also debuting.",
-  "why": "These additions give teens more options for entertainment and cultural content. Check your favorite OTT app to start watching.",
-  "tags": [
-   "OTT",
-   "BingeWatch",
-   "NewReleases",
-   "BladeRunner",
-   "Hanuman"
-  ]
- },
- {
-  "id": "7b577f1df425",
-  "created": "2026-11-23T23:10:22+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/videos/why-west-bengal-may-soon-be-renamed-paschim-banga-explained/article71736055.ece",
-  "headline": "West Bengal set to be renamed Paschim Banga",
-  "hook": "Your state might get a new name soon",
-  "what": "The West Bengal government is preparing a resolution to change the state's name to Paschim Banga. The move raises questions about a state's authority to rename itself and the history of the current name. An earlier proposal to rename the state Bangla did not materialise.",
-  "why": "A name change could affect official documents, school curricula and regional identity, so students should stay updated on any legal steps.",
-  "tags": [
-   "WestBengal",
-   "PaschimBanga",
-   "NameChange",
-   "India",
-   "Youth"
-  ]
- },
- {
-  "id": "c7906cd691d2",
-  "created": "2026-11-23T23:10:24+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/esic-rules-2026-earn-up-to-21-000-new-rules-may-make-sickness-and-maternity-benefit-claims-easier-for-employees-11795453581482.html",
-  "headline": "ESIC 2026: Faster Sickness & Maternity Payouts for Low‑Earners",
-  "hook": "Skip the paperwork—your health benefits could be auto‑approved.",
-  "what": "The Employees’ State Insurance Corporation has introduced 2026 rules that allow a deemed‑claim process for eligible sickness and maternity benefits. The scheme applies to workers whose wages are up to ₹21,000 a month and removes the need for extensive documentation. Payments will be released directly under the new system.",
-  "why": "Young employees can now claim health support more quickly, reducing downtime for work or studies. Check your wage bracket and keep your ESIC details current to benefit.",
-  "tags": [
-   "ESIC",
-   "sickbenefit",
-   "maternity",
-   "youngworkers",
-   "India"
   ]
  }
 ]

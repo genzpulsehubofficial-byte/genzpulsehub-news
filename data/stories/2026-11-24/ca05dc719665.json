@@ -1,0 +1,33 @@
+{
+ "id": "ca05dc719665",
+ "created": "2026-11-24T07:28:45+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "The New Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnVpYWxzVkQ1SWVjSmdFSllQODUyQld3bXR1bEVIMGJCaWEwT05QRTQtX19WTEYwQjZzZ1dsM1V4SVc4Qm9QSlpuTXV2NzZQemNnVWJTTjczWWxJazRjaE1tbkZGVTNfMlJlVmlOb2o5YUkzYUJqNkI4VlJVY0FBMW16ZU1yWTNhOFk1RTIyMzBsblowXzMwVEw4Z2gySC1YSW9OcC1PNV9pdmkzenhIcEpBbWg4Z9IBwwFBVV95cUxNSXh4QllJeVJCTUFlME9hcWVyaWpjWEltYW5STndCUjBGN05IeHQydnlNT3VPOUozUjVnMTBfcXNYYjVybUFodTFJWUxQZGg1bkFiT1BndThVTC11QVpnSnhxbnhtellfRGZ6UC1YYU9TUUhhTVlOZXlmdVBQcEU0SFNxWWlsanQzSG9rVkpoaTV6cDZmWV9RUnMyanotZ2p4NDNRNlk5aGRpcWNPRnRKMjgwZWhBZEI1UTI5YjcyS0EzV0E?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Northeast monsoon set to return in Kerala today",
+  "hook": "Rain may start falling across the state right now.",
+  "what": "Meteorologists say the northeast monsoon is expected to revive from today in Kerala. The weather pattern could bring showers to many regions.",
+  "why": "Fresh rain can affect travel plans and outdoor activities for students and young people. Keep an eye on local forecasts before heading out.",
+  "tags": [
+   "KeralaWeather",
+   "Monsoon2026",
+   "RainAlert"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ന് കേരളത്തില്‍ കിഴക്കന്‍ മണ്‍സൂണ്‍ മടങ്ങി വരാന്‍ സാധ്യത",
+  "hook": "ഇപ്പോള്‍ തന്നെ മഴ തുടങ്ങാം എന്ന് പ്രവചനം.",
+  "what": "മാനവവിദ്യാഭ്യാസം പറയുന്നത്, ഇന്ന് മുതല്‍ കേരളത്തില്‍ കിഴക്കന്‍ മണ്‍സൂണ്‍ വീണ്ടുമെത്തും. ഇത് പല പ്രദേശങ്ങളിലും മഴവെള്ളം കൊണ്ടുവരാന്‍ സാധ്യത.",
+  "why": "പുതിയ മഴ യാത്രാ പദ്ധതികളെയും പുറം പ്രവര്‍ത്തനങ്ങളെയും ബാധിക്കാം. പുറപ്പെടുന്നതിന് മുമ്പ് പ്രാദേശിക കാലാവസ്ഥാ പ്രവചനങ്ങള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "KeralaWeather",
+   "Monsoon2026",
+   "RainAlert"
+  ]
+ }
+}

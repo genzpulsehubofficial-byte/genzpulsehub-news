@@ -1,0 +1,37 @@
+{
+ "id": "75c64450e095",
+ "created": "2026-11-24T07:28:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/red-bra-nvidia-flag-trump-welcomes-jensen-huang-with-assassination-meme-12368514#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia reinstates Jensen Huang as CEO",
+  "hook": "The AI chip leader brings back its founder at the helm.",
+  "what": "Nvidia announced on Monday that Jensen Huang will resume his role as chief executive. The decision restores the company's original leadership.",
+  "why": "Huang's return could influence AI product rollouts that shape the tech teens use daily. Keep an eye on upcoming Nvidia announcements.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "AI",
+   "CEO"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia-ന് Jensen Huang-നെ CEO ആയി വീണ്ടും നിയമിച്ചു",
+  "hook": "AI ചിപ്പ് കമ്പനിയുടെ സ്ഥാപകനെ വീണ്ടും മേൽക്കോയ്മയിൽ കൊണ്ടുവന്നു.",
+  "what": "Nvidia തിങ്കളാഴ്ച Jensen Huang-നെ ചീഫ് എക്സിക്യൂട്ടീവ് ആയി തിരികെ നിയമിച്ചതായി പ്രഖ്യാപിച്ചു. ഇതോടെ കമ്പനി തന്റെ ആദ്യ നേതാവിനെ വീണ്ടും കൈവശംവെക്കുന്നു.",
+  "why": "Huang-ന്റെ തിരിച്ചുവരവ് AI ഉൽപ്പന്നങ്ങളുടെ വികസനത്തെ ബാധിക്കും, അത് യുവജനങ്ങളുടെ ഡിജിറ്റൽ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. Nvidia-യുടെ അടുത്ത പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Tech",
+   "AI",
+   "CEO"
+  ]
+ }
+}

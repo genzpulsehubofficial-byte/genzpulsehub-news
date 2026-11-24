@@ -1,0 +1,37 @@
+{
+ "id": "f47f4b3350fe",
+ "created": "2026-11-24T07:28:49+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "News-Medical",
+ "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWxuYmJPRHFmTUo2LWVxUW1VRFdSX254LWU1UXM1a0ZFSF9vd2FROThHdkdNXzA3blAydENEcUdLanBrSGR2V3hkSm1pWE5oQnJweWRFNE93X0FteGFZR014Y1FJc2lLLTdDbHBTemdTTUZ3bmMycUNzLWZsZDh5TldlcERQNUR4NHVQSUpCQXdIR2dzdERqSGhIVVA4VUU0ZFhseE0tZjl0bUZKOEhZTmcyOA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Yoga Boosts Strength and Balance, May Help Slow Aging",
+  "hook": "Want better fitness and maybe a youthful edge? Try yoga.",
+  "what": "Yoga is known to increase muscular strength and improve balance. Its impact on slowing the aging process is still being examined.",
+  "why": "Stronger muscles and steadier balance help you stay active and avoid injuries, which matters for busy teens. If yoga also delays age‑related decline, it’s a simple habit to add to a healthy routine.",
+  "tags": [
+   "yoga",
+   "fitness",
+   "health",
+   "antiaging",
+   "teens"
+  ]
+ },
+ "ml": {
+  "headline": "യോഗയിലൂടെ ശക്തിയും ബാലന്‍സും, വയസ് മന്ദഗതിയാക്കാം?",
+  "hook": "മികച്ച ഫിറ്റ്‌നസ്, യുവാവസ്ഥയുടെ ഒരു ചുവടു? യോഗം പരീക്ഷിക്കൂ.",
+  "what": "യോഗം മസില്‍ ശക്തി വര്‍ധിപ്പിക്കുകയും ബാലന്‍സ് മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നു. വയസ് മന്ദഗതിയാക്കുന്നതില്‍ അതിന്റെ ഫലത്തെക്കുറിച്ച് ഇപ്പോഴും പഠനം നടക്കുന്നു.",
+  "why": "ശക്തമായ മസിലുകളും സ്ഥിരമായ ബാലന്‍സും നിങ്ങളെ സജീവമായി നിലനിര്‍ത്തുകയും പരിക്കുകള്‍ ഒഴിവാക്കുകയും ചെയ്യുന്നു, ഇത് തിരക്കേറിയ ടെന്‍റുകള്‍ക്ക് പ്രധാനമാണ്. യോഗം വയസ്‑ബന്ധിത ക്ഷയത്തെ മന്ദഗതിയാക്കുന്നുവെന്ന് തെളിയിച്ചാല്‍ ആരോഗ്യകരമായ ജീവിതശൈലിയില്‍ ഒരു ലളിതമായ കൂട്ടിച്ചേര്‍പ്പ് ആകും.",
+  "tags": [
+   "യോഗ",
+   "ഫിറ്റ്‌നസ്",
+   "ആരോഗ്യം",
+   "വയസ്‌മന്ദഗതി",
+   "ടീന്‍സ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "c1e90ee3d523",
+ "created": "2026-11-24T07:28:40+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-alleges-he-was-stopped-from-flying-to-uk-at-delhi-airport-12368482#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP's Saurav Das says Delhi immigration halted his UK flight",
+  "hook": "Got blocked at the airport? Here's what happened.",
+  "what": "Saurav Das, a member of the CJP, claimed he was stopped at the immigration counter in Delhi. He says officials prevented him from boarding a flight to the United Kingdom.",
+  "why": "Travel restrictions can affect students planning to study abroad. Stay updated on visa and immigration guidelines before booking trips.",
+  "tags": [
+   "travel",
+   "immigration",
+   "Delhi",
+   "UK",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "CJP-യുടെ സൌരവ് ദാസ്‌ പറഞ്ഞു, ഡെല്‍ഹി ഇമിഗ്രേഷന്‍ അദ്ദേഹത്തെ UK വിമാനത്തില്‍ നിന്ന് തടഞ്ഞു",
+  "hook": "വിമാനത്തില്‍ നിന്ന് തടയപ്പെട്ടോ? ഇതാ വിശദാംശങ്ങള്‍",
+  "what": "CJP-യുടെ അംഗമായ സൌരവ് ദാസ്‌ ഡെല്‍ഹി വിമാനത്താവളത്തിലെ ഇമിഗ്രേഷന്‍ കൗണ്ടറിൽ തടയപ്പെട്ടതായി അവകാശപ്പെട്ടു. അദ്ദേഹം യു.കെ.യിലേക്ക് പോകുന്ന വിമാനത്തിൽ നിന്ന് പുറത്താക്കപ്പെട്ടു എന്ന് പറഞ്ഞു.",
+  "why": "വിദ്യാർത്ഥികൾ വിദേശ പഠനത്തിനായി യാത്ര ചെയ്യുമ്പോൾ ഇമിഗ്രേഷൻ നിയമങ്ങൾ അറിയുന്നത് പ്രധാനമാണ്. യാത്രാ പദ്ധതികൾ ആസൂത്രണം ചെയ്യുന്നതിന് മുമ്പ് വിസയും പ്രവേശന മാർഗങ്ങളും പരിശോധിക്കുക.",
+  "tags": [
+   "യാത്ര",
+   "ഇമിഗ്രേഷൻ",
+   "ഡെല്‍ഹി",
+   "UK",
+   "വിദ്യാർത്ഥി"
+  ]
+ }
+}

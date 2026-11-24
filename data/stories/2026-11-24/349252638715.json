@@ -1,0 +1,35 @@
+{
+ "id": "349252638715",
+ "created": "2026-11-24T07:28:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Education Times",
+ "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTdqcWJGLThEYkdBSTRtRV9QMzd4MVJHZFRkeXFaRl80Yll1ZW02YjNxVU9PQkkyOWROMFpEVWJheHNyN3NfTEtKU3BDS0tOQVkxczhzdWR1cDEzYU42cXdJQ2dvU3daSjdhdWthdlRsSUhGZkdVRHY1dnJoNG1UWlJBdUF5STc0bDdwdEd5ZVNtdXk5Q2s1cDRTQ1pkV0dqaHdsOVdvNVBjejVwTXJOLS11RloyekNtTTNyZExJTUVTTTV6MFpjckVTcTZjajlkNkphRjZLRERDN2xXVzdhMmJtUnRSQ25ZMXRhank1MFlqWVdDcUV2and6V0FHY0FyLWY3ZExuNllNeVhyVjlpcEFsQXNnZG1sSVlXSVVjR0cxZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Indian mathematician Neena Gupta cracks 70‑year‑old problem",
+  "hook": "A breakthrough that could spark more girls into math.",
+  "what": "Neena Gupta, an Indian mathematician, solved a math problem that had stayed unsolved for seven decades. Her solution marks a notable achievement in mathematics.",
+  "why": "Her success shows what women can achieve in STEM and may motivate students to explore math careers.",
+  "tags": [
+   "STEM",
+   "WomenInScience",
+   "MathBreakthrough",
+   "Inspiration"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യൻ ഗണിതശാസ്ത്രജ്ഞ നീന ഗുപ്ത 70‑വർഷം പഴക്കമുള്ള പ്രശ്നം പരിഹരിച്ചു",
+  "hook": "ഈ വിജയം പെൺകുട്ടികളെ ഗണിതത്തിലേക്ക് ആകർഷിക്കാൻ കഴിയും.",
+  "what": "ഇന്ത്യൻ ഗണിതശാസ്ത്രജ്ഞ നീന ഗുപ്ത 70 വർഷം പരിഹരിക്കപ്പെടാതെ നിന്ന ഗണിത പ്രശ്നം അവൾ പരിഹരിച്ചു. ഈ പരിഹാരം ഗണിതശാസ്ത്രത്തിൽ ഒരു പ്രധാന നേട്ടം ആയി.",
+  "why": "സ്ത്രീകൾക്ക് STEM മേഖലയിൽ എന്ത് ചെയ്യാൻ കഴിയുമെന്ന് ഈ വിജയം കാണിക്കുന്നു, വിദ്യാർത്ഥികളെ ഗണിതം പഠിക്കാൻ പ്രോത്സാഹിപ്പിക്കും.",
+  "tags": [
+   "STEM",
+   "സ്ത്രീകൾ",
+   "ഗണിതം",
+   "പ്രചോദനം"
+  ]
+ }
+}
