@@ -1,0 +1,37 @@
+{
+ "id": "3ca98d9c7135",
+ "created": "2026-11-24T14:08:14+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google Cloud cuts about 30 jobs in India, denies wider layoffs",
+  "hook": "A small staff reduction, not a massive layoff wave.",
+  "what": "Google Cloud said it let go of roughly 30 employees in India last week. The company also stated that rumors of a large‑scale layoff are unfounded.",
+  "why": "For job‑seekers and tech students, the news shows the cloud sector still has openings while occasional small cuts happen. Keep an eye on official announcements before reacting to rumors.",
+  "tags": [
+   "GoogleCloud",
+   "Jobs",
+   "India",
+   "TechSector",
+   "Layoffs"
+  ]
+ },
+ "ml": {
+  "headline": "Google Cloud ഇന്ത്യയിൽ ഏകദേശം 30 ജോലികൾ കുറച്ചു, വലിയ ലെയ്ഫോൾസ് ഇല്ലെന്ന്",
+  "hook": "ചെറിയ സ്റ്റാഫ് കുറവ്, വലിയ പിരിച്ചുവിടൽ ഇല്ല.",
+  "what": "Google Cloud കഴിഞ്ഞ ആഴ്ച ഇന്ത്യയിൽ ഏകദേശം 30 ജീവനക്കാരെ ഒഴിവാക്കി. വലിയ തോതിലുള്ള ലെയ്ഫോൾസ് എന്ന ചർച്ചകൾ കമ്പനി ഇല്ലെന്ന് അറിയിച്ചു.",
+  "why": "ടെക് വിദ്യാർത്ഥികളും ജോബ് തേടുന്നവരും ഇത് ശ്രദ്ധിക്കണം; ക്ലൗഡ് മേഖലയിലെ അവസരങ്ങൾ നിലനിൽക്കുമ്പോൾ ചില ചെറിയ മാറ്റങ്ങൾ ഉണ്ടാകാം. ഔദ്യോഗിക അറിയിപ്പുകൾക്ക് മുൻപ് അഫവാഹുകൾക്ക് വിശ്വസിക്കേണ്ട.",
+  "tags": [
+   "GoogleCloud",
+   "ജോലികൾ",
+   "ഇന്ത്യ",
+   "ടെക്",
+   "ലെയ്ഫോൾസ്"
+  ]
+ }
+}

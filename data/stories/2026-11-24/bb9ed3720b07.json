@@ -1,0 +1,35 @@
+{
+ "id": "bb9ed3720b07",
+ "created": "2026-11-24T14:08:10+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/atal-pension-yojana-enrolling-at-30-check-investment-required-for-5-000-monthly-pension-after-retirement-11795501755628.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "30-year-olds can lock ₹5k monthly pension with APY",
+  "hook": "Start early, retire with a steady ₹5,000 each month",
+  "what": "The Atal Pension Yojana calculator shows that a person who joins at age 30 can receive a guaranteed ₹5,000 per month after turning 60. It lists the amount to be paid monthly, quarterly or half‑yearly and the total outlay over 30 years. Eligibility rules are also provided.",
+  "why": "Understanding the contribution schedule helps young Indians plan long‑term savings for a reliable retirement income. Interested users can view the APY calculator and consider enrolling now.",
+  "tags": [
+   "AtalPension",
+   "RetirementSavings",
+   "GenZFinance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "30 വയസ്സുകാരന്‍ ₹5k മാസവേതനം APY‑ൽ ഉറപ്പാക്കാം",
+  "hook": "വേഗം തുടങ്ങൂ, വിരമിക്കുമ്പോൾ ₹5,000 സ്ഥിരം വരുമാനം",
+  "what": "Atal Pension Yojana കാൽക്കുലേറ്റർ പ്രകാരം 30‑വയസ്സിൽ ചേരുന്നവന്‍ 60‑ആം വയസ്സിൽ ഉറപ്പുള്ള ₹5,000 മാസവേതനം ലഭിക്കും. മാസ, ത്രൈമാസ, അർദ്ധവാർഷിക സംഭാവനകളുടെ തുകയും 30 വർഷത്തെ മൊത്തം നിക്ഷേപവും ഇവിടെ കാണാം. യോഗ്യതാ മാനദണ്ഡങ്ങളും വ്യക്തമാക്കിയിട്ടുണ്ട്.",
+  "why": "ഇത് യുവാക്കൾക്ക് ദീർഘകാലം സേവിംഗ് പ്ലാൻ ചെയ്യാൻ സഹായിക്കും. താൽപ്പര്യമുണ്ടെങ്കിൽ APY കാൽക്കുലേറ്റർ പരിശോധിച്ച് നേരത്തെ തന്നെ രജിസ്റ്റർ ചെയ്യാം.",
+  "tags": [
+   "AtalPension",
+   "വിരമിക്കൽ",
+   "സേവിംഗ്",
+   "ജനറേഷൻZ"
+  ]
+ }
+}

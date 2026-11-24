@@ -1,0 +1,35 @@
+{
+ "id": "58c3a4cf05b4",
+ "created": "2026-11-24T14:07:59+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/congress-wants-100-seats-in-up-samajwadi-party-offers-26-cites-past-results-12369700#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Congress seeks 100 UP seats, SP offers 26",
+  "hook": "Two major parties are negotiating seat sharing for Uttar Pradesh polls.",
+  "what": "Congress has asked for 100 constituencies in Uttar Pradesh, while the Samajwadi Party has countered with an offer of 26 seats, citing its past performance.",
+  "why": "The agreement will shape alliances in the upcoming state election and impact policies that affect young Indians.",
+  "tags": [
+   "UP elections",
+   "seat sharing",
+   "Congress",
+   "Samajwadi"
+  ]
+ },
+ "ml": {
+  "headline": "കംഗ്രസ്സ് 100 സീറ്റ് വേണമെന്ന്, എസ്.പി 26 സീറ്റ് ഓഫർ",
+  "hook": "ഉത്തരപ്രദേശ് തിരഞ്ഞെടുപ്പിന് രണ്ട് പ്രധാന പാർട്ടികൾ സീറ്റ് പങ്കിടൽ ചർച്ച ചെയ്യുന്നു.",
+  "what": "കംഗ്രസ്സ് ഉത്തർപ്രദേശിൽ 100 സ്ഥാനങ്ങൾ ആവശ്യപ്പെട്ടു, സമാജവാദി പാർട്ടി 26 സ്ഥാനങ്ങൾ മാത്രം നൽകാൻ നിർദ്ദേശിച്ചു, അതിന്റെ മുൻ പ്രകടനം ഉദ്ധരിച്ച്.",
+  "why": "ഇത് തിരഞ്ഞെടുപ്പിന്റെ കൂട്ടുകെട്ടിനെ ബാധിക്കും, യുവജനങ്ങളുടെ ഭാവി നയങ്ങളെ സ്വാധീനിക്കും.",
+  "tags": [
+   "UP തിരഞ്ഞെടുപ്പ്",
+   "സീറ്റ് പങ്കിടൽ",
+   "കംഗ്രസ്സ്",
+   "സമാജവാദി"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "f0db54d2c14e",
+ "created": "2026-11-24T14:08:08+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/multi-asset-mutual-fund-inflows-gold-silver-rally-11795500319894.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Investors shy away from multi‑asset funds",
+  "hook": "Can't guess the next market winner? Diversify instead.",
+  "what": "Investors find it hard to forecast which asset class will rise, leading them to move out of multi‑asset funds. Spreading money across different assets ensures exposure to at least one that performs well in any economic phase.",
+  "why": "Young investors can protect savings by diversifying rather than relying on a single fund type. Consider allocating across varied assets to ride market cycles.",
+  "tags": [
+   "investing",
+   "diversification",
+   "markets",
+   "youngfinance",
+   "funds"
+  ]
+ },
+ "ml": {
+  "headline": "നിക്ഷേപകർ മൾട്ടി‑ആസറ്റ് ഫണ്ടുകളിൽ നിന്ന് പിന്മാറുന്നു",
+  "hook": "അടുത്ത വിപണി വിജയി പ്രവചിക്കാൻ ബുദ്ധിമുട്ടാണോ? വൈവിധ്യം തിരഞ്ഞെടുക്കൂ.",
+  "what": "വിപണിയിലെ ഏത് ആസ്തി വർദ്ധിക്കും എന്ന് നിക്ഷേപകർക്ക് ഉറപ്പില്ല, അതിനാൽ മൾട്ടി‑ആസറ്റ് ഫണ്ടുകൾ വിടുന്നു. വിവിധ ആസ്തികളിൽ പണം വിതരണം ചെയ്യുന്നത് ഏതെങ്കിലും കാലഘട്ടത്തിൽ നല്ല പ്രകടനം കാണുന്ന ആസ്തിയിൽ പങ്കാളിത്തം ഉറപ്പാക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകർ അവരുടെ സംരക്ഷണം സുരക്ഷിതമാക്കാൻ വൈവിധ്യമാർന്ന പോർട്ട്ഫോളിയോ തിരഞ്ഞെടുക്കണം. ഒരു ഫണ്ടിൽ മാത്രം ആശ്രയിക്കാതെ വിവിധ ആസ്തികളിൽ നിക്ഷേപിക്കുക.",
+  "tags": [
+   "നിക്ഷേപം",
+   "വൈവിധ്യം",
+   "വിപണി",
+   "യുവധനം",
+   "ഫണ്ടുകൾ"
+  ]
+ }
+}

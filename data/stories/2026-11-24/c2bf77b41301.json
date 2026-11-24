@@ -1,0 +1,35 @@
+{
+ "id": "c2bf77b41301",
+ "created": "2026-11-24T14:08:12+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/how-to/features/how-to-fix-5g-connectivity-issues-on-android-and-iphone-12366701",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "5G glitch? Check your SIM and plan first",
+  "hook": "Your phone’s 5G could be silent because of the wrong SIM or plan.",
+  "what": "If 5G isn’t showing up, the issue often lies in the SIM card or the mobile subscription. Both need to be compatible with the new network.",
+  "why": "Young users rely on fast data for streaming and gaming, so confirming the right SIM and plan keeps you connected without extra hassle.",
+  "tags": [
+   "5G",
+   "mobile",
+   "techtips",
+   "connectivity"
+  ]
+ },
+ "ml": {
+  "headline": "5G പ്രവർത്തിക്കുന്നില്ലേ? SIM, പ്ലാൻ പരിശോധിക്കുക",
+  "hook": "ഫോൺ 5G കാണിക്കാത്തത്, തെറ്റായ SIM അല്ലെങ്കിൽ പ്ലാനാണ് കാരണമാകാം.",
+  "what": "5G കാണാത്ത പ്രശ്നം സാധാരണയായി SIM കാർഡോ മൊബൈൽ സബ്സ്ക്രിപ്ഷനോ പൊരുത്തമില്ലാത്തതുകൊണ്ടാണ്. ഇരുവരും പുതിയ നെറ്റ്‌വർക്കിനോട് അനുയോജ്യമായിരിക്കണം.",
+  "why": "വീഡിയോ, ഗെയിംസ് തുടങ്ങിയവയ്ക്ക് വേഗതയേറിയ ഡാറ്റ ആവശ്യമുള്ള യുവാക്കൾക്ക്, ശരിയായ SIM, പ്ലാൻ ഉറപ്പാക്കുന്നത് കണക്ഷൻ പ്രശ്നങ്ങൾ ഒഴിവാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "5G",
+   "മൊബൈൽ",
+   "ടെക്‌ടിപ്സ്",
+   "കണക്റ്റിവിറ്റി"
+  ]
+ }
+}

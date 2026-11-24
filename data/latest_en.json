@@ -1,5 +1,116 @@
 [
  {
+  "id": "58c3a4cf05b4",
+  "created": "2026-11-24T14:07:59+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/congress-wants-100-seats-in-up-samajwadi-party-offers-26-cites-past-results-12369700#publisher=newsstand",
+  "headline": "Congress seeks 100 UP seats, SP offers 26",
+  "hook": "Two major parties are negotiating seat sharing for Uttar Pradesh polls.",
+  "what": "Congress has asked for 100 constituencies in Uttar Pradesh, while the Samajwadi Party has countered with an offer of 26 seats, citing its past performance.",
+  "why": "The agreement will shape alliances in the upcoming state election and impact policies that affect young Indians.",
+  "tags": [
+   "UP elections",
+   "seat sharing",
+   "Congress",
+   "Samajwadi"
+  ]
+ },
+ {
+  "id": "1310fd5702de",
+  "created": "2026-11-24T14:08:05+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeENHOTllUlZXRVE1NUFaN2g1MEwwUWEwdndjM3hBa1Y5VUMtc29CYWVNRldrSk5DY2ZHWFB0c29XVGdPR2Z3aUszMUZRbXowc0NTcXJfa19aTUU2WEJSQmFzNzJxWUl1N2Q1UWlnc0FVbU9IMUxRMURoajVFa25oSUN2aWp2Z3hpUURhYzNIYU5xc0NRZTRzSnFtMjVkek8xMmkzcE5UMmVaVHlld1pZcVV2SzZzRW8?oc=5",
+  "headline": "BJP and SAD reunite for Punjab Assembly election",
+  "hook": "Two major parties are teaming up again in Punjab.",
+  "what": "The Bharatiya Janata Party and the Shiromani Akali Dal announced a joint contest for the upcoming Punjab state elections. They will hold a joint press conference to formalise the alliance.",
+  "why": "The partnership could influence policies on jobs and education that affect young Indians. Stay updated on each party’s agenda before voting.",
+  "tags": [
+   "Punjab",
+   "Elections",
+   "BJP",
+   "SAD",
+   "Alliance"
+  ]
+ },
+ {
+  "id": "f0db54d2c14e",
+  "created": "2026-11-24T14:08:08+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/multi-asset-mutual-fund-inflows-gold-silver-rally-11795500319894.html",
+  "headline": "Investors shy away from multi‑asset funds",
+  "hook": "Can't guess the next market winner? Diversify instead.",
+  "what": "Investors find it hard to forecast which asset class will rise, leading them to move out of multi‑asset funds. Spreading money across different assets ensures exposure to at least one that performs well in any economic phase.",
+  "why": "Young investors can protect savings by diversifying rather than relying on a single fund type. Consider allocating across varied assets to ride market cycles.",
+  "tags": [
+   "investing",
+   "diversification",
+   "markets",
+   "youngfinance",
+   "funds"
+  ]
+ },
+ {
+  "id": "bb9ed3720b07",
+  "created": "2026-11-24T14:08:10+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/atal-pension-yojana-enrolling-at-30-check-investment-required-for-5-000-monthly-pension-after-retirement-11795501755628.html",
+  "headline": "30-year-olds can lock ₹5k monthly pension with APY",
+  "hook": "Start early, retire with a steady ₹5,000 each month",
+  "what": "The Atal Pension Yojana calculator shows that a person who joins at age 30 can receive a guaranteed ₹5,000 per month after turning 60. It lists the amount to be paid monthly, quarterly or half‑yearly and the total outlay over 30 years. Eligibility rules are also provided.",
+  "why": "Understanding the contribution schedule helps young Indians plan long‑term savings for a reliable retirement income. Interested users can view the APY calculator and consider enrolling now.",
+  "tags": [
+   "AtalPension",
+   "RetirementSavings",
+   "GenZFinance",
+   "India"
+  ]
+ },
+ {
+  "id": "c2bf77b41301",
+  "created": "2026-11-24T14:08:12+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/how-to/features/how-to-fix-5g-connectivity-issues-on-android-and-iphone-12366701",
+  "headline": "5G glitch? Check your SIM and plan first",
+  "hook": "Your phone’s 5G could be silent because of the wrong SIM or plan.",
+  "what": "If 5G isn’t showing up, the issue often lies in the SIM card or the mobile subscription. Both need to be compatible with the new network.",
+  "why": "Young users rely on fast data for streaming and gaming, so confirming the right SIM and plan keeps you connected without extra hassle.",
+  "tags": [
+   "5G",
+   "mobile",
+   "techtips",
+   "connectivity"
+  ]
+ },
+ {
+  "id": "3ca98d9c7135",
+  "created": "2026-11-24T14:08:14+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/",
+  "headline": "Google Cloud cuts about 30 jobs in India, denies wider layoffs",
+  "hook": "A small staff reduction, not a massive layoff wave.",
+  "what": "Google Cloud said it let go of roughly 30 employees in India last week. The company also stated that rumors of a large‑scale layoff are unfounded.",
+  "why": "For job‑seekers and tech students, the news shows the cloud sector still has openings while occasional small cuts happen. Keep an eye on official announcements before reacting to rumors.",
+  "tags": [
+   "GoogleCloud",
+   "Jobs",
+   "India",
+   "TechSector",
+   "Layoffs"
+  ]
+ },
+ {
   "id": "f9d7df9192af",
   "created": "2026-11-24T12:42:36+05:30",
   "category": "tech",
@@ -637,120 +748,6 @@
    "USpeace",
    "Jaishankar",
    "Lavrov"
-  ]
- },
- {
-  "id": "973c30937ee6",
-  "created": "2026-11-24T06:02:50+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "CNBC TV18",
-  "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTJMdUhCdHZLQlA3c0ZNZDkwLW9sTTBtdENXMjB1Qjk5Zk5pUHJMOWN1cUYxNUNjV3l1WGxOVXV2ekVKQ2pWZm9aM3NRNXFVY1hWOVBvQVlETWVkTHhZLUZEUXd4V3V3SlFyVWZVdTFxTnVfWWE0R3RsVXNhbmdhYWJJRVFTaURGRzJ1c2FjYTdlVGxmYmNEdHNNWFZrQjZiWUJPTWJ6R3FHNXoxVGFVVXdmN2Z0TDRHQ240TTR1Wm5Id9IBxwFBVV95cUxOZWJZMWdHZGVBTnFLUjJPa0xNSFZfWnJ4aG1ldjlITlNIYnpLX0lVbVRENlVTcWhvUlN1Tjg2VkJUdFBnLXRuY0RwU2cwR3FTb0t3MXRCQWQ1OF9mckc2WUFrM0xvdERKaW5iYWhiQTIyMjgxT2VOUGl5YW9sSEZtbFpTdG1FUU12ZmlqVHVfSkpUemZXSER5M1IyVzhYT1poQ0pnam5uWUZrdUZXUkVTMTlnaFNpSnFJbERaVVpfc28yOU5BdzFj?oc=5",
-  "headline": "Heavy rain warning for Kerala, Tamil Nadu; fog expected in UP, Assam",
-  "hook": "Stay safe—carry an umbrella and drive carefully",
-  "what": "The India Meteorological Department has issued a heavy rain alert for Kerala and Tamil Nadu. It also warned that dense fog could develop in parts of Uttar Pradesh and Assam. Residents should monitor updates.",
-  "why": "Monsoon showers can cause flooding, while fog reduces visibility on roads, affecting travel plans for students and commuters. Keep an eye on local alerts and plan accordingly.",
-  "tags": [
-   "weather",
-   "rain",
-   "fog",
-   "India",
-   "alert"
-  ]
- },
- {
-  "id": "3c966673a66d",
-  "created": "2026-11-24T06:02:53+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "CNET",
-  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mMTZza0Rjb1NzMG1INzJzbm4yV0hJa3E4MVdVbVdVWGJwZEpVTXFYRy12NHI4b2pMOUx0eVVjUHlpVlpvajA3SDR3UGk0THhoeW9uVVN4Q25PS1JvRjZEWlJBLVFMTnROTDJtblRjdFRQRGpGRjF5U05B?oc=5",
-  "headline": "Black Friday streaming offers start at just $2 a month",
-  "hook": "Grab top shows for the price of a snack.",
-  "what": "This Black Friday, major streaming platforms are rolling out discounted subscriptions. Paramount+ is available for two months at $2.99, Apple TV Plus drops to $6.99 per month, and services like HBO Max and Roku have deals beginning at $2 a month.",
-  "why": "Lower prices let teens stream more movies and series without stretching their budget. Visit the platforms' sites soon to claim the offers before they end.",
-  "tags": [
-   "streaming",
-   "blackfriday",
-   "deals",
-   "movies",
-   "budget"
-  ]
- },
- {
-  "id": "0d63fb1e6c01",
-  "created": "2026-11-24T06:02:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-  "headline": "Supertake secures $20M to automate stock picks via AI",
-  "hook": "Your market hunch could now power a ready‑made portfolio.",
-  "what": "Startup Supertake announced a $20 million funding round. The platform uses AI agents to turn users’ market forecasts into diversified stock portfolios, removing the need for manual stock selection.",
-  "why": "For Gen Z investors, the service could simplify entry into the stock market and let them act on predictions without deep research. Interested users can sign up to try the AI‑driven portfolio builder.",
-  "tags": [
-   "AI",
-   "FinTech",
-   "Investing",
-   "Startups",
-   "Stocks"
-  ]
- },
- {
-  "id": "7cca7ac383d4",
-  "created": "2026-11-24T06:02:57+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Forex Factory",
-  "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGZUNmd6MkR1azZXTVRCSFBmQWpYOWNYVjV0UTJMQ2M3NEV4YjU1SjNONUVfMzNmWV9NenBOMHd3SjNqemNqRkJrNTlKNy1sWUk1c2NtYnlJMXZNM1pXYWQ2SXYtMkFEZ3VVeXNBZkQ4QkxTcVloVmdNNnEwQTBtSE80RHRDNDjSAYwBQVVfeXFMTlJQNThiOHpNSEJhZm1TS1BEajR5cHBiamxDa1ZZcWwxeWRYTEl5T3RvZkhOTHZUY0xEb1RiNTdacEF1NkpORVNOR202ajZ3dlhZcVRSZDRHUzlRbWZsV2cwWm1oWi1UV3FMUVhsclZSLXZwWXJQMXl1VEFEVHhVaHZROXdIZDBEb2F4Zks?oc=5",
-  "headline": "Nvidia shares jump as Jensen Huang resumes CEO role",
-  "hook": "Investors are buzzing over the AI leader’s comeback.",
-  "what": "Nvidia’s stock climbed sharply after Jensen Huang announced his return as chief executive. The surge helped lift the Nasdaq index by about 7% on Monday, marking its strongest day since 2020. Asian markets also saw gains following the news.",
-  "why": "The rally shows renewed confidence in AI‑driven growth, which could influence tech‑related job prospects and investment choices for young Indians. Keep an eye on market trends if you’re considering tech stocks or related careers.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "stockmarket",
-   "Nasdaq",
-   "JensenHuang"
-  ]
- },
- {
-  "id": "e44b6b3d5153",
-  "created": "2026-11-24T05:03:58+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/nvidia-shares-surge-more-than-30-after-jensen-huangs-return-12368290#publisher=newsstand",
-  "headline": "Nvidia Stock Jumps Over 30% After CEO Return",
-  "hook": "The boss is back and the market is buzzing.",
-  "what": "Jensen Huang resumed his role as Nvidia’s chief executive on Monday. Following his comeback, Nvidia’s shares rose more than 30% in trading.",
-  "why": "A sharp stock move can affect tech‑related investments and job prospects for students interested in AI and gaming. Keep an eye on market updates if you follow tech trends.",
-  "tags": [
-   "Nvidia",
-   "stock",
-   "tech",
-   "AI",
-   "gaming"
-  ]
- },
- {
-  "id": "6d0f89cd6390",
-  "created": "2026-11-24T05:04:02+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Hagerty",
-  "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLWJGLXpLd2k2TkplakUwMnIybkV1bHd6LXVNX2pZeUlhNUhZdGV4Zng0Z2YydDdJb2F0aVdsWWpZZVJSaXExdzVxZlZQZEhrbW5ORUdOdHR2UGt6SXJaQTI4blRRQzg2cVdHNkZuM2RMYTNCZGlESnNVY3VNaEVBdU5NeU1lYnhjU3p1VTEtOVRtdw?oc=5",
-  "headline": "Hagerty reveals 7 dream cars for GTA VI",
-  "hook": "Gamers get a sneak peek at the rides they'd love in Vice City.",
-  "what": "Hagerty published a list of seven vehicles they’d love to see in the upcoming Grand Theft Auto VI. The article highlights the models they consider the coolest for cruising around the game’s Vice City setting.",
-  "why": "Knowing which cars fans are excited about can shape expectations for GTA VI’s vehicle roster, and players can start planning their in‑game collections.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "cars",
-   "Hagerty",
-   "ViceCity"
   ]
  }
 ]

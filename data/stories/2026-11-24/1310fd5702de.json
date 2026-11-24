@@ -1,0 +1,37 @@
+{
+ "id": "1310fd5702de",
+ "created": "2026-11-24T14:08:05+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeENHOTllUlZXRVE1NUFaN2g1MEwwUWEwdndjM3hBa1Y5VUMtc29CYWVNRldrSk5DY2ZHWFB0c29XVGdPR2Z3aUszMUZRbXowc0NTcXJfa19aTUU2WEJSQmFzNzJxWUl1N2Q1UWlnc0FVbU9IMUxRMURoajVFa25oSUN2aWp2Z3hpUURhYzNIYU5xc0NRZTRzSnFtMjVkek8xMmkzcE5UMmVaVHlld1pZcVV2SzZzRW8?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "BJP and SAD reunite for Punjab Assembly election",
+  "hook": "Two major parties are teaming up again in Punjab.",
+  "what": "The Bharatiya Janata Party and the Shiromani Akali Dal announced a joint contest for the upcoming Punjab state elections. They will hold a joint press conference to formalise the alliance.",
+  "why": "The partnership could influence policies on jobs and education that affect young Indians. Stay updated on each party’s agenda before voting.",
+  "tags": [
+   "Punjab",
+   "Elections",
+   "BJP",
+   "SAD",
+   "Alliance"
+  ]
+ },
+ "ml": {
+  "headline": "BJP, SAD വീണ്ടും ഒന്നിച്ചു, പഞ്ചാബ് തെരഞ്ഞെടുപ്പിൽ",
+  "hook": "പഞ്ചാബിലെ രണ്ട് വലിയ പാർട്ടികൾ വീണ്ടും കൂട്ടുകെട്ട്.",
+  "what": "ഭാരതീയ ജനതാ പാർട്ടി (BJP)യും ശിരോമണി അക്കാലി ദാൽ (SAD)യും വരാനിരിക്കുന്ന പഞ്ചാബ് നിയമസഭ തിരഞ്ഞെടുപ്പിൽ ഒരുമിച്ച് മത്സരിക്കാൻ തീരുമാനിച്ചു. കൂട്ടുകെട്ട് ഔപചാരികമാക്കാൻ അവർ ഒരു സംയുക്ത പ്രസ് കോൺഫറൻസ് നടത്തും.",
+  "why": "ഈ കൂട്ടുകെട്ട് സംസ്ഥാനത്തിന്റെ രാഷ്ട്രീയ ദിശയെ ബാധിക്കാം, യുവജനങ്ങളുടെ തൊഴിൽ, വിദ്യാഭ്യാസം എന്നിവയിലും സ്വാധീനം ചെലുത്താം. തിരഞ്ഞെടുപ്പിന് മുമ്പ് പാർട്ടികളുടെ പദ്ധതികളെക്കുറിച്ച് അറിഞ്ഞിരിക്കണം.",
+  "tags": [
+   "പഞ്ചാബ്",
+   "തിരഞ്ഞെടുപ്പ്",
+   "BJP",
+   "SAD",
+   "കൂട്ടുകെട്ട്"
+  ]
+ }
+}
