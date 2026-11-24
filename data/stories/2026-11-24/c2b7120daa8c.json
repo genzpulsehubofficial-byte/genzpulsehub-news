@@ -1,0 +1,37 @@
+{
+ "id": "c2b7120daa8c",
+ "created": "2026-11-24T18:32:33+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GalaxEye taps Bellatrix for propulsion on 30 new satellites",
+  "hook": "India's space startups team up for a big satellite push",
+  "what": "Bengaluru‑based GalaxEye signed a multi‑year deal with Bellatrix Aerospace. The agreement covers propulsion systems for GalaxEye’s upcoming 30 Drishti satellites.",
+  "why": "The partnership could boost India's satellite capabilities and create tech jobs. Keep an eye on emerging space opportunities.",
+  "tags": [
+   "space",
+   "startup",
+   "satellite",
+   "tech",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഗലാക്സ്ഐ ബെല്ലാട്രിക്സുമായി 30 പുതിയ സാറ്റലൈറ്റുകൾക്ക് പ്രൊപ്പൾഷൻ",
+  "hook": "ഇന്ത്യയുടെ സ്പേസ് സ്റ്റാർട്ടപ്പുകൾ വലിയ സാറ്റലൈറ്റ് പദ്ധതിക്ക് കൂട്ടുകെട്ട്",
+  "what": "ബെംഗളൂരു ആസ്ഥാനമായ ഗലാക്സ്ഐ, ബെല്ലാട്രിക്സ് ഏറോസ്പേസ്‌ക്ക് മൾട്ടി‑യർ കരാർ ഒപ്പുവെച്ചു. ഈ കരാർ ഗലാക്സ്ഐയുടെ 30 ഡ്രിഷ്ടി സാറ്റലൈറ്റുകൾക്ക് പ്രൊപ്പൾഷൻ സിസ്റ്റം നൽകുന്നതാണ്.",
+  "why": "ഇത് ഇന്ത്യയുടെ സാറ്റലൈറ്റ് കഴിവുകൾ വർധിപ്പിക്കാനും ടെക് ജോലികൾ സൃഷ്ടിക്കാനും സഹായിക്കും. സ്പേസ് മേഖലയിൽ പുതിയ അവസരങ്ങൾക്കായി ശ്രദ്ധിക്കൂ.",
+  "tags": [
+   "space",
+   "startup",
+   "satellite",
+   "tech",
+   "India"
+  ]
+ }
+}

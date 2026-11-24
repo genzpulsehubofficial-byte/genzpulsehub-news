@@ -1,5 +1,119 @@
 [
  {
+  "id": "c7c794111538",
+  "created": "2026-11-24T18:32:18+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/karthigai-deepam-lit-at-traditional-spot-in-madurais-thiruparankundram-report-101795523397683.html",
+  "headline": "Karthigai Deepam lit atop Ucchi Pillayar Temple in Madurai",
+  "hook": "The festival lamp shines from a new spot this year.",
+  "what": "In Thiruparankundram, Madurai, the Karthigai Deepam was illuminated on the Ucchi Pillayar Temple. Traditionally, it is lit on the deepathoon stone pillar, but this time the temple roof hosted the flame.",
+  "why": "It marks a shift in ritual practice at a historic site, reminding young locals of their cultural heritage.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Madurai",
+   "Tradition",
+   "Temple",
+   "Youth"
+  ]
+ },
+ {
+  "id": "6c37f3bab31d",
+  "created": "2026-11-24T18:32:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/cjp-is-not-going-to-get-into-elections-abhijeet-dipke-on-upcoming-up-polls-101795522019585.html",
+  "headline": "Dipke says CJP stays out, urges youth‑focused UP polls",
+  "hook": "A top judge wants the Uttar Pradesh vote to be about youth, not caste.",
+  "what": "Abhijeet Dipke said the CJP will not get involved in the upcoming Uttar Pradesh elections. He also expressed hope that the campaign centers on young voters rather than caste or religion.",
+  "why": "When elections focus on youth issues, policies on education, jobs and digital life can better reflect their needs. Staying aware helps young Indians engage responsibly.",
+  "tags": [
+   "UttarPradesh",
+   "YouthVote",
+   "Elections",
+   "CasteFree",
+   "India"
+  ]
+ },
+ {
+  "id": "2c218720eafe",
+  "created": "2026-11-24T18:32:25+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/can-a-bank-demand-home-loan-emis-if-your-builder-fails-to-deliver-possession-supreme-court-ruling-explained-11795523197934.html",
+  "headline": "Supreme Court checks bank loan steps before EMI pressure",
+  "hook": "Your unfinished flat won’t trigger forced EMIs without proper checks.",
+  "what": "The apex court instructed lower courts to confirm whether banks followed construction‑linked disbursement rules before pursuing recovery from buyers stuck with incomplete apartments. This offers temporary relief from aggressive EMI collection.",
+  "why": "Young homebuyers can pause repayment actions until banks’ compliance is verified, reducing financial strain. Keep loan documents handy and seek legal advice if you receive a recovery notice.",
+  "tags": [
+   "home loan",
+   "supreme court",
+   "banking",
+   "real estate",
+   "young buyers"
+  ]
+ },
+ {
+  "id": "975e25a4c8cb",
+  "created": "2026-11-24T18:32:28+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/bank-of-india-500-day-fd-offers-up-to-7-65-interest-check-rates-for-senior-citizens-and-other-depositors-11795521223667.html",
+  "headline": "Bank of India rolls out 500‑day FD with 7.65% for super seniors",
+  "hook": "A new fixed‑deposit scheme could boost returns for older savers.",
+  "what": "Bank of India introduced a 500‑day fixed‑deposit called Akshay FD. It offers up to 7.65% interest for super senior citizens on non‑callable deposits exceeding ₹1 crore. Rates for regular and senior citizens are also listed.",
+  "why": "Understanding these rates helps families plan savings for elders and gives a benchmark for other deposit options. Young investors can compare and decide if such long‑term deposits fit their financial plans.",
+  "tags": [
+   "BankOfIndia",
+   "FixedDeposit",
+   "InterestRates",
+   "Savings",
+   "Finance"
+  ]
+ },
+ {
+  "id": "aed971766ae6",
+  "created": "2026-11-24T18:32:30+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXRfdlktS1E5MVBldXVlRVdfNVZIS0NTZ3dzQnJLYmRrZTJYakRGXzI0U0JLaVZIeWZUdFVyaGY1SHJpY29LN3JKam9oT2xsZVVKLWdFcWM0T29wNUNlekFhRnZVcGIteXpTT0lTNkE3akdGVUg4R1Y3empHaWNEQ0Jhc2JBZzBZd3dpcGNn?oc=5",
+  "headline": "South Africa crush Bangladesh for 91 in 2nd Test",
+  "hook": "Proteas dominate with bowling, leaving Bangladesh under 100.",
+  "what": "South Africa posted 274/4 while Bangladesh were dismissed for 91. Ryan Rickelton made 9 runs and Tony de Zorzi added 28. Nortje spoke about the key to the team's success.",
+  "why": "The result puts South Africa in a strong position in the series, and fans can look forward to the next matches.",
+  "tags": [
+   "cricket",
+   "SouthAfrica",
+   "Bangladesh",
+   "TestSeries",
+   "sports"
+  ]
+ },
+ {
+  "id": "c2b7120daa8c",
+  "created": "2026-11-24T18:32:33+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
+  "headline": "GalaxEye taps Bellatrix for propulsion on 30 new satellites",
+  "hook": "India's space startups team up for a big satellite push",
+  "what": "Bengaluru‑based GalaxEye signed a multi‑year deal with Bellatrix Aerospace. The agreement covers propulsion systems for GalaxEye’s upcoming 30 Drishti satellites.",
+  "why": "The partnership could boost India's satellite capabilities and create tech jobs. Keep an eye on emerging space opportunities.",
+  "tags": [
+   "space",
+   "startup",
+   "satellite",
+   "tech",
+   "India"
+  ]
+ },
+ {
   "id": "51bd4f379931",
   "created": "2026-11-24T17:23:28+05:30",
   "category": "headlines",
@@ -634,120 +748,6 @@
    "Campaign",
    "OrangeTheWorld",
    "Avalkkoppam"
-  ]
- },
- {
-  "id": "d5cb34b5b55e",
-  "created": "2026-11-24T10:28:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-price-in-bangalore-today-24-november-tuesday-check-latest-24k-22k-and-20k-gold-rates-in-silicon-valley-of-india-11795494486201.html",
-  "headline": "Bangalore gold prices edge up on Nov 24",
-  "hook": "A slight rise could affect your savings plans.",
-  "what": "Gold rates in Bangalore increased modestly on Tuesday, 24 November. The update lists current prices for 24K, 22K, 20K and 18K gold, and shows how they compare with the past week, month and a year ago.",
-  "why": "Even a small change can impact buying decisions for jewellery or investments, so keep an eye on the latest rates before making a purchase.",
-  "tags": [
-   "gold",
-   "Bangalore",
-   "prices",
-   "investments",
-   "youth"
-  ]
- },
- {
-  "id": "4afdc7fbaa5b",
-  "created": "2026-11-24T10:28:46+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/games/features/gta-6-weapons-guide-full-list-of-all-guns-and-items-available-in-game-12367875",
-  "headline": "Complete GTA 6 Weapons List Now Available",
-  "hook": "All the guns you’ll need in GTA 6, in one guide.",
-  "what": "A new guide has compiled every firearm, rifle and other weapon featured in GTA 6. The list covers the full range of armaments players can find in the game.",
-  "why": "Knowing the available weapons helps gamers plan their gameplay and choose the right gear. Check the guide before diving into missions.",
-  "tags": [
-   "GTA6",
-   "gaming",
-   "weapons",
-   "guide",
-   "teens"
-  ]
- },
- {
-  "id": "e77457ee3096",
-  "created": "2026-11-24T09:23:21+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
-  "headline": "Google says only about 30 jobs cut, denies mass layoffs",
-  "hook": "No big job purge – just a few dozen positions gone",
-  "what": "An official Google account on X clarified that the company is not carrying out large‑scale layoffs in India. It said roughly 30 positions have been eliminated.",
-  "why": "For job‑seeking Gen Z, the news shows that massive layoffs are not happening, but competition for limited roles remains. Keep an eye on official company updates.",
-  "tags": [
-   "Google",
-   "layoffs",
-   "India",
-   "jobs",
-   "tech"
-  ]
- },
- {
-  "id": "3d240319a70d",
-  "created": "2026-11-24T09:23:23+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
-  "headline": "Nepal quake felt in North Bengal, Sikkim early morning",
-  "hook": "Morning tremors woke up residents across two Indian states.",
-  "what": "An earthquake in Nepal caused shaking that was felt around 7 a.m. in parts of North Bengal and Sikkim. People in several locations stepped out of their houses as the tremors were experienced.",
-  "why": "Such tremors remind us to stay alert for safety measures during earthquakes. Keep emergency kits ready and follow local guidance.",
-  "tags": [
-   "earthquake",
-   "nepal",
-   "bengal",
-   "sikkim",
-   "safety"
-  ]
- },
- {
-  "id": "2b8fc859b5b8",
-  "created": "2026-11-24T09:23:26+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "XBOX Wire",
-  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
-  "headline": "Stream GTA VI to PC and Console via Cloud Play",
-  "hook": "Play the new GTA without owning a console.",
-  "what": "Guides now explain how to stream Grand Theft Auto VI using cloud services or remote play. The title can be streamed to a PC, PlayStation 5 and the PlayStation Portal with a PS Plus Premium subscription. Sony’s system does not support PC streaming.",
-  "why": "This lets gamers with limited hardware enjoy the latest release, saving the cost of a console. Teens can try the game on devices they already own.",
-  "tags": [
-   "GTA6",
-   "cloudgaming",
-   "remoteplay",
-   "gamingtips",
-   "PSplus"
-  ]
- },
- {
-  "id": "465880d6e02e",
-  "created": "2026-11-24T09:23:29+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
-  "headline": "Stock Markets Close for Guru Nanak Jayanti; Banks May Follow",
-  "hook": "Your trades pause today—find out which services are still running.",
-  "what": "India’s domestic equity exchanges are shut on November 24 for Guru Nanak Jayanti. The Multi Commodity Exchange will restart only in the evening session. Several banks across 21 cities have also announced closures, and schools in many states are on holiday.",
-  "why": "Young investors and students should check alternative platforms or plan tasks around the holiday schedule to avoid missed deadlines.",
-  "tags": [
-   "stockmarket",
-   "bankholiday",
-   "gurunankjayanti",
-   "students",
-   "india"
   ]
  }
 ]

@@ -1,27 +1,14 @@
 {
- "last_run": "2026-11-24T17:23:40+05:30",
- "fetched": 161,
- "made": 5,
+ "last_run": "2026-11-24T18:32:33+05:30",
+ "fetched": 219,
+ "made": 6,
  "providers": {
-  "groq": 5
+  "groq": 6
  },
  "dead_feeds": [
-  "Google News India",
   "Google News Tech",
-  "Google News Business",
-  "Scam alerts",
-  "Jobs",
-  "Exams",
   "Google News Entertainment",
-  "OTT releases",
-  "Google News Sports",
-  "Gaming",
-  "Google News Health",
-  "Good news",
-  "Onmanorama",
-  "Kerala PSC",
-  "Kerala weather",
-  "Mollywood"
+  "Onmanorama"
  ],
  "ai_all_failed": 0,
  "ai_errors": {

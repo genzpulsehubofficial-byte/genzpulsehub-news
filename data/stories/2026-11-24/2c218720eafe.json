@@ -1,0 +1,37 @@
+{
+ "id": "2c218720eafe",
+ "created": "2026-11-24T18:32:25+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/can-a-bank-demand-home-loan-emis-if-your-builder-fails-to-deliver-possession-supreme-court-ruling-explained-11795523197934.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court checks bank loan steps before EMI pressure",
+  "hook": "Your unfinished flat won’t trigger forced EMIs without proper checks.",
+  "what": "The apex court instructed lower courts to confirm whether banks followed construction‑linked disbursement rules before pursuing recovery from buyers stuck with incomplete apartments. This offers temporary relief from aggressive EMI collection.",
+  "why": "Young homebuyers can pause repayment actions until banks’ compliance is verified, reducing financial strain. Keep loan documents handy and seek legal advice if you receive a recovery notice.",
+  "tags": [
+   "home loan",
+   "supreme court",
+   "banking",
+   "real estate",
+   "young buyers"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി ബാങ്ക് ലോൺ നടപടികൾ പരിശോധിക്കും",
+  "hook": "പൂർത്തിയായില്ലാത്ത ഫ്ലാറ്റിന്‌ അനാവശ്യ EMI സമ്മർദ്ദം ഒഴിവാക്കാം.",
+  "what": "മഹാന്യായം താഴ്ന്ന കോടതികളെ ബാങ്കുകൾ നിർമ്മാണ‑ബന്ധിത വായ്പ വിതരണം നിബന്ധനകൾ പാലിച്ചോ എന്ന് പരിശോധിക്കാൻ നിർദേശിച്ചു, പൂർത്തിയാകാത്ത ഫ്ലാറ്റുകൾക്കുള്ള വാങ്ങുന്നവരുടെ മേലുള്ള കടമെടുക്കൽ പ്രവർത്തനങ്ങൾക്കുമുമ്പ്. ഇത് കടുത്ത EMI ശേഖരണത്തെ താൽക്കാലികമായി തടയുന്നു.",
+  "why": "യുവ ഹോം വാങ്ങുന്നവർ ബാങ്കിന്റെ പാലനം ഉറപ്പുവരുത്തുന്നതുവരെ പണമടയ്ക്കൽ നിർത്താം, സാമ്പത്തിക സമ്മർദ്ദം കുറയ്ക്കാൻ. വായ്പാ നിബന്ധനകൾ സൂക്ഷിച്ച്, ശേഖരണ നോട്ടീസ് ലഭിച്ചാൽ നിയമ സഹായം തേടുക.",
+  "tags": [
+   "ഹോംലോൺ",
+   "കോടതി",
+   "ബാങ്കിംഗ്",
+   "റിയൽഎസ്റ്റേറ്റ്",
+   "യുവവാങ്ങുന്നവർ"
+  ]
+ }
+}

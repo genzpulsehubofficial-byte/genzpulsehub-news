@@ -1,0 +1,37 @@
+{
+ "id": "6c37f3bab31d",
+ "created": "2026-11-24T18:32:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/cjp-is-not-going-to-get-into-elections-abhijeet-dipke-on-upcoming-up-polls-101795522019585.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Dipke says CJP stays out, urges youth‑focused UP polls",
+  "hook": "A top judge wants the Uttar Pradesh vote to be about youth, not caste.",
+  "what": "Abhijeet Dipke said the CJP will not get involved in the upcoming Uttar Pradesh elections. He also expressed hope that the campaign centers on young voters rather than caste or religion.",
+  "why": "When elections focus on youth issues, policies on education, jobs and digital life can better reflect their needs. Staying aware helps young Indians engage responsibly.",
+  "tags": [
+   "UttarPradesh",
+   "YouthVote",
+   "Elections",
+   "CasteFree",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഡിപ്കെ: CJP തെരഞ്ഞെടുപ്പിൽ ഇടപെടില്ല, യുവ‑കേന്ദ്രിത UP തിരഞ്ഞെടുപ്പ്",
+  "hook": "മഹാന്യായാധിപൻ യുവജനങ്ങളെ മുൻനിർത്തി, ജാതി‑മതം ചർച്ചകൾ ഒഴിവാക്കാൻ ആഗ്രഹിക്കുന്നു.",
+  "what": "അഭിജിത് ഡിപ്കെ CJP ഉത്തർപ്രദേശ് തിരഞ്ഞെടുപ്പിൽ ഇടപെടില്ലെന്ന് അറിയിച്ചു. കൂടാതെ, തിരഞ്ഞെടുപ്പ് യുവജനങ്ങൾക്ക് കേന്ദ്രീകരിക്കണം, ജാതി, മതം എന്നിവയുമായി ബന്ധിപ്പിക്കരുതെന്ന് അദ്ദേഹം പറഞ്ഞു.",
+  "why": "യുവജനങ്ങൾക്ക് അവരുടെ ആവശ്യങ്ങൾക്കനുസരിച്ചുള്ള നയങ്ങൾ രൂപം കൊടുക്കാൻ ഇത് സഹായിക്കും. തെരഞ്ഞെടുപ്പിന്റെ പ്രവണതകൾ ശ്രദ്ധിച്ച്, അവർ ഉത്തരവാദിത്വപൂർവ്വം പങ്കാളികളാകാം.",
+  "tags": [
+   "UttarPradesh",
+   "YouthVote",
+   "Election",
+   "CasteFree",
+   "India"
+  ]
+ }
+}

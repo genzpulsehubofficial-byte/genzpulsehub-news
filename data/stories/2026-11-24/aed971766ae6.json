@@ -1,0 +1,37 @@
+{
+ "id": "aed971766ae6",
+ "created": "2026-11-24T18:32:30+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricket World",
+ "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXRfdlktS1E5MVBldXVlRVdfNVZIS0NTZ3dzQnJLYmRrZTJYakRGXzI0U0JLaVZIeWZUdFVyaGY1SHJpY29LN3JKam9oT2xsZVVKLWdFcWM0T29wNUNlekFhRnZVcGIteXpTT0lTNkE3akdGVUg4R1Y3empHaWNEQ0Jhc2JBZzBZd3dpcGNn?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "South Africa crush Bangladesh for 91 in 2nd Test",
+  "hook": "Proteas dominate with bowling, leaving Bangladesh under 100.",
+  "what": "South Africa posted 274/4 while Bangladesh were dismissed for 91. Ryan Rickelton made 9 runs and Tony de Zorzi added 28. Nortje spoke about the key to the team's success.",
+  "why": "The result puts South Africa in a strong position in the series, and fans can look forward to the next matches.",
+  "tags": [
+   "cricket",
+   "SouthAfrica",
+   "Bangladesh",
+   "TestSeries",
+   "sports"
+  ]
+ },
+ "ml": {
+  "headline": "സൗത്ത് ആഫ്രിക്കാ 2-ാം ടെസ്റ്റിൽ ബംഗ്ലാദേശിനെ 91-ൽ അടിച്ചു",
+  "hook": "പ്രൊട്ടാസിന്റെ ബോൾിംഗ് ശക്തി ബംഗ്ലാദേശിനെ 100-ൽ താഴെയാക്കി.",
+  "what": "സൗത്ത് ആഫ്രിക്ക 274/4 സ്കോർ നേടി, ബംഗ്ലാദേശ് 91 ഓടെ മുഴുവൻ ഔട്ടായി. റയൻ റിക്കൽട്ടൺ 9 റൺസ്, ടോണി ഡി സോർസി 28 റൺസ് നേടി. നോർത്ത്ജെ വിജയത്തിന്റെ രഹസ്യം വെളിപ്പെടുത്തി.",
+  "why": "ഇത് സീരീസിൽ സൗത്ത് ആഫ്രിക്കയുടെ മേലേറ്റം ഉറപ്പാക്കുന്നു, ക്രിക്കറ്റ് പ്രേമികൾ അടുത്ത മത്സരങ്ങൾ ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "സൗത്ത്‌ആഫ്രിക്ക",
+   "ബംഗ്ലാദേശ്",
+   "ടെസ്റ്റ്",
+   "സ്പോർട്സ്"
+  ]
+ }
+}

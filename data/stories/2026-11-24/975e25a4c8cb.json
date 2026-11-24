@@ -1,0 +1,37 @@
+{
+ "id": "975e25a4c8cb",
+ "created": "2026-11-24T18:32:28+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/bank-of-india-500-day-fd-offers-up-to-7-65-interest-check-rates-for-senior-citizens-and-other-depositors-11795521223667.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Bank of India rolls out 500‑day FD with 7.65% for super seniors",
+  "hook": "A new fixed‑deposit scheme could boost returns for older savers.",
+  "what": "Bank of India introduced a 500‑day fixed‑deposit called Akshay FD. It offers up to 7.65% interest for super senior citizens on non‑callable deposits exceeding ₹1 crore. Rates for regular and senior citizens are also listed.",
+  "why": "Understanding these rates helps families plan savings for elders and gives a benchmark for other deposit options. Young investors can compare and decide if such long‑term deposits fit their financial plans.",
+  "tags": [
+   "BankOfIndia",
+   "FixedDeposit",
+   "InterestRates",
+   "Savings",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "ബാങ്ക് ഓഫ് ഇന്ത്യ 500‑ദിന FD-യിൽ സൂപർ സീനിയർക്ക് 7.65%",
+  "hook": "പുതിയ ഫിക്സഡ് ഡെപ്പോസിറ്റ് സ്കീം മുതിർന്നവരുടെ വരുമാനം വർധിപ്പിക്കാം.",
+  "what": "ബാങ്ക് ഓഫ് ഇന്ത്യ 500‑ദിനം ദൈർഘ്യമുള്ള “അക്ഷയ് FD” ആരംഭിച്ചു. ₹1 കോടി മുകളിലുള്ള നോൺ‑കോളബിൾ ഡെപ്പോസിറ്റുകൾക്ക് സൂപർ സീനിയർ സിറ്റിസൺമാർക്ക് 7.65% വരെ പലിശ ലഭിക്കും. സാധാരണ, സീനിയർ സിറ്റിസൺമാർക്കുള്ള നിരക്കുകളും പ്രഖ്യാപിച്ചിട്ടുണ്ട്.",
+  "why": "ഈ നിരക്കുകൾ കുടുംബത്തിലെ മുതിർന്നവരുടെ സേവിംഗ്സ് പ്ലാൻ ചെയ്യാൻ സഹായിക്കും, കൂടാതെ മറ്റ് FD ഓപ്ഷനുകൾക്ക് താരതമ്യം ചെയ്യാൻ ഒരു മാനദണ്ഡം നൽകും.",
+  "tags": [
+   "BankOfIndia",
+   "FixedDeposit",
+   "Interest",
+   "Savings",
+   "Finance"
+  ]
+ }
+}

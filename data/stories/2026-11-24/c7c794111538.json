@@ -1,0 +1,37 @@
+{
+ "id": "c7c794111538",
+ "created": "2026-11-24T18:32:18+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/karthigai-deepam-lit-at-traditional-spot-in-madurais-thiruparankundram-report-101795523397683.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Karthigai Deepam lit atop Ucchi Pillayar Temple in Madurai",
+  "hook": "The festival lamp shines from a new spot this year.",
+  "what": "In Thiruparankundram, Madurai, the Karthigai Deepam was illuminated on the Ucchi Pillayar Temple. Traditionally, it is lit on the deepathoon stone pillar, but this time the temple roof hosted the flame.",
+  "why": "It marks a shift in ritual practice at a historic site, reminding young locals of their cultural heritage.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Madurai",
+   "Tradition",
+   "Temple",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "മദുരൈയിലെ ഉച്ചി പിള്ളയർ ക്ഷേത്രത്തിൽ കാർത്തികൈ ദീപം തെളിഞ്ഞു",
+  "hook": "പാരമ്പര്യത്തിൽ നിന്ന് മാറി ദീപം പുതിയ സ്ഥാനത്ത് തെളിഞ്ഞു.",
+  "what": "തിരുപരങ്കുന്ദ്രം, മദുരൈയിൽ കാർത്തികൈ ദീപം ഉച്ചി പിള്ളയർ ക്ഷേത്രത്തിന്റെ മേൽവിലാസത്തിൽ തെളിയിച്ചു. സാധാരണയായി ഇത് ഡീപത്തൂൺ എന്ന കല്ലു സ്തംഭത്തിൽ തെളിയിക്കാറാണ്, പക്ഷേ ഈ വർഷം ക്ഷേത്രത്തിന്റെ മേൽവിലാസം തിരഞ്ഞെടുക്കപ്പെട്ടു.",
+  "why": "ചരിത്രപരമായ സ്ഥലത്തെ ഈ മാറ്റം യുവജനങ്ങൾക്ക് സാംസ്കാരിക മൂല്യങ്ങൾ ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Madurai",
+   "Paramparya",
+   "Kshetram",
+   "Yuvajan"
+  ]
+ }
+}
