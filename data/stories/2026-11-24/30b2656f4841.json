@@ -1,0 +1,37 @@
+{
+ "id": "30b2656f4841",
+ "created": "2026-11-24T17:23:38+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "JioStar plans to lay off 150 staff to cut costs",
+  "hook": "Big tech trims its media team – 150 jobs on the line.",
+  "what": "Jio’s media division JioStar is set to dismiss around 150 employees. The move is aimed at reducing operating expenses.",
+  "why": "The cut shows how even fast‑growing firms tighten budgets, which could affect internship and entry‑level opportunities in media. Keep an eye on job boards for other openings.",
+  "tags": [
+   "JioStar",
+   "jobcuts",
+   "media",
+   "costs",
+   "career"
+  ]
+ },
+ "ml": {
+  "headline": "ജിയോസ്റ്റാർ 150 ജീവനക്കാരെ പുറത്താക്കാൻ പദ്ധതിയിടുന്നു",
+  "hook": "വലിയ ടെക് കമ്പനിയുടെ മീഡിയ ടീമിൽ 150 ജോലികൾ അപകടത്തിൽ.",
+  "what": "ജിയോയുടെ മീഡിയ ശാഖയായ ജിയോസ്റ്റാർ ഏകദേശം 150 ജീവനക്കാരെ ഒഴിവാക്കാൻ പദ്ധതിയിടുന്നു. ഇത് ചെലവുകൾ കുറയ്ക്കുന്നതിനുള്ള നടപടിയാണ്.",
+  "why": "ഇത് കാണിക്കുന്നത്, വേഗത്തിൽ വളരുന്ന കമ്പനികളും ബജറ്റ് നിയന്ത്രണത്തിന് ശ്രമിക്കുന്നു, ഇത് മീഡിയ മേഖലയിലെ ഇന്റേൺഷിപ്പ്, എൻട്രി-ലെവൽ ജോലികളെ ബാധിക്കാം. മറ്റ് അവസരങ്ങൾക്കായി ജോബ് പോർട്ടലുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "JioStar",
+   "ജോലിചുരുക്കം",
+   "മീഡിയ",
+   "ചെലവ്",
+   "കരിയർ"
+  ]
+ }
+}

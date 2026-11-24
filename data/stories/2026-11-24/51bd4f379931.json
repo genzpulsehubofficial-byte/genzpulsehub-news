@@ -1,0 +1,37 @@
+{
+ "id": "51bd4f379931",
+ "created": "2026-11-24T17:23:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "SC permits lamp lighting at Thirupparankundram; BJP chief arrested",
+  "hook": "A holy flame sparks a legal clash and a high‑profile arrest.",
+  "what": "The Supreme Court issued an interim order allowing a lamp to be lit on the disputed 'deepathoon' at Thirupparankundram during the Karthigai Deepam festival. Security was tightened around the hillock, and the Tamil Nadu BJP chief was taken into custody.",
+  "why": "The decision highlights tensions between religious traditions and legal rulings, and the arrest underscores political scrutiny during festivals. Teens should stay informed about civic developments and follow official guidelines if attending the event.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "SupremeCourt",
+   "BJP",
+   "Madurai"
+  ]
+ },
+ "ml": {
+  "headline": "എസ്‌സി 'deepathoon' ലാമ്പ് തെളിക്കാൻ അനുമതി; ടി.എം.ബി.പി ചീഫ് അറസ്റ്റു",
+  "hook": "പവിത്ര ജ്വാലയും നിയമവാദവും, ഒരു പ്രധാന രാഷ്ട്രീയക്കാരന്റെ പിടിയുമാണ്.",
+  "what": "സ supreem court ഒരു ഇടക്കാല ഉത്തരവ് പുറപ്പെടുവിച്ച്, കർതിഗൈ ദീപം ഉത്സവത്തിൽ തിറുപ്പരങ്കുന്ദ്രം മലയുടെ 'deepathoon' ലാമ്പ് തെളിക്കാൻ അനുവദിച്ചു. സംഭവസ്ഥലത്ത് കർശന സുരക്ഷ നടപ്പിലാക്കി, തമിഴ്നാട് ബി.ജെ.പി ചീഫ് അറസ്റ്റു ചെയ്യപ്പെട്ടു.",
+  "why": "മതപരമ്പരയും നിയമവ്യവസ്ഥയും തമ്മിലുള്ള സംഘർഷം യുവജനങ്ങൾക്ക് സമൂഹം, നിയമം എന്നിവയുടെ പ്രാധാന്യം കാണിക്കുന്നു. ഉത്സവം സന്ദർശിക്കാൻ പോകുന്നവർ ഔദ്യോഗിക നിർദ്ദേശങ്ങൾ പാലിക്കണം.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "SupremeCourt",
+   "BJP",
+   "Madurai"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "9ffcce4bd5e0",
+ "created": "2026-11-24T17:23:40+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/how-nvidia-stock-skyrocketing-31-will-change-risk-return-outlook-for-mutual-funds-experts-weigh-in-as-jensen-returns-11795509662267.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia’s 31% Jump May Lift Mutual Fund NAVs",
+  "hook": "A sudden surge could bump up your fund’s value.",
+  "what": "Nvidia’s shares climbed 31% after CEO Jensen Huang returned. Indian mutual funds that own the chipmaker may see their net asset values rise, depending on their holdings. Experts warn against blindly chasing the rally.",
+  "why": "Young investors should balance the possible gain with the stock’s volatility before adding more exposure. Knowing a fund’s exposure helps avoid unexpected risk.",
+  "tags": [
+   "Nvidia",
+   "mutualfunds",
+   "stockmarket",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia-യുടെ 31% ഉയർച്ച ഫണ്ട് NAV‑നെ ഉയർത്താം",
+  "hook": "പെട്ടെന്നുള്ള ഈ ചാടൽ നിങ്ങളുടെ ഫണ്ടിന്റെ മൂല്യം കൂട്ടാം",
+  "what": "Jensen Huang തിരികെ വന്നതോടെ Nvidia ഷെയറുകൾ 31% ഉയർന്നു. ഇന്ത്യയിലെ മ്യൂച്വൽ ഫണ്ടുകൾ കമ്പനിയുടെ സ്റ്റോക്ക് കൈവശം വെച്ചാൽ, അവരുടെ NAV‑യിൽ വർധനവുണ്ടാകാം, എത്രവോളം പിടിച്ചിരിക്കുന്നുവെന്നതിനെ ആശ്രയിച്ച്. വിദഗ്ധർ ഈ ഉയർച്ചയെ അനാവശ്യമായി പിന്തുടരുന്നത് അപകടകരമെന്ന് സൂചിപ്പിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകർ സാധ്യതയുള്ള ലാഭം, അതിന്റെ അസ്ഥിരത എന്നിവ തമ്മിൽ തൂക്കമിടണം. ഫണ്ടിന്റെ പോർട്ട്ഫോളിയോ അറിയുന്നത് അപ്രതീക്ഷിത അപകടം ഒഴിവാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "Nvidia",
+   "mutualfunds",
+   "stockmarket",
+   "investing"
+  ]
+ }
+}

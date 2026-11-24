@@ -1,5 +1,99 @@
 [
  {
+  "id": "51bd4f379931",
+  "created": "2026-11-24T17:23:28+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+  "headline": "SC permits lamp lighting at Thirupparankundram; BJP chief arrested",
+  "hook": "A holy flame sparks a legal clash and a high‑profile arrest.",
+  "what": "The Supreme Court issued an interim order allowing a lamp to be lit on the disputed 'deepathoon' at Thirupparankundram during the Karthigai Deepam festival. Security was tightened around the hillock, and the Tamil Nadu BJP chief was taken into custody.",
+  "why": "The decision highlights tensions between religious traditions and legal rulings, and the arrest underscores political scrutiny during festivals. Teens should stay informed about civic developments and follow official guidelines if attending the event.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "SupremeCourt",
+   "BJP",
+   "Madurai"
+  ]
+ },
+ {
+  "id": "17047432b77e",
+  "created": "2026-11-24T17:23:31+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/sonia-gandhi-recalls-pull-of-power-while-deciding-against-becoming-pm-in-2004/article71737616.ece",
+  "headline": "Sonia Gandhi warns of power’s tempting pull",
+  "hook": "She says holding power can create its own excuses.",
+  "what": "In a recent interview, Sonia Gandhi reflected on her 2004 decision not to become prime minister. She called it a lesson that gaining power may lead to justifying its retention.",
+  "why": "Seeing this perspective helps young voters understand how leaders view authority and the need for accountability.",
+  "tags": [
+   "politics",
+   "leadership",
+   "SoniaGandhi",
+   "power",
+   "India"
+  ]
+ },
+ {
+  "id": "10a24d29fbf8",
+  "created": "2026-11-24T17:23:33+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/bengal-announces-rs-2-000-monthly-allowance-for-unemployed-youth-who-is-eligible-know-key-details-11795519089252.html",
+  "headline": "West Bengal rolls out monthly cash for unemployed youth",
+  "hook": "Get up to ₹2,000 a month if you’re 21‑45 and job‑less",
+  "what": "The West Bengal government introduced the Bhorsha Karmasuchi scheme. Eligible residents aged 21 to 45 will receive a monthly allowance of either ₹1,500 or ₹2,000, based on their qualifications.",
+  "why": "It provides financial relief for young people looking for work and encourages them to check eligibility. Apply through the official portal to claim the benefit.",
+  "tags": [
+   "WestBengal",
+   "unemployment",
+   "youth",
+   "cashAllowance",
+   "jobs"
+  ]
+ },
+ {
+  "id": "30b2656f4841",
+  "created": "2026-11-24T17:23:38+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
+  "headline": "JioStar plans to lay off 150 staff to cut costs",
+  "hook": "Big tech trims its media team – 150 jobs on the line.",
+  "what": "Jio’s media division JioStar is set to dismiss around 150 employees. The move is aimed at reducing operating expenses.",
+  "why": "The cut shows how even fast‑growing firms tighten budgets, which could affect internship and entry‑level opportunities in media. Keep an eye on job boards for other openings.",
+  "tags": [
+   "JioStar",
+   "jobcuts",
+   "media",
+   "costs",
+   "career"
+  ]
+ },
+ {
+  "id": "9ffcce4bd5e0",
+  "created": "2026-11-24T17:23:40+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/how-nvidia-stock-skyrocketing-31-will-change-risk-return-outlook-for-mutual-funds-experts-weigh-in-as-jensen-returns-11795509662267.html",
+  "headline": "Nvidia’s 31% Jump May Lift Mutual Fund NAVs",
+  "hook": "A sudden surge could bump up your fund’s value.",
+  "what": "Nvidia’s shares climbed 31% after CEO Jensen Huang returned. Indian mutual funds that own the chipmaker may see their net asset values rise, depending on their holdings. Experts warn against blindly chasing the rally.",
+  "why": "Young investors should balance the possible gain with the stock’s volatility before adding more exposure. Knowing a fund’s exposure helps avoid unexpected risk.",
+  "tags": [
+   "Nvidia",
+   "mutualfunds",
+   "stockmarket",
+   "investing"
+  ]
+ },
+ {
   "id": "d791c2b42679",
   "created": "2026-11-24T16:21:13+05:30",
   "category": "headlines",
@@ -654,101 +748,6 @@
    "gurunankjayanti",
    "students",
    "india"
-  ]
- },
- {
-  "id": "71da4ff3427e",
-  "created": "2026-11-24T09:23:31+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-i-premature-redemption-investors-gain-up-to-167-check-rbi-fixed-price-exit-date-and-interest-rate-11795483751270.html",
-  "headline": "SGB 2021-22 Series I early exit can yield 167% profit",
-  "hook": "Grab a chance to cash in on sovereign gold bonds early.",
-  "what": "Investors holding the 2021-22 Series I sovereign gold bonds can now redeem before maturity. The redemption price may deliver up to 167% return over the original issue price. RBI has fixed the price, exit date and the interest applicable for this early redemption.",
-  "why": "It offers a high‑return option for young savers, so they should verify RBI’s announced price and redemption deadline before deciding.",
-  "tags": [
-   "SGB",
-   "goldbonds",
-   "investment",
-   "earlyredemption",
-   "RBI"
-  ]
- },
- {
-  "id": "468b094d23b1",
-  "created": "2026-11-24T08:23:45+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-sp-seat-sharing-discussions-to-continue-on-november-24/article71734959.ece",
-  "headline": "SP and Congress begin seat‑share talks for UP polls",
-  "hook": "A quick 20‑minute meeting could shape Uttar Pradesh’s election map.",
-  "what": "Leaders from the Samajwadi Party and the Congress met at the Delhi home of MP Pramod Tiwari. The brief discussion lasted around twenty minutes, and they plan to reconvene on November 24 to continue negotiations.",
-  "why": "The outcome will decide how the two parties divide contesting seats, influencing the choices young voters have in the state’s upcoming election.",
-  "tags": [
-   "UP",
-   "elections",
-   "seatshare",
-   "SP",
-   "Congress"
-  ]
- },
- {
-  "id": "56a3f6a53e6e",
-  "created": "2026-11-24T08:24:49+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/cbi-secures-deportation-of-haryana-murder-accused-from-kazakhstan-12368507#publisher=newsstand",
-  "headline": "CBI gets Kazakhstan to deport Haryana murder suspect",
-  "hook": "A wanted killer is finally on his way back to India.",
-  "what": "The Central Bureau of Investigation secured the deportation of a Haryana murder suspect who was in Kazakhstan. A Red Notice against the accused, Ashish Kumar, was issued via INTERPOL in September 2026.",
-  "why": "It shows that international cooperation can bring fugitives to justice, reinforcing safety and rule of law. Stay aware of legal updates.",
-  "tags": [
-   "CBI",
-   "Kazakhstan",
-   "Interpol",
-   "Haryana",
-   "Justice"
-  ]
- },
- {
-  "id": "bf6883951a55",
-  "created": "2026-11-24T08:24:51+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/money/rubber-prices-fall-by-rs-50-in-18-days-in-keralam-small-farmers-face-fresh-setback-gianp46n",
-  "headline": "Kerala rubber prices drop Rs 50 in 18 days",
-  "hook": "Rubber farmers see earnings shrink fast",
-  "what": "Rubber prices in Kerala fell by Rs 50 per kilogram over 18 days after reaching Rs 300 per kg on Nov 2. The decline has left small farmers concerned.",
-  "why": "Lower rubber prices affect incomes of many rural families, potentially impacting local economies. Young people in agriculture‑related jobs should monitor market trends.",
-  "tags": [
-   "rubber",
-   "kerala",
-   "farmers",
-   "prices",
-   "agri"
-  ]
- },
- {
-  "id": "ca751081cb9a",
-  "created": "2026-11-24T08:24:54+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Mezha.net",
-  "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNU1SVGpES29TZThkRjBxRXBscFF0VndXa3FrQ3BVbGw1YnRXcFV6NUFGM0VoMXRBS192NE9tMkd2dVNWZFFHVnRBQXVGUDcxaU4ta0Fkd0ZuUHFpaWdKTXNUZkRiN2lJaWc4WFJEQUdBX184NldtbUxRdWY4cE4wbQ?oc=5",
-  "headline": "Motorola Edge 70 Neo launches with 7,000 mAh battery",
-  "hook": "A massive battery and smooth 144Hz screen hit Indian shelves.",
-  "what": "Motorola introduced the Edge 70 Neo in India on Nov 24, featuring a 7,000 mAh battery and a 144Hz display. The device comes in a dark green finish and offers up to 8 GB RAM, removing the 12 GB option.",
-  "why": "The larger battery means longer gaming or streaming sessions without charging, and the high‑refresh screen improves visual fluidity—useful for mobile gamers and content creators.",
-  "tags": [
-   "Motorola",
-   "Edge70Neo",
-   "TechLaunch",
-   "Gaming",
-   "India"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "17047432b77e",
+ "created": "2026-11-24T17:23:31+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/sonia-gandhi-recalls-pull-of-power-while-deciding-against-becoming-pm-in-2004/article71737616.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Sonia Gandhi warns of power’s tempting pull",
+  "hook": "She says holding power can create its own excuses.",
+  "what": "In a recent interview, Sonia Gandhi reflected on her 2004 decision not to become prime minister. She called it a lesson that gaining power may lead to justifying its retention.",
+  "why": "Seeing this perspective helps young voters understand how leaders view authority and the need for accountability.",
+  "tags": [
+   "politics",
+   "leadership",
+   "SoniaGandhi",
+   "power",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "സോണിയ ഗാൻധി ശക്തിയുടെ ആകർഷണം ചൂണ്ടിക്കാട്ടി",
+  "hook": "ശക്തി കൈവശം വെക്കുമ്പോൾ തന്നെ അതിന്റെ നിലനിർത്തലിന് കാരണങ്ങൾ കണ്ടെത്താൻ ഇടയാകും എന്ന് അവൾ പറയുന്നു.",
+  "what": "ഒരു അഭിമുഖത്തിൽ, 2004-ൽ പ്രധാനമന്ത്രിയായി മാറാൻ അവൾ തിരഞ്ഞെടുത്തില്ലെന്ന് സോണിയ ഗാൻധി വിശദീകരിച്ചു. ശക്തി ലഭിച്ചാൽ അതിനെ നിലനിർത്താനുള്ള കാരണങ്ങൾ കണ്ടെത്താൻ ആളുകൾ ശ്രമിക്കും എന്നൊരു പാഠം അവൾ പങ്കുവെച്ചു.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് നേതാക്കൾ അധികാരം എങ്ങനെ കാണുന്നു, ഉത്തരവാദിത്തം എത്ര പ്രധാനമാണെന്ന് മനസിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "നേതൃത്വം",
+   "ശക്തി",
+   "ഇന്ത്യ",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

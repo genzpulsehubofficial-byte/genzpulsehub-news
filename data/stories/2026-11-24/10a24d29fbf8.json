@@ -1,0 +1,37 @@
+{
+ "id": "10a24d29fbf8",
+ "created": "2026-11-24T17:23:33+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/bengal-announces-rs-2-000-monthly-allowance-for-unemployed-youth-who-is-eligible-know-key-details-11795519089252.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "West Bengal rolls out monthly cash for unemployed youth",
+  "hook": "Get up to ₹2,000 a month if you’re 21‑45 and job‑less",
+  "what": "The West Bengal government introduced the Bhorsha Karmasuchi scheme. Eligible residents aged 21 to 45 will receive a monthly allowance of either ₹1,500 or ₹2,000, based on their qualifications.",
+  "why": "It provides financial relief for young people looking for work and encourages them to check eligibility. Apply through the official portal to claim the benefit.",
+  "tags": [
+   "WestBengal",
+   "unemployment",
+   "youth",
+   "cashAllowance",
+   "jobs"
+  ]
+ },
+ "ml": {
+  "headline": "പശ്ചിമ ബംഗാളിൽ യുവ തൊഴിലില്ലാത്തവർക്കു മാസവേതനം",
+  "hook": "21‑45 വയസ്സുള്ളവർക്കു മാസം ₹2,000 വരെ ലഭിക്കും, യോഗ്യത പരിശോധിക്കുക",
+  "what": "പശ്ചിമ ബംഗാൾ സർക്കാർ ഭോർഷ കാർമസുചി പദ്ധതി ആരംഭിച്ചു. 21‑45 വയസ്സുള്ള തൊഴിലില്ലാത്തവർക്കു അവരുടെ യോഗ്യത അനുസരിച്ച് മാസം ₹1,500 അല്ലെങ്കിൽ ₹2,000 ലഭിക്കും.",
+  "why": "തൊഴിൽ അന്വേഷിക്കുന്ന യുവാക്കൾക്ക് സാമ്പത്തിക സഹായം നൽകുകയും, അവർക്കു തങ്ങളുടെ യോഗ്യത പരിശോധിച്ച് അപേക്ഷിക്കാൻ പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്നു.",
+  "tags": [
+   "പശ്ചിമബംഗാൾ",
+   "തൊഴിലില്ലായ്മ",
+   "യുവജന",
+   "മാസവേതനം",
+   "ജോലികൾ"
+  ]
+ }
+}
