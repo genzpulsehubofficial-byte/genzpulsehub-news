@@ -1,0 +1,37 @@
+{
+ "id": "35f75bb42e94",
+ "created": "2026-11-25T01:15:45+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic shares slip below IPO price on day four",
+  "hook": "AI startup’s stock slides under its debut price.",
+  "what": "Anthropic’s shares fell below the $83 IPO price on the fourth day of trading. This is the first time the stock traded under its initial offering price.",
+  "why": "The move highlights the volatility of AI‑related stocks, so young investors should watch market trends before buying.",
+  "tags": [
+   "AI",
+   "stocks",
+   "investing",
+   "tech",
+   "market"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic ഷെയറുകൾ നാലാം ദിവസത്തിൽ IPO വിലയ്ക്ക് താഴെ വീണു",
+  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ സ്റ്റോക്ക് ഡെബ്യൂ വിലയ്ക്ക് താഴെ ഇടിഞ്ഞു.",
+  "what": "Anthropic ന്റെ ഷെയറുകൾ നാലാം ട്രേഡിംഗ് ദിവസത്തിൽ $83 IPO വിലയ്ക്ക് താഴെ പോയി. ഇത് IPO വിലക്ക് താഴെ ആദ്യ ട്രേഡിംഗ് ആയിരുന്നു.",
+  "why": "AI സ്റ്റോക്കുകളുടെ ചാഞ്ചാട്ടം കാണിക്കുന്നതുകൊണ്ട്, യുവ നിക്ഷേപകർ വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "AI",
+   "സ്റ്റോക്ക്",
+   "നിക്ഷേപം",
+   "ടെക്",
+   "മാർക്കറ്റ്"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cb0d7372f9a0",
+ "created": "2026-11-25T01:15:59+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "UK alerts: AI hacks expose weak security foundations",
+  "hook": "AI tools are now hunting for simple security gaps.",
+  "what": "Britain’s cyber agency warned that AI‑driven hacking tools are exploiting basic security flaws. The agency says years of weak defenses are being revealed by these attacks.",
+  "why": "As AI hacking becomes common, anyone’s data can be at risk if basic security steps are ignored. Young users should keep their devices updated and use strong passwords.",
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "UK",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "UK‑ൽ അലർട്ട്: AI ഹാക്കുകൾ സുരക്ഷാ അടിസ്ഥാനങ്ങൾ ദുർബലമെന്ന് കാണിക്കുന്നു",
+  "hook": "AI ഉപകരണങ്ങൾ ലളിതമായ സുരക്ഷാ പിഴവുകൾ തേടുകയാണ്.",
+  "what": "ബ്രിട്ടന്റെ സൈബർ ഏജൻസി AI‑പ്രേരിത ഹാക്കിംഗ് ഉപകരണങ്ങൾ അടിസ്ഥാന സുരക്ഷാ ദുർബലതകൾ ഉപയോഗിക്കുന്നു എന്ന് മുന്നറിയിപ്പ് നൽകി. വർഷങ്ങളായി നിലനിന്ന ദുർബല പ്രതിരോധങ്ങൾ ഈ ആക്രമണങ്ങളിലൂടെ പുറത്ത് വരുന്നു.",
+  "why": "AI ഹാക്കിംഗ് സാധാരണമായതോടെ, അടിസ്ഥാന സുരക്ഷാ നടപടികൾ അവഗണിച്ചാൽ ഡാറ്റയ്ക്ക് അപകടം. യുവാക്കൾ അവരുടെ ഡിവൈസുകൾ അപ്ഡേറ്റ് ചെയ്യുകയും ശക്തമായ പാസ്‌വേഡുകൾ ഉപയോഗിക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "UK",
+   "tech"
+  ]
+ }
+}

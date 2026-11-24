@@ -1,5 +1,99 @@
 [
  {
+  "id": "35f75bb42e94",
+  "created": "2026-11-25T01:15:45+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
+  "headline": "Anthropic shares slip below IPO price on day four",
+  "hook": "AI startup’s stock slides under its debut price.",
+  "what": "Anthropic’s shares fell below the $83 IPO price on the fourth day of trading. This is the first time the stock traded under its initial offering price.",
+  "why": "The move highlights the volatility of AI‑related stocks, so young investors should watch market trends before buying.",
+  "tags": [
+   "AI",
+   "stocks",
+   "investing",
+   "tech",
+   "market"
+  ]
+ },
+ {
+  "id": "ed212b34f151",
+  "created": "2026-11-25T01:15:56+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "XBOX Wire",
+  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSY2ZGWnZ4U1NoQ2w3WmE4OURKNlZqWldJdEN3amFvZUxYTWFqTXd2OHpJMks0RWdHT1R2RE14S3F5c1NfNW9xclZqN3JwalJWbThsR19tTnNvczE3b0tRa2V4TE5qdWNwVjA4TFp4anowZ9IBd0FVX3lxTE1HMUZmaThzSDBrcXJ5ODZOaHFFX0xJbklxeHpCOUpLY3loTXZwTm1aWFBYbzl6R0ZSaFJrZTY3LWJETlN2ODdHM0pNNUotWHgyS0VuYUVHVWxYaEVFTEN4eEdvd1ppVnowTG5Xcl80ZXNNNHI0WVA4?oc=5",
+  "headline": "Nioh 3 Arrives on Xbox and Switch 2 in 2027",
+  "hook": "Your favorite samurai action game finally leaves PlayStation.",
+  "what": "The action RPG Nioh 3, previously a PlayStation 5 exclusive, will launch on Xbox consoles and Nintendo Switch 2 on 28 January 2027. The Complete Edition has already been rated in South Korea.",
+  "why": "Gamers can now play the title on multiple platforms, widening access. Watch for release updates and pre‑order options.",
+  "tags": [
+   "Nioh3",
+   "Xbox",
+   "Switch2",
+   "Gaming",
+   "2027"
+  ]
+ },
+ {
+  "id": "cb0d7372f9a0",
+  "created": "2026-11-25T01:15:59+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+  "headline": "UK alerts: AI hacks expose weak security foundations",
+  "hook": "AI tools are now hunting for simple security gaps.",
+  "what": "Britain’s cyber agency warned that AI‑driven hacking tools are exploiting basic security flaws. The agency says years of weak defenses are being revealed by these attacks.",
+  "why": "As AI hacking becomes common, anyone’s data can be at risk if basic security steps are ignored. Young users should keep their devices updated and use strong passwords.",
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "UK",
+   "tech"
+  ]
+ },
+ {
+  "id": "9c84f8a2b15c",
+  "created": "2026-11-25T01:16:02+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+  "headline": "Anthropic stock slides below IPO price, losing billions",
+  "hook": "AI startup’s shares dip, shaking the tech market.",
+  "what": "Anthropic’s shares fell about 8%, dropping under the $83 price set at its IPO. The decline puts the company on track to shed close to $200 billion in market value.",
+  "why": "The slide shows volatility in AI stocks, reminding young investors to watch market swings and consider risk before buying tech shares.",
+  "tags": [
+   "AI",
+   "stockmarket",
+   "investing",
+   "tech",
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "23576a03eefe",
+  "created": "2026-11-25T01:16:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5",
+  "headline": "Microsoft flags 'Code Red' after massive global outage",
+  "hook": "A worldwide glitch hit Microsoft services and triggered an internal emergency alert.",
+  "what": "Microsoft announced an internal ‘Code Red’ response after a historic outage that affected users globally. Internal memos point to testing gaps and security flaws linked to AI tools, and some emails failed to reach staff. The company’s leadership warned that critical infrastructure could be vulnerable.",
+  "why": "The outage shows how dependent we are on cloud services for school, gaming and work, so staying aware of backup options matters. Keep an eye on updates from service providers to avoid disruption.",
+  "tags": [
+   "Microsoft",
+   "outage",
+   "AIsecurity",
+   "technews",
+   "CodeRed"
+  ]
+ },
+ {
   "id": "754f867302b7",
   "created": "2026-11-25T00:05:51+05:30",
   "category": "tech",
@@ -659,99 +753,6 @@
    "youth",
    "cashAllowance",
    "jobs"
-  ]
- },
- {
-  "id": "30b2656f4841",
-  "created": "2026-11-24T17:23:38+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/jiostar-to-cut-150-jobs-to-control-costs/",
-  "headline": "JioStar plans to lay off 150 staff to cut costs",
-  "hook": "Big tech trims its media team – 150 jobs on the line.",
-  "what": "Jio’s media division JioStar is set to dismiss around 150 employees. The move is aimed at reducing operating expenses.",
-  "why": "The cut shows how even fast‑growing firms tighten budgets, which could affect internship and entry‑level opportunities in media. Keep an eye on job boards for other openings.",
-  "tags": [
-   "JioStar",
-   "jobcuts",
-   "media",
-   "costs",
-   "career"
-  ]
- },
- {
-  "id": "9ffcce4bd5e0",
-  "created": "2026-11-24T17:23:40+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/how-nvidia-stock-skyrocketing-31-will-change-risk-return-outlook-for-mutual-funds-experts-weigh-in-as-jensen-returns-11795509662267.html",
-  "headline": "Nvidia’s 31% Jump May Lift Mutual Fund NAVs",
-  "hook": "A sudden surge could bump up your fund’s value.",
-  "what": "Nvidia’s shares climbed 31% after CEO Jensen Huang returned. Indian mutual funds that own the chipmaker may see their net asset values rise, depending on their holdings. Experts warn against blindly chasing the rally.",
-  "why": "Young investors should balance the possible gain with the stock’s volatility before adding more exposure. Knowing a fund’s exposure helps avoid unexpected risk.",
-  "tags": [
-   "Nvidia",
-   "mutualfunds",
-   "stockmarket",
-   "investing"
-  ]
- },
- {
-  "id": "d791c2b42679",
-  "created": "2026-11-24T16:21:13+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/priyanka-gandhi-slapped-boy-who-called-her-uncle-sanjay-gandhi-a-chor-in-school-after-emergency-101795513629852.html",
-  "headline": "Priyanka Gandhi says she slapped boy who called Sanjay a thief",
-  "hook": "A family story reveals a school‑yard showdown over politics",
-  "what": "Priyanka Gandhi recalled hitting a classmate after he called her uncle Sanjay Gandhi a 'chor' (thief) during school days following the Emergency. She shared the memory while talking with her mother Sonia and brother Rahul.",
-  "why": "It shows how political legacies can affect personal interactions, reminding youths to think before using harsh words.",
-  "tags": [
-   "politics",
-   "history",
-   "Gandhi",
-   "India",
-   "youth"
-  ]
- },
- {
-  "id": "59b584691920",
-  "created": "2026-11-24T16:21:23+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/bangalore/bomb-threat-email-targets-diljit-dosanjhs-bengaluru-concert-north-cybercrime-police-register-fir/article71737622.ece",
-  "headline": "Bomb threat email sent against Diljit Dosanjh’s Bengaluru show",
-  "hook": "A scary email warned of a bomb at Diljit’s concert and a nearby metro.",
-  "what": "An email threatened an IED blast at Diljit Dosanjh’s concert in Bengaluru and at Madavara Metro Station. The North Cybercrime Police filed an FIR after receiving the threat, which ended with the slogan “Khalistan Zindabad”.",
-  "why": "Such threats raise safety concerns for large public events, so attendees should stay alert and follow official security instructions.",
-  "tags": [
-   "Diljit",
-   "Bengaluru",
-   "BombThreat",
-   "ConcertSafety"
-  ]
- },
- {
-  "id": "a3cd72eaa86c",
-  "created": "2026-11-24T16:21:24+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Week",
-  "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjFoLVdkLTFrVVNicG0wc2kwbTlQVTQ5RGRDMkZqbEJheUZiM2R5WmxrS3hZS1lNWmF1NGxCcGI3RE91Q0NYUHFQSmo4VUtRck9iSlpLVFhjTVhDQ2JjeTNzNy0ybG5vcUtIc3VNUy00U1FacWtHQ2JUbzlfVUpoUXpnd3o3dGdLYkRrbjNxVy1zNUM0WHUxX2xOT1dzbTlyODdrUm9zaUV0Q21VdlRZWlBrZGM4Vi1wRDBqamZzODIzakHSAcgBQVVfeXFMT2daY0FiOWd2dGRPUzdRN3AzWVkyQ1hhTlUtN1dIcndMTkJvZXVjWmZHVjRiZk56N2dpVjVFZE5PWVlsdDc0OXZqMm9KdEVVdzZ4VjVCbGNZbWtaRWl6c3pUVXh5SnhKRUFMdUVDOVdPX2MzbERNMndhNlZ5TktYUXhzc0F3bVFmMWVhdzU5LWN2TXlCS2phS0JrMzBSYVA2RGRkZm01WDlJR0c0QUtmYkpFNE54VlBQUmh1UmFhTHRUZjlsb3dPOXM?oc=5",
-  "headline": "IMD warns heavy rain in South, fog in North",
-  "hook": "Rainy days and foggy mornings ahead—plan your commute.",
-  "what": "The Indian Meteorological Department has issued a heavy‑rain alert for the southern states and warned of dense fog in northern regions. Residents are advised to stay updated on weather updates.",
-  "why": "Rain and fog can affect travel and outdoor plans, so check alerts before heading out.",
-  "tags": [
-   "weather",
-   "rain",
-   "fog",
-   "IMD",
-   "alert"
   ]
  }
 ]

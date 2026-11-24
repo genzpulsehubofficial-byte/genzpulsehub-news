@@ -1,0 +1,37 @@
+{
+ "id": "9c84f8a2b15c",
+ "created": "2026-11-25T01:16:02+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic stock slides below IPO price, losing billions",
+  "hook": "AI startup’s shares dip, shaking the tech market.",
+  "what": "Anthropic’s shares fell about 8%, dropping under the $83 price set at its IPO. The decline puts the company on track to shed close to $200 billion in market value.",
+  "why": "The slide shows volatility in AI stocks, reminding young investors to watch market swings and consider risk before buying tech shares.",
+  "tags": [
+   "AI",
+   "stockmarket",
+   "investing",
+   "tech",
+   "Anthropic"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic ഷെയർസ് IPO വിലയ്ക്ക് താഴെ, ബില്യൺ നഷ്ടം",
+  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ ഷെയർസ് ഇടിഞ്ഞു, ടെക് മാർക്കറ്റിൽ അലയാട്ടം.",
+  "what": "Anthropicയുടെ ഷെയർസ് ഏകദേശം 8% ഇടിഞ്ഞു, IPO‑യിൽ നിശ്ചയിച്ച $83 വിലക്കു താഴെയായി. ഈ വീഴ്ച കമ്പനി ഏകദേശം $200 ബില്യൺ മാർക്കറ്റ് മൂല്യം നഷ്ടപ്പെടാൻ കാരണമായി.",
+  "why": "AI സ്റ്റോക്കുകളുടെ അസ്ഥിരതയെ ഇത് കാണിക്കുന്നു, യുവ നിക്ഷേപകർ മാർക്കറ്റ് മാറ്റങ്ങൾ ശ്രദ്ധിച്ച്, ടെക് ഷെയറുകളിൽ നിക്ഷേപം ചെയ്യുമ്പോൾ അപകടം പരിഗണിക്കണം.",
+  "tags": [
+   "AI",
+   "സ്റ്റോക്ക്",
+   "നിക്ഷേപം",
+   "ടെക്",
+   "Anthropic"
+  ]
+ }
+}

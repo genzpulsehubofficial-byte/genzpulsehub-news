@@ -1,0 +1,37 @@
+{
+ "id": "23576a03eefe",
+ "created": "2026-11-25T01:16:03+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWlZRm9kdXdaMDkwUWdXZVZPM2NTakFfZTFDa3Iwcm5yNXh4enZZVWRpWjBuc2ZpVERzOElVc0h5NjY4eXZnb0w5YUZ4Wm1nRmUwd04xQmNKZDQxOFlQWk12N0FCd3hSQTVLVFFWZmJKbm01S0pCM1AwRXVRZklpdWJfdkJ1N0FDdS1EZGNqTzd4WjZoUy1qZ1QwNktXdUlMWlBDYW9jYlozNEVDV01DSGZlVVc?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Microsoft flags 'Code Red' after massive global outage",
+  "hook": "A worldwide glitch hit Microsoft services and triggered an internal emergency alert.",
+  "what": "Microsoft announced an internal ‘Code Red’ response after a historic outage that affected users globally. Internal memos point to testing gaps and security flaws linked to AI tools, and some emails failed to reach staff. The company’s leadership warned that critical infrastructure could be vulnerable.",
+  "why": "The outage shows how dependent we are on cloud services for school, gaming and work, so staying aware of backup options matters. Keep an eye on updates from service providers to avoid disruption.",
+  "tags": [
+   "Microsoft",
+   "outage",
+   "AIsecurity",
+   "technews",
+   "CodeRed"
+  ]
+ },
+ "ml": {
+  "headline": "Microsoft 'Code Red' പ്രഖ്യാപിച്ചു, ചരിത്രപരമായ ഔട്ടേജ്‌ക്ക് ശേഷം",
+  "hook": "വിസ്വവ്യാപകമായ ഗ്ലിച്ച് Microsoft സേവനങ്ങളെ ബാധിച്ചു, ആന്തരിക അടിയന്തിര അലർട്ട് സജീവമായി.",
+  "what": "Microsoft ഒരു ആന്തരിക ‘Code Red’ പ്രതികരണം ആരംഭിച്ചു, ലോകമെമ്പാടുമുള്ള ഉപയോക്താക്കളെ ബാധിച്ച ചരിത്രപരമായ ഔട്ടേജിന് ശേഷം. ആന്തരിക മെമോകൾ AI ഉപകരണങ്ങളുമായി ബന്ധപ്പെട്ട പരിശോധനാ കുറവുകളും സുരക്ഷാ പിഴവുകളും, ചില ഇമെയിലുകൾ സ്റ്റാഫിലേക്ക് എത്താതെ പോയതുമാണ് സൂചിപ്പിക്കുന്നത്. കമ്പനി നേതാക്കൾ പ്രധാന അടിസ്ഥാനസൗകര്യങ്ങളുടെ ദുര്‍ബലതയെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകി.",
+  "why": "പഠനം, ഗെയിമിംഗ്, ജോലി എന്നിവയ്ക്ക് ക്ലൗഡ് സേവനങ്ങൾ ഏറെ ആശ്രയിക്കുന്നതിനാൽ, ബാക്കപ്പ് ഓപ്ഷനുകൾക്കുറിച്ച് അറിവുണ്ടാകുന്നത് പ്രധാനമാണ്. സേവനദാതാക്കളുടെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിച്ച് തടസ്സങ്ങൾ ഒഴിവാക്കുക.",
+  "tags": [
+   "Microsoft",
+   "outage",
+   "AIസുരക്ഷ",
+   "ടെക്‌വാർത്ത",
+   "CodeRed"
+  ]
+ }
+}
