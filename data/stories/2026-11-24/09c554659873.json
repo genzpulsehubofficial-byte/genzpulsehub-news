@@ -1,0 +1,37 @@
+{
+ "id": "09c554659873",
+ "created": "2026-11-24T21:06:01+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ranbir Kapoor's 'Ramayana' hits ₹1,700 cr in 19 days",
+  "hook": "The epic just broke new box‑office records.",
+  "what": "The film crossed the ₹1,700 crore mark on its 19th day, with domestic earnings topping ₹1,000 crore and worldwide total exceeding ₹1,600 crore. It also became the top‑earning Indian movie overseas, excluding China, and outperformed 'Dhurandhar' in the US market.",
+  "why": "Such earnings show the strong pull of Indian mythological cinema among young audiences; fans can watch the movie in theatres with lower ticket prices now.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "RanbirKapoor",
+   "IndianCinema",
+   "Records"
+  ]
+ },
+ "ml": {
+  "headline": "റൺബീർ കപൂർ 'റാമായണം' 19 ദിവസംക്ക് ₹1,700 കോടി",
+  "hook": "ഈ മഹാകാവ്യം പുതിയ ബോക്സ് ഓഫീസ് മൈൽസ്റ്റോൺ തകർത്തു.",
+  "what": "19‑ാം ദിവസം വരെ സിനിമയുടെ സമാഹാരം ₹1,700 കോടി എത്തി, ആഭ്യന്തരത്തിൽ ₹1,000 കോടി കടന്ന്, ആഗോളമായി ₹1,600 കോടി കവിയുന്നു. ചൈന ഒഴികെ വിദേശത്തും ഇന്ത്യൻ ചിത്രങ്ങളിൽ ഏറ്റവും കൂടുതൽ വരുമാനം നേടി, യു‌എസ് മാർക്കറ്റിൽ 'ധുരന്ധർ'നെ മറികടന്നു.",
+  "why": "ഇത് യുവാക്കൾക്ക് ഇന്ത്യൻ കഥകളുടെ ആകർഷണം തെളിയിക്കുന്നു; ഇപ്പോൾ കുറവ് ടിക്കറ്റുകൾ കൊണ്ട് സിനിമ കാണാം.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "RanbirKapoor",
+   "IndianCinema",
+   "Records"
+  ]
+ }
+}

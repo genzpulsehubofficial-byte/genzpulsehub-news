@@ -1,0 +1,37 @@
+{
+ "id": "4efcd7b1199d",
+ "created": "2026-11-24T21:05:58+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "ESPN India",
+ "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnNBSkdCblNqTS1kdFFrQmQxYzhrMzMxSUF5V1pTenFhckRBOHRsZDRUaW5jbnpuY1o0RDJsbVBRWGYyMGFEQXk3Yzd6OW5ZSjFRV1VMZ3FHY2ExdHlTRS15WFV0dzBEN1dqWnV3X01pNHhhYmhOZWJ2NjBCLU1aSnpDVFBZQktYNXRLWm5HOVdqR21PTlROY3ZrMmhlWHltR0pNeUJ1bHhRblUwSG9Pa0FLNGw3bnkxaGlORWJucmU3X0x4ckY1RDlobXFqUEpyNUJIbA?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "IND-A faces UAE in Asia Cup Rising Stars clash",
+  "hook": "Catch the next big youth cricket showdown in Doha tonight!",
+  "what": "The 11th Group B match of the Asia Cup Rising Stars is set for Doha on Nov 24, 2026. India A will play the United Arab Emirates in a day‑night 50‑over game. The 12th Group B match is also scheduled at the same venue.",
+  "why": "It gives young cricketers a stage to shine and fans a glimpse of future stars. Follow live updates on ESPN or Cricinfo.",
+  "tags": [
+   "cricket",
+   "asia cup",
+   "rising stars",
+   "doha",
+   "indvuae"
+  ]
+ },
+ "ml": {
+  "headline": "IND‑A vs UAE: ഏഷ്യാ കപ്പ് റൈസിംഗ് സ്റ്റാർസ് മത്സരം",
+  "hook": "ഡോഹയിലെ രാത്രി കളി, യുവ ക്രിക്കറ്റ് ആരാധകർ ശ്രദ്ധിക്കുക!",
+  "what": "24 നവംബർ 2026-ന് ഡോഹയിൽ ഗ്രൂപ്പ് ബി-യുടെ 11‑ാം മത്സരം നടക്കും. ഇന്ത്യ A, യുഎഇ ടീമിനെതിരെ 50‑ഓവർ ഡേ‑നൈറ്റ് ഗെയിം കളിക്കും. അതേ ദിവസം 12‑ാം ഗ്രൂപ്പ് ബി മത്സരം കൂടി ഷെഡ്യൂൾ ചെയ്തിട്ടുണ്ട്.",
+  "why": "ഇത് യുവ ക്രിക്കറ്റർമാർക്ക് തങ്ങളുടെ കഴിവ് തെളിയിക്കാൻ അവസരമാണ്, ആരാധകർക്ക് ഭാവി താരങ്ങൾ കാണാൻ സാധിക്കും. ESPN, Cricinfo വഴി ലൈവ് സ്കോർ പിന്തുടരൂ.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "എഷ്യാകപ്പ്",
+   "റൈസിംഗ് സ്റ്റാർസ്",
+   "ഡോഹ",
+   "ഇന്ത്യUAE"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "788f82c758da",
+ "created": "2026-11-24T21:05:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/from-return-her-to-extradite-her-bangladeshs-shifting-sheikh-hasina-stance-12371603#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bangladesh calls Hasina's return claim a bluff",
+  "hook": "She announced a comeback, but officials say it's a lie.",
+  "what": "Sheikh Hasina said she will return. Bangladesh officials responded by calling the statement a bluff.",
+  "why": "Keeping up with nearby political news helps you stay aware of regional developments.",
+  "tags": [
+   "Bangladesh",
+   "Hasina",
+   "politics",
+   "India",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "ബംഗ്ലാദേശ് hasinaയുടെ മടങ്ങിവരവ് bluff എന്ന് വിളിച്ചു",
+  "hook": "അവൾ മടങ്ങി വരാൻ പറഞ്ഞപ്പോൾ, സർക്കാർ അത് കള്ളം എന്ന് പറഞ്ഞു.",
+  "what": "Sheikh Hasina മടങ്ങി വരാൻ പ്രഖ്യാപിച്ചു. ബംഗ്ലാദേശ് അധികാരികൾ അത് bluff എന്ന് വിളിച്ചു.",
+  "why": "പക്കപ്പുറത്തെ രാഷ്ട്രീയ വാർത്തകൾ അറിയുന്നത് പ്രദേശിക വികസനങ്ങളെക്കുറിച്ച് ജാഗ്രത നിലനിർത്താൻ സഹായിക്കും.",
+  "tags": [
+   "ബംഗ്ലാദേശ്",
+   "hasina",
+   "രാഷ്ട്രീയം",
+   "ഇന്ത്യ",
+   "വാർത്ത"
+  ]
+ }
+}

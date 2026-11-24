@@ -1,5 +1,100 @@
 [
  {
+  "id": "b44a4be1f4b4",
+  "created": "2026-11-24T21:05:44+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZQ?oc=5",
+  "headline": "Karthigai Deepam lit at Thirupparankundram despite SC ban",
+  "hook": "Traditional lamp ceremony sparks police clash and court orders",
+  "what": "During the Karthigai Deepam celebration, a lamp was lit at the historic Thirupparankundram site even though the Supreme Court had ordered it not to be. The High Court issued a John Doe order to stop calls for violating that order. Members of Hindu groups protested and clashed with police, while the Tamil Nadu BJP chief warned of deploying 10,000 officers.",
+  "why": "The incident shows how religious customs can clash with legal rulings, reminding young people to stay aware of civic issues and respect court decisions.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "courtorder",
+   "protest",
+   "India"
+  ]
+ },
+ {
+  "id": "788f82c758da",
+  "created": "2026-11-24T21:05:50+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/from-return-her-to-extradite-her-bangladeshs-shifting-sheikh-hasina-stance-12371603#publisher=newsstand",
+  "headline": "Bangladesh calls Hasina's return claim a bluff",
+  "hook": "She announced a comeback, but officials say it's a lie.",
+  "what": "Sheikh Hasina said she will return. Bangladesh officials responded by calling the statement a bluff.",
+  "why": "Keeping up with nearby political news helps you stay aware of regional developments.",
+  "tags": [
+   "Bangladesh",
+   "Hasina",
+   "politics",
+   "India",
+   "news"
+  ]
+ },
+ {
+  "id": "14678828ea47",
+  "created": "2026-11-24T21:05:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The 420.in",
+  "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qaXNlYlpUcll6TnU0eXMyNGdfblRZYUdyOU1Ha3pRQ1RpcEgxb0NMOUlwa0l0UzdZYVh3cFpqaUxueXhxTWwtcjBfNEctMmFTZkJJRHpOakg0YXVsVlg1YmM0U0dJUW1RM1NyaDZwc2FWeGEtRXM0?oc=5",
+  "headline": "Four nabbed in Surat UPI fraud of ₹9.02 lakh",
+  "hook": "A big UPI scam in Surat leads to four arrests.",
+  "what": "Police in Surat arrested four suspects accused of siphoning about ₹9.02 lakh through the UPI payment system. The alleged fraud involved unauthorized transfers using digital wallets.",
+  "why": "Young users should double‑check transaction details and protect UPI PINs to avoid similar scams.",
+  "tags": [
+   "Surat",
+   "UPI",
+   "fraud",
+   "cybercrime",
+   "teensafety"
+  ]
+ },
+ {
+  "id": "4efcd7b1199d",
+  "created": "2026-11-24T21:05:58+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "ESPN India",
+  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNnNBSkdCblNqTS1kdFFrQmQxYzhrMzMxSUF5V1pTenFhckRBOHRsZDRUaW5jbnpuY1o0RDJsbVBRWGYyMGFEQXk3Yzd6OW5ZSjFRV1VMZ3FHY2ExdHlTRS15WFV0dzBEN1dqWnV3X01pNHhhYmhOZWJ2NjBCLU1aSnpDVFBZQktYNXRLWm5HOVdqR21PTlROY3ZrMmhlWHltR0pNeUJ1bHhRblUwSG9Pa0FLNGw3bnkxaGlORWJucmU3X0x4ckY1RDlobXFqUEpyNUJIbA?oc=5",
+  "headline": "IND-A faces UAE in Asia Cup Rising Stars clash",
+  "hook": "Catch the next big youth cricket showdown in Doha tonight!",
+  "what": "The 11th Group B match of the Asia Cup Rising Stars is set for Doha on Nov 24, 2026. India A will play the United Arab Emirates in a day‑night 50‑over game. The 12th Group B match is also scheduled at the same venue.",
+  "why": "It gives young cricketers a stage to shine and fans a glimpse of future stars. Follow live updates on ESPN or Cricinfo.",
+  "tags": [
+   "cricket",
+   "asia cup",
+   "rising stars",
+   "doha",
+   "indvuae"
+  ]
+ },
+ {
+  "id": "09c554659873",
+  "created": "2026-11-24T21:06:01+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdktEcVl0RE5JbU04TlFvTFlwaFVQSzZTVDE2U2oxaVN1bnZueGFLNnRZcERVczM0QnJQdmw1OXpUSmx3bzFSdlZsZmxmemtmVlR1Y0o3dzZBUDZRY0FEb0ZnUWp2cjRfaHJya3k2dDN2YzZKckJiRUlGZ1o5c3JSa0wtMHRhR0F3Y2Q3YmJaaU9WcE0yZlIyZktqdVlXWjNIUTJsT1BvTi1hUjBucWR1NHg3M0F4NWxjVUhJbzFPbU94TzFXbGd0ODVLX05jRDRBdERaMDRTeDhKQdIB4AFBVV95cUxQUVh3X0cwMnM5eE1SSDFSTHJDZldXS3BuTHoxS3dCd1B6TUtaYXdsYnVQRy1ZeGNsOHhkTzRYVjdGdVNjQ1F2VGRYY05pZWZ3bTF4OUl1S21CN05xU0lzQXJRdEhWV2M2b21oUVFrMUUyazFqSUZ5OFY4RXFYVk1sYjVoM2dRZFBYQ0tEa0dMbW8yRkRCYXZhRDl0SkRTYWxpUk94WXlvbjhjbEVQMVhkRzM2U3Y5RUxZM2hEVzNKVHFMVTZETW1KRmxuVzZqVFFyQXl2eW1mT0NpRWRFQVYyYg?oc=5",
+  "headline": "Ranbir Kapoor's 'Ramayana' hits ₹1,700 cr in 19 days",
+  "hook": "The epic just broke new box‑office records.",
+  "what": "The film crossed the ₹1,700 crore mark on its 19th day, with domestic earnings topping ₹1,000 crore and worldwide total exceeding ₹1,600 crore. It also became the top‑earning Indian movie overseas, excluding China, and outperformed 'Dhurandhar' in the US market.",
+  "why": "Such earnings show the strong pull of Indian mythological cinema among young audiences; fans can watch the movie in theatres with lower ticket prices now.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "RanbirKapoor",
+   "IndianCinema",
+   "Records"
+  ]
+ },
+ {
   "id": "f2133ca073bd",
   "created": "2026-11-24T19:58:15+05:30",
   "category": "trending",
@@ -655,100 +750,6 @@
    "Assam",
    "T20",
    "SyedMushtaqAli"
-  ]
- },
- {
-  "id": "1de77559eb71",
-  "created": "2026-11-24T12:42:44+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Hyderabad Mail",
-  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNE1KZWtkcmRJVHloejBmOHl3UlBVRVNWeklqOFgwRXB6NER4Mlh1QXN4SlZnTTF0Q3FVWXFEdldQSmtya0U5aWxtWkFxZDdzMjNxdFhYMHBGdW82UFdHS2pxQVpmWlU2R3dfanYyLXJaQU9GUnY0Y3R5azVHNVd0REVCYndUYi1LVWprSS1NZXk?oc=5",
-  "headline": "Hyderabad tops India in white‑collar hiring for 2026",
-  "hook": "Your next office job could be in Hyderabad",
-  "what": "Hyderabad has emerged as the leading Indian city for white‑collar recruitment in 2026. The city outpaced all other metros in hiring for professional roles.",
-  "why": "It signals a strong job market for graduates and young professionals; consider exploring opportunities there.",
-  "tags": [
-   "Hyderabad",
-   "jobs",
-   "career",
-   "whitecollar",
-   "2026"
-  ]
- },
- {
-  "id": "645f9a8829eb",
-  "created": "2026-11-24T12:42:46+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-must-submit-annual-life-certificate-by-30-november-know-six-ways-to-complete-process-11795488647770.html",
-  "headline": "Govt sets Nov 30 deadline for pensioners’ life certificate",
-  "hook": "Your pension could stop if you miss this deadline",
-  "what": "The central government has told all pensioners to file an Annual Life Certificate by 30 November to keep receiving payments. Six filing options are available, such as visiting a bank, using the Jeevan Pramaan digital portal, and other methods.",
-  "why": "Missing the cut‑off may halt pension payouts, affecting families that depend on the income. Make sure elders submit the certificate through any of the listed channels before the deadline.",
-  "tags": [
-   "pension",
-   "deadline",
-   "government",
-   "finance",
-   "JeevanPramaan"
-  ]
- },
- {
-  "id": "b18c06b66234",
-  "created": "2026-11-24T11:29:03+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/tremors-felt-in-north-bengal-sikkim-as-5-3-magnitude-earthquake-jolts-nepal-101795495156370.html",
-  "headline": "5.3 quake in Nepal shakes North Bengal, Sikkim, Bihar",
-  "hook": "Feel the tremor? A Nepal quake rattles nearby Indian states.",
-  "what": "A magnitude 5.3 earthquake struck Nepal, causing tremors across the border. The shaking was reported in North Bengal, Sikkim and several districts of Bihar such as Purnea and Katihar.",
-  "why": "Such tremors can affect safety and infrastructure, so stay alert for official updates and follow any safety guidelines.",
-  "tags": [
-   "earthquake",
-   "nepal",
-   "bengal",
-   "bihar",
-   "sikkim"
-  ]
- },
- {
-  "id": "d09f4a331627",
-  "created": "2026-11-24T11:29:08+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/4-children-killed-32-injured-as-truck-rams-stationary-school-bus-in-ups-kannauj-12368958#publisher=newsstand",
-  "headline": "Truck crashes into school bus in UP, 4 dead, 32 hurt",
-  "hook": "A speeding truck hit a school bus, leaving dozens injured.",
-  "what": "A truck traveling at high speed collided with a school bus in Uttar Pradesh. The crash killed four students and injured 32 others. The injured were rushed to a medical college by ambulance.",
-  "why": "The accident underscores road safety risks for students commuting to school. Teens should stay alert and follow safety guidelines while traveling.",
-  "tags": [
-   "UP accident",
-   "school safety",
-   "road safety",
-   "students"
-  ]
- },
- {
-  "id": "c6276d7a373b",
-  "created": "2026-11-24T11:29:10+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Dynamite News",
-  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0NGMWMxYUwwR09reFZDSHZ5T2pkNkJaNTNXTjhQdmJsY0xFNHZUNzlxaTlDNkp0S3B5LXpqekQ5OEVEeXVEeXpEWTdETDlMcl95b1cxZl9zblB6NXFSdDhzRGl5cGNaT3hhaDBYdVVkbmJ1d2tzUnhqVGNZWDNMa2lQV3psQURHaktVZl8weHRVcGVXenZCVUcxSVdjT21jc1VwbmNPLUZTb0h2a3lvN1czTzl1WTNNV0RPUUViYUQ5WHhNbVZxedIBzgFBVV95cUxNeUNENlF3bmhiNlNuY1VsNnVINWZISV9uOUtTZlJjT1JGMGljdjVNS1pxX0VDeUR0VUNRUnlQcWZGcnZ1azhlVnR3Sm92OHF1RldUS2g5MXRmWk02MGZVRklJU2dIalFEdXpBVGZFbWhXanlYdVFEdElSWTJ6UUNQdU44Zk5zcXU3alJkVVNpS3hDV0FlNFBUQWxEYXlNa0tIeEJMeHR6NlRvTVliMnk3amZiUXY2cS1wYVFVaGRleHY2MnRsSmRtM2d6U3RlZw?oc=5",
-  "headline": "RBI to launch one‑click “Stop Switch” for bank accounts",
-  "hook": "A single tap could freeze your account if fraud strikes.",
-  "what": "The Reserve Bank of India is working on a feature called “Stop Switch”. It will let users block their bank accounts with one click to curb cyber fraud. Details are still being finalised.",
-  "why": "Young users who rely on digital banking can protect their money instantly. Keep an eye on your bank’s app for the upcoming option.",
-  "tags": [
-   "RBI",
-   "cybersecurity",
-   "banking",
-   "fraud",
-   "digital"
   ]
  }
 ]

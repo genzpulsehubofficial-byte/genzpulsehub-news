@@ -1,0 +1,37 @@
+{
+ "id": "b44a4be1f4b4",
+ "created": "2026-11-24T21:05:44+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOFZmN21oMDJtdUI3YkJWX0hPUU1zNVZjTnphbHhuWHpWTW9pcV9qZTg3ZjdjYURJM0JVLXExQ21vc1hYMWNIV1VNNHdjalpibXRsVkdFMlBuTWdaYnRQMmJVMjdfYnlLVTRqdFdrdjNpN0tjY1ZpeVd6aUhTdWRGcWh2MVpQVlQ2Y2VFVXI1REpON1BCUmdpUlBCRDhhYUNraFJkM1RmaXNoMnFPMTA2WVFBaHQ0RWJ0d3NFU3BncUpmX01wTGNiZFFCSVVfODJKVTlMcENyRWppUG16SWlwZQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Karthigai Deepam lit at Thirupparankundram despite SC ban",
+  "hook": "Traditional lamp ceremony sparks police clash and court orders",
+  "what": "During the Karthigai Deepam celebration, a lamp was lit at the historic Thirupparankundram site even though the Supreme Court had ordered it not to be. The High Court issued a John Doe order to stop calls for violating that order. Members of Hindu groups protested and clashed with police, while the Tamil Nadu BJP chief warned of deploying 10,000 officers.",
+  "why": "The incident shows how religious customs can clash with legal rulings, reminding young people to stay aware of civic issues and respect court decisions.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "courtorder",
+   "protest",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "SC നിരോധനത്തിലും തിറുപ്പറങ്കുന്ദ്രത്തിൽ കാർത്തികൈ ദീപം തെളിച്ചു",
+  "hook": "പരമ്പരാഗത ദീപവത്സരം പോലീസ് സംഘർഷവും കോടതിയുടെ നിർദ്ദേശങ്ങളും സൃഷ്ടിച്ചു",
+  "what": "കാർത്തികൈ ദീപം ആഘോഷം നടക്കുമ്പോൾ, സുപ്രീം കോടതി നിരോധിച്ചിരുന്നിട്ടും തിറുപ്പറങ്കുന്ദ്രത്തിലെ പരമ്പരാഗത സ്ഥലത്ത് ദീപം തെളിയിച്ചു. ഹൈക്കോടതി ജോൺ ഡോ ഓർഡർ പുറപ്പെടുവിച്ച് അതിന്റെ ലംഘനം പ്രോത്സാഹിപ്പിക്കുന്നവരെ തടയാൻ നിർദ്ദേശിച്ചു. ഹിന്ദു സംഘടനകളുടെ അംഗങ്ങൾ പോലീസുമായി കൂട്ടിയിടി നടത്തി, തമിഴ്നാട് ബി.ജെ.പി. ചീഫ് 10,000 പോലീസ് വിന്യസിക്കാൻ മുന്നറിയിപ്പ് നൽകി.",
+  "why": "ഇത് മതപരമ്പരയും നിയമം തമ്മിലുള്ള സംഘർഷം കാണിക്കുന്നു, യുവാക്കൾക്ക് നിയമപ്രക്രിയകളെ മനസ്സിലാക്കാൻ സഹായിക്കും.",
+  "tags": [
+   "KarthigaiDeepam",
+   "Thirupparankundram",
+   "courtorder",
+   "protest",
+   "India"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "14678828ea47",
+ "created": "2026-11-24T21:05:52+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The 420.in",
+ "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qaXNlYlpUcll6TnU0eXMyNGdfblRZYUdyOU1Ha3pRQ1RpcEgxb0NMOUlwa0l0UzdZYVh3cFpqaUxueXhxTWwtcjBfNEctMmFTZkJJRHpOakg0YXVsVlg1YmM0U0dJUW1RM1NyaDZwc2FWeGEtRXM0?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Four nabbed in Surat UPI fraud of ₹9.02 lakh",
+  "hook": "A big UPI scam in Surat leads to four arrests.",
+  "what": "Police in Surat arrested four suspects accused of siphoning about ₹9.02 lakh through the UPI payment system. The alleged fraud involved unauthorized transfers using digital wallets.",
+  "why": "Young users should double‑check transaction details and protect UPI PINs to avoid similar scams.",
+  "tags": [
+   "Surat",
+   "UPI",
+   "fraud",
+   "cybercrime",
+   "teensafety"
+  ]
+ },
+ "ml": {
+  "headline": "സൂരത്ത്‌ UPI തട്ടവില്‍ നാല് പിടികൂടി, ₹9.02 ലക്ഷം",
+  "hook": "സൂരത്ത്‌ വലിയ UPI തട്ടവില്‍ നാല് ആളുകള്‍ക്ക് അറസ്റ്റു.",
+  "what": "സൂരത്ത്‌ പോലീസ് UPI പേയ്മെന്റ് സിസ്റ്റം വഴി ഏകദേശം ₹9.02 ലക്ഷം തട്ടിയെന്ന് ആരോപിച്ച് നാല് സംശയിതരെ അറസ്റ്റു ചെയ്തു. ഈ തട്ടവില്‍ ഡിജിറ്റല്‍ വാലറ്റുകള്‍ ഉപയോഗിച്ച് അനധികൃത ട്രാന്‍സ്ഫറുകള്‍ ഉള്‍പ്പെടുന്നു.",
+  "why": "യുവജനങ്ങള്‍ ട്രാന്‍സാക്ഷന്‍ വിശദാംശങ്ങള്‍ ശ്രദ്ധിച്ച്, UPI പി‌എന്‍ സുരക്ഷിതമാക്കണം, ഇത്തരത്തിലുള്ള തട്ടവുകള്‍ ഒഴിവാക്കാന്‍.",
+  "tags": [
+   "Surat",
+   "UPI",
+   "തട്ടവു",
+   "സൈബർക്രൈം",
+   "സുരക്ഷ"
+  ]
+ }
+}
