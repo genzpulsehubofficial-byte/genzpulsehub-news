@@ -1,5 +1,99 @@
 [
  {
+  "id": "f9d7df9192af",
+  "created": "2026-11-24T12:42:36+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-jensen-huang-ceo-news-the-directors-who-put-jensen-huang-back-in-charge-of-nvidia-12369375#publisher=newsstand",
+  "headline": "Nvidia Board Restores Jensen Huang as CEO",
+  "hook": "The quiet board finally put the founder back at the helm.",
+  "what": "Nvidia’s board, long out of the spotlight, voted to put Jensen Huang back in charge of the company. The chipmaker has become a global powerhouse in graphics and AI hardware.",
+  "why": "Leadership shifts at a major tech firm can influence the devices and AI tools teens use. Keep an eye on Nvidia’s product updates.",
+  "tags": [
+   "Nvidia",
+   "TechLeadership",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "3a42eaadc7be",
+  "created": "2026-11-24T12:42:39+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/sheikh-hasina-is-terrorist-can-only-return-in-handcuffs-bangladesh-on-ex-pms-homecoming-call-12369327#publisher=newsstand",
+  "headline": "Bangladesh Says Hasina Can Return Only in Handcuffs",
+  "hook": "Ex‑PM Sheikh Hasina faces a stark demand as she seeks to come back.",
+  "what": "Former Prime Minister Sheikh Hasina asked the Bangladeshi government to organise her return. A statement labeled her a terrorist and said she could only come back in handcuffs.",
+  "why": "The comment highlights rising political tension in the region, which could affect travel and news for young Indians. Stay updated on cross‑border developments.",
+  "tags": [
+   "Bangladesh",
+   "SheikhHasina",
+   "politics",
+   "homecoming",
+   "regional"
+  ]
+ },
+ {
+  "id": "9c10f793addc",
+  "created": "2026-11-24T12:42:42+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
+  "headline": "Kerala vs Assam T20 clash on Nov 24",
+  "hook": "Catch the action live as Kerala takes on Assam!",
+  "what": "Kerala and Assam will meet in the Syed Mushtaq Ali Trophy on 24 November 2026. Live streaming and real‑time scorecards are available on Sportsdunia and other platforms.",
+  "why": "Young fans can follow the game online and support their state team. Stay updated for scores and highlights.",
+  "tags": [
+   "cricket",
+   "Kerala",
+   "Assam",
+   "T20",
+   "SyedMushtaqAli"
+  ]
+ },
+ {
+  "id": "1de77559eb71",
+  "created": "2026-11-24T12:42:44+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Hyderabad Mail",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNE1KZWtkcmRJVHloejBmOHl3UlBVRVNWeklqOFgwRXB6NER4Mlh1QXN4SlZnTTF0Q3FVWXFEdldQSmtya0U5aWxtWkFxZDdzMjNxdFhYMHBGdW82UFdHS2pxQVpmWlU2R3dfanYyLXJaQU9GUnY0Y3R5azVHNVd0REVCYndUYi1LVWprSS1NZXk?oc=5",
+  "headline": "Hyderabad tops India in white‑collar hiring for 2026",
+  "hook": "Your next office job could be in Hyderabad",
+  "what": "Hyderabad has emerged as the leading Indian city for white‑collar recruitment in 2026. The city outpaced all other metros in hiring for professional roles.",
+  "why": "It signals a strong job market for graduates and young professionals; consider exploring opportunities there.",
+  "tags": [
+   "Hyderabad",
+   "jobs",
+   "career",
+   "whitecollar",
+   "2026"
+  ]
+ },
+ {
+  "id": "645f9a8829eb",
+  "created": "2026-11-24T12:42:46+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-must-submit-annual-life-certificate-by-30-november-know-six-ways-to-complete-process-11795488647770.html",
+  "headline": "Govt sets Nov 30 deadline for pensioners’ life certificate",
+  "hook": "Your pension could stop if you miss this deadline",
+  "what": "The central government has told all pensioners to file an Annual Life Certificate by 30 November to keep receiving payments. Six filing options are available, such as visiting a bank, using the Jeevan Pramaan digital portal, and other methods.",
+  "why": "Missing the cut‑off may halt pension payouts, affecting families that depend on the income. Make sure elders submit the certificate through any of the listed channels before the deadline.",
+  "tags": [
+   "pension",
+   "deadline",
+   "government",
+   "finance",
+   "JeevanPramaan"
+  ]
+ },
+ {
   "id": "b18c06b66234",
   "created": "2026-11-24T11:29:03+05:30",
   "category": "headlines",
@@ -657,99 +751,6 @@
    "cars",
    "Hagerty",
    "ViceCity"
-  ]
- },
- {
-  "id": "1f165a47af18",
-  "created": "2026-11-24T05:04:05+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-  "headline": "Figma employee files lawsuit over harassment claims",
-  "hook": "A staff member says the design platform forced her to face harassers.",
-  "what": "A current employee has sued Figma and its CEO, alleging sexual harassment and discrimination. The complaint says the company required her to confront the alleged harassers.",
-  "why": "It raises concerns about workplace safety in tech firms, urging young professionals to know their rights and seek help if needed.",
-  "tags": [
-   "Figma",
-   "lawsuit",
-   "harassment",
-   "tech",
-   "workplace"
-  ]
- },
- {
-  "id": "41db1aa58dcf",
-  "created": "2026-11-24T05:04:07+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
-  "headline": "North Korea threatens to shut Swiss diplomatic office",
-  "hook": "A senior official warns the newly opened Swiss mission may be closed.",
-  "what": "North Korea's powerful sister of the supreme leader said the Swiss diplomatic office could be closed. The warning came just weeks after Switzerland opened the office.",
-  "why": "It highlights how quickly diplomatic ties can change, which may affect travel and business links. Stay updated on international news for any advisories.",
-  "tags": [
-   "NorthKorea",
-   "Switzerland",
-   "Diplomacy"
-  ]
- },
- {
-  "id": "7544cf472c1a",
-  "created": "2026-11-24T05:04:10+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Nature",
-  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04V3dJSkZZN3pfdjNEOG9EMkl1TGtReHNLaXVqRm5wdWlWcTVnVGVjVk9CQkZSZEN3TFRNS0txNGp2UWJIMXFwZGRuNmFaZXFuT1NRMVBDVFhZUmpVZG0w?oc=5",
-  "headline": "PET scans guide radiotherapy for bulky DLBCL",
-  "hook": "New study checks if PET can decide extra radiation for big lymphomas",
-  "what": "A recent study evaluated consolidation radiotherapy for patients with bulky diffuse large B‑cell lymphoma. The decision to give radiotherapy was based on response assessment using PET imaging.",
-  "why": "Knowing when radiotherapy is needed can improve outcomes and avoid unnecessary side effects, relevant for anyone facing this cancer.",
-  "tags": [
-   "DLBCL",
-   "radiotherapy",
-   "PET",
-   "cancer",
-   "treatment"
-  ]
- },
- {
-  "id": "ada2460a24f6",
-  "created": "2026-11-24T04:04:27+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-  "headline": "Jensen Huang returns to Nvidia, Musk says error fixed",
-  "hook": "The Nvidia chief is back and even Elon Musk is celebrating.",
-  "what": "Jensen Huang has been reinstated at Nvidia after a recent scandal. Elon Musk posted that the mistake has been corrected. Others also expressed relief.",
-  "why": "The move shows how quickly major tech firms can resolve leadership issues, which can affect product releases and job opportunities for young tech enthusiasts.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "ElonMusk",
-   "TechNews",
-   "Scandal"
-  ]
- },
- {
-  "id": "27065c561fbc",
-  "created": "2026-11-24T04:04:31+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-  "headline": "Anthropic rolls out Claude Ship for AI code approvals",
-  "hook": "Your next code review could be done by a bot.",
-  "what": "Anthropic introduced a tool named Claude Ship that lets AI agents examine, correct, and sign off on code changes. The feature is designed to speed up the review process as more code is generated by AI.",
-  "why": "For young developers, this could cut down waiting time on projects and free up time for learning new skills. Keep an eye on such tools to stay efficient.",
-  "tags": [
-   "AI",
-   "coding",
-   "devtools",
-   "automation",
-   "tech"
   ]
  }
 ]

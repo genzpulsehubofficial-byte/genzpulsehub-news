@@ -1,0 +1,37 @@
+{
+ "id": "3a42eaadc7be",
+ "created": "2026-11-24T12:42:39+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/sheikh-hasina-is-terrorist-can-only-return-in-handcuffs-bangladesh-on-ex-pms-homecoming-call-12369327#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Bangladesh Says Hasina Can Return Only in Handcuffs",
+  "hook": "Ex‑PM Sheikh Hasina faces a stark demand as she seeks to come back.",
+  "what": "Former Prime Minister Sheikh Hasina asked the Bangladeshi government to organise her return. A statement labeled her a terrorist and said she could only come back in handcuffs.",
+  "why": "The comment highlights rising political tension in the region, which could affect travel and news for young Indians. Stay updated on cross‑border developments.",
+  "tags": [
+   "Bangladesh",
+   "SheikhHasina",
+   "politics",
+   "homecoming",
+   "regional"
+  ]
+ },
+ "ml": {
+  "headline": "ബംഗ്ലാദേശ് പറയുന്നു ഹസീനാ കൈക്കെട്ടിൽ മാത്രം മടങ്ങി വരാം",
+  "hook": "മുൻ പ്രധാനമന്ത്രിയായ ഷെഖ് ഹസീനയ്ക്ക് തിരിച്ചു വരാനുള്ള കടുത്ത ആവശ്യമാണ് നേരിടുന്നത്.",
+  "what": "മുൻ പ്രധാനമന്ത്രിയായ ഷെഖ് ഹസീനാ ബംഗ്ലാദേശ് സർക്കാർ അവളുടെ മടങ്ങിവരവ് ക്രമീകരിക്കാൻ അപേക്ഷിച്ചു. ഒരു പ്രസ്താവന അവളെ ഭീകരന്‍ എന്ന് വിളിച്ച്, കൈക്കെട്ടിൽ മാത്രം മടങ്ങി വരാൻ കഴിയുമെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് പ്രദേശിക രാഷ്ട്രീയ തണുപ്പ് വർദ്ധിപ്പിക്കുന്നു, ഇത് ഇന്ത്യയിലെ യുവജനങ്ങളുടെ യാത്രയും വാർത്തകളും ബാധിക്കാം. പ്രദേശിക സംഭവവികാസങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "tags": [
+   "ബംഗ്ലാദേശ്",
+   "ഷെഖ്ഹസീന",
+   "രാഷ്ട്രീയം",
+   "മടങ്ങിവരവ്",
+   "പ്രദേശിക"
+  ]
+ }
+}

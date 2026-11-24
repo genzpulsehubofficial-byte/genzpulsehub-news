@@ -1,0 +1,37 @@
+{
+ "id": "9c10f793addc",
+ "created": "2026-11-24T12:42:42+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricket World",
+ "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala vs Assam T20 clash on Nov 24",
+  "hook": "Catch the action live as Kerala takes on Assam!",
+  "what": "Kerala and Assam will meet in the Syed Mushtaq Ali Trophy on 24 November 2026. Live streaming and real‑time scorecards are available on Sportsdunia and other platforms.",
+  "why": "Young fans can follow the game online and support their state team. Stay updated for scores and highlights.",
+  "tags": [
+   "cricket",
+   "Kerala",
+   "Assam",
+   "T20",
+   "SyedMushtaqAli"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം vs അസം T20 മത്സരം 24 നവം",
+  "hook": "കേരളം അസം നേരിടുന്ന തത്സമയ ആക്ഷൻ കാണൂ!",
+  "what": "2026 നവംബർ 24-ന് കേരളവും അസവും സൈദ് മുസ്താക് അലി ട്രോഫിയിൽ भिड़ेंगे. സ്പോർട്സ്‌ദുനിയയിൽ ലൈവ് സ്ട്രീമിംഗ്, സ്കോർകാർഡ് ലഭ്യമാണ്.",
+  "why": "യുവജനങ്ങൾ ഓൺലൈനിൽ ഗെയിം പിന്തുടർന്ന് സ്വന്തം സംസ്ഥാനത്തെ പിന്തുണക്കാം. സ്കോർ, ഹൈലൈറ്റുകൾക്കായി അപ്ഡേറ്റ് ആയിരിക്കുക.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "കേരളം",
+   "അസം",
+   "T20",
+   "SyedMushtaqAli"
+  ]
+ }
+}

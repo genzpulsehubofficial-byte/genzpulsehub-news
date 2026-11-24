@@ -1,0 +1,37 @@
+{
+ "id": "1de77559eb71",
+ "created": "2026-11-24T12:42:44+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Hyderabad Mail",
+ "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNE1KZWtkcmRJVHloejBmOHl3UlBVRVNWeklqOFgwRXB6NER4Mlh1QXN4SlZnTTF0Q3FVWXFEdldQSmtya0U5aWxtWkFxZDdzMjNxdFhYMHBGdW82UFdHS2pxQVpmWlU2R3dfanYyLXJaQU9GUnY0Y3R5azVHNVd0REVCYndUYi1LVWprSS1NZXk?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Hyderabad tops India in white‑collar hiring for 2026",
+  "hook": "Your next office job could be in Hyderabad",
+  "what": "Hyderabad has emerged as the leading Indian city for white‑collar recruitment in 2026. The city outpaced all other metros in hiring for professional roles.",
+  "why": "It signals a strong job market for graduates and young professionals; consider exploring opportunities there.",
+  "tags": [
+   "Hyderabad",
+   "jobs",
+   "career",
+   "whitecollar",
+   "2026"
+  ]
+ },
+ "ml": {
+  "headline": "Hyderabad 2026‑ൽ വൈറ്റ്‑കോളർ നിയമനത്തിൽ ഇന്ത്യയിൽ മുന്നിൽ",
+  "hook": "നിങ്ങളുടെ അടുത്ത ഓഫീസ് ജോലി ഹൈദരാബാദിൽ ആയേക്കാം",
+  "what": "2026‑ൽ ഹൈദരാബാദ് ഇന്ത്യയിലെ ഏറ്റവും കൂടുതൽ വൈറ്റ്‑കോളർ ജോലി നൽകുന്ന നഗരം ആയി ഉയർന്നു. മറ്റ് എല്ലാ മെട്രോ നഗരങ്ങളെയും മറികടന്ന് പ്രൊഫഷണൽ സ്ഥാനങ്ങൾ നിറവേറ്റി.",
+  "why": "പുതുമുഖങ്ങളും യുവ പ്രൊഫഷണലുകളും için മികച്ച തൊഴിൽ അവസരങ്ങൾ സൂചിപ്പിക്കുന്നു; അതിനാൽ അവസരങ്ങൾ പരിശോധിക്കുക.",
+  "tags": [
+   "Hyderabad",
+   "jobs",
+   "career",
+   "whitecollar",
+   "2026"
+  ]
+ }
+}

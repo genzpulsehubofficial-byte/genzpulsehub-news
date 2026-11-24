@@ -1,5 +1,99 @@
 [
  {
+  "id": "f9d7df9192af",
+  "created": "2026-11-24T12:42:36+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-jensen-huang-ceo-news-the-directors-who-put-jensen-huang-back-in-charge-of-nvidia-12369375#publisher=newsstand",
+  "headline": "Nvidia ബോര്‍ഡ് ജെന്‍സന്‍ ഹുവാങിനെ CEO ആയി തിരിച്ചു",
+  "hook": "നീണ്ടകാലം പിന്നില്‍ നിന്നിരുന്ന ബോര്‍ഡ്, സ്ഥാപകനെ വീണ്ടും നയിക്കാന്‍ തിരിച്ചു.",
+  "what": "Nvidiaയുടെ ബോര്‍ഡ്, മുമ്പ് കുറച്ച് ശ്രദ്ധയില്‍ വന്നിരുന്നവ, ജെന്‍സന്‍ ഹുവാങിനെ വീണ്ടും കമ്പനി നയിക്കാന്‍ തിരഞ്ഞെടുത്തു. ഈ ചിപ്പ് നിര്‍മ്മാതാവ് ലോകമെമ്പാടും ഗ്രാഫിക്സ്, AI ഹാര്‍ഡ്‌വെയറില്‍ മുന്‍നിരയിലാണ്.",
+  "why": "ഇത്തരത്തിലുള്ള നേതൃപരിവര്‍ത്തനങ്ങള്‍ ഗെയിമിംഗ്, AI ആപ്പുകള്‍ ഉപയോഗിക്കുന്ന യുവാക്കള്‍ക്ക് ബാധകമാകും. Nvidiaയുടെ പുതിയ ഉല്‍പ്പന്നങ്ങളും അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "TechLeadership",
+   "AI",
+   "Gaming"
+  ]
+ },
+ {
+  "id": "3a42eaadc7be",
+  "created": "2026-11-24T12:42:39+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/sheikh-hasina-is-terrorist-can-only-return-in-handcuffs-bangladesh-on-ex-pms-homecoming-call-12369327#publisher=newsstand",
+  "headline": "ബംഗ്ലാദേശ് പറയുന്നു ഹസീനാ കൈക്കെട്ടിൽ മാത്രം മടങ്ങി വരാം",
+  "hook": "മുൻ പ്രധാനമന്ത്രിയായ ഷെഖ് ഹസീനയ്ക്ക് തിരിച്ചു വരാനുള്ള കടുത്ത ആവശ്യമാണ് നേരിടുന്നത്.",
+  "what": "മുൻ പ്രധാനമന്ത്രിയായ ഷെഖ് ഹസീനാ ബംഗ്ലാദേശ് സർക്കാർ അവളുടെ മടങ്ങിവരവ് ക്രമീകരിക്കാൻ അപേക്ഷിച്ചു. ഒരു പ്രസ്താവന അവളെ ഭീകരന്‍ എന്ന് വിളിച്ച്, കൈക്കെട്ടിൽ മാത്രം മടങ്ങി വരാൻ കഴിയുമെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് പ്രദേശിക രാഷ്ട്രീയ തണുപ്പ് വർദ്ധിപ്പിക്കുന്നു, ഇത് ഇന്ത്യയിലെ യുവജനങ്ങളുടെ യാത്രയും വാർത്തകളും ബാധിക്കാം. പ്രദേശിക സംഭവവികാസങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "tags": [
+   "ബംഗ്ലാദേശ്",
+   "ഷെഖ്ഹസീന",
+   "രാഷ്ട്രീയം",
+   "മടങ്ങിവരവ്",
+   "പ്രദേശിക"
+  ]
+ },
+ {
+  "id": "9c10f793addc",
+  "created": "2026-11-24T12:42:42+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricket World",
+  "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZjdWdm1raDRmN1M5eVMycFNIUFpHQTFKLXpBcFhIc2c1N0tQLWRiaU85OVQ2bDdfazlHUHAtODJWd25iWlRaRTVELWR0YktnLTVLemdlVGtLNm1nUWR2TE5YS1ZNTDlDODZaRmU3Z0txUnJZWnRfTTktMzdjV28?oc=5",
+  "headline": "കേരളം vs അസം T20 മത്സരം 24 നവം",
+  "hook": "കേരളം അസം നേരിടുന്ന തത്സമയ ആക്ഷൻ കാണൂ!",
+  "what": "2026 നവംബർ 24-ന് കേരളവും അസവും സൈദ് മുസ്താക് അലി ട്രോഫിയിൽ भिड़ेंगे. സ്പോർട്സ്‌ദുനിയയിൽ ലൈവ് സ്ട്രീമിംഗ്, സ്കോർകാർഡ് ലഭ്യമാണ്.",
+  "why": "യുവജനങ്ങൾ ഓൺലൈനിൽ ഗെയിം പിന്തുടർന്ന് സ്വന്തം സംസ്ഥാനത്തെ പിന്തുണക്കാം. സ്കോർ, ഹൈലൈറ്റുകൾക്കായി അപ്ഡേറ്റ് ആയിരിക്കുക.",
+  "tags": [
+   "ക്രിക്കറ്റ്",
+   "കേരളം",
+   "അസം",
+   "T20",
+   "SyedMushtaqAli"
+  ]
+ },
+ {
+  "id": "1de77559eb71",
+  "created": "2026-11-24T12:42:44+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Hyderabad Mail",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNE1KZWtkcmRJVHloejBmOHl3UlBVRVNWeklqOFgwRXB6NER4Mlh1QXN4SlZnTTF0Q3FVWXFEdldQSmtya0U5aWxtWkFxZDdzMjNxdFhYMHBGdW82UFdHS2pxQVpmWlU2R3dfanYyLXJaQU9GUnY0Y3R5azVHNVd0REVCYndUYi1LVWprSS1NZXk?oc=5",
+  "headline": "Hyderabad 2026‑ൽ വൈറ്റ്‑കോളർ നിയമനത്തിൽ ഇന്ത്യയിൽ മുന്നിൽ",
+  "hook": "നിങ്ങളുടെ അടുത്ത ഓഫീസ് ജോലി ഹൈദരാബാദിൽ ആയേക്കാം",
+  "what": "2026‑ൽ ഹൈദരാബാദ് ഇന്ത്യയിലെ ഏറ്റവും കൂടുതൽ വൈറ്റ്‑കോളർ ജോലി നൽകുന്ന നഗരം ആയി ഉയർന്നു. മറ്റ് എല്ലാ മെട്രോ നഗരങ്ങളെയും മറികടന്ന് പ്രൊഫഷണൽ സ്ഥാനങ്ങൾ നിറവേറ്റി.",
+  "why": "പുതുമുഖങ്ങളും യുവ പ്രൊഫഷണലുകളും için മികച്ച തൊഴിൽ അവസരങ്ങൾ സൂചിപ്പിക്കുന്നു; അതിനാൽ അവസരങ്ങൾ പരിശോധിക്കുക.",
+  "tags": [
+   "Hyderabad",
+   "jobs",
+   "career",
+   "whitecollar",
+   "2026"
+  ]
+ },
+ {
+  "id": "645f9a8829eb",
+  "created": "2026-11-24T12:42:46+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-must-submit-annual-life-certificate-by-30-november-know-six-ways-to-complete-process-11795488647770.html",
+  "headline": "കേന്ദ്ര സര്‍ക്കാരിന്റെ പെന്‍ഷന്‍ സര്‍ട്ടിഫിക്കറ്റ് സമര്‍പ്പണം 30 നവം വരെ",
+  "hook": "ഡെഡ്‌ലൈന്‍ നഷ്ടമാക്കുന്നുവെങ്കില്‍ പെന്‍ഷന്‍ നിർത്താം",
+  "what": "കേന്ദ്ര സര്‍ക്കാരിന്റെ പുതിയ നിര്‍ദ്ദേശപ്രകാരം, എല്ലാ കേന്ദ്ര സര്‍ക്കാരിന്റെ പെന്‍ഷന്‍ ലഭിക്കുന്നവര്‍ക്കും 30 നവംബര്‍ വരെ വാർഷിക ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ് സമര്‍പ്പിക്കണം. ബാങ്കില്‍ പോകുക, ജിവന്‍ പ്രമാണം ഡിജിറ്റല്‍ പോര്‍ട്ടല്‍ ഉപയോഗിക്കുക തുടങ്ങിയ ആറ് മാര്‍ഗ്ഗങ്ങള്‍ നല്‍കിയിട്ടുണ്ട്.",
+  "why": "ഡെഡ്‌ലൈനില്‍ സമര്‍പ്പണം ചെയ്യാത്തപക്ഷം പെന്‍ഷന്‍ കുടിശ്ശികയാകും, കുടുംബത്തിന്റെ വരുമാനത്തെ ബാധിക്കും. അതിനാല്‍ മുതിര്‍ന്നവരുടെ സര്‍ട്ടിഫിക്കറ്റ് സമയത്ത് സമര്‍പ്പിക്കണം.",
+  "tags": [
+   "pension",
+   "deadline",
+   "government",
+   "finance",
+   "JeevanPramaan"
+  ]
+ },
+ {
   "id": "b18c06b66234",
   "created": "2026-11-24T11:29:03+05:30",
   "category": "headlines",
@@ -657,99 +751,6 @@
    "cars",
    "Hagerty",
    "ViceCity"
-  ]
- },
- {
-  "id": "1f165a47af18",
-  "created": "2026-11-24T05:04:05+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
-  "headline": "Figma ജീവനക്കാരി ഹറാസ്മെന്റ് കേസ് ഫയൽ ചെയ്തു",
-  "hook": "ഒരു ജീവനക്കാരി കമ്പനിയെ ഹറാസ്മെന്റ് നേരിടാൻ നിർബന്ധിച്ചതായി പറയുന്നു.",
-  "what": "ഒരു നിലവിലെ ജീവനക്കാരി Figmaയും അതിന്റെ CEOയുംക്കെതിരെ ലൈംഗിക ഹറാസ്മെന്റ്, വിവേചനം എന്നിവയുടെ ആരോപണങ്ങളോടെ കേസ് നൽകിയിട്ടുണ്ട്. അവൾക്ക് കമ്പനിയുടെ നിർദ്ദേശം ഹറാസ്മെന്റ് ചെയ്തവരെ നേരിടാൻ ആയിരുന്നുവെന്ന് അവൾ പറയുന്നു.",
-  "why": "ടെക് കമ്പനികളിലെ ജോലി സ്ഥലത്തെ സുരക്ഷാ പ്രശ്നങ്ങളെ ഇത് ചൂണ്ടിക്കാണിക്കുന്നു, യുവ പ്രൊഫഷണലുകൾക്ക് അവകാശങ്ങൾ അറിയാനും സഹായം തേടാനും പ്രോത്സാഹനം നൽകുന്നു.",
-  "tags": [
-   "Figma",
-   "കേസ്",
-   "ഹറാസ്മെന്റ്",
-   "ടെക്",
-   "ജോലി"
-  ]
- },
- {
-  "id": "41db1aa58dcf",
-  "created": "2026-11-24T05:04:07+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/north-korea-threatens-to-close-swiss-diplomatic-office-weeks-after-opening-12368343#publisher=newsstand",
-  "headline": "North Korea സ്വിസ് ഡിപ്ലോമാറ്റിക് ഓഫീസ് അടയ്ക്കാൻ ഭീഷണി",
-  "hook": "ഉന്നത ഉദ്യോഗസ്ഥൻ പുതിയ സ്വിസ് മിഷൻ അടയ്ക്കാൻ സാധ്യതയുണ്ടെന്ന് മുന്നറിയിപ്പ് നൽകി.",
-  "what": "North Koreaയുടെ സുപ്രീം ലീഡറുടെ സഹോദരി, ശക്തനായ ഉദ്യോഗസ്ഥൻ, സ്വിസ് ഡിപ്ലോമാറ്റിക് ഓഫീസ് അടയ്ക്കാൻ സാധ്യതയുണ്ടെന്ന് അറിയിച്ചു. ഈ മുന്നറിയിപ്പ് സ്വിസ് ഓഫീസ് തുറന്ന കുറച്ച് ആഴ്ചകൾക്ക് ശേഷം വന്നതാണ്.",
-  "why": "അന്താരാഷ്ട്ര ബന്ധങ്ങളുടെ അനിശ്ചിതത്വം കാണിക്കുന്നു, ഇത് യാത്രയും വ്യാപാരവും ബാധിക്കാം. പുതുക്കിയ വാർത്തകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "NorthKorea",
-   "Switzerland",
-   "Diplomacy"
-  ]
- },
- {
-  "id": "7544cf472c1a",
-  "created": "2026-11-24T05:04:10+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Nature",
-  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04V3dJSkZZN3pfdjNEOG9EMkl1TGtReHNLaXVqRm5wdWlWcTVnVGVjVk9CQkZSZEN3TFRNS0txNGp2UWJIMXFwZGRuNmFaZXFuT1NRMVBDVFhZUmpVZG0w?oc=5",
-  "headline": "PET സ്കാൻ വഴി ബൾക്കി DLBCL‑ക്ക് റേഡിയോതെറാപ്പി",
-  "hook": "പെറ്റ് അടിസ്ഥാനമാക്കിയുള്ള വിലയിരുത്തലിലൂടെ വലിയ ലിംഫോമയിൽ അധിക കിരണചികിത്സ ആവശ്യമോ എന്ന് പരിശോധിച്ചു",
-  "what": "ഒരു പുതിയ പഠനത്തിൽ ബൾക്കി ഡിഫ്യൂസ് ലാർജ് B-സെൽ ലിംഫോമയുള്ള രോഗികളിൽ കൺസോലിഡേഷൻ റേഡിയോതെറാപ്പി വിലയിരുത്തി. റേഡിയോതെറാപ്പി നൽകേണ്ടതുണ്ടോ എന്ന് PET ഇമേജിംഗ് ഉപയോഗിച്ച് തീരുമാനിച്ചു.",
-  "why": "റേഡിയോതെറാപ്പി എപ്പോൾ ആവശ്യമെന്ന് അറിയുന്നത് ചികിത്സ ഫലങ്ങൾ മെച്ചപ്പെടുത്താനും അനാവശ്യ സൈഡ്‑എഫക്റ്റുകൾ കുറയ്ക്കാനും സഹായിക്കും.",
-  "tags": [
-   "DLBCL",
-   "radiotherapy",
-   "PET",
-   "cancer",
-   "treatment"
-  ]
- },
- {
-  "id": "ada2460a24f6",
-  "created": "2026-11-24T04:04:27+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-  "headline": "Jensen Huang Nvidia‑ലേക്ക് തിരിച്ചു, Musk പറയുന്നു പിഴവ് ശരിയാക്കി",
-  "hook": "Nvidia‑യുടെ ചീഫ് മടങ്ങി, Elon Musk പോലും സന്തോഷിക്കുന്നു.",
-  "what": "Jensen Huang ഒരു സ്കാൻഡലിന് ശേഷം Nvidia‑യിൽ വീണ്ടും ചുമതല ഏറ്റെടുത്തു. Elon Musk \"പിഴവ് ശരിയാക്കി\" എന്ന് പറഞ്ഞു. മറ്റുള്ളവരും ആശ്വാസം പ്രകടിപ്പിച്ചു.",
-  "why": "ഇത് വലിയ ടെക് കമ്പനികൾ നേതൃപരിഷ്കാരങ്ങൾ എത്ര വേഗം കൈകാര്യം ചെയ്യുന്നു എന്ന് കാണിക്കുന്നു, ഇത് യുവ ടെക് ആസ്വാദകർക്കുള്ള ജോലി, ഉൽപ്പന്ന സാധ്യതകളെ ബാധിക്കും.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "ElonMusk",
-   "TechNews",
-   "Scandal"
-  ]
- },
- {
-  "id": "27065c561fbc",
-  "created": "2026-11-24T04:04:31+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-  "headline": "Anthropic പുറത്തിറക്കി Claude Ship, AI‑യോടെ കോഡ് അംഗീകാരം",
-  "hook": "നിങ്ങളുടെ അടുത്ത കോഡ് റിവ്യൂ ഒരു ബോട്ട് ചെയ്യാം.",
-  "what": "Anthropic ഒരു പുതിയ ടൂൾ Claude Ship പുറത്തിറക്കി, AI ഏജന്റുകൾക്ക് കോഡ് മാറ്റങ്ങൾ പരിശോധിക്കാൻ, തിരുത്താൻ, അംഗീകരിക്കാൻ കഴിയും. AI‑ജനിതമായ കോഡ് വർധിക്കുമ്പോൾ റിവ്യൂ സമയം കുറയ്ക്കാൻ ഇത് സഹായിക്കും.",
-  "why": "ഇത് യുവ ഡെവലപ്പർമാർക്ക് പ്രോജക്റ്റ് ഡെഡ്‌ലൈനുകൾ വേഗത്തിൽ പൂർത്തിയാക്കാൻ സഹായിക്കും, പുതിയ സാങ്കേതിക വിദ്യകൾ പഠിക്കാൻ സമയം ലഭിക്കും. ഇത്തരമൊരു ടൂൾ ശ്രദ്ധയിൽവെച്ച് നിങ്ങളുടെ വർക്ക്‌ഫ്ലോ മെച്ചപ്പെടുത്താം.",
-  "tags": [
-   "AI",
-   "കോഡ്",
-   "ഡെവലപ്പർ",
-   "ഓട്ടോമേഷൻ",
-   "ടെക്"
   ]
  }
 ]

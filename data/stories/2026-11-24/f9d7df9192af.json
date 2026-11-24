@@ -1,0 +1,35 @@
+{
+ "id": "f9d7df9192af",
+ "created": "2026-11-24T12:42:36+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/nvidia-jensen-huang-ceo-news-the-directors-who-put-jensen-huang-back-in-charge-of-nvidia-12369375#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia Board Restores Jensen Huang as CEO",
+  "hook": "The quiet board finally put the founder back at the helm.",
+  "what": "Nvidia’s board, long out of the spotlight, voted to put Jensen Huang back in charge of the company. The chipmaker has become a global powerhouse in graphics and AI hardware.",
+  "why": "Leadership shifts at a major tech firm can influence the devices and AI tools teens use. Keep an eye on Nvidia’s product updates.",
+  "tags": [
+   "Nvidia",
+   "TechLeadership",
+   "AI",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia ബോര്‍ഡ് ജെന്‍സന്‍ ഹുവാങിനെ CEO ആയി തിരിച്ചു",
+  "hook": "നീണ്ടകാലം പിന്നില്‍ നിന്നിരുന്ന ബോര്‍ഡ്, സ്ഥാപകനെ വീണ്ടും നയിക്കാന്‍ തിരിച്ചു.",
+  "what": "Nvidiaയുടെ ബോര്‍ഡ്, മുമ്പ് കുറച്ച് ശ്രദ്ധയില്‍ വന്നിരുന്നവ, ജെന്‍സന്‍ ഹുവാങിനെ വീണ്ടും കമ്പനി നയിക്കാന്‍ തിരഞ്ഞെടുത്തു. ഈ ചിപ്പ് നിര്‍മ്മാതാവ് ലോകമെമ്പാടും ഗ്രാഫിക്സ്, AI ഹാര്‍ഡ്‌വെയറില്‍ മുന്‍നിരയിലാണ്.",
+  "why": "ഇത്തരത്തിലുള്ള നേതൃപരിവര്‍ത്തനങ്ങള്‍ ഗെയിമിംഗ്, AI ആപ്പുകള്‍ ഉപയോഗിക്കുന്ന യുവാക്കള്‍ക്ക് ബാധകമാകും. Nvidiaയുടെ പുതിയ ഉല്‍പ്പന്നങ്ങളും അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "TechLeadership",
+   "AI",
+   "Gaming"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "645f9a8829eb",
+ "created": "2026-11-24T12:42:46+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/central-government-pensioners-must-submit-annual-life-certificate-by-30-november-know-six-ways-to-complete-process-11795488647770.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Govt sets Nov 30 deadline for pensioners’ life certificate",
+  "hook": "Your pension could stop if you miss this deadline",
+  "what": "The central government has told all pensioners to file an Annual Life Certificate by 30 November to keep receiving payments. Six filing options are available, such as visiting a bank, using the Jeevan Pramaan digital portal, and other methods.",
+  "why": "Missing the cut‑off may halt pension payouts, affecting families that depend on the income. Make sure elders submit the certificate through any of the listed channels before the deadline.",
+  "tags": [
+   "pension",
+   "deadline",
+   "government",
+   "finance",
+   "JeevanPramaan"
+  ]
+ },
+ "ml": {
+  "headline": "കേന്ദ്ര സര്‍ക്കാരിന്റെ പെന്‍ഷന്‍ സര്‍ട്ടിഫിക്കറ്റ് സമര്‍പ്പണം 30 നവം വരെ",
+  "hook": "ഡെഡ്‌ലൈന്‍ നഷ്ടമാക്കുന്നുവെങ്കില്‍ പെന്‍ഷന്‍ നിർത്താം",
+  "what": "കേന്ദ്ര സര്‍ക്കാരിന്റെ പുതിയ നിര്‍ദ്ദേശപ്രകാരം, എല്ലാ കേന്ദ്ര സര്‍ക്കാരിന്റെ പെന്‍ഷന്‍ ലഭിക്കുന്നവര്‍ക്കും 30 നവംബര്‍ വരെ വാർഷിക ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ് സമര്‍പ്പിക്കണം. ബാങ്കില്‍ പോകുക, ജിവന്‍ പ്രമാണം ഡിജിറ്റല്‍ പോര്‍ട്ടല്‍ ഉപയോഗിക്കുക തുടങ്ങിയ ആറ് മാര്‍ഗ്ഗങ്ങള്‍ നല്‍കിയിട്ടുണ്ട്.",
+  "why": "ഡെഡ്‌ലൈനില്‍ സമര്‍പ്പണം ചെയ്യാത്തപക്ഷം പെന്‍ഷന്‍ കുടിശ്ശികയാകും, കുടുംബത്തിന്റെ വരുമാനത്തെ ബാധിക്കും. അതിനാല്‍ മുതിര്‍ന്നവരുടെ സര്‍ട്ടിഫിക്കറ്റ് സമയത്ത് സമര്‍പ്പിക്കണം.",
+  "tags": [
+   "pension",
+   "deadline",
+   "government",
+   "finance",
+   "JeevanPramaan"
+  ]
+ }
+}
