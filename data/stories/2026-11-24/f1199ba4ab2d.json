@@ -1,0 +1,37 @@
+{
+ "id": "f1199ba4ab2d",
+ "created": "2026-11-24T11:29:15+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/tokenized-real-estate-investment-risks-sebi-regulation-11795493257222.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tokenization safe, but unregulated structures pose risks",
+  "hook": "Don’t let shady setups ruin your crypto plans.",
+  "what": "Tokenisation itself isn’t risky, but the unregulated investment frameworks around it are. Experts say safeguards are needed on three fronts to protect investors.",
+  "why": "Young Indians should verify that any token‑based investment is backed by proper regulation, otherwise they could face losses. Look for platforms that follow clear rules.",
+  "tags": [
+   "tokenization",
+   "investment",
+   "risk",
+   "regulation",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ടോക്കണൈസേഷന്‍ സുരക്ഷിതം, പക്ഷേ നിയന്ത്രണമില്ലാത്ത ഘടനകള്‍ അപകടം",
+  "hook": "അവ്യവസ്ഥിതമായ സജ്ജീകരണങ്ങള്‍ നിങ്ങളുടെ ക്രിപ്റ്റോ പദ്ധതികള്‍ നശിപ്പിക്കരുത്.",
+  "what": "ടോക്കണൈസേഷന്‍ തന്നെ അപകടമല്ല, പക്ഷേ അതിനുചുറ്റുമുള്ള നിയന്ത്രണമില്ലാത്ത നിക്ഷേപ ഘടനകള്‍ അപകടം സൃഷ്ടിക്കുന്നു. വിദഗ്ദ്ധര്‍ മൂന്ന് മേഖലകളില്‍ സംരക്ഷണം ആവശ്യമാണ് എന്ന് പറയുന്നു.",
+  "why": "യുവജനങ്ങള്‍ ഏതെങ്കിലും ടോക്കണ്‍‑അധിഷ്ഠിത നിക്ഷേപം നിയമപരമായി ഉറപ്പുള്ളതാണോ എന്ന് പരിശോധിക്കണം, ഇല്ലെങ്കില്‍ നഷ്ടം നേരിടാന്‍ സാധ്യതയുണ്ട്. വ്യക്തമായ നിയമങ്ങള്‍ പാലിക്കുന്ന പ്ലാറ്റ്ഫോം തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "ടോക്കണൈസേഷൻ",
+   "നിക്ഷേപം",
+   "അപകടം",
+   "നിയമം",
+   "യുവജനങ്ങൾ"
+  ]
+ }
+}

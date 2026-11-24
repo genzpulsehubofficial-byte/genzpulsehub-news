@@ -1,0 +1,37 @@
+{
+ "id": "c6276d7a373b",
+ "created": "2026-11-24T11:29:10+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Dynamite News",
+ "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0NGMWMxYUwwR09reFZDSHZ5T2pkNkJaNTNXTjhQdmJsY0xFNHZUNzlxaTlDNkp0S3B5LXpqekQ5OEVEeXVEeXpEWTdETDlMcl95b1cxZl9zblB6NXFSdDhzRGl5cGNaT3hhaDBYdVVkbmJ1d2tzUnhqVGNZWDNMa2lQV3psQURHaktVZl8weHRVcGVXenZCVUcxSVdjT21jc1VwbmNPLUZTb0h2a3lvN1czTzl1WTNNV0RPUUViYUQ5WHhNbVZxedIBzgFBVV95cUxNeUNENlF3bmhiNlNuY1VsNnVINWZISV9uOUtTZlJjT1JGMGljdjVNS1pxX0VDeUR0VUNRUnlQcWZGcnZ1azhlVnR3Sm92OHF1RldUS2g5MXRmWk02MGZVRklJU2dIalFEdXpBVGZFbWhXanlYdVFEdElSWTJ6UUNQdU44Zk5zcXU3alJkVVNpS3hDV0FlNFBUQWxEYXlNa0tIeEJMeHR6NlRvTVliMnk3amZiUXY2cS1wYVFVaGRleHY2MnRsSmRtM2d6U3RlZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI to launch one‑click “Stop Switch” for bank accounts",
+  "hook": "A single tap could freeze your account if fraud strikes.",
+  "what": "The Reserve Bank of India is working on a feature called “Stop Switch”. It will let users block their bank accounts with one click to curb cyber fraud. Details are still being finalised.",
+  "why": "Young users who rely on digital banking can protect their money instantly. Keep an eye on your bank’s app for the upcoming option.",
+  "tags": [
+   "RBI",
+   "cybersecurity",
+   "banking",
+   "fraud",
+   "digital"
+  ]
+ },
+ "ml": {
+  "headline": "RBI ഒരു ക്ലിക്ക് “Stop Switch” ബാങ്ക് അക്കൗണ്ടിന് പുറത്തിറക്കുന്നു",
+  "hook": "മോശം ഇടപാടുകൾ വന്നാൽ ഒരു ടാപ്പിൽ അക്കൗണ്ട് ഫ്രീസ് ചെയ്യാം.",
+  "what": "Reserve Bank of India “Stop Switch” എന്നൊരു ഫീച്ചർ വികസിപ്പിക്കുന്നു. ഇത് ഒരു ക്ലിക്കിൽ ബാങ്ക് അക്കൗണ്ട് ബ്ലോക്ക് ചെയ്യാൻ സഹായിക്കും, സൈബർ തട്ടിപ്പുകൾ തടയാൻ. വിശദാംശങ്ങൾ ഇപ്പോഴും തീർപ്പാക്കപ്പെടുന്നു.",
+  "why": "ഡിജിറ്റൽ ബാങ്കിംഗ് ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് തങ്ങളുടെ പണം തൽക്ഷണം സംരക്ഷിക്കാൻ ഇത് സഹായിക്കും. നിങ്ങളുടെ ബാങ്ക് ആപ്പിൽ ഈ ഓപ്ഷൻ വരുന്നത് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "RBI",
+   "cybersecurity",
+   "banking",
+   "fraud",
+   "digital"
+  ]
+ }
+}

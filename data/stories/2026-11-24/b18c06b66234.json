@@ -1,0 +1,37 @@
+{
+ "id": "b18c06b66234",
+ "created": "2026-11-24T11:29:03+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/tremors-felt-in-north-bengal-sikkim-as-5-3-magnitude-earthquake-jolts-nepal-101795495156370.html",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "5.3 quake in Nepal shakes North Bengal, Sikkim, Bihar",
+  "hook": "Feel the tremor? A Nepal quake rattles nearby Indian states.",
+  "what": "A magnitude 5.3 earthquake struck Nepal, causing tremors across the border. The shaking was reported in North Bengal, Sikkim and several districts of Bihar such as Purnea and Katihar.",
+  "why": "Such tremors can affect safety and infrastructure, so stay alert for official updates and follow any safety guidelines.",
+  "tags": [
+   "earthquake",
+   "nepal",
+   "bengal",
+   "bihar",
+   "sikkim"
+  ]
+ },
+ "ml": {
+  "headline": "5.3 ക്വേക്ക് നെപ്പാളിൽ, ഉത്തരബംഗാൾ, സിക്കിം, ബിഹാറിൽ ഭൂകമ്പം",
+  "hook": "തുടർന്ന് കുലുങ്ങി? നെപ്പാളിലെ ഭൂകമ്പം സമീപ സംസ്ഥാനങ്ങളിലേയ്ക്ക് വിറയിച്ചു.",
+  "what": "നെപ്പാളിൽ 5.3 തീവ്രതയുള്ള ഭൂകമ്പം സംഭവിച്ചു, അതിന്റെ കമ്പനം ഇന്ത്യയുടെ ഉത്തരബംഗാൾ, സിക്കിം, ബിഹാറിലെ പല ജില്ലകളിലും അനുഭവപ്പെട്ടു. പൂർണെയ, കതിഹർ, അരിയ, കിഷംഗഞ്ച്, സഹർസ, മധേപുറ, സുപ്പൗൾ എന്നിവിടങ്ങളിലുമാണ് കമ്പനം അനുഭവപ്പെട്ടത്.",
+  "why": "ഇത്തരത്തിലുള്ള വിറപ്പുകൾ സുരക്ഷക്കും അടിസ്ഥാന സൗകര്യങ്ങൾക്കും ബാധകമാകാം, അതിനാൽ ഔദ്യോഗിക അറിയിപ്പുകൾക്കായി ശ്രദ്ധിക്കണം, സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ഭൂകമ്പം",
+   "നെപ്പാൾ",
+   "ബംഗാൾ",
+   "ബിഹാർ",
+   "സിക്കിം"
+  ]
+ }
+}

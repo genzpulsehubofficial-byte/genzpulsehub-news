@@ -1,0 +1,35 @@
+{
+ "id": "e0c08637ef57",
+ "created": "2026-11-24T11:29:13+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/idukki-resort-dubai-meetings-gold-smuggling-ep-jayarajans-allegations-against-p-jayarajan-nbjzm0im",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EP Jayarajan accuses P Jayarajan of gold smuggling ties",
+  "hook": "A political feud erupts over alleged gold smuggling links.",
+  "what": "E.P. Jayarajan has publicly alleged that P. Jayarajan is connected to gold smugglers and quotation gangs. He also questioned P. Jayarajan’s involvement with a resort in Idukki.",
+  "why": "Such claims raise concerns about corruption in local politics, urging youths to stay aware of leaders’ activities.",
+  "tags": [
+   "Kerala politics",
+   "gold smuggling",
+   "Idukki resort",
+   "political allegations"
+  ]
+ },
+ "ml": {
+  "headline": "ഇ.പി. ജയരാജന്‍ പി. ജയരാജന്‍ സ്വര്‍ണ്ണ കള്ളക്കടത്തുമായി ബന്ധം എന്ന് ആരോപിക്കുന്നു",
+  "hook": "സ്വര്‍ണ്ണ കള്ളക്കടത്തുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയ തര്‍ക്കം പൊട്ടിത്തെറിച്ചു.",
+  "what": "ഇ.പി. ജയരാജന്‍ പി. ജയരാജന്‍ സ്വര്‍ണ്ണ കള്ളക്കടത്തുകാരും ക്വോട്ടേഷന്‍ സംഘങ്ങളും ബന്ധമുള്ളവനാണെന്ന് പൊതുവായി ആരോപിച്ചു. കൂടാതെ ഐദുക്കിയിലെ ഒരു റിസോര്‍ട്ടുമായി അദ്ദേഹത്തിന്റെ ബന്ധം ചോദ്യം ചെയ്തു.",
+  "why": "ഇത്തരത്തിലുള്ള ആരോപണങ്ങള്‍ പ്രാദേശിക രാഷ്ട്രീയത്തില്‍ ദുരുപയോഗം ഉണ്ടാകാമെന്ന് സൂചിപ്പിക്കുന്നു; യുവാക്കള്‍ നേതാക്കളുടെ പ്രവര്‍ത്തനങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "സ്വര്‍ണകള്ളക്കടത്ത്",
+   "ഐദുക്കി",
+   "രാഷ്ട്രീയവാദം"
+  ]
+ }
+}

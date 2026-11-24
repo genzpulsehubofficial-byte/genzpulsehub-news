@@ -1,5 +1,98 @@
 [
  {
+  "id": "b18c06b66234",
+  "created": "2026-11-24T11:29:03+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/tremors-felt-in-north-bengal-sikkim-as-5-3-magnitude-earthquake-jolts-nepal-101795495156370.html",
+  "headline": "5.3 quake in Nepal shakes North Bengal, Sikkim, Bihar",
+  "hook": "Feel the tremor? A Nepal quake rattles nearby Indian states.",
+  "what": "A magnitude 5.3 earthquake struck Nepal, causing tremors across the border. The shaking was reported in North Bengal, Sikkim and several districts of Bihar such as Purnea and Katihar.",
+  "why": "Such tremors can affect safety and infrastructure, so stay alert for official updates and follow any safety guidelines.",
+  "tags": [
+   "earthquake",
+   "nepal",
+   "bengal",
+   "bihar",
+   "sikkim"
+  ]
+ },
+ {
+  "id": "d09f4a331627",
+  "created": "2026-11-24T11:29:08+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/4-children-killed-32-injured-as-truck-rams-stationary-school-bus-in-ups-kannauj-12368958#publisher=newsstand",
+  "headline": "Truck crashes into school bus in UP, 4 dead, 32 hurt",
+  "hook": "A speeding truck hit a school bus, leaving dozens injured.",
+  "what": "A truck traveling at high speed collided with a school bus in Uttar Pradesh. The crash killed four students and injured 32 others. The injured were rushed to a medical college by ambulance.",
+  "why": "The accident underscores road safety risks for students commuting to school. Teens should stay alert and follow safety guidelines while traveling.",
+  "tags": [
+   "UP accident",
+   "school safety",
+   "road safety",
+   "students"
+  ]
+ },
+ {
+  "id": "c6276d7a373b",
+  "created": "2026-11-24T11:29:10+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Dynamite News",
+  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0NGMWMxYUwwR09reFZDSHZ5T2pkNkJaNTNXTjhQdmJsY0xFNHZUNzlxaTlDNkp0S3B5LXpqekQ5OEVEeXVEeXpEWTdETDlMcl95b1cxZl9zblB6NXFSdDhzRGl5cGNaT3hhaDBYdVVkbmJ1d2tzUnhqVGNZWDNMa2lQV3psQURHaktVZl8weHRVcGVXenZCVUcxSVdjT21jc1VwbmNPLUZTb0h2a3lvN1czTzl1WTNNV0RPUUViYUQ5WHhNbVZxedIBzgFBVV95cUxNeUNENlF3bmhiNlNuY1VsNnVINWZISV9uOUtTZlJjT1JGMGljdjVNS1pxX0VDeUR0VUNRUnlQcWZGcnZ1azhlVnR3Sm92OHF1RldUS2g5MXRmWk02MGZVRklJU2dIalFEdXpBVGZFbWhXanlYdVFEdElSWTJ6UUNQdU44Zk5zcXU3alJkVVNpS3hDV0FlNFBUQWxEYXlNa0tIeEJMeHR6NlRvTVliMnk3amZiUXY2cS1wYVFVaGRleHY2MnRsSmRtM2d6U3RlZw?oc=5",
+  "headline": "RBI to launch one‑click “Stop Switch” for bank accounts",
+  "hook": "A single tap could freeze your account if fraud strikes.",
+  "what": "The Reserve Bank of India is working on a feature called “Stop Switch”. It will let users block their bank accounts with one click to curb cyber fraud. Details are still being finalised.",
+  "why": "Young users who rely on digital banking can protect their money instantly. Keep an eye on your bank’s app for the upcoming option.",
+  "tags": [
+   "RBI",
+   "cybersecurity",
+   "banking",
+   "fraud",
+   "digital"
+  ]
+ },
+ {
+  "id": "e0c08637ef57",
+  "created": "2026-11-24T11:29:13+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/idukki-resort-dubai-meetings-gold-smuggling-ep-jayarajans-allegations-against-p-jayarajan-nbjzm0im",
+  "headline": "EP Jayarajan accuses P Jayarajan of gold smuggling ties",
+  "hook": "A political feud erupts over alleged gold smuggling links.",
+  "what": "E.P. Jayarajan has publicly alleged that P. Jayarajan is connected to gold smugglers and quotation gangs. He also questioned P. Jayarajan’s involvement with a resort in Idukki.",
+  "why": "Such claims raise concerns about corruption in local politics, urging youths to stay aware of leaders’ activities.",
+  "tags": [
+   "Kerala politics",
+   "gold smuggling",
+   "Idukki resort",
+   "political allegations"
+  ]
+ },
+ {
+  "id": "f1199ba4ab2d",
+  "created": "2026-11-24T11:29:15+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/tokenized-real-estate-investment-risks-sebi-regulation-11795493257222.html",
+  "headline": "Tokenization safe, but unregulated structures pose risks",
+  "hook": "Don’t let shady setups ruin your crypto plans.",
+  "what": "Tokenisation itself isn’t risky, but the unregulated investment frameworks around it are. Experts say safeguards are needed on three fronts to protect investors.",
+  "why": "Young Indians should verify that any token‑based investment is backed by proper regulation, otherwise they could face losses. Look for platforms that follow clear rules.",
+  "tags": [
+   "tokenization",
+   "investment",
+   "risk",
+   "regulation",
+   "youth"
+  ]
+ },
+ {
   "id": "a3b407a6363e",
   "created": "2026-11-24T10:28:21+05:30",
   "category": "headlines",
@@ -657,101 +750,6 @@
    "devtools",
    "automation",
    "tech"
-  ]
- },
- {
-  "id": "6f3f748dec97",
-  "created": "2026-11-24T04:04:39+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "ASM Journals",
-  "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMHp2THRNM1JJRXJXdHZMSFVqeklvRXNsSWpBc3Q2WWFQQmpUazdiUW9vdFhSZF9DMV9oYUttMWlYZ2RWRk5jWTlERFdGeVhoS085LVNFVGhodTZo?oc=5",
-  "headline": "AI and TraDIS boost phage research, raise safety worries",
-  "hook": "Bacteria‑killing viruses get a tech upgrade – but at what cost?",
-  "what": "Scientists are using the TraDIS technique to pinpoint the receptors that bacteriophages bind to on bacteria. AI tools are also being applied to design viruses and enhance phage effectiveness against antibiotic‑resistant infections. Experts warn that AI‑crafted viruses could pose biosecurity risks.",
-  "why": "Understanding phage receptors and improving their power could help tackle drug‑resistant bugs, a growing concern for young people. Staying aware of the safety debate around AI‑made viruses is important as the technology spreads.",
-  "tags": [
-   "AI",
-   "phage",
-   "antibioticResistance",
-   "biosecurity",
-   "research"
-  ]
- },
- {
-  "id": "9d1f6a725104",
-  "created": "2026-11-24T03:06:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-  "headline": "Megaspeed faces possible U.S. blacklist, business restrictions loom",
-  "hook": "Your favourite tech firm could lose U.S. ties soon",
-  "what": "Megaspeed, once headed by Alice Huang, is likely to be placed on a U.S. blacklist. That would stop it from dealing with American firms unless those firms obtain a special government licence.",
-  "why": "If the company’s products or services are used locally, the ban could affect their availability or cost. Stay alert for any updates that might impact services you use.",
-  "tags": [
-   "Megaspeed",
-   "USBlacklist",
-   "TechNews",
-   "Startup",
-   "Regulation"
-  ]
- },
- {
-  "id": "436d77dbbaf4",
-  "created": "2026-11-24T03:06:29+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/cjps-saurav-das-says-stopped-at-delhi-airport-barred-from-flying-to-london-lecture-at-oxford-university-101795456221713.html",
-  "headline": "CJP official says Delhi airport stopped his Oxford lecture flight",
-  "hook": "Did a Delhi immigration snag a top legal mind before his Oxford talk?",
-  "what": "Saurav Das, a senior official at the Chief Justice’s Programme, says he was prevented from boarding a flight to London for an Oxford lecture. He claims immigration officials stopped him at Delhi airport. A Delhi Police spokesperson said they have no information on the incident and that immigration officials are handling it.",
-  "why": "It shows that airport procedures can affect anyone traveling abroad. Keep your travel documents ready and follow official updates.",
-  "tags": [
-   "travel",
-   "news",
-   "Delhi",
-   "Oxford",
-   "immigration"
-  ]
- },
- {
-  "id": "a5588002be86",
-  "created": "2026-11-24T03:06:32+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
-  "headline": "Madras HC gives police 1 day to check victim's consent",
-  "hook": "A court orders a quick check if the assault victim wants the case closed.",
-  "what": "The Madras High Court ordered police to find out within a day whether the victim of a physical assault agrees to withdraw the criminal case against the accused, a bank manager. The court gave the police a single day to verify the victim's stance.",
-  "why": "It shows how victim consent influences the closure of assault cases and stresses the importance of legal rights. Young Indians should know they can seek justice and understand court procedures.",
-  "tags": [
-   "court",
-   "legal",
-   "assault",
-   "victimrights",
-   "madras"
-  ]
- },
- {
-  "id": "0d558b3de257",
-  "created": "2026-11-24T03:06:34+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdmOUFLaEppLU9uMl80V2x1RTg4YWg3VUc5cWZsVzNfUWJBN2pFY3BhTndKanI0U2gzZHMzZVdpeWlkVkdBMkxGZkEtNFYyYmhteTQ5MHM0NnhkN2lfVk1WcDRxZDluQzVXNll2OWhodnVmaG9qNm15SWdweEM4YmxSWXVKd21mNW9uWW82MHUyWlJLTEE?oc=5",
-  "headline": "CrowdStrike to acquire Zscaler in $44 billion deal",
-  "hook": "Biggest cyber‑security merger could reshape online safety for you.",
-  "what": "US cybersecurity firm CrowdStrike announced it will buy cloud‑security company Zscaler for about $44 billion. The move comes as AI‑driven attacks increase worldwide. The merger will combine endpoint protection with secure web access.",
-  "why": "More of daily life is online, so stronger security tools affect students and young users. Watch for new safety features and emerging job roles in cyber‑defence.",
-  "tags": [
-   "cybersecurity",
-   "tech",
-   "AI",
-   "merger",
-   "jobs"
   ]
  }
 ]

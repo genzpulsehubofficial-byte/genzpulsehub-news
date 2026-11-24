@@ -1,0 +1,35 @@
+{
+ "id": "d09f4a331627",
+ "created": "2026-11-24T11:29:08+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/4-children-killed-32-injured-as-truck-rams-stationary-school-bus-in-ups-kannauj-12368958#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Truck crashes into school bus in UP, 4 dead, 32 hurt",
+  "hook": "A speeding truck hit a school bus, leaving dozens injured.",
+  "what": "A truck traveling at high speed collided with a school bus in Uttar Pradesh. The crash killed four students and injured 32 others. The injured were rushed to a medical college by ambulance.",
+  "why": "The accident underscores road safety risks for students commuting to school. Teens should stay alert and follow safety guidelines while traveling.",
+  "tags": [
+   "UP accident",
+   "school safety",
+   "road safety",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രക്ക് സ്കൂൾ ബസിനെ അടിച്ചു, യു.പിയിൽ 4 മരണം, 32 പരിക്ക്",
+  "hook": "വേഗത്തിൽ ഓടുന്ന ട്രക്ക് സ്കൂൾ ബസിനെ തട്ടിയതോടെ നിരവധി കുട്ടികൾക്ക് പരിക്ക്.",
+  "what": "ഉത്തരപ്രദേശിൽ ഒരു വേഗതയുള്ള ട്രക്ക് സ്കൂൾ ബസുമായി ഇടിഞ്ഞു. ഇതിൽ നാല് വിദ്യാർത്ഥികൾ മരിക്കുകയും 32 പേർക്ക് പരിക്ക് വരുകയും ചെയ്തു. പരിക്കേറ്റവരെ ആംബുലൻസിലൂടെ ഒരു മെഡിക്കൽ കോളേജിലേക്ക് കൊണ്ടുപോയി.",
+  "why": "ഇത്തരമൊരു അപകടം വിദ്യാർത്ഥികളുടെ യാത്രാ സുരക്ഷയുടെ പ്രാധാന്യം കാണിക്കുന്നു. യാത്രക്കിടെ ജാഗ്രത പാലിക്കുകയും സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പിന്തുടരുകയും ചെയ്യണം.",
+  "tags": [
+   "UP അപകടം",
+   "പാഠശാല സുരക്ഷ",
+   "റോഡ് സുരക്ഷ",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ }
+}
