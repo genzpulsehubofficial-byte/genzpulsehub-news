@@ -1,0 +1,37 @@
+{
+ "id": "754f867302b7",
+ "created": "2026-11-25T00:05:51+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Anthropic shares dip below IPO price, AI valuations wobble",
+  "hook": "AI startup worths could feel the squeeze.",
+  "what": "Anthropic’s stock slipped under its initial public offering level. The drop raises concerns for the broader AI startup market.",
+  "why": "Young investors and tech enthusiasts should watch valuation trends as they affect funding opportunities.",
+  "tags": [
+   "AI",
+   "startup",
+   "stock",
+   "valuation",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Anthropic ഷെയറുകൾ IPO വിലക്ക് താഴെ, AI മൂല്യനിർണയം ചലിച്ചു",
+  "hook": "AI സ്റ്റാർട്ടപ്പുകളുടെ വിലയിൽ സമ്മർദ്ദം വരാം.",
+  "what": "Anthropicയുടെ ഓഹരി IPO വിലക്കു താഴെ വീണു. ഈ ഇടിവ് AI സ്റ്റാർട്ടപ്പുകളുടെ മൂല്യനിർണയത്തെ ബാധിക്കാം.",
+  "why": "യുവ നിക്ഷേപകരും ടെക്ക് ആസ്വാദകരും മൂല്യനിരീക്ഷണം ശ്രദ്ധിക്കണം, ഫണ്ടിംഗ് അവസരങ്ങളിലേക്ക് ഇത് സ്വാധീനിക്കാം.",
+  "tags": [
+   "AI",
+   "സ്റ്റാർട്ടപ്പ്",
+   "സ്റ്റോക്ക്",
+   "മൂല്യനിർണയം",
+   "ടെക്"
+  ]
+ }
+}

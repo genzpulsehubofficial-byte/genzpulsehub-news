@@ -1,5 +1,98 @@
 [
  {
+  "id": "754f867302b7",
+  "created": "2026-11-25T00:05:51+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+  "headline": "Anthropic shares dip below IPO price, AI valuations wobble",
+  "hook": "AI startup worths could feel the squeeze.",
+  "what": "Anthropic’s stock slipped under its initial public offering level. The drop raises concerns for the broader AI startup market.",
+  "why": "Young investors and tech enthusiasts should watch valuation trends as they affect funding opportunities.",
+  "tags": [
+   "AI",
+   "startup",
+   "stock",
+   "valuation",
+   "tech"
+  ]
+ },
+ {
+  "id": "76c5ec64a50c",
+  "created": "2026-11-25T00:05:55+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/lighter-school-bags-for-students-in-keralam-from-next-year/article71739494.ece",
+  "headline": "Kerala to limit school bag weight to 10% of student’s mass",
+  "hook": "Your backpack could get lighter next year.",
+  "what": "Kerala's education department has drafted a plan to cap school bag weight at no more than 10% of a child's body weight. The rule will be tested in a few schools starting the next academic session, beginning with primary classes.",
+  "why": "Lighter bags can reduce strain on growing bodies, helping students stay healthier and focus better. Parents and students should check bag contents and weigh them to meet the upcoming guideline.",
+  "tags": [
+   "Kerala",
+   "SchoolBags",
+   "StudentHealth",
+   "Education"
+  ]
+ },
+ {
+  "id": "67bfb1edeb83",
+  "created": "2026-11-25T00:05:58+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bi-weekly-special-trains-between-tirupati-and-vizag-extended-till-january-29-2027/article71738768.ece",
+  "headline": "Special Tirupati-Vizag Trains Extended Until Jan 2027",
+  "hook": "Festive travel just got easier with extra trains.",
+  "what": "South Coast Railway announced that the bi‑weekly special trains linking Tirupati and Vizag will run until 29 January 2027. The service aims to handle the surge of passengers during festival periods.",
+  "why": "Students planning holiday trips can count on more train options, reducing crowding and wait times. Check the schedule before booking.",
+  "tags": [
+   "Tirupati",
+   "Vizag",
+   "SpecialTrains",
+   "FestivalTravel"
+  ]
+ },
+ {
+  "id": "7bed5d5c85c4",
+  "created": "2026-11-25T00:06:01+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Mashable",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+  "headline": "HBO Max halves price for a year this Black Friday",
+  "hook": "Grab a full year of binge‑watching for just half the cost!",
+  "what": "HBO Max is offering a 50% discount on its annual subscription for Black Friday. Other platforms are also slashing prices, with Paramount+ up to 75% off, Apple TV at ₹6.99 per month and Paramount Plus at ₹2.99 per month.",
+  "why": "Lower subscription fees let students stream their favorite shows and music without straining their pocket. Visit the services’ sites soon to lock in the deals before they end.",
+  "tags": [
+   "streaming",
+   "BlackFriday",
+   "HBOmax",
+   "deals",
+   "binge"
+  ]
+ },
+ {
+  "id": "ea918b2e4ea9",
+  "created": "2026-11-25T00:06:03+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/sanskrit-university-moves-kerala-hc-against-student-suspension-order-ptilr8bmyh7",
+  "headline": "Sanskrit University challenges court order lifting suspension of 16 students",
+  "hook": "Students charged with attacking the VC face a legal battle.",
+  "what": "The Sree Sankaracharya University of Sanskrit filed a petition in the Kerala High Court contesting a recent order that cancelled the suspension of 16 students. Those students are alleged to have assaulted the university's Vice-Chancellor.",
+  "why": "The outcome could shape campus safety rules and disciplinary procedures, so students should stay aware of university policies.",
+  "tags": [
+   "Kerala",
+   "University",
+   "Legal",
+   "Students",
+   "Campus"
+  ]
+ },
+ {
   "id": "9c4debde0cd2",
   "created": "2026-11-24T23:07:24+05:30",
   "category": "tech",
@@ -659,100 +752,6 @@
    "fog",
    "IMD",
    "alert"
-  ]
- },
- {
-  "id": "02a9bbc47cf2",
-  "created": "2026-11-24T16:21:29+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/epfo-may-let-employees-deposit-pf-money-directly-via-uan-beyond-12-mandate-what-the-proposal-means-for-you-11795514057212.html",
-  "headline": "EPFO proposes direct PF deposits via UAN",
-  "hook": "Add to your retirement fund without your boss.",
-  "what": "The Employees’ Provident Fund Organisation has suggested a rule change that would let members put voluntary contributions straight into their UAN‑linked PF accounts, bypassing the employer. The proposal also mentions allowing small third‑party contributions, such as tips, which could help gig workers.",
-  "why": "This could give freelancers and young employees more control over their savings and make it easier to boost their retirement corpus. Keep an eye on the final rules and consider using the option once it’s approved.",
-  "tags": [
-   "EPFO",
-   "PF",
-   "UAN",
-   "GigEconomy",
-   "Savings"
-  ]
- },
- {
-  "id": "6fd5c5e96892",
-  "created": "2026-11-24T15:19:32+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/punjab-elections-bharatiya-janata-party-shiromani-akali-dal-bjp-sad-alliance-seat-sharing-november-24-2026/article71737438.ece",
-  "headline": "BJP and SAD reunite for Punjab elections",
-  "hook": "The oldest BJP ally is back in the NDA for Punjab polls.",
-  "what": "On Guru Purab, BJP leader Amit Shah announced that Shiromani Akali Dal has rejoined the National Democratic Alliance. The two parties also disclosed a seat‑sharing arrangement for the upcoming Punjab Assembly election.",
-  "why": "The alliance could shape policies on education and jobs that affect young Indians. Stay updated on the candidates and their promises.",
-  "tags": [
-   "Punjab",
-   "Elections",
-   "BJP",
-   "SAD",
-   "NDA"
-  ]
- },
- {
-  "id": "4ee38de6e8bb",
-  "created": "2026-11-24T15:19:44+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/akali-bjp-to-fight-punjab-assembly-election-together-what-led-to-split-6-years-ago-12369967#publisher=newsstand",
-  "headline": "BJP and Akali Dal team up for Punjab elections",
-  "hook": "Two major parties reunite after years apart to contest Punjab votes",
-  "what": "The Bharatiya Janata Party and Shiromani Akali Dal announced they will contest the upcoming Punjab state election together. This marks a reunion after a split six years ago.",
-  "why": "Their alliance could reshape the state's political landscape, influencing policies that affect education, jobs, and local development. Young voters should watch the campaign to see how the partnership impacts issues that matter to them.",
-  "tags": [
-   "PunjabElection",
-   "BJP",
-   "AkaliDal",
-   "YouthVote",
-   "IndiaPolitics"
-  ]
- },
- {
-  "id": "300f4a411e49",
-  "created": "2026-11-24T15:19:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDFYWHhfWE1ReFJBSFZLUTZpYzVpNmNRV2N3SWc4QWFTNEdBOEpad3ZzYzExN3Y5N0dHSDNOdVhFRHU3bGN0aXZfb05rNmVfa2I4NmhwTTJma0NQRVdobk5DNU5BeWZhUFl1aFZzLUJvMkE2S1dXOGlEeDBFaHhHakszdWh6Q1VVNDd2SGtlNUJnVVUwRkJCMWFXVjZreWhPeGRHc1RoWGRTSXZ2YlBrWExaT1V3aEtWSGtOalhWbE5RbVhBQ3ZEUDk0ZUFmV3RvN0puTNIB2wFBVV95cUxNR3YzMl9ZemI0bXFuVFhFNVJNek5JaXhQVm5pd2lCcEJEdEVlcVA4VlpKWUZQZjJjM2RrdVBhUnB6SHhKeEdqbnMxMFE0UmYya01velFYWG5nZGRBS3ltR3BidzBRSnFlQ21wVkJFU2pJZHU0VnpUTnVrakk1cmt6LUJsd2VKdjk1ZGw4eHN6cHdMUVZYcjZQX09QQnM2Rk1aODU2bjdTNko0S2U5TG83MTFhV0ZUUzdXUTFMQV9HVlMwSHZHTFNzTi04dHViTkp6cUtsaWhzUlZJVlU?oc=5",
-  "headline": "Motorola rolls out Edge 70 Neo in India",
-  "hook": "A new premium phone with a massive battery hits the market.",
-  "what": "Motorola introduced the Edge 70 Neo for the Indian premium segment. The device comes with a 7,000 mAh battery, a 144 Hz screen and AI‑driven photography features.",
-  "why": "Young users get a phone that can last longer and capture better photos, useful for gaming and social media. Check availability before it sells out.",
-  "tags": [
-   "Motorola",
-   "Edge70Neo",
-   "Tech",
-   "Launch",
-   "India"
-  ]
- },
- {
-  "id": "efd226d8d679",
-  "created": "2026-11-24T15:19:51+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/shashi-tharoor-denies-groupism-kerala-congress-kpcc-ptid4hddo1h",
-  "headline": "Tharoor urges swift choice for Kerala Congress chief, rejects faction tags",
-  "hook": "The MP says he's not part of any Kerala Congress cliques.",
-  "what": "Congress MP Shashi Tharoor said he is neither 'Congress I' nor 'Congress A', distancing himself from Kerala's internal factions. He asked the party's top leadership to promptly decide on a new Kerala Pradesh Congress Committee chief.",
-  "why": "The appointment will influence the party's direction in Kerala and impact policies that matter to young voters. Keep an eye on how the leadership race unfolds.",
-  "tags": [
-   "KeralaPolitics",
-   "Congress",
-   "YouthVote",
-   "Leadership"
   ]
  }
 ]

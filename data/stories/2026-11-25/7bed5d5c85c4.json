@@ -1,0 +1,37 @@
+{
+ "id": "7bed5d5c85c4",
+ "created": "2026-11-25T00:06:01+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Mashable",
+ "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "HBO Max halves price for a year this Black Friday",
+  "hook": "Grab a full year of binge‑watching for just half the cost!",
+  "what": "HBO Max is offering a 50% discount on its annual subscription for Black Friday. Other platforms are also slashing prices, with Paramount+ up to 75% off, Apple TV at ₹6.99 per month and Paramount Plus at ₹2.99 per month.",
+  "why": "Lower subscription fees let students stream their favorite shows and music without straining their pocket. Visit the services’ sites soon to lock in the deals before they end.",
+  "tags": [
+   "streaming",
+   "BlackFriday",
+   "HBOmax",
+   "deals",
+   "binge"
+  ]
+ },
+ "ml": {
+  "headline": "HBO Max ഈ ബ്ലാക്ക് ഫ്രൈഡെയിൽ ഒരു വർഷം വില അരക്കായി",
+  "hook": "പകുതി വിലയിൽ ഒരു വർഷം മുഴുവൻ ബിംജ്‑വാച്ചിംഗ് നേടൂ!",
+  "what": "HBO Max ബ്ലാക്ക് ഫ്രൈഡെയ്ക്കായി വാർഷിക സബ്സ്ക്രിപ്ഷനിൽ 50% ഓഫർ നൽകുന്നു. മറ്റ് പ്ലാറ്റ്ഫോംമുകളും വില കുറയ്ക്കുന്നു, Paramount+ 75% വരെ, Apple TV മാസം ₹6.99, Paramount Plus മാസം ₹2.99.",
+  "why": "കുറഞ്ഞ വിലയിൽ വിദ്യാർത്ഥികൾക്ക് ഇഷ്ടമുള്ള ഷോകളും മ്യൂസിക്കും സ്ട്രീം ചെയ്യാം. ഓഫർ അവസാനിക്കുന്നതിന് മുമ്പ് വെബ്സൈറ്റുകളിൽ നിന്ന് ഉടൻ ഉപയോഗിക്കുക.",
+  "tags": [
+   "സ്റ്റ്രീമിംഗ്",
+   "ബ്ലാക്ക്ഫ്രൈഡേ",
+   "HBOmax",
+   "ഡീലുകൾ",
+   "ബിംജ്"
+  ]
+ }
+}

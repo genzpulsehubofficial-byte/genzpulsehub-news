@@ -1,0 +1,37 @@
+{
+ "id": "ea918b2e4ea9",
+ "created": "2026-11-25T00:06:03+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/sanskrit-university-moves-kerala-hc-against-student-suspension-order-ptilr8bmyh7",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sanskrit University challenges court order lifting suspension of 16 students",
+  "hook": "Students charged with attacking the VC face a legal battle.",
+  "what": "The Sree Sankaracharya University of Sanskrit filed a petition in the Kerala High Court contesting a recent order that cancelled the suspension of 16 students. Those students are alleged to have assaulted the university's Vice-Chancellor.",
+  "why": "The outcome could shape campus safety rules and disciplinary procedures, so students should stay aware of university policies.",
+  "tags": [
+   "Kerala",
+   "University",
+   "Legal",
+   "Students",
+   "Campus"
+  ]
+ },
+ "ml": {
+  "headline": "സാൻസ്‌കൃത സർവകലാശാല കോടതി ഉത്തരവ് റദ്ദാക്കാൻ ഹൈക്കോടതി നേരിടുന്നു",
+  "hook": "വൈസ്-ചാൻസലറെ ആക്രമിച്ചതായി ആരോപിത 16 വിദ്യാർത്ഥികൾക്ക് നിയമ പോരാട്ടം.",
+  "what": "ശ്രീ ശങ്കരാചാര്യ സർവകലാശാല 16 വിദ്യാർത്ഥികളുടെ സസ്പെൻഷൻ റദ്ദാക്കിയ കോടതി ഉത്തരവിനെതിരെ കേരള ഹൈക്കോടതിയിൽ അപേക്ഷിച്ചു. ഈ വിദ്യാർത്ഥികളെ വൈസ്-ചാൻസലറെ ആക്രമിച്ചതായി ആരോപിക്കുന്നു.",
+  "why": "ക്യാമ്പസ് സുരക്ഷയും ശിക്ഷാ നടപടികളും ഇതിലൂടെ സ്വാധീനിക്കപ്പെടാം, അതിനാൽ വിദ്യാർത്ഥികൾക്ക് സർവകലാശാലയുടെ നിയമങ്ങൾ അറിയാൻ പ്രധാനമാണ്.",
+  "tags": [
+   "കേരളം",
+   "സർവകലാശാല",
+   "നിയമം",
+   "വിദ്യാർത്ഥി",
+   "ക്യാമ്പസ്"
+  ]
+ }
+}

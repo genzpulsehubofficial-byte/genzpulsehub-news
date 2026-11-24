@@ -1,0 +1,35 @@
+{
+ "id": "67bfb1edeb83",
+ "created": "2026-11-25T00:05:58+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/bi-weekly-special-trains-between-tirupati-and-vizag-extended-till-january-29-2027/article71738768.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Special Tirupati-Vizag Trains Extended Until Jan 2027",
+  "hook": "Festive travel just got easier with extra trains.",
+  "what": "South Coast Railway announced that the bi‑weekly special trains linking Tirupati and Vizag will run until 29 January 2027. The service aims to handle the surge of passengers during festival periods.",
+  "why": "Students planning holiday trips can count on more train options, reducing crowding and wait times. Check the schedule before booking.",
+  "tags": [
+   "Tirupati",
+   "Vizag",
+   "SpecialTrains",
+   "FestivalTravel"
+  ]
+ },
+ "ml": {
+  "headline": "Tirupati‑Vizag പ്രത്യേക ട്രെയിനുകൾ 2027 വരെ നീട്ടി",
+  "hook": "പണ്ടു കാലത്തെ തിരക്കു കുറയ്ക്കാൻ അധിക ട്രെയിനുകൾ",
+  "what": "South Coast Railway പ്രഖ്യാപിച്ചു, Tirupati‑യും Vizag‑യും തമ്മിലുള്ള രണ്ടാഴ്ച്ചയിൽ ഒരിക്കൽ നടത്തുന്ന പ്രത്യേക ട്രെയിനുകൾ 29 ജനുവരി 2027 വരെ പ്രവർത്തിക്കും. ഉത്സവകാലത്തെ യാത്രക്കാരുടെ അധികം തിരക്കു കൈകാര്യം ചെയ്യാനാണ് ഇത്.",
+  "why": "വരാനിരിക്കുന്ന അവധികളിൽ യാത്ര പ്ലാൻ ചെയ്യുന്ന വിദ്യാർത്ഥികൾക്ക് കൂടുതൽ ട്രെയിൻ ഓപ്ഷനുകൾ ലഭിക്കും, തിരക്ക് കുറയും. ബുക്ക് ചെയ്യുന്നതിന് മുമ്പ് ഷെഡ്യൂൾ പരിശോധിക്കുക.",
+  "tags": [
+   "Tirupati",
+   "Vizag",
+   "SpecialTrains",
+   "FestivalTravel"
+  ]
+ }
+}

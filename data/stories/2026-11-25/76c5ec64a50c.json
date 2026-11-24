@@ -1,0 +1,35 @@
+{
+ "id": "76c5ec64a50c",
+ "created": "2026-11-25T00:05:55+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/lighter-school-bags-for-students-in-keralam-from-next-year/article71739494.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala to limit school bag weight to 10% of student’s mass",
+  "hook": "Your backpack could get lighter next year.",
+  "what": "Kerala's education department has drafted a plan to cap school bag weight at no more than 10% of a child's body weight. The rule will be tested in a few schools starting the next academic session, beginning with primary classes.",
+  "why": "Lighter bags can reduce strain on growing bodies, helping students stay healthier and focus better. Parents and students should check bag contents and weigh them to meet the upcoming guideline.",
+  "tags": [
+   "Kerala",
+   "SchoolBags",
+   "StudentHealth",
+   "Education"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം സ്കൂൾ ബാഗിന്റെ ഭാരം വിദ്യാർത്ഥിയുടെ 10%‑ൽ താഴെയാക്കും",
+  "hook": "അടുത്ത വർഷം നിങ്ങളുടെ ബാക്ക്പാക്ക് ലളിതമാകും.",
+  "what": "കേരള വിദ്യാഭ്യാസ വകുപ്പ് വിദ്യാർത്ഥിയുടെ ശരീരഭാരത്തിന്റെ 10% കവിയാത്തതായ സ്കൂൾ ബാഗ് ഭാരം ഉറപ്പാക്കാൻ ഒരു പദ്ധതി രൂപപ്പെടുത്തി. അടുത്ത അധ്യയനവർഷം ചില സ്കൂളുകളിൽ, ആദ്യം പ്രാഥമിക ക്ലാസുകളിൽ, ഈ നയം പരീക്ഷിക്കും.",
+  "why": "ഇത് കുട്ടികളുടെ മസിൽ, ഹൃദയ ആരോഗ്യത്തെ സംരക്ഷിക്കാൻ സഹായിക്കും, പഠനത്തിൽ ശ്രദ്ധ വർദ്ധിപ്പിക്കും. മാതാപിതാക്കൾക്കും വിദ്യാർത്ഥികൾക്കും ബാഗിന്റെ ഭാരം പരിശോധിച്ച് പുതിയ മാനദണ്ഡം പാലിക്കാൻ തയ്യാറാകണം.",
+  "tags": [
+   "കേരളം",
+   "സ്കൂൾബാഗ്",
+   "വിദ്യാർത്ഥി ആരോഗ്യ",
+   "വിദ്യാഭ്യാസ"
+  ]
+ }
+}
