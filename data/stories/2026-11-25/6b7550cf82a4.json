@@ -1,0 +1,37 @@
+{
+ "id": "6b7550cf82a4",
+ "created": "2026-11-25T02:18:37+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Ars Technica",
+ "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Measles deaths hit 14, cases approach 6,000 in US",
+  "hook": "A rising measles outbreak is claiming lives across the US.",
+  "what": "The United States has recorded about 14 measles-related deaths while the total number of cases is close to 6,000. The disease, once declared eliminated, is resurging.",
+  "why": "Young people should verify their vaccination status and get a booster if needed, as the outbreak shows the virus can affect adults too.",
+  "tags": [
+   "measles",
+   "outbreak",
+   "vaccination",
+   "health",
+   "US"
+  ]
+ },
+ "ml": {
+  "headline": "മീസല്സ് മരണസംഖ്യ 14, കേസുകൾ 6,000 ന് സമീപം",
+  "hook": "അമേരിക്കയിൽ മീസല്സ് പുനർവ്യാപനം ജീവിതം അപകടത്തിലാക്കുന്നു.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിൽ മീസല്സ് രോഗം മൂലം 14 പേർ മരിക്കുകയും, കേസുകളുടെ എണ്ണം 6,000 ന് അടുത്തു എത്തുകയും ചെയ്യുന്നു. ഒരിക്കൽ ഇല്ലാതാക്കിയ ഈ രോഗം വീണ്ടും ഉയരുകയാണ്.",
+  "why": "വാക്സിൻ നില പരിശോധിച്ച്, ആവശ്യമെങ്കിൽ ബൂസ്റ്റർ ഷോട്ട് എടുക്കുക; ഈ വ്യാപനം യുവാക്കളെയും മുതിർന്നവരെയും ബാധിക്കാം.",
+  "tags": [
+   "മീസല്സ്",
+   "വ്യാപനം",
+   "വാക്സിൻ",
+   "ആരോഗ്യം",
+   "അമേരിക്ക"
+  ]
+ }
+}

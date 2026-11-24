@@ -1,0 +1,37 @@
+{
+ "id": "d918e35b51ae",
+ "created": "2026-11-25T02:18:39+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Investing.com",
+ "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFpTjJ1Um1FY0RHMzBZa2x5TkVWUktPWTgyempDZFA5V2xmOUFxdTU5VnNUam5SVUFJaHZ3Qk1UdVRkWnJGUTJLbS1IRmVSTV9fS25YLVVoRXJsM2J0UVFoc1BwcFBBX0xVcDREU3hpYmlfTlFYN1ZuVXlRMG5wTGY0X2VGWmdyT0Z3NlNWQ3VqbmtnTzUydDhKVk4zT3BGcEV3ZUVZcENpaDRvb3c?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia stock drops 6% as AI rally stalls",
+  "hook": "Big chip maker’s shares tumble, shaking the AI hype.",
+  "what": "Nvidia’s shares fell about 6% after a recent surge linked to CEO Jensen Huang’s return. The broader Nasdaq index also slipped around 2% as chip stocks lost momentum. US lawmakers raised questions about former President Trump’s involvement in the rally.",
+  "why": "The dip signals volatility in AI‑focused investments, reminding young investors to stay cautious and diversify. Keep an eye on tech market trends before betting heavily on any single stock.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "tech",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia സ്റ്റോക്ക് 6% ഇടിഞ്ഞു, AI റാലി നിർത്തി",
+  "hook": "വലിയ ചിപ്പ് കമ്പനിയുടെ ഷെയറുകൾ വീണു, AI ആവേശം ചലിച്ചു.",
+  "what": "CEO ജെൻസൻ ഹുവാങിന്റെ തിരിച്ചുവരവിനുശേഷം Nvidiaയുടെ ഷെയറുകൾ ഏകദേശം 6% ഇടിഞ്ഞു. Nasdaq സൂചികയും ചിപ്പ് സ്റ്റോക്കുകളുടെ ഇടിവ് മൂലം 2% താഴ്ന്നു. അമേരിക്കൻ രാഷ്ട്രീയക്കാരൻമാർ ട്രംപ്‌ന്റെ പങ്ക് ചോദ്യം ചെയ്തു.",
+  "why": "AI‑കേന്ദ്രിത നിക്ഷേപങ്ങളിൽ ഈ അസ്ഥിരത യുവ നിക്ഷേപകരെ ജാഗ്രതയോടെ പോർട്ട്ഫോളിയോ വൈവിധ്യമാക്കാൻ ഓർമ്മപ്പെടുത്തുന്നു. ഒരു സ്റ്റോക്കിൽ മാത്രം ഭാരം ചെലുത്തുന്നതിന് മുൻപ് മാർക്കറ്റ് ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "tech",
+   "investing"
+  ]
+ }
+}

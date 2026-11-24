@@ -1,5 +1,119 @@
 [
  {
+  "id": "bc1d0b734fec",
+  "created": "2026-11-25T02:17:29+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece",
+  "headline": "Coast Guard saves Filipino man after sea stroke",
+  "hook": "A sudden stroke at sea ended with a rescue.",
+  "what": "The Indian Coast Guard rescued a Filipino citizen who suffered a stroke while at sea. The operation began after the person was reported in distress.",
+  "why": "It highlights the need for quick emergency response and staying safe on water. Keep emergency contacts handy if you go out to sea.",
+  "tags": [
+   "coastguard",
+   "rescue",
+   "stroke",
+   "sea",
+   "safety"
+  ]
+ },
+ {
+  "id": "0d755f9b1931",
+  "created": "2026-11-25T02:18:32+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/most-consumer-platforms-rife-with-dark-patterns-despite-regulatory-action-survey/",
+  "headline": "Survey: Most firms still use dark patterns despite claims",
+  "hook": "Your favorite apps may be nudging you without you knowing.",
+  "what": "A recent survey found that nearly three-quarters of consumer companies that told the Central Consumer Protection Authority they had no dark patterns were still using them. The study highlights a gap between declared compliance and actual practice.",
+  "why": "Young users should stay alert to hidden design tricks that push unwanted actions, and report suspicious behavior to consumer authorities.",
+  "tags": [
+   "darkpatterns",
+   "consumerrights",
+   "techsurvey",
+   "CCPA",
+   "youth"
+  ]
+ },
+ {
+  "id": "6b6e408303ff",
+  "created": "2026-11-25T02:18:35+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/uttar-pradesh-elections-akhilesh-yadavs-open-letter-then-a-move-that-overlaps-congress-wishlist-12372589#publisher=newsstand",
+  "headline": "Akhilesh Yadav seeks serious talks with Congress",
+  "hook": "Will this talk reshape political alliances?",
+  "what": "Akhilesh Yadav, leader of the Samajwadi Party, has publicly asked for serious discussions with the Congress party. He said the talks are needed to explore common ground.",
+  "why": "Young voters should watch for possible coalition shifts that could affect upcoming elections and policies on jobs and education.",
+  "tags": [
+   "politics",
+   "elections",
+   "youth",
+   "India",
+   "alliance"
+  ]
+ },
+ {
+  "id": "6b7550cf82a4",
+  "created": "2026-11-25T02:18:37+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Ars Technica",
+  "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
+  "headline": "Measles deaths hit 14, cases approach 6,000 in US",
+  "hook": "A rising measles outbreak is claiming lives across the US.",
+  "what": "The United States has recorded about 14 measles-related deaths while the total number of cases is close to 6,000. The disease, once declared eliminated, is resurging.",
+  "why": "Young people should verify their vaccination status and get a booster if needed, as the outbreak shows the virus can affect adults too.",
+  "tags": [
+   "measles",
+   "outbreak",
+   "vaccination",
+   "health",
+   "US"
+  ]
+ },
+ {
+  "id": "d918e35b51ae",
+  "created": "2026-11-25T02:18:39+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Investing.com",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFpTjJ1Um1FY0RHMzBZa2x5TkVWUktPWTgyempDZFA5V2xmOUFxdTU5VnNUam5SVUFJaHZ3Qk1UdVRkWnJGUTJLbS1IRmVSTV9fS25YLVVoRXJsM2J0UVFoc1BwcFBBX0xVcDREU3hpYmlfTlFYN1ZuVXlRMG5wTGY0X2VGWmdyT0Z3NlNWQ3VqbmtnTzUydDhKVk4zT3BGcEV3ZUVZcENpaDRvb3c?oc=5",
+  "headline": "Nvidia stock drops 6% as AI rally stalls",
+  "hook": "Big chip maker’s shares tumble, shaking the AI hype.",
+  "what": "Nvidia’s shares fell about 6% after a recent surge linked to CEO Jensen Huang’s return. The broader Nasdaq index also slipped around 2% as chip stocks lost momentum. US lawmakers raised questions about former President Trump’s involvement in the rally.",
+  "why": "The dip signals volatility in AI‑focused investments, reminding young investors to stay cautious and diversify. Keep an eye on tech market trends before betting heavily on any single stock.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "stockmarket",
+   "tech",
+   "investing"
+  ]
+ },
+ {
+  "id": "a4b3e0736d13",
+  "created": "2026-11-25T02:18:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "BigGo Finance",
+  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9laWI4T3dGY29OT0xCd1l3QUlScm4tTTJXclppNnk4ZWVORjA1ajRybmZmbFd4aTUyYjhKYTFhel9yVTI0SHc0RU5zcW5IYmlDUEZMa2ZyUnFRb2VCVWx5cW44MERUV0g0S2otZ2tpQi1Yc1RzNEE?oc=5",
+  "headline": "Google's Gemini 4 Neon shines in coding, Antigravity token‑hungry",
+  "hook": "A new AI model aces code tasks but eats up your token budget.",
+  "what": "Google launched Gemini 4 Neon, which performed best in a blind test of three Gemini models on SEO questions, scoring 5 out of 6. The model also received praise for its coding abilities. Meanwhile, Google’s Antigravity tool was noted for consuming a large number of tokens during use.",
+  "why": "For students and creators using AI for projects, Neon offers strong coding help, but Antigravity may quickly deplete token limits, so manage usage wisely.",
+  "tags": [
+   "GoogleAI",
+   "GeminiNeon",
+   "Coding",
+   "AItools",
+   "Tokens"
+  ]
+ },
+ {
   "id": "35f75bb42e94",
   "created": "2026-11-25T01:15:45+05:30",
   "category": "tech",
@@ -639,120 +753,6 @@
    "banking",
    "real estate",
    "young buyers"
-  ]
- },
- {
-  "id": "975e25a4c8cb",
-  "created": "2026-11-24T18:32:28+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/bank-of-india-500-day-fd-offers-up-to-7-65-interest-check-rates-for-senior-citizens-and-other-depositors-11795521223667.html",
-  "headline": "Bank of India rolls out 500‑day FD with 7.65% for super seniors",
-  "hook": "A new fixed‑deposit scheme could boost returns for older savers.",
-  "what": "Bank of India introduced a 500‑day fixed‑deposit called Akshay FD. It offers up to 7.65% interest for super senior citizens on non‑callable deposits exceeding ₹1 crore. Rates for regular and senior citizens are also listed.",
-  "why": "Understanding these rates helps families plan savings for elders and gives a benchmark for other deposit options. Young investors can compare and decide if such long‑term deposits fit their financial plans.",
-  "tags": [
-   "BankOfIndia",
-   "FixedDeposit",
-   "InterestRates",
-   "Savings",
-   "Finance"
-  ]
- },
- {
-  "id": "aed971766ae6",
-  "created": "2026-11-24T18:32:30+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricket World",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXRfdlktS1E5MVBldXVlRVdfNVZIS0NTZ3dzQnJLYmRrZTJYakRGXzI0U0JLaVZIeWZUdFVyaGY1SHJpY29LN3JKam9oT2xsZVVKLWdFcWM0T29wNUNlekFhRnZVcGIteXpTT0lTNkE3akdGVUg4R1Y3empHaWNEQ0Jhc2JBZzBZd3dpcGNn?oc=5",
-  "headline": "South Africa crush Bangladesh for 91 in 2nd Test",
-  "hook": "Proteas dominate with bowling, leaving Bangladesh under 100.",
-  "what": "South Africa posted 274/4 while Bangladesh were dismissed for 91. Ryan Rickelton made 9 runs and Tony de Zorzi added 28. Nortje spoke about the key to the team's success.",
-  "why": "The result puts South Africa in a strong position in the series, and fans can look forward to the next matches.",
-  "tags": [
-   "cricket",
-   "SouthAfrica",
-   "Bangladesh",
-   "TestSeries",
-   "sports"
-  ]
- },
- {
-  "id": "c2b7120daa8c",
-  "created": "2026-11-24T18:32:33+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/galaxeye-awards-bellatrix-propulsion-contract-for-30-satellites/",
-  "headline": "GalaxEye taps Bellatrix for propulsion on 30 new satellites",
-  "hook": "India's space startups team up for a big satellite push",
-  "what": "Bengaluru‑based GalaxEye signed a multi‑year deal with Bellatrix Aerospace. The agreement covers propulsion systems for GalaxEye’s upcoming 30 Drishti satellites.",
-  "why": "The partnership could boost India's satellite capabilities and create tech jobs. Keep an eye on emerging space opportunities.",
-  "tags": [
-   "space",
-   "startup",
-   "satellite",
-   "tech",
-   "India"
-  ]
- },
- {
-  "id": "51bd4f379931",
-  "created": "2026-11-24T17:23:28+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
-  "headline": "SC permits lamp lighting at Thirupparankundram; BJP chief arrested",
-  "hook": "A holy flame sparks a legal clash and a high‑profile arrest.",
-  "what": "The Supreme Court issued an interim order allowing a lamp to be lit on the disputed 'deepathoon' at Thirupparankundram during the Karthigai Deepam festival. Security was tightened around the hillock, and the Tamil Nadu BJP chief was taken into custody.",
-  "why": "The decision highlights tensions between religious traditions and legal rulings, and the arrest underscores political scrutiny during festivals. Teens should stay informed about civic developments and follow official guidelines if attending the event.",
-  "tags": [
-   "KarthigaiDeepam",
-   "Thirupparankundram",
-   "SupremeCourt",
-   "BJP",
-   "Madurai"
-  ]
- },
- {
-  "id": "17047432b77e",
-  "created": "2026-11-24T17:23:31+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/sonia-gandhi-recalls-pull-of-power-while-deciding-against-becoming-pm-in-2004/article71737616.ece",
-  "headline": "Sonia Gandhi warns of power’s tempting pull",
-  "hook": "She says holding power can create its own excuses.",
-  "what": "In a recent interview, Sonia Gandhi reflected on her 2004 decision not to become prime minister. She called it a lesson that gaining power may lead to justifying its retention.",
-  "why": "Seeing this perspective helps young voters understand how leaders view authority and the need for accountability.",
-  "tags": [
-   "politics",
-   "leadership",
-   "SoniaGandhi",
-   "power",
-   "India"
-  ]
- },
- {
-  "id": "10a24d29fbf8",
-  "created": "2026-11-24T17:23:33+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/bengal-announces-rs-2-000-monthly-allowance-for-unemployed-youth-who-is-eligible-know-key-details-11795519089252.html",
-  "headline": "West Bengal rolls out monthly cash for unemployed youth",
-  "hook": "Get up to ₹2,000 a month if you’re 21‑45 and job‑less",
-  "what": "The West Bengal government introduced the Bhorsha Karmasuchi scheme. Eligible residents aged 21 to 45 will receive a monthly allowance of either ₹1,500 or ₹2,000, based on their qualifications.",
-  "why": "It provides financial relief for young people looking for work and encourages them to check eligibility. Apply through the official portal to claim the benefit.",
-  "tags": [
-   "WestBengal",
-   "unemployment",
-   "youth",
-   "cashAllowance",
-   "jobs"
   ]
  }
 ]

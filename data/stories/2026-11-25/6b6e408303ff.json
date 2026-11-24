@@ -1,0 +1,37 @@
+{
+ "id": "6b6e408303ff",
+ "created": "2026-11-25T02:18:35+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/uttar-pradesh-elections-akhilesh-yadavs-open-letter-then-a-move-that-overlaps-congress-wishlist-12372589#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Akhilesh Yadav seeks serious talks with Congress",
+  "hook": "Will this talk reshape political alliances?",
+  "what": "Akhilesh Yadav, leader of the Samajwadi Party, has publicly asked for serious discussions with the Congress party. He said the talks are needed to explore common ground.",
+  "why": "Young voters should watch for possible coalition shifts that could affect upcoming elections and policies on jobs and education.",
+  "tags": [
+   "politics",
+   "elections",
+   "youth",
+   "India",
+   "alliance"
+  ]
+ },
+ "ml": {
+  "headline": "അഖിലേഷ് യാദവ് കോൺഗ്രസ്‌യുമായി ഗൗരവമായ ചർച്ചകൾക്ക് ആഹ്വാനം",
+  "hook": "ഇത് കൂട്ടുകെട്ടുകൾക്ക് മാറ്റം വരുത്തുമോ?",
+  "what": "സമാജികവാദി പാർട്ടിയുടെ നേതാവായ അഖിലേഷ് യാദവ്, കോൺഗ്രസ്‌യുമായി ഗൗരവമായ ചർച്ചകൾ നടത്തണമെന്ന് പൊതുവായി ആവശ്യപ്പെട്ടു. പൊതുവായി പങ്കിടേണ്ട ലക്ഷ്യങ്ങൾ കണ്ടെത്താൻ ഈ ചർച്ചകൾ ആവശ്യമാണ്.",
+  "why": "യുവജനങ്ങൾ വരാനിരിക്കുന്ന തിരഞ്ഞെടുപ്പുകളും തൊഴിൽ, വിദ്യാഭ്യാസ നയങ്ങളും എങ്ങനെ ബാധിക്കപ്പെടും എന്ന് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "രാഷ്ട്രീയം",
+   "തിരഞ്ഞെടുപ്പ്",
+   "യുവജനങ്ങൾ",
+   "ഇന്ത്യ",
+   "കൂട്ടുകെട്ട്"
+  ]
+ }
+}

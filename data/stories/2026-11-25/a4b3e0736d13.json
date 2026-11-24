@@ -1,0 +1,37 @@
+{
+ "id": "a4b3e0736d13",
+ "created": "2026-11-25T02:18:44+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "BigGo Finance",
+ "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9laWI4T3dGY29OT0xCd1l3QUlScm4tTTJXclppNnk4ZWVORjA1ajRybmZmbFd4aTUyYjhKYTFhel9yVTI0SHc0RU5zcW5IYmlDUEZMa2ZyUnFRb2VCVWx5cW44MERUV0g0S2otZ2tpQi1Yc1RzNEE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google's Gemini 4 Neon shines in coding, Antigravity token‑hungry",
+  "hook": "A new AI model aces code tasks but eats up your token budget.",
+  "what": "Google launched Gemini 4 Neon, which performed best in a blind test of three Gemini models on SEO questions, scoring 5 out of 6. The model also received praise for its coding abilities. Meanwhile, Google’s Antigravity tool was noted for consuming a large number of tokens during use.",
+  "why": "For students and creators using AI for projects, Neon offers strong coding help, but Antigravity may quickly deplete token limits, so manage usage wisely.",
+  "tags": [
+   "GoogleAI",
+   "GeminiNeon",
+   "Coding",
+   "AItools",
+   "Tokens"
+  ]
+ },
+ "ml": {
+  "headline": "Google‑ന്റെ Gemini 4 Neon കോഡിംഗ്‌യിൽ തിളങ്ങുന്നു, Antigravity ടോക്കൺ‌വിലയേറിയത്",
+  "hook": "പുതിയ AI മോഡൽ കോഡ് ചുമതലകൾക്ക് മികവ്, പക്ഷേ ടോക്കൺ‌ബജറ്റ് വേഗം തീരും.",
+  "what": "Google Gemini 4 Neon പുറത്തിറക്കി, മൂന്ന് Gemini മോഡലുകൾ SEO ചോദ്യങ്ങളിൽ പരീക്ഷിച്ചപ്പോൾ Neon 5‑ൽ 6 ശരിയായി നേടി. ഈ മോഡലിന് കോഡിംഗ് കഴിവിനും പ്രശംസ ലഭിച്ചു. അതേ സമയം, Google‑യുടെ Antigravity ഉപകരണം ഉപയോഗിക്കുമ്പോൾ ടോക്കൺ‌വില കൂടുതലാണെന്ന് ശ്രദ്ധിച്ചു.",
+  "why": "കോഡ്‌പ്രോജക്റ്റുകൾക്കും AI സഹായങ്ങൾക്കും Neon ഉപകാരപ്രദമാകും, പക്ഷേ Antigravity‑യുടെ ഉയർന്ന ടോക്കൺ ഉപയോഗം നിയന്ത്രിച്ച് ഉപയോഗിക്കുക.",
+  "tags": [
+   "GoogleAI",
+   "GeminiNeon",
+   "Coding",
+   "AItools",
+   "Tokens"
+  ]
+ }
+}

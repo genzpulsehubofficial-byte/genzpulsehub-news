@@ -1,0 +1,37 @@
+{
+ "id": "0d755f9b1931",
+ "created": "2026-11-25T02:18:32+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/most-consumer-platforms-rife-with-dark-patterns-despite-regulatory-action-survey/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Survey: Most firms still use dark patterns despite claims",
+  "hook": "Your favorite apps may be nudging you without you knowing.",
+  "what": "A recent survey found that nearly three-quarters of consumer companies that told the Central Consumer Protection Authority they had no dark patterns were still using them. The study highlights a gap between declared compliance and actual practice.",
+  "why": "Young users should stay alert to hidden design tricks that push unwanted actions, and report suspicious behavior to consumer authorities.",
+  "tags": [
+   "darkpatterns",
+   "consumerrights",
+   "techsurvey",
+   "CCPA",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "സർവേ: ഭൂരിഭാഗം കമ്പനികളും ഡാർക്ക് പാറ്റേൺ തുടരുന്നു",
+  "hook": "നിങ്ങളുടെ ആപ്പുകൾ നിങ്ങളെ അറിയാതെ വഴിതെറ്റിക്കാൻ ശ്രമിക്കാം.",
+  "what": "ഒരു പുതിയ സർവേ പ്രകാരം, സെൻട്രൽ കൺസ്യൂമർ പ്രൊട്ടക്ഷൻ അതോറിറ്റിക്ക് ഡാർക്ക് പാറ്റേൺ ഇല്ലെന്ന് അറിയിച്ചു കൊണ്ടിരുന്ന ഉപഭോക്തൃ കമ്പനികളിൽ ഏകദേശം മൂന്ന്-പകുതിയിലധികം ഇപ്പോഴും അവ ഉപയോഗിക്കുന്നു. ഇത് പ്രഖ്യാപിത പാലനവും യാഥാർത്ഥ്യവും തമ്മിലുള്ള വ്യത്യാസം സൂചിപ്പിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾ മറഞ്ഞിരിക്കുന്ന ഡിസൈൻ ട്രിക്കുകൾക്ക് ജാഗ്രതയോടെ ഇരിക്കുക, സംശയകരമായ പ്രവർത്തനങ്ങൾ റിപ്പോർട്ട് ചെയ്യുക.",
+  "tags": [
+   "darkpatterns",
+   "consumerrights",
+   "techsurvey",
+   "CCPA",
+   "youth"
+  ]
+ }
+}

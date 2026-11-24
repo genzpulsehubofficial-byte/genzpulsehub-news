@@ -1,0 +1,37 @@
+{
+ "id": "bc1d0b734fec",
+ "created": "2026-11-25T02:17:29+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Coast Guard saves Filipino man after sea stroke",
+  "hook": "A sudden stroke at sea ended with a rescue.",
+  "what": "The Indian Coast Guard rescued a Filipino citizen who suffered a stroke while at sea. The operation began after the person was reported in distress.",
+  "why": "It highlights the need for quick emergency response and staying safe on water. Keep emergency contacts handy if you go out to sea.",
+  "tags": [
+   "coastguard",
+   "rescue",
+   "stroke",
+   "sea",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "കോസ്റ്റ് ഗാർഡ് കടലിൽ സ്‌ട്രോക്ക് ബാധിച്ച ഫിലിപ്പീനിൻ രക്ഷിച്ചു",
+  "hook": "കടലിൽ അപ്രതീക്ഷിത സ്‌ട്രോക്ക്, സഹായം ഉടൻ എത്തി",
+  "what": "ഇന്ത്യൻ കോസ്റ്റ് ഗാർഡ് കടലിൽ സ്‌ട്രോക്ക് ബാധിച്ച ഒരു ഫിലിപ്പീനിൻ പൗരനെ രക്ഷിച്ചു. അവൻ ദുരിതത്തിൽ ആയിരുന്നുവെന്ന് വിവരം ലഭിച്ചതിനുശേഷം രക്ഷാപ്രവർത്തനം ആരംഭിച്ചു.",
+  "why": "ഇത് അടിയന്തര സഹായത്തിന്റെ പ്രാധാന്യം കാണിക്കുന്നു; കടലിൽ പോകുമ്പോൾ സുരക്ഷാ നടപടികൾ പാലിക്കുക.",
+  "tags": [
+   "കോസ്റ്റ്‌ഗാർഡ്",
+   "രക്ഷ",
+   "സ്‌ട്രോക്ക്",
+   "കടൽ",
+   "സുരക്ഷ"
+  ]
+ }
+}
