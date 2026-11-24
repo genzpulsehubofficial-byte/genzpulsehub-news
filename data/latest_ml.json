@@ -1,5 +1,100 @@
 [
  {
+  "id": "e77457ee3096",
+  "created": "2026-11-24T09:23:21+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+  "headline": "Google പറയുന്നു 30 സ്ഥാനങ്ങൾ മാത്രം, വലിയ ലേയ്‌ഓഫ് ഇല്ല",
+  "hook": "വലിയ ലേയ്‌ഓഫ് ഇല്ല, കുറച്ച് സ്ഥാനങ്ങൾ മാത്രം നീക്കം",
+  "what": "Google‑ന്റെ ഔദ്യോഗിക X അക്കൗണ്ട് ഇന്ത്യയിൽ വലിയ ലേയ്‌ഓഫ് ഇല്ലെന്ന് വ്യക്തമാക്കി. ഏകദേശം 30 സ്ഥാനങ്ങൾ ഒഴിവാക്കിയതായി പറയുന്നു.",
+  "why": "ജോലി അന്വേഷിക്കുന്ന യുവജനങ്ങൾക്ക് വലിയ ചിന്തയില്ല, പക്ഷേ പരിമിത സ്ഥാനങ്ങൾക്കുള്ള മത്സരം തുടരുന്നു. ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Google",
+   "layoffs",
+   "India",
+   "jobs",
+   "tech"
+  ]
+ },
+ {
+  "id": "3d240319a70d",
+  "created": "2026-11-24T09:23:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+  "headline": "നെപാളിലെ ഭൂകമ്പം വടക്കന്‍ ബംഗാള്‍, സിക്കിംയില്‍ അനുഭവപ്പെട്ടു",
+  "hook": "രാവിലെ 7 മണിക്ക് രണ്ട് സംസ്ഥാനങ്ങളിലുമുള്ള ആളുകള്‍ വീടുകള്‍ വിട്ടു പുറത്തേക്ക്‍ ഓടി.",
+  "what": "നെപാളില്‍ സംഭവിച്ച ഒരു ഭൂകമ്പം വടക്കന്‍ ബംഗാള്‍, സിക്കിം എന്നിവിടങ്ങളില്‍ രാവിലെ 7 മണിക്ക് അനുഭവപ്പെട്ടു. പല സ്ഥലങ്ങളിലുമുള്ള ആളുകള്‍ കുലുക്കം അനുഭവിച്ച് വീടുകള്‍ വിട്ടു പുറത്തേക്ക്‍ ഓടി.",
+  "why": "ഇത്തരത്തിലുള്ള കുലുക്കങ്ങള്‍ സുരക്ഷാ നടപടികള്‍ക്കുള്ള ജാഗ്രത വര്‍ദ്ധിപ്പിക്കുന്നു. അടിയന്തര കിറ്റ് തയ്യാറാക്കി, പ്രാദേശിക നിര്‍ദ്ദേശങ്ങള്‍ പാലിക്കുക.",
+  "tags": [
+   "ഭൂകമ്പം",
+   "നെപാൾ",
+   "ബംഗാൾ",
+   "സിക്കിം",
+   "സുരക്ഷ"
+  ]
+ },
+ {
+  "id": "2b8fc859b5b8",
+  "created": "2026-11-24T09:23:26+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "XBOX Wire",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
+  "headline": "ക്ലൗഡ് പ്ലേ ഉപയോഗിച്ച് GTA VI പിസിയിലും കൺസോളിലും സ്ട്രീം ചെയ്യാം",
+  "hook": "കൺസോൾ ഇല്ലാതെ പുതിയ GTA കളിക്കാൻ ആഗ്രഹമോ?",
+  "what": "ക്ലൗഡ് സേവനങ്ങളോ റിമോട്ട് പ്ലേയോ ഉപയോഗിച്ച് ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ VI സ്ട്രീം ചെയ്യാനുള്ള മാർഗ്ഗങ്ങൾ ഇപ്പോൾ ലഭ്യമാണ്. PS Plus പ്രീമിയം സബ്സ്ക്രിപ്ഷൻ ഉപയോഗിച്ച് ഗെയിം പി‌സി, പ്ലേസ്റ്റേഷൻ 5, പ്ലേസ്റ്റേഷൻ പോർട്ടൽ എന്നിവയിൽ സ്ട്രീം ചെയ്യാം. സോണിയുടെ സിസ്റ്റം പി‌സി സ്ട്രീമിംഗ് അനുവദിക്കുന്നില്ല.",
+  "why": "കൺസോൾ വാങ്ങാൻ ബജറ്റ് ഇല്ലാത്ത ഗെയിമർമാർക്ക് ഇത് ചെലവ് കുറയ്ക്കും. ഇതിനാൽ അവർക്ക് ഇതിനകം ഉള്ള ഉപകരണങ്ങളിൽ പുതിയ ഗെയിം ആസ്വദിക്കാൻ കഴിയും.",
+  "tags": [
+   "GTA6",
+   "ക്ലൗഡ്ഗെയിമിംഗ്",
+   "റിമോട്ട്‌പ്ലേ",
+   "ഗെയിമിംഗ്",
+   "PSplus"
+  ]
+ },
+ {
+  "id": "465880d6e02e",
+  "created": "2026-11-24T09:23:29+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+  "headline": "ഗുരുനാൻ‌ക് ജയംതി കാരണം സ്റ്റോക്ക് മാർക്കറ്റുകൾ അടഞ്ഞു; ബാങ്കുകൾക്കും ഇടവേള?",
+  "hook": "ഇന്ന് ട്രേഡിംഗ് നിർത്തി—ഏത് സേവനങ്ങൾ തുറന്നിരിക്കുമെന്ന് അറിയൂ.",
+  "what": "2026 നവംബർ 24-ന് ഗുരുനാൻ‌ക് ജയംതി ആഘോഷം കൊണ്ട് ഇന്ത്യയിലെ എല്ലാ ആഭ്യന്തര ഷെയർ വിപണികളും അടഞ്ഞു. മൾട്ടി കോമോഡിറ്റി എക്സ്ചേഞ്ച് (MCX) വൈകുന്നേരം സെഷനിൽ മാത്രം പ്രവർത്തനം ആരംഭിക്കും. 21 നഗരങ്ങളിലെ പല ബാങ്കുകളും അടച്ചിരിക്കുമെന്ന് RBI പ്രഖ്യാപിച്ചു, കൂടാതെ നിരവധി സംസ്ഥാനങ്ങളിലെ സ്കൂളുകൾ അവധി പ്രഖ്യാപിച്ചു.",
+  "why": "യുവ നിക്ഷേപകരും വിദ്യാർത്ഥികളും അവധി സമയത്ത് മറ്റ് പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുകയോ, പ്രധാന കാര്യങ്ങൾ മുൻകൂട്ടി ക്രമീകരിക്കുകയോ ചെയ്യണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "ബാങ്ക്‌ഹോളിഡേ",
+   "ഗുരുനാൻ‌ക്ജയന്തി",
+   "വിദ്യാർത്ഥികൾ",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "71da4ff3427e",
+  "created": "2026-11-24T09:23:31+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-i-premature-redemption-investors-gain-up-to-167-check-rbi-fixed-price-exit-date-and-interest-rate-11795483751270.html",
+  "headline": "SGB 2021-22 Series I മുൻകൂർ മോചനം 167% ലാഭം",
+  "hook": "സോവറീൻ ഗോൾഡ് ബോണ്ടുകൾ മുൻകൂർ പിൻവലിച്ച് വേഗം ലാഭം നേടൂ.",
+  "what": "2021-22 സീരീസ് I സോവറീൻ ഗോൾഡ് ബോണ്ടുകളുടെ ഉടമകൾക്ക് ഇപ്പോൾ മുൻകൂർ മോചനം ചെയ്യാം, ഇതിലൂടെ പുറംവിലയുടെ 167% വരെ ലാഭം ലഭിക്കാൻ സാധ്യതയുണ്ട്. RBI നിശ്ചയിച്ച വിലയും മോചന തീയതിയും ഈ മോചനത്തിന് ബാധകമാണ്.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഉയർന്ന ലാഭം നേടാനുള്ള അവസരമാണിത്, അതിനാൽ RBI പ്രഖ്യാപിച്ച വിലയും മോചന തീയതിയും പരിശോധിച്ച് തീരുമാനിക്കുക.",
+  "tags": [
+   "SGB",
+   "നിക്ഷേപം",
+   "ഗോൾഡ്ബോണ്ട്",
+   "മുൻകൂർമോചനം",
+   "RBI"
+  ]
+ },
+ {
   "id": "468b094d23b1",
   "created": "2026-11-24T08:23:45+05:30",
   "category": "headlines",
@@ -655,101 +750,6 @@
    "Steadview",
    "Stocks",
    "Investing"
-  ]
- },
- {
-  "id": "95e42a4e3cee",
-  "created": "2026-11-24T02:15:16+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "TODAY.com",
-  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmlYdHhvNTFuVUxITkV5NVZ4OHlKSElXZ1poa0RwQTUtdW82TC1ERmpvZE42VmZOYWlFd1BHT1FRMGFwVnMzamJiNGFLWUd4Z0oycmVNeFhMRlpac0tMTVZSbU9ROUh6MUJtWGRmeTlFdlE1dGkwNXFhWElwVmc0YnpIYmM5NUgyb1hMTmtOYW9uUEpyVXpzR21WdXVBR3hYR0pOUWIwLXlCdw?oc=5",
-  "headline": "US-ൽ മീസിൽസ് ഇല്ലാതാക്കൽ നില നഷ്ടപ്പെട്ടു; 7 കുട്ടി രോഗങ്ങൾ കൂടി മടങ്ങാം",
-  "hook": "അമേരിക്കയിലെ ഈ പ്രചണ്ഡം ലോകവ്യാപകമായി കുട്ടികളിൽ പുതിയ അപകടങ്ങൾ സൃഷ്ടിക്കാം.",
-  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് 1991 മുതൽ ഏറ്റവും വലിയ മീസിൽസ് പ്രചരണം ശേഷം അതിന്റെ ഇല്ലാതാക്കൽ സ്ഥിതി നഷ്ടപ്പെടുത്തി. ഡോക്ടർമാർ മീസിൽസിനൊപ്പം ഏഴ് മറ്റ് സാധാരണ ബാല്യരോഗങ്ങളും വീണ്ടും കാണപ്പെടാം എന്ന് മുന്നറിയിപ്പ് നൽകി.",
-  "why": "ഇത് വാക്സിനേഷൻ സമയോചിതമായി ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യം ചൂണ്ടിക്കാണിക്കുന്നു. യുവാക്കൾ അവരുടെ എല്ലാ ലസിക്കുകളും പുതുക്കി, ചെറു സഹോദരങ്ങളെയും വാക്സിനേറ്റ് ചെയ്യാൻ പ്രോത്സാഹിപ്പിക്കണം.",
-  "tags": [
-   "മീസിൽസ്",
-   "വാക്സിൻ",
-   "ആരോഗ്യം",
-   "ഗ്ലോബൽ",
-   "കുട്ടികൾ"
-  ]
- },
- {
-  "id": "a4354f1e094d",
-  "created": "2026-11-24T02:15:18+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "FXEmpire",
-  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnRoWE1pMWt1cjhrV0ZCNldXZmVObEtEQnNFb0xWQXJaeDk1NGtYbEU4dndSU1BrR184dEV6VXUxY091dXdKZjJfT2VDbkF1eHgzVGRCY1Z6LXBuNmVESWFSODlpM21kTDJrcF9TcEdLbGtWY3N4bjNPblZXT19EaVpDQlBDOTRVb0JWb2lfeDZ2T1pmU3d0X2Rvcy1oaW5IQzlLY0VrRTVDd3Qy?oc=5",
-  "headline": "ഗോൾഡ് $3,500 വരെ ഉയരും, പക്ഷേ വിറ്റഴിക്കലിന് സമ്മർദ്ദം",
-  "hook": "വില ഉയരാം, പക്ഷേ അത് താൽക്കാലികം ആകാം.",
-  "what": "വിശകലകർ ഗോൾഡിന്റെ വില $3,500 വരെ മടങ്ങാൻ സാധ്യതയുണ്ടെന്ന് പറയുന്നു. എന്നാൽ വിറ്റഴിക്കലിന്റെ സമ്മർദ്ദം ഈ ഉയർച്ചയെ നിയന്ത്രിക്കാം.",
-  "why": "യുവ നിക്ഷേപകർക്ക് ഈ ചഞ്ചലതയെ ശ്രദ്ധിച്ച്, വാങ്ങുന്നതിന് മുൻപ് സമയം നോക്കണം.",
-  "tags": [
-   "gold",
-   "price",
-   "invest",
-   "markets",
-   "india"
-  ]
- },
- {
-  "id": "56e2dcc04652",
-  "created": "2026-11-24T01:16:00+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
-  "headline": "ഡെൽഹി പോലീസ് ഓഫീസർ 13 ലക്ഷം രൂപ കാർ കാരണം വിവാഹം റദ്ദാക്കി, സസ്പെൻഡ്",
-  "hook": "13 ലക്ഷം രൂപ മൂല്യമുള്ള ഒരു കാർ കാരണമായി വിവാഹം റദ്ദാക്കിയതോടെ ഓഫീസർ സസ്പെൻഡായി—എന്താണ് സംഭവിച്ചത്?",
-  "what": "ഡെൽഹി പോലീസ് ഉദ്യോഗസ്ഥൻ നവംബർ 20 ന് നിശ്ചയിച്ചിരുന്ന വിവാഹം ഒരു 13 ലക്ഷം രൂപയുടെ കാറുമായി ബന്ധപ്പെട്ട പ്രശ്നം കാരണം റദ്ദാക്കി. ഇതിന്റെ ഫലമായി അവനെ സസ്പെൻഡു ചെയ്തു.",
-  "why": "ഇത് വ്യക്തിഗത തർക്കങ്ങൾ ഔദ്യോഗിക ചുമതലകളെ എങ്ങനെ ബാധിക്കാം എന്നതിന്റെ ഉദാഹരണമാണ്, യുവാക്കൾക്ക് നിയമപരമായ ഉത്തരവാദിത്വങ്ങൾ മനസ്സിലാക്കാൻ സഹായിക്കും.",
-  "tags": [
-   "ഡെൽഹി",
-   "പോലീസ്",
-   "വിവാഹം",
-   "സസ്പെൻഷൻ",
-   "വാർത്ത"
-  ]
- },
- {
-  "id": "8fb6be28f3f1",
-  "created": "2026-11-24T01:17:03+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-  "headline": "രാഷ്ട്രീയക്കാർ ജെൻസൻ ഹുവാങിന്റെ നിവിഡിയയിലെ വേഗത്തിലുള്ള തിരിച്ചുവരവിന് പ്രതികരിക്കുന്നു",
-  "hook": "എല്ലാ പാർട്ടികളും ഈ അപ്രതീക്ഷിത നേതൃപരിവർത്തനത്തിൽ കോപം, ആശയക്കുഴപ്പം പ്രകടിപ്പിക്കുന്നു.",
-  "what": "ജെൻസൻ ഹുവാങ് രണ്ട് ആഴ്ചയ്ക്കു താഴെ നീക്കംചെയ്യപ്പെട്ടതിനു ശേഷം നിവിഡിയയുടെ നേതാവായി വീണ്ടും നിയമിതനായി. വിവിധ രാഷ്ട്രീയക്കാരൻമാർ ഈ തീരുമാനത്തെക്കുറിച്ച് കോപം, ഉത്കണ്ഠ, ആശയക്കുഴപ്പം എന്നിവ പ്രകടിപ്പിച്ചു.",
-  "why": "നിവിഡിയയുടെ നേതൃമാറ്റം AI, ഗെയിമിംഗ് മേഖലകളെ ബാധിക്കാം, ഇത് യുവജനങ്ങളുടെ കരിയർ, ഗെയിമിംഗ് അനുഭവം എന്നിവയിൽ സ്വാധീനിക്കും. കമ്പനിയുടെ ഭാവി പ്രഖ്യാപനങ്ങൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "politics",
-   "tech",
-   "AI"
-  ]
- },
- {
-  "id": "347446a18553",
-  "created": "2026-11-24T01:17:06+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
-  "headline": "Krushi OWS സ്കൂൾ കുട്ടികൾക്ക് റോഡ് സുരക്ഷാ മത്സരങ്ങൾ",
-  "hook": "നിങ്ങളുടെ സ്കൂളും റോഡ് സുരക്ഷാ ചലഞ്ചിൽ ചേരാം!",
-  "what": "Krushi OWS സ്കൂൾ വിദ്യാർത്ഥികൾക്കായി റോഡ് സുരക്ഷാ വിഷയത്തിൽ മത്സരങ്ങൾ സംഘടിപ്പിച്ചു. ക്വിസുകളും പ്രവർത്തനങ്ങളുമിലൂടെ സുരക്ഷിത യാത്രാ ശീലങ്ങൾ പഠിപ്പിക്കാൻ ഇവ ലക്ഷ്യമിടുന്നു. പങ്കെടുത്ത സ്കൂളുകൾ അവരുടെ അറിവ് പ്രദർശിപ്പിക്കാൻ മത്സരിക്കുന്നു.",
-  "why": "റോഡ് നിയമങ്ങൾ അറിയുന്നത് സ്കൂൾ പോകുമ്പോഴും സുഹൃത്തുക്കളുമായി പുറപ്പെടുമ്പോഴും സുരക്ഷ ഉറപ്പാക്കുന്നു. വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂളിലൂടെ ഈ മത്സരങ്ങളിൽ ചേരുകയും പ്രായോഗിക സുരക്ഷാ ഉപദേശങ്ങൾ നേടുകയും ചെയ്യാം.",
-  "tags": [
-   "റോഡ് സുരക്ഷ",
-   "സ്കൂൾ",
-   "മത്സരം",
-   "അവബോധം",
-   "ഇന്ത്യ"
   ]
  }
 ]

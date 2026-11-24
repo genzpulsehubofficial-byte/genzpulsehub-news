@@ -1,0 +1,37 @@
+{
+ "id": "465880d6e02e",
+ "created": "2026-11-24T09:23:29+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Stock Markets Close for Guru Nanak Jayanti; Banks May Follow",
+  "hook": "Your trades pause today—find out which services are still running.",
+  "what": "India’s domestic equity exchanges are shut on November 24 for Guru Nanak Jayanti. The Multi Commodity Exchange will restart only in the evening session. Several banks across 21 cities have also announced closures, and schools in many states are on holiday.",
+  "why": "Young investors and students should check alternative platforms or plan tasks around the holiday schedule to avoid missed deadlines.",
+  "tags": [
+   "stockmarket",
+   "bankholiday",
+   "gurunankjayanti",
+   "students",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുരുനാൻ‌ക് ജയംതി കാരണം സ്റ്റോക്ക് മാർക്കറ്റുകൾ അടഞ്ഞു; ബാങ്കുകൾക്കും ഇടവേള?",
+  "hook": "ഇന്ന് ട്രേഡിംഗ് നിർത്തി—ഏത് സേവനങ്ങൾ തുറന്നിരിക്കുമെന്ന് അറിയൂ.",
+  "what": "2026 നവംബർ 24-ന് ഗുരുനാൻ‌ക് ജയംതി ആഘോഷം കൊണ്ട് ഇന്ത്യയിലെ എല്ലാ ആഭ്യന്തര ഷെയർ വിപണികളും അടഞ്ഞു. മൾട്ടി കോമോഡിറ്റി എക്സ്ചേഞ്ച് (MCX) വൈകുന്നേരം സെഷനിൽ മാത്രം പ്രവർത്തനം ആരംഭിക്കും. 21 നഗരങ്ങളിലെ പല ബാങ്കുകളും അടച്ചിരിക്കുമെന്ന് RBI പ്രഖ്യാപിച്ചു, കൂടാതെ നിരവധി സംസ്ഥാനങ്ങളിലെ സ്കൂളുകൾ അവധി പ്രഖ്യാപിച്ചു.",
+  "why": "യുവ നിക്ഷേപകരും വിദ്യാർത്ഥികളും അവധി സമയത്ത് മറ്റ് പ്ലാറ്റ്ഫോം ഉപയോഗിക്കുകയോ, പ്രധാന കാര്യങ്ങൾ മുൻകൂട്ടി ക്രമീകരിക്കുകയോ ചെയ്യണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "ബാങ്ക്‌ഹോളിഡേ",
+   "ഗുരുനാൻ‌ക്ജയന്തി",
+   "വിദ്യാർത്ഥികൾ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

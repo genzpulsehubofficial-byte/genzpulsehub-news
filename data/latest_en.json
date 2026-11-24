@@ -1,5 +1,100 @@
 [
  {
+  "id": "e77457ee3096",
+  "created": "2026-11-24T09:23:21+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+  "headline": "Google says only about 30 jobs cut, denies mass layoffs",
+  "hook": "No big job purge – just a few dozen positions gone",
+  "what": "An official Google account on X clarified that the company is not carrying out large‑scale layoffs in India. It said roughly 30 positions have been eliminated.",
+  "why": "For job‑seeking Gen Z, the news shows that massive layoffs are not happening, but competition for limited roles remains. Keep an eye on official company updates.",
+  "tags": [
+   "Google",
+   "layoffs",
+   "India",
+   "jobs",
+   "tech"
+  ]
+ },
+ {
+  "id": "3d240319a70d",
+  "created": "2026-11-24T09:23:23+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+  "headline": "Nepal quake felt in North Bengal, Sikkim early morning",
+  "hook": "Morning tremors woke up residents across two Indian states.",
+  "what": "An earthquake in Nepal caused shaking that was felt around 7 a.m. in parts of North Bengal and Sikkim. People in several locations stepped out of their houses as the tremors were experienced.",
+  "why": "Such tremors remind us to stay alert for safety measures during earthquakes. Keep emergency kits ready and follow local guidance.",
+  "tags": [
+   "earthquake",
+   "nepal",
+   "bengal",
+   "sikkim",
+   "safety"
+  ]
+ },
+ {
+  "id": "2b8fc859b5b8",
+  "created": "2026-11-24T09:23:26+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "XBOX Wire",
+  "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
+  "headline": "Stream GTA VI to PC and Console via Cloud Play",
+  "hook": "Play the new GTA without owning a console.",
+  "what": "Guides now explain how to stream Grand Theft Auto VI using cloud services or remote play. The title can be streamed to a PC, PlayStation 5 and the PlayStation Portal with a PS Plus Premium subscription. Sony’s system does not support PC streaming.",
+  "why": "This lets gamers with limited hardware enjoy the latest release, saving the cost of a console. Teens can try the game on devices they already own.",
+  "tags": [
+   "GTA6",
+   "cloudgaming",
+   "remoteplay",
+   "gamingtips",
+   "PSplus"
+  ]
+ },
+ {
+  "id": "465880d6e02e",
+  "created": "2026-11-24T09:23:29+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+  "headline": "Stock Markets Close for Guru Nanak Jayanti; Banks May Follow",
+  "hook": "Your trades pause today—find out which services are still running.",
+  "what": "India’s domestic equity exchanges are shut on November 24 for Guru Nanak Jayanti. The Multi Commodity Exchange will restart only in the evening session. Several banks across 21 cities have also announced closures, and schools in many states are on holiday.",
+  "why": "Young investors and students should check alternative platforms or plan tasks around the holiday schedule to avoid missed deadlines.",
+  "tags": [
+   "stockmarket",
+   "bankholiday",
+   "gurunankjayanti",
+   "students",
+   "india"
+  ]
+ },
+ {
+  "id": "71da4ff3427e",
+  "created": "2026-11-24T09:23:31+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-i-premature-redemption-investors-gain-up-to-167-check-rbi-fixed-price-exit-date-and-interest-rate-11795483751270.html",
+  "headline": "SGB 2021-22 Series I early exit can yield 167% profit",
+  "hook": "Grab a chance to cash in on sovereign gold bonds early.",
+  "what": "Investors holding the 2021-22 Series I sovereign gold bonds can now redeem before maturity. The redemption price may deliver up to 167% return over the original issue price. RBI has fixed the price, exit date and the interest applicable for this early redemption.",
+  "why": "It offers a high‑return option for young savers, so they should verify RBI’s announced price and redemption deadline before deciding.",
+  "tags": [
+   "SGB",
+   "goldbonds",
+   "investment",
+   "earlyredemption",
+   "RBI"
+  ]
+ },
+ {
   "id": "468b094d23b1",
   "created": "2026-11-24T08:23:45+05:30",
   "category": "headlines",
@@ -655,101 +750,6 @@
    "Steadview",
    "Stocks",
    "Investing"
-  ]
- },
- {
-  "id": "95e42a4e3cee",
-  "created": "2026-11-24T02:15:16+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "TODAY.com",
-  "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmlYdHhvNTFuVUxITkV5NVZ4OHlKSElXZ1poa0RwQTUtdW82TC1ERmpvZE42VmZOYWlFd1BHT1FRMGFwVnMzamJiNGFLWUd4Z0oycmVNeFhMRlpac0tMTVZSbU9ROUh6MUJtWGRmeTlFdlE1dGkwNXFhWElwVmc0YnpIYmM5NUgyb1hMTmtOYW9uUEpyVXpzR21WdXVBR3hYR0pOUWIwLXlCdw?oc=5",
-  "headline": "US loses measles elimination; 7 more childhood diseases may return",
-  "hook": "A US outbreak could signal new risks for kids worldwide.",
-  "what": "The United States has been stripped of its measles elimination status after the biggest outbreak since 1991. Health experts warn that, alongside measles, seven other common childhood illnesses might reappear.",
-  "why": "It underscores the need to stay current with vaccinations, even in strong health systems. Teens should ensure they’re fully immunised and encourage younger siblings to get their shots.",
-  "tags": [
-   "measles",
-   "vaccination",
-   "health",
-   "global",
-   "kids"
-  ]
- },
- {
-  "id": "a4354f1e094d",
-  "created": "2026-11-24T02:15:18+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "FXEmpire",
-  "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnRoWE1pMWt1cjhrV0ZCNldXZmVObEtEQnNFb0xWQXJaeDk1NGtYbEU4dndSU1BrR184dEV6VXUxY091dXdKZjJfT2VDbkF1eHgzVGRCY1Z6LXBuNmVESWFSODlpM21kTDJrcF9TcEdLbGtWY3N4bjNPblZXT19EaVpDQlBDOTRVb0JWb2lfeDZ2T1pmU3d0X2Rvcy1oaW5IQzlLY0VrRTVDd3Qy?oc=5",
-  "headline": "Gold may hit $3,500 but could face sell‑off",
-  "hook": "A rise in gold price might be short‑lived.",
-  "what": "Analysts expect gold to climb back to around $3,500. However, they warn that selling pressure could limit the rally.",
-  "why": "For young investors, the possible volatility means cautious timing before buying.",
-  "tags": [
-   "gold",
-   "prices",
-   "investing",
-   "markets",
-   "india"
-  ]
- },
- {
-  "id": "56e2dcc04652",
-  "created": "2026-11-24T01:16:00+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/delhi-cop-suspended-after-cancelling-wedding-over-rs-13-lakh-car-12368044#publisher=newsstand",
-  "headline": "Delhi police officer suspended after halting wedding over pricey car",
-  "hook": "A wedding got called off because of a Rs 13‑lakh car—see why the cop faced suspension.",
-  "what": "A Delhi police officer cancelled a wedding scheduled for Nov 20 after a dispute involving a car worth Rs 13 lakh. The incident led to the officer’s suspension.",
-  "why": "It shows how personal conflicts can impact official duties and result in disciplinary action, reminding youths to stay aware of legal responsibilities.",
-  "tags": [
-   "Delhi",
-   "Police",
-   "Wedding",
-   "Suspension",
-   "News"
-  ]
- },
- {
-  "id": "8fb6be28f3f1",
-  "created": "2026-11-24T01:17:03+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-  "headline": "Politicians React to Jensen Huang’s Quick Return to Nvidia",
-  "hook": "Both parties are visibly upset over the sudden leadership comeback.",
-  "what": "Jensen Huang has been reinstated as Nvidia’s leader less than two weeks after being removed. Politicians from across the spectrum expressed anger, agitation and confusion about the move.",
-  "why": "The tech giant’s leadership shift could affect AI and gaming markets that many Indian youths follow. Keep an eye on Nvidia’s announcements for potential product or job impacts.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "politics",
-   "tech",
-   "AI"
-  ]
- },
- {
-  "id": "347446a18553",
-  "created": "2026-11-24T01:17:06+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/krushi-ows-holds-road-safety-awareness-competitions-for-school-students/article71734936.ece",
-  "headline": "Krushi OWS launches road‑safety contests for school kids",
-  "hook": "Your school could be part of a road‑safety challenge!",
-  "what": "Krushi OWS organized competitions focused on road safety for school students. The events aim to teach safe commuting habits through quizzes and activities. Participating schools compete to showcase their knowledge.",
-  "why": "Understanding road rules helps teens stay safe while traveling to school or hanging out. Students can join the contests through their schools and learn practical safety tips.",
-  "tags": [
-   "road safety",
-   "school",
-   "contest",
-   "awareness",
-   "India"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "e77457ee3096",
+ "created": "2026-11-24T09:23:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Google says only about 30 jobs cut, denies mass layoffs",
+  "hook": "No big job purge – just a few dozen positions gone",
+  "what": "An official Google account on X clarified that the company is not carrying out large‑scale layoffs in India. It said roughly 30 positions have been eliminated.",
+  "why": "For job‑seeking Gen Z, the news shows that massive layoffs are not happening, but competition for limited roles remains. Keep an eye on official company updates.",
+  "tags": [
+   "Google",
+   "layoffs",
+   "India",
+   "jobs",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Google പറയുന്നു 30 സ്ഥാനങ്ങൾ മാത്രം, വലിയ ലേയ്‌ഓഫ് ഇല്ല",
+  "hook": "വലിയ ലേയ്‌ഓഫ് ഇല്ല, കുറച്ച് സ്ഥാനങ്ങൾ മാത്രം നീക്കം",
+  "what": "Google‑ന്റെ ഔദ്യോഗിക X അക്കൗണ്ട് ഇന്ത്യയിൽ വലിയ ലേയ്‌ഓഫ് ഇല്ലെന്ന് വ്യക്തമാക്കി. ഏകദേശം 30 സ്ഥാനങ്ങൾ ഒഴിവാക്കിയതായി പറയുന്നു.",
+  "why": "ജോലി അന്വേഷിക്കുന്ന യുവജനങ്ങൾക്ക് വലിയ ചിന്തയില്ല, പക്ഷേ പരിമിത സ്ഥാനങ്ങൾക്കുള്ള മത്സരം തുടരുന്നു. ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Google",
+   "layoffs",
+   "India",
+   "jobs",
+   "tech"
+  ]
+ }
+}

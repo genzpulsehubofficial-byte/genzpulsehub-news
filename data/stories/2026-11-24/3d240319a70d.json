@@ -1,0 +1,37 @@
+{
+ "id": "3d240319a70d",
+ "created": "2026-11-24T09:23:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/earthquake-in-nepal-west-bengal-sikkim-triggers-tremors/article71737091.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nepal quake felt in North Bengal, Sikkim early morning",
+  "hook": "Morning tremors woke up residents across two Indian states.",
+  "what": "An earthquake in Nepal caused shaking that was felt around 7 a.m. in parts of North Bengal and Sikkim. People in several locations stepped out of their houses as the tremors were experienced.",
+  "why": "Such tremors remind us to stay alert for safety measures during earthquakes. Keep emergency kits ready and follow local guidance.",
+  "tags": [
+   "earthquake",
+   "nepal",
+   "bengal",
+   "sikkim",
+   "safety"
+  ]
+ },
+ "ml": {
+  "headline": "നെപാളിലെ ഭൂകമ്പം വടക്കന്‍ ബംഗാള്‍, സിക്കിംയില്‍ അനുഭവപ്പെട്ടു",
+  "hook": "രാവിലെ 7 മണിക്ക് രണ്ട് സംസ്ഥാനങ്ങളിലുമുള്ള ആളുകള്‍ വീടുകള്‍ വിട്ടു പുറത്തേക്ക്‍ ഓടി.",
+  "what": "നെപാളില്‍ സംഭവിച്ച ഒരു ഭൂകമ്പം വടക്കന്‍ ബംഗാള്‍, സിക്കിം എന്നിവിടങ്ങളില്‍ രാവിലെ 7 മണിക്ക് അനുഭവപ്പെട്ടു. പല സ്ഥലങ്ങളിലുമുള്ള ആളുകള്‍ കുലുക്കം അനുഭവിച്ച് വീടുകള്‍ വിട്ടു പുറത്തേക്ക്‍ ഓടി.",
+  "why": "ഇത്തരത്തിലുള്ള കുലുക്കങ്ങള്‍ സുരക്ഷാ നടപടികള്‍ക്കുള്ള ജാഗ്രത വര്‍ദ്ധിപ്പിക്കുന്നു. അടിയന്തര കിറ്റ് തയ്യാറാക്കി, പ്രാദേശിക നിര്‍ദ്ദേശങ്ങള്‍ പാലിക്കുക.",
+  "tags": [
+   "ഭൂകമ്പം",
+   "നെപാൾ",
+   "ബംഗാൾ",
+   "സിക്കിം",
+   "സുരക്ഷ"
+  ]
+ }
+}

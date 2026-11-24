@@ -1,0 +1,37 @@
+{
+ "id": "2b8fc859b5b8",
+ "created": "2026-11-24T09:23:26+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "XBOX Wire",
+ "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1hHaFNKenloc0xyaG1vVWpJZFR4SlZOcF8taGNRWlk1TUUtTEg3Um5vSkZMQ3BWbTNraFNhWUNIalVmaHVvbFhXWmgxQ1pSOTdHZlN3SDMtMzJmVk5xeURpZ0ZSd3BES244cWhPb3otQmtJUHhqNFZVN3lnUDhwQlJNa1B5M0pacDl1cTAtNNIBlAFBVV95cUxQRnBQa0tCc245S0pfV1JoUl9WS1NWeF9uc2ZyZGhsZi1JazNuN2FYUndVcVpCRFR0a0xpSktQT1ZicEFFenNzOV9aX3ctU1I4ekNhb1o4NkJiVGVEa0F6NGtZY0VGRXZWSjZ1NU5MSUNnZ3dXRnZJVHlMUEQ0Q1RraDktX2RMajVNLXF1WEJzajRzQVJB?oc=5",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Stream GTA VI to PC and Console via Cloud Play",
+  "hook": "Play the new GTA without owning a console.",
+  "what": "Guides now explain how to stream Grand Theft Auto VI using cloud services or remote play. The title can be streamed to a PC, PlayStation 5 and the PlayStation Portal with a PS Plus Premium subscription. Sony’s system does not support PC streaming.",
+  "why": "This lets gamers with limited hardware enjoy the latest release, saving the cost of a console. Teens can try the game on devices they already own.",
+  "tags": [
+   "GTA6",
+   "cloudgaming",
+   "remoteplay",
+   "gamingtips",
+   "PSplus"
+  ]
+ },
+ "ml": {
+  "headline": "ക്ലൗഡ് പ്ലേ ഉപയോഗിച്ച് GTA VI പിസിയിലും കൺസോളിലും സ്ട്രീം ചെയ്യാം",
+  "hook": "കൺസോൾ ഇല്ലാതെ പുതിയ GTA കളിക്കാൻ ആഗ്രഹമോ?",
+  "what": "ക്ലൗഡ് സേവനങ്ങളോ റിമോട്ട് പ്ലേയോ ഉപയോഗിച്ച് ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ VI സ്ട്രീം ചെയ്യാനുള്ള മാർഗ്ഗങ്ങൾ ഇപ്പോൾ ലഭ്യമാണ്. PS Plus പ്രീമിയം സബ്സ്ക്രിപ്ഷൻ ഉപയോഗിച്ച് ഗെയിം പി‌സി, പ്ലേസ്റ്റേഷൻ 5, പ്ലേസ്റ്റേഷൻ പോർട്ടൽ എന്നിവയിൽ സ്ട്രീം ചെയ്യാം. സോണിയുടെ സിസ്റ്റം പി‌സി സ്ട്രീമിംഗ് അനുവദിക്കുന്നില്ല.",
+  "why": "കൺസോൾ വാങ്ങാൻ ബജറ്റ് ഇല്ലാത്ത ഗെയിമർമാർക്ക് ഇത് ചെലവ് കുറയ്ക്കും. ഇതിനാൽ അവർക്ക് ഇതിനകം ഉള്ള ഉപകരണങ്ങളിൽ പുതിയ ഗെയിം ആസ്വദിക്കാൻ കഴിയും.",
+  "tags": [
+   "GTA6",
+   "ക്ലൗഡ്ഗെയിമിംഗ്",
+   "റിമോട്ട്‌പ്ലേ",
+   "ഗെയിമിംഗ്",
+   "PSplus"
+  ]
+ }
+}

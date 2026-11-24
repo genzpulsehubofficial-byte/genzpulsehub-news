@@ -1,0 +1,37 @@
+{
+ "id": "71da4ff3427e",
+ "created": "2026-11-24T09:23:31+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-i-premature-redemption-investors-gain-up-to-167-check-rbi-fixed-price-exit-date-and-interest-rate-11795483751270.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SGB 2021-22 Series I early exit can yield 167% profit",
+  "hook": "Grab a chance to cash in on sovereign gold bonds early.",
+  "what": "Investors holding the 2021-22 Series I sovereign gold bonds can now redeem before maturity. The redemption price may deliver up to 167% return over the original issue price. RBI has fixed the price, exit date and the interest applicable for this early redemption.",
+  "why": "It offers a high‑return option for young savers, so they should verify RBI’s announced price and redemption deadline before deciding.",
+  "tags": [
+   "SGB",
+   "goldbonds",
+   "investment",
+   "earlyredemption",
+   "RBI"
+  ]
+ },
+ "ml": {
+  "headline": "SGB 2021-22 Series I മുൻകൂർ മോചനം 167% ലാഭം",
+  "hook": "സോവറീൻ ഗോൾഡ് ബോണ്ടുകൾ മുൻകൂർ പിൻവലിച്ച് വേഗം ലാഭം നേടൂ.",
+  "what": "2021-22 സീരീസ് I സോവറീൻ ഗോൾഡ് ബോണ്ടുകളുടെ ഉടമകൾക്ക് ഇപ്പോൾ മുൻകൂർ മോചനം ചെയ്യാം, ഇതിലൂടെ പുറംവിലയുടെ 167% വരെ ലാഭം ലഭിക്കാൻ സാധ്യതയുണ്ട്. RBI നിശ്ചയിച്ച വിലയും മോചന തീയതിയും ഈ മോചനത്തിന് ബാധകമാണ്.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഉയർന്ന ലാഭം നേടാനുള്ള അവസരമാണിത്, അതിനാൽ RBI പ്രഖ്യാപിച്ച വിലയും മോചന തീയതിയും പരിശോധിച്ച് തീരുമാനിക്കുക.",
+  "tags": [
+   "SGB",
+   "നിക്ഷേപം",
+   "ഗോൾഡ്ബോണ്ട്",
+   "മുൻകൂർമോചനം",
+   "RBI"
+  ]
+ }
+}
