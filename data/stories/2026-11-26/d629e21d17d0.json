@@ -1,0 +1,45 @@
+{
+ "id": "d629e21d17d0",
+ "created": "2026-11-26T02:09:01+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Partner choice declared a constitutional right, not family privilege",
+  "hook": "Your love life is protected by the Constitution, says leader.",
+  "what": "Thirumavalavan said that picking a life partner is a fundamental freedom guaranteed by the Constitution. He stressed it is not a privilege given by family, caste or community.",
+  "why": "Knowing this right helps young people assert personal choices and push back against social pressure. It reminds them of legal protection when making relationship decisions.",
+  "tags": [
+   "partnerchoice",
+   "constitutionalrights",
+   "youth",
+   "socialjustice",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പങ്കാളി തിരഞ്ഞെടുപ്പ് ഭരണഘടനാ അവകാശം, കുടുംബം നല്‍കുന്ന പ്രിവിലേജ് അല്ല",
+  "hook": "നിന്റെ പ്രേമജീവിതം ഭരണഘടന സംരക്ഷിക്കുന്നു, നേതാവ് പറയുന്നു",
+  "what": "തിരുമാവലവന്‍ പറഞ്ഞു, ജീവിതപങ്കാളി തിരഞ്ഞെടുക്കുന്നത് ഭരണഘടന ഉറപ്പിച്ച അടിസ്ഥാന സ്വാതന്ത്ര്യമാണ്. ഇത് കുടുംബം, ജാതി, സമൂഹം നല്‍കുന്ന പ്രത്യേക അവകാശമല്ല.",
+  "why": "ഈ അവകാശം അറിയുന്നത് യുവാക്കള്‍ക്ക് വ്യക്തിഗത തിരഞ്ഞെടുപ്പുകള്‍ ഉറപ്പിക്കാന്‍ സമൂഹത്തിന്റെ സമ്മര്‍ദ്ദം നേരിടാന്‍ സഹായിക്കും. ബന്ധം തീരുമാനിക്കുമ്പോള്‍ നിയമപരമായ സംരക്ഷണം മനസ്സിലാക്കുക.",
+  "tags": [
+   "പങ്കാളി തിരഞ്ഞെടുപ്പ്",
+   "ഭരണഘടനാവകാശം",
+   "യുവാക്കൾ",
+   "സാമൂഹ്യന്യായം",
+   "ഇന്ത്യ"
+  ],
+  "say": "നിന്റെ പ്രേമജീവിതം ഭരണഘടന സംരക്ഷിക്കുന്നു, നേതാവ് പറയുന്നു. തിരുമാവലവന്‍ പറഞ്ഞു, ജീവിതപങ്കാളി തിരഞ്ഞെടുക്കുന്നത് ഭരണഘടന ഉറപ്പിച്ച അടിസ്ഥാന സ്വാതന്ത്ര്യമാണ്. ഇത് കുടുംബം, ജാതി, സമൂഹം നല്‍കുന്ന പ്രത്യേക അവകാശമല്ല. ഈ അവകാശം അറിയുന്നത് യുവാക്കള്‍ക്ക് വ്യക്തിഗത തിരഞ്ഞെടുപ്പുകള്‍ ഉറപ്പിക്കാന്‍ സമൂഹത്തിന്റെ സമ്മര്‍ദ്ദം നേരിടാന്‍ സഹായിക്കും. ബന്ധം തീരുമാനിക്കുമ്പോള്‍ നിയമപരമായ സംരക്ഷണം മനസ്സിലാക്കുക.",
+  "tags_en": [
+   "partnerchoice",
+   "constitutionalrights",
+   "youth",
+   "socialjustice",
+   "India"
+  ]
+ }
+}

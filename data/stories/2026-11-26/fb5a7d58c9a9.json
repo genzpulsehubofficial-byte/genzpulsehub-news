@@ -1,0 +1,45 @@
+{
+ "id": "fb5a7d58c9a9",
+ "created": "2026-11-26T02:09:08+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO Jensen Huang breaches company conduct code",
+  "hook": "A breach that could echo through the whole team",
+  "what": "Jensen Huang, the head of Nvidia, violated the firm’s code of conduct. Employees say the incident is likely to stay in their minds.",
+  "why": "Such breaches can shape workplace culture, reminding young professionals to watch corporate ethics. Stay aware of company policies wherever you work.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "workplace",
+   "conduct",
+   "leadership"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia CEO Jensen Huang കോഡ് ഓഫ് കണ്ടക്റ്റ് ലംഘിച്ചു",
+  "hook": "ഒരു ലംഘനം മുഴുവന്‍ ടീമിനെ ബാധിക്കും",
+  "what": "Nvidia-യുടെ തലവന്‍ Jensen Huang കമ്പനി കോഡ് ഓഫ് കണ്ടക്റ്റ് ലംഘിച്ചു. ജീവനക്കാർ ഈ സംഭവത്തെ മറക്കില്ലെന്ന് പറയുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള ലംഘനങ്ങൾ ജോലി സ്ഥലത്തെ സംസ്കാരത്തെ ബാധിക്കും; അതിനാൽ യുവ പ്രൊഫഷണലുകൾ കമ്പനിയുടെ നയങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ടെക്",
+   "Nvidia",
+   "ജോലിസ്ഥലം",
+   "കണ്ടക്റ്റ്",
+   "നേതൃത്വം"
+  ],
+  "say": "ഒരു ലംഘനം മുഴുവന്‍ ടീമിനെ ബാധിക്കും. എന്‍വിഡിയ-യുടെ സി.ഇ.ഒ ജെന്‍സന്‍ ഹുവാങ് കമ്പനി കോഡ് ഓഫ് കണ്ടക്റ്റ് ലംഘിച്ചു. ജീവനക്കാർ ഈ സംഭവത്തെ മറക്കില്ലെന്ന് പറയുന്നു. ഇത്തരത്തിലുള്ള ലംഘനങ്ങൾ ജോലി സ്ഥലത്തെ സംസ്കാരത്തെ ബാധിക്കും; അതിനാൽ യുവ പ്രൊഫഷണലുകൾ കമ്പനിയുടെ നയങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags_en": [
+   "tech",
+   "Nvidia",
+   "workplace",
+   "conduct",
+   "leadership"
+  ]
+ }
+}

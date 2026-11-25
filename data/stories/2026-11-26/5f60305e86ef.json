@@ -1,0 +1,45 @@
+{
+ "id": "5f60305e86ef",
+ "created": "2026-11-26T02:06:50+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "IMDb",
+ "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ramayana Nears 1000 Crore Mark, Slows After Ticket Cut",
+  "hook": "The epic saga’s earnings get a boost, but the race slows.",
+  "what": "Bollywood’s ‘Ramayana’, starring Ranbir Kapoor, Sai Pallavi and Yash, entered its third week with net earnings around Rs 980 crore in India. After a 40 percent jump on day 20 following a ticket‑price reduction, the film failed to become the fastest to hit the 1000‑crore milestone, a record still held by ‘Dhurandhar 2’. It is also poised to overtake ‘Pushpa 2’ in worldwide gross.",
+  "why": "The price cut makes tickets cheaper, giving Gen‑Z a chance to catch the blockbuster. Watching box‑office trends can help you plan a cinema outing.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "Bollywood",
+   "Movies",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "രാമായണം ആയിരം കോടി ലക്ഷ്യം അടുത്തു, വരുമാനം മന്ദഗതിയിൽ",
+  "hook": "ടിക്കറ്റ് വില കുറയുമ്പോൾ വരുമാനം ഉയർന്നു, പക്ഷേ റെക്കോർഡ് പിടിക്കാൻ സമയം കുറവായി",
+  "what": "റാൻബിർ കപൂർ, സായി പല്ലവി, യാഷ് എന്നിവരുടെ 'രാമായണം' മൂന്നാം ആഴ്ചയിൽ ഇന്ത്യയിൽ ഏകദേശം ഒന്നായിരത്തി എൺപത് കോടി നെറ്റ് ശേഖരിച്ചു. ഇരുപത്-ാം ദിവസം ടിക്കറ്റ് വില കുറച്ചതോടെ നാല്പത് ശതമാനം വർധനവുണ്ടായി, പക്ഷേ 'ധുരന്ധർ രണ്ട്' ന്റെ പോലെ വേഗത്തിൽ ആയിരം കോടി എത്താൻ കഴിഞ്ഞില്ല. ഈ ചിത്രം 'പുഷ്പ രണ്ട്' ന്റെ ആഗോള ശേഖരം മറികടക്കാൻ സാധ്യതയുണ്ട്.",
+  "why": "വിലക്കുറവ് മൂലം സിനിമ കാണാനുള്ള ചെലവ് കുറയുന്നു, അതിനാൽ നിങ്ങൾക്ക് ഈ ബ്ലോക്ക്ബസ്റ്റർ കാണാൻ അവസരം. ബോക്സ് ഓഫീസ് ചലനങ്ങൾ ശ്രദ്ധയിൽ വെക്കൂ, സിനിമാ പ്ലാനുകൾ ആസൂത്രണം ചെയ്യാൻ.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "Bollywood",
+   "ചലച്ചിത്രം",
+   "GenZ"
+  ],
+  "say": "ടിക്കറ്റ് വില കുറയുമ്പോൾ വരുമാനം ഉയർന്നു, പക്ഷേ റെക്കോർഡ് പിടിക്കാൻ സമയം കുറവായി. റാൻബിർ കപൂർ, സായി പല്ലവി, യാഷ് എന്നിവരുടെ 'രാമായണം' മൂന്നാം ആഴ്ചയിൽ ഇന്ത്യയിൽ ഏകദേശം ഒന്നായിരത്തി എൺപത് കോടി നെറ്റ് ശേഖരിച്ചു. ഇരുപത്-ാം ദിവസം ടിക്കറ്റ് വില കുറച്ചതോടെ നാല്പത് ശതമാനം വർധനവുണ്ടായി, പക്ഷേ 'ധുരന്ധർ രണ്ട്' ന്റെ പോലെ വേഗത്തിൽ ആയിരം കോടി എത്താൻ കഴിഞ്ഞില്ല. ഈ ചിത്രം 'പുഷ്പ രണ്ട്' ന്റെ ആഗോള ശേഖരം മറികടക്കാൻ സാധ്യതയുണ്ട്. വിലക്കുറവ് മൂലം സിനിമ കാണാനുള്ള ചെലവ് കുറയുന്നു, അതിനാൽ നിങ്ങൾക്ക് ഈ ബ്ലോക്ക്ബസ്റ്റർ കാണാൻ അവസരം. ബോക്സ് ഓഫീസ് ചലനങ്ങൾ ശ്രദ്ധയിൽ വെക്കൂ, സിനിമാ പ്ലാനുകൾ ആസൂത്രണം ചെയ്യാൻ.",
+  "tags_en": [
+   "Ramayana",
+   "BoxOffice",
+   "Bollywood",
+   "Movies",
+   "GenZ"
+  ]
+ }
+}

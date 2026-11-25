@@ -1,5 +1,100 @@
 [
  {
+  "id": "5f60305e86ef",
+  "created": "2026-11-26T02:06:50+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IMDb",
+  "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5",
+  "headline": "Ramayana Nears 1000 Crore Mark, Slows After Ticket Cut",
+  "hook": "The epic saga’s earnings get a boost, but the race slows.",
+  "what": "Bollywood’s ‘Ramayana’, starring Ranbir Kapoor, Sai Pallavi and Yash, entered its third week with net earnings around Rs 980 crore in India. After a 40 percent jump on day 20 following a ticket‑price reduction, the film failed to become the fastest to hit the 1000‑crore milestone, a record still held by ‘Dhurandhar 2’. It is also poised to overtake ‘Pushpa 2’ in worldwide gross.",
+  "why": "The price cut makes tickets cheaper, giving Gen‑Z a chance to catch the blockbuster. Watching box‑office trends can help you plan a cinema outing.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "Bollywood",
+   "Movies",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "3f881bae8746",
+  "created": "2026-11-26T02:06:57+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Investopedia",
+  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
+  "headline": "S&P 500, Nasdaq slide as Nvidia sparks AI sell‑off",
+  "hook": "AI hype cools down just before the holiday break.",
+  "what": "US equity markets slipped, with the S&P 500 and Nasdaq falling while the Dow managed a modest gain. Nvidia’s stock led a broader retreat in technology shares as concerns over artificial‑intelligence valuations grew. Investors shifted toward safer Treasury bonds.",
+  "why": "A dip in major indices can affect savings, part‑time jobs, and future investment plans for young Indians. Keep an eye on market trends and consider diversifying before the new year.",
+  "tags": [
+   "stockmarket",
+   "AI",
+   "Nvidia",
+   "investing",
+   "holidays"
+  ]
+ },
+ {
+  "id": "dc85126b0ac7",
+  "created": "2026-11-26T02:08:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+  "headline": "OpenAI Merges ChatGPT Chat and Work, Heavy Users May Face Sooner Limits",
+  "hook": "Heavy ChatGPT users might hit limits sooner.",
+  "what": "OpenAI plans to bring ChatGPT’s chat and work experiences together. It will use one usage meter for the service. Heavy users might run into the limits sooner.",
+  "why": "Heavy use may lead to earlier limits for young users. They may need to keep track of the single meter when it is introduced.",
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "AI",
+   "Tech",
+   "GenZ"
+  ]
+ },
+ {
+  "id": "d629e21d17d0",
+  "created": "2026-11-26T02:09:01+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+  "headline": "Partner choice declared a constitutional right, not family privilege",
+  "hook": "Your love life is protected by the Constitution, says leader.",
+  "what": "Thirumavalavan said that picking a life partner is a fundamental freedom guaranteed by the Constitution. He stressed it is not a privilege given by family, caste or community.",
+  "why": "Knowing this right helps young people assert personal choices and push back against social pressure. It reminds them of legal protection when making relationship decisions.",
+  "tags": [
+   "partnerchoice",
+   "constitutionalrights",
+   "youth",
+   "socialjustice",
+   "India"
+  ]
+ },
+ {
+  "id": "fb5a7d58c9a9",
+  "created": "2026-11-26T02:09:08+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+  "headline": "Nvidia CEO Jensen Huang breaches company conduct code",
+  "hook": "A breach that could echo through the whole team",
+  "what": "Jensen Huang, the head of Nvidia, violated the firm’s code of conduct. Employees say the incident is likely to stay in their minds.",
+  "why": "Such breaches can shape workplace culture, reminding young professionals to watch corporate ethics. Stay aware of company policies wherever you work.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "workplace",
+   "conduct",
+   "leadership"
+  ]
+ },
+ {
   "id": "3a26b76ac6b2",
   "created": "2026-11-26T01:10:20+05:30",
   "category": "money",
@@ -658,101 +753,6 @@
    "Comedy",
    "FreedomOfSpeech",
    "India"
-  ]
- },
- {
-  "id": "efcae619a2b8",
-  "created": "2026-11-25T18:17:44+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWUk3T210bjg0TlVkX0FTcnE3M2FYa0tiLWVaMF81WWZHcnFpUVp4b3hPckdSejdibDA5ZU1CcVZxa2ZOVDdlLXdxQTc1NWNWOUMyeHhhSDhoUUZWemZjMGxLZW5TamFqdDRHcGtpajBERGpDdWlyMXdXSFhWSV9YVUpaSDhGcFpQbnBDd3owbUVvVHhuOU9UQUdicVdmU0dVbS05VXpQLXBWaURHT3RSVEJOTnJWU1FmdVRIZmVaUlFQcFR6UFdLX1V0TnJiQkZBQjdwbTVHMFROTzJvc19VRS0ySXJzdEtzV2xOVVo4Z1lOaEE5Ul90OVBpOENsdDQxOENMaTA1UEJkbWlPQ0dXaEpFWUxtT1dU0gGeAkFVX3lxTE5heTRRZ2k2bkh3b3AyUHpSRmhkRUJLNUpMdW9XVzdURXhPSk9heWhuZkV0V2tlNC1mTUExRHd0T29Zb19JMWY4V3UzVHVVdmx0NkdtbDRNN24xZVYwQXVlQUNRTFV3RlZBakdXZ2FqeU9ROVB4elpLVl9WTWZqVFpUXzVyY2gwTWVzU3RwLVVtSXhZVUQ4YzkzRnloVkJPSG5mQ2k1cjRnWnVHRXlQazVZTFVsV3hrVW1zZTdxN3BuUW9DNEpEdlc2VExPX2p3aFI1SEZwUnJZN3NNUzBEQ3dabUdyQmlHU2x2MEpUai1rd29zTTlHWEM1di1IUnhibk9sRkNxdVd0SmNLdEZaNjhSV0NlZ3NrUlZXU1Vtb3c?oc=5",
-  "headline": "Kerala to overhaul PSC recruitment process",
-  "hook": "A new panel will check rank lists for fairness.",
-  "what": "The state government announced a review of the Public Service Commission's hiring system. A panel headed by the Chief Secretary will examine the existing rank lists. The move aims to address concerns about the recruitment process.",
-  "why": "Young job seekers in Kerala could see changes in how civil service jobs are allocated. Stay updated for any new application guidelines.",
-  "tags": [
-   "Kerala",
-   "PSC",
-   "jobs",
-   "recruitment",
-   "review"
-  ]
- },
- {
-  "id": "dff41dff1a8d",
-  "created": "2026-11-25T18:17:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Verge",
-  "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5",
-  "headline": "Microsoft triggers emergency mode after massive Outlook crash",
-  "hook": "Your inbox went dark and Microsoft is in full‑scale crisis mode.",
-  "what": "Microsoft announced an internal emergency called “Code Red” after a worldwide outage knocked Outlook offline. The memo said engineers are on high alert following the disruption that the CEO had recently apologized for.",
-  "why": "Students and young professionals who use Outlook for school or work may face missed messages, so keep an eye on alternative email apps until the service is fully restored.",
-  "tags": [
-   "tech",
-   "outlook",
-   "outage",
-   "microsoft",
-   "cloud"
-  ]
- },
- {
-  "id": "aa41c65ef143",
-  "created": "2026-11-25T18:17:50+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/why-supreme-court-struck-down-two-up-laws-denying-pension-for-pre-regularisation-service-11795607404158.html",
-  "headline": "Supreme Court annuls UP pension exclusion laws",
-  "hook": "Your future retirement benefits just got protected.",
-  "what": "The top court declared two Uttar Pradesh statutes invalid because they barred pension credit for service before regularisation. The ruling ensures that employees who become regular cannot lose retirement pay due to their original appointment type.",
-  "why": "Young workers can now be confident that early job periods will count toward pension, so keep records of all employment dates.",
-  "tags": [
-   "pension",
-   "SupremeCourt",
-   "UttarPradesh",
-   "jobs",
-   "rights"
-  ]
- },
- {
-  "id": "ccb5bc005329",
-  "created": "2026-11-25T18:17:52+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/hmd-rise-4g-india-launch-tipped-arc-2-rebranded-design-specifications-features-12375709",
-  "headline": "HMD Rise 4G Expected Soon, May Rebrand as Arc 2",
-  "hook": "A new 4G phone could hit Indian shelves with a fresh name.",
-  "what": "HMD is reportedly preparing to launch its Rise 4G smartphone in India. The device may be sold under the new name HMD Arc 2 and is said to feature a 5‑megapixel front‑camera.",
-  "why": "For Gen Z, a 4G phone with a decent front camera can help with social media and online learning. Watch for official updates.",
-  "tags": [
-   "HMD",
-   "smartphone",
-   "launch",
-   "India",
-   "tech"
-  ]
- },
- {
-  "id": "d3d5397a19eb",
-  "created": "2026-11-25T17:10:13+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/itat-cancels-20-94-lakh-income-tax-penalty-on-property-sale-grants-relief-to-elderly-taxpayer-11795601260358.html",
-  "headline": "ITAT wipes ₹20.94 L penalty for senior property seller",
-  "hook": "A senior gets tax relief after proving a cash deal was justified.",
-  "what": "The Hyderabad Income Tax Appellate Tribunal removed a penalty of about ₹20.94 lakh that had been imposed on an elderly taxpayer over a property sale. The tribunal said the taxpayer had provided reasonable cause for the transaction. The penalty was therefore cancelled.",
-  "why": "Young people should note that tax authorities can reconsider penalties if valid explanations are given, so keeping proper records and communicating reasons can help avoid hefty fines.",
-  "tags": [
-   "tax relief",
-   "property sale",
-   "ITAT",
-   "senior taxpayer",
-   "penalty cancelled"
   ]
  }
 ]

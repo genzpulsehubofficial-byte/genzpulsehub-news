@@ -1,0 +1,45 @@
+{
+ "id": "3f881bae8746",
+ "created": "2026-11-26T02:06:57+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Investopedia",
+ "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "S&P 500, Nasdaq slide as Nvidia sparks AI sell‑off",
+  "hook": "AI hype cools down just before the holiday break.",
+  "what": "US equity markets slipped, with the S&P 500 and Nasdaq falling while the Dow managed a modest gain. Nvidia’s stock led a broader retreat in technology shares as concerns over artificial‑intelligence valuations grew. Investors shifted toward safer Treasury bonds.",
+  "why": "A dip in major indices can affect savings, part‑time jobs, and future investment plans for young Indians. Keep an eye on market trends and consider diversifying before the new year.",
+  "tags": [
+   "stockmarket",
+   "AI",
+   "Nvidia",
+   "investing",
+   "holidays"
+  ]
+ },
+ "ml": {
+  "headline": "S&P 500, Nasdaq ഇടിഞ്ഞു, Nvidia AI വിറ്റു",
+  "hook": "ഹോളിഡേ ബ്രേക്ക് മുമ്പ് AI ആവേശം തണുത്തു.",
+  "what": "അമേരിക്കൻ സ്റ്റോക്ക് മാർക്കറ്റുകൾ ഇടിഞ്ഞു, S&P 500, Nasdaq താഴ്ന്നു, Dow ചെറിയ ഉയർച്ച കണ്ടു. Nvidiaയുടെ ഷെയർ AI‑ബന്ധപ്പെട്ട വിലയിരുത്തലുകളിലെ ആശങ്കകൾ കാരണം വ്യാപകമായ ടെക്ക് വിറ്റുപോക്കിന് നേതൃത്വം നൽകി. നിക്ഷേപകർ സുരക്ഷിതമായ ട്രഷറി ബോണ്ടുകളിലേക്ക് മാറി.",
+  "why": "മൂല്യങ്ങളിലെ ഈ മാറ്റം യുവ ഇന്ത്യൻ സേവിംഗ്സ്, പാർട്ട്‑ടൈം ജോലികൾ, ഭാവി നിക്ഷേപ പദ്ധതികളിൽ ബാധിക്കാം. പുതിയ വർഷം തുടങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് ട്രെൻഡുകൾ ശ്രദ്ധിക്കുകയും നിങ്ങളുടെ നിക്ഷേപം വൈവിധ്യമാക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "AI",
+   "Nvidia",
+   "നിക്ഷേപം",
+   "ഹോളിഡേ"
+  ],
+  "say": "ഹോളിഡേ ബ്രേക്ക് മുമ്പ് എഐ ആവേശം തണുത്തു. അമേരിക്കൻ സ്റ്റോക്ക് മാർക്കറ്റുകൾ ഇടിഞ്ഞു, എസ്‌ആന്‍ഡ്‌പി അഞ്ച് നൂറ്റി, നാസ്ഡാക് താഴ്ന്നു, ഡോ ചെറിയ ഉയർച്ച കണ്ടു. എന്‍വിഡിയയുടെ ഷെയർ എഐ‑ബന്ധപ്പെട്ട വിലയിരുത്തലുകളിലെ ആശങ്കകൾ കാരണം വ്യാപകമായ ടെക്ക് വിറ്റുപോക്കിന് നേതൃത്വം നൽകി. നിക്ഷേപകർ സുരക്ഷിതമായ ട്രഷറി ബോണ്ടുകളിലേക്ക് മാറി. മൂല്യങ്ങളിലെ ഈ മാറ്റം യുവ ഇന്ത്യൻ സേവിംഗ്സ്, പാർട്ട്‑ടൈം ജോലികൾ, ഭാവി നിക്ഷേപ പദ്ധതികളിൽ ബാധിക്കാം. പുതിയ വർഷം തുടങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് ട്രെൻഡുകൾ ശ്രദ്ധിക്കുകയും നിങ്ങളുടെ നിക്ഷേപം വൈവിധ്യമാക്കുകയും ചെയ്യുക.",
+  "tags_en": [
+   "stockmarket",
+   "AI",
+   "Nvidia",
+   "investing",
+   "holidays"
+  ]
+ }
+}

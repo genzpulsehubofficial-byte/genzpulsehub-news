@@ -1,0 +1,43 @@
+{
+ "id": "dc85126b0ac7",
+ "created": "2026-11-26T02:08:55+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "OpenAI Merges ChatGPT Chat and Work, Heavy Users May Face Sooner Limits",
+  "hook": "Heavy ChatGPT users might hit limits sooner.",
+  "what": "OpenAI plans to bring ChatGPT’s chat and work experiences together. It will use one usage meter for the service. Heavy users might run into the limits sooner.",
+  "why": "Heavy use may lead to earlier limits for young users. They may need to keep track of the single meter when it is introduced.",
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "AI",
+   "Tech",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "ഓപ്പൺഎഐ ചാറ്റും വർക്ക് മോഡും കൂട്ടി, ഭാരിയായ ഉപയോക്താക്കൾക്ക് പരിധി വരാം",
+  "hook": "ഭാരിയായ ചാറ്റ്ജിപിടി ഉപയോക്താക്കൾക്ക് പരിധി വരാൻ സാധ്യത.",
+  "what": "ഓപ്പൺഎഐ ചാറ്റ്ജിപിടിയുടെ ചാറ്റ്, വർക്ക് മോഡുകൾ ഒന്നിച്ചു ചേർന്നു. ഇതോടെ ഒരേ ഉപയോഗ മീറ്റർ ഉപയോഗിക്കും, അതിനാൽ ഭാരിയായ ഉപയോക്താക്കൾക്ക് പരിധി വരാൻ സാധ്യത.",
+  "why": "ഇനി കൂടുതൽ ചാറ്റ്ജിപിടി ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഇപ്പോൾ തന്നെ പരിധി നേരിടേണ്ടി വരാം. ഒരേ മീറ്ററിൽ പരിധി പരിശോധിക്കണം.",
+  "tags": [
+   "ChatGPT",
+   "OpenAI",
+   "AI"
+  ],
+  "say": "ഭാരിയായ ചാറ്റ്ജിപിടി ഉപയോക്താക്കൾക്ക് പരിധി വരാൻ സാധ്യത. ഓപ്പൺഎഐ ചാറ്റ്ജിപിടിയുടെ ചാറ്റ്, വർക്ക് മോഡുകൾ ഒന്നിച്ചു ചേർന്നു. ഇതോടെ ഒരേ ഉപയോഗ മീറ്റർ ഉപയോഗിക്കും, അതിനാൽ ഭാരിയായ ഉപയോക്താക്കൾക്ക് പരിധി വരാൻ സാധ്യത. ഇനി കൂടുതൽ ചാറ്റ്ജിപിടി ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് ഇപ്പോൾ തന്നെ പരിധി നേരിടേണ്ടി വരാം. ഒരേ മീറ്ററിൽ പരിധി പരിശോധിക്കണം.",
+  "tags_en": [
+   "ChatGPT",
+   "OpenAI",
+   "AI",
+   "Tech",
+   "GenZ"
+  ]
+ }
+}
