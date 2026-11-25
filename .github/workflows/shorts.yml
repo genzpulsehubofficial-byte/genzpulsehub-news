@@ -36,6 +36,7 @@ jobs:
           npx -y wrangler@4 r2 bucket create genzpulsehub-media >/dev/null 2>&1 || true
           npx -y wrangler@4 r2 bucket dev-url enable genzpulsehub-media -y >/dev/null 2>&1 || true
           npx -y wrangler@4 r2 bucket lifecycle add genzpulsehub-media expire-3d --expire-days 3 -y >/dev/null 2>&1 || true
+          npx -y wrangler@4 r2 bucket dev-url get genzpulsehub-media 2>&1 | tail -3 || true
           URL=$(npx -y wrangler@4 r2 bucket dev-url get genzpulsehub-media 2>/dev/null | grep -o 'https://[^ ]*r2.dev' | head -1)
           echo "url=$URL" >> $GITHUB_OUTPUT
       - name: Render

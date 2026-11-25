@@ -99,6 +99,7 @@ def meta_pages():
         if tok:
             r = requests.get(f"{G}/me/accounts", params={"access_token": tok, "limit": 50,
                              "fields": "id,name,access_token,instagram_business_account"}, timeout=30).json()
+            print("meta pages seen:", [(p.get("name"), bool(p.get("instagram_business_account"))) for p in r.get("data", [])], "err:", str(r.get("error", ""))[:200])
             for p in r.get("data", []):
                 for lang, name in PAGE_NAMES.items():
                     if p["name"] == name:
@@ -143,6 +144,7 @@ def facebook(lang, s, url):
 
 
 def main():
+    print("media base set:", bool(MEDIA_BASE), "| meta token set:", bool(env("META_TOKEN")))
     made_p = os.path.join(OUT, "made.json")
     if not os.path.exists(made_p):
         print("nothing rendered"); return
