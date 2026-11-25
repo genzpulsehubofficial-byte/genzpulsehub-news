@@ -1,0 +1,11 @@
+name: discord-test
+on: workflow_dispatch
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          code=$(curl -s -o /dev/null -w "%{http_code}" -H "Content-Type: application/json" \
+            -d '{"content":"@everyone ✅ Test: GenZ Pulse Hub alerts are working. You will get the Oracle server ping here."}' \
+            "${{ secrets.DISCORD_WEBHOOK_URL }}")
+          echo "discord http $code"; [ "$code" = "204" ]
