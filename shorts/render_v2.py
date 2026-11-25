@@ -208,7 +208,7 @@ def captions(words, lang, total, tmp):
 
 def render(lang, s, outdir):
     os.makedirs(outdir, exist_ok=True)
-    tmp = os.path.join(outdir, "v2_" + s["id"]); os.makedirs(tmp, exist_ok=True)
+    tmp = os.path.abspath(os.path.join(outdir, "v2_" + s["id"])); os.makedirs(tmp, exist_ok=True)
     say = " ".join(x.strip() for x in (s.get("hook") or s["headline"], s.get("what", ""), s.get("why", ""),
                                        SAY_END[lang]) if x)
     mp3 = os.path.join(tmp, "v.mp3")
