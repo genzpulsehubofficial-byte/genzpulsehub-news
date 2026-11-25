@@ -53,6 +53,12 @@
    "youtube": "https://youtube.com/shorts/RpJwPfWnAn0",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1846601579896095"
+  },
+  "4a3396c4b254": {
+   "at": "2026-11-25 18:02",
+   "youtube": "https://youtube.com/shorts/bRQIilQQDFQ",
+   "instagram": "ig:17881887036562361",
+   "facebook": "fb:2221189728778255"
   }
  },
  "ml": {
@@ -109,6 +115,12 @@
    "youtube": "https://youtube.com/shorts/uYATavaXqrk",
    "instagram": "ig:18131773996871187",
    "facebook": "fb:2052588348673278"
+  },
+  "4a3396c4b254": {
+   "at": "2026-11-25 18:02",
+   "youtube": "https://youtube.com/shorts/f23uRAO2plU",
+   "instagram": "ig:18103916822072034",
+   "facebook": "fb:978591408322838"
   }
  }
 }
