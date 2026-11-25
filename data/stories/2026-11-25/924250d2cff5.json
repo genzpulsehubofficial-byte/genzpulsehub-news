@@ -1,0 +1,37 @@
+{
+ "id": "924250d2cff5",
+ "created": "2026-11-25T06:06:07+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Le Monde.fr",
+ "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkdvdDZhaFBzM1J6U2pJNlVGNTBpek5FOV9tSjB0SEZCOTdadGJvRGRtSEpidE8xSU1NbzBPVlNoLVRDeFB6dzJCT196NGxjNE1WYUpLaWVWSGFMRms1dG1MYjc5MzNWVUVqVWNiR3NySTNfSWs0TC1kMWY4UlFXNVhMZVRvdmwzem93R2xBOUNCa0VxYjA0eFM5amVYR3RKN0dtS3pDWndQd2ZxNlJOWGNjQTdhUjRPNUh5M0pPbEREaVpXcEE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "WHO reports staff evacuated from Congo hospital",
+  "hook": "A hospital in the DRC emptied its staff, says the WHO chief.",
+  "what": "The head of the World Health Organization announced that all personnel were removed from a hospital in the Democratic Republic of Congo. The evacuation was reported without further details on the cause.",
+  "why": "Disruptions in health facilities can affect disease control and access to care, reminding young people to stay aware of global health issues.",
+  "tags": [
+   "health",
+   "WHO",
+   "DRC",
+   "hospital",
+   "evacuation"
+  ]
+ },
+ "ml": {
+  "headline": "WHO റിപ്പോര്‍ട്ട്, കോൺഗോ ആശുപത്രിയില്‍ സ്റ്റാഫ് ഒഴിഞ്ഞു",
+  "hook": "DRCയിലെ ഒരു ആശുപത്രി സ്റ്റാഫ് മുഴുവന്‍ ഒഴിഞ്ഞു, WHO ചീഫ് പറയുന്നു.",
+  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷൻ ചീഫ്, ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്ക് ഓഫ് കോൺഗോയിലെ ഒരു ആശുപത്രിയിൽ നിന്ന് എല്ലാ ജീവനക്കാരും പുറത്താക്കി എന്ന് പ്രഖ്യാപിച്ചു. കാരണത്തെക്കുറിച്ച് കൂടുതൽ വിശദീകരണം നൽകിയിട്ടില്ല.",
+  "why": "ആരോഗ്യ സൗകര്യങ്ങളിലെ ഇടപെടലുകൾ രോഗ നിയന്ത്രണത്തെയും ചികിത്സാ ലഭ്യതയെയും ബാധിക്കും, അതിനാൽ യുവജനങ്ങൾ ഗ്ലോബൽ ഹെൽത്ത് വാർത്തകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ആരോഗ്യം",
+   "WHO",
+   "DRC",
+   "അस्पതാലി",
+   "ഒഴിവാക്കൽ"
+  ]
+ }
+}

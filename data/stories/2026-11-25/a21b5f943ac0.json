@@ -1,0 +1,37 @@
+{
+ "id": "a21b5f943ac0",
+ "created": "2026-11-25T06:06:10+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "News-Medical",
+ "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Heart risk can begin 30 years before symptoms",
+  "hook": "Your future heart health may already be sending signals.",
+  "what": "A new study found that people who later suffered heart attacks or strokes showed different health patterns as early as three decades before the event. These early indicators could signal elevated risk long before any symptoms appear.",
+  "why": "Knowing these signals can help young Indians adopt healthier habits early and seek medical checks. Early detection may lower the chance of severe heart problems later.",
+  "tags": [
+   "hearthealth",
+   "earlywarning",
+   "youngadults",
+   "prevention",
+   "stroke"
+  ]
+ },
+ "ml": {
+  "headline": "ഹൃദയ അപകടം 30 വര്‍ഷങ്ങള്‍ക്ക് മുമ്പേ തുടങ്ങാം",
+  "hook": "നിങ്ങളുടെ ഭാവി ഹൃദയം ഇതിനകം സൂചനകള്‍ അയയ്ക്കുന്നു.",
+  "what": "ഒരു പഠനത്തില്‍ ഹൃദയാഘാതമോ സ്‌ട്രോക്കോ അനുഭവിച്ചവരുടെ ആരോഗ്യപാറ്റേണ്‍ സംഭവത്തിന് മൂന്നു ദശാബ്ദം മുമ്പേ വ്യത്യസ്തമായിരുന്നെന്ന് കണ്ടെത്തി. ഈ മുന്‍കൂട്ടി കാണാവുന്ന സൂചനകള്‍ അപകടം ദീര്‍ഘകാലം മുന്‍പേ കാണിക്കാം.",
+  "why": "ഇവയെ അറിയുന്നത് യുവജനങ്ങള്‍ക്ക് ആരോഗ്യപരമായ ജീവിതശൈലി സ്വീകരിക്കാനും ഡോക്ടറുടെ പരിശോധനക്ക് പോകാനും സഹായിക്കും. മുന്‍കൂര്‍ കണ്ടെത്തല്‍ ഭാവിയിലെ ഗുരുതര ഹൃദയ പ്രശ്നങ്ങള്‍ കുറയ്ക്കാം.",
+  "tags": [
+   "ഹൃദയാരോഗ്യം",
+   "മുന്‍കൂര്‍അറിയിപ്പ്",
+   "യുവജനങ്ങള്‍",
+   "പ്രതിരോധം",
+   "സ്‌ട്രോക്ക്"
+  ]
+ }
+}

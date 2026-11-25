@@ -1,0 +1,37 @@
+{
+ "id": "f4b8c1692ea5",
+ "created": "2026-11-25T06:06:03+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump says pardoning Nvidia’s Jensen Huang is possible",
+  "hook": "A US president hints at a pardon for a gaming chip mogul.",
+  "what": "In an interview, former President Donald Trump mentioned that forgiving Nvidia co‑founder Jensen Huang could be considered, though he doesn’t expect to need it. The comment was reported by the New York Post.",
+  "why": "For Indian gamers and tech fans, it shows how prominent tech leaders can become part of political discussions, so staying updated on global tech news matters.",
+  "tags": [
+   "Trump",
+   "Nvidia",
+   "TechNews",
+   "Gaming",
+   "Politics"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് ജെൻസൻ ഹുവാങിനെ മാഫി ചെയ്യാൻ സാധ്യതയുണ്ടെന്ന് പറഞ്ഞു",
+  "hook": "അമേരിക്കയുടെ മുൻ പ്രസിഡന്റ് ഗെയിമിംഗ് ചിപ്പ് ദിഗ്ഗജം ജെൻസൻ ഹുവാങിന്റെ മാഫി സാധ്യതയെക്കുറിച്ച് സൂചന നൽകി.",
+  "what": "ഒരു അഭിമുഖത്തിൽ, ഡൊണൾഡ് ട്രംപ് ജെൻസൻ ഹുവാങിനെ മാഫി ചെയ്യുന്നത് ഒരു ഓപ്ഷൻ ആണെന്ന്, പക്ഷേ അതിന് ആവശ്യമില്ലെന്ന് കരുതുന്നുവെന്ന് പറഞ്ഞു. ന്യൂയോർക്ക്പോസ്റ്റ് ഈ വാർത്ത റിപ്പോർട്ട് ചെയ്തു.",
+  "why": "ഇന്ത്യൻ ഗെയിമർമാർക്കും ടെക്ക് പ്രേമികൾക്കും, ഉയർന്ന തലത്തിലുള്ള ടെക്ക് നേതാക്കൾ രാഷ്ട്രീയത്തിൽ കുടുങ്ങാൻ സാധ്യതയുണ്ടെന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ ആഗോള ടെക്ക് വാർത്തകളിൽ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ട്രംപ്",
+   "എൻവിഡിയ",
+   "ടെക്‌ന്യൂസ്",
+   "ഗെയിമിംഗ്",
+   "രാഷ്ട്രീയം"
+  ]
+ }
+}

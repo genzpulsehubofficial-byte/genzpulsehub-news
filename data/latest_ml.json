@@ -1,5 +1,119 @@
 [
  {
+  "id": "05f887d0221c",
+  "created": "2026-11-25T06:04:59+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "headline": "Yale പ്രൊഫസർ മുന്നറിയിപ്പ്: Nvidia ബോർഡ് പങ്ക് ബാധ്യതകൾ സൃഷ്ടിക്കും",
+  "hook": "White House‑നെ പിന്തുണച്ച Jensen Huang‑ന്റെ Nvidia ബോർഡ് തിരികെ വരവ് പ്രശ്നമാകാം.",
+  "what": "Yale‑യിലെ Jeffrey Sonnenfeld പറഞ്ഞു, Jensen Huang‑ന്റെ White House‑പിന്തുണയുള്ള Nvidia ബോർഡ് തിരിച്ചുവരവ് വിപണിയുടെ ആഘോഷം തെറ്റായിരിക്കാം. അദ്ദേഹം ഡയറക്ടർമാർക്ക് വർദ്ധിച്ചുവരുന്ന കേസ്‌കളിൽ ചരിത്രപരമായ വ്യക്തിഗത ബാധ്യതകൾ ഉണ്ടാകാമെന്ന് മുന്നറിയിപ്പ് നൽകി. കൂടാതെ, ആധുനിക ചിപ്പുകൾ എതിരാളികളിലേക്ക് എത്തിച്ചിട്ടുള്ള കമ്പനിയെ ആഘോഷിക്കുന്നത് ചോദ്യമായി.",
+  "why": "ഇത് AI ഹാർഡ്‌വെയർ മേഖലയും ബന്ധപ്പെട്ട ജോലികളുമെല്ലാം ബാധിക്കാം, അതിനാൽ ടെക്‑വളർച്ചയും നയങ്ങളും എങ്ങനെ ബന്ധപ്പെടുന്നു എന്ന് യുവജനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "techpolicy",
+   "AI",
+   "legalrisk",
+   "industry"
+  ]
+ },
+ {
+  "id": "f4b8c1692ea5",
+  "created": "2026-11-25T06:06:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+  "headline": "ട്രംപ് ജെൻസൻ ഹുവാങിനെ മാഫി ചെയ്യാൻ സാധ്യതയുണ്ടെന്ന് പറഞ്ഞു",
+  "hook": "അമേരിക്കയുടെ മുൻ പ്രസിഡന്റ് ഗെയിമിംഗ് ചിപ്പ് ദിഗ്ഗജം ജെൻസൻ ഹുവാങിന്റെ മാഫി സാധ്യതയെക്കുറിച്ച് സൂചന നൽകി.",
+  "what": "ഒരു അഭിമുഖത്തിൽ, ഡൊണൾഡ് ട്രംപ് ജെൻസൻ ഹുവാങിനെ മാഫി ചെയ്യുന്നത് ഒരു ഓപ്ഷൻ ആണെന്ന്, പക്ഷേ അതിന് ആവശ്യമില്ലെന്ന് കരുതുന്നുവെന്ന് പറഞ്ഞു. ന്യൂയോർക്ക്പോസ്റ്റ് ഈ വാർത്ത റിപ്പോർട്ട് ചെയ്തു.",
+  "why": "ഇന്ത്യൻ ഗെയിമർമാർക്കും ടെക്ക് പ്രേമികൾക്കും, ഉയർന്ന തലത്തിലുള്ള ടെക്ക് നേതാക്കൾ രാഷ്ട്രീയത്തിൽ കുടുങ്ങാൻ സാധ്യതയുണ്ടെന്ന് ഇത് കാണിക്കുന്നു, അതിനാൽ ആഗോള ടെക്ക് വാർത്തകളിൽ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ട്രംപ്",
+   "എൻവിഡിയ",
+   "ടെക്‌ന്യൂസ്",
+   "ഗെയിമിംഗ്",
+   "രാഷ്ട്രീയം"
+  ]
+ },
+ {
+  "id": "56d09c36546d",
+  "created": "2026-11-25T06:06:06+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVJza0o1ajJ5V0pKU2JKdGdwRDNzcGZ1NGNqS3NmTnNjeXZuYVcxSGZLX0tHRFZ2ZzB5YzhOejZydkV5YmtSa0RwOTAxMXBjT2gzaEt5WVB0UUs1eEhFZnl4QUpPNkpvTVB4a2szS2RlczRzcUotV3Q5LXBZUkp5VHB1OVk1NUVBUE9kOUFTc19uUHVFWWozWVNRSVhjZVFrWU1kX0ZuRmU5a1o1em5GenJIMUZVc0I0YkM2Mkdob2VBdU5BM0NNXzdkTGZ6Wk8wb0HSAdgBQVVfeXFMUG5SMWRMQl9Bdm9UT2dLeEx4Z2IwUEhmR1RVOVRXb1haeGVUR1hhMDNXbmdNMzBaMTN4NXkzcHNkUVFoN3VnR1RSekNLNjBXTmszU0tyRHM1RlU4T21CTUJkTXhCNjdPeWhETVV4ZXl6cVV3QS1Wc2QzVnc5amlYVHp2ZHd3V0taMl9XQ1lUMzkwdXpPY1Vmc3ZURUNGMjBZcm1kSDZRSnQ1dDFpMFRCT3h6eFdwTDdVNVVIT3loZVk5YTVSeTB2TS1Xc0F0T1dvT0pYN3h6aVZy?oc=5",
+  "headline": "കസിയാ ലിസ് മെജോ മിസ് യൂണിവേഴ്സ് 2026 ജയിച്ചു, കേരളത്തിൽ നിന്ന് ആദ്യമായി",
+  "hook": "ഇന്ത്യയുടെ പുതിയ മിസ് യൂണിവേഴ്സ്, കേരളത്തിന്റെ സംസ്കാരം ലോകത്തിന് കാണിച്ചു.",
+  "what": "കസിയാ ലിസ് മെജോ ഇന്ത്യയുടെ പ്രതിനിധിയായി മിസ് യൂണിവേഴ്സ് 2026 തലവൻ ആയി crowned ചെയ്തു. അവൾ കേരളത്തിൽ നിന്നുള്ള ആദ്യ വിജയിയാണ്. മത്സരത്തിൽ അവൾ കേരളം പ്രചോദനമാക്കിയ വസ്ത്രം പോർട്ടോ റിക്കോയിൽ അവതരിപ്പിച്ചു.",
+  "why": "ഇത് പ്രദേശിക പ്രതിനിധിത്വം, സംസ്കാര അഭിമാനം എന്നിവയെ ഊന്നിപ്പറയുന്നു, യുവാക്കൾക്ക് സ്വന്തം വേരുകൾക്കു അഭിമാനിക്കാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "മിസ് യൂണിവേഴ്സ്",
+   "കേരളം",
+   "ഇന്ത്യ",
+   "സംസ്കാര അഭിമാനം",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "924250d2cff5",
+  "created": "2026-11-25T06:06:07+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Le Monde.fr",
+  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkdvdDZhaFBzM1J6U2pJNlVGNTBpek5FOV9tSjB0SEZCOTdadGJvRGRtSEpidE8xSU1NbzBPVlNoLVRDeFB6dzJCT196NGxjNE1WYUpLaWVWSGFMRms1dG1MYjc5MzNWVUVqVWNiR3NySTNfSWs0TC1kMWY4UlFXNVhMZVRvdmwzem93R2xBOUNCa0VxYjA0eFM5amVYR3RKN0dtS3pDWndQd2ZxNlJOWGNjQTdhUjRPNUh5M0pPbEREaVpXcEE?oc=5",
+  "headline": "WHO റിപ്പോര്‍ട്ട്, കോൺഗോ ആശുപത്രിയില്‍ സ്റ്റാഫ് ഒഴിഞ്ഞു",
+  "hook": "DRCയിലെ ഒരു ആശുപത്രി സ്റ്റാഫ് മുഴുവന്‍ ഒഴിഞ്ഞു, WHO ചീഫ് പറയുന്നു.",
+  "what": "വേൾഡ് ഹെൽത്ത് ഓർഗനൈസേഷൻ ചീഫ്, ഡെമോക്രാറ്റിക് റിപ്പബ്ലിക്ക് ഓഫ് കോൺഗോയിലെ ഒരു ആശുപത്രിയിൽ നിന്ന് എല്ലാ ജീവനക്കാരും പുറത്താക്കി എന്ന് പ്രഖ്യാപിച്ചു. കാരണത്തെക്കുറിച്ച് കൂടുതൽ വിശദീകരണം നൽകിയിട്ടില്ല.",
+  "why": "ആരോഗ്യ സൗകര്യങ്ങളിലെ ഇടപെടലുകൾ രോഗ നിയന്ത്രണത്തെയും ചികിത്സാ ലഭ്യതയെയും ബാധിക്കും, അതിനാൽ യുവജനങ്ങൾ ഗ്ലോബൽ ഹെൽത്ത് വാർത്തകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ആരോഗ്യം",
+   "WHO",
+   "DRC",
+   "അस्पതാലി",
+   "ഒഴിവാക്കൽ"
+  ]
+ },
+ {
+  "id": "a21b5f943ac0",
+  "created": "2026-11-25T06:06:10+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5",
+  "headline": "ഹൃദയ അപകടം 30 വര്‍ഷങ്ങള്‍ക്ക് മുമ്പേ തുടങ്ങാം",
+  "hook": "നിങ്ങളുടെ ഭാവി ഹൃദയം ഇതിനകം സൂചനകള്‍ അയയ്ക്കുന്നു.",
+  "what": "ഒരു പഠനത്തില്‍ ഹൃദയാഘാതമോ സ്‌ട്രോക്കോ അനുഭവിച്ചവരുടെ ആരോഗ്യപാറ്റേണ്‍ സംഭവത്തിന് മൂന്നു ദശാബ്ദം മുമ്പേ വ്യത്യസ്തമായിരുന്നെന്ന് കണ്ടെത്തി. ഈ മുന്‍കൂട്ടി കാണാവുന്ന സൂചനകള്‍ അപകടം ദീര്‍ഘകാലം മുന്‍പേ കാണിക്കാം.",
+  "why": "ഇവയെ അറിയുന്നത് യുവജനങ്ങള്‍ക്ക് ആരോഗ്യപരമായ ജീവിതശൈലി സ്വീകരിക്കാനും ഡോക്ടറുടെ പരിശോധനക്ക് പോകാനും സഹായിക്കും. മുന്‍കൂര്‍ കണ്ടെത്തല്‍ ഭാവിയിലെ ഗുരുതര ഹൃദയ പ്രശ്നങ്ങള്‍ കുറയ്ക്കാം.",
+  "tags": [
+   "ഹൃദയാരോഗ്യം",
+   "മുന്‍കൂര്‍അറിയിപ്പ്",
+   "യുവജനങ്ങള്‍",
+   "പ്രതിരോധം",
+   "സ്‌ട്രോക്ക്"
+  ]
+ },
+ {
+  "id": "9105065821dd",
+  "created": "2026-11-25T06:06:12+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand",
+  "headline": "ടർക്കി സൈന്യത്തിന്റെ ഹെലികോപ്റ്റർ വീഴ്ചയിൽ അഞ്ച് മരണം",
+  "hook": "ഇസ്കിഷെഹിർയിലെ ബേസ്‌ നിന്ന് പുറപ്പെട്ട പറക്കൽ ദുരന്തമായി മാറി.",
+  "what": "ഇസ്കിഷെഹിർ (ഇസ്താംബുൾ, ആങ്കറയിടയിൽ) നിന്നു പുറപ്പെട്ട സൈനിക ഹെലികോപ്റ്റർ വീണു, അഞ്ചു പേർ മരിച്ചു. ബേസ്‌ ഈ നഗരങ്ങളിടയിൽ സ്ഥിതിചെയ്യുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള അപകടങ്ങൾ സൈനിക പരിശീലനത്തിന്റെ അപകടം കാണിക്കുന്നു; പ്രദേശിക സുരക്ഷയും യാത്രാ നിർദ്ദേശങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Turkey",
+   "helicopter",
+   "crash",
+   "military",
+   "news"
+  ]
+ },
+ {
   "id": "9a0e5afa3161",
   "created": "2026-11-25T05:13:24+05:30",
   "category": "headlines",
@@ -636,119 +750,6 @@
    "EV",
    "ടെക്",
    "ഫിനാൻസ്"
-  ]
- },
- {
-  "id": "448b2b137040",
-  "created": "2026-11-24T23:07:35+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-a-husband-gift-cash-to-his-wife-without-triggering-a-tax-demand-itat-examines-58-lakh-bank-deposits-11795540367914.html",
-  "headline": "ഡെല്‍‌ഹി ട്രൈബ്യൂണല്‍ ₹58 ലക്ഷം കുടുംബ ക്യാഷ് ട്രാന്‍സ്ഫറിന്‍‌റേ ടാക്‌സ് പരിശോധന നിര്‍ദ്ദേശിച്ചു",
-  "hook": "ഭാര്യ‑ഭര്‍ത്താവിന്‍‌റേ വലിയ ക്യാഷ് സമ്മാനങ്ങള്‍ ടാക്‌സ് ചോദ്യങ്ങളിലേക്കു നയിക്കാം",
-  "what": "ഡെല്‍‌ഹി ഇന്‍കം‑ടാക്‌സ് അപീല്‍ ട്രൈബ്യൂണല്‍ ഒരു സ്ത്രീയുടെ ₹58.07 ലക്ഷം ബാങ്ക് ഡെപ്പോസിറ്റ് പരിശോധിക്കാന്‍ വകുപ്പിനെ നിര്‍ദ്ദേശിച്ചു. ഈ തുക അവളുടെ ഭര്‍ത്താവ് കൃഷി ഭൂമി വിറ്റ ശേഷം എടുത്ത ക്യാഷില്‍ നിന്നാണോ എന്ന് പരിശോധിക്കും.",
-  "why": "വലിയ കുടുംബ പണം കൈമാറ്റങ്ങള്‍ക്ക് ശരിയായ രേഖകള്‍ സൂക്ഷിക്കുന്നത് ടാക്‌സ് പ്രശ്നങ്ങള്‍ ഒഴിവാക്കാന്‍ സഹായിക്കും",
-  "tags": [
-   "tax",
-   "familytransfer",
-   "finance",
-   "india",
-   "legal"
-  ]
- },
- {
-  "id": "0ccf74717777",
-  "created": "2026-11-24T23:07:37+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
-  "headline": "വിശാഖപട്ടണിൽ പരാ-സ്പോർട്സ് തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ",
-  "hook": "യുവ para-അത്ലീറ്റുകൾക്ക് ഇന്ത്യയെ പ്രതിനിധീകരിക്കാൻ അവസരം",
-  "what": "പരാ-സ്പോർട്സ് ഫെഡറേഷൻ വിശാഖപട്ടണിൽ തിരഞ്ഞെടുപ്പ് ട്രയലുകൾ സംഘടിപ്പിച്ചു. മത്സരകർ വരാനിരിക്കുന്ന ഇവന്റുകൾക്കുള്ള സ്ഥാനങ്ങൾക്കായി മത്സരിച്ചു.",
-  "why": "ഇവ ട്രയലുകൾ അന്തർദേശീയ മത്സരങ്ങൾക്ക് പ്രതിഭ കണ്ടെത്താൻ സഹായിക്കുന്നു, aspiring para-അത്ലീറ്റുകൾക്ക് അവസരങ്ങൾ തുറക്കുന്നു.",
-  "tags": [
-   "para sports",
-   "selection",
-   "Visakhapatnam",
-   "athletics",
-   "opportunity"
-  ]
- },
- {
-  "id": "56e92488bf36",
-  "created": "2026-11-24T22:14:59+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/indians-among-13-killed-in-bus-truck-collision-in-uae-12371888#publisher=newsstand",
-  "headline": "യുഎഇയില്‍ ബസ്‑ട്രക്ക് കൂട്ടിയിടിയില്‍ 13 പേര്‍ മരണം, ഇന്ത്യക്കാരും ഉള്‍പ്പെടെ",
-  "hook": "41 ആളുകളുള്ള ഒരു ബസ് ട്രക്കുമായി ഇടിഞ്ഞു, 13 പേർ കൊല്ലപ്പെട്ടു.",
-  "what": "യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സിൽ 41 യാത്രക്കാരുള്ള ഒരു യാത്രാ ബസ് ഒരു ട്രക്കുമായി തട്ടിയപ്പോൾ 13 പേർ മരണമടഞ്ഞു. അതിൽ ഇന്ത്യക്കാരും ഉണ്ടായിരുന്നു.",
-  "why": "വിദേശയാത്ര ചെയ്യുമ്പോൾ ഗതാഗത സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം, അടിയന്തിര ബന്ധങ്ങൾ സജ്ജമാക്കണം.",
-  "tags": [
-   "UAE",
-   "ബസ് അപകടം",
-   "യാത്രാ സുരക്ഷ",
-   "ഇന്ത്യൻ സമൂഹം"
-  ]
- },
- {
-  "id": "230bcfc8be90",
-  "created": "2026-11-24T22:15:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/uchipillayar-temple-board-defends-lighting-of-karthigai-deepam-at-usual-spot-despite-sc-order-madurai-tvk-political-row-deepathoon-pillar-101795533479214.html",
-  "headline": "ക്ഷേത്ര ബോർഡ് പരമ്പരാഗത കാർത്തികൈ ദീപം വിളക്കിടൽ നിലനിർത്തുന്നു",
-  "hook": "കോടതി നിർദ്ദേശം മറികടന്ന്, പഴയ ആചാരങ്ങൾ പ്രധാനമെന്ന് അവർ പറയുന്നു.",
-  "what": "ക്ഷേത്രത്തിന്റെ ഭരണകൂടം ഏകമതമായി വിളക്ക് പതിവുള്ള സ്ഥലത്ത് തന്നെ വെക്കാൻ തീരുമാനിച്ചു, സുപ്രീം കോടതി നിർദ്ദേശം അവഗണിച്ച്.",
-  "why": "ഇത് യുവാക്കളെ പരമ്പരാഗതം, നിയമം എന്നിവയുടെ സംഘർഷം കാണിക്കാൻ സഹായിക്കുന്നു; ആചാരങ്ങളെ ആദരിക്കുമ്പോൾ നിയമം ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "KarthigaiDeepam",
-   "ക്ഷേത്രം",
-   "പാരമ്പര്യം",
-   "കോടതി",
-   "യുവാക്കൾ"
-  ]
- },
- {
-  "id": "084bbe901246",
-  "created": "2026-11-24T22:15:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-  "headline": "Uber, Nuro ആരംഭിച്ചു ഡ്രൈവർലെസ് Lucid SUV ടെസ്റ്റിംഗ്",
-  "hook": "സ്വയം ചലിക്കുന്ന കാറുകൾ ഇപ്പോൾ പൊതുവഴികളിൽ",
-  "what": "Uber, റോബോട്ട് ഡെലിവറി കമ്പനി Nuro ചേർന്ന് Lucid Gravity SUV മോഡലിന്റെ ഡ്രൈവർലെസ് പരീക്ഷണം നടത്തുന്നു. ഈ കാറുകൾ സാൻ ഫ്രാൻസിസ്കോ ബേ ഏരിയയിലെ പൊതുവഴികളിൽ ഓടുന്നു.",
-  "why": "സ്വയമേവ ചലിക്കുന്ന സാങ്കേതികവിദ്യയുടെ പ്രയോജനങ്ങൾ കാണിക്കുന്നു, ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഭാവിയിലെ റൈഡ്‑ഷെയർ സേവനങ്ങൾക്കുള്ള സൂചന. സമാന പരീക്ഷണങ്ങൾ നമ്മുടെ രാജ്യത്തിലും വരാൻ സാധ്യതയുണ്ട്, അതിനായി ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "സ്വയമേവ",
-   "റൈഡ്ഷെയർ",
-   "ടെക്",
-   "ഭാവി",
-   "US"
-  ]
- },
- {
-  "id": "b86b566ffe45",
-  "created": "2026-11-24T22:15:11+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-the-income-tax-department-tax-your-gst-refund-itat-rules-in-favour-of-taxpayer-explains-when-it-is-not-taxable-11795533638753.html",
-  "headline": "GST റീഫണ്ട് സ്വയം നികുതിയില്ല, ഡെലീ ITAT വിധി",
-  "hook": "നിങ്ങളുടെ GST റീഫണ്ട്, ഓഡിറ്റ് റിപ്പോർട്ടിൽ വന്നാലും നികുതിയാകില്ല.",
-  "what": "ഡെലീ ഇൻകം ടാക്സ് അപീൽ ട്രിബ്യൂണൽ (ITAT) എടുത്ത ഒരു വിധിയിൽ, GST റീഫണ്ട് صرف ഓഡിറ്റ് റിപ്പോർട്ടിൽ കാണുന്നതുകൊണ്ട് സ്വയം നികുതിയാക്കാൻ കഴിയില്ലെന്ന് വ്യക്തമാക്കിയിട്ടുണ്ട്. ഈ തീരുമാനം, GST അടച്ചിട്ടു ചെലവായി രേഖപ്പെടുത്താത്ത ബിസിനസ്സുകൾക്ക് ആശ്വാസം നൽകുന്നു.",
-  "why": "ഇത് കമ്പനികൾക്ക് റീഫണ്ട് ലഭിക്കുമ്പോൾ അധിക ഇൻകം ടാക്സ് ഭയമില്ലാതെ ക്യാഷ് ഫ്ലോ മെച്ചപ്പെടുത്താൻ സഹായിക്കുന്നു. ശരിയായ GST രേഖകൾ സൂക്ഷിക്കുന്നത് വിവാദങ്ങൾ ഒഴിവാക്കാൻ പ്രധാനമാണ്.",
-  "tags": [
-   "GST",
-   "tax",
-   "ITAT",
-   "refund",
-   "business"
   ]
  }
 ]

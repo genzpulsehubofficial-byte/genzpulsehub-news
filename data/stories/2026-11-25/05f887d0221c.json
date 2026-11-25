@@ -1,0 +1,37 @@
+{
+ "id": "05f887d0221c",
+ "created": "2026-11-25T06:04:59+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Yale professor warns Nvidia board role could bring liability",
+  "hook": "A top academic says Nvidia’s White House tie may backfire.",
+  "what": "Jeffrey Sonnenfeld of Yale said the market’s celebration of Jensen Huang’s White House‑backed return to Nvidia’s board could be a mistake. He warned that directors may face historic personal liability from growing lawsuits. He also questioned celebrating a firm that has supplied advanced chips to rivals.",
+  "why": "Legal risks for Nvidia’s leadership could ripple through the AI hardware ecosystem and related jobs. Young professionals should watch how policy and corporate governance intersect with tech growth.",
+  "tags": [
+   "Nvidia",
+   "techpolicy",
+   "AI",
+   "legalrisk",
+   "industry"
+  ]
+ },
+ "ml": {
+  "headline": "Yale പ്രൊഫസർ മുന്നറിയിപ്പ്: Nvidia ബോർഡ് പങ്ക് ബാധ്യതകൾ സൃഷ്ടിക്കും",
+  "hook": "White House‑നെ പിന്തുണച്ച Jensen Huang‑ന്റെ Nvidia ബോർഡ് തിരികെ വരവ് പ്രശ്നമാകാം.",
+  "what": "Yale‑യിലെ Jeffrey Sonnenfeld പറഞ്ഞു, Jensen Huang‑ന്റെ White House‑പിന്തുണയുള്ള Nvidia ബോർഡ് തിരിച്ചുവരവ് വിപണിയുടെ ആഘോഷം തെറ്റായിരിക്കാം. അദ്ദേഹം ഡയറക്ടർമാർക്ക് വർദ്ധിച്ചുവരുന്ന കേസ്‌കളിൽ ചരിത്രപരമായ വ്യക്തിഗത ബാധ്യതകൾ ഉണ്ടാകാമെന്ന് മുന്നറിയിപ്പ് നൽകി. കൂടാതെ, ആധുനിക ചിപ്പുകൾ എതിരാളികളിലേക്ക് എത്തിച്ചിട്ടുള്ള കമ്പനിയെ ആഘോഷിക്കുന്നത് ചോദ്യമായി.",
+  "why": "ഇത് AI ഹാർഡ്‌വെയർ മേഖലയും ബന്ധപ്പെട്ട ജോലികളുമെല്ലാം ബാധിക്കാം, അതിനാൽ ടെക്‑വളർച്ചയും നയങ്ങളും എങ്ങനെ ബന്ധപ്പെടുന്നു എന്ന് യുവജനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Nvidia",
+   "techpolicy",
+   "AI",
+   "legalrisk",
+   "industry"
+  ]
+ }
+}

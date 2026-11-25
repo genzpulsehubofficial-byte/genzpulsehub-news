@@ -1,5 +1,119 @@
 [
  {
+  "id": "05f887d0221c",
+  "created": "2026-11-25T06:04:59+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+  "headline": "Yale professor warns Nvidia board role could bring liability",
+  "hook": "A top academic says Nvidia’s White House tie may backfire.",
+  "what": "Jeffrey Sonnenfeld of Yale said the market’s celebration of Jensen Huang’s White House‑backed return to Nvidia’s board could be a mistake. He warned that directors may face historic personal liability from growing lawsuits. He also questioned celebrating a firm that has supplied advanced chips to rivals.",
+  "why": "Legal risks for Nvidia’s leadership could ripple through the AI hardware ecosystem and related jobs. Young professionals should watch how policy and corporate governance intersect with tech growth.",
+  "tags": [
+   "Nvidia",
+   "techpolicy",
+   "AI",
+   "legalrisk",
+   "industry"
+  ]
+ },
+ {
+  "id": "f4b8c1692ea5",
+  "created": "2026-11-25T06:06:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+  "headline": "Trump says pardoning Nvidia’s Jensen Huang is possible",
+  "hook": "A US president hints at a pardon for a gaming chip mogul.",
+  "what": "In an interview, former President Donald Trump mentioned that forgiving Nvidia co‑founder Jensen Huang could be considered, though he doesn’t expect to need it. The comment was reported by the New York Post.",
+  "why": "For Indian gamers and tech fans, it shows how prominent tech leaders can become part of political discussions, so staying updated on global tech news matters.",
+  "tags": [
+   "Trump",
+   "Nvidia",
+   "TechNews",
+   "Gaming",
+   "Politics"
+  ]
+ },
+ {
+  "id": "56d09c36546d",
+  "created": "2026-11-25T06:06:06+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVJza0o1ajJ5V0pKU2JKdGdwRDNzcGZ1NGNqS3NmTnNjeXZuYVcxSGZLX0tHRFZ2ZzB5YzhOejZydkV5YmtSa0RwOTAxMXBjT2gzaEt5WVB0UUs1eEhFZnl4QUpPNkpvTVB4a2szS2RlczRzcUotV3Q5LXBZUkp5VHB1OVk1NUVBUE9kOUFTc19uUHVFWWozWVNRSVhjZVFrWU1kX0ZuRmU5a1o1em5GenJIMUZVc0I0YkM2Mkdob2VBdU5BM0NNXzdkTGZ6Wk8wb0HSAdgBQVVfeXFMUG5SMWRMQl9Bdm9UT2dLeEx4Z2IwUEhmR1RVOVRXb1haeGVUR1hhMDNXbmdNMzBaMTN4NXkzcHNkUVFoN3VnR1RSekNLNjBXTmszU0tyRHM1RlU4T21CTUJkTXhCNjdPeWhETVV4ZXl6cVV3QS1Wc2QzVnc5amlYVHp2ZHd3V0taMl9XQ1lUMzkwdXpPY1Vmc3ZURUNGMjBZcm1kSDZRSnQ1dDFpMFRCT3h6eFdwTDdVNVVIT3loZVk5YTVSeTB2TS1Xc0F0T1dvT0pYN3h6aVZy?oc=5",
+  "headline": "Kaziah Liz Mejo Wins Miss Universe, First from Kerala",
+  "hook": "India’s new Miss Universe brings Kerala’s culture to the global stage.",
+  "what": "Kaziah Liz Mejo was crowned Miss Universe 2026, representing India. She is the first contestant from Kerala to win the title. During the event she wore a Kerala‑inspired costume in Puerto Rico.",
+  "why": "The victory showcases regional representation and cultural pride, inspiring young Indians to celebrate their roots. It also puts Indian fashion and traditions in a worldwide spotlight.",
+  "tags": [
+   "MissUniverse",
+   "Kerala",
+   "India",
+   "CulturalPride",
+   "Youth"
+  ]
+ },
+ {
+  "id": "924250d2cff5",
+  "created": "2026-11-25T06:06:07+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Le Monde.fr",
+  "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkdvdDZhaFBzM1J6U2pJNlVGNTBpek5FOV9tSjB0SEZCOTdadGJvRGRtSEpidE8xSU1NbzBPVlNoLVRDeFB6dzJCT196NGxjNE1WYUpLaWVWSGFMRms1dG1MYjc5MzNWVUVqVWNiR3NySTNfSWs0TC1kMWY4UlFXNVhMZVRvdmwzem93R2xBOUNCa0VxYjA0eFM5amVYR3RKN0dtS3pDWndQd2ZxNlJOWGNjQTdhUjRPNUh5M0pPbEREaVpXcEE?oc=5",
+  "headline": "WHO reports staff evacuated from Congo hospital",
+  "hook": "A hospital in the DRC emptied its staff, says the WHO chief.",
+  "what": "The head of the World Health Organization announced that all personnel were removed from a hospital in the Democratic Republic of Congo. The evacuation was reported without further details on the cause.",
+  "why": "Disruptions in health facilities can affect disease control and access to care, reminding young people to stay aware of global health issues.",
+  "tags": [
+   "health",
+   "WHO",
+   "DRC",
+   "hospital",
+   "evacuation"
+  ]
+ },
+ {
+  "id": "a21b5f943ac0",
+  "created": "2026-11-25T06:06:10+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "News-Medical",
+  "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTWIxaEFrUGw3V3MtUFV6WDBjNEFtTHA1eWRXaEhRRXVneWs3M2EyMDdLTnJXc1BMWTQ5ckZrSXJ3U0JlMWlObWFaZG9qOTRvc1NrZzM5YzhoUzhGcXd6VE5yWndFRFNvU3ppcFlxRnNLRm9INFhZVGd6NkZvRF90b3pLNk81Wm5paC1IeFNzZWs4ZktiMUVWTW52SjBkbkZwNjJHcWNVdXlXWkdZcGtKVTBUWlZ6eDZDWndrMUx3?oc=5",
+  "headline": "Heart risk can begin 30 years before symptoms",
+  "hook": "Your future heart health may already be sending signals.",
+  "what": "A new study found that people who later suffered heart attacks or strokes showed different health patterns as early as three decades before the event. These early indicators could signal elevated risk long before any symptoms appear.",
+  "why": "Knowing these signals can help young Indians adopt healthier habits early and seek medical checks. Early detection may lower the chance of severe heart problems later.",
+  "tags": [
+   "hearthealth",
+   "earlywarning",
+   "youngadults",
+   "prevention",
+   "stroke"
+  ]
+ },
+ {
+  "id": "9105065821dd",
+  "created": "2026-11-25T06:06:12+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand",
+  "headline": "Five dead as Turkish military helicopter crashes",
+  "hook": "A routine flight turned tragic in central Turkey.",
+  "what": "A Turkish army helicopter that took off from a base in Eskisehir crashed, killing five people. The base lies between Istanbul and Ankara.",
+  "why": "The crash underscores the dangers of military training and could affect regional safety; stay tuned for any travel updates.",
+  "tags": [
+   "Turkey",
+   "helicopter",
+   "crash",
+   "military",
+   "news"
+  ]
+ },
+ {
   "id": "9a0e5afa3161",
   "created": "2026-11-25T05:13:24+05:30",
   "category": "headlines",
@@ -636,119 +750,6 @@
    "EV",
    "tech",
    "finance"
-  ]
- },
- {
-  "id": "448b2b137040",
-  "created": "2026-11-24T23:07:35+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-a-husband-gift-cash-to-his-wife-without-triggering-a-tax-demand-itat-examines-58-lakh-bank-deposits-11795540367914.html",
-  "headline": "Delhi tribunal orders tax probe into ₹58 lakh family cash transfer",
-  "hook": "Large cash gifts between spouses may attract tax scrutiny",
-  "what": "The Delhi Income Tax Appellate Tribunal told the tax department to review a ₹58.07 lakh deposit made by a woman. Authorities will check if the money came from cash her husband withdrew after selling agricultural land.",
-  "why": "Young people should keep proper records for big family money moves to avoid tax issues",
-  "tags": [
-   "tax",
-   "familytransfer",
-   "finance",
-   "india",
-   "legal"
-  ]
- },
- {
-  "id": "0ccf74717777",
-  "created": "2026-11-24T23:07:37+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/andhra-pradesh/para-sports-selection-trials-held-in-visakhapatnam/article71739083.ece",
-  "headline": "Para-sports selection trials take place in Visakhapatnam",
-  "hook": "Young athletes get a chance to represent India",
-  "what": "The para-sports federation organized selection trials in Visakhapatnam. Athletes competed for spots in upcoming events.",
-  "why": "These trials help identify talent for international competitions, offering opportunities for aspiring para-athletes.",
-  "tags": [
-   "para sports",
-   "selection",
-   "Visakhapatnam",
-   "athletics",
-   "opportunity"
-  ]
- },
- {
-  "id": "56e92488bf36",
-  "created": "2026-11-24T22:14:59+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/indians-among-13-killed-in-bus-truck-collision-in-uae-12371888#publisher=newsstand",
-  "headline": "13 Dead in UAE Bus‑Truck Crash, Indians Among Victims",
-  "hook": "A bus with 41 passengers collided with a truck, killing 13.",
-  "what": "A passenger bus carrying 41 people in the United Arab Emirates hit a truck, resulting in 13 fatalities. Indian nationals were among those killed.",
-  "why": "Young travelers should double‑check transport safety when abroad and keep emergency contacts ready.",
-  "tags": [
-   "UAE",
-   "bus crash",
-   "travel safety",
-   "Indian diaspora"
-  ]
- },
- {
-  "id": "230bcfc8be90",
-  "created": "2026-11-24T22:15:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/uchipillayar-temple-board-defends-lighting-of-karthigai-deepam-at-usual-spot-despite-sc-order-madurai-tvk-political-row-deepathoon-pillar-101795533479214.html",
-  "headline": "Temple board insists on traditional Karthigai Deepam lighting spot",
-  "hook": "They say age‑old customs trump the court’s directive.",
-  "what": "The temple’s managing committee voted unanimously to keep the lamp lighting at its historic location, despite a Supreme Court order calling for a change.",
-  "why": "For young people, it shows the clash between heritage practices and legal rulings, reminding them to respect tradition while staying aware of the law.",
-  "tags": [
-   "KarthigaiDeepam",
-   "TempleCustoms",
-   "Heritage",
-   "SupremeCourt",
-   "Youth"
-  ]
- },
- {
-  "id": "084bbe901246",
-  "created": "2026-11-24T22:15:09+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-  "headline": "Uber, Nuro test driverless Lucid SUVs in California",
-  "hook": "Self‑driving cars are hitting real streets now.",
-  "what": "Uber teamed up with robot‑delivery firm Nuro to run driver‑less trials of Lucid’s Gravity SUV model. The vehicles are being driven on public roads around the San Francisco Bay Area.",
-  "why": "Shows how autonomous tech is moving toward everyday use, hinting at future ride‑hailing options for Indian youth. Keep an eye on similar trials that could arrive locally.",
-  "tags": [
-   "autonomous",
-   "rideshare",
-   "tech",
-   "futuremobility",
-   "US"
-  ]
- },
- {
-  "id": "b86b566ffe45",
-  "created": "2026-11-24T22:15:11+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/can-the-income-tax-department-tax-your-gst-refund-itat-rules-in-favour-of-taxpayer-explains-when-it-is-not-taxable-11795533638753.html",
-  "headline": "GST refunds not automatically taxable, Delhi ITAT rules",
-  "hook": "Your GST refund won’t be taxed just because it shows up in audit.",
-  "what": "A Delhi Income Tax Appellate Tribunal decision clarified that a GST refund cannot be considered taxable income solely based on its appearance in a tax audit report. The ruling protects businesses that had previously paid GST but did not record it as an expense.",
-  "why": "This means firms can claim refunds without fearing extra income‑tax liability, helping cash flow. Companies should keep proper GST records to avoid disputes.",
-  "tags": [
-   "GST",
-   "tax",
-   "ITAT",
-   "refund",
-   "business"
   ]
  }
 ]

@@ -1,0 +1,37 @@
+{
+ "id": "9105065821dd",
+ "created": "2026-11-25T06:06:12+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/5-killed-in-turkish-military-helicopter-crash-12372913#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Five dead as Turkish military helicopter crashes",
+  "hook": "A routine flight turned tragic in central Turkey.",
+  "what": "A Turkish army helicopter that took off from a base in Eskisehir crashed, killing five people. The base lies between Istanbul and Ankara.",
+  "why": "The crash underscores the dangers of military training and could affect regional safety; stay tuned for any travel updates.",
+  "tags": [
+   "Turkey",
+   "helicopter",
+   "crash",
+   "military",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "ടർക്കി സൈന്യത്തിന്റെ ഹെലികോപ്റ്റർ വീഴ്ചയിൽ അഞ്ച് മരണം",
+  "hook": "ഇസ്കിഷെഹിർയിലെ ബേസ്‌ നിന്ന് പുറപ്പെട്ട പറക്കൽ ദുരന്തമായി മാറി.",
+  "what": "ഇസ്കിഷെഹിർ (ഇസ്താംബുൾ, ആങ്കറയിടയിൽ) നിന്നു പുറപ്പെട്ട സൈനിക ഹെലികോപ്റ്റർ വീണു, അഞ്ചു പേർ മരിച്ചു. ബേസ്‌ ഈ നഗരങ്ങളിടയിൽ സ്ഥിതിചെയ്യുന്നു.",
+  "why": "ഇത്തരത്തിലുള്ള അപകടങ്ങൾ സൈനിക പരിശീലനത്തിന്റെ അപകടം കാണിക്കുന്നു; പ്രദേശിക സുരക്ഷയും യാത്രാ നിർദ്ദേശങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Turkey",
+   "helicopter",
+   "crash",
+   "military",
+   "news"
+  ]
+ }
+}
