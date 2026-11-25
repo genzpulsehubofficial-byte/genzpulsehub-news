@@ -57,10 +57,9 @@ def main():
         print("GMAIL_APP_PASSWORD not set; skipping"); return
     dbid = db_id()
     rows = q(dbid, "SELECT e.n, e.kind, a.* FROM emails e JOIN ads a ON a.id=e.ad_id WHERE e.sent IS NULL ORDER BY e.n LIMIT 40")
-    if not rows:
-        print("no emails queued"); return
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as s:
         s.login(USER, PW)
+        print("gmail login ok;", len(rows), "emails queued")
         for r in rows:
             if not r.get("email"):
                 q(dbid, "UPDATE emails SET sent='no-email' WHERE n=?", [r["n"]]); continue
