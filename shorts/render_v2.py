@@ -22,7 +22,7 @@ from render import COLOR, VOICE, dur, font, put, tlen, wrap
 
 W, H = 1080, 1920
 PEXELS = os.environ.get("PEXELS_API_KEY", "")
-END = {"en": "Follow for daily news →", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ →"}
+END = {"en": "Follow for daily news", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ"}
 SAY_END = {"en": "Follow for more.", "ml": "കൂടുതൽ വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ."}
 _FONTNAME_UNUSED = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
 FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money cash", "tech": "technology",
@@ -168,9 +168,9 @@ def cap_png(words_in_group, hi, lang, path, end_text=None):
                 x += tlen(d, w, f); idx += 1
             y += 100
     if end_text:
-        f = font(lang, 64)
-        lines = wrap(d, end_text, f, W - 200)
-        y = 1470
+        f = font(lang, 64 if lang == "en" else 56)
+        lines = wrap(d, end_text, f, W - 160)
+        y = 1560 - len(lines) * 104
         for ln in lines:
             wdt = tlen(d, ln, f)
             d.rounded_rectangle([(W - wdt) / 2 - 30, y - 12, (W + wdt) / 2 + 20, y + 84], 20, fill=(10, 10, 20, 225))
