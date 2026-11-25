@@ -1,0 +1,37 @@
+{
+ "id": "832337d82289",
+ "created": "2026-11-25T13:43:14+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Business Standard",
+ "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3UzbmnSAfYBQVVfeXFMTld6aTdrVllLbEMzcFNaQXY5cFh3OXJwYU9rWFgzenhkUnJienpFcmdfWHhQaW9XMjdOX3I2S0xRdTBDNHF4bk5ycS1rSjZNcXlrdHd6YTBOSGl5VnM0dmQ0T1JhMlJ5UW9lTDEwMDJZc3kzNWsyTkZMWVM3a1lmN1poaGplRGlTZm9rUGJoRVZyQjZNN0x1NkJGVEI1MkxYcHY5OFhxQVBkNGQxV09fYUtNeVVlVndQaXNCUkhEdkxrQzJ4cUU5LVh6SGxxenlZYjVIb1FvaGoxQnItX3NPMHlJWkRTZGFidHhrX2ljaE5vMzBuMU5B?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sensex climbs 1,400 points, Nifty crosses 25,700",
+  "hook": "Indian markets surge while Apollo's stock slides to a year low",
+  "what": "The benchmark Sensex rose by about 1,400 points and the Nifty index moved above the 25,700 mark. At the same time, shares of APL Apollo fell to their lowest level in the past year.",
+  "why": "The rally shows optimism in key sectors, but the drop in Apollo’s shares highlights market volatility. Young investors should stay informed and think about diversified options.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "investing",
+   "apollo"
+  ]
+ },
+ "ml": {
+  "headline": "സെന്‍സ്‌എക്സ് 1,400 പോയിന്റ് ഉയർന്നു, നിഫ്റ്റി 25,700 കടന്നു",
+  "hook": "ഇന്ത്യൻ മാർക്കറ്റുകൾ ഉയർന്നപ്പോൾ, APL Apollo സ്റ്റോക്ക് ഒരു വർഷത്തെ കുറഞ്ഞ നിലയിൽ",
+  "what": "ബെഞ്ച്മാർക്ക് സെന്‍സ്‌എക്സ് ഏകദേശം 1,400 പോയിന്റ് വർദ്ധിച്ചു, നിഫ്റ്റി സൂചിക 25,700 മുകളിൽ എത്തി. അതേ സമയം, APL Apollo ന്റെ ഷെയറുകൾ 52-വർഷത്തെ കുറഞ്ഞ നിലയിൽ ഇടിഞ്ഞു.",
+  "why": "ഈ ഉയർച്ച പ്രധാന മേഖലകളിൽ ആത്മവിശ്വാസം സൂചിപ്പിക്കുമ്പോൾ, Apolloയുടെ ഇടിവ് മാർക്കറ്റ് ചഞ്ചലതയെ ഓർമ്മപ്പെടുത്തുന്നു. നിക്ഷേപം ആലോചിക്കുന്ന യുവാക്കൾ പുതുമയുള്ള വിവരങ്ങൾ പിന്തുടർന്ന്, വൈവിധ്യമാർന്ന പോർട്ട്ഫോളിയോ പരിഗണിക്കണം.",
+  "tags": [
+   "സ്റ്റോക്ക്മാർക്കറ്റ്",
+   "സെന്‍സ്‌എക്സ്",
+   "നിഫ്റ്റി",
+   "നിക്ഷേപം",
+   "അപ്പോൾ"
+  ]
+ }
+}

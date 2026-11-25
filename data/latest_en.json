@@ -1,5 +1,100 @@
 [
  {
+  "id": "086fa706efdf",
+  "created": "2026-11-25T13:42:04+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+  "headline": "SC asks Delhi Police to respond to bail pleas in UAPA case",
+  "hook": "Two activists say key witnesses were ignored as their bail deadline nears",
+  "what": "The Supreme Court sent a notice to Delhi Police after Sharjeel Imam and Umar Khalid filed bail applications in a UAPA case. They argue the prosecution has not examined protected witnesses. The court‑imposed one‑year embargo on the case is about to end.",
+  "why": "The development shows how high‑profile legal battles proceed, reminding young Indians to stay aware of judicial timelines and their rights.",
+  "tags": [
+   "SupremeCourt",
+   "UAPA",
+   "Bail",
+   "DelhiPolice",
+   "Activism"
+  ]
+ },
+ {
+  "id": "1755630391fa",
+  "created": "2026-11-25T13:43:08+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cjps-saurav-das-moves-delhi-high-court-over-being-stopped-from-flying-to-uk-hearing-on-november-26/article71741451.ece",
+  "headline": "Former CJI Saurav Das sues after being barred from UK flight",
+  "hook": "Even top judges can face travel roadblocks—find out why.",
+  "what": "Former Chief Justice Saurav Das says immigration officials stopped him at Delhi airport before he could board a flight to London. He has filed a petition in the Delhi High Court challenging the action. The court has scheduled a hearing for November 26.",
+  "why": "The case shows that immigration checks can affect anyone, regardless of status, and may shape future travel rules. Watch the outcome for possible changes in airport procedures.",
+  "tags": [
+   "CJI",
+   "travel",
+   "court",
+   "Delhi",
+   "UK"
+  ]
+ },
+ {
+  "id": "37108dd80111",
+  "created": "2026-11-25T13:43:10+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IMDb",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSFhzNUt0djJNYm5yUlBYXzJNcTN6eWI4NUZQekVNZkRlVnlYZ190eFpHSnZXdFpoNlBXOW9Tb0x0Wko3SzI5aFE4UTRINlZCZlhoOGZ3VHFtRHFjWmlCOHI4Z2RRVUk?oc=5",
+  "headline": "Dhanush's 'O.M' hits ₹51 crore; Dulquer's film earns ₹13 crore",
+  "hook": "Two South Indian stars score big at the box office this week.",
+  "what": "The movie 'O.M' starring Dhanush collected ₹51.11 crore in India and crossed the ₹100 crore mark worldwide. By its fifth day it had topped ₹93 crore globally and earned over ₹50 crore in the opening weekend. Dulquer Salmaan's 'Aakasamlo Oka Tara' made ₹13 crore in Indian theatres.",
+  "why": "The strong earnings highlight the growing appetite for regional cinema among Indian youth, signalling more diverse film choices on streaming platforms and theatres.",
+  "tags": [
+   "movies",
+   "boxoffice",
+   "Dhanush",
+   "Dulquer",
+   "India"
+  ]
+ },
+ {
+  "id": "832337d82289",
+  "created": "2026-11-25T13:43:14+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Business Standard",
+  "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3UzbmnSAfYBQVVfeXFMTld6aTdrVllLbEMzcFNaQXY5cFh3OXJwYU9rWFgzenhkUnJienpFcmdfWHhQaW9XMjdOX3I2S0xRdTBDNHF4bk5ycS1rSjZNcXlrdHd6YTBOSGl5VnM0dmQ0T1JhMlJ5UW9lTDEwMDJZc3kzNWsyTkZMWVM3a1lmN1poaGplRGlTZm9rUGJoRVZyQjZNN0x1NkJGVEI1MkxYcHY5OFhxQVBkNGQxV09fYUtNeVVlVndQaXNCUkhEdkxrQzJ4cUU5LVh6SGxxenlZYjVIb1FvaGoxQnItX3NPMHlJWkRTZGFidHhrX2ljaE5vMzBuMU5B?oc=5",
+  "headline": "Sensex climbs 1,400 points, Nifty crosses 25,700",
+  "hook": "Indian markets surge while Apollo's stock slides to a year low",
+  "what": "The benchmark Sensex rose by about 1,400 points and the Nifty index moved above the 25,700 mark. At the same time, shares of APL Apollo fell to their lowest level in the past year.",
+  "why": "The rally shows optimism in key sectors, but the drop in Apollo’s shares highlights market volatility. Young investors should stay informed and think about diversified options.",
+  "tags": [
+   "stockmarket",
+   "sensex",
+   "nifty",
+   "investing",
+   "apollo"
+  ]
+ },
+ {
+  "id": "80416fa55f1e",
+  "created": "2026-11-25T13:43:16+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/whatsapp-sound-sticker-feature-customisation-how-to-use-12374289",
+  "headline": "WhatsApp adds animated sound stickers for Android",
+  "hook": "Your chats just got louder and livelier.",
+  "what": "WhatsApp has rolled out a new feature for Android phones that lets users create animated stickers with sound. The app also now supports sticker reactions to messages.",
+  "why": "It makes chatting more expressive, letting you add fun audio‑visual flair. Try the new stickers in your next conversation.",
+  "tags": [
+   "WhatsApp",
+   "Android",
+   "Stickers",
+   "Chat",
+   "Tech"
+  ]
+ },
+ {
   "id": "3254057f316d",
   "created": "2026-11-25T12:12:32+05:30",
   "category": "headlines",
@@ -657,100 +752,6 @@
    "research",
    "health",
    "science"
-  ]
- },
- {
-  "id": "7a5947019eec",
-  "created": "2026-11-25T04:21:46+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-  "headline": "Nvidia CEO says succession plans add extra hierarchy",
-  "hook": "After a two‑week founder‑free trial, the boss still opposes a succession plan.",
-  "what": "Jensen Huang said that a formal succession plan would create unnecessary layers of management. Nvidia recently ran for two weeks without his direct leadership to test how the firm operates.",
-  "why": "Young professionals can learn how leadership decisions shape big‑tech culture and affect future job opportunities. Watching such moves helps you gauge the environment of future workplaces.",
-  "tags": [
-   "tech",
-   "leadership",
-   "succession",
-   "startup",
-   "Nvidia"
-  ]
- },
- {
-  "id": "f56339fa2708",
-  "created": "2026-11-25T04:21:50+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885#publisher=newsstand",
-  "headline": "Kerala student brings gun to school, accidentally shoots classmate",
-  "hook": "A school prank turned deadly when a gun was fired.",
-  "what": "A student allegedly took a firearm to school to show it off. While handling it, the gun went off and injured a classmate. Police say the weapon was brought by the same classmate who was shot.",
-  "why": "It highlights the danger of weapons on campuses and the need for stricter safety checks. Students should report any suspicious items to authorities.",
-  "tags": [
-   "Kerala",
-   "school safety",
-   "gun",
-   "news"
-  ]
- },
- {
-  "id": "aa4de903f56e",
-  "created": "2026-11-25T04:21:52+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/assam/assam-cm-downplays-fight-between-two-ips-officers/article71740197.ece",
-  "headline": "Assam CM says IPS clash not a big issue",
-  "hook": "Two top police officers squared off, but the chief says it's minor.",
-  "what": "A dispute broke out between two Indian Police Service officers at a battalion headquarters in western Assam on Nov 22, 2026. The state’s chief minister described the incident as not serious.",
-  "why": "Knowing about internal police tensions helps youths gauge law‑order stability; no immediate action needed.",
-  "tags": [
-   "Assam",
-   "Police",
-   "CM",
-   "IPS",
-   "news"
-  ]
- },
- {
-  "id": "42cb577d7e78",
-  "created": "2026-11-25T04:21:54+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-  "headline": "Walmart launches Black Friday shopping via Meta’s Muse AI",
-  "hook": "Grab holiday steals straight from a chat with Muse.",
-  "what": "Walmart has added its Black Friday offers to Meta’s AI chat agent, Muse. Shoppers can now browse and buy deals by talking to the virtual assistant.",
-  "why": "It speeds up holiday shopping for teens who live on messaging apps and shows how retailers are using AI to reach younger buyers.",
-  "tags": [
-   "Walmart",
-   "Meta",
-   "AI",
-   "BlackFriday",
-   "Shopping"
-  ]
- },
- {
-  "id": "6acc84af3c42",
-  "created": "2026-11-25T04:21:57+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Journal of Medical Internet Research (JMIR)",
-  "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zcDltTVI3U3haVTRXNjNwN1pQd0ZrOUx2eTZObVBDUUNVdVhqZVdSanRudU5mYjVmb3llSnozd2JxOHZKdi1mak1fbw?oc=5",
-  "headline": "AI diet apps don’t outshine traditional meal plans",
-  "hook": "A recent Aussie study says AI isn’t a magic fix for nutrition.",
-  "what": "Researchers compared an AI‑driven diet approach with standard dietary advice. The AI system tried to estimate calories and nutrients from food photos. Results showed no clear benefit over conventional methods.",
-  "why": "For students tracking meals, sticking to proven diet guidelines may be just as effective as fancy apps. Keep logging food and stay aware of nutrition basics.",
-  "tags": [
-   "AI",
-   "nutrition",
-   "diet",
-   "study",
-   "students"
   ]
  }
 ]

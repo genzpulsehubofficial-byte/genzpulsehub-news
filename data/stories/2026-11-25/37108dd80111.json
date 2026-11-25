@@ -1,0 +1,37 @@
+{
+ "id": "37108dd80111",
+ "created": "2026-11-25T13:43:10+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "IMDb",
+ "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSFhzNUt0djJNYm5yUlBYXzJNcTN6eWI4NUZQekVNZkRlVnlYZ190eFpHSnZXdFpoNlBXOW9Tb0x0Wko3SzI5aFE4UTRINlZCZlhoOGZ3VHFtRHFjWmlCOHI4Z2RRVUk?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Dhanush's 'O.M' hits ₹51 crore; Dulquer's film earns ₹13 crore",
+  "hook": "Two South Indian stars score big at the box office this week.",
+  "what": "The movie 'O.M' starring Dhanush collected ₹51.11 crore in India and crossed the ₹100 crore mark worldwide. By its fifth day it had topped ₹93 crore globally and earned over ₹50 crore in the opening weekend. Dulquer Salmaan's 'Aakasamlo Oka Tara' made ₹13 crore in Indian theatres.",
+  "why": "The strong earnings highlight the growing appetite for regional cinema among Indian youth, signalling more diverse film choices on streaming platforms and theatres.",
+  "tags": [
+   "movies",
+   "boxoffice",
+   "Dhanush",
+   "Dulquer",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ദാനുഷിന്റെ ‘O.M’ 51 കോടി; ദുൾക്കറിന്റെ ചിത്രം 13 കോടി",
+  "hook": "ഇവിടെ രണ്ട് ദക്ഷിണ ഇന്ത്യൻ താരങ്ങൾ ഈ ആഴ്ച ബോക്സ് ഓഫിസിൽ വലിയ വിജയം നേടി.",
+  "what": "ദാനുഷ് നെയ്ത ‘O.M’ ഇന്ത്യയിൽ 51.11 കോടി ശേഖരിച്ചു, ആഗോളമായി 100 കോടി കടന്നു. അഞ്ചാം ദിവസത്തിൽ ഇത് 93 കോടി കടന്ന്, ആദ്യ വാരാന്ത്യത്തിൽ 50 കോടി മുകളിൽ നേടി. ദുൾക്കർ സൽമാന്റെ ‘Aakasamlo Oka Tara’ ഇന്ത്യയിൽ 13 കോടി നേടി.",
+  "why": "ഇത് യുവജനങ്ങളിൽ പ്രദേശിക സിനിമകളുടെ ആവശ്യം വർധിച്ചിരിക്കുന്നതിന്റെ സൂചനയാണ്, സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോംമുകളും തിയേറ്ററുകളും കൂടുതൽ വൈവിധ്യമാർന്ന ചലച്ചിത്രങ്ങൾ നൽകാൻ പ്രേരിപ്പിക്കും.",
+  "tags": [
+   "cinema",
+   "boxoffice",
+   "ദാനുഷ്",
+   "ദുൾക്കർ",
+   "ഇന്ത്യ"
+  ]
+ }
+}

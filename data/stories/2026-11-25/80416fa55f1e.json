@@ -1,0 +1,37 @@
+{
+ "id": "80416fa55f1e",
+ "created": "2026-11-25T13:43:16+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/apps/news/whatsapp-sound-sticker-feature-customisation-how-to-use-12374289",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "WhatsApp adds animated sound stickers for Android",
+  "hook": "Your chats just got louder and livelier.",
+  "what": "WhatsApp has rolled out a new feature for Android phones that lets users create animated stickers with sound. The app also now supports sticker reactions to messages.",
+  "why": "It makes chatting more expressive, letting you add fun audio‑visual flair. Try the new stickers in your next conversation.",
+  "tags": [
+   "WhatsApp",
+   "Android",
+   "Stickers",
+   "Chat",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "WhatsApp Android‑ൽ ആനിമേറ്റഡ് ശബ്ദ സ്റ്റിക്കറുകൾ",
+  "hook": "ചാറ്റുകൾ ഇനി ശബ്ദത്തോടും ചലനത്തോടും നിറഞ്ഞു.",
+  "what": "WhatsApp Android ഉപയോക്താക്കൾക്ക് ശബ്ദമുള്ള ആനിമേറ്റഡ് സ്റ്റിക്കറുകൾ സൃഷ്ടിക്കാൻ പുതിയ ഫീച്ചർ ചേർത്തു. കൂടാതെ സന്ദേശങ്ങൾക്ക് സ്റ്റിക്കർ പ്രതികരണങ്ങളും ലഭ്യമായി.",
+  "why": "ചാറ്റിംഗ് കൂടുതൽ പ്രകടനാത്മകമാകും, നിങ്ങളുടെ സംഭാഷണങ്ങളിൽ മസിലി ശബ്ദം ചേർക്കാം. അടുത്ത ചാറ്റിൽ പുതിയ സ്റ്റിക്കറുകൾ പരീക്ഷിക്കൂ.",
+  "tags": [
+   "വാട്ട്സ്ആപ്പ്",
+   "ആൻഡ്രോയ്ഡ്",
+   "സ്റ്റിക്കർ",
+   "ചാറ്റ്",
+   "ടെക്"
+  ]
+ }
+}

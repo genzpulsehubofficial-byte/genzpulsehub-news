@@ -1,0 +1,37 @@
+{
+ "id": "086fa706efdf",
+ "created": "2026-11-25T13:42:04+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "SC asks Delhi Police to respond to bail pleas in UAPA case",
+  "hook": "Two activists say key witnesses were ignored as their bail deadline nears",
+  "what": "The Supreme Court sent a notice to Delhi Police after Sharjeel Imam and Umar Khalid filed bail applications in a UAPA case. They argue the prosecution has not examined protected witnesses. The court‑imposed one‑year embargo on the case is about to end.",
+  "why": "The development shows how high‑profile legal battles proceed, reminding young Indians to stay aware of judicial timelines and their rights.",
+  "tags": [
+   "SupremeCourt",
+   "UAPA",
+   "Bail",
+   "DelhiPolice",
+   "Activism"
+  ]
+ },
+ "ml": {
+  "headline": "SC ദില്ലി പോലീസ്‌ക്ക് UAPA ബെയിൽ അപേക്ഷകളിൽ നോട്ടീസ്",
+  "hook": "രക്ഷാ സാക്ഷികളെ പരിശോധിക്കാത്തതിനാൽ രണ്ട് പ്രവർത്തകർ ബെയിൽ അപേക്ഷിക്കുന്നു",
+  "what": "സുപ്രീം കോടതി ദില്ലി പോലീസ്‌ക്ക് ശർജീൽ ഇമാം, ഉമർ ഖാലിദ് എന്നിവർ UAPA കേസിൽ ബെയിൽ അപേക്ഷിച്ചതിന് ശേഷം നോട്ടീസ് പുറപ്പെടുവിച്ചു. പ്രതിരോധം സംരക്ഷിത സാക്ഷികളെ പരിശോധിച്ചിട്ടില്ലെന്ന് അവര്‍ ആരോപിക്കുന്നു. ഒരു വർഷത്തെ തടയൽ കാലാവധി അവസാനിക്കാൻ പോകുന്നു.",
+  "why": "ഇത് ഉയർന്ന പ്രൊഫൈൽ കേസുകളിൽ നിയമ നടപടികളുടെ പ്രാധാന്യം കാണിക്കുന്നു; യുവാക്കൾക്ക് കോടതിയുടെ സമയപരിധികളും അവകാശങ്ങളും അറിയാൻ സഹായിക്കും.",
+  "tags": [
+   "SupremeCourt",
+   "UAPA",
+   "Bail",
+   "DelhiPolice",
+   "Activism"
+  ]
+ }
+}
