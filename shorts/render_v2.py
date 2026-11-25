@@ -24,7 +24,7 @@ W, H = 1080, 1920
 PEXELS = os.environ.get("PEXELS_API_KEY", "")
 END = {"en": "Follow for daily news →", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ →"}
 SAY_END = {"en": "Follow for more.", "ml": "കൂടുതൽ വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ."}
-FONTNAME = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
+_FONTNAME_UNUSED = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
 FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money cash", "tech": "technology",
               "exams": "students study", "trending": "people phone", "entertainment": "cinema lights",
               "health": "healthy lifestyle", "sports": "stadium sports", "kerala": "kerala"}
@@ -148,31 +148,62 @@ def top_panel(s, lang, path):
     img.save(path)
 
 
-def ass_time(t):
-    h, t = divmod(max(t, 0), 3600); m, sec = divmod(t, 60)
-    return f"{int(h)}:{int(m):02d}:{sec:05.2f}"
+def cap_png(words_in_group, hi, lang, path, end_text=None):
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+    if words_in_group:
+        f = font(lang, 80 if lang == "en" else 70)
+        line = " ".join(words_in_group)
+        lines = wrap(d, line, f, W - 140)
+        y = 1110 - (len(lines) - 1) * 50
+        idx = 0
+        for ln in lines:
+            ws = ln.split(" ")
+            x = (W - tlen(d, ln, f)) / 2
+            for w in ws:
+                col = "#FFE600" if idx == hi else "white"
+                for dx, dy in ((-4, 0), (4, 0), (0, -4), (0, 4), (-3, -3), (3, 3), (-3, 3), (3, -3), (0, 6)):
+                    put(d, (x + dx, y + dy), w, f, "black")
+                put(d, (x, y), w, f, col)
+                x += tlen(d, w, f); idx += 1
+            y += 100
+    if end_text:
+        f = font(lang, 64)
+        lines = wrap(d, end_text, f, W - 200)
+        y = 1470
+        for ln in lines:
+            wdt = tlen(d, ln, f)
+            d.rounded_rectangle([(W - wdt) / 2 - 30, y - 12, (W + wdt) / 2 + 20, y + 84], 20, fill=(10, 10, 20, 225))
+            put(d, ((W - wdt) / 2, y), ln, f, "white"); y += 104
+    img.save(path)
 
 
-def captions(words, lang, total, path):
-    fn = FONTNAME[lang]
-    size = 76 if lang == "en" else 66
-    head = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 0\n\n[V4+ Styles]\n"
-            "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, "
-            "Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, "
-            "MarginL, MarginR, MarginV, Encoding\n"
-            f"Style: Cap,{fn},{size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,6,2,5,70,70,0,1\n"
-            f"Style: End,{fn},70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HC0000000,1,0,0,0,100,100,0,0,3,18,0,5,80,80,0,1\n\n"
-            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
-    ev = []
+def captions(words, lang, total, tmp):
+    """Pre-render caption frames (Pillow+RAQM shapes Malayalam correctly) and return an ffconcat list."""
+    events, t = [], 0.0
     groups = [words[i:i + 3] for i in range(0, len(words), 3)]
     for g in groups:
         for j, (a, b, _) in enumerate(g):
             end = g[j + 1][0] if j + 1 < len(g) else b + 0.12
-            txt = " ".join(("{\\c&H00E6FF&\\fscx112\\fscy112}" + w.replace("{", "") + "{\\r}") if k == j
-                           else w.replace("{", "") for k, (_, _, w) in enumerate(g))
-            ev.append(f"Dialogue: 0,{ass_time(a)},{ass_time(end)},Cap,,0,0,0,,{{\\pos(540,1150)}}{txt}")
-    ev.append(f"Dialogue: 1,{ass_time(total - 2.4)},{ass_time(total)},End,,0,0,0,,{{\\pos(540,1520)\\fad(200,0)}}{END[lang]}")
-    open(path, "w", encoding="utf-8").write(head + "\n".join(ev) + "\n")
+            events.append((a, end, [w for _, _, w in g], j))
+    lst = ["ffconcat version 1.0"]
+    blank = os.path.join(tmp, "blank.png"); Image.new("RGBA", (W, H), (0, 0, 0, 0)).save(blank)
+    endstart = total - 2.4
+    n = 0
+    for a, e, ws, j in events:
+        if a >= endstart:
+            break
+        e = min(e, endstart)
+        if a > t + 0.01:
+            lst += [f"file '{blank}'", f"duration {a - t:.3f}"]
+        p = os.path.join(tmp, f"c{n}.png"); n += 1
+        cap_png(ws, j, lang, p)
+        lst += [f"file '{p}'", f"duration {max(e - a, 0.04):.3f}"]
+        t = e
+    p = os.path.join(tmp, "end.png"); cap_png([], -1, lang, p, END[lang])
+    lst += [f"file '{p}'", f"duration {max(total - t, 0.5):.3f}", f"file '{p}'"]
+    path = os.path.join(tmp, "caps.txt"); open(path, "w").write("\n".join(lst) + "\n")
+    return path
 
 
 def render(lang, s, outdir):
@@ -185,13 +216,14 @@ def render(lang, s, outdir):
     total = dur(mp3) + 0.6
     bg = background(s, lang, total, tmp)
     top = os.path.join(tmp, "top.png"); top_panel(s, lang, top)
-    ass = os.path.join(tmp, "c.ass"); captions(words, lang, total, ass)
+    caps = captions(words, lang, total, tmp)
     out = os.path.join(outdir, f"{s['id']}.mp4")
     accent = COLOR.get(s.get("category", ""), "#ff3cac").lstrip("#")
     vf = (f"[0:v]eq=brightness=-0.18:saturation=1.15[b];[b][1:v]overlay=0:0[o];"
-          f"[o]drawbox=x=0:y=0:w=iw*t/{total:.2f}:h=14:color=0x{accent}:t=fill,"
-          f"subtitles={ass}:fontsdir=/usr/share/fonts/truetype/noto[v]")
+          f"[o]drawbox=x=0:y=0:w=iw*t/{total:.2f}:h=14:color=0x{accent}:t=fill[p];"
+          f"[3:v]format=rgba[c];[p][c]overlay=0:0:eof_action=pass[v]")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", bg, "-loop", "1", "-i", top, "-i", mp3,
+                    "-f", "concat", "-safe", "0", "-i", caps,
                     "-filter_complex", vf, "-map", "[v]", "-map", "2:a", "-t", f"{total:.2f}",
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p", "-r", "30",
                     "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-af", "apad", "-movflags", "+faststart", out],
