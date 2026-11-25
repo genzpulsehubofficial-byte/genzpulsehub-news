@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Run in Oracle Cloud Shell. Asks for the 4 stream keys (paste each, press Enter; blank = skip) and installs them on the server.
 set -euo pipefail
-IP=$(cat ~/.gph_ip)
+ID=$(oci compute instance list -c "$OCI_TENANCY" --display-name gph-stream --lifecycle-state RUNNING --query "data[0].id" --raw-output); IP=$(oci compute instance list-vnics --instance-id "$ID" --query "data[0].\"public-ip\"" --raw-output); echo "Server: $IP"
 ask(){ local v; read -rsp "Paste $1 then Enter (or just Enter to skip): " v </dev/tty; echo; [ -n "$v" ] && echo "$2=$v" >> /tmp/gph.env || true; }
 : > /tmp/gph.env; chmod 600 /tmp/gph.env
 ask "YouTube ENGLISH stream key" YT_KEY_EN
