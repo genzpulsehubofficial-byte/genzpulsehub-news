@@ -58,4 +58,28 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 
 ## Status / change log
 - 2026-11-18: All accounts + keys set up. Phase 1 pipeline built.
-- Open: choose stream device (Oracle free / phone with new battery / mini PC). Meta refund of ₹499.99 (old ad account) — check 27 Nov.
+- 2026-11-19..24: Phase 3 site live on genzpulsehub.pages.dev (custom domain pending). Phase 4 ads Worker live (genzpulsehub-ads.genzpulsehub-official.workers.dev, D1, Cashfree prod; live-stream slots marked "Coming soon"). Shorts renderer + publisher built.
+- 2026-11-25: YouTube publishing WORKS for both channels (secrets YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_EN, YT_REFRESH_ML). Oracle Cloud account approved: tenancy `genzpulsehubofficial`, region ap-mumbai-1, login genzpulsehub.official@gmail.com.
+
+## For a future Claude session (start here)
+The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
+- Repo is the single source of truth. Read this file, then `git log -20`.
+- Check health: latest runs of `news`, `shorts`, `ads-deploy` workflows; `data/status.json`; Discord.
+- Secrets can't be read back from GitHub. If one is wrong, the owner re-copies it from the provider and pastes into the GitHub "Update secret" page you open.
+- YouTube refresh token: OAuth Playground with own credentials (client above, redirect https://developers.google.com/oauthplayground), scopes youtube.upload youtube.readonly yt-analytics.readonly, access type offline. Click **Exchange authorization code for tokens**; copy the **Refresh token** (starts `1//`), NOT the auth code (`4/`). English = main "GenZ Pulse" account, Malayalam = brand account "GenZ Pulse Hub Malayalam".
+
+## Decisions (owner)
+- Posting volume: ramp, don't blast. IG/FB start 30/day per account → auto-ramp to 95/day while followers/day and total reach keep rising; step down on action block/warning or 3-day reach drop. YouTube: max the free quota (~6 uploads/day total) and request a quota raise.
+- Skip Telegram, WhatsApp, Threads, X.
+- Advertiser outreach: inbound only (no cold DMs/emails). Auto-reply to people who contact us.
+- Auto-optimise everything weekly/monthly (categories, times, lengths, formats, volume, ad prices), English and Malayalam separately, Discord report.
+
+## Pending (in order)
+1. META_TOKEN (system-user token, portfolio 932757405756172, pages + IG publish/insights perms) → Reels live.
+2. Oracle VM (Always Free ARM, Mumbai) → Phase 2 24/7 stream to YouTube + Facebook; then open live ad slots.
+3. Cashfree domain whitelist; domain activation → switch SITE_URL to genzpulsehub.dpdns.org; Email Routing ads@ → Gmail.
+4. Gmail App Password secret + mailer for queued ad emails.
+5. Auto-replies (comments, ads inbox, IG DMs), inbound ad pitch, watchdog, weekly backup, corrections, copyright guard, Google News/Discover, monetisation tracker, affiliate links.
+6. Phase 6 analytics + Audience Pulse + volume ramp.
+7. Mobile header fix; replace dead feeds (Indian Express, Onmanorama).
+- Reminder: Meta refund ₹499.99 check on 27 Nov (scheduled).
