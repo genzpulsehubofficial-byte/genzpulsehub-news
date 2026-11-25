@@ -1,5 +1,81 @@
 [
  {
+  "id": "6a366f4de569",
+  "created": "2026-11-25T07:32:37+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/rbi-proposes-digital-payment-safeguards-explained-how-customers-can-control-upi-switch-off-cards-set-payment-limits-11795565937515.html",
+  "headline": "RBI നിർദ്ദേശം: UPI, കാർഡ് ഉപയോഗം നിങ്ങൾക്ക് നിയന്ത്രിക്കാൻ",
+  "hook": "ഒരു തപ്പിൽ UPI നിർത്തിയോ, ചെലവു പരിധി സജ്ജമാക്കിയോ ചെയ്യാം",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഡിജിറ്റൽ പേയ്മെന്റുകൾക്ക് പുതിയ സുരക്ഷാ നടപടികൾ നിർദ്ദേശിച്ചു. ഉപയോക്താക്കൾക്ക് UPI, മറ്റ് ചാനലുകൾ ഓഫ് ചെയ്യാനും, ഇടപാട്, ദിവസവില പരിധി നിശ്ചയിക്കാനും, ഡെബിറ്റ്, ക്രെഡിറ്റ് കാർഡുകൾ ഓൺ-ഓഫ് ചെയ്യാനും സാധിക്കും.",
+  "why": "ഇത് ഓൺലൈൻ ചെലവുകൾ നിയന്ത്രിക്കാൻ, തട്ടിപ്പുകൾ തടയാൻ സഹായിക്കും, വിദ്യാർത്ഥികൾക്കും യുവാക്കൾക്കും പ്രയോജനകരം. അന്തിമ നിയമം വരുമ്പോൾ ബാങ്ക് ആപ്പുകളിൽ ഈ സജ്ജീകരണങ്ങൾ പരിശോധിക്കാൻ തയ്യാറാവുക.",
+  "tags": [
+   "RBI",
+   "ഡിജിറ്റൽപേയ്‌മെന്റ്",
+   "UPI",
+   "സുരക്ഷ",
+   "യുവാക്കൾ"
+  ]
+ },
+ {
+  "id": "15cc80bc011a",
+  "created": "2026-11-25T07:32:47+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-condemns-murtuza-pahalwans-murder/article71739154.ece",
+  "headline": "ഒവൈസി മുര്തുസാ പഹല്വാന്റെ കൊലപാതകം നിന്ദിച്ചു",
+  "hook": "ഹിമായത്സഗർ ഇക്കോ പാർക്കിന് സമീപം കത്തി ആക്രമണം ഒരു ജീവിതം അവസാനിപ്പിച്ചു.",
+  "what": "മുര്തുസാ പഹല്വാൻ, മുൻ ചരിത്ര‑ഷീറ്റർ, നവംബർ 23-ന് ഹിമായത്സഗർ ഇക്കോ പാർക്കിന് സമീപം ആറു പേർ ഉപയോഗിച്ച കത്തികളാൽ മുറിക്കപ്പെട്ടു, പരിക്കുകൾ മൂലം മരണം സംഭവിച്ചു.",
+  "why": "പൊതു സ്ഥലങ്ങളിലെ ഹിംസാ സംഭവങ്ങൾ യുവാക്കളുടെ സുരക്ഷയെ ബാധിക്കുന്നു; ഒറ്റപ്പെട്ട സ്ഥലങ്ങളിൽ ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "ക്രൈം",
+   "ഹൈദരാബാദ്",
+   "ഹിംസം",
+   "പബ്ലിക് സുരക്ഷ",
+   "വാർത്ത"
+  ]
+ },
+ {
+  "id": "724878a26e68",
+  "created": "2026-11-25T07:32:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "headline": "Maple-ന് $5.3M ഫണ്ടിംഗ്, സ്വകാര്യത‑പ്രഥമ AI ഉപകരണങ്ങൾ",
+  "hook": "നിങ്ങളുടെ ഡാറ്റ, നിർമ്മാതാവിനും കാണാൻ സാധിക്കില്ല.",
+  "what": "Maple എന്ന സ്റ്റാർട്ടപ്പ് $5.3 മില്യൺ സമാഹരിച്ചു, ഉപയോക്തൃ ഡാറ്റ എൻക്രിപ്റ്റ് ചെയ്ത AI ഉൽപ്പന്നങ്ങൾ വികസിപ്പിക്കാൻ. ഈ ആർക്കിടെക്ചർ കമ്പനി തന്നെ സ്വകാര്യ വിവരങ്ങൾ കാണാൻ കഴിയാത്ത വിധം രൂപകൽപ്പന ചെയ്തിരിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾക്ക്, ഡാറ്റ ചോരലിനെക്കുറിച്ച് ആശങ്കയില്ലാതെ AI സേവനങ്ങൾ ഉപയോഗിക്കാൻ കഴിയും. ഇത്തരമൊരു എൻക്രിപ്ഷൻ ഉപയോഗിക്കുന്ന ആപ്പുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "AI",
+   "സ്വകാര്യത",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ഫണ്ടിംഗ്",
+   "ഡാറ്റസുരക്ഷ"
+  ]
+ },
+ {
+  "id": "4647bb6a18f6",
+  "created": "2026-11-25T07:32:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+  "headline": "ഓയിൽ ടാങ്കറുകൾ സൈബർ ഹാക്ക്, ഇറാൻ സംശയിതൻ",
+  "hook": "നിങ്ങളുടെ ഇന്ധന വിതരണവും സൈബർ ആക്രമണത്തിന്റെ ലക്ഷ്യമാകാം.",
+  "what": "കഴിഞ്ഞ ചില ആഴ്ചകളിൽ, എണ്ണയും രാസവസ്തു ഷിപ്പിംഗ് കപ്പലുകളും സൈബർ ആക്രമണങ്ങളാൽ ബാധിക്കപ്പെട്ടു. റിപ്പോർട്ടുകൾ ഈ ആക്രമണത്തിന് ഇറാൻ പ്രധാന സംശയിതനാണെന്ന് പറയുന്നു.",
+  "why": "ടാങ്കർ പ്രവർത്തനത്തിലെ തടസ്സം ഇന്ധന ലഭ്യതയും വിലയും ബാധിക്കാം, അതിനാൽ സൈബർ സുരക്ഷാ വാർത്തകൾ ശ്രദ്ധിക്കേണ്ടത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്.",
+  "tags": [
+   "cybersecurity",
+   "oil",
+   "shipping",
+   "Iran",
+   "tech"
+  ]
+ },
+ {
   "id": "05f887d0221c",
   "created": "2026-11-25T06:04:59+05:30",
   "category": "tech",
@@ -674,82 +750,6 @@
    "Vizag",
    "SpecialTrains",
    "FestivalTravel"
-  ]
- },
- {
-  "id": "7bed5d5c85c4",
-  "created": "2026-11-25T00:06:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Mashable",
-  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
-  "headline": "HBO Max ഈ ബ്ലാക്ക് ഫ്രൈഡെയിൽ ഒരു വർഷം വില അരക്കായി",
-  "hook": "പകുതി വിലയിൽ ഒരു വർഷം മുഴുവൻ ബിംജ്‑വാച്ചിംഗ് നേടൂ!",
-  "what": "HBO Max ബ്ലാക്ക് ഫ്രൈഡെയ്ക്കായി വാർഷിക സബ്സ്ക്രിപ്ഷനിൽ 50% ഓഫർ നൽകുന്നു. മറ്റ് പ്ലാറ്റ്ഫോംമുകളും വില കുറയ്ക്കുന്നു, Paramount+ 75% വരെ, Apple TV മാസം ₹6.99, Paramount Plus മാസം ₹2.99.",
-  "why": "കുറഞ്ഞ വിലയിൽ വിദ്യാർത്ഥികൾക്ക് ഇഷ്ടമുള്ള ഷോകളും മ്യൂസിക്കും സ്ട്രീം ചെയ്യാം. ഓഫർ അവസാനിക്കുന്നതിന് മുമ്പ് വെബ്സൈറ്റുകളിൽ നിന്ന് ഉടൻ ഉപയോഗിക്കുക.",
-  "tags": [
-   "സ്റ്റ്രീമിംഗ്",
-   "ബ്ലാക്ക്ഫ്രൈഡേ",
-   "HBOmax",
-   "ഡീലുകൾ",
-   "ബിംജ്"
-  ]
- },
- {
-  "id": "ea918b2e4ea9",
-  "created": "2026-11-25T00:06:03+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/sanskrit-university-moves-kerala-hc-against-student-suspension-order-ptilr8bmyh7",
-  "headline": "സാൻസ്‌കൃത സർവകലാശാല കോടതി ഉത്തരവ് റദ്ദാക്കാൻ ഹൈക്കോടതി നേരിടുന്നു",
-  "hook": "വൈസ്-ചാൻസലറെ ആക്രമിച്ചതായി ആരോപിത 16 വിദ്യാർത്ഥികൾക്ക് നിയമ പോരാട്ടം.",
-  "what": "ശ്രീ ശങ്കരാചാര്യ സർവകലാശാല 16 വിദ്യാർത്ഥികളുടെ സസ്പെൻഷൻ റദ്ദാക്കിയ കോടതി ഉത്തരവിനെതിരെ കേരള ഹൈക്കോടതിയിൽ അപേക്ഷിച്ചു. ഈ വിദ്യാർത്ഥികളെ വൈസ്-ചാൻസലറെ ആക്രമിച്ചതായി ആരോപിക്കുന്നു.",
-  "why": "ക്യാമ്പസ് സുരക്ഷയും ശിക്ഷാ നടപടികളും ഇതിലൂടെ സ്വാധീനിക്കപ്പെടാം, അതിനാൽ വിദ്യാർത്ഥികൾക്ക് സർവകലാശാലയുടെ നിയമങ്ങൾ അറിയാൻ പ്രധാനമാണ്.",
-  "tags": [
-   "കേരളം",
-   "സർവകലാശാല",
-   "നിയമം",
-   "വിദ്യാർത്ഥി",
-   "ക്യാമ്പസ്"
-  ]
- },
- {
-  "id": "9c4debde0cd2",
-  "created": "2026-11-24T23:07:24+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Investopedia",
-  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5",
-  "headline": "Nvidia ഇടിവ് Nasdaq, S&P 500 നെ താഴ്ത്തി",
-  "hook": "AI ആവേശം തണുത്തു, Nvidia ഷെയർ വീണു.",
-  "what": "തിങ്കളാഴ്ച വലിയ ഉയർച്ചക്കു ശേഷം, ചൊവ്വാഴ്ച അമേരിക്കൻ സ്റ്റോക്ക് സൂചികകൾ കുറച്ചു. Nvidiaയുടെ വില ഇടിവ് ടെക് ഷെയറുകൾക്ക് വ്യാപകമായ വീഴ്ചയ്ക്ക് കാരണമായി, Nasdaq, S&P 500 എന്നിവയെ താഴ്ത്തി.",
-  "why": "AI‑ബന്ധിത നിക്ഷേപങ്ങൾ ചഞ്ചലമാണെന്ന് ശ്രദ്ധിച്ച്, പോർട്ട്ഫോളിയോ വൈവിധ്യം ഉറപ്പാക്കണം.",
-  "tags": [
-   "Nvidia",
-   "AI സ്റ്റോക്കുകൾ",
-   "Nasdaq",
-   "S&P500",
-   "മാർക്കറ്റ് ഇടിവ്"
-  ]
- },
- {
-  "id": "92b9681163bc",
-  "created": "2026-11-24T23:07:32+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-  "headline": "Harbinger Palmer Luckey‑യുടെ Erebor Bank‑യിൽ നിന്ന് ഫണ്ടിംഗ് secured",
-  "hook": "ഇലക്ട്രിക് ട്രക്ക് സ്റ്റാർട്ടപ്പ് പുതിയ ബാങ്കിംഗ് പങ്കാളി വഴി പണം ഉറപ്പിച്ചു.",
-  "what": "EV ട്രക്ക് സ്റ്റാർട്ടപ്പ് Harbinger, Palmer Luckey‑യുടെ Erebor Bank‑നൊപ്പം ഫണ്ടിംഗ് ഉറപ്പിച്ചു. ഇത് കമ്പനിക്ക് പുതിയ മൂലധനം നൽകുന്നു.",
-  "why": "പുതിയ ഫണ്ടിംഗ് കമ്പനിയ്ക്ക് വളർച്ചയ്ക്ക് സഹായിക്കും, ഇത് യുവജനങ്ങൾക്ക് ജോലിയും ടെക് അവസരങ്ങളും സൃഷ്ടിക്കാം. EV മേഖലയിൽ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "ഇലക്ട്രിക് ട്രക്ക്",
-   "സ്റ്റാർട്ടപ്പ് ഫണ്ടിംഗ്",
-   "EV",
-   "ടെക്",
-   "ഫിനാൻസ്"
   ]
  }
 ]

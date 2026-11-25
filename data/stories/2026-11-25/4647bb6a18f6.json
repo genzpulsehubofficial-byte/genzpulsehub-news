@@ -1,0 +1,37 @@
+{
+ "id": "4647bb6a18f6",
+ "created": "2026-11-25T07:32:54+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Oil tankers hit by cyber hacks, Iran suspected",
+  "hook": "Your fuel supply could be a target of cyber attacks.",
+  "what": "In the past few weeks, dozens of oil and chemical shipping vessels were compromised by cyber intrusions. Reports identify Iran as the primary suspect behind these attacks.",
+  "why": "Disruptions to tanker operations can affect fuel availability and prices, making it important for young Indians to follow cyber‑security developments.",
+  "tags": [
+   "cybersecurity",
+   "oil",
+   "shipping",
+   "Iran",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "ഓയിൽ ടാങ്കറുകൾ സൈബർ ഹാക്ക്, ഇറാൻ സംശയിതൻ",
+  "hook": "നിങ്ങളുടെ ഇന്ധന വിതരണവും സൈബർ ആക്രമണത്തിന്റെ ലക്ഷ്യമാകാം.",
+  "what": "കഴിഞ്ഞ ചില ആഴ്ചകളിൽ, എണ്ണയും രാസവസ്തു ഷിപ്പിംഗ് കപ്പലുകളും സൈബർ ആക്രമണങ്ങളാൽ ബാധിക്കപ്പെട്ടു. റിപ്പോർട്ടുകൾ ഈ ആക്രമണത്തിന് ഇറാൻ പ്രധാന സംശയിതനാണെന്ന് പറയുന്നു.",
+  "why": "ടാങ്കർ പ്രവർത്തനത്തിലെ തടസ്സം ഇന്ധന ലഭ്യതയും വിലയും ബാധിക്കാം, അതിനാൽ സൈബർ സുരക്ഷാ വാർത്തകൾ ശ്രദ്ധിക്കേണ്ടത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്.",
+  "tags": [
+   "cybersecurity",
+   "oil",
+   "shipping",
+   "Iran",
+   "tech"
+  ]
+ }
+}

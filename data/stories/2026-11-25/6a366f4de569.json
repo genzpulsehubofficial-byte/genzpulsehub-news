@@ -1,0 +1,37 @@
+{
+ "id": "6a366f4de569",
+ "created": "2026-11-25T07:32:37+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/rbi-proposes-digital-payment-safeguards-explained-how-customers-can-control-upi-switch-off-cards-set-payment-limits-11795565937515.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI drafts rules to let users control UPI, card usage",
+  "hook": "Now you could pause UPI or set spend caps with a tap",
+  "what": "The Reserve Bank of India released a draft to introduce new safeguards for digital payments. The proposal would let users turn off UPI and other channels, set transaction and daily limits, and enable or disable debit and credit cards.",
+  "why": "It gives more control over online spending and helps prevent fraud, which is useful for students using apps for daily purchases. Users can watch for the final rules and be ready to adjust settings in their banking apps.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "UPI",
+   "security",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "RBI നിർദ്ദേശം: UPI, കാർഡ് ഉപയോഗം നിങ്ങൾക്ക് നിയന്ത്രിക്കാൻ",
+  "hook": "ഒരു തപ്പിൽ UPI നിർത്തിയോ, ചെലവു പരിധി സജ്ജമാക്കിയോ ചെയ്യാം",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഡിജിറ്റൽ പേയ്മെന്റുകൾക്ക് പുതിയ സുരക്ഷാ നടപടികൾ നിർദ്ദേശിച്ചു. ഉപയോക്താക്കൾക്ക് UPI, മറ്റ് ചാനലുകൾ ഓഫ് ചെയ്യാനും, ഇടപാട്, ദിവസവില പരിധി നിശ്ചയിക്കാനും, ഡെബിറ്റ്, ക്രെഡിറ്റ് കാർഡുകൾ ഓൺ-ഓഫ് ചെയ്യാനും സാധിക്കും.",
+  "why": "ഇത് ഓൺലൈൻ ചെലവുകൾ നിയന്ത്രിക്കാൻ, തട്ടിപ്പുകൾ തടയാൻ സഹായിക്കും, വിദ്യാർത്ഥികൾക്കും യുവാക്കൾക്കും പ്രയോജനകരം. അന്തിമ നിയമം വരുമ്പോൾ ബാങ്ക് ആപ്പുകളിൽ ഈ സജ്ജീകരണങ്ങൾ പരിശോധിക്കാൻ തയ്യാറാവുക.",
+  "tags": [
+   "RBI",
+   "ഡിജിറ്റൽപേയ്‌മെന്റ്",
+   "UPI",
+   "സുരക്ഷ",
+   "യുവാക്കൾ"
+  ]
+ }
+}

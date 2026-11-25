@@ -1,0 +1,37 @@
+{
+ "id": "15cc80bc011a",
+ "created": "2026-11-25T07:32:47+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-condemns-murtuza-pahalwans-murder/article71739154.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Owaisi condemns murder of ex‑history sheeter Murtuza",
+  "hook": "A knife attack near a city park leaves a former criminal dead.",
+  "what": "Murtuza Pahelwan, who had a criminal past, died from injuries after being slashed by at least six people near Himayatsagar Eco Park on November 23. The assault involved sharp weapons.",
+  "why": "Such violent incidents raise safety concerns for youngsters in public places; stay alert and avoid isolated areas.",
+  "tags": [
+   "crime",
+   "Hyderabad",
+   "violence",
+   "public safety",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "ഒവൈസി മുര്തുസാ പഹല്വാന്റെ കൊലപാതകം നിന്ദിച്ചു",
+  "hook": "ഹിമായത്സഗർ ഇക്കോ പാർക്കിന് സമീപം കത്തി ആക്രമണം ഒരു ജീവിതം അവസാനിപ്പിച്ചു.",
+  "what": "മുര്തുസാ പഹല്വാൻ, മുൻ ചരിത്ര‑ഷീറ്റർ, നവംബർ 23-ന് ഹിമായത്സഗർ ഇക്കോ പാർക്കിന് സമീപം ആറു പേർ ഉപയോഗിച്ച കത്തികളാൽ മുറിക്കപ്പെട്ടു, പരിക്കുകൾ മൂലം മരണം സംഭവിച്ചു.",
+  "why": "പൊതു സ്ഥലങ്ങളിലെ ഹിംസാ സംഭവങ്ങൾ യുവാക്കളുടെ സുരക്ഷയെ ബാധിക്കുന്നു; ഒറ്റപ്പെട്ട സ്ഥലങ്ങളിൽ ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "ക്രൈം",
+   "ഹൈദരാബാദ്",
+   "ഹിംസം",
+   "പബ്ലിക് സുരക്ഷ",
+   "വാർത്ത"
+  ]
+ }
+}

@@ -1,5 +1,81 @@
 [
  {
+  "id": "6a366f4de569",
+  "created": "2026-11-25T07:32:37+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/rbi-proposes-digital-payment-safeguards-explained-how-customers-can-control-upi-switch-off-cards-set-payment-limits-11795565937515.html",
+  "headline": "RBI drafts rules to let users control UPI, card usage",
+  "hook": "Now you could pause UPI or set spend caps with a tap",
+  "what": "The Reserve Bank of India released a draft to introduce new safeguards for digital payments. The proposal would let users turn off UPI and other channels, set transaction and daily limits, and enable or disable debit and credit cards.",
+  "why": "It gives more control over online spending and helps prevent fraud, which is useful for students using apps for daily purchases. Users can watch for the final rules and be ready to adjust settings in their banking apps.",
+  "tags": [
+   "RBI",
+   "digitalPayments",
+   "UPI",
+   "security",
+   "youth"
+  ]
+ },
+ {
+  "id": "15cc80bc011a",
+  "created": "2026-11-25T07:32:47+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/telangana/owaisi-condemns-murtuza-pahalwans-murder/article71739154.ece",
+  "headline": "Owaisi condemns murder of ex‑history sheeter Murtuza",
+  "hook": "A knife attack near a city park leaves a former criminal dead.",
+  "what": "Murtuza Pahelwan, who had a criminal past, died from injuries after being slashed by at least six people near Himayatsagar Eco Park on November 23. The assault involved sharp weapons.",
+  "why": "Such violent incidents raise safety concerns for youngsters in public places; stay alert and avoid isolated areas.",
+  "tags": [
+   "crime",
+   "Hyderabad",
+   "violence",
+   "public safety",
+   "news"
+  ]
+ },
+ {
+  "id": "724878a26e68",
+  "created": "2026-11-25T07:32:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "headline": "Maple secures $5.3M to launch privacy‑first AI tools",
+  "hook": "Your data stays hidden, even from the maker.",
+  "what": "Maple, a startup, raised $5.3 million to develop AI products that keep user data encrypted. Its architecture is built so the company itself cannot view the private information.",
+  "why": "For young users, it means AI services that respect privacy, so they can use tools without fearing data misuse. Look for apps that adopt such encryption.",
+  "tags": [
+   "AI",
+   "privacy",
+   "startup",
+   "funding",
+   "data security"
+  ]
+ },
+ {
+  "id": "4647bb6a18f6",
+  "created": "2026-11-25T07:32:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+  "headline": "Oil tankers hit by cyber hacks, Iran suspected",
+  "hook": "Your fuel supply could be a target of cyber attacks.",
+  "what": "In the past few weeks, dozens of oil and chemical shipping vessels were compromised by cyber intrusions. Reports identify Iran as the primary suspect behind these attacks.",
+  "why": "Disruptions to tanker operations can affect fuel availability and prices, making it important for young Indians to follow cyber‑security developments.",
+  "tags": [
+   "cybersecurity",
+   "oil",
+   "shipping",
+   "Iran",
+   "tech"
+  ]
+ },
+ {
   "id": "05f887d0221c",
   "created": "2026-11-25T06:04:59+05:30",
   "category": "tech",
@@ -674,82 +750,6 @@
    "Vizag",
    "SpecialTrains",
    "FestivalTravel"
-  ]
- },
- {
-  "id": "7bed5d5c85c4",
-  "created": "2026-11-25T00:06:01+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Mashable",
-  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYU03Ykt0QzlfRU43cUhucGdaeFU3OTVPN2Znak5CdXlXN0pLWDgwejR6eVFGX0NKMkljbUg2T0l2T2hNaUFGanVtcUpXUDBzWnZyYV96bFpmWVQwNkJiZVl4SzZjTURYTDY4SG5pZlJjRWREbE1YZjlR?oc=5",
-  "headline": "HBO Max halves price for a year this Black Friday",
-  "hook": "Grab a full year of binge‑watching for just half the cost!",
-  "what": "HBO Max is offering a 50% discount on its annual subscription for Black Friday. Other platforms are also slashing prices, with Paramount+ up to 75% off, Apple TV at ₹6.99 per month and Paramount Plus at ₹2.99 per month.",
-  "why": "Lower subscription fees let students stream their favorite shows and music without straining their pocket. Visit the services’ sites soon to lock in the deals before they end.",
-  "tags": [
-   "streaming",
-   "BlackFriday",
-   "HBOmax",
-   "deals",
-   "binge"
-  ]
- },
- {
-  "id": "ea918b2e4ea9",
-  "created": "2026-11-25T00:06:03+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/sanskrit-university-moves-kerala-hc-against-student-suspension-order-ptilr8bmyh7",
-  "headline": "Sanskrit University challenges court order lifting suspension of 16 students",
-  "hook": "Students charged with attacking the VC face a legal battle.",
-  "what": "The Sree Sankaracharya University of Sanskrit filed a petition in the Kerala High Court contesting a recent order that cancelled the suspension of 16 students. Those students are alleged to have assaulted the university's Vice-Chancellor.",
-  "why": "The outcome could shape campus safety rules and disciplinary procedures, so students should stay aware of university policies.",
-  "tags": [
-   "Kerala",
-   "University",
-   "Legal",
-   "Students",
-   "Campus"
-  ]
- },
- {
-  "id": "9c4debde0cd2",
-  "created": "2026-11-24T23:07:24+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Investopedia",
-  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkNhX201Z2FXd01iTjcxMmVvVkhXOFFlaGNtUWJaUm9UYnJMY214LWplakU4OUtqWlk0UEVmWGVOZGc1NVdsTG1UcU9hQlYtSDZHWl80VjVEUDlCV0E5TENKU0t0R0pnOGlodnZZSnpmb2xYTGVBMmlYNUk2dURreWh4V0hqWHZIQjFrYmNnU1I1dVJOOFJhVm13?oc=5",
-  "headline": "Nvidia slump drags Nasdaq, S&P 500 lower",
-  "hook": "AI hype cools as Nvidia shares tumble.",
-  "what": "After a strong rally on Monday, U.S. equity indexes slipped on Tuesday. Nvidia’s price drop sparked a broader retreat in technology stocks, pulling down the Nasdaq and the S&P 500.",
-  "why": "Young investors should watch AI‑related holdings for volatility and consider diversifying.",
-  "tags": [
-   "Nvidia",
-   "AI stocks",
-   "Nasdaq",
-   "S&P500",
-   "market dip"
-  ]
- },
- {
-  "id": "92b9681163bc",
-  "created": "2026-11-24T23:07:32+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-  "headline": "Harbinger secures funding from Palmer Luckey’s Erebor Bank",
-  "hook": "Electric truck maker taps a new banking partner for cash.",
-  "what": "The EV truck startup Harbinger has partnered with Erebor Bank, owned by Palmer Luckey, to obtain financing. This adds a fresh source of capital for the company.",
-  "why": "New funding can help the startup expand, potentially creating jobs and tech opportunities for Indian youth. Keep an eye on emerging EV ventures.",
-  "tags": [
-   "electric trucks",
-   "startup funding",
-   "EV",
-   "tech",
-   "finance"
   ]
  }
 ]

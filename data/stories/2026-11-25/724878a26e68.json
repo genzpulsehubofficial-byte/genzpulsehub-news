@@ -1,0 +1,37 @@
+{
+ "id": "724878a26e68",
+ "created": "2026-11-25T07:32:52+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Maple secures $5.3M to launch privacy‑first AI tools",
+  "hook": "Your data stays hidden, even from the maker.",
+  "what": "Maple, a startup, raised $5.3 million to develop AI products that keep user data encrypted. Its architecture is built so the company itself cannot view the private information.",
+  "why": "For young users, it means AI services that respect privacy, so they can use tools without fearing data misuse. Look for apps that adopt such encryption.",
+  "tags": [
+   "AI",
+   "privacy",
+   "startup",
+   "funding",
+   "data security"
+  ]
+ },
+ "ml": {
+  "headline": "Maple-ന് $5.3M ഫണ്ടിംഗ്, സ്വകാര്യത‑പ്രഥമ AI ഉപകരണങ്ങൾ",
+  "hook": "നിങ്ങളുടെ ഡാറ്റ, നിർമ്മാതാവിനും കാണാൻ സാധിക്കില്ല.",
+  "what": "Maple എന്ന സ്റ്റാർട്ടപ്പ് $5.3 മില്യൺ സമാഹരിച്ചു, ഉപയോക്തൃ ഡാറ്റ എൻക്രിപ്റ്റ് ചെയ്ത AI ഉൽപ്പന്നങ്ങൾ വികസിപ്പിക്കാൻ. ഈ ആർക്കിടെക്ചർ കമ്പനി തന്നെ സ്വകാര്യ വിവരങ്ങൾ കാണാൻ കഴിയാത്ത വിധം രൂപകൽപ്പന ചെയ്തിരിക്കുന്നു.",
+  "why": "യുവജനങ്ങൾക്ക്, ഡാറ്റ ചോരലിനെക്കുറിച്ച് ആശങ്കയില്ലാതെ AI സേവനങ്ങൾ ഉപയോഗിക്കാൻ കഴിയും. ഇത്തരമൊരു എൻക്രിപ്ഷൻ ഉപയോഗിക്കുന്ന ആപ്പുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "AI",
+   "സ്വകാര്യത",
+   "സ്റ്റാർട്ടപ്പ്",
+   "ഫണ്ടിംഗ്",
+   "ഡാറ്റസുരക്ഷ"
+  ]
+ }
+}
