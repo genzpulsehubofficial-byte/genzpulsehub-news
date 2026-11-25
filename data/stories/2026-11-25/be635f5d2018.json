@@ -1,0 +1,37 @@
+{
+ "id": "be635f5d2018",
+ "created": "2026-11-25T22:15:32+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/sc-cancels-bail-suspension-of-life-sentence-of-former-ktaka-minister-in-murder-case/article71743740.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court revokes bail for ex-Karnataka minister in murder case",
+  "hook": "A top politician loses his freedom after the highest court steps in.",
+  "what": "Former minister Kulkarni was convicted in April for a 2016 murder. The Karnataka High Court had suspended his life sentence and granted bail so he could remain an MLA during the appeal. The Supreme Court set aside that order, saying bail cannot be given for such serious crimes.",
+  "why": "The ruling shows that even powerful figures can be held accountable, reinforcing the rule of law for young Indians. Stay aware of judicial decisions that shape politics.",
+  "tags": [
+   "justice",
+   "politics",
+   "India",
+   "law",
+   "Karnataka"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി മുൻ കര്‍ണാടക മന്ത്രിയുടെ ജാമിനി റദ്ദാക്കി",
+  "hook": "മഹത്തായ കുറ്റത്തില്‍ നിന്ന് മോചനം കിട്ടിയിരുന്ന നേതാവിന് ഇനി സ്വാതന്ത്ര്യം ഇല്ല.",
+  "what": "കുൾക്കർണി 2016-ലെ കൊലപാതകത്തില്‍ ഏപ്രിലില്‍ ശിക്ഷിതനായി. കര്‍ണാടക ഹൈക്കോടതി ജീവപര്യന്തം ശിക്ഷ താല്‍ക്കാലികമായി നിർത്തി, അപീല്‍ വരെ ജാമിനി അനുവദിച്ചു. സുപ്രീം കോടതി ഈ ജാമിനി റദ്ദാക്കി, ഗുരുതര കുറ്റങ്ങൾക്ക് ഇത്തരമൊരു കാരണങ്ങൾ അംഗീകരിക്കില്ലെന്ന് പറഞ്ഞു.",
+  "why": "ശക്തികളായവരും നിയമം കീഴില്‍ ആണെന്ന് ഇത് തെളിയിക്കുന്നു, യുവാക്കൾക്ക് നീതി ഉറപ്പാക്കാൻ ജാഗ്രത ആവശ്യമാണ്.",
+  "tags": [
+   "ന്യായം",
+   "രാഷ്ട്രീയം",
+   "ഇന്ത്യ",
+   "കർണാടക",
+   "കോടതി"
+  ]
+ }
+}

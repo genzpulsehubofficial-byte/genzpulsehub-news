@@ -1,0 +1,37 @@
+{
+ "id": "0e3e6fdaba1f",
+ "created": "2026-11-25T22:15:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Tom's Guide",
+ "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjJqQ0QxcVBwbVFjdThCcGN6YzlWTTQ1WmJKYXBSY3lYOGplUzF1TDljMVRheDBfSXp1ZzF4VFhUTGlCN0JTR2REZEs0ZWJWZVVoODRkdDU4aWVCeXlOdFhZTHliTW5xV3dLSDUyY2JaejlzNWRZdzBwRlRLV1JPVG12Zl80RlcyUlRhM2NFeVM?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple Black Friday prices hit record lows",
+  "hook": "Grab Apple gadgets at steep discounts before the rush.",
+  "what": "Apple has cut prices on its watches, earbuds, laptops and tablets. A fresh $100 discount on AirPods Pro 3 is part of the offers. The deals appeared ahead of Black Friday.",
+  "why": "Students can save big on devices for school or entertainment, so check the Apple store now.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ]
+ },
+ "ml": {
+  "headline": "Apple Black Friday വിലകൾ റെക്കോഡ് കുറഞ്ഞു",
+  "hook": "ബ്ലാക്ക് ഫ്രൈഡിക്ക് മുമ്പേ ആപ്പിൾ ഗാഡ്ജറ്റുകൾക്ക് വമ്പൻ വിലക്കുറവ്!",
+  "what": "Apple വാച്ചുകൾ, AirPods, MacBook, iPad എന്നിവയുടെ വിലയിൽ വലിയ കുറവ് വന്നിട്ടുണ്ട്. AirPods Pro 3‑ന് $100 വിലക്കുറവ് ഉൾപ്പെടുന്നു. ഈ ഡീലുകൾ ബ്ലാക്ക് ഫ്രൈഡിക്ക് മുൻപ് ലഭ്യമാണ്.",
+  "why": "പഠനമോ വിനോദമോ വേണ്ടി ഉപകരണങ്ങൾ വാങ്ങാൻ ആഗ്രഹിക്കുന്ന വിദ്യാർത്ഥികൾക്ക് ഇതു മികച്ച അവസരമാണ്, ഉടൻ Apple സ്റ്റോറിൽ പരിശോധിക്കുക.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ]
+ }
+}

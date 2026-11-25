@@ -1,5 +1,81 @@
 [
  {
+  "id": "90cec615f80e",
+  "created": "2026-11-25T22:15:28+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cabinet-approves-11000-crore-scheme-to-boost-cie-manufacturing-ecosystem-in-india/article71742124.ece",
+  "headline": "Govt rolls out ₹11,000‑crore plan to boost construction gear",
+  "hook": "A massive fund aims to spark local production of high‑tech building machines.",
+  "what": "The Union Cabinet cleared a scheme worth ₹11,000 crore to promote domestic manufacturing of construction equipment. The plan will give incentives to firms that make technologically advanced machinery in India.",
+  "why": "It could create jobs and cut reliance on imports, opening opportunities in engineering and manufacturing for youth. Students interested in technical fields may look into related courses or internships.",
+  "tags": [
+   "construction",
+   "manufacturing",
+   "government",
+   "jobs",
+   "India"
+  ]
+ },
+ {
+  "id": "be635f5d2018",
+  "created": "2026-11-25T22:15:32+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/sc-cancels-bail-suspension-of-life-sentence-of-former-ktaka-minister-in-murder-case/article71743740.ece",
+  "headline": "Supreme Court revokes bail for ex-Karnataka minister in murder case",
+  "hook": "A top politician loses his freedom after the highest court steps in.",
+  "what": "Former minister Kulkarni was convicted in April for a 2016 murder. The Karnataka High Court had suspended his life sentence and granted bail so he could remain an MLA during the appeal. The Supreme Court set aside that order, saying bail cannot be given for such serious crimes.",
+  "why": "The ruling shows that even powerful figures can be held accountable, reinforcing the rule of law for young Indians. Stay aware of judicial decisions that shape politics.",
+  "tags": [
+   "justice",
+   "politics",
+   "India",
+   "law",
+   "Karnataka"
+  ]
+ },
+ {
+  "id": "12b3f45fa21f",
+  "created": "2026-11-25T22:15:35+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYXk0UWdpNm5Id29wMlB6UkZoZEVCSzVKTHVvV1c3VEV4T0pPYXlobmZFdFdrZTQtZk1BMUR3dE9vWW9fSTFmOFd1M1R1VXZsdDZHbWw0TTduMWVWMEF1ZUFDUUxVd0ZWQWpHV2dhanlPUTlQeHpaS1ZfVk1malRaVF81cmNoME1lc1N0cC1VbUl4WVVEOGM5M0Z5aFZCT0huZkNpNXI0Z1p1R0V5UGs1WUxVbFd4a1Vtc2U3cTdwblFvQzRKRHZXNlRMT19qd2hSNUhGcFJyWTdzTVMwREN3Wm1HckJpR1NsdjBKVGota3dvc005R1hDNXYtSFJ4Ym5PbEZDcXVXdEpjS3RGWjY4UldDZWdza1JWV1NVbW930gGeAkFVX3lxTE5heTRRZ2k2bkh3b3AyUHpSRmhkRUJLNUpMdW9XVzdURXhPSk9heWhuZkV0V2tlNC1mTUExRHd0T29Zb19JMWY4V3UzVHVVdmx0NkdtbDRNN24xZVYwQXVlQUNRTFV3RlZBakdXZ2FqeU9ROVB4elpLVl9WTWZqVFpUXzVyY2gwTWVzU3RwLVVtSXhZVUQ4YzkzRnloVkJPSG5mQ2k1cjRnWnVHRXlQazVZTFVsV3hrVW1zZTdxN3BuUW9DNEpEdlc2VExPX2p3aFI1SEZwUnJZN3NNUzBEQ3dabUdyQmlHU2x2MEpUai1rd29zTTlHWEM1di1IUnhibk9sRkNxdVd0SmNLdEZaNjhSV0NlZ3NrUlZXU1Vtb3c?oc=5",
+  "headline": "Kerala to overhaul PSC hiring process, panel to audit rank lists",
+  "hook": "Your future job chances may change as Kerala rechecks PSC selections.",
+  "what": "The Kerala government announced a review of the Public Service Commission's recruitment procedures. A panel headed by the Chief Secretary will scrutinize the existing rank lists and related processes.",
+  "why": "This could affect upcoming job exams and selections for youths in the state. Candidates should stay updated on any changes to application guidelines.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "Jobs",
+   "Recruitment",
+   "Exam"
+  ]
+ },
+ {
+  "id": "0e3e6fdaba1f",
+  "created": "2026-11-25T22:15:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Tom's Guide",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjJqQ0QxcVBwbVFjdThCcGN6YzlWTTQ1WmJKYXBSY3lYOGplUzF1TDljMVRheDBfSXp1ZzF4VFhUTGlCN0JTR2REZEs0ZWJWZVVoODRkdDU4aWVCeXlOdFhZTHliTW5xV3dLSDUyY2JaejlzNWRZdzBwRlRLV1JPVG12Zl80RlcyUlRhM2NFeVM?oc=5",
+  "headline": "Apple Black Friday prices hit record lows",
+  "hook": "Grab Apple gadgets at steep discounts before the rush.",
+  "what": "Apple has cut prices on its watches, earbuds, laptops and tablets. A fresh $100 discount on AirPods Pro 3 is part of the offers. The deals appeared ahead of Black Friday.",
+  "why": "Students can save big on devices for school or entertainment, so check the Apple store now.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ]
+ },
+ {
   "id": "f8c3f491a7ac",
   "created": "2026-11-25T21:01:55+05:30",
   "category": "kerala",
@@ -676,82 +752,6 @@
    "Dhanush",
    "Dulquer",
    "India"
-  ]
- },
- {
-  "id": "832337d82289",
-  "created": "2026-11-25T13:43:14+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN1pPY2RyVVVVS3A5R0JVMkxuQVZnd0d1MUNFYUpnN0ZEZTJiY24ySmF0eU1hemNlSXgwT3dGX2pRTjdZSmZNcW90WEI5bFgyUFRrSFNkazdGZ3JidlR5WVQzMG14cDUxcDNqM2xibklMX25vYkpiRURjaGVZOXE4ODR2QkRkSXlIRVRTRVJFMHRCSno2eGRiWmluanJTQXpreDFvTGVETUlFbjJDN3k3aVBSbkxmWmN0Tkt3Y1M1MFlRODRtNExlY2ZoVGlwYzBhd3R5ZHpWTzRfY3l6RUREMU5GYlYxajB0enBwc3UzbmnSAfYBQVVfeXFMTld6aTdrVllLbEMzcFNaQXY5cFh3OXJwYU9rWFgzenhkUnJienpFcmdfWHhQaW9XMjdOX3I2S0xRdTBDNHF4bk5ycS1rSjZNcXlrdHd6YTBOSGl5VnM0dmQ0T1JhMlJ5UW9lTDEwMDJZc3kzNWsyTkZMWVM3a1lmN1poaGplRGlTZm9rUGJoRVZyQjZNN0x1NkJGVEI1MkxYcHY5OFhxQVBkNGQxV09fYUtNeVVlVndQaXNCUkhEdkxrQzJ4cUU5LVh6SGxxenlZYjVIb1FvaGoxQnItX3NPMHlJWkRTZGFidHhrX2ljaE5vMzBuMU5B?oc=5",
-  "headline": "Sensex climbs 1,400 points, Nifty crosses 25,700",
-  "hook": "Indian markets surge while Apollo's stock slides to a year low",
-  "what": "The benchmark Sensex rose by about 1,400 points and the Nifty index moved above the 25,700 mark. At the same time, shares of APL Apollo fell to their lowest level in the past year.",
-  "why": "The rally shows optimism in key sectors, but the drop in Apollo’s shares highlights market volatility. Young investors should stay informed and think about diversified options.",
-  "tags": [
-   "stockmarket",
-   "sensex",
-   "nifty",
-   "investing",
-   "apollo"
-  ]
- },
- {
-  "id": "80416fa55f1e",
-  "created": "2026-11-25T13:43:16+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/apps/news/whatsapp-sound-sticker-feature-customisation-how-to-use-12374289",
-  "headline": "WhatsApp adds animated sound stickers for Android",
-  "hook": "Your chats just got louder and livelier.",
-  "what": "WhatsApp has rolled out a new feature for Android phones that lets users create animated stickers with sound. The app also now supports sticker reactions to messages.",
-  "why": "It makes chatting more expressive, letting you add fun audio‑visual flair. Try the new stickers in your next conversation.",
-  "tags": [
-   "WhatsApp",
-   "Android",
-   "Stickers",
-   "Chat",
-   "Tech"
-  ]
- },
- {
-  "id": "3254057f316d",
-  "created": "2026-11-25T12:12:32+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/india-mea-strongly-condemns-riyadh-tower-attack-that-injured-2-indians-12373525#publisher=newsstand",
-  "headline": "India Condemns Riyadh Tower Attack Injuring Two Indians",
-  "hook": "Two Indian nationals hurt in Saudi attack, Delhi reacts.",
-  "what": "A blast at a tower in Riyadh injured two Indian citizens. The Indian government issued a strong condemnation of the incident and said it continues to support Saudi Arabia.",
-  "why": "It highlights risks for Indians traveling abroad and shows India's stance on regional security, urging citizens to stay alert when overseas.",
-  "tags": [
-   "India",
-   "Saudi",
-   "Riyadh",
-   "Travel",
-   "Safety"
-  ]
- },
- {
-  "id": "b8eb00318807",
-  "created": "2026-11-25T12:12:35+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-rate-today-chennai-25-november-wednesday-check-latest-24k-22k-and-20k-gold-prices-in-gateway-to-south-india-11795583639620.html",
-  "headline": "Chennai gold prices dip on wedding season",
-  "hook": "Gold got cheaper just in time for weddings.",
-  "what": "On 25 November, gold rates in Chennai fell across 24K, 22K, 20K and 18K varieties. The drop gave buyers a brief breather during India's busy wedding period. Prices also shifted compared with the previous week, month and year.",
-  "why": "Lower gold costs can ease wedding budgets for many young families. Keep an eye on daily rates if you plan to buy gold soon.",
-  "tags": [
-   "gold",
-   "Chennai",
-   "wedding",
-   "prices",
-   "finance"
   ]
  }
 ]
