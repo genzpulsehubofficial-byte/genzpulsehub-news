@@ -1,0 +1,198 @@
+"""Shorts/Reels v2: retention-style vertical video (ideas from MoneyPrinterTurbo & viral short-form practice).
+
+- Moving background: free stock clips from Pexels matched to the story (PEXELS_API_KEY); falls back to
+  an animated brand background, so it always works.
+- Word-by-word captions (current word highlighted), timed from edge-tts word boundaries; gTTS fallback is
+  estimated timing. Big hook headline panel, top progress bar, follow/subscribe end card.
+- No background music (avoids copyright claims).
+"""
+import asyncio
+import json
+import os
+import random
+import re
+import subprocess
+import urllib.parse
+import urllib.request
+
+import edge_tts
+from PIL import Image, ImageDraw
+
+from render import COLOR, VOICE, dur, font, put, tlen, wrap
+
+W, H = 1080, 1920
+PEXELS = os.environ.get("PEXELS_API_KEY", "")
+END = {"en": "Follow for daily news 🔔", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ 🔔"}
+SAY_END = {"en": "Follow for more.", "ml": "കൂടുതൽ വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ."}
+FONTNAME = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
+FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money cash", "tech": "technology",
+              "exams": "students study", "trending": "people phone", "entertainment": "cinema lights",
+              "health": "healthy lifestyle", "sports": "stadium sports", "kerala": "kerala"}
+
+
+# ---------- voice + word timings ----------
+async def _edge_words(text, voice, path):
+    words = []
+    try:
+        comm = edge_tts.Communicate(text, voice, rate="+10%", boundary="WordBoundary")
+    except TypeError:  # older edge-tts
+        comm = edge_tts.Communicate(text, voice, rate="+10%")
+    with open(path, "wb") as f:
+        async for ch in comm.stream():
+            if ch["type"] == "audio":
+                f.write(ch["data"])
+            elif ch["type"] == "WordBoundary":
+                words.append((ch["offset"] / 1e7, (ch["offset"] + ch["duration"]) / 1e7, ch["text"]))
+    return words
+
+
+def voice(text, lang, path):
+    try:
+        words = asyncio.run(_edge_words(text, VOICE[lang], path))
+        if os.path.getsize(path) > 1000:
+            return words or estimate(text, dur(path))
+    except Exception as e:
+        print("edge-tts failed:", str(e)[:80])
+    from gtts import gTTS
+    gTTS(text, lang=lang, tld="co.in" if lang == "en" else "com").save(path)
+    return estimate(text, dur(path))
+
+
+def estimate(text, total):
+    ws = text.split()
+    n = sum(len(w) + 1 for w in ws) or 1
+    t, out = 0.15, []
+    for w in ws:
+        d = (len(w) + 1) / n * (total - 0.3)
+        out.append((t, t + d, w)); t += d
+    return out
+
+
+# ---------- background ----------
+def pexels_clips(queries, need, tmp):
+    if not PEXELS:
+        return []
+    got, total = [], 0.0
+    for q in queries:
+        try:
+            req = urllib.request.Request(
+                "https://api.pexels.com/videos/search?" + urllib.parse.urlencode(
+                    {"query": q, "orientation": "portrait", "per_page": 8, "size": "medium"}),
+                headers={"Authorization": PEXELS, "User-Agent": "gph"})
+            vids = json.load(urllib.request.urlopen(req, timeout=20)).get("videos", [])
+        except Exception as e:
+            print("pexels", q, str(e)[:80]); continue
+        random.shuffle(vids)
+        for v in vids:
+            files = sorted([f for f in v.get("video_files", []) if f.get("height") and f["height"] >= 1280
+                            and f.get("width", 0) < f["height"]], key=lambda f: f["height"])
+            if not files:
+                continue
+            p = os.path.join(tmp, f"bg{len(got)}.mp4")
+            try:
+                urllib.request.urlretrieve(files[0]["link"], p)
+            except Exception:
+                continue
+            got.append(p); total += min(dur(p), 7)
+            break
+        if total >= need:
+            break
+    return got
+
+
+def background(s, lang, need, tmp):
+    tags = [t for t in (s.get("tags") or []) if re.match(r"^[A-Za-z0-9 &-]+$", t)]
+    qs = tags[:3] + [FALLBACK_Q.get(s.get("category", ""), "news")]
+    clips = pexels_clips(qs, need, tmp)
+    out = os.path.join(tmp, "bg.mp4")
+    norm = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,setsar=1"
+    if clips:
+        parts = []
+        for i, c in enumerate(clips):
+            p = os.path.join(tmp, f"n{i}.mp4")
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", c, "-t", "7", "-an", "-vf", norm,
+                            "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", p], check=True)
+            parts.append(p)
+        lst = os.path.join(tmp, "bg.txt")
+        open(lst, "w").write("".join(f"file '{p}'\n" for p in parts))
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-f", "concat", "-safe", "0",
+                        "-i", lst, "-t", f"{need:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "26",
+                        out], check=True)
+        return out
+    # fallback: slow-moving brand gradient
+    c = COLOR.get(s.get("category", ""), "#ff3cac").lstrip("#")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i",
+                    f"gradients=s=1080x1920:c0=0x0b0b14:c1=0x{c}:c2=0x1b1035:n=3:speed=0.015:r=30",
+                    "-t", f"{need:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", out], check=True)
+    return out
+
+
+# ---------- overlays ----------
+def top_panel(s, lang, path):
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(img)
+    accent = COLOR.get(s.get("category", ""), "#ff3cac")
+    d.rectangle([0, 0, W, 560], fill=(8, 8, 16, 170))
+    cat = (s.get("category") or "news").upper()
+    if s.get("breaking"):
+        cat = "BREAKING · " + cat
+    bw = tlen(d, cat, font("en", 34)) + 44
+    d.rounded_rectangle([56, 110, 56 + bw, 166], 14, fill=accent)
+    put(d, (78, 116), cat, font("en", 34), "#0b0b14")
+    y = 196
+    for line in wrap(d, s["headline"], font(lang, 64), W - 112)[:4]:
+        put(d, (56, y), line, font(lang, 64), "white"); y += 84
+    put(d, (56, H - 150), "GenZ Pulse Hub", font("en", 34), "white")
+    img.save(path)
+
+
+def ass_time(t):
+    h, t = divmod(max(t, 0), 3600); m, sec = divmod(t, 60)
+    return f"{int(h)}:{int(m):02d}:{sec:05.2f}"
+
+
+def captions(words, lang, total, path):
+    fn = FONTNAME[lang]
+    size = 76 if lang == "en" else 66
+    head = ("[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 0\n\n[V4+ Styles]\n"
+            "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, "
+            "Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, "
+            "MarginL, MarginR, MarginV, Encoding\n"
+            f"Style: Cap,{fn},{size},&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,6,2,5,70,70,0,1\n"
+            f"Style: End,{fn},70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HC0000000,1,0,0,0,100,100,0,0,3,18,0,5,80,80,0,1\n\n"
+            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
+    ev = []
+    groups = [words[i:i + 3] for i in range(0, len(words), 3)]
+    for g in groups:
+        for j, (a, b, _) in enumerate(g):
+            end = g[j + 1][0] if j + 1 < len(g) else b + 0.12
+            txt = " ".join(("{\\c&H00E6FF&\\fscx112\\fscy112}" + w.replace("{", "") + "{\\r}") if k == j
+                           else w.replace("{", "") for k, (_, _, w) in enumerate(g))
+            ev.append(f"Dialogue: 0,{ass_time(a)},{ass_time(end)},Cap,,0,0,0,,{{\\pos(540,1150)}}{txt}")
+    ev.append(f"Dialogue: 1,{ass_time(total - 2.4)},{ass_time(total)},End,,0,0,0,,{{\\pos(540,1520)\\fad(200,0)}}{END[lang]}")
+    open(path, "w", encoding="utf-8").write(head + "\n".join(ev) + "\n")
+
+
+def render(lang, s, outdir):
+    os.makedirs(outdir, exist_ok=True)
+    tmp = os.path.join(outdir, "v2_" + s["id"]); os.makedirs(tmp, exist_ok=True)
+    say = " ".join(x.strip() for x in (s.get("hook") or s["headline"], s.get("what", ""), s.get("why", ""),
+                                       SAY_END[lang]) if x)
+    mp3 = os.path.join(tmp, "v.mp3")
+    words = voice(say, lang, mp3)
+    total = dur(mp3) + 0.6
+    bg = background(s, lang, total, tmp)
+    top = os.path.join(tmp, "top.png"); top_panel(s, lang, top)
+    ass = os.path.join(tmp, "c.ass"); captions(words, lang, total, ass)
+    out = os.path.join(outdir, f"{s['id']}.mp4")
+    accent = COLOR.get(s.get("category", ""), "#ff3cac").lstrip("#")
+    vf = (f"[0:v]eq=brightness=-0.18:saturation=1.15[b];[b][1:v]overlay=0:0[o];"
+          f"[o]drawbox=x=0:y=0:w=iw*t/{total:.2f}:h=14:color=0x{accent}:t=fill,"
+          f"subtitles={ass}:fontsdir=/usr/share/fonts/truetype/noto[v]")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", bg, "-loop", "1", "-i", top, "-i", mp3,
+                    "-filter_complex", vf, "-map", "[v]", "-map", "2:a", "-t", f"{total:.2f}",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p", "-r", "30",
+                    "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-af", "apad", "-movflags", "+faststart", out],
+                   check=True)
+    subprocess.run(["rm", "-rf", tmp])
+    return out

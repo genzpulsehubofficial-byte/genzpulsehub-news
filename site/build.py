@@ -30,12 +30,12 @@ T = {
            "soon_sub": "Subscribe now so you're notified the moment we go live. Meanwhile: daily Shorts + all stories below.",
            "subscribe": "Subscribe on YouTube", "source": "Source", "latest": "Latest",
            "watch": "Watch the live stream", "switch": "മലയാളം", "switch_href": "/ml/", "tag": "What happened + why it matters to YOU",
-           "advertise": "Advertise with us", "home": "/", "about": "AI-assisted news, rewritten from credited sources. Facts only from the source."},
+           "advertise": "Advertise with us", "home": "/", "about": "News for your generation, written fresh from credited sources. Facts only from the source."},
     "ml": {"live": "LIVE 24/7", "why": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും", "soon": "🔴 24/7 തത്സമയ വാർത്ത: ഉടൻ വരുന്നു",
            "soon_sub": "ലൈവ് തുടങ്ങുമ്പോൾ അറിയാൻ ഇപ്പോൾ സബ്സ്ക്രൈബ് ചെയ്യൂ. അതുവരെ: ദിവസവും Shorts + താഴെ എല്ലാ വാർത്തകളും.",
            "subscribe": "YouTube-ൽ സബ്സ്ക്രൈബ് ചെയ്യൂ", "source": "ഉറവിടം", "latest": "പുതിയ വാർത്തകൾ",
            "watch": "ലൈവ് കാണുക", "switch": "English", "switch_href": "/", "tag": "എന്ത് സംഭവിച്ചു + നിങ്ങളെ എങ്ങനെ ബാധിക്കും",
-           "advertise": "പരസ്യം നൽകാൻ", "home": "/ml/", "about": "ഉറവിടങ്ങളിൽ നിന്ന് പുതുതായി എഴുതിയ AI സഹായ വാർത്ത. ഉറവിടത്തിലെ വസ്തുതകൾ മാത്രം."},
+           "advertise": "പരസ്യം നൽകാൻ", "home": "/ml/", "about": "നിങ്ങളുടെ തലമുറയ്ക്കുള്ള വാർത്ത, ഉറവിടങ്ങളിൽ നിന്ന് പുതുതായി എഴുതിയത്. ഉറവിടത്തിലെ വസ്തുതകൾ മാത്രം."},
 }
 
 CSS = """

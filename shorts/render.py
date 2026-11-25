@@ -118,7 +118,7 @@ def frame(lang, s, scene):
             for ln in wrap(d, t, f, W - 120):
                 put(d, ((W - tlen(d, ln, f)) / 2, y), ln, f, col); y += 90
         d.text((60, 1650), f"Source: {s['source']}", font=font("en", 30, False), fill="#bbbbbb")
-    d.text((60, H - 120), f"Source: {s['source']}  ·  AI-assisted rewrite", font=font("en", 28, False), fill="#9a8fb8")
+    d.text((60, H - 120), f"Source: {s['source']}", font=font("en", 28, False), fill="#9a8fb8")
     return img
 
 
@@ -187,7 +187,12 @@ def main():
     for lang in ("en", "ml"):
         for s in pick(lang, posted.get(lang, {})):
             try:
-                p = render(lang, s, os.path.join(OUT, lang))
+                try:
+                    import render_v2
+                    p = render_v2.render(lang, s, os.path.join(OUT, lang))
+                except Exception as e2:
+                    print("v2 failed, using v1:", str(e2)[:200], file=sys.stderr)
+                    p = render(lang, s, os.path.join(OUT, lang))
                 made.append({"lang": lang, "id": s["id"], "path": p, "story": s})
                 print("rendered", lang, s["id"], p)
             except Exception as e:

@@ -1,0 +1,23 @@
+name: shorts-preview
+on: workflow_dispatch
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core libraqm0 >/dev/null
+      - run: pip install -q -U edge-tts gTTS requests pillow
+      - name: Render one EN + one ML (no posting)
+        env: {PEXELS_API_KEY: "${{ secrets.PEXELS_API_KEY }}"}
+        run: |
+          cd shorts && python - <<'P'
+          import json, render_v2, os
+          for lang in ("en","ml"):
+              s = json.load(open(f"../data/latest_{lang}.json"))[0]
+              print(lang, render_v2.render(lang, s, f"../out/preview/{lang}"))
+          P
+          for f in ../out/preview/*/*.mp4; do ffmpeg -loglevel error -y -ss 3 -i "$f" -frames:v 1 "${f%.mp4}_3s.jpg"; ffmpeg -loglevel error -y -sseof -1.5 -i "$f" -frames:v 1 "${f%.mp4}_end.jpg"; done
+      - uses: actions/upload-artifact@v4
+        with: {name: preview, path: out/preview}
