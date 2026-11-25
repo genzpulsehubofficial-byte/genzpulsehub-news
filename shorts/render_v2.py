@@ -31,12 +31,12 @@ FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money 
 
 
 # ---------- voice + word timings ----------
-async def _edge_words(text, voice, path):
+async def _edge_words(text, voice, path, rate):
     words = []
     try:
-        comm = edge_tts.Communicate(text, voice, rate="+10%", boundary="WordBoundary")
+        comm = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
     except TypeError:  # older edge-tts
-        comm = edge_tts.Communicate(text, voice, rate="+10%")
+        comm = edge_tts.Communicate(text, voice, rate=rate)
     with open(path, "wb") as f:
         async for ch in comm.stream():
             if ch["type"] == "audio":
@@ -48,7 +48,7 @@ async def _edge_words(text, voice, path):
 
 def voice(text, lang, path):
     try:
-        words = asyncio.run(_edge_words(text, VOICE[lang], path))
+        words = asyncio.run(_edge_words(text, VOICE[lang], path, "+8%" if lang == "en" else "+0%"))
         if os.path.getsize(path) > 1000:
             return words or estimate(text, dur(path))
     except Exception as e:
@@ -101,7 +101,7 @@ def pexels_clips(queries, need, tmp):
 
 
 def background(s, lang, need, tmp):
-    tags = [t for t in (s.get("tags") or []) if re.match(r"^[A-Za-z0-9 &-]+$", t)]
+    tags = [t for t in (s.get("tags_en") or s.get("tags") or []) if re.match(r"^[A-Za-z0-9 &-]+$", t)]
     qs = tags[:3] + [FALLBACK_Q.get(s.get("category", ""), "news")]
     clips = pexels_clips(qs, need, tmp)
     out = os.path.join(tmp, "bg.mp4")
@@ -206,24 +206,86 @@ def captions(words, lang, total, tmp):
     return path
 
 
+# ---------- mascot "Pulse" (original character): blinks, bobs, lip-syncs to the voice ----------
+MW = 340
+
+
+def mascot_sprites(accent, tmp):
+    out = {}
+    for mouth in (0, 1, 2):
+        for blink in (0, 1):
+            im = Image.new("RGBA", (MW, MW), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+            d.ellipse([40, 300, 300, 336], fill=(0, 0, 0, 90))                           # shadow
+            d.rounded_rectangle([70, 70, 270, 290], 90, fill="#f4f1ff", outline="#0b0b14", width=8)  # head
+            d.arc([40, 40, 300, 250], 200, 340, fill=accent, width=22)                    # headphone band
+            d.rounded_rectangle([42, 150, 92, 240], 22, fill=accent, outline="#0b0b14", width=6)
+            d.rounded_rectangle([248, 150, 298, 240], 22, fill=accent, outline="#0b0b14", width=6)
+            d.line([(170, 70), (170, 30)], fill="#0b0b14", width=8); d.ellipse([152, 12, 188, 48], fill=accent)
+            for ex in (130, 210):                                                         # eyes
+                if blink:
+                    d.line([(ex - 18, 160), (ex + 18, 160)], fill="#0b0b14", width=8)
+                else:
+                    d.ellipse([ex - 18, 140, ex + 18, 180], fill="#0b0b14"); d.ellipse([ex - 6, 146, ex + 4, 156], fill="white")
+            d.ellipse([92, 190, 118, 208], fill=(255, 120, 150, 140)); d.ellipse([222, 190, 248, 208], fill=(255, 120, 150, 140))
+            if mouth == 0:
+                d.arc([140, 200, 200, 240], 20, 160, fill="#0b0b14", width=8)
+            else:
+                h = 16 if mouth == 1 else 34
+                d.rounded_rectangle([145, 212, 195, 212 + h], 14, fill="#3a0d1a", outline="#0b0b14", width=6)
+            p = os.path.join(tmp, f"m{mouth}{blink}.png"); im.save(p); out[(mouth, blink)] = p
+    return out
+
+
+def mascot_track(mp3, total, accent, tmp):
+    import array
+    raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", mp3, "-ac", "1", "-ar", "3000", "-f", "s16le", "-"],
+                         capture_output=True).stdout
+    a = array.array("h"); a.frombytes(raw[: len(raw) // 2 * 2])
+    fps, per = 15, 200
+    sprites = mascot_sprites(accent, tmp)
+    frames = int(total * fps)
+    seq = []
+    for i in range(frames):
+        win = a[i * per:(i + 1) * per]
+        rms = (sum(x * x for x in win) / len(win)) ** 0.5 if len(win) else 0
+        mouth = 0 if rms < 600 else (1 if rms < 2600 else 2)
+        blink = 1 if (i % 52) in (0, 1) else 0
+        seq.append(sprites[(mouth, blink)])
+    lst = ["ffconcat version 1.0"]
+    i = 0
+    while i < len(seq):
+        j = i
+        while j + 1 < len(seq) and seq[j + 1] == seq[i]:
+            j += 1
+        lst += [f"file '{seq[i]}'", f"duration {(j - i + 1) / fps:.3f}"]
+        i = j + 1
+    lst.append(f"file '{seq[-1]}'")
+    path = os.path.join(tmp, "mascot.txt"); open(path, "w").write("\n".join(lst) + "\n")
+    return path
+
+
 def render(lang, s, outdir):
     os.makedirs(outdir, exist_ok=True)
     tmp = os.path.abspath(os.path.join(outdir, "v2_" + s["id"])); os.makedirs(tmp, exist_ok=True)
-    say = " ".join(x.strip() for x in (s.get("hook") or s["headline"], s.get("what", ""), s.get("why", ""),
-                                       SAY_END[lang]) if x)
+    body = s.get("say") or " ".join(x.strip() for x in (s.get("hook") or s["headline"], s.get("what", ""),
+                                                        s.get("why", "")) if x)
+    say = body.strip() + " " + SAY_END[lang]
     mp3 = os.path.join(tmp, "v.mp3")
     words = voice(say, lang, mp3)
     total = dur(mp3) + 0.6
     bg = background(s, lang, total, tmp)
     top = os.path.join(tmp, "top.png"); top_panel(s, lang, top)
     caps = captions(words, lang, total, tmp)
+    accent_hex = COLOR.get(s.get("category", ""), "#ff3cac")
+    masc = mascot_track(mp3, total, accent_hex, tmp)
     out = os.path.join(outdir, f"{s['id']}.mp4")
     accent = COLOR.get(s.get("category", ""), "#ff3cac").lstrip("#")
     vf = (f"[0:v]eq=brightness=-0.18:saturation=1.15[b];[b][1:v]overlay=0:0[o];"
           f"[o]drawbox=x=0:y=0:w=iw*t/{total:.2f}:h=14:color=0x{accent}:t=fill[p];"
-          f"[3:v]format=rgba[c];[p][c]overlay=0:0:eof_action=pass[v]")
+          f"[3:v]format=rgba[c];[p][c]overlay=0:0:eof_action=pass[q];"
+          f"[4:v]format=rgba,fps=30[m];[q][m]overlay=x=W-{MW}-30:y=H-{MW}-210+10*sin(2*PI*t*1.3):eof_action=pass[v]")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", bg, "-loop", "1", "-i", top, "-i", mp3,
-                    "-f", "concat", "-safe", "0", "-i", caps,
+                    "-f", "concat", "-safe", "0", "-i", caps, "-f", "concat", "-safe", "0", "-i", masc,
                     "-filter_complex", vf, "-map", "[v]", "-map", "2:a", "-t", f"{total:.2f}",
                     "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-pix_fmt", "yuv420p", "-r", "30",
                     "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-af", "apad", "-movflags", "+faststart", out],

@@ -47,6 +47,31 @@ TEXT: {text}
 """
 
 
+ML_FIX = """You are a senior Malayalam news sub-editor. Fix this Malayalam news text written for teenagers in Kerala.
+1) Correct every spelling, grammar and chillu/conjunct error. Make it sound natural, like a Malayalam news anchor speaking to young people.
+2) Keep the same facts. Do not add anything.
+3) Also write "say": the full spoken script (hook + what + why) for a voice-over, where EVERY English word,
+   acronym and brand is written in Malayalam script the way Malayalis pronounce it (KSEB -> കെഎസ്ഇബി,
+   UPI -> യുപിഐ, app -> ആപ്പ്) and every number is written in Malayalam words.
+Return ONLY valid JSON: {{"headline": "...", "hook": "...", "what": "...", "why": "...", "say": "..."}}
+
+TEXT:
+{text}
+"""
+
+
+def fix_ml(ml):
+    try:
+        raw, _ = ask(ML_FIX.format(text=json.dumps({k: ml.get(k, "") for k in ("headline", "hook", "what", "why")},
+                                                   ensure_ascii=False)))
+        fx = parse_json(raw)
+        if all(isinstance(fx.get(k), str) and fx[k].strip() for k in ("headline", "hook", "what", "why", "say")):
+            ml.update({k: fx[k].strip() for k in ("headline", "hook", "what", "why", "say")})
+    except Exception as e:
+        print("ml proofread skipped:", str(e)[:80])
+    return ml
+
+
 def now():
     return datetime.now(timezone.utc)
 
@@ -193,6 +218,8 @@ def main():
         if copied(it["title"] + " " + it["text"], en_text):
             print("rejected: copied wording")
             continue
+        s["ml"] = fix_ml(s["ml"])
+        s["ml"]["tags_en"] = s["en"].get("tags", [])
         sid = hashlib.sha1(it["link"].encode()).hexdigest()[:12]
         story = {
             "id": sid, "created": now().astimezone(IST).isoformat(timespec="seconds"),
