@@ -1,5 +1,99 @@
 [
  {
+  "id": "3254057f316d",
+  "created": "2026-11-25T12:12:32+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/india-mea-strongly-condemns-riyadh-tower-attack-that-injured-2-indians-12373525#publisher=newsstand",
+  "headline": "India Condemns Riyadh Tower Attack Injuring Two Indians",
+  "hook": "Two Indian nationals hurt in Saudi attack, Delhi reacts.",
+  "what": "A blast at a tower in Riyadh injured two Indian citizens. The Indian government issued a strong condemnation of the incident and said it continues to support Saudi Arabia.",
+  "why": "It highlights risks for Indians traveling abroad and shows India's stance on regional security, urging citizens to stay alert when overseas.",
+  "tags": [
+   "India",
+   "Saudi",
+   "Riyadh",
+   "Travel",
+   "Safety"
+  ]
+ },
+ {
+  "id": "b8eb00318807",
+  "created": "2026-11-25T12:12:35+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-rate-today-chennai-25-november-wednesday-check-latest-24k-22k-and-20k-gold-prices-in-gateway-to-south-india-11795583639620.html",
+  "headline": "Chennai gold prices dip on wedding season",
+  "hook": "Gold got cheaper just in time for weddings.",
+  "what": "On 25 November, gold rates in Chennai fell across 24K, 22K, 20K and 18K varieties. The drop gave buyers a brief breather during India's busy wedding period. Prices also shifted compared with the previous week, month and year.",
+  "why": "Lower gold costs can ease wedding budgets for many young families. Keep an eye on daily rates if you plan to buy gold soon.",
+  "tags": [
+   "gold",
+   "Chennai",
+   "wedding",
+   "prices",
+   "finance"
+  ]
+ },
+ {
+  "id": "cf91b612bd36",
+  "created": "2026-11-25T12:12:38+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/sharp-drop-in-gold-prices-triggers-margin-calls-on-loans-by-banks-and-nbfcs-what-customers-should-know-about-ltv-11795587073208.html",
+  "headline": "Gold price fall triggers extra security demands on loans",
+  "hook": "Your gold‑backed loan could need more collateral now",
+  "what": "As gold prices dip, banks and NBFCs say the pledged gold may not satisfy RBI’s loan‑to‑value rules. They are asking borrowers to add security or repay part of the loan.",
+  "why": "Young borrowers with gold loans should check their loan‑to‑value ratio and be ready for possible repayment requests to avoid defaults.",
+  "tags": [
+   "gold",
+   "loans",
+   "RBI",
+   "finance"
+  ]
+ },
+ {
+  "id": "9ac89f3cd004",
+  "created": "2026-11-25T12:12:40+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-pro-max-gets-optimised-blackmagic-camera-support-open-gate-olog2-shooting-12373886",
+  "headline": "Oppo Find X10 Pro Max adds Blackmagic 4K Dolby Vision camera",
+  "hook": "Your next phone could shoot cinema‑grade video.",
+  "what": "Oppo announced that its Find X10 Pro Max now supports Blackmagic camera features, including 4K Dolby Vision playback and O‑Log2 recording. The handset is priced at Rs 1,99,999 in India.",
+  "why": "The upgrade lets creators capture high‑dynamic‑range footage straight from a phone, useful for TikTok, reels, or student projects. Interested buyers should compare specs and budget before deciding.",
+  "tags": [
+   "Oppo",
+   "FindX10ProMax",
+   "CameraTech",
+   "DolbyVision",
+   "India"
+  ]
+ },
+ {
+  "id": "a6f6272f9cbb",
+  "created": "2026-11-25T12:12:42+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/google-maps-high-visibility-mode-testing-new-colours-light-dark-themes-report-12373849",
+  "headline": "Google Maps trials bright mode with new route colors",
+  "hook": "A fresh color scheme could make navigation easier for everyone.",
+  "what": "Google Maps is testing a high‑visibility mode. The update changes the route line color, using cyan in the standard view and purple in the new mode. It works for both light and dark themes.",
+  "why": "The brighter palette aims to improve readability, especially in bright conditions, helping teens navigate on foot or bike. Users can try the feature while the test runs.",
+  "tags": [
+   "GoogleMaps",
+   "HighVisibility",
+   "Navigation",
+   "Tech",
+   "Update"
+  ]
+ },
+ {
   "id": "f7abc1254395",
   "created": "2026-11-25T11:02:14+05:30",
   "category": "tech",
@@ -657,100 +751,6 @@
    "diet",
    "study",
    "students"
-  ]
- },
- {
-  "id": "6e5f032fb046",
-  "created": "2026-11-25T03:20:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-  "headline": "Top AI assistants still stumble on daily tasks",
-  "hook": "Even the smartest bots can’t handle simple chores safely",
-  "what": "A fresh benchmark shows that leading AI models often fail to perform routine tasks reliably. They may also create new issues while trying.",
-  "why": "For teens using AI helpers, it means staying cautious and double‑checking results.",
-  "tags": [
-   "AI",
-   "tech",
-   "bots",
-   "benchmark",
-   "safety"
-  ]
- },
- {
-  "id": "c9a3e303b913",
-  "created": "2026-11-25T03:20:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/us-court-finds-chinas-huawei-guilty-of-conspiracy-to-steal-trade-secrets-12372803#publisher=newsstand",
-  "headline": "US Court Convicts Huawei of Trade Secret Theft",
-  "hook": "Big tech showdown: Huawei faces US conviction.",
-  "what": "A US federal court ruled that Chinese telecom giant Huawei conspired to steal trade secrets. The verdict includes convictions for the company. Huawei's lawyer said they will appeal the decision.",
-  "why": "The case highlights risks of intellectual property theft and could affect tech products and jobs. Stay aware of security and data privacy when using devices.",
-  "tags": [
-   "Huawei",
-   "UScourt",
-   "TechNews",
-   "TradeSecrets",
-   "Appeal"
-  ]
- },
- {
-  "id": "181680616e2c",
-  "created": "2026-11-25T03:20:45+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Delhi/court-rejects-pg-operators-bail-in-satya-niketan-collapse-case/article71737209.ece",
-  "headline": "Court denies bail to PG owner in Satya Niketan collapse",
-  "hook": "A landlord’s profit chase cost seven student lives – now facing jail.",
-  "what": "The court refused bail for the proprietor of a paying‑guest house after a building collapse in Satya Niketan killed seven students. Judges said the accused put profit ahead of safety and must face strict legal action.",
-  "why": "It warns young people about unsafe student housing, urging them to check safety certifications before moving in.",
-  "tags": [
-   "court",
-   "student safety",
-   "PG",
-   "legal"
-  ]
- },
- {
-  "id": "a45a0248f325",
-  "created": "2026-11-25T03:20:48+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Chess.com",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JNFZPLTctTkQ4Qk1abDI4UHR6QlNuT1hnR3pmWDRINGx1UTkxRjRvb2lNcHg3RTA4SUFrODdhRnJ0Z0VyWEY3LVpiNldaQ3p2bkxrYnlzb3VlU05OQ0IzelFHRzhLQWoxUi1mUEM2ZF9JRmx2LV9aaVZEOWs4Zw?oc=5",
-  "headline": "Gukesh Holds Sindarov to Draw in World Chess Opener",
-  "hook": "Young Indian prodigy survives a tense finish to keep his title hopes alive.",
-  "what": "In the opening match of the World Chess Championship, Indian grandmaster Gukesh secured a draw against Sindarov. He managed the time pressure and earned a half‑point.",
-  "why": "The result keeps Gukesh in contention and highlights the value of staying calm under pressure, a lesson for aspiring players.",
-  "tags": [
-   "chess",
-   "Gukesh",
-   "WorldChampionship",
-   "draw",
-   "India"
-  ]
- },
- {
-  "id": "870a7ec52cb9",
-  "created": "2026-11-25T03:20:51+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2p3Z2lHSHljektESlNJRW1tczA1d1dIbXptZGRtZkhEb1VIeHYxU0oxOU5aVmUwaTlfYkw3eF9LbzlwdFdIYVZtdVg4SFB5dE45RksxVlI5T3UydTFjNWp2UXAtcTJQb1dVVWo0ZTFhVHNGZTBRbWxFTWJlU3cybzhnRXo0QjFvVUtKMUhfNGp0aVdacDJYSThVYW9ZZE9CXzFfb2ptTUxmY1RqbWkydjFQdW5rcXlHeEZrSWZXSkFhaE9CV25aSHFycTk?oc=5",
-  "headline": "Ben Stokes signs up for IPL 2027 auction, Bangladesh squad listed",
-  "hook": "England’s star all‑rounder is now in the IPL mix again.",
-  "what": "Former England captain Ben Stokes has entered the registration for the 2027 Indian Premier League auction. Alongside him, twelve Bangladeshi cricketers have also been named in the auction list. Other names such as Aaryavir Sehwag and Mohit Ulva are also registered, while Anvay Dravid and Mustafizur are absent.",
-  "why": "His presence could raise the competition level and attract global attention, which may inspire aspiring cricketers. Keep an eye on the auction updates if you follow IPL team selections.",
-  "tags": [
-   "IPL",
-   "BenStokes",
-   "Bangladesh",
-   "cricket",
-   "auction"
   ]
  }
 ]

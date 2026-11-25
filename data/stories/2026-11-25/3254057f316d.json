@@ -1,0 +1,37 @@
+{
+ "id": "3254057f316d",
+ "created": "2026-11-25T12:12:32+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/india-mea-strongly-condemns-riyadh-tower-attack-that-injured-2-indians-12373525#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "India Condemns Riyadh Tower Attack Injuring Two Indians",
+  "hook": "Two Indian nationals hurt in Saudi attack, Delhi reacts.",
+  "what": "A blast at a tower in Riyadh injured two Indian citizens. The Indian government issued a strong condemnation of the incident and said it continues to support Saudi Arabia.",
+  "why": "It highlights risks for Indians traveling abroad and shows India's stance on regional security, urging citizens to stay alert when overseas.",
+  "tags": [
+   "India",
+   "Saudi",
+   "Riyadh",
+   "Travel",
+   "Safety"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യൻ രാജ്യം റിയാദ് ടവറിലെ ആക്രമണം കർശനമായി നിരാകരിച്ചു",
+  "hook": "റിയാദിലെ ആക്രമണത്തിൽ രണ്ട് ഇന്ത്യൻ പൗരന്മാർക്ക് പരിക്ക്, ദില്ലി പ്രതികരിച്ചു",
+  "what": "റിയാദിലെ ഒരു ടവറിലുണ്ടായ പൊട്ടിത്തെറിയിൽ രണ്ട് ഇന്ത്യൻ പൗരന്മാർക്ക് പരിക്ക് സംഭവിച്ചു. ഇന്ത്യൻ സർക്കാർ ഈ സംഭവത്തെ കർശനമായി നിരാകരിച്ചു, സൗദി അറേബ്യയോടുള്ള പിന്തുണ വീണ്ടും ഉറപ്പിച്ചു.",
+  "why": "ഇത് വിദേശത്ത് യാത്ര ചെയ്യുന്ന ഇന്ത്യൻ യുവാക്കൾക്ക് സുരക്ഷാ ജാഗ്രതയുടെ ആവശ്യം കാണിക്കുന്നു, കൂടാതെ പ്രദേശിക സുരക്ഷയിൽ ഇന്ത്യയുടെ നിലപാട് വ്യക്തമാക്കുന്നു.",
+  "tags": [
+   "ഇന്ത്യ",
+   "സൗദി",
+   "റിയാദ്",
+   "യാത്ര",
+   "സുരക്ഷ"
+  ]
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cf91b612bd36",
+ "created": "2026-11-25T12:12:38+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/sharp-drop-in-gold-prices-triggers-margin-calls-on-loans-by-banks-and-nbfcs-what-customers-should-know-about-ltv-11795587073208.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold price fall triggers extra security demands on loans",
+  "hook": "Your gold‑backed loan could need more collateral now",
+  "what": "As gold prices dip, banks and NBFCs say the pledged gold may not satisfy RBI’s loan‑to‑value rules. They are asking borrowers to add security or repay part of the loan.",
+  "why": "Young borrowers with gold loans should check their loan‑to‑value ratio and be ready for possible repayment requests to avoid defaults.",
+  "tags": [
+   "gold",
+   "loans",
+   "RBI",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "സ്വർണ്ണം വില ഇടിഞ്ഞു, വായ്പയ്ക്ക് അധിക സുരക്ഷ ആവശ്യമായി",
+  "hook": "നിങ്ങളുടെ സ്വർണ്ണ‑വായ്പയ്ക്ക് ഇനി കൂടുതൽ ഗ്യാരണ്ടി വേണം",
+  "what": "സ്വർണ്ണം വില കുറഞ്ഞതോടെ, ബാങ്കുകളും NBFCകളും RBIയുടെ LTV മാനദണ്ഡം നിറവേറ്റുന്നില്ലെന്ന് കരുതുന്നു. അതിനാൽ കടംമുടക്കുന്നവരെ അധിക സുരക്ഷ നൽകാൻ അല്ലെങ്കിൽ ഭാഗികം തിരിച്ചടയ്ക്കാൻ ആവശ്യപ്പെടുന്നു.",
+  "why": "സ്വർണ്ണ‑വായ്പയുള്ള യുവാക്കൾ LTV പരിശോധിച്ച്, ആവശ്യമായ തിരിച്ചു നൽകലിനോ അധിക ഗ്യാരണ്ടിക്കോ തയ്യാറാകണം.",
+  "tags": [
+   "സ്വർണ്ണം",
+   "വായ്പ",
+   "RBI",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

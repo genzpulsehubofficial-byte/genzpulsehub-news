@@ -1,0 +1,37 @@
+{
+ "id": "a6f6272f9cbb",
+ "created": "2026-11-25T12:12:42+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/apps/news/google-maps-high-visibility-mode-testing-new-colours-light-dark-themes-report-12373849",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Google Maps trials bright mode with new route colors",
+  "hook": "A fresh color scheme could make navigation easier for everyone.",
+  "what": "Google Maps is testing a high‑visibility mode. The update changes the route line color, using cyan in the standard view and purple in the new mode. It works for both light and dark themes.",
+  "why": "The brighter palette aims to improve readability, especially in bright conditions, helping teens navigate on foot or bike. Users can try the feature while the test runs.",
+  "tags": [
+   "GoogleMaps",
+   "HighVisibility",
+   "Navigation",
+   "Tech",
+   "Update"
+  ]
+ },
+ "ml": {
+  "headline": "Google Maps പരീക്ഷിക്കുന്നു പുതിയ ഹൈ‑വിസിബിലിറ്റി മോഡ്",
+  "hook": "പുതിയ നിറങ്ങളോടെ നാവിഗേഷൻ കൂടുതൽ വ്യക്തമായിരിക്കും.",
+  "what": "Google Maps ഒരു ഹൈ‑വിസിബിലിറ്റി മോഡ് പരീക്ഷിക്കുന്നു. ലൈറ്റ്, ഡാർക്ക് തീമുകൾക്ക് പുതിയ നിറങ്ങൾ ഉപയോഗിക്കുന്നു, റൂട്ട് ലൈനിന്റെ നിറം സയനിൽ നിന്ന് പർപ്പിളിലേക്ക് മാറാം.",
+  "why": "ഇത് ദൃശ്യത വർധിപ്പിച്ച്, വെളിച്ചം കൂടുതലുള്ള സാഹചര്യങ്ങളിൽ, യുവാക്കൾക്ക് സഞ്ചാരം എളുപ്പമാക്കും. പരീക്ഷണം ഇപ്പോൾ നടക്കുന്നു, നിങ്ങൾക്ക് ഇത് പരീക്ഷിക്കാൻ കഴിയും.",
+  "tags": [
+   "GoogleMaps",
+   "HighVisibility",
+   "Navigation",
+   "Tech",
+   "Update"
+  ]
+ }
+}

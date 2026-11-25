@@ -1,0 +1,37 @@
+{
+ "id": "9ac89f3cd004",
+ "created": "2026-11-25T12:12:40+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-pro-max-gets-optimised-blackmagic-camera-support-open-gate-olog2-shooting-12373886",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Oppo Find X10 Pro Max adds Blackmagic 4K Dolby Vision camera",
+  "hook": "Your next phone could shoot cinema‑grade video.",
+  "what": "Oppo announced that its Find X10 Pro Max now supports Blackmagic camera features, including 4K Dolby Vision playback and O‑Log2 recording. The handset is priced at Rs 1,99,999 in India.",
+  "why": "The upgrade lets creators capture high‑dynamic‑range footage straight from a phone, useful for TikTok, reels, or student projects. Interested buyers should compare specs and budget before deciding.",
+  "tags": [
+   "Oppo",
+   "FindX10ProMax",
+   "CameraTech",
+   "DolbyVision",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Oppo Find X10 Pro Max-ന് Blackmagic 4K Dolby Vision ക്യാമറ സപ്പോർട്ട്",
+  "hook": "നിങ്ങളുടെ അടുത്ത ഫോൺ സിനിമാ‑ഗ്രേഡ് വീഡിയോ ഷൂട്ട് ചെയ്യാൻ കഴിയും.",
+  "what": "Oppo പ്രഖ്യാപിച്ചു Find X10 Pro Max-ന് Blackmagic ക്യാമറ ഫീച്ചറുകൾ, 4K Dolby Vision പ്ലേബാക്കും O‑Log2 റെക്കോർഡിംഗും ലഭ്യമാണെന്ന്. ഇന്ത്യയിൽ ഈ ഫോണിന്റെ വില ₹1,99,999 ആണ്.",
+  "why": "ഇത് ഉയർന്ന ഡൈനാമിക് റേഞ്ച് വീഡിയോകൾ നേരിട്ട് ഫോണിൽ പിടിക്കാൻ സഹായിക്കുന്നു, TikTok, reels അല്ലെങ്കിൽ വിദ്യാർത്ഥി പ്രോജക്റ്റുകൾക്ക് ഉപകാരപ്രദം. വാങ്ങുന്നതിന് മുമ്പ് സ്പെക്‌സും ബജറ്റും പരിശോധിക്കുക.",
+  "tags": [
+   "Oppo",
+   "FindX10ProMax",
+   "CameraTech",
+   "DolbyVision",
+   "India"
+  ]
+ }
+}

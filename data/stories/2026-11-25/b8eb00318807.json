@@ -1,0 +1,37 @@
+{
+ "id": "b8eb00318807",
+ "created": "2026-11-25T12:12:35+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-rate-today-chennai-25-november-wednesday-check-latest-24k-22k-and-20k-gold-prices-in-gateway-to-south-india-11795583639620.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Chennai gold prices dip on wedding season",
+  "hook": "Gold got cheaper just in time for weddings.",
+  "what": "On 25 November, gold rates in Chennai fell across 24K, 22K, 20K and 18K varieties. The drop gave buyers a brief breather during India's busy wedding period. Prices also shifted compared with the previous week, month and year.",
+  "why": "Lower gold costs can ease wedding budgets for many young families. Keep an eye on daily rates if you plan to buy gold soon.",
+  "tags": [
+   "gold",
+   "Chennai",
+   "wedding",
+   "prices",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "ചെന്നൈയിൽ സ്വർണ്ണം വില കുറഞ്ഞു, വിവാഹകാലം",
+  "hook": "വിവാഹം വരവേൽക്കാൻ സ്വർണ്ണം ഇപ്പോൾ കുറവായി.",
+  "what": "25 നവംബർ ചെന്നൈയിലെ 24K, 22K, 20K, 18K സ്വർണ്ണവിലകൾ ഇടിഞ്ഞു. വിവാഹ സീസണിൽ വാങ്ങുന്നവർക്കു ഇത് ഒരു ചെറിയ ആശ്വാസം നൽകി. കഴിഞ്ഞ ആഴ്ച, മാസം, വർഷത്തെ താരതമ്യത്തിൽ വില മാറ്റം കാണപ്പെട്ടു.",
+  "why": "വിവാഹ ബജറ്റിൽ സ്വർണ്ണം പ്രധാനമാണു, വില കുറഞ്ഞാൽ ചെലവ് കുറയ്ക്കാം. ഉടൻ സ്വർണ്ണം വാങ്ങാൻ ആലോചിക്കുന്നവർ ദിനംപ്രതി നിരക്ക് പരിശോധിക്കുക.",
+  "tags": [
+   "സ്വർണ്ണം",
+   "ചെന്നൈ",
+   "വിവാഹം",
+   "വില",
+   "ഫിനാൻസ്"
+  ]
+ }
+}
