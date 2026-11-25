@@ -9,6 +9,10 @@ mkdir -p ~/.gph && cd ~/.gph
 FP=$(openssl rsa -pubout -outform DER -in api.pem 2>/dev/null | python3 -c "import sys,hashlib;h=hashlib.md5(sys.stdin.buffer.read(),usedforsecurity=False).hexdigest();print(':'.join(h[i:i+2] for i in range(0,32,2)))")
 oci iam user api-key list --user-id "$USER_ID" --query 'data[].fingerprint' --raw-output | grep -q "$FP" || \
   oci iam user api-key upload --user-id "$USER_ID" --key-file api_pub.pem >/dev/null
+# remove any older GitHub keys (e.g. after a rotation), keep only the current one
+for old in $(oci iam user api-key list --user-id "$USER_ID" --query 'data[].fingerprint' --raw-output | tr -d '[]",' ); do
+  [ "$old" != "$FP" ] && oci iam user api-key delete --user-id "$USER_ID" --fingerprint "$old" --force >/dev/null && echo "removed old key $old"
+done
 [ -f ~/.ssh/gph ] || ssh-keygen -t rsa -b 4096 -N "" -f ~/.ssh/gph -q
 python3 - "$USER_ID" "$C" "$FP" "$REG" <<'P'
 import sys, json, base64, os
