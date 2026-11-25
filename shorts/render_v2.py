@@ -22,7 +22,7 @@ from render import COLOR, VOICE, dur, font, put, tlen, wrap
 
 W, H = 1080, 1920
 PEXELS = os.environ.get("PEXELS_API_KEY", "")
-END = {"en": "Follow for daily news 🔔", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ 🔔"}
+END = {"en": "Follow for daily news →", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ →"}
 SAY_END = {"en": "Follow for more.", "ml": "കൂടുതൽ വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ."}
 FONTNAME = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
 FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money cash", "tech": "technology",
@@ -132,7 +132,9 @@ def top_panel(s, lang, path):
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     accent = COLOR.get(s.get("category", ""), "#ff3cac")
-    d.rectangle([0, 0, W, 560], fill=(8, 8, 16, 170))
+    for yy in range(0, 700):   # dark panel fading out, no hard edge
+        a = 175 if yy < 520 else int(175 * (700 - yy) / 180)
+        d.line([(0, yy), (W, yy)], fill=(8, 8, 16, a))
     cat = (s.get("category") or "news").upper()
     if s.get("breaking"):
         cat = "BREAKING · " + cat

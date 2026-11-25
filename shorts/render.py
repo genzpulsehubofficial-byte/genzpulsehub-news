@@ -61,16 +61,25 @@ def _wf(f, w):
     return f
 
 
+def _runs(w):
+    """Split a word into same-script runs, e.g. 'NGEL-നൊപ്പം' -> ['NGEL-', 'നൊപ്പം']."""
+    import re
+    return [r for r in re.findall(r"[\u0d00-\u0d7f\u200c\u200d]+|[^\u0d00-\u0d7f\u200c\u200d]+", w) if r] or [w]
+
+
 def put(d, xy, text, f, fill):
     x, y = xy
-    for w in text.split(" "):
-        wf = _wf(f, w)
-        d.text((x, y), w, font=wf, fill=fill)
-        x += d.textlength(w + " ", font=wf)
+    for i, w in enumerate(text.split(" ")):
+        for r in _runs(w):
+            rf = _wf(f, r)
+            d.text((x, y), r, font=rf, fill=fill)
+            x += d.textlength(r, font=rf)
+        x += d.textlength(" ", font=f)
 
 
 def tlen(d, text, f):
-    return sum(d.textlength(w + " ", font=_wf(f, w)) for w in text.split(" "))
+    return sum(sum(d.textlength(r, font=_wf(f, r)) for r in _runs(w)) + d.textlength(" ", font=f)
+               for w in text.split(" "))
 
 
 def wrap(d, text, f, width):
