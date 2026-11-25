@@ -11,8 +11,7 @@ DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "public")
 SITE = os.environ.get("SITE_URL", "https://genzpulsehub.pages.dev")
 ADS_API = os.environ.get("ADS_API", "https://genzpulsehub-ads.genzpulsehub-official.workers.dev")
-YLIVE_ON = os.environ.get("STREAM_LIVE", "0") == "1"   # set to 1 once the 24/7 stream runs
-T = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
+YT = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
 IG = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 FB = {"en": "61596319547043", "ml": "61596419862358"}
 CAT = {
@@ -25,6 +24,7 @@ CAT = {
 }
 COLOR = {"headlines": "#ff3cac", "jobs": "#ffd60a", "money": "#2ee59d", "tech": "#00c2ff", "exams": "#ff8a00",
          "trending": "#c77dff", "entertainment": "#ff5d8f", "health": "#7bdff2", "sports": "#80ed99", "kerala": "#00f5d4"}
+LIVE_ON = os.environ.get("STREAM_LIVE", "0") == "1"   # set to 1 once the 24/7 stream runs
 T = {
     "en": {"live": "LIVE 24/7", "why": "Why it matters to you", "soon": "🔴 24/7 Live news: coming soon",
            "soon_sub": "Subscribe now so you're notified the moment we go live. Meanwhile: daily Shorts + all stories below.",
