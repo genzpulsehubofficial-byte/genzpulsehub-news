@@ -1,0 +1,45 @@
+{
+ "id": "707319c903aa",
+ "created": "2026-11-26T05:02:48+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "S&P may cut Nvidia rating to AA-",
+  "hook": "A possible downgrade could affect Nvidia’s borrowing power.",
+  "what": "Credit agency S&P is reviewing Nvidia’s credit rating and could lower it to AA-, the fourth‑highest grade. The review cites concerns over company governance and reliance on key executives.",
+  "why": "A downgrade may raise financing costs for Nvidia, which could ripple to tech products and services used by Indian youth. Keep an eye on any impact on device prices or related jobs.",
+  "tags": [
+   "Nvidia",
+   "SPRating",
+   "Tech",
+   "Finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "എസ്‌ആന്‍ഡ്‌പി എന്‍വിഡിയയുടെ റേറ്റിംഗ് എഎ- ആയി കുറയ്ക്കാൻ",
+  "hook": "ഡൗൺഗ്രേഡ് എന്‍വിഡിയയുടെ വായ്പ ചെലവുകൾ ഉയർത്താൻ",
+  "what": "ക്രെഡിറ്റ് ഏജൻസി എസ്‌ആന്‍ഡ്‌പി എന്‍വിഡിയയുടെ ക്രെഡിറ്റ് റേറ്റിംഗ് പരിശോധിച്ച്, അത് നാലാമത്തെ ഉയർന്ന എഎ- ആയി കുറയ്ക്കാൻ സാധ്യതയുണ്ട്. ഈ വിലയിരുത്തലിൽ കമ്പനി ഗവർണൻസ്, പ്രധാന മാനേജ്മെന്റ് ആശ്രിതത്വം എന്നിവയാണ് കാരണങ്ങൾ.",
+  "why": "റേറ്റിംഗ് താഴ്ന്നാൽ എന്‍വിഡിയയുടെ ഫിനാൻസിംഗ് ചെലവ് കൂടാൻ സാധ്യത, ഇത് ഇന്ത്യയിലെ യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ടെക് ഉൽപ്പന്നങ്ങളിലോ ജോലികളിലോ സ്വാധീനം ചെലുത്താം. മാറ്റം വന്നാൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "SP",
+   "Tech",
+   "Finance",
+   "India"
+  ],
+  "say": "ഡൗൺഗ്രേഡ് എന്‍വിഡിയയുടെ വായ്പ ചെലവുകൾ ഉയർത്താൻ. ക്രെഡിറ്റ് ഏജൻസി എസ്‌ആന്‍ഡ്‌പി എന്‍വിഡിയയുടെ ക്രെഡിറ്റ് റേറ്റിംഗ് പരിശോധിച്ച്, അത് നാലാമത്തെ ഉയർന്ന എഎ- ആയി കുറയ്ക്കാൻ സാധ്യതയുണ്ട്. ഈ വിലയിരുത്തലിൽ കമ്പനി ഗവർണൻസ്, പ്രധാന മാനേജ്മെന്റ് ആശ്രിതത്വം എന്നിവയാണ് കാരണങ്ങൾ. റേറ്റിംഗ് താഴ്ന്നാൽ എന്‍വിഡിയയുടെ ഫിനാൻസിംഗ് ചെലവ് കൂടാൻ സാധ്യത, ഇത് ഇന്ത്യയിലെ യുവജനങ്ങൾ ഉപയോഗിക്കുന്ന ടെക് ഉൽപ്പന്നങ്ങളിലോ ജോലികളിലോ സ്വാധീനം ചെലുത്താം. മാറ്റം വന്നാൽ ശ്രദ്ധിക്കുക.",
+  "tags_en": [
+   "Nvidia",
+   "SPRating",
+   "Tech",
+   "Finance",
+   "India"
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "37d36971420f",
+ "created": "2026-11-26T05:02:34+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/rajasthan/congress-wins-majority-of-zila-pramukh-posts-in-rajasthan-polls/article71743297.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Congress clinches most Zila Pramukh seats in Rajasthan",
+  "hook": "Rajasthan's local leadership now leans heavily toward Congress.",
+  "what": "Counting of panchayat samiti and Zila Parishad votes finished on Nov 20 across 37 of the state's 41 districts. The Congress party secured a majority of the Zila Pramukh positions.",
+  "why": "This shift could influence development projects and schemes that affect rural youth. Stay aware of local governance changes.",
+  "tags": [
+   "Rajasthan",
+   "Congress",
+   "local elections",
+   "ZilaPramukh",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "കോൺഗ്രസ് രാജസ്ഥാനിലെ ഏറ്റവും കൂടുതൽ ജില്ലാ പ്രധാന സ്ഥാനങ്ങൾ നേടി",
+  "hook": "രാജസ്ഥാനിലെ ഗ്രാമീണ നേതൃപദവികൾ ഇപ്പോൾ കോൺഗ്രസ്‌ക്ക് കൂടുതൽ.",
+  "what": "പഞ്ചയത്ത് സമിതി, ജില്ലാ പരിഷഡ് വോട്ടുകൾ നവംബർ ഇരുപതിന് നാല്‍പത്തിയൊന്ന് ജില്ലകളിൽ മുപ്പത്തിഏഴ് ജില്ലകളിൽ എണ്ണപ്പെട്ടു. കോൺഗ്രസ് ജില്ലാ പ്രധാന സ്ഥാനങ്ങളിൽ ഭൂരിപക്ഷം നേടി.",
+  "why": "ഇത് ഗ്രാമീണ യുവജനങ്ങളുടെ വികസന പദ്ധതികളിലും സ്കീമുകളിലും സ്വാധീനം ചെലുത്താം. പ്രാദേശിക ഭരണത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
+  "tags": [
+   "രാജസ്ഥാൻ",
+   "കോൺഗ്രസ്",
+   "പ്രാദേശിക തിരഞ്ഞെടുപ്പ്",
+   "ജില്ലപ്രമുഖ",
+   "യുവകർ"
+  ],
+  "say": "രാജസ്ഥാനിലെ ഗ്രാമീണ നേതൃപദവികൾ ഇപ്പോൾ കോൺഗ്രസ്‌ക്ക് കൂടുതൽ. പഞ്ചയത്ത് സമിതി, ജില്ലാ പരിഷഡ് വോട്ടുകൾ നവംബർ ഇരുപതിന് നാല്‍പത്തിയൊന്ന് ജില്ലകളിൽ മുപ്പത്തിഏഴ് ജില്ലകളിൽ എണ്ണപ്പെട്ടു. കോൺഗ്രസ് ജില്ലാ പ്രധാന സ്ഥാനങ്ങളിൽ ഭൂരിപക്ഷം നേടി. ഇത് ഗ്രാമീണ യുവജനങ്ങളുടെ വികസന പദ്ധതികളിലും സ്കീമുകളിലും സ്വാധീനം ചെലുത്താം. പ്രാദേശിക ഭരണത്തെക്കുറിച്ച് അറിഞ്ഞിരിക്കൂ.",
+  "tags_en": [
+   "Rajasthan",
+   "Congress",
+   "local elections",
+   "ZilaPramukh",
+   "youth"
+  ]
+ }
+}

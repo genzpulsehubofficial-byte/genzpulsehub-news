@@ -1,0 +1,45 @@
+{
+ "id": "182e4e68ea2c",
+ "created": "2026-11-26T05:02:41+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/it-secy-defends-sarvams-token-factory-over-chinese-llm-debate/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "IT Secretary backs Sarvam’s Token Factory amid Chinese model debate",
+  "hook": "India’s tech chief steps in as AI model origins spark controversy.",
+  "what": "The Ministry of Electronics and Information Technology’s secretary defended Sarvam AI’s new inference platform, Token Factory, after criticism for hosting Chinese large language models. The debate centers on the presence of foreign AI models in the service.",
+  "why": "Young developers should watch policy shifts that could affect access to AI tools and data security. Staying informed helps them choose compliant platforms.",
+  "tags": [
+   "tech",
+   "AI",
+   "policy",
+   "India",
+   "developers"
+  ]
+ },
+ "ml": {
+  "headline": "ഐടി സെക്രട്ടറി സാർവം ടോക്കൺ ഫാക്ടറി‑നെ ചൈനീസ് മോഡൽ വിവാദത്തിൽ പിന്തുണക്കുന്നു",
+  "hook": "എഐ മോഡലുകളുടെ ഉറവിടം ചർച്ചയിൽ, രാജ്യത്തിന്റെ ടെക് നേതാവ് ഇടപെടുന്നു.",
+  "what": "ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയത്തിന്റെ സെക്രട്ടറി, ചൈനീസ് വലിയ ഭാഷാ മോഡലുകൾ ഹോസ്റ്റ് ചെയ്യുന്നതായി വിമർശനം നേരിടുന്ന സാർവം, എഐയുടെ പുതിയ ഇൻഫറൻസ് പ്ലാറ്റ്ഫോം ടോക്കൺ ഫാക്ടറി‑നെ പിന്തുണച്ചു. ഈ വിവാദം സേവനത്തിൽ വിദേശ എഐ മോഡലുകളുടെ സാന്നിധ്യത്തെക്കുറിച്ചാണ്.",
+  "why": "യുവ ഡെവലപ്പർമാർ എഐ ഉപകരണങ്ങളുടെയും ഡാറ്റാ സുരക്ഷയുടെയും നയപരമായ മാറ്റങ്ങളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കണം. ഇതിലൂടെ അവർ അനുയോജ്യമായ പ്ലാറ്റ്ഫോം തിരഞ്ഞെടുക്കാം.",
+  "tags": [
+   "tech",
+   "AI",
+   "policy",
+   "India",
+   "developers"
+  ],
+  "say": "എഐ മോഡലുകളുടെ ഉറവിടം ചർച്ചയിൽ, രാജ്യത്തിന്റെ ടെക് നേതാവ് ഇടപെടുന്നു. ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയത്തിന്റെ സെക്രട്ടറി, ചൈനീസ് വലിയ ഭാഷാ മോഡലുകൾ ഹോസ്റ്റ് ചെയ്യുന്നതായി വിമർശനം നേരിടുന്ന സാർവം, എഐയുടെ പുതിയ ഇൻഫറൻസ് പ്ലാറ്റ്ഫോം ടോക്കൺ ഫാക്ടറി‑നെ പിന്തുണച്ചു. ഈ വിവാദം സേവനത്തിൽ വിദേശ എഐ മോഡലുകളുടെ സാന്നിധ്യത്തെക്കുറിച്ചാണ്. യുവ ഡെവലപ്പർമാർ എഐ ഉപകരണങ്ങളുടെയും ഡാറ്റാ സുരക്ഷയുടെയും നയപരമായ മാറ്റങ്ങളെക്കുറിച്ച് ജാഗ്രതയോടെ ഇരിക്കണം; ഇതിലൂടെ അവർ അനുയോജ്യമായ പ്ലാറ്റ്ഫോം തിരഞ്ഞെടുക്കാം.",
+  "tags_en": [
+   "tech",
+   "AI",
+   "policy",
+   "India",
+   "developers"
+  ]
+ }
+}

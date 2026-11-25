@@ -1,0 +1,45 @@
+{
+ "id": "185728368c69",
+ "created": "2026-11-26T05:05:07+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Sacnilk",
+ "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmNmUFRZdnRaQkQwcC1wWHhRWWZST3JzSGM5WHZSMTNMWGhVXzRCaVRHQWNmZmtzRi0xQ1R4aUdjR2RwUXY2bkRfYmNFTTRPSEc2eVFBX0NLTmpRTVJ3b251SXlTWEdRN2lmMXBiZnBSREJHdm1pZXlJdE1YZm1JM3RiOGhYT2RuYjl5cFpNY1o?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "O.M Operation Mole hits 100 cr worldwide by Day 6",
+  "hook": "Mammootty‑Dhanush blockbuster breaks the 100 cr mark.",
+  "what": "The film ‘O.M: Operation Mole’ earned about ₹93 cr worldwide by its fourth day and crossed the ₹100 cr milestone globally by the fifth and sixth days. In India alone it amassed roughly ₹75 cr in gross revenue despite a recent slowdown.",
+  "why": "The strong earnings show the star power of Mammootty and Dhanush resonates with young audiences, and the success may boost interest in regional cinema and upcoming releases.",
+  "tags": [
+   "OMOperationMole",
+   "boxoffice",
+   "Mammootty",
+   "Dhanush",
+   "regionalcinema"
+  ]
+ },
+ "ml": {
+  "headline": "O.M: Operation Mole ആറാം ദിവസം നൂറു കോടി ലോകവ്യാപി",
+  "hook": "മമ്മൂട്ടിയും ധനുഷും ചേർന്ന ചിത്രത്തിന് നൂറു കോടി വരുമാനം.",
+  "what": "‘O.M: Operation Mole’ നാല് ദിവസം കൊണ്ട് ലോകവ്യാപി ഏകദേശം തൊണ്ണൂറ്റി മൂന്ന് കോടി നേടി, അഞ്ചാം ദിവസത്തിൽ നൂറു കോടി കടന്നു. ഇന്ത്യയിൽ ഏകദേശം എഴുപത്തിയഞ്ച് കോടി വരുമാനം ഉണ്ടായി, ഇടവേള ഉണ്ടായിരുന്നുവെങ്കിലും.",
+  "why": "മമ്മൂട്ടിയും ധനുഷും ഉള്ള താരപ്രഭാവം യുവജനങ്ങളിൽ വലിയ സ്വാധീനം ചെലുത്തുന്നു, ഇതിലൂടെ പ്രാദേശിക സിനിമകളുടെ ആകർഷണം വർദ്ധിക്കും.",
+  "tags": [
+   "OMOperationMole",
+   "boxoffice",
+   "Mammootty",
+   "Dhanush",
+   "regionalcinema"
+  ],
+  "say": "മമ്മൂട്ടിയും ധനുഷും ചേർന്ന ചിത്രത്തിന് നൂറു കോടി വരുമാനം. ‘ഒ.എം: ഓപ്പറേഷൻ മോൾ’ നാല് ദിവസം കൊണ്ട് ലോകവ്യാപി ഏകദേശം തൊണ്ണൂറ്റി മൂന്ന് കോടി നേടി, അഞ്ചാം ദിവസത്തിൽ നൂറു കോടി കടന്നു. ഇന്ത്യയിൽ ഏകദേശം എഴുപത്തിയഞ്ച് കോടി വരുമാനം ഉണ്ടായി, ഇടവേള ഉണ്ടായിരുന്നുവെങ്കിലും. മമ്മൂട്ടിയും ധനുഷും ഉള്ള താരപ്രഭാവം യുവജനങ്ങളിൽ വലിയ സ്വാധീനം ചെലുത്തുന്നു, ഇതിലൂടെ പ്രാദേശിക സിനിമകളുടെ ആകർഷണം വർദ്ധിക്കും.",
+  "tags_en": [
+   "OMOperationMole",
+   "boxoffice",
+   "Mammootty",
+   "Dhanush",
+   "regionalcinema"
+  ]
+ }
+}

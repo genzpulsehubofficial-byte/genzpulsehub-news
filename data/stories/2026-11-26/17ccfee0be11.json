@@ -1,0 +1,45 @@
+{
+ "id": "17ccfee0be11",
+ "created": "2026-11-26T05:05:00+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/delhi-news/2-safdarjung-hospital-staffers-sustain-head-injuries-in-road-rage-in-delhi-case-filed-12377927#publisher=newsstand",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Delhi Hospital Staff Hurt in Road Rage Bat Attack",
+  "hook": "A minor crash led to a bat and hammer assault on hospital staff in Delhi.",
+  "what": "Two Delhi hospital staffers suffered head injuries. A baseball bat and a hammer were used against them after a small collision, police said. A case was filed.",
+  "why": "It matters because a small collision led to serious violence. It shows how dangerous road rage can become.",
+  "tags": [
+   "delhi",
+   "roadrage",
+   "hospital",
+   "assault",
+   "police"
+  ]
+ },
+ "ml": {
+  "headline": "ഡില്ലിയിലെ ആശുപത്രി സ്റ്റാഫിനെ റോഡ് റേജിൽ ഗെയിം ചെയ്തു",
+  "hook": "ചെറിയ ട്രാഫിക് കുഴപ്പത്തോടുകൂടി ആശുപത്രി സ്റ്റാഫിനെ റോഡ് റേജ് പരിശോധിക്കൂ",
+  "what": "ഡില്ലിയിലെ രണ്ട് ആശുപത്രി സ്റ്റാഫുകൾ തലക്കഷണം നേടി. അവരെ ബാറ്റും ഹാമ്മറും കൊണ്ട് ഏറ്റുമുട്ടി. പോലീസ് കേസ് ചുമത്തി.",
+  "why": "ഇത് ചെറിയ ട്രാഫിക് കുഴപ്പത്തിൽ നിന്നാണ് ആരംഭിച്ചത് എന്ന് കാണിക്കുന്നു. വളയത്തിലുള്ള കോപം എത്ര അപകടകരമാകാമെന്ന് ഇത് തെളിയിക്കുന്നു.",
+  "tags": [
+   "ഢില്ലി",
+   "റോഡ്",
+   "ആശുപത്രി",
+   "ഏറ്റുമുട്ടൽ",
+   "പോലീസ്"
+  ],
+  "say": "ചെറിയ ട്രാഫിക് കുഴപ്പത്തോടുകൂടി ആശുപത്രി സ്റ്റാഫിനെ റോഡ് റേജ് പരിശോധിക്കൂ ഡില്ലിയിലെ രണ്ട് ആശുപത്രി സ്റ്റാഫുകൾ തലക്കഷണം നേടി. അവരെ ബാറ്റും ഹാമ്മറും കൊണ്ട് ഏറ്റുമുട്ടി. പോലീസ് കേസ് ചുമത്തി. ഇത് ചെറിയ ട്രാഫിക് കുഴപ്പത്തിൽ നിന്നാണ് ആരംഭിച്ചത് എന്ന് കാണിക്കുന്നു. വളയത്തിലുള്ള കോപം എത്ര അപകടകരമാകാമെന്ന് ഇത് തെളിയിക്കുന്നു.",
+  "tags_en": [
+   "delhi",
+   "roadrage",
+   "hospital",
+   "assault",
+   "police"
+  ]
+ }
+}

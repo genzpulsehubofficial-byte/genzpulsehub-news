@@ -1,5 +1,100 @@
 [
  {
+  "id": "37d36971420f",
+  "created": "2026-11-26T05:02:34+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/rajasthan/congress-wins-majority-of-zila-pramukh-posts-in-rajasthan-polls/article71743297.ece",
+  "headline": "Congress clinches most Zila Pramukh seats in Rajasthan",
+  "hook": "Rajasthan's local leadership now leans heavily toward Congress.",
+  "what": "Counting of panchayat samiti and Zila Parishad votes finished on Nov 20 across 37 of the state's 41 districts. The Congress party secured a majority of the Zila Pramukh positions.",
+  "why": "This shift could influence development projects and schemes that affect rural youth. Stay aware of local governance changes.",
+  "tags": [
+   "Rajasthan",
+   "Congress",
+   "local elections",
+   "ZilaPramukh",
+   "youth"
+  ]
+ },
+ {
+  "id": "182e4e68ea2c",
+  "created": "2026-11-26T05:02:41+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/it-secy-defends-sarvams-token-factory-over-chinese-llm-debate/",
+  "headline": "IT Secretary backs Sarvam’s Token Factory amid Chinese model debate",
+  "hook": "India’s tech chief steps in as AI model origins spark controversy.",
+  "what": "The Ministry of Electronics and Information Technology’s secretary defended Sarvam AI’s new inference platform, Token Factory, after criticism for hosting Chinese large language models. The debate centers on the presence of foreign AI models in the service.",
+  "why": "Young developers should watch policy shifts that could affect access to AI tools and data security. Staying informed helps them choose compliant platforms.",
+  "tags": [
+   "tech",
+   "AI",
+   "policy",
+   "India",
+   "developers"
+  ]
+ },
+ {
+  "id": "707319c903aa",
+  "created": "2026-11-26T05:02:48+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "headline": "S&P may cut Nvidia rating to AA-",
+  "hook": "A possible downgrade could affect Nvidia’s borrowing power.",
+  "what": "Credit agency S&P is reviewing Nvidia’s credit rating and could lower it to AA-, the fourth‑highest grade. The review cites concerns over company governance and reliance on key executives.",
+  "why": "A downgrade may raise financing costs for Nvidia, which could ripple to tech products and services used by Indian youth. Keep an eye on any impact on device prices or related jobs.",
+  "tags": [
+   "Nvidia",
+   "SPRating",
+   "Tech",
+   "Finance",
+   "India"
+  ]
+ },
+ {
+  "id": "17ccfee0be11",
+  "created": "2026-11-26T05:05:00+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/delhi-news/2-safdarjung-hospital-staffers-sustain-head-injuries-in-road-rage-in-delhi-case-filed-12377927#publisher=newsstand",
+  "headline": "Delhi Hospital Staff Hurt in Road Rage Bat Attack",
+  "hook": "A minor crash led to a bat and hammer assault on hospital staff in Delhi.",
+  "what": "Two Delhi hospital staffers suffered head injuries. A baseball bat and a hammer were used against them after a small collision, police said. A case was filed.",
+  "why": "It matters because a small collision led to serious violence. It shows how dangerous road rage can become.",
+  "tags": [
+   "delhi",
+   "roadrage",
+   "hospital",
+   "assault",
+   "police"
+  ]
+ },
+ {
+  "id": "185728368c69",
+  "created": "2026-11-26T05:05:07+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmNmUFRZdnRaQkQwcC1wWHhRWWZST3JzSGM5WHZSMTNMWGhVXzRCaVRHQWNmZmtzRi0xQ1R4aUdjR2RwUXY2bkRfYmNFTTRPSEc2eVFBX0NLTmpRTVJ3b251SXlTWEdRN2lmMXBiZnBSREJHdm1pZXlJdE1YZm1JM3RiOGhYT2RuYjl5cFpNY1o?oc=5",
+  "headline": "O.M Operation Mole hits 100 cr worldwide by Day 6",
+  "hook": "Mammootty‑Dhanush blockbuster breaks the 100 cr mark.",
+  "what": "The film ‘O.M: Operation Mole’ earned about ₹93 cr worldwide by its fourth day and crossed the ₹100 cr milestone globally by the fifth and sixth days. In India alone it amassed roughly ₹75 cr in gross revenue despite a recent slowdown.",
+  "why": "The strong earnings show the star power of Mammootty and Dhanush resonates with young audiences, and the success may boost interest in regional cinema and upcoming releases.",
+  "tags": [
+   "OMOperationMole",
+   "boxoffice",
+   "Mammootty",
+   "Dhanush",
+   "regionalcinema"
+  ]
+ },
+ {
   "id": "831875c46e9b",
   "created": "2026-11-26T04:08:50+05:30",
   "category": "headlines",
@@ -656,101 +751,6 @@
    "government",
    "jobs",
    "India"
-  ]
- },
- {
-  "id": "be635f5d2018",
-  "created": "2026-11-25T22:15:32+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/sc-cancels-bail-suspension-of-life-sentence-of-former-ktaka-minister-in-murder-case/article71743740.ece",
-  "headline": "Supreme Court revokes bail for ex-Karnataka minister in murder case",
-  "hook": "A top politician loses his freedom after the highest court steps in.",
-  "what": "Former minister Kulkarni was convicted in April for a 2016 murder. The Karnataka High Court had suspended his life sentence and granted bail so he could remain an MLA during the appeal. The Supreme Court set aside that order, saying bail cannot be given for such serious crimes.",
-  "why": "The ruling shows that even powerful figures can be held accountable, reinforcing the rule of law for young Indians. Stay aware of judicial decisions that shape politics.",
-  "tags": [
-   "justice",
-   "politics",
-   "India",
-   "law",
-   "Karnataka"
-  ]
- },
- {
-  "id": "12b3f45fa21f",
-  "created": "2026-11-25T22:15:35+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYXk0UWdpNm5Id29wMlB6UkZoZEVCSzVKTHVvV1c3VEV4T0pPYXlobmZFdFdrZTQtZk1BMUR3dE9vWW9fSTFmOFd1M1R1VXZsdDZHbWw0TTduMWVWMEF1ZUFDUUxVd0ZWQWpHV2dhanlPUTlQeHpaS1ZfVk1malRaVF81cmNoME1lc1N0cC1VbUl4WVVEOGM5M0Z5aFZCT0huZkNpNXI0Z1p1R0V5UGs1WUxVbFd4a1Vtc2U3cTdwblFvQzRKRHZXNlRMT19qd2hSNUhGcFJyWTdzTVMwREN3Wm1HckJpR1NsdjBKVGota3dvc005R1hDNXYtSFJ4Ym5PbEZDcXVXdEpjS3RGWjY4UldDZWdza1JWV1NVbW930gGeAkFVX3lxTE5heTRRZ2k2bkh3b3AyUHpSRmhkRUJLNUpMdW9XVzdURXhPSk9heWhuZkV0V2tlNC1mTUExRHd0T29Zb19JMWY4V3UzVHVVdmx0NkdtbDRNN24xZVYwQXVlQUNRTFV3RlZBakdXZ2FqeU9ROVB4elpLVl9WTWZqVFpUXzVyY2gwTWVzU3RwLVVtSXhZVUQ4YzkzRnloVkJPSG5mQ2k1cjRnWnVHRXlQazVZTFVsV3hrVW1zZTdxN3BuUW9DNEpEdlc2VExPX2p3aFI1SEZwUnJZN3NNUzBEQ3dabUdyQmlHU2x2MEpUai1rd29zTTlHWEM1di1IUnhibk9sRkNxdVd0SmNLdEZaNjhSV0NlZ3NrUlZXU1Vtb3c?oc=5",
-  "headline": "Kerala to overhaul PSC hiring process, panel to audit rank lists",
-  "hook": "Your future job chances may change as Kerala rechecks PSC selections.",
-  "what": "The Kerala government announced a review of the Public Service Commission's recruitment procedures. A panel headed by the Chief Secretary will scrutinize the existing rank lists and related processes.",
-  "why": "This could affect upcoming job exams and selections for youths in the state. Candidates should stay updated on any changes to application guidelines.",
-  "tags": [
-   "Kerala",
-   "PSC",
-   "Jobs",
-   "Recruitment",
-   "Exam"
-  ]
- },
- {
-  "id": "0e3e6fdaba1f",
-  "created": "2026-11-25T22:15:43+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Tom's Guide",
-  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjJqQ0QxcVBwbVFjdThCcGN6YzlWTTQ1WmJKYXBSY3lYOGplUzF1TDljMVRheDBfSXp1ZzF4VFhUTGlCN0JTR2REZEs0ZWJWZVVoODRkdDU4aWVCeXlOdFhZTHliTW5xV3dLSDUyY2JaejlzNWRZdzBwRlRLV1JPVG12Zl80RlcyUlRhM2NFeVM?oc=5",
-  "headline": "Apple Black Friday prices hit record lows",
-  "hook": "Grab Apple gadgets at steep discounts before the rush.",
-  "what": "Apple has cut prices on its watches, earbuds, laptops and tablets. A fresh $100 discount on AirPods Pro 3 is part of the offers. The deals appeared ahead of Black Friday.",
-  "why": "Students can save big on devices for school or entertainment, so check the Apple store now.",
-  "tags": [
-   "Apple",
-   "BlackFriday",
-   "Deals",
-   "Tech",
-   "Students"
-  ]
- },
- {
-  "id": "f8c3f491a7ac",
-  "created": "2026-11-25T21:01:55+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
-  "headline": "KSEB partners with NTPC and NGEL for green energy",
-  "hook": "Kerala's power board teams up for cleaner electricity",
-  "what": "The Kerala State Electricity Board has signed an agreement with NTPC Ltd and NGEL. The deal focuses on developing green energy projects in the state.",
-  "why": "It could boost renewable power supply, creating greener jobs and lower emissions for youth.",
-  "tags": [
-   "KSEB",
-   "NTPC",
-   "NGEL",
-   "greenenergy",
-   "Kerala"
-  ]
- },
- {
-  "id": "717ded601a5d",
-  "created": "2026-11-25T21:01:58+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cms-statements-on-teacher-student-ratio-misleading-ksta/article71743272.ece",
-  "headline": "Kerala CM’s teacher-student ratio claim called misleading by teachers",
-  "hook": "The state’s education stats may not be what they seem.",
-  "what": "The Kerala State Teachers’ Association says the chief minister’s reported teacher‑student ratio is inaccurate. While the ratio has traditionally been calculated per class, the CM presented a figure based on the total number of teachers and students across the state.",
-  "why": "Accurate ratios affect classroom size and learning quality, which impacts students’ education. Teens should stay informed about how education data is presented and demand clarity.",
-  "tags": [
-   "Kerala",
-   "Education",
-   "Teachers",
-   "Students",
-   "Policy"
   ]
  }
 ]
