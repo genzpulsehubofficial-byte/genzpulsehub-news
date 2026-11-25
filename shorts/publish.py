@@ -17,7 +17,7 @@ BIZ = "932757405756172"
 IG_IDS = {"en": "17841409013887055", "ml": "17841440794138461"}  # fallback ids from Business Settings
 IG_USERS = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 PAGE_NAMES = {"en": "GenZ Pulse Hub", "ml": "GenZ Pulse Hub Malayalam"}
-SITE = {"en": "https://genzpulsehub.dpdns.org", "ml": "https://genzpulsehub.dpdns.org/ml"}
+SITE = {"en": "https://genzpulsehub.pages.dev", "ml": "https://genzpulsehub.pages.dev/ml"}
 YT_LIVE = {"en": "https://youtube.com/@genzpulsehubnews", "ml": "https://youtube.com/@genzpulsehubmalayalam"}
 MEDIA_BASE = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
 

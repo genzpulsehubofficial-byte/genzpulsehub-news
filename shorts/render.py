@@ -23,8 +23,8 @@ FONT_REG = {"en": "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
             "ml": "/usr/share/fonts/truetype/noto/NotoSansMalayalam-Regular.ttf"}
 COLOR = {"headlines": "#ff3cac", "jobs": "#ffd60a", "money": "#2ee59d", "tech": "#00c2ff", "exams": "#ff8a00",
          "trending": "#c77dff", "entertainment": "#ff5d8f", "health": "#7bdff2", "sports": "#80ed99", "kerala": "#00f5d4"}
-CTA = {"en": ("Watch more on YouTube", "Full story: genzpulsehub.dpdns.org"),
-       "ml": ("കൂടുതൽ YouTube-ൽ കാണുക", "മുഴുവൻ വാർത്ത: genzpulsehub.dpdns.org/ml")}
+CTA = {"en": ("Watch more on YouTube", "Full story: genzpulsehub.pages.dev"),
+       "ml": ("കൂടുതൽ YouTube-ൽ കാണുക", "മുഴുവൻ വാർത്ത: genzpulsehub.pages.dev/ml")}
 WHY = {"en": "WHY IT MATTERS TO YOU", "ml": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും"}
 PER_RUN = int(os.environ.get("SHORTS_PER_RUN", "1"))
 

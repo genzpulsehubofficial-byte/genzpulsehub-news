@@ -24,7 +24,7 @@ LANG = sys.argv[1] if len(sys.argv) > 1 else "en"
 W, H = 1280, 720
 CYCLE = int(os.environ.get("STREAM_CYCLE_SEC", str(7 * 3600 + 50 * 60)))
 ADS_API = "https://genzpulsehub-ads.genzpulsehub-official.workers.dev/api/active"
-SITE = {"en": "genzpulsehub.dpdns.org", "ml": "genzpulsehub.dpdns.org/ml"}
+SITE = {"en": "genzpulsehub.pages.dev", "ml": "genzpulsehub.pages.dev/ml"}
 TXT = {
     "en": {"live": "LIVE", "why": "WHY IT MATTERS", "next": "UP NEXT", "ad": "Advertise here → " + SITE["en"] + "/advertise",
            "intro": "You're watching GenZ Pulse Hub, live news for your generation. Here's what's happening."},
