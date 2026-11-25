@@ -1,5 +1,117 @@
 [
  {
+  "id": "3a26b76ac6b2",
+  "created": "2026-11-26T01:10:20+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+  "headline": "US says India tariffs could drop to 17% with deal",
+  "hook": "A trade pact could slash US duties on Indian products.",
+  "what": "The U.S. Trade Representative announced that if a trade agreement is reached, the United States will cap the tariff on Indian imports at 17 percent. At present, the U.S. has imposed a 25 percent tariff on India, one of the highest among 14 countries under review.",
+  "why": "Lower tariffs could make US‑made goods cheaper for Indian buyers and boost Indian exports, affecting prices and job prospects. Keep an eye on trade news as it may influence market trends and career options.",
+  "tags": [
+   "USIndia",
+   "Tariffs",
+   "TradeDeal",
+   "Economy"
+  ]
+ },
+ {
+  "id": "ed73faaefb01",
+  "created": "2026-11-26T01:10:28+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/air-india-ai-express-to-operate-as-one-group-two-brands-heres-what-that-means-12377449#publisher=newsstand",
+  "headline": "Air India, AI Express to run as one group, two brands",
+  "hook": "Your next flight might be booked under a new combined brand",
+  "what": "Air India and its low‑cost arm AI Express will operate under a single corporate group while keeping separate brand identities. The Tata group, which bought Air India from the government, says the move will streamline operations.",
+  "why": "This could bring more flight choices and possibly lower fares for students traveling within India. Watch for updated ticket prices when you book.",
+  "tags": [
+   "airindia",
+   "AIExpress",
+   "travel",
+   "Tata",
+   "aviation"
+  ]
+ },
+ {
+  "id": "8f62a618cddf",
+  "created": "2026-11-26T01:10:34+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+  "headline": "1Password breach: employee account accessed, passwords remain secure",
+  "hook": "Your saved passwords are still safe despite the hack.",
+  "what": "A cyber intruder entered a staff member’s corporate login at 1Password and retrieved some user‑related data. The firm says the incident did not expose the actual vault passwords.",
+  "why": "Because the core encryption stayed intact, teens can keep using the manager without worry. Strengthen your master password and turn on two‑factor authentication.",
+  "tags": [
+   "cybersecurity",
+   "passwordmanager",
+   "databreach",
+   "technews"
+  ]
+ },
+ {
+  "id": "6df4534016ca",
+  "created": "2026-11-26T01:12:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "American Nuclear Society",
+  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmRTdXppQkNWNVRqWFJDV3pHTUpYeXJRa0JBM3F3NzNWaDBvcGdSaDNnbHpZbFNRNDRCOEhQT09ZZ1ZRVF83SFI0VGtDOEJfNkdBRkVjR0dabndVNmFCbElNY1pUUnliZmFfR0dpbnBJaWw1bDg2UmtqbGtqVWxpN3drVnNDdGUtZlBiTVVyazg?oc=5",
+  "headline": "Helium Bubbles May Shield Nuclear Fuel",
+  "hook": "A small helium bubble trick might slow nuclear fuel aging.",
+  "what": "A US study looked at helium bubbles for advanced nuclear reactors. Simulations suggested the bubbles might help with radioactive material. They could also clean metals from the fuel.",
+  "why": "It is early US research, so it may not matter immediately to Indian teens. Still, it points to future nuclear power work.",
+  "tags": [
+   "helium",
+   "nuclear",
+   "msr",
+   "science",
+   "energy"
+  ]
+ },
+ {
+  "id": "c47b39c990ca",
+  "created": "2026-11-26T01:12:52+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Sacnilk",
+  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTZjVks1NG1lQ0J1MWp4WXgwS2h6SGwyOC03WFhjeFRaQ0p6T0ZSWU02ZjRZbjh4Q1NGMzUwN3FuVE15WEFSMUsyQVYxOUlUWHhhSnB2OGxtYlNCZnpLaTNmdVg1aTBvQktHam9DQl84NzRyZkFQS0FsSmJxbGZ6bklZd29LQzBaSF9zTlpR?oc=5",
+  "headline": "Dulquer Salmaan's 'Aakasamlo Oka Tara' crosses 32 cr worldwide",
+  "hook": "The Telugu hit keeps pulling crowds even after a week.",
+  "what": "The film 'Aakasamlo Oka Tara' earned about Rs 32 crore globally, with a domestic net of Rs 19.65 crore by its fifth day. Day six saw continued strong attendance, with audiences praising the performances of Dulquer Salmaan and Satvika Veeravalli.",
+  "why": "Its success shows regional cinema can draw big numbers, encouraging teens to explore Telugu movies beyond Bollywood. Check it out on streaming platforms if you enjoy fresh stories.",
+  "tags": [
+   "AakasamloOkaTara",
+   "DulquerSalmaan",
+   "TeluguCinema",
+   "BoxOffice",
+   "GenZMovies"
+  ]
+ },
+ {
+  "id": "48cb92f412fb",
+  "created": "2026-11-26T01:19:29+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Careers360",
+  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTVIZ1JDRU5hU1BpTmFRT3B6ckNkZlM5U1F5OGlCdEZPaGdPSDB4VTFLWjJBeTI1S0lzbFhuSE5fVjE3aDJDQ0gwa0JvZXpWdll0UzI5ejRoM0VPMUtRT3NvSHJza2x2Sk02M0QwQ01GRWhKZUZMdlk4eFRldFdvSmhaeGpxQ19nQVpKVG1mYl8wZ01hekh6STJkcFBEMGllOHhYTHlsMVFuQ21HYUxBMlVJTFdlNmNLdkg5a3ZCQTltRDJTWWY1TDBCR29JMnBaQ2hN0gHYAUFVX3lxTE9IS0VMZmh5WXdrd2dkbkx0cUpIZVFMSkdjYkpPTDlMdWI5TzRBS2dER1dVVEx1S3A3Z2NEU3NnTkFwdm8xNDE5Wl9CdEc2ZTlpbHhPc1d6WHZKSUJmYUlrazRNY2I2YnhNMkJzUEpOakxGbDZtU0hXVFlHaG43Mk9RTVVSY19qQnRGZnJoUG44YzF0LVRuVnFjS3RwcDdWWU1IckFySURtZGRQa2U3dDl6NTd5T0thakFfTkprZml6ZjNHOTFma1NRY3EzRmY3cE5LNkw1TTBoUg?oc=5",
+  "headline": "Kerala CM rejects 1:25 teacher-student ratio, orders rank list review",
+  "hook": "Your future school seats might get re‑checked after this move.",
+  "what": "The Kerala chief minister said the state will not adopt a 1:25 teacher‑student ratio. She also announced the formation of a panel to examine the Public Service Commission’s rank lists.",
+  "why": "Students awaiting PSC results may see changes if the panel finds discrepancies. Stay updated on any revisions that could affect admissions or job eligibility.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "PSC",
+   "Students",
+   "Policy"
+  ]
+ },
+ {
   "id": "4d25d73ffeca",
   "created": "2026-11-26T00:02:55+05:30",
   "category": "tech",
@@ -641,116 +753,6 @@
    "ITAT",
    "senior taxpayer",
    "penalty cancelled"
-  ]
- },
- {
-  "id": "cb479894f39c",
-  "created": "2026-11-25T17:10:21+05:30",
-  "category": "exams",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/let-suspended-varsity-students-write-exams-govt-won-t-ruin-their-future-keralam-cm-101795600718771.html",
-  "headline": "Kerala CM urges exams for suspended university students",
-  "hook": "Your degree shouldn't be lost over a suspension.",
-  "what": "Kerala's chief minister said students who are currently suspended from university should still be allowed to sit for their exams. He added the government will not let this affect their future prospects.",
-  "why": "Ensuring exam access protects students' career plans and avoids long‑term setbacks, so affected youths should stay informed about any official guidelines.",
-  "tags": [
-   "Kerala",
-   "Education",
-   "Exams",
-   "Students",
-   "Policy"
-  ]
- },
- {
-  "id": "0f5b6c6267aa",
-  "created": "2026-11-25T17:10:23+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/no-tampering-violation-found-at-sheshnag-lake-jk-minister-altaf-kaloo/article71741828.ece",
-  "headline": "J&K Minister says Sheshnag lake untouched, video misleading",
-  "hook": "A viral clip claims damage, but officials say it’s false.",
-  "what": "A video suggested that the Sheshnag lake had been tampered with. The Jammu & Kashmir forest minister said the Border Roads Organisation did not alter the lake and that the pilgrim track is 200‑300 ft away from the water.",
-  "why": "Young people should verify online videos before sharing and stay aware of environmental issues in the region.",
-  "tags": [
-   "SheshnagLake",
-   "JammuKashmir",
-   "FactCheck"
-  ]
- },
- {
-  "id": "9e7178dde986",
-  "created": "2026-11-25T17:10:29+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-ethereum-and-usdt-trading-coming-to-russia-s-biggest-stock-exchange-crypto-adoption-crypto-regulations-btc-eth-tether-12375203",
-  "headline": "Crypto trading to launch on Russia’s top stock exchange",
-  "hook": "Digital coins like Bitcoin will soon be bought like stocks in Russia.",
-  "what": "Russia’s largest stock exchange will start offering trading for Bitcoin, Ethereum and USDT. The National Clearing Center will manage the clearing and settlement of these trades.",
-  "why": "It signals wider acceptance of crypto in mainstream markets and could lead to more global trading options. Young Indians should stay updated on crypto regulations and platform developments.",
-  "tags": [
-   "crypto",
-   "Russia",
-   "stockexchange",
-   "Bitcoin",
-   "youth"
-  ]
- },
- {
-  "id": "a33e803dfd19",
-  "created": "2026-11-25T17:10:32+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-certification-charging-details-model-numbers-leak-12375013",
-  "headline": "Samsung's S27 Ultra likely to keep 60W fast charging",
-  "hook": "Fast charging stays a key feature for Samsung's next flagship",
-  "what": "A recent certification leak suggests the upcoming Samsung Galaxy S27 Ultra will probably support 60W wired charging. The current Galaxy S26 Ultra already offers 60W fast charging.",
-  "why": "Keeping 60W means quicker battery refills, useful for heavy app usage and gaming. Teens can expect less downtime when the phone hits the market.",
-  "tags": [
-   "Samsung",
-   "FastCharging",
-   "GalaxyS27",
-   "TechNews"
-  ]
- },
- {
-  "id": "9bb052b5bf48",
-  "created": "2026-11-25T16:04:53+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
-  "headline": "Supreme Court overturns Allahabad HC order, adds Rahul Gandhi",
-  "hook": "Top court says Rahul Gandhi must join the DA complaint case.",
-  "what": "The Supreme Court set aside the Allahabad High Court order that blocked CBI and ED probes into a Delhi Assembly complaint against Rahul Gandhi. It also ordered that Gandhi be made a party to the ongoing High Court case.",
-  "why": "The ruling shows judicial oversight in political matters, reminding young Indians to stay informed about court decisions that can shape governance.",
-  "tags": [
-   "politics",
-   "court",
-   "RahulGandhi",
-   "India",
-   "youth"
-  ]
- },
- {
-  "id": "1cbce9e2fb4d",
-  "created": "2026-11-25T16:05:57+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand",
-  "headline": "Accused loses hand, shot outside Pune court",
-  "hook": "A brutal attack erupts right by a courtroom.",
-  "what": "A man named Mandar Maruti Kiwale had his hand cut off with a machete and was then shot outside a court in Pune. The incident took place near the court premises.",
-  "why": "Violence near public institutions raises safety concerns for young people. Stay aware of your surroundings and follow local safety guidance.",
-  "tags": [
-   "Pune",
-   "court",
-   "violence",
-   "crime"
   ]
  }
 ]

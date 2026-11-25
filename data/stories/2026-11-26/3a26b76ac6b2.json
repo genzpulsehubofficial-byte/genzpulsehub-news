@@ -1,0 +1,42 @@
+{
+ "id": "3a26b76ac6b2",
+ "created": "2026-11-26T01:10:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "US says India tariffs could drop to 17% with deal",
+  "hook": "A trade pact could slash US duties on Indian products.",
+  "what": "The U.S. Trade Representative announced that if a trade agreement is reached, the United States will cap the tariff on Indian imports at 17 percent. At present, the U.S. has imposed a 25 percent tariff on India, one of the highest among 14 countries under review.",
+  "why": "Lower tariffs could make US‑made goods cheaper for Indian buyers and boost Indian exports, affecting prices and job prospects. Keep an eye on trade news as it may influence market trends and career options.",
+  "tags": [
+   "USIndia",
+   "Tariffs",
+   "TradeDeal",
+   "Economy"
+  ]
+ },
+ "ml": {
+  "headline": "വാണിജ്യ കരാറിൽ ഇന്ത്യയുടെ യു.എസ്. ടാരിഫ് പതിനേഴു ശതമാനം വരെ",
+  "hook": "ഒരു കരാർ ഇന്ത്യയുടെ ഇറക്കുമതി ചെലവ് കുറയ്ക്കാൻ സഹായിക്കും.",
+  "what": "യു.എസ്. ട്രേഡ് പ്രതിനിധി പറഞ്ഞതുപ്രകാരം, ഒരു വ്യാപാര കരാർ പൂർത്തിയാകുന്നുവെങ്കിൽ, അമേരിക്കൻ സർക്കാർ ഇന്ത്യയിൽ നിന്നുള്ള ഇറക്കുമതിക്ക് പതിനേഴു ശതമാനം വരെ ടാരിഫ് മാത്രമേ ചുമത്തും. നിലവിൽ, യു.എസ്. ഇന്ത്യയ്ക്ക് ഇരുപത് അഞ്ചു ശതമാനം ടാരിഫ് ഏർപ്പെടുത്തിയിട്ടുണ്ട്, പതിനാലു രാജ്യങ്ങളിൽ രണ്ടാമത്തെ ഉയർന്ന നിരക്ക്.",
+  "why": "കുറഞ്ഞ ടാരിഫുകൾ ഇന്ത്യൻ ഉപഭോക്താക്കൾക്ക് അമേരിക്കൻ ഉൽപ്പന്നങ്ങളുടെ വില കുറയ്ക്കുകയും, ഇന്ത്യയുടെ കയറ്റുമതി വർധിപ്പിക്കുകയും ചെയ്യും. ഇതിലൂടെ തൊഴിൽ അവസരങ്ങളും വിലകളും ബാധിക്കപ്പെടും. വ്യാപാര വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "വാണിജ്യം",
+   "ടാരിഫ്",
+   "യു.എസ്",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഒരു കരാർ ഇന്ത്യയുടെ ഇറക്കുമതി ചെലവ് കുറയ്ക്കാൻ സഹായിക്കും. യു.എസ്. ട്രേഡ് പ്രതിനിധി പറഞ്ഞതുപ്രകാരം, ഒരു വ്യാപാര കരാർ പൂർത്തിയാകുന്നുവെങ്കിൽ, അമേരിക്കൻ സർക്കാർ ഇന്ത്യയിൽ നിന്നുള്ള ഇറക്കുമതിക്ക് പതിനേഴു ശതമാനം വരെ ടാരിഫ് മാത്രമേ ചുമത്തും. നിലവിൽ, യു.എസ്. ഇന്ത്യയ്ക്ക് ഇരുപത് അഞ്ചു ശതമാനം ടാരിഫ് ഏർപ്പെടുത്തിയിട്ടുണ്ട്, പതിനാലു രാജ്യങ്ങളിൽ രണ്ടാമത്തെ ഉയർന്ന നിരക്ക്. കുറഞ്ഞ ടാരിഫുകൾ ഇന്ത്യൻ ഉപഭോക്താക്കൾക്ക് അമേരിക്കൻ ഉൽപ്പന്നങ്ങളുടെ വില കുറയ്ക്കുകയും, ഇന്ത്യയുടെ കയറ്റുമതി വർധിപ്പിക്കുകയും ചെയ്യും. ഇതിലൂടെ തൊഴിൽ അവസരങ്ങളും വിലകളും ബാധിക്കപ്പെടും. വ്യാപാര വാർത്തകൾ ശ്രദ്ധിക്കുക.",
+  "tags_en": [
+   "USIndia",
+   "Tariffs",
+   "TradeDeal",
+   "Economy"
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "48cb92f412fb",
+ "created": "2026-11-26T01:19:29+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Careers360",
+ "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTVIZ1JDRU5hU1BpTmFRT3B6ckNkZlM5U1F5OGlCdEZPaGdPSDB4VTFLWjJBeTI1S0lzbFhuSE5fVjE3aDJDQ0gwa0JvZXpWdll0UzI5ejRoM0VPMUtRT3NvSHJza2x2Sk02M0QwQ01GRWhKZUZMdlk4eFRldFdvSmhaeGpxQ19nQVpKVG1mYl8wZ01hekh6STJkcFBEMGllOHhYTHlsMVFuQ21HYUxBMlVJTFdlNmNLdkg5a3ZCQTltRDJTWWY1TDBCR29JMnBaQ2hN0gHYAUFVX3lxTE9IS0VMZmh5WXdrd2dkbkx0cUpIZVFMSkdjYkpPTDlMdWI5TzRBS2dER1dVVEx1S3A3Z2NEU3NnTkFwdm8xNDE5Wl9CdEc2ZTlpbHhPc1d6WHZKSUJmYUlrazRNY2I2YnhNMkJzUEpOakxGbDZtU0hXVFlHaG43Mk9RTVVSY19qQnRGZnJoUG44YzF0LVRuVnFjS3RwcDdWWU1IckFySURtZGRQa2U3dDl6NTd5T0thakFfTkprZml6ZjNHOTFma1NRY3EzRmY3cE5LNkw1TTBoUg?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala CM rejects 1:25 teacher-student ratio, orders rank list review",
+  "hook": "Your future school seats might get re‑checked after this move.",
+  "what": "The Kerala chief minister said the state will not adopt a 1:25 teacher‑student ratio. She also announced the formation of a panel to examine the Public Service Commission’s rank lists.",
+  "why": "Students awaiting PSC results may see changes if the panel finds discrepancies. Stay updated on any revisions that could affect admissions or job eligibility.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "PSC",
+   "Students",
+   "Policy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളത്തിന്റെ പ്രധാനമന്ത്രി 1:25 അധ്യാപക-വിദ്യാർത്ഥി അനുപാതം നിരാകരിച്ചു; പിഎസിസി റാങ്ക് ലിസ്റ്റ് പരിശോധിക്കാൻ ഒരു പാനൽ രൂപീകരിച്ചു",
+  "hook": "നിങ്ങളുടെ സ്കൂൾ, ജോബ് സ്ഥാനങ്ങൾ വീണ്ടും പരിശോധിക്കണം",
+  "what": "കേരളത്തിന്റെ പ്രധാനമന്ത്രി 1:25 അധ്യാപക-വിദ്യാർത്ഥി അനുപാതം നിരാകരിച്ചു. കൂടാതെ, പിഎസിസി റാങ്ക് ലിസ്റ്റുകൾ പരിശോധിക്കാൻ ഒരു പാനൽ രൂപീകരിച്ചു.",
+  "why": "പിഎസിസി ഫലങ്ങൾക്കായി കാത്തിരിക്കുന്ന വിദ്യാർത്ഥികൾക്ക് ഈ പാനൽ മാറ്റങ്ങൾ കൊണ്ടുവരാൻ സാധ്യതയുണ്ട്. ഏതെങ്കിലും പുതുക്കലുകൾക്കായി അപ്ഡേറ്റ് ആയി ഇരിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "PSC",
+   "വിദ്യാർത്ഥികൾ",
+   "നയം"
+  ],
+  "say": "നിങ്ങളുടെ സ്കൂൾ, ജോബ് സ്ഥാനങ്ങൾ വീണ്ടും പരിശോധിക്കണം. കേരളത്തിന്റെ പ്രധാനമന്ത്രി ഒന്ന് ഇരുപത് അധ്യാപക-വിദ്യാർത്ഥി അനുപാതം നിരാകരിച്ചു. കൂടാതെ, പിഎസിസി റാങ്ക് ലിസ്റ്റുകൾ പരിശോധിക്കാൻ ഒരു പാനൽ രൂപീകരിച്ചു. പിഎസിസി ഫലങ്ങൾക്കായി കാത്തിരിക്കുന്ന വിദ്യാർത്ഥികൾക്ക് ഈ പാനൽ മാറ്റങ്ങൾ കൊണ്ടുവരാൻ സാധ്യതയുണ്ട്. ഏതെങ്കിലും പുതുക്കലുകൾക്കായി അപ്ഡേറ്റ് ആയി ഇരിക്കുക.",
+  "tags_en": [
+   "Kerala",
+   "Education",
+   "PSC",
+   "Students",
+   "Policy"
+  ]
+ }
+}

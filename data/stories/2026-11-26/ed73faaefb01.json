@@ -1,0 +1,45 @@
+{
+ "id": "ed73faaefb01",
+ "created": "2026-11-26T01:10:28+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/air-india-ai-express-to-operate-as-one-group-two-brands-heres-what-that-means-12377449#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Air India, AI Express to run as one group, two brands",
+  "hook": "Your next flight might be booked under a new combined brand",
+  "what": "Air India and its low‑cost arm AI Express will operate under a single corporate group while keeping separate brand identities. The Tata group, which bought Air India from the government, says the move will streamline operations.",
+  "why": "This could bring more flight choices and possibly lower fares for students traveling within India. Watch for updated ticket prices when you book.",
+  "tags": [
+   "airindia",
+   "AIExpress",
+   "travel",
+   "Tata",
+   "aviation"
+  ]
+ },
+ "ml": {
+  "headline": "Air India, AI Express ഒരു ഗ്രൂപ്പായി, രണ്ട് ബ്രാൻഡുകൾ",
+  "hook": "നിങ്ങളുടെ അടുത്ത യാത്രയ്ക്ക് പുതിയ സംയോജിത ബ്രാൻഡ്",
+  "what": "Air Indiaയും അതിന്റെ ലോ‑കോസ്റ്റ് സഹോദരിയായ AI Expressയും ഒരു ഗ്രൂപ്പായി പ്രവർത്തിക്കും, പക്ഷേ ബ്രാൻഡുകൾ വേർപിരിഞ്ഞതായിരിക്കും. സർക്കാർ കൈവശം വച്ചിരുന്ന Air India, Tata ഗ്രൂപ്പ് സ്വന്തമാക്കിയതോടെ ഈ മാറ്റം നടപ്പിലാക്കുന്നു.",
+  "why": "ഇത് വിദ്യാർത്ഥികൾക്ക് കൂടുതൽ ഫ്ലൈറ്റ് ഓപ്ഷനുകളും വിലക്കുറവുകളും നൽകാൻ സാധ്യതയുണ്ട്. ബുക്കിംഗ് ചെയ്യുമ്പോൾ പുതിയ നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "airindia",
+   "AIExpress",
+   "travel",
+   "Tata",
+   "aviation"
+  ],
+  "say": "നിങ്ങളുടെ അടുത്ത യാത്രയ്ക്ക് പുതിയ സംയോജിത ബ്രാൻഡ്. എയർ ഇന്ത്യയും അതിന്റെ ലോ‑കോസ്റ്റ് സഹോദരിയായ എഐ എക്സ്‌പ്രസ്‌യും ഒരു ഗ്രൂപ്പായി പ്രവർത്തിക്കും, പക്ഷേ ബ്രാൻഡുകൾ വേർപിരിഞ്ഞതായിരിക്കും. സർക്കാർ കൈവശം വച്ചിരുന്ന എയർ ഇന്ത്യ, ടാറ്റ ഗ്രൂപ്പ് സ്വന്തമാക്കിയതോടെ ഈ മാറ്റം നടപ്പിലാക്കുന്നു. ഇത് വിദ്യാർത്ഥികൾക്ക് കൂടുതൽ ഫ്ലൈറ്റ് ഓപ്ഷനുകളും വിലക്കുറവുകളും നൽകാൻ സാധ്യതയുണ്ട്. ബുക്കിംഗ് ചെയ്യുമ്പോൾ പുതിയ നിരക്കുകൾ പരിശോധിക്കുക.",
+  "tags_en": [
+   "airindia",
+   "AIExpress",
+   "travel",
+   "Tata",
+   "aviation"
+  ]
+ }
+}

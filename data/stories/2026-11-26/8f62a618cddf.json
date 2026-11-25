@@ -1,0 +1,42 @@
+{
+ "id": "8f62a618cddf",
+ "created": "2026-11-26T01:10:34+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "1Password breach: employee account accessed, passwords remain secure",
+  "hook": "Your saved passwords are still safe despite the hack.",
+  "what": "A cyber intruder entered a staff member’s corporate login at 1Password and retrieved some user‑related data. The firm says the incident did not expose the actual vault passwords.",
+  "why": "Because the core encryption stayed intact, teens can keep using the manager without worry. Strengthen your master password and turn on two‑factor authentication.",
+  "tags": [
+   "cybersecurity",
+   "passwordmanager",
+   "databreach",
+   "technews"
+  ]
+ },
+ "ml": {
+  "headline": "1Password-ലെ ഡാറ്റ ലംഘനം: ജീവനക്കാരുടെ അക്കൗണ്ട് തട്ടപ്പെട്ടു, പാസ്‌വേഡുകൾ സുരക്ഷിതം",
+  "hook": "ഹാക്ക് സംഭവിച്ചിട്ടും നിങ്ങളുടെ സേവ് ചെയ്ത പാസ്‌വേഡുകൾ സുരക്ഷിതമാണ്.",
+  "what": "ഒരു സൈബർ ആക്രമി വൺപാസ്വേഡ് ജീവനക്കാരുടെ കോർപ്പറേറ്റ് ലോഗിൻ ഉപയോഗിച്ച് ചില ഉപയോക്തൃ വിവരങ്ങൾ കൈപ്പറ്റി. കമ്പനിയുടെ പ്രസ്താവന പ്രകാരം, വോൾട്ടിലെ യഥാർത്ഥ പാസ്‌വേഡുകൾ പുറത്തുവന്നിട്ടില്ല.",
+  "why": "വോൾട്ടിന്റെ എൻക്രിപ്ഷൻ ബാധിക്കാത്തതിനാൽ, യുവാക്കൾക്ക് ആപ്പ് ഉപയോഗിക്കാൻ സുരക്ഷിതം. നിങ്ങളുടെ മാസ്റ്റർ പാസ്‌വേഡ് ശക്തമാക്കുകയും ടു‌എഫ്‌എ സജ്ജമാക്കുകയും ചെയ്യുക.",
+  "tags": [
+   "cybersecurity",
+   "passwordmanager",
+   "databreach",
+   "technews"
+  ],
+  "say": "ഹാക്ക് സംഭവിച്ചിട്ടും നിങ്ങളുടെ സേവ് ചെയ്ത പാസ്‌വേഡുകൾ സുരക്ഷിതമാണ്. ഒരു സൈബർ ആക്രമി വൺപാസ്വേഡ് ജീവനക്കാരുടെ കോർപ്പറേറ്റ് ലോഗിൻ ഉപയോഗിച്ച് ചില ഉപയോക്തൃ വിവരങ്ങൾ കൈപ്പറ്റി. കമ്പനിയുടെ പ്രസ്താവന പ്രകാരം, വോൾട്ടിലെ യഥാർത്ഥ പാസ്‌വേഡുകൾ പുറത്തുവന്നിട്ടില്ല. വോൾട്ടിന്റെ എൻക്രിപ്ഷൻ ബാധിക്കാത്തതിനാൽ, യുവാക്കൾക്ക് ആപ്പ് ഉപയോഗിക്കാൻ സുരക്ഷിതം. നിങ്ങളുടെ മാസ്റ്റർ പാസ്‌വേഡ് ശക്തമാക്കുകയും ടു‌എഫ്‌എ സജ്ജമാക്കുകയും ചെയ്യുക.",
+  "tags_en": [
+   "cybersecurity",
+   "passwordmanager",
+   "databreach",
+   "technews"
+  ]
+ }
+}
