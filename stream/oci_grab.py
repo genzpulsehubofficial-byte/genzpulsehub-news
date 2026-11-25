@@ -44,5 +44,6 @@ for ocpu, mem in ((4, 24), (2, 12)):
             discord(f"✅ Oracle free server created ({ocpu} CPU / {mem} GB). It installs itself in ~10 min. Next: add stream keys.")
             sys.exit(0)
         except oci.exceptions.ServiceError as e:
+            import time; time.sleep(15)
             print(ocpu, ad.name, e.status, e.code, str(e.message)[:120])
 print("no capacity yet; will retry")

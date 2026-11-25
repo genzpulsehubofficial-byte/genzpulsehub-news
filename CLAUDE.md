@@ -65,6 +65,8 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 
 - 2026-11-25: Ad email sender live (mailer.yml every 30 min, Gmail SMTP as genzpulsehub.official@gmail.com, secret GMAIL_APP_PASSWORD). Stream engine + Oracle scripts in stream/ (run oci_create.sh, then set_keys.sh in Oracle Cloud Shell; status.sh for health).
 
+- 2026-11-25: Mumbai free ARM capacity full. GitHub workflow `oracle-server` (oci-grab.yml) retries every 10 min with secret OCI_CONFIG (API key rotated after accidental chat paste), pings Discord when created. Then run stream/set_keys.sh in Cloud Shell for stream keys.
+
 ## For a future Claude session (start here)
 The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
 - Repo is the single source of truth. Read this file, then `git log -20`.
