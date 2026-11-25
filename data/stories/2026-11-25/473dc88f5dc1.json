@@ -1,0 +1,37 @@
+{
+ "id": "473dc88f5dc1",
+ "created": "2026-11-25T08:38:58+05:30",
+ "category": "money",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-christmas-new-year-bumper-launch-on-november-26-rs-25-crore-first-prize-and--766992-winners-c2bgje7c",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala's Christmas‑New Year Bumper lottery starts Nov 26",
+  "hook": "Win big this season with a ₹25 crore jackpot!",
+  "what": "The Kerala government announced the launch of the Christmas‑New Year Bumper lottery on November 26. The top prize is ₹25 crore and there are 7,66,992 prizes in total. Tickets cost ₹450, sales begin on November 28 and the draw will be held on February 1, 2027.",
+  "why": "A huge jackpot can attract many teens looking for a quick cash boost. If interested, tickets can be bought after November 28 at authorized outlets.",
+  "tags": [
+   "lottery",
+   "kerala",
+   "jackpot",
+   "teenfinance",
+   "holiday"
+  ]
+ },
+ "ml": {
+  "headline": "Kerala-യിലേ Christmas‑New Year Bumper ലോട്ടറി നവം 26-ന് ആരംഭം",
+  "hook": "₹25 കോടി ജാക്ക്പോട്ട്, നിങ്ങളുടെ അവസരം!",
+  "what": "Kerala സർക്കാർ 26 നവംബർ ക്രിസ്മസ്‑ന്യൂ ഇയർ ബമ്പർ ലോട്ടറി ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചു. ആദ്യ സമ്മാനം ₹25 കോടി, മൊത്തം 7,66,992 സമ്മാനങ്ങൾ. ടിക്കറ്റ് വില ₹450, വിറ്റഴിക്കൽ 28 നവംബർ മുതൽ, ഡ്രോ ഫെബ്രുവരി 1, 2027.",
+  "why": "വലിയ സമ്മാനമുണ്ടെന്നതുകൊണ്ട് യുവാക്കൾക്ക് താൽപ്പര്യം ഉണ്ടാകാം. താൽപ്പര്യമുണ്ടെങ്കിൽ, 28 നവംബർ മുതൽ അംഗീകൃത സ്റ്റോറുകളിൽ ടിക്കറ്റ് വാങ്ങാം.",
+  "tags": [
+   "lottery",
+   "kerala",
+   "jackpot",
+   "teenfinance",
+   "holiday"
+  ]
+ }
+}

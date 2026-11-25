@@ -1,0 +1,37 @@
+{
+ "id": "df7757b89c47",
+ "created": "2026-11-25T08:38:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/rbi-retains-sbi-hdfc-bank-icici-bank-as-systemically-important-banks-whats-definition-why-it-matters-for-your-money-11795570676444.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RBI keeps SBI, HDFC, ICICI as key banks for 2026",
+  "hook": "Your savings stay safe as top banks stay under extra watch",
+  "what": "The Reserve Bank of India confirmed that State Bank of India, HDFC Bank and ICICI Bank will continue to be classified as systemically important banks for 2026. This status requires them to hold additional capital buffers.",
+  "why": "The extra capital is meant to protect depositors, so your money remains secure. No immediate action is needed; just know your main banks are under stricter oversight.",
+  "tags": [
+   "finance",
+   "banking",
+   "RBI",
+   "deposits",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "RBI SBI, HDFC, ICICI നെ 2026‑ലെ പ്രധാന ബാങ്കുകളായി നിലനിർത്തി",
+  "hook": "നിങ്ങളുടെ സംരക്ഷണം സുരക്ഷിതം, പ്രധാന ബാങ്കുകൾക്ക് അധിക മേൽനോട്ടം",
+  "what": "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ പ്രഖ്യാപിച്ചു, സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ, HDFC ബാങ്ക്, ICICI ബാങ്ക് 2026‑ൽ സിസ്റ്റമിക് ഇംപോർട്ടന്റ് ബാങ്കുകളായി തുടരുന്നു. ഈ നിലപാട് അവരെ അധിക മൂലധനം സൂക്ഷിക്കാൻ നിർബന്ധിതമാക്കുന്നു.",
+  "why": "അധിക മൂലധനം നിക്ഷേപകരുടെ പണം സംരക്ഷിക്കാൻ സഹായിക്കുന്നു, അതിനാൽ നിങ്ങളുടെ ഡെപ്പോസിറ്റ് സുരക്ഷിതം. പ്രത്യേകമായി എന്തെങ്കിലും ചെയ്യേണ്ടതില്ല, നിങ്ങളുടെ പ്രധാന ബാങ്കുകൾ കർശന നിരീക്ഷണത്തിൽ ആണ്.",
+  "tags": [
+   "finance",
+   "banking",
+   "RBI",
+   "deposits",
+   "youth"
+  ]
+ }
+}

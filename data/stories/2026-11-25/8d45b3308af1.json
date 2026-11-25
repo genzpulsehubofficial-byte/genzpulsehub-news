@@ -1,0 +1,37 @@
+{
+ "id": "8d45b3308af1",
+ "created": "2026-11-25T08:39:00+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "MARCA",
+ "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUZYcnpHa20zd3MxVVhEeXFWZkFEOGZsczJheFBvai15aXhsUGxjOGVQRWx0dEtIZE83VHJ1c2hlN0xGZlNwZkhxcFhIbzlVWDFpbjAtX0Y5SEhSY2U5U1d1MW5JN3IwMXhCSHp3MjlrOTZ6VkpiNmwyQi1jMDBRNEVDZWJTc0x0MXMzMEItQ2syYVFiTHFZ0gGXAUFVX3lxTE85MTJKUFRGUFpxRXZTYmFZMlllQnllRmNNbnpEWE01a0lUSk96bm9yTnNsS2RnSzJlcUFoMUxhcHpoLUhqdlc1eVVjdHpiWUV5V1VCWmJNRTR5SmtVTzZQa0V3eV9xektlVkdIRUFtNGlILXZQOGY1Zm83SURWRmc5blMtVDBGQW1zc3pjM0ROU29VendmNTQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Miss Universe 2026 announces its Top 12 contestants",
+  "hook": "The biggest global beauty showdown just named its finalists.",
+  "what": "The Miss Universe 2026 pageant has released the list of its twelve finalists. The event is being broadcast live with streaming options and TV coverage. Viewers can follow the upcoming grand finale and awards ceremony.",
+  "why": "Fans of fashion and pop culture can tune in to see who might become the next global icon, and Indian teens can join the conversation on social media.",
+  "tags": [
+   "MissUniverse",
+   "beautypageant",
+   "finalists",
+   "live",
+   "popculture"
+  ]
+ },
+ "ml": {
+  "headline": "Miss Universe 2026-ന്‍റെ Top 12 മത്സരാര്‍ത്ഥികള്‍ പ്രഖ്യാപിച്ചു",
+  "hook": "ലോകത്തെ ഏറ്റവും വലിയ സൗന്ദര്യ മത്സരം finalist-മാരെ വെളിപ്പെടുത്തി.",
+  "what": "Miss Universe 2026-ന്‍റെ Top 12 finalist-മാര്‍ പ്രഖ്യാപിച്ചു. ഇവര്‍ ലൈവ് സ്ട്രീം, ടെലിവിഷന്‍ ചാനലുകള്‍ വഴി കാണാന്‍ സാധിക്കും. അടുത്ത ഗ്രാന്‍ഡ് ഫൈനലും അവാര്‍ഡുകളും ഉടന്‍ വരുന്നു.",
+  "why": "ഫാഷന്‍യും പോപ്‌കള്‍ച്ചറിലും താല്‍പര്യമുള്ള യുവാക്കള്‍ക്ക് ഈ ഇവന്റ് കാണാന്‍ അവസരം, ഇന്ത്യയിലെ ടെന്‍റുകള്‍ക്ക് സോഷ്യല്‍ മീഡിയയില്‍ ചർച്ചയില്‍ ചേര്‍ന്നു പങ്കിടാം.",
+  "tags": [
+   "MissUniverse",
+   "beauty",
+   "finalists",
+   "live",
+   "popculture"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "cfb494c29f83",
+ "created": "2026-11-25T08:38:51+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/2-indians-among-11-injured-as-houthis-target-tower-in-saudis-finance-district-king-abdullah-financial-12372517#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Houthis strike Saudi finance tower, injuring two Indians",
+  "hook": "A missile hit a skyscraper in Riyadh, leaving 11 people hurt",
+  "what": "A Houthi attack hit a tower in Saudi Arabia’s financial district, causing injuries. Eleven people were wounded, including two Indians, two Saudis, three Nepalese and four Egyptians.",
+  "why": "The incident shows that regional conflicts can affect Indians abroad; travelers should stay alert to security advisories.",
+  "tags": [
+   "Houthis",
+   "SaudiAttack",
+   "IndiaAbroad",
+   "MiddleEast",
+   "TravelSafety"
+  ]
+ },
+ "ml": {
+  "headline": "ഹൂത്തികൾ സൌദി ഫിനാൻസ് ടവറിനെ ലക്ഷ്യമാക്കി, രണ്ട് ഇന്ത്യൻ പരിക്കേറ്റു",
+  "hook": "റിയാദ് നഗരത്തിലെ ഒരു ആകാശമിനി ആക്രമണത്തിൽ 11 പേർക്ക് പരിക്ക്",
+  "what": "ഹൂത്തികളുടെ ഒരു ആക്രമണം സൌദിയുടെ ധനകാര്യ കേന്ദ്രത്തിലെ ഒരു ടവറിനെ തകർത്തു, 11 പേർക്ക് പരിക്ക് സംഭവിച്ചു. പരിക്കേറ്റവരിൽ രണ്ട് ഇന്ത്യൻ, രണ്ട് സൌദി, മൂന്ന് നേപ്പാളി, നാല് ഈജിപ്ഷ്യൻ ഉൾപ്പെടുന്നു.",
+  "why": "ഇന്ത്യക്കാർ വിദേശത്ത് സുരക്ഷാ അപകടങ്ങൾ നേരിടാൻ സാധ്യതയുണ്ട്; യാത്രാ സുരക്ഷാ നിർദ്ദേശങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Houthis",
+   "SaudiAttack",
+   "IndiaAbroad",
+   "MiddleEast",
+   "TravelSafety"
+  ]
+ }
+}

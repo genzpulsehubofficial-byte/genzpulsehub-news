@@ -1,0 +1,37 @@
+{
+ "id": "7467951d2050",
+ "created": "2026-11-25T08:38:43+05:30",
+ "category": "entertainment",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/lifestyle/miss-universe-2026-kaziah-liz-mejo-india-top-30-r5nd6xph",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala's Kaziah Liz Mejo reaches Miss Universe Top 30",
+  "hook": "India's new Miss Universe champ breaks state record and aims higher.",
+  "what": "Nineteen‑year‑old Kaziah Liz Mejo, the first Miss Universe India winner from Kerala, has advanced to the Top 30 of the Miss Universe 2026 competition. Her progress keeps India's chances of clinching the crown alive.",
+  "why": "Her achievement highlights Kerala's growing presence in national pageants and inspires young aspirants to chase big dreams.",
+  "tags": [
+   "MissUniverse",
+   "Kerala",
+   "Kaziah",
+   "India",
+   "Pageant"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളത്തിന്റെ കസിയാഹ് ലിസ് മെജോ മിസ് യൂണിവേഴ്സ് ടോപ്പ് 30‑ൽ",
+  "hook": "ഇന്ത്യയുടെ പുതിയ മിസ് യൂണിവേഴ്സ് ചാമ്പ്യൻ സംസ്ഥാന റെക്കോർഡ് തകർത്തു, ഉയർന്ന ലക്ഷ്യങ്ങളിലേക്ക്.",
+  "what": "19 വയസ്സുള്ള കസിയാഹ് ലിസ് മെജോ, കേരളത്തിൽ നിന്ന് മിസ് യൂണിവേഴ്സ് ഇന്ത്യയുടെ ആദ്യ ജേതാവായി, മിസ് യൂണിവേഴ്സ് 2026 മത്സരത്തിൽ ടോപ്പ് 30‑ലേക്ക് കടന്നു. ഇതോടെ ഇന്ത്യയുടെ കിരീടം നേടാനുള്ള സാധ്യതകൾ നിലനിർത്തുന്നു.",
+  "why": "ഇത് കേരളത്തിന്റെ ദേശീയ സൗന്ദര്യ മത്സരങ്ങളിലെ ഉയർച്ചയെ സൂചിപ്പിക്കുന്നു, യുവാക്കൾക്ക് വലിയ സ്വപ്നങ്ങൾ പിന്തുടരാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "മിസ് യൂണിവേഴ്സ്",
+   "കേരളം",
+   "കസിയാഹ്",
+   "ഇന്ത്യ",
+   "പേജന്റ്"
+  ]
+ }
+}
