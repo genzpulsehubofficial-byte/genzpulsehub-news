@@ -1,0 +1,17 @@
+name: oracle-server
+on:
+  schedule: [{cron: "*/10 * * * *"}]
+  workflow_dispatch:
+concurrency: oci-grab
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Try to get the free server
+        env:
+          OCI_CONFIG: ${{ secrets.OCI_CONFIG }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          [ -z "$OCI_CONFIG" ] && { echo "OCI_CONFIG not set yet"; exit 0; }
+          pip install -q oci && python stream/oci_grab.py
