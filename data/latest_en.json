@@ -1,5 +1,118 @@
 [
  {
+  "id": "fac9ae6252d4",
+  "created": "2026-11-25T14:59:10+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand",
+  "headline": "CJP member Saurav Das seeks urgent court hearing after UK travel ban",
+  "hook": "Blocked from flying abroad, he’s now fighting it in court.",
+  "what": "CJP activist Saurav Das was prevented from boarding a flight to the United Kingdom. His lawyer has asked the court for an urgent hearing on the matter.",
+  "why": "Travel restrictions can affect study or work plans abroad, so staying informed about legal recourse is important.",
+  "tags": [
+   "travel",
+   "court",
+   "UK",
+   "legal",
+   "news"
+  ]
+ },
+ {
+  "id": "db680888c984",
+  "created": "2026-11-25T15:00:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/not-today-supreme-court-denies-interim-bail-to-sharjeel-imam-umar-khalid-delhi-riots-2020-case-12373916#publisher=newsstand",
+  "headline": "Supreme Court Refuses Interim Bail for Sharjeel Imam, Umar Khalid",
+  "hook": "Two high‑profile activists stay behind bars as the court hears the police.",
+  "what": "The Supreme Court rejected the request for interim bail by Sharjeel Imam and Umar Khalid. The court said it will first hear the police’s arguments before deciding on the bail petition.",
+  "why": "The decision shows that legal processes can be lengthy for political cases, reminding youths to stay informed about civic rights and court proceedings.",
+  "tags": [
+   "SupremeCourt",
+   "InterimBail",
+   "Activism",
+   "LegalNews"
+  ]
+ },
+ {
+  "id": "c36c1272f447",
+  "created": "2026-11-25T15:00:16+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Telegraph India",
+  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakZlbVBKcFdpWmMwNmxWaEdSNVBId29SdUtXaG83RDVaVW81R3dOSDY2bl96RjdFRTh3N0RHWWFLX2MzSUVfMVBqemhNdkRmR3I5Y3V0TUFYM3FsczZibVdjVTJMallwaW5NN2lYZ1NkRGxOaVhseFRwU05xcDFxMUhpTzRnbExuZlhMWXFJbXEyMmlQRUVuaVZVOFUyZF80alZJMks4ZFhKSmszUDNUZ1lZNzhUZEpFUUhVaTlLWUZkVW1NTXV1SEhpMjZLc0hUTjBiX2Fn0gHbAUFVX3lxTE9EZlI4MVJtMjdPWG9hLW1JcHBkbmQ1QV9kNU90UTluZFhKNE8tRml5TEk0U3g1S2d5TWJINXBpVkk3dHJZS1Jld3pIU0NERU4wc19HckVnMjlmSFhmdTlYRFlITkMyUkt2dEF4eGh6Qnc4QXJfVGYyeUxxOXh2ajgzQ0E1VzlaRVJwWXU0cG9KTWh1aEZLUGEteTNTSy0tTWQxY1VnWW9COUtpUEl6NFdQdjg2RllNNnV1dGQ5MGdrNERkWGNITzZmOTl3Qi0xVFlLeURRSkZlOXJ5TQ?oc=5",
+  "headline": "Kerala sets panel to review PSC rank lists with no openings",
+  "hook": "Job seekers, check if your rank might get a chance soon",
+  "what": "The state government announced a committee to examine the Public Service Commission's rank lists for posts that currently have no vacancies. The panel will assess the situation and recommend actions.",
+  "why": "This could affect upcoming recruitment and may open opportunities for young aspirants. Keep an eye on official updates.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "jobs",
+   "panel",
+   "vacancies"
+  ]
+ },
+ {
+  "id": "f97b45b3f869",
+  "created": "2026-11-25T15:00:19+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/foxconn-india-unit-faces-insolvency-plea-over-%e2%82%b9143-cr-in-alleged-dues/",
+  "headline": "Foxconn India unit hit with ₹143 crore insolvency petition",
+  "hook": "Your favorite iPhone maker’s Indian arm is in legal trouble.",
+  "what": "Foxconn’s Indian subsidiary, which assembles iPhones, has been served with an insolvency petition. The petition was filed by BCD Emprasa LLP, claiming the company owes about ₹143 crore.",
+  "why": "The case could affect iPhone production in India and jobs linked to the supply chain. Keep an eye on updates if you rely on Apple products or work in related sectors.",
+  "tags": [
+   "Foxconn",
+   "Insolvency",
+   "India",
+   "Tech",
+   "Jobs"
+  ]
+ },
+ {
+  "id": "95f35976d6f2",
+  "created": "2026-11-25T15:00:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/internet/news/microsoft-code-red-after-outlook-outage-internal-memo-12374487",
+  "headline": "Microsoft flags massive Exchange Online outage as Code Red",
+  "hook": "A rare ‘Code Red’ alert hits the email service millions use.",
+  "what": "Microsoft announced a ‘Code Red’ after an Exchange Online outage. Internal memos say it was the most customer‑impacting incident ever for the service. The disruption affected many users.",
+  "why": "For teens relying on school or work email, this shows how even big platforms can falter, so keep backups and alternative communication ready.",
+  "tags": [
+   "Microsoft",
+   "ExchangeOnline",
+   "Outage",
+   "CodeRed",
+   "Tech"
+  ]
+ },
+ {
+  "id": "7ac6b7918ca4",
+  "created": "2026-11-25T15:00:23+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/stock-market-rally-why-investors-should-rebalance-portfolios-11795585619182.html",
+  "headline": "Market bounce invites fresh portfolio balance",
+  "hook": "Your investments need a check‑up, not a chase",
+  "what": "Equities have begun climbing again after two years of swings, while gold has surged sharply. This combination offers a chance to tweak holdings and examine any over‑concentration.",
+  "why": "Rebalancing now can shield you from future shocks and keep you from betting on short‑term winners. Young investors should review their asset mix.",
+  "tags": [
+   "investing",
+   "portfolio",
+   "gold",
+   "equities",
+   "rebalance"
+  ]
+ },
+ {
   "id": "086fa706efdf",
   "created": "2026-11-25T13:42:04+05:30",
   "category": "headlines",
@@ -640,118 +753,6 @@
    "crash",
    "military",
    "news"
-  ]
- },
- {
-  "id": "9a0e5afa3161",
-  "created": "2026-11-25T05:13:24+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Indian Express",
-  "source_url": "https://indianexpress.com/article/india/family-of-ailing-navy-veteran-jailed-in-qatar-seeks-indian-missions-help-for-his-release-10977118/",
-  "headline": "Navy veteran in Qatar prison, family asks Indian embassy for help",
-  "hook": "A sick ex‑serviceman stuck overseas is pleading for India's help.",
-  "what": "A former Indian Navy personnel, who is ill, is currently incarcerated in Qatar. His relatives have approached the Indian diplomatic mission, requesting assistance to secure his release.",
-  "why": "The case highlights challenges faced by Indians abroad and the role of embassies in consular support. Families in similar situations should know they can seek help from Indian missions.",
-  "tags": [
-   "Navy",
-   "Qatar",
-   "ConsularHelp",
-   "IndiaAbroad",
-   "Veteran"
-  ]
- },
- {
-  "id": "898838d52c4f",
-  "created": "2026-11-25T05:13:35+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Mashable",
-  "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VTc3ZHQtR2xucW9IU0RZNmRsYVVMWUViamJ5Xzh4R3FJc1ZHc1V1STRLeDk1aEJfQ25TbTk1bTk5OVRpU21xSF9hNjNjQTdJNEd5d1pYXy1NU2s5TlhWLTEyOENSa0hPRHBMcVpZOWViY3dRejhjSQ?oc=5",
-  "headline": "Rockstar shuts down illegal GTA 6 PC port",
-  "hook": "Your favorite GTA 6 fan‑made PC copy just vanished",
-  "what": "Rockstar Games removed an unauthorized PC version of the upcoming GTA 6 called “Leonida.” Hackers had created the unofficial recompilation even though the game has no official PC release date.",
-  "why": "It shows pirated game builds can be quickly taken down, so avoid unverified downloads and wait for the official launch.",
-  "tags": [
-   "GTA6",
-   "Rockstar",
-   "gaming",
-   "PC",
-   "piracy"
-  ]
- },
- {
-  "id": "cf9b308e161c",
-  "created": "2026-11-25T05:13:37+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/unclassified-cia-system-breached-in-cyberattack-report-12372775#publisher=newsstand",
-  "headline": "CIA unclassified system hit by cyberattack",
-  "hook": "A breach hit a CIA system, but details remain unknown.",
-  "what": "A cyberattack compromised an unclassified CIA system. Authorities have not disclosed what data was accessed or who carried out the attack.",
-  "why": "Understanding such breaches helps young users stay aware of online security risks. Keep software updated and use strong passwords.",
-  "tags": [
-   "cyberattack",
-   "CIA",
-   "security",
-   "tech"
-  ]
- },
- {
-  "id": "bfbc28af353a",
-  "created": "2026-11-25T05:13:39+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Deadline",
-  "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWcyUjFNNndhcWF0ZzF4VzBkMnkyc05aOEZNdHlORWFZVXFkVURCakJ3dWx2UF9SaVh6WmFvRVlfa1dZMFpKdkd4Yk8zUmdob1RIZDBNTlJmdnNISEV2WlU0aUhGSDhEaHNUN2NwN2dNTTBqb1FzMUI2UzBaUk52N2RpU2w3NUhPSlNVaTJ1U3RYdVRJN2pQQzU2RnBoYTRGd1BnYg?oc=5",
-  "headline": "Big Black Friday Cuts on Top Streaming Services",
-  "hook": "Grab massive discounts and binge your favorite shows now!",
-  "what": "Disney+, HBO Max, Paramount+, Peacock and other platforms are rolling out Black Friday offers. HBO Max is slashing its annual subscription by 50%, while Amazon discounts six months of Apple TV by nearly $50. Paramount+ provides up to 75% off, especially appealing to music lovers.",
-  "why": "These deals let Indian teens save money while catching up on popular series like Traitors, Tulsa King, Yellowjackets and Hallmark movies. Check the platforms’ websites to claim the offers before they expire.",
-  "tags": [
-   "streaming",
-   "blackfriday",
-   "discounts",
-   "binge",
-   "teen"
-  ]
- },
- {
-  "id": "3de30dcba0b4",
-  "created": "2026-11-25T05:13:42+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2s4LUxNNWxNVmF5clFXMEh0QWhfaDFkbG9sbVN2bFlETDVsb0FXRUNRTEtEcnRpTFpHb3FvMmc0cXFmejdDazFLcFRwQS1TTjEyeDhoV1RCbEthd1pEamo2SHpvcEhUUndWVjJCMENTOXRXbkZqbXU0UDY2Mkh0Y2lIQk4xMGxyNkNfRFVB?oc=5",
-  "headline": "Aakasamlo Oka Tara Holds Steady on Day 5",
-  "hook": "The Dulquer‑led Telugu drama keeps the buzz alive.",
-  "what": "The film posted its fifth‑day earnings after a 44% dip on day four, when it made Rs 3.20 crore on Monday. It also outperformed ‘Sita Ramam’ in several markets on Sunday.",
-  "why": "For Gen‑Z movie‑goers, the numbers show Dulquer’s growing pull in Telugu cinema and hint at a good weekend watch.",
-  "tags": [
-   "Dulquer",
-   "TeluguFilm",
-   "BoxOffice",
-   "AakasamloOkaTara"
-  ]
- },
- {
-  "id": "1d643bc5bef2",
-  "created": "2026-11-25T05:13:44+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Nature",
-  "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWllBOW1TM3FIazFnVlhqWGFjZXFiOGp3dHMtYlNlV2dONTlENmZDaERYSzhFalRUdjFROE9DTlNzZmMxSGJJbDYyUVUzc0otRnNrTVR3dmpCTE1NdWhz?oc=5",
-  "headline": "Brain study finds PTSD leaves unique molecular marks",
-  "hook": "Your brain may carry a chemical scar after trauma.",
-  "what": "Scientists examined 302 human brains and discovered distinct chemical and epigenetic patterns linked to post‑traumatic stress disorder. The signatures appeared in multiple brain regions and were different from those associated with major depressive disorder.",
-  "why": "Knowing these molecular clues could guide the creation of personalized PTSD treatments, offering hope for young people dealing with trauma.",
-  "tags": [
-   "PTSD",
-   "brain",
-   "research",
-   "health",
-   "science"
   ]
  }
 ]

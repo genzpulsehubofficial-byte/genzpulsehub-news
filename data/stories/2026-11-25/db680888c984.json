@@ -1,0 +1,35 @@
+{
+ "id": "db680888c984",
+ "created": "2026-11-25T15:00:14+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/not-today-supreme-court-denies-interim-bail-to-sharjeel-imam-umar-khalid-delhi-riots-2020-case-12373916#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court Refuses Interim Bail for Sharjeel Imam, Umar Khalid",
+  "hook": "Two high‑profile activists stay behind bars as the court hears the police.",
+  "what": "The Supreme Court rejected the request for interim bail by Sharjeel Imam and Umar Khalid. The court said it will first hear the police’s arguments before deciding on the bail petition.",
+  "why": "The decision shows that legal processes can be lengthy for political cases, reminding youths to stay informed about civic rights and court proceedings.",
+  "tags": [
+   "SupremeCourt",
+   "InterimBail",
+   "Activism",
+   "LegalNews"
+  ]
+ },
+ "ml": {
+  "headline": "സൂപ്പ്രീം കോടതി ഷർജീൽ ഇമാമിനും ഉമർ ഖാലിദിനും ഇടക്കാല ജാമ്യം നിഷേധിച്ചു",
+  "hook": "രാഷ്ട്രീയ പ്രവർത്തകരുടെ ജാമ്യം നിരസിക്കപ്പെട്ടപ്പോൾ, കോടതിയിൽ പോലീസ് വാദം കേൾക്കാൻ സമയം എടുത്തു.",
+  "what": "സൂപ്പ്രീം കോടതി ഷർജീൽ ഇമാമും ഉമർ ഖാലിദും ഇടക്കാല ജാമ്യം നൽകാൻ അപേക്ഷിച്ചതു നിരസിച്ചു. ജാമ്യം സംബന്ധിച്ച തീരുമാനം എടുക്കുന്നതിന് മുമ്പ്, പോലീസ് വാദം കേൾക്കുമെന്ന് കോടതി അറിയിച്ചു.",
+  "why": "ഇത് രാഷ്ട്രീയ കേസുകളിൽ നിയമപ്രക്രിയകൾ ദീർഘമാകാമെന്ന് കാണിക്കുന്നു, യുവാക്കൾക്ക് അവരുടെ നിയമ അവകാശങ്ങളും കോടതി നടപടികളും ശ്രദ്ധിക്കേണ്ടതുണ്ട്.",
+  "tags": [
+   "SupremeCourt",
+   "InterimBail",
+   "Activism",
+   "LegalNews"
+  ]
+ }
+}

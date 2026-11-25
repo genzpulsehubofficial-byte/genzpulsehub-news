@@ -1,0 +1,37 @@
+{
+ "id": "c36c1272f447",
+ "created": "2026-11-25T15:00:16+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Telegraph India",
+ "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakZlbVBKcFdpWmMwNmxWaEdSNVBId29SdUtXaG83RDVaVW81R3dOSDY2bl96RjdFRTh3N0RHWWFLX2MzSUVfMVBqemhNdkRmR3I5Y3V0TUFYM3FsczZibVdjVTJMallwaW5NN2lYZ1NkRGxOaVhseFRwU05xcDFxMUhpTzRnbExuZlhMWXFJbXEyMmlQRUVuaVZVOFUyZF80alZJMks4ZFhKSmszUDNUZ1lZNzhUZEpFUUhVaTlLWUZkVW1NTXV1SEhpMjZLc0hUTjBiX2Fn0gHbAUFVX3lxTE9EZlI4MVJtMjdPWG9hLW1JcHBkbmQ1QV9kNU90UTluZFhKNE8tRml5TEk0U3g1S2d5TWJINXBpVkk3dHJZS1Jld3pIU0NERU4wc19HckVnMjlmSFhmdTlYRFlITkMyUkt2dEF4eGh6Qnc4QXJfVGYyeUxxOXh2ajgzQ0E1VzlaRVJwWXU0cG9KTWh1aEZLUGEteTNTSy0tTWQxY1VnWW9COUtpUEl6NFdQdjg2RllNNnV1dGQ5MGdrNERkWGNITzZmOTl3Qi0xVFlLeURRSkZlOXJ5TQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala sets panel to review PSC rank lists with no openings",
+  "hook": "Job seekers, check if your rank might get a chance soon",
+  "what": "The state government announced a committee to examine the Public Service Commission's rank lists for posts that currently have no vacancies. The panel will assess the situation and recommend actions.",
+  "why": "This could affect upcoming recruitment and may open opportunities for young aspirants. Keep an eye on official updates.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "jobs",
+   "panel",
+   "vacancies"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം PSC റാങ്ക് ലിസ്റ്റുകൾക്ക് ഒഴിവില്ലാത്ത സ്ഥാനങ്ങൾക്കായി പാനൽ രൂപീകരിച്ചു",
+  "hook": "ജോബ് തേടുന്നവർക്കു, നിങ്ങളുടെ റാങ്ക് മാറ്റം വരാൻ സാധ്യതയുണ്ട്",
+  "what": "സംസ്ഥാന സർക്കാർ, നിലവിൽ ഒഴിവില്ലാത്ത സ്ഥാനങ്ങളുള്ള PSC റാങ്ക് ലിസ്റ്റുകൾ പരിശോധിക്കാൻ ഒരു സമിതിയെ രൂപീകരിച്ചു. ഈ പാനൽ സ്ഥിതിഗതികൾ വിലയിരുത്തി നടപടികൾ നിർദ്ദേശിക്കും.",
+  "why": "ഇത് ഭാവിയിലെ റിക്രൂട്ട്മെന്റിൽ സ്വാധീനം ചെലുത്താൻ സാധ്യതയുണ്ട്, യുവ പ്രതീക്ഷക്കാർക്ക് അവസരങ്ങൾ തുറക്കാം. ഔദ്യോഗിക അറിയിപ്പുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "jobs",
+   "panel",
+   "vacancies"
+  ]
+ }
+}

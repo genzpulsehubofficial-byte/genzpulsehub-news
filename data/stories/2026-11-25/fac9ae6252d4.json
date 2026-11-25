@@ -1,0 +1,37 @@
+{
+ "id": "fac9ae6252d4",
+ "created": "2026-11-25T14:59:10+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP member Saurav Das seeks urgent court hearing after UK travel ban",
+  "hook": "Blocked from flying abroad, he’s now fighting it in court.",
+  "what": "CJP activist Saurav Das was prevented from boarding a flight to the United Kingdom. His lawyer has asked the court for an urgent hearing on the matter.",
+  "why": "Travel restrictions can affect study or work plans abroad, so staying informed about legal recourse is important.",
+  "tags": [
+   "travel",
+   "court",
+   "UK",
+   "legal",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "CJP അംഗം സൌരവ് ദാസ് യു‌കെയിലേക്ക് യാത്ര തടയപ്പെട്ടതിനു ശേഷം അടിയന്തര കോടതികേസ്",
+  "hook": "വിമാനത്തിൽ കയറാൻ തടയപ്പെട്ട അദ്ദേഹം ഇപ്പോൾ കോടതി വഴി പോരാട്ടം ആരംഭിച്ചു.",
+  "what": "CJP പ്രവർത്തകൻ സൌരവ് ദാസ് യു‌കെയിലേക്ക് പറക്കാൻ ശ്രമിക്കുമ്പോൾ യാത്ര തടഞ്ഞു. അദ്ദേഹത്തിന്റെ അഭിഭാഷകൻ അതിനായി അടിയന്തര വിചാരണ ആവശ്യപ്പെട്ടു.",
+  "why": "അവകാശം നഷ്ടപ്പെടുന്നത് വിദേശ പഠനമോ ജോലിയോ പ്ലാനുകൾക്ക് ബാധകമാകും, അതിനാൽ നിയമപരമായ മാർഗങ്ങൾ അറിയുന്നത് പ്രധാനമാണ്.",
+  "tags": [
+   "യാത്ര",
+   "കോടതി",
+   "യുകെ",
+   "നിയമം",
+   "വാർത്ത"
+  ]
+ }
+}

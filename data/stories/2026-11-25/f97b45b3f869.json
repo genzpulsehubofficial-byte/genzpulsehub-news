@@ -1,0 +1,37 @@
+{
+ "id": "f97b45b3f869",
+ "created": "2026-11-25T15:00:19+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/foxconn-india-unit-faces-insolvency-plea-over-%e2%82%b9143-cr-in-alleged-dues/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Foxconn India unit hit with ₹143 crore insolvency petition",
+  "hook": "Your favorite iPhone maker’s Indian arm is in legal trouble.",
+  "what": "Foxconn’s Indian subsidiary, which assembles iPhones, has been served with an insolvency petition. The petition was filed by BCD Emprasa LLP, claiming the company owes about ₹143 crore.",
+  "why": "The case could affect iPhone production in India and jobs linked to the supply chain. Keep an eye on updates if you rely on Apple products or work in related sectors.",
+  "tags": [
+   "Foxconn",
+   "Insolvency",
+   "India",
+   "Tech",
+   "Jobs"
+  ]
+ },
+ "ml": {
+  "headline": "Foxconn ഇന്ത്യ യൂണിറ്റിന് ₹143 കോടി ഇൻസോൾവൻസി കേസ്",
+  "hook": "നിങ്ങളുടെ iPhone നിർമ്മാതാവിന്റെ ഇന്ത്യൻ ശാഖയ്ക്ക് നിയമ പ്രശ്നം.",
+  "what": "Apple iPhone അസംബ്ലർ Foxconnയുടെ ഇന്ത്യ യൂണിറ്റിന് BCD Emprasa LLP-യാൽ ഇൻസോൾവൻസി പെടിഷൻ സമർപ്പിച്ചു. അവർക്ക് ഏകദേശം ₹143 കോടി കുടിശ്ശികയെന്ന് അവകാശപ്പെടുന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ iPhone നിർമ്മാണത്തെയും ബന്ധപ്പെട്ട ജോലികളെയും ബാധിക്കാം. Apple ഉൽപ്പന്നങ്ങൾ ഉപയോഗിക്കുന്നവരും ഈ മേഖലയിലെ ജോലി ചെയ്യുന്നവരും അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Foxconn",
+   "Insolvency",
+   "India",
+   "Tech",
+   "Jobs"
+  ]
+ }
+}

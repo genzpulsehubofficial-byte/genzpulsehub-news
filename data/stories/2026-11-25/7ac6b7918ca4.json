@@ -1,0 +1,37 @@
+{
+ "id": "7ac6b7918ca4",
+ "created": "2026-11-25T15:00:23+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/stock-market-rally-why-investors-should-rebalance-portfolios-11795585619182.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Market bounce invites fresh portfolio balance",
+  "hook": "Your investments need a check‑up, not a chase",
+  "what": "Equities have begun climbing again after two years of swings, while gold has surged sharply. This combination offers a chance to tweak holdings and examine any over‑concentration.",
+  "why": "Rebalancing now can shield you from future shocks and keep you from betting on short‑term winners. Young investors should review their asset mix.",
+  "tags": [
+   "investing",
+   "portfolio",
+   "gold",
+   "equities",
+   "rebalance"
+  ]
+ },
+ "ml": {
+  "headline": "മാർക്കറ്റ് ഉയർച്ചയിൽ പോർട്ട്ഫോളിയോ പുനഃസംഘടന",
+  "hook": "നിങ്ങളുടെ നിക്ഷേപങ്ങൾക്ക് ചെക്ക്‑അപ്പ് ആവശ്യമുണ്ട്, ചേച്ചി വേട്ടയാടേണ്ട",
+  "what": "കഴിഞ്ഞ രണ്ട് വർഷത്തെ അസ്ഥിരതയ്ക്ക് ശേഷം ഇക്വിറ്റി മാർക്കറ്റ് വീണ്ടും ഉയരാൻ തുടങ്ങി, കൂടാതെ ഗോൾഡിന്റെ വില വേഗത്തിൽ ഉയർന്നു. ഈ സാഹചര്യത്തിൽ നിക്ഷേപകർ അവരുടെ പോർട്ട്ഫോളിയോ പുനഃപരിശോധിച്ച്, ഒരു പ്രത്യേക ആസ്തിയിൽ അധികം നിക്ഷേപം ഉണ്ടോ എന്ന് നോക്കാം.",
+  "why": "ഇപ്പോൾ ബാലൻസ് ചെയ്യുന്നത് ഭാവിയിലെ അപകടങ്ങളിൽ നിന്ന് സംരക്ഷിക്കും, ചുരുങ്ങിയ കാലത്തെ വിജയികളിൽ മാത്രം നിക്ഷേപം ഒഴിവാക്കും. പുതുതായി നിക്ഷേപം തുടങ്ങുന്ന യുവാക്കൾ അവരുടെ ആസ്തി വിഭജനം പരിശോധിക്കണം.",
+  "tags": [
+   "നിക്ഷേപം",
+   "പോർട്ട്ഫോളിയോ",
+   "ഗോൾഡ്",
+   "ഇക്വിറ്റി",
+   "പുനഃസംഘടന"
+  ]
+ }
+}

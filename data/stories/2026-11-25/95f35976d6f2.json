@@ -1,0 +1,37 @@
+{
+ "id": "95f35976d6f2",
+ "created": "2026-11-25T15:00:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/internet/news/microsoft-code-red-after-outlook-outage-internal-memo-12374487",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Microsoft flags massive Exchange Online outage as Code Red",
+  "hook": "A rare ‘Code Red’ alert hits the email service millions use.",
+  "what": "Microsoft announced a ‘Code Red’ after an Exchange Online outage. Internal memos say it was the most customer‑impacting incident ever for the service. The disruption affected many users.",
+  "why": "For teens relying on school or work email, this shows how even big platforms can falter, so keep backups and alternative communication ready.",
+  "tags": [
+   "Microsoft",
+   "ExchangeOnline",
+   "Outage",
+   "CodeRed",
+   "Tech"
+  ]
+ },
+ "ml": {
+  "headline": "Microsoft Exchange Online‑ലെ വലിയ outage‑ന് Code Red പ്രഖ്യാപിച്ചു",
+  "hook": "പലരും ഉപയോഗിക്കുന്ന ഇ‑മെയില്‍ സേവനത്തില്‍ അപൂര്‍വമായ ‘Code Red’ അലര്‍ട്ട്",
+  "what": "Microsoft ‘Code Red’ എന്ന് Exchange Online‑ലെ ഒരു outage‑ന് ശേഷം പ്രഖ്യാപിച്ചു. ആന്തരിക മെമ്മോകള്‍ പ്രകാരം ഇത് സേവനത്തിന്റെ ചരിത്രത്തിലെ ഏറ്റവും വലിയ ഉപഭോക്തൃ‑പ്രഭാവം ഉണ്ടാക്കിയ സംഭവമാണ്. അനേകം ഉപയോക്താക്കള്‍ ഈ തടസ്സം അനുഭവിച്ചു.",
+  "why": "പഠന‑പണിക്കായി ഇ‑മെയില്‍ ഉപയോഗിക്കുന്നവര്‍ക്ക്, വലിയ പ്ലാറ്റ്ഫോം പോലും തകരാറിലാകാം; അതിനാല്‍ ബാക്കപ്പ് മാര്‍ഗങ്ങള്‍ ഒരുക്കി വെക്കണം.",
+  "tags": [
+   "Microsoft",
+   "ExchangeOnline",
+   "Outage",
+   "CodeRed",
+   "Tech"
+  ]
+ }
+}
