@@ -1,0 +1,37 @@
+{
+ "id": "3a2e1633f30f",
+ "created": "2026-11-25T16:06:05+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/real-estate-delivers-8-5-returns-in-1-year-vs-gold-falls-3-is-property-better-investment-option-now-experts-weigh-in-11795596886943.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Real estate gains 8.5% yearly, gold slips 3%",
+  "hook": "Property shows profit while gold loses value this year.",
+  "what": "Over the past 12 months, Indian real‑estate investments returned about 8.5%. In the same period, gold prices fell roughly 3.3%.",
+  "why": "For Gen Z savers, property could be a better short‑term option, but experts warn to weigh risks and explore different real‑estate schemes.",
+  "tags": [
+   "realestate",
+   "gold",
+   "investment",
+   "younginvestors",
+   "finance"
+  ]
+ },
+ "ml": {
+  "headline": "റിയൽ എസ്റ്റേറ്റ് 8.5% ലാഭം, ഗോൾഡ് 3% ഇടിവ്",
+  "hook": "പ്രോപ്പർട്ടി ലാഭം കാണിക്കുമ്പോൾ ഗോൾഡ് മൂല്യം കുറഞ്ഞു.",
+  "what": "കഴിഞ്ഞ ഒരു വർഷം, ഇന്ത്യയിലെ റിയൽ എസ്റ്റേറ്റ് നിക്ഷേപങ്ങൾ ഏകദേശം 8.5% വരുമാനം നൽകി. അതേ സമയത്ത്, ഗോൾഡിന്റെ വില ഏകദേശം 3.3% കുറഞ്ഞു.",
+  "why": "യുവജനങ്ങൾക്ക് ചെറുകാലം ലാഭം നോക്കുമ്പോൾ പ്രോപ്പർട്ടി ആകർഷകമാകാം, പക്ഷേ വിദഗ്ധർ അപകടം വിലയിരുത്തി വിവിധ റിയൽ എസ്റ്റേറ്റ് ഓപ്ഷനുകൾ പരിശോധിക്കാൻ നിർദേശിക്കുന്നു.",
+  "tags": [
+   "റിയൽഎസ്റ്റേറ്റ്",
+   "ഗോൾഡ്",
+   "നിക്ഷേപം",
+   "യുവനിക്ഷേപകർ",
+   "ഫിനാൻസ്"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "0a03f6895723",
+ "created": "2026-11-25T16:06:08+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Indian film body asks PM to block Pakistani series on Netflix",
+  "hook": "A cinema group is pushing for a Netflix ban on a Pakistani drama.",
+  "what": "The All Indian Cine Workers Association wrote to Prime Minister Narendra Modi requesting a ban on the release of a Pakistani show on Netflix in India. The association has formally asked the government to stop the show from being streamed.",
+  "why": "If the ban is approved, the show will be unavailable to Indian viewers, affecting streaming choices for young audiences. Stay aware of platform content policies.",
+  "tags": [
+   "Netflix",
+   "PakistaniShow",
+   "AICWA",
+   "Streaming",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യൻ സിനിമ തൊഴിലാളി സംഘടന PM-നെ Netflix-ൽ പാക്കിസ്ഥാൻ ഷോ നിരോധിക്കാൻ അഭ്യർത്ഥിച്ചു",
+  "hook": "ഒരു സിനിമാ ഗ്രൂപ്പ് Netflix-ൽ പാക്കിസ്ഥാൻ ഡ്രാമയുടെ റിലീസ് തടയാൻ ശ്രമിക്കുന്നു.",
+  "what": "All Indian Cine Workers Association (AICWA) പ്രധാനമന്ത്രി നരേന്ദ്ര മോദിയോട് ഇന്ത്യയിൽ Netflix-ൽ ഒരു പാക്കിസ്ഥാൻ ഷോയുടെ റിലീസ് നിരോധിക്കാൻ കത്ത് അയച്ചു. അവർ ഈ ഷോയുടെ പ്രദർശനം തടയണമെന്ന് ആവശ്യപ്പെട്ടു.",
+  "why": "നിരോധനം നടപ്പിലാക്കിയാൽ ഇന്ത്യൻ യുവാക്കൾക്ക് ആ ഷോ കാണാൻ കഴിയില്ല, അതിനാൽ സ്റ്റ്രീമിംഗ് പ്ലാറ്റ്ഫോം തിരഞ്ഞെടുപ്പുകൾക്ക് ഇത് ബാധകമാകും.",
+  "tags": [
+   "Netflix",
+   "AICWA",
+   "പാക്കിസ്ഥാൻ",
+   "സ്റ്റ്രീമിംഗ്",
+   "ഇന്ത്യ"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "1290ede4c796",
+ "created": "2026-11-25T16:06:02+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/173-lakh-refrigerator-five-compressor-failures-gurgaon-consumer-wins-replacement-and-61-000-compensation-11795600975297.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gurgaon buyer gets new LG fridge and ₹61k payout",
+  "hook": "Your fridge could cost you a fortune if it breaks.",
+  "what": "A buyer in Gurgaon purchased an LG refrigerator for ₹1.73 lakh. The fridge’s compressor failed five times within a few months despite repairs and a protection plan. The consumer was awarded a replacement unit and ₹61,000 in compensation.",
+  "why": "It shows that consumers can claim compensation for repeated appliance failures. Keep purchase receipts and warranty details handy to assert your rights.",
+  "tags": [
+   "consumerrights",
+   "LG",
+   "refund",
+   "appliance",
+   "Gurgaon"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുരുഗ്രാമിലെ വാങ്ങുന്നവന്‍ പുതിയ LG ഫ്രിഡ്ജും ₹61,000 നഷ്ടപരിഹാരവും",
+  "hook": "നിങ്ങളുടെ ഫ്രിഡ്ജ് തകരാറിലായാല്‍ വലിയ നഷ്ടം വരാം.",
+  "what": "ഗുരുഗ്രാമില്‍ ഒരു ഉപഭോക്താവ് ₹1.73 ലക്ഷം വിലയുള്ള LG ഫ്രിഡ്ജ് വാങ്ങി. കുറച്ച് മാസത്തിനുള്ളില്‍ കമ്പ്രസര്‍ അഞ്ചു തവണ തകരാറിലായി, പലപ്പോഴും റിപെയര്‍ ചെയ്തിട്ടും പ്രശ്നം തുടർന്നു. ഉപഭോക്താവിന് പുതിയ യൂണിറ്റ് കൂടാതെ ₹61,000 നഷ്ടപരിഹാരം ലഭിച്ചു.",
+  "why": "പുനരാവർത്തന തകരാറുകള്‍ ഉണ്ടെങ്കില്‍ ഉപഭോക്താക്കള്‍ക്ക് നഷ്ടപരിഹാരം ലഭിക്കാമെന്ന് ഇത് തെളിയിക്കുന്നു. വാങ്ങിയതിന്റെ രസീത്, വാറന്റി രേഖകള്‍ സൂക്ഷിച്ച് അവകാശം ആവശ്യപ്പെടുക.",
+  "tags": [
+   "ഉപഭോക്താവകാശം",
+   "LG",
+   "പരിഹാരം",
+   "ഫ്രിഡ്ജ്",
+   "ഗുരുഗ്രാം"
+  ]
+ }
+}

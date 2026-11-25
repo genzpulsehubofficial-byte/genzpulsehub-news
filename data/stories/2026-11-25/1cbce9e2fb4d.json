@@ -1,0 +1,35 @@
+{
+ "id": "1cbce9e2fb4d",
+ "created": "2026-11-25T16:05:57+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/pune-news/murder-accuseds-hand-chopped-off-with-machete-then-shot-dead-outside-pune-court-12374587#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Accused loses hand, shot outside Pune court",
+  "hook": "A brutal attack erupts right by a courtroom.",
+  "what": "A man named Mandar Maruti Kiwale had his hand cut off with a machete and was then shot outside a court in Pune. The incident took place near the court premises.",
+  "why": "Violence near public institutions raises safety concerns for young people. Stay aware of your surroundings and follow local safety guidance.",
+  "tags": [
+   "Pune",
+   "court",
+   "violence",
+   "crime"
+  ]
+ },
+ "ml": {
+  "headline": "പൂണിലെ കോടതിക്ക് പുറത്ത് കുറ്റവാളിയുടെ കൈ മഷീന്‍ മുറിച്ചു, തോക്കില്‍ കൊല്ലപ്പെട്ടു",
+  "hook": "കോടതി ചുറ്റുമുള്ള അക്രമം യുവാക്കൾക്ക് ജാഗ്രത ആവശ്യപ്പെടുന്നു.",
+  "what": "മന്ദർ മാരുതി കിവാലെ എന്ന വ്യക്തിയുടെ കൈ മഷീന്‍ ഉപയോഗിച്ച് മുറിച്ചു, പിന്നീട് കോടതിക്ക് പുറത്ത് തോക്കില്‍ കൊല്ലപ്പെട്ടു. സംഭവം പൂണിലെ കോടതിയുടെ ചുറ്റുമാണ് നടന്നത്.",
+  "why": "പൊതു സ്ഥലങ്ങളിലെ അക്രമം സുരക്ഷാ പ്രശ്നങ്ങൾ ഉയർത്തുന്നു. നിങ്ങളുടെ ചുറ്റുപാടുകൾ ശ്രദ്ധിച്ച് സുരക്ഷാ നിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "പൂൺ",
+   "കോടതി",
+   "അക്രമം",
+   "കുറ്റം"
+  ]
+ }
+}
