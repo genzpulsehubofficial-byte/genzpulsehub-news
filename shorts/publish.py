@@ -14,6 +14,7 @@ OUT = os.path.join(ROOT, "out", "shorts")
 G = "https://graph.facebook.com/v21.0"
 PAGES = {"en": "61596319547043", "ml": "61596419862358"}     # profile ids; real page ids resolved via token
 BIZ = "932757405756172"
+IG_IDS = {"ml": "17841440794138461"}  # fallback ids from Business Settings
 IG_USERS = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 PAGE_NAMES = {"en": "GenZ Pulse Hub", "ml": "GenZ Pulse Hub Malayalam"}
 SITE = {"en": "https://genzpulsehub.dpdns.org", "ml": "https://genzpulsehub.dpdns.org/ml"}
@@ -123,6 +124,9 @@ def meta_pages():
                 c = next((x for x in cand if x), None)
                 if not c and IG_USERS[lang] in igs:
                     c = {"id": igs[IG_USERS[lang]]}
+                if not c and IG_IDS.get(lang):
+                    c = {"id": IG_IDS[lang]}
+                    p["ig_token"] = tok   # system-user token has direct IG asset access
                 if c:
                     p["instagram_business_account"] = c
             print("ig found:", {l: bool(p.get("instagram_business_account")) for l, p in _pages.items()}, "| biz ig usernames:", list(igs))
@@ -133,7 +137,7 @@ def instagram(lang, s, path):
     p = meta_pages().get(lang)
     if not p or not p.get("instagram_business_account"):
         return "skipped (Instagram not linked to Page / no Meta token)"
-    ig, tok = p["instagram_business_account"]["id"], p["access_token"]
+    ig, tok = p["instagram_business_account"]["id"], p.get("ig_token") or p["access_token"]
     c = requests.post(f"{G}/{ig}/media", data={"media_type": "REELS", "upload_type": "resumable", "share_to_feed": "true",
                       "caption": caption(lang, s, "ig"), "access_token": tok}, timeout=60).json()
     if "id" not in c:
