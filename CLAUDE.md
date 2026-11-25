@@ -61,6 +61,8 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 - 2026-11-19..24: Phase 3 site live on genzpulsehub.pages.dev (custom domain pending). Phase 4 ads Worker live (genzpulsehub-ads.genzpulsehub-official.workers.dev, D1, Cashfree prod; live-stream slots marked "Coming soon"). Shorts renderer + publisher built.
 - 2026-11-25: YouTube publishing WORKS for both channels (secrets YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_EN, YT_REFRESH_ML). Oracle Cloud account approved: tenancy `genzpulsehubofficial`, region ap-mumbai-1, login genzpulsehub.official@gmail.com.
 
+- 2026-11-25: Meta posting WORKS on both FB Pages + both Instagram accounts. Meta app "GenZ Pulse Hub Publisher" (1125355970374013), system user genzpulsehub-bot (61596769387444), secret META_TOKEN (never expires). Uploads are direct binary (no R2). IG ids: en 17841409013887055, ml 17841440794138461.
+
 ## For a future Claude session (start here)
 The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
 - Repo is the single source of truth. Read this file, then `git log -20`.
@@ -75,7 +77,6 @@ The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open th
 - Auto-optimise everything weekly/monthly (categories, times, lengths, formats, volume, ad prices), English and Malayalam separately, Discord report.
 
 ## Pending (in order)
-1. META_TOKEN (system-user token, portfolio 932757405756172, pages + IG publish/insights perms) → Reels live.
 2. Oracle VM (Always Free ARM, Mumbai) → Phase 2 24/7 stream to YouTube + Facebook; then open live ad slots.
 3. Cashfree domain whitelist; domain activation → switch SITE_URL to genzpulsehub.dpdns.org; Email Routing ads@ → Gmail.
 4. Gmail App Password secret + mailer for queued ad emails.
