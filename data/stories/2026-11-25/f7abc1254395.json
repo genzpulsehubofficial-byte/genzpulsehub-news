@@ -1,0 +1,37 @@
+{
+ "id": "f7abc1254395",
+ "created": "2026-11-25T11:02:14+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/jensen-huangs-return-to-nvidia-brings-open-weight-ai-debate-to-fore-in-us-12372878#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia reinstates Jensen Huang as CEO",
+  "hook": "The AI giant's top seat is back with its founder.",
+  "what": "Nvidia’s board announced on Monday that Jensen Huang will again lead the company as chief executive. The decision restores him to the role he originally held.",
+  "why": "His return could shape the direction of AI tools and gaming tech that many Indian teens use. Keep an eye on Nvidia’s product updates.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "Tech",
+   "Gaming",
+   "Leadership"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia-യി Jensen Huang-നെ CEO ആയി തിരികെ നിയമിച്ചു",
+  "hook": "AI കമ്പനിയുടെ മേധാവി സ്ഥാനത്ത് സ്ഥാപകൻ വീണ്ടും തിരിച്ചെത്തി.",
+  "what": "Nvidiaയുടെ ബോർഡ് തിങ്കളാഴ്ച പ്രഖ്യാപിച്ചു, Jensen Huang വീണ്ടും ചീഫ് എക്സിക്യൂട്ടീവ് ഓഫീസർ ആയി ചുമതല ഏറ്റെടുക്കും. ഇതോടെ അദ്ദേഹം മുൻപ് കൈവശം വെച്ചിരുന്ന സ്ഥാനത്തിലേക്ക് മടങ്ങി.",
+  "why": "AI, ഗെയിമിംഗ് തുടങ്ങിയ മേഖലകളിൽ Nvidiaയുടെ തീരുമാനങ്ങൾ യുവജനങ്ങളുടെ ടെക് ഉപയോഗത്തെ ബാധിക്കും. പുതിയ ഉൽപ്പന്നങ്ങളും അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "Tech",
+   "Gaming",
+   "Leadership"
+  ]
+ }
+}

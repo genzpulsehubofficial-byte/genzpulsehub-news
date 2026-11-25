@@ -1,0 +1,37 @@
+{
+ "id": "1c90e2e803ab",
+ "created": "2026-11-25T11:02:24+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/gold-rates-today-andhra-pradesh-25-november-check-price-of-24k-22k-18k-gold-as-yellow-metal-rates-decline-11795581875447.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold price hits ₹1,22,570 per 10 g in India",
+  "hook": "Yellow metal rates dip, check the latest price.",
+  "what": "Retail gold is trading at ₹1,22,570 for every 10 grams across India. The price reflects a recent decline in the market.",
+  "why": "Lower gold rates can affect buying decisions for jewellery and investments; teens planning purchases should compare current prices.",
+  "tags": [
+   "gold",
+   "prices",
+   "india",
+   "finance",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഭാരതത്തിൽ 10 ഗ്രാം ഗോൾഡിന്റെ വില ₹1,22,570",
+  "hook": "മഞ്ഞു ലോഹത്തിന്റെ വില താഴ്ന്നു, പുതിയ നിരക്ക് നോക്കൂ.",
+  "what": "ഇന്ത്യയിലെ റീട്ടെയിൽ മാർക്കറ്റിൽ 10 ഗ്രാം ഗോൾഡിന്റെ വില ഇപ്പോൾ ₹1,22,570 ആണ്. വിലയിൽ അടുത്തകാലത്തെ ഇടിവ് കാണാം.",
+  "why": "കുറഞ്ഞ ഗോൾഡ് നിരക്കുകൾ ആഭരണവും നിക്ഷേപവും സംബന്ധിച്ച തീരുമാനങ്ങളെ ബാധിക്കും; വാങ്ങൽ പദ്ധതിയുള്ളവർക്കു നിലവിലെ വില പരിശോധിക്കുക.",
+  "tags": [
+   "ഗോൾഡ്",
+   "വില",
+   "ഇന്ത്യ",
+   "ഫിനാൻസ്",
+   "യുവാക്കൾ"
+  ]
+ }
+}

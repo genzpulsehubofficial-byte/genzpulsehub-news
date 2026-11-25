@@ -1,5 +1,81 @@
 [
  {
+  "id": "f7abc1254395",
+  "created": "2026-11-25T11:02:14+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/jensen-huangs-return-to-nvidia-brings-open-weight-ai-debate-to-fore-in-us-12372878#publisher=newsstand",
+  "headline": "Nvidia reinstates Jensen Huang as CEO",
+  "hook": "The AI giant's top seat is back with its founder.",
+  "what": "Nvidia’s board announced on Monday that Jensen Huang will again lead the company as chief executive. The decision restores him to the role he originally held.",
+  "why": "His return could shape the direction of AI tools and gaming tech that many Indian teens use. Keep an eye on Nvidia’s product updates.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "Tech",
+   "Gaming",
+   "Leadership"
+  ]
+ },
+ {
+  "id": "c67af3fd80e5",
+  "created": "2026-11-25T11:02:19+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUVDaGNpcDdfWkJ0ZEpvTXRkSmNxVm5Ha1hZbjZSRnRvOWRRaFB6cWNxNU5odTl5dl9lT19LenRFaVA2ZUFpR1RsZjBqdTVjcTJOTFp0ck9HU3BVb3loUVVmczhLN253WkhNRUlfUjdxelJYNnk5dW1QQTFndkJhem1hb2VJb1JFSGstVUxXLVNodlVfUEZtWnlYa1FaZVE5YzFMZHlfazl2MGNSZGdMcHFtUGNXbG1BYWs3UTBiMnhmakJodURoRzN30gHQAUFVX3lxTE5TbUMtbUZlTVp4QVhVS2ttVl9WdzMwY21lRGY2Q2N1aWtwS3RJSTJUQTJJQ1EzcmF1U0M1RlV0akdxVUw2c1JCblhoTHAxVi0xbEh4VWpOLUx1QmJwWWpkZ1BWOHE5RER3MWlqQ2lUb1dLd2NNUUx0VEVFNFpwT0JDRmtGTnhQaDdPYkh6N3ljcm1DQk9jMW1VVEx2bG1IRDg5dGRwQy0zVjJuUFlqblJhZThTVDBHMVJDRFBXbWFKR1BNLTRrOUVMZDh3YTNHeDE?oc=5",
+  "headline": "Nvidia CEO Jensen Huang admits therapy amid slowing rally",
+  "hook": "Even top tech leaders turn to therapy when market momentum fades.",
+  "what": "Nvidia’s chief executive Jensen Huang said he is undergoing therapy as the company’s recent stock surge loses steam. The board reinstated him as president, CEO and board director. Reports say former President Trump made up to $15 million from Nvidia shares after Huang’s return.",
+  "why": "It highlights that high‑profile leaders also need mental‑health support, and that market enthusiasm can shift quickly, so young investors should stay cautious.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "stock",
+   "therapy",
+   "investing"
+  ]
+ },
+ {
+  "id": "1c90e2e803ab",
+  "created": "2026-11-25T11:02:24+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/gold-rates-today-andhra-pradesh-25-november-check-price-of-24k-22k-18k-gold-as-yellow-metal-rates-decline-11795581875447.html",
+  "headline": "Gold price hits ₹1,22,570 per 10 g in India",
+  "hook": "Yellow metal rates dip, check the latest price.",
+  "what": "Retail gold is trading at ₹1,22,570 for every 10 grams across India. The price reflects a recent decline in the market.",
+  "why": "Lower gold rates can affect buying decisions for jewellery and investments; teens planning purchases should compare current prices.",
+  "tags": [
+   "gold",
+   "prices",
+   "india",
+   "finance",
+   "youth"
+  ]
+ },
+ {
+  "id": "0e84a7528caf",
+  "created": "2026-11-25T11:02:26+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/mvd-operation-night-hunt-146-vehicles-booked-kochi-fines-keim1amb",
+  "headline": "Kochi's Night Hunt fines 146 drivers, collects ₹6.10 lakh",
+  "hook": "Late-night rides got a pricey surprise in Kochi.",
+  "what": "The Motor Vehicles Department ran an overnight drive called Operation Night Hunt in Kochi. During the sweep, 146 vehicles were booked and fines totalling ₹6.10 lakh were imposed.",
+  "why": "It shows traffic rules are enforced even at night, so teens should avoid violations to stay safe and avoid fines.",
+  "tags": [
+   "Kochi",
+   "Traffic",
+   "NightHunt",
+   "Fines",
+   "MVD"
+  ]
+ },
+ {
   "id": "34720b1bb374",
   "created": "2026-11-25T09:49:36+05:30",
   "category": "tech",
@@ -675,82 +751,6 @@
    "Bangladesh",
    "cricket",
    "auction"
-  ]
- },
- {
-  "id": "bc1d0b734fec",
-  "created": "2026-11-25T02:17:29+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece",
-  "headline": "Coast Guard saves Filipino man after sea stroke",
-  "hook": "A sudden stroke at sea ended with a rescue.",
-  "what": "The Indian Coast Guard rescued a Filipino citizen who suffered a stroke while at sea. The operation began after the person was reported in distress.",
-  "why": "It highlights the need for quick emergency response and staying safe on water. Keep emergency contacts handy if you go out to sea.",
-  "tags": [
-   "coastguard",
-   "rescue",
-   "stroke",
-   "sea",
-   "safety"
-  ]
- },
- {
-  "id": "0d755f9b1931",
-  "created": "2026-11-25T02:18:32+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/most-consumer-platforms-rife-with-dark-patterns-despite-regulatory-action-survey/",
-  "headline": "Survey: Most firms still use dark patterns despite claims",
-  "hook": "Your favorite apps may be nudging you without you knowing.",
-  "what": "A recent survey found that nearly three-quarters of consumer companies that told the Central Consumer Protection Authority they had no dark patterns were still using them. The study highlights a gap between declared compliance and actual practice.",
-  "why": "Young users should stay alert to hidden design tricks that push unwanted actions, and report suspicious behavior to consumer authorities.",
-  "tags": [
-   "darkpatterns",
-   "consumerrights",
-   "techsurvey",
-   "CCPA",
-   "youth"
-  ]
- },
- {
-  "id": "6b6e408303ff",
-  "created": "2026-11-25T02:18:35+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/uttar-pradesh-elections-akhilesh-yadavs-open-letter-then-a-move-that-overlaps-congress-wishlist-12372589#publisher=newsstand",
-  "headline": "Akhilesh Yadav seeks serious talks with Congress",
-  "hook": "Will this talk reshape political alliances?",
-  "what": "Akhilesh Yadav, leader of the Samajwadi Party, has publicly asked for serious discussions with the Congress party. He said the talks are needed to explore common ground.",
-  "why": "Young voters should watch for possible coalition shifts that could affect upcoming elections and policies on jobs and education.",
-  "tags": [
-   "politics",
-   "elections",
-   "youth",
-   "India",
-   "alliance"
-  ]
- },
- {
-  "id": "6b7550cf82a4",
-  "created": "2026-11-25T02:18:37+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Ars Technica",
-  "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
-  "headline": "Measles deaths hit 14, cases approach 6,000 in US",
-  "hook": "A rising measles outbreak is claiming lives across the US.",
-  "what": "The United States has recorded about 14 measles-related deaths while the total number of cases is close to 6,000. The disease, once declared eliminated, is resurging.",
-  "why": "Young people should verify their vaccination status and get a booster if needed, as the outbreak shows the virus can affect adults too.",
-  "tags": [
-   "measles",
-   "outbreak",
-   "vaccination",
-   "health",
-   "US"
   ]
  }
 ]

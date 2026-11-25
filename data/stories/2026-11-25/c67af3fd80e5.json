@@ -1,0 +1,37 @@
+{
+ "id": "c67af3fd80e5",
+ "created": "2026-11-25T11:02:19+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUVDaGNpcDdfWkJ0ZEpvTXRkSmNxVm5Ha1hZbjZSRnRvOWRRaFB6cWNxNU5odTl5dl9lT19LenRFaVA2ZUFpR1RsZjBqdTVjcTJOTFp0ck9HU3BVb3loUVVmczhLN253WkhNRUlfUjdxelJYNnk5dW1QQTFndkJhem1hb2VJb1JFSGstVUxXLVNodlVfUEZtWnlYa1FaZVE5YzFMZHlfazl2MGNSZGdMcHFtUGNXbG1BYWs3UTBiMnhmakJodURoRzN30gHQAUFVX3lxTE5TbUMtbUZlTVp4QVhVS2ttVl9WdzMwY21lRGY2Q2N1aWtwS3RJSTJUQTJJQ1EzcmF1U0M1RlV0akdxVUw2c1JCblhoTHAxVi0xbEh4VWpOLUx1QmJwWWpkZ1BWOHE5RER3MWlqQ2lUb1dLd2NNUUx0VEVFNFpwT0JDRmtGTnhQaDdPYkh6N3ljcm1DQk9jMW1VVEx2bG1IRDg5dGRwQy0zVjJuUFlqblJhZThTVDBHMVJDRFBXbWFKR1BNLTRrOUVMZDh3YTNHeDE?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO Jensen Huang admits therapy amid slowing rally",
+  "hook": "Even top tech leaders turn to therapy when market momentum fades.",
+  "what": "Nvidia’s chief executive Jensen Huang said he is undergoing therapy as the company’s recent stock surge loses steam. The board reinstated him as president, CEO and board director. Reports say former President Trump made up to $15 million from Nvidia shares after Huang’s return.",
+  "why": "It highlights that high‑profile leaders also need mental‑health support, and that market enthusiasm can shift quickly, so young investors should stay cautious.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "stock",
+   "therapy",
+   "investing"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia CEO Jensen Huang therapy‑യിൽ, സ്റ്റോക്ക് റാലി മന്ദഗതിയിൽ",
+  "hook": "മാർക്കറ്റ്‌ തിളക്കത്തിൽ പോലും, നേതാക്കൾക്ക് മാനസിക പിന്തുണ ആവശ്യം.",
+  "what": "Nvidiaയുടെ ചീഫ് എക്സിക്യൂട്ടീവ് Jensen Huang, കമ്പനിയുടെ സ്റ്റോക്ക് ഉയർച്ച മന്ദമാകുമ്പോൾ അദ്ദേഹം തെറാപ്പി ചെയ്യുകയാണെന്ന് അറിയിച്ചു. ബോർഡ് അവനെ പ്രസിഡന്റ്, CEO, ഡയറക്ടർ എന്ന നിലയിൽ വീണ്ടും നിയമിച്ചു. റിപ്പോർട്ടുകൾ പ്രകാരം മുൻ പ്രസിഡന്റ് ട്രംപ്, Huangയുടെ തിരിച്ചുവരവിന് ശേഷം Nvidia ഷെയറുകളിൽ $15 മില്യൺ വരെ ലാഭം നേടി.",
+  "why": "ഇത് യുവജനങ്ങൾക്ക് മാനസികാരോഗ്യത്തിന്റെ പ്രാധാന്യം കാണിക്കുന്നു, കൂടാതെ സ്റ്റോക്ക് മാർക്കറ്റിലെ മാറ്റങ്ങൾക്കായി ജാഗ്രതയോടെ നിക്ഷേപിക്കാൻ ഓർമ്മപ്പെടുത്തുന്നു.",
+  "tags": [
+   "Nvidia",
+   "JensenHuang",
+   "Therapy",
+   "Stock",
+   "Investing"
+  ]
+ }
+}

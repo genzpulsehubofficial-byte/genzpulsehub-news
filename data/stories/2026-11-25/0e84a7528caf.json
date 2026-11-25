@@ -1,0 +1,37 @@
+{
+ "id": "0e84a7528caf",
+ "created": "2026-11-25T11:02:26+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/mvd-operation-night-hunt-146-vehicles-booked-kochi-fines-keim1amb",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kochi's Night Hunt fines 146 drivers, collects ₹6.10 lakh",
+  "hook": "Late-night rides got a pricey surprise in Kochi.",
+  "what": "The Motor Vehicles Department ran an overnight drive called Operation Night Hunt in Kochi. During the sweep, 146 vehicles were booked and fines totalling ₹6.10 lakh were imposed.",
+  "why": "It shows traffic rules are enforced even at night, so teens should avoid violations to stay safe and avoid fines.",
+  "tags": [
+   "Kochi",
+   "Traffic",
+   "NightHunt",
+   "Fines",
+   "MVD"
+  ]
+ },
+ "ml": {
+  "headline": "കൊച്ചിയിലെ നൈറ്റ് ഹണ്ട് 146 ഡ്രൈവർമാരെ ശിക്ഷിച്ചു, ₹6.10 ലക്ഷം ശേഖരിച്ചു",
+  "hook": "രാത്രി വാഹനയാത്രയിൽ കൊച്ചിയിൽ വലിയ പിഴയുണ്ടായി!",
+  "what": "മോട്ടോർ വാഹന വകുപ്പ് 'ഓപ്പറേഷൻ നൈറ്റ് ഹണ്ട്' എന്ന പേരിൽ കൊച്ചിയിൽ രാത്രി ട്രാഫിക് പരിശോധന നടത്തി. ഈ പരിശോധനയിൽ 146 വാഹനങ്ങൾ ബുക്ക് ചെയ്തു, മൊത്തം ₹6.10 ലക്ഷം പിഴ ചുമത്തി.",
+  "why": "ഇത് കാണിക്കുന്നത് ട്രാഫിക് നിയമങ്ങൾ രാത്രി പോലും കർശനമായി പാലിക്കപ്പെടുന്നു; അതിനാൽ യുവാക്കൾ നിയമം ലംഘിക്കാതെ, സുരക്ഷിതമായി യാത്ര ചെയ്യണം.",
+  "tags": [
+   "കൊച്ചി",
+   "ട്രാഫിക്",
+   "നൈറ്റ്‌ഹണ്ട്",
+   "പിഴ",
+   "MVD"
+  ]
+ }
+}

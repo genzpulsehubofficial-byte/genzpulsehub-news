@@ -1,13 +1,15 @@
 {
- "last_run": "2026-11-25T09:49:48+05:30",
- "fetched": 179,
- "made": 5,
+ "last_run": "2026-11-25T11:02:26+05:30",
+ "fetched": 177,
+ "made": 4,
  "providers": {
-  "groq": 5
+  "groq": 4
  },
  "dead_feeds": [
   "Indian Express",
-  "Onmanorama"
+  "Google News Sports",
+  "Onmanorama",
+  "Kerala PSC"
  ],
  "ai_all_failed": 0,
  "ai_errors": {
