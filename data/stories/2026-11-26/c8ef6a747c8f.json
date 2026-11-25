@@ -1,0 +1,42 @@
+{
+ "id": "c8ef6a747c8f",
+ "created": "2026-11-26T04:14:09+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "DocWireNews",
+ "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDU2X2lDT0Y4eTFnZ3RJX0w0SG9nbEhSQ0RaalNtSnlUWGYwYl96ZlJibUhrdGpCUkpLbVBuTVR3aUY1T21heEFZck9naUlWcHBYeWJYX0ZPdmhKWHJaT3hzeUZTSDRrOEJMb0lqOFRTdEh5cjY1b0p1VEUzMU1BUFd1dzJpa3BUR09rbGhtdzNRT244dGtiZnpGLXZwWlJMV3c?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "New INTerpath-001 data shakes up melanoma treatment outlook",
+  "hook": "Melanoma vaccine trial falls short, prompting fresh research directions.",
+  "what": "Data from the INTerpath-001 study suggest a shift in how adjuvant melanoma care may be approached. Meanwhile, Phase 3 results of the Moderna‑Merck melanoma vaccine showed weaker efficacy than anticipated.",
+  "why": "Understanding these developments helps teens see both progress and setbacks in cancer research, underscoring the importance of early detection and supporting vaccine trials.",
+  "tags": [
+   "melanoma",
+   "cancerresearch",
+   "vaccines",
+   "healthnews"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്റർപാത്ത്-ഒന്ന് ഡാറ്റ മെലാനോമാ ചികിത്സയിൽ മാറ്റം വരുത്തുന്നു",
+  "hook": "മെലാനോമാ വാക്സിൻ ട്രയൽ പ്രതീക്ഷകളെക്കാൾ താഴെ, പുതിയ ഗവേഷണ ദിശകൾ തുറക്കുന്നു.",
+  "what": "ഇന്റർപാത്ത്-ഒന്ന് പഠനത്തിന്റെ ഡാറ്റകൾ അഡ്ജുവന്റ് മെലാനോമാ പരിചരണത്തിൽ പുതിയ സമീപനം സൂചിപ്പിക്കുന്നു. അതേ സമയം, മോഡേൺയും മെർക്കും ചേർന്ന മെലാനോമാ വാക്സിന്റെ ഫേസ് മൂന്ന് ഫലങ്ങൾ പ്രതീക്ഷിച്ചതിനേക്കാൾ കുറവായിരുന്നു.",
+  "why": "ഇത് കാൻസർ ഗവേഷണത്തിലെ പുരോഗതിയും വെല്ലുവിളികളും മനസ്സിലാക്കാൻ സഹായിക്കും, അതിനാൽ യുവജനങ്ങൾ ആരോഗ്യ പരിശോധനയും ഗവേഷണ പിന്തുണയും പ്രോത്സാഹിപ്പിക്കണം.",
+  "tags": [
+   "melanoma",
+   "cancerresearch",
+   "vaccines",
+   "healthnews"
+  ],
+  "say": "മെലാനോമാ വാക്സിൻ ട്രയൽ പ്രതീക്ഷകളെക്കാൾ താഴെ, പുതിയ ഗവേഷണ ദിശകൾ തുറക്കുന്നു. ഇന്റർപാത്ത്-ഒന്ന് പഠനത്തിന്റെ ഡാറ്റകൾ അഡ്ജുവന്റ് മെലാനോമാ പരിചരണത്തിൽ പുതിയ സമീപനം സൂചിപ്പിക്കുന്നു. അതേ സമയം, മോഡേൺയും മെർക്കും ചേർന്ന മെലാനോമാ വാക്സിന്റെ ഫേസ് മൂന്ന് ഫലങ്ങൾ പ്രതീക്ഷിച്ചതിനേക്കാൾ കുറവായിരുന്നു. ഇത് കാൻസർ ഗവേഷണത്തിലെ പുരോഗതിയും വെല്ലുവിളികളും മനസ്സിലാക്കാൻ സഹായിക്കും, അതിനാൽ യുവജനങ്ങൾ ആരോഗ്യ പരിശോധനയും ഗവേഷണ പിന്തുണയും പ്രോത്സാഹിപ്പിക്കണം.",
+  "tags_en": [
+   "melanoma",
+   "cancerresearch",
+   "vaccines",
+   "healthnews"
+  ]
+ }
+}

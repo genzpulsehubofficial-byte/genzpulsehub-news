@@ -1,0 +1,45 @@
+{
+ "id": "831875c46e9b",
+ "created": "2026-11-26T04:08:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/us-deports-1-700-indians-this-year-centre-says-it-opposes-illegal-immigration-12377863#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "US deported 1,700 Indians this year, India opposes illegal immigration",
+  "hook": "Thousands of Indians faced US deportation – see why it matters for you.",
+  "what": "The United States has removed about 1,700 Indian nationals so far in 2024. India’s Ministry of External Affairs said the government is firmly against illegal immigration.",
+  "why": "Young Indians planning to work or study abroad should keep their visas valid and follow immigration rules to avoid similar problems.",
+  "tags": [
+   "US",
+   "deportation",
+   "immigration",
+   "India",
+   "visa"
+  ]
+ },
+ "ml": {
+  "headline": "യു.എസ്.-ൽ 1,700 ഇന്ത്യൻ കുടിയേറ്റക്കാരെ പുറത്താക്കി; ഇന്ത്യ നിയമവിരുദ്ധ കുടിയേറ്റത്തെതിരെ",
+  "hook": "വലിയ സംഖ്യയിൽ ഇന്ത്യൻ യുവാക്കൾക്ക് യു.എസ്.-യിൽ നിന്ന് പുറത്താക്കൽ – ഇതിന്റെ പ്രാധാന്യം എന്താണ്?",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് ഈ വർഷം ഏകദേശം 1,700 ഇന്ത്യൻ പൗരന്മാരെ പുറത്താക്കി. ഇന്ത്യയുടെ വിദേശകാര്യ മന്ത്രാലയം നിയമവിരുദ്ധ കുടിയേറ്റത്തെതിരെ കടുത്ത നിലപാട് സ്വീകരിച്ചുവെന്ന് അറിയിച്ചു.",
+  "why": "വിദേശത്ത് ജോലി അല്ലെങ്കിൽ പഠനം ചെയ്യാൻ പോകുന്ന യുവാക്കൾ വിസ നിയമം പാലിക്കുകയും, നിയമവിരുദ്ധമായി രാജ്യത്ത് താമസിക്കാതിരിക്കുകയും വേണം.",
+  "tags": [
+   "US",
+   "deportation",
+   "immigration",
+   "India",
+   "visa"
+  ],
+  "say": "വലിയ സംഖ്യയിൽ ഇന്ത്യൻ യുവാക്കൾക്ക് യു.എസ്.-യിൽ നിന്ന് പുറത്താക്കൽ – ഇതിന്റെ പ്രാധാന്യം എന്താണ്? യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് ഈ വർഷം ഏകദേശം ഒന്ന് ആയിരം ഏഴ് നൂറ്റി അമ്പത് ഇന്ത്യൻ പൗരന്മാരെ പുറത്താക്കി. ഇന്ത്യയുടെ വിദേശകാര്യ മന്ത്രാലയം നിയമവിരുദ്ധ കുടിയേറ്റത്തെതിരെ കടുത്ത നിലപാട് സ്വീകരിച്ചുവെന്ന് അറിയിച്ചു. വിദേശത്ത് ജോലി അല്ലെങ്കിൽ പഠനം ചെയ്യാൻ പോകുന്ന യുവാക്കൾ വിസ നിയമം പാലിക്കുകയും, നിയമവിരുദ്ധമായി രാജ്യത്ത് താമസിക്കാതിരിക്കുകയും വേണം.",
+  "tags_en": [
+   "US",
+   "deportation",
+   "immigration",
+   "India",
+   "visa"
+  ]
+ }
+}

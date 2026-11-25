@@ -1,5 +1,118 @@
 [
  {
+  "id": "831875c46e9b",
+  "created": "2026-11-26T04:08:50+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/us-deports-1-700-indians-this-year-centre-says-it-opposes-illegal-immigration-12377863#publisher=newsstand",
+  "headline": "US deported 1,700 Indians this year, India opposes illegal immigration",
+  "hook": "Thousands of Indians faced US deportation – see why it matters for you.",
+  "what": "The United States has removed about 1,700 Indian nationals so far in 2024. India’s Ministry of External Affairs said the government is firmly against illegal immigration.",
+  "why": "Young Indians planning to work or study abroad should keep their visas valid and follow immigration rules to avoid similar problems.",
+  "tags": [
+   "US",
+   "deportation",
+   "immigration",
+   "India",
+   "visa"
+  ]
+ },
+ {
+  "id": "051ac9de80a1",
+  "created": "2026-11-26T04:08:55+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/ahmedabad-news/ahmedabad-man-arrested-for-allegedly-setting-car-on-fire-12377897#publisher=newsstand",
+  "headline": "Ahmedabad man nabbed for allegedly torching boss's car",
+  "hook": "A car blaze leads to a swift arrest in Ahmedabad.",
+  "what": "Police arrested a man in Ahmedabad after he is suspected of dousing his company's owner's vehicle with a flammable liquid and setting it ablaze. The incident prompted an immediate investigation.",
+  "why": "Arson carries severe legal penalties, so avoiding violent actions is essential for safety and future prospects.",
+  "tags": [
+   "Ahmedabad",
+   "Arrest",
+   "Arson",
+   "Crime",
+   "News"
+  ]
+ },
+ {
+  "id": "dace16bca612",
+  "created": "2026-11-26T04:09:00+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/delhi-police-arrests-four-suspects-in-crypto-fraud-case/",
+  "headline": "Delhi Police nab four in crypto fraud sting",
+  "hook": "A cyber squad cracks a crypto scam in the capital.",
+  "what": "The Delhi Police cyber unit said it dismantled an organised cryptocurrency fraud network and arrested four people. The arrests were announced in an official statement.",
+  "why": "Young investors should be cautious with online crypto offers and verify platforms before trusting them.",
+  "tags": [
+   "crypto",
+   "fraud",
+   "DelhiPolice",
+   "cybercrime",
+   "youth"
+  ]
+ },
+ {
+  "id": "a0eb20a431e2",
+  "created": "2026-11-26T04:13:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Notebookcheck",
+  "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTFnN0F2RXRmcU9QdkF6cEZFX1RZV1hiUzlVajhNTXFrcHYxV1c4YXNYUnFDeE9VMU9rYlNDNGI0S2pONUM4ZGRfQ2N4MUxfSmNaNTBXZlBVWGljLThZUVRuZDB1ZnVWUDdQcHFvX2p5R1l4bVdkWnJwRHB0WFJzdkthcE9nU0hRNWNsSXRDUjJRRGxvS3FrallncjdCdVFOZS1jVEhnVWNzN192bWhSaXZMem1SVnNxMHU5bmJQNA?oc=5",
+  "headline": "GTA 6 leak runs on jailbroken PS5, spikes piracy",
+  "hook": "Your PS5 could be used to run an illegal GTA 6 copy.",
+  "what": "A leaked GTA 6 build is now executable on a jailbroken PS5 console. The same dump also enables PC emulation, and Rockstar’s parent company has taken down an unauthorized PC port.",
+  "why": "This shows how console hacks can spread illegal game copies, risking bans and legal trouble. Teens should avoid downloading or using such files.",
+  "tags": [
+   "GTA6",
+   "PS5",
+   "piracy",
+   "gaming",
+   "tech"
+  ]
+ },
+ {
+  "id": "1bfafefd9039",
+  "created": "2026-11-26T04:14:02+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Moneycontrol.com",
+  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWlVZmVoUnY1REF0aWtUUEh5VE5KdXI0RWZ3RUQwazBoOVFUcVZfNUJfNHZNNW9qbENJUmF6eU4tZmdaNDZHUnhLbDViejBkV3VPdW9HZWNyY3lPbnFMTUF3U0dWREVWOExYaVNFbnJPMzhJTlBVYUFNalN1dnYwSURCRHc2cDZBbFFnOGJVWkFXQjJLM1ozaTg0bWI0eW5MMldVTDFjcUh4bVJmQlpsdUhidG5GTDFRbWd5UnRHenRHNC1hYVU5Q1FXcGNrS2dEdkdNStIB2gFBVV95cUxNc3FXQUxoN2ZrSW50X2dxV0JoWGlqbWRxMlA1a3J4Yy1hVDZhRWZhNjhWMFNBcW1ieDZGcGlCUFRQb013X25KQkx4VE9feHppVEJrM0FPNnRDLWFBT1JNSWg3ek1LaHA5NVZQaHZRbFRVem5mLUdnS2dyN1doWGE3Nk5saXZ6bWlWaTFuRHpzbGVwd1dBeFc2bjdwUkRFcUhTdTc4WWg4T3Q2NmxNdnJjNU9SUmVQVHZfbkNrODduRWxiVHJrbWM5RWJpVFA1eXNBSUs5QkdSQ2llUQ?oc=5",
+  "headline": "Nifty & Bank Nifty May Rebound After Profit Booking",
+  "hook": "Markets could swing sharply as traders unwind positions.",
+  "what": "Ahead of the November F&O expiry, profit taking has weighed on Nifty 50 and Bank Nifty. TradingView shows the Nifty futures back in an uptrend, while the Sensex trimmed earlier gains.",
+  "why": "Volatile moves mean young investors should stay cautious and watch for entry points before committing funds.",
+  "tags": [
+   "Nifty",
+   "BankNifty",
+   "profitbooking",
+   "F&O",
+   "markettrend"
+  ]
+ },
+ {
+  "id": "c8ef6a747c8f",
+  "created": "2026-11-26T04:14:09+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "DocWireNews",
+  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDU2X2lDT0Y4eTFnZ3RJX0w0SG9nbEhSQ0RaalNtSnlUWGYwYl96ZlJibUhrdGpCUkpLbVBuTVR3aUY1T21heEFZck9naUlWcHBYeWJYX0ZPdmhKWHJaT3hzeUZTSDRrOEJMb0lqOFRTdEh5cjY1b0p1VEUzMU1BUFd1dzJpa3BUR09rbGhtdzNRT244dGtiZnpGLXZwWlJMV3c?oc=5",
+  "headline": "New INTerpath-001 data shakes up melanoma treatment outlook",
+  "hook": "Melanoma vaccine trial falls short, prompting fresh research directions.",
+  "what": "Data from the INTerpath-001 study suggest a shift in how adjuvant melanoma care may be approached. Meanwhile, Phase 3 results of the Moderna‑Merck melanoma vaccine showed weaker efficacy than anticipated.",
+  "why": "Understanding these developments helps teens see both progress and setbacks in cancer research, underscoring the importance of early detection and supporting vaccine trials.",
+  "tags": [
+   "melanoma",
+   "cancerresearch",
+   "vaccines",
+   "healthnews"
+  ]
+ },
+ {
   "id": "a376682f78c7",
   "created": "2026-11-26T03:11:07+05:30",
   "category": "money",
@@ -638,120 +751,6 @@
    "Teachers",
    "Students",
    "Policy"
-  ]
- },
- {
-  "id": "f5ef2a358697",
-  "created": "2026-11-25T21:02:01+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-  "headline": "Todoist data breach exposes user emails and passwords",
-  "hook": "Your Todoist login info might be at risk",
-  "what": "A hacker accessed Todoist’s production servers and took user data. Stolen details include email addresses, password hashes and the dates accounts were created.",
-  "why": "If you use Todoist, change your password and enable two‑factor authentication. Protecting your login info helps keep other accounts safe.",
-  "tags": [
-   "Todoist",
-   "data breach",
-   "cybersecurity",
-   "privacy",
-   "students"
-  ]
- },
- {
-  "id": "34c75eb2d85d",
-  "created": "2026-11-25T21:02:03+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/what-changes-for-your-money-in-december-2026-sbi-card-fees-aadhaar-updates-and-other-rules-consumers-should-know-11795619346153.html",
-  "headline": "December 2026: New SBI Card Fees and SEBI Rules",
-  "hook": "Your wallet, Aadhaar and investments get fresh updates.",
-  "what": "SBI will apply updated charges to its credit cards from December. SEBI has introduced new margin requirements for commodity trading. Overseas investors who qualify can now complete digital KYC more easily.",
-  "why": "Young adults should check the revised card fees to avoid surprises and understand the new commodity margins if they trade. Updating Aadhaar email before year‑end and meeting pension life‑certificate deadlines can keep services uninterrupted.",
-  "tags": [
-   "SBI",
-   "SEBI",
-   "Aadhaar",
-   "KYC",
-   "Finance"
-  ]
- },
- {
-  "id": "97af1dae055d",
-  "created": "2026-11-25T21:02:06+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/jeevan-pramaan-nov-30-deadline-are-you-eligible-to-submit-life-certificate-digitally-who-must-visit-pension-office-11795616051132.html",
-  "headline": "Nov 30 deadline for Jeevan Pramaan digital life certificate",
-  "hook": "Remarried or re‑employed pensioners, you can’t upload online.",
-  "what": "The Jeevan Pramaan portal stops accepting digital life certificates after Nov 30. Pensioners who are remarried or have taken up new jobs are not eligible to submit the certificate online. They must approach the pension office in person.",
-  "why": "Missing the deadline could delay pension payments, so affected retirees should visit their local office promptly.",
-  "tags": [
-   "pension",
-   "JeevanPramaan",
-   "digitalCertificate",
-   "deadline",
-   "India"
-  ]
- },
- {
-  "id": "8137568c5ca5",
-  "created": "2026-11-25T21:02:08+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-  "headline": "Allstate faces days-long tech outage before Thanksgiving",
-  "hook": "Travel plans hit as Allstate’s systems go down",
-  "what": "Allstate’s digital platforms experienced a multi‑day outage. The issue emerged just before the Thanksgiving travel rush, affecting the insurer’s online services.",
-  "why": "Even if you’re not an Allstate customer, the glitch shows how tech failures can disrupt essential services during busy periods. It’s a reminder to have backup plans when relying on digital tools.",
-  "tags": [
-   "Allstate",
-   "techoutage",
-   "Thanksgiving",
-   "travel",
-   "insurance"
-  ]
- },
- {
-  "id": "23af3fbcdfc4",
-  "created": "2026-11-25T19:46:39+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "FlipItMoney",
-  "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTh4MnJkOGI0MDVTSHdkSHZuNFNnSlhWTFpBYzFjZ1VheGZDdWlxMVZaY05vMW16UnRKX1EzM0FfWUVEYzFPcEdXNXNXLWxueTFhYkdQcUQyTHlGQ2VkY2FMOGI1LTdJVjdScHVJYy1IRmRGMWNDd3ZjaEphV2pvSGxmTzhULXFOWWVUc2M2U3RQblg5dmU4UzBGRl8?oc=5",
-  "headline": "Kerala Sets Up Panel to Review PSC Jobs and Rankings",
-  "hook": "A new panel could reshape state job selections.",
-  "what": "The Kerala government has created a committee to examine the Public Service Commission's recruitment procedures, rank lists, and vacant positions. The panel will assess existing processes and decisions.",
-  "why": "This review may affect upcoming government job exams and postings, so aspirants should stay updated.",
-  "tags": [
-   "Kerala",
-   "PSC",
-   "Jobs",
-   "Recruitment",
-   "Panel"
-  ]
- },
- {
-  "id": "a93cb0cd47c9",
-  "created": "2026-11-25T19:46:42+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/missing-patient-at-thrissur-mch-found-dead-in-washroom-36-hours-later/article71741635.ece",
-  "headline": "Patient missing from Thrissur MCH discovered dead after 36 hrs",
-  "hook": "A missing hospital patient was found lifeless in a washroom.",
-  "what": "A patient who went missing from Thrissur Medical College Hospital was located dead in a washroom 36 hours later. The discovery came after a search by authorities.",
-  "why": "It raises concerns about patient safety and monitoring in hospitals, prompting families to demand better oversight.",
-  "tags": [
-   "thrissur",
-   "mch",
-   "patient",
-   "death",
-   "hospital"
   ]
  }
 ]

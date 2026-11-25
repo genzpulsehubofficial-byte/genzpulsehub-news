@@ -1,0 +1,45 @@
+{
+ "id": "1bfafefd9039",
+ "created": "2026-11-26T04:14:02+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Moneycontrol.com",
+ "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWlVZmVoUnY1REF0aWtUUEh5VE5KdXI0RWZ3RUQwazBoOVFUcVZfNUJfNHZNNW9qbENJUmF6eU4tZmdaNDZHUnhLbDViejBkV3VPdW9HZWNyY3lPbnFMTUF3U0dWREVWOExYaVNFbnJPMzhJTlBVYUFNalN1dnYwSURCRHc2cDZBbFFnOGJVWkFXQjJLM1ozaTg0bWI0eW5MMldVTDFjcUh4bVJmQlpsdUhidG5GTDFRbWd5UnRHenRHNC1hYVU5Q1FXcGNrS2dEdkdNStIB2gFBVV95cUxNc3FXQUxoN2ZrSW50X2dxV0JoWGlqbWRxMlA1a3J4Yy1hVDZhRWZhNjhWMFNBcW1ieDZGcGlCUFRQb013X25KQkx4VE9feHppVEJrM0FPNnRDLWFBT1JNSWg3ek1LaHA5NVZQaHZRbFRVem5mLUdnS2dyN1doWGE3Nk5saXZ6bWlWaTFuRHpzbGVwd1dBeFc2bjdwUkRFcUhTdTc4WWg4T3Q2NmxNdnJjNU9SUmVQVHZfbkNrODduRWxiVHJrbWM5RWJpVFA1eXNBSUs5QkdSQ2llUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nifty & Bank Nifty May Rebound After Profit Booking",
+  "hook": "Markets could swing sharply as traders unwind positions.",
+  "what": "Ahead of the November F&O expiry, profit taking has weighed on Nifty 50 and Bank Nifty. TradingView shows the Nifty futures back in an uptrend, while the Sensex trimmed earlier gains.",
+  "why": "Volatile moves mean young investors should stay cautious and watch for entry points before committing funds.",
+  "tags": [
+   "Nifty",
+   "BankNifty",
+   "profitbooking",
+   "F&O",
+   "markettrend"
+  ]
+ },
+ "ml": {
+  "headline": "Nifty, Bank Nifty‑ൽ ലാഭം എടുത്തതിന് ശേഷം തിരിച്ചു വരാനുള്ള സാധ്യത",
+  "hook": "ട്രേഡർമാർ പോസിഷനുകൾ അടയ്ക്കുമ്പോൾ മാർക്കറ്റ് വേഗത്തിൽ മാറാം.",
+  "what": "നവംബർ എഫ്‌ആന്‍ഡ്‌ഒ കാലാവധി അടുത്തിരിക്കുമ്പോൾ, ലാഭം എടുത്തതോടെ നിഫ്റ്റി അമ്പതു, ബാങ്ക് നിഫ്റ്റി എന്നിവയിൽ സമ്മർദ്ദം കാണപ്പെട്ടു. ട്രേഡിംഗ്‌വ്യൂ‑ൽ നിഫ്റ്റി ഫ്യൂച്ചറുകൾ വീണ്ടും ഉയർന്ന ട്രെൻഡിലാണെന്ന് കാണിക്കുന്നു, meanwhile സെന്‍സെക്സ് മുമ്പത്തെ ലാഭം കുറച്ചു.",
+  "why": "ഇത്തരത്തിലുള്ള ചഞ്ചലതയിൽ യുവ നിക്ഷേപകർ ജാഗ്രത പാലിച്ച്, നല്ല എൻട്രി പോയിന്റുകൾ കാത്തിരിക്കണം.",
+  "tags": [
+   "Nifty",
+   "BankNifty",
+   "profitbooking",
+   "F&O",
+   "markettrend"
+  ],
+  "say": "ട്രേഡർമാർ പോസിഷനുകൾ അടയ്ക്കുമ്പോൾ മാർക്കറ്റ് വേഗത്തിൽ മാറാം. നവംബർ എഫ്‌ആന്‍ഡ്‌ഒ കാലാവധി അടുത്തിരിക്കുമ്പോൾ, ലാഭം എടുത്തതോടെ നിഫ്റ്റി അമ്പതു, ബാങ്ക് നിഫ്റ്റി എന്നിവയിൽ സമ്മർദ്ദം കാണപ്പെട്ടു. ട്രേഡിംഗ്‌വ്യൂ‑ൽ നിഫ്റ്റി ഫ്യൂച്ചറുകൾ വീണ്ടും ഉയർന്ന ട്രെൻഡിലാണെന്ന് കാണിക്കുന്നു, meanwhile സെന്‍സെക്സ് മുമ്പത്തെ ലാഭം കുറച്ചു. ഇത്തരത്തിലുള്ള ചഞ്ചലതയിൽ യുവ നിക്ഷേപകർ ജാഗ്രത പാലിച്ച്, നല്ല എൻട്രി പോയിന്റുകൾ കാത്തിരിക്കണം.",
+  "tags_en": [
+   "Nifty",
+   "BankNifty",
+   "profitbooking",
+   "F&O",
+   "markettrend"
+  ]
+ }
+}

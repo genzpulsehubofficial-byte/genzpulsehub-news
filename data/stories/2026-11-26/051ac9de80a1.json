@@ -1,0 +1,45 @@
+{
+ "id": "051ac9de80a1",
+ "created": "2026-11-26T04:08:55+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/ahmedabad-news/ahmedabad-man-arrested-for-allegedly-setting-car-on-fire-12377897#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ahmedabad man nabbed for allegedly torching boss's car",
+  "hook": "A car blaze leads to a swift arrest in Ahmedabad.",
+  "what": "Police arrested a man in Ahmedabad after he is suspected of dousing his company's owner's vehicle with a flammable liquid and setting it ablaze. The incident prompted an immediate investigation.",
+  "why": "Arson carries severe legal penalties, so avoiding violent actions is essential for safety and future prospects.",
+  "tags": [
+   "Ahmedabad",
+   "Arrest",
+   "Arson",
+   "Crime",
+   "News"
+  ]
+ },
+ "ml": {
+  "headline": "അഹമദാബാദില്‍ കാറില്‍ തീപിടിച്ചവന്‍ അറസ്റ്റുചെയ്യപ്പെട്ടു",
+  "hook": "കമ്പനി ഉടമയുടെ കാറില്‍ തീപിടിച്ചവനെ പോലീസ് ഉടന്‍ പിടികൂടി.",
+  "what": "പോലീസ് അഹമദാബാദില്‍ ഒരു വ്യക്തിയെ അറസ്റ്റുചെയ്തു. അവന്‍ കമ്പനി ഉടമയുടെ വാഹനത്തില്‍ ജ്വലനശീലമുള്ള ദ്രാവകം ഒഴിച്ച് തീപിടിച്ചതായി ആരോപണം. സംഭവം ഉടന്‍ അന്വേഷണം ആരംഭിച്ചു.",
+  "why": "അഗ്നി ക്രിമിനലുകള്‍ ഗുരുതരമായ ശിക്ഷയ്ക്ക് കാരണമാകും; ഹിംസാത്മക പ്രവര്‍ത്തനങ്ങള്‍ ഒഴിവാക്കണം.",
+  "tags": [
+   "അഹമദാബാദ്",
+   "അറസ്റ്റു",
+   "അഗ്നി",
+   "ക്രൈം",
+   "വാർത്ത"
+  ],
+  "say": "കമ്പനി ഉടമയുടെ കാറില്‍ തീപിടിച്ചവനെ പോലീസ് ഉടന്‍ പിടികൂടി. പോലീസ് അഹമദാബാദില്‍ ഒരു വ്യക്തിയെ അറസ്റ്റുചെയ്തു. അവന്‍ കമ്പനി ഉടമയുടെ വാഹനത്തില്‍ ജ്വലനശീലമുള്ള ദ്രാവകം ഒഴിച്ച് തീപിടിച്ചതായി ആരോപണം. സംഭവം ഉടന്‍ അന്വേഷണം ആരംഭിച്ചു. അഗ്നി ക്രിമിനലുകള്‍ ഗുരുതരമായ ശിക്ഷയ്ക്ക് കാരണമാകും; ഹിംസാത്മക പ്രവര്‍ത്തനങ്ങള്‍ ഒഴിവാക്കണം.",
+  "tags_en": [
+   "Ahmedabad",
+   "Arrest",
+   "Arson",
+   "Crime",
+   "News"
+  ]
+ }
+}

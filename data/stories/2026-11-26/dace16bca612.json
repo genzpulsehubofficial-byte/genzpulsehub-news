@@ -1,0 +1,45 @@
+{
+ "id": "dace16bca612",
+ "created": "2026-11-26T04:09:00+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/delhi-police-arrests-four-suspects-in-crypto-fraud-case/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi Police nab four in crypto fraud sting",
+  "hook": "A cyber squad cracks a crypto scam in the capital.",
+  "what": "The Delhi Police cyber unit said it dismantled an organised cryptocurrency fraud network and arrested four people. The arrests were announced in an official statement.",
+  "why": "Young investors should be cautious with online crypto offers and verify platforms before trusting them.",
+  "tags": [
+   "crypto",
+   "fraud",
+   "DelhiPolice",
+   "cybercrime",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെലിയിൽ പോലീസ് ക്രിപ്റ്റോ തട്ടവിൽ നാല് പിടിച്ചു",
+  "hook": "ക്യാപിറ്റലിലെ സൈബർ ടീം ക്രിപ്റ്റോ സ്‌കാം തകർത്തു.",
+  "what": "ഡെലിയുടെ പോലീസ് സൈബർ യൂണിറ്റ് ഒരു ക്രമീകരിച്ച ക്രിപ്റ്റോ കപടം തകർത്തു, നാല് പേരെ അറസ്റ്റു ചെയ്തു എന്ന് ഔദ്യോഗിക പ്രസ്താവനയിൽ അറിയിച്ചു.",
+  "why": "ഓൺലൈൻ ക്രിപ്റ്റോ ഓഫറുകൾക്ക് മുൻപ് പരിശോധിച്ച്, യുവ നിക്ഷേപകർ ജാഗ്രത പാലിക്കണം.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "തട്ടിപ്പ്",
+   "പോലീസ്",
+   "സൈബർക്രൈം",
+   "യുവാക്കൾ"
+  ],
+  "say": "ക്യാപിറ്റലിലെ സൈബർ ടീം ക്രിപ്റ്റോ സ്‌കാം തകർത്തു. ഡെലിയുടെ പോലീസ് സൈബർ യൂണിറ്റ് ഒരു ക്രമീകരിച്ച ക്രിപ്റ്റോ കപടം തകർത്തു, നാല് പേരെ അറസ്റ്റു ചെയ്തു എന്ന് ഔദ്യോഗിക പ്രസ്താവനയിൽ അറിയിച്ചു. ഓൺലൈൻ ക്രിപ്റ്റോ ഓഫറുകൾക്ക് മുൻപ് പരിശോധിച്ച്, യുവ നിക്ഷേപകർ ജാഗ്രത പാലിക്കണം.",
+  "tags_en": [
+   "crypto",
+   "fraud",
+   "DelhiPolice",
+   "cybercrime",
+   "youth"
+  ]
+ }
+}

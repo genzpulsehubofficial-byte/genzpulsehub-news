@@ -1,0 +1,45 @@
+{
+ "id": "a0eb20a431e2",
+ "created": "2026-11-26T04:13:54+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Notebookcheck",
+ "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTFnN0F2RXRmcU9QdkF6cEZFX1RZV1hiUzlVajhNTXFrcHYxV1c4YXNYUnFDeE9VMU9rYlNDNGI0S2pONUM4ZGRfQ2N4MUxfSmNaNTBXZlBVWGljLThZUVRuZDB1ZnVWUDdQcHFvX2p5R1l4bVdkWnJwRHB0WFJzdkthcE9nU0hRNWNsSXRDUjJRRGxvS3FrallncjdCdVFOZS1jVEhnVWNzN192bWhSaXZMem1SVnNxMHU5bmJQNA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA 6 leak runs on jailbroken PS5, spikes piracy",
+  "hook": "Your PS5 could be used to run an illegal GTA 6 copy.",
+  "what": "A leaked GTA 6 build is now executable on a jailbroken PS5 console. The same dump also enables PC emulation, and Rockstar’s parent company has taken down an unauthorized PC port.",
+  "why": "This shows how console hacks can spread illegal game copies, risking bans and legal trouble. Teens should avoid downloading or using such files.",
+  "tags": [
+   "GTA6",
+   "PS5",
+   "piracy",
+   "gaming",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "ജെയ്ല്ബ്രേക്കഡ് PS5-ൽ GTA 6 ലീക്ക്, പൈറ്റ്സി വർധിച്ചു",
+  "hook": "നിങ്ങളുടെ PS5-യിൽ അനധികൃത GTA 6 കളിക്കാൻ സാധ്യത.",
+  "what": "ഒരു ചോർന്ന GTA 6 ബിൽഡ് ജെയില്ബ്രോക്ക് PS5-ൽ പ്രവർത്തിക്കുന്നു. അതേ ഡംപ് പിസി എമുലേറ്ററിനും ഉപയോഗിക്കാം, കൂടാതെ റോക്ക്സ്റ്ററിന്റെ മാതൃകമ്പനി അനധികൃത പിസി പോർട്ട് അടച്ചു.",
+  "why": "കൺസോൾ ഹാക്കുകൾ ഗെയിം പൈറ്റ്സി വ്യാപിപ്പിക്കാൻ കാരണമാകുന്നു, അക്കൗണ്ട് ബാൻ അല്ലെങ്കിൽ നിയമ പ്രശ്നങ്ങൾ വരാം. ഇത്തരത്തിലുള്ള ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് ഒഴിവാക്കുക.",
+  "tags": [
+   "GTA6",
+   "PS5",
+   "പൈറസി",
+   "ഗെയിമിംഗ്",
+   "ടെക്"
+  ],
+  "say": "നിങ്ങളുടെ പിഎസ് അഞ്ചിൽ അനധികൃത ജിടിഎ അഞ്ച് കളിക്കാൻ സാധ്യത. ഒരു ചോർണ്ട് ജിടിഎ അഞ്ച് ബിൽഡ് ജെയില്ബ്രോക്ക് പിഎസ് അഞ്ചിൽ പ്രവർത്തിക്കുന്നു. അതേ ഡംപ് പിസി എമുലേറ്ററിനും ഉപയോഗിക്കാം, കൂടാതെ റോക്ക്സ്റ്ററിന്റെ മാതൃകമ്പനി അനധികൃത പിസി പോർട്ട് അടച്ചു. കൺസോൾ ഹാക്കുകൾ ഗെയിം പൈറ്റ്സി വ്യാപിപ്പിക്കാൻ കാരണമാകുന്നു, അക്കൗണ്ട് ബാൻ അല്ലെങ്കിൽ നിയമ പ്രശ്നങ്ങൾ വരാം. ഇത്തരത്തിലുള്ള ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് ഒഴിവാക്കുക.",
+  "tags_en": [
+   "GTA6",
+   "PS5",
+   "piracy",
+   "gaming",
+   "tech"
+  ]
+ }
+}
