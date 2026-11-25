@@ -48,9 +48,15 @@ def yt_token(lang):
     cid, sec, ref = env("YT_CLIENT_ID"), env("YT_CLIENT_SECRET"), env(f"YT_REFRESH_{lang.upper()}")
     if not (cid and sec and ref):
         return None
-    r = requests.post("https://oauth2.googleapis.com/token", data={"client_id": cid, "client_secret": sec,
-                      "refresh_token": ref, "grant_type": "refresh_token"}, timeout=30)
-    r.raise_for_status()
+    r = requests.post("https://oauth2.googleapis.com/token", data={"client_id": cid.strip(), "client_secret": sec.strip(),
+                      "refresh_token": ref.strip(), "grant_type": "refresh_token"}, timeout=30)
+    if not r.ok:
+        try: err = r.json()
+        except Exception: err = {}
+        shape = f"id={len(cid.strip())}ch/{'ok' if cid.strip().endswith('.apps.googleusercontent.com') else 'bad'} " \
+                f"secret={len(sec.strip())}ch/{'ok' if sec.strip().startswith('GOCSPX') else 'bad'} " \
+                f"refresh={len(ref.strip())}ch/{'ok' if ref.strip().startswith('1//') else 'bad'}"
+        raise RuntimeError(f"token {r.status_code} {err.get('error')}: {err.get('error_description')} [{shape}]")
     return r.json()["access_token"]
 
 
