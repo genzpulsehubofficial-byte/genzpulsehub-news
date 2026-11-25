@@ -13,6 +13,8 @@ DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "out", "shorts")
 G = "https://graph.facebook.com/v21.0"
 PAGES = {"en": "61596319547043", "ml": "61596419862358"}     # profile ids; real page ids resolved via token
+BIZ = "932757405756172"
+IG_USERS = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 PAGE_NAMES = {"en": "GenZ Pulse Hub", "ml": "GenZ Pulse Hub Malayalam"}
 SITE = {"en": "https://genzpulsehub.dpdns.org", "ml": "https://genzpulsehub.dpdns.org/ml"}
 YT_LIVE = {"en": "https://youtube.com/@genzpulsehubnews", "ml": "https://youtube.com/@genzpulsehubmalayalam"}
@@ -104,6 +106,26 @@ def meta_pages():
                 for lang, name in PAGE_NAMES.items():
                     if p["name"] == name:
                         _pages[lang] = p
+            # Fallback: find Instagram accounts by username (page link not always exposed)
+            igs = {}
+            for path in (f"{BIZ}/owned_instagram_accounts", f"{BIZ}/instagram_accounts"):
+                j = requests.get(f"{G}/{path}", params={"access_token": tok, "fields": "id,username", "limit": 50}, timeout=30).json()
+                for a in j.get("data", []):
+                    igs[a.get("username", "").lower()] = a["id"]
+                if j.get("error"):
+                    print("ig lookup", path, str(j["error"].get("message"))[:150])
+            for lang, p in _pages.items():
+                cand = [p.get("instagram_business_account"), p.get("connected_instagram_account")]
+                if not any(cand):
+                    j = requests.get(f"{G}/{p['id']}", params={"access_token": p["access_token"],
+                                     "fields": "instagram_business_account,connected_instagram_account"}, timeout=30).json()
+                    cand = [j.get("instagram_business_account"), j.get("connected_instagram_account")]
+                c = next((x for x in cand if x), None)
+                if not c and IG_USERS[lang] in igs:
+                    c = {"id": igs[IG_USERS[lang]]}
+                if c:
+                    p["instagram_business_account"] = c
+            print("ig found:", {l: bool(p.get("instagram_business_account")) for l, p in _pages.items()}, "| biz ig usernames:", list(igs))
     return _pages
 
 
