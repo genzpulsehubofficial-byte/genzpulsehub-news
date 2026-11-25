@@ -1,0 +1,17 @@
+name: mailer
+on:
+  schedule: [{cron: "*/30 * * * *"}]
+  workflow_dispatch:
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python mailer/send.py
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      - if: failure()
+        run: |
+          curl -s -H "Content-Type: application/json" -d '{"content":"@everyone ⚠️ Ad email sender failed. Check the mailer workflow."}' "${{ secrets.DISCORD_WEBHOOK_URL }}"
