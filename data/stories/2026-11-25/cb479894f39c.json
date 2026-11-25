@@ -1,0 +1,37 @@
+{
+ "id": "cb479894f39c",
+ "created": "2026-11-25T17:10:21+05:30",
+ "category": "exams",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/let-suspended-varsity-students-write-exams-govt-won-t-ruin-their-future-keralam-cm-101795600718771.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala CM urges exams for suspended university students",
+  "hook": "Your degree shouldn't be lost over a suspension.",
+  "what": "Kerala's chief minister said students who are currently suspended from university should still be allowed to sit for their exams. He added the government will not let this affect their future prospects.",
+  "why": "Ensuring exam access protects students' career plans and avoids long‑term setbacks, so affected youths should stay informed about any official guidelines.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "Exams",
+   "Students",
+   "Policy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം സി.എം. സസ്പെന്‍ഡ്‌ ആയ സർവകലാശാല വിദ്യാർത്ഥികൾക്ക് പരീക്ഷാ അവകാശം",
+  "hook": "നിങ്ങളുടെ ഡിഗ്രി സസ്പെന്‍ഷനിൽ നഷ്ടമാകാൻ പാടില്ല.",
+  "what": "കേരളത്തിന്റെ പ്രധാനമന്ത്രി, സസ്പെന്‍ഡ്‌ ആയ വിദ്യാർത്ഥികൾക്കും പരീക്ഷ എഴുതാൻ അനുവദിക്കണം എന്ന് പറഞ്ഞു. സർക്കാർ അവരുടെ ഭാവി നശിപ്പിക്കില്ലെന്ന് അദ്ദേഹം ഉറപ്പു നൽകി.",
+  "why": "പരീക്ഷാ പ്രവേശനം ഉറപ്പാക്കുന്നത് വിദ്യാർത്ഥികളുടെ കരിയർ പദ്ധതികളിൽ തടസ്സം വരാതെ സംരക്ഷിക്കും, അതിനാൽ ബന്ധപ്പെട്ട വിവരങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "പരീക്ഷ",
+   "വിദ്യാർത്ഥി",
+   "നയം"
+  ]
+ }
+}

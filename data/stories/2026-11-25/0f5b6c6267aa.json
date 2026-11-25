@@ -1,0 +1,33 @@
+{
+ "id": "0f5b6c6267aa",
+ "created": "2026-11-25T17:10:23+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/jammu-and-kashmir/no-tampering-violation-found-at-sheshnag-lake-jk-minister-altaf-kaloo/article71741828.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "J&K Minister says Sheshnag lake untouched, video misleading",
+  "hook": "A viral clip claims damage, but officials say it’s false.",
+  "what": "A video suggested that the Sheshnag lake had been tampered with. The Jammu & Kashmir forest minister said the Border Roads Organisation did not alter the lake and that the pilgrim track is 200‑300 ft away from the water.",
+  "why": "Young people should verify online videos before sharing and stay aware of environmental issues in the region.",
+  "tags": [
+   "SheshnagLake",
+   "JammuKashmir",
+   "FactCheck"
+  ]
+ },
+ "ml": {
+  "headline": "ജammu&കശ്മീർ മന്ത്രിയ്ക്ക് ഷെഷ്നാഗ് തടാകം സുരക്ഷിതം, വീഡിയോ തെറ്റിദ്ധരിപ്പിക്കുന്നു",
+  "hook": "വൈറൽ ക്ലിപ്പിൽ നാശം കാണിച്ചെങ്കിലും, ഉദ്യോഗസ്ഥർ അത് തെറ്റാണെന്ന് പറയുന്നു.",
+  "what": "ഷെഷ്നാഗ് തടാകം തകർത്തുവെന്ന് ഒരു വീഡിയോയിൽ കാണിച്ചു. ജammu&കശ്മീർ വന മന്ത്രിയ്ക്ക് BRO തടാകത്തിൽ മാറ്റം വരുത്തിയിട്ടില്ല, പൈലറ്റ് പാതയും തടാകവും 200‑300 അടി അകലെയാണെന്ന് ഉറപ്പു നൽകി.",
+  "why": "ഓൺലൈൻ വീഡിയോകൾ പങ്കിടുന്നതിന് മുൻപ് പരിശോധിക്കുക, പ്രദേശത്തെ പരിസ്ഥിതി പ്രശ്നങ്ങളോട് ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "SheshnagLake",
+   "JammuKashmir",
+   "FactCheck"
+  ]
+ }
+}

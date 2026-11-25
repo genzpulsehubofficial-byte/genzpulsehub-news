@@ -1,0 +1,35 @@
+{
+ "id": "a33e803dfd19",
+ "created": "2026-11-25T17:10:32+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-ultra-certification-charging-details-model-numbers-leak-12375013",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Samsung's S27 Ultra likely to keep 60W fast charging",
+  "hook": "Fast charging stays a key feature for Samsung's next flagship",
+  "what": "A recent certification leak suggests the upcoming Samsung Galaxy S27 Ultra will probably support 60W wired charging. The current Galaxy S26 Ultra already offers 60W fast charging.",
+  "why": "Keeping 60W means quicker battery refills, useful for heavy app usage and gaming. Teens can expect less downtime when the phone hits the market.",
+  "tags": [
+   "Samsung",
+   "FastCharging",
+   "GalaxyS27",
+   "TechNews"
+  ]
+ },
+ "ml": {
+  "headline": "Samsung-ന്റെ S27 Ultra-യിൽ 60W ഫാസ്റ്റ് ചാർജിംഗ് തുടരാൻ സാധ്യത",
+  "hook": "വേഗത്തിലുള്ള ചാർജിംഗ്, പുതിയ ഫ്ലാഗ്ഷിപ്പ് ഫോണിന്റെ പ്രധാന ആകർഷണം",
+  "what": "ഒരു പുതിയ സർട്ടിഫിക്കേഷൻ സൂചന പ്രകാരം, Samsung-ന്റെ വരാനിരിക്കുന്ന Galaxy S27 Ultra 60W വയർഡ് ചാർജിംഗ് പിന്തുണയ്ക്കാൻ സാധ്യതയുണ്ട്. നിലവിലെ Galaxy S26 Ultra ഇതിനകം 60W ഫാസ്റ്റ് ചാർജിംഗ് നൽകുന്നു.",
+  "why": "ഇത് ബാറ്ററി വേഗത്തിൽ നിറയ്ക്കാൻ സഹായിക്കും, ഗെയിമിംഗും സോഷ്യൽ മീഡിയയും കൂടുതൽ സമയം ഉപയോഗിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് ഫോൺ പുറത്തിറങ്ങുമ്പോൾ കുറവ് ഡൗൺടൈം പ്രതീക്ഷിക്കാം.",
+  "tags": [
+   "Samsung",
+   "FastCharging",
+   "GalaxyS27",
+   "Tech"
+  ]
+ }
+}

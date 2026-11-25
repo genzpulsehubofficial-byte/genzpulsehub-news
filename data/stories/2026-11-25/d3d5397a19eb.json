@@ -1,0 +1,37 @@
+{
+ "id": "d3d5397a19eb",
+ "created": "2026-11-25T17:10:13+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/itat-cancels-20-94-lakh-income-tax-penalty-on-property-sale-grants-relief-to-elderly-taxpayer-11795601260358.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT wipes ₹20.94 L penalty for senior property seller",
+  "hook": "A senior gets tax relief after proving a cash deal was justified.",
+  "what": "The Hyderabad Income Tax Appellate Tribunal removed a penalty of about ₹20.94 lakh that had been imposed on an elderly taxpayer over a property sale. The tribunal said the taxpayer had provided reasonable cause for the transaction. The penalty was therefore cancelled.",
+  "why": "Young people should note that tax authorities can reconsider penalties if valid explanations are given, so keeping proper records and communicating reasons can help avoid hefty fines.",
+  "tags": [
+   "tax relief",
+   "property sale",
+   "ITAT",
+   "senior taxpayer",
+   "penalty cancelled"
+  ]
+ },
+ "ml": {
+  "headline": "ഐടിഎടി മുതിര്‍ന്നവരുടെ പ്രോപ്പർട്ടി വിറ്റില്‍ 20.94 ലക്ഷം പിഴ റദ്ദാക്കി",
+  "hook": "പണപ്പെരുപ്പം കാണിച്ചുള്ള കാരണവിവരം നല്‍കിയാല്‍ മുതിര്‍ന്നവന്‍ ലഭിച്ചു നികുതി സുഖം.",
+  "what": "ഹൈദരാബാദ് ഇന്‍കം ടാക്‌സ് അപീല്‍ ട്രിബ്യൂണല്‍ ഒരു മുതിര്‍ന്ന നികുതിദാതാവിന് പ്രോപ്പർട്ടി വിറ്റില്‍ ചുമത്തിയ 20.94 ലക്ഷം പിഴ റദ്ദാക്കി. ട്രിബ്യൂണല്‍ പറഞ്ഞത്, ആ ഇടപാടിന് യുക്തിസഹമായ കാരണം നല്‍കിയതുകൊണ്ടാണ് ഈ തീരുമാനം. അതിനാല്‍ പിഴ ഒഴിവാക്കി.",
+  "why": "യുവാക്കള്‍ ശ്രദ്ധിക്കേണ്ടത്, നികുതിദാതാവിന് ശരിയായ വിശദീകരണം നല്‍കിയാല്‍ അധിക പിഴ ഒഴിവാക്കാന്‍ സാധ്യതയുണ്ട്, അതിനാല്‍ രേഖകള്‍ സൂക്ഷിച്ച് ആവശ്യമായ വിവരങ്ങള്‍ നല്‍കുക.",
+  "tags": [
+   "tax relief",
+   "property sale",
+   "ITAT",
+   "senior taxpayer",
+   "penalty cancelled"
+  ]
+ }
+}

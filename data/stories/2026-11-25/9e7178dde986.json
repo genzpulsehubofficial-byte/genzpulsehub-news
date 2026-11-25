@@ -1,0 +1,37 @@
+{
+ "id": "9e7178dde986",
+ "created": "2026-11-25T17:10:29+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-ethereum-and-usdt-trading-coming-to-russia-s-biggest-stock-exchange-crypto-adoption-crypto-regulations-btc-eth-tether-12375203",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Crypto trading to launch on Russia’s top stock exchange",
+  "hook": "Digital coins like Bitcoin will soon be bought like stocks in Russia.",
+  "what": "Russia’s largest stock exchange will start offering trading for Bitcoin, Ethereum and USDT. The National Clearing Center will manage the clearing and settlement of these trades.",
+  "why": "It signals wider acceptance of crypto in mainstream markets and could lead to more global trading options. Young Indians should stay updated on crypto regulations and platform developments.",
+  "tags": [
+   "crypto",
+   "Russia",
+   "stockexchange",
+   "Bitcoin",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "റഷ്യയുടെ പ്രധാന സ്റ്റോക്ക് എക്സ്ചേഞ്ചിൽ ക്രിപ്റ്റോ ട്രേഡിംഗ്",
+  "hook": "ബിറ്റ്‌കോയ്ൻ, ഈഥീരിയം പോലുള്ള ഡിജിറ്റൽ നാണയങ്ങൾ ഇപ്പോൾ സ്റ്റോക്കുകൾപോലെ വാങ്ങാൻ കഴിയും.",
+  "what": "റഷ്യയുടെ ഏറ്റവും വലിയ സ്റ്റോക്ക് എക്സ്ചേഞ്ചിൽ ബിറ്റ്‌കോയ്ൻ, ഈഥീരിയം, USDT എന്നിവയുടെ ട്രേഡിംഗ് ആരംഭിക്കും. നാഷണൽ ക്ലിയറിംഗ് സെന്റർ ഈ ഇടപാടുകളുടെ ക്ലിയറിംഗ്, സെറ്റിൽമെന്റ് കൈകാര്യം ചെയ്യും.",
+  "why": "ഇത് ക്രിപ്റ്റോയുടെ പ്രധാനധാരാ അംഗീകാരത്തെ സൂചിപ്പിക്കുന്നു, ലോകവ്യാപക ട്രേഡിംഗ് അവസരങ്ങൾ വർധിപ്പിക്കാൻ സാധ്യത. ഇന്ത്യയിലെ യുവാക്കൾക്ക് ക്രിപ്റ്റോ നിയമങ്ങളും പ്ലാറ്റ്ഫോം അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കാം.",
+  "tags": [
+   "ക്രിപ്റ്റോ",
+   "റഷ്യ",
+   "സ്റ്റോക്ക്എക്സ്ചേഞ്ച്",
+   "ബിറ്റ്‌കോയ്ൻ",
+   "യുവാക്കൾ"
+  ]
+ }
+}
