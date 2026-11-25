@@ -1,0 +1,37 @@
+{
+ "id": "ccb5bc005329",
+ "created": "2026-11-25T18:17:52+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/news/hmd-rise-4g-india-launch-tipped-arc-2-rebranded-design-specifications-features-12375709",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "HMD Rise 4G Expected Soon, May Rebrand as Arc 2",
+  "hook": "A new 4G phone could hit Indian shelves with a fresh name.",
+  "what": "HMD is reportedly preparing to launch its Rise 4G smartphone in India. The device may be sold under the new name HMD Arc 2 and is said to feature a 5‑megapixel front‑camera.",
+  "why": "For Gen Z, a 4G phone with a decent front camera can help with social media and online learning. Watch for official updates.",
+  "tags": [
+   "HMD",
+   "smartphone",
+   "launch",
+   "India",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "HMD Rise 4G ഉടൻ വരാം, Arc 2 ആയി പേര് മാറ്റാം",
+  "hook": "പുതിയ 4G ഫോൺ ഇന്ത്യയിൽ പുതിയ പേരിൽ വരാൻ സാധ്യത.",
+  "what": "HMD ഇന്ത്യയിൽ Rise 4G സ്മാർട്ട്ഫോൺ ലോഞ്ച് ചെയ്യാൻ തയ്യാറാണെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ഇത് HMD Arc 2 എന്ന പേരിൽ വിൽപ്പനക്ക് വരാം, 5 മെഗാപിക്സൽ ഫ്രണ്ട് ക്യാമറയുമുണ്ടെന്ന് പറയുന്നു.",
+  "why": "ജനറേഷൻ Z-യ്ക്ക് സോഷ്യൽ മീഡിയ, ഓൺലൈൻ പഠനം എന്നിവയ്ക്ക് നല്ല ഫ്രണ്ട് ക്യാമറയുള്ള 4G ഫോൺ ഉപകാരപ്രദം. ഔദ്യോഗിക പ്രഖ്യാപനങ്ങൾക്കായി കാത്തിരിക്കൂ.",
+  "tags": [
+   "HMD",
+   "സ്മാർട്ട്ഫോൺ",
+   "ലോഞ്ച്",
+   "ഇന്ത്യ",
+   "ടെക്"
+  ]
+ }
+}

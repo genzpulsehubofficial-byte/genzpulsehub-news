@@ -1,0 +1,37 @@
+{
+ "id": "aa41c65ef143",
+ "created": "2026-11-25T18:17:50+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/why-supreme-court-struck-down-two-up-laws-denying-pension-for-pre-regularisation-service-11795607404158.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court annuls UP pension exclusion laws",
+  "hook": "Your future retirement benefits just got protected.",
+  "what": "The top court declared two Uttar Pradesh statutes invalid because they barred pension credit for service before regularisation. The ruling ensures that employees who become regular cannot lose retirement pay due to their original appointment type.",
+  "why": "Young workers can now be confident that early job periods will count toward pension, so keep records of all employment dates.",
+  "tags": [
+   "pension",
+   "SupremeCourt",
+   "UttarPradesh",
+   "jobs",
+   "rights"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി UP-യിലെ പെന്‍ഷന്‍ ഒഴിവാക്കല്‍ നിയമങ്ങള്‍ റദ്ദാക്കി",
+  "hook": "നിങ്ങളുടെ വിരമിക്കല്‍ ഭാവി സുരക്ഷിതമായി.",
+  "what": "മഹാന്യായം രണ്ട് ഉത്തർപ്രദേശ് നിയമങ്ങൾ അസംവേദ്യമായി പ്രഖ്യാപിച്ചു, കാരണം അവ പ്രാരംഭ നിയമന നിലയുടെ അടിസ്ഥാനത്തിൽ പെന്‍ഷന്‍ കണക്കിൽ മുൻ സേവനം ഒഴിവാക്കുന്നു. regularised ജീവനക്കാർക്ക് അവരുടെ ആദ്യ നിയമന നില കാരണം വിരമിക്കൽ ആനുകൂല്യങ്ങൾ നിഷേധിക്കാനാവില്ല.",
+  "why": "ഇത് യുവ തൊഴിലാളികൾക്ക് അവരുടെ എല്ലാ ജോലിദിവസങ്ങളും പെന്‍ഷന്‍ കണക്കിൽ ഉൾപ്പെടുമെന്ന് ഉറപ്പാക്കുന്നു, അതിനാൽ ജോലി രേഖകൾ സൂക്ഷിക്കുക.",
+  "tags": [
+   "പെന്‍ഷന്‍",
+   "സുപ്രീംകോടതി",
+   "ഉത്തരപ്രദേശ്",
+   "തൊഴിൽ",
+   "അവകാശം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "77790f1ef195",
+ "created": "2026-11-25T18:17:42+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Comedian Yash Maheshwari booked in Patna over Chhath comments",
+  "hook": "A joke about women at a sacred festival landed him in police custody.",
+  "what": "Comedian Yash Maheshwari was arrested in Patna after his remarks about women observing the Chhath festival drew police action. Authorities booked him under relevant sections.",
+  "why": "The incident highlights sensitivity around religious practices; young people should be mindful of cultural sentiments when expressing opinions.",
+  "tags": [
+   "Patna",
+   "Chhath",
+   "Comedy",
+   "FreedomOfSpeech",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "കോമഡിയൻ യാഷ് മഹേശ്വരി ച്ഹത്തു ചടങ്ങിൽ സ്ത്രീകളെക്കുറിച്ചുള്ള അഭിപ്രായം കൊണ്ട് പറ്റ്നയിൽ പിടിക്കപ്പെട്ടു",
+  "hook": "സ്ത്രീകൾ ച്ഹത്തു ആഘോഷിക്കുന്നതിനെക്കുറിച്ചുള്ള ഒരു തമാശ അദ്ദേഹത്തെ പൊലീസ് പിടിച്ചെടുത്തു.",
+  "what": "കോമഡിയൻ യാഷ് മഹേശ്വരി പറ്റ്നയിൽ സ്ത്രീകൾ ച്ഹത്തു ആഘോഷിക്കുന്നതിനെക്കുറിച്ചുള്ള അഭിപ്രായം പറഞ്ഞതിനു ശേഷം പിടിക്കപ്പെട്ടു. അവരെ ബന്ധപ്പെട്ട നിയമപ്രകാരം ബുക്കുചെയ്തു.",
+  "why": "മതപരമ്പരകളെക്കുറിച്ചുള്ള സംവേദനശീലത്തെ ഇത് ചൂണ്ടിക്കാണിക്കുന്നു; യുവാക്കൾ അഭിപ്രായം പ്രകടിപ്പിക്കുമ്പോൾ സാംസ്കാരിക സംവേദനങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "പറ്റ്ന",
+   "ച്ഹത്തു",
+   "കോമഡി",
+   "സംസ്കാരം",
+   "ഇന്ത്യ"
+  ]
+ }
+}

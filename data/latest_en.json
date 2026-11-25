@@ -1,5 +1,119 @@
 [
  {
+  "id": "82aec1e0a65e",
+  "created": "2026-11-25T18:17:35+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece",
+  "headline": "Cabinet approves ₹2,014 cr new Silchar airport",
+  "hook": "A fresh airport plan could reshape travel for Assam’s youth.",
+  "what": "The government cabinet gave the green light to build a new airport in Silchar, with a budget of ₹2,014 crore. The current Silchar airfield, run by the Air Force and AAI, covers a 70‑acre civil enclave.",
+  "why": "A modern airport may offer better connectivity for students and job seekers in the region. Keep an eye on travel updates if you plan trips or internships nearby.",
+  "tags": [
+   "Silchar",
+   "airport",
+   "infrastructure",
+   "youth",
+   "travel"
+  ]
+ },
+ {
+  "id": "77790f1ef195",
+  "created": "2026-11-25T18:17:42+05:30",
+  "category": "trending",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
+  "headline": "Comedian Yash Maheshwari booked in Patna over Chhath comments",
+  "hook": "A joke about women at a sacred festival landed him in police custody.",
+  "what": "Comedian Yash Maheshwari was arrested in Patna after his remarks about women observing the Chhath festival drew police action. Authorities booked him under relevant sections.",
+  "why": "The incident highlights sensitivity around religious practices; young people should be mindful of cultural sentiments when expressing opinions.",
+  "tags": [
+   "Patna",
+   "Chhath",
+   "Comedy",
+   "FreedomOfSpeech",
+   "India"
+  ]
+ },
+ {
+  "id": "efcae619a2b8",
+  "created": "2026-11-25T18:17:44+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWUk3T210bjg0TlVkX0FTcnE3M2FYa0tiLWVaMF81WWZHcnFpUVp4b3hPckdSejdibDA5ZU1CcVZxa2ZOVDdlLXdxQTc1NWNWOUMyeHhhSDhoUUZWemZjMGxLZW5TamFqdDRHcGtpajBERGpDdWlyMXdXSFhWSV9YVUpaSDhGcFpQbnBDd3owbUVvVHhuOU9UQUdicVdmU0dVbS05VXpQLXBWaURHT3RSVEJOTnJWU1FmdVRIZmVaUlFQcFR6UFdLX1V0TnJiQkZBQjdwbTVHMFROTzJvc19VRS0ySXJzdEtzV2xOVVo4Z1lOaEE5Ul90OVBpOENsdDQxOENMaTA1UEJkbWlPQ0dXaEpFWUxtT1dU0gGeAkFVX3lxTE5heTRRZ2k2bkh3b3AyUHpSRmhkRUJLNUpMdW9XVzdURXhPSk9heWhuZkV0V2tlNC1mTUExRHd0T29Zb19JMWY4V3UzVHVVdmx0NkdtbDRNN24xZVYwQXVlQUNRTFV3RlZBakdXZ2FqeU9ROVB4elpLVl9WTWZqVFpUXzVyY2gwTWVzU3RwLVVtSXhZVUQ4YzkzRnloVkJPSG5mQ2k1cjRnWnVHRXlQazVZTFVsV3hrVW1zZTdxN3BuUW9DNEpEdlc2VExPX2p3aFI1SEZwUnJZN3NNUzBEQ3dabUdyQmlHU2x2MEpUai1rd29zTTlHWEM1di1IUnhibk9sRkNxdVd0SmNLdEZaNjhSV0NlZ3NrUlZXU1Vtb3c?oc=5",
+  "headline": "Kerala to overhaul PSC recruitment process",
+  "hook": "A new panel will check rank lists for fairness.",
+  "what": "The state government announced a review of the Public Service Commission's hiring system. A panel headed by the Chief Secretary will examine the existing rank lists. The move aims to address concerns about the recruitment process.",
+  "why": "Young job seekers in Kerala could see changes in how civil service jobs are allocated. Stay updated for any new application guidelines.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "jobs",
+   "recruitment",
+   "review"
+  ]
+ },
+ {
+  "id": "dff41dff1a8d",
+  "created": "2026-11-25T18:17:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Verge",
+  "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5",
+  "headline": "Microsoft triggers emergency mode after massive Outlook crash",
+  "hook": "Your inbox went dark and Microsoft is in full‑scale crisis mode.",
+  "what": "Microsoft announced an internal emergency called “Code Red” after a worldwide outage knocked Outlook offline. The memo said engineers are on high alert following the disruption that the CEO had recently apologized for.",
+  "why": "Students and young professionals who use Outlook for school or work may face missed messages, so keep an eye on alternative email apps until the service is fully restored.",
+  "tags": [
+   "tech",
+   "outlook",
+   "outage",
+   "microsoft",
+   "cloud"
+  ]
+ },
+ {
+  "id": "aa41c65ef143",
+  "created": "2026-11-25T18:17:50+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/why-supreme-court-struck-down-two-up-laws-denying-pension-for-pre-regularisation-service-11795607404158.html",
+  "headline": "Supreme Court annuls UP pension exclusion laws",
+  "hook": "Your future retirement benefits just got protected.",
+  "what": "The top court declared two Uttar Pradesh statutes invalid because they barred pension credit for service before regularisation. The ruling ensures that employees who become regular cannot lose retirement pay due to their original appointment type.",
+  "why": "Young workers can now be confident that early job periods will count toward pension, so keep records of all employment dates.",
+  "tags": [
+   "pension",
+   "SupremeCourt",
+   "UttarPradesh",
+   "jobs",
+   "rights"
+  ]
+ },
+ {
+  "id": "ccb5bc005329",
+  "created": "2026-11-25T18:17:52+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/hmd-rise-4g-india-launch-tipped-arc-2-rebranded-design-specifications-features-12375709",
+  "headline": "HMD Rise 4G Expected Soon, May Rebrand as Arc 2",
+  "hook": "A new 4G phone could hit Indian shelves with a fresh name.",
+  "what": "HMD is reportedly preparing to launch its Rise 4G smartphone in India. The device may be sold under the new name HMD Arc 2 and is said to feature a 5‑megapixel front‑camera.",
+  "why": "For Gen Z, a 4G phone with a decent front camera can help with social media and online learning. Watch for official updates.",
+  "tags": [
+   "HMD",
+   "smartphone",
+   "launch",
+   "India",
+   "tech"
+  ]
+ },
+ {
   "id": "d3d5397a19eb",
   "created": "2026-11-25T17:10:13+05:30",
   "category": "money",
@@ -636,119 +750,6 @@
    "Recruitment",
    "CrimeBranch",
    "Jobs"
-  ]
- },
- {
-  "id": "919c5cbf86b7",
-  "created": "2026-11-25T09:49:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-ai-earbuds-expected-features-carl-pei-report-12373329",
-  "headline": "Nothing's AI Earbuds to debut Dec 8 with recording, transcription",
-  "hook": "Your next earbuds could actually take notes for you.",
-  "what": "Nothing is set to launch its Ear (note) AI earbuds on December 8. The devices will include built‑in recording and live transcription capabilities.",
-  "why": "For students and creators, the feature can help capture lectures or ideas without extra apps. Keep an eye on the release if you need hands‑free note‑taking.",
-  "tags": [
-   "Nothing",
-   "AIearbuds",
-   "TechLaunch",
-   "StudentTools"
-  ]
- },
- {
-  "id": "7467951d2050",
-  "created": "2026-11-25T08:38:43+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/lifestyle/miss-universe-2026-kaziah-liz-mejo-india-top-30-r5nd6xph",
-  "headline": "Kerala's Kaziah Liz Mejo reaches Miss Universe Top 30",
-  "hook": "India's new Miss Universe champ breaks state record and aims higher.",
-  "what": "Nineteen‑year‑old Kaziah Liz Mejo, the first Miss Universe India winner from Kerala, has advanced to the Top 30 of the Miss Universe 2026 competition. Her progress keeps India's chances of clinching the crown alive.",
-  "why": "Her achievement highlights Kerala's growing presence in national pageants and inspires young aspirants to chase big dreams.",
-  "tags": [
-   "MissUniverse",
-   "Kerala",
-   "Kaziah",
-   "India",
-   "Pageant"
-  ]
- },
- {
-  "id": "cfb494c29f83",
-  "created": "2026-11-25T08:38:51+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/2-indians-among-11-injured-as-houthis-target-tower-in-saudis-finance-district-king-abdullah-financial-12372517#publisher=newsstand",
-  "headline": "Houthis strike Saudi finance tower, injuring two Indians",
-  "hook": "A missile hit a skyscraper in Riyadh, leaving 11 people hurt",
-  "what": "A Houthi attack hit a tower in Saudi Arabia’s financial district, causing injuries. Eleven people were wounded, including two Indians, two Saudis, three Nepalese and four Egyptians.",
-  "why": "The incident shows that regional conflicts can affect Indians abroad; travelers should stay alert to security advisories.",
-  "tags": [
-   "Houthis",
-   "SaudiAttack",
-   "IndiaAbroad",
-   "MiddleEast",
-   "TravelSafety"
-  ]
- },
- {
-  "id": "df7757b89c47",
-  "created": "2026-11-25T08:38:53+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/rbi-retains-sbi-hdfc-bank-icici-bank-as-systemically-important-banks-whats-definition-why-it-matters-for-your-money-11795570676444.html",
-  "headline": "RBI keeps SBI, HDFC, ICICI as key banks for 2026",
-  "hook": "Your savings stay safe as top banks stay under extra watch",
-  "what": "The Reserve Bank of India confirmed that State Bank of India, HDFC Bank and ICICI Bank will continue to be classified as systemically important banks for 2026. This status requires them to hold additional capital buffers.",
-  "why": "The extra capital is meant to protect depositors, so your money remains secure. No immediate action is needed; just know your main banks are under stricter oversight.",
-  "tags": [
-   "finance",
-   "banking",
-   "RBI",
-   "deposits",
-   "youth"
-  ]
- },
- {
-  "id": "473dc88f5dc1",
-  "created": "2026-11-25T08:38:58+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-christmas-new-year-bumper-launch-on-november-26-rs-25-crore-first-prize-and--766992-winners-c2bgje7c",
-  "headline": "Kerala's Christmas‑New Year Bumper lottery starts Nov 26",
-  "hook": "Win big this season with a ₹25 crore jackpot!",
-  "what": "The Kerala government announced the launch of the Christmas‑New Year Bumper lottery on November 26. The top prize is ₹25 crore and there are 7,66,992 prizes in total. Tickets cost ₹450, sales begin on November 28 and the draw will be held on February 1, 2027.",
-  "why": "A huge jackpot can attract many teens looking for a quick cash boost. If interested, tickets can be bought after November 28 at authorized outlets.",
-  "tags": [
-   "lottery",
-   "kerala",
-   "jackpot",
-   "teenfinance",
-   "holiday"
-  ]
- },
- {
-  "id": "8d45b3308af1",
-  "created": "2026-11-25T08:39:00+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "MARCA",
-  "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUZYcnpHa20zd3MxVVhEeXFWZkFEOGZsczJheFBvai15aXhsUGxjOGVQRWx0dEtIZE83VHJ1c2hlN0xGZlNwZkhxcFhIbzlVWDFpbjAtX0Y5SEhSY2U5U1d1MW5JN3IwMXhCSHp3MjlrOTZ6VkpiNmwyQi1jMDBRNEVDZWJTc0x0MXMzMEItQ2syYVFiTHFZ0gGXAUFVX3lxTE85MTJKUFRGUFpxRXZTYmFZMlllQnllRmNNbnpEWE01a0lUSk96bm9yTnNsS2RnSzJlcUFoMUxhcHpoLUhqdlc1eVVjdHpiWUV5V1VCWmJNRTR5SmtVTzZQa0V3eV9xektlVkdIRUFtNGlILXZQOGY1Zm83SURWRmc5blMtVDBGQW1zc3pjM0ROU29VendmNTQ?oc=5",
-  "headline": "Miss Universe 2026 announces its Top 12 contestants",
-  "hook": "The biggest global beauty showdown just named its finalists.",
-  "what": "The Miss Universe 2026 pageant has released the list of its twelve finalists. The event is being broadcast live with streaming options and TV coverage. Viewers can follow the upcoming grand finale and awards ceremony.",
-  "why": "Fans of fashion and pop culture can tune in to see who might become the next global icon, and Indian teens can join the conversation on social media.",
-  "tags": [
-   "MissUniverse",
-   "beautypageant",
-   "finalists",
-   "live",
-   "popculture"
   ]
  }
 ]

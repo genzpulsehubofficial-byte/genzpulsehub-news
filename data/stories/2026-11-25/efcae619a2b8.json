@@ -1,0 +1,37 @@
+{
+ "id": "efcae619a2b8",
+ "created": "2026-11-25T18:17:44+05:30",
+ "category": "jobs",
+ "region": "kl",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWUk3T210bjg0TlVkX0FTcnE3M2FYa0tiLWVaMF81WWZHcnFpUVp4b3hPckdSejdibDA5ZU1CcVZxa2ZOVDdlLXdxQTc1NWNWOUMyeHhhSDhoUUZWemZjMGxLZW5TamFqdDRHcGtpajBERGpDdWlyMXdXSFhWSV9YVUpaSDhGcFpQbnBDd3owbUVvVHhuOU9UQUdicVdmU0dVbS05VXpQLXBWaURHT3RSVEJOTnJWU1FmdVRIZmVaUlFQcFR6UFdLX1V0TnJiQkZBQjdwbTVHMFROTzJvc19VRS0ySXJzdEtzV2xOVVo4Z1lOaEE5Ul90OVBpOENsdDQxOENMaTA1UEJkbWlPQ0dXaEpFWUxtT1dU0gGeAkFVX3lxTE5heTRRZ2k2bkh3b3AyUHpSRmhkRUJLNUpMdW9XVzdURXhPSk9heWhuZkV0V2tlNC1mTUExRHd0T29Zb19JMWY4V3UzVHVVdmx0NkdtbDRNN24xZVYwQXVlQUNRTFV3RlZBakdXZ2FqeU9ROVB4elpLVl9WTWZqVFpUXzVyY2gwTWVzU3RwLVVtSXhZVUQ4YzkzRnloVkJPSG5mQ2k1cjRnWnVHRXlQazVZTFVsV3hrVW1zZTdxN3BuUW9DNEpEdlc2VExPX2p3aFI1SEZwUnJZN3NNUzBEQ3dabUdyQmlHU2x2MEpUai1rd29zTTlHWEM1di1IUnhibk9sRkNxdVd0SmNLdEZaNjhSV0NlZ3NrUlZXU1Vtb3c?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala to overhaul PSC recruitment process",
+  "hook": "A new panel will check rank lists for fairness.",
+  "what": "The state government announced a review of the Public Service Commission's hiring system. A panel headed by the Chief Secretary will examine the existing rank lists. The move aims to address concerns about the recruitment process.",
+  "why": "Young job seekers in Kerala could see changes in how civil service jobs are allocated. Stay updated for any new application guidelines.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "jobs",
+   "recruitment",
+   "review"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം PSC നിയമന പ്രക്രിയ പുനഃപരിശോധിക്കും",
+  "hook": "ചീഫ് സെക്രട്ടറി നയിക്കുന്ന പാനൽ റാങ്ക് ലിസ്റ്റുകൾ പരിശോധിക്കും.",
+  "what": "സംസ്ഥാന സർക്കാർ പബ്ലിക് സർവീസ് കമ്മീഷന്റെ നിയമന സംവിധാനം പരിശോധിക്കാൻ തീരുമാനിച്ചു. ചീഫ് സെക്രട്ടറി നേതൃത്വം നൽകുന്ന ഒരു പാനൽ നിലവിലെ റാങ്ക് ലിസ്റ്റുകൾ പരിശോധിക്കും. ഈ നടപടിയുടെ ലക്ഷ്യം നിയമന പ്രക്രിയയിലെ പ്രശ്നങ്ങൾ പരിഹരിക്കുകയാണ്.",
+  "why": "കേരളത്തിലെ യുവ ജോലിചെയ്യുന്നവർക്ക് സിവിൽ സർവീസ് സ്ഥാനങ്ങളിൽ മാറ്റം വരാൻ സാധ്യതയുണ്ട്. പുതിയ അപേക്ഷ മാർഗ്ഗനിർദ്ദേശങ്ങൾക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "PSC",
+   "ജോലികൾ",
+   "നിയമനം",
+   "പുനഃപരിശോധനം"
+  ]
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "82aec1e0a65e",
+ "created": "2026-11-25T18:17:35+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Cabinet approves ₹2,014 cr new Silchar airport",
+  "hook": "A fresh airport plan could reshape travel for Assam’s youth.",
+  "what": "The government cabinet gave the green light to build a new airport in Silchar, with a budget of ₹2,014 crore. The current Silchar airfield, run by the Air Force and AAI, covers a 70‑acre civil enclave.",
+  "why": "A modern airport may offer better connectivity for students and job seekers in the region. Keep an eye on travel updates if you plan trips or internships nearby.",
+  "tags": [
+   "Silchar",
+   "airport",
+   "infrastructure",
+   "youth",
+   "travel"
+  ]
+ },
+ "ml": {
+  "headline": "കാബിനറ്റ് അംഗീകരിച്ചു ₹2,014 ക്രോഡിന്റെ പുതിയ സില്‍ചര്‍ വിമാനത്താവളം",
+  "hook": "പുതിയ വിമാനത്താവളം ആസാമിലെ യുവാക്കളുടെ യാത്രാ രീതിയെ മാറ്റി നിർത്താം.",
+  "what": "സര്‍ക്കാരിന്റെ കാബിനറ്റ് സില്‍ചറില്‍ പുതിയ വിമാനത്താവളം നിര്‍മ്മിക്കാന്‍ അംഗീകാരം നല്‍കി, ചെലവ് ₹2,014 ക്രോഡാണ്. നിലവിലെ സില്‍ചര്‍ വിമാനത്താവളം ഇന്ത്യയുടെ എയര്‍ ഫോഴ്സ്, AAI എന്നിവയുടെ ഉടമസ്ഥതയിലാണു, 70 ഏക്കര്‍ സിവില്‍ എന്‍ക്ലേവ് ഉള്‍ക്കൊള്ളുന്നു.",
+  "why": "പുതിയ വിമാനത്താവളം പ്രദേശത്തെ വിദ്യാർത്ഥികളെയും ജോലിചെയ്യുന്നവരെയും കൂടുതല്‍ സൗകര്യപ്രദമായി ബന്ധിപ്പിക്കും. അടുത്ത കാലത്ത് യാത്രാ പ്ലാനുകള്‍ ഉണ്ടെങ്കില്‍ അപ്ഡേറ്റുകള്‍ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Silchar",
+   "വിമാനത്താവളം",
+   "അടിസ്ഥാനസൗകര്യം",
+   "യുവാക്കൾ",
+   "യാത്ര"
+  ]
+ }
+}

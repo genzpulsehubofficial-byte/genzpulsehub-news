@@ -1,0 +1,37 @@
+{
+ "id": "dff41dff1a8d",
+ "created": "2026-11-25T18:17:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Verge",
+ "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Microsoft triggers emergency mode after massive Outlook crash",
+  "hook": "Your inbox went dark and Microsoft is in full‑scale crisis mode.",
+  "what": "Microsoft announced an internal emergency called “Code Red” after a worldwide outage knocked Outlook offline. The memo said engineers are on high alert following the disruption that the CEO had recently apologized for.",
+  "why": "Students and young professionals who use Outlook for school or work may face missed messages, so keep an eye on alternative email apps until the service is fully restored.",
+  "tags": [
+   "tech",
+   "outlook",
+   "outage",
+   "microsoft",
+   "cloud"
+  ]
+ },
+ "ml": {
+  "headline": "Microsoft‑ന് Outlook തകരാറിന് ശേഷം അടിയന്തര മോഡ് ആരംഭിച്ചു",
+  "hook": "നിങ്ങളുടെ ഇൻബോക്സ് ഇരുണ്ടായി, Microsoft പൂർണ്ണ ക്രൈസിസ് മോഡിൽ ആണ്.",
+  "what": "Microsoft ഒരു ആന്തരിക അടിയന്തര നില “Code Red” പ്രഖ്യാപിച്ചു, Outlook ലോകവ്യാപകമായി പ്രവർത്തനം നിർത്തിയതിനു ശേഷം. മെമ്മോയിൽ എഞ്ചിനീയർമാർ ഉയർന്ന ജാഗ്രതയിൽ പ്രവർത്തിക്കുന്നുവെന്ന്, CEO ഇതിനകം ക്ഷമാപണം ചെയ്തിട്ടുണ്ടെന്ന് പറയുന്നു.",
+  "why": "പഠനമോ ജോലിയോ varten Outlook ഉപയോഗിക്കുന്ന യുവാക്കൾക്ക് സന്ദേശങ്ങൾ നഷ്ടപ്പെടാൻ സാധ്യതയുണ്ട്, അതിനാൽ സേവനം പൂർണ്ണമായി തിരികെ വരുന്നതുവരെ മറ്റൊരു ഇമെയിൽ ആപ്പ് ഉപയോഗിക്കുക.",
+  "tags": [
+   "tech",
+   "outlook",
+   "outage",
+   "microsoft",
+   "cloud"
+  ]
+ }
+}
