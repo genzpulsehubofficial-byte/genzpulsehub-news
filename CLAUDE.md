@@ -63,6 +63,8 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 
 - 2026-11-25: Meta posting WORKS on both FB Pages + both Instagram accounts. Meta app "GenZ Pulse Hub Publisher" (1125355970374013), system user genzpulsehub-bot (61596769387444), secret META_TOKEN (never expires). Uploads are direct binary (no R2). IG ids: en 17841409013887055, ml 17841440794138461.
 
+- 2026-11-25: Ad email sender live (mailer.yml every 30 min, Gmail SMTP as genzpulsehub.official@gmail.com, secret GMAIL_APP_PASSWORD). Stream engine + Oracle scripts in stream/ (run oci_create.sh, then set_keys.sh in Oracle Cloud Shell; status.sh for health).
+
 ## For a future Claude session (start here)
 The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
 - Repo is the single source of truth. Read this file, then `git log -20`.
@@ -79,7 +81,6 @@ The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open th
 ## Pending (in order)
 2. Oracle VM (Always Free ARM, Mumbai) → Phase 2 24/7 stream to YouTube + Facebook; then open live ad slots.
 3. Cashfree domain whitelist; domain activation → switch SITE_URL to genzpulsehub.dpdns.org; Email Routing ads@ → Gmail.
-4. Gmail App Password secret + mailer for queued ad emails.
 5. Auto-replies (comments, ads inbox, IG DMs), inbound ad pitch, watchdog, weekly backup, corrections, copyright guard, Google News/Discover, monetisation tracker, affiliate links.
 6. Phase 6 analytics + Audience Pulse + volume ramp.
 7. Mobile header fix; replace dead feeds (Indian Express, Onmanorama).
