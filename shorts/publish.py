@@ -107,40 +107,54 @@ def meta_pages():
     return _pages
 
 
-def instagram(lang, s, url):
+def instagram(lang, s, path):
     p = meta_pages().get(lang)
-    if not p or not p.get("instagram_business_account") or not url:
-        return "skipped (no Meta login / media URL yet)"
+    if not p or not p.get("instagram_business_account"):
+        return "skipped (Instagram not linked to Page / no Meta token)"
     ig, tok = p["instagram_business_account"]["id"], p["access_token"]
-    c = requests.post(f"{G}/{ig}/media", data={"media_type": "REELS", "video_url": url, "share_to_feed": "true",
+    c = requests.post(f"{G}/{ig}/media", data={"media_type": "REELS", "upload_type": "resumable", "share_to_feed": "true",
                       "caption": caption(lang, s, "ig"), "access_token": tok}, timeout=60).json()
     if "id" not in c:
         raise RuntimeError(str(c)[:300])
-    for _ in range(40):
-        st = requests.get(f"{G}/{c['id']}", params={"fields": "status_code", "access_token": tok}, timeout=30).json()
+    data = open(path, "rb").read()
+    up = requests.post(c.get("uri") or f"https://rupload.facebook.com/ig-api-upload/v21.0/{c['id']}",
+                       headers={"Authorization": f"OAuth {tok}", "offset": "0", "file_size": str(len(data))},
+                       data=data, timeout=300).json()
+    if not up.get("success"):
+        raise RuntimeError("upload " + str(up)[:300])
+    for _ in range(60):
+        st = requests.get(f"{G}/{c['id']}", params={"fields": "status_code,status", "access_token": tok}, timeout=30).json()
         if st.get("status_code") == "FINISHED":
             break
         if st.get("status_code") == "ERROR":
-            raise RuntimeError("IG processing error")
+            raise RuntimeError("IG processing error " + str(st)[:200])
         time.sleep(10)
     pub = requests.post(f"{G}/{ig}/media_publish", data={"creation_id": c["id"], "access_token": tok}, timeout=60).json()
-    return "ig:" + pub.get("id", str(pub)[:120])
+    if "id" not in pub:
+        raise RuntimeError(str(pub)[:300])
+    return "ig:" + pub["id"]
 
 
-def facebook(lang, s, url):
+def facebook(lang, s, path):
     p = meta_pages().get(lang)
-    if not p or not url:
-        return "skipped (no Meta login / media URL yet)"
+    if not p:
+        return "skipped (Page not found for Meta token)"
     tok, pid = p["access_token"], p["id"]
     st = requests.post(f"{G}/{pid}/video_reels", data={"upload_phase": "start", "access_token": tok}, timeout=60).json()
+    if "video_id" not in st:
+        raise RuntimeError(str(st)[:300])
     vid = st["video_id"]
+    data = open(path, "rb").read()
     up = requests.post(f"https://rupload.facebook.com/video-upload/v21.0/{vid}",
-                       headers={"Authorization": f"OAuth {tok}", "file_url": url}, timeout=120).json()
+                       headers={"Authorization": f"OAuth {tok}", "offset": "0", "file_size": str(len(data))},
+                       data=data, timeout=300).json()
     if not up.get("success"):
-        raise RuntimeError(str(up)[:300])
+        raise RuntimeError("upload " + str(up)[:300])
     fin = requests.post(f"{G}/{pid}/video_reels", data={"upload_phase": "finish", "video_id": vid,
                         "video_state": "PUBLISHED", "description": caption(lang, s, "fb"), "access_token": tok}, timeout=60).json()
-    return "fb:" + str(fin.get("success", fin))[:80]
+    if not fin.get("success"):
+        raise RuntimeError(str(fin)[:300])
+    return "fb:" + vid
 
 
 def main():
@@ -154,12 +168,8 @@ def main():
     for m in made:
         lang, s, path = m["lang"], m["story"], m["path"]
         res = {}
-        try:
-            url = host(path, f"{lang}/{s['id']}.mp4")
-        except Exception as e:
-            url, res["media"] = None, f"error: {e}"
-        for name, fn in (("youtube", lambda: youtube(lang, s, path)), ("instagram", lambda: instagram(lang, s, url)),
-                         ("facebook", lambda: facebook(lang, s, url))):
+        for name, fn in (("youtube", lambda: youtube(lang, s, path)), ("instagram", lambda: instagram(lang, s, path)),
+                         ("facebook", lambda: facebook(lang, s, path))):
             try:
                 res[name] = fn()
             except Exception as e:
