@@ -1,0 +1,37 @@
+{
+ "id": "4eac6fc71e31",
+ "created": "2026-11-25T19:46:47+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/missing-name-in-army-records-no-bar-to-pension-how-68-year-old-disabled-son-won-case-in-aft-11795613583161.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "68-year-old gets lifelong pension despite missing army record",
+  "hook": "Even if your dad’s name isn’t in the files, you can still claim pension.",
+  "what": "The Armed Forces Tribunal ordered a lifelong family pension for a 68-year-old disabled man. It ruled that his father’s absence from army service records does not block the claim. The centre must also pay pending pension with 6% annual interest.",
+  "why": "It shows bureaucratic gaps don’t automatically deny benefits, so families should verify entitlement and file claims if needed.",
+  "tags": [
+   "pension",
+   "army",
+   "tribunal",
+   "rights",
+   "seniorcitizen"
+  ]
+ },
+ "ml": {
+  "headline": "68‑വയസ്സുകാരന്‍ രേഖകളില്ലാതെ ജീവിതകാല പെന്‍ഷന്‍",
+  "hook": "പിതാവിന്റെ സൈനിക രേഖയില്‍ പേര് ഇല്ലെങ്കിലും പെന്‍ഷന്‍ നേടാം.",
+  "what": "ആര്‍മ്ഡ് ഫോഴ്‌സസ് ട്രൈബ്യൂണല്‍ 68‑വയസ്സുള്ള ഒരു വൈകല്യമുള്ള വ്യക്തിക്ക് ജീവിതകാല കുടുംബ പെന്‍ഷന്‍ അനുവദിച്ചു. അവന്റെ പിതാവിന്റെ സൈനിക രേഖയില്‍ പേര് കാണാത്തതിനെ കാരണം അവന്‍ അര്‍ഹത നഷ്ടമാകില്ലെന്ന് കോടതി വിധിച്ചു. കൂടാതെ, സര്‍ക്കാരിനെ 6% വാർഷിക പലിശയോടെ ബാക്കി പെന്‍ഷന്‍ അടയ്ക്കാന്‍ നിര്‍ദ്ദേശിച്ചു.",
+  "why": "ഇത് സര്‍ക്കാരിന്റെ രേഖപിഴവുകള്‍ അവകാശം തടയില്ലെന്ന് കാണിക്കുന്നു, അതിനാല്‍ കുടുംബങ്ങള്‍ തങ്ങളുടെ അവകാശം പരിശോധിച്ച് ആവശ്യമായ അപേക്ഷകള്‍ നല്‍കണം.",
+  "tags": [
+   "പെന്‍ഷന്‍",
+   "ആര്‍മി",
+   "ട്രൈബ്യൂണല്‍",
+   "അവകാശം",
+   "വയോവൃദ്ധ"
+  ]
+ }
+}

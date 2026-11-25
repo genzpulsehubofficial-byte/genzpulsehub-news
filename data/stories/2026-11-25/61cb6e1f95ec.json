@@ -1,0 +1,37 @@
+{
+ "id": "61cb6e1f95ec",
+ "created": "2026-11-25T19:46:49+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Amazon, Meta negotiate to end Muse AI block",
+  "hook": "Your favorite AI buddy might be back soon.",
+  "what": "Amazon and Meta are in talks to lift the restrictions on the AI assistant Muse. The blockage has lasted around two months.",
+  "why": "If the talks succeed, users will regain access to Muse’s features, affecting how they use AI tools.",
+  "tags": [
+   "Amazon",
+   "Meta",
+   "AI",
+   "Muse",
+   "TechNews"
+  ]
+ },
+ "ml": {
+  "headline": "അമസോണ്‍, മെറ്റാ മ്യൂസ് AI തടസം അവസാനിപ്പിക്കാൻ ചർച്ച",
+  "hook": "നിങ്ങളുടെ AI കൂട്ടുകാരൻ ഉടൻ തിരികെ വരാൻ സാധ്യത!",
+  "what": "അമസോൺ, മെറ്റാ എന്നിവർ മ്യൂസ് എന്ന AI ഏജന്റിന്റെ നിയന്ത്രണം നീക്കാൻ ചർച്ച ചെയ്യുന്നു. ഈ തടസം ഏകദേശം രണ്ട് മാസം നീണ്ടു.",
+  "why": "കരാർ പൂർത്തിയായാൽ, യുവാക്കൾക്ക് മ്യൂസ് ഉപയോഗിച്ച് AI അനുഭവം വീണ്ടും ആസ്വദിക്കാൻ കഴിയും.",
+  "tags": [
+   "Amazon",
+   "Meta",
+   "AI",
+   "Muse",
+   "TechNews"
+  ]
+ }
+}

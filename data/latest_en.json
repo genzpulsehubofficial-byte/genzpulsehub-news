@@ -1,5 +1,100 @@
 [
  {
+  "id": "23af3fbcdfc4",
+  "created": "2026-11-25T19:46:39+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "FlipItMoney",
+  "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTh4MnJkOGI0MDVTSHdkSHZuNFNnSlhWTFpBYzFjZ1VheGZDdWlxMVZaY05vMW16UnRKX1EzM0FfWUVEYzFPcEdXNXNXLWxueTFhYkdQcUQyTHlGQ2VkY2FMOGI1LTdJVjdScHVJYy1IRmRGMWNDd3ZjaEphV2pvSGxmTzhULXFOWWVUc2M2U3RQblg5dmU4UzBGRl8?oc=5",
+  "headline": "Kerala Sets Up Panel to Review PSC Jobs and Rankings",
+  "hook": "A new panel could reshape state job selections.",
+  "what": "The Kerala government has created a committee to examine the Public Service Commission's recruitment procedures, rank lists, and vacant positions. The panel will assess existing processes and decisions.",
+  "why": "This review may affect upcoming government job exams and postings, so aspirants should stay updated.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "Jobs",
+   "Recruitment",
+   "Panel"
+  ]
+ },
+ {
+  "id": "a93cb0cd47c9",
+  "created": "2026-11-25T19:46:42+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/missing-patient-at-thrissur-mch-found-dead-in-washroom-36-hours-later/article71741635.ece",
+  "headline": "Patient missing from Thrissur MCH discovered dead after 36 hrs",
+  "hook": "A missing hospital patient was found lifeless in a washroom.",
+  "what": "A patient who went missing from Thrissur Medical College Hospital was located dead in a washroom 36 hours later. The discovery came after a search by authorities.",
+  "why": "It raises concerns about patient safety and monitoring in hospitals, prompting families to demand better oversight.",
+  "tags": [
+   "thrissur",
+   "mch",
+   "patient",
+   "death",
+   "hospital"
+  ]
+ },
+ {
+  "id": "798a2a56ef61",
+  "created": "2026-11-25T19:46:44+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/mea-on-saurav-das-london-travel-curb-show-cause-notice-over-birthplace-query-passport-application-process-101795610014748.html",
+  "headline": "MEA says Saurav Das got notice over passport birthplace query",
+  "hook": "A show‑cause notice may block his UK trip.",
+  "what": "The Ministry of External Affairs confirmed a notice was sent to Saurav Das because of questions about the birthplace listed in his passport. Das claims the notice was intended to stop his travel to the United Kingdom.",
+  "why": "Young travelers should double‑check passport details; any mismatch can trigger official scrutiny.",
+  "tags": [
+   "passport",
+   "travel",
+   "UK",
+   "MEA",
+   "notice"
+  ]
+ },
+ {
+  "id": "4eac6fc71e31",
+  "created": "2026-11-25T19:46:47+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/missing-name-in-army-records-no-bar-to-pension-how-68-year-old-disabled-son-won-case-in-aft-11795613583161.html",
+  "headline": "68-year-old gets lifelong pension despite missing army record",
+  "hook": "Even if your dad’s name isn’t in the files, you can still claim pension.",
+  "what": "The Armed Forces Tribunal ordered a lifelong family pension for a 68-year-old disabled man. It ruled that his father’s absence from army service records does not block the claim. The centre must also pay pending pension with 6% annual interest.",
+  "why": "It shows bureaucratic gaps don’t automatically deny benefits, so families should verify entitlement and file claims if needed.",
+  "tags": [
+   "pension",
+   "army",
+   "tribunal",
+   "rights",
+   "seniorcitizen"
+  ]
+ },
+ {
+  "id": "61cb6e1f95ec",
+  "created": "2026-11-25T19:46:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+  "headline": "Amazon, Meta negotiate to end Muse AI block",
+  "hook": "Your favorite AI buddy might be back soon.",
+  "what": "Amazon and Meta are in talks to lift the restrictions on the AI assistant Muse. The blockage has lasted around two months.",
+  "why": "If the talks succeed, users will regain access to Muse’s features, affecting how they use AI tools.",
+  "tags": [
+   "Amazon",
+   "Meta",
+   "AI",
+   "Muse",
+   "TechNews"
+  ]
+ },
+ {
   "id": "82aec1e0a65e",
   "created": "2026-11-25T18:17:35+05:30",
   "category": "headlines",
@@ -656,100 +751,6 @@
    "india",
    "finance",
    "youth"
-  ]
- },
- {
-  "id": "0e84a7528caf",
-  "created": "2026-11-25T11:02:26+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/mvd-operation-night-hunt-146-vehicles-booked-kochi-fines-keim1amb",
-  "headline": "Kochi's Night Hunt fines 146 drivers, collects ₹6.10 lakh",
-  "hook": "Late-night rides got a pricey surprise in Kochi.",
-  "what": "The Motor Vehicles Department ran an overnight drive called Operation Night Hunt in Kochi. During the sweep, 146 vehicles were booked and fines totalling ₹6.10 lakh were imposed.",
-  "why": "It shows traffic rules are enforced even at night, so teens should avoid violations to stay safe and avoid fines.",
-  "tags": [
-   "Kochi",
-   "Traffic",
-   "NightHunt",
-   "Fines",
-   "MVD"
-  ]
- },
- {
-  "id": "34720b1bb374",
-  "created": "2026-11-25T09:49:36+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
-  "headline": "Trump hints at possible pardon for Nvidia CEO Jensen Huang",
-  "hook": "The tech boss behind gaming GPUs could get a presidential pardon.",
-  "what": "President Trump said he might grant a pardon to Jensen Huang, the chief executive of Nvidia. Huang is set to attend a private meeting with the House Foreign Affairs Committee on Tuesday.",
-  "why": "A pardon could influence Nvidia’s AI and gaming hardware market, affecting prices and availability for Indian gamers and tech fans. Stay alert for any policy shifts that may impact your devices.",
-  "tags": [
-   "tech",
-   "nvidia",
-   "trump",
-   "pardon",
-   "gaming"
-  ]
- },
- {
-  "id": "e47795913362",
-  "created": "2026-11-25T09:49:39+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
-  "headline": "Eisenkot Secures First Coalition Partner, Tasked to Form Govt",
-  "hook": "Israel's next PM race gets a new twist as Eisenkot lands a partner.",
-  "what": "Gadi Eisenkot announced that he has secured his first coalition partner in the bid to become Israel's prime minister. President Isaac Herzog has asked him to start building a government.",
-  "why": "A new government could shift regional stability and global ties, which may influence India's diplomatic and economic interests. Keep an eye on how the leadership change might affect international collaborations.",
-  "tags": [
-   "Israel",
-   "politics",
-   "coalition",
-   "global"
-  ]
- },
- {
-  "id": "3daf01eb2420",
-  "created": "2026-11-25T09:49:44+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-november-wed-latest-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-and-others-11795576136181.html",
-  "headline": "Gold, Silver Prices Slip Amid Global Uncertainty",
-  "hook": "Precious metal rates are falling – see what it means for you.",
-  "what": "On 25 November, gold and silver prices stayed low across Indian markets. The decline is linked to unsettled conditions in global markets.",
-  "why": "Changes in metal prices affect savings and jewelry purchases, so teens should watch trends before buying.",
-  "tags": [
-   "gold",
-   "silver",
-   "prices",
-   "markets",
-   "india"
-  ]
- },
- {
-  "id": "981f7daf54e0",
-  "created": "2026-11-25T09:49:46+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-women-representation-30-percent-ptijo6cqjl0",
-  "headline": "Kerala aims for 30% women in police force",
-  "hook": "New plan could boost safety and opportunities for women.",
-  "what": "The state government said it will raise female police personnel to 30% by hiring in stages. It also announced that Crime Branch jobs will be filled based on merit.",
-  "why": "More women officers can improve community policing and gender sensitivity; youngsters interested in law enforcement should watch for upcoming recruitment notifications.",
-  "tags": [
-   "Kerala",
-   "WomenInPolice",
-   "Recruitment",
-   "CrimeBranch",
-   "Jobs"
   ]
  }
 ]

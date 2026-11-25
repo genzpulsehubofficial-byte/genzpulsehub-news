@@ -1,0 +1,37 @@
+{
+ "id": "798a2a56ef61",
+ "created": "2026-11-25T19:46:44+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/mea-on-saurav-das-london-travel-curb-show-cause-notice-over-birthplace-query-passport-application-process-101795610014748.html",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "MEA says Saurav Das got notice over passport birthplace query",
+  "hook": "A show‑cause notice may block his UK trip.",
+  "what": "The Ministry of External Affairs confirmed a notice was sent to Saurav Das because of questions about the birthplace listed in his passport. Das claims the notice was intended to stop his travel to the United Kingdom.",
+  "why": "Young travelers should double‑check passport details; any mismatch can trigger official scrutiny.",
+  "tags": [
+   "passport",
+   "travel",
+   "UK",
+   "MEA",
+   "notice"
+  ]
+ },
+ "ml": {
+  "headline": "MEA പറയുന്നു സോരവ് ദാസ്‌ക്ക് പാസ്‌പോർട്ട് ജന്മസ്ഥലം ചോദ്യം ചെയ്തു നോട്ടീസ്",
+  "hook": "ഒരു showcause നോട്ടീസ് അദ്ദേഹത്തിന്റെ യു.കെ. യാത്ര തടയാം.",
+  "what": "വിസംകാര്യ മന്ത്രാലയം സോരവ് ദാസ്‌ക്ക് പാസ്‌പോർട്ടിലെ ജന്മസ്ഥലത്തെക്കുറിച്ച് ചോദ്യം ഉയർത്തി ഒരു നോട്ടീസ് പുറപ്പെടുവിച്ചതായി സ്ഥിരീകരിച്ചു. ദാസ് ഇത് യു.കെ. യാത്ര തടയാൻ ശ്രമമാണെന്ന് ആരോപിച്ചു.",
+  "why": "യുവാക്കൾ പാസ്‌പോർട്ട് വിവരങ്ങൾ ശരിയായി പരിശോധിക്കണം; ചെറിയ പിഴവുകൾക്കും ഔദ്യോഗിക പരിശോധന വരാം.",
+  "tags": [
+   "passport",
+   "travel",
+   "UK",
+   "MEA",
+   "notice"
+  ]
+ }
+}

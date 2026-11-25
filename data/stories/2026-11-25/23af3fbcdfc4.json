@@ -1,0 +1,37 @@
+{
+ "id": "23af3fbcdfc4",
+ "created": "2026-11-25T19:46:39+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "FlipItMoney",
+ "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTh4MnJkOGI0MDVTSHdkSHZuNFNnSlhWTFpBYzFjZ1VheGZDdWlxMVZaY05vMW16UnRKX1EzM0FfWUVEYzFPcEdXNXNXLWxueTFhYkdQcUQyTHlGQ2VkY2FMOGI1LTdJVjdScHVJYy1IRmRGMWNDd3ZjaEphV2pvSGxmTzhULXFOWWVUc2M2U3RQblg5dmU4UzBGRl8?oc=5",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala Sets Up Panel to Review PSC Jobs and Rankings",
+  "hook": "A new panel could reshape state job selections.",
+  "what": "The Kerala government has created a committee to examine the Public Service Commission's recruitment procedures, rank lists, and vacant positions. The panel will assess existing processes and decisions.",
+  "why": "This review may affect upcoming government job exams and postings, so aspirants should stay updated.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "Jobs",
+   "Recruitment",
+   "Panel"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം പി‌എസ്‌സി ജോലികളും റാങ്കുകളും പരിശോധിക്കാൻ പാനൽ രൂപം",
+  "hook": "പുതിയ പാനൽ സംസ്ഥാന സർക്കാർ ജോലികളിൽ മാറ്റം വരുത്താം.",
+  "what": "കേരള സർക്കാർ ഒരു സമിതിയെ സ്ഥാപിച്ച് പി‌എസ്‌സിയുടെ നിയമന പ്രക്രിയ, റാങ്ക് ലിസ്റ്റുകൾ, ഒഴിവുള്ള സ്ഥാനങ്ങൾ എന്നിവ പരിശോധിക്കും. ഈ സമിതി നിലവിലെ നടപടികളും തീരുമാനങ്ങളും വിലയിരുത്തും.",
+  "why": "ഇത് വരാനിരിക്കുന്ന സർക്കാർ ജോലികളുടെയും പരീക്ഷകളുടെയും ഫലത്തെ ബാധിക്കാം, അതിനാൽ ഉദ്യോഗാർത്ഥികൾ പുതുക്കിയ വിവരങ്ങൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "Kerala",
+   "PSC",
+   "Jobs",
+   "Recruitment",
+   "Panel"
+  ]
+ }
+}
