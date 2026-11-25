@@ -6,7 +6,7 @@ C="${OCI_TENANCY:?}"; REG="${OCI_REGION:-ap-mumbai-1}"
 USER_ID=$(oci iam user list -c "$C" --query "data[?contains(name,'genzpulsehub')].id | [0]" --raw-output)
 mkdir -p ~/.gph && cd ~/.gph
 [ -f api.pem ] || { openssl genrsa -out api.pem 2048 2>/dev/null; openssl rsa -pubout -in api.pem -out api_pub.pem 2>/dev/null; }
-FP=$(openssl rsa -pubout -outform DER -in api.pem 2>/dev/null | openssl md5 -c | awk '{print $2}')
+FP=$(openssl rsa -pubout -outform DER -in api.pem 2>/dev/null | python3 -c "import sys,hashlib;h=hashlib.md5(sys.stdin.buffer.read(),usedforsecurity=False).hexdigest();print(':'.join(h[i:i+2] for i in range(0,32,2)))")
 oci iam user api-key list --user-id "$USER_ID" --query 'data[].fingerprint' --raw-output | grep -q "$FP" || \
   oci iam user api-key upload --user-id "$USER_ID" --key-file api_pub.pem >/dev/null
 [ -f ~/.ssh/gph ] || ssh-keygen -t rsa -b 4096 -N "" -f ~/.ssh/gph -q
