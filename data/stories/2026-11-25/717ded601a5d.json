@@ -1,0 +1,37 @@
+{
+ "id": "717ded601a5d",
+ "created": "2026-11-25T21:01:58+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cms-statements-on-teacher-student-ratio-misleading-ksta/article71743272.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala CM’s teacher-student ratio claim called misleading by teachers",
+  "hook": "The state’s education stats may not be what they seem.",
+  "what": "The Kerala State Teachers’ Association says the chief minister’s reported teacher‑student ratio is inaccurate. While the ratio has traditionally been calculated per class, the CM presented a figure based on the total number of teachers and students across the state.",
+  "why": "Accurate ratios affect classroom size and learning quality, which impacts students’ education. Teens should stay informed about how education data is presented and demand clarity.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "Teachers",
+   "Students",
+   "Policy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം CM‑യുടെ അധ്യാപക‑വിദ്യാർത്ഥി അനുപാതം തെറ്റെന്ന് അധ്യാപകർ ആരോപിക്കുന്നു",
+  "hook": "സംസ്ഥാനത്തിലെ വിദ്യാഭ്യാസ കണക്കുകൾ യാഥാർത്ഥ്യമല്ലെന്ന് തോന്നുമോ?",
+  "what": "കേരള സ്റ്റേറ്റ് ടീച്ചേഴ്സ് അസോസിയേഷൻ (KSTA) പറയുന്നു, പ്രധാനമന്ത്രിയുടെ പ്രഖ്യാപിച്ച അധ്യാപക‑വിദ്യാർത്ഥി അനുപാതം കൃത്യമല്ല. പരമ്പരാഗതമായി ഈ അനുപാതം ഓരോ ക്ലാസ്സിനും അടിസ്ഥാനമാക്കി കണക്കാക്കുമ്പോൾ, CM മൊത്തം അധ്യാപകരും വിദ്യാർത്ഥികളും ഉൾപ്പെടുത്തി ഒരു സംഖ്യ അവതരിപ്പിച്ചു.",
+  "why": "ക്ലാസ് വലുപ്പം, പഠന നിലവാരം എന്നിവയ്ക്ക് ശരിയായ അനുപാതം പ്രധാനമാണ്, അതിനാൽ വിദ്യാർത്ഥികളുടെ വിദ്യാഭ്യാസം നേരിട്ട് ബാധിക്കും. യുവാക്കൾ ഈ ഡാറ്റയുടെ സത്യത പരിശോധിച്ച് ആവശ്യമായ വ്യക്തതക്കായി ആവശ്യപ്പെടണം.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "അധ്യാപകർ",
+   "വിദ്യാർത്ഥികൾ",
+   "നയം"
+  ]
+ }
+}

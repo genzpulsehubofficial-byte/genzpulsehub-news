@@ -1,0 +1,37 @@
+{
+ "id": "f5ef2a358697",
+ "created": "2026-11-25T21:02:01+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Todoist data breach exposes user emails and passwords",
+  "hook": "Your Todoist login info might be at risk",
+  "what": "A hacker accessed Todoist’s production servers and took user data. Stolen details include email addresses, password hashes and the dates accounts were created.",
+  "why": "If you use Todoist, change your password and enable two‑factor authentication. Protecting your login info helps keep other accounts safe.",
+  "tags": [
+   "Todoist",
+   "data breach",
+   "cybersecurity",
+   "privacy",
+   "students"
+  ]
+ },
+ "ml": {
+  "headline": "Todoist ഡാറ്റാ ബ്രീച്ച്: യൂസർ ഇമെയിലും പാസ്‌വേഡും ചോരപ്പെട്ടു",
+  "hook": "നിങ്ങളുടെ Todoist ലോഗിൻ വിവരങ്ങൾ അപകടത്തിൽ",
+  "what": "ഒരു ഹാക്കർ Todoist ന്റെ പ്രൊഡക്ഷൻ സിസ്റ്റങ്ങളിലേക്ക് കടന്ന് ഉപയോക്തൃ ഡാറ്റ എടുത്തു. ചോരപ്പെട്ട വിവരങ്ങളിൽ ഇമെയിൽ ഐഡികൾ, പാസ്‌വേഡ് ഹാഷുകൾ, അക്കൗണ്ട് സൃഷ്ടി തീയതികൾ ഉൾപ്പെടുന്നു.",
+  "why": "Todoist ഉപയോഗിക്കുന്നവർ പാസ്‌വേഡ് മാറ്റി, രണ്ട് ഘട്ടം ഓതെന്റിക്കേഷൻ സജ്ജമാക്കണം. ഇതിലൂടെ മറ്റ് അക്കൗണ്ടുകളുടെ സുരക്ഷ ഉറപ്പാക്കാം.",
+  "tags": [
+   "Todoist",
+   "ഡാറ്റാബ്രീച്ച്",
+   "സൈബർസെക്യൂരിറ്റി",
+   "പ്രൈവസി",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ }
+}

@@ -1,5 +1,119 @@
 [
  {
+  "id": "f8c3f491a7ac",
+  "created": "2026-11-25T21:01:55+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+  "headline": "KSEB partners with NTPC and NGEL for green energy",
+  "hook": "Kerala's power board teams up for cleaner electricity",
+  "what": "The Kerala State Electricity Board has signed an agreement with NTPC Ltd and NGEL. The deal focuses on developing green energy projects in the state.",
+  "why": "It could boost renewable power supply, creating greener jobs and lower emissions for youth.",
+  "tags": [
+   "KSEB",
+   "NTPC",
+   "NGEL",
+   "greenenergy",
+   "Kerala"
+  ]
+ },
+ {
+  "id": "717ded601a5d",
+  "created": "2026-11-25T21:01:58+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cms-statements-on-teacher-student-ratio-misleading-ksta/article71743272.ece",
+  "headline": "Kerala CM’s teacher-student ratio claim called misleading by teachers",
+  "hook": "The state’s education stats may not be what they seem.",
+  "what": "The Kerala State Teachers’ Association says the chief minister’s reported teacher‑student ratio is inaccurate. While the ratio has traditionally been calculated per class, the CM presented a figure based on the total number of teachers and students across the state.",
+  "why": "Accurate ratios affect classroom size and learning quality, which impacts students’ education. Teens should stay informed about how education data is presented and demand clarity.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "Teachers",
+   "Students",
+   "Policy"
+  ]
+ },
+ {
+  "id": "f5ef2a358697",
+  "created": "2026-11-25T21:02:01+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+  "headline": "Todoist data breach exposes user emails and passwords",
+  "hook": "Your Todoist login info might be at risk",
+  "what": "A hacker accessed Todoist’s production servers and took user data. Stolen details include email addresses, password hashes and the dates accounts were created.",
+  "why": "If you use Todoist, change your password and enable two‑factor authentication. Protecting your login info helps keep other accounts safe.",
+  "tags": [
+   "Todoist",
+   "data breach",
+   "cybersecurity",
+   "privacy",
+   "students"
+  ]
+ },
+ {
+  "id": "34c75eb2d85d",
+  "created": "2026-11-25T21:02:03+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/what-changes-for-your-money-in-december-2026-sbi-card-fees-aadhaar-updates-and-other-rules-consumers-should-know-11795619346153.html",
+  "headline": "December 2026: New SBI Card Fees and SEBI Rules",
+  "hook": "Your wallet, Aadhaar and investments get fresh updates.",
+  "what": "SBI will apply updated charges to its credit cards from December. SEBI has introduced new margin requirements for commodity trading. Overseas investors who qualify can now complete digital KYC more easily.",
+  "why": "Young adults should check the revised card fees to avoid surprises and understand the new commodity margins if they trade. Updating Aadhaar email before year‑end and meeting pension life‑certificate deadlines can keep services uninterrupted.",
+  "tags": [
+   "SBI",
+   "SEBI",
+   "Aadhaar",
+   "KYC",
+   "Finance"
+  ]
+ },
+ {
+  "id": "97af1dae055d",
+  "created": "2026-11-25T21:02:06+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/jeevan-pramaan-nov-30-deadline-are-you-eligible-to-submit-life-certificate-digitally-who-must-visit-pension-office-11795616051132.html",
+  "headline": "Nov 30 deadline for Jeevan Pramaan digital life certificate",
+  "hook": "Remarried or re‑employed pensioners, you can’t upload online.",
+  "what": "The Jeevan Pramaan portal stops accepting digital life certificates after Nov 30. Pensioners who are remarried or have taken up new jobs are not eligible to submit the certificate online. They must approach the pension office in person.",
+  "why": "Missing the deadline could delay pension payments, so affected retirees should visit their local office promptly.",
+  "tags": [
+   "pension",
+   "JeevanPramaan",
+   "digitalCertificate",
+   "deadline",
+   "India"
+  ]
+ },
+ {
+  "id": "8137568c5ca5",
+  "created": "2026-11-25T21:02:08+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+  "headline": "Allstate faces days-long tech outage before Thanksgiving",
+  "hook": "Travel plans hit as Allstate’s systems go down",
+  "what": "Allstate’s digital platforms experienced a multi‑day outage. The issue emerged just before the Thanksgiving travel rush, affecting the insurer’s online services.",
+  "why": "Even if you’re not an Allstate customer, the glitch shows how tech failures can disrupt essential services during busy periods. It’s a reminder to have backup plans when relying on digital tools.",
+  "tags": [
+   "Allstate",
+   "techoutage",
+   "Thanksgiving",
+   "travel",
+   "insurance"
+  ]
+ },
+ {
   "id": "23af3fbcdfc4",
   "created": "2026-11-25T19:46:39+05:30",
   "category": "kerala",
@@ -638,119 +752,6 @@
    "wedding",
    "prices",
    "finance"
-  ]
- },
- {
-  "id": "cf91b612bd36",
-  "created": "2026-11-25T12:12:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/sharp-drop-in-gold-prices-triggers-margin-calls-on-loans-by-banks-and-nbfcs-what-customers-should-know-about-ltv-11795587073208.html",
-  "headline": "Gold price fall triggers extra security demands on loans",
-  "hook": "Your gold‑backed loan could need more collateral now",
-  "what": "As gold prices dip, banks and NBFCs say the pledged gold may not satisfy RBI’s loan‑to‑value rules. They are asking borrowers to add security or repay part of the loan.",
-  "why": "Young borrowers with gold loans should check their loan‑to‑value ratio and be ready for possible repayment requests to avoid defaults.",
-  "tags": [
-   "gold",
-   "loans",
-   "RBI",
-   "finance"
-  ]
- },
- {
-  "id": "9ac89f3cd004",
-  "created": "2026-11-25T12:12:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-pro-max-gets-optimised-blackmagic-camera-support-open-gate-olog2-shooting-12373886",
-  "headline": "Oppo Find X10 Pro Max adds Blackmagic 4K Dolby Vision camera",
-  "hook": "Your next phone could shoot cinema‑grade video.",
-  "what": "Oppo announced that its Find X10 Pro Max now supports Blackmagic camera features, including 4K Dolby Vision playback and O‑Log2 recording. The handset is priced at Rs 1,99,999 in India.",
-  "why": "The upgrade lets creators capture high‑dynamic‑range footage straight from a phone, useful for TikTok, reels, or student projects. Interested buyers should compare specs and budget before deciding.",
-  "tags": [
-   "Oppo",
-   "FindX10ProMax",
-   "CameraTech",
-   "DolbyVision",
-   "India"
-  ]
- },
- {
-  "id": "a6f6272f9cbb",
-  "created": "2026-11-25T12:12:42+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/apps/news/google-maps-high-visibility-mode-testing-new-colours-light-dark-themes-report-12373849",
-  "headline": "Google Maps trials bright mode with new route colors",
-  "hook": "A fresh color scheme could make navigation easier for everyone.",
-  "what": "Google Maps is testing a high‑visibility mode. The update changes the route line color, using cyan in the standard view and purple in the new mode. It works for both light and dark themes.",
-  "why": "The brighter palette aims to improve readability, especially in bright conditions, helping teens navigate on foot or bike. Users can try the feature while the test runs.",
-  "tags": [
-   "GoogleMaps",
-   "HighVisibility",
-   "Navigation",
-   "Tech",
-   "Update"
-  ]
- },
- {
-  "id": "f7abc1254395",
-  "created": "2026-11-25T11:02:14+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/jensen-huangs-return-to-nvidia-brings-open-weight-ai-debate-to-fore-in-us-12372878#publisher=newsstand",
-  "headline": "Nvidia reinstates Jensen Huang as CEO",
-  "hook": "The AI giant's top seat is back with its founder.",
-  "what": "Nvidia’s board announced on Monday that Jensen Huang will again lead the company as chief executive. The decision restores him to the role he originally held.",
-  "why": "His return could shape the direction of AI tools and gaming tech that many Indian teens use. Keep an eye on Nvidia’s product updates.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "Tech",
-   "Gaming",
-   "Leadership"
-  ]
- },
- {
-  "id": "c67af3fd80e5",
-  "created": "2026-11-25T11:02:19+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUVDaGNpcDdfWkJ0ZEpvTXRkSmNxVm5Ha1hZbjZSRnRvOWRRaFB6cWNxNU5odTl5dl9lT19LenRFaVA2ZUFpR1RsZjBqdTVjcTJOTFp0ck9HU3BVb3loUVVmczhLN253WkhNRUlfUjdxelJYNnk5dW1QQTFndkJhem1hb2VJb1JFSGstVUxXLVNodlVfUEZtWnlYa1FaZVE5YzFMZHlfazl2MGNSZGdMcHFtUGNXbG1BYWs3UTBiMnhmakJodURoRzN30gHQAUFVX3lxTE5TbUMtbUZlTVp4QVhVS2ttVl9WdzMwY21lRGY2Q2N1aWtwS3RJSTJUQTJJQ1EzcmF1U0M1RlV0akdxVUw2c1JCblhoTHAxVi0xbEh4VWpOLUx1QmJwWWpkZ1BWOHE5RER3MWlqQ2lUb1dLd2NNUUx0VEVFNFpwT0JDRmtGTnhQaDdPYkh6N3ljcm1DQk9jMW1VVEx2bG1IRDg5dGRwQy0zVjJuUFlqblJhZThTVDBHMVJDRFBXbWFKR1BNLTRrOUVMZDh3YTNHeDE?oc=5",
-  "headline": "Nvidia CEO Jensen Huang admits therapy amid slowing rally",
-  "hook": "Even top tech leaders turn to therapy when market momentum fades.",
-  "what": "Nvidia’s chief executive Jensen Huang said he is undergoing therapy as the company’s recent stock surge loses steam. The board reinstated him as president, CEO and board director. Reports say former President Trump made up to $15 million from Nvidia shares after Huang’s return.",
-  "why": "It highlights that high‑profile leaders also need mental‑health support, and that market enthusiasm can shift quickly, so young investors should stay cautious.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "stock",
-   "therapy",
-   "investing"
-  ]
- },
- {
-  "id": "1c90e2e803ab",
-  "created": "2026-11-25T11:02:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-rates-today-andhra-pradesh-25-november-check-price-of-24k-22k-18k-gold-as-yellow-metal-rates-decline-11795581875447.html",
-  "headline": "Gold price hits ₹1,22,570 per 10 g in India",
-  "hook": "Yellow metal rates dip, check the latest price.",
-  "what": "Retail gold is trading at ₹1,22,570 for every 10 grams across India. The price reflects a recent decline in the market.",
-  "why": "Lower gold rates can affect buying decisions for jewellery and investments; teens planning purchases should compare current prices.",
-  "tags": [
-   "gold",
-   "prices",
-   "india",
-   "finance",
-   "youth"
   ]
  }
 ]

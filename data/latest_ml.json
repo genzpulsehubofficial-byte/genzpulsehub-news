@@ -1,5 +1,119 @@
 [
  {
+  "id": "f8c3f491a7ac",
+  "created": "2026-11-25T21:01:55+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+  "headline": "KSEB NTPC, NGEL-നൊപ്പം ഹരിത ഊർജ്ജം",
+  "hook": "കേരളത്തിന്റെ വൈദ്യുതി ബോർഡ് ശുദ്ധവൈദ്യുതി പദ്ധതികളിൽ കൂട്ടുകെട്ട്",
+  "what": "കേരള സ്റ്റേറ്റ് ഇലക്ട്രിസിറ്റി ബോർഡ് NTPC Ltd, NGEL എന്നിവരുമായി കരാർ ഒപ്പുവച്ചു. ഈ കരാർ സംസ്ഥാനത്തിൽ ഹരിത ഊർജ്ജ പദ്ധതികൾ വികസിപ്പിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പുതുക്കാവുന്ന വൈദ്യുതി വർദ്ധിപ്പിച്ച് യുവജനങ്ങൾക്ക് ശുചിത്വ ജോലികളും കുറവുള്ള മലിനീകരണവും നൽകാം.",
+  "tags": [
+   "KSEB",
+   "NTPC",
+   "NGEL",
+   "ഹരിതഊർജ്ജം",
+   "കേരളം"
+  ]
+ },
+ {
+  "id": "717ded601a5d",
+  "created": "2026-11-25T21:01:58+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-cms-statements-on-teacher-student-ratio-misleading-ksta/article71743272.ece",
+  "headline": "കേരളം CM‑യുടെ അധ്യാപക‑വിദ്യാർത്ഥി അനുപാതം തെറ്റെന്ന് അധ്യാപകർ ആരോപിക്കുന്നു",
+  "hook": "സംസ്ഥാനത്തിലെ വിദ്യാഭ്യാസ കണക്കുകൾ യാഥാർത്ഥ്യമല്ലെന്ന് തോന്നുമോ?",
+  "what": "കേരള സ്റ്റേറ്റ് ടീച്ചേഴ്സ് അസോസിയേഷൻ (KSTA) പറയുന്നു, പ്രധാനമന്ത്രിയുടെ പ്രഖ്യാപിച്ച അധ്യാപക‑വിദ്യാർത്ഥി അനുപാതം കൃത്യമല്ല. പരമ്പരാഗതമായി ഈ അനുപാതം ഓരോ ക്ലാസ്സിനും അടിസ്ഥാനമാക്കി കണക്കാക്കുമ്പോൾ, CM മൊത്തം അധ്യാപകരും വിദ്യാർത്ഥികളും ഉൾപ്പെടുത്തി ഒരു സംഖ്യ അവതരിപ്പിച്ചു.",
+  "why": "ക്ലാസ് വലുപ്പം, പഠന നിലവാരം എന്നിവയ്ക്ക് ശരിയായ അനുപാതം പ്രധാനമാണ്, അതിനാൽ വിദ്യാർത്ഥികളുടെ വിദ്യാഭ്യാസം നേരിട്ട് ബാധിക്കും. യുവാക്കൾ ഈ ഡാറ്റയുടെ സത്യത പരിശോധിച്ച് ആവശ്യമായ വ്യക്തതക്കായി ആവശ്യപ്പെടണം.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "അധ്യാപകർ",
+   "വിദ്യാർത്ഥികൾ",
+   "നയം"
+  ]
+ },
+ {
+  "id": "f5ef2a358697",
+  "created": "2026-11-25T21:02:01+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+  "headline": "Todoist ഡാറ്റാ ബ്രീച്ച്: യൂസർ ഇമെയിലും പാസ്‌വേഡും ചോരപ്പെട്ടു",
+  "hook": "നിങ്ങളുടെ Todoist ലോഗിൻ വിവരങ്ങൾ അപകടത്തിൽ",
+  "what": "ഒരു ഹാക്കർ Todoist ന്റെ പ്രൊഡക്ഷൻ സിസ്റ്റങ്ങളിലേക്ക് കടന്ന് ഉപയോക്തൃ ഡാറ്റ എടുത്തു. ചോരപ്പെട്ട വിവരങ്ങളിൽ ഇമെയിൽ ഐഡികൾ, പാസ്‌വേഡ് ഹാഷുകൾ, അക്കൗണ്ട് സൃഷ്ടി തീയതികൾ ഉൾപ്പെടുന്നു.",
+  "why": "Todoist ഉപയോഗിക്കുന്നവർ പാസ്‌വേഡ് മാറ്റി, രണ്ട് ഘട്ടം ഓതെന്റിക്കേഷൻ സജ്ജമാക്കണം. ഇതിലൂടെ മറ്റ് അക്കൗണ്ടുകളുടെ സുരക്ഷ ഉറപ്പാക്കാം.",
+  "tags": [
+   "Todoist",
+   "ഡാറ്റാബ്രീച്ച്",
+   "സൈബർസെക്യൂരിറ്റി",
+   "പ്രൈവസി",
+   "വിദ്യാർത്ഥികൾ"
+  ]
+ },
+ {
+  "id": "34c75eb2d85d",
+  "created": "2026-11-25T21:02:03+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/what-changes-for-your-money-in-december-2026-sbi-card-fees-aadhaar-updates-and-other-rules-consumers-should-know-11795619346153.html",
+  "headline": "ഡിസംബർ 2026: പുതിയ എസ്‌ബിഐ കാർഡ് ഫീസ്, സെബി നിയമങ്ങൾ",
+  "hook": "നിങ്ങളുടെ പണം, ആധാർ, നിക്ഷേപങ്ങൾക്കുള്ള പുതിയ മാറ്റങ്ങൾ.",
+  "what": "ഡിസംബർ മുതൽ എസ്‌ബിഐ ക്രെഡിറ്റ് കാർഡുകളുടെ ഫീസ് പുതുക്കപ്പെടും. സെബി കമോഡിറ്റി ട്രേഡിംഗിന് പുതിയ മാർജിൻ നിബന്ധനകൾ കൊണ്ടുവന്നു. യോഗ്യരായ വിദേശ നിക്ഷേപകർക്ക് ഡിജിറ്റൽ കെവൈസി എളുപ്പമാകും.",
+  "why": "യുവാക്കൾ പുതുക്കിയ കാർഡ് ഫീസ് പരിശോധിച്ച് അപ്രതീക്ഷിത ചാർജുകൾ ഒഴിവാക്കണം, ട്രേഡിംഗ് ചെയ്യുമെങ്കിൽ പുതിയ മാർജിനുകൾ മനസിലാക്കണം. ആധാർ ഇമെയിൽ വർഷാവസാനം വരെ സൗജന്യമായി അപ്ഡേറ്റ് ചെയ്യുകയും പെൻഷൻ ജീവിത സർട്ടിഫിക്കറ്റ് അവസാന തീയതി പാലിക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "SBI",
+   "SEBI",
+   "Aadhaar",
+   "KYC",
+   "Finance"
+  ]
+ },
+ {
+  "id": "97af1dae055d",
+  "created": "2026-11-25T21:02:06+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/jeevan-pramaan-nov-30-deadline-are-you-eligible-to-submit-life-certificate-digitally-who-must-visit-pension-office-11795616051132.html",
+  "headline": "Nov 30 വരെ ജിവന്‍ പ്രമാണം ഡിജിറ്റല്‍ ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ്",
+  "hook": "വിവാഹം വീണ്ടും ചെയ്തോ, പുതിയ ജോലി എടുത്തോ? ഓണ്‍ലൈന്‍ അപ്ലോഡ് സാധ്യമല്ല.",
+  "what": "Nov 30 ന് ശേഷം ജിവന്‍ പ്രമാണം പോര്‍ട്ടല്‍ ഡിജിറ്റല്‍ ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ് സ്വീകരിക്കില്ല. വീണ്ടും വിവാഹിതരായോ, പുതിയ ജോലി ചെയ്തോ ഉള്ള പെന്‍ഷന്‍ധാരികള്‍ക്ക് ഓണ്‍ലൈന്‍ സമര്‍പ്പണം സാധ്യമല്ല. അവര്‍ പെന്‍ഷന്‍ ഓഫീസ് നേരിട്ട് സന്ദര്‍ശിക്കണം.",
+  "why": "ഡെഡ്‌ലൈന്‍ നഷ്ടമാകുമ്പോള്‍ പെന്‍ഷന്‍ ലഭിക്കാന്‍ വൈകല്‍ ഉണ്ടാകാം, അതിനാല്‍ ഉടന്‍ ഓഫീസില്‍ പോകുക.",
+  "tags": [
+   "പെന്‍ഷന്‍",
+   "ജിവന്‍പ്രമാണം",
+   "ഡിജിറ്റല്‍ സര്‍ട്ടിഫിക്കറ്റ്",
+   "ഡെഡ്‌ലൈന‍",
+   "ഇന്ത്യ"
+  ]
+ },
+ {
+  "id": "8137568c5ca5",
+  "created": "2026-11-25T21:02:08+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+  "headline": "Thanksgiving‑ക്ക് മുമ്പ് Allstate‑ന് പല ദിവസത്തെ ടെക്‌ ഔട്ട്‌േജ്",
+  "hook": "Allstate സിസ്റ്റം തകരാറിലായതോടെ യാത്രാ പദ്ധതികൾക്ക് തടസ്സം",
+  "what": "Allstate‑യുടെ ഡിജിറ്റൽ പ്ലാറ്റ്ഫോംമുകൾക്ക് നിരവധി ദിവസത്തെ തകരാർ സംഭവിച്ചു. ഈ പ്രശ്നം Thanksgiving യാത്രാ തിരക്കിന് മുമ്പ് ഉണ്ടായി, ഇൻഷുറൻസ് കമ്പനിയുടെ ഓൺലൈൻ സേവനങ്ങളെ ബാധിച്ചു.",
+  "why": "നിങ്ങൾ Allstate ഉപഭോക്താവല്ലെങ്കിലും, തിരക്കേറിയ സമയങ്ങളിൽ ടെക്‌ തകരാറുകൾ എങ്ങനെ പ്രധാന സേവനങ്ങളെ ബാധിക്കാമെന്ന് ഇത് കാണിക്കുന്നു. ഡിജിറ്റൽ ഉപകരണങ്ങളിലേയ്ക്ക് മാത്രം ആശ്രയിക്കാതെ ബാക്കപ്പ് പ്ലാൻ ഉണ്ടാക്കുക.",
+  "tags": [
+   "Allstate",
+   "techoutage",
+   "Thanksgiving",
+   "travel",
+   "insurance"
+  ]
+ },
+ {
   "id": "23af3fbcdfc4",
   "created": "2026-11-25T19:46:39+05:30",
   "category": "kerala",
@@ -638,119 +752,6 @@
    "വിവാഹം",
    "വില",
    "ഫിനാൻസ്"
-  ]
- },
- {
-  "id": "cf91b612bd36",
-  "created": "2026-11-25T12:12:38+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/sharp-drop-in-gold-prices-triggers-margin-calls-on-loans-by-banks-and-nbfcs-what-customers-should-know-about-ltv-11795587073208.html",
-  "headline": "സ്വർണ്ണം വില ഇടിഞ്ഞു, വായ്പയ്ക്ക് അധിക സുരക്ഷ ആവശ്യമായി",
-  "hook": "നിങ്ങളുടെ സ്വർണ്ണ‑വായ്പയ്ക്ക് ഇനി കൂടുതൽ ഗ്യാരണ്ടി വേണം",
-  "what": "സ്വർണ്ണം വില കുറഞ്ഞതോടെ, ബാങ്കുകളും NBFCകളും RBIയുടെ LTV മാനദണ്ഡം നിറവേറ്റുന്നില്ലെന്ന് കരുതുന്നു. അതിനാൽ കടംമുടക്കുന്നവരെ അധിക സുരക്ഷ നൽകാൻ അല്ലെങ്കിൽ ഭാഗികം തിരിച്ചടയ്ക്കാൻ ആവശ്യപ്പെടുന്നു.",
-  "why": "സ്വർണ്ണ‑വായ്പയുള്ള യുവാക്കൾ LTV പരിശോധിച്ച്, ആവശ്യമായ തിരിച്ചു നൽകലിനോ അധിക ഗ്യാരണ്ടിക്കോ തയ്യാറാകണം.",
-  "tags": [
-   "സ്വർണ്ണം",
-   "വായ്പ",
-   "RBI",
-   "ഫിനാൻസ്"
-  ]
- },
- {
-  "id": "9ac89f3cd004",
-  "created": "2026-11-25T12:12:40+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/oppo-find-x10-pro-max-gets-optimised-blackmagic-camera-support-open-gate-olog2-shooting-12373886",
-  "headline": "Oppo Find X10 Pro Max-ന് Blackmagic 4K Dolby Vision ക്യാമറ സപ്പോർട്ട്",
-  "hook": "നിങ്ങളുടെ അടുത്ത ഫോൺ സിനിമാ‑ഗ്രേഡ് വീഡിയോ ഷൂട്ട് ചെയ്യാൻ കഴിയും.",
-  "what": "Oppo പ്രഖ്യാപിച്ചു Find X10 Pro Max-ന് Blackmagic ക്യാമറ ഫീച്ചറുകൾ, 4K Dolby Vision പ്ലേബാക്കും O‑Log2 റെക്കോർഡിംഗും ലഭ്യമാണെന്ന്. ഇന്ത്യയിൽ ഈ ഫോണിന്റെ വില ₹1,99,999 ആണ്.",
-  "why": "ഇത് ഉയർന്ന ഡൈനാമിക് റേഞ്ച് വീഡിയോകൾ നേരിട്ട് ഫോണിൽ പിടിക്കാൻ സഹായിക്കുന്നു, TikTok, reels അല്ലെങ്കിൽ വിദ്യാർത്ഥി പ്രോജക്റ്റുകൾക്ക് ഉപകാരപ്രദം. വാങ്ങുന്നതിന് മുമ്പ് സ്പെക്‌സും ബജറ്റും പരിശോധിക്കുക.",
-  "tags": [
-   "Oppo",
-   "FindX10ProMax",
-   "CameraTech",
-   "DolbyVision",
-   "India"
-  ]
- },
- {
-  "id": "a6f6272f9cbb",
-  "created": "2026-11-25T12:12:42+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/apps/news/google-maps-high-visibility-mode-testing-new-colours-light-dark-themes-report-12373849",
-  "headline": "Google Maps പരീക്ഷിക്കുന്നു പുതിയ ഹൈ‑വിസിബിലിറ്റി മോഡ്",
-  "hook": "പുതിയ നിറങ്ങളോടെ നാവിഗേഷൻ കൂടുതൽ വ്യക്തമായിരിക്കും.",
-  "what": "Google Maps ഒരു ഹൈ‑വിസിബിലിറ്റി മോഡ് പരീക്ഷിക്കുന്നു. ലൈറ്റ്, ഡാർക്ക് തീമുകൾക്ക് പുതിയ നിറങ്ങൾ ഉപയോഗിക്കുന്നു, റൂട്ട് ലൈനിന്റെ നിറം സയനിൽ നിന്ന് പർപ്പിളിലേക്ക് മാറാം.",
-  "why": "ഇത് ദൃശ്യത വർധിപ്പിച്ച്, വെളിച്ചം കൂടുതലുള്ള സാഹചര്യങ്ങളിൽ, യുവാക്കൾക്ക് സഞ്ചാരം എളുപ്പമാക്കും. പരീക്ഷണം ഇപ്പോൾ നടക്കുന്നു, നിങ്ങൾക്ക് ഇത് പരീക്ഷിക്കാൻ കഴിയും.",
-  "tags": [
-   "GoogleMaps",
-   "HighVisibility",
-   "Navigation",
-   "Tech",
-   "Update"
-  ]
- },
- {
-  "id": "f7abc1254395",
-  "created": "2026-11-25T11:02:14+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/jensen-huangs-return-to-nvidia-brings-open-weight-ai-debate-to-fore-in-us-12372878#publisher=newsstand",
-  "headline": "Nvidia-യി Jensen Huang-നെ CEO ആയി തിരികെ നിയമിച്ചു",
-  "hook": "AI കമ്പനിയുടെ മേധാവി സ്ഥാനത്ത് സ്ഥാപകൻ വീണ്ടും തിരിച്ചെത്തി.",
-  "what": "Nvidiaയുടെ ബോർഡ് തിങ്കളാഴ്ച പ്രഖ്യാപിച്ചു, Jensen Huang വീണ്ടും ചീഫ് എക്സിക്യൂട്ടീവ് ഓഫീസർ ആയി ചുമതല ഏറ്റെടുക്കും. ഇതോടെ അദ്ദേഹം മുൻപ് കൈവശം വെച്ചിരുന്ന സ്ഥാനത്തിലേക്ക് മടങ്ങി.",
-  "why": "AI, ഗെയിമിംഗ് തുടങ്ങിയ മേഖലകളിൽ Nvidiaയുടെ തീരുമാനങ്ങൾ യുവജനങ്ങളുടെ ടെക് ഉപയോഗത്തെ ബാധിക്കും. പുതിയ ഉൽപ്പന്നങ്ങളും അപ്ഡേറ്റുകളും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "Tech",
-   "Gaming",
-   "Leadership"
-  ]
- },
- {
-  "id": "c67af3fd80e5",
-  "created": "2026-11-25T11:02:19+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUVDaGNpcDdfWkJ0ZEpvTXRkSmNxVm5Ha1hZbjZSRnRvOWRRaFB6cWNxNU5odTl5dl9lT19LenRFaVA2ZUFpR1RsZjBqdTVjcTJOTFp0ck9HU3BVb3loUVVmczhLN253WkhNRUlfUjdxelJYNnk5dW1QQTFndkJhem1hb2VJb1JFSGstVUxXLVNodlVfUEZtWnlYa1FaZVE5YzFMZHlfazl2MGNSZGdMcHFtUGNXbG1BYWs3UTBiMnhmakJodURoRzN30gHQAUFVX3lxTE5TbUMtbUZlTVp4QVhVS2ttVl9WdzMwY21lRGY2Q2N1aWtwS3RJSTJUQTJJQ1EzcmF1U0M1RlV0akdxVUw2c1JCblhoTHAxVi0xbEh4VWpOLUx1QmJwWWpkZ1BWOHE5RER3MWlqQ2lUb1dLd2NNUUx0VEVFNFpwT0JDRmtGTnhQaDdPYkh6N3ljcm1DQk9jMW1VVEx2bG1IRDg5dGRwQy0zVjJuUFlqblJhZThTVDBHMVJDRFBXbWFKR1BNLTRrOUVMZDh3YTNHeDE?oc=5",
-  "headline": "Nvidia CEO Jensen Huang therapy‑യിൽ, സ്റ്റോക്ക് റാലി മന്ദഗതിയിൽ",
-  "hook": "മാർക്കറ്റ്‌ തിളക്കത്തിൽ പോലും, നേതാക്കൾക്ക് മാനസിക പിന്തുണ ആവശ്യം.",
-  "what": "Nvidiaയുടെ ചീഫ് എക്സിക്യൂട്ടീവ് Jensen Huang, കമ്പനിയുടെ സ്റ്റോക്ക് ഉയർച്ച മന്ദമാകുമ്പോൾ അദ്ദേഹം തെറാപ്പി ചെയ്യുകയാണെന്ന് അറിയിച്ചു. ബോർഡ് അവനെ പ്രസിഡന്റ്, CEO, ഡയറക്ടർ എന്ന നിലയിൽ വീണ്ടും നിയമിച്ചു. റിപ്പോർട്ടുകൾ പ്രകാരം മുൻ പ്രസിഡന്റ് ട്രംപ്, Huangയുടെ തിരിച്ചുവരവിന് ശേഷം Nvidia ഷെയറുകളിൽ $15 മില്യൺ വരെ ലാഭം നേടി.",
-  "why": "ഇത് യുവജനങ്ങൾക്ക് മാനസികാരോഗ്യത്തിന്റെ പ്രാധാന്യം കാണിക്കുന്നു, കൂടാതെ സ്റ്റോക്ക് മാർക്കറ്റിലെ മാറ്റങ്ങൾക്കായി ജാഗ്രതയോടെ നിക്ഷേപിക്കാൻ ഓർമ്മപ്പെടുത്തുന്നു.",
-  "tags": [
-   "Nvidia",
-   "JensenHuang",
-   "Therapy",
-   "Stock",
-   "Investing"
-  ]
- },
- {
-  "id": "1c90e2e803ab",
-  "created": "2026-11-25T11:02:24+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/gold-rates-today-andhra-pradesh-25-november-check-price-of-24k-22k-18k-gold-as-yellow-metal-rates-decline-11795581875447.html",
-  "headline": "ഭാരതത്തിൽ 10 ഗ്രാം ഗോൾഡിന്റെ വില ₹1,22,570",
-  "hook": "മഞ്ഞു ലോഹത്തിന്റെ വില താഴ്ന്നു, പുതിയ നിരക്ക് നോക്കൂ.",
-  "what": "ഇന്ത്യയിലെ റീട്ടെയിൽ മാർക്കറ്റിൽ 10 ഗ്രാം ഗോൾഡിന്റെ വില ഇപ്പോൾ ₹1,22,570 ആണ്. വിലയിൽ അടുത്തകാലത്തെ ഇടിവ് കാണാം.",
-  "why": "കുറഞ്ഞ ഗോൾഡ് നിരക്കുകൾ ആഭരണവും നിക്ഷേപവും സംബന്ധിച്ച തീരുമാനങ്ങളെ ബാധിക്കും; വാങ്ങൽ പദ്ധതിയുള്ളവർക്കു നിലവിലെ വില പരിശോധിക്കുക.",
-  "tags": [
-   "ഗോൾഡ്",
-   "വില",
-   "ഇന്ത്യ",
-   "ഫിനാൻസ്",
-   "യുവാക്കൾ"
   ]
  }
 ]

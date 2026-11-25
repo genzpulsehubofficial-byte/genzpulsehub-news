@@ -1,0 +1,37 @@
+{
+ "id": "97af1dae055d",
+ "created": "2026-11-25T21:02:06+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/jeevan-pramaan-nov-30-deadline-are-you-eligible-to-submit-life-certificate-digitally-who-must-visit-pension-office-11795616051132.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nov 30 deadline for Jeevan Pramaan digital life certificate",
+  "hook": "Remarried or re‑employed pensioners, you can’t upload online.",
+  "what": "The Jeevan Pramaan portal stops accepting digital life certificates after Nov 30. Pensioners who are remarried or have taken up new jobs are not eligible to submit the certificate online. They must approach the pension office in person.",
+  "why": "Missing the deadline could delay pension payments, so affected retirees should visit their local office promptly.",
+  "tags": [
+   "pension",
+   "JeevanPramaan",
+   "digitalCertificate",
+   "deadline",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Nov 30 വരെ ജിവന്‍ പ്രമാണം ഡിജിറ്റല്‍ ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ്",
+  "hook": "വിവാഹം വീണ്ടും ചെയ്തോ, പുതിയ ജോലി എടുത്തോ? ഓണ്‍ലൈന്‍ അപ്ലോഡ് സാധ്യമല്ല.",
+  "what": "Nov 30 ന് ശേഷം ജിവന്‍ പ്രമാണം പോര്‍ട്ടല്‍ ഡിജിറ്റല്‍ ലൈഫ് സര്‍ട്ടിഫിക്കറ്റ് സ്വീകരിക്കില്ല. വീണ്ടും വിവാഹിതരായോ, പുതിയ ജോലി ചെയ്തോ ഉള്ള പെന്‍ഷന്‍ധാരികള്‍ക്ക് ഓണ്‍ലൈന്‍ സമര്‍പ്പണം സാധ്യമല്ല. അവര്‍ പെന്‍ഷന്‍ ഓഫീസ് നേരിട്ട് സന്ദര്‍ശിക്കണം.",
+  "why": "ഡെഡ്‌ലൈന്‍ നഷ്ടമാകുമ്പോള്‍ പെന്‍ഷന്‍ ലഭിക്കാന്‍ വൈകല്‍ ഉണ്ടാകാം, അതിനാല്‍ ഉടന്‍ ഓഫീസില്‍ പോകുക.",
+  "tags": [
+   "പെന്‍ഷന്‍",
+   "ജിവന്‍പ്രമാണം",
+   "ഡിജിറ്റല്‍ സര്‍ട്ടിഫിക്കറ്റ്",
+   "ഡെഡ്‌ലൈന‍",
+   "ഇന്ത്യ"
+  ]
+ }
+}

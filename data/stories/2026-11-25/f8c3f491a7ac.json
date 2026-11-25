@@ -1,0 +1,37 @@
+{
+ "id": "f8c3f491a7ac",
+ "created": "2026-11-25T21:01:55+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "KSEB partners with NTPC and NGEL for green energy",
+  "hook": "Kerala's power board teams up for cleaner electricity",
+  "what": "The Kerala State Electricity Board has signed an agreement with NTPC Ltd and NGEL. The deal focuses on developing green energy projects in the state.",
+  "why": "It could boost renewable power supply, creating greener jobs and lower emissions for youth.",
+  "tags": [
+   "KSEB",
+   "NTPC",
+   "NGEL",
+   "greenenergy",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "KSEB NTPC, NGEL-നൊപ്പം ഹരിത ഊർജ്ജം",
+  "hook": "കേരളത്തിന്റെ വൈദ്യുതി ബോർഡ് ശുദ്ധവൈദ്യുതി പദ്ധതികളിൽ കൂട്ടുകെട്ട്",
+  "what": "കേരള സ്റ്റേറ്റ് ഇലക്ട്രിസിറ്റി ബോർഡ് NTPC Ltd, NGEL എന്നിവരുമായി കരാർ ഒപ്പുവച്ചു. ഈ കരാർ സംസ്ഥാനത്തിൽ ഹരിത ഊർജ്ജ പദ്ധതികൾ വികസിപ്പിക്കാൻ ലക്ഷ്യമിടുന്നു.",
+  "why": "ഇത് പുതുക്കാവുന്ന വൈദ്യുതി വർദ്ധിപ്പിച്ച് യുവജനങ്ങൾക്ക് ശുചിത്വ ജോലികളും കുറവുള്ള മലിനീകരണവും നൽകാം.",
+  "tags": [
+   "KSEB",
+   "NTPC",
+   "NGEL",
+   "ഹരിതഊർജ്ജം",
+   "കേരളം"
+  ]
+ }
+}

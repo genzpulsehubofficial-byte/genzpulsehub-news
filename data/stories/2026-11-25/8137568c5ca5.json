@@ -1,0 +1,37 @@
+{
+ "id": "8137568c5ca5",
+ "created": "2026-11-25T21:02:08+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Allstate faces days-long tech outage before Thanksgiving",
+  "hook": "Travel plans hit as Allstate’s systems go down",
+  "what": "Allstate’s digital platforms experienced a multi‑day outage. The issue emerged just before the Thanksgiving travel rush, affecting the insurer’s online services.",
+  "why": "Even if you’re not an Allstate customer, the glitch shows how tech failures can disrupt essential services during busy periods. It’s a reminder to have backup plans when relying on digital tools.",
+  "tags": [
+   "Allstate",
+   "techoutage",
+   "Thanksgiving",
+   "travel",
+   "insurance"
+  ]
+ },
+ "ml": {
+  "headline": "Thanksgiving‑ക്ക് മുമ്പ് Allstate‑ന് പല ദിവസത്തെ ടെക്‌ ഔട്ട്‌േജ്",
+  "hook": "Allstate സിസ്റ്റം തകരാറിലായതോടെ യാത്രാ പദ്ധതികൾക്ക് തടസ്സം",
+  "what": "Allstate‑യുടെ ഡിജിറ്റൽ പ്ലാറ്റ്ഫോംമുകൾക്ക് നിരവധി ദിവസത്തെ തകരാർ സംഭവിച്ചു. ഈ പ്രശ്നം Thanksgiving യാത്രാ തിരക്കിന് മുമ്പ് ഉണ്ടായി, ഇൻഷുറൻസ് കമ്പനിയുടെ ഓൺലൈൻ സേവനങ്ങളെ ബാധിച്ചു.",
+  "why": "നിങ്ങൾ Allstate ഉപഭോക്താവല്ലെങ്കിലും, തിരക്കേറിയ സമയങ്ങളിൽ ടെക്‌ തകരാറുകൾ എങ്ങനെ പ്രധാന സേവനങ്ങളെ ബാധിക്കാമെന്ന് ഇത് കാണിക്കുന്നു. ഡിജിറ്റൽ ഉപകരണങ്ങളിലേയ്ക്ക് മാത്രം ആശ്രയിക്കാതെ ബാക്കപ്പ് പ്ലാൻ ഉണ്ടാക്കുക.",
+  "tags": [
+   "Allstate",
+   "techoutage",
+   "Thanksgiving",
+   "travel",
+   "insurance"
+  ]
+ }
+}

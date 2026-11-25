@@ -1,0 +1,37 @@
+{
+ "id": "34c75eb2d85d",
+ "created": "2026-11-25T21:02:03+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/what-changes-for-your-money-in-december-2026-sbi-card-fees-aadhaar-updates-and-other-rules-consumers-should-know-11795619346153.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "December 2026: New SBI Card Fees and SEBI Rules",
+  "hook": "Your wallet, Aadhaar and investments get fresh updates.",
+  "what": "SBI will apply updated charges to its credit cards from December. SEBI has introduced new margin requirements for commodity trading. Overseas investors who qualify can now complete digital KYC more easily.",
+  "why": "Young adults should check the revised card fees to avoid surprises and understand the new commodity margins if they trade. Updating Aadhaar email before year‑end and meeting pension life‑certificate deadlines can keep services uninterrupted.",
+  "tags": [
+   "SBI",
+   "SEBI",
+   "Aadhaar",
+   "KYC",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "ഡിസംബർ 2026: പുതിയ എസ്‌ബിഐ കാർഡ് ഫീസ്, സെബി നിയമങ്ങൾ",
+  "hook": "നിങ്ങളുടെ പണം, ആധാർ, നിക്ഷേപങ്ങൾക്കുള്ള പുതിയ മാറ്റങ്ങൾ.",
+  "what": "ഡിസംബർ മുതൽ എസ്‌ബിഐ ക്രെഡിറ്റ് കാർഡുകളുടെ ഫീസ് പുതുക്കപ്പെടും. സെബി കമോഡിറ്റി ട്രേഡിംഗിന് പുതിയ മാർജിൻ നിബന്ധനകൾ കൊണ്ടുവന്നു. യോഗ്യരായ വിദേശ നിക്ഷേപകർക്ക് ഡിജിറ്റൽ കെവൈസി എളുപ്പമാകും.",
+  "why": "യുവാക്കൾ പുതുക്കിയ കാർഡ് ഫീസ് പരിശോധിച്ച് അപ്രതീക്ഷിത ചാർജുകൾ ഒഴിവാക്കണം, ട്രേഡിംഗ് ചെയ്യുമെങ്കിൽ പുതിയ മാർജിനുകൾ മനസിലാക്കണം. ആധാർ ഇമെയിൽ വർഷാവസാനം വരെ സൗജന്യമായി അപ്ഡേറ്റ് ചെയ്യുകയും പെൻഷൻ ജീവിത സർട്ടിഫിക്കറ്റ് അവസാന തീയതി പാലിക്കുകയും ചെയ്യണം.",
+  "tags": [
+   "SBI",
+   "SEBI",
+   "Aadhaar",
+   "KYC",
+   "Finance"
+  ]
+ }
+}

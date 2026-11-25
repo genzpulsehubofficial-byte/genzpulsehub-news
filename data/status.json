@@ -1,13 +1,14 @@
 {
- "last_run": "2026-11-25T19:46:55+05:30",
- "fetched": 263,
- "made": 5,
+ "last_run": "2026-11-25T21:02:08+05:30",
+ "fetched": 271,
+ "made": 6,
  "providers": {
-  "groq": 5
+  "groq": 6
  },
  "dead_feeds": [
   "Indian Express",
-  "Exams",
+  "Jobs",
+  "Google News Entertainment",
   "Gaming",
   "Onmanorama"
  ],
