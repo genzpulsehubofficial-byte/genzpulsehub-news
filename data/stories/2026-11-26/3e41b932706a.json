@@ -1,0 +1,45 @@
+{
+ "id": "3e41b932706a",
+ "created": "2026-11-26T00:05:55+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Deccan Herald",
+ "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNUJNUHZ6NzRDczNKNFg1MUtHdmpUTUxOLUlnQkV0TzQ1SWJWdEp3aGhWUXVmTm9UODloWF9lSjlIejhLZHVIZ1poZmVSZG0yMnNBamk4YWFNZHA4TW9tR1pjLXNYdFpLRV9oWF81dUdjV1lUUE93TlJhcFRCWVFWMWRkNjloY1g4a0gzam9wT2d5b1hWV0JEclJtQ3p1SUdRdTF6cGJHMExPMDV4TXN6YkRlZUg2V2JjWFBHVFYxTkgzQ1VQTldlQ1dHX01ZQ2taQnZ3akkyeElKZmlUVnBlc2h3?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Samsung rolls out One UI 9 Watch update for Galaxy Watch8",
+  "hook": "Your smartwatch now tracks heart health like never before",
+  "what": "Samsung has begun the global rollout of the One UI 9 Watch update. The new software adds advanced heart‑health monitoring to the Galaxy Watch8 series and brings Wear OS 7 to older Galaxy Watch models.",
+  "why": "It gives teens better health insights and fresh features on their wearables, so keep your watch updated.",
+  "tags": [
+   "Samsung",
+   "GalaxyWatch",
+   "OneUI9",
+   "HealthTech",
+   "WearOS"
+  ]
+ },
+ "ml": {
+  "headline": "Samsung One UI 9 Watch അപ്‌ഡേറ്റ് Galaxy Watch 8‑ന്",
+  "hook": "നിങ്ങളുടെ സ്മാർട്ട്‌വാച്ച് ഇനി ഹൃദയാരോഗ്യം കൃത്യമായി നിരീക്ഷിക്കും",
+  "what": "Samsung One UI 9 Watch അപ്‌ഡേറ്റ് ലോകവ്യാപകമായി ആരംഭിച്ചു. ഈ അപ്‌ഡേറ്റ് Galaxy Watch 8 സീരീസില്‍ പുരോഗമിച്ച ഹൃദയാരോഗ്യ ട്രാക്കിംഗ് സവിശേഷതകള്‍ ചേര്‍ത്ത്, കൂടാതെ പഴയ Galaxy Watch മോഡലുകളില്‍ Wear OS 7‑യും ലഭ്യമാക്കി.",
+  "why": "ഇത് യുവാക്കള്‍ക്ക് അവരുടെ ആരോഗ്യത്തെക്കുറിച്ച് കൂടുതല്‍ വിവരങ്ങള്‍ നല്‍കുകയും, വാച്ച് ഫീച്ചറുകള്‍ പുതുക്കി ഉപയോഗിക്കാനും സഹായിക്കും.",
+  "tags": [
+   "Samsung",
+   "GalaxyWatch",
+   "OneUI9",
+   "ആരോഗ്യം",
+   "WearOS"
+  ],
+  "say": "നിങ്ങളുടെ സ്മാർട്ട്‌വാച്ച് ഇനി ഹൃദയാരോഗ്യം കൃത്യമായി നിരീക്ഷിക്കും. സാംസങ് വൺ യു ഐ ഒന്‍പത് വാച്ച് അപ്‌ഡേറ്റ് ലോകവ്യാപകമായി ആരംഭിച്ചു. ഈ അപ്‌ഡേറ്റ് ഗാലക്‌സി വാച്ച് എട്ട് സീരീസില്‍ പുരോഗമിച്ച ഹൃദയാരോഗ്യ ട്രാക്കിംഗ് സവിശേഷതകള്‍ ചേര്‍ത്ത്, കൂടാതെ പഴയ ഗാലക്‌സി വാച്ച് മോഡലുകളില്‍ വെയർ ഒഎസ് ഏഴ്‑യും ലഭ്യമാക്കി. ഇത് യുവാക്കള്‍ക്ക് അവരുടെ ആരോഗ്യത്തെക്കുറിച്ച് കൂടുതല്‍ വിവരങ്ങള്‍ നല്‍കുകയും, വാച്ച് ഫീച്ചറുകള്‍ പുതുക്കി ഉപയോഗിക്കാനും സഹായിക്കും.",
+  "tags_en": [
+   "Samsung",
+   "GalaxyWatch",
+   "OneUI9",
+   "HealthTech",
+   "WearOS"
+  ]
+ }
+}

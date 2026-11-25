@@ -1,0 +1,45 @@
+{
+ "id": "57562c7233d6",
+ "created": "2026-11-26T00:03:07+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/fixed-deposit-rates-suryoday-small-finance-bank-offers-8-25-on-5-year-fds-compare-rates-at-sbi-hdfc-bank-and-others-11795628971502.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Suryoday Small Finance Bank tops FD rates at 8.25% for 5 years",
+  "hook": "Grab a high‑interest lock‑in before big banks catch up",
+  "what": "Suryoday Small Finance Bank is offering an 8.25% interest on five‑year fixed deposits, the highest among banks currently. Small finance banks generally lead the market, with rates also listed for SBI, HDFC and other banks.",
+  "why": "Higher returns can boost savings for students and young professionals, so compare offers before locking funds.",
+  "tags": [
+   "FD",
+   "interest",
+   "savings",
+   "banking",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "സൂര്യോദയ സ്മോൾ ഫിനാൻസ് ബാങ്ക് അഞ്ചു വര്‍ഷത്തെ എഫ്‌ഡിയില്‍ എട്ട് പോയിന്റ് ഇരുപത്തി അഞ്ച് ശതമാനം നല്‍കി നിരക്ക് ഉയര്‍ത്തി",
+  "hook": "വലിയ ബാങ്കുകള്‍ പിടിച്ചെടുക്കുന്നതിന് മുമ്പ്, ഉയർന്ന പലിശ പിടിച്ചെടുക്കൂ",
+  "what": "സൂര്യോദയ സ്മോൾ ഫിനാൻസ് ബാങ്ക് അഞ്ചു വര്‍ഷത്തെ എഫ്‌ഡിയില്‍ എട്ട് പോയിന്റ് ഇരുപത്തി അഞ്ച് ശതമാനം പലിശ നല്‍കുന്നു; ഇത് ഇപ്പോള്‍ ബാങ്കുകള്‍ തമ്മില്‍ ഏറ്റവും ഉയര്‍ന്നതാണു. ചെറിയ ഫിനാൻസ് ബാങ്കുകള്‍ സാധാരണയായി മികച്ച നിരക്കുകള്‍ നല്‍കുന്നു; എസ്‌ബിഐ, എച്ച്‌ഡിഎഫ്‌സി തുടങ്ങിയവയുടെ നിരക്കുകളും താരതമ്യം ചെയ്യാം.",
+  "why": "വളരെ ഉയർന്ന വരുമാനം വിദ്യാർത്ഥികളും യുവപ്രവർത്തകരും അവരുടെ സംരക്ഷണം വളർത്താന്‍ സഹായിക്കും; അതിനാല്‍ നിക്ഷേപം ചെയ്യുന്നതിന് മുമ്പ് നിരക്കുകള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "FD",
+   "വരുമാനം",
+   "സംഭരണം",
+   "ബാങ്കിംഗ്",
+   "യുവാക്കൾ"
+  ],
+  "say": "വലിയ ബാങ്കുകള്‍ പിടിച്ചെടുക്കുന്നതിന് മുമ്പ്, ഉയർന്ന പലിശ പിടിച്ചെടുക്കൂ. സൂര്യോദയ സ്മോൾ ഫിനാൻസ് ബാങ്ക് അഞ്ചു വര്‍ഷത്തെ എഫ്‌ഡിയില്‍ എട്ട് പോയിന്റ് ഇരുപത്തി അഞ്ച് ശതമാനം പലിശ നല്‍കുന്നു; ഇത് ഇപ്പോള്‍ ബാങ്കുകള്‍ തമ്മില്‍ ഏറ്റവും ഉയര്‍ന്നതാണു. ചെറിയ ഫിനാൻസ് ബാങ്കുകള്‍ സാധാരണയായി മികച്ച നിരക്കുകള്‍ നല്‍കുന്നു; എസ്‌ബിഐ, എച്ച്‌ഡിഎഫ്‌സി തുടങ്ങിയവയുടെ നിരക്കുകളും താരതമ്യം ചെയ്യാം. വളരെ ഉയർന്ന വരുമാനം വിദ്യാർത്ഥികളും യുവപ്രവർത്തകരും അവരുടെ സംരക്ഷണം വളർത്താന്‍ സഹായിക്കും; അതിനാല്‍ നിക്ഷേപം ചെയ്യുന്നതിന് മുമ്പ് നിരക്കുകള്‍ പരിശോധിക്കുക.",
+  "tags_en": [
+   "FD",
+   "interest",
+   "savings",
+   "banking",
+   "youth"
+  ]
+ }
+}

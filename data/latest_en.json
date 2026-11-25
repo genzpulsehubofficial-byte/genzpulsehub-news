@@ -1,5 +1,119 @@
 [
  {
+  "id": "4d25d73ffeca",
+  "created": "2026-11-26T00:02:55+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/meta-officials-meet-congress-leaders-amid-allegations-of-bias-in-content-moderation/article71743656.ece",
+  "headline": "Meta reps meet Congress over content‑moderation bias claims",
+  "hook": "Big tech and politicians sit down to discuss what you see online",
+  "what": "Meta sent Aman Jain and Natasha Jog to a meeting with Congress members. The discussion focused on accusations that the platform’s content‑moderation is biased. Congress leader Supriya Shrinate attended.",
+  "why": "Content moderation shapes the posts and videos you encounter, so knowing platform policies matters. Keep an eye on any changes that could affect your feed.",
+  "tags": [
+   "Meta",
+   "Congress",
+   "content moderation",
+   "bias",
+   "India"
+  ]
+ },
+ {
+  "id": "4f81444702b5",
+  "created": "2026-11-26T00:03:01+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
+  "headline": "India says voluntary return to Bangladesh isn’t an extradition case",
+  "hook": "A citizen can go back without a legal extradition process, says MEA.",
+  "what": "The Ministry of External Affairs clarified that a person willing to travel back to Bangladesh on a travel document is dealt with separately from any extradition request. The comment came from spokesperson Randhir Jaiswal.",
+  "why": "It shows that voluntary travel isn’t linked to legal proceedings, so young Indians should know the distinction if they or someone they know faces a similar situation.",
+  "tags": [
+   "India",
+   "Bangladesh",
+   "MEA",
+   "extradition",
+   "travel"
+  ]
+ },
+ {
+  "id": "57562c7233d6",
+  "created": "2026-11-26T00:03:07+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/fixed-deposit-rates-suryoday-small-finance-bank-offers-8-25-on-5-year-fds-compare-rates-at-sbi-hdfc-bank-and-others-11795628971502.html",
+  "headline": "Suryoday Small Finance Bank tops FD rates at 8.25% for 5 years",
+  "hook": "Grab a high‑interest lock‑in before big banks catch up",
+  "what": "Suryoday Small Finance Bank is offering an 8.25% interest on five‑year fixed deposits, the highest among banks currently. Small finance banks generally lead the market, with rates also listed for SBI, HDFC and other banks.",
+  "why": "Higher returns can boost savings for students and young professionals, so compare offers before locking funds.",
+  "tags": [
+   "FD",
+   "interest",
+   "savings",
+   "banking",
+   "youth"
+  ]
+ },
+ {
+  "id": "f257abcd6a75",
+  "created": "2026-11-26T00:05:43+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "NDTV Profit",
+  "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLU53N25vRVgtd2NBb1lVQ3J6ZEJFcXdtU2pNSjNBdmhadURMLWxFa0VpVXh1a0lSWHl3OEVsU2x0S2ExX0RaYU1HQ3FnNF9hSl9xR1Y3VkZzX0djdjYzZmN1emdrRDV4bVVhM3VEd2NRS1pPS2hXTklUcTlUS2dkZ25ydlBONmpRYWhTRGx4UWtOa1pnclVoWlNaOVdBdTljSEx0bl9uNUZ1b1NWZjlpV0VYSkttdl8zOXZ1WVpJS2kyaFhncnBBVWdCclA1N1FP0gHYAUFVX3lxTE1rNHp0QUZGUEdvT3NCcnAxSjkzSWNaREhwWmttZExiNEpOUmZIQWlZYmg5bHdINXR3N04wQzdMMmRnV1BDXzhIYkF2NGlJakpsMk5zUlFJS2szQzVCRTZYRFdqOTdsZ1JDMzBETE55aVJHTXpRRnBURDhnSmw2b3JXUlU4V3c2Q2xrdlJRUF9YN2JldWh5VmJfSkZiTXZEZ3B3RE80Q0FZa3FNOUtWTHl2cUNjZ3FxQXBZdkNSVTNOODZoYXN2S0JoSlRjWUJwQnBGMW9xZFFVQg?oc=5",
+  "headline": "Air India and Air India Express Get One Group Setup",
+  "hook": "The two Air India brands aren’t merging, but they’ll now be part of one group.",
+  "what": "Air India and Air India Express plan to run as a single group while keeping their own brands. Air India is also changing its top deck. The airline’s CEO Tewolde has set a ₹6,000 crore cost-saving target and wants to boost revenue.",
+  "why": "For young Indians, the two airlines will still be separate brands even as they operate under one group. The CEO set a cost-saving target and plans to boost revenue.",
+  "tags": [
+   "AirIndia",
+   "Aviation",
+   "Travel",
+   "India",
+   "News"
+  ]
+ },
+ {
+  "id": "4f0b7bfbd5a5",
+  "created": "2026-11-26T00:05:48+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "headline": "NY bans AI chatbot toys for five years",
+  "hook": "Your kid's AI gift could be illegal in New York.",
+  "what": "The state announced a five‑year prohibition on toys that use AI chatbots. Research from Common Sense Media highlighted safety issues such as exposure to inappropriate content and possible harm to emotional development.",
+  "why": "Teens and parents should avoid buying AI chat toys in NY and stay alert for similar rules elsewhere.",
+  "tags": [
+   "AI toys",
+   "NY law",
+   "parenting",
+   "tech safety",
+   "genz"
+  ]
+ },
+ {
+  "id": "3e41b932706a",
+  "created": "2026-11-26T00:05:55+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Deccan Herald",
+  "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNUJNUHZ6NzRDczNKNFg1MUtHdmpUTUxOLUlnQkV0TzQ1SWJWdEp3aGhWUXVmTm9UODloWF9lSjlIejhLZHVIZ1poZmVSZG0yMnNBamk4YWFNZHA4TW9tR1pjLXNYdFpLRV9oWF81dUdjV1lUUE93TlJhcFRCWVFWMWRkNjloY1g4a0gzam9wT2d5b1hWV0JEclJtQ3p1SUdRdTF6cGJHMExPMDV4TXN6YkRlZUg2V2JjWFBHVFYxTkgzQ1VQTldlQ1dHX01ZQ2taQnZ3akkyeElKZmlUVnBlc2h3?oc=5",
+  "headline": "Samsung rolls out One UI 9 Watch update for Galaxy Watch8",
+  "hook": "Your smartwatch now tracks heart health like never before",
+  "what": "Samsung has begun the global rollout of the One UI 9 Watch update. The new software adds advanced heart‑health monitoring to the Galaxy Watch8 series and brings Wear OS 7 to older Galaxy Watch models.",
+  "why": "It gives teens better health insights and fresh features on their wearables, so keep your watch updated.",
+  "tags": [
+   "Samsung",
+   "GalaxyWatch",
+   "OneUI9",
+   "HealthTech",
+   "WearOS"
+  ]
+ },
+ {
   "id": "ff23b12ebb82",
   "created": "2026-11-25T23:14:44+05:30",
   "category": "tech",
@@ -637,119 +751,6 @@
    "court",
    "violence",
    "crime"
-  ]
- },
- {
-  "id": "1290ede4c796",
-  "created": "2026-11-25T16:06:02+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/173-lakh-refrigerator-five-compressor-failures-gurgaon-consumer-wins-replacement-and-61-000-compensation-11795600975297.html",
-  "headline": "Gurgaon buyer gets new LG fridge and ₹61k payout",
-  "hook": "Your fridge could cost you a fortune if it breaks.",
-  "what": "A buyer in Gurgaon purchased an LG refrigerator for ₹1.73 lakh. The fridge’s compressor failed five times within a few months despite repairs and a protection plan. The consumer was awarded a replacement unit and ₹61,000 in compensation.",
-  "why": "It shows that consumers can claim compensation for repeated appliance failures. Keep purchase receipts and warranty details handy to assert your rights.",
-  "tags": [
-   "consumerrights",
-   "LG",
-   "refund",
-   "appliance",
-   "Gurgaon"
-  ]
- },
- {
-  "id": "3a2e1633f30f",
-  "created": "2026-11-25T16:06:05+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/real-estate-delivers-8-5-returns-in-1-year-vs-gold-falls-3-is-property-better-investment-option-now-experts-weigh-in-11795596886943.html",
-  "headline": "Real estate gains 8.5% yearly, gold slips 3%",
-  "hook": "Property shows profit while gold loses value this year.",
-  "what": "Over the past 12 months, Indian real‑estate investments returned about 8.5%. In the same period, gold prices fell roughly 3.3%.",
-  "why": "For Gen Z savers, property could be a better short‑term option, but experts warn to weigh risks and explore different real‑estate schemes.",
-  "tags": [
-   "realestate",
-   "gold",
-   "investment",
-   "younginvestors",
-   "finance"
-  ]
- },
- {
-  "id": "0a03f6895723",
-  "created": "2026-11-25T16:06:08+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/",
-  "headline": "Indian film body asks PM to block Pakistani series on Netflix",
-  "hook": "A cinema group is pushing for a Netflix ban on a Pakistani drama.",
-  "what": "The All Indian Cine Workers Association wrote to Prime Minister Narendra Modi requesting a ban on the release of a Pakistani show on Netflix in India. The association has formally asked the government to stop the show from being streamed.",
-  "why": "If the ban is approved, the show will be unavailable to Indian viewers, affecting streaming choices for young audiences. Stay aware of platform content policies.",
-  "tags": [
-   "Netflix",
-   "PakistaniShow",
-   "AICWA",
-   "Streaming",
-   "India"
-  ]
- },
- {
-  "id": "fac9ae6252d4",
-  "created": "2026-11-25T14:59:10+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/cjps-saurav-das-approaches-delhi-high-court-after-he-was-stopped-from-flying-to-uk-12374078#publisher=newsstand",
-  "headline": "CJP member Saurav Das seeks urgent court hearing after UK travel ban",
-  "hook": "Blocked from flying abroad, he’s now fighting it in court.",
-  "what": "CJP activist Saurav Das was prevented from boarding a flight to the United Kingdom. His lawyer has asked the court for an urgent hearing on the matter.",
-  "why": "Travel restrictions can affect study or work plans abroad, so staying informed about legal recourse is important.",
-  "tags": [
-   "travel",
-   "court",
-   "UK",
-   "legal",
-   "news"
-  ]
- },
- {
-  "id": "db680888c984",
-  "created": "2026-11-25T15:00:14+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/not-today-supreme-court-denies-interim-bail-to-sharjeel-imam-umar-khalid-delhi-riots-2020-case-12373916#publisher=newsstand",
-  "headline": "Supreme Court Refuses Interim Bail for Sharjeel Imam, Umar Khalid",
-  "hook": "Two high‑profile activists stay behind bars as the court hears the police.",
-  "what": "The Supreme Court rejected the request for interim bail by Sharjeel Imam and Umar Khalid. The court said it will first hear the police’s arguments before deciding on the bail petition.",
-  "why": "The decision shows that legal processes can be lengthy for political cases, reminding youths to stay informed about civic rights and court proceedings.",
-  "tags": [
-   "SupremeCourt",
-   "InterimBail",
-   "Activism",
-   "LegalNews"
-  ]
- },
- {
-  "id": "c36c1272f447",
-  "created": "2026-11-25T15:00:16+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Telegraph India",
-  "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakZlbVBKcFdpWmMwNmxWaEdSNVBId29SdUtXaG83RDVaVW81R3dOSDY2bl96RjdFRTh3N0RHWWFLX2MzSUVfMVBqemhNdkRmR3I5Y3V0TUFYM3FsczZibVdjVTJMallwaW5NN2lYZ1NkRGxOaVhseFRwU05xcDFxMUhpTzRnbExuZlhMWXFJbXEyMmlQRUVuaVZVOFUyZF80alZJMks4ZFhKSmszUDNUZ1lZNzhUZEpFUUhVaTlLWUZkVW1NTXV1SEhpMjZLc0hUTjBiX2Fn0gHbAUFVX3lxTE9EZlI4MVJtMjdPWG9hLW1JcHBkbmQ1QV9kNU90UTluZFhKNE8tRml5TEk0U3g1S2d5TWJINXBpVkk3dHJZS1Jld3pIU0NERU4wc19HckVnMjlmSFhmdTlYRFlITkMyUkt2dEF4eGh6Qnc4QXJfVGYyeUxxOXh2ajgzQ0E1VzlaRVJwWXU0cG9KTWh1aEZLUGEteTNTSy0tTWQxY1VnWW9COUtpUEl6NFdQdjg2RllNNnV1dGQ5MGdrNERkWGNITzZmOTl3Qi0xVFlLeURRSkZlOXJ5TQ?oc=5",
-  "headline": "Kerala sets panel to review PSC rank lists with no openings",
-  "hook": "Job seekers, check if your rank might get a chance soon",
-  "what": "The state government announced a committee to examine the Public Service Commission's rank lists for posts that currently have no vacancies. The panel will assess the situation and recommend actions.",
-  "why": "This could affect upcoming recruitment and may open opportunities for young aspirants. Keep an eye on official updates.",
-  "tags": [
-   "Kerala",
-   "PSC",
-   "jobs",
-   "panel",
-   "vacancies"
   ]
  }
 ]

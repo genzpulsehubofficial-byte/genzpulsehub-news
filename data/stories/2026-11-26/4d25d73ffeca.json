@@ -1,0 +1,45 @@
+{
+ "id": "4d25d73ffeca",
+ "created": "2026-11-26T00:02:55+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/meta-officials-meet-congress-leaders-amid-allegations-of-bias-in-content-moderation/article71743656.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Meta reps meet Congress over content‑moderation bias claims",
+  "hook": "Big tech and politicians sit down to discuss what you see online",
+  "what": "Meta sent Aman Jain and Natasha Jog to a meeting with Congress members. The discussion focused on accusations that the platform’s content‑moderation is biased. Congress leader Supriya Shrinate attended.",
+  "why": "Content moderation shapes the posts and videos you encounter, so knowing platform policies matters. Keep an eye on any changes that could affect your feed.",
+  "tags": [
+   "Meta",
+   "Congress",
+   "content moderation",
+   "bias",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "മെറ്റയുടെ പ്രതിനിധികൾ കോൺഗ്രസ്‌യുമായി ഉള്ളടക്കം നിയന്ത്രണ വിവേചനത്തെക്കുറിച്ച് കൂടിക്കാഴ്ച നടത്തി",
+  "hook": "പ്ലാറ്റ്ഫോം നിങ്ങളുടെ ഫീഡിനെ എങ്ങനെ ബാധിക്കുന്നു, അതിനെക്കുറിച്ച് വലിയ ചർച്ച",
+  "what": "മെറ്റയുടെ അമൻ ജെയിൻ, നതാഷ ജോഗ് എന്നിവർ കോൺഗ്രസ് നേതാക്കളുമായി കൂടിക്കാഴ്ച നടത്തി. ചർച്ചയുടെ വിഷയം പ്ലാറ്റ്ഫോം ഉള്ളടക്കം നിയന്ത്രണത്തിൽ വിവേചന ആരോപണങ്ങളായിരുന്നു. കോൺഗ്രസ് നേതാവ് സൂപ്രിയ ശ്രിനേറ്റ് പങ്കെടുത്തു.",
+  "why": "ഉള്ളടക്കം നിയന്ത്രണം നിങ്ങളുടെ പോസ്റ്റുകളും വീഡിയോകളും എങ്ങനെ കാണപ്പെടുന്നു എന്നതിനെ ബാധിക്കുന്നു; അതിനാൽ മാറ്റങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Meta",
+   "Congress",
+   "വിവേചനം",
+   "ഉള്ളടക്കം",
+   "ഇന്ത്യ"
+  ],
+  "say": "പ്ലാറ്റ്ഫോം നിങ്ങളുടെ ഫീഡിനെ എങ്ങനെ ബാധിക്കുന്നു, അതിനെക്കുറിച്ച് വലിയ ചർച്ച. മെറ്റയുടെ അമൻ ജെയിൻ, നതാഷ ജോഗ് എന്നിവർ കോൺഗ്രസ് നേതാക്കളുമായി കൂടിക്കാഴ്ച നടത്തി. ചർച്ചയുടെ വിഷയം പ്ലാറ്റ്ഫോം ഉള്ളടക്കം നിയന്ത്രണത്തിൽ വിവേചന ആരോപണങ്ങളായിരുന്നു. കോൺഗ്രസ് നേതാവ് സൂപ്രിയ ശ്രിനേറ്റ് പങ്കെടുത്തു. ഉള്ളടക്കം നിയന്ത്രണം നിങ്ങളുടെ പോസ്റ്റുകളും വീഡിയോകളും എങ്ങനെ കാണപ്പെടുന്നു എന്നതിനെ ബാധിക്കുന്നു; അതിനാൽ മാറ്റങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags_en": [
+   "Meta",
+   "Congress",
+   "content moderation",
+   "bias",
+   "India"
+  ]
+ }
+}

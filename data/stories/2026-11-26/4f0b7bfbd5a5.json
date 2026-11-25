@@ -1,0 +1,45 @@
+{
+ "id": "4f0b7bfbd5a5",
+ "created": "2026-11-26T00:05:48+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "NY bans AI chatbot toys for five years",
+  "hook": "Your kid's AI gift could be illegal in New York.",
+  "what": "The state announced a five‑year prohibition on toys that use AI chatbots. Research from Common Sense Media highlighted safety issues such as exposure to inappropriate content and possible harm to emotional development.",
+  "why": "Teens and parents should avoid buying AI chat toys in NY and stay alert for similar rules elsewhere.",
+  "tags": [
+   "AI toys",
+   "NY law",
+   "parenting",
+   "tech safety",
+   "genz"
+  ]
+ },
+ "ml": {
+  "headline": "NY-യിൽ AI ചാറ്റ്ബോട്ട് കളിപ്പാട്ടങ്ങൾക്ക് അഞ്ച് വർഷം നിരോധനം",
+  "hook": "NY-യിൽ നിങ്ങളുടെ കുട്ടിയുടെ AI സമ്മാനം നിയമവിരുദ്ധമാകാം.",
+  "what": "സംസ്ഥാനത്ത് AI ചാറ്റ്ബോട്ട് ഉപയോഗിക്കുന്ന കളിപ്പാട്ടങ്ങൾക്ക് അഞ്ച് വർഷം വരെ നിരോധനം പ്രഖ്യാപിച്ചു. Common Sense Media നടത്തിയ പഠനം അനുപയോഗ്യമായ ഉള്ളടക്കവും വികാരവികാസത്തെ ബാധിക്കുന്ന അപകടങ്ങളും കാണിച്ചു.",
+  "why": "പേരന്റുകളും യുവാക്കളും NY-യിൽ AI കളിപ്പാട്ടങ്ങൾ വാങ്ങുന്നത് ഒഴിവാക്കണം, മറ്റ് പ്രദേശങ്ങളിലെ സമാന നടപടികളെ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "AI കളിപ്പാട്ടം",
+   "NY നിയമം",
+   "പാരന്റിംഗ്",
+   "ടെക് സുരക്ഷ",
+   "GenZ"
+  ],
+  "say": "എൻവൈ-യിൽ നിങ്ങളുടെ കുട്ടിയുടെ എഐ സമ്മാനം നിയമവിരുദ്ധമാകാം. സംസ്ഥാനത്ത് എഐ ചാറ്റ്ബോട്ട് ഉപയോഗിക്കുന്ന കളിപ്പാട്ടങ്ങൾക്ക് അഞ്ച് വർഷം വരെ നിരോധനം പ്രഖ്യാപിച്ചു. കോമൺ സെൻസ് മീഡിയ നടത്തിയ പഠനം അനുപയോഗ്യമായ ഉള്ളടക്കവും വികാരവികാസത്തെ ബാധിക്കുന്ന അപകടങ്ങളും കാണിച്ചു. പേരന്റുകളും യുവാക്കളും എൻവൈ-യിൽ എഐ കളിപ്പാട്ടങ്ങൾ വാങ്ങുന്നത് ഒഴിവാക്കണം, മറ്റ് പ്രദേശങ്ങളിലെ സമാന നടപടികളെ ശ്രദ്ധിക്കണം.",
+  "tags_en": [
+   "AI toys",
+   "NY law",
+   "parenting",
+   "tech safety",
+   "genz"
+  ]
+ }
+}

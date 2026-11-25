@@ -1,0 +1,45 @@
+{
+ "id": "4f81444702b5",
+ "created": "2026-11-26T00:03:01+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India says voluntary return to Bangladesh isn’t an extradition case",
+  "hook": "A citizen can go back without a legal extradition process, says MEA.",
+  "what": "The Ministry of External Affairs clarified that a person willing to travel back to Bangladesh on a travel document is dealt with separately from any extradition request. The comment came from spokesperson Randhir Jaiswal.",
+  "why": "It shows that voluntary travel isn’t linked to legal proceedings, so young Indians should know the distinction if they or someone they know faces a similar situation.",
+  "tags": [
+   "India",
+   "Bangladesh",
+   "MEA",
+   "extradition",
+   "travel"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ പറയുന്നു, സ്വമേധയാ ബംഗ്ലാദേശ് മടങ്ങല്‍ എക്സ്ട്രഡിഷന്‍ കേസല്ല",
+  "hook": "ഒരു പൗരന്‍ നിയമപരമായ എക്സ്ട്രഡിഷന്‍ ഇല്ലാതെ മടങ്ങാൻ കഴിയും, എംഇഎ പറയുന്നു.",
+  "what": "വിനയമന്ത്രാലയം വ്യക്തമാക്കിയതില്‍ നിന്ന്, യാത്രാ രേഖയോടെ ബംഗ്ലാദേശ് മടങ്ങാൻ ആഗ്രഹിക്കുന്ന വ്യക്തിയുടെ കേസ് എക്സ്ട്രഡിഷന്‍ അഭ്യർത്ഥനയിൽ നിന്ന് വേറിട്ടതാണ്. ഈ അഭിപ്രായം റന്‍ധീര്‍ ജയിസ്വാല്‍ അറിയിച്ചു.",
+  "why": "സ്വമേധയാ യാത്ര നിയമ നടപടികളുമായി ബന്ധമില്ലെന്ന് ഇത് കാണിക്കുന്നു; അതിനാൽ ഇത്തരത്തിലുള്ള സാഹചര്യത്തിൽ യുവാക്കൾ എന്ത് ചെയ്യണം എന്ന് അറിയാം.",
+  "tags": [
+   "ഇന്ത്യ",
+   "ബംഗ്ലാദേശ്",
+   "MEA",
+   "എക്സ്ട്രഡിഷന്‍",
+   "യാത്ര"
+  ],
+  "say": "ഒരു പൗരന്‍ നിയമപരമായ എക്സ്ട്രഡിഷന്‍ ഇല്ലാതെ മടങ്ങാൻ കഴിയും, എംഇഎ പറയുന്നു. വിനയമന്ത്രാലയം വ്യക്തമാക്കിയതില്‍ നിന്ന്, യാത്രാ രേഖയോടെ ബംഗ്ലാദേശ് മടങ്ങാൻ ആഗ്രഹിക്കുന്ന വ്യക്തിയുടെ കേസ് എക്സ്ട്രഡിഷന്‍ അഭ്യർത്ഥനയിൽ നിന്ന് വേറിട്ടതാണ്. ഈ അഭിപ്രായം റന്‍ധീര്‍ ജയിസ്വാല്‍ അറിയിച്ചു. സ്വമേധയാ യാത്ര നിയമ നടപടികളുമായി ബന്ധമില്ലെന്ന് ഇത് കാണിക്കുന്നു; അതിനാൽ ഇത്തരത്തിലുള്ള സാഹചര്യത്തിൽ യുവാക്കൾ എന്ത് ചെയ്യണം എന്ന് അറിയാം.",
+  "tags_en": [
+   "India",
+   "Bangladesh",
+   "MEA",
+   "extradition",
+   "travel"
+  ]
+ }
+}
