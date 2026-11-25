@@ -11,7 +11,8 @@ DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "public")
 SITE = os.environ.get("SITE_URL", "https://genzpulsehub.pages.dev")
 ADS_API = os.environ.get("ADS_API", "https://genzpulsehub-ads.genzpulsehub-official.workers.dev")
-YT = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
+YLIVE_ON = os.environ.get("STREAM_LIVE", "0") == "1"   # set to 1 once the 24/7 stream runs
+T = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
 IG = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 FB = {"en": "61596319547043", "ml": "61596419862358"}
 CAT = {
@@ -25,10 +26,14 @@ CAT = {
 COLOR = {"headlines": "#ff3cac", "jobs": "#ffd60a", "money": "#2ee59d", "tech": "#00c2ff", "exams": "#ff8a00",
          "trending": "#c77dff", "entertainment": "#ff5d8f", "health": "#7bdff2", "sports": "#80ed99", "kerala": "#00f5d4"}
 T = {
-    "en": {"live": "LIVE 24/7", "why": "Why it matters to you", "source": "Source", "latest": "Latest",
+    "en": {"live": "LIVE 24/7", "why": "Why it matters to you", "soon": "🔴 24/7 Live news: coming soon",
+           "soon_sub": "Subscribe now so you're notified the moment we go live. Meanwhile: daily Shorts + all stories below.",
+           "subscribe": "Subscribe on YouTube", "source": "Source", "latest": "Latest",
            "watch": "Watch the live stream", "switch": "മലയാളം", "switch_href": "/ml/", "tag": "What happened + why it matters to YOU",
            "advertise": "Advertise with us", "home": "/", "about": "AI-assisted news, rewritten from credited sources. Facts only from the source."},
-    "ml": {"live": "LIVE 24/7", "why": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും", "source": "ഉറവിടം", "latest": "പുതിയ വാർത്തകൾ",
+    "ml": {"live": "LIVE 24/7", "why": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും", "soon": "🔴 24/7 തത്സമയ വാർത്ത: ഉടൻ വരുന്നു",
+           "soon_sub": "ലൈവ് തുടങ്ങുമ്പോൾ അറിയാൻ ഇപ്പോൾ സബ്സ്ക്രൈബ് ചെയ്യൂ. അതുവരെ: ദിവസവും Shorts + താഴെ എല്ലാ വാർത്തകളും.",
+           "subscribe": "YouTube-ൽ സബ്സ്ക്രൈബ് ചെയ്യൂ", "source": "ഉറവിടം", "latest": "പുതിയ വാർത്തകൾ",
            "watch": "ലൈവ് കാണുക", "switch": "English", "switch_href": "/", "tag": "എന്ത് സംഭവിച്ചു + നിങ്ങളെ എങ്ങനെ ബാധിക്കും",
            "advertise": "പരസ്യം നൽകാൻ", "home": "/ml/", "about": "ഉറവിടങ്ങളിൽ നിന്ന് പുതുതായി എഴുതിയ AI സഹായ വാർത്ത. ഉറവിടത്തിലെ വസ്തുതകൾ മാത്രം."},
 }
@@ -70,7 +75,7 @@ def page(lang, title, desc, body, path, og_type="website"):
 <link rel="alternate" type="application/rss+xml" href="{SITE}{t['home']}rss.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800;900&family=Noto+Sans+Malayalam:wght@400;700&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body>
-<header><a class="logo" href="{t['home']}">GenZ Pulse Hub</a><span class="live">● {t['live']}</span>
+<header><a class="logo" href="{t['home']}">GenZ Pulse Hub</a><span class="live">● {t['live'] if LIVE_ON else 'LIVE soon'}</span>
 <nav><a href="{t['switch_href']}">{t['switch']}</a><a href="https://www.youtube.com/channel/{YT[lang]}/live">YouTube</a>
 <a href="https://instagram.com/{IG[lang]}">Instagram</a><a href="/advertise/">{t['advertise']}</a></nav></header>
 <main>{body}</main>
@@ -110,7 +115,12 @@ def main():
         t, base = T[lang], ("/ml" if lang == "ml" else "")
         items = [{**s[lang], "id": s["id"], "category": s["category"], "breaking": s["breaking"],
                   "created": s["created"], "source": s["source"], "source_url": s["source_url"]} for s in stories]
-        live = (f'<iframe class="player" src="https://www.youtube.com/embed/live_stream?channel={YT[lang]}&autoplay=1&mute=1" '
+        live = (f'<div class="player soon" style="display:flex;flex-direction:column;align-items:center;justify-content:center;'
+                f'gap:14px;text-align:center;background:linear-gradient(135deg,#1b1035,#0b0b14);border-radius:14px;padding:28px">'
+                f'<b style="font-size:1.4em">{t["soon"]}</b><span>{t["soon_sub"]}</span>'
+                f'<a href="https://www.youtube.com/channel/{YT[lang]}?sub_confirmation=1" target="_blank" rel="noopener" '
+                f'style="background:#e10600;color:#fff;padding:12px 22px;border-radius:999px;font-weight:700;text-decoration:none">'
+                f'{t["subscribe"]}</a></div>') if not LIVE_ON else (f'<iframe class="player" src="https://www.youtube.com/embed/live_stream?channel={YT[lang]}&autoplay=1&mute=1" '
                 f'title="{t["watch"]}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe>')
         home = (f'<p class="tag">{t["tag"]}</p>{live}<div class="adslot" data-slot="site_banner" data-lang="{lang}"></div>'
                 f'<h2>{t["latest"]}</h2><div class="grid">{"".join(card(s, lang) for s in items[:60])}</div>')
