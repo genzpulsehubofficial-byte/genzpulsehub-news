@@ -1,0 +1,45 @@
+{
+ "id": "c7c1cebe2261",
+ "created": "2026-11-25T23:14:54+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ex‑cyber exec charged with cheating ransomware victims",
+  "hook": "He allegedly took extra money after paying hackers.",
+  "what": "U.S. prosecutors say a former cyber‑security executive paid ransomware attackers on behalf of victims, then billed them a higher amount and kept the surplus.",
+  "why": "Such fraud could affect anyone facing ransomware, so staying aware of payment processes is important.",
+  "tags": [
+   "cybersecurity",
+   "ransomware",
+   "fraud",
+   "legal",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "മുൻ സൈബർ എക്സിക്യൂട്ടീവ് ransomware ഇരകളെ തട്ടിയെന്നു ആരോപണം",
+  "hook": "ഹാക്കർമാർക്ക് പണം നൽകി, അധികം ചാർജ് ചെയ്ത് സ്വന്തം ഭാഗം എടുത്തു.",
+  "what": "യു എസ് പ്രോസിക്യൂട്ടർമാർ പറയുന്നത്, മുൻ സൈബർ സുരക്ഷാ എക്സിക്യൂട്ടീവ് റാൻസംവെയർ ആക്രമികളോട് പണം നൽകി, ഇരകളിൽ നിന്ന് കൂടുതൽ തുക ചാർജ് ചെയ്ത് അതിന്റെ ഒരു ഭാഗം സ്വന്തമാക്കി എന്നാണ്.",
+  "why": "ഇത്തരത്തിലുള്ള തട്ടിപ്പ് റാൻസംവെയർ ബാധിതരായവരെ ബാധിക്കാം; അതിനാൽ പേയ്‌മെന്റ് രീതികളിൽ ജാഗ്രത പാലിക്കുക പ്രധാനമാണ്.",
+  "tags": [
+   "cybersecurity",
+   "ransomware",
+   "fraud",
+   "legal",
+   "tech"
+  ],
+  "say": "ഹാക്കർമാർക്ക് പണം നൽകി, അധികം ചാർജ് ചെയ്ത് സ്വന്തം ഭാഗം എടുത്തു. യു എസ് പ്രോസിക്യൂട്ടർമാർ പറയുന്നത്, മുൻ സൈബർ സുരക്ഷാ എക്സിക്യൂട്ടീവ് റാൻസംവെയർ ആക്രമികളോട് പണം നൽകി, ഇരകളിൽ നിന്ന് കൂടുതൽ തുക ചാർജ് ചെയ്ത് അതിന്റെ ഒരു ഭാഗം സ്വന്തമാക്കി എന്നാണ്. ഇത്തരത്തിലുള്ള തട്ടിപ്പ് റാൻസംവെയർ ബാധിതരായവരെ ബാധിക്കാം; അതിനാൽ പേയ്‌മെന്റ് രീതികളിൽ ജാഗ്രത പാലിക്കുക പ്രധാനമാണ്.",
+  "tags_en": [
+   "cybersecurity",
+   "ransomware",
+   "fraud",
+   "legal",
+   "tech"
+  ]
+ }
+}

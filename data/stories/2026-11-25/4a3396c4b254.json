@@ -1,0 +1,42 @@
+{
+ "id": "4a3396c4b254",
+ "created": "2026-11-25T23:19:33+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "DD News",
+ "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1Q1X2Y0LWFpbnVSRzBacnA1WndJQm9PTUhsZ1RZUDhkZThmZEtTclhGU1pqenVUNDNjYnVWNnBaYnJrbzB2RkJDUFFSXzRXWFdaVjhCQkhiU2NtSzJ5X0ZiMElFZU9qOWhDREMxWkZEU2FFZHNpX1czZk5aOG43ZEpVTWp5cFlvbl9ZR0dIcmh5VzA1dzJhUGxBTEpwZw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India clinches Venice Biennale win, PM calls it proud moment",
+  "hook": "India's art shines on the global stage",
+  "what": "India secured a win at the Venice Art Biennale. Prime Minister Narendra Modi praised the achievement, calling it a proud moment for the nation.",
+  "why": "The recognition underscores India's growing cultural influence and can inspire young artists to pursue international platforms.",
+  "tags": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "ProudMoment",
+   "YouthCreativity"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ വെനീസ് ആർട്ട് ബിയെന്നാലെ വിജയത്തിൽ മോഡി അഭിമാനിച്ചു",
+  "hook": "ഇന്ത്യയുടെ കലാ പ്രതിഭ ലോകവേദിയിൽ തിളങ്ങി",
+  "what": "ഇന്ത്യ വെനീസ് ആർട്ട് ബിയെന്നാലെ വിജയിച്ചു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഈ നേട്ടം രാജ്യത്തിന് അഭിമാനകരമായ ഒരു നിമിഷം ആണെന്ന് പറഞ്ഞു.",
+  "why": "ഇത് നമ്മുടെ സാംസ്കാരിക സ്വാധീനം ഉയർത്തുന്നു, യുവ കലാകാരന്മാർക്ക് അന്താരാഷ്ട്ര വേദികളിൽ ചുവടു വെക്കാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "ഇന്ത്യകല",
+   "വെനീസ്‌ബിയെന്നാലെ",
+   "അഭിമാന",
+   "യുവകലാകാരൻ"
+  ],
+  "say": "ഇന്ത്യയുടെ കലാ പ്രതിഭ ലോകവേദിയിൽ തിളങ്ങി. ഇന്ത്യ വെനീസ് ആർട്ട് ബിയെന്നാലെ വിജയിച്ചു. പ്രധാനമന്ത്രി നരേന്ദ്ര മോഡി ഈ നേട്ടം രാജ്യത്തിന് അഭിമാനകരമായ ഒരു നിമിഷം ആണെന്ന് പറഞ്ഞു. ഇത് നമ്മുടെ സാംസ്കാരിക സ്വാധീനം ഉയർത്തുന്നു, യുവ കലാകാരന്മാർക്ക് അന്താരാഷ്ട്ര വേദികളിൽ ചുവടു വെക്കാൻ പ്രചോദനം നൽകുന്നു.",
+  "tags_en": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "ProudMoment",
+   "YouthCreativity"
+  ]
+ }
+}

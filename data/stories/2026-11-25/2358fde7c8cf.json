@@ -1,0 +1,45 @@
+{
+ "id": "2358fde7c8cf",
+ "created": "2026-11-25T23:19:27+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/someone-repaid-your-loan-in-cash-and-you-deposited-it-in-the-bank-can-the-taxman-treat-it-as-your-income-itat-explains-11795626911398.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "ITAT clears tax on loan repayment cash deposit",
+  "hook": "Got cash from a loan? It might not be taxable.",
+  "what": "A Delhi Income Tax Appellate Tribunal removed a tax addition of ₹12.09 lakh after the taxpayer proved the cash deposited was a repayment of a ₹25 lakh loan. The lender initially denied the loan, but its own balance sheets confirmed the transaction.",
+  "why": "It shows loan repayments can be defended as non‑income, so keep proper documents. If taxed, you can challenge the demand with proof of the loan.",
+  "tags": [
+   "tax",
+   "loan",
+   "ITAT",
+   "finance",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഐടി‌എടി ലോണിന്റെ തിരിച്ചടവ് നികുതിയിൽ നിന്ന് ഒഴിവാക്കി",
+  "hook": "ലോൺ പണം ബാങ്കിൽ ഇടുമ്പോൾ നികുതി ചുമത്തുമോ?",
+  "what": "ഡെലിയിൽ സ്ഥിതിചെയ്യുന്ന ഇൻകം ടാക്സ് അപ്പീൽ ട്രിബ്യൂണൽ (ഐടി‌എടി) ഒരു നികുതി കൂട്ടിച്ചേർക്കൽ ₹12.09 ലക്ഷം റദ്ദാക്കി, കാരണം നികുതിദായകൻ കാഷ് ബാങ്കിലേക്ക് അടച്ചത് ₹25 ലക്ഷം ലോണിന്റെ തിരിച്ചടവാണെന്ന് തെളിയിച്ചു. കടക്കാരന് ലോണിനെ അംഗീകരിച്ചില്ലെങ്കിലും, തന്റെ ബാലൻസ് ഷീറ്റ് ആ ഇടപാട് സ്ഥിരീകരിച്ചു.",
+  "why": "ഇത് കാണിക്കുന്നു, ലോണിന്റെ തിരിച്ചടവുകൾ വരുമാനമായി കണക്കാക്കില്ലെന്ന് തെളിയിക്കാൻ രേഖകൾ ആവശ്യമാണ്. നികുതി ചുമത്തിയാൽ, ലോണിന്റെ തെളിവുകൾ ഉപയോഗിച്ച് പ്രതിരോധിക്കാം.",
+  "tags": [
+   "tax",
+   "loan",
+   "ITAT",
+   "finance",
+   "India"
+  ],
+  "say": "ലോൺ പണം ബാങ്കിൽ ഇടുമ്പോൾ നികുതി ചുമത്തുമോ? ഡെലിയിൽ സ്ഥിതിചെയ്യുന്ന ഇൻകം ടാക്സ് അപ്പീൽ ട്രിബ്യൂണൽ (ഐടി‌എടി) ഒരു നികുതി കൂട്ടിച്ചേർക്കൽ പന്ത്രണ്ട് ലക്ഷം ഒൻപത് ആയിരം രൂപ റദ്ദാക്കി, കാരണം നികുതിദായകൻ കാഷ് ബാങ്കിലേക്ക് അടച്ചത് ഇരുപത് അഞ്ച് ലക്ഷം രൂപ ലോണിന്റെ തിരിച്ചടവാണെന്ന് തെളിയിച്ചു. കടക്കാരന് ലോണിനെ അംഗീകരിച്ചില്ലെങ്കിലും, തന്റെ ബാലൻസ് ഷീറ്റ് ആ ഇടപാട് സ്ഥിരീകരിച്ചു. ഇത് കാണിക്കുന്നു, ലോണിന്റെ തിരിച്ചടവുകൾ വരുമാനമായി കണക്കാക്കില്ലെന്ന് തെളിയിക്കാൻ രേഖകൾ ആവശ്യമാണ്. നികുതി ചുമത്തിയാൽ, ലോണിന്റെ തെളിവുകൾ ഉപയോഗിച്ച് പ്രതിരോധിക്കാം.",
+  "tags_en": [
+   "tax",
+   "loan",
+   "ITAT",
+   "finance",
+   "India"
+  ]
+ }
+}

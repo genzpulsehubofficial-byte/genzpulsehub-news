@@ -1,0 +1,45 @@
+{
+ "id": "939e87b55dc7",
+ "created": "2026-11-25T23:19:21+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "US eyes 25% tariff on Indian goods, talks may ease it",
+  "hook": "A steep US duty could hit Indian exports, but a deal might cut it.",
+  "what": "The United States has proposed a 25% tariff on imports from India. India is seeking lower duties than its competitors. Ongoing trade talks could bring the rate down.",
+  "why": "Higher tariffs may raise prices and affect jobs in export sectors. Staying aware helps you gauge economic impacts on future opportunities.",
+  "tags": [
+   "USIndiaTrade",
+   "Tariff",
+   "Exports",
+   "Economy",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "യുഎസ് ഇന്ത്യയുടെ വസ്തുക്കൾക്ക് ഇരുപത് ശതമാനം സുമൂല്യ നികുതി, കരാറിൽ കുറവ് വരാം",
+  "hook": "ഉയർന്ന സുമൂല്യ നികുതി ഇന്ത്യയുടെ കയറ്റുമതികൾ ബാധിക്കാം, പക്ഷേ ഒരു കരാർ അത് കുറയ്ക്കാം.",
+  "what": "യുഎസ് ഇന്ത്യയിൽ നിന്നുള്ള ഇറക്കുമതി വസ്തുക്കൾക്ക് ഇരുപത് ശതമാനം സുമൂല്യ നികുതി ഏർപ്പെടുത്താൻ നിർദ്ദേശിച്ചു. ഇന്ത്യ, മറ്റ് രാജ്യങ്ങളേക്കാൾ കുറഞ്ഞ നികുതി ആവശ്യപ്പെടുന്നു. വ്യാപാര കരാർ ചർച്ചകൾ ഈ നിരക്ക് കുറയ്ക്കാൻ സഹായിക്കാം.",
+  "why": "ഉയർന്ന നികുതി വില വർദ്ധനവിനും തൊഴിൽ അവസരങ്ങൾക്കും ബാധകമാകും. ഈ മാറ്റങ്ങൾക്കുറിച്ച് അറിഞ്ഞു, ഭാവി തൊഴിൽ പദ്ധതികളിൽ ശ്രദ്ധ ചെലുത്തുക.",
+  "tags": [
+   "യു.എസ്.ഇന്ത്യട്രേഡ്",
+   "സുമൂല്യ",
+   "കയറ്റുമതി",
+   "അർത്ഥവ്യവസ്ഥ",
+   "യുവാക്കൾ"
+  ],
+  "say": "ഉയർന്ന സുമൂല്യ നികുതി ഇന്ത്യയുടെ കയറ്റുമതികൾ ബാധിക്കാം, പക്ഷേ ഒരു കരാർ അത് കുറയ്ക്കാം. യുഎസ് ഇന്ത്യയിൽ നിന്നുള്ള ഇറക്കുമതി വസ്തുക്കൾക്ക് ഇരുപത് ശതമാനം സുമൂല്യ നികുതി ഏർപ്പെടുത്താൻ നിർദ്ദേശിച്ചു. ഇന്ത്യ, മറ്റ് രാജ്യങ്ങളേക്കാൾ കുറഞ്ഞ നികുതി ആവശ്യപ്പെടുന്നു. വ്യാപാര കരാർ ചർച്ചകൾ ഈ നിരക്ക് കുറയ്ക്കാൻ സഹായിക്കാം. ഉയർന്്ന നികുതി വില വർദ്ധനവിനും തൊഴിൽ അവസരങ്ങൾക്കും ബാധകമാകും. ഈ മാറ്റങ്ങൾക്കുറിച്ച് അറിഞ്ഞു, ഭാവി തൊഴിൽ പദ്ധതികളിൽ ശ്രദ്ധ ചെലുത്തുക.",
+  "tags_en": [
+   "USIndiaTrade",
+   "Tariff",
+   "Exports",
+   "Economy",
+   "Youth"
+  ]
+ }
+}

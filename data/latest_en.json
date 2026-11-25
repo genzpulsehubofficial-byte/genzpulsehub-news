@@ -1,5 +1,117 @@
 [
  {
+  "id": "ff23b12ebb82",
+  "created": "2026-11-25T23:14:44+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+  "headline": "WhatsApp adds message scheduling for chats",
+  "hook": "Set your texts to send later, no need to remember",
+  "what": "The app now lets users choose a future time for a message in both group and one‑on‑one chats. Scheduling can be set from ten minutes up to fourteen days ahead.",
+  "why": "It helps students and friends plan reminders or birthday wishes without staying online, so they can focus on studies or other tasks.",
+  "tags": [
+   "WhatsApp",
+   "Messaging",
+   "Productivity",
+   "GenZ",
+   "Tech"
+  ]
+ },
+ {
+  "id": "e2b885cfb4b3",
+  "created": "2026-11-25T23:14:49+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/children-are-not-parents-toys-supreme-courts-reality-check-in-custody-case-12376963#publisher=newsstand",
+  "headline": "Supreme Court says child's wishes matter in custody fights",
+  "hook": "Your voice matters even in family court battles.",
+  "what": "The Supreme Court emphasized that a child's preferences should be considered when deciding custody. The judgment highlighted that children are not to be treated as objects in parental disputes.",
+  "why": "Understanding this can empower kids to speak up in family matters. It also reminds families to respect children's opinions during separations.",
+  "tags": [
+   "SupremeCourt",
+   "Custody",
+   "ChildRights",
+   "Legal"
+  ]
+ },
+ {
+  "id": "c7c1cebe2261",
+  "created": "2026-11-25T23:14:54+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+  "headline": "Ex‑cyber exec charged with cheating ransomware victims",
+  "hook": "He allegedly took extra money after paying hackers.",
+  "what": "U.S. prosecutors say a former cyber‑security executive paid ransomware attackers on behalf of victims, then billed them a higher amount and kept the surplus.",
+  "why": "Such fraud could affect anyone facing ransomware, so staying aware of payment processes is important.",
+  "tags": [
+   "cybersecurity",
+   "ransomware",
+   "fraud",
+   "legal",
+   "tech"
+  ]
+ },
+ {
+  "id": "939e87b55dc7",
+  "created": "2026-11-25T23:19:21+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/us-proposes-25-tariff-on-india-it-could-come-down-with-trade-deal-12377080#publisher=newsstand",
+  "headline": "US eyes 25% tariff on Indian goods, talks may ease it",
+  "hook": "A steep US duty could hit Indian exports, but a deal might cut it.",
+  "what": "The United States has proposed a 25% tariff on imports from India. India is seeking lower duties than its competitors. Ongoing trade talks could bring the rate down.",
+  "why": "Higher tariffs may raise prices and affect jobs in export sectors. Staying aware helps you gauge economic impacts on future opportunities.",
+  "tags": [
+   "USIndiaTrade",
+   "Tariff",
+   "Exports",
+   "Economy",
+   "Youth"
+  ]
+ },
+ {
+  "id": "2358fde7c8cf",
+  "created": "2026-11-25T23:19:27+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/someone-repaid-your-loan-in-cash-and-you-deposited-it-in-the-bank-can-the-taxman-treat-it-as-your-income-itat-explains-11795626911398.html",
+  "headline": "ITAT clears tax on loan repayment cash deposit",
+  "hook": "Got cash from a loan? It might not be taxable.",
+  "what": "A Delhi Income Tax Appellate Tribunal removed a tax addition of ₹12.09 lakh after the taxpayer proved the cash deposited was a repayment of a ₹25 lakh loan. The lender initially denied the loan, but its own balance sheets confirmed the transaction.",
+  "why": "It shows loan repayments can be defended as non‑income, so keep proper documents. If taxed, you can challenge the demand with proof of the loan.",
+  "tags": [
+   "tax",
+   "loan",
+   "ITAT",
+   "finance",
+   "India"
+  ]
+ },
+ {
+  "id": "4a3396c4b254",
+  "created": "2026-11-25T23:19:33+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "DD News",
+  "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1Q1X2Y0LWFpbnVSRzBacnA1WndJQm9PTUhsZ1RZUDhkZThmZEtTclhGU1pqenVUNDNjYnVWNnBaYnJrbzB2RkJDUFFSXzRXWFdaVjhCQkhiU2NtSzJ5X0ZiMElFZU9qOWhDREMxWkZEU2FFZHNpX1czZk5aOG43ZEpVTWp5cFlvbl9ZR0dIcmh5VzA1dzJhUGxBTEpwZw?oc=5",
+  "headline": "India clinches Venice Biennale win, PM calls it proud moment",
+  "hook": "India's art shines on the global stage",
+  "what": "India secured a win at the Venice Art Biennale. Prime Minister Narendra Modi praised the achievement, calling it a proud moment for the nation.",
+  "why": "The recognition underscores India's growing cultural influence and can inspire young artists to pursue international platforms.",
+  "tags": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "ProudMoment",
+   "YouthCreativity"
+  ]
+ },
+ {
   "id": "90cec615f80e",
   "created": "2026-11-25T22:15:28+05:30",
   "category": "money",
@@ -638,120 +750,6 @@
    "jobs",
    "panel",
    "vacancies"
-  ]
- },
- {
-  "id": "f97b45b3f869",
-  "created": "2026-11-25T15:00:19+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/foxconn-india-unit-faces-insolvency-plea-over-%e2%82%b9143-cr-in-alleged-dues/",
-  "headline": "Foxconn India unit hit with ₹143 crore insolvency petition",
-  "hook": "Your favorite iPhone maker’s Indian arm is in legal trouble.",
-  "what": "Foxconn’s Indian subsidiary, which assembles iPhones, has been served with an insolvency petition. The petition was filed by BCD Emprasa LLP, claiming the company owes about ₹143 crore.",
-  "why": "The case could affect iPhone production in India and jobs linked to the supply chain. Keep an eye on updates if you rely on Apple products or work in related sectors.",
-  "tags": [
-   "Foxconn",
-   "Insolvency",
-   "India",
-   "Tech",
-   "Jobs"
-  ]
- },
- {
-  "id": "95f35976d6f2",
-  "created": "2026-11-25T15:00:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/internet/news/microsoft-code-red-after-outlook-outage-internal-memo-12374487",
-  "headline": "Microsoft flags massive Exchange Online outage as Code Red",
-  "hook": "A rare ‘Code Red’ alert hits the email service millions use.",
-  "what": "Microsoft announced a ‘Code Red’ after an Exchange Online outage. Internal memos say it was the most customer‑impacting incident ever for the service. The disruption affected many users.",
-  "why": "For teens relying on school or work email, this shows how even big platforms can falter, so keep backups and alternative communication ready.",
-  "tags": [
-   "Microsoft",
-   "ExchangeOnline",
-   "Outage",
-   "CodeRed",
-   "Tech"
-  ]
- },
- {
-  "id": "7ac6b7918ca4",
-  "created": "2026-11-25T15:00:23+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/stock-market-rally-why-investors-should-rebalance-portfolios-11795585619182.html",
-  "headline": "Market bounce invites fresh portfolio balance",
-  "hook": "Your investments need a check‑up, not a chase",
-  "what": "Equities have begun climbing again after two years of swings, while gold has surged sharply. This combination offers a chance to tweak holdings and examine any over‑concentration.",
-  "why": "Rebalancing now can shield you from future shocks and keep you from betting on short‑term winners. Young investors should review their asset mix.",
-  "tags": [
-   "investing",
-   "portfolio",
-   "gold",
-   "equities",
-   "rebalance"
-  ]
- },
- {
-  "id": "086fa706efdf",
-  "created": "2026-11-25T13:42:04+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece",
-  "headline": "SC asks Delhi Police to respond to bail pleas in UAPA case",
-  "hook": "Two activists say key witnesses were ignored as their bail deadline nears",
-  "what": "The Supreme Court sent a notice to Delhi Police after Sharjeel Imam and Umar Khalid filed bail applications in a UAPA case. They argue the prosecution has not examined protected witnesses. The court‑imposed one‑year embargo on the case is about to end.",
-  "why": "The development shows how high‑profile legal battles proceed, reminding young Indians to stay aware of judicial timelines and their rights.",
-  "tags": [
-   "SupremeCourt",
-   "UAPA",
-   "Bail",
-   "DelhiPolice",
-   "Activism"
-  ]
- },
- {
-  "id": "1755630391fa",
-  "created": "2026-11-25T13:43:08+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cjps-saurav-das-moves-delhi-high-court-over-being-stopped-from-flying-to-uk-hearing-on-november-26/article71741451.ece",
-  "headline": "Former CJI Saurav Das sues after being barred from UK flight",
-  "hook": "Even top judges can face travel roadblocks—find out why.",
-  "what": "Former Chief Justice Saurav Das says immigration officials stopped him at Delhi airport before he could board a flight to London. He has filed a petition in the Delhi High Court challenging the action. The court has scheduled a hearing for November 26.",
-  "why": "The case shows that immigration checks can affect anyone, regardless of status, and may shape future travel rules. Watch the outcome for possible changes in airport procedures.",
-  "tags": [
-   "CJI",
-   "travel",
-   "court",
-   "Delhi",
-   "UK"
-  ]
- },
- {
-  "id": "37108dd80111",
-  "created": "2026-11-25T13:43:10+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "IMDb",
-  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qSFhzNUt0djJNYm5yUlBYXzJNcTN6eWI4NUZQekVNZkRlVnlYZ190eFpHSnZXdFpoNlBXOW9Tb0x0Wko3SzI5aFE4UTRINlZCZlhoOGZ3VHFtRHFjWmlCOHI4Z2RRVUk?oc=5",
-  "headline": "Dhanush's 'O.M' hits ₹51 crore; Dulquer's film earns ₹13 crore",
-  "hook": "Two South Indian stars score big at the box office this week.",
-  "what": "The movie 'O.M' starring Dhanush collected ₹51.11 crore in India and crossed the ₹100 crore mark worldwide. By its fifth day it had topped ₹93 crore globally and earned over ₹50 crore in the opening weekend. Dulquer Salmaan's 'Aakasamlo Oka Tara' made ₹13 crore in Indian theatres.",
-  "why": "The strong earnings highlight the growing appetite for regional cinema among Indian youth, signalling more diverse film choices on streaming platforms and theatres.",
-  "tags": [
-   "movies",
-   "boxoffice",
-   "Dhanush",
-   "Dulquer",
-   "India"
   ]
  }
 ]
