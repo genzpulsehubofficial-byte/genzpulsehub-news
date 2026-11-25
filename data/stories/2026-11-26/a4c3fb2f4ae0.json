@@ -1,0 +1,45 @@
+{
+ "id": "a4c3fb2f4ae0",
+ "created": "2026-11-26T03:11:20+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "FCC greenlights SpaceX’s space‑based AI data centers",
+  "hook": "Space‑based AI servers get the go‑ahead.",
+  "what": "The U.S. Federal Communications Commission approved SpaceX’s proposal to launch AI data centers into orbit. The agency dismissed several objections, saying concerns about scientific research lie beyond its jurisdiction.",
+  "why": "Young tech enthusiasts should watch how satellite AI could reshape computing and job prospects, and stay updated on regulatory moves.",
+  "tags": [
+   "FCC",
+   "SpaceX",
+   "AI",
+   "satellite",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "FCC SpaceX‑ന്റെ സ്പേസ് AI ഡാറ്റാ സെന്ററുകൾക്ക് അംഗീകാരം",
+  "hook": "സ്പേസ്-ബേസ്‌ഡ് എഐ സർവറുകൾക്ക് സമ്മതം.",
+  "what": "യു.എസ്. ഫെഡറൽ കമ്മ്യൂണിക്കേഷൻസ് കമ്മീഷൻ സ്പേസ്‌എക്സ്‑ന്റെ എഐ ഡാറ്റാ സെന്ററുകൾ അന്തരീക്ഷത്തിൽ ലോഞ്ച് ചെയ്യാനുള്ള പദ്ധതി അംഗീകരിച്ചു. ശാസ്ത്രീയ ഗവേഷണത്തെക്കുറിച്ചുള്ള ചില ആശങ്കകൾ അതിന്റെ നിയന്ത്രണ പരിധിയിൽ ഉൾപ്പെടുന്നില്ലെന്ന് എഫ്‌സിസി പറഞ്ഞു.",
+  "why": "യുവാക്കൾ ടെക്‌ഫാൻമാർ സാറ്റലൈറ്റ് എഐ എങ്ങനെ കമ്പ്യൂട്ടിംഗ്, ജോലികളിൽ മാറ്റം വരുത്തുമെന്നു ശ്രദ്ധിക്കണം, നിയമനടപടികളിൽ അപ്ഡേറ്റഡ് ആയിരിക്കണം.",
+  "tags": [
+   "FCC",
+   "SpaceX",
+   "AI",
+   "satellite",
+   "tech"
+  ],
+  "say": "സ്പേസ്-ബേസ്‌ഡ് എഐ സർവറുകൾക്ക് സമ്മതം. യു.എസ്. ഫെഡറൽ കമ്മ്യൂണിക്കേഷൻസ് കമ്മീഷൻ സ്പേസ്‌എക്സ്‑ന്റെ എഐ ഡാറ്റാ സെന്ററുകൾ അന്തരീക്ഷത്തിൽ ലോഞ്ച് ചെയ്യാനുള്ള പദ്ധതി അംഗീകരിച്ചു. ശാസ്ത്രീയ ഗവേഷണത്തെക്കുറിച്ചുള്ള ചില ആശങ്കകൾ അതിന്റെ നിയന്ത്രണ പരിധിയിൽ ഉൾപ്പെടുന്നില്ലെന്ന് എഫ്‌സിസി പറഞ്ഞു. യുവാക്കൾ ടെക്‌ഫാൻമാർ സാറ്റലൈറ്റ് എഐ എങ്ങനെ കമ്പ്യൂട്ടിംഗ്, ജോലികളിൽ മാറ്റം വരുത്തുമെന്നു ശ്രദ്ധിക്കണം, നിയമനടപടികളിൽ അപ്ഡേറ്റഡ് ആയിരിക്കണം.",
+  "tags_en": [
+   "FCC",
+   "SpaceX",
+   "AI",
+   "satellite",
+   "tech"
+  ]
+ }
+}

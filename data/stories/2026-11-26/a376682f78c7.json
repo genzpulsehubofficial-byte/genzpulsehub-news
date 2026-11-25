@@ -1,0 +1,45 @@
+{
+ "id": "a376682f78c7",
+ "created": "2026-11-26T03:11:07+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Fed sees 3.8% inflation, debates cause, may hike rates",
+  "hook": "US price rise hits 3.8% – could mean higher loan costs for you.",
+  "what": "The US Federal Reserve’s core inflation gauge rose to 3.8% in October. Fed officials are divided on why prices remain high. The increase boosts expectations of a rate hike in December and possibly later.",
+  "why": "Higher US rates can affect global borrowing costs and the rupee’s value, influencing loan and travel expenses for Indian youths. Watch currency trends and any changes in credit‑card interest.",
+  "tags": [
+   "inflation",
+   "Fed",
+   "rates",
+   "economy",
+   "global"
+  ]
+ },
+ "ml": {
+  "headline": "Fed‑ന് മൂന്ന് പോയിന്റ് എട്ട് ശതമാനം ഇന്‍ഫ്ലേഷന്‍ കാണാം; കാരണത്തില്‍ ചര്‍ച്ച, പലിശ വര്‍ധനവിനുള്ള സാധ്യത",
+  "hook": "അമേരിക്കയില്‍ വില മൂന്ന് പോയിന്റ് എട്ട് ശതമാനം വരെ ഉയര്‍ന്നു – നിങ്ങള്‍ക്ക് വായ്പ ചെലവ് കൂടാം.",
+  "what": "യു.എസ്. ഫെഡറല്‍ റിസര്‍വിന്റെ പ്രധാന ഇന്‍ഫ്ലേഷന്‍ സൂചിക ഒക്ടോബറില്‍ മൂന്ന് പോയിന്റ് എട്ട് ശതമാനം ആയി. വില ഉയര്‍ന്നതിന്റെ കാരണത്തില്‍ ഫെഡ് അംഗങ്ങള്‍ തമ്മില്‍ അഭിപ്രായവ്യത്യാസം. ഈ വര്‍ധനവ് ഡിസംബറില്‍ പലിശ വര്‍ധനവിന്റെ പ്രതീക്ഷ ശക്തമാക്കുന്നു, അതിനുശേഷം കൂടി സാധ്യത.",
+  "why": "അമേരിക്കയുടെ പലിശ ഉയര്‍ന്നാല്‍ ലോകവ്യാപക വായ്പ ചെലവുകളും രൂപയുടെ മൂല്യവും ബാധിക്കും, ഇത് ഇന്ത്യയിലെ യുവാക്കളുടെ വായ്പ, യാത്ര ചെലവുകള്‍ സ്വാധീനിക്കും. കറന്‍സി പ്രവണതകളും ക്രെഡിറ്റ് കാര്‍ഡ് പലിശ മാറ്റങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "മൂല്യവർധന",
+   "ഫെഡ്",
+   "വരുമാനം",
+   "ആഗോള",
+   "വായ്പ"
+  ],
+  "say": "അമേരിക്കയില്‍ വില മൂന്ന് പോയിന്റ് എട്ട് ശതമാനം വരെ ഉയര്‍ന്നു – നിങ്ങള്‍ക്ക് വായ്പ ചെലവ് കൂടാം. യു.എസ്. ഫെഡറല്‍ റിസര്‍വിന്റെ പ്രധാന ഇന്‍ഫ്ലേഷന്‍ സൂചിക ഒക്ടോബറില്‍ മൂന്ന് പോയിന്റ് എട്ട് ശതമാനം ആയി. വില ഉയര്‍ന്നതിന്റെ കാരണത്തില്‍ ഫെഡ് അംഗങ്ങള്‍ തമ്മില്‍ അഭിപ്രായവ്യത്യാസം. ഈ വര്‍ധനവ് ഡിസംബറില്‍ പലിശ വര്‍ധനവിന്റെ പ്രതീക്ഷ ശക്തമാക്കുന്നു, അതിനുശേഷം കൂടി സാധ്യത. അമേരിക്കയുടെ പലിശ ഉയര്‍ന്നാല്‍ ലോകവ്യാപക വായ്പ ചെലവുകളും രൂപയുടെ മൂല്യവും ബാധിക്കും, ഇത് ഇന്ത്യയിലെ യുവാക്കളുടെ വായ്പ, യാത്ര ചെലവുകള്‍ സ്വാധീനിക്കും. കറന്‍സി പ്രവണതകളും ക്രെഡിറ്റ് കാര്‍ഡ് പലിശ മാറ്റങ്ങളും ശ്രദ്ധിക്കുക.",
+  "tags_en": [
+   "inflation",
+   "Fed",
+   "rates",
+   "economy",
+   "global"
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2c048b871e6b",
+ "created": "2026-11-26T03:12:21+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/free-train-travel-facility-extended-to-all-trains-for-chakra-awardees/article71743142.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Chakra awardees now enjoy free travel on every train",
+  "hook": "Heroes get a ride on any Indian rail, no ticket needed",
+  "what": "The government has extended the free‑train travel benefit to all railway services for recipients of the Chakra gallantry awards. This move recognises their bravery and service to the nation.",
+  "why": "It shows national appreciation for courage and lets young people learn about these honours. Support and respect for veterans is encouraged.",
+  "tags": [
+   "ChakraAward",
+   "FreeTravel",
+   "Railways",
+   "Heroes"
+  ]
+ },
+ "ml": {
+  "headline": "ചക്ര അവാർഡിന്‍റെ എല്ലാ ട്രെയിനുകളിലും സൗജന്യ യാത്ര",
+  "hook": "വീരന്മാർക്ക് ഇന്ത്യയിലെ ഏത് റെയിൽവേയിൽ വേണമെങ്കിലും ടിക്കറ്റ് ഇല്ലാതെ സവാരി",
+  "what": "സർക്കാർ ചക്ര ഗലന്തി അവാർഡ് നേടിയവർക്കായി എല്ലാ റെയിൽവേ സേവനങ്ങളിലും സൗജന്യ യാത്രാ സൗകര്യം നൽകുന്നു. ഇതിലൂടെ അവരുടെ ധൈര്യവും സേവനവും അംഗീകരിക്കുന്നു.",
+  "why": "രാജ്യത്തിന്റെ വീരന്മാരോടുള്ള ആദരവ് പ്രകടിപ്പിക്കുന്നു, യുവാക്കൾക്ക് അവാർഡുകൾക്കുറിച്ച് അറിയാനും പിന്തുണയ്ക്കാനും പ്രചോദനം നൽകുന്നു.",
+  "tags": [
+   "ചക്രഅവാർഡ്",
+   "സൗജന്യയാത്ര",
+   "റെയിൽവേ",
+   "വീരന്മാർ"
+  ],
+  "say": "വീരന്മാർക്ക് ഇന്ത്യയിലെ ഏത് റെയിൽവേയിൽ വേണമെങ്കിലും ടിക്കറ്റ് ഇല്ലാതെ സവാരി! സർക്കാർ ചക്ര ഗലന്തി അവാർഡ് നേടിയവർക്കായി എല്ലാ റെയിൽവേ സേവനങ്ങളിലും സൗജന്യ യാത്രാ സൗകര്യം നൽകുന്നു. ഇതിലൂടെ അവരുടെ ധൈര്യവും സേവനവും അംഗീകരിക്കുന്നു. രാജ്യത്തിന്റെ വീരന്മാരോടുള്ള ആദരവ് പ്രകടിപ്പിക്കുന്നു, യുവാക്കൾക്ക് അവാർഡുകൾക്കുറിച്ച് അറിയാനും പിന്തുണയ്ക്കാനും പ്രചോദനം നൽകുന്നു.",
+  "tags_en": [
+   "ChakraAward",
+   "FreeTravel",
+   "Railways",
+   "Heroes"
+  ]
+ }
+}

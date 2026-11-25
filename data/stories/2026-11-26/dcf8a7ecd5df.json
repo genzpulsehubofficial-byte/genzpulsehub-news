@@ -1,0 +1,45 @@
+{
+ "id": "dcf8a7ecd5df",
+ "created": "2026-11-26T03:11:13+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "CNET",
+ "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "NYT Wordle #1986 drops today with hints and answer",
+  "hook": "Ready to crack the latest Wordle puzzle?",
+  "what": "The New York Times released Wordle puzzle #1986 on Thursday, November 26. CNET provides the day's hints and the solution for players.",
+  "why": "It’s a quick daily challenge that sharpens vocabulary, perfect for a short break between studies. Check the hints and give it a try.",
+  "tags": [
+   "Wordle",
+   "NYT",
+   "DailyPuzzle",
+   "Gaming",
+   "Teens"
+  ]
+ },
+ "ml": {
+  "headline": "NYT Wordle #1986 ഇന്ന് പുറത്തിറങ്ങി, സൂചനകളും ഉത്തരവും",
+  "hook": "പുതിയ വര്‍ഡില്‍ പസില്‍ പരിഹരിക്കാന്‍ തയ്യാറാണോ?",
+  "what": "ന്യൂയോർക്ക്ടൈംസ് ഈ വ്യാഴാഴ്ച, ഇരുപത് ആറു നവംബർ, വര്‍ഡില്‍ #1986 പുറത്തിറക്കി. സി നെറ്റ്-ല്‍ ആ ദിവസത്തെ സൂചനകളും ഉത്തരവും ലഭ്യമാണ്.",
+  "why": "ഇത് വാക്കുകളുടെ അറിവ് വര്‍ദ്ധിപ്പിക്കാന്‍ ചുരുങ്ങിയ സമയത്തിനുള്ളില്‍ ചെയ്യാവുന്ന ഒരു ഗെയിം ആണ്. സൂചനകള്‍ നോക്കി കളിക്കൂ.",
+  "tags": [
+   "Wordle",
+   "NYT",
+   "ദൈനംദിനപസിൽ",
+   "ഗെയിമിംഗ്",
+   "ടീൻസ്"
+  ],
+  "say": "പുതിയ വര്‍ഡില്‍ പസില്‍ പരിഹരിക്കാന്‍ തയ്യാറാണോ? ന്യൂയോർക്ക്ടൈംസ് ഈ വ്യാഴാഴ്ച, ഇരുപത് ആറു നവംബർ, വര്‍ഡില്‍ ഒന്നായിരത്തി തൊണ്ണൂറ്‌ ആറു പുറത്തിറക്കി. സി നെറ്റ്-ല്‍ ആ ദിവസത്തെ സൂചനകളും ഉത്തരവും ലഭ്യമാണ്. ഇത് വാക്കുകളുടെ അറിവ് വര്‍ദ്ധിപ്പിക്കാന്‍ ചുരുങ്ങിയ സമയത്തിനുള്ളില്‍ ചെയ്യാവുന്ന ഒരു ഗെയിം ആണ്. സൂചനകള്‍ നോക്കി കളിക്കൂ.",
+  "tags_en": [
+   "Wordle",
+   "NYT",
+   "DailyPuzzle",
+   "Gaming",
+   "Teens"
+  ]
+ }
+}

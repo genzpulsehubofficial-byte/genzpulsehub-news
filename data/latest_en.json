@@ -1,5 +1,99 @@
 [
  {
+  "id": "a376682f78c7",
+  "created": "2026-11-26T03:11:07+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Reuters",
+  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+  "headline": "Fed sees 3.8% inflation, debates cause, may hike rates",
+  "hook": "US price rise hits 3.8% – could mean higher loan costs for you.",
+  "what": "The US Federal Reserve’s core inflation gauge rose to 3.8% in October. Fed officials are divided on why prices remain high. The increase boosts expectations of a rate hike in December and possibly later.",
+  "why": "Higher US rates can affect global borrowing costs and the rupee’s value, influencing loan and travel expenses for Indian youths. Watch currency trends and any changes in credit‑card interest.",
+  "tags": [
+   "inflation",
+   "Fed",
+   "rates",
+   "economy",
+   "global"
+  ]
+ },
+ {
+  "id": "dcf8a7ecd5df",
+  "created": "2026-11-26T03:11:13+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "CNET",
+  "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVItOEptOEk3UVZrY2FCTkhtbm9vdS1jZTZEbkJZdzFJaFVibUl0NFhBcjJ6YngzTUpwbDF0UzVNZ1FRMTYtazFISHBnRWplZVFsZzI4cUpCN1ZEQW1LbTltVDgxTGx6emc1TEZvbzlTZXhIRkJjYzNnc04yX0s4RXZtNA?oc=5",
+  "headline": "NYT Wordle #1986 drops today with hints and answer",
+  "hook": "Ready to crack the latest Wordle puzzle?",
+  "what": "The New York Times released Wordle puzzle #1986 on Thursday, November 26. CNET provides the day's hints and the solution for players.",
+  "why": "It’s a quick daily challenge that sharpens vocabulary, perfect for a short break between studies. Check the hints and give it a try.",
+  "tags": [
+   "Wordle",
+   "NYT",
+   "DailyPuzzle",
+   "Gaming",
+   "Teens"
+  ]
+ },
+ {
+  "id": "a4c3fb2f4ae0",
+  "created": "2026-11-26T03:11:20+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+  "headline": "FCC greenlights SpaceX’s space‑based AI data centers",
+  "hook": "Space‑based AI servers get the go‑ahead.",
+  "what": "The U.S. Federal Communications Commission approved SpaceX’s proposal to launch AI data centers into orbit. The agency dismissed several objections, saying concerns about scientific research lie beyond its jurisdiction.",
+  "why": "Young tech enthusiasts should watch how satellite AI could reshape computing and job prospects, and stay updated on regulatory moves.",
+  "tags": [
+   "FCC",
+   "SpaceX",
+   "AI",
+   "satellite",
+   "tech"
+  ]
+ },
+ {
+  "id": "2c048b871e6b",
+  "created": "2026-11-26T03:12:21+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/free-train-travel-facility-extended-to-all-trains-for-chakra-awardees/article71743142.ece",
+  "headline": "Chakra awardees now enjoy free travel on every train",
+  "hook": "Heroes get a ride on any Indian rail, no ticket needed",
+  "what": "The government has extended the free‑train travel benefit to all railway services for recipients of the Chakra gallantry awards. This move recognises their bravery and service to the nation.",
+  "why": "It shows national appreciation for courage and lets young people learn about these honours. Support and respect for veterans is encouraged.",
+  "tags": [
+   "ChakraAward",
+   "FreeTravel",
+   "Railways",
+   "Heroes"
+  ]
+ },
+ {
+  "id": "3a8d35bfa091",
+  "created": "2026-11-26T03:12:27+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Barca Blaugranes",
+  "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeE95d24xZ0M4eUdVMHFCbEIyRHVWWWVocmxtdnphZEJIRmtsQzM4M1FQQVFVVVFqQVJIVjZVVE0tTDJIRW5iakkyU2lTWWN4SFBOQ3pQWFJCd3FzOHc5ekRyaVJsSUc5T0ZLYmZRNGdhSnd0N194Z3RLbDdJSmJEd2tNYnBWNDhvbVB5WWNOakJTMnU5b1B2U0gwMWFYSGRWazhwRU9GTUJiNGw4dTJxZUg5a2U1bHVsbjlXcWF4VDMtaVh4cVRPbmlmQU9NT2F0TGpFbDlZVlBONWRv?oc=5",
+  "headline": "Barcelona thrash Sabah 4-1, Gordon tops CL scoring",
+  "hook": "Gordon’s strike puts him ahead of legends in Europe’s elite competition.",
+  "what": "Barcelona beat Sabah 4-1 in a Champions League match in Baku. Gordon scored again, moving ahead of Ronaldo and Benzema in the tournament’s goal tally.",
+  "why": "Shows Barcelona’s firepower and highlights a rising star, encouraging young fans to follow European football and track player stats.",
+  "tags": [
+   "football",
+   "championsleague",
+   "barcelona",
+   "gordon",
+   "goal"
+  ]
+ },
+ {
   "id": "5f60305e86ef",
   "created": "2026-11-26T02:06:50+05:30",
   "category": "entertainment",
@@ -658,101 +752,6 @@
    "patient",
    "death",
    "hospital"
-  ]
- },
- {
-  "id": "798a2a56ef61",
-  "created": "2026-11-25T19:46:44+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/mea-on-saurav-das-london-travel-curb-show-cause-notice-over-birthplace-query-passport-application-process-101795610014748.html",
-  "headline": "MEA says Saurav Das got notice over passport birthplace query",
-  "hook": "A show‑cause notice may block his UK trip.",
-  "what": "The Ministry of External Affairs confirmed a notice was sent to Saurav Das because of questions about the birthplace listed in his passport. Das claims the notice was intended to stop his travel to the United Kingdom.",
-  "why": "Young travelers should double‑check passport details; any mismatch can trigger official scrutiny.",
-  "tags": [
-   "passport",
-   "travel",
-   "UK",
-   "MEA",
-   "notice"
-  ]
- },
- {
-  "id": "4eac6fc71e31",
-  "created": "2026-11-25T19:46:47+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/missing-name-in-army-records-no-bar-to-pension-how-68-year-old-disabled-son-won-case-in-aft-11795613583161.html",
-  "headline": "68-year-old gets lifelong pension despite missing army record",
-  "hook": "Even if your dad’s name isn’t in the files, you can still claim pension.",
-  "what": "The Armed Forces Tribunal ordered a lifelong family pension for a 68-year-old disabled man. It ruled that his father’s absence from army service records does not block the claim. The centre must also pay pending pension with 6% annual interest.",
-  "why": "It shows bureaucratic gaps don’t automatically deny benefits, so families should verify entitlement and file claims if needed.",
-  "tags": [
-   "pension",
-   "army",
-   "tribunal",
-   "rights",
-   "seniorcitizen"
-  ]
- },
- {
-  "id": "61cb6e1f95ec",
-  "created": "2026-11-25T19:46:49+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-  "headline": "Amazon, Meta negotiate to end Muse AI block",
-  "hook": "Your favorite AI buddy might be back soon.",
-  "what": "Amazon and Meta are in talks to lift the restrictions on the AI assistant Muse. The blockage has lasted around two months.",
-  "why": "If the talks succeed, users will regain access to Muse’s features, affecting how they use AI tools.",
-  "tags": [
-   "Amazon",
-   "Meta",
-   "AI",
-   "Muse",
-   "TechNews"
-  ]
- },
- {
-  "id": "82aec1e0a65e",
-  "created": "2026-11-25T18:17:35+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece",
-  "headline": "Cabinet approves ₹2,014 cr new Silchar airport",
-  "hook": "A fresh airport plan could reshape travel for Assam’s youth.",
-  "what": "The government cabinet gave the green light to build a new airport in Silchar, with a budget of ₹2,014 crore. The current Silchar airfield, run by the Air Force and AAI, covers a 70‑acre civil enclave.",
-  "why": "A modern airport may offer better connectivity for students and job seekers in the region. Keep an eye on travel updates if you plan trips or internships nearby.",
-  "tags": [
-   "Silchar",
-   "airport",
-   "infrastructure",
-   "youth",
-   "travel"
-  ]
- },
- {
-  "id": "77790f1ef195",
-  "created": "2026-11-25T18:17:42+05:30",
-  "category": "trending",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/todays-paper/tp-national/comedian-yash-maheshwari-booked-in-patna-over-remarks-on-women-observing-chhath/article71742426.ece",
-  "headline": "Comedian Yash Maheshwari booked in Patna over Chhath comments",
-  "hook": "A joke about women at a sacred festival landed him in police custody.",
-  "what": "Comedian Yash Maheshwari was arrested in Patna after his remarks about women observing the Chhath festival drew police action. Authorities booked him under relevant sections.",
-  "why": "The incident highlights sensitivity around religious practices; young people should be mindful of cultural sentiments when expressing opinions.",
-  "tags": [
-   "Patna",
-   "Chhath",
-   "Comedy",
-   "FreedomOfSpeech",
-   "India"
   ]
  }
 ]

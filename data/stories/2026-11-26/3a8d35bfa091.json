@@ -1,0 +1,45 @@
+{
+ "id": "3a8d35bfa091",
+ "created": "2026-11-26T03:12:27+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Barca Blaugranes",
+ "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeE95d24xZ0M4eUdVMHFCbEIyRHVWWWVocmxtdnphZEJIRmtsQzM4M1FQQVFVVVFqQVJIVjZVVE0tTDJIRW5iakkyU2lTWWN4SFBOQ3pQWFJCd3FzOHc5ekRyaVJsSUc5T0ZLYmZRNGdhSnd0N194Z3RLbDdJSmJEd2tNYnBWNDhvbVB5WWNOakJTMnU5b1B2U0gwMWFYSGRWazhwRU9GTUJiNGw4dTJxZUg5a2U1bHVsbjlXcWF4VDMtaVh4cVRPbmlmQU9NT2F0TGpFbDlZVlBONWRv?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Barcelona thrash Sabah 4-1, Gordon tops CL scoring",
+  "hook": "Gordon’s strike puts him ahead of legends in Europe’s elite competition.",
+  "what": "Barcelona beat Sabah 4-1 in a Champions League match in Baku. Gordon scored again, moving ahead of Ronaldo and Benzema in the tournament’s goal tally.",
+  "why": "Shows Barcelona’s firepower and highlights a rising star, encouraging young fans to follow European football and track player stats.",
+  "tags": [
+   "football",
+   "championsleague",
+   "barcelona",
+   "gordon",
+   "goal"
+  ]
+ },
+ "ml": {
+  "headline": "ബാഴ്സലോണ 4-1 ന് സബാഹിനെ തോല്‍പ്പിച്ചു, ഗോർഡന് സി.എൽ സ്കോറിംഗ് ലീഡർ",
+  "hook": "ഗോർഡന്റെ ഗോൾ അവനെ യൂറോപ്പിലെ ലെജന്‍ഡ്സിന് മുകളിലേക്ക് ഉയർത്തി.",
+  "what": "ചാംപ്യൻസ് ലീഗ് മത്സരത്തില്‍ ബാഴ്സലോണ നാല്-ഒന്ന് ന് സബാഹിനെ പരാജയപ്പെടുത്തി. ഗോർഡന് വീണ്ടും സ്കോർ ചെയ്തു, റൊണാള്‍ഡോയും ബെന്‍സേവും പിന്നില്‍ വിട്ടു.",
+  "why": "ഇത് യുവജനങ്ങള്‍ക്ക് യൂറോപ്പിലെ ഫുട്ബോള്‍ ഡൈനാമിക്സ് കാണാനും, ഉയർന്ന പ്രകടനമുള്ള കളിക്കാരെ പിന്തുടരാനും പ്രചോദനം നല്‍കുന്നു.",
+  "tags": [
+   "football",
+   "championsleague",
+   "barcelona",
+   "gordon",
+   "goal"
+  ],
+  "say": "ഗോർഡന്റെ ഗോൾ അവനെ യൂറോപ്പിലെ ലെജന്‍ഡ്സിന് മുകളിലേക്ക് ഉയർത്തി. ചാംപ്യൻസ് ലീഗ് മത്സരത്തില്‍ ബാഴ്സലോണ നാല്-ഒന്ന് ന് സബാഹിനെ പരാജയപ്പെടുത്തി. ഗോർഡന് വീണ്ടും സ്കോർ ചെയ്തു, റൊണാള്‍ഡോയും ബെന്‍സേവും പിന്നില്‍ വിട്ടു. ഇത് യുവജനങ്ങള്‍ക്ക് യൂറോപ്പിലെ ഫുട്ബോള്‍ ഡൈനാമിക്സ് കാണാനും, ഉയർന്ന പ്രകടനമുള്ള കളിക്കാരെ പിന്തുടരാനും പ്രചോദനം നല്‍കുന്നു.",
+  "tags_en": [
+   "football",
+   "championsleague",
+   "barcelona",
+   "gordon",
+   "goal"
+  ]
+ }
+}
