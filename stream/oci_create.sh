@@ -25,7 +25,7 @@ EXIST=$(oci compute instance list -c "$C" --display-name $NAME --lifecycle-state
 if [ -n "$EXIST" ] && [ "$EXIST" != "None" ]; then ID=$EXIST; say "Server already exists"
 else
   say "Creating Always Free server (retries if Oracle is out of capacity)"
-  for try in $(seq 1 60); do
+  for try in $(seq 1 180); do
     for AD in $(oci iam availability-domain list -c "$C" --query 'data[].name' --raw-output | tr -d '[]",'); do
       if ID=$(q compute instance launch -c "$C" --availability-domain "$AD" --display-name $NAME \
           --shape VM.Standard.A1.Flex --shape-config '{"ocpus":4,"memoryInGBs":24}' \
@@ -33,7 +33,7 @@ else
           --ssh-authorized-keys-file ~/.ssh/gph.pub --user-data-file /tmp/ci.sh --wait-for-state RUNNING 2>/tmp/err); then
         break 2
       fi
-      grep -qi "capacity" /tmp/err && echo "  out of capacity in $AD, try $try/60" || { cat /tmp/err; exit 1; }
+      if grep -qiE "capacity|429|TooManyRequests|InternalError|timed out" /tmp/err; then echo "  busy/out of capacity in $AD, retry $try/180 ($(date +%H:%M))"; sleep 20; else cat /tmp/err; exit 1; fi
     done
     sleep 60
   done
