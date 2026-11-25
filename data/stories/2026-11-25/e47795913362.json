@@ -1,0 +1,35 @@
+{
+ "id": "e47795913362",
+ "created": "2026-11-25T09:49:39+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Eisenkot Secures First Coalition Partner, Tasked to Form Govt",
+  "hook": "Israel's next PM race gets a new twist as Eisenkot lands a partner.",
+  "what": "Gadi Eisenkot announced that he has secured his first coalition partner in the bid to become Israel's prime minister. President Isaac Herzog has asked him to start building a government.",
+  "why": "A new government could shift regional stability and global ties, which may influence India's diplomatic and economic interests. Keep an eye on how the leadership change might affect international collaborations.",
+  "tags": [
+   "Israel",
+   "politics",
+   "coalition",
+   "global"
+  ]
+ },
+ "ml": {
+  "headline": "Eisenkot ആദ്യ കൂട്ടുകാർ നേടി, സർക്കാർ രൂപീകരിക്കാൻ ചുമതല",
+  "hook": "ഇസ്രായേലിന്റെ പ്രധാനമന്ത്രിത്വ മത്സരത്തിൽ Eisenkot-ന് പുതിയ വഴിത്തിരിവ്.",
+  "what": "Gadi Eisenkot തന്റെ പ്രധാനമന്ത്രിത്വം നേടാനുള്ള ശ്രമത്തിൽ ആദ്യ കൂട്ടുകാർ നേടിയത് പ്രഖ്യാപിച്ചു. പ്രസിഡണ്ട് Isaac Herzog അദ്ദേഹത്തെ സർക്കാർ രൂപീകരിക്കാൻ ഉത്തരവിട്ടു.",
+  "why": "പുതിയ സർക്കാർ പ്രദേശിക സ്ഥിരതയും അന്താരാഷ്ട്ര ബന്ധങ്ങളും മാറ്റാൻ സാധ്യതയുണ്ട്, ഇത് ഇന്ത്യയുടെ വിദേശ നയത്തിലും സാമ്പത്തിക ബന്ധങ്ങളിലും പ്രഭാവം ചെലുത്താം. നേതൃമാറ്റം എങ്ങനെ അന്താരാഷ്ട്ര സഹകരണത്തെ ബാധിക്കും എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Israel",
+   "politics",
+   "coalition",
+   "global"
+  ]
+ }
+}

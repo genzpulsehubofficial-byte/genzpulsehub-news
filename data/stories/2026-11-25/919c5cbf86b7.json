@@ -1,0 +1,35 @@
+{
+ "id": "919c5cbf86b7",
+ "created": "2026-11-25T09:49:48+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-ai-earbuds-expected-features-carl-pei-report-12373329",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nothing's AI Earbuds to debut Dec 8 with recording, transcription",
+  "hook": "Your next earbuds could actually take notes for you.",
+  "what": "Nothing is set to launch its Ear (note) AI earbuds on December 8. The devices will include built‑in recording and live transcription capabilities.",
+  "why": "For students and creators, the feature can help capture lectures or ideas without extra apps. Keep an eye on the release if you need hands‑free note‑taking.",
+  "tags": [
+   "Nothing",
+   "AIearbuds",
+   "TechLaunch",
+   "StudentTools"
+  ]
+ },
+ "ml": {
+  "headline": "Nothing‑ന്റെ AI Earbuds ഡിസംബർ 8ന് റെക്കോർഡിംഗ്, ട്രാൻസ്ക്രിപ്ഷൻ ഫീച്ചറുകളോടെ",
+  "hook": "നിങ്ങളുടെ അടുത്ത earbuds നോട്ടുകൾ എടുത്തു തരാം.",
+  "what": "Nothing ഡിസംബർ 8ന് Ear (note) AI earbuds പുറത്തിറക്കാൻ പോകുന്നു. ഇവയിൽ റെക്കോർഡിംഗ്, ലൈവ് ട്രാൻസ്ക്രിപ്ഷൻ പോലുള്ള സവിശേഷതകൾ ഉൾപ്പെടും.",
+  "why": "വിദ്യാർത്ഥികളും ക്രിയേറ്റർമാരും ക്ലാസ്സോ ഐഡിയോ കൈവശം വെക്കാൻ ഇത് സഹായിക്കും. ഹാൻഡ്‌ഫ്രീ നോട്ടുകൾ എടുക്കാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ റിലീസ് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nothing",
+   "AIearbuds",
+   "TechLaunch",
+   "StudentTools"
+  ]
+ }
+}

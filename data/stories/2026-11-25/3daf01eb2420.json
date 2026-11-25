@@ -1,0 +1,37 @@
+{
+ "id": "3daf01eb2420",
+ "created": "2026-11-25T09:49:44+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-november-wed-latest-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-and-others-11795576136181.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold, Silver Prices Slip Amid Global Uncertainty",
+  "hook": "Precious metal rates are falling – see what it means for you.",
+  "what": "On 25 November, gold and silver prices stayed low across Indian markets. The decline is linked to unsettled conditions in global markets.",
+  "why": "Changes in metal prices affect savings and jewelry purchases, so teens should watch trends before buying.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "markets",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ്, സിൽവർ വിലകൾ ഗ്ലോബൽ അനിശ്ചിതത്വത്തിൽ താഴ്ന്നു",
+  "hook": "പ്രീഷസ് മെറ്റൽ നിരക്കുകൾ വീഴ്ചയിൽ – നിങ്ങളുടെ കാര്യത്തിൽ എന്ത് പ്രഭാവം?",
+  "what": "25 നവംബർ, ഇന്ത്യയിലെ വിപണികളിൽ ഗോൾഡും സിൽവറും വിലകൾ കുറഞ്ഞ നിലയിൽ തുടരുന്നു. ഈ ഇടിവ് ആഗോള വിപണി അനിശ്ചിതത്വം മൂലമാണ്.",
+  "why": "വിലമാറ്റം നിങ്ങളുടെ സംരക്ഷണവും ആഭരണ വാങ്ങലും ബാധിക്കും, അതിനാൽ വാങ്ങുന്നതിന് മുൻപ് ട്രെൻഡ് നോക്കുക.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "markets",
+   "india"
+  ]
+ }
+}

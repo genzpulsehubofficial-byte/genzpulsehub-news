@@ -1,0 +1,37 @@
+{
+ "id": "34720b1bb374",
+ "created": "2026-11-25T09:49:36+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Trump hints at possible pardon for Nvidia CEO Jensen Huang",
+  "hook": "The tech boss behind gaming GPUs could get a presidential pardon.",
+  "what": "President Trump said he might grant a pardon to Jensen Huang, the chief executive of Nvidia. Huang is set to attend a private meeting with the House Foreign Affairs Committee on Tuesday.",
+  "why": "A pardon could influence Nvidia’s AI and gaming hardware market, affecting prices and availability for Indian gamers and tech fans. Stay alert for any policy shifts that may impact your devices.",
+  "tags": [
+   "tech",
+   "nvidia",
+   "trump",
+   "pardon",
+   "gaming"
+  ]
+ },
+ "ml": {
+  "headline": "ട്രംപ് ജെൻസൻ ഹുവാങിന്‌ ശിക്ഷമോചനം നൽകാമെന്ന് സൂചിപ്പിച്ചു",
+  "hook": "ഗെയിമിംഗ് GPU-കളുടെ മേധാവി ശിക്ഷമോചനം നേടാൻ സാധ്യത.",
+  "what": "അമേരിക്കയുടെ പ്രസിഡന്റ് ട്രംപ് ജെൻസൻ ഹുവാങിന്‌ ശിക്ഷമോചനം നൽകാൻ സാധ്യതയുണ്ടെന്ന് പറഞ്ഞു. ഹുവാങ് ചൊവ്വാഴ്ച ഹൗസ് ഫോറിന്‍ എഫെയർസ് കമ്മിറ്റി കൂടെ ഒരു സ്വകാര്യ യോഗം നടത്താൻ പദ്ധതിയിട്ടിരിക്കുന്നു.",
+  "why": "ഇത് Nvidiaയുടെ AI, ഗെയിമിംഗ് ഹാർഡ്‌വെയർ വിപണിയിൽ സ്വാധീനം ചെലുത്താൻ കഴിയും, അതിനാൽ ഇന്ത്യയിലെ യുവജനങ്ങൾക്കും ഗെയിമർമാർക്കും വിലയും ലഭ്യതയും മാറാൻ സാധ്യതയുണ്ട്. ഏതെങ്കിലും നയമാറ്റങ്ങളിലേക്കുള്ള ശ്രദ്ധ തുടരുക.",
+  "tags": [
+   "tech",
+   "nvidia",
+   "trump",
+   "pardon",
+   "gaming"
+  ]
+ }
+}

@@ -1,5 +1,98 @@
 [
  {
+  "id": "34720b1bb374",
+  "created": "2026-11-25T09:49:36+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
+  "headline": "ട്രംപ് ജെൻസൻ ഹുവാങിന്‌ ശിക്ഷമോചനം നൽകാമെന്ന് സൂചിപ്പിച്ചു",
+  "hook": "ഗെയിമിംഗ് GPU-കളുടെ മേധാവി ശിക്ഷമോചനം നേടാൻ സാധ്യത.",
+  "what": "അമേരിക്കയുടെ പ്രസിഡന്റ് ട്രംപ് ജെൻസൻ ഹുവാങിന്‌ ശിക്ഷമോചനം നൽകാൻ സാധ്യതയുണ്ടെന്ന് പറഞ്ഞു. ഹുവാങ് ചൊവ്വാഴ്ച ഹൗസ് ഫോറിന്‍ എഫെയർസ് കമ്മിറ്റി കൂടെ ഒരു സ്വകാര്യ യോഗം നടത്താൻ പദ്ധതിയിട്ടിരിക്കുന്നു.",
+  "why": "ഇത് Nvidiaയുടെ AI, ഗെയിമിംഗ് ഹാർഡ്‌വെയർ വിപണിയിൽ സ്വാധീനം ചെലുത്താൻ കഴിയും, അതിനാൽ ഇന്ത്യയിലെ യുവജനങ്ങൾക്കും ഗെയിമർമാർക്കും വിലയും ലഭ്യതയും മാറാൻ സാധ്യതയുണ്ട്. ഏതെങ്കിലും നയമാറ്റങ്ങളിലേക്കുള്ള ശ്രദ്ധ തുടരുക.",
+  "tags": [
+   "tech",
+   "nvidia",
+   "trump",
+   "pardon",
+   "gaming"
+  ]
+ },
+ {
+  "id": "e47795913362",
+  "created": "2026-11-25T09:49:39+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
+  "headline": "Eisenkot ആദ്യ കൂട്ടുകാർ നേടി, സർക്കാർ രൂപീകരിക്കാൻ ചുമതല",
+  "hook": "ഇസ്രായേലിന്റെ പ്രധാനമന്ത്രിത്വ മത്സരത്തിൽ Eisenkot-ന് പുതിയ വഴിത്തിരിവ്.",
+  "what": "Gadi Eisenkot തന്റെ പ്രധാനമന്ത്രിത്വം നേടാനുള്ള ശ്രമത്തിൽ ആദ്യ കൂട്ടുകാർ നേടിയത് പ്രഖ്യാപിച്ചു. പ്രസിഡണ്ട് Isaac Herzog അദ്ദേഹത്തെ സർക്കാർ രൂപീകരിക്കാൻ ഉത്തരവിട്ടു.",
+  "why": "പുതിയ സർക്കാർ പ്രദേശിക സ്ഥിരതയും അന്താരാഷ്ട്ര ബന്ധങ്ങളും മാറ്റാൻ സാധ്യതയുണ്ട്, ഇത് ഇന്ത്യയുടെ വിദേശ നയത്തിലും സാമ്പത്തിക ബന്ധങ്ങളിലും പ്രഭാവം ചെലുത്താം. നേതൃമാറ്റം എങ്ങനെ അന്താരാഷ്ട്ര സഹകരണത്തെ ബാധിക്കും എന്ന് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Israel",
+   "politics",
+   "coalition",
+   "global"
+  ]
+ },
+ {
+  "id": "3daf01eb2420",
+  "created": "2026-11-25T09:49:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-november-wed-latest-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-and-others-11795576136181.html",
+  "headline": "ഗോൾഡ്, സിൽവർ വിലകൾ ഗ്ലോബൽ അനിശ്ചിതത്വത്തിൽ താഴ്ന്നു",
+  "hook": "പ്രീഷസ് മെറ്റൽ നിരക്കുകൾ വീഴ്ചയിൽ – നിങ്ങളുടെ കാര്യത്തിൽ എന്ത് പ്രഭാവം?",
+  "what": "25 നവംബർ, ഇന്ത്യയിലെ വിപണികളിൽ ഗോൾഡും സിൽവറും വിലകൾ കുറഞ്ഞ നിലയിൽ തുടരുന്നു. ഈ ഇടിവ് ആഗോള വിപണി അനിശ്ചിതത്വം മൂലമാണ്.",
+  "why": "വിലമാറ്റം നിങ്ങളുടെ സംരക്ഷണവും ആഭരണ വാങ്ങലും ബാധിക്കും, അതിനാൽ വാങ്ങുന്നതിന് മുൻപ് ട്രെൻഡ് നോക്കുക.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "markets",
+   "india"
+  ]
+ },
+ {
+  "id": "981f7daf54e0",
+  "created": "2026-11-25T09:49:46+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-women-representation-30-percent-ptijo6cqjl0",
+  "headline": "കേരളം 30% വനിതാ പോലീസ് സേന ലക്ഷ്യമിടുന്നു",
+  "hook": "പുതിയ പദ്ധതി സുരക്ഷയും സ്ത്രീകളുടെ തൊഴിൽ അവസരങ്ങളും വർധിപ്പിക്കും",
+  "what": "സംസ്ഥാന സർക്കാർ ഘട്ടംഘട്ടമായി വനിതാ ഉദ്യോഗസ്ഥരുടെ പങ്ക് 30% വരെ ഉയർത്തുമെന്ന് പ്രഖ്യാപിച്ചു. ക്രൈം ബ്രാഞ്ച് നിയമനങ്ങൾ മർദ്ദം അടിസ്ഥാനമാക്കി നടക്കും.",
+  "why": "കൂടുതൽ വനിതാ ഉദ്യോഗസ്ഥർ സമൂഹപോലീസ് സേവനവും ലിംഗ സങ്കേതം മെച്ചപ്പെടുത്തും; നിയമം പഠിക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾ പുതിയ റിക്രൂട്ട്‌മെന്റ് അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "വനിതാപോലീസ്",
+   "നിയോഗം",
+   "ക്രൈംബ്രാഞ്ച്",
+   "ജോലികൾ"
+  ]
+ },
+ {
+  "id": "919c5cbf86b7",
+  "created": "2026-11-25T09:49:48+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-ai-earbuds-expected-features-carl-pei-report-12373329",
+  "headline": "Nothing‑ന്റെ AI Earbuds ഡിസംബർ 8ന് റെക്കോർഡിംഗ്, ട്രാൻസ്ക്രിപ്ഷൻ ഫീച്ചറുകളോടെ",
+  "hook": "നിങ്ങളുടെ അടുത്ത earbuds നോട്ടുകൾ എടുത്തു തരാം.",
+  "what": "Nothing ഡിസംബർ 8ന് Ear (note) AI earbuds പുറത്തിറക്കാൻ പോകുന്നു. ഇവയിൽ റെക്കോർഡിംഗ്, ലൈവ് ട്രാൻസ്ക്രിപ്ഷൻ പോലുള്ള സവിശേഷതകൾ ഉൾപ്പെടും.",
+  "why": "വിദ്യാർത്ഥികളും ക്രിയേറ്റർമാരും ക്ലാസ്സോ ഐഡിയോ കൈവശം വെക്കാൻ ഇത് സഹായിക്കും. ഹാൻഡ്‌ഫ്രീ നോട്ടുകൾ എടുക്കാൻ താൽപ്പര്യമുണ്ടെങ്കിൽ റിലീസ് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nothing",
+   "AIearbuds",
+   "TechLaunch",
+   "StudentTools"
+  ]
+ },
+ {
   "id": "7467951d2050",
   "created": "2026-11-25T08:38:43+05:30",
   "category": "entertainment",
@@ -658,100 +751,6 @@
    "വാക്സിൻ",
    "ആരോഗ്യം",
    "അമേരിക്ക"
-  ]
- },
- {
-  "id": "d918e35b51ae",
-  "created": "2026-11-25T02:18:39+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Investing.com",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFpTjJ1Um1FY0RHMzBZa2x5TkVWUktPWTgyempDZFA5V2xmOUFxdTU5VnNUam5SVUFJaHZ3Qk1UdVRkWnJGUTJLbS1IRmVSTV9fS25YLVVoRXJsM2J0UVFoc1BwcFBBX0xVcDREU3hpYmlfTlFYN1ZuVXlRMG5wTGY0X2VGWmdyT0Z3NlNWQ3VqbmtnTzUydDhKVk4zT3BGcEV3ZUVZcENpaDRvb3c?oc=5",
-  "headline": "Nvidia സ്റ്റോക്ക് 6% ഇടിഞ്ഞു, AI റാലി നിർത്തി",
-  "hook": "വലിയ ചിപ്പ് കമ്പനിയുടെ ഷെയറുകൾ വീണു, AI ആവേശം ചലിച്ചു.",
-  "what": "CEO ജെൻസൻ ഹുവാങിന്റെ തിരിച്ചുവരവിനുശേഷം Nvidiaയുടെ ഷെയറുകൾ ഏകദേശം 6% ഇടിഞ്ഞു. Nasdaq സൂചികയും ചിപ്പ് സ്റ്റോക്കുകളുടെ ഇടിവ് മൂലം 2% താഴ്ന്നു. അമേരിക്കൻ രാഷ്ട്രീയക്കാരൻമാർ ട്രംപ്‌ന്റെ പങ്ക് ചോദ്യം ചെയ്തു.",
-  "why": "AI‑കേന്ദ്രിത നിക്ഷേപങ്ങളിൽ ഈ അസ്ഥിരത യുവ നിക്ഷേപകരെ ജാഗ്രതയോടെ പോർട്ട്ഫോളിയോ വൈവിധ്യമാക്കാൻ ഓർമ്മപ്പെടുത്തുന്നു. ഒരു സ്റ്റോക്കിൽ മാത്രം ഭാരം ചെലുത്തുന്നതിന് മുൻപ് മാർക്കറ്റ് ട്രെൻഡുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "stockmarket",
-   "tech",
-   "investing"
-  ]
- },
- {
-  "id": "a4b3e0736d13",
-  "created": "2026-11-25T02:18:44+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9laWI4T3dGY29OT0xCd1l3QUlScm4tTTJXclppNnk4ZWVORjA1ajRybmZmbFd4aTUyYjhKYTFhel9yVTI0SHc0RU5zcW5IYmlDUEZMa2ZyUnFRb2VCVWx5cW44MERUV0g0S2otZ2tpQi1Yc1RzNEE?oc=5",
-  "headline": "Google‑ന്റെ Gemini 4 Neon കോഡിംഗ്‌യിൽ തിളങ്ങുന്നു, Antigravity ടോക്കൺ‌വിലയേറിയത്",
-  "hook": "പുതിയ AI മോഡൽ കോഡ് ചുമതലകൾക്ക് മികവ്, പക്ഷേ ടോക്കൺ‌ബജറ്റ് വേഗം തീരും.",
-  "what": "Google Gemini 4 Neon പുറത്തിറക്കി, മൂന്ന് Gemini മോഡലുകൾ SEO ചോദ്യങ്ങളിൽ പരീക്ഷിച്ചപ്പോൾ Neon 5‑ൽ 6 ശരിയായി നേടി. ഈ മോഡലിന് കോഡിംഗ് കഴിവിനും പ്രശംസ ലഭിച്ചു. അതേ സമയം, Google‑യുടെ Antigravity ഉപകരണം ഉപയോഗിക്കുമ്പോൾ ടോക്കൺ‌വില കൂടുതലാണെന്ന് ശ്രദ്ധിച്ചു.",
-  "why": "കോഡ്‌പ്രോജക്റ്റുകൾക്കും AI സഹായങ്ങൾക്കും Neon ഉപകാരപ്രദമാകും, പക്ഷേ Antigravity‑യുടെ ഉയർന്ന ടോക്കൺ ഉപയോഗം നിയന്ത്രിച്ച് ഉപയോഗിക്കുക.",
-  "tags": [
-   "GoogleAI",
-   "GeminiNeon",
-   "Coding",
-   "AItools",
-   "Tokens"
-  ]
- },
- {
-  "id": "35f75bb42e94",
-  "created": "2026-11-25T01:15:45+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
-  "headline": "Anthropic ഷെയറുകൾ നാലാം ദിവസത്തിൽ IPO വിലയ്ക്ക് താഴെ വീണു",
-  "hook": "AI സ്റ്റാർട്ടപ്പിന്റെ സ്റ്റോക്ക് ഡെബ്യൂ വിലയ്ക്ക് താഴെ ഇടിഞ്ഞു.",
-  "what": "Anthropic ന്റെ ഷെയറുകൾ നാലാം ട്രേഡിംഗ് ദിവസത്തിൽ $83 IPO വിലയ്ക്ക് താഴെ പോയി. ഇത് IPO വിലക്ക് താഴെ ആദ്യ ട്രേഡിംഗ് ആയിരുന്നു.",
-  "why": "AI സ്റ്റോക്കുകളുടെ ചാഞ്ചാട്ടം കാണിക്കുന്നതുകൊണ്ട്, യുവ നിക്ഷേപകർ വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "AI",
-   "സ്റ്റോക്ക്",
-   "നിക്ഷേപം",
-   "ടെക്",
-   "മാർക്കറ്റ്"
-  ]
- },
- {
-  "id": "ed212b34f151",
-  "created": "2026-11-25T01:15:56+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "XBOX Wire",
-  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSY2ZGWnZ4U1NoQ2w3WmE4OURKNlZqWldJdEN3amFvZUxYTWFqTXd2OHpJMks0RWdHT1R2RE14S3F5c1NfNW9xclZqN3JwalJWbThsR19tTnNvczE3b0tRa2V4TE5qdWNwVjA4TFp4anowZ9IBd0FVX3lxTE1HMUZmaThzSDBrcXJ5ODZOaHFFX0xJbklxeHpCOUpLY3loTXZwTm1aWFBYbzl6R0ZSaFJrZTY3LWJETlN2ODdHM0pNNUotWHgyS0VuYUVHVWxYaEVFTEN4eEdvd1ppVnowTG5Xcl80ZXNNNHI0WVA4?oc=5",
-  "headline": "Nioh 3 2027‑ൽ Xbox, Switch 2‑ലേക്ക്",
-  "hook": "പ്ലേസ്റ്റേഷൻ മാത്രം ആയിരുന്ന ഈ സാംബാരി ഗെയിം ഇനി നിങ്ങളുടെ കൈകളിൽ.",
-  "what": "മുൻപ് PS5‑ലേ മാത്രം ലഭ്യമായ Nioh 3, 2027 ജനുവരി 28ന് Xbox, Nintendo Switch 2‑ൽ പുറത്തിറങ്ങും. ഈ Complete Edition‑ന് കൊറിയയിൽ റേറ്റിംഗ് ലഭിച്ചിട്ടുണ്ട്.",
-  "why": "ഇത് കൂടുതൽ പ്ലാറ്റ്ഫോം‌കളിൽ കളിക്കാൻ സാധ്യമാക്കും, യുവ ഗെയിമർമാർക്ക് അവസരം. റിലീസ് തീയതി, പ്രീ‑ഓർഡർ വിവരങ്ങൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nioh3",
-   "Xbox",
-   "Switch2",
-   "Gaming",
-   "2027"
-  ]
- },
- {
-  "id": "cb0d7372f9a0",
-  "created": "2026-11-25T01:15:59+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-  "headline": "UK‑ൽ അലർട്ട്: AI ഹാക്കുകൾ സുരക്ഷാ അടിസ്ഥാനങ്ങൾ ദുർബലമെന്ന് കാണിക്കുന്നു",
-  "hook": "AI ഉപകരണങ്ങൾ ലളിതമായ സുരക്ഷാ പിഴവുകൾ തേടുകയാണ്.",
-  "what": "ബ്രിട്ടന്റെ സൈബർ ഏജൻസി AI‑പ്രേരിത ഹാക്കിംഗ് ഉപകരണങ്ങൾ അടിസ്ഥാന സുരക്ഷാ ദുർബലതകൾ ഉപയോഗിക്കുന്നു എന്ന് മുന്നറിയിപ്പ് നൽകി. വർഷങ്ങളായി നിലനിന്ന ദുർബല പ്രതിരോധങ്ങൾ ഈ ആക്രമണങ്ങളിലൂടെ പുറത്ത് വരുന്നു.",
-  "why": "AI ഹാക്കിംഗ് സാധാരണമായതോടെ, അടിസ്ഥാന സുരക്ഷാ നടപടികൾ അവഗണിച്ചാൽ ഡാറ്റയ്ക്ക് അപകടം. യുവാക്കൾ അവരുടെ ഡിവൈസുകൾ അപ്ഡേറ്റ് ചെയ്യുകയും ശക്തമായ പാസ്‌വേഡുകൾ ഉപയോഗിക്കുകയും ചെയ്യണം.",
-  "tags": [
-   "AI",
-   "cybersecurity",
-   "UK",
-   "tech"
   ]
  }
 ]

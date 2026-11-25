@@ -1,5 +1,98 @@
 [
  {
+  "id": "34720b1bb374",
+  "created": "2026-11-25T09:49:36+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/after-ensuring-his-nvidia-comeback-trump-says-he-may-pardon-jensen-huang-12373243#publisher=newsstand",
+  "headline": "Trump hints at possible pardon for Nvidia CEO Jensen Huang",
+  "hook": "The tech boss behind gaming GPUs could get a presidential pardon.",
+  "what": "President Trump said he might grant a pardon to Jensen Huang, the chief executive of Nvidia. Huang is set to attend a private meeting with the House Foreign Affairs Committee on Tuesday.",
+  "why": "A pardon could influence Nvidia’s AI and gaming hardware market, affecting prices and availability for Indian gamers and tech fans. Stay alert for any policy shifts that may impact your devices.",
+  "tags": [
+   "tech",
+   "nvidia",
+   "trump",
+   "pardon",
+   "gaming"
+  ]
+ },
+ {
+  "id": "e47795913362",
+  "created": "2026-11-25T09:49:39+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/gadi-eisenkot-clinches-1st-coalition-partner-in-race-to-become-israels-pm-12373393#publisher=newsstand",
+  "headline": "Eisenkot Secures First Coalition Partner, Tasked to Form Govt",
+  "hook": "Israel's next PM race gets a new twist as Eisenkot lands a partner.",
+  "what": "Gadi Eisenkot announced that he has secured his first coalition partner in the bid to become Israel's prime minister. President Isaac Herzog has asked him to start building a government.",
+  "why": "A new government could shift regional stability and global ties, which may influence India's diplomatic and economic interests. Keep an eye on how the leadership change might affect international collaborations.",
+  "tags": [
+   "Israel",
+   "politics",
+   "coalition",
+   "global"
+  ]
+ },
+ {
+  "id": "3daf01eb2420",
+  "created": "2026-11-25T09:49:44+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-november-wed-latest-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-and-others-11795576136181.html",
+  "headline": "Gold, Silver Prices Slip Amid Global Uncertainty",
+  "hook": "Precious metal rates are falling – see what it means for you.",
+  "what": "On 25 November, gold and silver prices stayed low across Indian markets. The decline is linked to unsettled conditions in global markets.",
+  "why": "Changes in metal prices affect savings and jewelry purchases, so teens should watch trends before buying.",
+  "tags": [
+   "gold",
+   "silver",
+   "prices",
+   "markets",
+   "india"
+  ]
+ },
+ {
+  "id": "981f7daf54e0",
+  "created": "2026-11-25T09:49:46+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-women-representation-30-percent-ptijo6cqjl0",
+  "headline": "Kerala aims for 30% women in police force",
+  "hook": "New plan could boost safety and opportunities for women.",
+  "what": "The state government said it will raise female police personnel to 30% by hiring in stages. It also announced that Crime Branch jobs will be filled based on merit.",
+  "why": "More women officers can improve community policing and gender sensitivity; youngsters interested in law enforcement should watch for upcoming recruitment notifications.",
+  "tags": [
+   "Kerala",
+   "WomenInPolice",
+   "Recruitment",
+   "CrimeBranch",
+   "Jobs"
+  ]
+ },
+ {
+  "id": "919c5cbf86b7",
+  "created": "2026-11-25T09:49:48+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-ai-earbuds-expected-features-carl-pei-report-12373329",
+  "headline": "Nothing's AI Earbuds to debut Dec 8 with recording, transcription",
+  "hook": "Your next earbuds could actually take notes for you.",
+  "what": "Nothing is set to launch its Ear (note) AI earbuds on December 8. The devices will include built‑in recording and live transcription capabilities.",
+  "why": "For students and creators, the feature can help capture lectures or ideas without extra apps. Keep an eye on the release if you need hands‑free note‑taking.",
+  "tags": [
+   "Nothing",
+   "AIearbuds",
+   "TechLaunch",
+   "StudentTools"
+  ]
+ },
+ {
   "id": "7467951d2050",
   "created": "2026-11-25T08:38:43+05:30",
   "category": "entertainment",
@@ -658,100 +751,6 @@
    "vaccination",
    "health",
    "US"
-  ]
- },
- {
-  "id": "d918e35b51ae",
-  "created": "2026-11-25T02:18:39+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Investing.com",
-  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGFpTjJ1Um1FY0RHMzBZa2x5TkVWUktPWTgyempDZFA5V2xmOUFxdTU5VnNUam5SVUFJaHZ3Qk1UdVRkWnJGUTJLbS1IRmVSTV9fS25YLVVoRXJsM2J0UVFoc1BwcFBBX0xVcDREU3hpYmlfTlFYN1ZuVXlRMG5wTGY0X2VGWmdyT0Z3NlNWQ3VqbmtnTzUydDhKVk4zT3BGcEV3ZUVZcENpaDRvb3c?oc=5",
-  "headline": "Nvidia stock drops 6% as AI rally stalls",
-  "hook": "Big chip maker’s shares tumble, shaking the AI hype.",
-  "what": "Nvidia’s shares fell about 6% after a recent surge linked to CEO Jensen Huang’s return. The broader Nasdaq index also slipped around 2% as chip stocks lost momentum. US lawmakers raised questions about former President Trump’s involvement in the rally.",
-  "why": "The dip signals volatility in AI‑focused investments, reminding young investors to stay cautious and diversify. Keep an eye on tech market trends before betting heavily on any single stock.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "stockmarket",
-   "tech",
-   "investing"
-  ]
- },
- {
-  "id": "a4b3e0736d13",
-  "created": "2026-11-25T02:18:44+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "BigGo Finance",
-  "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9laWI4T3dGY29OT0xCd1l3QUlScm4tTTJXclppNnk4ZWVORjA1ajRybmZmbFd4aTUyYjhKYTFhel9yVTI0SHc0RU5zcW5IYmlDUEZMa2ZyUnFRb2VCVWx5cW44MERUV0g0S2otZ2tpQi1Yc1RzNEE?oc=5",
-  "headline": "Google's Gemini 4 Neon shines in coding, Antigravity token‑hungry",
-  "hook": "A new AI model aces code tasks but eats up your token budget.",
-  "what": "Google launched Gemini 4 Neon, which performed best in a blind test of three Gemini models on SEO questions, scoring 5 out of 6. The model also received praise for its coding abilities. Meanwhile, Google’s Antigravity tool was noted for consuming a large number of tokens during use.",
-  "why": "For students and creators using AI for projects, Neon offers strong coding help, but Antigravity may quickly deplete token limits, so manage usage wisely.",
-  "tags": [
-   "GoogleAI",
-   "GeminiNeon",
-   "Coding",
-   "AItools",
-   "Tokens"
-  ]
- },
- {
-  "id": "35f75bb42e94",
-  "created": "2026-11-25T01:15:45+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/anthropic-stock-drops-below-83-ipo-price-on-day-4-of-trading-12372365#publisher=newsstand",
-  "headline": "Anthropic shares slip below IPO price on day four",
-  "hook": "AI startup’s stock slides under its debut price.",
-  "what": "Anthropic’s shares fell below the $83 IPO price on the fourth day of trading. This is the first time the stock traded under its initial offering price.",
-  "why": "The move highlights the volatility of AI‑related stocks, so young investors should watch market trends before buying.",
-  "tags": [
-   "AI",
-   "stocks",
-   "investing",
-   "tech",
-   "market"
-  ]
- },
- {
-  "id": "ed212b34f151",
-  "created": "2026-11-25T01:15:56+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "XBOX Wire",
-  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSY2ZGWnZ4U1NoQ2w3WmE4OURKNlZqWldJdEN3amFvZUxYTWFqTXd2OHpJMks0RWdHT1R2RE14S3F5c1NfNW9xclZqN3JwalJWbThsR19tTnNvczE3b0tRa2V4TE5qdWNwVjA4TFp4anowZ9IBd0FVX3lxTE1HMUZmaThzSDBrcXJ5ODZOaHFFX0xJbklxeHpCOUpLY3loTXZwTm1aWFBYbzl6R0ZSaFJrZTY3LWJETlN2ODdHM0pNNUotWHgyS0VuYUVHVWxYaEVFTEN4eEdvd1ppVnowTG5Xcl80ZXNNNHI0WVA4?oc=5",
-  "headline": "Nioh 3 Arrives on Xbox and Switch 2 in 2027",
-  "hook": "Your favorite samurai action game finally leaves PlayStation.",
-  "what": "The action RPG Nioh 3, previously a PlayStation 5 exclusive, will launch on Xbox consoles and Nintendo Switch 2 on 28 January 2027. The Complete Edition has already been rated in South Korea.",
-  "why": "Gamers can now play the title on multiple platforms, widening access. Watch for release updates and pre‑order options.",
-  "tags": [
-   "Nioh3",
-   "Xbox",
-   "Switch2",
-   "Gaming",
-   "2027"
-  ]
- },
- {
-  "id": "cb0d7372f9a0",
-  "created": "2026-11-25T01:15:59+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-  "headline": "UK alerts: AI hacks expose weak security foundations",
-  "hook": "AI tools are now hunting for simple security gaps.",
-  "what": "Britain’s cyber agency warned that AI‑driven hacking tools are exploiting basic security flaws. The agency says years of weak defenses are being revealed by these attacks.",
-  "why": "As AI hacking becomes common, anyone’s data can be at risk if basic security steps are ignored. Young users should keep their devices updated and use strong passwords.",
-  "tags": [
-   "AI",
-   "cybersecurity",
-   "UK",
-   "tech"
   ]
  }
 ]

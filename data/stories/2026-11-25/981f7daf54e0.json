@@ -1,0 +1,37 @@
+{
+ "id": "981f7daf54e0",
+ "created": "2026-11-25T09:49:46+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-police-women-representation-30-percent-ptijo6cqjl0",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala aims for 30% women in police force",
+  "hook": "New plan could boost safety and opportunities for women.",
+  "what": "The state government said it will raise female police personnel to 30% by hiring in stages. It also announced that Crime Branch jobs will be filled based on merit.",
+  "why": "More women officers can improve community policing and gender sensitivity; youngsters interested in law enforcement should watch for upcoming recruitment notifications.",
+  "tags": [
+   "Kerala",
+   "WomenInPolice",
+   "Recruitment",
+   "CrimeBranch",
+   "Jobs"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം 30% വനിതാ പോലീസ് സേന ലക്ഷ്യമിടുന്നു",
+  "hook": "പുതിയ പദ്ധതി സുരക്ഷയും സ്ത്രീകളുടെ തൊഴിൽ അവസരങ്ങളും വർധിപ്പിക്കും",
+  "what": "സംസ്ഥാന സർക്കാർ ഘട്ടംഘട്ടമായി വനിതാ ഉദ്യോഗസ്ഥരുടെ പങ്ക് 30% വരെ ഉയർത്തുമെന്ന് പ്രഖ്യാപിച്ചു. ക്രൈം ബ്രാഞ്ച് നിയമനങ്ങൾ മർദ്ദം അടിസ്ഥാനമാക്കി നടക്കും.",
+  "why": "കൂടുതൽ വനിതാ ഉദ്യോഗസ്ഥർ സമൂഹപോലീസ് സേവനവും ലിംഗ സങ്കേതം മെച്ചപ്പെടുത്തും; നിയമം പഠിക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾ പുതിയ റിക്രൂട്ട്‌മെന്റ് അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "വനിതാപോലീസ്",
+   "നിയോഗം",
+   "ക്രൈംബ്രാഞ്ച്",
+   "ജോലികൾ"
+  ]
+ }
+}
