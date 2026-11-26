@@ -17,7 +17,18 @@ BIZ = "932757405756172"
 IG_IDS = {"en": "17841409013887055", "ml": "17841440794138461"}  # fallback ids from Business Settings
 IG_USERS = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
 PAGE_NAMES = {"en": "GenZ Pulse Hub", "ml": "GenZ Pulse Hub Malayalam"}
-SITE = {"en": "https://genzpulsehub.pages.dev", "ml": "https://genzpulsehub.pages.dev/ml"}
+def _base():
+    """Use the custom domain automatically once it is live; otherwise the always-working pages.dev."""
+    try:
+        if requests.get("https://genzpulsehub.dpdns.org/", timeout=10).status_code == 200:
+            return "https://genzpulsehub.dpdns.org"
+    except Exception:
+        pass
+    return "https://genzpulsehub.pages.dev"
+
+
+_B = _base()
+SITE = {"en": _B, "ml": _B + "/ml"}
 YT_LIVE = {"en": "https://youtube.com/@genzpulsehubnews", "ml": "https://youtube.com/@genzpulsehubmalayalam"}
 MEDIA_BASE = os.environ.get("MEDIA_BASE_URL", "").rstrip("/")
 

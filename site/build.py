@@ -9,7 +9,19 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "public")
-SITE = os.environ.get("SITE_URL", "https://genzpulsehub.pages.dev")
+def _site():
+    if os.environ.get("SITE_URL"):
+        return os.environ["SITE_URL"]
+    try:
+        import urllib.request
+        if urllib.request.urlopen("https://genzpulsehub.dpdns.org/", timeout=10).status == 200:
+            return "https://genzpulsehub.dpdns.org"
+    except Exception:
+        pass
+    return "https://genzpulsehub.pages.dev"
+
+
+SITE = _site()
 ADS_API = os.environ.get("ADS_API", "https://genzpulsehub-ads.genzpulsehub-official.workers.dev")
 YT = {"en": "UCrpJDlRnVJyC4EguHKJxHKg", "ml": "UC3dW_vEz432vsb6uqlCVHAw"}
 IG = {"en": "genzpulsehubnews", "ml": "genzpulsehubmalayalam"}
