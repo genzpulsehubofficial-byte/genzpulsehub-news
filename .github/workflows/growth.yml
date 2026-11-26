@@ -59,4 +59,5 @@ jobs:
           git add data/replied.json data/weights.json data/analytics 2>/dev/null; git diff --cached --quiet || git commit -m "growth: state"
           for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
       - if: failure()
-        run: curl -s -H "Content-Type: application/json" -d '{"content":"@everyone ⚠️ growth job failed (${{ steps.j.outputs.job }})"}' "${{ secrets.DISCORD_WEBHOOK_URL }}"
+        run: |
+          curl -s -H "Content-Type: application/json" -d '{"content":"@everyone ⚠️ growth job failed (${{ steps.j.outputs.job }})"}' "${{ secrets.DISCORD_WEBHOOK_URL }}"
