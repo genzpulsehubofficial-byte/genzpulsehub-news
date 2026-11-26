@@ -1,0 +1,43 @@
+{
+ "id": "761662e7e6c4",
+ "created": "2026-11-26T08:41:00+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/credit-card-spending-rises-20-to-2-45-lakh-crore-in-october-as-festive-shopping-boosts-consumer-demand-across-india-11795656778132.html",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Festive Season Lifts Indian Credit Card Spending",
+  "hook": "Festive shopping may mean more card swipes this year.",
+  "what": "India saw credit card use grow by nearly twenty percent from the previous month to October 2026. The total value reached ₹2.45 lakh crore. Festive shopping was reported as the main driver.",
+  "why": "For young Indians, festive periods can bring more online shopping and card use. It is a time when payment habits may shift.",
+  "tags": [
+   "creditcard",
+   "festiveshopping",
+   "onlineshopping",
+   "indiatrends",
+   "spending"
+  ]
+ },
+ "ml": {
+  "headline": "ഫെസ്റ്റീവ് ഷോപ്പിംഗ് കാർഡ് ചെലവുകളുടെ വർദ്ധന",
+  "hook": "ഫെസ്റ്റീവ് ഷോപ്പിംഗ് മൂലം കാർഡ് ഇടപാടുകൾ കൂടുന്നു.",
+  "what": "ഇന്ത്യയിൽ ക്രെഡിറ്റ് കാർഡ് ചെലവുകൾ ഏകദേശം ഇരുപത് ശതമാനം വർധിച്ചു. ഒക്ടോബർ ഇരുപത്തി ആറു-ൽ ആകെ രണ്ട് പോയിന്റ് നാല് അഞ്ച് ലക്ഷം കോടി രൂപ. ഫെസ്റ്റീവ് ഷോപ്പിംഗ് ഇതിന്റെ പ്രധാന കാരണം.",
+  "why": "യുവാക്കൾ ഫെസ്റ്റീവ് കാലത്ത് കൂടുതൽ ഓൺലൈൻ ഷോപ്പിംഗ് ചെയ്യാൻ സാധ്യതയുണ്ട്, അതിനാൽ കാർഡ് ഉപയോഗത്തിന്റെ സ്വഭാവം മാറാം.",
+  "tags": [
+   "ക്രെഡിറ്റ്",
+   "ഫസ്റ്റീ",
+   "ഓൺലൈൻ"
+  ],
+  "say": "ഫെസ്റ്റീവ് ഷോപ്പിംഗ് മൂലം കാർഡ് ഇടപാടുകൾ കൂടുന്നു. ഇന്ത്യയിൽ ക്രെഡിറ്റ് കാർഡ് ചെലവുകൾ ഏകദേശം ഇരുപത് ശതമാനം വർധിച്ചു. ഒക്ടോബർ ഇരുപത്തി ആറു-ൽ ആകെ രണ്ട് പോയിന്റ് നാല് അഞ്ച് ലക്ഷം കോടി രൂപ. ഫെസ്റ്റീവ് ഷോപ്പിംഗ് ഇതിന്റെ പ്രധാന കാരണം. യുവാക്കൾ ഫെസ്റ്റീവ് കാലത്ത് കൂടുതൽ ഓൺലൈൻ ഷോപ്പിംഗ് ചെയ്യാൻ സാധ്യതയുണ്ട്, അതിനാൽ കാർഡ് ഉപയോഗത്തിന്റെ സ്വഭാവം മാറാം.",
+  "tags_en": [
+   "creditcard",
+   "festiveshopping",
+   "onlineshopping",
+   "indiatrends",
+   "spending"
+  ]
+ }
+}

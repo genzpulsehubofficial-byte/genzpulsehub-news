@@ -1,0 +1,45 @@
+{
+ "id": "8de0365aaab9",
+ "created": "2026-11-26T08:38:27+05:30",
+ "category": "money",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/sadya-and-biryani-to-cost-more-in-keralam-as-catering-associations-prepare-to-raise-rates-thwkrgro",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Catering rates to jump up to 20% from Christmas",
+  "hook": "Your favorite sadya and biryani could cost more soon",
+  "what": "Catering associations say rising costs of rice, vegetables, oil, gas, wages and transport will push rates up by as much as 20% starting Christmas. The increase will affect the price of sadya and biryani in Kerala.",
+  "why": "Higher food prices will hit young budgets; plan your meals and spending ahead of the hike.",
+  "tags": [
+   "foodprices",
+   "kerala",
+   "catering",
+   "sadya",
+   "biryani"
+  ]
+ },
+ "ml": {
+  "headline": "ക്രിസ്മസിൽ കേറ്ററിംഗ് നിരക്ക് ഇരുപത് ശതമാനം വരെ ഉയരും",
+  "hook": "നിങ്ങളുടെ സദ്യയും ബിരിയാണിയും ഇനി കൂടുതൽ ചെലവാകും",
+  "what": "കേറ്ററിംഗ് അസോസിയേഷനുകൾ അരി, പച്ചക്കറി, എണ്ണ, ഗ്യാസ്, വേതനം, ഗതാഗതം എന്നിവയുടെ ചെലവ് വർധിച്ചതിനാൽ ക്രിസ്മസിൽ നിരക്കുകൾ ഇരുപത് ശതമാനം വരെ ഉയർത്താൻ പദ്ധതിയിടുന്നു. ഇതോടെ സദ്യയും ബിരിയാണി വിലയും കൂടും.",
+  "why": "വിലവർധനം യുവജനങ്ങളുടെ ഭക്ഷണ ബജറ്റ് ബാധിക്കും; മുൻകൂട്ടി പ്ലാൻ ചെയ്ത് ബജറ്റ് ക്രമീകരിക്കുക.",
+  "tags": [
+   "ഭക്ഷ്യവില",
+   "കേരളം",
+   "catering",
+   "sadya",
+   "biryani"
+  ],
+  "say": "നിങ്ങളുടെ സദ്യയും ബിരിയാണിയും ഇനി കൂടുതൽ ചെലവാകും. കേറ്ററിംഗ് അസോസിയേഷനുകൾ അരി, പച്ചക്കറി, എണ്ണ, ഗ്യാസ്, വേതനം, ഗതാഗതം എന്നിവയുടെ ചെലവ് വർധിച്ചതിനാൽ ക്രിസ്മസിൽ നിരക്കുകൾ ഇരുപത് ശതമാനം വരെ ഉയർത്താൻ പദ്ധതിയിടുന്നു. ഇതോടെ സദ്യയും ബിരിയാണി വിലയും കൂടും. വിലവർധനം യുവജനങ്ങളുടെ ഭക്ഷണ ബജറ്റ് ബാധിക്കും; മുൻകൂട്ടി പ്ലാൻ ചെയ്ത് ബജറ്റ് ക്രമീകരിക്കുക.",
+  "tags_en": [
+   "foodprices",
+   "kerala",
+   "catering",
+   "sadya",
+   "biryani"
+  ]
+ }
+}

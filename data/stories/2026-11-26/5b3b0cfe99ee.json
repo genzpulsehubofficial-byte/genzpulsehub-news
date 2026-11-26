@@ -1,0 +1,45 @@
+{
+ "id": "5b3b0cfe99ee",
+ "created": "2026-11-26T08:41:12+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-fitment-factors-of-2-92-3-61-3-833-and-4-may-lift-basic-pay-see-salary-calculations-for-employees-11795653430229.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "8th Pay Commission eyes higher fitment factors, could boost basic pay",
+  "hook": "New multiplier range may raise salaries for many government workers.",
+  "what": "The commission is reviewing union suggestions for fitment factors between 2.92 and 4. No final multiplier has been announced yet. Projections show these ranges could increase basic salaries compared to the 7th Pay Commission levels.",
+  "why": "Higher basic pay can affect take‑home income for young professionals in the public sector, so stay updated on the final figures.",
+  "tags": [
+   "paycommission",
+   "salaryrise",
+   "governmentjobs",
+   "youngprofessionals",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "എട്ടാം പേ കമ്മീഷന്‍ ഉയർന്ന ഫിറ്റ്‌മെന്റ് ഫാക്ടറുകള്‍ പരിഗണിക്കുന്നു, അടിസ്ഥാന ശമ്പളം വര്‍ദ്ധിക്കാം",
+  "hook": "പുതിയ മള്‍ട്ടിപ്ലയര്‍ പരിധി സര്‍ക്കാര്‍ ജീവനക്കാരുടെ വേതനം ഉയര്‍ത്താം.",
+  "what": "കമ്മീഷന്‍ യൂണിയന്‍ നിര്‍ദ്ദേശിച്ച രണ്ട് പോയിന്റ് തൊണ്ണൂറ്റി ഇരുപത് മുതല്‍ നാല് വരെ ഫിറ്റ്‌മെന്റ് ഫാക്ടറുകള്‍ പരിശോധിക്കുന്നു. അന്തിമ മള്‍ട്ടിപ്ലയര്‍ ഇതുവരെ പ്രഖ്യാപിച്ചിട്ടില്ല. ഈ പരിധികള്‍ ഏഴാം പേ കമ്മീഷന്‍ അടിസ്ഥാന ശമ്പളത്തേക്കാള്‍ ഉയര്‍ന്നതാക്കാം.",
+  "why": "അടിസ്ഥാന ശമ്പള വര്‍ദ്ധന യുവ സര്‍ക്കാര്‍ ജീവനക്കാരുടെ കൈവശം വരുന്ന വരുമാനത്തെ ബാധിക്കും, അതിനാല്‍ അന്തിമ തീരുമാനത്തെക്കുറിച്ച് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "പേകമ്മീഷന്‍",
+   "വേതനവര്‍ദ്ധന",
+   "സര്‍ക്കാരുജോലികള്‍",
+   "യുവപ്രൊഫഷണല്‍സ്",
+   "ഇന്ത്യ"
+  ],
+  "say": "പുതിയ മള്‍ട്ടിപ്ലയര്‍ പരിധി സര്‍ക്കാര്‍ ജീവനക്കാരുടെ വേതനം ഉയര്‍ത്താം. കമ്മീഷന്‍ യൂണിയന്‍ നിര്‍ദ്ദേശിച്ച രണ്ട് പോയിന്റ് തൊണ്ണൂറ്റി ഇരുപത് മുതല്‍ നാല് വരെ ഫിറ്റ്‌മെന്റ് ഫാക്ടറുകള്‍ പരിശോധിക്കുന്നു. അന്തിമ മള്‍ട്ടിപ്ലയര്‍ ഇതുവരെ പ്രഖ്യാപിച്ചിട്ടില്ല. ഈ പരിധികള്‍ ഏഴാം പേ കമ്മീഷന്‍ അടിസ്ഥാന ശമ്പളത്തേക്കാള്‍ ഉയര്‍ന്നതാക്കാം. അടിസ്ഥാന ശമ്പള വര്‍ദ്ധന യുവ സര്‍ക്കാര്‍ ജീവനക്കാരുടെ കൈവശം വരുന്ന വരുമാനത്തെ ബാധിക്കും, അതിനാല്‍ അന്തിമ തീരുമാനത്തെക്കുറിച്ച് ശ്രദ്ധിക്കണം.",
+  "tags_en": [
+   "paycommission",
+   "salaryrise",
+   "governmentjobs",
+   "youngprofessionals",
+   "india"
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "7f241ec33c33",
+ "created": "2026-11-26T08:38:22+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/eci-asks-states-uts-to-rectify-electoral-rolls-during-ssr-101795635137105.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "ECI orders states to verify voter details in roll update",
+  "hook": "Your name on the voter list could be double‑checked soon",
+  "what": "The Election Commission sent a letter to chief electoral officers across states and union territories. It tells them to match names, relationship info, birth dates, mobile numbers and photos with the data collected in the recent SIR.",
+  "why": "Accurate rolls prevent voting errors and ensure every young voter’s voice counts. Check your own details on the official portal.",
+  "tags": [
+   "election",
+   "voterlist",
+   "youth",
+   "india",
+   "civic"
+  ]
+ },
+ "ml": {
+  "headline": "ഇസി‌ഐ സംസ്ഥാനങ്ങളോട് വോട്ടര്‍ വിവരങ്ങള്‍ പരിശോധിക്കാന്‍ നിര്‍ദേശം",
+  "hook": "നിങ്ങളുടെ പേര് വോട്ടര്‍ പട്ടികയില്‍ ശരിയായി ഉണ്ടോ എന്ന് പരിശോധിക്കാം",
+  "what": "തിരഞ്ഞെടുപ്പ് കമ്മീഷന്‍ സംസ്ഥാനങ്ങളുടെയും യൂണിയന്‍ പ്രദേശങ്ങളുടെയും ചീഫ് ഇലക്ടോറല്‍ ഓഫീസര്‍മാര്‍ക്ക് ഒരു കത്ത് അയച്ചു. അതില്‍ പേരുകള്‍, ബന്ധം, ജനനത്തീയതി, മൊബൈല്‍ നമ്പര്‍, ഫോട്ടോ എന്നിവയെ എസ്‌ഐആര്‍-ല്‍ ശേഖരിച്ച വിവരങ്ങളുമായി താരതമ്യം ചെയ്യണമെന്ന് ആവശ്യപ്പെട്ടു.",
+  "why": "ശുദ്ധമായ വോട്ടര്‍ പട്ടിക തെറ്റായ വോട്ടിംഗ് തടയും, യുവജനങ്ങളുടെ തിരഞ്ഞെടുപ്പ് അവകാശം ഉറപ്പാക്കും. നിങ്ങളുടെ വിവരങ്ങള്‍ ഔദ്യോഗിക സൈറ്റില്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "തിരഞ്ഞെടുപ്പ്",
+   "വോട്ടർപട്ടിക",
+   "യുവജനങ്ങൾ",
+   "ഇന്ത്യ",
+   "പൗരത്വം"
+  ],
+  "say": "നിങ്ങളുടെ പേര് വോട്ടര്‍ പട്ടികയില്‍ ശരിയായി ഉണ്ടോ എന്ന് പരിശോധിക്കാം. തിരഞ്ഞെടുപ്പ് കമ്മീഷന്‍ സംസ്ഥാനങ്ങളുടെയും യൂണിയന്‍ പ്രദേശങ്ങളുടെയും ചീഫ് ഇലക്ടോറല്‍ ഓഫീസര്‍മാര്‍ക്ക് ഒരു കത്ത് അയച്ചു. അതില്‍ പേരുകള്‍, ബന്ധം, ജനനത്തീയതി, മൊബൈല്‍ നമ്പര്‍, ഫോട്ടോ എന്നിവയെ എസ്‌ഐആര്‍-ല്‍ ശേഖരിച്ച വിവരങ്ങളുമായി താരതമ്യം ചെയ്യണമെന്ന് ആവശ്യപ്പെട്ടു. ശുദ്ധമായ വോട്ടര്‍ പട്ടിക തെറ്റായ വോട്ടിംഗ് തടയും, യുവജനങ്ങളുടെ തിരഞ്ഞെടുപ്പ് അവകാശം ഉറപ്പാക്കും. നിങ്ങളുടെ വിവരങ്ങള്‍ ഔദ്യോഗിക സൈറ്റില്‍ പരിശോധിക്കുക.",
+  "tags_en": [
+   "election",
+   "voterlist",
+   "youth",
+   "india",
+   "civic"
+  ]
+ }
+}

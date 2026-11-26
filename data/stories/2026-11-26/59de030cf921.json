@@ -1,0 +1,45 @@
+{
+ "id": "59de030cf921",
+ "created": "2026-11-26T08:38:32+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/lajja-gauri-idol-to-tagore-painting-yuge-yugeen-museum-takes-shape-101795654050096.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "New themed gallery opens as first of seven at museum",
+  "hook": "A fresh space showcasing art from Lajja Gauri to Tagore",
+  "what": "The Yuge Yugeen museum has launched its first themed gallery. It is part of a plan for seven galleries across the North and South Blocks.",
+  "why": "Young visitors can explore diverse Indian art in a modern setting, and the museum will eventually hold about 1.8 m objects, offering plenty to discover.",
+  "tags": [
+   "culture",
+   "museum",
+   "art",
+   "youth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "Yuge Yugeen മ്യൂസിയത്തില്‍ ആദ്യ തീമാറ്റിക് ഗാലറി തുറന്നു",
+  "hook": "ലാജ്ജാ ഗൗരി മുതൽ ടാഗോർ വരെ കലാസൃഷ്ടികൾ ഇവിടെ",
+  "what": "Yuge Yugeen മ്യൂസിയം ആദ്യ തീമാറ്റിക് ഗാലറി തുറന്നു. ഇത് നോർത്ത്, സൗത്ത് ബ്ലോക്ക്സ്-ല്‍ ആകെ ഏഴ് ഗാലറികളുടെ പദ്ധതിയുടെ ഭാഗമാണ്.",
+  "why": "യുവജനങ്ങൾക്ക് ആധുനിക പരിസരത്തിൽ ഇന്ത്യൻ കലാ ചരിത്രം കണ്ടെത്താൻ അവസരം, ഭാവിയിൽ ഒന്ന് പോയിന്റ് എട്ട് മീറ്റർ വസ്തുക്കൾ പ്രദർശിപ്പിക്കും.",
+  "tags": [
+   "culture",
+   "museum",
+   "art",
+   "youth",
+   "India"
+  ],
+  "say": "ലാജ്ജാ ഗൗരി മുതൽ ടാഗോർ വരെ കലാസൃഷ്ടികൾ ഇവിടെ. Yuge Yugeen മ്യൂസിയം ആദ്യ തീമാറ്റിക് ഗാലറി തുറന്നു. ഇത് നോർത്ത്, സൗത്ത് ബ്ലോക്ക്സ്-ല്‍ ആകെ ഏഴ് ഗാലറികളുടെ പദ്ധതിയുടെ ഭാഗമാണ്. യുവജനങ്ങൾക്ക് ആധുനിക പരിസരത്തിൽ ഇന്ത്യൻ കലാ ചരിത്രം കണ്ടെത്താൻ അവസരം, ഭാവിയിൽ ഒന്ന് പോയിന്റ് എട്ട് മീറ്റർ വസ്തുക്കൾ പ്രദർശിപ്പിക്കും.",
+  "tags_en": [
+   "culture",
+   "museum",
+   "art",
+   "youth",
+   "India"
+  ]
+ }
+}

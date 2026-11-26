@@ -1,0 +1,45 @@
+{
+ "id": "a3e51309cb54",
+ "created": "2026-11-26T08:41:06+05:30",
+ "category": "health",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/india/75-lakh-fake-face-creams-sold-monthly-worldwide-as-unregistered-brands-flood-india-via-gulf-nljoqe1i",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "75 lakh fake face creams flood India each month",
+  "hook": "Unregistered Pakistani creams are reaching Indian shelves via the Gulf.",
+  "what": "Around 75 lakh packets of Pakistani-made face creams, labelled in Arabic, are sold every month. Brands such as Faiza and Goree, which are not registered, enter the market through Gulf routes. Kerala authorities have recorded only a few seizures.",
+  "why": "Young consumers may unknowingly use untested products that could harm skin, so they should check product registration before buying.",
+  "tags": [
+   "fakeCosmetics",
+   "consumerSafety",
+   "India",
+   "Gulf",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "മാസംതോറും എഴുപത്തിഐഞ്ചു ലക്ഷം നകലി ഫേസ് ക്രീം ഇന്ത്യയിൽ",
+  "hook": "അറബിക് ലേബലുള്ള, രജിസ്ട്രേഷൻ ഇല്ലാത്ത പാക്കിസ്ഥാനി ക്രീമുകൾ ഗൾഫ് വഴി എത്തുന്നു.",
+  "what": "ഏകദേശം എഴുപത്തിഐഞ്ചു ലക്ഷം പാക്കിസ്ഥാനി നിർമ്മിത ഫേസ് ക്രീം പാക്കറ്റുകൾ മാസത്തിൽ വിറ്റഴിക്കുന്നു. ഫൈസാ, ഗോറി പോലുള്ള രജിസ്ട്രേഷൻ ഇല്ലാത്ത ബ്രാൻഡുകൾ ഗൾഫ് വഴി രാജ്യത്തേക്ക് കടക്കുന്നു. കേരളത്തിൽ പിടിച്ചെടുക്കലുകൾ കുറവാണ്.",
+  "why": "ഇവ പരിശോധിക്കാത്ത ഉൽപ്പന്നങ്ങൾ ത്വക്കിന് ഹാനികരമാകാം, അതിനാൽ വാങ്ങുന്നതിന് മുമ്പ് രജിസ്ട്രേഷൻ പരിശോധിക്കുക.",
+  "tags": [
+   "നകലി കോസ്മെറ്റിക്സ്",
+   "ഉപഭോക്തൃ സുരക്ഷ",
+   "ഇന്ത്യ",
+   "ഗൾഫ്",
+   "കേരളം"
+  ],
+  "say": "അറബിക് ലേബലുള്ള, രജിസ്ട്രേഷൻ ഇല്ലാത്ത പാക്കിസ്ഥാനി ക്രീമുകൾ ഗൾഫ് വഴി എത്തുന്നു. ഏകദേശം എഴുപത്തിഐഞ്ചു ലക്ഷം പാക്കിസ്ഥാനി നിർമ്മിത ഫേസ് ക്രീം പാക്കറ്റുകൾ മാസത്തിൽ വിറ്റഴിക്കുന്നു. ഫൈസാ, ഗോറി പോലുള്ള രജിസ്ട്രേഷൻ ഇല്ലാത്ത ബ്രാൻഡുകൾ ഗൾഫ് വഴി രാജ്യത്തേക്ക് കടക്കുന്നു, കേരളത്തിൽ പിടിച്ചെടുക്കലുകൾ കുറവാണ്. ഇവ പരിശോധിക്കാത്ത ഉൽപ്പന്നങ്ങൾ ത്വക്കിന് ഹാനികരമാകാം, അതിനാൽ വാങ്ങുന്നതിന് മുമ്പ് രജിസ്ട്രേഷൻ പരിശോധിക്കുക.",
+  "tags_en": [
+   "fakeCosmetics",
+   "consumerSafety",
+   "India",
+   "Gulf",
+   "Kerala"
+  ]
+ }
+}
