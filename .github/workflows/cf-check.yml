@@ -1,0 +1,12 @@
+name: cf-check
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - env: {T: "${{ secrets.CLOUDFLARE_API_TOKEN }}", A: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}"}
+        run: |
+          H="Authorization: Bearer $T"
+          curl -s -H "$H" "https://api.cloudflare.com/client/v4/zones?name=genzpulsehub.dpdns.org" | python3 -c "import sys,json;d=json.load(sys.stdin);print('zone',[(z['id'],z['status'],z['name_servers'],z['account']['name']) for z in d.get('result',[])],d.get('errors'))"
+          curl -s -H "$H" "https://api.cloudflare.com/client/v4/accounts/$A/pages/projects/genzpulsehub/domains" | python3 -c "import sys,json;d=json.load(sys.stdin);print('pages domains',[(x['name'],x['status'],x.get('verification_data',{}).get('error_message')) for x in d.get('result',[])],d.get('errors'))"
+          dig +short NS dpdns.org genzpulsehub.dpdns.org; dig +short NS genzpulsehub.dpdns.org @8.8.8.8; dig +short genzpulsehub.dpdns.org @1.1.1.1
