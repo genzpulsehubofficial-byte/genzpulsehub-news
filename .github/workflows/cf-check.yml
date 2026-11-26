@@ -10,3 +10,6 @@ jobs:
           curl -s -H "$H" "https://api.cloudflare.com/client/v4/zones?name=genzpulsehub.dpdns.org" | python3 -c "import sys,json;d=json.load(sys.stdin);print('zone',[(z['id'],z['status'],z['name_servers'],z['account']['name']) for z in d.get('result',[])],d.get('errors'))"
           curl -s -H "$H" "https://api.cloudflare.com/client/v4/accounts/$A/pages/projects/genzpulsehub/domains" | python3 -c "import sys,json;d=json.load(sys.stdin);print('pages domains',[(x['name'],x['status'],x.get('verification_data',{}).get('error_message')) for x in d.get('result',[])],d.get('errors'))"
           dig +short NS dpdns.org genzpulsehub.dpdns.org; dig +short NS genzpulsehub.dpdns.org @8.8.8.8; dig +short genzpulsehub.dpdns.org @1.1.1.1
+          Z=78e2e0f3dc792d7f5b4d34f84271b8cb
+          echo "activation: $(curl -s -X PUT -H "$H" https://api.cloudflare.com/client/v4/zones/$Z/activation_check | head -c 200)"
+          echo "pages retry: $(curl -s -X PATCH -H "$H" -H 'Content-Type: application/json' -d '{}' https://api.cloudflare.com/client/v4/accounts/$A/pages/projects/genzpulsehub/domains/genzpulsehub.dpdns.org | head -c 300)"
