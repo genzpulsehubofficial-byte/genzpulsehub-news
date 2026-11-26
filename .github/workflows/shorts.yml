@@ -3,10 +3,7 @@ name: shorts
 on:
   schedule:
     # 4 Shorts/Reels per language per day (IST 8:30, 12:30, 17:30, 20:30)
-    - cron: "0 3 * * *"
-    - cron: "0 7 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 15 * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -62,5 +59,5 @@ jobs:
       - name: Save posted log
         run: |
           git config user.name "genzpulsehub-bot"; git config user.email "genzpulsehub.official@gmail.com"
-          git add data/posted.json 2>/dev/null; git diff --cached --quiet || git commit -m "shorts: posted log"
+          git add data/posted.json data/ramp.json 2>/dev/null; git diff --cached --quiet || git commit -m "shorts: posted log"
           git pull --rebase -q || true; git push -q || true

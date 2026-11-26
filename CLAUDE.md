@@ -67,6 +67,8 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 
 - 2026-11-25: Mumbai free ARM capacity full. GitHub workflow `oracle-server` (oci-grab.yml) retries every 10 min with secret OCI_CONFIG (API key rotated after accidental chat paste), pings Discord when created. Then run stream/set_keys.sh in Cloud Shell for stream keys.
 
+- 2026-11-26: Posting pace engine (shorts/publish.py + data/ramp.json): runs every 30 min; IG/FB cap starts 30/day per account, +5/day to 95, steps down 30% + 6h pause on any platform-limit error; YouTube 3/channel/day, 4h apart (free quota). Malayalam quality gate in pipeline (ml_ok). Pixabay footage (Pexels paused new keys). Live engine = TV-style 16:9 with footage + mascot; Facebook live auto-starts via API once Pages are 60 days old + 100 followers (FB rule).
+
 ## For a future Claude session (start here)
 The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
 - Repo is the single source of truth. Read this file, then `git log -20`.

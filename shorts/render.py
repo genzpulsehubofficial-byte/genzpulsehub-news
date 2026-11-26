@@ -4,6 +4,7 @@ Usage: python shorts/render.py  -> renders the best unposted stories into out/sh
 """
 import asyncio
 import json
+import time
 import os
 import subprocess
 import sys
@@ -26,7 +27,25 @@ COLOR = {"headlines": "#ff3cac", "jobs": "#ffd60a", "money": "#2ee59d", "tech": 
 CTA = {"en": ("Watch more on YouTube", "Full story: genzpulsehub.pages.dev"),
        "ml": ("കൂടുതൽ YouTube-ൽ കാണുക", "മുഴുവൻ വാർത്ത: genzpulsehub.pages.dev/ml")}
 WHY = {"en": "WHY IT MATTERS TO YOU", "ml": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും"}
-PER_RUN = int(os.environ.get("SHORTS_PER_RUN", "1"))
+def _per_run():
+    """How many to render per language this run: enough to reach the daily cap with runs every 30 min."""
+    if os.environ.get("SHORTS_PER_RUN"):
+        return int(os.environ["SHORTS_PER_RUN"])
+    try:
+        r = json.load(open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "ramp.json")))
+        cap, done = r.get("cap", 30), max((v.get("instagram", 0) for v in r.get("counts", {}).values()), default=0)
+        if r.get("day") != time.strftime("%Y-%m-%d"):
+            done = 0
+        left = max(0, cap - done)
+        import datetime
+        h = datetime.datetime.utcnow().hour + 5.5
+        runs_left = max(1, int((24 - (h % 24)) * 2))
+        return max(1, min(3, -(-left // runs_left)))
+    except Exception:
+        return 1
+
+
+PER_RUN = _per_run()
 
 
 def font(lang, size, bold=True):

@@ -194,6 +194,48 @@ def facebook(lang, s, path):
     return "fb:" + vid
 
 
+# ---------- pacing: post as much as each platform safely allows, ramping up daily ----------
+RAMP_P = os.path.join(DATA, "ramp.json")
+YT_PER_CHANNEL_DAY = 3          # free YouTube quota ~6 uploads/day shared by both channels
+YT_GAP_H = 4
+BLOCK_WORDS = ("limit", "block", "spam", "too many", "rate", "restricted", "temporarily")
+
+
+def load_ramp():
+    today = time.strftime("%Y-%m-%d")
+    r = json.load(open(RAMP_P)) if os.path.exists(RAMP_P) else {"cap": 30, "day": today, "counts": {}, "pause": {},
+                                                                  "blocked_today": False, "last_yt": {}}
+    if r.get("day") != today:                      # new day: ramp up unless something got blocked
+        old = r.get("cap", 30)
+        r["cap"] = max(15, int(old * 0.7)) if r.get("blocked_today") else min(95, old + 5)
+        if r["cap"] != old:
+            discord(f"📈 Reels/Shorts daily cap per Instagram/Facebook account: {old} → {r['cap']}"
+                    + (" (stepped down after a platform limit)" if r.get("blocked_today") else ""))
+        r.update(day=today, counts={}, blocked_today=False)
+    return r
+
+
+def allowed(r, lang, plat):
+    if time.time() < r.get("pause", {}).get(f"{lang}:{plat}", 0):
+        return False
+    n = r["counts"].get(lang, {}).get(plat, 0)
+    if plat == "youtube":
+        last = r.get("last_yt", {}).get(lang, 0)
+        return n < YT_PER_CHANNEL_DAY and time.time() - last > YT_GAP_H * 3600
+    return n < min(r["cap"], 95)
+
+
+def note(r, lang, plat, result):
+    if str(result).startswith(("https://", "ig:", "fb:")):
+        r["counts"].setdefault(lang, {})[plat] = r["counts"].get(lang, {}).get(plat, 0) + 1
+        if plat == "youtube":
+            r.setdefault("last_yt", {})[lang] = time.time()
+    elif str(result).startswith("error") and any(w in str(result).lower() for w in BLOCK_WORDS):
+        r["blocked_today"] = True
+        r.setdefault("pause", {})[f"{lang}:{plat}"] = time.time() + 6 * 3600
+        discord(f"🛑 {plat} ({lang}) hit a platform limit; pausing it 6h and lowering tomorrow's cap.")
+
+
 def main():
     print("media base set:", bool(MEDIA_BASE), "| meta token set:", bool(env("META_TOKEN")))
     made_p = os.path.join(OUT, "made.json")
@@ -202,16 +244,21 @@ def main():
     made = json.load(open(made_p))
     posted_p = os.path.join(DATA, "posted.json")
     posted = json.load(open(posted_p)) if os.path.exists(posted_p) else {}
+    ramp = load_ramp()
     for m in made:
         lang, s, path = m["lang"], m["story"], m["path"]
         res = {}
         for name, fn in (("youtube", lambda: youtube(lang, s, path)), ("instagram", lambda: instagram(lang, s, path)),
                          ("facebook", lambda: facebook(lang, s, path))):
+            if not allowed(ramp, lang, name):
+                res[name] = "skipped (daily cap/pause)"; continue
             try:
                 res[name] = fn()
             except Exception as e:
                 res[name] = f"error: {str(e)[:200]}"
-                discord(f"⚠️ {name} post failed ({lang}): {str(e)[:200]}")
+                if not any(w in str(e).lower() for w in BLOCK_WORDS):
+                    discord(f"⚠️ {name} post failed ({lang}): {str(e)[:200]}")
+            note(ramp, lang, name, res[name])
         if any(str(v).startswith(("https://", "ig:", "fb:")) for v in res.values()):
             posted.setdefault(lang, {})[s["id"]] = {"at": time.strftime("%Y-%m-%d %H:%M"), **res}
         print(lang, s["id"], json.dumps(res))
@@ -219,6 +266,7 @@ def main():
     for lang in posted:
         posted[lang] = dict(list(posted[lang].items())[-300:])
     json.dump(posted, open(posted_p, "w"), ensure_ascii=False, indent=1)
+    json.dump(ramp, open(RAMP_P, "w"), indent=1)
 
 
 if __name__ == "__main__":
