@@ -71,6 +71,18 @@
    "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
    "instagram": "ig:18057721619817074",
    "facebook": "fb:3340690122797071"
+  },
+  "85c218e7067d": {
+   "at": "2026-11-26 04:44",
+   "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
+   "instagram": "ig:18139986481636551",
+   "facebook": "fb:2257599215152327"
+  },
+  "dc5689491809": {
+   "at": "2026-11-26 04:45",
+   "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1645979483876100"
   }
  },
  "ml": {
@@ -145,6 +157,18 @@
    "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
    "instagram": "ig:18113257925089135",
    "facebook": "fb:1143153281692506"
+  },
+  "c17b6638aa88": {
+   "at": "2026-11-26 04:45",
+   "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
+   "instagram": "ig:18392175346227004",
+   "facebook": "fb:1587885679762195"
+  },
+  "85c218e7067d": {
+   "at": "2026-11-26 04:46",
+   "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
+   "instagram": "ig:18377323258208583",
+   "facebook": "fb:1167559119509627"
   }
  }
 }
