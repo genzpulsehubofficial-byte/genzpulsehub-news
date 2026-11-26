@@ -1,0 +1,46 @@
+{
+ "id": "3dd6593d973e",
+ "created": "2026-11-27T05:18:38+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Two Italians die in Kuwait drone strike, Iran denies involvement",
+  "hook": "A deadly drone hit Kuwait, sparking a diplomatic flare‑up.",
+  "what": "A drone attack in Kuwait killed two Italian nationals. Italy and Kuwait confirmed the fatalities and blamed Iran. Tehran has rejected the accusation.",
+  "why": "Rising tensions could affect regional stability and travel safety. Stay updated with advisories and news.",
+  "tags": [
+   "Kuwait",
+   "Italy",
+   "drone",
+   "Iran",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "കുവൈറ്റിലെ ഡ്രോൺ ആക്രമണത്തിൽ രണ്ട് ഇറ്റാലിയൻ മരണം, ഇറാൻ നിരാകരിച്ചു",
+  "hook": "ഡ്രോൺ ആക്രമണം കുവൈറ്റിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാരെ കൊല്ലുകയും, ഇറാൻ കുറ്റം നിഷേധിച്ചു.",
+  "what": "കുവൈറ്റിൽ ഒരു ഡ്രോൺ ആക്രമണം നടന്നു, അതിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാർ മരിച്ചു. ഇറ്റലിയും കുവൈറ്റും ഈ സംഭവത്തെ ഇറാനോട് ബന്ധിപ്പിച്ചു, എന്നാൽ ഇറാൻ ഈ ആരോപണം നിരാകരിച്ചു.",
+  "why": "ഇറാൻ-പശ്ചാത്തലത്തിലുള്ള ഈ സംഘർഷം പ്രദേശിക സുരക്ഷയെ ബാധിക്കാം; യാത്രാ നിർദ്ദേശങ്ങളും വാർത്തകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കുവൈറ്റ്",
+   "ഇറ്റലി",
+   "ഡ്രോൺ",
+   "ഇറാൻ",
+   "വാർത്ത"
+  ],
+  "say": "ഡ്രോൺ ആക്രമണം കുവൈറ്റിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാരെ കൊല്ലുകയും, ഇറാൻ കുറ്റം നിഷേധിച്ചു. കുവൈറ്റിൽ ഒരു ഡ്രോൺ ആക്രമണം നടന്നു, അതിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാർ ചെയ്തു. ഇറ്റലിയും കുവൈറ്റും ഈ സംഭവത്തെ ഇറാനോട് ബന്ധിപ്പിച്ചു, എന്നാൽ ഇറാൻ ഈ ആരോപണം നിരാകരിച്ചു. ഇറാൻ-പശ്ചാത്തലത്തിലുള്ള ഈ സംഘർഷം പ്രദേശിക സുരക്ഷയെ ബാധിക്കാം; യാത്രാ നിർദ്ദേശങ്ങളും വാർത്തകളും ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Kuwait",
+   "Italy",
+   "drone",
+   "Iran",
+   "news"
+  ]
+ }
+}

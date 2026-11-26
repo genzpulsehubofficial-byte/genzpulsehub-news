@@ -1,5 +1,81 @@
 [
  {
+  "id": "3dd6593d973e",
+  "created": "2026-11-27T05:18:38+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
+  "headline": "Two Italians die in Kuwait drone strike, Iran denies involvement",
+  "hook": "A deadly drone hit Kuwait, sparking a diplomatic flare‑up.",
+  "what": "A drone attack in Kuwait killed two Italian nationals. Italy and Kuwait confirmed the fatalities and blamed Iran. Tehran has rejected the accusation.",
+  "why": "Rising tensions could affect regional stability and travel safety. Stay updated with advisories and news.",
+  "tags": [
+   "Kuwait",
+   "Italy",
+   "drone",
+   "Iran",
+   "news"
+  ]
+ },
+ {
+  "id": "2326ea0d314f",
+  "created": "2026-11-27T05:18:43+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/delhi-government-to-open-kejriwal-s-sheesh-mahal-for-public-visits-tickets-likely-at-rs-20-101795733582678.html",
+  "headline": "Delhi to let public tour Kejriwal’s former ‘Sheesh Mahal’",
+  "hook": "Your next weekend outing could be inside a former chief minister’s house.",
+  "what": "The Delhi administration announced that the former residence of Arvind Kejriwal, called ‘Sheesh Mahal’, will be opened for media first, then for visitors. Access will be managed through a ticket system, with tickets expected to cost around ₹20.",
+  "why": "It offers a chance to see a political landmark at a low price, so students can plan a quick visit if interested.",
+  "tags": [
+   "Delhi",
+   "SheeshMahal",
+   "Ticket",
+   "Visit",
+   "Youth"
+  ]
+ },
+ {
+  "id": "6725a987a5ef",
+  "created": "2026-11-27T05:18:50+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Mashable",
+  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNTVCUVNOZl9JOXprbE50NnlyMGU0ekZqODdIWHhFSU1lRlNIcFJfUzF6UFF4elhDeTh1eUQ1Njd4YTg1cno4MnctZmdvYmhuSzI4UGNsOHVWMEc4Rk9PUnNpR1Bpb2pJaF81aExLeWNNT2IxOFRTREh3?oc=5",
+  "headline": "Sony headphones hit record lows this Black Friday",
+  "hook": "Grab top‑tier sound without breaking your budget.",
+  "what": "Sony is offering deep discounts on several wireless headphones for Black Friday, including models priced under $50 and the WH‑1000XM6 at a historic low. The WH‑1000XM4C also dropped to $198, while the WH‑1000XM5 in Midnight Blue is $230 off.",
+  "why": "For Indian Gen Z, this is a rare chance to own premium audio gear at student‑friendly prices. Check the deals now and compare features before buying.",
+  "tags": [
+   "Sony",
+   "headphones",
+   "BlackFriday",
+   "deals",
+   "tech"
+  ]
+ },
+ {
+  "id": "6568e17cd3bb",
+  "created": "2026-11-27T05:25:52+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Chess.com",
+  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+  "headline": "Gukesh and Sindarov End Game 3 With Draw",
+  "hook": "Two chess stars could not score the win in Game 3.",
+  "what": "Game 3 of the FIDE World Chess Championship in Geneva did not produce a winner. Gukesh and Sindarov both tried to win. After three games, no difference was reported between them.",
+  "why": "For young Indian chess fans, the match is being followed closely. They may want to keep watching the next game.",
+  "tags": [
+   "chess",
+   "worldchampionship",
+   "gukesh",
+   "sindarov",
+   "game3"
+  ]
+ },
+ {
   "id": "f6cf8418949e",
   "created": "2026-11-27T01:29:18+05:30",
   "category": "headlines",
@@ -675,80 +751,6 @@
    "Legal",
    "Business",
    "India"
-  ]
- },
- {
-  "id": "f794639980f1",
-  "created": "2026-11-26T11:56:39+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Onmanorama",
-  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWGY0MFFBMHVudk5lR1VaaFp1eGx3b0dydEJkYWQ4dGpxZDdFNFdFSGNKLUZkQ1Z1a0FrS0pnbzZETUdGUWNJaFo3TTZ6ejRlOFFQcVZpM0c4ZjBaTnlUczNRSUJqcmhsUjBJV0FDZ2RYRHZfRzJpRVlZN0ctd0dlTHcxOHVRTDlWQVFJTzZQOWhBc241QUoxV1FEQzhyWGpIMm04MHo3UnJueEpudnlCWEhIQkpsdXdIR2h5S2JabFRqRktpSDNEYWVmQ0piOG50S013?oc=5",
-  "headline": "New plan to tranquilise and collar Chakkakomban after first try fails",
-  "hook": "Authorities are trying again to safely tag the wayward animal.",
-  "what": "The first attempt to tranquilise and fit a radio collar on Chakkakomban was unsuccessful. Officials have now devised a fresh strategy to carry out the operation.",
-  "why": "Tracking the animal helps prevent human‑wildlife conflicts in the region. Stay informed about local wildlife safety measures.",
-  "tags": [
-   "wildlife",
-   "Kerala",
-   "conservation",
-   "radio collar"
-  ]
- },
- {
-  "id": "8f0537aa0e60",
-  "created": "2026-11-26T12:01:29+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/idbi-bank-pension-dispute-why-sc-dismiss-employees-appeals-amid-stake-sale-can-they-still-challenge-the-decision-11795670572372.html",
-  "headline": "Supreme Court rejects challenge to IDBI Bank pension plan",
-  "hook": "Your future pension could be affected by this ruling.",
-  "what": "The Supreme Court turned down petitions that questioned IDBI Bank's pension arrangement. The court clarified that the bank does not qualify as a State entity under the Constitution.",
-  "why": "The decision leaves the pension scheme unchanged, impacting current and future employees. Young job seekers should note that IDBI's pension rules are now settled.",
-  "tags": [
-   "pension",
-   "IDBI",
-   "SupremeCourt",
-   "jobs",
-   "India"
-  ]
- },
- {
-  "id": "4726ced353fa",
-  "created": "2026-11-26T12:01:35+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-new-liquor-policy-udf-subcommittee-formed-ptiojbprggp",
-  "headline": "Kerala UDF creates panel to review new liquor policy",
-  "hook": "A fresh look at booze rules could affect your nights out",
-  "what": "The United Democratic Front government in Kerala has set up a subcommittee. K Sivadasan Nair will lead the group, which will examine the draft liquor policy and suggest changes.",
-  "why": "Any revisions to alcohol rules may alter prices, availability and legal drinking age, influencing social plans for young people. Keep an eye on updates before making decisions.",
-  "tags": [
-   "Kerala",
-   "LiquorPolicy",
-   "UDF",
-   "Youth",
-   "Regulation"
-  ]
- },
- {
-  "id": "87efbad84455",
-  "created": "2026-11-26T10:58:15+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
-  "headline": "Kathmandu to declare 213 missing Indians dead after floods",
-  "hook": "Thousands affected, families still waiting for answers.",
-  "what": "After severe flash floods in Nepal, authorities in Kathmandu have started the process of declaring 213 Indians who went missing as presumed dead. The embassy has opened a channel for relatives to raise concerns via email or phone.",
-  "why": "The tragedy highlights safety risks when traveling abroad and the need to stay informed about emergency contacts. Affected families can reach out to the embassy using the provided details.",
-  "tags": [
-   "nepal floods",
-   "indians abroad",
-   "emergency help",
-   "travel safety"
   ]
  }
 ]

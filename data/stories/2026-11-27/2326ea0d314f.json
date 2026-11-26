@@ -1,0 +1,46 @@
+{
+ "id": "2326ea0d314f",
+ "created": "2026-11-27T05:18:43+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/delhi-government-to-open-kejriwal-s-sheesh-mahal-for-public-visits-tickets-likely-at-rs-20-101795733582678.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Delhi to let public tour Kejriwal’s former ‘Sheesh Mahal’",
+  "hook": "Your next weekend outing could be inside a former chief minister’s house.",
+  "what": "The Delhi administration announced that the former residence of Arvind Kejriwal, called ‘Sheesh Mahal’, will be opened for media first, then for visitors. Access will be managed through a ticket system, with tickets expected to cost around ₹20.",
+  "why": "It offers a chance to see a political landmark at a low price, so students can plan a quick visit if interested.",
+  "tags": [
+   "Delhi",
+   "SheeshMahal",
+   "Ticket",
+   "Visit",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെൽഹി തുറക്കുന്നു കെ. ജെ. റിവാളിന്റെ ‘ഷീശ് മഹൽ’",
+  "hook": "വാരാന്ത്യത്തിൽ നിങ്ങൾക്ക് ഒരു മുൻമുഖ്യമന്ത്രിയുടെ വീട് സന്ദർശിക്കാൻ അവസരം!",
+  "what": "ഡെൽഹി സർക്കാർ അർവിന്ദ് കെ. ജെ. റിവാളിന്റെ പഴയ വസതിയായ ‘ഷീശ് മഹൽ’ ആദ്യം മാധ്യമങ്ങൾക്ക് തുറക്കുകയും, പിന്നീട് പൊതുജനങ്ങൾക്ക് ടിക്കറ്റ് സംവിധാനം വഴി പ്രവേശനം നൽകുകയും ചെയ്യും. ടിക്കറ്റിന്റെ വില ഏകദേശം ഇരുപത് രൂപയാകും.",
+  "why": "കുറഞ്ഞ ചെലവിൽ രാഷ്ട്രീയ ചരിത്രം കാണാൻ ഇത് ഒരു നല്ല അവസരമാണ്; അതിനാൽ താൽപ്പര്യമുള്ളവർ പ്ലാൻ ചെയ്യാം.",
+  "tags": [
+   "ഡെൽഹി",
+   "ഷീശ്മഹൽ",
+   "ടിക്കറ്റ്",
+   "സന്ദർശനം",
+   "യുവാക്കൾ"
+  ],
+  "say": "വാരാന്ത്യത്തിൽ നിങ്ങൾക്ക് ഒരു മുൻമുഖ്യമന്ത്രിയുടെ വീട് സന്ദർശിക്കാൻ അവസരം! ഡെൽഹി സർക്കാർ അർവിന്ദ് കെ. ജെ. റിവാളിന്റെ പഴയ വസതിയായ ‘ഷീശ് മഹൽ’ ആദ്യം മാധ്യമങ്ങൾക്ക് തുറക്കുകയും, പിന്നീട് പൊതുജനങ്ങൾക്ക് ടിക്കറ്റ് സംവിധാനം വഴി പ്രവേശനം നൽകുകയും ചെയ്യും. ടിക്കറ്റിന്റെ വില ഏകദേശം ഇരുപത് രൂപയാകും. കുറഞ്ഞ ചെലവിൽ രാഷ്ട്രീയ ചരിത്രം കാണാൻ ഇത് ഒരു നല്ല അവസരമാണ്; അതിനാൽ താൽപ്പര്യമുള്ളവർ പ്ലാൻ ചെയ്യാം.",
+  "ok": true,
+  "tags_en": [
+   "Delhi",
+   "SheeshMahal",
+   "Ticket",
+   "Visit",
+   "Youth"
+  ]
+ }
+}

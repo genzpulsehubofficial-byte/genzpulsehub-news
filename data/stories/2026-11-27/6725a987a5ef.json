@@ -1,0 +1,46 @@
+{
+ "id": "6725a987a5ef",
+ "created": "2026-11-27T05:18:50+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Mashable",
+ "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNTVCUVNOZl9JOXprbE50NnlyMGU0ekZqODdIWHhFSU1lRlNIcFJfUzF6UFF4elhDeTh1eUQ1Njd4YTg1cno4MnctZmdvYmhuSzI4UGNsOHVWMEc4Rk9PUnNpR1Bpb2pJaF81aExLeWNNT2IxOFRTREh3?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Sony headphones hit record lows this Black Friday",
+  "hook": "Grab top‑tier sound without breaking your budget.",
+  "what": "Sony is offering deep discounts on several wireless headphones for Black Friday, including models priced under $50 and the WH‑1000XM6 at a historic low. The WH‑1000XM4C also dropped to $198, while the WH‑1000XM5 in Midnight Blue is $230 off.",
+  "why": "For Indian Gen Z, this is a rare chance to own premium audio gear at student‑friendly prices. Check the deals now and compare features before buying.",
+  "tags": [
+   "Sony",
+   "headphones",
+   "BlackFriday",
+   "deals",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "Sony ഹെഡ്ഫോൺസ് ബ്ലാക്ക് ഫ്രൈഡേയിൽ റെക്കോർഡ് വിലക്കിൽ",
+  "hook": "വിലക്കുറവിൽ പ്രീമിയം സൌണ്ട് സ്വന്തമാക്കൂ.",
+  "what": "സോണി ബ്ലാക്ക് ഫ്രൈഡേയിൽ നിരവധി വയർലെസ് ഹെഡ്ഫോൺസ്‌ക്ക് വമ്പിച്ച ഡിസ്‌കൗണ്ട് നൽകുന്നു; അമ്പത് ഡോളറിന് താഴെ വിലയുള്ള മോഡലുകളും ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം6‑നും ചരിത്രപരമായ കുറഞ്ഞ വിലയുണ്ട്. ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം4സി ഒന്നൂറ്റി തൊണ്ണൂറ് എട്ട് ഡോളർ വരെ ഇടിഞ്ഞു, മിഡ്നൈറ്റ് ബ്ലൂ‑യിലെ ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം5‑ൽ ഇരുനൂറ്റി മൂവ്പത് ഡോളർ ഓഫുണ്ട്.",
+  "why": "ഇന്ത്യയിലെ ജന Z‑ക്കായി പ്രീമിയം ഓഡിയോ ഉപകരണം സുലഭമായി വാങ്ങാനുള്ള അപൂർവ അവസരമാണ് ഇത്. ഡീലുകൾ പരിശോധിച്ച്, ഫീച്ചറുകൾ താരതമ്യം ചെയ്ത് വാങ്ങൂ.",
+  "tags": [
+   "Sony",
+   "headphones",
+   "BlackFriday",
+   "deals",
+   "tech"
+  ],
+  "say": "വിലക്കുറവിൽ പ്രീമിയം സൌണ്ട് സ്വന്തമാക്കൂ. സോണി ബ്ലാക്ക് ഫ്രൈഡേയിൽ നിരവധി വയർലെസ് ഹെഡ്ഫോൺസ്‌ക്ക് വമ്പിച്ച ഡിസ്‌കൗണ്ട് നൽകുന്നു; അമ്പത് ഡോളറിന് താഴെ വിലയുള്ള മോഡലുകളും ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം6‑നും ചരിത്രപരമായ കുറഞ്ഞ വിലയുണ്ട്. ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം4സി ഒന്നൂറ്റി തൊണ്ണൂറ് എട്ട് ഡോളർ വരെ ഇടിഞ്ഞു, മിഡ്നൈറ്റ് ബ്ലൂ‑യിലെ ഡബ്ല്യുഎച്ച്‑വൺ-തൂവൻ-എക്സ്‌എം5‑ൽ ഇരുനൂറ്റി മൂവ്പത് ഡോളർ ഓഫുണ്ട്. ഇന്ത്യയിലെ ജന Z‑ക്കായി പ്രീമിയം ഓഡിയോ ഉപകരണം സുലഭമായി വാങ്ങാനുള്ള അപൂർവ അവസരമാണ് ഇത്. ഡീലുകൾ പരിശോധിച്ച്, ഫീച്ചറുകൾ താരതമ്യം ചെയ്ത് വാങ്ങൂ.",
+  "ok": true,
+  "tags_en": [
+   "Sony",
+   "headphones",
+   "BlackFriday",
+   "deals",
+   "tech"
+  ]
+ }
+}

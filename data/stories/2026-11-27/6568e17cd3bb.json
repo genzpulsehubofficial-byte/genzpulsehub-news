@@ -1,0 +1,46 @@
+{
+ "id": "6568e17cd3bb",
+ "created": "2026-11-27T05:25:52+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Chess.com",
+ "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Gukesh and Sindarov End Game 3 With Draw",
+  "hook": "Two chess stars could not score the win in Game 3.",
+  "what": "Game 3 of the FIDE World Chess Championship in Geneva did not produce a winner. Gukesh and Sindarov both tried to win. After three games, no difference was reported between them.",
+  "why": "For young Indian chess fans, the match is being followed closely. They may want to keep watching the next game.",
+  "tags": [
+   "chess",
+   "worldchampionship",
+   "gukesh",
+   "sindarov",
+   "game3"
+  ]
+ },
+ "ml": {
+  "headline": "ഗുക്ഷനും സിൻദോറോവും ഗേയിം മൂന്ന് ഒരു തരത്തിൽ അവസാനിച്ചു",
+  "hook": "ഗേയിം മൂന്നിൽ വിജയം തരിക്കാനായില്ല.",
+  "what": "ഫിഡി ലോക ചശ്ര മത്സരത്തിൽ നടന്ന ഗേയിം മൂന്ന് ഒരു തരത്തിൽ അവസാനിച്ചു. ഗുക്ഷനും സിൻദോറോവും വിജയം നേടാൻ ശ്രമിച്ചു. മൂന്ന് ഗേയിമുകൾ കളിച്ചതിന് ശേഷം ഇവർ തമ്മിൽ വ്യത്യാസമില്ല.",
+  "why": "ഇന്ത്യയിലെ ചശ്ര ആരാധകർക്ക് ഇത് പ്രധാനമാണ്. അടുത്ത ഗേയിം കണ്ടെത്താം.",
+  "tags": [
+   "ചശ്രം",
+   "ലോകമത്സരം",
+   "ഗുക്ഷൻ",
+   "സിൻദോറോ",
+   "ഗെയിം3"
+  ],
+  "say": "ഗേയിം മൂന്ന് വിജയം തരിക്കാനായില്ല. ഫിഡി ലോക ചശ്ര മത്സരത്തിൽ നടന്ന ഗേയിം മൂന്ന് ഒരു തരത്തിൽ അവസാനിച്ചു. ഗുക്ഷനും സിൻദോറോവും വിജയം നേടാൻ ശ്രമിച്ചു. മൂന്ന് ഗേയിമുകൾ കളിച്ചതിന് ശേഷം ഇവർ തമ്മിൽ വ്യത്യാസമില്ല. ഇന്ത്യയിലെ ചശ്ര ആരാധകർക്ക് ഇത് പ്രധാനമാണ്. അടുത്ത ഗേയിം കണ്ടെത്താം.",
+  "ok": true,
+  "tags_en": [
+   "chess",
+   "worldchampionship",
+   "gukesh",
+   "sindarov",
+   "game3"
+  ]
+ }
+}
