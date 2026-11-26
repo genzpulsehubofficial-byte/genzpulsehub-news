@@ -1,0 +1,46 @@
+{
+ "id": "b17573344f81",
+ "created": "2026-11-26T15:35:16+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Tamil Nadu grants 15‑day paternity leave for married govt staff",
+  "hook": "Dad‑to‑be can now take two weeks off around the birth.",
+  "what": "The state will allow married male government employees to take 15 days off either before their child is born or within six months after. The leave applies to all such staff.",
+  "why": "It helps new fathers balance work and family early on, encouraging involvement in childcare.",
+  "tags": [
+   "paternityleave",
+   "TamilNadu",
+   "govtjobs",
+   "worklife",
+   "families"
+  ]
+ },
+ "ml": {
+  "headline": "തമിഴ്നാട് പതിനഞ്ച് ദിവസത്തെ പിതൃത്വ അവധി വിവാഹിത സര്‍ക്കാര്‍ ജീവനക്കാര്‍ക്ക്",
+  "hook": "കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ, രണ്ട് ആഴ്ചകളുടെ അവധി ഇപ്പോൾ ലഭിക്കും.",
+  "what": "സംസ്ഥാന സര്‍ക്കാര്‍ വിവാഹിത പുരുഷ ജീവനക്കാര്‍ക്ക് പതിനഞ്ച് ദിവസത്തെ അവധി, കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ ഉപയോഗിക്കാം. ഈ അവധി എല്ലാ യോഗ്യ ജീവനക്കാര്‍ക്കും ബാധകമാണ്.",
+  "why": "പുതിയ അച്ഛന്മാർക്ക് ജോലി‑കുടുംബം തമ്മില്‍ ബാലൻസ് ചെയ്യാന്‍ സഹായിച്ച്, കുട്ടി പരിപാലനത്തില്‍ പങ്കാളിത്തം വര്‍ദ്ധിപ്പിക്കും.",
+  "tags": [
+   "paternityleave",
+   "TamilNadu",
+   "govtjobs",
+   "worklife",
+   "families"
+  ],
+  "say": "കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ, രണ്ട് ആഴ്ചകളുടെ അവധി ഇപ്പോൾ ലഭിക്കും. സംസ്ഥാന സര്‍ക്കാര്‍ വിവാഹിത പുരുഷ ജീവനക്കാര്‍ക്ക് പതിനഞ്ച് ദിവസത്തെ അവധി, കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ ഉപയോഗിക്കാം. ഈ അവധി എല്ലാ യോഗ്യ ജീവനക്കാര്‍ക്കും ബാധകമാണ്. പുതിയ അച്ഛന്മാർക്ക് ജോലി‑കുടുംബം തമ്മില്‍ ബാലൻസ് ചെയ്യാന്‍ സഹായിച്ച്, കുട്ടി പരിപാലനത്തില്‍ പങ്കാളിത്തം വര്‍ദ്ധിപ്പിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "paternityleave",
+   "TamilNadu",
+   "govtjobs",
+   "worklife",
+   "families"
+  ]
+ }
+}

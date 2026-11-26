@@ -1,0 +1,46 @@
+{
+ "id": "2fae2d5998a0",
+ "created": "2026-11-26T15:35:25+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0FqdDVvOXhmc2IyY0UyV3hFMU5BdUYtRks0YURfeXVNYWhjS01YemQ1THBaRy1SMUVBZm45d2FpSXhrSWNXeUpYY0NLSzlsbkZ0MGRKbDhZbHZjM2k5QmJLN0VoN0Y1M2NMUEZpVnFvSldmakhpUUViRm91X0VYNy1Fd3JYa1gzNDF4TV93MDJCTThoZVBJazlsc3FVZHBlLTdaV0M0YWFTdjhVMkNHcEt5aExrcE3SAb4BQVVfeXFMUFhsM0g0TUwzUXBUZ0hQUHZRLS1PRmpkanpKQkJHaE9uLUNUYlJGdXpWNHpPdFdZa200V2hJNGtpTUZ5QmxjU1FHaXU5aVFjYnlBUWFneWtKSWpjX1pHWVF0Mm1rYTB4Z21fQ1dLZFM5LUNtRVhyUjhKYjYta081LXNOWnN1V3FEWU1wc2FiUy1pSTBYdlJFQXFsZC1QTDdDQUV1SE9nNnhoUGdQVk9FUGFSSy1xMlN2bktxUy1WZw?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "India urges Netflix to pull Pakistani series",
+  "hook": "The government says the show must stay off Indian screens.",
+  "what": "The Indian government has asked Netflix to stop streaming the Pakistani drama 'Jo Bachay Hain Sang Samait Lo' in the country. Officials say the platform should respect its earlier promise not to host Pakistani content.",
+  "why": "Young viewers rely on streaming services for entertainment, so this could affect what’s available on Netflix India. Users should check the app for any changes to the catalogue.",
+  "tags": [
+   "entertainment",
+   "Netflix",
+   "Pakistan",
+   "India",
+   "streaming"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ പാകിസ്താനി സീരീസ് നീക്കാൻ ആവശ്യപ്പെട്ടു",
+  "hook": "പാകിസ്താനി ഡ്രാമിനെ ഇന്ത്യയിൽ കാണാൻ നെറ്റ്ഫ്ലിക്സ്‌ക്ക് അനുമതി ഇല്ലെന്ന് സർക്കാർ പറയുന്നു.",
+  "what": "ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ 'ജോ ബാചേ ഹൈന്‍ സാംഗ് സമൈറ്റ് ലോ' എന്ന പാകിസ്താനി സീരീസ് ഇന്ത്യയിൽ സ്റ്റ്രീം ചെയ്യരുതെന്ന് ആവശ്യപ്പെട്ടു. പ്ലാറ്റ്ഫോം മുമ്പ് പാകിസ്താനി ഉള്ളടക്കം ഒഴിവാക്കുമെന്ന് നൽകിയ പ്രതിജ്ഞ പാലിക്കണം എന്ന് അധികാരികൾ പറഞ്ഞു.",
+  "why": "നെറ്റ്ഫ്ലിക്സ്‌ൽ കാണുന്ന വിനോദം യുവാക്കൾക്ക് പ്രധാനമായതിനാൽ, ഈ തീരുമാനം ആപ്പിലെ ഉള്ളടക്കത്തിൽ മാറ്റം വരുത്താം. അതിനാൽ, നിങ്ങളുടെ ലൈബ്രറി പരിശോധിക്കുക.",
+  "tags": [
+   "വിനോദം",
+   "Netflix",
+   "പാകിസ്താൻ",
+   "ഇന്ത്യ",
+   "സ്റ്റ്രീമിംഗ്"
+  ],
+  "say": "പാകിസ്താനി ഡ്രാമിനെ ഇന്ത്യയിൽ കാണാൻ നെറ്റ്ഫ്ലിക്സ്‌ക്ക് അനുമതി ഇല്ലെന്ന് സർക്കാർ പറയുന്നു. ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ 'ജോ ബാചേ ഹൈന്‍ സാംഗ് സമൈറ്റ് ലോ' എന്ന പാകിസ്താനി സീരീസ് ഇന്ത്യയിൽ സ്റ്റ്രീം ചെയ്യരുതെന്ന് ആവശ്യപ്പെട്ടു. പ്ലാറ്റ്ഫോം മുമ്പ് പാകിസ്താനി ഉള്ളടക്കം ഒഴിവാക്കുമെന്ന് നൽകിയ പ്രതിജ്ഞ പാലിക്കണം എന്ന് അധികാരികൾ പറഞ്ഞു. നെറ്റ്ഫ്ലിക്സ്‌ൽ കാണുന്ന വിനോദം യുവാക്കൾക്ക് പ്രധാനമായതിനാൽ, ഈ തീരുമാനം ആപ്പിലെ ഉള്ളടക്കത്തിൽ മാറ്റം വരുത്താം. അതിനാൽ, നിങ്ങളുടെ ലൈബ്രറി പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "entertainment",
+   "Netflix",
+   "Pakistan",
+   "India",
+   "streaming"
+  ]
+ }
+}

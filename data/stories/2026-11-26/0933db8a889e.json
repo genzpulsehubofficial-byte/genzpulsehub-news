@@ -1,0 +1,46 @@
+{
+ "id": "0933db8a889e",
+ "created": "2026-11-26T15:33:15+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/10-kerala-districts-under-heavy-rain-alert-school-college-holidays-depend-on-local-conditions-mcfs6grm",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Yellow rain alerts issued for 10 Kerala districts",
+  "hook": "Heavy showers may hit your area—check if schools close",
+  "what": "The India Meteorological Department has issued yellow alerts for ten districts in Kerala for November 26 and 27, indicating isolated heavy rain. The warnings are district‑wise and include possible disruptions to school and college schedules.",
+  "why": "Students should verify if their school or college is closed and plan travel accordingly.",
+  "tags": [
+   "Kerala",
+   "Weather",
+   "RainAlert",
+   "IMD",
+   "Students"
+  ]
+ },
+ "ml": {
+  "headline": "പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ്",
+  "hook": "കൂടുതൽ മഴ വരാം—സ്കൂൾ അടയ്ക്കാമോ എന്ന് പരിശോധിക്കുക",
+  "what": "ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് 26, 27 നവംബർ തീയതികളിൽ കേരളത്തിലെ പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ് പുറപ്പെടുവിച്ചു. ഈ മുന്നറിയിപ്പ് ജില്ലാനുസരിച്ച് ആണ്, സ്കൂൾ‑കോളേജ് ക്ലാസുകൾ അടയ്ക്കാൻ സാധ്യതയുണ്ട്.",
+  "why": "വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂൾ അടച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിച്ച്, യാത്രാ പദ്ധതികൾ മാറ്റി വെക്കണം.",
+  "tags": [
+   "കേരളം",
+   "വൈമാനം",
+   "മഴമുന്നറിയിപ്പ്",
+   "IMD",
+   "വിദ്യാർത്ഥികൾ"
+  ],
+  "say": "കൂടുതൽ മഴ വരാം—സ്കൂൾ അടയ്ക്കാമോ എന്ന് പരിശോധിക്കുക. ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് ഇരുപത് ആറു, ഇരുപത് ഏഴ് നവംബർ തീയതികളിൽ കേരളത്തിലെ പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ് പുറപ്പെടുവിച്ചു. ഈ മുന്നറിയിപ്പ് ജില്ലാനുസരിച്ച് ആണ്, സ്കൂൾ‑കോളേജ് ക്ലാസുകൾ അടയ്ക്കാൻ സാധ്യതയുണ്ട്. വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂൾ അടച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിച്ച്, യാത്രാ പദ്ധതികൾ മാറ്റി വെക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "Weather",
+   "RainAlert",
+   "IMD",
+   "Students"
+  ]
+ }
+}

@@ -1,5 +1,100 @@
 [
  {
+  "id": "0933db8a889e",
+  "created": "2026-11-26T15:33:15+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/10-kerala-districts-under-heavy-rain-alert-school-college-holidays-depend-on-local-conditions-mcfs6grm",
+  "headline": "Yellow rain alerts issued for 10 Kerala districts",
+  "hook": "Heavy showers may hit your area—check if schools close",
+  "what": "The India Meteorological Department has issued yellow alerts for ten districts in Kerala for November 26 and 27, indicating isolated heavy rain. The warnings are district‑wise and include possible disruptions to school and college schedules.",
+  "why": "Students should verify if their school or college is closed and plan travel accordingly.",
+  "tags": [
+   "Kerala",
+   "Weather",
+   "RainAlert",
+   "IMD",
+   "Students"
+  ]
+ },
+ {
+  "id": "e5623cf1f602",
+  "created": "2026-11-26T15:33:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845",
+  "headline": "Apple launches its 7th Indian store in Hyderabad",
+  "hook": "New Apple outlet opens Dec 10 – check it out!",
+  "what": "Apple is set to open its seventh retail outlet in India, located in Hyderabad. The store will open on December 10. A decorative barricade at the Kukatpally site shows a pearl‑inspired Apple logo with iridescent colours.",
+  "why": "The launch expands Apple’s presence for fans who want hands‑on experience with devices. Teens can visit to explore the latest iPhone models and accessories.",
+  "tags": [
+   "Apple",
+   "Hyderabad",
+   "Retail",
+   "Tech",
+   "Launch"
+  ]
+ },
+ {
+  "id": "8c7b30641ac9",
+  "created": "2026-11-26T15:33:27+05:30",
+  "category": "tech",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand",
+  "headline": "Nvidia pauses server shipments to four SE Asian nations",
+  "hook": "New US rules force Nvidia to stop deliveries in the region.",
+  "what": "Nvidia has stopped sending its AI servers to four countries in Southeast Asia. The halt comes after fresh US export restrictions were implemented last week.",
+  "why": "The restriction could delay access to AI hardware for students and startups in those markets, so they may need to explore alternative suppliers.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "SoutheastAsia",
+   "USrules",
+   "TechNews"
+  ]
+ },
+ {
+  "id": "b17573344f81",
+  "created": "2026-11-26T15:35:16+05:30",
+  "category": "jobs",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
+  "headline": "Tamil Nadu grants 15‑day paternity leave for married govt staff",
+  "hook": "Dad‑to‑be can now take two weeks off around the birth.",
+  "what": "The state will allow married male government employees to take 15 days off either before their child is born or within six months after. The leave applies to all such staff.",
+  "why": "It helps new fathers balance work and family early on, encouraging involvement in childcare.",
+  "tags": [
+   "paternityleave",
+   "TamilNadu",
+   "govtjobs",
+   "worklife",
+   "families"
+  ]
+ },
+ {
+  "id": "2fae2d5998a0",
+  "created": "2026-11-26T15:35:25+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0FqdDVvOXhmc2IyY0UyV3hFMU5BdUYtRks0YURfeXVNYWhjS01YemQ1THBaRy1SMUVBZm45d2FpSXhrSWNXeUpYY0NLSzlsbkZ0MGRKbDhZbHZjM2k5QmJLN0VoN0Y1M2NMUEZpVnFvSldmakhpUUViRm91X0VYNy1Fd3JYa1gzNDF4TV93MDJCTThoZVBJazlsc3FVZHBlLTdaV0M0YWFTdjhVMkNHcEt5aExrcE3SAb4BQVVfeXFMUFhsM0g0TUwzUXBUZ0hQUHZRLS1PRmpkanpKQkJHaE9uLUNUYlJGdXpWNHpPdFdZa200V2hJNGtpTUZ5QmxjU1FHaXU5aVFjYnlBUWFneWtKSWpjX1pHWVF0Mm1rYTB4Z21fQ1dLZFM5LUNtRVhyUjhKYjYta081LXNOWnN1V3FEWU1wc2FiUy1pSTBYdlJFQXFsZC1QTDdDQUV1SE9nNnhoUGdQVk9FUGFSSy1xMlN2bktxUy1WZw?oc=5",
+  "headline": "India urges Netflix to pull Pakistani series",
+  "hook": "The government says the show must stay off Indian screens.",
+  "what": "The Indian government has asked Netflix to stop streaming the Pakistani drama 'Jo Bachay Hain Sang Samait Lo' in the country. Officials say the platform should respect its earlier promise not to host Pakistani content.",
+  "why": "Young viewers rely on streaming services for entertainment, so this could affect what’s available on Netflix India. Users should check the app for any changes to the catalogue.",
+  "tags": [
+   "entertainment",
+   "Netflix",
+   "Pakistan",
+   "India",
+   "streaming"
+  ]
+ },
+ {
   "id": "d7a1b093890f",
   "created": "2026-11-26T14:28:09+05:30",
   "category": "entertainment",
@@ -654,101 +749,6 @@
    "AI",
    "China",
    "rumors"
-  ]
- },
- {
-  "id": "7f241ec33c33",
-  "created": "2026-11-26T08:38:22+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/eci-asks-states-uts-to-rectify-electoral-rolls-during-ssr-101795635137105.html",
-  "headline": "ECI orders states to verify voter details in roll update",
-  "hook": "Your name on the voter list could be double‑checked soon",
-  "what": "The Election Commission sent a letter to chief electoral officers across states and union territories. It tells them to match names, relationship info, birth dates, mobile numbers and photos with the data collected in the recent SIR.",
-  "why": "Accurate rolls prevent voting errors and ensure every young voter’s voice counts. Check your own details on the official portal.",
-  "tags": [
-   "election",
-   "voterlist",
-   "youth",
-   "india",
-   "civic"
-  ]
- },
- {
-  "id": "8de0365aaab9",
-  "created": "2026-11-26T08:38:27+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/sadya-and-biryani-to-cost-more-in-keralam-as-catering-associations-prepare-to-raise-rates-thwkrgro",
-  "headline": "Catering rates to jump up to 20% from Christmas",
-  "hook": "Your favorite sadya and biryani could cost more soon",
-  "what": "Catering associations say rising costs of rice, vegetables, oil, gas, wages and transport will push rates up by as much as 20% starting Christmas. The increase will affect the price of sadya and biryani in Kerala.",
-  "why": "Higher food prices will hit young budgets; plan your meals and spending ahead of the hike.",
-  "tags": [
-   "foodprices",
-   "kerala",
-   "catering",
-   "sadya",
-   "biryani"
-  ]
- },
- {
-  "id": "59de030cf921",
-  "created": "2026-11-26T08:38:32+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/lajja-gauri-idol-to-tagore-painting-yuge-yugeen-museum-takes-shape-101795654050096.html",
-  "headline": "New themed gallery opens as first of seven at museum",
-  "hook": "A fresh space showcasing art from Lajja Gauri to Tagore",
-  "what": "The Yuge Yugeen museum has launched its first themed gallery. It is part of a plan for seven galleries across the North and South Blocks.",
-  "why": "Young visitors can explore diverse Indian art in a modern setting, and the museum will eventually hold about 1.8 m objects, offering plenty to discover.",
-  "tags": [
-   "culture",
-   "museum",
-   "art",
-   "youth",
-   "India"
-  ]
- },
- {
-  "id": "761662e7e6c4",
-  "created": "2026-11-26T08:41:00+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/credit-card-spending-rises-20-to-2-45-lakh-crore-in-october-as-festive-shopping-boosts-consumer-demand-across-india-11795656778132.html",
-  "headline": "Festive Season Lifts Indian Credit Card Spending",
-  "hook": "Festive shopping may mean more card swipes this year.",
-  "what": "India saw credit card use grow by nearly twenty percent from the previous month to October 2026. The total value reached ₹2.45 lakh crore. Festive shopping was reported as the main driver.",
-  "why": "For young Indians, festive periods can bring more online shopping and card use. It is a time when payment habits may shift.",
-  "tags": [
-   "creditcard",
-   "festiveshopping",
-   "onlineshopping",
-   "indiatrends",
-   "spending"
-  ]
- },
- {
-  "id": "a3e51309cb54",
-  "created": "2026-11-26T08:41:06+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/india/75-lakh-fake-face-creams-sold-monthly-worldwide-as-unregistered-brands-flood-india-via-gulf-nljoqe1i",
-  "headline": "75 lakh fake face creams flood India each month",
-  "hook": "Unregistered Pakistani creams are reaching Indian shelves via the Gulf.",
-  "what": "Around 75 lakh packets of Pakistani-made face creams, labelled in Arabic, are sold every month. Brands such as Faiza and Goree, which are not registered, enter the market through Gulf routes. Kerala authorities have recorded only a few seizures.",
-  "why": "Young consumers may unknowingly use untested products that could harm skin, so they should check product registration before buying.",
-  "tags": [
-   "fakeCosmetics",
-   "consumerSafety",
-   "India",
-   "Gulf",
-   "Kerala"
   ]
  }
 ]

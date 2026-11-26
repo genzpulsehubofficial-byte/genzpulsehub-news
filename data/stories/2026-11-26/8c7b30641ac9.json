@@ -1,0 +1,46 @@
+{
+ "id": "8c7b30641ac9",
+ "created": "2026-11-26T15:33:27+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia pauses server shipments to four SE Asian nations",
+  "hook": "New US rules force Nvidia to stop deliveries in the region.",
+  "what": "Nvidia has stopped sending its AI servers to four countries in Southeast Asia. The halt comes after fresh US export restrictions were implemented last week.",
+  "why": "The restriction could delay access to AI hardware for students and startups in those markets, so they may need to explore alternative suppliers.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "SoutheastAsia",
+   "USrules",
+   "TechNews"
+  ]
+ },
+ "ml": {
+  "headline": "Nvidia നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള സർവർ ഷിപ്പ്മെന്റ് നിർത്തി",
+  "hook": "പുതിയ യു.എസ് നിയന്ത്രണങ്ങൾ എൻവിഡിയയെ ഈ പ്രദേശത്ത് ഡെലിവറി നിർത്താൻ നിർബന്ധിച്ചു.",
+  "what": "എൻവിഡിയ എഐ സർവറുകളുടെ നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള ഷിപ്പ്മെന്റ് നിർത്തി. ഇത് കഴിഞ്ഞ ആഴ്ച പ്രാബല്യത്തിൽ വന്ന പുതിയ യു.എസ് എക്സ്പോർട്ട് നിയന്ത്രണങ്ങളാണ് കാരണം.",
+  "why": "ഇത് ആ രാജ്യങ്ങളിലെ വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും എഐ ഹാർഡ്വെയർ ലഭിക്കാൻ വൈകല്യത്തിന് കാരണമാകാം; അതിനാൽ മറ്റ് വിതരണക്കാരെ അന്വേഷിക്കേണ്ടി വരും.",
+  "tags": [
+   "Nvidia",
+   "AI",
+   "SoutheastAsia",
+   "USrules",
+   "TechNews"
+  ],
+  "say": "പുതിയ യു.എസ് നിയന്ത്രണങ്ങൾ എൻവിഡിയയെ ഈ പ്രദേശത്ത് ഡെലിവറി നിർത്താൻ നിർബന്ധിച്ചു. എൻവിഡിയ എഐ സർവറുകളുടെ നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള ഷിപ്പ്മെന്റ് നിർത്തി. ഇത് കഴിഞ്ഞ ആഴ്ച പ്രാബല്യത്തിൽ വന്ന പുതിയ യു.എസ് എക്സ്പോർട്ട് നിയന്ത്രണങ്ങളാണ് കാരണം. ഇത് ആ രാജ്യങ്ങളിലെ വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും എഐ ഹാർഡ്വെയർ ലഭിക്കാൻ വൈകല്യത്തിന് കാരണമാകാം; അതിനാൽ മറ്റ് വിതരണക്കാരെ അന്വേഷിക്കേണ്ടി വരും.",
+  "ok": true,
+  "tags_en": [
+   "Nvidia",
+   "AI",
+   "SoutheastAsia",
+   "USrules",
+   "TechNews"
+  ]
+ }
+}

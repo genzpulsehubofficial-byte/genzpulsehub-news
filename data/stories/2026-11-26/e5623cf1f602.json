@@ -1,0 +1,46 @@
+{
+ "id": "e5623cf1f602",
+ "created": "2026-11-26T15:33:21+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple launches its 7th Indian store in Hyderabad",
+  "hook": "New Apple outlet opens Dec 10 – check it out!",
+  "what": "Apple is set to open its seventh retail outlet in India, located in Hyderabad. The store will open on December 10. A decorative barricade at the Kukatpally site shows a pearl‑inspired Apple logo with iridescent colours.",
+  "why": "The launch expands Apple’s presence for fans who want hands‑on experience with devices. Teens can visit to explore the latest iPhone models and accessories.",
+  "tags": [
+   "Apple",
+   "Hyderabad",
+   "Retail",
+   "Tech",
+   "Launch"
+  ]
+ },
+ "ml": {
+  "headline": "ആപ്പിൾ ഹൈദരാബാദിൽ ഏഴാമത്തെ സ്റ്റോർ തുറക്കുന്നു",
+  "hook": "ഡിസംബർ പത്ത് ന് പുതിയ ആപ്പിൾ സ്റ്റോർ – കാണാൻ വരൂ!",
+  "what": "ആപ്പിൾ ഇന്ത്യയിലെ ഏഴാമത്തെ റീട്ടെയിൽ സ്റ്റോർ ഹൈദരാബാദിൽ തുറക്കാൻ സജ്ജമാകുന്നു. സ്റ്റോർ ഡിസംബർ പത്ത് ന് തുറക്കും. കുകർപ്പള്ളി സ്ഥലത്തെ ബാരിക്കേഡ്‌യിൽ മുത്തുപോലുള്ള ആപ്പിൾ ലോഗോ ഐറിഡസെന്റ് നിറങ്ങളോടെ കാണാം.",
+  "why": "ആപ്പിൾ‑ന്റെ വ്യാപനം ഉപയോക്താക്കൾക്ക് പുതിയ ഐഫോൺ, ആക്‌സസറികൾ നേരിട്ട് പരീക്ഷിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് ഏറ്റവും പുതിയ ഗാഡ്ജറ്റുകൾ കാണാൻ അവസരം.",
+  "tags": [
+   "Apple",
+   "Hyderabad",
+   "റീട്ടെയിൽ",
+   "ടെക്",
+   "ലോഞ്ച്"
+  ],
+  "say": "ഡിസംബർ പത്ത് ന് പുതിയ ആപ്പിൾ സ്റ്റോർ – കാണാൻ വരൂ! ആപ്പിൾ ഇന്ത്യയിലെ ഏഴാമത്തെ റീട്ടെയിൽ സ്റ്റോർ ഹൈദരാബാദിൽ തുറക്കാൻ സജ്ജമാകുന്നു. സ്റ്റോർ ഡിസംബർ പത്ത് ന് തുറക്കും. കുകർപ്പള്ളി സ്ഥലത്തെ ബാരിക്കേഡ്‌യിൽ മുത്തുപോലുള്ള ആപ്പിൾ ലോഗോ ഐറിഡസെന്റ് നിറങ്ങളോടെ കാണാം. ആപ്പിൾ‑ന്റെ വ്യാപനം ഉപയോക്താക്കൾക്ക് പുതിയ ഐഫോൺ, ആക്‌സസറികൾ നേരിട്ട് പരീക്ഷിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് ഏറ്റവും പുതിയ ഗാഡ്ജറ്റുകൾ കാണാൻ അവസരം.",
+  "ok": true,
+  "tags_en": [
+   "Apple",
+   "Hyderabad",
+   "Retail",
+   "Tech",
+   "Launch"
+  ]
+ }
+}
