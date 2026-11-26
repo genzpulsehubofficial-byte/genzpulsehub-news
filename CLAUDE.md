@@ -85,7 +85,8 @@ The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open th
 ## Pending (in order)
 2. Oracle VM (Always Free ARM, Mumbai) → Phase 2 24/7 stream to YouTube + Facebook; then open live ad slots.
 3. Cashfree: genzpulsehub.pages.dev APPROVED (2026-11-26, via Cashfree MCP; write tools enabled). TODO when domain live: whitelist https://genzpulsehub.dpdns.org, add it to Google Search Console (meta tag already in site) + sitemap, reconnect Pages custom domain, Email Routing ads@ → Gmail. Search Console: pages.dev verified + sitemap submitted 2026-11-26. Nameservers set at DigitalPlat 2026-11-26.
-5. Auto-replies (comments, ads inbox, IG DMs), inbound ad pitch, watchdog, weekly backup, corrections, copyright guard, Google News/Discover, monetisation tracker, affiliate links.
-6. Phase 6 analytics + Audience Pulse + volume ramp.
-7. Mobile header fix; replace dead feeds (Indian Express, Onmanorama).
+5. DONE 2026-11-26: growth.yml = IG/FB comment auto-replies every 30 min (growth/engage.py), daily 9PM report + watchdog + category auto-tuning to data/weights.json (growth/insights.py), weekly backup releases (data + D1). Captions carry advertise line. Mobile header fixed. Feeds fixed (browser headers). news.yml re-triggers shorts if GitHub skips its schedule.
+   TODO: YouTube comment replies need youtube.force-ssl scope (new refresh tokens); IG DM auto-replies need Meta app review; monetisation tracker; YouTube quota increase request (~2 weeks).
+6. Audience Pulse (trend topics) + ramp driven by insights.
+- NOTE: new YouTube channels hit 'uploadLimitExceeded' (per-channel daily API upload cap); pacing pauses YouTube 12h when it happens.
 - Reminder: Meta refund ₹499.99 check on 27 Nov (scheduled).
