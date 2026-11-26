@@ -1,0 +1,46 @@
+{
+ "id": "e3f45182cfb4",
+ "created": "2026-11-27T01:29:29+05:30",
+ "category": "headlines",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/heavy-rains-cause-waterlogging-in-thiruvananthapuram-disrupt-traffic-pti8p2pme9t",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Heavy rain floods Thiruvananthapuram, traffic snarls citywide",
+  "hook": "Rainwater turned streets into rivers, commuters stuck.",
+  "what": "Intense downpours drenched parts of Thiruvananthapuram, leading to deep water accumulation. Several roads became impassable, causing major traffic jams. Officials faced criticism for lack of readiness.",
+  "why": "Young commuters may need to plan alternate routes or use public transport. It highlights the need for better city drainage.",
+  "tags": [
+   "rain",
+   "traffic",
+   "Thiruvananthapuram",
+   "weather",
+   "commute"
+  ]
+ },
+ "ml": {
+  "headline": "കനത്തുള്ളി മഴ ത്രിവെണ്ണം, ഗതാഗതം തടഞ്ഞു",
+  "hook": "മഴവെള്ളം വീഥികളെ നദികളാക്കി, യാത്രക്കാർ കുടുങ്ങി.",
+  "what": "തീവ്രമായ മഴ ത്രിവെണ്ണത്തിലെ പല പ്രദേശങ്ങളിലും വെള്ളം നിറച്ചു. പല റോഡുകളും കടക്കാൻ കഴിയാതെ ട്രാഫിക് ജാം ഉണ്ടായി. തയ്യാറെടുപ്പില്ലായ്മയ്ക്ക് അധികാരികൾക്ക് വിമർശനം നേരിടേണ്ടി വന്നു.",
+  "why": "യുവ യാത്രക്കാർക്ക് വഴികൾ മാറി പോകാൻ അല്ലെങ്കിൽ പൊതു ഗതാഗതം ഉപയോഗിക്കാൻ പദ്ധതി തയ്യാറാക്കണം. നഗരത്തിന്റെ ഡ്രെയിനേജ് മെച്ചപ്പെടുത്തേണ്ടതിന്റെ ആവശ്യം ഇത് കാണിക്കുന്നു.",
+  "tags": [
+   "മഴ",
+   "ഗതാഗതം",
+   "ത്രിവെണ്ണം",
+   "വെള്ളപ്പൊക്കം",
+   "യാത്ര"
+  ],
+  "say": "മഴവെള്ളം വീഥികളെ നദികളാക്കി, യാത്രക്കാർ കുടുങ്ങി. തീവ്രമായ മഴ ത്രിവെണ്ണത്തിലെ പല പ്രദേശങ്ങളിലും വെള്ളം നിറച്ചു. പല റോഡുകളും കടക്കാൻ കഴിയാതെ ട്രാഫിക് ജാം ഉണ്ടായി. തയ്യാറെടുപ്പില്ലായ്മയ്ക്ക് അധികാരികൾക്ക് വിമർശനം നേരിടേണ്ടി വന്നു. യുവ യാത്രക്കാർക്ക് വഴികൾ മാറി പോകാൻ അല്ലെങ്കിൽ പൊതു ഗതാഗതം ഉപയോഗിക്കാൻ പദ്ധതി തയ്യാറാക്കണം. നഗരത്തിന്റെ ഡ്രെയിനേജ് മെച്ചപ്പെടുത്തേണ്ടതിന്റെ ആവശ്യം ഇത് കാണിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "rain",
+   "traffic",
+   "Thiruvananthapuram",
+   "weather",
+   "commute"
+  ]
+ }
+}

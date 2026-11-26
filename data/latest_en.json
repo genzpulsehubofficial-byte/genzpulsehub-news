@@ -1,5 +1,80 @@
 [
  {
+  "id": "f6cf8418949e",
+  "created": "2026-11-27T01:29:18+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Hindustan Times",
+  "source_url": "https://www.hindustantimes.com/india-news/judicial-member-must-for-ed-attachment-cases-sc-101795721259035.html",
+  "headline": "Supreme Court says legal expert needed for ED attachment orders",
+  "hook": "Big court rules you can't leave major money freezes to non‑lawyers.",
+  "what": "The Supreme Court ruled that decisions on Enforcement Directorate attachment cases must involve a judicial member. It said such important decisions cannot be made by a member lacking a legal background.",
+  "why": "This ensures legal expertise in cases that can affect businesses and individuals, protecting rights. Stay aware of legal processes that could impact your finances.",
+  "tags": [
+   "SupremeCourt",
+   "LegalNews",
+   "ED",
+   "IndiaLaw",
+   "Youth"
+  ]
+ },
+ {
+  "id": "d92bb2236ee9",
+  "created": "2026-11-27T01:29:24+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+  "headline": "Parliament to meet from Nov 30 for major delimitation",
+  "hook": "A fresh electoral map could reshape future elections.",
+  "what": "The Lok Sabha will reconvene on November 30. The government plans a large‑scale delimitation exercise to redraw constituency boundaries.",
+  "why": "New constituency lines can affect representation and voting power, influencing policies that impact youth. Stay informed before the next elections.",
+  "tags": [
+   "Parliament",
+   "Delimitation",
+   "Elections",
+   "Youth",
+   "India"
+  ]
+ },
+ {
+  "id": "e3f45182cfb4",
+  "created": "2026-11-27T01:29:29+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/heavy-rains-cause-waterlogging-in-thiruvananthapuram-disrupt-traffic-pti8p2pme9t",
+  "headline": "Heavy rain floods Thiruvananthapuram, traffic snarls citywide",
+  "hook": "Rainwater turned streets into rivers, commuters stuck.",
+  "what": "Intense downpours drenched parts of Thiruvananthapuram, leading to deep water accumulation. Several roads became impassable, causing major traffic jams. Officials faced criticism for lack of readiness.",
+  "why": "Young commuters may need to plan alternate routes or use public transport. It highlights the need for better city drainage.",
+  "tags": [
+   "rain",
+   "traffic",
+   "Thiruvananthapuram",
+   "weather",
+   "commute"
+  ]
+ },
+ {
+  "id": "9ab1d867793f",
+  "created": "2026-11-27T01:35:28+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+  "headline": "X Adds Parental Controls for Teens After 20 Years",
+  "hook": "Parents can now oversee what teens see on X.",
+  "what": "The social media platform X, linked to Elon Musk, brought in parental controls for teenagers. Such controls are meant to let parents and guardians oversee what minors see. The update came after a 20-year gap.",
+  "why": "This could affect how young people use social media. Parents and guardians now have a way to guide what children view on X.",
+  "tags": [
+   "X",
+   "ParentalControls",
+   "SocialMedia",
+   "Teens"
+  ]
+ },
+ {
   "id": "aa567504865c",
   "created": "2026-11-26T21:13:53+05:30",
   "category": "health",
@@ -674,82 +749,6 @@
    "indians abroad",
    "emergency help",
    "travel safety"
-  ]
- },
- {
-  "id": "037b99f7c9da",
-  "created": "2026-11-26T10:58:26+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/rbi-data-shows-gold-reserves-dipped-by-over-8-to-106-billion-in-september-2026-details-here-11795668849936.html",
-  "headline": "India’s gold reserves fall 8%, FX reserves rise 6%",
-  "hook": "Gold down, overall reserves up – what it means for you.",
-  "what": "The RBI reported that gold holdings dropped by more than 8% to $106 billion in September 2026. At the same time, total foreign exchange reserves increased by over 6% to $737.79 billion between April and September.",
-  "why": "A lower gold buffer may affect currency stability, but the rise in overall reserves strengthens India’s financial cushion. Teens should stay aware of how such shifts can influence the economy and job market.",
-  "tags": [
-   "gold",
-   "forex",
-   "RBI",
-   "economy",
-   "India"
-  ]
- },
- {
-  "id": "c3cc92cd88b0",
-  "created": "2026-11-26T10:58:33+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece",
-  "headline": "CJP co‑convenor Saurav Das to sue over passport leak",
-  "hook": "His passport info went viral after a flight denial.",
-  "what": "Saurav Das, a co‑convenor of the Chief Justice Panel, says his passport details were posted online. The leak followed his being barred from a London‑bound flight when the Chennai passport office flagged discrepancies.",
-  "why": "He calls it targeted harassment and will file criminal complaints against the social media accounts. Young travelers should protect their documents and report misuse.",
-  "tags": [
-   "passport",
-   "privacy",
-   "legal",
-   "socialmedia",
-   "india"
-  ]
- },
- {
-  "id": "69900d515c99",
-  "created": "2026-11-26T11:02:29+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-sinks-to-1-year-low-despite-inflation-why-are-investors-dumping-bullion-11795665217240.html",
-  "headline": "Gold drops to over a year low amid US inflation",
-  "hook": "Rising US price pressures are making gold less attractive.",
-  "what": "Gold prices slipped to their lowest level in more than a year as US inflation stayed high, sparking talks of higher interest rates. The decline was helped by a broader market sell‑off and cautious investors. Meanwhile, silver, platinum and palladium moved higher.",
-  "why": "For Indian teens, cheaper gold could affect savings plans and jewellery budgets, while the rise in other metals may open new investment ideas. Keep an eye on market trends before deciding on any purchase.",
-  "tags": [
-   "gold",
-   "inflation",
-   "investing",
-   "markets",
-   "youth"
-  ]
- },
- {
-  "id": "dc5689491809",
-  "created": "2026-11-26T09:44:47+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Times of India",
-  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGNpSHM4clNhWklaR2wyNjZQZVN0dnNQVjllZ25oNUJvTHhWblFDS29iazNLS2VQUHFsZ3BOWWI0Q3NwTXdrbGNpV19RbGo5QzVTZm1oUldKbnJSTm1VR1dWQ05ubzFuSElrY3hpX1l2WjM5cGo0aHZ3cWNoTS11d1VjazNTUGh4UFRTRnhOQXRpODJmRUVSR20wQTlPRDkyOUJqRTlxS2FUU2w5NDk1djBnWmdkampGM3FIcnh5cE1NbENZRjBCdnhzY05jaFB1cWhkN2I2U1RwWS1zTlRiY01qVmEtbHR3bzRXQy1kbjNWTmJvTmQ4eXh3eFJnemk5T29YVzlTejU4aXZ2RHdJaA?oc=5",
-  "headline": "US greenlights SpaceX's million‑satellite AI data centre plan",
-  "hook": "Space just got a data boost—find out why it matters.",
-  "what": "The United States has approved SpaceX’s proposal to launch one million satellites that will act as data centres in orbit. The satellites are intended to support AI workloads from space. The decision was announced by the FCC.",
-  "why": "This move shows how space is becoming part of the tech ecosystem, opening up new possibilities for services that rely on fast AI processing. Young Indians interested in tech and space can keep an eye on emerging career and innovation areas.",
-  "tags": [
-   "space",
-   "satellites",
-   "AI",
-   "tech",
-   "data"
   ]
  }
 ]

@@ -1,0 +1,46 @@
+{
+ "id": "d92bb2236ee9",
+ "created": "2026-11-27T01:29:24+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Parliament to meet from Nov 30 for major delimitation",
+  "hook": "A fresh electoral map could reshape future elections.",
+  "what": "The Lok Sabha will reconvene on November 30. The government plans a large‑scale delimitation exercise to redraw constituency boundaries.",
+  "why": "New constituency lines can affect representation and voting power, influencing policies that impact youth. Stay informed before the next elections.",
+  "tags": [
+   "Parliament",
+   "Delimitation",
+   "Elections",
+   "Youth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "പാർലമെന്റ് നവം മുപ്പതിന് വീണ്ടും കൂടിയ്ക്കും, വലിയ ഡിലിമിറ്റേഷൻ",
+  "hook": "പുതിയ തെരഞ്ഞെടുപ്പ് പരിധികൾ യുവജനങ്ങളുടെ ഭാവി രൂപപ്പെടുത്താം.",
+  "what": "ലോക്ക്സഭ നവം മുപ്പതിന് വീണ്ടും യോഗം ചെയ്യും. കേന്ദ്രം വലിയ ഡിലിമിറ്റേഷൻ പ്രക്രിയ ആരംഭിക്കാൻ പദ്ധതിയിടുന്നു, അതിലൂടെ തിരഞ്ഞെടുപ്പ് മേഖലകൾ പുനർവിന്യാസം ചെയ്യപ്പെടും.",
+  "why": "പുതിയ പരിധികൾ പ്രതിനിധിത്വം, വോട്ടിംഗ് ശക്തി എന്നിവയെ ബാധിക്കും, അതിനാൽ യുവജനങ്ങൾക്ക് നയങ്ങളിലേക്കുള്ള സ്വാധീനം ഉണ്ടാകും. അടുത്ത തിരഞ്ഞെടുപ്പുകൾക്ക് മുമ്പ് ഈ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "tags": [
+   "പാർലമെന്റ്",
+   "ഡിലിമിറ്റേഷൻ",
+   "തിരഞ്ഞെടുപ്പ്",
+   "യുവജനങ്ങൾ",
+   "ഇന്ത്യ"
+  ],
+  "say": "പുതിയ തെരഞ്ഞെടുപ്പ് പരിധികൾ യുവജനങ്ങളുടെ ഭാവി രൂപപ്പെടുത്താം. ലോക്ക്സഭ നവം മുപ്പതിന് വീണ്ടും യോഗം ചെയ്യും. കേന്ദ്രം വലിയ ഡിലിമിറ്റേഷൻ പ്രക്രിയ ആരംഭിക്കാൻ പദ്ധതിയിടുന്നു, അതിലൂടെ തിരഞ്ഞെടുപ്പ് മേഖലകൾ പുനർവിന്യാസം ചെയ്യപ്പെടും. പുതിയ പരിധികൾ പ്രതിനിധിത്വം, വോട്ടിംഗ് ശക്തി എന്നിവയെ ബാധിക്കും, അതിനാൽ യുവജനങ്ങൾക്ക് നയങ്ങളിലേക്കുള്ള സ്വാധീനം ഉണ്ടാകും. അടുത്ത തിരഞ്ഞെടുപ്പുകൾക്ക് മുമ്പ് ഈ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക.",
+  "ok": true,
+  "tags_en": [
+   "Parliament",
+   "Delimitation",
+   "Elections",
+   "Youth",
+   "India"
+  ]
+ }
+}

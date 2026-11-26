@@ -1,0 +1,46 @@
+{
+ "id": "f6cf8418949e",
+ "created": "2026-11-27T01:29:18+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/judicial-member-must-for-ed-attachment-cases-sc-101795721259035.html",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court says legal expert needed for ED attachment orders",
+  "hook": "Big court rules you can't leave major money freezes to non‑lawyers.",
+  "what": "The Supreme Court ruled that decisions on Enforcement Directorate attachment cases must involve a judicial member. It said such important decisions cannot be made by a member lacking a legal background.",
+  "why": "This ensures legal expertise in cases that can affect businesses and individuals, protecting rights. Stay aware of legal processes that could impact your finances.",
+  "tags": [
+   "SupremeCourt",
+   "LegalNews",
+   "ED",
+   "IndiaLaw",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "സൂപ്പ്രീം കോർട്ട് പറഞ്ഞു, ഇഡി അറ്റാച്മെന്റ് കേസുകളിൽ നിയമ വിദഗ്ധൻ ആവശ്യമാണ്",
+  "hook": "വലിയ പണം പിടിച്ചെടുക്കൽ തീരുമാനങ്ങൾ നിയമജ്ഞര്‍ക്ക് മാത്രം.",
+  "what": "സൂപ്പ്രീം കോർട്ട് നിർദേശിച്ചു, എൻഫോഴ്സ്മെന്റ് ഡയറക്ടറേറ്റിന്റെ അറ്റാച്മെന്റ് കേസുകളിൽ ഒരു ജഡ്ജി അംഗം ഉണ്ടായിരിക്കണം. നിയമപശ്ചാത്തലമില്ലാത്ത അംഗം ഇത്തരം പ്രധാന തീരുമാനങ്ങൾ എടുക്കാൻ പാടില്ലെന്ന് കോടതി പറഞ്ഞു.",
+  "why": "ഇത് വ്യക്തികളുടെയും ബിസിനസ്സുകളുടെയും അവകാശങ്ങൾ സംരക്ഷിക്കാൻ സഹായിക്കും. നിയമപ്രക്രിയകളെക്കുറിച്ച് അറിയുക, നിങ്ങളുടെ സാമ്പത്തിക സുരക്ഷയ്ക്ക് ഇത് പ്രധാനമാണ്.",
+  "tags": [
+   "SupremeCourt",
+   "നിയമവാർത്ത",
+   "ED",
+   "ഇന്ത്യനിയമ",
+   "യുവാക്കൾ"
+  ],
+  "say": "വലിയ പണം പിടിച്ചെടുക്കൽ തീരുമാനങ്ങൾ നിയമജ്ഞര്‍ക്ക് മാത്രം. സൂപ്പ്രീം കോർട്ട് നിർദേശിച്ചു, എൻഫോഴ്സ്മെന്റ് ഡയറക്ടറേറ്റിന്റെ അറ്റാച്മെന്റ് കേസുകളിൽ ഒരു ജഡ്ജി അംഗം ഉണ്ടായിരിക്കണം. നിയമപശ്ചാത്തലമില്ലാത്ത അംഗം ഇത്തരം പ്രധാന തീരുമാനങ്ങൾ എടുക്കാൻ പാടില്ലെന്ന് കോടതി പറഞ്ഞു. ഇത് വ്യക്തികളുടെയും ബിസിനസ്സുകളുടെയും അവകാശങ്ങൾ സംരക്ഷിക്കാൻ സഹായിക്കും. നിയമപ്രക്രിയകളെക്കുറിച്ച് അറിയുക, നിങ്ങളുടെ സാമ്പത്തിക സുരക്ഷയ്ക്ക് ഇത് പ്രധാനമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "SupremeCourt",
+   "LegalNews",
+   "ED",
+   "IndiaLaw",
+   "Youth"
+  ]
+ }
+}

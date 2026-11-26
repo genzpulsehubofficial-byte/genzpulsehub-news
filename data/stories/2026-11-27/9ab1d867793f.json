@@ -1,0 +1,43 @@
+{
+ "id": "9ab1d867793f",
+ "created": "2026-11-27T01:35:28+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "X Adds Parental Controls for Teens After 20 Years",
+  "hook": "Parents can now oversee what teens see on X.",
+  "what": "The social media platform X, linked to Elon Musk, brought in parental controls for teenagers. Such controls are meant to let parents and guardians oversee what minors see. The update came after a 20-year gap.",
+  "why": "This could affect how young people use social media. Parents and guardians now have a way to guide what children view on X.",
+  "tags": [
+   "X",
+   "ParentalControls",
+   "SocialMedia",
+   "Teens"
+  ]
+ },
+ "ml": {
+  "headline": "എക്സ്, ഇരുപത് വർഷത്തിന് ശേഷം കുട്ടികൾക്ക് മാതാപിതാക്കളുടെ നിയന്ത്രണങ്ങൾ നൽകി",
+  "hook": "മാതാപിതാക്കളെക്കുറിച്ച് ഇപ്പോൾ കുട്ടികളുടെ കാണുന്നത് നിയന്ത്രിക്കാം.",
+  "what": "എലോൺ മസ്കിന്റെ സോഷ്യൽ മീഡിയ പ്ലാറ്റ്ഫോമ് എക്സ് കുട്ടികൾക്ക് മാതാപിതാക്കളുടെ നിയന്ത്രണങ്ങൾ നൽകി. ഇവ അവരെ എന്ത് കാണണം എന്ന് മാതാപിതാക്കളെ നിയന്തിക്കാൻ സഹായിക്കും. ഈ മാറ്റം ഇരുപത് വർഷത്തിന് ശേഷം വന്നു.",
+  "why": "യുവാക്കൾക്ക് ഇത് സാമൂഹിക മീഡിയയുമായുള്ള ഉപയോഗത്തിൽ സ്വാധീനം ചെലുത്തും. മാതാപിതാക്കളെക്കുറിച്ച് കുട്ടികളുടെ അനുഭവം നിയന്ത്രിക്കാനുള്ള മാർഗമുണ്ട്.",
+  "tags": [
+   "X",
+   "ParentalControls",
+   "SocialMedia",
+   "Teens"
+  ],
+  "say": "എക്സ്, ഇരുപത് വർഷത്തിന് ശേഷം കുട്ടികൾക്ക് മാതാപിതാക്കളുടെ നിയന്ത്രണങ്ങൾ നൽകി. മാതാപിതാക്കളെക്കുറിച്ച് ഇപ്പോൾ കുട്ടികളുടെ കാണുന്നത് നിയന്ത്രിക്കാം. എലോൺ മസ്കിന്റെ സോഷ്യൽ മീഡിയ പ്ലാറ്റ്ഫോമ് എക്സ് കുട്ടികൾക്ക് മാതാപിതാക്കളുടെ നിയന്ത്രണങ്ങൾ നൽകി. ഇവ അവരെ എന്ത് കാണണം എന്ന് മാതാപിതാക്കളെ നിയന്തിക്കാൻ സഹായിക്കും. ഈ മാറ്റം ഇരുപത് വർഷത്തിന് ശേഷം വന്നു. യുവാക്കൾക്ക് ഇത് സാമൂഹിക മീഡിയയുമായുള്ള ഉപയോഗത്തിൽ സ്വാധീനം ചെലുത്തും. മാതാപിതാക്കളെക്കുറിച്ച് കുട്ടികളുടെ അനുഭവം നിയന്ത്രിക്കാനുള്ള മാർഗമുണ്ട്.",
+  "ok": true,
+  "tags_en": [
+   "X",
+   "ParentalControls",
+   "SocialMedia",
+   "Teens"
+  ]
+ }
+}
