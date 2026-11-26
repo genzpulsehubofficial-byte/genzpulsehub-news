@@ -1,0 +1,42 @@
+{
+ "id": "88b6eabe5da1",
+ "created": "2026-11-26T06:06:44+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "SpaceX gets US nod to deploy million satellites by 2040",
+  "hook": "Imagine internet servers floating above us—SpaceX’s new plan could make it real.",
+  "what": "The US Federal Communications Commission approved SpaceX’s plan to launch up to one million satellites that will host data centers in orbit. The clearance is effective through 2040, according to a filing released on Wednesday.",
+  "why": "This could boost global internet speeds and enable new cloud services, affecting how Indian teens access online content. Keep an eye on emerging space‑tech jobs and services.",
+  "tags": [
+   "space",
+   "tech",
+   "internet",
+   "future"
+  ]
+ },
+ "ml": {
+  "headline": "സ്പേസ്‌എക്സ്-ന് രണ്ടായിരം നാൽപത് വരെ ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് ലോഞ്ച് അനുമതി",
+  "hook": "വായു മുകളിലുള്ള ഡാറ്റാ സെന്ററുകൾ, നിങ്ങളുടെ ഇന്റർനെറ്റ് വേഗത വർദ്ധിപ്പിക്കും.",
+  "what": "അമേരിക്കയുടെ എഫ്സിസി, സ്പേസ്‌എക്സ്‑ന് ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് ലോഞ്ച് ചെയ്ത് അവയിൽ ഡാറ്റാ സെന്ററുകൾ സ്ഥാപിക്കാൻ അനുമതി നൽകി. ഈ അനുമതി രണ്ടായിരം നാൽപത് വരെ ബാധകമാണെന്ന് ചൊവ്വാഴ്ച വെബ്സൈറ്റിൽ പ്രസിദ്ധീകരിച്ച രേഖയിൽ പറയുന്നു.",
+  "why": "ഇത് ലോകവ്യാപകമായി ഇന്റർനെറ്റ് സേവനങ്ങൾ മെച്ചപ്പെടുത്താൻ സഹായിക്കും, ഇന്ത്യയിലെ യുവാക്കൾക്ക് വേഗതയേറിയ കണക്റ്റിവിറ്റി, പുതിയ ജോലികളിലേക്ക് വഴിയൊരുക്കും.",
+  "tags": [
+   "space",
+   "tech",
+   "internet",
+   "future"
+  ],
+  "say": "വായു മുകളിലുള്ള ഡാറ്റാ സെന്ററുകൾ, നിങ്ങളുടെ ഇന്റർനെറ്റ് വേഗത വർദ്ധിപ്പിക്കും. അമേരിക്കയുടെ എഫ്സിസി, സ്പേസ്‌എക്സ്‑ന് ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് ലോഞ്ച് ചെയ്ത് അവയിൽ ഡാറ്റാ സെന്ററുകൾ സ്ഥാപിക്കാൻ അനുമതി നൽകി. ഈ അനുമതി രണ്ടായിരം നാൽപത് വരെ ബാധകമാണെന്ന് ചൊവ്വാഴ്ച വെബ്സൈറ്റിൽ പ്രസിദ്ധീകരിച്ച രേഖയിൽ പറയുന്നു. ഇത് ലോകവ്യാപകമായി ഇന്റർനെറ്റ് സേവനങ്ങൾ മെച്ചപ്പെടുത്താൻ സഹായിക്കും, ഇന്ത്യയിലെ യുവാക്കൾക്ക് വേഗതയേറിയ കണക്റ്റിവിറ്റി, പുതിയ ജോലികളിലേക്ക് വഴിയൊരുക്കും.",
+  "tags_en": [
+   "space",
+   "tech",
+   "internet",
+   "future"
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "6660f88e5b5f",
+ "created": "2026-11-26T06:06:55+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Tesla Cybertruck tops used‑truck sales in US",
+  "hook": "A cancelled electric pickup is moving faster than any other used truck.",
+  "what": "In the United States, the used Tesla Cybertruck was the quickest to sell last month, spending only 39.1 days on average on the market. Other used trucks needed about 65.5 days to sell.",
+  "why": "The speed shows strong interest in electric trucks, a trend young buyers may want to watch for future rides.",
+  "tags": [
+   "Tesla",
+   "Cybertruck",
+   "usedcars",
+   "electric",
+   "trend"
+  ]
+ },
+ "ml": {
+  "headline": "ടെസ്ലാ സൈബർട്രക്ക് ഉപയോഗിച്ച ട്രക്കുകളിൽ വിൽപ്പനയിൽ മുകളിൽ",
+  "hook": "റദ്ദാക്കിയ ഇലക്ട്രിക് പിക്കപ്പ്, മറ്റ് ഉപയോഗിച്ച ട്രക്കുകളെക്കാൾ വേഗത്തിൽ വിറ്റു.",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിൽ, ഉപയോഗിച്ച ടെസ്ലാ സൈബർട്രക്ക് കഴിഞ്ഞ മാസം ഏറ്റവും വേഗത്തിൽ വിറ്റു, ശരാശരി മുപ്പത്തൊന്‍പത് പോയിന്റ് ഒന്ന് ദിവസം മാത്രമേ മാർക്കറ്റിൽ ഉണ്ടായിരുന്നുള്ളൂ. മറ്റ് ഉപയോഗിച്ച ട്രക്കുകൾക്ക് ഏകദേശം അറുപത്തഞ്ച് പോയിന്റ് അഞ്ച് ദിവസം വേണ്ടിവന്നു.",
+  "why": "ഇത് ഇലക്ട്രിക് ട്രക്കുകളുടെ ആവശ്യം ഉയർന്നതായി കാണിക്കുന്നു, യുവ വാങ്ങുന്നവർക്കു ഭാവിയിലെ വാഹനങ്ങളിൽ ശ്രദ്ധിക്കേണ്ട ഒരു ട്രെൻഡാണ്.",
+  "tags": [
+   "Tesla",
+   "Cybertruck",
+   "usedcars",
+   "electric",
+   "trend"
+  ],
+  "say": "റദ്ദാക്കിയ ഇലക്ട്രിക് പിക്കപ്പ്, മറ്റ് ഉപയോഗിച്ച ട്രക്കുകളെക്കാൾ വേഗത്തിൽ വിറ്റു. യുണൈറ്റഡ് സ്റ്റേറ്റ്സിൽ, ഉപയോഗിച്ച ടെസ്ലാ സൈബർട്രക്ക് കഴിഞ്ഞ മാസം ഏറ്റവും വേഗത്തിൽ വിറ്റു, ശരാശരി മുപ്പത്തൊന്‍പത് പോയിന്റ് ഒന്ന് ദിവസം മാത്രമേ മാർക്കറ്റിൽ ഉണ്ടായിരുന്നുള്ളൂ. മറ്റ് ഉപയോഗിച്ച ട്രക്കുകൾക്ക് ഏകദേശം അറുപത്തഞ്ച് പോയിന്റ് അഞ്ച് ദിവസം വേണ്ടിവന്നു. ഇത് ഇലക്ട്രിക് ട്രക്കുകളുടെ ആവശ്യം ഉയർന്നതായി കാണിക്കുന്നു, യുവ വാങ്ങുന്നവർക്കു ഭാവിയിലെ വാഹനങ്ങളിൽ ശ്രദ്ധിക്കേണ്ട ഒരു ട്രെൻഡാണ്.",
+  "tags_en": [
+   "Tesla",
+   "Cybertruck",
+   "usedcars",
+   "electric",
+   "trend"
+  ]
+ }
+}

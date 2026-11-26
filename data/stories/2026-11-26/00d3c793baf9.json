@@ -1,0 +1,41 @@
+{
+ "id": "00d3c793baf9",
+ "created": "2026-11-26T06:09:23+05:30",
+ "category": "tech",
+ "region": "world",
+ "breaking": false,
+ "source": "TechCrunch",
+ "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Anthropic CEO Rejects Claims Of Giving AI Control",
+  "hook": "AI developers may soon let AI handle more of their own work.",
+  "what": "Anthropic CEO Dario Amodei disagreed with rivals. They accused him of favoring human surrender to AI. The pushback came as leading AI companies increasingly automated their own research and model development.",
+  "why": "It matters as AI moves into research and model building. Young people should keep watching how human control is discussed in AI development.",
+  "tags": [
+   "AI",
+   "Anthropic",
+   "Tech",
+   "Automation"
+  ]
+ },
+ "ml": {
+  "headline": "ആന്‍ത്രോപ്പിക് നേതാവ് ഡാരിയോ അമോഡെയി എഐ നിയന്ത്രണം മനുഷ്യന്‍ കൈവശം വയ്ക്കുമെന്ന ആശങ്ക എതിർക്കുന്നു",
+  "hook": "എഐ സ്ഥാപകർ സ്വയം ഗവേഷണം നടത്താൻ തുടങ്ങി",
+  "what": "ആന്‍ത്രോപ്പിക് നേതാവ് ഡാരിയോ അമോഡെയി മറ്റ് എഐ സംഘടനകളെ എതിർത്ത്, മനുഷ്യ നിയന്ത്രണം എഐ കൈവശം വയ്ക്കും എന്ന് ഉറപ്പു നൽകി. പല എഐ കമ്പനികളും സ്വയം ഗവേഷണവും മോഡൽ വികസനവും നടത്തുന്നു",
+  "why": "യുവാക്കൾ എഐ വികസനത്തിൽ മനുഷ്യന്റെ സ്ഥാനം എങ്ങനെയെന്ന് ചോദ്യങ്ങൾ ഉയർത്തുന്നു. ഇത് ഭാവിയിലെ എഐ സാധ്യതകൾ സൂചിപ്പിക്കുന്നു",
+  "tags": [
+   "AI",
+   "Anthropic",
+   "സാങ്കേതികം"
+  ],
+  "say": "എഐ സ്ഥാപകർ സ്വയം ഗവേഷണം നടത്താൻ തുടങ്ങി. ആന്‍ത്രോപ്പിക് നേതാവ് ഡാരിയോ അമോഡെയി മറ്റ് എഐ സംഘടനകളെ എതിർത്ത്, മനുഷ്യ നിയന്ത്രണം എഐ കൈവശം വയ്ക്കും എന്ന് ഉറപ്പു നൽകി. പല എഐ കമ്പനികളും സ്വയം ഗവേഷണവും മോഡൽ വികസനവും നടത്തുന്നു. യുവാക്കൾ എഐ വികസനത്തിൽ മനുഷ്യന്റെ സ്ഥാനം എങ്ങനെയെന്ന് ചോദ്യങ്ങൾ ഉയർത്തുന്നു. ഇത് ഭാവിയിലെ എഐ സാധ്യതകൾ സൂചിപ്പിക്കുന്നു.",
+  "tags_en": [
+   "AI",
+   "Anthropic",
+   "Tech",
+   "Automation"
+  ]
+ }
+}

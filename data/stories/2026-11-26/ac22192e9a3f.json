@@ -1,0 +1,39 @@
+{
+ "id": "ac22192e9a3f",
+ "created": "2026-11-26T06:06:50+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/highway-authoritys-new-plan-to-help-motorists-after-accidents-breakdowns-12378050#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Highway Authority launches fast‑aid plan for accident and breakdown victims",
+  "hook": "Stuck on a highway? Help could be just minutes away.",
+  "what": "The Highway Authority announced a new scheme to provide immediate assistance to motorists involved in accidents or vehicle breakdowns. The program aims to improve road safety by ensuring quicker response times.",
+  "why": "For young travelers, faster help means less risk and less time stranded on busy roads. Stay aware of the new services and keep emergency contacts handy.",
+  "tags": [
+   "highwaysafety",
+   "roadhelp",
+   "travel"
+  ]
+ },
+ "ml": {
+  "headline": "ഹൈവേ അതോറിറ്റി അപകടമോ തകരാറോ നേരിടുന്ന ഡ്രൈവർമാർക്ക് വേഗത്തിലുള്ള സഹായം",
+  "hook": "ഹൈവേയിൽ കുടുങ്ങിയാൽ, സഹായം കുറച്ച് മിനിറ്റുകൾക്കുള്ളിൽ എത്തും",
+  "what": "ഹൈവേ അതോറിറ്റി അപകടമോ തകരാറോ നേരിടുന്ന ഡ്രൈവർമാർക്ക് ഉടൻ സഹായം നൽകുന്ന ഒരു പദ്ധതി പ്രഖ്യാപിച്ചു. ഇതിലൂടെ റോഡ് സുരക്ഷ മെച്ചപ്പെടുത്തുകയും, പ്രതികരണ സമയം കുറയ്ക്കുകയും ചെയ്യാനാണ് ലക്ഷ്യം.",
+  "why": "യുവ യാത്രക്കാരുടെ സുരക്ഷ ഉറപ്പാക്കാനും, വഴിയിൽ കുടുങ്ങി സമയം നഷ്ടപ്പെടാതിരിക്കാനായി ഇത് സഹായിക്കും. പുതിയ സേവനങ്ങളെക്കുറിച്ച് അറിഞ്ഞ്, അടിയന്തര നമ്പറുകൾ തയ്യാറാക്കി വയ്ക്കുക.",
+  "tags": [
+   "highwaysafety",
+   "roadhelp",
+   "travel"
+  ],
+  "say": "ഹൈവേയിൽ കുടുങ്ങിയാൽ, സഹായം കുറച്ച് മിനിറ്റുകൾക്കുള്ളിൽ എത്തും. ഹൈവേ അതോറിറ്റി അപകടമോ തകരാറോ നേരിടുന്ന ഡ്രൈവർമാർക്ക് ഉടൻ സഹായം നൽകുന്ന ഒരു പദ്ധതി പ്രഖ്യാപിച്ചു. ഇതിലൂടെ റോഡ് സുരക്ഷ മെച്ചപ്പെടുത്തുകയും, പ്രതികരണ സമയം കുറയ്ക്കുകയും ചെയ്യാനാണ് ലക്ഷ്യം. യുവ യാത്രക്കാരുടെ സുരക്ഷ ഉറപ്പാക്കാനും, വഴിയിൽ കുടുങ്ങി സമയം നഷ്ടപ്പെടാതിരിക്കാനായി ഇത് സഹായിക്കും. പുതിയ സേവനങ്ങളെക്കുറിച്ച് അറിഞ്ഞ്, അടിയന്തര നമ്പറുകൾ തയ്യാറാക്കി വയ്ക്കുക.",
+  "tags_en": [
+   "highwaysafety",
+   "roadhelp",
+   "travel"
+  ]
+ }
+}

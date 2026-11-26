@@ -1,0 +1,45 @@
+{
+ "id": "9b5f4cecb07a",
+ "created": "2026-11-26T06:09:29+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Medical News Today",
+ "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Drug combo shrinks pancreatic tumors in mouse study",
+  "hook": "A new drug mix made pancreatic tumours disappear in lab mice.",
+  "what": "An experimental drug combination caused pancreatic tumours to shrink and vanish in mice. The study reported tumour disappearance in 75% of the animals and triggered lasting immunity.",
+  "why": "If the results translate to humans, it could lead to new treatments for a deadly cancer that affects many young people’s families. Keep an eye on future clinical trials.",
+  "tags": [
+   "pancreatic cancer",
+   "drug combo",
+   "research",
+   "health",
+   "science"
+  ]
+ },
+ "ml": {
+  "headline": "മൗസ് പഠനത്തിൽ ഡ്രഗ് കൂട്ടം പാൻക്രിയാറ്റിക് കാൻസർ ട്യൂമർ ചുരുക്കി",
+  "hook": "പുതിയ മരുന്ന് കൂട്ടം മൗസുകളിൽ പാൻക്രിയാറ്റിക് കാൻസർ ട്യൂമർ ഇല്ലാതാക്കി.",
+  "what": "ഒരു പരീക്ഷണാത്മക മരുന്ന് കൂട്ടം മൗസുകളിൽ പാൻക്രിയാറ്റിക് കാൻസർ ട്യൂമറുകൾ ചുരുക്കി, ഇല്ലാതാക്കി. എഴുപത്തി അഞ്ചു ശതമാനം മൗസുകളിൽ കാൻസർ പൂർണ്ണമായി ഇല്ലാതായി, കൂടാതെ ദീർഘകാല പ്രതിരോധം സൃഷ്ടിച്ചു.",
+  "why": "ഇത് മനുഷ്യരിൽ ഫലപ്രദമാകുമെങ്കിൽ, ഒരു ഭയാനകമായ കാൻസറിന് പുതിയ ചികിത്സാ മാർഗങ്ങൾ തുറക്കാം, കുടുംബങ്ങളിലെ യുവജനങ്ങൾക്ക് പ്രതീക്ഷ നൽകും.",
+  "tags": [
+   "pancreatic cancer",
+   "drug combo",
+   "research",
+   "health",
+   "science"
+  ],
+  "say": "പുതിയ മരുന്ന് കൂട്ടം മൗസുകളിൽ പാൻക്രിയാറ്റിക് കാൻസർ ട്യൂമർ ഇല്ലാതാക്കി. ഒരു പരീക്ഷണാത്മക മരുന്ന് കൂട്ടം മൗസുകളിൽ പാൻക്രിയാറ്റിക് കാൻസർ ട്യൂമറുകൾ ചുരുക്കി, ഇല്ലാതാക്കി. എഴുപത്തി അഞ്ചു ശതമാനം മൗസുകളിൽ കാൻസർ പൂർണ്ണമായി ഇല്ലാതായി, കൂടാതെ ദീർഘകാല പ്രതിരോധം സൃഷ്ടിച്ചു. ഇത് മനുഷ്യരിൽ ഫലപ്രദമാകുമെങ്കിൽ, ഒരു ഭയാനകമായ കാൻസറിന് പുതിയ ചികിത്സാ മാർഗങ്ങൾ തുറക്കാം, കുടുംബങ്ങളിലെ യുവജനങ്ങൾക്ക് പ്രതീക്ഷ നൽകും.",
+  "tags_en": [
+   "pancreatic cancer",
+   "drug combo",
+   "research",
+   "health",
+   "science"
+  ]
+ }
+}
