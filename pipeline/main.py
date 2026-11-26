@@ -60,6 +60,27 @@ TEXT:
 """
 
 
+_DEP = set(chr(c) for c in list(range(0x0D3E, 0x0D4E)) + [0x0D57, 0x0D62, 0x0D63])
+
+
+def ml_ok(ml):
+    """Reject gibberish Malayalam: too much non-Malayalam, broken letters, replacement boxes."""
+    txt = " ".join(ml.get(k, "") for k in ("headline", "what", "why"))
+    if not txt.strip() or "\ufffd" in txt or "□" in txt:
+        return False
+    letters = [c for c in txt if c.isalpha() or 0x0D00 <= ord(c) <= 0x0D7F]
+    mal = sum(1 for c in letters if 0x0D00 <= ord(c) <= 0x0D7F)
+    if not letters or mal / len(letters) < 0.6:
+        return False
+    for w in txt.split():
+        if w[0] in _DEP or "\u0d4d\u0d4d" in w:
+            return False
+    say = ml.get("say", "")
+    if say and sum(1 for c in say if "a" <= c.lower() <= "z") > 8:   # spoken script should be all Malayalam
+        return False
+    return True
+
+
 def fix_ml(ml):
     try:
         raw, _ = ask(ML_FIX.format(text=json.dumps({k: ml.get(k, "") for k in ("headline", "hook", "what", "why")},
@@ -219,6 +240,11 @@ def main():
             print("rejected: copied wording")
             continue
         s["ml"] = fix_ml(s["ml"])
+        if not ml_ok(s["ml"]):
+            s["ml"] = fix_ml(s["ml"])          # second attempt
+        s["ml"]["ok"] = ml_ok(s["ml"])
+        if not s["ml"]["ok"]:
+            print("malayalam failed quality check; story kept English-only")
         s["ml"]["tags_en"] = s["en"].get("tags", [])
         sid = hashlib.sha1(it["link"].encode()).hexdigest()[:12]
         story = {
@@ -238,7 +264,7 @@ def main():
         cur = load(path, [])
         new = [{"id": s["id"], "created": s["created"], "category": s["category"], "breaking": s["breaking"],
                 "source": s["source"], "source_url": s["source_url"], **s[lang]}
-               for s in made if lang == "en" or s["region"] in ("in", "kl", "world")]
+               for s in made if lang == "en" or (s["region"] in ("in", "kl", "world") and s["ml"].get("ok", True))]
         save(path, (new + [c for c in cur if c["id"] not in {n["id"] for n in new}])[:40])
 
     # housekeeping: prune seen + old story folders

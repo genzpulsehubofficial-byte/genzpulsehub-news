@@ -24,12 +24,21 @@ LANG = sys.argv[1] if len(sys.argv) > 1 else "en"
 W, H = 1280, 720
 CYCLE = int(os.environ.get("STREAM_CYCLE_SEC", str(7 * 3600 + 50 * 60)))
 ADS_API = "https://genzpulsehub-ads.genzpulsehub-official.workers.dev/api/active"
-SITE = {"en": "https://genzpulsehub.pages.dev", "ml": "https://genzpulsehub.pages.dev/ml"}
+def _base():
+    try:
+        if urllib.request.urlopen("https://genzpulsehub.dpdns.org/", timeout=10).status == 200:
+            return "https://genzpulsehub.dpdns.org"
+    except Exception:
+        pass
+    return "https://genzpulsehub.pages.dev"
+
+
+SITE = {"en": _base(), "ml": _base() + "/ml"}   # re-checked at each restart (every ~8h)
 TXT = {
-    "en": {"live": "LIVE", "why": "WHY IT MATTERS", "next": "UP NEXT", "ad": "Advertise here → " + SITE["en"] + "/advertise",
+    "en": {"live": "LIVE", "why": "WHY IT MATTERS", "next": "UP NEXT", "ad": "Advertise here → " + SITE["en"].replace("https://", "") + "/advertise",
            "intro": "You're watching GenZ Pulse Hub, live news for your generation. Here's what's happening."},
     "ml": {"live": "തത്സമയം", "why": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും", "next": "അടുത്തത്",
-           "ad": "പരസ്യം നൽകാം: " + SITE["en"] + "/advertise",
+           "ad": "പരസ്യം നൽകാം: " + SITE["en"].replace("https://", "") + "/advertise",
            "intro": "നിങ്ങൾ കാണുന്നത് ജെൻ സി പൾസ് ഹബ് തത്സമയ വാർത്തകൾ. ഇതാ ഇപ്പോഴത്തെ വാർത്തകൾ."},
 }
 WORK = os.path.join(tempfile.gettempdir(), f"gph-{LANG}")
