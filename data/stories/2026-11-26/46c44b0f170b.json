@@ -1,0 +1,46 @@
+{
+ "id": "46c44b0f170b",
+ "created": "2026-11-26T21:13:59+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/missed-sip-installment-know-the-impact-on-your-bank-account-cibil-score-and-investments-11795705944352.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Missed SIP payment won’t hurt CIBIL but may cost fees",
+  "hook": "Skip a SIP? Your credit stays safe, but your bank might charge.",
+  "what": "If a SIP debit fails, the mutual fund units stay unchanged and the CIBIL score is not affected. Banks can levy a return charge for the failed transaction, and repeated failures may lead to SIP cancellation.",
+  "why": "Young investors should keep an eye on their bank balance to avoid fees and ensure regular SIP payments so their investment plan stays on track.",
+  "tags": [
+   "finance",
+   "SIP",
+   "investments",
+   "banking",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "എസ്‌ഐപി പേയ്മെന്റ് മിസ്സ്‌ചെയ്താൽ സി‌ബില്‍ ബാധിക്കില്ല, ഫീസ് വരാം",
+  "hook": "എസ്‌ഐപി അടയ്ക്കാൻ മറന്നോ? ക്രെഡിറ്റ് സുരക്ഷിതം, പക്ഷേ ബാങ്കിൽ ഫീസ് വരാം.",
+  "what": "എസ്‌ഐപി ഡെബിറ്റ് പരാജയപ്പെട്ടാൽ, നിങ്ങളുടെ മ്യൂച്ച്വൽ ഫണ്ട് യൂണിറ്റ് മാറ്റമില്ല, സി‌ബില്‍ സ്‌കോർ ബാധിക്കില്ല. ബാങ്ക് പരാജയത്തിന് റിട്ടേൺ ചാർജ് ചുമത്താം, പലവട്ടം പരാജയപ്പെട്ടാൽ എസ്‌ഐപി റദ്ദാക്കാം.",
+  "why": "യുവ നിക്ഷേപകർ ബാങ്ക് ബാലൻസ് പരിശോധിച്ച് ഫീസ് ഒഴിവാക്കുകയും, എസ്‌ഐപി സ്ഥിരമായി നടത്തുകയും ചെയ്യണം; അതുവഴി നിക്ഷേപം തുടർച്ചയായി വളരും.",
+  "tags": [
+   "ഫിനാൻസ്",
+   "SIP",
+   "നിക്ഷേപം",
+   "ബാങ്കിംഗ്",
+   "യുവാക്കൾ"
+  ],
+  "say": "എസ്‌ഐപി അടയ്ക്കാൻ മറന്നോ? ക്രെഡിറ്റ് സുരക്ഷിതം, പക്ഷേ ബാങ്കിൽ ഫീസ് വരാം. എസ്‌ഐപി ഡെബിറ്റ് പരാജയപ്പെട്ടാൽ, നിങ്ങളുടെ മ്യൂച്ച്വൽ ഫണ്ട് യൂണിറ്റ് മാറ്റമില്ല, സി‌ബില്‍ സ്‌കോർ ബാധിക്കില്ല. ബാങ്ക് പരാജയത്തിന് റിട്ടേൺ ചാർജ് ചുമത്താം, പലവട്ടം പരാജയപ്പെട്ടാൽ എസ്‌ഐപി റദ്ദാക്കാം. യുവ നിക്ഷേപകർ ബാങ്ക് ബാലൻസ് പരിശോധിച്ച് ഫീസ് ഒഴിവാക്കുകയും, എസ്‌ഐപി സ്ഥിരമായി നടത്തുകയും ചെയ്യണം; അതുവഴി നിക്ഷേപം തുടർച്ചയായി വളരും.",
+  "ok": true,
+  "tags_en": [
+   "finance",
+   "SIP",
+   "investments",
+   "banking",
+   "youth"
+  ]
+ }
+}
