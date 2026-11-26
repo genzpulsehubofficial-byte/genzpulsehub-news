@@ -523,6 +523,18 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1237985048749711"
+  },
+  "589a490b113a": {
+   "at": "2026-11-26 14:59",
+   "youtube": "https://youtube.com/shorts/j5oxBNlB8s4",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "error: {'error': {'message': 'We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More', 'ty"
+  },
+  "543cf37bbb82": {
+   "at": "2026-11-26 14:59",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18079254143474399",
+   "facebook": "skipped (daily cap/pause)"
   }
  }
 }

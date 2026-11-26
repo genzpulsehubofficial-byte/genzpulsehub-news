@@ -7,16 +7,18 @@
    "youtube": 2
   },
   "ml": {
-   "instagram": 26,
+   "instagram": 27,
    "facebook": 34,
-   "youtube": 2
+   "youtube": 3
   }
  },
- "pause": {},
- "blocked_today": false,
+ "pause": {
+  "ml:facebook": 1795726743.185025
+ },
+ "blocked_today": true,
  "last_yt": {
   "en": 1795687938.6024048,
-  "ml": 1795688061.8042371
+  "ml": 1795705107.489303
  },
  "cap": 50
 }
