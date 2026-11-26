@@ -93,6 +93,20 @@ def fix_ml(ml):
     return ml
 
 
+_TW = None
+
+
+def _tuned():
+    """Category multipliers learned from real performance (growth/insights.py)."""
+    global _TW
+    if _TW is None:
+        try:
+            _TW = json.load(open(os.path.join(DATA, "weights.json")))
+        except Exception:
+            _TW = {}
+    return _TW
+
+
 def now():
     return datetime.now(timezone.utc)
 
@@ -173,7 +187,8 @@ def rank(items, seen):
         srcs = {o["source"] for o in items if len(it["w"] & o["w"]) >= max(3, len(it["w"]) // 2)}
         it["sources"] = len(srcs)
         age_h = (now() - datetime.fromisoformat(it["ts"])).total_seconds() / 3600
-        it["score"] = (1 + 0.6 * (it["sources"] - 1)) * CATEGORY_WEIGHT.get(it["cat"], 1) / (1 + age_h / 3)
+        tuned = _tuned().get("en", {}).get(it["cat"], 1.0) if it["region"] != "kl" else _tuned().get("ml", {}).get(it["cat"], 1.0)
+        it["score"] = (1 + 0.6 * (it["sources"] - 1)) * CATEGORY_WEIGHT.get(it["cat"], 1) * tuned / (1 + age_h / 3)
         out.append(it)
     out.sort(key=lambda x: -x["score"])
     # pick top, avoid near-duplicates, keep category mix
