@@ -1,0 +1,46 @@
+{
+ "id": "d45bcf7dd7dd",
+ "created": "2026-11-26T09:18:20+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/india-pavilion-bags-visitors-lion-at-venice-biennale-pm-modi-calls-it-proud-moment-for-country/article71745067.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "India Pavilion wins Visitors’ Lion at Venice Biennale",
+  "hook": "A top award spotlights Indian art on the global stage.",
+  "what": "The Indian pavilion received the Visitors’ Lion at the Venice Biennale. Its exhibition, titled ‘Geographies of Distance: Remembering Home’, examined memory and belonging amid rapid change.",
+  "why": "The win highlights India’s cultural presence internationally, encouraging young artists to engage with global platforms.",
+  "tags": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "VisitorsLion",
+   "CulturalPride",
+   "YoungArtists"
+  ]
+ },
+ "ml": {
+  "headline": "വെനീസ് ബിയെന്നാലെയില്‍ ഇന്ത്യയുടെ പവിലിയന്‍ സന്ദർശക സിംഹം നേടി",
+  "hook": "ഈ വിജയം ആഗോള മഞ്ചത്തില്‍ ഇന്ത്യൻ കലയെ പ്രകാശിപ്പിക്കുന്നു.",
+  "what": "ഇന്ത്യയുടെ പവിലിയന്‍ വെനീസ് ബിയെന്നാലെയില്‍ സന്ദർശക സിംഹം നേടി. ‘Geographies of Distance: Remembering Home’ എന്ന ശീർഷകത്തില്‍ മെമ്മറി‑യും ബെലോങ്ങിംഗ്‑യും വേഗത്തില്‍ മാറുന്ന ലോകത്തില്‍ പരിശോധിച്ചു.",
+  "why": "ഇത് ഇന്ത്യയുടെ സാംസ്കാരിക സാന്നിധ്യം അന്തര്‍ദേശീയമായി തെളിയിക്കുന്നു, യുവ കലാകാരന്മാര്‍ക്ക് ലോകവ്യാപക പ്ലാറ്റ്ഫോം ഉപയോഗിക്കാന്‍ പ്രചോദനം നല്‍കുന്നു.",
+  "tags": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "VisitorsLion",
+   "CulturalPride",
+   "YoungArtists"
+  ],
+  "say": "ഈ വിജയം ആഗോള മഞ്ചത്തില്‍ ഇന്ത്യൻ കലയെ പ്രകാശിപ്പിക്കുന്നു. ഇന്ത്യയുടെ പവിലിയന്‍ വെനീസ് ബിയെന്നാലെയില്‍ സന്ദർശക സിംഹം നേടി. ‘ജിയോഗ്രാഫീസ് ഓഫ് ഡിസ്റ്റൻസ്: റിമെംബർിംഗ് ഹോം’ എന്ന ശീർഷകത്തില്‍ മെമ്മറി‑യും ബെലോങ്ങിംഗ്‑യും വേഗത്തില്‍ മാറുന്ന ലോകത്തില്‍ പരിശോധിച്ചു. ഇത് ഇന്ത്യയുടെ സാംസ്കാരിക സാന്നിധ്യം അന്തര്‍ദേശീയമായി തെളിയിക്കുന്നു, യുവ കലാകാരന്മാര്‍ക്ക് ലോകവ്യാപക പ്ലാറ്റ്ഫോം ഉപയോഗിക്കാന്‍ പ്രചോദനം നല്‍കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "VisitorsLion",
+   "CulturalPride",
+   "YoungArtists"
+  ]
+ }
+}

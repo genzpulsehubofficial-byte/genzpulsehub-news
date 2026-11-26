@@ -1,0 +1,46 @@
+{
+ "id": "71a2f03f55ba",
+ "created": "2026-11-26T09:18:27+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-teaser-reveals-design-ahead-of-december-8-launch-12378445",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nothing Ear (note) case unveiled: sleek square metallic design",
+  "hook": "A fresh look for your earbuds just before the launch.",
+  "what": "Nothing released a teaser showing the charging case for its Ear (note) earbuds. The case is shaped like a box with a square profile and a metallic finish. The product is slated to hit the market on December 8.",
+  "why": "The design hints at a premium feel that may attract style‑conscious teens. Keep an eye out if you plan to upgrade your earphones this year.",
+  "tags": [
+   "nothing",
+   "earnote",
+   "tech",
+   "launch",
+   "design"
+  ]
+ },
+ "ml": {
+  "headline": "Nothing Ear (note) കേസ് വെളിപ്പെട്ടു: ചതുരം, മെറ്റാലിക് രൂപം",
+  "hook": "ലോഞ്ചിന് മുമ്പ് ഈയർബഡ്സിന് പുതിയ ലുക്ക്.",
+  "what": "നത്തിംഗ് തന്റെ ഇയർ (നോട്ട്) ഈയർബഡ്സിന് ചാർജിംഗ് കേസ് കാണിക്കുന്ന ഒരു ടെസർ പുറത്തിറക്കി. കേസ് ചതുരാകൃതിയുള്ള, ബോക്സ് പോലുള്ള രൂപവും മെറ്റാലിക് ഫിനിഷും ഉള്ളതാണ്. ഈ പ്രോഡക്റ്റ് ഡിസംബർ എട്ട് ന് ലഭ്യമാകും.",
+  "why": "സ്റ്റൈൽ‑പ്രിയ യുവാക്കൾക്ക് പ്രീമിയം ഫീൽ നൽകാൻ ഇത് സഹായിക്കും. നിങ്ങൾക്ക് പുതിയ ഇയർഫോൺസ് വാങ്ങാൻ പ്ലാൻ ഉണ്ടെങ്കിൽ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "nothing",
+   "earnote",
+   "tech",
+   "launch",
+   "design"
+  ],
+  "say": "ലോഞ്ചിന് മുമ്പ് ഈയർബഡ്സിന് പുതിയ ലുക്ക്. നത്തിംഗ് തന്റെ ഇയർ (നോട്ട്) ഈയർബഡ്സിന് ചാർജിംഗ് കേസ് കാണിക്കുന്ന ഒരു ടെസർ പുറത്തിറക്കി. കേസ് ചതുരാകൃതിയുള്ള, ബോക്സ് പോലുള്ള രൂപവും മെറ്റാലിക് ഫിനിഷും ഉള്ളതാണ്. ഈ പ്രോഡക്റ്റ് ഡിസംബർ എട്ട് ന് ലഭ്യമാകും. സ്റ്റൈൽ‑പ്രിയ യുവാക്കൾക്ക് പ്രീമിയം ഫീൽ നൽകാൻ ഇത് സഹായിക്കും. നിങ്ങൾക്ക് പുതിയ ഇയർഫോൺസ് വാങ്ങാൻ പ്ലാൻ ഉണ്ടെങ്കിൽ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "nothing",
+   "earnote",
+   "tech",
+   "launch",
+   "design"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "5def14b4ab9a",
+ "created": "2026-11-26T09:26:14+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Bavarian Football Works",
+ "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaHBzSTBuOGlxakNJWXYybUUtT3pGZmN2Y3A2LVpvRDA2ZzlPT3hDbk53d2drVmMycndhZ3NNMk9LVURDWDZjYjhQQk50TU5aRlVVSS1CRzA1VkYwSXBPdXY0UXBXanljeERUaUcwV1AzUFBuT1kwUXRsanRpVjNtc2g0dHZhQno4bVhCTHZRTlBBREhEbW4yX0NSRm83ZlBrc0JuaW05M2REcHZoRFRRblNaR2ZEdF9Va1ZMYzN0dmU5cjg2Rm9kMnY0VGV6akRHcDZvS2lSYjg?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Lille Upset Bayern 2-1 in Champions League",
+  "hook": "A French side snatches Bayern’s first loss of the season.",
+  "what": "Lille turned the game around in the second half to beat Bayern Munich 2-1 in the UEFA Champions League on 26 November 2026. The victory ended Bayern’s unbeaten run for the campaign.",
+  "why": "The result shows that even top clubs can be vulnerable, reminding young fans that consistency matters in sports and life. Keep an eye on upcoming matches for more surprises.",
+  "tags": [
+   "ChampionsLeague",
+   "Lille",
+   "Bayern",
+   "Football",
+   "Upset"
+  ]
+ },
+ "ml": {
+  "headline": "ലീവറിനെ രണ്ട് ഒന്ന് ന് തോൽപ്പിച്ചു",
+  "hook": "ഫ്രഞ്ച് ടീമിന്റെ സീസണിലെ ആദ്യ പരാജയം ബയേൺനെ വരച്ചു.",
+  "what": "2026 നവംബർ 26-ന് യൂറോപ്പിലെ ചാമ്പ്യൻസ് ലീഗിൽ, ലീവർ രണ്ടാം പകുതിയിൽ തിരിച്ചെത്തി ബയേൺനെ 2-1 ന് പരാജയപ്പെടുത്തി. ഇതോടെ ബയേൺന്റെ സീസണിലെ അജയം അവസാനിച്ചു.",
+  "why": "മികച്ച ക്ലബുകൾക്കും വീഴ്ചകൾ ഉണ്ടാകാം എന്ന് ഇത് തെളിയിക്കുന്നു, യുവ ഫാൻമാർക്ക് സ്ഥിരതയുടെ പ്രാധാന്യം ഓർമ്മപ്പെടുത്തുന്നു. അടുത്റ മത്സരങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ചാംപ്യൻസ് ലീഗ്",
+   "ലില്ലെ",
+   "ബയേൺ",
+   "ഫുട്ബോൾ",
+   "അപ്രതീക്ഷിതം"
+  ],
+  "say": "ഹൂക്ക്: ഫ്രഞ്ച് ടീമിന്റെ സീസണിലെ ആദ്യ പരാജയം ബയേൺനെ വരച്ചു. വെറുതെ: ഇരട്ടായിരത്തി ഇരുപത്തിയഞ്ച് നവംബർ ഇരുപത്തിയഞ്ചിന് യൂറോപ്പിലെ ചാമ്പ്യൻസ് ലീഗിൽ ലീവറിന് രണ്ട് ഒന്ന് ന് പരാജയപ്പെടുത്തി. ഇതോടെ ബയേൺന്റെ സീസണിലെ അജയം അവസാനിച്ചു. വൈ: മികച്ച ക്ലബുകൾക്കും വീഴ്ചകൾ ഉണ്ടാകാം എന്ന് ഇത് തെളിയിക്കുന്നു, യുവ ഫാൻമാർക്ക് സ്ഥിരതയുടെ പ്രാധാന്യം ഓർമ്മപ്പെടുത്തുന്നു. അടുത്റ മത്സരങ്ങൾ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "ChampionsLeague",
+   "Lille",
+   "Bayern",
+   "Football",
+   "Upset"
+  ]
+ }
+}

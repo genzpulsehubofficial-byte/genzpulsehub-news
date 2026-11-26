@@ -1,0 +1,46 @@
+{
+ "id": "cd3d9b609eb1",
+ "created": "2026-11-26T09:26:21+05:30",
+ "category": "tech",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/india/solar-policy-shift-centre-proposes-curbs-on-profitable-net-metering-and-mandatory-battery-storage-cx9wmik1",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India drafts rules to curb net metering, add battery storage",
+  "hook": "Your rooftop solar could face new limits and storage rules soon.",
+  "what": "The central government released a draft of new solar regulations. The rules let state electricity commissions restrict profitable net‑metering arrangements, introduce special charges from April 1 2027, and require battery storage of up to 20 % of solar capacity from April 1 2028.",
+  "why": "These changes could affect households and schools planning solar panels, increasing costs and needing battery systems. Stay informed and consider the impact on any solar projects you’re involved with.",
+  "tags": [
+   "solar",
+   "netmetering",
+   "battery",
+   "energypolicy",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ സോളാർ നിയമം: നെറ്റ് മീറ്ററിംഗ് നിയന്ത്രണവും ബാറ്ററി സ്റ്റോറേജും",
+  "hook": "നിങ്ങളുടെ റൂഫ്ടോപ്പ് സോളാർ പദ്ധതിക്ക് പുതിയ നിയന്ത്രണങ്ങൾ വരാൻ സാധ്യതയുണ്ട്.",
+  "what": "കേന്ദ്രം പുതിയ സോളാർ നിയമത്തിന്റെ ഡ്രാഫ്റ്റ് പുറത്തിറക്കി. സംസ്ഥാന കമ്മീഷനുകൾക്ക് ലാഭകരമായ നെറ്റ് മീറ്ററിംഗ് പരിമിതപ്പെടുത്താനും, രണ്ടായിരത്തി ഇരുപത്തിഏഴു ഏപ്രിൽ ഒന്നുമുതൽ പ്രത്യേക ചാർജുകൾ ഏർപ്പാടാക്കാനും, രണ്ടായിരത്തി ഇരുപത്തിഎട്ട് ഏപ്രിൽ ഒന്നുമുതൽ സോളാർ ശേഷിയുടെ ഇരുപത് ശതമാനം വരെ ബാറ്ററി സ്റ്റോറേജ് നിർബന്ധമാക്കാനും അധികാരം ലഭിക്കും.",
+  "why": "ഇത് വീടുകൾക്കും സ്കൂളുകൾക്കും സോളാർ പാനലുകൾ സ്ഥാപിക്കാൻ ചെലവ് വർധിപ്പിക്കുകയും ബാറ്ററി സിസ്റ്റം ആവശ്യപ്പെടുകയും ചെയ്യും. നിങ്ങളുടെ സോളാർ പദ്ധതികളിൽ ഇതിന്റെ പ്രഭാവം അറിയാൻ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "solar",
+   "netmetering",
+   "battery",
+   "energypolicy",
+   "india"
+  ],
+  "say": "നിങ്ങളുടെ റൂഫ്ടോപ്പ് സോളാർ പദ്ധതിക്ക് പുതിയ നിയന്ത്രണങ്ങൾ വരാൻ സാധ്യതയുണ്ട്. കേന്ദ്രം പുതിയ സോളാർ നിയമത്തിന്റെ ഡ്രാഫ്റ്റ് പുറത്തിറക്കി. സംസ്ഥാന കമ്മീഷനുകൾക്ക് ലാഭകരമായ നെറ്റ് മീറ്ററിംഗ് പരിമിതപ്പെടുത്താനും, രണ്ടായിരത്തി ഇരുപത്തിഏഴു ഏപ്രിൽ ഒന്നുമുതൽ പ്രത്യേക ചാർജുകൾ ഏർപ്പാടാക്കാനും, രണ്ടായിരത്തി ഇരുപത്തിഎട്ട് ഏപ്രിൽ ഒന്നുമുതൽ സോളാർ ശേഷിയുടെ ഇരുപത് ശതമാനം വരെ ബാറ്ററി സ്റ്റോറേജ് നിർബന്ധമാക്കാനും അധികാരം ലഭിക്കും. ഇത് വീടുകൾക്കും സ്കൂളുകൾക്കും സോളാർ പാനലുകൾ സ്ഥാപിക്കാൻ ചെലവ് വർധിപ്പിക്കുകയും ബാറ്ററി സിസ്റ്റം ആവശ്യപ്പെടുകയും ചെയ്യും. നിങ്ങളുടെ സോളാർ പദ്ധതികളിൽ ഇതിന്റെ പ്രഭാവം അറിയാൻ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "solar",
+   "netmetering",
+   "battery",
+   "energypolicy",
+   "india"
+  ]
+ }
+}

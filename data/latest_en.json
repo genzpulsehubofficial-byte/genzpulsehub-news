@@ -1,5 +1,81 @@
 [
  {
+  "id": "d45bcf7dd7dd",
+  "created": "2026-11-26T09:18:20+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-pavilion-bags-visitors-lion-at-venice-biennale-pm-modi-calls-it-proud-moment-for-country/article71745067.ece",
+  "headline": "India Pavilion wins Visitors’ Lion at Venice Biennale",
+  "hook": "A top award spotlights Indian art on the global stage.",
+  "what": "The Indian pavilion received the Visitors’ Lion at the Venice Biennale. Its exhibition, titled ‘Geographies of Distance: Remembering Home’, examined memory and belonging amid rapid change.",
+  "why": "The win highlights India’s cultural presence internationally, encouraging young artists to engage with global platforms.",
+  "tags": [
+   "IndiaArt",
+   "VeniceBiennale",
+   "VisitorsLion",
+   "CulturalPride",
+   "YoungArtists"
+  ]
+ },
+ {
+  "id": "71a2f03f55ba",
+  "created": "2026-11-26T09:18:27+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/audio/news/nothing-ear-note-teaser-reveals-design-ahead-of-december-8-launch-12378445",
+  "headline": "Nothing Ear (note) case unveiled: sleek square metallic design",
+  "hook": "A fresh look for your earbuds just before the launch.",
+  "what": "Nothing released a teaser showing the charging case for its Ear (note) earbuds. The case is shaped like a box with a square profile and a metallic finish. The product is slated to hit the market on December 8.",
+  "why": "The design hints at a premium feel that may attract style‑conscious teens. Keep an eye out if you plan to upgrade your earphones this year.",
+  "tags": [
+   "nothing",
+   "earnote",
+   "tech",
+   "launch",
+   "design"
+  ]
+ },
+ {
+  "id": "5def14b4ab9a",
+  "created": "2026-11-26T09:26:14+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Bavarian Football Works",
+  "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaHBzSTBuOGlxakNJWXYybUUtT3pGZmN2Y3A2LVpvRDA2ZzlPT3hDbk53d2drVmMycndhZ3NNMk9LVURDWDZjYjhQQk50TU5aRlVVSS1CRzA1VkYwSXBPdXY0UXBXanljeERUaUcwV1AzUFBuT1kwUXRsanRpVjNtc2g0dHZhQno4bVhCTHZRTlBBREhEbW4yX0NSRm83ZlBrc0JuaW05M2REcHZoRFRRblNaR2ZEdF9Va1ZMYzN0dmU5cjg2Rm9kMnY0VGV6akRHcDZvS2lSYjg?oc=5",
+  "headline": "Lille Upset Bayern 2-1 in Champions League",
+  "hook": "A French side snatches Bayern’s first loss of the season.",
+  "what": "Lille turned the game around in the second half to beat Bayern Munich 2-1 in the UEFA Champions League on 26 November 2026. The victory ended Bayern’s unbeaten run for the campaign.",
+  "why": "The result shows that even top clubs can be vulnerable, reminding young fans that consistency matters in sports and life. Keep an eye on upcoming matches for more surprises.",
+  "tags": [
+   "ChampionsLeague",
+   "Lille",
+   "Bayern",
+   "Football",
+   "Upset"
+  ]
+ },
+ {
+  "id": "cd3d9b609eb1",
+  "created": "2026-11-26T09:26:21+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/india/solar-policy-shift-centre-proposes-curbs-on-profitable-net-metering-and-mandatory-battery-storage-cx9wmik1",
+  "headline": "India drafts rules to curb net metering, add battery storage",
+  "hook": "Your rooftop solar could face new limits and storage rules soon.",
+  "what": "The central government released a draft of new solar regulations. The rules let state electricity commissions restrict profitable net‑metering arrangements, introduce special charges from April 1 2027, and require battery storage of up to 20 % of solar capacity from April 1 2028.",
+  "why": "These changes could affect households and schools planning solar panels, increasing costs and needing battery systems. Stay informed and consider the impact on any solar projects you’re involved with.",
+  "tags": [
+   "solar",
+   "netmetering",
+   "battery",
+   "energypolicy",
+   "india"
+  ]
+ },
+ {
   "id": "7324d25a968e",
   "created": "2026-11-26T08:54:11+05:30",
   "category": "kerala",
@@ -672,82 +748,6 @@
    "barcelona",
    "gordon",
    "goal"
-  ]
- },
- {
-  "id": "5f60305e86ef",
-  "created": "2026-11-26T02:06:50+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "IMDb",
-  "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NcGIzbkR4cVNNSHpqSzdkTmJGY2R5U0NXN2ktcjFwR0NjbldjaWc4VVlydkhoSlV1OFBZblpiVlFYVzBKRnJESmtDRy13TVI0UU1mRHhmcVNhWGdBRmZRN3FURQ?oc=5",
-  "headline": "Ramayana Nears 1000 Crore Mark, Slows After Ticket Cut",
-  "hook": "The epic saga’s earnings get a boost, but the race slows.",
-  "what": "Bollywood’s ‘Ramayana’, starring Ranbir Kapoor, Sai Pallavi and Yash, entered its third week with net earnings around Rs 980 crore in India. After a 40 percent jump on day 20 following a ticket‑price reduction, the film failed to become the fastest to hit the 1000‑crore milestone, a record still held by ‘Dhurandhar 2’. It is also poised to overtake ‘Pushpa 2’ in worldwide gross.",
-  "why": "The price cut makes tickets cheaper, giving Gen‑Z a chance to catch the blockbuster. Watching box‑office trends can help you plan a cinema outing.",
-  "tags": [
-   "Ramayana",
-   "BoxOffice",
-   "Bollywood",
-   "Movies",
-   "GenZ"
-  ]
- },
- {
-  "id": "3f881bae8746",
-  "created": "2026-11-26T02:06:57+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Investopedia",
-  "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhSdzBFWmRZeGtpYnpQT1cteVNuVG5BUzhGd282NWNydGgtZmIxZkhJbmhJVWZJVk5rd1JGTHBXN2xQY21RWkJobDVPeXdjQ20tQzRxaE5wUmQxOU9Cc0pUOUV0QzdTMFdTSmZ2SG5oaVJGZ3RFMWZSSE9ZSzdfUVNkdTZyZHg4S3JRNXRnZm1mVHM0dGVmN2NR?oc=5",
-  "headline": "S&P 500, Nasdaq slide as Nvidia sparks AI sell‑off",
-  "hook": "AI hype cools down just before the holiday break.",
-  "what": "US equity markets slipped, with the S&P 500 and Nasdaq falling while the Dow managed a modest gain. Nvidia’s stock led a broader retreat in technology shares as concerns over artificial‑intelligence valuations grew. Investors shifted toward safer Treasury bonds.",
-  "why": "A dip in major indices can affect savings, part‑time jobs, and future investment plans for young Indians. Keep an eye on market trends and consider diversifying before the new year.",
-  "tags": [
-   "stockmarket",
-   "AI",
-   "Nvidia",
-   "investing",
-   "holidays"
-  ]
- },
- {
-  "id": "dc85126b0ac7",
-  "created": "2026-11-26T02:08:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-  "headline": "OpenAI Merges ChatGPT Chat and Work, Heavy Users May Face Sooner Limits",
-  "hook": "Heavy ChatGPT users might hit limits sooner.",
-  "what": "OpenAI plans to bring ChatGPT’s chat and work experiences together. It will use one usage meter for the service. Heavy users might run into the limits sooner.",
-  "why": "Heavy use may lead to earlier limits for young users. They may need to keep track of the single meter when it is introduced.",
-  "tags": [
-   "ChatGPT",
-   "OpenAI",
-   "AI",
-   "Tech",
-   "GenZ"
-  ]
- },
- {
-  "id": "d629e21d17d0",
-  "created": "2026-11-26T02:09:01+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
-  "headline": "Partner choice declared a constitutional right, not family privilege",
-  "hook": "Your love life is protected by the Constitution, says leader.",
-  "what": "Thirumavalavan said that picking a life partner is a fundamental freedom guaranteed by the Constitution. He stressed it is not a privilege given by family, caste or community.",
-  "why": "Knowing this right helps young people assert personal choices and push back against social pressure. It reminds them of legal protection when making relationship decisions.",
-  "tags": [
-   "partnerchoice",
-   "constitutionalrights",
-   "youth",
-   "socialjustice",
-   "India"
   ]
  }
 ]
