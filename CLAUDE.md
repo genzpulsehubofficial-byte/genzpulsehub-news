@@ -84,7 +84,7 @@ The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open th
 
 ## Pending (in order)
 2. Oracle VM (Always Free ARM, Mumbai) → Phase 2 24/7 stream to YouTube + Facebook; then open live ad slots.
-3. Cashfree domain whitelist; domain activation → switch SITE_URL to genzpulsehub.dpdns.org; Email Routing ads@ → Gmail.
+3. Cashfree: genzpulsehub.pages.dev APPROVED (2026-11-26, via Cashfree MCP; write tools enabled). TODO when domain live: whitelist https://genzpulsehub.dpdns.org, add it to Google Search Console (meta tag already in site) + sitemap, reconnect Pages custom domain, Email Routing ads@ → Gmail. Search Console: pages.dev verified + sitemap submitted 2026-11-26. Nameservers set at DigitalPlat 2026-11-26.
 5. Auto-replies (comments, ads inbox, IG DMs), inbound ad pitch, watchdog, weekly backup, corrections, copyright guard, Google News/Discover, monetisation tracker, affiliate links.
 6. Phase 6 analytics + Audience Pulse + volume ramp.
 7. Mobile header fix; replace dead feeds (Indian Express, Onmanorama).
