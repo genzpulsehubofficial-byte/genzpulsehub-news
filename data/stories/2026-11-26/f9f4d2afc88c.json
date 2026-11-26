@@ -1,0 +1,46 @@
+{
+ "id": "f9f4d2afc88c",
+ "created": "2026-11-26T09:47:34+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTGUwRnVNTEQzMDBGbk1iR09YZHpSYmFLcXVHSUNsMnVEQnd4Y2hyS2xtWG1heGRXTzh2SDUzMUF1V0pDb3UzRTVnUlJIM2Z0bEhUYklwMjJQMkVIbnhKVEFQc3ZPYTNicmFDNjYtcm5jNmh1WFlxMzZ1QlRxZTJZeHA3bG1ZU0c1WDZZMmwxS0lzUjVwLVdVOVRrMDI4RGtCQ0IwWUhjNDg5V3hLX19FYmQ3MjJnRFhZZ19HMEJfTTAwcXNNS2E1Q2FLcFlKcUhhVll2d2w3ZENkNjdidzZKdE9wNFE3VktiUWFFNFV4MGJFWjdXVXpnT1NEVzQ4dTA4RUwwTVplVQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India pitches 2036 Olympic bid, highlights infrastructure",
+  "hook": "A fresh push for the Games could reshape India's sports scene.",
+  "what": "The Indian Olympic Association will present its 2036 Olympic bid to the IOC today, emphasizing new facilities and eco‑friendly projects. The presentation also points to the country's track record in hosting events.",
+  "why": "Winning the bid could bring major development and global exposure, so young athletes should stay tuned for upcoming opportunities.",
+  "tags": [
+   "Olympics",
+   "India",
+   "Sports",
+   "Infrastructure",
+   "Sustainability"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ 2036 ഒളിമ്പിക് ബിഡ് അവതരിപ്പിക്കുന്നു, അടിസ്ഥാന സൗകര്യങ്ങള്‍ മുന്‍നിര്‍ത്തി",
+  "hook": "പുതിയ ഗെയിംസ് പദ്ധതിയോടെ ഇന്ത്യയുടെ കായിക രംഗം മാറ്റം കാണാന്‍ കഴിയും.",
+  "what": "ഇന്ത്യന്‍ ഒളിമ്പിക് അസോസിയേഷന്‍ ഇന്ന് ഐഒസിക്കു 2036 ഒളിമ്പിക് ബിഡ് അവതരിപ്പിച്ച് പുതിയ കെട്ടിടങ്ങളും പരിസ്ഥിതി സൗഹൃദ പദ്ധതികളും ഊന്നിപ്പറയുന്നു. രാജ്യത്തിന്റെ ഇവന്റ് ഹോസ്റ്റിംഗ് റെക്കോഡും ഇതില്‍ ഉള്‍പ്പെടുന്നു.",
+  "why": "ബിഡ് വിജയിച്ചാല്‍ വലിയ വികസനവും അന്തര്‍ദേശീയ ശ്രദ്ധയും ലഭിക്കും, അതിനാല്‍ യുവ കായികതാരങ്ങള്‍ അവസരങ്ങള്‍ക്കായി കണ്ണ് തുറക്കണം.",
+  "tags": [
+   "ഒളിമ്പിക്",
+   "ഇന്ത്യ",
+   "കായികം",
+   "അടിസ്ഥാനസൗകര്യം",
+   "സ്ഥിരത"
+  ],
+  "say": "പുതിയ ഗെയിംസ് പദ്ധതിയോടെ ഇന്ത്യയുടെ കായിക രംഗം മാറ്റം കാണാന്‍ കഴിയും. ഇന്ത്യന്‍ ഒളിമ്പിക് അസോസിയേഷന്‍ ഇന്ന് ഐഒസിക്കു ഇരുന്നൂറു മുപ്പത്തി ആറു ഒളിമ്പിക് ബിഡ് അവതരിപ്പിച്ച് പുതിയ കെട്ടിടങ്ങളും പരിസ്ഥിതി സൗഹൃദ പദ്ധതികളും ഊന്നിപ്പറയുന്നു. രാജ്യത്തിന്റെ ഇവന്റ് ഹോസ്റ്റിംഗ് റെക്കോഡും ഇതില്‍ ഉള്‍പ്പെടുന്നു. ബിഡ് വിജയിച്ചാല്‍ വലിയ വികസനവും അന്തര്‍ദേശീയ ശ്രദ്ധയും ലഭിക്കും, അതിനാല്‍ യുവ കായികതാരങ്ങള്‍ അവസരങ്ങള്‍ക്കായി കണ്ണ് തുറക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Olympics",
+   "India",
+   "Sports",
+   "Infrastructure",
+   "Sustainability"
+  ]
+ }
+}

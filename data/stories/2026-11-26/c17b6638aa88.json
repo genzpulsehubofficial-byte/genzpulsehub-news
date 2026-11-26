@@ -1,0 +1,46 @@
+{
+ "id": "c17b6638aa88",
+ "created": "2026-11-26T09:44:59+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Congress launches Samvidhan Raksha marches on Constitution Day",
+  "hook": "Youth urged to protect voting rights as parties hit the streets",
+  "what": "On Constitution Day, the Congress party announced a series of Samvidhan Raksha marches across several states. The rallies target alleged tampering of electoral rolls and criticize the Election Commission for not safeguarding the right to vote. Prime Minister Modi described the day as a celebration of India's priceless democratic heritage.",
+  "why": "Voting is a core civic duty; staying aware of electoral integrity helps young Indians protect the future of their democracy.",
+  "tags": [
+   "constitutionday",
+   "votingrights",
+   "youthvoice",
+   "india",
+   "democracy"
+  ]
+ },
+ "ml": {
+  "headline": "കോംഗ്രസ് സംവिधान രക്ഷാ മാര്‍ച്ചുകള്‍ ഭരണദിനത്തില്‍",
+  "hook": "യുവാക്കള്‍ക്ക് വോട്ടിംഗ് അവകാശം സംരക്ഷിക്കാന്‍ സമയം",
+  "what": "സംവिधान ദിനത്തില്‍ കോംഗ്രസ് രാജ്യത്തെ വിവിധ സംസ്ഥാനങ്ങളിലായി 'സംവिधान രക്ഷ' മാര്‍ച്ചുകള്‍ നടത്താൻ പ്രഖ്യാപിച്ചു. തിരഞ്ഞെടുപ്പ് പട്ടികകളിലെ ചതിയ്ക്കും തിരഞ്ഞെടുപ്പ് കമ്മീഷന്റെ പ്രവര്‍ത്തനങ്ങളിലുമുള്ള കുറവുകൾക്കും ഇത് എതിര്‍പ്പായി പ്രകടിപ്പിക്കുന്നു. പ്രധാനമന്ത്രി മോഡി, സംവिधान ദിനം ഇന്ത്യയുടെ വിലമതിക്കാനാവാത്ത ജനാധിപത്യ പൈതൃകത്തെ ആഘോഷിക്കുന്നതാണെന്ന് പറഞ്ഞു.",
+  "why": "വോട്ടിംഗ് ഒരു പ്രധാന പൗരകർത്തവയാണ്; തിരഞ്ഞെടുപ്പിന്റെ സുതാര്യത ഉറപ്പാക്കാൻ യുവാക്കൾ വിവരങ്ങൾ അറിയണം.",
+  "tags": [
+   "സംവिधानദിനം",
+   "വോട്ടിംഗ്",
+   "യുവാക്കൾ",
+   "ജനാധിപത്യം",
+   "ഇന്ത്യ"
+  ],
+  "say": "യുവാക്കള്‍ക്ക് വോട്ടിംഗ് അവകാശം സംരക്ഷിക്കാന്‍ സമയം. സംവिधान ദിനത്തില്‍ കോംഗ്രസ് രാജ്യത്തെ വിവിധ സംസ്ഥാനങ്ങളിലായി 'സംവिधान രക്ഷ' മാര്‍ച്ചുകള്‍ നടത്താൻ പ്രഖ്യാപിച്ചു. തിരഞ്ഞെടുപ്പ് പട്ടികകളിലെ ചതിയ്ക്കും തിരഞ്ഞെടുപ്പ് കമ്മീഷന്റെ പ്രവര്‍ത്തനങ്ങളിലുമുള്ള കുറവുകൾക്കും ഇത് എതിര്‍പ്പായി പ്രകടിപ്പിക്കുന്നു. പ്രധാനമന്ത്രി മോഡി, സംവिधान ദിനം ഇന്ത്യയുടെ വിലമതിക്കാനാവാത്ത ജനാധിപത്യ പൈതൃകത്തെ ആഘോഷിക്കുന്നതാണെന്ന് പറഞ്ഞു. വോട്ടിംഗ് ഒരു പ്രധാന പൗരകർത്തവയാണ്; തിരഞ്ഞെടുപ്പിന്റെ സുതാര്യത ഉറപ്പാക്കാൻ യുവാക്കൾ വിവരങ്ങൾ അറിയണം.",
+  "ok": true,
+  "tags_en": [
+   "constitutionday",
+   "votingrights",
+   "youthvoice",
+   "india",
+   "democracy"
+  ]
+ }
+}

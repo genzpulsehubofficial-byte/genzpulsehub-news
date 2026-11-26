@@ -1,0 +1,46 @@
+{
+ "id": "d85d6e2fe2b0",
+ "created": "2026-11-26T09:47:28+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Onmanorama",
+ "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNFpLN2JVbFBSQ0J5bGEybkdDc2MzRFoxZGd5LU5US3lTcEtTNzFWZ3lhUElfYU8yeHAxWHc5M005eWRvSjVIR0RTQzhHMl9fYlNhQUJEZUE2MFM2OUlGR2RRUDhHQXQ3bnVTMFhyS0t0cnFuLUxseTRuYkJlVGZTbkZtUFA3SWpHd2ZIR2ZzRDVka1ZMNlZDcFl1NVBxUVF1dUZHQ1V5QmRROXM1VW5ZTDBVWUFsdFNLMG1WZmNoZHF4S1d0SDdHbmxybV8?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Vigilance probe finds approval lapses at Mankulam resort",
+  "hook": "A watchdog flags red flags in a new holiday spot.",
+  "what": "A vigilance report has highlighted irregularities in the approval process for the Mankulam resort. Authorities noted that the clearances did not follow standard procedures. The findings have been sent for further review.",
+  "why": "Young people should stay aware of how public projects are vetted, as it impacts local jobs and the environment. Keep an eye on updates if you plan to visit.",
+  "tags": [
+   "Kerala",
+   "Vigilance",
+   "Tourism",
+   "Mankulam",
+   "Transparency"
+  ]
+ },
+ "ml": {
+  "headline": "വിസിലൻസ് റിപ്പോർട്ട് മങ്കുളം റിസോർട്ടിന്റെ അനുമതി പ്രശ്നങ്ങൾ കണ്ടെത്തി",
+  "hook": "പുതിയ ഹോൾഡേ സ്‌പോട്ടിന്റെ അനുമതികളിൽ ചോദ്യചിഹ്നം!",
+  "what": "വിസിലൻസ് റിപ്പോർട്ട് മങ്കുളം റിസോർട്ടിന്റെ അനുമതി പ്രക്രിയയിൽ അസാധാരണതകൾ കണ്ടെത്തിയതായി അറിയിച്ചു. അംഗീകാരങ്ങൾ സാധാരണ നടപടികളോട് പൊരുത്തപ്പെടുന്നില്ലെന്ന് കണ്ടെത്തി. ഈ കണ്ടെത്തലുകൾ കൂടുതൽ പരിശോധനയ്ക്ക് അയച്ചു.",
+  "why": "പബ്ലിക് പ്രോജക്റ്റുകളുടെ പരിശോധനയിൽ ശ്രദ്ധിക്കേണ്ടത് യുവാക്കൾക്കു പ്രധാനമാണ്, ഇത് തൊഴിലും പരിസ്ഥിതിയും ബാധിക്കും. സന്ദർശനം പ്ലാൻ ചെയ്യുമ്പോൾ അപ്ഡേറ്റുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "വിജിലൻസ്",
+   "ടൂറിസം",
+   "മങ്കുളം",
+   "പാര്‍ദര്‍ശിത്വം"
+  ],
+  "say": "പുതിയ ഹോൾഡേ സ്‌പോട്ടിന്റെ അനുമതികളിൽ ചോദ്യചിഹ്നം! വിസിലൻസ് റിപ്പോർട്ട് മങ്കുളം റിസോർട്ടിന്റെ അനുമതി പ്രക്രിയയിൽ അസാധാരണതകൾ കണ്ടെത്തിയതായി അറിയിച്ചു. അംഗീകാരങ്ങൾ സാധാരണ നടപടികളോട് പൊരുത്തപ്പെടുന്നില്ലെന്ന് കണ്ടെത്തി. ഈ കണ്ടെത്തലുകൾ കൂടുതൽ പരിശോധനയ്ക്ക് അയച്ചു. പബ്ലിക് പ്രോജക്റ്റുകളുടെ പരിശോധനയിൽ ശ്രദ്ധിക്കേണ്ടത് യുവാക്കൾക്കു പ്രധാനമാണ്, ഇത് തൊഴിലും പരിസ്ഥിതിയും ബാധിക്കും. സന്ദർശനം പ്ലാൻ ചെയ്യുമ്പോൾ അപ്ഡേറ്റുകൾ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "Vigilance",
+   "Tourism",
+   "Mankulam",
+   "Transparency"
+  ]
+ }
+}

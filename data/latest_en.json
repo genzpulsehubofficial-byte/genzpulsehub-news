@@ -1,5 +1,100 @@
 [
  {
+  "id": "dc5689491809",
+  "created": "2026-11-26T09:44:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGNpSHM4clNhWklaR2wyNjZQZVN0dnNQVjllZ25oNUJvTHhWblFDS29iazNLS2VQUHFsZ3BOWWI0Q3NwTXdrbGNpV19RbGo5QzVTZm1oUldKbnJSTm1VR1dWQ05ubzFuSElrY3hpX1l2WjM5cGo0aHZ3cWNoTS11d1VjazNTUGh4UFRTRnhOQXRpODJmRUVSR20wQTlPRDkyOUJqRTlxS2FUU2w5NDk1djBnWmdkampGM3FIcnh5cE1NbENZRjBCdnhzY05jaFB1cWhkN2I2U1RwWS1zTlRiY01qVmEtbHR3bzRXQy1kbjNWTmJvTmQ4eXh3eFJnemk5T29YVzlTejU4aXZ2RHdJaA?oc=5",
+  "headline": "US greenlights SpaceX's million‑satellite AI data centre plan",
+  "hook": "Space just got a data boost—find out why it matters.",
+  "what": "The United States has approved SpaceX’s proposal to launch one million satellites that will act as data centres in orbit. The satellites are intended to support AI workloads from space. The decision was announced by the FCC.",
+  "why": "This move shows how space is becoming part of the tech ecosystem, opening up new possibilities for services that rely on fast AI processing. Young Indians interested in tech and space can keep an eye on emerging career and innovation areas.",
+  "tags": [
+   "space",
+   "satellites",
+   "AI",
+   "tech",
+   "data"
+  ]
+ },
+ {
+  "id": "85c218e7067d",
+  "created": "2026-11-26T09:44:52+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
+  "headline": "SEBI eases KYC for multiple investment accounts",
+  "hook": "Fewer forms, faster access to your demat and mutual fund accounts.",
+  "what": "The securities regulator introduced eight new measures to streamline KYC for people opening demat, trading or mutual fund accounts with several providers. The changes cut down paperwork and stop the need for repeated identity checks.",
+  "why": "Young investors can now set up multiple accounts quicker, saving time and effort. Keep your documents ready and follow the updated guidelines when you sign up.",
+  "tags": [
+   "SEBI",
+   "KYC",
+   "investing",
+   "demat",
+   "mutualfunds"
+  ]
+ },
+ {
+  "id": "c17b6638aa88",
+  "created": "2026-11-26T09:44:59+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+  "headline": "Congress launches Samvidhan Raksha marches on Constitution Day",
+  "hook": "Youth urged to protect voting rights as parties hit the streets",
+  "what": "On Constitution Day, the Congress party announced a series of Samvidhan Raksha marches across several states. The rallies target alleged tampering of electoral rolls and criticize the Election Commission for not safeguarding the right to vote. Prime Minister Modi described the day as a celebration of India's priceless democratic heritage.",
+  "why": "Voting is a core civic duty; staying aware of electoral integrity helps young Indians protect the future of their democracy.",
+  "tags": [
+   "constitutionday",
+   "votingrights",
+   "youthvoice",
+   "india",
+   "democracy"
+  ]
+ },
+ {
+  "id": "d85d6e2fe2b0",
+  "created": "2026-11-26T09:47:28+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Onmanorama",
+  "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNFpLN2JVbFBSQ0J5bGEybkdDc2MzRFoxZGd5LU5US3lTcEtTNzFWZ3lhUElfYU8yeHAxWHc5M005eWRvSjVIR0RTQzhHMl9fYlNhQUJEZUE2MFM2OUlGR2RRUDhHQXQ3bnVTMFhyS0t0cnFuLUxseTRuYkJlVGZTbkZtUFA3SWpHd2ZIR2ZzRDVka1ZMNlZDcFl1NVBxUVF1dUZHQ1V5QmRROXM1VW5ZTDBVWUFsdFNLMG1WZmNoZHF4S1d0SDdHbmxybV8?oc=5",
+  "headline": "Vigilance probe finds approval lapses at Mankulam resort",
+  "hook": "A watchdog flags red flags in a new holiday spot.",
+  "what": "A vigilance report has highlighted irregularities in the approval process for the Mankulam resort. Authorities noted that the clearances did not follow standard procedures. The findings have been sent for further review.",
+  "why": "Young people should stay aware of how public projects are vetted, as it impacts local jobs and the environment. Keep an eye on updates if you plan to visit.",
+  "tags": [
+   "Kerala",
+   "Vigilance",
+   "Tourism",
+   "Mankulam",
+   "Transparency"
+  ]
+ },
+ {
+  "id": "f9f4d2afc88c",
+  "created": "2026-11-26T09:47:34+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTGUwRnVNTEQzMDBGbk1iR09YZHpSYmFLcXVHSUNsMnVEQnd4Y2hyS2xtWG1heGRXTzh2SDUzMUF1V0pDb3UzRTVnUlJIM2Z0bEhUYklwMjJQMkVIbnhKVEFQc3ZPYTNicmFDNjYtcm5jNmh1WFlxMzZ1QlRxZTJZeHA3bG1ZU0c1WDZZMmwxS0lzUjVwLVdVOVRrMDI4RGtCQ0IwWUhjNDg5V3hLX19FYmQ3MjJnRFhZZ19HMEJfTTAwcXNNS2E1Q2FLcFlKcUhhVll2d2w3ZENkNjdidzZKdE9wNFE3VktiUWFFNFV4MGJFWjdXVXpnT1NEVzQ4dTA4RUwwTVplVQ?oc=5",
+  "headline": "India pitches 2036 Olympic bid, highlights infrastructure",
+  "hook": "A fresh push for the Games could reshape India's sports scene.",
+  "what": "The Indian Olympic Association will present its 2036 Olympic bid to the IOC today, emphasizing new facilities and eco‑friendly projects. The presentation also points to the country's track record in hosting events.",
+  "why": "Winning the bid could bring major development and global exposure, so young athletes should stay tuned for upcoming opportunities.",
+  "tags": [
+   "Olympics",
+   "India",
+   "Sports",
+   "Infrastructure",
+   "Sustainability"
+  ]
+ },
+ {
   "id": "d873b9c25a4e",
   "created": "2026-11-26T09:29:49+05:30",
   "category": "headlines",
@@ -654,100 +749,6 @@
    "Arson",
    "Crime",
    "News"
-  ]
- },
- {
-  "id": "dace16bca612",
-  "created": "2026-11-26T04:09:00+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/delhi-police-arrests-four-suspects-in-crypto-fraud-case/",
-  "headline": "Delhi Police nab four in crypto fraud sting",
-  "hook": "A cyber squad cracks a crypto scam in the capital.",
-  "what": "The Delhi Police cyber unit said it dismantled an organised cryptocurrency fraud network and arrested four people. The arrests were announced in an official statement.",
-  "why": "Young investors should be cautious with online crypto offers and verify platforms before trusting them.",
-  "tags": [
-   "crypto",
-   "fraud",
-   "DelhiPolice",
-   "cybercrime",
-   "youth"
-  ]
- },
- {
-  "id": "a0eb20a431e2",
-  "created": "2026-11-26T04:13:54+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Notebookcheck",
-  "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTFnN0F2RXRmcU9QdkF6cEZFX1RZV1hiUzlVajhNTXFrcHYxV1c4YXNYUnFDeE9VMU9rYlNDNGI0S2pONUM4ZGRfQ2N4MUxfSmNaNTBXZlBVWGljLThZUVRuZDB1ZnVWUDdQcHFvX2p5R1l4bVdkWnJwRHB0WFJzdkthcE9nU0hRNWNsSXRDUjJRRGxvS3FrallncjdCdVFOZS1jVEhnVWNzN192bWhSaXZMem1SVnNxMHU5bmJQNA?oc=5",
-  "headline": "GTA 6 leak runs on jailbroken PS5, spikes piracy",
-  "hook": "Your PS5 could be used to run an illegal GTA 6 copy.",
-  "what": "A leaked GTA 6 build is now executable on a jailbroken PS5 console. The same dump also enables PC emulation, and Rockstar’s parent company has taken down an unauthorized PC port.",
-  "why": "This shows how console hacks can spread illegal game copies, risking bans and legal trouble. Teens should avoid downloading or using such files.",
-  "tags": [
-   "GTA6",
-   "PS5",
-   "piracy",
-   "gaming",
-   "tech"
-  ]
- },
- {
-  "id": "1bfafefd9039",
-  "created": "2026-11-26T04:14:02+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Moneycontrol.com",
-  "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWlVZmVoUnY1REF0aWtUUEh5VE5KdXI0RWZ3RUQwazBoOVFUcVZfNUJfNHZNNW9qbENJUmF6eU4tZmdaNDZHUnhLbDViejBkV3VPdW9HZWNyY3lPbnFMTUF3U0dWREVWOExYaVNFbnJPMzhJTlBVYUFNalN1dnYwSURCRHc2cDZBbFFnOGJVWkFXQjJLM1ozaTg0bWI0eW5MMldVTDFjcUh4bVJmQlpsdUhidG5GTDFRbWd5UnRHenRHNC1hYVU5Q1FXcGNrS2dEdkdNStIB2gFBVV95cUxNc3FXQUxoN2ZrSW50X2dxV0JoWGlqbWRxMlA1a3J4Yy1hVDZhRWZhNjhWMFNBcW1ieDZGcGlCUFRQb013X25KQkx4VE9feHppVEJrM0FPNnRDLWFBT1JNSWg3ek1LaHA5NVZQaHZRbFRVem5mLUdnS2dyN1doWGE3Nk5saXZ6bWlWaTFuRHpzbGVwd1dBeFc2bjdwUkRFcUhTdTc4WWg4T3Q2NmxNdnJjNU9SUmVQVHZfbkNrODduRWxiVHJrbWM5RWJpVFA1eXNBSUs5QkdSQ2llUQ?oc=5",
-  "headline": "Nifty & Bank Nifty May Rebound After Profit Booking",
-  "hook": "Markets could swing sharply as traders unwind positions.",
-  "what": "Ahead of the November F&O expiry, profit taking has weighed on Nifty 50 and Bank Nifty. TradingView shows the Nifty futures back in an uptrend, while the Sensex trimmed earlier gains.",
-  "why": "Volatile moves mean young investors should stay cautious and watch for entry points before committing funds.",
-  "tags": [
-   "Nifty",
-   "BankNifty",
-   "profitbooking",
-   "F&O",
-   "markettrend"
-  ]
- },
- {
-  "id": "c8ef6a747c8f",
-  "created": "2026-11-26T04:14:09+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "DocWireNews",
-  "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDU2X2lDT0Y4eTFnZ3RJX0w0SG9nbEhSQ0RaalNtSnlUWGYwYl96ZlJibUhrdGpCUkpLbVBuTVR3aUY1T21heEFZck9naUlWcHBYeWJYX0ZPdmhKWHJaT3hzeUZTSDRrOEJMb0lqOFRTdEh5cjY1b0p1VEUzMU1BUFd1dzJpa3BUR09rbGhtdzNRT244dGtiZnpGLXZwWlJMV3c?oc=5",
-  "headline": "New INTerpath-001 data shakes up melanoma treatment outlook",
-  "hook": "Melanoma vaccine trial falls short, prompting fresh research directions.",
-  "what": "Data from the INTerpath-001 study suggest a shift in how adjuvant melanoma care may be approached. Meanwhile, Phase 3 results of the Moderna‑Merck melanoma vaccine showed weaker efficacy than anticipated.",
-  "why": "Understanding these developments helps teens see both progress and setbacks in cancer research, underscoring the importance of early detection and supporting vaccine trials.",
-  "tags": [
-   "melanoma",
-   "cancerresearch",
-   "vaccines",
-   "healthnews"
-  ]
- },
- {
-  "id": "a376682f78c7",
-  "created": "2026-11-26T03:11:07+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
-  "headline": "Fed sees 3.8% inflation, debates cause, may hike rates",
-  "hook": "US price rise hits 3.8% – could mean higher loan costs for you.",
-  "what": "The US Federal Reserve’s core inflation gauge rose to 3.8% in October. Fed officials are divided on why prices remain high. The increase boosts expectations of a rate hike in December and possibly later.",
-  "why": "Higher US rates can affect global borrowing costs and the rupee’s value, influencing loan and travel expenses for Indian youths. Watch currency trends and any changes in credit‑card interest.",
-  "tags": [
-   "inflation",
-   "Fed",
-   "rates",
-   "economy",
-   "global"
   ]
  }
 ]

@@ -1,0 +1,46 @@
+{
+ "id": "dc5689491809",
+ "created": "2026-11-26T09:44:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGNpSHM4clNhWklaR2wyNjZQZVN0dnNQVjllZ25oNUJvTHhWblFDS29iazNLS2VQUHFsZ3BOWWI0Q3NwTXdrbGNpV19RbGo5QzVTZm1oUldKbnJSTm1VR1dWQ05ubzFuSElrY3hpX1l2WjM5cGo0aHZ3cWNoTS11d1VjazNTUGh4UFRTRnhOQXRpODJmRUVSR20wQTlPRDkyOUJqRTlxS2FUU2w5NDk1djBnWmdkampGM3FIcnh5cE1NbENZRjBCdnhzY05jaFB1cWhkN2I2U1RwWS1zTlRiY01qVmEtbHR3bzRXQy1kbjNWTmJvTmQ4eXh3eFJnemk5T29YVzlTejU4aXZ2RHdJaA?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "US greenlights SpaceX's million‑satellite AI data centre plan",
+  "hook": "Space just got a data boost—find out why it matters.",
+  "what": "The United States has approved SpaceX’s proposal to launch one million satellites that will act as data centres in orbit. The satellites are intended to support AI workloads from space. The decision was announced by the FCC.",
+  "why": "This move shows how space is becoming part of the tech ecosystem, opening up new possibilities for services that rely on fast AI processing. Young Indians interested in tech and space can keep an eye on emerging career and innovation areas.",
+  "tags": [
+   "space",
+   "satellites",
+   "AI",
+   "tech",
+   "data"
+  ]
+ },
+ "ml": {
+  "headline": "യു.എസ്., സ്പേസ്‌എക്സ്‌ന്റെ ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് എഐ ഡാറ്റാ സെന്റർ പദ്ധതി അംഗീകരിച്ചു",
+  "hook": "സ്പെയ്സിൽ ഡാറ്റാ ശക്തി – ഇതിന്റെ പ്രാധാന്യം നോക്കൂ",
+  "what": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് സ്പേസ്‌എക്സ്‌ന്റെ ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് എഐ ഡാറ്റാ സെന്റർ പദ്ധതിയെ അംഗീകരിച്ചു. ഈ സാറ്റലൈറ്റുകൾ ഓർബിറ്റിൽ എഐ വർക്ക്‌ലോഡുകൾ കൈകാര്യം ചെയ്യും. ഈ തീരുമാനം എഫ്‌സിസി പ്രഖ്യാപിച്ചു.",
+  "why": "സ്പേസ് ടെക് മേഖലയിൽ ഡാറ്റാ ഇൻഫ്രാസ്ട്രക്ചർ വികസിക്കുന്നതിനെ ഇത് കാണിക്കുന്നു, എഐ സേവനങ്ങൾക്ക് പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം. ടെക്, സ്പേസ് മേഖലയിൽ താൽപര്യമുള്ള യുവജനങ്ങൾക്ക് ഇത് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "tags": [
+   "space",
+   "satellites",
+   "AI",
+   "tech",
+   "data"
+  ],
+  "say": "സ്പെയ്സിൽ ഡാറ്റാ ശക്തി – ഇതിന്റെ പ്രാധാന്യം നോക്കൂ. യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് സ്പേസ്‌എക്സ്‌ന്റെ ഒരു ദശലക്ഷം സാറ്റലൈറ്റ് എഐ ഡാറ്റാ സെന്റർ പദ്ധതിയെ അംഗീകരിച്ചു. ഈ സാറ്റലൈറ്റുകൾ ഓർബിറ്റിൽ എഐ വർക്ക്‌ലോഡുകൾ കൈകാര്യം ചെയ്യും. ഈ തീരുമാനം എഫ്‌സിസി പ്രഖ്യാപിച്ചു. സ്പേസ് ടെക് മേഖലയിൽ ഡാറ്റാ ഇൻഫ്രാസ്ട്രക്ചർ വികസിക്കുന്നതിനെ ഇത് കാണിക്കുന്നു, എഐ സേവനങ്ങൾക്ക് പുതിയ അവസരങ്ങൾ സൃഷ്ടിക്കാം. ടെക്, സ്പേസ് മേഖലയിൽ താൽപര്യമുള്ള യുവജനങ്ങൾക്ക് ഇത് ശ്രദ്ധിക്കേണ്ടതാണ്.",
+  "ok": true,
+  "tags_en": [
+   "space",
+   "satellites",
+   "AI",
+   "tech",
+   "data"
+  ]
+ }
+}

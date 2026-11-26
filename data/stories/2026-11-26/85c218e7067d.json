@@ -1,0 +1,46 @@
+{
+ "id": "85c218e7067d",
+ "created": "2026-11-26T09:44:52+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SEBI eases KYC for multiple investment accounts",
+  "hook": "Fewer forms, faster access to your demat and mutual fund accounts.",
+  "what": "The securities regulator introduced eight new measures to streamline KYC for people opening demat, trading or mutual fund accounts with several providers. The changes cut down paperwork and stop the need for repeated identity checks.",
+  "why": "Young investors can now set up multiple accounts quicker, saving time and effort. Keep your documents ready and follow the updated guidelines when you sign up.",
+  "tags": [
+   "SEBI",
+   "KYC",
+   "investing",
+   "demat",
+   "mutualfunds"
+  ]
+ },
+ "ml": {
+  "headline": "SEBI‑യുടെ KYC ലളിതമാക്കി, പല അക്കൗണ്ടുകളും എളുപ്പം",
+  "hook": "കുറഞ്ഞ ഫോമുകൾ, വേഗത്തിൽ ഡെമറ്റ്, മ്യൂച്വൽ ഫണ്ട് അക്കൗണ്ടുകൾ തുറക്കാം.",
+  "what": "സെക്യൂരിറ്റീസ് റെഗുലേറ്റർ എട്ട് പുതിയ നടപടികളിലൂടെ ഡെമറ്റ്, ട്രേഡിംഗ്, മ്യൂച്വൽ ഫണ്ട് അക്കൗണ്ടുകൾ പല ഇടപാടുകാരോടും തുറക്കാൻ KYC പ്രക്രിയ ലളിതമാക്കി. ഇതിലൂടെ പേപ്പർവർക്കും ആവർത്തന പരിശോധനക്കും ഇടവേള വരില്ല.",
+  "why": "യുവ നിക്ഷേപകർക്ക് നിരവധി അക്കൗണ്ടുകൾ വേഗത്തിൽ സജ്ജമാക്കാൻ സമയം, ശ്രമം ലാഭിക്കാം. രജിസ്റ്റർ ചെയ്യുമ്പോൾ പുതുക്കിയ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "SEBI",
+   "KYC",
+   "നിക്ഷേപം",
+   "ഡെമറ്റ്",
+   "മ്യൂച്വൽഫണ്ട്സ്"
+  ],
+  "say": "കുറഞ്ഞ ഫോമുകൾ, വേഗത്തിൽ ഡെമറ്റ്, മ്യൂച്വൽ ഫണ്ട് അക്കൗണ്ടുകൾ തുറക്കാം. സെക്യൂരിറ്റീസ് റെഗുലേറ്റർ എട്ട് പുതിയ നടപടികളിലൂടെ ഡെമറ്റ്, ട്രേഡിംഗ്, മ്യൂച്വൽ ഫണ്ട് അക്കൗണ്ടുകൾ പല ഇടപാടുകാരോടും തുറക്കാൻ കെവൈസി പ്രക്രിയ ലളിതമാക്കി. ഇതിലൂടെ പേപ്പർവർക്കും ആവർത്തന പരിശോധനക്കും ഇടവേള വരില്ല. യുവ നിക്ഷേപകർക്ക് നിരവധി അക്കൗണ്ടുകൾ വേഗത്തിൽ സജ്ജമാക്കാൻ സമയം, ശ്രമം ലാഭിക്കാം. രജിസ്റ്റർ ചെയ്യുമ്പോൾ പുതുക്കിയ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "SEBI",
+   "KYC",
+   "investing",
+   "demat",
+   "mutualfunds"
+  ]
+ }
+}
