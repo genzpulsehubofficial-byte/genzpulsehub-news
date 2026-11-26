@@ -70,6 +70,12 @@ def estimate(text, total):
 
 
 # ---------- background ----------
+def _download(url, path):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (GenZPulseHub)"})
+    with urllib.request.urlopen(req, timeout=60) as r, open(path, "wb") as f:
+        f.write(r.read())
+
+
 def pixabay_clips(queries, need, tmp):
     got, total = [], 0.0
     for q in queries:
@@ -79,6 +85,7 @@ def pixabay_clips(queries, need, tmp):
             hits = json.load(urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "gph"}), timeout=20)).get("hits", [])
         except Exception as e:
             print("pixabay", q, str(e)[:80]); continue
+        print("pixabay", q, len(hits), "hits")
         random.shuffle(hits)
         for h in hits:
             v = h.get("videos", {})
@@ -87,9 +94,9 @@ def pixabay_clips(queries, need, tmp):
                 continue
             p = os.path.join(tmp, f"bg{len(got)}.mp4")
             try:
-                urllib.request.urlretrieve(f["url"], p)
-            except Exception:
-                continue
+                _download(f["url"], p)
+            except Exception as e:
+                print("pixabay download", str(e)[:80]); continue
             got.append(p); total += min(dur(p), 7)
             break
         if total >= need:
@@ -118,7 +125,7 @@ def pexels_clips(queries, need, tmp):
                 continue
             p = os.path.join(tmp, f"bg{len(got)}.mp4")
             try:
-                urllib.request.urlretrieve(files[0]["link"], p)
+                _download(files[0]["link"], p)
             except Exception:
                 continue
             got.append(p); total += min(dur(p), 7)
