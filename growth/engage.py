@@ -17,7 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "shorts"))
 sys.path.insert(0, os.path.join(ROOT, "pipeline"))
 import requests  # noqa: E402
-from publish import G, IG_IDS, SITE, discord, env, meta_pages  # noqa: E402
+from publish import G, IG_IDS, SITE, discord, env, meta_pages, yt_token  # noqa: E402
 from ai import ask  # noqa: E402
 
 STATE_P = os.path.join(ROOT, "data", "replied.json")
@@ -86,7 +86,36 @@ def collect(state):
                 if c["id"] in state["done"] or (c.get("from") or {}).get("id") == p["id"]:
                     continue
                 out.append({"id": c["id"], "text": c.get("message", ""), "lang": lang, "kind": "fb", "token": ptok})
+    # YouTube (needs the youtube.force-ssl permission on the refresh token)
+    YT = "https://www.googleapis.com/youtube/v3"
+    for lang, ch in (("en", "UCrpJDlRnVJyC4EguHKJxHKg"), ("ml", "UC3dW_vEz432vsb6uqlCVHAw")):
+        t = yt_token(lang)
+        if not t:
+            continue
+        r = requests.get(f"{YT}/commentThreads", params={"part": "snippet", "allThreadsRelatedToChannelId": ch,
+                         "maxResults": 50, "order": "time"}, headers={"Authorization": f"Bearer {t}"}, timeout=30).json()
+        if "error" in r:
+            print("youtube comments:", str(r["error"].get("message"))[:120]); continue
+        for th in r.get("items", []):
+            top = th["snippet"]["topLevelComment"]
+            sn = top["snippet"]
+            if top["id"] in state["done"] or th["snippet"].get("totalReplyCount", 0) > 0 \
+                    or sn.get("authorChannelId", {}).get("value") == ch:
+                continue
+            out.append({"id": top["id"], "text": sn.get("textOriginal", ""), "lang": lang, "kind": "yt", "token": t})
     return out
+
+
+def yt_act(c, act, text=""):
+    YT = "https://www.googleapis.com/youtube/v3"
+    h = {"Authorization": f"Bearer {c['token']}"}
+    if act == "reply":
+        r = requests.post(f"{YT}/comments?part=snippet", headers=h, timeout=30,
+                          json={"snippet": {"parentId": c["id"], "textOriginal": text[:300]}}).json()
+        return "id" in r
+    r = requests.post(f"{YT}/comments/setModerationStatus", headers=h, timeout=30,
+                      params={"id": c["id"], "moderationStatus": "heldForReview"})
+    return r.status_code == 204
 
 
 def main():
@@ -113,7 +142,12 @@ def main():
             if not c:
                 continue
             act = d.get("action", "skip")
-            if act == "reply" and d.get("reply"):
+            if c["kind"] == "yt" and act in ("reply", "hide"):
+                if act == "reply" and not d.get("reply"):
+                    continue
+                if not yt_act(c, act, d.get("reply", "")):
+                    print("youtube action failed"); continue
+            elif act == "reply" and d.get("reply"):
                 r = post(f"{c['id']}/replies" if c["kind"] == "ig" else f"{c['id']}/comments",
                          message=d["reply"][:300], access_token=c["token"])
                 if "id" not in r:
