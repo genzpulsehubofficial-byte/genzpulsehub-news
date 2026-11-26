@@ -1,0 +1,46 @@
+{
+ "id": "8307642d64f8",
+ "created": "2026-11-26T09:33:05+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "LiveNOW from FOX",
+ "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYS1ZdkdnNEgtU29pWDJsUW9SMTBoX3I5ak5MamdORVMyVE5lZGt2YUFNNC1SU2lsN0Ewc2Q3ZWcwN0RmQWZqNmxwM24tMzhsemh0SFNQUGxHd2N2Ui1NQlhRRGdnUjhBZV9ieEY1NDk0Y1ZpRjJEdXNaSjl1cElaYTJNRWRZSjZEakhkMDRQd3BEQk4xRDNSNzBXSHVONGt3MFQ0?oc=5",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "CDC Reports Nine US Measles Deaths in 2026",
+  "hook": "A Montour County resident died from measles as cases and deaths rise.",
+  "what": "The CDC shared nine measles-related deaths in the US in 2026. A Montour County resident in Pennsylvania died of measles, and the state health department announced it. Deaths were also announced in Pennsylvania and Wisconsin, while cases rose slightly in Warren and Crawford counties.",
+  "why": "It matters as a US health update, though the source does not give local context for young Indians. The source does not share any action for them.",
+  "tags": [
+   "measles",
+   "uscdc",
+   "health",
+   "deaths",
+   "cases"
+  ]
+ },
+ "ml": {
+  "headline": "സി.ഡി.സി. റിപ്പോർട്ട് ചെയ്ത അമേരിക്കയിൽ രണ്ടായിരത്തി ഇരുപത്തിആറ്-ൽ എട്ട് മസെറ്റിസ് മരണങ്ങൾ.",
+  "hook": "മോണ്ടൂർ ജില്ലയിൽ ഒരു വ്യക്തി മസെറ്റിസ് കാരണം മരണം, കേസുകളും മരണങ്ങളും വർദ്ധിച്ചുവരുന്നു.",
+  "what": "അമേരിക്കയിലെ സി.ഡി.സി. രണ്ടായിരത്തി ഇരുപത്തിആറ്-ൽ എട്ട് മസെറ്റിസ് ബന്ധപ്പെട്ട മരണങ്ങൾ രേഖപ്പെടുത്തി. പെട്രോണിയയിലെ മോണ്ടൂർ ജില്ലയിൽ ഒരു വ്യക്തി മസെറ്റിസിൽ മരിച്ചതിനുശേഷം, പെട്രോണിയൻ ഹെൽത്ത് ഡെയർ അതിനെക്കുറിച്ച് അറസ്റ്റു ചെയ്തു. മരണങ്ങൾ പെട്രോണിയയിലും വിസ്കോൺസിലും പ്രഖ്യാപിച്ചു, കേസുകൾ വാർന്റിനും ക്രെയ്ഡിയിലും ചെറിയ വർദ്ധനവ് കാണിച്ചു.",
+  "why": "ഇത് അമേരിക്കൻ ആരോഗ്യസ്ഥിതിയെക്കുറിച്ചുള്ള വിവരം ആണ്, പക്ഷേ സ്രോതസ് യുവാക്കൾക്ക് ഇന്ത്യയിൽ കൂടുതൽ വിശദാംശം നൽകുന്നില്ല.",
+  "tags": [
+   "മസെറ്റിസ്",
+   "അമേരിക്ക",
+   "സി.ഡി.സി.",
+   "മരണം",
+   "ആരോഗ്യം"
+  ],
+  "say": "മോണ്ടൂർ ജില്ലയിൽ ഒരു വ്യക്തി മസെറ്റിസ് കാരണം മരണം, കേസുകളും മരണങ്ങളും വർദ്ധിച്ചുവരുന്നു. അമേരിക്കയിലെ സി.ഡി.സി. രണ്ടായിരത്തി ഇരുപത്തിആറ്-ൽ എട്ട് മസെറ്റിസ് ബന്ധപ്പെട്ട മരണങ്ങൾ രേഖപ്പെടുത്തി. പെട്രോണിയയിലെ മോണ്ടൂർ ജില്ലയിൽ ഒരു വ്യക്തി മസെറ്റിസിൽ മരിച്ചതിനുശേഷം, പെട്രോണിയൻ ഹെൽത്ത് ഡെയർ അതിനെക്കുറിച്ച് അറസ്റ്റു ചെയ്തു. മരണങ്ങൾ പെട്രോണിയയിലും വിസ്കോൺസിലും പ്രഖ്യാപിച്ചു, കേസുകൾ വാർന്റിനും ക്രെയ്ഡിയിലും ചെറിയ വർദ്ധനവ് കാണിച്ചു. ഇത് അമേരിക്കൻ ആരോഗ്യസ്ഥിതിയെക്കുറിച്ചുള്ള വിവരം ആണ്, പക്ഷേ സ്രോതസ് യുവാക്കൾക്ക് ഇന്ത്യയിൽ കൂടുതൽ വിശദാംശം നൽകുന്നില്ല.",
+  "ok": true,
+  "tags_en": [
+   "measles",
+   "uscdc",
+   "health",
+   "deaths",
+   "cases"
+  ]
+ }
+}

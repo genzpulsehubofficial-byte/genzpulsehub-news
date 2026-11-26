@@ -1,0 +1,46 @@
+{
+ "id": "e997daea26a6",
+ "created": "2026-11-26T09:29:56+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Hindustan Times",
+ "source_url": "https://www.hindustantimes.com/india-news/national-security-guard-trains-state-anti-terror-units-to-deal-with-26-11-type-attacks-101795664725800.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "NSG to train state anti‑terror squads for 26/11 style attacks",
+  "hook": "Your city’s police could get elite counter‑terror training soon.",
+  "what": "The National Security Guard said it will train anti‑terror units of several state police forces. The programme is aimed at preparing them for attacks similar to the 2008 Mumbai attacks. Training sessions will begin in the coming months.",
+  "why": "Better preparedness can make public places safer for young people. Stay alert, follow safety advice and report anything suspicious.",
+  "tags": [
+   "NSG",
+   "anti-terror",
+   "security",
+   "youths",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "NSG സംസ്ഥാന ആന്റി‑ടെറർ സ്ക്വാഡുകൾക്ക് 26/11 പോലുള്ള ആക്രമണ പരിശീലനം നൽകും",
+  "hook": "നിങ്ങളുടെ നഗരത്തിലെ പോലീസ് ഉടൻ തന്നെ എലീറ്റ് ആന്റി‑ടെറർ പരിശീലനം നേടാൻ പോകുന്നു.",
+  "what": "നാഷണൽ സെക്യൂരിറ്റി ഗാർഡ് (എൻഎസ്എജി) വിവിധ സംസ്ഥാനങ്ങളിലെ പോലീസ് വിഭാഗങ്ങളുടെ ആന്റി‑ടെറർ യൂണിറ്റുകൾക്ക് പരിശീലനം നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. ഇരായിരം എട്ട്‑ലെ മുംബൈ ആക്രമണങ്ങളോട് സമാനമായ സംഭവങ്ങൾക്ക് തയ്യാറാക്കുകയാണ് ലക്ഷ്യം. പരിശീലനം അടുത്ത മാസങ്ങളിൽ ആരംഭിക്കും.",
+  "why": "മികച്ച തയ്യാറെടുപ്പ് യുവജനങ്ങൾ കൂടുതലായി പോകുന്ന സ്ഥലങ്ങളുടെ സുരക്ഷ വർദ്ധിപ്പിക്കും. സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുകയും സംശയകരമായ കാര്യങ്ങൾ ഉടൻ റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യുക.",
+  "tags": [
+   "NSG",
+   "ആന്റി‑ടെറർ",
+   "സുരക്ഷ",
+   "യുവാക്കൾ",
+   "ഇന്ത്യ"
+  ],
+  "say": "നിങ്ങളുടെ നഗരത്തിലെ പോലീസ് ഉടൻ തന്നെ എലീറ്റ് ആന്റി‑ടെറർ പരിശീലനം നേടാൻ പോകുന്നു. നാഷണൽ സെക്യൂരിറ്റി ഗാർഡ് (എൻഎസ്എജി) വിവിധ സംസ്ഥാനങ്ങളിലെ പോലീസ് വിഭാഗങ്ങളുടെ ആന്റി‑ടെറർ യൂണിറ്റുകൾക്ക് പരിശീലനം നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. ഇരായിരം എട്ട്‑ലെ മുംബൈ ആക്രമണങ്ങളോട് സമാനമായ സംഭവങ്ങൾക്ക് തയ്യാറാക്കുകയാണ് ലക്ഷ്യം. പരിശീലനം അടുത്ത മാസങ്ങളിൽ ആരംഭിക്കും. മികച്ച തയ്യാറെടുപ്പ് യുവജനങ്ങൾ കൂടുതലായി പോകുന്ന സ്ഥലങ്ങളുടെ സുരക്ഷ വർദ്ധിപ്പിക്കും. സുരക്ഷാ മാർഗ്ഗനിർദ്ദേശങ്ങൾ പാലിക്കുകയും സംശയകരമായ കാര്യങ്ങൾ ഉടൻ റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യുക.",
+  "ok": true,
+  "tags_en": [
+   "NSG",
+   "anti-terror",
+   "security",
+   "youths",
+   "India"
+  ]
+ }
+}

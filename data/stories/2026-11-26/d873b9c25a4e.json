@@ -1,0 +1,43 @@
+{
+ "id": "d873b9c25a4e",
+ "created": "2026-11-26T09:29:49+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/maharashtra/country-could-face-a-blood-revolution-unless-the-constitution-is-saved-prakash-ambedkar/article71745141.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Ambedkar warns of blood revolution if Constitution not saved",
+  "hook": "A top leader says India's future hangs on the Constitution.",
+  "what": "Prakash Ambedkar said the ideals of the Constitution are under threat because the RSS and BJP are trying to stay in power. He warned the country could face a blood revolution if the Constitution is not protected.",
+  "why": "The Constitution safeguards rights and democracy, which affect every young Indian. Stay informed about political moves that could impact those freedoms.",
+  "tags": [
+   "constitution",
+   "politics",
+   "youth",
+   "democracy"
+  ]
+ },
+ "ml": {
+  "headline": "അംബേദ്കർ പറയുന്നു, ഭരണഘടന സംരക്ഷിക്കാത്ത പക്ഷം രക്തവിപ്ലവം",
+  "hook": "ഒരു നേതാവ് ഇന്ത്യയുടെ ഭാവി ഭരണഘടനയിൽ ആശ്രയിക്കുന്നു എന്ന് പറയുന്നു.",
+  "what": "പ്രകാശ് അംബേദ്കർ, ഭരണഘടനയുടെ സിദ്ധാന്തങ്ങൾ അപകടത്തിൽ ആണെന്ന്, ആർഎസ്എസ്, ബിജെപി അധികാരം നിലനിർത്താൻ ശ്രമിക്കുന്നുവെന്ന് പറഞ്ഞു. ഭരണഘടന സംരക്ഷിക്കാത്ത പക്ഷം രാജ്യത്ത് രക്തവിപ്ലവം സംഭവിക്കാമെന്ന് അദ്ദേഹം മുന്നറിയിപ്പ് നൽകി.",
+  "why": "ഭരണഘടന അവകാശങ്ങളും ജനാധിപത്യവും ഉറപ്പാക്കുന്നു; ഇത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. രാഷ്ട്രീയ മാറ്റങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കുക.",
+  "tags": [
+   "ഭരണഘടന",
+   "രാഷ്ട്രീയം",
+   "യുവജനങ്ങൾ",
+   "ജനാധിപത്യം"
+  ],
+  "say": "ഒരു നേതാവ് ഇന്ത്യയുടെ ഭാവി ഭരണഘടനയിൽ ആശ്രയിക്കുന്നു എന്ന് പറയുന്നു. പ്രകാശ് അംബേദ്കർ, ഭരണഘടനയുടെ സിദ്ധാന്തങ്ങൾ അപകടത്തിൽ ആണെന്ന്, ആർഎസ്എസ്, ബിജെപി അധികാരം നിലനിർത്താൻ ശ്രമിക്കുന്നുവെന്ന് പറഞ്ഞു. ഭരണഘടന സംരക്ഷിക്കാത്ത പക്ഷം രാജ്യത്ത് രക്തവിപ്ലവം സംഭവിക്കാമെന്ന് അദ്ദേഹം മുന്നറിയിപ്പ് നൽകി. ഭരണഘടന അവകാശങ്ങളും ജനാധിപത്യവും ഉറപ്പാക്കുന്നു; ഇത് യുവജനങ്ങൾക്ക് പ്രധാനമാണ്. രാഷ്ട്രീയ മാറ്റങ്ങളെക്കുറിച്ച് ജാഗ്രത പാലിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "constitution",
+   "politics",
+   "youth",
+   "democracy"
+  ]
+ }
+}
