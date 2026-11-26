@@ -287,6 +287,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18224932747355308",
    "facebook": "error: {'error': {'message': 'We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More', 'ty"
+  },
+  "d92bb2236ee9": {
+   "at": "2026-11-26 22:58",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18282505618306296",
+   "facebook": "skipped (daily cap/pause)"
   }
  },
  "ml": {
@@ -618,6 +624,12 @@
    "at": "2026-11-26 20:57",
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18501574585111160",
+   "facebook": "skipped (daily cap/pause)"
+  },
+  "e3f45182cfb4": {
+   "at": "2026-11-26 22:59",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18130182898927136",
    "facebook": "skipped (daily cap/pause)"
   }
  }
