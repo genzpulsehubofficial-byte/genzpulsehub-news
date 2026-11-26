@@ -155,6 +155,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18018293774756552",
    "facebook": "fb:1706988937670434"
+  },
+  "2fae2d5998a0": {
+   "at": "2026-11-26 10:13",
+   "youtube": "https://youtube.com/shorts/2ymJ8sYMFgg",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:29285022207793053"
+  },
+  "b17573344f81": {
+   "at": "2026-11-26 10:13",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18137367427766285",
+   "facebook": "fb:1167945792419534"
+  },
+  "8c7b30641ac9": {
+   "at": "2026-11-26 10:14",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18123983954029694",
+   "facebook": "fb:2057442708977654"
   }
  },
  "ml": {
@@ -313,6 +331,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:17920314444533124",
    "facebook": "fb:2355023271924880"
+  },
+  "2fae2d5998a0": {
+   "at": "2026-11-26 10:14",
+   "youtube": "https://youtube.com/shorts/xuOHCGdNFyA",
+   "instagram": "ig:17964981587997768",
+   "facebook": "fb:1125545996750340"
+  },
+  "b17573344f81": {
+   "at": "2026-11-26 10:15",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17948081853088308",
+   "facebook": "fb:1048967424917341"
+  },
+  "8c7b30641ac9": {
+   "at": "2026-11-26 10:16",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17875594596640231",
+   "facebook": "fb:2688040328310192"
   }
  }
 }
