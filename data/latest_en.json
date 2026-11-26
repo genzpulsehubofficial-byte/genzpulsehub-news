@@ -1,5 +1,80 @@
 [
  {
+  "id": "7842972261a1",
+  "created": "2026-11-26T11:56:34+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVVuc2daMXo1d0FTbF9VeHFVMUhlMUJhUVFmWWZPN1l2bWVtUUp1OVlGQ0t1Z3RiTS1JN3ZVZzhBV0VKRWg3RzRXcnlydnNfanBmdUJWQTBmV3QwNVBYc2NzTGJHSnVTNG1HeHB1QXR5MFpDZkxOV1g4dVFDU0NCSWpwYW51bkZUTDJsSkVrZUpZRTV2Z1lyVElyQS14eU82LUxjeHhxVGNyZWs?oc=5",
+  "headline": "Tata Trusts to challenge Chandrasekaran’s reappointment in court",
+  "hook": "A major Tata board fight heads to Bombay High Court",
+  "what": "The Sir Dorabji Tata Trust said it will file a petition in the Bombay High Court to contest N Chandrasekaran’s reappointment as executive chairman of Tata Sons. The move follows a dispute with Noel Tata and other board members. The trust also seeks Rs 65 crore in damages.",
+  "why": "The case could affect leadership decisions in one of India’s biggest conglomerates, impacting jobs and investments. Keep an eye on the outcome.",
+  "tags": [
+   "Tata",
+   "Corporate",
+   "Legal",
+   "Business",
+   "India"
+  ]
+ },
+ {
+  "id": "f794639980f1",
+  "created": "2026-11-26T11:56:39+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Onmanorama",
+  "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWGY0MFFBMHVudk5lR1VaaFp1eGx3b0dydEJkYWQ4dGpxZDdFNFdFSGNKLUZkQ1Z1a0FrS0pnbzZETUdGUWNJaFo3TTZ6ejRlOFFQcVZpM0c4ZjBaTnlUczNRSUJqcmhsUjBJV0FDZ2RYRHZfRzJpRVlZN0ctd0dlTHcxOHVRTDlWQVFJTzZQOWhBc241QUoxV1FEQzhyWGpIMm04MHo3UnJueEpudnlCWEhIQkpsdXdIR2h5S2JabFRqRktpSDNEYWVmQ0piOG50S013?oc=5",
+  "headline": "New plan to tranquilise and collar Chakkakomban after first try fails",
+  "hook": "Authorities are trying again to safely tag the wayward animal.",
+  "what": "The first attempt to tranquilise and fit a radio collar on Chakkakomban was unsuccessful. Officials have now devised a fresh strategy to carry out the operation.",
+  "why": "Tracking the animal helps prevent human‑wildlife conflicts in the region. Stay informed about local wildlife safety measures.",
+  "tags": [
+   "wildlife",
+   "Kerala",
+   "conservation",
+   "radio collar"
+  ]
+ },
+ {
+  "id": "8f0537aa0e60",
+  "created": "2026-11-26T12:01:29+05:30",
+  "category": "jobs",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/idbi-bank-pension-dispute-why-sc-dismiss-employees-appeals-amid-stake-sale-can-they-still-challenge-the-decision-11795670572372.html",
+  "headline": "Supreme Court rejects challenge to IDBI Bank pension plan",
+  "hook": "Your future pension could be affected by this ruling.",
+  "what": "The Supreme Court turned down petitions that questioned IDBI Bank's pension arrangement. The court clarified that the bank does not qualify as a State entity under the Constitution.",
+  "why": "The decision leaves the pension scheme unchanged, impacting current and future employees. Young job seekers should note that IDBI's pension rules are now settled.",
+  "tags": [
+   "pension",
+   "IDBI",
+   "SupremeCourt",
+   "jobs",
+   "India"
+  ]
+ },
+ {
+  "id": "4726ced353fa",
+  "created": "2026-11-26T12:01:35+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-new-liquor-policy-udf-subcommittee-formed-ptiojbprggp",
+  "headline": "Kerala UDF creates panel to review new liquor policy",
+  "hook": "A fresh look at booze rules could affect your nights out",
+  "what": "The United Democratic Front government in Kerala has set up a subcommittee. K Sivadasan Nair will lead the group, which will examine the draft liquor policy and suggest changes.",
+  "why": "Any revisions to alcohol rules may alter prices, availability and legal drinking age, influencing social plans for young people. Keep an eye on updates before making decisions.",
+  "tags": [
+   "Kerala",
+   "LiquorPolicy",
+   "UDF",
+   "Youth",
+   "Regulation"
+  ]
+ },
+ {
   "id": "87efbad84455",
   "created": "2026-11-26T10:58:15+05:30",
   "category": "headlines",
@@ -672,82 +747,6 @@
    "Anthropic",
    "Tech",
    "Automation"
-  ]
- },
- {
-  "id": "9b5f4cecb07a",
-  "created": "2026-11-26T06:09:29+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Medical News Today",
-  "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmhFbGFFU3FsakV3Nzg4UFVKdFFjeVF5bTk2TGNwanBwTWJBQVdPYkhuQVdVS1ByZjdBVVZvUXhrdFlCaEd6UndFOUVYZmtMaGNlRy1JN2gyYWV3c2MyQ2VIWDJZX01HX081QmJFZjhmWWkzU0pSeHFHSU1xWWNBaHlhX3NvMktIRGRwYVM1NGFHQUdERjZoS1NmNGlRSnlKRFJMR0NGS2MyMXlwRHpHVkNpSzhGcTRu?oc=5",
-  "headline": "Drug combo shrinks pancreatic tumors in mouse study",
-  "hook": "A new drug mix made pancreatic tumours disappear in lab mice.",
-  "what": "An experimental drug combination caused pancreatic tumours to shrink and vanish in mice. The study reported tumour disappearance in 75% of the animals and triggered lasting immunity.",
-  "why": "If the results translate to humans, it could lead to new treatments for a deadly cancer that affects many young people’s families. Keep an eye on future clinical trials.",
-  "tags": [
-   "pancreatic cancer",
-   "drug combo",
-   "research",
-   "health",
-   "science"
-  ]
- },
- {
-  "id": "37d36971420f",
-  "created": "2026-11-26T05:02:34+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/rajasthan/congress-wins-majority-of-zila-pramukh-posts-in-rajasthan-polls/article71743297.ece",
-  "headline": "Congress clinches most Zila Pramukh seats in Rajasthan",
-  "hook": "Rajasthan's local leadership now leans heavily toward Congress.",
-  "what": "Counting of panchayat samiti and Zila Parishad votes finished on Nov 20 across 37 of the state's 41 districts. The Congress party secured a majority of the Zila Pramukh positions.",
-  "why": "This shift could influence development projects and schemes that affect rural youth. Stay aware of local governance changes.",
-  "tags": [
-   "Rajasthan",
-   "Congress",
-   "local elections",
-   "ZilaPramukh",
-   "youth"
-  ]
- },
- {
-  "id": "182e4e68ea2c",
-  "created": "2026-11-26T05:02:41+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/it-secy-defends-sarvams-token-factory-over-chinese-llm-debate/",
-  "headline": "IT Secretary backs Sarvam’s Token Factory amid Chinese model debate",
-  "hook": "India’s tech chief steps in as AI model origins spark controversy.",
-  "what": "The Ministry of Electronics and Information Technology’s secretary defended Sarvam AI’s new inference platform, Token Factory, after criticism for hosting Chinese large language models. The debate centers on the presence of foreign AI models in the service.",
-  "why": "Young developers should watch policy shifts that could affect access to AI tools and data security. Staying informed helps them choose compliant platforms.",
-  "tags": [
-   "tech",
-   "AI",
-   "policy",
-   "India",
-   "developers"
-  ]
- },
- {
-  "id": "707319c903aa",
-  "created": "2026-11-26T05:02:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-  "headline": "S&P may cut Nvidia rating to AA-",
-  "hook": "A possible downgrade could affect Nvidia’s borrowing power.",
-  "what": "Credit agency S&P is reviewing Nvidia’s credit rating and could lower it to AA-, the fourth‑highest grade. The review cites concerns over company governance and reliance on key executives.",
-  "why": "A downgrade may raise financing costs for Nvidia, which could ripple to tech products and services used by Indian youth. Keep an eye on any impact on device prices or related jobs.",
-  "tags": [
-   "Nvidia",
-   "SPRating",
-   "Tech",
-   "Finance",
-   "India"
   ]
  }
 ]

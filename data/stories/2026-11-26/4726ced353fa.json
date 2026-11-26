@@ -1,0 +1,46 @@
+{
+ "id": "4726ced353fa",
+ "created": "2026-11-26T12:01:35+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-new-liquor-policy-udf-subcommittee-formed-ptiojbprggp",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala UDF creates panel to review new liquor policy",
+  "hook": "A fresh look at booze rules could affect your nights out",
+  "what": "The United Democratic Front government in Kerala has set up a subcommittee. K Sivadasan Nair will lead the group, which will examine the draft liquor policy and suggest changes.",
+  "why": "Any revisions to alcohol rules may alter prices, availability and legal drinking age, influencing social plans for young people. Keep an eye on updates before making decisions.",
+  "tags": [
+   "Kerala",
+   "LiquorPolicy",
+   "UDF",
+   "Youth",
+   "Regulation"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളയിലെ യുഡിഎഫ് പുതിയ മദ്യ നയം പരിശോധിക്കാൻ പാനൽ രൂപീകരിച്ചു",
+  "hook": "പുതിയ മദ്യ നിയമം നിങ്ങളുടെ രാത്രി പദ്ധതികളിൽ മാറ്റം വരുത്താം",
+  "what": "കേരളത്തിലെ ഭരണകക്ഷിയായ യുഡിഎഫ് ഒരു ഉപകമ്മിറ്റി രൂപീകരിച്ചു. കെ. ശിവദാസന്‍ നായർ അതിന്റെ തലവന്‍ ആയി, സംസ്ഥാനത്തിന്റെ ഡ്രാഫ്റ്റ് മദ്യ നയം പരിശോധിച്ച് ശുപാര്‍ശകള്‍ സമര്‍പ്പിക്കും.",
+  "why": "മദ്യനിയമത്തിലെ മാറ്റങ്ങള്‍ വില, ലഭ്യത, നിയമപരമായ കുടിക്കാന്‍ പ്രായം എന്നിവയെ ബാധിക്കും, അതിനാല്‍ യുവാക്കള്‍ക്ക് ഇതിനെക്കുറിച്ച് ശ്രദ്ധിക്കണം. പുതുക്കിയ വിവരങ്ങള്‍ക്കായി കാത്തിരിക്കൂ.",
+  "tags": [
+   "Kerala",
+   "മദ്യനിയം",
+   "UDF",
+   "യുവാക്കൾ",
+   "നിയമം"
+  ],
+  "say": "പുതിയ മദ്യ നിയമം നിങ്ങളുടെ രാത്രി പദ്ധതികളിൽ മാറ്റം വരുത്താം. കേരളത്തിലെ ഭരണകക്ഷിയായ യുഡിഎഫ് ഒരു ഉപകമ്മിറ്റി രൂപീകരിച്ചു. കെ. ശിവദാസന്‍ നായർ അതിന്റെ തലവന്‍ ആയി, സംസ്ഥാനത്തിന്റെ ഡ്രാഫ്റ്റ് മദ്യ നയം പരിശോധിച്ച് ശുപാര്‍ശകള്‍ സമര്‍പ്പിക്കും. മദ്യനിയമത്തിലെ മാറ്റങ്ങള്‍ വില, ലഭ്യത, നിയമപരമായ കുടിക്കാന്‍ പ്രായം എന്നിവയെ ബാധിക്കും, അതിനാല്‍ യുവാക്കള്‍ക്ക് ഇതിനെക്കുറിച്ച് ശ്രദ്ധിക്കണം. പുതുക്കിയ വിവരങ്ങള്‍ക്കായി കാത്തിരിക്കൂ.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "LiquorPolicy",
+   "UDF",
+   "Youth",
+   "Regulation"
+  ]
+ }
+}

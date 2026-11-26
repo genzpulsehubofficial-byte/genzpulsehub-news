@@ -1,0 +1,43 @@
+{
+ "id": "f794639980f1",
+ "created": "2026-11-26T11:56:39+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Onmanorama",
+ "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWGY0MFFBMHVudk5lR1VaaFp1eGx3b0dydEJkYWQ4dGpxZDdFNFdFSGNKLUZkQ1Z1a0FrS0pnbzZETUdGUWNJaFo3TTZ6ejRlOFFQcVZpM0c4ZjBaTnlUczNRSUJqcmhsUjBJV0FDZ2RYRHZfRzJpRVlZN0ctd0dlTHcxOHVRTDlWQVFJTzZQOWhBc241QUoxV1FEQzhyWGpIMm04MHo3UnJueEpudnlCWEhIQkpsdXdIR2h5S2JabFRqRktpSDNEYWVmQ0piOG50S013?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "New plan to tranquilise and collar Chakkakomban after first try fails",
+  "hook": "Authorities are trying again to safely tag the wayward animal.",
+  "what": "The first attempt to tranquilise and fit a radio collar on Chakkakomban was unsuccessful. Officials have now devised a fresh strategy to carry out the operation.",
+  "why": "Tracking the animal helps prevent human‑wildlife conflicts in the region. Stay informed about local wildlife safety measures.",
+  "tags": [
+   "wildlife",
+   "Kerala",
+   "conservation",
+   "radio collar"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ പദ്ധതി ചക്കകൊമ്പന്‍ ശാന്തമാക്കി റേഡിയോ‑കൊല്ലർ സ്ഥാപിക്കാൻ",
+  "hook": "ആദ്യ ശ്രമം പരാജയപ്പെട്ടതിന് ശേഷം അധികാരികള്‍ വീണ്ടും ശ്രമിക്കുന്നു.",
+  "what": "ചക്കകൊമ്പന്‍ ശാന്തമാക്കി റേഡിയോ‑കൊല്ലർ സ്ഥാപിക്കാൻ നടത്തിയ ആദ്യ ശ്രമം വിജയിച്ചില്ല. അതിനാൽ പുതിയ പദ്ധതി തയ്യാറാക്കി വീണ്ടും ശ്രമിക്കും.",
+  "why": "മൃഗത്തെ ട്രാക്ക് ചെയ്യുന്നത് മനുഷ്യ‑വനംമൃഗ സംഘര്‍ഷങ്ങള്‍ കുറയ്ക്കാൻ സഹായിക്കും. പ്രദേശത്തെ വന്യജീവി സുരക്ഷാ നടപടികള്‍ അറിയുക.",
+  "tags": [
+   "wildlife",
+   "Kerala",
+   "conservation",
+   "radio collar"
+  ],
+  "say": "ആദ്യ ശ്രമം പരാജയപ്പെട്ടതിന് ശേഷം അധികാരികള്‍ വീണ്ടും ശ്രമിക്കുന്നു. ചക്കകൊമ്പന്‍ ശാന്തമാക്കി റേഡിയോ‑കൊല്ലർ സ്ഥാപിക്കാൻ നടത്തിയ ആദ്യ ശ്രമം വിജയിച്ചില്ല. അതിനാൽ പുതിയ പദ്ധതി തയ്യാറാക്കി വീണ്ടും ശ്രമിക്കും. മൃഗത്തെ ട്രാക്ക് ചെയ്യുന്നത് മനുഷ്യ‑വനംമൃഗ സംഘര്‍ഷങ്ങള്‍ കുറയ്ക്കാൻ സഹായിക്കും. പ്രദേശത്തെ വന്യജീവി സുരക്ഷാ നടപടികള്‍ അറിയുക.",
+  "ok": true,
+  "tags_en": [
+   "wildlife",
+   "Kerala",
+   "conservation",
+   "radio collar"
+  ]
+ }
+}
