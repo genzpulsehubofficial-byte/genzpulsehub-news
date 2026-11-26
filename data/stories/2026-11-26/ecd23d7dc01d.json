@@ -1,0 +1,46 @@
+{
+ "id": "ecd23d7dc01d",
+ "created": "2026-11-26T16:45:26+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/muslim-woman-translates-hindu-politician-bible-book-kerala-ptiljb2pjk5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Muslim translator renders Hindu leader’s Bible-inspired talks into English",
+  "hook": "A cross‑faith collaboration bridges Kerala’s political and religious worlds",
+  "what": "Muslim translator Rauf Rumi has translated the Bible‑inspired speeches of Kerala politician V D Satheesan into English. The translation makes the leader’s messages accessible to a wider audience.",
+  "why": "It highlights interfaith cooperation and shows young Indians that collaboration across religions is possible. Readers can appreciate the shared cultural fabric of Kerala.",
+  "tags": [
+   "religious harmony",
+   "Kerala",
+   "translation",
+   "interfaith",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "മുസ്ലിം വിവർത്തകൻ ഹിന്ദു നേതാവിന്റെ ബൈബിൾ-പ്രചോദിത പ്രസംഗങ്ങൾ ഇംഗ്ലീഷിലേക്ക്",
+  "hook": "മതങ്ങളുടളവിലെ സഹകരണം കേരളത്തിന്റെ രാഷ്ട്രീയ-മത ബന്ധം ശക്തമാക്കുന്നു",
+  "what": "മുസ്ലിം വിവർത്തകന്റെ റൗഫ് റുമിയായ വി.ഡി. സതീശന്റെ ബൈബിൾ-പ്രചോദിത പ്രസംഗങ്ങൾ ഇംഗ്ലീഷിലേക്ക് വിവർത്തനം ചെയ്തു. ഈ വിവർത്തനം നേതാവിന്റെ സന്ദേശം കൂടുതൽ ആളുകൾക്ക് എത്താൻ സഹായിക്കുന്നു.",
+  "why": "ഇത് മതങ്ങളിടത്തിലെ സഹകരണത്തിന്റെ ഉദാഹരണം കാണിക്കുന്നു, യുവജനങ്ങൾക്ക് വ്യത്യസ്ത മതങ്ങളുമായി ചേർന്ന് പ്രവർത്തിക്കാൻ പ്രചോദനം നൽകുന്നു. കേരളത്തിന്റെ സാംസ്കാരിക ഐക്യം മനസ്സിലാക്കാൻ ഇത് സഹായിക്കും.",
+  "tags": [
+   "മതസഹകരണം",
+   "കേരളം",
+   "വിവർത്തനം",
+   "ഇന്റർഫെയ്ത്",
+   "യുവാക്കൾ"
+  ],
+  "say": "മതങ്ങളുടളവിലെ സഹകരണം കേരളത്തിന്റെ രാഷ്ട്രീയ-മത ബന്ധം ശക്തമാക്കുന്നു. മുസ്ലിം വിവർത്തകന്റെ റൗഫ് റുമിയായ വി.ഡി. സതീശന്റെ ബൈബിൾ-പ്രചോദിത പ്രസംഗങ്ങൾ ഇംഗ്ലീഷിലേക്ക് വിവർത്തനം ചെയ്തു. ഈ വിവർത്തനം നേതാവിന്റെ സന്ദേശം കൂടുതൽ ആളുകൾക്ക് എത്താൻ സഹായിക്കുന്നു. ഇത് മതങ്ങളിടത്തിലെ സഹകരണത്തിന്റെ ഉദാഹരണം കാണിക്കുന്നു, യുവജനങ്ങൾക്ക് വ്യത്യസ്ത മതങ്ങളുമായി ചേർന്ന് പ്രവർത്തിക്കാൻ പ്രചോദനം നൽകുന്നു. കേരളത്തിന്റെ സാംസ്കാരിക ഐക്യം മനസ്സിലാക്കാൻ ഇത് സഹായിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "religious harmony",
+   "Kerala",
+   "translation",
+   "interfaith",
+   "youth"
+  ]
+ }
+}

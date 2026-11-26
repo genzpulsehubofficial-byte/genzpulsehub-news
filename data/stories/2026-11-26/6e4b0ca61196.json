@@ -1,0 +1,46 @@
+{
+ "id": "6e4b0ca61196",
+ "created": "2026-11-26T16:45:34+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-etfs-same-gold-prices-why-are-two-funds-gaining-while-others-have-negative-1-year-returns-key-factors-to-check-11795684999656.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold ETFs split: only two beat a year of falling prices",
+  "hook": "Find out why most gold funds are losing money while a couple thrive.",
+  "what": "Gold prices have slipped recently. Out of all gold exchange‑traded funds, just two posted gains over the past year. Experts say the performance gap stems from differences in fund metrics.",
+  "why": "Young investors need to look beyond headline returns and check key factors before picking a gold ETF. Understanding the five metrics can help avoid losses.",
+  "tags": [
+   "gold",
+   "ETF",
+   "investing",
+   "finance",
+   "younginvestors"
+  ]
+ },
+ "ml": {
+  "headline": "ഗോൾഡ് ഇറ്റിഎഫ്-കൾ വിഭജിച്ചു: ഒരു വർഷം കുറഞ്ഞ വിലയിൽ രണ്ട് മാത്രമേ ലാഭം",
+  "hook": "മിക്ക ഗോൾഡ് ഫണ്ടുകൾ നഷ്ടം കാണുമ്പോൾ, രണ്ട് ഫണ്ടുകൾ മാത്രം ലാഭം നേടുന്ന കാരണമെന്ത്?",
+  "what": "ഗോൾഡ് വിലകൾ അടുത്തകാലത്ത് ഇടിവ് കാണിച്ചു. എല്ലാ ഗോൾഡ് ഇറ്റിഎഫ്-കളിലും, കഴിഞ്ഞ ഒരു വർഷത്തിൽ രണ്ട് ഫണ്ടുകൾ മാത്രമേ ലാഭം നേടി. വിദഗ്ധർ പ്രകടന വ്യത്യാസം ഫണ്ടുകളുടെ വ്യത്യസ്ത മാനദണ്ഡങ്ങളിലാണെന്ന് പറയുന്നു.",
+  "why": "യുവാക്കൾ ലാഭം മാത്രം നോക്കാതെ പ്രധാന ഘടകങ്ങൾ പരിശോധിക്കണം. അഞ്ച് പ്രധാന മീറ്റ്രിക്കുകൾ മനസ്സിലാക്കി തെറ്റായ ഇറ്റിഎഫ് തിരഞ്ഞെടുപ്പ് ഒഴിവാക്കാം.",
+  "tags": [
+   "ഗോൾഡ്",
+   "ETF",
+   "നിക്ഷേപം",
+   "ഫിനാൻസ്",
+   "യുവ"
+  ],
+  "say": "മിക്ക ഗോൾഡ് ഫണ്ടുകൾ നഷ്ടം കാണുമ്പോൾ, രണ്ട് ഫണ്ടുകൾ മാത്രം ലാഭം നേടുന്ന കാരണമെന്ത്? ഗോൾഡ് വിലകൾ അടുത്തകാലത്ത് ഇടിവ് കാണിച്ചു. എല്ലാ ഗോൾഡ് ഇറ്റിഎഫ്-കളിലും, കഴിഞ്ഞ ഒരു വർഷത്തിൽ രണ്ട് ഫണ്ടുകൾ മാത്രമേ ലാഭം നേടി. വിദഗ്ധർ പ്രകടന വ്യത്യാസം ഫണ്ടുകളുടെ വ്യത്യസ്ത മാനദണ്ഡങ്ങളിലാണെന്ന് പറയുന്നു. യുവാക്കൾ ലാഭം മാത്രം നോക്കാതെ പ്രധാന ഘടകങ്ങൾ പരിശോധിക്കണം. അഞ്ച് പ്രധാന മീറ്റ്രിക്കുകൾ മനസ്സിലാക്കി തെറ്റായ ഇറ്റിഎഫ് തിരഞ്ഞെടുപ്പ് ഒഴിവാക്കാം.",
+  "ok": true,
+  "tags_en": [
+   "gold",
+   "ETF",
+   "investing",
+   "finance",
+   "younginvestors"
+  ]
+ }
+}

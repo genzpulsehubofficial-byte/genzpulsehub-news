@@ -1,0 +1,43 @@
+{
+ "id": "8cbe4e11f034",
+ "created": "2026-11-26T16:39:55+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/tamil-nadu-announces-15-days-paternity-leave-for-government-employees-12380098#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Tamil Nadu gives govt dads 15 days paternity leave",
+  "hook": "Dad duties just got official time off in TN",
+  "what": "The Tamil Nadu government approved a 15‑day paternity leave for its male staff. Female staff already receive a year of maternity leave.",
+  "why": "It helps new fathers balance work and family, setting a precedent for other states. Young workers can check their eligibility and plan accordingly.",
+  "tags": [
+   "TamilNadu",
+   "PaternityLeave",
+   "GovtJobs",
+   "WorkLifeBalance"
+  ]
+ },
+ "ml": {
+  "headline": "തമിഴ്നാട് സർക്കാർ ജീവനക്കാർക്ക് പതിനഞ്ചു ദിവസം പിതൃത്വ അവധി",
+  "hook": "പിതാവാകാൻ ആഗ്രഹിക്കുന്നവർക്കു ഇനി ഔദ്യോഗിക അവധി",
+  "what": "തമിഴ്നാട് സർക്കാർ പുരുഷ ജീവനക്കാർക്ക് പതിനഞ്ചു ദിവസത്തെ പിതൃത്വ അവധി അനുവദിച്ചു. സ്ത്രീ ജീവനക്കാർക്ക് ഇതിനകം ഒരു വർഷത്തെ ഗർഭധാരണ അവധി ലഭ്യമാണ്.",
+  "why": "ഇത് പുതിയ പിതാക്കൾക്ക് ജോലി‑കുടുംബം ബാലൻസ് ചെയ്യാൻ സഹായിക്കും, മറ്റ് സംസ്ഥാനങ്ങൾക്കും മാതൃകയായി. യുവ തൊഴിലാളികൾ അവരുടെ അവകാശം പരിശോധിച്ച് പദ്ധതിപ്രകാരം പ്ലാൻ ചെയ്യാം.",
+  "tags": [
+   "തമിഴ്നാട്",
+   "പിതൃത്വഅവധി",
+   "സർക്കാർജോലി",
+   "ജീവിതം"
+  ],
+  "say": "പിതാവാകാൻ ആഗ്രഹിക്കുന്നവർക്കു ഇനി ഔദ്യോഗിക അവധി. തമിഴ്നാട് സർക്കാർ പുരുഷ ജീവനക്കാർക്ക് പതിനഞ്ചു ദിവസത്തെ പിതൃത്വ അവധി അനുവദിച്ചു. സ്ത്രീ ജീവനക്കാർക്ക് ഇതിനകം ഒരു വർഷത്തെ ഗർഭധാരണ അവധി ലഭ്യമാണ്. ഇത് പുതിയ പിതാക്കൾക്ക് ജോലി‑കുടുംബം ബാലൻസ് ചെയ്യാൻ സഹായിക്കും, മറ്റ് സംസ്ഥാനങ്ങൾക്കും മാതൃകയായി. യുവ തൊഴിലാളികൾ അവരുടെ അവകാശം പരിശോധിച്ച് പദ്ധതിപ്രകാരം പ്ലാൻ ചെയ്യാം.",
+  "ok": true,
+  "tags_en": [
+   "TamilNadu",
+   "PaternityLeave",
+   "GovtJobs",
+   "WorkLifeBalance"
+  ]
+ }
+}

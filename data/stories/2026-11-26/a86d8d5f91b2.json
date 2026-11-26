@@ -1,0 +1,46 @@
+{
+ "id": "a86d8d5f91b2",
+ "created": "2026-11-26T16:40:07+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Onmanorama",
+ "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmxxbEQxakp2RzVHdFJHbkt0dk9RVk02NnlNci1ZS2NmTE5YRktoTnJpN0FVZEtMZVRuM041dDJLNnlZbUZpQTFuc1lRVWUzbE54RHVUV1MtUmc5bXREbnVpbkc2bFI5S3hnQmd2U0d1NHAzam5TY0cwYlJhU1RmekpkbklHWXR5MC1Zay1TZ3k5VUFlM3M0S1NWZTVxQXc?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Heavy rain drenches Thiruvananthapuram, East Fort records 91 mm",
+  "hook": "Rain hammered the capital, prompting alerts across nine districts.",
+  "what": "Thiruvananthapuram experienced intense rainfall, with East Fort receiving 91 mm in just one hour. Meteorological officials issued a yellow alert covering nine districts in the state.",
+  "why": "The sudden downpour can cause waterlogging and disrupt travel, so students should stay updated on local advisories.",
+  "tags": [
+   "rain",
+   "Thiruvananthapuram",
+   "weather alert",
+   "Kerala",
+   "monsoon"
+  ]
+ },
+ "ml": {
+  "headline": "ഭാരം കൂടിയ മഴ, തിരുവാനിലപ്പുറം, ഈസ്റ്റ് ഫോർട്ടിൽ ഒന്‍പത്തിയൊന്ന് മില്ലീമീറ്റർ",
+  "hook": "മൂലധന നഗരം മഴയാൽ അടിച്ചു, ഒമ്പത് ജില്ലകളിൽ അലർട്ട് പുറപ്പെട്ടു.",
+  "what": "തിരുവാനിലപ്പുറം നഗരത്തിൽ തീവ്രമായ മഴ പെയ്തു, ഈസ്റ്റ് ഫോർട്ടിൽ ഒരു മണിക്കൂറിൽ ഒന്‍പത്തിയൊന്ന് മില്ലീമീറ്റർ മഴവീഴ്ച രേഖപ്പെടുത്തി. കാലാവസ്ഥ വകുപ്പ് ഒമ്പത് ജില്ലകളിൽ മഴ അലർട്ട് പ്രഖ്യാപിച്ചു.",
+  "why": "അപ്രതീക്ഷിത വെള്ളപ്പൊക്കം യാത്രാ പ്രശ്നങ്ങൾ സൃഷ്ടിക്കാം; അതിനാൽ വിദ്യാർത്ഥികൾ പ്രാദേശിക അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "മഴ",
+   "തിരുവനിലപ്പുറം",
+   "വാർത്താ അലർട്ട്",
+   "കേരളം",
+   "മോണ്സൺ"
+  ],
+  "say": "മൂലധന നഗരം മഴയാൽ അടിച്ചു, ഒമ്പത് ജില്ലകളിൽ അലർട്ട് പുറപ്പെട്ടു. തിരുവാനിലപ്പുറം നഗരത്തിൽ തീവ്രമായ മഴ പെയ്തു, ഇസ്റ്റ് ഫോർട്ടിൽ ഒരു മണിക്കൂറിൽ ഒന്‍പത്തിയൊന്ന് മില്ലീമീറ്റർ മഴവീഴ്ച രേഖപ്പെടുത്തി. കാലാവസ്ഥ വകുപ്പ് ഒമ്പത് ജില്ലകളിൽ മഴ അലർട്ട് പ്രഖ്യാപിച്ചു. അപ്രതീക്ഷിത വെള്ളപ്പൊക്കം യാത്രാ പ്രശ്നങ്ങൾ സൃഷ്ടിക്കാം; അതിനാൽ വിദ്യാർത്ഥികൾ പ്രാദേശിക അറിയിപ്പുകൾ ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "rain",
+   "Thiruvananthapuram",
+   "weather alert",
+   "Kerala",
+   "monsoon"
+  ]
+ }
+}
