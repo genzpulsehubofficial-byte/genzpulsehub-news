@@ -3,7 +3,7 @@
  "counts": {
   "en": {
    "facebook": 33,
-   "instagram": 17,
+   "instagram": 18,
    "youtube": 3
   },
   "ml": {
@@ -13,8 +13,8 @@
   }
  },
  "pause": {
-  "ml:facebook": 1795726743.185025,
-  "en:facebook": 1795730025.504239
+  "ml:facebook": 1795751879.4645393,
+  "en:facebook": 1795751844.8639362
  },
  "blocked_today": true,
  "last_yt": {
