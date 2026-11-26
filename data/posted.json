@@ -83,6 +83,18 @@
    "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1645979483876100"
+  },
+  "69900d515c99": {
+   "at": "2026-11-26 05:39",
+   "youtube": "https://youtube.com/shorts/w70mV2jxrNw",
+   "instagram": "ig:18081518951444768",
+   "facebook": "fb:1457829705926340"
+  },
+  "c3cc92cd88b0": {
+   "at": "2026-11-26 05:40",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18656121388055434",
+   "facebook": "fb:1880107373002661"
   }
  },
  "ml": {
@@ -169,6 +181,18 @@
    "youtube": "error: youtube 400: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The user has exceeded the number of videos they may upload.\",\n    \"errors\": [\n      {\n        \"message\": \"The user has exceeded the number ",
    "instagram": "ig:18377323258208583",
    "facebook": "fb:1167559119509627"
+  },
+  "69900d515c99": {
+   "at": "2026-11-26 05:40",
+   "youtube": "https://youtube.com/shorts/8HnuvfmizJM",
+   "instagram": "ig:17971917600195751",
+   "facebook": "fb:1176808161577286"
+  },
+  "c3cc92cd88b0": {
+   "at": "2026-11-26 05:41",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1799496024716117"
   }
  }
 }
