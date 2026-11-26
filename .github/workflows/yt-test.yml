@@ -1,0 +1,18 @@
+name: yt-test
+on: workflow_dispatch
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests
+      - env: {YT_CLIENT_ID: "${{ secrets.YT_CLIENT_ID }}", YT_CLIENT_SECRET: "${{ secrets.YT_CLIENT_SECRET }}", YT_REFRESH_EN: "${{ secrets.YT_REFRESH_EN }}"}
+        run: |
+          cd shorts && python - <<'P'
+          import json, requests, publish
+          s = json.load(open("../data/latest_en.json"))[0]
+          tok = publish.yt_token("en")
+          meta = {"snippet": {"title": s["headline"][:90] + " #Shorts", "description": publish.caption("en", s, "yt"), "tags": (s.get("tags") or [])[:10] + ["GenZ","news","shorts"], "categoryId": "25"}, "status": {"privacyStatus": "private"}}
+          r = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status", headers={"Authorization": f"Bearer {tok}", "Content-Type": "application/json", "X-Upload-Content-Type": "video/mp4"}, json=meta, timeout=60)
+          print("STATUS", r.status_code, r.text[:500])
+          P
