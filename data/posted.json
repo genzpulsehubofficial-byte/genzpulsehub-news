@@ -257,6 +257,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:2276130813284198"
+  },
+  "34e941ef947a": {
+   "at": "2026-11-26 15:53",
+   "youtube": "https://youtube.com/shorts/L9WLSXZrjkI",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "error: {'error': {'message': 'We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More', 'ty"
+  },
+  "46c44b0f170b": {
+   "at": "2026-11-26 15:54",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18183329218440338",
+   "facebook": "skipped (daily cap/pause)"
+  },
+  "aa567504865c": {
+   "at": "2026-11-26 15:55",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17919097071498628",
+   "facebook": "skipped (daily cap/pause)"
   }
  },
  "ml": {
@@ -534,6 +552,18 @@
    "at": "2026-11-26 14:59",
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18079254143474399",
+   "facebook": "skipped (daily cap/pause)"
+  },
+  "34e941ef947a": {
+   "at": "2026-11-26 15:56",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17942139120407246",
+   "facebook": "skipped (daily cap/pause)"
+  },
+  "46c44b0f170b": {
+   "at": "2026-11-26 15:56",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18076977197773821",
    "facebook": "skipped (daily cap/pause)"
   }
  }
