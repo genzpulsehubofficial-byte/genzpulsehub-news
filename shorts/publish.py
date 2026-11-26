@@ -234,8 +234,9 @@ def note(r, lang, plat, result):
         if plat == "youtube":
             r.setdefault("last_yt", {})[lang] = time.time()
     elif str(result).startswith("error") and any(w in str(result).lower() for w in BLOCK_WORDS):
-        r["blocked_today"] = True
-        r.setdefault("pause", {})[f"{lang}:{plat}"] = time.time() + 6 * 3600
+        if plat != "youtube":            # YouTube has its own daily limit; don't slow Instagram/Facebook for it
+            r["blocked_today"] = True
+        r.setdefault("pause", {})[f"{lang}:{plat}"] = time.time() + (12 if plat == "youtube" else 6) * 3600
         discord(f"🛑 {plat} ({lang}) hit a platform limit; pausing it 6h and lowering tomorrow's cap.")
 
 
