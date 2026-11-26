@@ -1,0 +1,46 @@
+{
+ "id": "5be9afe72a3f",
+ "created": "2026-11-26T17:44:07+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-update-da-hike-announced-what-central-and-state-employees-can-expect-11795690487940.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Central DA rises to 63%, states follow suit",
+  "hook": "Your take‑home could jump after the latest allowance hike.",
+  "what": "The government lifted Dearness Allowance and Dearness Relief by three points, setting the combined rate at 63%. Several state governments have announced comparable increases. The 8th Pay Commission is expected to hand in its final report by May 2027.",
+  "why": "Higher DA means more immediate cash for government staff, while the pending commission report will shape future salary structures and pensions. Employees should stay updated for upcoming changes.",
+  "tags": [
+   "DA",
+   "PayCommission",
+   "GovtJobs",
+   "SalaryUpdate",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "കേന്ദ്രം ഡിഎ 63% ആക്കി, സംസ്ഥാനങ്ങളും കൂട്ടി",
+  "hook": "ഇപ്പോൾ നിങ്ങളുടെ ശമ്പളത്തിൽ ഉടൻ വർധനവുണ്ടാകാം",
+  "what": "മന്ത്രിസഭ ഡിയർനെസ് അലവൻസ്, ഡിയർനെസ് റിലീഫ് എന്നിവ 3% വർധിപ്പിച്ച് 63% ആക്കി. പല സംസ്ഥാനങ്ങളും സമാനമായ വർധന പ്രഖ്യാപിച്ചു. 8‑ാം പേ കമ്മീഷൻ മേയ് 2027 വരെ അന്തിമ ശുപാർശകൾ നൽകും.",
+  "why": "ഡിഎ ഉയർന്നതോടെ സർക്കാർ ജീവനക്കാരുടെ കൈവശം കൂടുതൽ വരുമാനം ലഭിക്കും, കൂടാതെ കമ്മീഷന്റെ റിപ്പോർട്ട് ശമ്പളവും പെൻഷനും മാറ്റം വരുത്തും. വരാനിരിക്കുന്ന മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ഡിഎ",
+   "പേകമ്മീഷൻ",
+   "സർക്കാർജോലികൾ",
+   "ശമ്പളമാറ്റം",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഇപ്പോൾ നിങ്ങളുടെ ശമ്പളത്തിൽ ഉടൻ വർധനവുണ്ടാകാം. മന്ത്രിസഭ ഡിയർനെസ് അലവൻസ്, ഡിയർനെസ് റിലീഫ് എന്നിവ മൂന്ന് ശതമാനം വർധിപ്പിച്ച് അറുപത്തിമൂന്ന് ശതമാനം ആക്കി. പല സംസ്ഥാനങ്ങളും സമാനമായ വർധന പ്രഖ്യാപിച്ചു. എട്ടാം പേ കമ്മീഷന്‍ മേയ് ഇരുപത്തിഒന്‍പത് വരെ അന്തിമ ശുപാർശകള്‍ നല്‍കും. ഡിഎ ഉയർന്നതോടെ സർക്കാർ ജീവനക്കാരുടെ കൈവശം കൂടുതൽ വരുമാനം ലഭിക്കും, കൂടാതെ കമ്മീഷന്റെ റിപ്പോർട്ട് ശമ്പളവും പെന്‍ഷനും മാറ്റം വരുത്തും. വരാനിരിക്കുന്ന മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "DA",
+   "PayCommission",
+   "GovtJobs",
+   "SalaryUpdate",
+   "India"
+  ]
+ }
+}

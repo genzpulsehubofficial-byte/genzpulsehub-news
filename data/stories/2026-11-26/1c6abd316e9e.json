@@ -1,0 +1,46 @@
+{
+ "id": "1c6abd316e9e",
+ "created": "2026-11-26T17:44:20+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Vance denies pardon amid rising China chip scrutiny, Huang live",
+  "hook": "A live chat with Nvidia’s boss meets a firm stance on pardons.",
+  "what": "During a live session, Nvidia CEO Jensen Huang appeared as Vance said there will be no pardon. The discussion comes as scrutiny over Chinese chip activities intensifies.",
+  "why": "For Indian tech‑savvy youth, it signals ongoing geopolitical tension that could affect chip availability and AI projects. Stay informed on policy shifts that may impact tech careers.",
+  "tags": [
+   "Nvidia",
+   "China",
+   "chips",
+   "policy",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "വാൻസ്‌ പർഡൺ നിരസിച്ചു, ചൈന ചിപ്പ് പരിശോധന ഉയരുമ്പോൾ ഹുവാവേ ലൈവ്",
+  "hook": "എൻവീഡിയയുടെ സിഇഒയുടെ ലൈവ് ചർച്ചയിൽ പർഡൺ ഇല്ലെന്ന് വാൻസ് ഉറപ്പിച്ചു.",
+  "what": "ലൈവ് സെഷനിൽ, എൻവീഡിയയുടെ സിഇഒ ജെൻസൻ ഹുവാവേ പങ്കെടുത്തു, വാൻസ് പർഡൺ നൽകില്ലെന്ന് പറഞ്ഞു. ചൈനയുടെ ചിപ്പ് പ്രവർത്തനങ്ങളിലെ പരിശോധന വർധിക്കുന്നു.",
+  "why": "ഇന്ത്യൻ ടെക് യുവാക്കൾക്ക് ഇത് ജിയോപൊളിറ്റിക്കൽ സമ്മർദ്ദം സൂചിപ്പിക്കുന്നു, ഇത് ചിപ്പ് ലഭ്യതയും എഐ പദ്ധതികളും ബാധിക്കാം. നയ മാറ്റങ്ങളിലെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Nvidia",
+   "China",
+   "chips",
+   "policy",
+   "AI"
+  ],
+  "say": "എൻവീഡിയയുടെ സിഇഒയുടെ ലൈവ് ചർച്ചയിൽ പർഡൺ ഇല്ലെന്ന് വാൻസ് ഉറപ്പിച്ചു. ലൈവ് സെഷനിൽ, എൻവീഡിയയുടെ സിഇഒ ജെൻസൻ ഹുവാവേ പങ്കെടുത്തു, വാൻസ് പർഡൺ നൽകില്ലെന്ന് പറഞ്ഞു. ചൈനയുടെ ചിപ്പ് പ്രവർത്തനങ്ങളിലെ പരിശോധന വർധിക്കുന്നു. ഇന്ത്യൻ ടെക് യുവാക്കൾക്ക് ഇത് ജിയോപൊളിറ്റിക്കൽ സമ്മർദ്ദം സൂചിപ്പിക്കുന്നു, ഇത് ചിപ്പ് ലഭ്യതയും എഐ പദ്ധതികളും ബാധിക്കാം. നയ മാറ്റങ്ങളിലെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Nvidia",
+   "China",
+   "chips",
+   "policy",
+   "AI"
+  ]
+ }
+}

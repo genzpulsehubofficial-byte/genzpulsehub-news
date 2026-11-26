@@ -1,0 +1,46 @@
+{
+ "id": "1501feff0ba5",
+ "created": "2026-11-26T17:45:57+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQUVYVGV3UW5YUkFQVXRQejNtSG4zZ2xWbEhQY2hzOHlXaWFlOGZQSm4wdDUxQjJKWDBRNlZCeTBTdkt0bm83REcxTlVoZ0pYSEJsX3VxTG9FdVRQaUo1WVlaWkw0U1I5QkUyZ21pc25mUi1oT3JiSHBFR0lSUEFlckdIcERoMEVlSy1zNHdiUWZHZzdqSG1CbUFkQ1JRb2ZnNXhZ?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Ellyse Perry’s 84 leads Sixers to six‑wicket victory",
+  "hook": "A stellar knock turned the chase into a breeze for Sydney.",
+  "what": "In the 35th match of the 2026 Women’s Big Bash League, Ellyse Perry stayed unbeaten on 84 runs. Sydney Sixers chased down Melbourne Stars’ 161‑run target, winning by six wickets after early setbacks.",
+  "why": "The result shows how a big innings can decide a T20 game, encouraging young fans to watch the league and try cricket themselves.",
+  "tags": [
+   "WBBL",
+   "SydneySixers",
+   "MelbourneStars",
+   "Cricket",
+   "EllysePerry"
+  ]
+ },
+ "ml": {
+  "headline": "എല്ലിസ് പെറി എൺപത് നാല് റൺസ് കൊണ്ട് സിക്സേഴ്സ്‌ക്ക് ആറു വിഹിക്കറ്റിൽ വിജയം",
+  "hook": "ഒരു ചമത്കാരമായ ഷോട്ട്, സിഡ്നി ചാമ്പ്യന്മാർക്ക് ചെറു കളി.",
+  "what": "രണ്ടായിരത്തി ഇരുപത്തി ആറു വുമെൻസ് ബിഗ് ബാഷ് ലീഗ് മുപ്പത്തഞ്ച്-ാം മാച്ചിൽ, എല്ലിസ് പെറി എൺപത് നാല് റൺസ് കൊണ്ട് ഔട്ട് ഇല്ലാതെ കളി നയിച്ചു. മെൽബൺ സ്റ്റാർസ് ഒന്ന്‌ നൂറ് അറുപത്തി ഒന്ന് റൺസ് ലക്ഷ്യം നിശ്ചയിച്ചപ്പോൾ, സിഡ്നി സിക്സേഴ്സ് ആറു വിഹിക്കറ്റിൽ വിജയിച്ചു.",
+  "why": "വലിയ ഇൻനിംഗ്‌സ്‌ ടി20 ക്രിക്കറ്റിൽ എത്രത്തോളം മാറ്റം വരുത്തുമെന്ന് ഇത് കാണിക്കുന്നു, യുവാക്കളെ ലീഗ് പിന്തുടരാനും ക്രിക്കറ്റ് കളി തുടങ്ങാനും പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "tags": [
+   "WBBL",
+   "SydneySixers",
+   "MelbourneStars",
+   "Cricket",
+   "EllysePerry"
+  ],
+  "say": "ഒരു ചമത്കാരമായ ഷോട്ട്, സിഡ്നി ചാമ്പ്യന്മാർക്ക് ചെറു കളി. രണ്ടായിരത്തി ഇരുപത്തി ആറു വുമെൻസ് ബിഗ് ബാഷ് ലീഗ് മുപ്പത്തഞ്ച്-ാം മാച്ചിൽ, എല്ലിസ് പെറി എൺപത് നാല് റൺസ് കൊണ്ട് ഔട്ട് ഇല്ലാതെ കളി നയിച്ചു. മെൽബൺ സ്റ്റാർസ് ഒന്ന്‌ നൂറ് അറുപത്തി ഒന്ന് റൺസ് ലക്ഷ്യം നിശ്ചയിച്ചപ്പോൾ, സിഡ്നി സിക്സേഴ്സ് ആറു വിഹിക്കറ്റിൽ വിജയിച്ചു. വലിയ ഇൻനിംഗ്‌സ്‌ ടി20 ക്രിക്കറ്റിൽ എത്രത്തോളം മാറ്റം വരുത്തുമെന്ന് ഇത് കാണിക്കുന്നു, യുവാക്കളെ ലീഗ് പിന്തുടരാനും ക്രിക്കറ്റ് കളി തുടങ്ങാനും പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "WBBL",
+   "SydneySixers",
+   "MelbourneStars",
+   "Cricket",
+   "EllysePerry"
+  ]
+ }
+}

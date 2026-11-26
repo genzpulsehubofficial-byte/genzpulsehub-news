@@ -1,0 +1,46 @@
+{
+ "id": "116081bfd5c5",
+ "created": "2026-11-26T17:44:13+05:30",
+ "category": "jobs",
+ "region": "in",
+ "breaking": false,
+ "source": "Utkarsh Classes",
+ "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNklFNDJYalZ1aGFTSS14Z09ZOUI3c2dKbUJINTZsNkRNSHhDOGNJbElETFQxODVkM0M2cW5IT1pDblZYOFptckhDNjZ2Y01Lby1xZ0VtOWhNQVFjcTUzUkdSMUdyM3JrNTR5UTQ0VlJDVXk5UVlXN0R6bU9pTTZJeVNpOGoyTFNnRFlIc1J2Q2VzSHY3c2VuZ0tlamJtLTFEMGpQUWR5RnlHV0JRMjB4RFVXeGJFMDY1UEhVSHlzbnhwRU1mMUFST1NhOF9qWUU?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "SBI opens 1,540 Junior Associate positions",
+  "hook": "Bank jobs alert for fresh grads!",
+  "what": "State Bank of India announced hiring for 1,540 junior associate roles. The vacancy details were shared publicly.",
+  "why": "Bank jobs are a popular entry point for many youngsters. Keep an eye on the official SBI portal for application steps.",
+  "tags": [
+   "SBI",
+   "banking",
+   "jobs",
+   "career",
+   "recruitment"
+  ]
+ },
+ "ml": {
+  "headline": "എസ്‌ബിഐ തുറന്നു ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾ",
+  "hook": "ബാങ്ക് ജോലികളുടെ അലർട്ട്, പുതിയ ഗ്രാജുവേറ്റുകൾക്ക്!",
+  "what": "സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾക്കായി റിക്രൂട്ട്മെന്റ് പ്രഖ്യാപിച്ചു. ഈ ഒഴിവുകളുടെ വിശദാംശങ്ങൾ പൊതുവായി പങ്കുവെച്ചു.",
+  "why": "ബാങ്കിംഗ് ജോലികൾ പല യുവാക്കൾക്കും ആദ്യത്തെ കരിയർ വഴിയാണ്. ഔദ്യോഗിക എസ്‌ബിഐ പോർട്ടലിൽ അപേക്ഷയുടെ നടപടികൾ പരിശോധിക്കുക.",
+  "tags": [
+   "SBI",
+   "ബാങ്കിംഗ്",
+   "ജോലികൾ",
+   "കരിയർ",
+   "റിക്രൂട്ട്‌മെന്റ്"
+  ],
+  "say": "ബാങ്ക് ജോലികളുടെ അലർട്ട്, പുതിയ ഗ്രാജുവേറ്റുകൾക്ക്! സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾക്കായി റിക്രൂട്ട്മെന്റ് പ്രഖ്യാപിച്ചു. ഈ ഒഴിവുകളുടെ വിശദാംശങ്ങൾ പൊതുവായി പങ്കുവെച്ചു. ബാങ്കിംഗ് ജോലികൾ പല യുവാക്കൾക്കും ആദ്യത്തെ കരിയർ വഴിയാണ്. ഔദ്യോഗിക എസ്‌ബിഐ പോർട്ടലിൽ അപേക്ഷയുടെ നടപടികൾ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "SBI",
+   "banking",
+   "jobs",
+   "career",
+   "recruitment"
+  ]
+ }
+}
