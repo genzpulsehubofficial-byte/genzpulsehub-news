@@ -56,7 +56,7 @@ jobs:
         if: always() && steps.j.outputs.job != 'backup'
         run: |
           git config user.name genzpulsehub-bot; git config user.email bot@genzpulsehub
-          git add data/replied.json data/weights.json data/analytics 2>/dev/null; git diff --cached --quiet || git commit -m "growth: state"
+          git add -A data; git diff --cached --quiet || git commit -m "growth: state"
           for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
       - if: failure()
         run: |

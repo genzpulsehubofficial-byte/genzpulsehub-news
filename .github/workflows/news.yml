@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   models: read
+  actions: write
 
 concurrency:
   group: news
@@ -51,6 +52,13 @@ jobs:
         run: |
           npx -y wrangler@4 pages project create genzpulsehub --production-branch=main >/dev/null 2>&1 || true
           npx -y wrangler@4 pages deploy public --project-name=genzpulsehub --branch=main --commit-dirty=true
+      - name: Keep Shorts/Reels running (backup for GitHub's unreliable schedules)
+        if: always()
+        env: {GH_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+        run: |
+          last=$(gh run list --workflow shorts.yml -L 1 --json createdAt -q '.[0].createdAt' 2>/dev/null)
+          age=$(( $(date +%s) - $(date -d "${last:-2000-01-01}" +%s) ))
+          if [ $age -gt 1500 ]; then gh workflow run shorts.yml && echo "started shorts (last run ${age}s ago)"; fi
       - name: Alert on crash
         if: failure()
         env:
