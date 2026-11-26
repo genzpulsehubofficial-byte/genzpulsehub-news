@@ -1,9 +1,10 @@
 {
- "last_run": "2026-11-26T12:01:35+05:30",
- "fetched": 204,
- "made": 4,
+ "last_run": "2026-11-26T13:29:27+05:30",
+ "fetched": 230,
+ "made": 6,
  "providers": {
-  "groq": 4
+  "groq": 5,
+  "openrouter": 1
  },
  "dead_feeds": [
   "Indian Express"
@@ -11,7 +12,7 @@
  "ai_all_failed": 0,
  "ai_errors": {
   "gemini": "429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=*** | {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/do",
-  "groq": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions | {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m7q66gkaeg0886z8r6dtzhrf` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7835, Req"
+  "groq": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions | {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01m7q66gkaeg0886z8r6dtzhrf` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7320, Req"
  },
  "models": {
   "gemini": "gemini-3.8-flash",

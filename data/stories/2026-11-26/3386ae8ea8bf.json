@@ -1,0 +1,46 @@
+{
+ "id": "3386ae8ea8bf",
+ "created": "2026-11-26T13:25:19+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/keralam-udf-govt-forms-sub-committee-to-finalise-liquor-policy/article71745707.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala govt sets up panel to shape new liquor policy",
+  "hook": "New rules could change drink prices and availability for teens",
+  "what": "The UDF government in Kerala has created a sub‑committee to draft a liquor policy. The panel will try to balance the state's revenue needs with social, religious, political and health concerns linked to alcohol consumption.",
+  "why": "Any policy shift may affect the cost and access to alcohol, so young people should keep an eye on upcoming changes.",
+  "tags": [
+   "Kerala",
+   "LiquorPolicy",
+   "Youth",
+   "Health",
+   "Economy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരള സർക്കാർ മദ്യ നയം രൂപപ്പെടുത്താൻ ഉപകമ്മിറ്റി രൂപീകരിച്ചു",
+  "hook": "പുതിയ നിയമം കുടിക്കാൻ വിലയും ലഭ്യതയും മാറ്റാൻ കഴിയും",
+  "what": "യുഡിഎഫ് ഭരണകൂടം മദ്യ നയം രൂപപ്പെടുത്താൻ ഒരു ഉപകമ്മിറ്റി സ്ഥാപിച്ചു. സംസ്ഥാനത്തിന്റെ വരുമാന ആവശ്യങ്ങളും സമൂഹം, മതം, രാഷ്ട്രീയ, ആരോഗ്യപരമായ ആശങ്കകളും തമ്മിൽ സമതുലനം ചെയ്യാൻ അവർ ശ്രമിക്കും.",
+  "why": "നിയമത്തിൽ വരുന്ന മാറ്റങ്ങൾ മദ്യത്തിന്റെ വിലയും ലഭ്യതയും ബാധിക്കാം; അതിനാൽ യുവാക്കൾക്ക് ഇത് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "മദ്യനയം",
+   "യുവാക്കൾ",
+   "ആരോഗ്യം",
+   "വരുമാനം"
+  ],
+  "say": "പുതിയ നിയമം കുടിക്കാൻ വിലയും ലഭ്യതയും മാറ്റാൻ കഴിയും. യുഡിഎഫ് ഭരണകൂടം മദ്യ നയം രൂപപ്പെടുത്താൻ ഒരു ഉപകമ്മിറ്റി സ്ഥാപിച്ചു. സംസ്ഥാനത്തിന്റെ വരുമാന ആവശ്യങ്ങളും സമൂഹം, മതം, രാഷ്ട്രീയ, ആരോഗ്യപരമായ ആശങ്കകളും തമ്മിൽ സമതുലനം ചെയ്യാൻ അവർ ശ്രമിക്കും. നിയമത്തിൽ വരുന്ന മാറ്റങ്ങൾ മദ്യത്തിന്റെ വിലയും ലഭ്യതയും ബാധിക്കാം; അതിനാൽ യുവാക്കൾക്ക് ഇത് ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "LiquorPolicy",
+   "Youth",
+   "Health",
+   "Economy"
+  ]
+ }
+}

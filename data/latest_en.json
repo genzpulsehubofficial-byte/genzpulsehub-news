@@ -1,5 +1,118 @@
 [
  {
+  "id": "f62d67b6faf1",
+  "created": "2026-11-26T13:25:14+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/mumbai-police-issued-look-out-circular-against-cjps-saurav-das-centre-tells-delhi-hc/article71745604.ece",
+  "headline": "Mumbai Police issue LOC against CJP leader Saurav Das",
+  "hook": "A legal notice may restrict the activist’s movements.",
+  "what": "Mumbai police have issued a Look Out Circular against CJP leader Saurav Das. The central government informed the Delhi High Court about the action. Das’s counsel says he was not told about the LOC or its purpose.",
+  "why": "Such notices can limit a person’s ability to travel, showing how legal steps affect activists. Young people should stay informed about civic and legal developments.",
+  "tags": [
+   "CJP",
+   "LOC",
+   "DelhiHC",
+   "MumbaiPolice"
+  ]
+ },
+ {
+  "id": "3386ae8ea8bf",
+  "created": "2026-11-26T13:25:19+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/keralam-udf-govt-forms-sub-committee-to-finalise-liquor-policy/article71745707.ece",
+  "headline": "Kerala govt sets up panel to shape new liquor policy",
+  "hook": "New rules could change drink prices and availability for teens",
+  "what": "The UDF government in Kerala has created a sub‑committee to draft a liquor policy. The panel will try to balance the state's revenue needs with social, religious, political and health concerns linked to alcohol consumption.",
+  "why": "Any policy shift may affect the cost and access to alcohol, so young people should keep an eye on upcoming changes.",
+  "tags": [
+   "Kerala",
+   "LiquorPolicy",
+   "Youth",
+   "Health",
+   "Economy"
+  ]
+ },
+ {
+  "id": "3414c20d186b",
+  "created": "2026-11-26T13:25:25+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/",
+  "headline": "Supreme Court mandates separate high‑fat, sugar, salt warnings",
+  "hook": "Packaged snacks will now show clear health alerts.",
+  "what": "The Supreme Court told the Centre and FSSAI to require distinct warning labels for foods high in fat, sugar or salt. Manufacturers must display each warning separately on packaging.",
+  "why": "Young consumers can spot unhealthy ingredients quickly and make better snack choices.",
+  "tags": [
+   "food safety",
+   "nutrition",
+   "youth health",
+   "packaged foods",
+   "SC order"
+  ]
+ },
+ {
+  "id": "c06e95418101",
+  "created": "2026-11-26T13:29:14+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/new-nfo-alert-invesco-india-financial-services-debt-fund-scheme-risk-full-offer-period-rs-1000-minimum-investment-amount-11795672291561.html",
+  "headline": "Invesco Launches India Financial Services Debt Fund",
+  "hook": "A new debt fund is now investing in financial services.",
+  "what": "Invesco Mutual Fund has started a new fund. The fund is an open-ended debt plan that invests in the financial services sector. It is marked as moderate risk.",
+  "why": "It gives a new option for people looking at debt funds. Young investors should check the offer period and minimum amount before investing.",
+  "tags": [
+   "Invesco",
+   "DebtFund",
+   "MutualFund",
+   "NFO",
+   "FinancialServices"
+  ]
+ },
+ {
+  "id": "67edaca4cfdf",
+  "created": "2026-11-26T13:29:22+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/mutual-fund-returns-fall-sip-exits-rise-study-explains-why-regular-plan-investors-hold-on-longer-than-direct-ones-11795674358082.html",
+  "headline": "Mutual fund returns dip, SIP withdrawals climb, study finds why",
+  "hook": "Regular‑plan savers are hanging on longer than direct‑plan peers.",
+  "what": "Recent data shows that overall mutual fund earnings have slipped while more investors are pulling out of systematic investment plans. Researchers compared how long people keep money in regular versus direct schemes and explored triggers for cashing out beyond just market swings.",
+  "why": "For young investors, understanding these patterns can help decide which fund type suits their risk appetite and long‑term goals. Consider reviewing your SIP commitments before exiting.",
+  "tags": [
+   "mutualfunds",
+   "SIP",
+   "investing",
+   "finance",
+   "youth"
+  ]
+ },
+ {
+  "id": "09a3116ba9d0",
+  "created": "2026-11-26T13:29:27+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-elephant-tranquilise-radio-collar-idukki-pti2b6pbjrz",
+  "headline": "Kerala plans new move to collar wild tusker Chakkakomban",
+  "hook": "Rain stopped the first tranquilising try, now a fresh plan is set.",
+  "what": "Forest officials in Kerala are devising a new approach to sedate the elephant named Chakkakomban and fit a radio collar. The earlier attempt was aborted because of bad weather.",
+  "why": "Tracking the tusker will help manage human‑elephant conflicts, a concern for nearby communities. Teens can stay informed about wildlife safety measures.",
+  "tags": [
+   "Kerala",
+   "wildlife",
+   "elephant",
+   "conservation",
+   "news"
+  ]
+ },
+ {
   "id": "7842972261a1",
   "created": "2026-11-26T11:56:34+05:30",
   "category": "money",
@@ -637,116 +750,6 @@
    "India",
    "security",
    "MiddleEast"
-  ]
- },
- {
-  "id": "8e543b108ef0",
-  "created": "2026-11-26T07:35:10+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Inc42",
-  "source_url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
-  "headline": "Vegapay gets $10 Mn to grow UPI credit",
-  "hook": "Vegapay has now received cash to make its UPI credit bigger.",
-  "what": "Vegapay is a Mumbai-based fintech. It secured $10 Mn in Series A funding. Vertex Ventures was a co-lead in that round.",
-  "why": "For young Indians, this relates to credit growth through UPI. The source does not share more details.",
-  "tags": [
-   "vegapay",
-   "fintech",
-   "upi",
-   "seriesa",
-   "startup"
-  ]
- },
- {
-  "id": "04c7ac7531c1",
-  "created": "2026-11-26T07:35:17+05:30",
-  "category": "health",
-  "breaking": false,
-  "source": "Medical Xpress",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNUowcUlLc0lfMGNpVEJETEs1RzZYT1RmRUJoOEkwUWR5VlBJVnJSMk0wZGdSZWNRaVpSbEg4eVcya2JRNldnUDQxazgtdHZuN0h5UDczQkJIUU1DbVJNbzFpTk5rZXN6N1VxU2gtdVNjWFpEVGFnaUhUZWxiQQ?oc=5",
-  "headline": "Half of Long‑COVID Adults Still Struggle to Breathe After 4 Years",
-  "hook": "Breathing issues linger years after infection, says new study.",
-  "what": "A recent survey of adults with long COVID found that about 50% continue to experience breathing difficulties four years after their initial illness. The research highlights persistent respiratory problems among survivors.",
-  "why": "Ongoing breathlessness can affect daily life and studies, so young people should monitor symptoms and seek medical advice if needed.",
-  "tags": [
-   "longCOVID",
-   "breathing",
-   "health",
-   "research",
-   "India"
-  ]
- },
- {
-  "id": "88b6eabe5da1",
-  "created": "2026-11-26T06:06:44+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/us-clears-spacex-to-launch-1-million-satellites-for-data-centers-in-space-12377997#publisher=newsstand",
-  "headline": "SpaceX gets US nod to deploy million satellites by 2040",
-  "hook": "Imagine internet servers floating above us—SpaceX’s new plan could make it real.",
-  "what": "The US Federal Communications Commission approved SpaceX’s plan to launch up to one million satellites that will host data centers in orbit. The clearance is effective through 2040, according to a filing released on Wednesday.",
-  "why": "This could boost global internet speeds and enable new cloud services, affecting how Indian teens access online content. Keep an eye on emerging space‑tech jobs and services.",
-  "tags": [
-   "space",
-   "tech",
-   "internet",
-   "future"
-  ]
- },
- {
-  "id": "ac22192e9a3f",
-  "created": "2026-11-26T06:06:50+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/highway-authoritys-new-plan-to-help-motorists-after-accidents-breakdowns-12378050#publisher=newsstand",
-  "headline": "Highway Authority launches fast‑aid plan for accident and breakdown victims",
-  "hook": "Stuck on a highway? Help could be just minutes away.",
-  "what": "The Highway Authority announced a new scheme to provide immediate assistance to motorists involved in accidents or vehicle breakdowns. The program aims to improve road safety by ensuring quicker response times.",
-  "why": "For young travelers, faster help means less risk and less time stranded on busy roads. Stay aware of the new services and keep emergency contacts handy.",
-  "tags": [
-   "highwaysafety",
-   "roadhelp",
-   "travel"
-  ]
- },
- {
-  "id": "6660f88e5b5f",
-  "created": "2026-11-26T06:06:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-  "headline": "Tesla Cybertruck tops used‑truck sales in US",
-  "hook": "A cancelled electric pickup is moving faster than any other used truck.",
-  "what": "In the United States, the used Tesla Cybertruck was the quickest to sell last month, spending only 39.1 days on average on the market. Other used trucks needed about 65.5 days to sell.",
-  "why": "The speed shows strong interest in electric trucks, a trend young buyers may want to watch for future rides.",
-  "tags": [
-   "Tesla",
-   "Cybertruck",
-   "usedcars",
-   "electric",
-   "trend"
-  ]
- },
- {
-  "id": "00d3c793baf9",
-  "created": "2026-11-26T06:09:23+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-  "headline": "Anthropic CEO Rejects Claims Of Giving AI Control",
-  "hook": "AI developers may soon let AI handle more of their own work.",
-  "what": "Anthropic CEO Dario Amodei disagreed with rivals. They accused him of favoring human surrender to AI. The pushback came as leading AI companies increasingly automated their own research and model development.",
-  "why": "It matters as AI moves into research and model building. Young people should keep watching how human control is discussed in AI development.",
-  "tags": [
-   "AI",
-   "Anthropic",
-   "Tech",
-   "Automation"
   ]
  }
 ]

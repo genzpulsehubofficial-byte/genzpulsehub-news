@@ -1,0 +1,46 @@
+{
+ "id": "3414c20d186b",
+ "created": "2026-11-26T13:25:25+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court mandates separate high‑fat, sugar, salt warnings",
+  "hook": "Packaged snacks will now show clear health alerts.",
+  "what": "The Supreme Court told the Centre and FSSAI to require distinct warning labels for foods high in fat, sugar or salt. Manufacturers must display each warning separately on packaging.",
+  "why": "Young consumers can spot unhealthy ingredients quickly and make better snack choices.",
+  "tags": [
+   "food safety",
+   "nutrition",
+   "youth health",
+   "packaged foods",
+   "SC order"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി നിർദ്ദേശിച്ചു: ഉയർന്ന കൊഴുപ്പ്, പഞ്ചസാര, ഉപ്പ് മുന്നറിയിപ്പ് ലേബലുകൾ",
+  "hook": "പാക്കേജ്‌ഡ് സ്നാക്കുകളിൽ ഇനി വ്യക്തമായ ആരോഗ്യ മുന്നറിയിപ്പുകൾ.",
+  "what": "സുപ്രീം കോടതി കേന്ദ്രത്തെയും എഫ്‌എസ്എഐ-യെയും ഉയർന്ന കൊഴുപ്പ്, പഞ്ചസാര, ഉപ്പ് അടങ്ങിയ ഭക്ഷണങ്ങൾക്ക് വേർതിരിച്ച മുന്നറിയിപ്പ് ലേബലുകൾ ആവശ്യപ്പെടാൻ നിർദേശിച്ചു. നിർമ്മാതാക്കൾ ഓരോ ഘടകത്തിനും വേർതിരിച്ച് ലേബൽ ചെയ്യണം.",
+  "why": "യുവജനങ്ങള്‍ക്ക് അനാരോഗ്യകരമായ ഘടകങ്ങള്‍ എളുപ്പത്തില്‍ തിരിച്ചറിയാന്‍, ആരോഗ്യകരമായ തിരഞ്ഞെടുപ്പുകള്‍ ചെയ്യാന്‍ സഹായിക്കും.",
+  "tags": [
+   "ഭക്ഷ്യസുരക്ഷ",
+   "പോഷണം",
+   "യുവ ആരോഗ്യ",
+   "പാക്കേജ്ഡ് ഫുഡ്",
+   "കോടതി"
+  ],
+  "say": "പാക്കേജ്‌ഡ് സ്നാക്കുകളിൽ ഇനി വ്യക്തമായ ആരോഗ്യ മുന്നറിയിപ്പുകൾ. സുപ്രീം കോടതി കേന്ദ്രത്തെയും എഫ്‌എസ്എഐ-യെയും ഉയർന്ന കൊഴുപ്പ്, പഞ്ചസാര, ഉപ്പ് അടങ്ങിയ ഭക്ഷണങ്ങൾക്ക് വേർതിരിച്ച മുന്നറിയിപ്പ് ലേബലുകൾ ആവശ്യപ്പെടാൻ നിർദേശിച്ചു. നിർമ്മാതാക്കൾ ഓരോ ഘടകത്തിനും വേർതിരിച്ച് ലേബൽ ചെയ്യണം. യുവജനങ്ങള്‍ക്ക് അനാരോഗ്യകരമായ ഘടകങ്ങള്‍ എളുപ്പത്തില്‍ തിരിച്ചറിയാന്‍, ആരോഗ്യകരമായ തിരഞ്ഞെടുപ്പുകള്‍ ചെയ്യാന്‍ സഹായിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "food safety",
+   "nutrition",
+   "youth health",
+   "packaged foods",
+   "SC order"
+  ]
+ }
+}

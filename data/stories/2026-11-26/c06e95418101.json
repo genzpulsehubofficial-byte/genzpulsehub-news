@@ -1,0 +1,46 @@
+{
+ "id": "c06e95418101",
+ "created": "2026-11-26T13:29:14+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/new-nfo-alert-invesco-india-financial-services-debt-fund-scheme-risk-full-offer-period-rs-1000-minimum-investment-amount-11795672291561.html",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Invesco Launches India Financial Services Debt Fund",
+  "hook": "A new debt fund is now investing in financial services.",
+  "what": "Invesco Mutual Fund has started a new fund. The fund is an open-ended debt plan that invests in the financial services sector. It is marked as moderate risk.",
+  "why": "It gives a new option for people looking at debt funds. Young investors should check the offer period and minimum amount before investing.",
+  "tags": [
+   "Invesco",
+   "DebtFund",
+   "MutualFund",
+   "NFO",
+   "FinancialServices"
+  ]
+ },
+ "ml": {
+  "headline": "ഇൻവെർസ്കോ ഇന്ത്യയുടെ ഫിനാൻസ് സർവീസ് ഡിറ്റ് ഫണ്ട് ആരംഭിക്കുന്നു",
+  "hook": "പുതിയ ഡിറ്റ് ഫണ്ട് എത്തി.",
+  "what": "ഇൻവെർസ്കോ മ്യൂച്വൽ ഫണ്ട് ഒരു പുതിയ ഫണ്ട് തുറന്നു. ഇത് ഓപ്പൺ‑എൻഡഡ് ഡിറ്റ് സ്കീമാണ്, ഫിനാൻസ് സർവീസുകളിലേക്കുള്ള നിക്ഷേപം. മിതമായ റിസ്ക് ഉണ്ട്.",
+  "why": "ഡിറ്റ് ഫണ്ടുകളെക്കുറിച്ച് നിങ്ങൾ അറിയുന്നുവെങ്കിൽ ഇത് പ്രധാനമാണ്. നിക്ഷേപമാർക്കറ്റിൽ പ്രവേശിക്കുന്നതിന് മുമ്പ് ഓഫർ കാലയളവും കുറഞ്ഞ നിക്ഷേപവും പരിശോധിക്കുക.",
+  "tags": [
+   "ഇൻവെർസ്കോ",
+   "ഡിറ്റ്",
+   "ഫണ്ട്",
+   "മ്യൂചുവൽ",
+   "നിസോ"
+  ],
+  "say": "പുതിയ ഡിറ്റ് ഫണ്ട് എത്തി. ഇൻവെർസ്കോ മ്യൂച്വൽ ഫണ്ട് ഒരു പുതിയ ഫണ്ട് തുറന്നു. ഇത് ഓപ്പൺ‑എൻഡഡ് ഡിറ്റ് സ്കീമാണ്, ഫിനാൻസ് സർവീസുകളിലേക്കുള്ള നിക്ഷേപം. മിതമായ റിസ്ക് ഉണ്ട്. ഡിറ്റ് ഫണ്ടുകളെക്കുറിച്ച് നിങ്ങൾ അറിയുന്നുവെങ്കിൽ ഇത് പ്രധാനമാണ്. നിക്ഷേപമാർക്കറ്റിൽ പ്രവേശിക്കുന്നതിന് മുമ്പ് ഓഫർ കാലയളവും കുറഞ്ഞ നിക്ഷേപവും പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Invesco",
+   "DebtFund",
+   "MutualFund",
+   "NFO",
+   "FinancialServices"
+  ]
+ }
+}

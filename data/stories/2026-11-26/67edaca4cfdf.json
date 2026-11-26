@@ -1,0 +1,46 @@
+{
+ "id": "67edaca4cfdf",
+ "created": "2026-11-26T13:29:22+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/mutual-fund-returns-fall-sip-exits-rise-study-explains-why-regular-plan-investors-hold-on-longer-than-direct-ones-11795674358082.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Mutual fund returns dip, SIP withdrawals climb, study finds why",
+  "hook": "Regular‑plan savers are hanging on longer than direct‑plan peers.",
+  "what": "Recent data shows that overall mutual fund earnings have slipped while more investors are pulling out of systematic investment plans. Researchers compared how long people keep money in regular versus direct schemes and explored triggers for cashing out beyond just market swings.",
+  "why": "For young investors, understanding these patterns can help decide which fund type suits their risk appetite and long‑term goals. Consider reviewing your SIP commitments before exiting.",
+  "tags": [
+   "mutualfunds",
+   "SIP",
+   "investing",
+   "finance",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "മ്യൂച്വൽ ഫണ്ടുകളുടെ ലാഭം ഇടിഞ്ഞു, എസ്‌ഐപി പിൻവാങ്ങൽ വർദ്ധിച്ചു, പഠനത്തിൽ കാരണം കണ്ടെത്തി",
+  "hook": "റെഗുലർ പ്ലാനിലെ നിക്ഷേപകർ ഡിറക്റ്റ് പ്ലാനിലെവരെക്കാൾ കൂടുതൽ കാലം നിക്ഷേപം നിലനിർത്തുന്നു.",
+  "what": "പുതിയ ഡാറ്റ പ്രകാരം മ്യൂച്വൽ ഫണ്ടുകളുടെ മൊത്തം ലാഭം കുറയുകയും, സിസ്റ്റമാറ്റിക് ഇൻവെസ്റ്റ്മെന്റ് പ്ലാനുകളിൽ (എസ്‌ഐപി) നിന്ന് പിൻവാങ്ങുന്നവരുടെ എണ്ണം ഉയരുകയും ചെയ്യുന്നു. ഗവേഷകർ റെഗുലർ, ഡിറക്റ്റ് പ്ലാനുകളിൽ നിക്ഷേപം എത്രകാലം നിലനിർത്തുന്നു എന്ന് താരതമ്യം ചെയ്തു, മാർക്കറ്റ് അസ്ഥിരതയ്ക്ക് പുറമേ മറ്റ് കാരണങ്ങളും പരിശോധിച്ചു.",
+  "why": "യുവ നിക്ഷേപകർക്ക് ഈ പ്രവണതകൾ മനസ്സിലാക്കുന്നത് അവരുടെ റിസ്ക് സഹിഷ്ണുതയും ദീർഘകാല ലക്ഷ്യങ്ങളും അനുസരിച്ച് ഫണ്ട് തരം തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. എസ്‌ഐപി-ൽ നിന്ന് പുറത്തേക്ക് പോകുന്നതിന് മുമ്പ് നിങ്ങളുടെ നിക്ഷേപം പരിശോധിക്കുക.",
+  "tags": [
+   "മ്യൂച്വൽഫണ്ട്",
+   "SIP",
+   "നിക്ഷേപം",
+   "ഫിനാൻസ്",
+   "യുവജനങ്ങൾ"
+  ],
+  "say": "റെഗുലർ പ്ലാനിലെ നിക്ഷേപകർ ഡിറക്റ്റ് പ്ലാനിലെവരെക്കാൾ കൂടുതൽ കാലം നിക്ഷേപം നിലനിർത്തുന്നു. പുതിയ ഡാറ്റ പ്രകാരം മ്യൂച്വൽ ഫണ്ടുകളുടെ മൊത്തം ലാഭം കുറയുകയും, സിസ്റ്റമാറ്റിക് ഇൻവെസ്റ്റ്മെന്റ് പ്ലാനുകളിൽ (എസ്‌ഐപി) നിന്ന് പിൻവാങ്ങുന്നവരുടെ എണ്ണം ഉയരുകയും ചെയ്യുന്നു. ഗവേഷകർ റെഗുലർ, ഡിറക്റ്റ് പ്ലാനുകളിൽ നിക്ഷേപം എത്രകാലം നിലനിർത്തുന്നു എന്ന് താരതമ്യം ചെയ്തു, മാർക്കറ്റ് അസ്ഥിരതയ്ക്ക് പുറമേ മറ്റ് കാരണങ്ങളും പരിശോധിച്ചു. യുവ നിക്ഷേപകർക്ക് ഈ പ്രവണതകൾ മനസ്സിലാക്കുന്നത് അവരുടെ റിസ്ക് സഹിഷ്ണുതയും ദീർഘകാല ലക്ഷ്യങ്ങളും അനുസരിച്ച് ഫണ്ട് തരം തിരഞ്ഞെടുക്കാൻ സഹായിക്കും. എസ്‌ഐപി-ൽ നിന്ന് പുറത്തേക്ക് പോകുന്നതിന് മുമ്പ് നിങ്ങളുടെ നിക്ഷേപം പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "mutualfunds",
+   "SIP",
+   "investing",
+   "finance",
+   "youth"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "09a3116ba9d0",
+ "created": "2026-11-26T13:29:27+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-elephant-tranquilise-radio-collar-idukki-pti2b6pbjrz",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala plans new move to collar wild tusker Chakkakomban",
+  "hook": "Rain stopped the first tranquilising try, now a fresh plan is set.",
+  "what": "Forest officials in Kerala are devising a new approach to sedate the elephant named Chakkakomban and fit a radio collar. The earlier attempt was aborted because of bad weather.",
+  "why": "Tracking the tusker will help manage human‑elephant conflicts, a concern for nearby communities. Teens can stay informed about wildlife safety measures.",
+  "tags": [
+   "Kerala",
+   "wildlife",
+   "elephant",
+   "conservation",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളം ചക്കക്കോമ്പന്‍ ആനയെ റേഡിയോ‑കോളർ ചെയ്യാന്‍ പുതിയ പദ്ധതി",
+  "hook": "മഴ മൂലം ആദ്യ ശാന്തീകരണം പരാജയപ്പെട്ടു; ഇനി പുതിയ ശ്രമം.",
+  "what": "കേരളത്തിലെ വനവകുപ്പ് ചക്കക്കോമ്പന്‍ എന്ന വന്യ ആനയെ ശാന്തമാക്കി റേഡിയോ‑കോളർ ഇടാന്‍ പുതിയ മാര്‍ഗം ആസൂത്രണം ചെയ്യുന്നു. മോശം കാലാവസ്ഥ കാരണം ആദ്യ ശ്രമം പരാജയപ്പെട്ടു.",
+  "why": "ആനയുടെ ചലനങ്ങള്‍ നിരീക്ഷിച്ച് മനുഷ്യ‑ആന സംഘര്‍ഷങ്ങള്‍ കുറയ്ക്കാന്‍ ഇത് സഹായിക്കും. യുവാക്കള്‍ക്ക് വന്യജീവി സുരക്ഷയെക്കുറിച്ച് അറിയാന്‍ അവസരം ലഭിക്കും.",
+  "tags": [
+   "കേരളം",
+   "വനം",
+   "ആന",
+   "സംരക്ഷണം",
+   "വാർത്ത"
+  ],
+  "say": "മഴ മൂലം ആദ്യ ശാന്തീകരണം പരാജയപ്പെട്ടു; ഇനി പുതിയ ശ്രമം. കേരളത്തിലെ വനവകുപ്പ് ചക്കക്കോമ്പന്‍ എന്ന വന്യ ആനയെ ശാന്തമാക്കി റേഡിയോ‑കോളർ ഇടാന്‍ പുതിയ മാര്‍ഗം ആസൂത്രണം ചെയ്യുന്നു. മോശം കാലാവസ്ഥ കാരണം ആദ്യ ശ്രമം പരാജയപ്പെട്ടു. ആനയുടെ ചലനങ്ങള്‍ നിരീക്ഷിച്ച് മനുഷ്യ‑ആന സംഘര്‍ഷങ്ങള്‍ കുറയ്ക്കാന്‍ ഇത് സഹായിക്കും. യുവാക്കള്‍ക്ക് വന്യജീവി സുരക്ഷയെക്കുറിച്ച് അറിയാന്‍ അവസരം ലഭിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "wildlife",
+   "elephant",
+   "conservation",
+   "news"
+  ]
+ }
+}
