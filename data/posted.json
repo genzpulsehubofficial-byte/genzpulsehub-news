@@ -173,6 +173,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18123983954029694",
    "facebook": "fb:2057442708977654"
+  },
+  "cf80d83142ec": {
+   "at": "2026-11-26 11:23",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1832808284643362"
+  },
+  "6e4b0ca61196": {
+   "at": "2026-11-26 11:23",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1619753809329628"
+  },
+  "8cbe4e11f034": {
+   "at": "2026-11-26 11:23",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1375293771215526"
   }
  },
  "ml": {
@@ -349,6 +367,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:17875594596640231",
    "facebook": "fb:2688040328310192"
+  },
+  "cf80d83142ec": {
+   "at": "2026-11-26 11:24",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17915427768577120",
+   "facebook": "fb:1148263517579682"
+  },
+  "6e4b0ca61196": {
+   "at": "2026-11-26 11:25",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1511186727545128"
+  },
+  "ecd23d7dc01d": {
+   "at": "2026-11-26 11:25",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18005563226798667",
+   "facebook": "fb:29118820597746616"
   }
  }
 }
