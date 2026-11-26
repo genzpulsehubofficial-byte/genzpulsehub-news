@@ -37,7 +37,7 @@ FEEDS = [
     ("Google News Health", f"{G}/headlines/section/topic/HEALTH{GIN}", "health", "in"),
     ("Good news", gsearch("inspiring young Indian achievement"), "trending", "in"),
     # Kerala (Malayalam channel extras)
-    ("Onmanorama", "https://www.onmanorama.com/news/kerala.feeds.onmfeed.xml", "kerala", "kl"),
+    ("Kerala news", gsearch("Kerala news today"), "kerala", "kl"),
     ("Mathrubhumi English", "https://english.mathrubhumi.com/rss/news/kerala", "kerala", "kl"),
     ("Kerala PSC", gsearch("Kerala PSC notification OR rank list"), "exams", "kl"),
     ("Kerala weather", gsearch("Kerala rain alert IMD"), "kerala", "kl"),

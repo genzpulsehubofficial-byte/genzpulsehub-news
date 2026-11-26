@@ -136,7 +136,10 @@ def fetch_all():
     items, bad = [], []
     for name, url, cat, region in FEEDS:
         try:
-            d = feedparser.parse(url, request_headers={"User-Agent": "Mozilla/5.0 GenZPulseHub/1.0"})
+            r = requests.get(url, timeout=25, headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                              "Chrome/124.0 Safari/537.36", "Accept-Language": "en-IN,en;q=0.9"})
+            d = feedparser.parse(r.content)
             if not d.entries:
                 bad.append(name)
             for e in d.entries[:25]:
