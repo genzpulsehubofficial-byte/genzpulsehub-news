@@ -227,6 +227,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
    "facebook": "fb:1055076137600433"
+  },
+  "1c6abd316e9e": {
+   "at": "2026-11-26 12:42",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1755526676101714"
+  },
+  "116081bfd5c5": {
+   "at": "2026-11-26 12:42",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:2565976650562785"
+  },
+  "5be9afe72a3f": {
+   "at": "2026-11-26 12:42",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1102263372812662"
   }
  },
  "ml": {
@@ -457,6 +475,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:17971573569197898",
    "facebook": "fb:1860520484987217"
+  },
+  "1c6abd316e9e": {
+   "at": "2026-11-26 12:43",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18102645467543241",
+   "facebook": "fb:1124318923819609"
+  },
+  "116081bfd5c5": {
+   "at": "2026-11-26 12:43",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18114751484337232",
+   "facebook": "fb:2164227364458473"
+  },
+  "5be9afe72a3f": {
+   "at": "2026-11-26 12:44",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:30547824568151028"
   }
  }
 }
