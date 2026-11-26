@@ -1,0 +1,46 @@
+{
+ "id": "543cf37bbb82",
+ "created": "2026-11-26T14:28:17+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Reuters",
+ "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Elon Musk promises two SpaceX shares to every US child",
+  "hook": "A billionaire’s gift could turn kids into future shareholders.",
+  "what": "Elon Musk announced he will allocate two SpaceX shares to each child in the United States. The pledge aims to give every American youngster a stake in the company.",
+  "why": "Such a move could spark interest in space technology and investing among youth. Indian teens can watch how high‑profile founders distribute equity.",
+  "tags": [
+   "ElonMusk",
+   "SpaceX",
+   "Shares",
+   "Youth",
+   "Finance"
+  ]
+ },
+ "ml": {
+  "headline": "എലോൺ മസ്ക് ഓരോ അമേരിക്കൻ കുട്ടിക്കും രണ്ട് സ്പേസ്‌എക്സ് ഷെയറുകൾ വാഗ്ദാനം ചെയ്തു",
+  "hook": "ഒരു ബില്യണറിന്റെ സമ്മാനം കുട്ടികളെ ഭാവി ഷെയർഹോൾഡർമാരാക്കി മാറ്റും.",
+  "what": "എലോൺ മസ്ക് എല്ലാ അമേരിക്കൻ കുട്ടികൾക്കും രണ്ട് സ്പേസ്‌എക്സ് ഷെയറുകൾ നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. ഈ വാഗ്ദാനം ഓരോ കുട്ടിക്കും കമ്പനിയുടെ ഒരു ഭാഗം നൽകുന്നതാണ്.",
+  "why": "ഇത് യുവാക്കൾക്ക് സ്പേസ് ടെക്നോളജിയും നിക്ഷേപവും കുറിച്ച് താല്പര്യം വളർത്താൻ സഹായിക്കും. ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഉയർന്ന പ്രൊഫൈൽ സ്ഥാപകരുടെ ഇക്വിറ്റി വിതരണം എങ്ങനെ നടക്കുന്നു എന്ന് കാണാൻ കഴിയും.",
+  "tags": [
+   "എലോൺമസ്ക്",
+   "സ്പേസ്‌എക്സ്",
+   "ഷെയറുകൾ",
+   "യുവാക്കൾ",
+   "ഫിനാൻസ്"
+  ],
+  "say": "ഒരു ബില്യണറിന്റെ സമ്മാനം കുട്ടികളെ ഭാവി ഷെയർഹോൾഡർമാരാക്കി മാറ്റും. എലോൺ മസ്ക് എല്ലാ അമേരിക്കൻ കുട്ടികൾക്കും രണ്ട് സ്പേസ്‌എക്സ് ഷെയറുകൾ നൽകുമെന്ന് പ്രഖ്യാപിച്ചു. ഈ വാഗ്ദാനം ഓരോ കുട്ടിക്കും കമ്പനിയുടെ ഒരു ഭാഗം നൽകുന്നതാണ്. ഇത് യുവാക്കൾക്ക് സ്പേസ് ടെക്നോളജിയും നിക്ഷേപവും കുറിച്ച് താല്പര്യം വളർത്താൻ സഹായിക്കും. ഇന്ത്യയിലെ യുവാക്കൾക്ക് ഉയർന്ന പ്രൊഫൈൽ സ്ഥാപകരുടെ ഇക്വിറ്റി വിതരണം എങ്ങനെ നടക്കുന്നു എന്ന് കാണാൻ കഴിയും.",
+  "ok": true,
+  "tags_en": [
+   "ElonMusk",
+   "SpaceX",
+   "Shares",
+   "Youth",
+   "Finance"
+  ]
+ }
+}

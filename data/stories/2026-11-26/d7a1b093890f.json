@@ -1,0 +1,43 @@
+{
+ "id": "d7a1b093890f",
+ "created": "2026-11-26T14:28:09+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "India tells Netflix to block Pakistani shows",
+  "hook": "Streaming platform faces government order over a popular series.",
+  "what": "The Indian ministry has asked Netflix to follow an advisory issued on May 8, 2025, and remove Pakistani content. The request comes amid controversy surrounding the series “Jo Bachay…”.",
+  "why": "Young viewers may see fewer shows from Pakistan on Netflix, so check the platform for updated content lists.",
+  "tags": [
+   "Netflix",
+   "India",
+   "PakistaniContent",
+   "Streaming"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യൻ നെറ്റ്ഫ്ലിക്സിന് പാകിസ്ഥാനി ഷോകൾ ബ്ലോക്ക് ചെയ്യാൻ പറഞ്ഞു",
+  "hook": "പ്രചാരം നേടിയ സീരീസിന്റെ ചർച്ചയിൽ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോം സർക്കാർ നിർദ്ദേശം നേരിടുന്നു.",
+  "what": "ഭാരത സർക്കാർ നെറ്റ്ഫ്ലിക്സിനെ എട്ട് മേയ് രണ്ടായിരത്തി ഇരുപത്തിഐഞ്ചിലെ ഉപദേശത്തെ പാലിച്ച് പാകിസ്ഥാനി ഉള്ളടക്കം നീക്കാൻ ആവശ്യപ്പെട്ടു. ഇത് “Jo Bachay…” സീരീസ് ചർച്ചയുടെ പശ്ചാത്തലത്തിലാണ്.",
+  "why": "യുവജനങ്ങൾക്ക് നെറ്റ്ഫ്ലിക്സിലെ പാകിസ്ഥാനി ഷോകൾ കുറയാം, അതിനാൽ പ്ലാറ്റ്ഫോം അപ്ഡേറ്റ് ചെയ്ത ലിസ്റ്റുകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "Netflix",
+   "India",
+   "PakistaniContent",
+   "Streaming"
+  ],
+  "say": "പ്രചാരം നേടിയ സീരീസിന്റെ ചർച്ചയിൽ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോം സർക്കാർ നിർദ്ദേശം നേരിടുന്നു. ഭാരത സർക്കാർ നെറ്റ്ഫ്ലിക്സിനെ എട്ട് മേയ് രണ്ടായിരത്തി ഇരുപത്തിഐഞ്ചിലെ ഉപദേശത്തെ പാലിച്ച് പാകിസ്ഥാനി ഉള്ളടക്കം നീക്കാൻ ആവശ്യപ്പെട്ടു. ഇത് “Jo Bachay…” സീരീസ് ചർച്ചയുടെ പശ്ചാത്തലത്തിലാണ്. യുവജനങ്ങൾക്ക് നെറ്റ്ഫ്ലിക്സിലെ പാകിസ്ഥാനി ഷോകൾ കുറയാം, അതിനാൽ പ്ലാറ്റ്ഫോം അപ്ഡേറ്റ് ചെയ്ത ലിസ്റ്റുകൾ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Netflix",
+   "India",
+   "PakistaniContent",
+   "Streaming"
+  ]
+ }
+}

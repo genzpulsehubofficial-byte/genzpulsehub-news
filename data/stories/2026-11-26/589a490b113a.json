@@ -1,0 +1,43 @@
+{
+ "id": "589a490b113a",
+ "created": "2026-11-26T14:28:24+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "WSJ",
+ "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhmUDdZT0JqSVhGX0lxazBhcUFaM2pIS2I0UHJOMVVUa1JOWFhVeGVrREVocmdyRWhQVzlGOEVpWDJXSGZxU1hkcEJ1TElmbXFXZXZnZVk5RmdBeEl2WGljdG1GTFl4SHVraWZfdjRsVFcxMWlBUWpCM2JaSHBhZ2wxRV9hSHk1R0hQcmRhNzAwcmEtYmc4bUtpOU9jbG10?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Nvidia CEO Jensen Huang shares therapy update, apologizes at town hall",
+  "hook": "Even tech giants need mental health breaks.",
+  "what": "Nvidia founder Jensen Huang told employees he is attending therapy and apologized during a company-wide town hall. The comments came after recent pressure on the AI chip maker.",
+  "why": "It shows that even top CEOs face mental‑health challenges, encouraging openness about therapy. Young professionals can see it as a cue to prioritize wellbeing.",
+  "tags": [
+   "Nvidia",
+   "MentalHealth",
+   "TechLeadership",
+   "AI"
+  ]
+ },
+ "ml": {
+  "headline": "എൻവീഡിയ സി.ഇ.ഒ ജെൻസൻ ഹുവാങ് തെറാപ്പി ചെയ്യുന്നു, ടൗൺ ഹാളിൽ ക്ഷമ ചോദിച്ചു",
+  "hook": "ടെക് ലോകത്തും മാനസിക ആരോഗ്യത്തെക്കുറിച്ച് തുറന്നുപറയാം",
+  "what": "എൻവീഡിയയുടെ സ്ഥാപകനായ ജെൻസൻ ഹുവാങ് ജീവനക്കാരോട് അദ്ദേഹം തെറാപ്പി ചെയ്യുന്നതായി അറിയിച്ചു, കമ്പനി ടൗൺ ഹാളിൽ ക്ഷമ ചോദിച്ചു. എഐ ചിപ്പ് നിർമ്മാതാവിനുള്ള ഈ പ്രഖ്യാപനം അടുത്തകാലത്തെ സമ്മർദ്ദത്തിന് ശേഷം വന്നതാണ്.",
+  "why": "ഇത് കാണിക്കുന്നു, ഏറ്റവും വലിയ സി.ഇ.ഒമാർ പോലും മാനസിക ആരോഗ്യപ്രശ്നങ്ങൾ നേരിടുന്നു, അതിനാൽ യുവ പ്രൊഫഷണലുകൾ സ്വന്തം ആരോഗ്യത്തെ മുൻഗണന നൽകണം.",
+  "tags": [
+   "Nvidia",
+   "MentalHealth",
+   "TechLeadership",
+   "AI"
+  ],
+  "say": "ടെക് ലോകത്തും മാനസിക ആരോഗ്യത്തെക്കുറിച്ച് തുറന്നുപറയാം. എൻവീഡിയയുടെ സ്ഥാപകനായ ജെൻസൻ ഹുവാങ് ജീവനക്കാരോട് അദ്ദേഹം തെറാപ്പി ചെയ്യുന്നതായി അറിയിച്ചു, കമ്പനി ടൗൺ ഹാളിൽ ക്ഷമ ചോദിച്ചു. എഐ ചിപ്പ് നിർമ്മാതാവിനുള്ള ഈ പ്രഖ്യാപനം അടുത്തകാലത്തെ സമ്മർദ്ദത്തിന് ശേഷം വന്നതാണ്. ഇത് കാണിക്കുന്നു, ഏറ്റവും വലിയ സി.ഇ.ഒമാർ പോലും മാനസിക ആരോഗ്യപ്രശ്നങ്ങൾ നേരിടുന്നു, അതിനാൽ യുവ പ്രൊഫഷണലുകൾ സ്വന്തം ആരോഗ്യത്തെ മുൻഗണന നൽകണം.",
+  "ok": true,
+  "tags_en": [
+   "Nvidia",
+   "MentalHealth",
+   "TechLeadership",
+   "AI"
+  ]
+ }
+}
