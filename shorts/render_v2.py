@@ -22,6 +22,7 @@ from render import COLOR, VOICE, dur, font, put, tlen, wrap
 
 W, H = 1080, 1920
 PEXELS = os.environ.get("PEXELS_API_KEY", "")
+PIXABAY = os.environ.get("PIXABAY_API_KEY", "")
 END = {"en": "Follow for daily news", "ml": "ദിവസവും വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ"}
 SAY_END = {"en": "Follow for more.", "ml": "കൂടുതൽ വാർത്തകൾക്ക് ഫോളോ ചെയ്യൂ."}
 _FONTNAME_UNUSED = {"en": "Noto Sans", "ml": "Noto Sans Malayalam"}
@@ -69,9 +70,36 @@ def estimate(text, total):
 
 
 # ---------- background ----------
+def pixabay_clips(queries, need, tmp):
+    got, total = [], 0.0
+    for q in queries:
+        try:
+            u = "https://pixabay.com/api/videos/?" + urllib.parse.urlencode(
+                {"key": PIXABAY, "q": q[:90], "per_page": 12, "safesearch": "true", "video_type": "film"})
+            hits = json.load(urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "gph"}), timeout=20)).get("hits", [])
+        except Exception as e:
+            print("pixabay", q, str(e)[:80]); continue
+        random.shuffle(hits)
+        for h in hits:
+            v = h.get("videos", {})
+            f = v.get("medium") or v.get("large") or v.get("small")
+            if not f or not f.get("url"):
+                continue
+            p = os.path.join(tmp, f"bg{len(got)}.mp4")
+            try:
+                urllib.request.urlretrieve(f["url"], p)
+            except Exception:
+                continue
+            got.append(p); total += min(dur(p), 7)
+            break
+        if total >= need:
+            break
+    return got
+
+
 def pexels_clips(queries, need, tmp):
     if not PEXELS:
-        return []
+        return pixabay_clips(queries, need, tmp) if PIXABAY else []
     got, total = [], 0.0
     for q in queries:
         try:

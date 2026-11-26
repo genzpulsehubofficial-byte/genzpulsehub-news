@@ -40,6 +40,9 @@ jobs:
           URL=$(npx -y wrangler@4 r2 bucket dev-url get genzpulsehub-media 2>/dev/null | grep -o 'https://[^ ]*r2.dev' | head -1)
           echo "url=$URL" >> $GITHUB_OUTPUT
       - name: Render
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: python shorts/render.py
       - name: Publish
         env:

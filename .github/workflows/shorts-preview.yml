@@ -10,7 +10,7 @@ jobs:
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core libraqm0 >/dev/null
       - run: pip install -q -U edge-tts gTTS requests pillow
       - name: Render one EN + one ML (no posting)
-        env: {PEXELS_API_KEY: "${{ secrets.PEXELS_API_KEY }}"}
+        env: {PEXELS_API_KEY: "${{ secrets.PEXELS_API_KEY }}", PIXABAY_API_KEY: "${{ secrets.PIXABAY_API_KEY }}"}
         run: |
           cd shorts && python - <<'P'
           import json, render_v2, os
