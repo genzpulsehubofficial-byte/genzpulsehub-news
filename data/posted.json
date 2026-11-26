@@ -245,6 +245,18 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
    "facebook": "fb:1102263372812662"
+  },
+  "543cf37bbb82": {
+   "at": "2026-11-26 13:57",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18149170357584720",
+   "facebook": "fb:1674696231106972"
+  },
+  "d7a1b093890f": {
+   "at": "2026-11-26 13:57",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:2276130813284198"
   }
  },
  "ml": {
@@ -493,6 +505,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:30547824568151028"
+  },
+  "e5623cf1f602": {
+   "at": "2026-11-26 13:58",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1796680804778955"
+  },
+  "0933db8a889e": {
+   "at": "2026-11-26 13:59",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18447064849183075",
+   "facebook": "fb:2123248282411120"
+  },
+  "04c20f76dd47": {
+   "at": "2026-11-26 13:59",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1237985048749711"
   }
  }
 }
