@@ -136,8 +136,13 @@ def pexels_clips(queries, need, tmp):
 
 
 def background(s, lang, need, tmp):
-    tags = [t for t in (s.get("tags_en") or s.get("tags") or []) if re.match(r"^[A-Za-z0-9 &-]+$", t)]
-    qs = tags[:3] + [FALLBACK_Q.get(s.get("category", ""), "news")]
+    tags = [re.sub(r"(?<=[a-z])(?=[A-Z])", " ", t) for t in (s.get("tags_en") or s.get("tags") or [])
+            if re.match(r"^[A-Za-z0-9 &-]+$", t)]
+    stop = {"the", "and", "for", "with", "from", "into", "over", "after", "this", "that", "your", "hold", "holds",
+            "says", "said", "new", "will", "has", "have", "are", "is", "in", "on", "of", "to", "a", "an", "at"}
+    head = s.get("headline", "") if lang == "en" else " ".join(tags)
+    kw = [w for w in re.findall(r"[A-Za-z]{3,}", head) if w.lower() not in stop][:3]
+    qs = ([" ".join(kw)] if kw else []) + tags[:3] + [FALLBACK_Q.get(s.get("category", ""), "news")]
     clips = pexels_clips(qs, need, tmp)
     out = os.path.join(tmp, "bg.mp4")
     norm = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,setsar=1"
