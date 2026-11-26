@@ -1,0 +1,16 @@
+{
+ "en": {
+  "tech": 0.9,
+  "money": 0.904,
+  "headlines": 1.15,
+  "jobs": 0.907,
+  "entertainment": 0.9
+ },
+ "ml": {
+  "money": 1.021,
+  "kerala": 1.073,
+  "jobs": 0.928,
+  "entertainment": 1.099,
+  "tech": 0.9
+ }
+}
