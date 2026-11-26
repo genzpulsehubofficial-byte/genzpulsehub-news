@@ -2,13 +2,13 @@
  "day": "2026-11-26",
  "counts": {
   "en": {
-   "facebook": 12,
-   "instagram": 8,
+   "facebook": 14,
+   "instagram": 9,
    "youtube": 1
   },
   "ml": {
-   "instagram": 9,
-   "facebook": 12,
+   "instagram": 11,
+   "facebook": 14,
    "youtube": 1
   }
  },
