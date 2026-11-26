@@ -29,7 +29,7 @@ TXT = {
     "en": {"live": "LIVE", "why": "WHY IT MATTERS", "next": "UP NEXT", "ad": "Advertise here → " + SITE["en"] + "/advertise",
            "intro": "You're watching GenZ Pulse Hub, live news for your generation. Here's what's happening."},
     "ml": {"live": "തത്സമയം", "why": "നിങ്ങളെ എങ്ങനെ ബാധിക്കും", "next": "അടുത്തത്",
-           "ad": "പരസ്യം നൽകാം → " + SITE["en"] + "/advertise",
+           "ad": "പരസ്യം നൽകാം: " + SITE["en"] + "/advertise",
            "intro": "നിങ്ങൾ കാണുന്നത് ജെൻ സി പൾസ് ഹബ് തത്സമയ വാർത്തകൾ. ഇതാ ഇപ്പോഴത്തെ വാർത്തകൾ."},
 }
 WORK = os.path.join(tempfile.gettempdir(), f"gph-{LANG}")
