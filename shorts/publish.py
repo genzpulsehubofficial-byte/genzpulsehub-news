@@ -88,7 +88,8 @@ def youtube(lang, s, path):
     r = requests.post("https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
                       headers={"Authorization": f"Bearer {tok}", "Content-Type": "application/json",
                                "X-Upload-Content-Type": "video/mp4"}, json=meta, timeout=60)
-    r.raise_for_status()
+    if not r.ok:
+        raise RuntimeError(f"youtube {r.status_code}: {r.text[:300]}")
     up = requests.put(r.headers["Location"], data=open(path, "rb"), headers={"Content-Type": "video/mp4"}, timeout=600)
     up.raise_for_status()
     return "https://youtube.com/shorts/" + up.json()["id"]
