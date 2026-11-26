@@ -24,7 +24,7 @@ LANG = sys.argv[1] if len(sys.argv) > 1 else "en"
 W, H = 1280, 720
 CYCLE = int(os.environ.get("STREAM_CYCLE_SEC", str(7 * 3600 + 50 * 60)))
 ADS_API = "https://genzpulsehub-ads.genzpulsehub-official.workers.dev/api/active"
-SITE = {"en": "genzpulsehub.pages.dev", "ml": "genzpulsehub.pages.dev/ml"}
+SITE = {"en": "https://genzpulsehub.pages.dev", "ml": "https://genzpulsehub.pages.dev/ml"}
 TXT = {
     "en": {"live": "LIVE", "why": "WHY IT MATTERS", "next": "UP NEXT", "ad": "Advertise here → " + SITE["en"] + "/advertise",
            "intro": "You're watching GenZ Pulse Hub, live news for your generation. Here's what's happening."},
@@ -52,6 +52,50 @@ def discord(msg):
         pass
 
 
+FB_PAGE = {"en": "GenZ Pulse Hub", "ml": "GenZ Pulse Hub Malayalam"}
+G = "https://graph.facebook.com/v21.0"
+_fb = {"id": None, "tok": None, "ok_once": False, "next_try": 0}
+
+
+def _graph(path, data=None, method=None):
+    import urllib.parse
+    req = urllib.request.Request(G + path, data=urllib.parse.urlencode(data).encode() if data else None, method=method)
+    try:
+        return json.load(urllib.request.urlopen(req, timeout=30))
+    except urllib.error.HTTPError as e:
+        return json.load(e)
+
+
+def fb_start():
+    """Create a Facebook live via the API (needs Page 60+ days old & 100+ followers). Retries every 6h until allowed."""
+    tok = os.environ.get("META_TOKEN")
+    if not tok or time.time() < _fb["next_try"]:
+        return None
+    pages = _graph(f"/me/accounts?fields=name,id,access_token&access_token={tok}").get("data", [])
+    p = next((x for x in pages if x["name"] == FB_PAGE[LANG]), None)
+    if not p:
+        return None
+    lv = _graph(f"/{p['id']}/live_videos", {"status": "LIVE_NOW", "access_token": p["access_token"],
+                "title": "GenZ Pulse Hub LIVE" + (" Malayalam" if LANG == "ml" else ""),
+                "description": "24/7 news for your generation. Full stories: " + SITE[LANG]})
+    url = lv.get("secure_stream_url") or lv.get("stream_url")
+    if not url:
+        log("facebook live not allowed yet:", str(lv.get("error", {}).get("message"))[:120])
+        _fb["next_try"] = time.time() + 6 * 3600
+        return None
+    _fb.update(id=lv["id"], tok=p["access_token"])
+    if not _fb["ok_once"]:
+        _fb["ok_once"] = True
+        discord("✅ Facebook live started automatically.")
+    return url
+
+
+def fb_stop():
+    if _fb["id"]:
+        _graph(f"/{_fb['id']}", {"end_live_video": "true", "access_token": _fb["tok"]})
+        _fb["id"] = None
+
+
 def outputs():
     o = []
     yt, fb = os.environ.get(f"YT_KEY_{LANG.upper()}"), os.environ.get(f"FB_KEY_{LANG.upper()}")
@@ -59,6 +103,10 @@ def outputs():
         o.append(f"[f=flv:onfail=ignore]rtmp://a.rtmp.youtube.com/live2/{yt}")
     if fb:
         o.append(f"[f=flv:onfail=ignore]rtmps://live-api-s.facebook.com:443/rtmp/{fb}")
+    else:
+        url = fb_start()
+        if url:
+            o.append(f"[f=flv:onfail=ignore]{url}")
     return o
 
 
@@ -181,7 +229,10 @@ def main():
             log("no stream keys yet; waiting"); time.sleep(300); continue
         log("starting cycle ->", len(outs), "destinations")
         t0 = time.time()
-        run_cycle(outs)
+        try:
+            run_cycle(outs)
+        finally:
+            fb_stop()
         if time.time() - t0 < 600:
             fails += 1
             if fails in (3, 10):

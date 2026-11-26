@@ -9,6 +9,8 @@ ask "YouTube MALAYALAM stream key" YT_KEY_ML
 ask "Facebook ENGLISH stream key" FB_KEY_EN
 ask "Facebook MALAYALAM stream key" FB_KEY_ML
 ask "Discord webhook URL (for stream alerts)" DISCORD_WEBHOOK_URL
+ask "Meta token (same as GitHub META_TOKEN, for Facebook live)" META_TOKEN
+ask "Pixabay API key (for live background footage)" PIXABAY_API_KEY
 SSH="ssh -i $HOME/.ssh/gph -o StrictHostKeyChecking=accept-new ubuntu@$IP"
 # merge: keep existing keys that weren't re-entered
 $SSH "sudo cat /etc/gph.env 2>/dev/null" > /tmp/old.env || true
