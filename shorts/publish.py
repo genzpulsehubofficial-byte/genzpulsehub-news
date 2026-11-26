@@ -203,11 +203,11 @@ BLOCK_WORDS = ("limit", "block", "spam", "too many", "rate", "restricted", "temp
 
 def load_ramp():
     today = time.strftime("%Y-%m-%d")
-    r = json.load(open(RAMP_P)) if os.path.exists(RAMP_P) else {"cap": 30, "day": today, "counts": {}, "pause": {},
+    r = json.load(open(RAMP_P)) if os.path.exists(RAMP_P) else {"cap": 50, "day": today, "counts": {}, "pause": {},
                                                                   "blocked_today": False, "last_yt": {}}
     if r.get("day") != today:                      # new day: ramp up unless something got blocked
-        old = r.get("cap", 30)
-        r["cap"] = max(15, int(old * 0.7)) if r.get("blocked_today") else min(95, old + 5)
+        old = r.get("cap", 50)
+        r["cap"] = max(15, int(old * 0.7)) if r.get("blocked_today") else min(95, old + 10)
         if r["cap"] != old:
             discord(f"📈 Reels/Shorts daily cap per Instagram/Facebook account: {old} → {r['cap']}"
                     + (" (stepped down after a platform limit)" if r.get("blocked_today") else ""))

@@ -67,7 +67,7 @@ Malayalam extras: Kerala PSC, KSEB/KSRTC, rain alerts, Mollywood, K-wave, stay-o
 
 - 2026-11-25: Mumbai free ARM capacity full. GitHub workflow `oracle-server` (oci-grab.yml) retries every 10 min with secret OCI_CONFIG (API key rotated after accidental chat paste), pings Discord when created. Then run stream/set_keys.sh in Cloud Shell for stream keys.
 
-- 2026-11-26: Posting pace engine (shorts/publish.py + data/ramp.json): runs every 30 min; IG/FB cap starts 30/day per account, +5/day to 95, steps down 30% + 6h pause on any platform-limit error; YouTube 3/channel/day, 4h apart (free quota). Malayalam quality gate in pipeline (ml_ok). Pixabay footage (Pexels paused new keys). Live engine = TV-style 16:9 with footage + mascot; Facebook live auto-starts via API once Pages are 60 days old + 100 followers (FB rule).
+- 2026-11-26: Posting pace engine (shorts/publish.py + data/ramp.json): runs every 30 min; IG/FB cap starts 50/day per account, +10/day to 95, steps down 30% + 6h pause on any platform-limit error; YouTube 3/channel/day, 4h apart (free quota). Malayalam quality gate in pipeline (ml_ok). Pixabay footage (Pexels paused new keys). Live engine = TV-style 16:9 with footage + mascot; Facebook live auto-starts via API once Pages are 60 days old + 100 followers (FB rule).
 
 ## For a future Claude session (start here)
 The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open the exact page, fill fields, click, then hand him only the login/approval/secret-paste step. Never ask him to type code.
@@ -77,7 +77,7 @@ The owner only logs in and Ctrl+C/Ctrl+V's keys. You do everything else: open th
 - YouTube refresh token: OAuth Playground with own credentials (client above, redirect https://developers.google.com/oauthplayground), scopes youtube.upload youtube.readonly yt-analytics.readonly, access type offline. Click **Exchange authorization code for tokens**; copy the **Refresh token** (starts `1//`), NOT the auth code (`4/`). English = main "GenZ Pulse" account, Malayalam = brand account "GenZ Pulse Hub Malayalam".
 
 ## Decisions (owner)
-- Posting volume: ramp, don't blast. IG/FB start 30/day per account → auto-ramp to 95/day while followers/day and total reach keep rising; step down on action block/warning or 3-day reach drop. YouTube: max the free quota (~6 uploads/day total) and request a quota raise.
+- Posting volume: ramp, don't blast. IG/FB start 50/day per account → +10/day to 95/day while followers/day and total reach keep rising; step down on action block/warning or 3-day reach drop. YouTube: max the free quota (~6 uploads/day total) and request a quota raise.
 - Skip Telegram, WhatsApp, Threads, X.
 - Advertiser outreach: inbound only (no cold DMs/emails). Auto-reply to people who contact us.
 - Auto-optimise everything weekly/monthly (categories, times, lengths, formats, volume, ad prices), English and Malayalam separately, Discord report.
