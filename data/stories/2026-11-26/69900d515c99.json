@@ -1,0 +1,46 @@
+{
+ "id": "69900d515c99",
+ "created": "2026-11-26T11:02:29+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/gold-sinks-to-1-year-low-despite-inflation-why-are-investors-dumping-bullion-11795665217240.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold drops to over a year low amid US inflation",
+  "hook": "Rising US price pressures are making gold less attractive.",
+  "what": "Gold prices slipped to their lowest level in more than a year as US inflation stayed high, sparking talks of higher interest rates. The decline was helped by a broader market sell‑off and cautious investors. Meanwhile, silver, platinum and palladium moved higher.",
+  "why": "For Indian teens, cheaper gold could affect savings plans and jewellery budgets, while the rise in other metals may open new investment ideas. Keep an eye on market trends before deciding on any purchase.",
+  "tags": [
+   "gold",
+   "inflation",
+   "investing",
+   "markets",
+   "youth"
+  ]
+ },
+ "ml": {
+  "headline": "യു.എസ്. ഇൻഫ്ലേഷൻ കാരണം സ്വർണം ഒരു വർഷത്തിലേറെ താഴ്ന്നു",
+  "hook": "വളരുന്ന യു.എസ്. വിലമാറ്റം സ്വർണത്തെ കുറവാക്കുന്നു",
+  "what": "യു.എസ്. ഇൻഫ്ലേഷൻ ഉയർന്ന നിലയിൽ തുടരുന്നതിനാൽ സ്വർണ്ണത്തിന്റെ വില ഒരു വർഷത്തിലേറെ കുറഞ്ഞു, ഇത് ഉയർന്ന പലിശ നിരക്കുകളുടെ പ്രതീക്ഷകൾക്ക് വഴിയൊരുക്കി. വിപണി വ്യാപകമായി വിറ്റഴിക്കപ്പെട്ടു, നിക്ഷേപകർ ജാഗ്രത പുലർത്തുകയും ചെയ്തു, ഇതുമൂലം വില താഴാൻ കാരണമായി. അതേ സമയം, വെള്ളി, പ്ലാറ്റിനം, പല്ലാഡിയം എന്നിവയുടെ വില ഉയർന്നു.",
+  "why": "ഇത് ഇന്ത്യയിലെ യുവാക്കളുടെ സേവിംഗ് പ്ലാനുകളിലും ആഭരണ ബജറ്റിലും സ്വാധീനം ചെലുത്താം, കൂടാതെ മറ്റ് ലോഹങ്ങളിലെ ഉയർച്ച പുതിയ നിക്ഷേപ അവസരങ്ങൾ കാണിച്ചേക്കാം. വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ പരിശോധിക്കുക.",
+  "tags": [
+   "gold",
+   "inflation",
+   "investing",
+   "markets",
+   "youth"
+  ],
+  "say": "വളരുന്ന യു.എസ്. വിലമാറ്റം സ്വർണത്തെ കുറവാക്കുന്നു. യു.എസ്. ഇൻഫ്ലേഷൻ ഉയർന്ന നിലയിൽ തുടരുന്നതിനാൽ സ്വർണ്ണത്തിന്റെ വില ഒരു വർഷത്തിലേറെ കുറഞ്ഞു, ഇത് ഉയർന്ന പലിശ നിരക്കുകളുടെ പ്രതീക്ഷകൾക്ക് വഴിയൊരുക്കി. വിപണി വ്യാപകമായി വിറ്റഴിക്കപ്പെട്ടു, നിക്ഷേപകർ ജാഗ്രത പുലർത്തുകയും ചെയ്തു, ഇതുമൂലം വില താഴാൻ കാരണമായി. അതേ സമയം, വെള്ളി, പ്ലാറ്റിനം, പല്ലാഡിയം എന്നിവയുടെ വില ഉയർന്നു. ഇത് ഇന്ത്യയിലെ യുവാക്കളുടെ സേവിംഗ് പ്ലാനുകളിലും ആഭരണ ബജറ്റിലും സ്വാധീനം ചെലുത്താം, കൂടാതെ മറ്റ് ലോഹങ്ങളിലെ ഉയർച്ച പുതിയ നിക്ഷേപ അവസരങ്ങൾ കാണിച്ചേക്കാം. വാങ്ങുന്നതിന് മുമ്പ് മാർക്കറ്റ് പ്രവണതകൾ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "gold",
+   "inflation",
+   "investing",
+   "markets",
+   "youth"
+  ]
+ }
+}

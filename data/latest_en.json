@@ -1,5 +1,80 @@
 [
  {
+  "id": "87efbad84455",
+  "created": "2026-11-26T10:58:15+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+  "headline": "Kathmandu to declare 213 missing Indians dead after floods",
+  "hook": "Thousands affected, families still waiting for answers.",
+  "what": "After severe flash floods in Nepal, authorities in Kathmandu have started the process of declaring 213 Indians who went missing as presumed dead. The embassy has opened a channel for relatives to raise concerns via email or phone.",
+  "why": "The tragedy highlights safety risks when traveling abroad and the need to stay informed about emergency contacts. Affected families can reach out to the embassy using the provided details.",
+  "tags": [
+   "nepal floods",
+   "indians abroad",
+   "emergency help",
+   "travel safety"
+  ]
+ },
+ {
+  "id": "037b99f7c9da",
+  "created": "2026-11-26T10:58:26+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/rbi-data-shows-gold-reserves-dipped-by-over-8-to-106-billion-in-september-2026-details-here-11795668849936.html",
+  "headline": "India’s gold reserves fall 8%, FX reserves rise 6%",
+  "hook": "Gold down, overall reserves up – what it means for you.",
+  "what": "The RBI reported that gold holdings dropped by more than 8% to $106 billion in September 2026. At the same time, total foreign exchange reserves increased by over 6% to $737.79 billion between April and September.",
+  "why": "A lower gold buffer may affect currency stability, but the rise in overall reserves strengthens India’s financial cushion. Teens should stay aware of how such shifts can influence the economy and job market.",
+  "tags": [
+   "gold",
+   "forex",
+   "RBI",
+   "economy",
+   "India"
+  ]
+ },
+ {
+  "id": "c3cc92cd88b0",
+  "created": "2026-11-26T10:58:33+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece",
+  "headline": "CJP co‑convenor Saurav Das to sue over passport leak",
+  "hook": "His passport info went viral after a flight denial.",
+  "what": "Saurav Das, a co‑convenor of the Chief Justice Panel, says his passport details were posted online. The leak followed his being barred from a London‑bound flight when the Chennai passport office flagged discrepancies.",
+  "why": "He calls it targeted harassment and will file criminal complaints against the social media accounts. Young travelers should protect their documents and report misuse.",
+  "tags": [
+   "passport",
+   "privacy",
+   "legal",
+   "socialmedia",
+   "india"
+  ]
+ },
+ {
+  "id": "69900d515c99",
+  "created": "2026-11-26T11:02:29+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/gold-sinks-to-1-year-low-despite-inflation-why-are-investors-dumping-bullion-11795665217240.html",
+  "headline": "Gold drops to over a year low amid US inflation",
+  "hook": "Rising US price pressures are making gold less attractive.",
+  "what": "Gold prices slipped to their lowest level in more than a year as US inflation stayed high, sparking talks of higher interest rates. The decline was helped by a broader market sell‑off and cautious investors. Meanwhile, silver, platinum and palladium moved higher.",
+  "why": "For Indian teens, cheaper gold could affect savings plans and jewellery budgets, while the rise in other metals may open new investment ideas. Keep an eye on market trends before deciding on any purchase.",
+  "tags": [
+   "gold",
+   "inflation",
+   "investing",
+   "markets",
+   "youth"
+  ]
+ },
+ {
   "id": "dc5689491809",
   "created": "2026-11-26T09:44:47+05:30",
   "category": "tech",
@@ -673,82 +748,6 @@
    "Tech",
    "Finance",
    "India"
-  ]
- },
- {
-  "id": "17ccfee0be11",
-  "created": "2026-11-26T05:05:00+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/delhi-news/2-safdarjung-hospital-staffers-sustain-head-injuries-in-road-rage-in-delhi-case-filed-12377927#publisher=newsstand",
-  "headline": "Delhi Hospital Staff Hurt in Road Rage Bat Attack",
-  "hook": "A minor crash led to a bat and hammer assault on hospital staff in Delhi.",
-  "what": "Two Delhi hospital staffers suffered head injuries. A baseball bat and a hammer were used against them after a small collision, police said. A case was filed.",
-  "why": "It matters because a small collision led to serious violence. It shows how dangerous road rage can become.",
-  "tags": [
-   "delhi",
-   "roadrage",
-   "hospital",
-   "assault",
-   "police"
-  ]
- },
- {
-  "id": "185728368c69",
-  "created": "2026-11-26T05:05:07+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Sacnilk",
-  "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmNmUFRZdnRaQkQwcC1wWHhRWWZST3JzSGM5WHZSMTNMWGhVXzRCaVRHQWNmZmtzRi0xQ1R4aUdjR2RwUXY2bkRfYmNFTTRPSEc2eVFBX0NLTmpRTVJ3b251SXlTWEdRN2lmMXBiZnBSREJHdm1pZXlJdE1YZm1JM3RiOGhYT2RuYjl5cFpNY1o?oc=5",
-  "headline": "O.M Operation Mole hits 100 cr worldwide by Day 6",
-  "hook": "Mammootty‑Dhanush blockbuster breaks the 100 cr mark.",
-  "what": "The film ‘O.M: Operation Mole’ earned about ₹93 cr worldwide by its fourth day and crossed the ₹100 cr milestone globally by the fifth and sixth days. In India alone it amassed roughly ₹75 cr in gross revenue despite a recent slowdown.",
-  "why": "The strong earnings show the star power of Mammootty and Dhanush resonates with young audiences, and the success may boost interest in regional cinema and upcoming releases.",
-  "tags": [
-   "OMOperationMole",
-   "boxoffice",
-   "Mammootty",
-   "Dhanush",
-   "regionalcinema"
-  ]
- },
- {
-  "id": "831875c46e9b",
-  "created": "2026-11-26T04:08:50+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/us-deports-1-700-indians-this-year-centre-says-it-opposes-illegal-immigration-12377863#publisher=newsstand",
-  "headline": "US deported 1,700 Indians this year, India opposes illegal immigration",
-  "hook": "Thousands of Indians faced US deportation – see why it matters for you.",
-  "what": "The United States has removed about 1,700 Indian nationals so far in 2024. India’s Ministry of External Affairs said the government is firmly against illegal immigration.",
-  "why": "Young Indians planning to work or study abroad should keep their visas valid and follow immigration rules to avoid similar problems.",
-  "tags": [
-   "US",
-   "deportation",
-   "immigration",
-   "India",
-   "visa"
-  ]
- },
- {
-  "id": "051ac9de80a1",
-  "created": "2026-11-26T04:08:55+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/ahmedabad-news/ahmedabad-man-arrested-for-allegedly-setting-car-on-fire-12377897#publisher=newsstand",
-  "headline": "Ahmedabad man nabbed for allegedly torching boss's car",
-  "hook": "A car blaze leads to a swift arrest in Ahmedabad.",
-  "what": "Police arrested a man in Ahmedabad after he is suspected of dousing his company's owner's vehicle with a flammable liquid and setting it ablaze. The incident prompted an immediate investigation.",
-  "why": "Arson carries severe legal penalties, so avoiding violent actions is essential for safety and future prospects.",
-  "tags": [
-   "Ahmedabad",
-   "Arrest",
-   "Arson",
-   "Crime",
-   "News"
   ]
  }
 ]

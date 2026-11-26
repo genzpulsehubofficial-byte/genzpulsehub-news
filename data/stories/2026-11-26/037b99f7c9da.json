@@ -1,0 +1,46 @@
+{
+ "id": "037b99f7c9da",
+ "created": "2026-11-26T10:58:26+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/rbi-data-shows-gold-reserves-dipped-by-over-8-to-106-billion-in-september-2026-details-here-11795668849936.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "India’s gold reserves fall 8%, FX reserves rise 6%",
+  "hook": "Gold down, overall reserves up – what it means for you.",
+  "what": "The RBI reported that gold holdings dropped by more than 8% to $106 billion in September 2026. At the same time, total foreign exchange reserves increased by over 6% to $737.79 billion between April and September.",
+  "why": "A lower gold buffer may affect currency stability, but the rise in overall reserves strengthens India’s financial cushion. Teens should stay aware of how such shifts can influence the economy and job market.",
+  "tags": [
+   "gold",
+   "forex",
+   "RBI",
+   "economy",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യയുടെ സ്വർണ്ണം എട്ട് ശതമാനം കുറഞ്ഞു, വിദേശ കറൻസി റിസർവ് ആറ് ശതമാനം ഉയർന്നു",
+  "hook": "സ്വർണ്ണം കുറഞ്ഞു, മൊത്തം റിസർവ് ഉയർന്നു – നിങ്ങളുടെ ജീവിതത്തെ എങ്ങനെ ബാധിക്കും?",
+  "what": "ആർ.ബി.ഐ പ്രകാരം, സെപ്റ്റംബർ രണ്ട് ആയിരത്തി ഇരുപത്തി ആറിൽ സ്വർണ്ണം എട്ട് ശതമാനം കുറഞ്ഞു, വില ഒന്ന് നൂറ് ആറു ബില്യൺ ഡോളർ ആയി. ഏപ്രിൽ‑സെപ്റ്റംബർ കാലയളവിൽ മൊത്തം വിദേശ കറൻസി റിസർവ് ഏഴ് നൂറു മുപ്പത്തി ഏഴ് ബില്യൺ ഏഴു പത്തൊമ്പത് കോടി ഡോളർ ആയി, ആറ് ശതമാനം വർദ്ധിച്ചു.",
+  "why": "സ്വർണ്ണം കുറയുന്നത് കറൻസി സ്ഥിരതയെ ബാധിക്കാം, പക്ഷേ മൊത്തം റിസർവ് വർദ്ധിക്കുന്നത് രാജ്യത്തിന്റെ സാമ്പത്തിക സുരക്ഷ ഉറപ്പാക്കുന്നു. യുവാക്കൾക്ക് ഈ മാറ്റങ്ങൾ സാമ്പത്തിക സാഹചര്യത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "സ്വർണ്ണം",
+   "വിദേശകറൻസി",
+   "RBI",
+   "അർത്ഥവ്യവസ്ഥ",
+   "ഇന്ത്യ"
+  ],
+  "say": "സ്വർണ്ണം കുറഞ്ഞു, മൊത്തം റിസർവ് ഉയർന്നു – നിങ്ങളുടെ ജീവിതത്തെ എങ്ങനെ ബാധിക്കും? ആർ.ബി.ഐ പ്രകാരം, സെപ്റ്റംബർ രണ്ട് ആയിരത്തി ഇരുപത്തി ആറിൽ സ്വർണ്ണം എട്ട് ശതമാനം കുറഞ്ഞു, വില ഒന്ന് നൂറ് ആറു ബില്യൺ ഡോളർ ആയി. ഏപ്രിൽ‑സെപ്റ്റംബർ കാലയളവിൽ മൊത്തം വിദേശ കറൻസി റിസർവ് ഏഴ് നൂറു മുപ്പത്തി ഏഴ് ബില്യൺ ഏഴു പത്തൊമ്പത് കോടി ഡോളർ ആയി, ആറ് ശതമാനം വർദ്ധിച്ചു. സ്വർണ്ണം കുറയുന്നത് കറൻസി സ്ഥിരതയെ ബാധിക്കാം, പക്ഷേ മൊത്തം റിസർവ് വർദ്ധിക്കുന്നത് രാജ്യത്തിന്റെ സാമ്പത്തിക സുരക്ഷ ഉറപ്പാക്കുന്നു. യുവാക്കൾക്ക് ഈ മാറ്റങ്ങൾ സാമ്പത്തിക സാഹചര്യത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "gold",
+   "forex",
+   "RBI",
+   "economy",
+   "India"
+  ]
+ }
+}

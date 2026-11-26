@@ -1,0 +1,46 @@
+{
+ "id": "c3cc92cd88b0",
+ "created": "2026-11-26T10:58:33+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/Delhi/cjps-saurav-das-to-file-criminal-complaints-against-social-media-handles-over-passport-leak/article71745202.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP co‑convenor Saurav Das to sue over passport leak",
+  "hook": "His passport info went viral after a flight denial.",
+  "what": "Saurav Das, a co‑convenor of the Chief Justice Panel, says his passport details were posted online. The leak followed his being barred from a London‑bound flight when the Chennai passport office flagged discrepancies.",
+  "why": "He calls it targeted harassment and will file criminal complaints against the social media accounts. Young travelers should protect their documents and report misuse.",
+  "tags": [
+   "passport",
+   "privacy",
+   "legal",
+   "socialmedia",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "CJP സഹ‑സംഘടകൻ സോരവ് ദാസ് പാസ്‌പോർട്ട് ചോർച്ചയ്ക്ക് കേസ് നൽകും",
+  "hook": "ലണ്ടൻ വിമാനത്തിൽ നിന്നു പുറത്താക്കപ്പെട്ടതിന് ശേഷം പാസ്‌പോർട്ട് വിവരങ്ങൾ ഓൺലൈനിൽ ചിതറുകയുണ്ടായി.",
+  "what": "സി‌ജെപി സഹ‑സംഘടകനായ സോരവ് ദാസ് തന്റെ പാസ്‌പോർട്ട് വിശദാംശങ്ങൾ സോഷ്യൽ മീഡിയയിൽ പോസ്റ്റ് ചെയ്തതായി ആരോപിക്കുന്നു. ചെന്നൈ പാസ്‌പോർട്ട് ഓഫീസ് കണ്ടെത്തിയ വ്യത്യാസങ്ങളാൽ ലണ്ടൻ വിമാനത്തിൽ നിന്ന് അവനെ നിരോധിച്ച ശേഷം ഈ ചോർച്ച സംഭവിച്ചു.",
+  "why": "ഇത് ലക്ഷ്യമിട്ട പീഡനമാണെന്ന് അവൻ കരുതുന്നു, അതിനായി കുറ്റാന്വേഷണ പരാതികൾ നൽകാൻ പോകുന്നു. യുവ യാത്രക്കാർ സ്വന്തം രേഖകൾ സുരക്ഷിതമാക്കുകയും ദുരുപയോഗം കണ്ടാൽ ഉടൻ റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യണം.",
+  "tags": [
+   "പാസ്‌പോർട്ട്",
+   "സ്വകാര്യത",
+   "നിയമം",
+   "സോഷ്യൽമീഡിയ",
+   "ഇന്ത്യ"
+  ],
+  "say": "ലണ്ടൻ വിമാനത്തിൽ നിന്നു പുറത്താക്കപ്പെട്ടതിന് ശേഷം പാസ്‌പോർട്ട് വിവരങ്ങൾ ഓൺലൈനിൽ ചിതറുകയുണ്ടായി. സി‌ജെപി സഹ‑സംഘടകനായ സോരവ് ദാസ് തന്റെ പാസ്‌പോർട്ട് വിശദാംശങ്ങൾ സോഷ്യൽ മീഡിയയിൽ പോസ്റ്റ് ചെയ്തതായി ആരോപിക്കുന്നു. ചെന്നൈ പാസ്‌പോർട്ട് ഓഫീസ് കണ്ടെത്തിയ വ്യത്യാസങ്ങളാൽ ലണ്ടൻ വിമാനത്തിൽ നിന്ന് അവനെ നിരോധിച്ച ശേഷം ഈ ചോർച്ച സംഭവിച്ചു. ഇത് ലക്ഷ്യമിട്ട പീഡനമാണെന്ന് അവൻ കരുതുന്നു, അതിനായി കുറ്റാന്വേഷണ പരാതികൾ നൽകാൻ പോകുന്നു. യുവ യാത്രക്കാർ സ്വന്തം രേഖകൾ സുരക്ഷിതമാക്കുകയും ദുരുപയോഗം കണ്ടാൽ ഉടൻ റിപ്പോർട്ട് ചെയ്യുകയും ചെയ്യണം.",
+  "ok": true,
+  "tags_en": [
+   "passport",
+   "privacy",
+   "legal",
+   "socialmedia",
+   "india"
+  ]
+ }
+}

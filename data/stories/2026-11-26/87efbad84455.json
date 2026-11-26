@@ -1,0 +1,43 @@
+{
+ "id": "87efbad84455",
+ "created": "2026-11-26T10:58:15+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/nepal-flash-floods-kathmandu-begins-process-to-declare-213-indians-missing-presumed-dead/article71745222.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Kathmandu to declare 213 missing Indians dead after floods",
+  "hook": "Thousands affected, families still waiting for answers.",
+  "what": "After severe flash floods in Nepal, authorities in Kathmandu have started the process of declaring 213 Indians who went missing as presumed dead. The embassy has opened a channel for relatives to raise concerns via email or phone.",
+  "why": "The tragedy highlights safety risks when traveling abroad and the need to stay informed about emergency contacts. Affected families can reach out to the embassy using the provided details.",
+  "tags": [
+   "nepal floods",
+   "indians abroad",
+   "emergency help",
+   "travel safety"
+  ]
+ },
+ "ml": {
+  "headline": "കാഠ്മണ്ഡുവിൽ 213 ഇന്ത്യക്കാരുടെ മരണം സ്ഥിരീകരിക്കാൻ നടപടികൾ",
+  "hook": "നേപ്പാളിലുണ്ടായ വൻ പ്രളയത്തിൽ ഉറ്റവരെ നഷ്ടപ്പെട്ട കുടുംബങ്ങൾ ഇപ്പോഴും വിവരങ്ങൾക്കായി കാത്തിരിക്കുകയാണ്.",
+  "what": "നേപ്പാളിലെ രൂക്ഷമായ പ്രളയത്തിന് പിന്നാലെ, 213 ഇന്ത്യക്കാർ മരിച്ചതായി സ്ഥിരീകരിക്കാൻ കാഠ്മണ്ഡു അധികൃതർ നടപടികൾ ആരംഭിച്ചു. വിവരങ്ങൾ അറിയാൻ കുടുംബങ്ങൾക്ക് ഇമെയിൽ വഴിയോ ഫോൺ വഴിയോ എംബസിയുമായി ബന്ധപ്പെടാം.",
+  "why": "വിദേശയാത്രകളിൽ സുരക്ഷാ മുൻകരുതലുകൾ അത്യന്താപേക്ഷിതമാണ്. അത്യാവശ്യ ഘട്ടങ്ങളിൽ എംബസി നൽകിയ വിലാസങ്ങളിലും നമ്പറുകളിലും കുടുംബങ്ങൾക്ക് സഹായം തേടാം.",
+  "tags": [
+   "നെപ്പാൾ വെള്ളപ്പൊക്കം",
+   "ഇന്ത്യൻ യാത്രികർ",
+   "അപകടം",
+   "എംബസി സഹായം"
+  ],
+  "say": "നേപ്പാളിലുണ്ടായ വൻ പ്രളയത്തിൽ ഉറ്റവരെ നഷ്ടപ്പെട്ട കുടുംബങ്ങൾ ഇപ്പോഴും വിവരങ്ങൾക്കായി കാത്തിരിക്കുകയാണ്. രൂക്ഷമായ പ്രളയത്തിന് പിന്നാലെ, ഇരുനൂറ്റി പതിമൂന്ന് ഇന്ത്യക്കാർ മരിച്ചതായി സ്ഥിരീകരിക്കാൻ കാഠ്മണ്ഡു അധികൃതർ നടപടികൾ ആരംഭിച്ചു. വിവരങ്ങൾ അറിയാൻ കുടുംബങ്ങൾക്ക് ഇമെയിൽ വഴിയോ ഫോൺ വഴിയോ എംബസിയുമായി ബന്ധപ്പെടാം. വിദേശയാത്രകളിൽ സുരക്ഷാ മുൻകരുതലുകൾ അത്യന്താപേക്ഷിതമാണ്, അത്യാവശ്യ ഘട്ടങ്ങളിൽ എംബസി നൽകിയ വിലാസങ്ങളിലും നമ്പറുകളിലും കുടുംബങ്ങൾക്ക് സഹായം തേടാം.",
+  "ok": true,
+  "tags_en": [
+   "nepal floods",
+   "indians abroad",
+   "emergency help",
+   "travel safety"
+  ]
+ }
+}
