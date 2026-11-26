@@ -209,6 +209,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
    "facebook": "fb:2396198347792360"
+  },
+  "1501feff0ba5": {
+   "at": "2026-11-26 12:22",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1687230343112049"
+  },
+  "2397d34f9062": {
+   "at": "2026-11-26 12:22",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1429964589126089"
+  },
+  "fc2abd7f47c3": {
+   "at": "2026-11-26 12:23",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: {'error': {'message': \"Unsupported post request. Object with ID '17841409013887055' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Gra",
+   "facebook": "fb:1055076137600433"
   }
  },
  "ml": {
@@ -421,6 +439,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:2436368543858132"
+  },
+  "1501feff0ba5": {
+   "at": "2026-11-26 12:23",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18129779135481074",
+   "facebook": "fb:1030390049356360"
+  },
+  "2397d34f9062": {
+   "at": "2026-11-26 12:24",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18214308640321422",
+   "facebook": "fb:2224144405119335"
+  },
+  "fc2abd7f47c3": {
+   "at": "2026-11-26 12:25",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:17971573569197898",
+   "facebook": "fb:1860520484987217"
   }
  }
 }
