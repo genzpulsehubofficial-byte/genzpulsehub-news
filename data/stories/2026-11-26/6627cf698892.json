@@ -1,0 +1,43 @@
+{
+ "id": "6627cf698892",
+ "created": "2026-11-26T09:03:37+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-cabinet-clears-bills-to-raise-vice-chancellors-age-limit-to-70-in-13-universities-dr06qmgf",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala raises VC age limit to 70 in 13 universities",
+  "hook": "Senior leaders can now head colleges for longer.",
+  "what": "The state cabinet passed bills to increase the maximum age for vice‑chancellors to 70 in 13 public universities. It also sets a single five‑year term with no reappointment option.",
+  "why": "Longer tenures may shape university policies and student life, so keep an eye on campus leadership updates.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "Universities",
+   "Policy"
+  ]
+ },
+ "ml": {
+  "headline": "കേരളത്തിൽ 13 സർവകലാശാലകളിൽ ഉപചാൻസലർ പ്രായം 70 വരെ ഉയർത്തി",
+  "hook": "ഇപ്പോൾ മുതിർന്ന നേതാക്കൾക്ക് കോളേജുകൾ കൂടുതൽ കാലം നയിക്കാൻ കഴിയും.",
+  "what": "സംസ്ഥാന കാബിനറ്റ് 13 സംസ്ഥാന സർവകലാശാലകളിൽ ഉപചാൻസലറുടെ പരമാവധി പ്രായം 70 ആക്കാൻ നിയമം അംഗീകരിച്ചു. കൂടാതെ ഒരൊറ്റ അഞ്ചു വർഷത്തെ കാലാവധി, പുനർനിയോഗം ഇല്ലാതെ, നിശ്ചയിച്ചു.",
+  "why": "ദീർഘകാലം നേതൃപരിഷ്കാരം വിദ്യാർത്ഥികളുടെ വിദ്യാഭ്യാസം, നയങ്ങൾ എന്നിവയെ ബാധിക്കാം; ക്യാമ്പസിലെ മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "കേരളം",
+   "വിദ്യാഭ്യാസം",
+   "സർവകലാശാല",
+   "നയം"
+  ],
+  "say": "ഇപ്പോൾ മുതിർന്ന നേതാക്കൾക്ക് കോളേജുകൾ കൂടുതൽ കാലം നയിക്കാൻ കഴിയും. സംസ്ഥാന കാബിനറ്റ് പതിനൊമ്പത് സർവകലാശാലകളിൽ ഉപചാൻസലറുടെ പരമാവധി പ്രായം ഏഴായിരം വരെ ഉയർത്തി. കൂടാതെ ഒരൊറ്റ അഞ്ച് വർഷത്തെ കാലാവധി, പുനർനിയോഗം ഇല്ലാതെ, നിശ്ചയിച്ചു. ദീർഘകാലം നേതൃപരിഷ്കാരം വിദ്യാർത്ഥികളുടെ വിദ്യാഭ്യാസം, നയങ്ങൾ എന്നിവയെ ബാധിക്കാം; ക്യാമ്പസിലെ മാറ്റങ്ങൾക്കായി ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "Education",
+   "Universities",
+   "Policy"
+  ]
+ }
+}

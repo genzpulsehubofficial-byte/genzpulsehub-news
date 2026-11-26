@@ -1,5 +1,79 @@
 [
  {
+  "id": "7324d25a968e",
+  "created": "2026-11-26T08:54:11+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/crime/rpf-seizes-unaccounted-cash-palakkad-railway-station-ptia8ival5g",
+  "headline": "RPF grabs 19.5 lakh cash from passenger at Palakkad station",
+  "hook": "A traveler was caught with nearly two crore rupees in cash.",
+  "what": "Railway Protection Force officers found Rs 19.5 lakh in cash on a passenger at Palakkad railway station. The undeclared money was seized and handed over to the Income Tax department.",
+  "why": "Carrying large undeclared cash can lead to seizure and legal trouble. Stay aware of tax rules when traveling with money.",
+  "tags": [
+   "Palakkad",
+   "RPF",
+   "tax",
+   "cash"
+  ]
+ },
+ {
+  "id": "d9e525c201fd",
+  "created": "2026-11-26T08:54:18+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "Indian Express",
+  "source_url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-november-2026-cjp-save-democracy-protest-nagpur-25-percent-us-tariffs-cairo-crash-us-tariffs-congress-constitution-day-pm-narendra-modi-10978950/",
+  "headline": "CJP protests in Nagpur, govt seeks US tariff relief",
+  "hook": "A major court chief rallies for democracy while trade talks heat up.",
+  "what": "The Chief Justice of India organized a ‘Save Democracy, Save Constitution’ demonstration in Nagpur today. Meanwhile, the Commerce Ministry urged a quick settlement on the 25% tariff imposed by the United States.",
+  "why": "Students should note these moves as they impact civic freedoms and the price of imported goods.",
+  "tags": [
+   "democracy",
+   "trade",
+   "tariffs",
+   "India",
+   "Nagpur"
+  ]
+ },
+ {
+  "id": "6627cf698892",
+  "created": "2026-11-26T09:03:37+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/kerala-cabinet-clears-bills-to-raise-vice-chancellors-age-limit-to-70-in-13-universities-dr06qmgf",
+  "headline": "Kerala raises VC age limit to 70 in 13 universities",
+  "hook": "Senior leaders can now head colleges for longer.",
+  "what": "The state cabinet passed bills to increase the maximum age for vice‑chancellors to 70 in 13 public universities. It also sets a single five‑year term with no reappointment option.",
+  "why": "Longer tenures may shape university policies and student life, so keep an eye on campus leadership updates.",
+  "tags": [
+   "Kerala",
+   "Education",
+   "Universities",
+   "Policy"
+  ]
+ },
+ {
+  "id": "6e34aca5012d",
+  "created": "2026-11-26T09:03:43+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG5JVXBTTzhGa281endEZUt5cUhhMTlzMzBqeFVUYWRnbUw0WE83TEkwODViOTlVZmg0Q3pHV3Y3QVdvQ2hicTVEcS11dHZsWGNzNlFhQVJFMUhRNk91QkhzYkNPMXVqQjlDdlN2VXdydkYzaExzYlFRbUM5OVNnXzY4NTdyTjEyZE9iaDUwR2VuTmdzbnV3ZVBzUU5abHJCeElzbEhlZ3d4Mk1RdnNrS20wdGFDZ2x4cHZWZ0FvWQ?oc=5",
+  "headline": "Love, not China, drove Jensen Huang’s affair with Alice",
+  "hook": "A personal romance, not a geopolitical plot, sparked the Nvidia drama.",
+  "what": "A report says the relationship between Nvidia CEO Jensen Huang and Alice Huang was motivated by personal reasons, not Chinese influence. Officials briefed Congress that there is no evidence of China orchestrating the affair, while records show firms linked to Alice Huang sold $270 million of AI servers to China.",
+  "why": "Understanding the real story helps avoid jumping to geopolitical conclusions about tech leaders. Stay skeptical of sensational claims and check reliable sources.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "AI",
+   "China",
+   "rumors"
+  ]
+ },
+ {
   "id": "7f241ec33c33",
   "created": "2026-11-26T08:38:22+05:30",
   "category": "headlines",
@@ -674,80 +748,6 @@
    "youth",
    "socialjustice",
    "India"
-  ]
- },
- {
-  "id": "fb5a7d58c9a9",
-  "created": "2026-11-26T02:09:08+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-  "headline": "Nvidia CEO Jensen Huang breaches company conduct code",
-  "hook": "A breach that could echo through the whole team",
-  "what": "Jensen Huang, the head of Nvidia, violated the firm’s code of conduct. Employees say the incident is likely to stay in their minds.",
-  "why": "Such breaches can shape workplace culture, reminding young professionals to watch corporate ethics. Stay aware of company policies wherever you work.",
-  "tags": [
-   "tech",
-   "Nvidia",
-   "workplace",
-   "conduct",
-   "leadership"
-  ]
- },
- {
-  "id": "3a26b76ac6b2",
-  "created": "2026-11-26T01:10:20+05:30",
-  "category": "money",
-  "breaking": true,
-  "source": "Reuters",
-  "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRmdGMDdiZVhMaEZiM2hLVlNhdXQzZkM1b2F5NXFYaWZzbC1mX25kLU56ZThrNjFmZ2JVMW9fbjJhbUMwMXdzN3JLYXAyNE02a0FqclFyblhxZmxfbWRLVlQ5OFdoQkdmNEF1ZTlZUzRVVkkxQm14eDY0R1ZtUXJpRWhaNDE5c1hOM3pUYUhiRmJ1NnlTaGVrQk9uNGwwU2w5UmliTkRpZGQ?oc=5",
-  "headline": "US says India tariffs could drop to 17% with deal",
-  "hook": "A trade pact could slash US duties on Indian products.",
-  "what": "The U.S. Trade Representative announced that if a trade agreement is reached, the United States will cap the tariff on Indian imports at 17 percent. At present, the U.S. has imposed a 25 percent tariff on India, one of the highest among 14 countries under review.",
-  "why": "Lower tariffs could make US‑made goods cheaper for Indian buyers and boost Indian exports, affecting prices and job prospects. Keep an eye on trade news as it may influence market trends and career options.",
-  "tags": [
-   "USIndia",
-   "Tariffs",
-   "TradeDeal",
-   "Economy"
-  ]
- },
- {
-  "id": "ed73faaefb01",
-  "created": "2026-11-26T01:10:28+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/air-india-ai-express-to-operate-as-one-group-two-brands-heres-what-that-means-12377449#publisher=newsstand",
-  "headline": "Air India, AI Express to run as one group, two brands",
-  "hook": "Your next flight might be booked under a new combined brand",
-  "what": "Air India and its low‑cost arm AI Express will operate under a single corporate group while keeping separate brand identities. The Tata group, which bought Air India from the government, says the move will streamline operations.",
-  "why": "This could bring more flight choices and possibly lower fares for students traveling within India. Watch for updated ticket prices when you book.",
-  "tags": [
-   "airindia",
-   "AIExpress",
-   "travel",
-   "Tata",
-   "aviation"
-  ]
- },
- {
-  "id": "8f62a618cddf",
-  "created": "2026-11-26T01:10:34+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
-  "headline": "1Password breach: employee account accessed, passwords remain secure",
-  "hook": "Your saved passwords are still safe despite the hack.",
-  "what": "A cyber intruder entered a staff member’s corporate login at 1Password and retrieved some user‑related data. The firm says the incident did not expose the actual vault passwords.",
-  "why": "Because the core encryption stayed intact, teens can keep using the manager without worry. Strengthen your master password and turn on two‑factor authentication.",
-  "tags": [
-   "cybersecurity",
-   "passwordmanager",
-   "databreach",
-   "technews"
   ]
  }
 ]

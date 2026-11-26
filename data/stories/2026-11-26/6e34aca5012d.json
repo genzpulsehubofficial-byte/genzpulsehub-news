@@ -1,0 +1,46 @@
+{
+ "id": "6e34aca5012d",
+ "created": "2026-11-26T09:03:43+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdG5JVXBTTzhGa281endEZUt5cUhhMTlzMzBqeFVUYWRnbUw0WE83TEkwODViOTlVZmg0Q3pHV3Y3QVdvQ2hicTVEcS11dHZsWGNzNlFhQVJFMUhRNk91QkhzYkNPMXVqQjlDdlN2VXdydkYzaExzYlFRbUM5OVNnXzY4NTdyTjEyZE9iaDUwR2VuTmdzbnV3ZVBzUU5abHJCeElzbEhlZ3d4Mk1RdnNrS20wdGFDZ2x4cHZWZ0FvWQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Love, not China, drove Jensen Huang’s affair with Alice",
+  "hook": "A personal romance, not a geopolitical plot, sparked the Nvidia drama.",
+  "what": "A report says the relationship between Nvidia CEO Jensen Huang and Alice Huang was motivated by personal reasons, not Chinese influence. Officials briefed Congress that there is no evidence of China orchestrating the affair, while records show firms linked to Alice Huang sold $270 million of AI servers to China.",
+  "why": "Understanding the real story helps avoid jumping to geopolitical conclusions about tech leaders. Stay skeptical of sensational claims and check reliable sources.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "AI",
+   "China",
+   "rumors"
+  ]
+ },
+ "ml": {
+  "headline": "പ്രണയം, ചൈനയല്ല; ജെന്‍സന്‍ ഹുവാങിന്റെ ആലീസ്‌യുമായുള്ള ബന്ധം",
+  "hook": "നിവിഡിയയുടെ കഥയുടെ പിന്നില്‍ വ്യക്തിഗത പ്രണയമാത്രം, രാഷ്ട്രീയ ചതുരം അല്ല.",
+  "what": "ഒരു റിപ്പോര്‍ട്ട് പ്രകാരം, നിവിഡിയയുടെ സി.ഇ.ഒ ജെന്‍സന്‍ ഹുവാങും ആലീസ് ഹുവാങും തമ്മിലുള്ള ബന്ധം ചൈനീസ് സ്വാധീനമല്ല, വ്യക്തിപരമായ കാരണങ്ങളാണ്. കോൺഗ്രസിന് നല്‍കിയ വിവരങ്ങളില്‍ ചൈന ഈ ബന്ധം നിയന്ത്രിച്ചതെന്ന തെളിവില്ല, ആലീസ് ഹുവാങുമായി ബന്ധപ്പെട്ട കമ്പനികള്‍ ചൈനയില്‍ $270 മില്യണ്‍ എഐ സര്‍വറുകള്‍ വിറ്റു എന്ന് രേഖകളില്‍ കാണാം.",
+  "why": "ടെക് നേതാക്കളുടെ ജീവിതത്തെക്കുറിച്ച് തെറ്റായ രാഷ്ട്രീയ കാഴ്ചപ്പാടുകള്‍ ഒഴിവാക്കാന്‍ ഇത് സഹായിക്കും. സെന്‍സേഷണല്‍ ക്ലെയിമുകളില്‍ നിന്ന് അകന്ന്, വിശ്വസനീയമായ സ്രോതസ്സുകള്‍ പരിശോധിക്കുക.",
+  "tags": [
+   "tech",
+   "Nvidia",
+   "AI",
+   "China",
+   "rumors"
+  ],
+  "say": "നിവിഡിയയുടെ കഥയുടെ പിന്നില്‍ വ്യക്തിഗത പ്രണയമാത്രം, രാഷ്ട്രീയ ചതുരം അല്ല. ഒരു റിപ്പോര്‍ട്ട് പ്രകാരം, നിവിഡിയയുടെ സി.ഇ.ഒ ജെന്‍സന്‍ ഹുവാങും ആലീസ് ഹുവാങും തമ്മിലുള്ള ബന്ധം ചൈനീസ് സ്വാധീനമല്ല, വ്യക്തിപരമായ കാരണങ്ങളാണ്. കോൺഗ്രസിന് നല്‍കിയ വിവരങ്ങളില്‍ ചൈന ഈ ബന്ധം നിയന്ത്രിച്ചതെന്ന തെളിവില്ല, ആലീസ് ഹുവാങുമായി ബന്ധപ്പെട്ട കമ്പനികള്‍ ചൈനയില്‍ ഡോളർ ഇരുനൂറു എഴുപത് മില്യൺ എഐ സര്‍വറുകള്‍ വിറ്റു എന്ന് രേഖകളില്‍ കാണാം. ടെക് നേതാക്കളുടെ ജീവിതത്തെക്കുറിച്ച് തെറ്റായ രാഷ്ട്രീയ കാഴ്ചപ്പാടുകള്‍ ഒഴിവാക്കാന്‍ ഇത് സഹായിക്കും. സെന്‍സേഷണല്‍ ക്ലെയിമുകളില്‍ നിന്ന് അകന്ന്, വിശ്വസനീയമായ സ്രോതസ്സുകള്‍ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "tech",
+   "Nvidia",
+   "AI",
+   "China",
+   "rumors"
+  ]
+ }
+}

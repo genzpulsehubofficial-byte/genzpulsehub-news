@@ -1,0 +1,43 @@
+{
+ "id": "7324d25a968e",
+ "created": "2026-11-26T08:54:11+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/crime/rpf-seizes-unaccounted-cash-palakkad-railway-station-ptia8ival5g",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "RPF grabs 19.5 lakh cash from passenger at Palakkad station",
+  "hook": "A traveler was caught with nearly two crore rupees in cash.",
+  "what": "Railway Protection Force officers found Rs 19.5 lakh in cash on a passenger at Palakkad railway station. The undeclared money was seized and handed over to the Income Tax department.",
+  "why": "Carrying large undeclared cash can lead to seizure and legal trouble. Stay aware of tax rules when traveling with money.",
+  "tags": [
+   "Palakkad",
+   "RPF",
+   "tax",
+   "cash"
+  ]
+ },
+ "ml": {
+  "headline": "ആർ.പീ.എഫ്‑ന്‍ പത്തൊമ്പത് ലക്ഷം അര്‍ദ്ധം പണം പിടിച്ചു, പാലക്കാട് സ്റ്റേഷനില്‍",
+  "hook": "ഒരു യാത്രക്കാരന്‍ പത്തൊമ്പത് ലക്ഷം അര്‍ദ്ധം രൂപ കൈവശം വെച്ചതോടെ പിടിക്കപ്പെട്ടു.",
+  "what": "റെയിൽവേ പ്രൊട്ടക്ഷൻ ഫോഴ്സ് (ആർ.പീ.എഫ്) ഉദ്യോഗസ്ഥർ പാലക്കാട് റെയിൽവേ സ്റ്റേഷനിൽ ഒരു യാത്രക്കാരിൽ നിന്ന് പത്തൊമ്പത് ലക്ഷം അര്‍ദ്ധം രൂപയുടെ പണം പിടിച്ചു. ഇത് പ്രഖ്യാപിക്കാത്തതുകൊണ്ട് പിടിച്ചെടുത്തു. പിന്നീട് ഈ തുക വരുമാന നികുതി വകുപ്പിലേക്ക് കൈമാറി.",
+  "why": "വലിയ തുക പ്രഖ്യാപിക്കാതെ കൊണ്ടുപോകുന്നത് നിയമപരമായ പ്രശ്നങ്ങൾ സൃഷ്ടിക്കും. പണം കൊണ്ടുപോകുമ്പോൾ നികുതി നിയമങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "പാലക്കാട്",
+   "RPF",
+   "പണം",
+   "നികുതി"
+  ],
+  "say": "ഒരു യാത്രക്കാരന്‍ പത്തൊമ്പത് ലക്ഷം അര്‍ദ്ധം രൂപ കൈവശം വെച്ചതോടെ പിടിക്കപ്പെട്ടു. റെയിൽവേ പ്രൊട്ടക്ഷൻ ഫോഴ്സ് (ആർ.പീ.എഫ്) ഉദ്യോഗസ്ഥർ പാലക്കാട് റെയിൽവേ സ്റ്റേഷനിൽ ഒരു യാത്രക്കാരിൽ നിന്ന് പത്തൊമ്പത് ലക്ഷം അര്‍ദ്ധം രൂപയുടെ പണം പിടിച്ചു. ഇത് പ്രഖ്യാപിക്കാത്തതുകൊണ്ട് പിടിച്ചെടുത്തു. പിന്നീട് ഈ തുക വരുമാന നികുതി വകുപ്പിലേക്ക് കൈമാറി. വലിയ തുക പ്രഖ്യാപിക്കാതെ കൊണ്ടുപോകുന്നത് നിയമപരമായ പ്രശ്നങ്ങൾ സൃഷ്ടിക്കും. പണം കൊണ്ടുപോകുമ്പോൾ നികുതി നിയമങ്ങൾ പാലിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Palakkad",
+   "RPF",
+   "tax",
+   "cash"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "d9e525c201fd",
+ "created": "2026-11-26T08:54:18+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "Indian Express",
+ "source_url": "https://indianexpress.com/article/india/today-india-breaking-news-live-updates-26-november-2026-cjp-save-democracy-protest-nagpur-25-percent-us-tariffs-cairo-crash-us-tariffs-congress-constitution-day-pm-narendra-modi-10978950/",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "CJP protests in Nagpur, govt seeks US tariff relief",
+  "hook": "A major court chief rallies for democracy while trade talks heat up.",
+  "what": "The Chief Justice of India organized a ‘Save Democracy, Save Constitution’ demonstration in Nagpur today. Meanwhile, the Commerce Ministry urged a quick settlement on the 25% tariff imposed by the United States.",
+  "why": "Students should note these moves as they impact civic freedoms and the price of imported goods.",
+  "tags": [
+   "democracy",
+   "trade",
+   "tariffs",
+   "India",
+   "Nagpur"
+  ]
+ },
+ "ml": {
+  "headline": "സി.ജെ.പി.ന്‍ നാഗ്പൂരില്‍ പ്രതിഷേധം, സര്‍ക്കാര്‍ യു.എസ്. ടാരിഫ് പരിഹാരം തേടുന്നു",
+  "hook": "മഹാനായാധിപന്‍ ജനാധിപത്യ സംരക്ഷണത്തിന് നാഗ്പൂരില്‍ നില്‍ക്കുമ്പോള്‍ വ്യാപാര ചര്‍ച്ചകള്‍ ചൂടേറുന്നു.",
+  "what": "ഇന്ന് സി.ജെ.പി.യുടെ ‘സേവ് ഡെമോക്രസി, സേവ് കോണ്‍സ്ട്രക്ഷന്‍’ പ്രദര്‍ശനം നാഗ്പൂരില്‍ നടന്നു. അതേ സമയം, കൊമേഴ്സ് മന്ത്രാലയം ഇരുപത് അഞ്ച് ശതമാനം യു.എസ്. ടാരിഫ് സംബന്ധിച്ച് ഉടന്‍ പരിഹാരം ആവശ്യപ്പെട്ടു.",
+  "why": "ഇത് യുവാക്കള്‍ക്ക് ജനാധിപത്യ അവകാശങ്ങളും ഇറക്കുമതി വിലകളിലും ബാധകമാകാം, അതിനാല്‍ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "ജനാധിപത്യം",
+   "വ്യാപാരം",
+   "ടാരിഫ്",
+   "ഇന്ത്യ",
+   "നാഗ്പൂർ"
+  ],
+  "say": "മഹാനായാധിപന്‍ ജനാധിപത്യ സംരക്ഷണത്തിന് നാഗ്പൂരില്‍ നില്‍ക്കുമ്പോള്‍ വ്യാപാര ചര്‍ച്ചകള്‍ ചൂടേറുന്നു. ഇന്ന് സി.ജെ.പി.യുടെ ‘സേവ് ഡെമോക്രസി, സേവ് കോണ്‍സ്ട്രക്ഷന്‍’ പ്രദര്‍ശനം നാഗ്പൂരില്‍ നടന്നു. അതേ സമയം, കൊമേഴ്സ് മന്ത്രാലയം ഇരുപത് അഞ്ച് ശതമാനം യു.എസ്. ടാരിഫ് സംബന്ധിച്ച് ഉടന്‍ പരിഹാരം ആവശ്യപ്പെട്ടു. ഇത് യുവാക്കള്‍ക്ക് ജനാധിപത്യ അവകാശങ്ങളും ഇറക്കുമതി വിലകളിലും ബാധകമാകാം, അതിനാല്‍ ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "democracy",
+   "trade",
+   "tariffs",
+   "India",
+   "Nagpur"
+  ]
+ }
+}
