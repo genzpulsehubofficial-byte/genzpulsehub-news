@@ -59,6 +59,18 @@
    "youtube": "https://youtube.com/shorts/bRQIilQQDFQ",
    "instagram": "ig:17881887036562361",
    "facebook": "fb:2221189728778255"
+  },
+  "f9f4d2afc88c": {
+   "at": "2026-11-26 04:31",
+   "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1489228896472763"
+  },
+  "c17b6638aa88": {
+   "at": "2026-11-26 04:31",
+   "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "instagram": "ig:18057721619817074",
+   "facebook": "fb:3340690122797071"
   }
  },
  "ml": {
@@ -121,6 +133,18 @@
    "youtube": "https://youtube.com/shorts/f23uRAO2plU",
    "instagram": "ig:18103916822072034",
    "facebook": "fb:978591408322838"
+  },
+  "f9f4d2afc88c": {
+   "at": "2026-11-26 04:32",
+   "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "instagram": "ig:18656477014057401",
+   "facebook": "fb:1724098632707890"
+  },
+  "d85d6e2fe2b0": {
+   "at": "2026-11-26 04:33",
+   "youtube": "error: 400 Client Error: Bad Request for url: https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status",
+   "instagram": "ig:18113257925089135",
+   "facebook": "fb:1143153281692506"
   }
  }
 }

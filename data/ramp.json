@@ -1,6 +1,15 @@
 {
  "day": "2026-11-26",
- "counts": {},
+ "counts": {
+  "en": {
+   "facebook": 2,
+   "instagram": 1
+  },
+  "ml": {
+   "instagram": 2,
+   "facebook": 2
+  }
+ },
  "pause": {},
  "blocked_today": false,
  "last_yt": {},
