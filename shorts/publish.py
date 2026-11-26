@@ -47,10 +47,12 @@ def caption(lang, s, platform):
     tags = " ".join("#" + t.replace(" ", "") for t in (s.get("tags") or [])[:5])
     base = f"{s['headline']}\n\n{s['hook']}\n\n"
     if lang == "en":
-        cta = f"Full story 👉 {SITE[lang]}/news/{s['id']}/\nMore news daily 👉 {YT_LIVE[lang]}"
+        cta = (f"Full story 👉 {SITE[lang]}/news/{s['id']}/\nMore news daily 👉 {YT_LIVE[lang]}"
+               f"\n📢 Advertise with us from ₹199 👉 {SITE['en']}/advertise/")
         tags += " #GenZ #IndiaNews #GenZPulseHub"
     else:
-        cta = f"മുഴുവൻ വാർത്ത 👉 {SITE[lang]}/news/{s['id']}/\nകൂടുതൽ വാർത്തകൾ 👉 {YT_LIVE[lang]}"
+        cta = (f"മുഴുവൻ വാർത്ത 👉 {SITE[lang]}/news/{s['id']}/\nകൂടുതൽ വാർത്തകൾ 👉 {YT_LIVE[lang]}"
+               f"\n📢 പരസ്യം ₹199 മുതൽ 👉 {SITE['en']}/advertise/")
         tags += " #MalayalamNews #KeralaNews #GenZPulseHub"
     if platform == "ig":
         cta = "Full story: link in bio 🔗" if lang == "en" else "മുഴുവൻ വാർത്ത: ബയോയിലെ ലിങ്ക് 🔗"
