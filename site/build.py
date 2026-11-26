@@ -56,6 +56,10 @@ a{color:inherit}header{position:sticky;top:0;z-index:5;background:linear-gradien
 .logo{font-weight:900;font-size:22px;background:linear-gradient(90deg,#ff3cac,#ffd60a);-webkit-background-clip:text;color:transparent;text-decoration:none}
 .live{background:#ff1e56;color:#fff;font-size:12px;font-weight:800;padding:3px 8px;border-radius:4px;animation:p 1.6s infinite}@keyframes p{50%{opacity:.55}}
 nav{margin-left:auto;display:flex;gap:14px;font-size:14px}nav a{text-decoration:none;opacity:.85}
+@media(max-width:640px){header{flex-wrap:wrap;padding:10px 12px;gap:8px}.logo{font-size:19px}
+nav{margin-left:0;width:100%;overflow-x:auto;white-space:nowrap;gap:10px;padding-bottom:2px;scrollbar-width:none}
+nav::-webkit-scrollbar{display:none}nav a{background:#ffffff14;padding:6px 12px;border-radius:999px;font-size:13px;opacity:1}
+main{padding:12px}article h1{font-size:24px}.grid{grid-template-columns:1fr}}
 main{max-width:1100px;margin:auto;padding:18px}.tag{opacity:.75;margin:0 0 14px}
 .player{aspect-ratio:16/9;width:100%;border:0;border-radius:14px;background:#000}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin-top:18px}
