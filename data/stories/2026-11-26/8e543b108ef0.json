@@ -1,0 +1,45 @@
+{
+ "id": "8e543b108ef0",
+ "created": "2026-11-26T07:35:10+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
+ "source_count": 1,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Vegapay gets $10 Mn to grow UPI credit",
+  "hook": "Vegapay has now received cash to make its UPI credit bigger.",
+  "what": "Vegapay is a Mumbai-based fintech. It secured $10 Mn in Series A funding. Vertex Ventures was a co-lead in that round.",
+  "why": "For young Indians, this relates to credit growth through UPI. The source does not share more details.",
+  "tags": [
+   "vegapay",
+   "fintech",
+   "upi",
+   "seriesa",
+   "startup"
+  ]
+ },
+ "ml": {
+  "headline": "വെഗപേയ്ക്ക് $10 മില്യൺ UPI കൊണ്ട് ക്രെഡിറ്റ് വളർത്തും",
+  "hook": "വെഗപേയ്ക്ക് ഇപ്പോൾ UPI-യിൽ ക്രെഡിറ്റ് വളരാൻ പണം ലഭിച്ചു.",
+  "what": "മുമ്പത്തെ ഫിൻടെക് സ്റ്റാർട്ടപ്പ് വെഗപേയ്ക്ക് സീഡ് എ-റൗണ്ടിൽ $10 മില്യൺ സ്വീകരിച്ചു. വെർട്ടക്സ് വെഞ്ചേഴ്സ് ഈ റൗണ്ടിന് സഹ-നേതൃത്വം നൽകി.",
+  "why": "യുവാക്കൾക്ക് ഇത് പരിഗണിക്കാൻ യോഗ്യമാണ്, UPI ഉപയോഗിച്ച് ക്രെഡിറ്റ് വളരും.",
+  "tags": [
+   "vegapay",
+   "fintech",
+   "upi",
+   "seriesa",
+   "startup"
+  ],
+  "say": "വെഗപേയ്ക്ക് ഇപ്പോൾ യുപിഐ-യിൽ ക്രെഡിറ്റ് വളരാൻ പണം ലഭിച്ചു. മുമ്പത്തെ ഫിൻടെക് സ്റ്റാർട്ടപ്പ് വെഗപേയ്ക്ക് സീഡ് എ-റൗണ്ടിൽ $പത്ത് മില്യൺ സ്വീകരിച്ചു. വെർട്ടക്സ് വെഞ്ചേഴ്സ് ഈ റൗണ്ടിന് സഹ-നേതൃത്വം നൽകി. യുവാക്കൾക്ക് ഇത് പരിഗണിക്കാൻ യോഗ്യമാണ്, യുപിഐ ഉപയോഗിച്ച് ക്രെഡിറ്റ് വളരും.",
+  "tags_en": [
+   "vegapay",
+   "fintech",
+   "upi",
+   "seriesa",
+   "startup"
+  ]
+ }
+}

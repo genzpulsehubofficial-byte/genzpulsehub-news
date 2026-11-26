@@ -1,0 +1,45 @@
+{
+ "id": "63cedfc2ccaf",
+ "created": "2026-11-26T07:32:20+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-proposal-explained-how-can-you-build-pf-savings-through-customer-tips-and-third-party-microcontributions-11795653649731.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "EPFO to let small third‑party tips go straight into PF",
+  "hook": "Your friends’ tiny cash can now boost your retirement fund.",
+  "what": "The Employees’ Provident Fund Organisation has drafted a plan to accept micro‑contributions from third parties, including tips, directly into members’ PF accounts. The system would link these payments to the employee’s UAN. The move aims to simplify adding small amounts to retirement savings.",
+  "why": "It lets youngsters grow their PF balance with even modest gifts, making long‑term savings easier. Keep your UAN updated to receive any such contributions.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "MicroContributions",
+   "UAN",
+   "Savings"
+  ]
+ },
+ "ml": {
+  "headline": "EPFO ഇനി ചെറു ടിപ്പുകൾ PF‑ലേക്ക് നേരിട്ട്",
+  "hook": "നിങ്ങളുടെ സുഹൃത്തുക്കളുടെ ചെറിയ പണം നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ടിനെ വർധിപ്പിക്കും.",
+  "what": "Employees’ Provident Fund Organisation (EPFO) ഒരു പദ്ധതി തയ്യാറാക്കി, മൂന്നാം കക്ഷി ചെറു സംഭാവനകളും ടിപ്പുകളും അംഗങ്ങളുടെ PF അക്കൗണ്ടിലേക്ക് നേരിട്ട് ചേർക്കാൻ. ഈ പേയ്മെന്റുകൾ UAN‑യോട് ബന്ധിപ്പിക്കും. ഇതിലൂടെ ചെറിയ തുകകളാൽ വിരമിക്കൽ സംരക്ഷണം എളുപ്പമാക്കാൻ ലക്ഷ്യമുണ്ട്.",
+  "why": "ഇത് യുവാക്കൾക്ക് ചെറു സമ്മാനങ്ങളോ ടിപ്പുകളോ PF ബാലൻസ് കൂട്ടാൻ സഹായിക്കും. നിങ്ങളുടെ UAN അപ്ഡേറ്റ് ചെയ്തിട്ടുണ്ടോ എന്ന് ഉറപ്പാക്കൂ.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "മൈക്രോസംഭാവന",
+   "UAN",
+   "സംഭരണം"
+  ],
+  "say": "നിങ്ങളുടെ സുഹൃത്തുക്കളുടെ ചെറിയ പണം നിങ്ങളുടെ വിരമിക്കൽ ഫണ്ടിനെ വർധിപ്പിക്കും. എംപ്ലോയ്‌സ്’ പ്രൊവിഡന്റ് ഫണ്ട് ഓർഗനൈസേഷൻ (ഇപി‌എഫ്ഓ) ഒരു പദ്ധതി തയ്യാറാക്കി, മൂന്നാം കക്ഷി ചെറു സംഭാവനകളും ടിപ്പുകളും അംഗങ്ങളുടെ പി‌എഫ് അക്കൗണ്ടിലേക്ക് നേരിട്ട് ചേർക്കാൻ. ഈ പേയ്മെന്റുകൾ യുവിഎന്‍‑യോട് ബന്ധിപ്പിക്കും. ഇതിലൂടെ ചെറിയ തുകകളാൽ വിരമിക്കൽ സംരക്ഷണം എളുപ്പമാക്കാൻ ലക്ഷ്യമുണ്ട്. ഇത് യുവാക്കൾക്ക് ചെറു സമ്മാനങ്ങളോ ടിപ്പുകളോ പി‌എഫ് ബാലൻസ് കൂട്ടാൻ സഹായിക്കും. നിങ്ങളുടെ യുവിഎന്‍ അപ്ഡേറ്റ് ചെയ്തിട്ടുണ്ടോ എന്ന് ഉറപ്പാക്കൂ.",
+  "tags_en": [
+   "PF",
+   "EPFO",
+   "MicroContributions",
+   "UAN",
+   "Savings"
+  ]
+ }
+}

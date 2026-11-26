@@ -1,5 +1,99 @@
 [
  {
+  "id": "583726b2c920",
+  "created": "2026-11-26T07:32:09+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+  "headline": "India and China Hold Border Talks in Arunachal Sector",
+  "hook": "New high-level discussions just took place regarding border management along the LAC.",
+  "what": "Indian and Chinese officials held high-level discussions in the Arunachal sector to address border management and LAC concerns. During the briefing, MEA spokesperson Randhir also touched upon reports claiming Chinese satellite data assisted Pakistan in tracking Indian troop positions and installations during Operation Sindoor.",
+  "why": "Tracking official diplomatic moves helps you understand ongoing national security and foreign relations updates.",
+  "tags": [
+   "IndiaChina",
+   "BorderTalks",
+   "MEA",
+   "NationalNews"
+  ]
+ },
+ {
+  "id": "63cedfc2ccaf",
+  "created": "2026-11-26T07:32:20+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/epfos-new-proposal-explained-how-can-you-build-pf-savings-through-customer-tips-and-third-party-microcontributions-11795653649731.html",
+  "headline": "EPFO to let small third‑party tips go straight into PF",
+  "hook": "Your friends’ tiny cash can now boost your retirement fund.",
+  "what": "The Employees’ Provident Fund Organisation has drafted a plan to accept micro‑contributions from third parties, including tips, directly into members’ PF accounts. The system would link these payments to the employee’s UAN. The move aims to simplify adding small amounts to retirement savings.",
+  "why": "It lets youngsters grow their PF balance with even modest gifts, making long‑term savings easier. Keep your UAN updated to receive any such contributions.",
+  "tags": [
+   "PF",
+   "EPFO",
+   "MicroContributions",
+   "UAN",
+   "Savings"
+  ]
+ },
+ {
+  "id": "48217c5f7f27",
+  "created": "2026-11-26T07:32:26+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "Al Jazeera",
+  "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxhOFVRbGV4VWljWVZrRGUzSlRFN2dkQVc3dkVHWHZQdUlOYmVpbEpKdVdtYkdXRFVQVG11QlJleUZOeXZyVUdCRVg0UWw1YmVNUS02WlREdUJnVnBnRlF2TUJJM2hrUlNUSHUxRmF0YzRqM2QtR01kUUhvSHZHX25XeWRNZjdrMFF0VkRlVnMxbjNQOU1YcTl0cjJCNlZueGlOeXZIONIBrAFBVV95cUxPdEhLc01XWU5iX2xIa2VMdlBiZG1icV9TR1JsTGJJTl85Vkg2N25sY2JQYTJpb0tqYnhVRENFSUN5NkQxM3NBbG45WUQwdzk5UFB1LUFLRGUyeEExUkxlcW9UdUVBU2pteWVwdV9LMDhxbWZsb2lEVExfS0JmU0s5MVVrMVFaSHpoVnpSQTlTN0lSeEROZzFQMl9DemV6MFgxRkp0V1M2M0NoQm5J?oc=5",
+  "headline": "Houthis intensify strikes on Saudi Red Sea ports and Riyadh",
+  "hook": "Saudi ports and a Riyadh tower hit – India says two of its citizens hurt",
+  "what": "The Houthi movement launched attacks on Saudi Arabia’s Red Sea ports, an oil refinery and a financial‑district tower in Riyadh. Missiles were intercepted over Riyadh and an explosion was reported in Sanaa. India condemned the Riyadh tower strike after two Indian nationals were injured.",
+  "why": "The escalation raises regional tension that could affect travel, trade and safety for Indians abroad. Keep an eye on official updates and follow any travel advisories.",
+  "tags": [
+   "Houthis",
+   "Saudi",
+   "India",
+   "security",
+   "MiddleEast"
+  ]
+ },
+ {
+  "id": "8e543b108ef0",
+  "created": "2026-11-26T07:35:10+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/vegapay-bags-10-mn-to-scale-credit-line-on-upi-infrastructure/",
+  "headline": "Vegapay gets $10 Mn to grow UPI credit",
+  "hook": "Vegapay has now received cash to make its UPI credit bigger.",
+  "what": "Vegapay is a Mumbai-based fintech. It secured $10 Mn in Series A funding. Vertex Ventures was a co-lead in that round.",
+  "why": "For young Indians, this relates to credit growth through UPI. The source does not share more details.",
+  "tags": [
+   "vegapay",
+   "fintech",
+   "upi",
+   "seriesa",
+   "startup"
+  ]
+ },
+ {
+  "id": "04c7ac7531c1",
+  "created": "2026-11-26T07:35:17+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Medical Xpress",
+  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNUowcUlLc0lfMGNpVEJETEs1RzZYT1RmRUJoOEkwUWR5VlBJVnJSMk0wZGdSZWNRaVpSbEg4eVcya2JRNldnUDQxazgtdHZuN0h5UDczQkJIUU1DbVJNbzFpTk5rZXN6N1VxU2gtdVNjWFpEVGFnaUhUZWxiQQ?oc=5",
+  "headline": "Half of Long‑COVID Adults Still Struggle to Breathe After 4 Years",
+  "hook": "Breathing issues linger years after infection, says new study.",
+  "what": "A recent survey of adults with long COVID found that about 50% continue to experience breathing difficulties four years after their initial illness. The research highlights persistent respiratory problems among survivors.",
+  "why": "Ongoing breathlessness can affect daily life and studies, so young people should monitor symptoms and seek medical advice if needed.",
+  "tags": [
+   "longCOVID",
+   "breathing",
+   "health",
+   "research",
+   "India"
+  ]
+ },
+ {
   "id": "88b6eabe5da1",
   "created": "2026-11-26T06:06:44+05:30",
   "category": "tech",
@@ -654,100 +748,6 @@
    "savings",
    "banking",
    "youth"
-  ]
- },
- {
-  "id": "f257abcd6a75",
-  "created": "2026-11-26T00:05:43+05:30",
-  "category": "trending",
-  "breaking": false,
-  "source": "NDTV Profit",
-  "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLU53N25vRVgtd2NBb1lVQ3J6ZEJFcXdtU2pNSjNBdmhadURMLWxFa0VpVXh1a0lSWHl3OEVsU2x0S2ExX0RaYU1HQ3FnNF9hSl9xR1Y3VkZzX0djdjYzZmN1emdrRDV4bVVhM3VEd2NRS1pPS2hXTklUcTlUS2dkZ25ydlBONmpRYWhTRGx4UWtOa1pnclVoWlNaOVdBdTljSEx0bl9uNUZ1b1NWZjlpV0VYSkttdl8zOXZ1WVpJS2kyaFhncnBBVWdCclA1N1FP0gHYAUFVX3lxTE1rNHp0QUZGUEdvT3NCcnAxSjkzSWNaREhwWmttZExiNEpOUmZIQWlZYmg5bHdINXR3N04wQzdMMmRnV1BDXzhIYkF2NGlJakpsMk5zUlFJS2szQzVCRTZYRFdqOTdsZ1JDMzBETE55aVJHTXpRRnBURDhnSmw2b3JXUlU4V3c2Q2xrdlJRUF9YN2JldWh5VmJfSkZiTXZEZ3B3RE80Q0FZa3FNOUtWTHl2cUNjZ3FxQXBZdkNSVTNOODZoYXN2S0JoSlRjWUJwQnBGMW9xZFFVQg?oc=5",
-  "headline": "Air India and Air India Express Get One Group Setup",
-  "hook": "The two Air India brands aren’t merging, but they’ll now be part of one group.",
-  "what": "Air India and Air India Express plan to run as a single group while keeping their own brands. Air India is also changing its top deck. The airline’s CEO Tewolde has set a ₹6,000 crore cost-saving target and wants to boost revenue.",
-  "why": "For young Indians, the two airlines will still be separate brands even as they operate under one group. The CEO set a cost-saving target and plans to boost revenue.",
-  "tags": [
-   "AirIndia",
-   "Aviation",
-   "Travel",
-   "India",
-   "News"
-  ]
- },
- {
-  "id": "4f0b7bfbd5a5",
-  "created": "2026-11-26T00:05:48+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-  "headline": "NY bans AI chatbot toys for five years",
-  "hook": "Your kid's AI gift could be illegal in New York.",
-  "what": "The state announced a five‑year prohibition on toys that use AI chatbots. Research from Common Sense Media highlighted safety issues such as exposure to inappropriate content and possible harm to emotional development.",
-  "why": "Teens and parents should avoid buying AI chat toys in NY and stay alert for similar rules elsewhere.",
-  "tags": [
-   "AI toys",
-   "NY law",
-   "parenting",
-   "tech safety",
-   "genz"
-  ]
- },
- {
-  "id": "3e41b932706a",
-  "created": "2026-11-26T00:05:55+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Deccan Herald",
-  "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNUJNUHZ6NzRDczNKNFg1MUtHdmpUTUxOLUlnQkV0TzQ1SWJWdEp3aGhWUXVmTm9UODloWF9lSjlIejhLZHVIZ1poZmVSZG0yMnNBamk4YWFNZHA4TW9tR1pjLXNYdFpLRV9oWF81dUdjV1lUUE93TlJhcFRCWVFWMWRkNjloY1g4a0gzam9wT2d5b1hWV0JEclJtQ3p1SUdRdTF6cGJHMExPMDV4TXN6YkRlZUg2V2JjWFBHVFYxTkgzQ1VQTldlQ1dHX01ZQ2taQnZ3akkyeElKZmlUVnBlc2h3?oc=5",
-  "headline": "Samsung rolls out One UI 9 Watch update for Galaxy Watch8",
-  "hook": "Your smartwatch now tracks heart health like never before",
-  "what": "Samsung has begun the global rollout of the One UI 9 Watch update. The new software adds advanced heart‑health monitoring to the Galaxy Watch8 series and brings Wear OS 7 to older Galaxy Watch models.",
-  "why": "It gives teens better health insights and fresh features on their wearables, so keep your watch updated.",
-  "tags": [
-   "Samsung",
-   "GalaxyWatch",
-   "OneUI9",
-   "HealthTech",
-   "WearOS"
-  ]
- },
- {
-  "id": "ff23b12ebb82",
-  "created": "2026-11-25T23:14:44+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-  "headline": "WhatsApp adds message scheduling for chats",
-  "hook": "Set your texts to send later, no need to remember",
-  "what": "The app now lets users choose a future time for a message in both group and one‑on‑one chats. Scheduling can be set from ten minutes up to fourteen days ahead.",
-  "why": "It helps students and friends plan reminders or birthday wishes without staying online, so they can focus on studies or other tasks.",
-  "tags": [
-   "WhatsApp",
-   "Messaging",
-   "Productivity",
-   "GenZ",
-   "Tech"
-  ]
- },
- {
-  "id": "e2b885cfb4b3",
-  "created": "2026-11-25T23:14:49+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/children-are-not-parents-toys-supreme-courts-reality-check-in-custody-case-12376963#publisher=newsstand",
-  "headline": "Supreme Court says child's wishes matter in custody fights",
-  "hook": "Your voice matters even in family court battles.",
-  "what": "The Supreme Court emphasized that a child's preferences should be considered when deciding custody. The judgment highlighted that children are not to be treated as objects in parental disputes.",
-  "why": "Understanding this can empower kids to speak up in family matters. It also reminds families to respect children's opinions during separations.",
-  "tags": [
-   "SupremeCourt",
-   "Custody",
-   "ChildRights",
-   "Legal"
   ]
  }
 ]

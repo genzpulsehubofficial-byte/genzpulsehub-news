@@ -1,0 +1,45 @@
+{
+ "id": "04c7ac7531c1",
+ "created": "2026-11-26T07:35:17+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Medical Xpress",
+ "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yNUowcUlLc0lfMGNpVEJETEs1RzZYT1RmRUJoOEkwUWR5VlBJVnJSMk0wZGdSZWNRaVpSbEg4eVcya2JRNldnUDQxazgtdHZuN0h5UDczQkJIUU1DbVJNbzFpTk5rZXN6N1VxU2gtdVNjWFpEVGFnaUhUZWxiQQ?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Half of Long‑COVID Adults Still Struggle to Breathe After 4 Years",
+  "hook": "Breathing issues linger years after infection, says new study.",
+  "what": "A recent survey of adults with long COVID found that about 50% continue to experience breathing difficulties four years after their initial illness. The research highlights persistent respiratory problems among survivors.",
+  "why": "Ongoing breathlessness can affect daily life and studies, so young people should monitor symptoms and seek medical advice if needed.",
+  "tags": [
+   "longCOVID",
+   "breathing",
+   "health",
+   "research",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ലോങ്‑കോവിഡ് രോഗികളില്‍ അര്‍ദ്ധം നാല് വര്‍ഷത്തിന് ശേഷം ശ്വാസം പിടിക്കാൻ ബുദ്ധിമുട്ടുന്നു",
+  "hook": "ഇന്‍ഫെക്ഷന്‍ കഴിഞ്ഞിട്ടും പല വര്‍ഷങ്ങളായി ശ്വാസപ്രശ്നം തുടരുന്നു, പഠനം പറയുന്നു.",
+  "what": "ഒരു പഠനത്തില്‍ ലോങ്‑കോവിഡ് ബാധിതരായവരിൽ ഏകദേശം അന്‍പത് ശതമാനം പേർ നാല് വര്‍ഷത്തിന് ശേഷം പോലും ശ്വാസം പിടിക്കാൻ ബുദ്ധിമുട്ട് അനുഭവിക്കുന്നു. ഇത് രോഗം കഴിഞ്ഞിട്ടും ശ്വാസപ്രശ്നങ്ങൾ നിലനിൽക്കുന്നതായി സൂചിപ്പിക്കുന്നു.",
+  "why": "ശ്വാസം പിടിക്കാൻ ബുദ്ധിമുട്ട് ദിനചര്യയിലും പഠനത്തിലും ബാധിക്കാം, അതിനാൽ ലക്ഷണങ്ങൾ ശ്രദ്ധിച്ച് ഡോക്ടറുടെ ഉപദേശം തേടണം.",
+  "tags": [
+   "ലോങ്‌കോവിഡ്",
+   "ശ്വാസം",
+   "ആരോഗ്യം",
+   "ഗവേഷണം",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഇന്‍ഫെക്ഷന്‍ കഴിഞ്ഞിട്ടും പല വര്‍ഷങ്ങളായി ശ്വാസപ്രശ്നം തുടരുന്നു, പഠനം പറയുന്നു. ഒരു പഠനത്തില്‍ ലോങ്‑കോവിഡ് ബാധിതരായവരിൽ ഏകദേശം അന്‍പത് ശതമാനം പേർ നാല് വര്‍ഷത്തിന് ശേഷം പോലും ശ്വാസം പിടിക്കാൻ ബുദ്ധിമുട്ട് അനുഭവിക്കുന്നു. ഇത് രോഗം കഴിഞ്ഞിട്ടും ശ്വാസപ്രശ്നങ്ങൾ നിലനിൽക്കുന്നതായി സൂചിപ്പിക്കുന്നു. ശ്വാസം പിടിക്കാൻ ബുദ്ധിമുട്ട് ദിനചര്യയിലും പഠനത്തിലും ബാധിക്കാം, അതിനാൽ ലക്ഷണങ്ങൾ ശ്രദ്ധിച്ച് ഡോക്ടറുടെ ഉപദേശം തേടണം.",
+  "tags_en": [
+   "longCOVID",
+   "breathing",
+   "health",
+   "research",
+   "India"
+  ]
+ }
+}

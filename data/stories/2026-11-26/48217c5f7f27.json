@@ -1,0 +1,45 @@
+{
+ "id": "48217c5f7f27",
+ "created": "2026-11-26T07:32:26+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "Al Jazeera",
+ "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxhOFVRbGV4VWljWVZrRGUzSlRFN2dkQVc3dkVHWHZQdUlOYmVpbEpKdVdtYkdXRFVQVG11QlJleUZOeXZyVUdCRVg0UWw1YmVNUS02WlREdUJnVnBnRlF2TUJJM2hrUlNUSHUxRmF0YzRqM2QtR01kUUhvSHZHX25XeWRNZjdrMFF0VkRlVnMxbjNQOU1YcTl0cjJCNlZueGlOeXZIONIBrAFBVV95cUxPdEhLc01XWU5iX2xIa2VMdlBiZG1icV9TR1JsTGJJTl85Vkg2N25sY2JQYTJpb0tqYnhVRENFSUN5NkQxM3NBbG45WUQwdzk5UFB1LUFLRGUyeEExUkxlcW9UdUVBU2pteWVwdV9LMDhxbWZsb2lEVExfS0JmU0s5MVVrMVFaSHpoVnpSQTlTN0lSeEROZzFQMl9DemV6MFgxRkp0V1M2M0NoQm5J?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Houthis intensify strikes on Saudi Red Sea ports and Riyadh",
+  "hook": "Saudi ports and a Riyadh tower hit – India says two of its citizens hurt",
+  "what": "The Houthi movement launched attacks on Saudi Arabia’s Red Sea ports, an oil refinery and a financial‑district tower in Riyadh. Missiles were intercepted over Riyadh and an explosion was reported in Sanaa. India condemned the Riyadh tower strike after two Indian nationals were injured.",
+  "why": "The escalation raises regional tension that could affect travel, trade and safety for Indians abroad. Keep an eye on official updates and follow any travel advisories.",
+  "tags": [
+   "Houthis",
+   "Saudi",
+   "India",
+   "security",
+   "MiddleEast"
+  ]
+ },
+ "ml": {
+  "headline": "ഹൂതികൾ സൗദി റെഡ് സീ പോർട്ടുകളും റിയാദും ലക്ഷ്യം വച്ചു",
+  "hook": "സൗദി റെഡ് സീ പോർട്ടുകളും റിയാദിലെ ടവറും ആക്രമണം, ഇന്ത്യയുടെ രണ്ട് പൗരന്മാർക്ക് പരിക്ക്",
+  "what": "ഹൂതികൾ സൗദി അറേബ്യയുടെ റെഡ് സീ പോർട്ടുകൾ, ഒരു എണ്ണ ശുദ്ധീകരണ പ്ലാന്റ്, റിയാദിലെ ഫിനാൻഷ്യൽ ഡിസ്റ്റ്രിക്ട് ടവറിനെ ലക്ഷ്യംവെച്ചു. റിയാദിന്മേൽ മിസൈലുകൾ തടഞ്ഞു, സാനിൽ ഒരു സ്ഫോടനം സംഭവിച്ചു. രണ്ട് ഇന്ത്യൻ പൗരന്മാർക്ക് പരിക്ക് വന്നതിനെ തുടർന്ന് ഇന്ത്യ ഈ ആക്രമണം നിരാകരിച്ചു.",
+  "why": "പ്രദേശിക സംഘർഷം യാത്ര, വ്യാപാരം, വിദേശത്തുള്ള ഇന്ത്യൻ യുവാക്കളുടെ സുരക്ഷ എന്നിവയെ ബാധിക്കാൻ സാധ്യതയുണ്ട്. ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക, യാത്രാ ഉപദേശങ്ങൾ പാലിക്കുക.",
+  "tags": [
+   "ഹൂതികൾ",
+   "സൗദി",
+   "ഇന്ത്യ",
+   "സുരക്ഷ",
+   "മിഡിൽഈസ്റ്റ്"
+  ],
+  "say": "സൗദി റെഡ് സീ പോർട്ടുകളും റിയാദിലെ ടവറും ആക്രമണം, ഇന്ത്യയുടെ രണ്ട് പൗരന്മാർക്ക് പരിക്ക്. ഹൂതികൾ സൗദി അറേബ്യയുടെ റെഡ് സീ പോർട്ടുകൾ, ഒരു എണ്ണ ശുദ്ധീകരണ പ്ലാന്റ്, റിയാദിലെ ഫിനാൻഷ്യൽ ഡിസ്റ്റ്രിക്ട് ടവറിനെ ലക്ഷ്യംവെച്ചു. റിയാദിന്മേൽ മിസൈലുകൾ തടഞ്ഞു, സാനിൽ ഒരു സ്ഫോടനം സംഭവിച്ചു. രണ്ട് ഇന്ത്യൻ പൗരന്മാർക്ക് പരിക്ക് വന്നതിനെ തുടർന്ന് ഇന്ത്യ ഈ ആക്രമണം നിരാകരിച്ചു. പ്രദേശിക സംഘർഷം യാത്ര, വ്യാപാരം, വിദേശത്തുള്ള ഇന്ത്യൻ യുവാക്കളുടെ സുരക്ഷ എന്നിവയെ ബാധിക്കാൻ സാധ്യതയുണ്ട്. ഔദ്യോഗിക അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക, യാത്രാ ഉപദേശങ്ങൾ പാലിക്കുക.",
+  "tags_en": [
+   "Houthis",
+   "Saudi",
+   "India",
+   "security",
+   "MiddleEast"
+  ]
+ }
+}
