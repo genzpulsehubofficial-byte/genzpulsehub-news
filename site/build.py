@@ -77,7 +77,7 @@ def esc(s):
 def page(lang, title, desc, body, path, og_type="website"):
     t = T[lang]
     alt = ("/ml" + path) if lang == "en" else path.replace("/ml", "", 1) or "/"
-    return f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8">
+    return f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="google-site-verification" content="jhcM1WZRaNq3P6d0vMjE64lhmu0eTHBxNMyfeU3KKVI">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}"><link rel="canonical" href="{SITE}{path}">
 <link rel="alternate" hreflang="{'ml' if lang=='en' else 'en'}" href="{SITE}{alt}">
