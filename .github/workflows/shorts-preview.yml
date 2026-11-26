@@ -19,5 +19,19 @@ jobs:
               print(lang, render_v2.render(lang, s, f"../out/preview/{lang}"))
           P
           for f in ../out/preview/*/*.mp4; do ffmpeg -loglevel error -y -ss 3 -i "$f" -frames:v 1 "${f%.mp4}_3s.jpg"; ffmpeg -loglevel error -y -sseof -1.5 -i "$f" -frames:v 1 "${f%.mp4}_end.jpg"; done
+      - name: Render one LIVE segment per language (16:9)
+        env: {PIXABAY_API_KEY: "${{ secrets.PIXABAY_API_KEY }}"}
+        run: |
+          mkdir -p out/preview/live
+          for L in en ml; do python - "$L" <<'P'
+          import sys, json, os
+          sys.argv = ["engine.py", sys.argv[1]]
+          sys.path.insert(0, "stream")
+          import engine
+          s = json.load(open(f"data/latest_{engine.LANG}.json"))[0]
+          say = s.get("say") or ". ".join(x for x in (s["headline"], s.get("what"), s.get("why")) if x)
+          engine.segment(s, say, "Next story headline here", engine.ad_text(), f"out/preview/live/{engine.LANG}.ts", 1.0)
+          P
+          ffmpeg -loglevel error -y -ss 4 -i out/preview/live/$L.ts -frames:v 1 out/preview/live/${L}_4s.jpg; done
       - uses: actions/upload-artifact@v4
         with: {name: preview, path: out/preview}

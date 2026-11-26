@@ -132,51 +132,99 @@ def ad_text():
     return TXT[LANG]["ad"]
 
 
-def slide(s, upnext, ad, path):
+def overlay(s, upnext, ad, path):
+    """Transparent TV-news overlay (1280x720): LIVE bug, category, lower third, up-next bar, ad ticker."""
     t = TXT[LANG]
-    img = Image.new("RGB", (W, H), "#0b0b14")
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     accent = COLOR.get(s.get("category", ""), "#ff3cac")
-    for y in range(H):  # soft vertical gradient
-        d.line([(0, y), (W, y)], fill=(11 + y // 40, 11, 20 + y // 20))
-    d.rectangle([0, 0, W, 64], fill="#12121f")
-    d.rounded_rectangle([24, 14, 24 + tlen(d, t["live"], font(LANG, 26)) + 44, 52], 8, fill="#e10600")
-    d.ellipse([34, 26, 46, 38], fill="white")
-    put(d, (54, 16), t["live"], font(LANG, 26), "white")
-    put(d, (W - 330, 16), "GenZ Pulse Hub", font("en", 28), "white")
-    d.rectangle([0, 64, 10, H - 120], fill=accent)
+    for y in range(H - 330, H):                     # dark fade behind lower third
+        a = int(215 * min(1, (y - (H - 330)) / 110))
+        d.line([(0, y), (W, y)], fill=(8, 8, 16, a))
+    d.rounded_rectangle([24, 20, 24 + tlen(d, t["live"], font(LANG, 26)) + 46, 58], 8, fill="#e10600")
+    d.ellipse([34, 32, 46, 44], fill="white")
+    put(d, (56, 22), t["live"], font(LANG, 26), "white")
+    put(d, (W - 260, 22), "GenZ Pulse Hub", font("en", 28), "white")
     cat = (s.get("category") or "news").upper()
-    put(d, (48, 92), cat, font("en", 24), accent)
-    y = 132
-    for line in wrap(d, s["headline"], font(LANG, 46), W - 110)[:3]:
-        put(d, (48, y), line, font(LANG, 46), "white"); y += 62
-    y += 12
-    for line in wrap(d, s.get("what", ""), font(LANG, 28, bold=False), W - 110)[:4]:
-        put(d, (48, y), line, font(LANG, 28, bold=False), "#d9d9e6"); y += 40
-    y += 14
-    put(d, (48, y), t["why"], font(LANG, 24), accent); y += 38
-    for line in wrap(d, s.get("why", ""), font(LANG, 28, bold=False), W - 110)[:3]:
-        put(d, (48, y), line, font(LANG, 28, bold=False), "#ffffff"); y += 40
-    d.rectangle([0, H - 120, W, H - 64], fill="#1b1b2e")
-    put(d, (24, H - 112), t["next"] + ":", font(LANG, 22), accent)
-    nx = (upnext or "")[:90]
-    put(d, (24 + tlen(d, t["next"] + ":", font(LANG, 22)) + 12, H - 112), nx, font(LANG, 22, bold=False), "white")
+    cw = tlen(d, cat, font("en", 22)) + 30
+    d.rounded_rectangle([40, H - 300, 40 + cw, H - 266], 8, fill=accent)
+    put(d, (55, H - 298), cat, font("en", 22), "#0b0b14")
+    y = H - 256
+    for line in wrap(d, s["headline"], font(LANG, 40), W - 380)[:2]:
+        put(d, (40, y), line, font(LANG, 40), "white"); y += 52
+    why = s.get("why") or s.get("what") or ""
+    if why:
+        put(d, (40, y + 2), (wrap(d, why, font(LANG, 24, bold=False), W - 380) or [""])[0], font(LANG, 24, bold=False), "#d9d9e6")
+    d.rectangle([0, H - 104, W, H - 64], fill=(27, 27, 46, 235))
+    put(d, (24, H - 100), t["next"] + ":", font(LANG, 22), accent)
+    put(d, (24 + tlen(d, t["next"] + ":", font(LANG, 22)) + 10, H - 100), (upnext or "")[:80], font(LANG, 22, bold=False), "white")
     d.rectangle([0, H - 64, W, H], fill=accent)
-    put(d, (24, H - 52), ad, font(LANG, 26), "#0b0b14")
-    src = s.get("source")
-    if src:
-        put(d, (W - 24 - tlen(d, "Source: " + src, font("en", 18, bold=False)), H - 150), "Source: " + src,
-            font("en", 18, bold=False), "#8a8aa3")
+    put(d, (24, H - 54), ad, font(LANG, 26), "#0b0b14")
+    if s.get("source"):
+        st = "Source: " + s["source"]
+        put(d, (W - 24 - tlen(d, st, font("en", 18, bold=False)), H - 128), st, font("en", 18, bold=False), "#b0b0c8")
     img.save(path)
 
 
-def segment(png, mp3, out, offset):
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", png, "-i", mp3,
-                    "-c:v", "libx264", "-preset", "veryfast", "-tune", "stillimage", "-pix_fmt", "yuv420p",
-                    "-r", "30", "-g", "60", "-b:v", "2500k", "-maxrate", "2500k", "-bufsize", "5000k",
-                    "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "2",
-                    "-af", "apad=pad_dur=1.5", "-shortest", "-output_ts_offset", f"{offset:.3f}",
-                    "-mpegts_flags", "+resend_headers", "-f", "mpegts", out], check=True)
+def background(s, need, tmp):
+    """Landscape stock footage for the story (Pixabay), else a moving brand gradient."""
+    try:
+        import render_v2
+        clips = render_v2.pexels_clips([q for q in _queries(s)], need, tmp) if (render_v2.PIXABAY or render_v2.PEXELS) else []
+    except Exception as e:
+        log("footage", e); clips = []
+    out = os.path.join(tmp, "bg.mp4")
+    norm = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps=30,setsar=1"
+    if clips:
+        parts = []
+        for i, c in enumerate(clips):
+            p = os.path.join(tmp, f"n{i}.mp4")
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", c, "-t", "8", "-an", "-vf", norm, "-c:v", "libx264",
+                            "-preset", "veryfast", "-crf", "26", p], check=True)
+            parts.append(p)
+        lst = os.path.join(tmp, "bg.txt"); open(lst, "w").write("".join(f"file '{p}'\n" for p in parts))
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-f", "concat", "-safe", "0", "-i", lst,
+                        "-t", f"{need:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", out], check=True)
+        return out
+    c = COLOR.get(s.get("category", ""), "#ff3cac").lstrip("#")
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i",
+                    f"gradients=s={W}x{H}:c0=0x0b0b14:c1=0x{c}:c2=0x1b1035:n=3:speed=0.015:r=30", "-t", f"{need:.2f}",
+                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "26", out], check=True)
+    return out
+
+
+def _queries(s):
+    import re
+    tags = [re.sub(r"(?<=[a-z])(?=[A-Z])", " ", t) for t in (s.get("tags_en") or s.get("tags") or [])
+            if re.match(r"^[A-Za-z0-9 &-]+$", t)]
+    return tags[:3] + [{"jobs": "office", "money": "money", "tech": "technology", "sports": "stadium",
+                        "entertainment": "cinema", "health": "healthy", "kerala": "kerala"}.get(s.get("category"), "city")]
+
+
+def segment(s, say, upnext, ad, out, offset):
+    import render_v2
+    tmp = tempfile.mkdtemp(dir=WORK)
+    try:
+        mp3 = os.path.join(tmp, "v.mp3")
+        render_v2.voice(say, LANG, mp3)
+        total = dur(mp3) + 1.2
+        bg = background(s, total, tmp)
+        ov = os.path.join(tmp, "ov.png"); overlay(s, upnext, ad, ov)
+        masc = render_v2.mascot_track(mp3, total, COLOR.get(s.get("category", ""), "#ff3cac"), tmp)
+        mw = render_v2.MW
+        fc = (f"[0:v]eq=brightness=-0.12:saturation=1.1[b];[b][1:v]overlay=0:0[o];"
+              f"[2:v]format=rgba,fps=30,scale={int(mw * 0.8)}:-1[m];"
+              f"[o][m]overlay=x=W-{int(mw * 0.8)}-20:y=H-{int(mw * 0.8)}-110+6*sin(2*PI*t*1.3):eof_action=pass[v]")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", bg, "-loop", "1", "-i", ov,
+                        "-f", "concat", "-safe", "0", "-i", masc, "-i", mp3, "-filter_complex", fc,
+                        "-map", "[v]", "-map", "3:a", "-t", f"{total:.2f}",
+                        "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-r", "30", "-g", "60",
+                        "-b:v", "2500k", "-maxrate", "2500k", "-bufsize", "5000k",
+                        "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "2", "-af", "apad",
+                        "-output_ts_offset", f"{offset:.3f}", "-mpegts_flags", "+resend_headers", "-f", "mpegts", out],
+                       check=True)
+    finally:
+        subprocess.run(["rm", "-rf", tmp])
 
 
 def run_cycle(outs):
@@ -199,14 +247,12 @@ def run_cycle(outs):
             for i, s in enumerate(seq):
                 if time.time() - start >= CYCLE or proc.poll() is not None:
                     break
-                png, mp3, ts = (os.path.join(WORK, f"{n % 3}.{e}") for e in ("png", "mp3", "ts"))
+                ts = os.path.join(WORK, f"{n % 3}.ts")
                 try:
-                    say = s.get("_say") or ". ".join(x for x in (s.get("hook"), s["headline"], s.get("what"), s.get("why")) if x)
-                    tts_file(say, LANG, mp3)
+                    say = s.get("_say") or s.get("say") or ". ".join(x for x in (s["headline"], s.get("what"), s.get("why")) if x)
                     nxt = seq[i + 1]["headline"] if i + 1 < len(seq) else (items[0]["headline"] if items else "")
-                    slide(s, nxt, ad, png)
-                    segment(png, mp3, ts, offset)
-                    offset += dur(ts) or (dur(mp3) + 1.5)
+                    segment(s, say, nxt, ad, ts, offset)
+                    offset += dur(ts)
                     with open(ts, "rb") as f:
                         feed.write(f.read())
                     feed.flush(); n += 1
