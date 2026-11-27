@@ -389,6 +389,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:17900900820612639",
    "facebook": "fb:2338923653562429"
+  },
+  "f476d86bcc2e": {
+   "at": "2026-11-27 23:55",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1798147012317793"
   }
  },
  "ml": {
@@ -853,6 +859,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18120576728118923",
    "facebook": "fb:2415946719152871"
+  },
+  "f476d86bcc2e": {
+   "at": "2026-11-27 23:56",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18139662517676715",
+   "facebook": "fb:28956008004094489"
   }
  }
 }
