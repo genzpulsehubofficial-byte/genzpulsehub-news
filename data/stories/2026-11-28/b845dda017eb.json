@@ -1,0 +1,95 @@
+{
+ "id": "b845dda017eb",
+ "created": "2026-11-28T04:13:09+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/",
+ "source_count": 2,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "WhatsApp Security Risks Found",
+  "hook": "Your WhatsApp data might be at risk due to security flaws",
+  "what": "India's cybersecurity agency has found vulnerabilities in WhatsApp that can be exploited by attackers. These vulnerabilities can lead to data exposure. The agency has flagged five such risks in the messaging platform.",
+  "why": "It's essential for young Indians to be aware of these risks and take necessary precautions to protect their data. They should be cautious when using WhatsApp to avoid potential data breaches.",
+  "tags": [
+   "WhatsApp",
+   "Cybersecurity",
+   "Data Protection",
+   "Tech Risks",
+   "Online Safety"
+  ]
+ },
+ "ml": {
+  "headline": "വാട്സ്ആപ്പിൽ സുരക്ഷാ വിള്ളലുകൾ കണ്ടെത്തി",
+  "hook": "നിങ്ങളുടെ വാട്സ്ആപ്പ് വിവരങ്ങൾ സുരക്ഷാ പിശകുകൾ കാരണം അപകടത്തിലായേക്കാം.",
+  "what": "ഇന്ത്യയിലെ സൈബർ സുരക്ഷാ ഏജൻസി വാട്സ്ആപ്പിൽ ആക്രമണകാരികൾക്ക് പ്രയോജനപ്പെടുത്താവുന്ന വിള്ളലുകൾ കണ്ടെത്തിയിട്ടുണ്ട്. ഈ വിള്ളലുകൾ വിവര വെളിപ്പെടുത്തലിലേക്ക് നയിക്കുന്നവയാണ്. ഏജൻസി മെസേജിംഗ് പ്ലാറ്റ്ഫോമിൽ അഞ്ച് തരത്തിലുള്ള അപകടങ്ങളെ കുറിച്ച് മുന്നറിയിപ്പ് നൽകിയിട്ടുണ്ട്.",
+  "why": "വാട്സ്ആപ്പ് ഉപയോഗിക്കുമ്പോൾ സാധ്യമായ വിവര വെളിപ്പെടുത്തലുകൾക്ക് മുന്നിലെത്താതിരിക്കാൻ പ്രതിരോധ നടപടികൾ സ്വീകരിക്കേണ്ടത് യുവ ഇന്ത്യക്കാർക്ക് പ്രധാനമാണ്. അവർ തങ്ങളുടെ വിവരങ്ങൾ സംരക്ഷിക്കാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "വാട്സ്ആപ്പ്",
+   "സൈബർ സുരക്ഷ",
+   "വിവര സംരക്ഷണം",
+   "ടെക്ക് അപകടങ്ങൾ",
+   "ഓൺലൈൻ സുരക്ഷ"
+  ],
+  "say": "നിങ്ങളുടെ വാട്സ്ആപ്പ് വിവരങ്ങൾ അപകടത്തിലായേക്കാം. ഇന്ത്യയിലെ സൈബർ സുരക്ഷാ ഏജൻസി വാട്സ്ആപ്പിൽ വിള്ളലുകൾ കണ്ടെത്തി. ഇത് വിവര വെളിപ്പെടുത്തലിലേക്ക് നയിക്കും. വാട്സ്ആപ്പ് ഉപയോഗിക്കുമ്പോൾ, നിങ്ങൾക്ക് പ്രതിരോധ നടപടികൾ എടുക്കേണ്ടത് പ്രധാനമാണ്. നിങ്ങളുടെ വിവരങ്ങൾ സംരക്ഷിക്കാൻ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "WhatsApp",
+   "Cybersecurity",
+   "Data Protection",
+   "Tech Risks",
+   "Online Safety"
+  ]
+ },
+ "beats": {
+  "cover": "IS WHATSAPP SAFE?",
+  "cover_accent": "SAFE",
+  "beats": [
+   {
+    "title": "DATA AT RISK",
+    "accent": "RISK",
+    "query": "WhatsApp on iPhone",
+    "en": "Your WhatsApp data might be at risk due to security flaws. India's cybersecurity agency has found vulnerabilities in WhatsApp.",
+    "ml": "WhatsApp data  risk ilakkum, security flaws undu, India cybersecurity agency WhatsApp il vulnerabilities kannu pidichu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "cybersecurity experts working",
+    "en": "But actually, these vulnerabilities can be exploited by attackers, leading to data exposure.",
+    "ml": "Pakshe, actually, attackers these vulnerabilities exploit cheythu data exposure undakkum."
+   },
+   {
+    "title": "WHAT ARE RISKS",
+    "accent": "RISKS",
+    "query": "warning signs on screen",
+    "en": "The agency has flagged five such risks in the messaging platform.",
+    "ml": "Agency 5 risks flag cheythu, messaging platform il undu."
+   },
+   {
+    "title": "HOW IT HAPPENS",
+    "accent": "HAPPENS",
+    "query": "hacker typing on laptop",
+    "en": "These vulnerabilities can lead to data breaches when attackers exploit them.",
+    "ml": "Attackers these vulnerabilities exploit cheythu data breaches undakkum."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students using WhatsApp",
+    "en": "It's essential for young Indians to be aware of these risks and take necessary precautions to protect their data.",
+    "ml": "Young Indians innu risks aware aakkanda, data protect cheyyanda, precautions edukkanda."
+   },
+   {
+    "title": "STAY SAFE",
+    "accent": "SAFE",
+    "query": "person locking phone",
+    "en": "They should be cautious when using WhatsApp to avoid potential data breaches.",
+    "ml": "WhatsApp use cheyyum poole cautious aakkanda, potential data breaches varanam."
+   }
+  ],
+  "ml_ok": false
+ }
+}

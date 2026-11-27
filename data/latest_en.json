@@ -1,5 +1,329 @@
 [
  {
+  "id": "c155e3bc3614",
+  "created": "2026-11-28T04:10:40+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/us-disables-ship-attempting-to-breach-naval-blockade-on-iranian-ports-12386970#publisher=newsstand",
+  "headline": "US Navy Stops Ship Trying to Break Iran Blockade",
+  "hook": "A US warship halted a vessel trying to slip past Iran's naval blockade.",
+  "what": "The US military said it disabled a commercial ship on Thursday. The vessel was attempting to breach the naval blockade around Iranian ports.",
+  "why": "It highlights ongoing regional tensions that could affect trade routes and travel. Stay updated on international developments.",
+  "tags": [
+   "US",
+   "Iran",
+   "naval",
+   "blockade",
+   "news"
+  ],
+  "beats": {
+   "cover": "US NAVY BLOCKS IRAN SHIP",
+   "cover_accent": "NAVY",
+   "beats": [
+    {
+     "title": "SHIP SLIPPED PAST?",
+     "accent": "SLIPPED",
+     "query": "ship at sea",
+     "en": "Did a vessel really try to sneak through Iran’s naval blockade?",
+     "ml": "ഒരു കപ്പൽ ഇറാന്റെ നാവൽ ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ചതാണോ?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "US navy ship",
+     "en": "Actually, the US Navy stepped in and disabled the ship on Thursday.",
+     "ml": "വാസ്തവത്തിൽ, US Navy അതേ ദിവസം കപ്പലിനെ നിഷ്ക്രിയമാക്കി."
+    },
+    {
+     "title": "BLOCKADE DETAILS",
+     "accent": "BLOCKADE",
+     "query": "Iran naval base",
+     "en": "Iran has set up a naval blockade around its ports to control shipping.",
+     "ml": "ഇറാൻ തന്റെ തുറമുഖങ്ങളിലൊക്കെ ഷിപ്പിംഗ് നിയന്ത്രിക്കാൻ ഒരു നാവൽ ബ്ലോക്കേഡ് സ്ഥാപിച്ചു."
+    },
+    {
+     "title": "US INTERVENTION",
+     "accent": "US",
+     "query": "military radar",
+     "en": "The US military detected the breach and used force to stop the commercial vessel.",
+     "ml": "US സൈന്യം ആ ലംഘനം കണ്ടെത്തി, ബലപ്രയോഗം കൊണ്ട് കപ്പലിനെ നിർത്തി."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "global trade routes",
+     "en": "This shows rising tensions that could disrupt trade routes and affect travel for everyone.",
+     "ml": "ഇത് ഉയരുന്ന സംഘർഷം വ്യാപാര മാർഗങ്ങളും യാത്രയും ബാധിക്കാമെന്ന് സൂചിപ്പിക്കുന്നു."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "91d39a06137e",
+  "created": "2026-11-28T04:10:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "WIRED",
+  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTWFkZGtKWUJKLU9Vb2E1YnVHWEozRndhS1FRbG0wdzNsZFF0MXA1Rlcyekd3TjV6QlZyVnFqOEdpVE1YbU4wRVVsSU1XbllzX0FLUXczeW9lQllRWDhwOG11Y05PUjlHWlNpYzkwV2RyZw?oc=5",
+  "headline": "Apple Black Friday: AirPods Pro 3 Drop to $149",
+  "hook": "Grab the cheapest AirPods ever this weekend.",
+  "what": "Apple’s Black Friday sale lists discounts on AirPods, MacBooks and other devices. The AirPods Pro 3 are priced at $149. The Apple Store also offers a gift card worth up to $300 with purchases.",
+  "why": "Students can save on earbuds for online classes and music, and the gift card can fund other tech needs. Check the Apple Store or partner sites for the offers.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ],
+  "beats": {
+   "cover": "CHEAPEST AIRPODS EVER",
+   "cover_accent": "EVER",
+   "beats": [
+    {
+     "title": "CHEAP AIRPODS",
+     "accent": "CHEAP",
+     "query": "earbuds on sale",
+     "en": "Are you looking for affordable earbuds? This weekend, you can grab the cheapest AirPods ever!",
+     "ml": "ഞാൻ ചെലവ് കുറഞ്ഞ ഇയർബഡുകൾ തേടുന്നുണ്ടോ? ഈ വീക്കെൻഡിൽ, ഞാൻ ഏറ്റവും ചെലവ് കുറഞ്ഞ എയർപോഡുകൾ വാങ്ങാം!"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "Apple Black Friday sale",
+     "en": "But actually, it's Apple's Black Friday sale that's making this possible, with discounts on AirPods and more.",
+     "ml": "പക്ഷേ യാഥാർത്ഥ്യത്തിൽ, ഇത് സാധ്യമാക്കുന്നത് ആപ്പിളിന്റെ ബ്ലാക്ക് ഫ്രൈഡേ വിൽപ്പനയാണ്, എയർപോഡുകൾ, മറ്റുള്ളവയുടെ മെച്ചപ്പെട്ട വിലകൾക്കൊപ്പം."
+    },
+    {
+     "title": "AIRPODS PRO 3",
+     "accent": "PRO",
+     "query": "AirPods Pro 3",
+     "en": "The AirPods Pro 3 are now priced at $149, making them super affordable.",
+     "ml": "എയർപോഡ്സ് പ്രോ 3 ഇപ്പോൾ $149 വിലയിൽ ലഭ്യമാണ്, ഇത് വളരെ ചെലവ് കുറഞ്ഞതാക്കുന്നു."
+    },
+    {
+     "title": "GIFT CARD OFFER",
+     "accent": "GIFT",
+     "query": "gift card",
+     "en": "Plus, the Apple Store is offering a gift card worth up to $300 with purchases.",
+     "ml": "കൂടാതെ, ആപ്പിൾ സ്റ്റോർ $300 വരെ വിലവരുന്ന ഒരു ഗിഫ്റ്റ് കാർഡ് വാങ്ങലുകൾക്കൊപ്പം നൽകുന്നു."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students online classes",
+     "en": "So, why does it matter? Students can save on earbuds for online classes and music, and use the gift card for other tech needs.",
+     "ml": "എന്തുകൊണ്ട് ഇത് പ്രധാനമാണ്? വിദ്യാർത്ഥികൾക്ക് ഓൺലൈൻ ക്ലാസുകൾക്കും സംഗീതത്തിനുമായി ഇയർബഡുകൾക്ക് ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റ് ടെക്ക് ആവശ്യങ്ങൾക്കായി ഉപയോഗിക്കാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "0c9e53a9795a",
+  "created": "2026-11-28T04:12:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnpDY2hRODhzcUNLOEdpUWpvbVZ3b0FCQTdqMGdHcmdDY3dpR2o5TzgzSVlhd3BYQWRUZWtmX3hUc0NVRHRPdU16UXZrYmJxNkViQ2F3U0daM1BrYXdzQlFIVjc2TEdncUVnd0k2T3FfbndfZWtldzQwQ0ZSZU5xQkIwRzJLdXBaZlcteHNRZjg5TkVXUk5qQW5LemJ5aWJ5eWdiR3UxVVJPTUN4TC04MHpPUkZybUxnaXpPN1ZOcVJySnRmUmhqb2JJVQ?oc=5",
+  "headline": "UPI Fraud Victim Refunded",
+  "hook": "Cybercrime police help victim get money back",
+  "what": "A UPI fraud victim has been refunded. The cybercrime police were involved in the case. The victim got their money back after the police took action.",
+  "why": "This case shows that reporting cybercrime can lead to a positive outcome. Young Indians should be aware of such frauds and know how to report them.",
+  "tags": [
+   "cybercrime",
+   "UPI",
+   "fraud",
+   "refund",
+   "police"
+  ],
+  "beats": {
+   "cover": "CYBERCRIME VICTIM REFUNDED",
+   "cover_accent": "REFUNDED",
+   "beats": [
+    {
+     "title": "MONEY LOST FOREVER",
+     "accent": "FOREVER",
+     "query": "person looking worried at iPhone",
+     "en": "Have you ever lost money to a UPI scam and thought it's gone forever? UPI fraud can be devastating.",
+     "ml": "UPI scam il പണം നഷ്ടപ്പെട്ടാലും, അത് തിരിച്ച് കിട്ടില്ലെന്ന് നിങ്ങൾ കരുതിയിട്ടുണ്ടോ? UPI വഞ്ചന വിനാശകരമാണ്."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "cybercrime police at work",
+     "en": "But actually, the cybercrime police can help you get your money back. They took action in a recent case.",
+     "ml": "പക്ഷേ, യഥാർത്ഥത്തിൽ, സൈബർക്രൈം പോലീസ് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടുന്നതിൽ സഹായിക്കാനാകും. ഒരു സമീപകാല കേസിൽ അവർ നടപടി സ്വീകരിച്ചു."
+    },
+    {
+     "title": "HOW IT WORKS",
+     "accent": "WORKS",
+     "query": "person reporting cybercrime",
+     "en": "So, how does it work? When you report a UPI fraud to the cybercrime police, they investigate and take action.",
+     "ml": "എങ്ങനെയാണ് ഇത് പ്രവർത്തിക്കുന്നത്? UPI വഞ്ചന സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്താൽ, അവർ അന്വേഷിക്കുകയും നടപടി സ്വീകരിക്കുകയും ചെയ്യുന്നു."
+    },
+    {
+     "title": "VICTIM REFUNDED",
+     "accent": "REFUNDED",
+     "query": "person happy with iPhone",
+     "en": "In this case, the victim got their money back after the police took action. It's a positive outcome.",
+     "ml": "ഈ കേസിൽ, പോലീസ് നടപടി സ്വീകരിച്ചതിനെ തുടർന്ന് ഇരകൾക്ക് പണം തിരിച്ച് കിട്ടി. ഇത് ഒരു സാന്ദർഭിക ഫലമാണ്."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students using UPI app",
+     "en": "So, why does it matter? It shows that reporting cybercrime can lead to a positive outcome, and young Indians should be aware of such frauds.",
+     "ml": "എന്തുകൊണ്ട് ഇത് പ്രാധാന്യമർഹിക്കുന്നു? സൈബർക്രൈം റിപ്പോർട്ട് ചെയ്യുന്നത് ഒരു സാന്ദർഭിക ഫലത്തിലേക്ക് നയിക്കുമെന്ന് ഇത് കാണിക്കുന്നു, ഇത്തരം വഞ്ചനകളെക്കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് ബോധവാനായിരിക്കണം."
+    },
+    {
+     "title": "STAY SAFE ONLINE",
+     "accent": "ONLINE",
+     "query": "person using UPI safely",
+     "en": "So, stay safe online and report any UPI fraud to the cybercrime police. You can get your money back.",
+     "ml": "അതിനാൽ, ഓൺലൈനിൽ സുരക്ഷിതനായിരിക്കുക, UPI വഞ്ചനകൾ സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്യുക. നിങ്ങൾക്ക് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "b845dda017eb",
+  "created": "2026-11-28T04:13:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/",
+  "headline": "WhatsApp Security Risks Found",
+  "hook": "Your WhatsApp data might be at risk due to security flaws",
+  "what": "India's cybersecurity agency has found vulnerabilities in WhatsApp that can be exploited by attackers. These vulnerabilities can lead to data exposure. The agency has flagged five such risks in the messaging platform.",
+  "why": "It's essential for young Indians to be aware of these risks and take necessary precautions to protect their data. They should be cautious when using WhatsApp to avoid potential data breaches.",
+  "tags": [
+   "WhatsApp",
+   "Cybersecurity",
+   "Data Protection",
+   "Tech Risks",
+   "Online Safety"
+  ],
+  "beats": {
+   "cover": "IS WHATSAPP SAFE?",
+   "cover_accent": "SAFE",
+   "beats": [
+    {
+     "title": "DATA AT RISK",
+     "accent": "RISK",
+     "query": "WhatsApp on iPhone",
+     "en": "Your WhatsApp data might be at risk due to security flaws. India's cybersecurity agency has found vulnerabilities in WhatsApp.",
+     "ml": "WhatsApp data  risk ilakkum, security flaws undu, India cybersecurity agency WhatsApp il vulnerabilities kannu pidichu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "cybersecurity experts working",
+     "en": "But actually, these vulnerabilities can be exploited by attackers, leading to data exposure.",
+     "ml": "Pakshe, actually, attackers these vulnerabilities exploit cheythu data exposure undakkum."
+    },
+    {
+     "title": "WHAT ARE RISKS",
+     "accent": "RISKS",
+     "query": "warning signs on screen",
+     "en": "The agency has flagged five such risks in the messaging platform.",
+     "ml": "Agency 5 risks flag cheythu, messaging platform il undu."
+    },
+    {
+     "title": "HOW IT HAPPENS",
+     "accent": "HAPPENS",
+     "query": "hacker typing on laptop",
+     "en": "These vulnerabilities can lead to data breaches when attackers exploit them.",
+     "ml": "Attackers these vulnerabilities exploit cheythu data breaches undakkum."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students using WhatsApp",
+     "en": "It's essential for young Indians to be aware of these risks and take necessary precautions to protect their data.",
+     "ml": "Young Indians innu risks aware aakkanda, data protect cheyyanda, precautions edukkanda."
+    },
+    {
+     "title": "STAY SAFE",
+     "accent": "SAFE",
+     "query": "person locking phone",
+     "en": "They should be cautious when using WhatsApp to avoid potential data breaches.",
+     "ml": "WhatsApp use cheyyum poole cautious aakkanda, potential data breaches varanam."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "2ccbdb6b6705",
+  "created": "2026-11-28T04:13:48+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IMDb",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MHdEdjY5NmNkNDlQQ3oxaFNHZGpReUNWbEJaUWw2RFNaUlJ2RWtBcXlJM3IzRGdOYjU5bHVjR01CM2NVY0NMTzIwcmlvVXZXRWNBajBJRkY1WkMzdFYydDNJV25mWWc?oc=5",
+  "headline": "New OTT Releases",
+  "hook": "Exciting new shows and movies are out now",
+  "what": "Several new titles have been released on OTT platforms this week. These include Drishyam 3, Hanuman Ansh, AK47, and Mahabharat Season 2. More new releases are also available",
+  "why": "Young Indians can check out these new releases for entertainment. They can explore different genres and stories on various OTT platforms",
+  "tags": [
+   "OTT releases",
+   "new movies",
+   "web series"
+  ],
+  "beats": {
+   "cover": "NEW OTT RELEASES",
+   "cover_accent": "NEW",
+   "beats": [
+    {
+     "title": "WHAT'S NEW",
+     "accent": "NEW",
+     "query": "OTT platform logos",
+     "en": "Exciting new shows and movies are out now. Several new titles have been released on OTT platforms this week.",
+     "ml": "Puthiya show um movie um innu release aayirikkunnu. OTT platformil 1 week ithra kazhinjappaal ulla puthiya titles release aayirikkunnu."
+    },
+    {
+     "title": "BIG RELEASES",
+     "accent": "BIG",
+     "query": "movie posters",
+     "en": "These include Drishyam 3, Hanuman Ansh, AK47, and Mahabharat Season 2.",
+     "ml": "Drishyam 3, Hanuman Ansh, AK47, Mahabharat Season 2 enniva release aayirikkunnu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "person browsing phone",
+     "en": "But actually, there are more new releases available.",
+     "ml": "Pakshe, vere oru puthiya releases ulla, athu kandondu parayunnu."
+    },
+    {
+     "title": "MORE OPTIONS",
+     "accent": "MORE",
+     "query": "OTT platform menus",
+     "en": "Young Indians can explore different genres and stories on various OTT platforms.",
+     "ml": "Young Indians OTT platformil ullu vere vere genres um stories um parayal matram."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students watching TV",
+     "en": "They can check out these new releases for entertainment.",
+     "ml": "Avargal entertainment aayi ulla puthiya releases parayal matram."
+    },
+    {
+     "title": "CHECK IT OUT",
+     "accent": "OUT",
+     "query": "person holding iPhone",
+     "en": "So, go ahead and explore the new OTT releases now.",
+     "ml": "Angane, puthiya OTT releases parayal, innu app download cheythu parayal."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
   "id": "5e8375a2ad93",
   "created": "2026-11-28T03:08:17+05:30",
   "category": "money",
@@ -788,101 +1112,6 @@
    "translation",
    "interfaith",
    "youth"
-  ]
- },
- {
-  "id": "6e4b0ca61196",
-  "created": "2026-11-26T16:45:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-etfs-same-gold-prices-why-are-two-funds-gaining-while-others-have-negative-1-year-returns-key-factors-to-check-11795684999656.html",
-  "headline": "Gold ETFs split: only two beat a year of falling prices",
-  "hook": "Find out why most gold funds are losing money while a couple thrive.",
-  "what": "Gold prices have slipped recently. Out of all gold exchange‑traded funds, just two posted gains over the past year. Experts say the performance gap stems from differences in fund metrics.",
-  "why": "Young investors need to look beyond headline returns and check key factors before picking a gold ETF. Understanding the five metrics can help avoid losses.",
-  "tags": [
-   "gold",
-   "ETF",
-   "investing",
-   "finance",
-   "younginvestors"
-  ]
- },
- {
-  "id": "cf80d83142ec",
-  "created": "2026-11-26T16:45:43+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY3U5SkU5Zzl4TG5SeXVlbUZuS1NBZWhxd1o4ZDZNOTNybHo3SzBmRUoycVc1c2xOVVFtamE5R0xVd2V0SjRINTVHVWRaTy1NZFFnUXRvRjJkT1JqQ2lhWDBjMjRzMG92QjBmLWFxa1M2VkkxY1Z3SzNXOGJodEtUSkFtSEhHR3RqbERnUjg5WFJGVE1OWmNJdldaZzduT0FxTjlVUlNseDF4YnZUMFhsUUNpa29Ta2gyck5JdGU1QUhtRVNFRk9iNzBqb0lpQU9MWWhzM1h1cldmeFljMzh0VVdaeF9pcFJPd3VTU1dxRjN3Z0FYR2fSAfsBQVVfeXFMT2I0TUFlSUo2UmFrMGMwSDBSTndSbEZJSktPbW5XWnRjVXVoRTNDaFhOSlZJUTcwcE9LZ3RhWDViWXBETlplTmgwVzhMUHA2VVZ3RWxOd3VoczlLSkwtbFUyeEkxdGFJOFY0TXFQdkJNOFIzUHZsQ3FaUm9mUVZqTzk0N0I5bjd5bkJuTk5qaGZPQmF0dlRweXNTOS01UFAtUV9vSGphWUx3cV9TZkxTQUJIT20tRnVWV0VmZFZNOWxObm1ZME5GZW52a2hEcnM0QWtBcEo4c2hfb2d4UlRsRU5VSXdUeUNheXR5NEhUOWlCYU5MSU9mVXhPcEU?oc=5",
-  "headline": "Sensex jumps 390 points, IT and realty lead gains",
-  "hook": "Foreign money fuels a fresh rally in Indian markets.",
-  "what": "The benchmark Sensex closed 390 points higher, while the Nifty settled at 25,885. Shares in the IT and realty sectors posted strong gains, driving the rise.",
-  "why": "Young investors should note the impact of overseas fund flows on market moves and consider tech stocks that are attracting attention.",
-  "tags": [
-   "stockmarket",
-   "ITstocks",
-   "realty",
-   "foreignfunds",
-   "investing"
-  ]
- },
- {
-  "id": "0933db8a889e",
-  "created": "2026-11-26T15:33:15+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/10-kerala-districts-under-heavy-rain-alert-school-college-holidays-depend-on-local-conditions-mcfs6grm",
-  "headline": "Yellow rain alerts issued for 10 Kerala districts",
-  "hook": "Heavy showers may hit your area—check if schools close",
-  "what": "The India Meteorological Department has issued yellow alerts for ten districts in Kerala for November 26 and 27, indicating isolated heavy rain. The warnings are district‑wise and include possible disruptions to school and college schedules.",
-  "why": "Students should verify if their school or college is closed and plan travel accordingly.",
-  "tags": [
-   "Kerala",
-   "Weather",
-   "RainAlert",
-   "IMD",
-   "Students"
-  ]
- },
- {
-  "id": "e5623cf1f602",
-  "created": "2026-11-26T15:33:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845",
-  "headline": "Apple launches its 7th Indian store in Hyderabad",
-  "hook": "New Apple outlet opens Dec 10 – check it out!",
-  "what": "Apple is set to open its seventh retail outlet in India, located in Hyderabad. The store will open on December 10. A decorative barricade at the Kukatpally site shows a pearl‑inspired Apple logo with iridescent colours.",
-  "why": "The launch expands Apple’s presence for fans who want hands‑on experience with devices. Teens can visit to explore the latest iPhone models and accessories.",
-  "tags": [
-   "Apple",
-   "Hyderabad",
-   "Retail",
-   "Tech",
-   "Launch"
-  ]
- },
- {
-  "id": "8c7b30641ac9",
-  "created": "2026-11-26T15:33:27+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand",
-  "headline": "Nvidia pauses server shipments to four SE Asian nations",
-  "hook": "New US rules force Nvidia to stop deliveries in the region.",
-  "what": "Nvidia has stopped sending its AI servers to four countries in Southeast Asia. The halt comes after fresh US export restrictions were implemented last week.",
-  "why": "The restriction could delay access to AI hardware for students and startups in those markets, so they may need to explore alternative suppliers.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "SoutheastAsia",
-   "USrules",
-   "TechNews"
   ]
  }
 ]

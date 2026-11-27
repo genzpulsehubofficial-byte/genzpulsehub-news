@@ -1,0 +1,95 @@
+{
+ "id": "0c9e53a9795a",
+ "created": "2026-11-28T04:12:03+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times of India",
+ "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnpDY2hRODhzcUNLOEdpUWpvbVZ3b0FCQTdqMGdHcmdDY3dpR2o5TzgzSVlhd3BYQWRUZWtmX3hUc0NVRHRPdU16UXZrYmJxNkViQ2F3U0daM1BrYXdzQlFIVjc2TEdncUVnd0k2T3FfbndfZWtldzQwQ0ZSZU5xQkIwRzJLdXBaZlcteHNRZjg5TkVXUk5qQW5LemJ5aWJ5eWdiR3UxVVJPTUN4TC04MHpPUkZybUxnaXpPN1ZOcVJySnRmUmhqb2JJVQ?oc=5",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "UPI Fraud Victim Refunded",
+  "hook": "Cybercrime police help victim get money back",
+  "what": "A UPI fraud victim has been refunded. The cybercrime police were involved in the case. The victim got their money back after the police took action.",
+  "why": "This case shows that reporting cybercrime can lead to a positive outcome. Young Indians should be aware of such frauds and know how to report them.",
+  "tags": [
+   "cybercrime",
+   "UPI",
+   "fraud",
+   "refund",
+   "police"
+  ]
+ },
+ "ml": {
+  "headline": "UPI പിഴവുമായി ബന്ധപ്പെട്ട ഇരയ്ക്ക് പണം തിരിച്ചടച്ചു",
+  "hook": "ഒരു UPI പിഴവ് ഇരയ്ക്ക് പണം തിരിച്ചുകിട്ടി",
+  "what": "UPI പിഴവിന്റെ ഇരയ്ക്ക് പണം തിരിച്ചടച്ചു. സൈബർക്രൈം പോലീസ് ഇടപെട്ടു. പോലീസ് നടപടി എടുത്തതിനെ തുടർന്ന് ഇരയ്ക്ക് പണം തിരിച്ച് കിട്ടി.",
+  "why": "സൈബർക്രൈം റിപ്പോർട്ട് ചെയ്യുന്നത് നല്ലതാണ്. ഇത് നമ്മളെ രക്ഷിക്കും.",
+  "tags": [
+   "സൈബർക്രൈം",
+   "UPI",
+   "പിഴവ്",
+   "തിരിച്ചടയല്",
+   "പോലീസ്"
+  ],
+  "say": "ഒരു UPI പിഴവ് ഇരയ്ക്ക് പണം തിരിച്ചുകിട്ടി. സൈബർക്രൈം പോലീസ് ഇടപെട്ടു, ഇരയ്ക്ക് പണം തിരിച്ച് കിട്ടി. സൈബർക്രൈം എന്തെന്ന് അറിയാം. ഇത് ഒരു കുറ്റമാണ്. നമ്മൾ ഇത് റിപ്പോർട്ട് ചെയ്യണം. അപ്പോൾ പോലീസ് നടപടി എടുക്കും. നമ്മളെ രക്ഷിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "cybercrime",
+   "UPI",
+   "fraud",
+   "refund",
+   "police"
+  ]
+ },
+ "beats": {
+  "cover": "CYBERCRIME VICTIM REFUNDED",
+  "cover_accent": "REFUNDED",
+  "beats": [
+   {
+    "title": "MONEY LOST FOREVER",
+    "accent": "FOREVER",
+    "query": "person looking worried at iPhone",
+    "en": "Have you ever lost money to a UPI scam and thought it's gone forever? UPI fraud can be devastating.",
+    "ml": "UPI scam il പണം നഷ്ടപ്പെട്ടാലും, അത് തിരിച്ച് കിട്ടില്ലെന്ന് നിങ്ങൾ കരുതിയിട്ടുണ്ടോ? UPI വഞ്ചന വിനാശകരമാണ്."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "cybercrime police at work",
+    "en": "But actually, the cybercrime police can help you get your money back. They took action in a recent case.",
+    "ml": "പക്ഷേ, യഥാർത്ഥത്തിൽ, സൈബർക്രൈം പോലീസ് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടുന്നതിൽ സഹായിക്കാനാകും. ഒരു സമീപകാല കേസിൽ അവർ നടപടി സ്വീകരിച്ചു."
+   },
+   {
+    "title": "HOW IT WORKS",
+    "accent": "WORKS",
+    "query": "person reporting cybercrime",
+    "en": "So, how does it work? When you report a UPI fraud to the cybercrime police, they investigate and take action.",
+    "ml": "എങ്ങനെയാണ് ഇത് പ്രവർത്തിക്കുന്നത്? UPI വഞ്ചന സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്താൽ, അവർ അന്വേഷിക്കുകയും നടപടി സ്വീകരിക്കുകയും ചെയ്യുന്നു."
+   },
+   {
+    "title": "VICTIM REFUNDED",
+    "accent": "REFUNDED",
+    "query": "person happy with iPhone",
+    "en": "In this case, the victim got their money back after the police took action. It's a positive outcome.",
+    "ml": "ഈ കേസിൽ, പോലീസ് നടപടി സ്വീകരിച്ചതിനെ തുടർന്ന് ഇരകൾക്ക് പണം തിരിച്ച് കിട്ടി. ഇത് ഒരു സാന്ദർഭിക ഫലമാണ്."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students using UPI app",
+    "en": "So, why does it matter? It shows that reporting cybercrime can lead to a positive outcome, and young Indians should be aware of such frauds.",
+    "ml": "എന്തുകൊണ്ട് ഇത് പ്രാധാന്യമർഹിക്കുന്നു? സൈബർക്രൈം റിപ്പോർട്ട് ചെയ്യുന്നത് ഒരു സാന്ദർഭിക ഫലത്തിലേക്ക് നയിക്കുമെന്ന് ഇത് കാണിക്കുന്നു, ഇത്തരം വഞ്ചനകളെക്കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് ബോധവാനായിരിക്കണം."
+   },
+   {
+    "title": "STAY SAFE ONLINE",
+    "accent": "ONLINE",
+    "query": "person using UPI safely",
+    "en": "So, stay safe online and report any UPI fraud to the cybercrime police. You can get your money back.",
+    "ml": "അതിനാൽ, ഓൺലൈനിൽ സുരക്ഷിതനായിരിക്കുക, UPI വഞ്ചനകൾ സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്യുക. നിങ്ങൾക്ക് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടാം."
+   }
+  ],
+  "ml_ok": true
+ }
+}

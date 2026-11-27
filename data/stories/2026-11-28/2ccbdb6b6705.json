@@ -1,0 +1,89 @@
+{
+ "id": "2ccbdb6b6705",
+ "created": "2026-11-28T04:13:48+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "IMDb",
+ "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MHdEdjY5NmNkNDlQQ3oxaFNHZGpReUNWbEJaUWw2RFNaUlJ2RWtBcXlJM3IzRGdOYjU5bHVjR01CM2NVY0NMTzIwcmlvVXZXRWNBajBJRkY1WkMzdFYydDNJV25mWWc?oc=5",
+ "source_count": 2,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "New OTT Releases",
+  "hook": "Exciting new shows and movies are out now",
+  "what": "Several new titles have been released on OTT platforms this week. These include Drishyam 3, Hanuman Ansh, AK47, and Mahabharat Season 2. More new releases are also available",
+  "why": "Young Indians can check out these new releases for entertainment. They can explore different genres and stories on various OTT platforms",
+  "tags": [
+   "OTT releases",
+   "new movies",
+   "web series"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ OTT റിലീസുകൾ",
+  "hook": "ഇപ്പോൾ തന്നെ പുറത്തിറങ്ങിയിരിക്കുന്ന രസകരമായ പുതിയ ഷോകളും സിനിമകളും",
+  "what": "ഈ ആഴ്ച ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ 10 നിരവധി പുതിയ ടൈറ്റിലുകൾ പുറത്തിറങ്ങി. ദൃശ്യം 3, ഹനുമാൻ അൻഷ്, AK47, മഹാഭാരത സീസൺ 2 എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു. കൂടുതൽ പുതിയ റിലീസുകളും ലഭ്യമാണ്.",
+  "why": "യുവ ഇന്ത്യക്കാർക്ക് ഈ പുതിയ റിലീസുകൾ വിനോദത്തിനായി പരിശോധിക്കാം. വിവിധ ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ വ്യത്യസ്ത ജന്രകൾ, കഥകൾ എന്നിവ അവർക്ക് ആസ്വദിക്കാം.",
+  "tags": [
+   "ഒടിടി റിലീസുകൾ",
+   "പുതിയ സിനിമകൾ",
+   "വെബ് പരമ്പര"
+  ],
+  "say": "പുതിയ OTT റിലീസുകൾ ഇറങ്ങിയിരിക്കുന്നു. ദൃശ്യം 3, ഹനുമാൻ അൻഷ്, AK47, മഹാഭാരത സീസൺ 2 എന്നിവ ഉണ്ട്. വിവിധ ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ കാണാം. യുവാക്കൾക്ക് ഇത് വിനോദത്തിനായി നോക്കാം. വ്യത്യസ്ത കഥകൾ, ജന്രകൾ ആസ്വദിക്കാം.",
+  "ok": true,
+  "tags_en": [
+   "OTT releases",
+   "new movies",
+   "web series"
+  ]
+ },
+ "beats": {
+  "cover": "NEW OTT RELEASES",
+  "cover_accent": "NEW",
+  "beats": [
+   {
+    "title": "WHAT'S NEW",
+    "accent": "NEW",
+    "query": "OTT platform logos",
+    "en": "Exciting new shows and movies are out now. Several new titles have been released on OTT platforms this week.",
+    "ml": "Puthiya show um movie um innu release aayirikkunnu. OTT platformil 1 week ithra kazhinjappaal ulla puthiya titles release aayirikkunnu."
+   },
+   {
+    "title": "BIG RELEASES",
+    "accent": "BIG",
+    "query": "movie posters",
+    "en": "These include Drishyam 3, Hanuman Ansh, AK47, and Mahabharat Season 2.",
+    "ml": "Drishyam 3, Hanuman Ansh, AK47, Mahabharat Season 2 enniva release aayirikkunnu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "person browsing phone",
+    "en": "But actually, there are more new releases available.",
+    "ml": "Pakshe, vere oru puthiya releases ulla, athu kandondu parayunnu."
+   },
+   {
+    "title": "MORE OPTIONS",
+    "accent": "MORE",
+    "query": "OTT platform menus",
+    "en": "Young Indians can explore different genres and stories on various OTT platforms.",
+    "ml": "Young Indians OTT platformil ullu vere vere genres um stories um parayal matram."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students watching TV",
+    "en": "They can check out these new releases for entertainment.",
+    "ml": "Avargal entertainment aayi ulla puthiya releases parayal matram."
+   },
+   {
+    "title": "CHECK IT OUT",
+    "accent": "OUT",
+    "query": "person holding iPhone",
+    "en": "So, go ahead and explore the new OTT releases now.",
+    "ml": "Angane, puthiya OTT releases parayal, innu app download cheythu parayal."
+   }
+  ],
+  "ml_ok": false
+ }
+}

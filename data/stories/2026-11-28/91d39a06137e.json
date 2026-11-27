@@ -1,0 +1,88 @@
+{
+ "id": "91d39a06137e",
+ "created": "2026-11-28T04:10:47+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "WIRED",
+ "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTWFkZGtKWUJKLU9Vb2E1YnVHWEozRndhS1FRbG0wdzNsZFF0MXA1Rlcyekd3TjV6QlZyVnFqOEdpVE1YbU4wRVVsSU1XbllzX0FLUXczeW9lQllRWDhwOG11Y05PUjlHWlNpYzkwV2RyZw?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Apple Black Friday: AirPods Pro 3 Drop to $149",
+  "hook": "Grab the cheapest AirPods ever this weekend.",
+  "what": "Apple’s Black Friday sale lists discounts on AirPods, MacBooks and other devices. The AirPods Pro 3 are priced at $149. The Apple Store also offers a gift card worth up to $300 with purchases.",
+  "why": "Students can save on earbuds for online classes and music, and the gift card can fund other tech needs. Check the Apple Store or partner sites for the offers.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ]
+ },
+ "ml": {
+  "headline": "Apple Black Friday: AirPods Pro 3 വില $149",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ AirPods Pro 3 ഏറ്റവും കുറഞ്ഞ വിലയിൽ ലഭ്യമാകും!",
+  "what": "Apple-ന്റെ Black Friday സെയിലിൽ AirPods Pro 3-ന്റെ വില $149 ആയി. MacBooks-ിലും വിലക്കുറവ് കാണാം. Apple Store-ൽ വാങ്ങുമ്പോൾ $300 വരെ ഗിഫ്റ്റ് കാർഡ് ലഭിക്കും.",
+  "why": "വിദ്യാർത്ഥികൾക്ക് ക്ലാസ്സുകളും സംഗീതവും വേണ്ട ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റു ഗാഡ്ജറ്റുകൾക്ക് ഉപയോഗിക്കാം. ഓഫറുകൾ Apple Store അല്ലെങ്കിൽ പങ്കാളി വെബ്സൈറ്റുകളിൽ പരിശോധിക്കുക.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ],
+  "say": "ഈ വാരാന്ത്യത്തിൽ AirPods Pro 3 ഏറ്റവും കുറഞ്ഞ വിലയിൽ ലഭ്യമാകും! Apple-ന്റെ Black Friday സെയിലിൽ AirPods Pro 3-ന്റെ വില $149 ആയി. MacBooks-ിലും വിലക്കുറവ് കാണാം. Apple Store-ൽ വാങ്ങുമ്പോൾ $300 വരെ ഗിഫ്റ്റ് കാർഡ് ലഭിക്കും. വിദ്യാർത്ഥികൾക്ക് ക്ലാസ്സുകളും സംഗീതവും വേണ്ട ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റു ഗാഡ്ജറ്റുകൾക്ക് ഉപയോഗിക്കാം. ഓഫറുകൾ Apple Store അല്ലെങ്കിൽ പങ്കാളി വെബ്സൈറ്റുകളിൽ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ]
+ },
+ "beats": {
+  "cover": "CHEAPEST AIRPODS EVER",
+  "cover_accent": "EVER",
+  "beats": [
+   {
+    "title": "CHEAP AIRPODS",
+    "accent": "CHEAP",
+    "query": "earbuds on sale",
+    "en": "Are you looking for affordable earbuds? This weekend, you can grab the cheapest AirPods ever!",
+    "ml": "ഞാൻ ചെലവ് കുറഞ്ഞ ഇയർബഡുകൾ തേടുന്നുണ്ടോ? ഈ വീക്കെൻഡിൽ, ഞാൻ ഏറ്റവും ചെലവ് കുറഞ്ഞ എയർപോഡുകൾ വാങ്ങാം!"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "Apple Black Friday sale",
+    "en": "But actually, it's Apple's Black Friday sale that's making this possible, with discounts on AirPods and more.",
+    "ml": "പക്ഷേ യാഥാർത്ഥ്യത്തിൽ, ഇത് സാധ്യമാക്കുന്നത് ആപ്പിളിന്റെ ബ്ലാക്ക് ഫ്രൈഡേ വിൽപ്പനയാണ്, എയർപോഡുകൾ, മറ്റുള്ളവയുടെ മെച്ചപ്പെട്ട വിലകൾക്കൊപ്പം."
+   },
+   {
+    "title": "AIRPODS PRO 3",
+    "accent": "PRO",
+    "query": "AirPods Pro 3",
+    "en": "The AirPods Pro 3 are now priced at $149, making them super affordable.",
+    "ml": "എയർപോഡ്സ് പ്രോ 3 ഇപ്പോൾ $149 വിലയിൽ ലഭ്യമാണ്, ഇത് വളരെ ചെലവ് കുറഞ്ഞതാക്കുന്നു."
+   },
+   {
+    "title": "GIFT CARD OFFER",
+    "accent": "GIFT",
+    "query": "gift card",
+    "en": "Plus, the Apple Store is offering a gift card worth up to $300 with purchases.",
+    "ml": "കൂടാതെ, ആപ്പിൾ സ്റ്റോർ $300 വരെ വിലവരുന്ന ഒരു ഗിഫ്റ്റ് കാർഡ് വാങ്ങലുകൾക്കൊപ്പം നൽകുന്നു."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students online classes",
+    "en": "So, why does it matter? Students can save on earbuds for online classes and music, and use the gift card for other tech needs.",
+    "ml": "എന്തുകൊണ്ട് ഇത് പ്രധാനമാണ്? വിദ്യാർത്ഥികൾക്ക് ഓൺലൈൻ ക്ലാസുകൾക്കും സംഗീതത്തിനുമായി ഇയർബഡുകൾക്ക് ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റ് ടെക്ക് ആവശ്യങ്ങൾക്കായി ഉപയോഗിക്കാം."
+   }
+  ],
+  "ml_ok": true
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "id": "c155e3bc3614",
+ "created": "2026-11-28T04:10:40+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/world-news/us-disables-ship-attempting-to-breach-naval-blockade-on-iranian-ports-12386970#publisher=newsstand",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "US Navy Stops Ship Trying to Break Iran Blockade",
+  "hook": "A US warship halted a vessel trying to slip past Iran's naval blockade.",
+  "what": "The US military said it disabled a commercial ship on Thursday. The vessel was attempting to breach the naval blockade around Iranian ports.",
+  "why": "It highlights ongoing regional tensions that could affect trade routes and travel. Stay updated on international developments.",
+  "tags": [
+   "US",
+   "Iran",
+   "naval",
+   "blockade",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "അമേരിക്കൻ നാവികർ ഇറാനിലെ ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ച കപ്പൽ തടഞ്ഞു",
+  "hook": "അമേരിക്കയുടെ സൈന്യം ഇറാനിലെ നാവിക ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ച ഒരു കപ്പൽ തടഞ്ഞു.",
+  "what": "അമേരിക്കൻ സൈന്യം വ്യാഴാഴ്ച ഒരു വ്യാപാര കപ്പലിനെ നിഷ്ക്രിയമാക്കി. ആ കപ്പൽ ഇറാനിലെ തുറവുകളിലെ നാവിക ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ചിരുന്നു.",
+  "why": "ഇത് പ്രദേശത്തെ രാഷ്ട്രീയ സാഹചര്യത്തെ സൂചിപ്പിക്കുന്നു, വ്യാപാരവും യാത്രയും ബാധിക്കാം. അന്താരാഷ്ട്ര വാർത്തകൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "അമേരിക്ക",
+   "ഇറാൻ",
+   "നാവിക",
+   "ബ്ലോക്കേഡ്",
+   "വാർത്ത"
+  ],
+  "say": "അമേരിക്കയുടെ സൈന്യം ഇറാനിലെ ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ച കപ്പൽ പിടിച്ചു! വ്യാഴാഴ്ച, അമേരിക്കൻ സൈന്യം ഒരു വ്യാപാര കപ്പലിനെ നിഷ്ക്രിയമാക്കി. ആ കപ്പൽ തുറവുകളിലെ ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ചിരുന്നു. ഇതു പ്രദേശത്തെ രാഷ്ട്രീയ സാഹചര്യത്തെ കാണിക്കുന്നു, വ്യാപാരവും യാത്രയും ബാധിക്കാം. അതിനാൽ അന്താരാഷ്ട്ര വാർത്തകൾക്ക് ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "US",
+   "Iran",
+   "naval",
+   "blockade",
+   "news"
+  ]
+ },
+ "beats": {
+  "cover": "US NAVY BLOCKS IRAN SHIP",
+  "cover_accent": "NAVY",
+  "beats": [
+   {
+    "title": "SHIP SLIPPED PAST?",
+    "accent": "SLIPPED",
+    "query": "ship at sea",
+    "en": "Did a vessel really try to sneak through Iran’s naval blockade?",
+    "ml": "ഒരു കപ്പൽ ഇറാന്റെ നാവൽ ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ചതാണോ?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "US navy ship",
+    "en": "Actually, the US Navy stepped in and disabled the ship on Thursday.",
+    "ml": "വാസ്തവത്തിൽ, US Navy അതേ ദിവസം കപ്പലിനെ നിഷ്ക്രിയമാക്കി."
+   },
+   {
+    "title": "BLOCKADE DETAILS",
+    "accent": "BLOCKADE",
+    "query": "Iran naval base",
+    "en": "Iran has set up a naval blockade around its ports to control shipping.",
+    "ml": "ഇറാൻ തന്റെ തുറമുഖങ്ങളിലൊക്കെ ഷിപ്പിംഗ് നിയന്ത്രിക്കാൻ ഒരു നാവൽ ബ്ലോക്കേഡ് സ്ഥാപിച്ചു."
+   },
+   {
+    "title": "US INTERVENTION",
+    "accent": "US",
+    "query": "military radar",
+    "en": "The US military detected the breach and used force to stop the commercial vessel.",
+    "ml": "US സൈന്യം ആ ലംഘനം കണ്ടെത്തി, ബലപ്രയോഗം കൊണ്ട് കപ്പലിനെ നിർത്തി."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "global trade routes",
+    "en": "This shows rising tensions that could disrupt trade routes and affect travel for everyone.",
+    "ml": "ഇത് ഉയരുന്ന സംഘർഷം വ്യാപാര മാർഗങ്ങളും യാത്രയും ബാധിക്കാമെന്ന് സൂചിപ്പിക്കുന്നു."
+   }
+  ],
+  "ml_ok": true
+ }
+}

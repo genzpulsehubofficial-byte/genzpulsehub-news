@@ -1,5 +1,274 @@
 [
  {
+  "id": "c155e3bc3614",
+  "created": "2026-11-28T04:10:40+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/world-news/us-disables-ship-attempting-to-breach-naval-blockade-on-iranian-ports-12386970#publisher=newsstand",
+  "headline": "അമേരിക്കൻ നാവികർ ഇറാനിലെ ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ച കപ്പൽ തടഞ്ഞു",
+  "hook": "അമേരിക്കയുടെ സൈന്യം ഇറാനിലെ നാവിക ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ച ഒരു കപ്പൽ തടഞ്ഞു.",
+  "what": "അമേരിക്കൻ സൈന്യം വ്യാഴാഴ്ച ഒരു വ്യാപാര കപ്പലിനെ നിഷ്ക്രിയമാക്കി. ആ കപ്പൽ ഇറാനിലെ തുറവുകളിലെ നാവിക ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ചിരുന്നു.",
+  "why": "ഇത് പ്രദേശത്തെ രാഷ്ട്രീയ സാഹചര്യത്തെ സൂചിപ്പിക്കുന്നു, വ്യാപാരവും യാത്രയും ബാധിക്കാം. അന്താരാഷ്ട്ര വാർത്തകൾക്കായി ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "അമേരിക്ക",
+   "ഇറാൻ",
+   "നാവിക",
+   "ബ്ലോക്കേഡ്",
+   "വാർത്ത"
+  ],
+  "say": "അമേരിക്കയുടെ സൈന്യം ഇറാനിലെ ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ച കപ്പൽ പിടിച്ചു! വ്യാഴാഴ്ച, അമേരിക്കൻ സൈന്യം ഒരു വ്യാപാര കപ്പലിനെ നിഷ്ക്രിയമാക്കി. ആ കപ്പൽ തുറവുകളിലെ ബ്ലോക്കേഡ് ലംഘിക്കാൻ ശ്രമിച്ചിരുന്നു. ഇതു പ്രദേശത്തെ രാഷ്ട്രീയ സാഹചര്യത്തെ കാണിക്കുന്നു, വ്യാപാരവും യാത്രയും ബാധിക്കാം. അതിനാൽ അന്താരാഷ്ട്ര വാർത്തകൾക്ക് ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "US",
+   "Iran",
+   "naval",
+   "blockade",
+   "news"
+  ],
+  "beats": {
+   "cover": "US NAVY BLOCKS IRAN SHIP",
+   "cover_accent": "NAVY",
+   "beats": [
+    {
+     "title": "SHIP SLIPPED PAST?",
+     "accent": "SLIPPED",
+     "query": "ship at sea",
+     "en": "Did a vessel really try to sneak through Iran’s naval blockade?",
+     "ml": "ഒരു കപ്പൽ ഇറാന്റെ നാവൽ ബ്ലോക്കേഡ് കടക്കാൻ ശ്രമിച്ചതാണോ?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "US navy ship",
+     "en": "Actually, the US Navy stepped in and disabled the ship on Thursday.",
+     "ml": "വാസ്തവത്തിൽ, US Navy അതേ ദിവസം കപ്പലിനെ നിഷ്ക്രിയമാക്കി."
+    },
+    {
+     "title": "BLOCKADE DETAILS",
+     "accent": "BLOCKADE",
+     "query": "Iran naval base",
+     "en": "Iran has set up a naval blockade around its ports to control shipping.",
+     "ml": "ഇറാൻ തന്റെ തുറമുഖങ്ങളിലൊക്കെ ഷിപ്പിംഗ് നിയന്ത്രിക്കാൻ ഒരു നാവൽ ബ്ലോക്കേഡ് സ്ഥാപിച്ചു."
+    },
+    {
+     "title": "US INTERVENTION",
+     "accent": "US",
+     "query": "military radar",
+     "en": "The US military detected the breach and used force to stop the commercial vessel.",
+     "ml": "US സൈന്യം ആ ലംഘനം കണ്ടെത്തി, ബലപ്രയോഗം കൊണ്ട് കപ്പലിനെ നിർത്തി."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "global trade routes",
+     "en": "This shows rising tensions that could disrupt trade routes and affect travel for everyone.",
+     "ml": "ഇത് ഉയരുന്ന സംഘർഷം വ്യാപാര മാർഗങ്ങളും യാത്രയും ബാധിക്കാമെന്ന് സൂചിപ്പിക്കുന്നു."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "91d39a06137e",
+  "created": "2026-11-28T04:10:47+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "WIRED",
+  "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tTWFkZGtKWUJKLU9Vb2E1YnVHWEozRndhS1FRbG0wdzNsZFF0MXA1Rlcyekd3TjV6QlZyVnFqOEdpVE1YbU4wRVVsSU1XbllzX0FLUXczeW9lQllRWDhwOG11Y05PUjlHWlNpYzkwV2RyZw?oc=5",
+  "headline": "Apple Black Friday: AirPods Pro 3 വില $149",
+  "hook": "ഈ വാരാന്ത്യത്തിൽ AirPods Pro 3 ഏറ്റവും കുറഞ്ഞ വിലയിൽ ലഭ്യമാകും!",
+  "what": "Apple-ന്റെ Black Friday സെയിലിൽ AirPods Pro 3-ന്റെ വില $149 ആയി. MacBooks-ിലും വിലക്കുറവ് കാണാം. Apple Store-ൽ വാങ്ങുമ്പോൾ $300 വരെ ഗിഫ്റ്റ് കാർഡ് ലഭിക്കും.",
+  "why": "വിദ്യാർത്ഥികൾക്ക് ക്ലാസ്സുകളും സംഗീതവും വേണ്ട ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റു ഗാഡ്ജറ്റുകൾക്ക് ഉപയോഗിക്കാം. ഓഫറുകൾ Apple Store അല്ലെങ്കിൽ പങ്കാളി വെബ്സൈറ്റുകളിൽ പരിശോധിക്കുക.",
+  "tags": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ],
+  "say": "ഈ വാരാന്ത്യത്തിൽ AirPods Pro 3 ഏറ്റവും കുറഞ്ഞ വിലയിൽ ലഭ്യമാകും! Apple-ന്റെ Black Friday സെയിലിൽ AirPods Pro 3-ന്റെ വില $149 ആയി. MacBooks-ിലും വിലക്കുറവ് കാണാം. Apple Store-ൽ വാങ്ങുമ്പോൾ $300 വരെ ഗിഫ്റ്റ് കാർഡ് ലഭിക്കും. വിദ്യാർത്ഥികൾക്ക് ക്ലാസ്സുകളും സംഗീതവും വേണ്ട ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റു ഗാഡ്ജറ്റുകൾക്ക് ഉപയോഗിക്കാം. ഓഫറുകൾ Apple Store അല്ലെങ്കിൽ പങ്കാളി വെബ്സൈറ്റുകളിൽ പരിശോധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Apple",
+   "BlackFriday",
+   "Deals",
+   "Tech",
+   "Students"
+  ],
+  "beats": {
+   "cover": "CHEAPEST AIRPODS EVER",
+   "cover_accent": "EVER",
+   "beats": [
+    {
+     "title": "CHEAP AIRPODS",
+     "accent": "CHEAP",
+     "query": "earbuds on sale",
+     "en": "Are you looking for affordable earbuds? This weekend, you can grab the cheapest AirPods ever!",
+     "ml": "ഞാൻ ചെലവ് കുറഞ്ഞ ഇയർബഡുകൾ തേടുന്നുണ്ടോ? ഈ വീക്കെൻഡിൽ, ഞാൻ ഏറ്റവും ചെലവ് കുറഞ്ഞ എയർപോഡുകൾ വാങ്ങാം!"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "Apple Black Friday sale",
+     "en": "But actually, it's Apple's Black Friday sale that's making this possible, with discounts on AirPods and more.",
+     "ml": "പക്ഷേ യാഥാർത്ഥ്യത്തിൽ, ഇത് സാധ്യമാക്കുന്നത് ആപ്പിളിന്റെ ബ്ലാക്ക് ഫ്രൈഡേ വിൽപ്പനയാണ്, എയർപോഡുകൾ, മറ്റുള്ളവയുടെ മെച്ചപ്പെട്ട വിലകൾക്കൊപ്പം."
+    },
+    {
+     "title": "AIRPODS PRO 3",
+     "accent": "PRO",
+     "query": "AirPods Pro 3",
+     "en": "The AirPods Pro 3 are now priced at $149, making them super affordable.",
+     "ml": "എയർപോഡ്സ് പ്രോ 3 ഇപ്പോൾ $149 വിലയിൽ ലഭ്യമാണ്, ഇത് വളരെ ചെലവ് കുറഞ്ഞതാക്കുന്നു."
+    },
+    {
+     "title": "GIFT CARD OFFER",
+     "accent": "GIFT",
+     "query": "gift card",
+     "en": "Plus, the Apple Store is offering a gift card worth up to $300 with purchases.",
+     "ml": "കൂടാതെ, ആപ്പിൾ സ്റ്റോർ $300 വരെ വിലവരുന്ന ഒരു ഗിഫ്റ്റ് കാർഡ് വാങ്ങലുകൾക്കൊപ്പം നൽകുന്നു."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students online classes",
+     "en": "So, why does it matter? Students can save on earbuds for online classes and music, and use the gift card for other tech needs.",
+     "ml": "എന്തുകൊണ്ട് ഇത് പ്രധാനമാണ്? വിദ്യാർത്ഥികൾക്ക് ഓൺലൈൻ ക്ലാസുകൾക്കും സംഗീതത്തിനുമായി ഇയർബഡുകൾക്ക് ചെലവ് കുറയ്ക്കാം, ഗിഫ്റ്റ് കാർഡ് മറ്റ് ടെക്ക് ആവശ്യങ്ങൾക്കായി ഉപയോഗിക്കാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "0c9e53a9795a",
+  "created": "2026-11-28T04:12:03+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Times of India",
+  "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTnpDY2hRODhzcUNLOEdpUWpvbVZ3b0FCQTdqMGdHcmdDY3dpR2o5TzgzSVlhd3BYQWRUZWtmX3hUc0NVRHRPdU16UXZrYmJxNkViQ2F3U0daM1BrYXdzQlFIVjc2TEdncUVnd0k2T3FfbndfZWtldzQwQ0ZSZU5xQkIwRzJLdXBaZlcteHNRZjg5TkVXUk5qQW5LemJ5aWJ5eWdiR3UxVVJPTUN4TC04MHpPUkZybUxnaXpPN1ZOcVJySnRmUmhqb2JJVQ?oc=5",
+  "headline": "UPI പിഴവുമായി ബന്ധപ്പെട്ട ഇരയ്ക്ക് പണം തിരിച്ചടച്ചു",
+  "hook": "ഒരു UPI പിഴവ് ഇരയ്ക്ക് പണം തിരിച്ചുകിട്ടി",
+  "what": "UPI പിഴവിന്റെ ഇരയ്ക്ക് പണം തിരിച്ചടച്ചു. സൈബർക്രൈം പോലീസ് ഇടപെട്ടു. പോലീസ് നടപടി എടുത്തതിനെ തുടർന്ന് ഇരയ്ക്ക് പണം തിരിച്ച് കിട്ടി.",
+  "why": "സൈബർക്രൈം റിപ്പോർട്ട് ചെയ്യുന്നത് നല്ലതാണ്. ഇത് നമ്മളെ രക്ഷിക്കും.",
+  "tags": [
+   "സൈബർക്രൈം",
+   "UPI",
+   "പിഴവ്",
+   "തിരിച്ചടയല്",
+   "പോലീസ്"
+  ],
+  "say": "ഒരു UPI പിഴവ് ഇരയ്ക്ക് പണം തിരിച്ചുകിട്ടി. സൈബർക്രൈം പോലീസ് ഇടപെട്ടു, ഇരയ്ക്ക് പണം തിരിച്ച് കിട്ടി. സൈബർക്രൈം എന്തെന്ന് അറിയാം. ഇത് ഒരു കുറ്റമാണ്. നമ്മൾ ഇത് റിപ്പോർട്ട് ചെയ്യണം. അപ്പോൾ പോലീസ് നടപടി എടുക്കും. നമ്മളെ രക്ഷിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "cybercrime",
+   "UPI",
+   "fraud",
+   "refund",
+   "police"
+  ],
+  "beats": {
+   "cover": "CYBERCRIME VICTIM REFUNDED",
+   "cover_accent": "REFUNDED",
+   "beats": [
+    {
+     "title": "MONEY LOST FOREVER",
+     "accent": "FOREVER",
+     "query": "person looking worried at iPhone",
+     "en": "Have you ever lost money to a UPI scam and thought it's gone forever? UPI fraud can be devastating.",
+     "ml": "UPI scam il പണം നഷ്ടപ്പെട്ടാലും, അത് തിരിച്ച് കിട്ടില്ലെന്ന് നിങ്ങൾ കരുതിയിട്ടുണ്ടോ? UPI വഞ്ചന വിനാശകരമാണ്."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "cybercrime police at work",
+     "en": "But actually, the cybercrime police can help you get your money back. They took action in a recent case.",
+     "ml": "പക്ഷേ, യഥാർത്ഥത്തിൽ, സൈബർക്രൈം പോലീസ് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടുന്നതിൽ സഹായിക്കാനാകും. ഒരു സമീപകാല കേസിൽ അവർ നടപടി സ്വീകരിച്ചു."
+    },
+    {
+     "title": "HOW IT WORKS",
+     "accent": "WORKS",
+     "query": "person reporting cybercrime",
+     "en": "So, how does it work? When you report a UPI fraud to the cybercrime police, they investigate and take action.",
+     "ml": "എങ്ങനെയാണ് ഇത് പ്രവർത്തിക്കുന്നത്? UPI വഞ്ചന സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്താൽ, അവർ അന്വേഷിക്കുകയും നടപടി സ്വീകരിക്കുകയും ചെയ്യുന്നു."
+    },
+    {
+     "title": "VICTIM REFUNDED",
+     "accent": "REFUNDED",
+     "query": "person happy with iPhone",
+     "en": "In this case, the victim got their money back after the police took action. It's a positive outcome.",
+     "ml": "ഈ കേസിൽ, പോലീസ് നടപടി സ്വീകരിച്ചതിനെ തുടർന്ന് ഇരകൾക്ക് പണം തിരിച്ച് കിട്ടി. ഇത് ഒരു സാന്ദർഭിക ഫലമാണ്."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students using UPI app",
+     "en": "So, why does it matter? It shows that reporting cybercrime can lead to a positive outcome, and young Indians should be aware of such frauds.",
+     "ml": "എന്തുകൊണ്ട് ഇത് പ്രാധാന്യമർഹിക്കുന്നു? സൈബർക്രൈം റിപ്പോർട്ട് ചെയ്യുന്നത് ഒരു സാന്ദർഭിക ഫലത്തിലേക്ക് നയിക്കുമെന്ന് ഇത് കാണിക്കുന്നു, ഇത്തരം വഞ്ചനകളെക്കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് ബോധവാനായിരിക്കണം."
+    },
+    {
+     "title": "STAY SAFE ONLINE",
+     "accent": "ONLINE",
+     "query": "person using UPI safely",
+     "en": "So, stay safe online and report any UPI fraud to the cybercrime police. You can get your money back.",
+     "ml": "അതിനാൽ, ഓൺലൈനിൽ സുരക്ഷിതനായിരിക്കുക, UPI വഞ്ചനകൾ സൈബർക്രൈം പോലീസിന് റിപ്പോർട്ട് ചെയ്യുക. നിങ്ങൾക്ക് നിങ്ങളുടെ പണം തിരിച്ച് കിട്ടാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "b845dda017eb",
+  "created": "2026-11-28T04:13:09+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/",
+  "headline": "വാട്സ്ആപ്പിൽ സുരക്ഷാ വിള്ളലുകൾ കണ്ടെത്തി",
+  "hook": "നിങ്ങളുടെ വാട്സ്ആപ്പ് വിവരങ്ങൾ സുരക്ഷാ പിശകുകൾ കാരണം അപകടത്തിലായേക്കാം.",
+  "what": "ഇന്ത്യയിലെ സൈബർ സുരക്ഷാ ഏജൻസി വാട്സ്ആപ്പിൽ ആക്രമണകാരികൾക്ക് പ്രയോജനപ്പെടുത്താവുന്ന വിള്ളലുകൾ കണ്ടെത്തിയിട്ടുണ്ട്. ഈ വിള്ളലുകൾ വിവര വെളിപ്പെടുത്തലിലേക്ക് നയിക്കുന്നവയാണ്. ഏജൻസി മെസേജിംഗ് പ്ലാറ്റ്ഫോമിൽ അഞ്ച് തരത്തിലുള്ള അപകടങ്ങളെ കുറിച്ച് മുന്നറിയിപ്പ് നൽകിയിട്ടുണ്ട്.",
+  "why": "വാട്സ്ആപ്പ് ഉപയോഗിക്കുമ്പോൾ സാധ്യമായ വിവര വെളിപ്പെടുത്തലുകൾക്ക് മുന്നിലെത്താതിരിക്കാൻ പ്രതിരോധ നടപടികൾ സ്വീകരിക്കേണ്ടത് യുവ ഇന്ത്യക്കാർക്ക് പ്രധാനമാണ്. അവർ തങ്ങളുടെ വിവരങ്ങൾ സംരക്ഷിക്കാൻ ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "വാട്സ്ആപ്പ്",
+   "സൈബർ സുരക്ഷ",
+   "വിവര സംരക്ഷണം",
+   "ടെക്ക് അപകടങ്ങൾ",
+   "ഓൺലൈൻ സുരക്ഷ"
+  ],
+  "say": "നിങ്ങളുടെ വാട്സ്ആപ്പ് വിവരങ്ങൾ അപകടത്തിലായേക്കാം. ഇന്ത്യയിലെ സൈബർ സുരക്ഷാ ഏജൻസി വാട്സ്ആപ്പിൽ വിള്ളലുകൾ കണ്ടെത്തി. ഇത് വിവര വെളിപ്പെടുത്തലിലേക്ക് നയിക്കും. വാട്സ്ആപ്പ് ഉപയോഗിക്കുമ്പോൾ, നിങ്ങൾക്ക് പ്രതിരോധ നടപടികൾ എടുക്കേണ്ടത് പ്രധാനമാണ്. നിങ്ങളുടെ വിവരങ്ങൾ സംരക്ഷിക്കാൻ ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "WhatsApp",
+   "Cybersecurity",
+   "Data Protection",
+   "Tech Risks",
+   "Online Safety"
+  ]
+ },
+ {
+  "id": "2ccbdb6b6705",
+  "created": "2026-11-28T04:13:48+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "IMDb",
+  "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MHdEdjY5NmNkNDlQQ3oxaFNHZGpReUNWbEJaUWw2RFNaUlJ2RWtBcXlJM3IzRGdOYjU5bHVjR01CM2NVY0NMTzIwcmlvVXZXRWNBajBJRkY1WkMzdFYydDNJV25mWWc?oc=5",
+  "headline": "പുതിയ OTT റിലീസുകൾ",
+  "hook": "ഇപ്പോൾ തന്നെ പുറത്തിറങ്ങിയിരിക്കുന്ന രസകരമായ പുതിയ ഷോകളും സിനിമകളും",
+  "what": "ഈ ആഴ്ച ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ 10 നിരവധി പുതിയ ടൈറ്റിലുകൾ പുറത്തിറങ്ങി. ദൃശ്യം 3, ഹനുമാൻ അൻഷ്, AK47, മഹാഭാരത സീസൺ 2 എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു. കൂടുതൽ പുതിയ റിലീസുകളും ലഭ്യമാണ്.",
+  "why": "യുവ ഇന്ത്യക്കാർക്ക് ഈ പുതിയ റിലീസുകൾ വിനോദത്തിനായി പരിശോധിക്കാം. വിവിധ ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ വ്യത്യസ്ത ജന്രകൾ, കഥകൾ എന്നിവ അവർക്ക് ആസ്വദിക്കാം.",
+  "tags": [
+   "ഒടിടി റിലീസുകൾ",
+   "പുതിയ സിനിമകൾ",
+   "വെബ് പരമ്പര"
+  ],
+  "say": "പുതിയ OTT റിലീസുകൾ ഇറങ്ങിയിരിക്കുന്നു. ദൃശ്യം 3, ഹനുമാൻ അൻഷ്, AK47, മഹാഭാരത സീസൺ 2 എന്നിവ ഉണ്ട്. വിവിധ ഒടിടി പ്ലാറ്റ്‌ഫോമുകളിൽ കാണാം. യുവാക്കൾക്ക് ഇത് വിനോദത്തിനായി നോക്കാം. വ്യത്യസ്ത കഥകൾ, ജന്രകൾ ആസ്വദിക്കാം.",
+  "ok": true,
+  "tags_en": [
+   "OTT releases",
+   "new movies",
+   "web series"
+  ]
+ },
+ {
   "id": "5e8375a2ad93",
   "created": "2026-11-28T03:08:17+05:30",
   "category": "money",
@@ -1012,146 +1281,6 @@
    "translation",
    "interfaith",
    "youth"
-  ]
- },
- {
-  "id": "6e4b0ca61196",
-  "created": "2026-11-26T16:45:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/gold-etfs-same-gold-prices-why-are-two-funds-gaining-while-others-have-negative-1-year-returns-key-factors-to-check-11795684999656.html",
-  "headline": "ഗോൾഡ് ഇറ്റിഎഫ്-കൾ വിഭജിച്ചു: ഒരു വർഷം കുറഞ്ഞ വിലയിൽ രണ്ട് മാത്രമേ ലാഭം",
-  "hook": "മിക്ക ഗോൾഡ് ഫണ്ടുകൾ നഷ്ടം കാണുമ്പോൾ, രണ്ട് ഫണ്ടുകൾ മാത്രം ലാഭം നേടുന്ന കാരണമെന്ത്?",
-  "what": "ഗോൾഡ് വിലകൾ അടുത്തകാലത്ത് ഇടിവ് കാണിച്ചു. എല്ലാ ഗോൾഡ് ഇറ്റിഎഫ്-കളിലും, കഴിഞ്ഞ ഒരു വർഷത്തിൽ രണ്ട് ഫണ്ടുകൾ മാത്രമേ ലാഭം നേടി. വിദഗ്ധർ പ്രകടന വ്യത്യാസം ഫണ്ടുകളുടെ വ്യത്യസ്ത മാനദണ്ഡങ്ങളിലാണെന്ന് പറയുന്നു.",
-  "why": "യുവാക്കൾ ലാഭം മാത്രം നോക്കാതെ പ്രധാന ഘടകങ്ങൾ പരിശോധിക്കണം. അഞ്ച് പ്രധാന മീറ്റ്രിക്കുകൾ മനസ്സിലാക്കി തെറ്റായ ഇറ്റിഎഫ് തിരഞ്ഞെടുപ്പ് ഒഴിവാക്കാം.",
-  "tags": [
-   "ഗോൾഡ്",
-   "ETF",
-   "നിക്ഷേപം",
-   "ഫിനാൻസ്",
-   "യുവ"
-  ],
-  "say": "മിക്ക ഗോൾഡ് ഫണ്ടുകൾ നഷ്ടം കാണുമ്പോൾ, രണ്ട് ഫണ്ടുകൾ മാത്രം ലാഭം നേടുന്ന കാരണമെന്ത്? ഗോൾഡ് വിലകൾ അടുത്തകാലത്ത് ഇടിവ് കാണിച്ചു. എല്ലാ ഗോൾഡ് ഇറ്റിഎഫ്-കളിലും, കഴിഞ്ഞ ഒരു വർഷത്തിൽ രണ്ട് ഫണ്ടുകൾ മാത്രമേ ലാഭം നേടി. വിദഗ്ധർ പ്രകടന വ്യത്യാസം ഫണ്ടുകളുടെ വ്യത്യസ്ത മാനദണ്ഡങ്ങളിലാണെന്ന് പറയുന്നു. യുവാക്കൾ ലാഭം മാത്രം നോക്കാതെ പ്രധാന ഘടകങ്ങൾ പരിശോധിക്കണം. അഞ്ച് പ്രധാന മീറ്റ്രിക്കുകൾ മനസ്സിലാക്കി തെറ്റായ ഇറ്റിഎഫ് തിരഞ്ഞെടുപ്പ് ഒഴിവാക്കാം.",
-  "ok": true,
-  "tags_en": [
-   "gold",
-   "ETF",
-   "investing",
-   "finance",
-   "younginvestors"
-  ]
- },
- {
-  "id": "cf80d83142ec",
-  "created": "2026-11-26T16:45:43+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Business Standard",
-  "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY3U5SkU5Zzl4TG5SeXVlbUZuS1NBZWhxd1o4ZDZNOTNybHo3SzBmRUoycVc1c2xOVVFtamE5R0xVd2V0SjRINTVHVWRaTy1NZFFnUXRvRjJkT1JqQ2lhWDBjMjRzMG92QjBmLWFxa1M2VkkxY1Z3SzNXOGJodEtUSkFtSEhHR3RqbERnUjg5WFJGVE1OWmNJdldaZzduT0FxTjlVUlNseDF4YnZUMFhsUUNpa29Ta2gyck5JdGU1QUhtRVNFRk9iNzBqb0lpQU9MWWhzM1h1cldmeFljMzh0VVdaeF9pcFJPd3VTU1dxRjN3Z0FYR2fSAfsBQVVfeXFMT2I0TUFlSUo2UmFrMGMwSDBSTndSbEZJSktPbW5XWnRjVXVoRTNDaFhOSlZJUTcwcE9LZ3RhWDViWXBETlplTmgwVzhMUHA2VVZ3RWxOd3VoczlLSkwtbFUyeEkxdGFJOFY0TXFQdkJNOFIzUHZsQ3FaUm9mUVZqTzk0N0I5bjd5bkJuTk5qaGZPQmF0dlRweXNTOS01UFAtUV9vSGphWUx3cV9TZkxTQUJIT20tRnVWV0VmZFZNOWxObm1ZME5GZW52a2hEcnM0QWtBcEo4c2hfb2d4UlRsRU5VSXdUeUNheXR5NEhUOWlCYU5MSU9mVXhPcEU?oc=5",
-  "headline": "സെന്‍സെക്സ് 390 പോയിന്റ് ഉയർന്നു, ഐടി, റിയൽറ്റി മുന്നേറുന്നു",
-  "hook": "വിനിയോഗം വരുന്ന വിദേശ നിക്ഷേപം ഇന്ത്യൻ മാർക്കറ്റിൽ പുതിയ ഉയർച്ച സൃഷ്ടിച്ചു.",
-  "what": "ബെഞ്ച്മാർക്ക് സെന്‍സെക്സ് 390 പോയിന്റ് ഉയർന്ന് അടഞ്ഞു, നിഫ്റ്റി 25,885-ൽ അവസാനിച്ചു. ഐടി, റിയൽറ്റി കമ്പനികളുടെ ഷെയറുകൾ ശക്തമായ ലാഭം നേടി, മാർക്കറ്റിനെ ഉയർത്തി.",
-  "why": "യുവാക്കൾക്ക് വിദേശ ഫണ്ടുകളുടെ പ്രവാഹം മാർക്കറ്റ് ചലനത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ശ്രദ്ധിക്കണം, കൂടാതെ ശ്രദ്ധ നേടുന്ന ടെക് സ്റ്റോക്കുകൾ പരിശോധിക്കാം.",
-  "tags": [
-   "സ്റ്റോക്ക്മാർക്കറ്റ്",
-   "ഐടി",
-   "റിയൽട്ടി",
-   "വിദേശഫണ്ടുകൾ",
-   "നിക്ഷേപം"
-  ],
-  "say": "വിനിയോഗം വരുന്ന വിദേശ നിക്ഷേപം ഇന്ത്യൻ മാർക്കറ്റിൽ പുതിയ ഉയർച്ച സൃഷ്ടിച്ചു. ബെഞ്ച്മാർക്ക് സെന്‍സെക്സ് മൂന്ന് നൂറ്റി തൊണ്ണൂറ് പോയിന്റ് ഉയർന്ന് അടഞ്ഞു, നിഫ്റ്റി ഇരുപത് അഞ്ചു ആയിരം എൺപത്തിയെട്ടു-ൽ അവസാനിച്ചു. ഐടി, റിയൽറ്റി കമ്പനികളുടെ ഷെയറുകൾ ശക്തമായ ലാഭം നേടി, മാർക്കറ്റിനെ ഉയർത്തി. യുവാക്കൾക്ക് വിദേശ ഫണ്ടുകളുടെ പ്രവാഹം മാർക്കറ്റ് ചലനത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ശ്രദ്ധിക്കണം, കൂടാതെ ശ്രദ്ധ നേടുന്ന ടെക് സ്റ്റോക്കുകൾ പരിശോധിക്കാം.",
-  "ok": true,
-  "tags_en": [
-   "stockmarket",
-   "ITstocks",
-   "realty",
-   "foreignfunds",
-   "investing"
-  ]
- },
- {
-  "id": "0933db8a889e",
-  "created": "2026-11-26T15:33:15+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/10-kerala-districts-under-heavy-rain-alert-school-college-holidays-depend-on-local-conditions-mcfs6grm",
-  "headline": "പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ്",
-  "hook": "കൂടുതൽ മഴ വരാം—സ്കൂൾ അടയ്ക്കാമോ എന്ന് പരിശോധിക്കുക",
-  "what": "ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് 26, 27 നവംബർ തീയതികളിൽ കേരളത്തിലെ പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ് പുറപ്പെടുവിച്ചു. ഈ മുന്നറിയിപ്പ് ജില്ലാനുസരിച്ച് ആണ്, സ്കൂൾ‑കോളേജ് ക്ലാസുകൾ അടയ്ക്കാൻ സാധ്യതയുണ്ട്.",
-  "why": "വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂൾ അടച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിച്ച്, യാത്രാ പദ്ധതികൾ മാറ്റി വെക്കണം.",
-  "tags": [
-   "കേരളം",
-   "വൈമാനം",
-   "മഴമുന്നറിയിപ്പ്",
-   "IMD",
-   "വിദ്യാർത്ഥികൾ"
-  ],
-  "say": "കൂടുതൽ മഴ വരാം—സ്കൂൾ അടയ്ക്കാമോ എന്ന് പരിശോധിക്കുക. ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് ഇരുപത് ആറു, ഇരുപത് ഏഴ് നവംബർ തീയതികളിൽ കേരളത്തിലെ പത്ത് ജില്ലകളിൽ മഞ്ഞ നിറമുള്ള മഴയുടെ മുന്നറിയിപ്പ് പുറപ്പെടുവിച്ചു. ഈ മുന്നറിയിപ്പ് ജില്ലാനുസരിച്ച് ആണ്, സ്കൂൾ‑കോളേജ് ക്ലാസുകൾ അടയ്ക്കാൻ സാധ്യതയുണ്ട്. വിദ്യാർത്ഥികൾ അവരുടെ സ്കൂൾ അടച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിച്ച്, യാത്രാ പദ്ധതികൾ മാറ്റി വെക്കണം.",
-  "ok": true,
-  "tags_en": [
-   "Kerala",
-   "Weather",
-   "RainAlert",
-   "IMD",
-   "Students"
-  ]
- },
- {
-  "id": "e5623cf1f602",
-  "created": "2026-11-26T15:33:21+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Gadgets360",
-  "source_url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845",
-  "headline": "ആപ്പിൾ ഹൈദരാബാദിൽ ഏഴാമത്തെ സ്റ്റോർ തുറക്കുന്നു",
-  "hook": "ഡിസംബർ പത്ത് ന് പുതിയ ആപ്പിൾ സ്റ്റോർ – കാണാൻ വരൂ!",
-  "what": "ആപ്പിൾ ഇന്ത്യയിലെ ഏഴാമത്തെ റീട്ടെയിൽ സ്റ്റോർ ഹൈദരാബാദിൽ തുറക്കാൻ സജ്ജമാകുന്നു. സ്റ്റോർ ഡിസംബർ പത്ത് ന് തുറക്കും. കുകർപ്പള്ളി സ്ഥലത്തെ ബാരിക്കേഡ്‌യിൽ മുത്തുപോലുള്ള ആപ്പിൾ ലോഗോ ഐറിഡസെന്റ് നിറങ്ങളോടെ കാണാം.",
-  "why": "ആപ്പിൾ‑ന്റെ വ്യാപനം ഉപയോക്താക്കൾക്ക് പുതിയ ഐഫോൺ, ആക്‌സസറികൾ നേരിട്ട് പരീക്ഷിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് ഏറ്റവും പുതിയ ഗാഡ്ജറ്റുകൾ കാണാൻ അവസരം.",
-  "tags": [
-   "Apple",
-   "Hyderabad",
-   "റീട്ടെയിൽ",
-   "ടെക്",
-   "ലോഞ്ച്"
-  ],
-  "say": "ഡിസംബർ പത്ത് ന് പുതിയ ആപ്പിൾ സ്റ്റോർ – കാണാൻ വരൂ! ആപ്പിൾ ഇന്ത്യയിലെ ഏഴാമത്തെ റീട്ടെയിൽ സ്റ്റോർ ഹൈദരാബാദിൽ തുറക്കാൻ സജ്ജമാകുന്നു. സ്റ്റോർ ഡിസംബർ പത്ത് ന് തുറക്കും. കുകർപ്പള്ളി സ്ഥലത്തെ ബാരിക്കേഡ്‌യിൽ മുത്തുപോലുള്ള ആപ്പിൾ ലോഗോ ഐറിഡസെന്റ് നിറങ്ങളോടെ കാണാം. ആപ്പിൾ‑ന്റെ വ്യാപനം ഉപയോക്താക്കൾക്ക് പുതിയ ഐഫോൺ, ആക്‌സസറികൾ നേരിട്ട് പരീക്ഷിക്കാൻ സഹായിക്കും. യുവാക്കൾക്ക് ഏറ്റവും പുതിയ ഗാഡ്ജറ്റുകൾ കാണാൻ അവസരം.",
-  "ok": true,
-  "tags_en": [
-   "Apple",
-   "Hyderabad",
-   "Retail",
-   "Tech",
-   "Launch"
-  ]
- },
- {
-  "id": "8c7b30641ac9",
-  "created": "2026-11-26T15:33:27+05:30",
-  "category": "tech",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/nvidia-halts-server-shipments-to-4-southeast-asian-countries-report-12380116#publisher=newsstand",
-  "headline": "Nvidia നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള സർവർ ഷിപ്പ്മെന്റ് നിർത്തി",
-  "hook": "പുതിയ യു.എസ് നിയന്ത്രണങ്ങൾ എൻവിഡിയയെ ഈ പ്രദേശത്ത് ഡെലിവറി നിർത്താൻ നിർബന്ധിച്ചു.",
-  "what": "എൻവിഡിയ എഐ സർവറുകളുടെ നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള ഷിപ്പ്മെന്റ് നിർത്തി. ഇത് കഴിഞ്ഞ ആഴ്ച പ്രാബല്യത്തിൽ വന്ന പുതിയ യു.എസ് എക്സ്പോർട്ട് നിയന്ത്രണങ്ങളാണ് കാരണം.",
-  "why": "ഇത് ആ രാജ്യങ്ങളിലെ വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും എഐ ഹാർഡ്വെയർ ലഭിക്കാൻ വൈകല്യത്തിന് കാരണമാകാം; അതിനാൽ മറ്റ് വിതരണക്കാരെ അന്വേഷിക്കേണ്ടി വരും.",
-  "tags": [
-   "Nvidia",
-   "AI",
-   "SoutheastAsia",
-   "USrules",
-   "TechNews"
-  ],
-  "say": "പുതിയ യു.എസ് നിയന്ത്രണങ്ങൾ എൻവിഡിയയെ ഈ പ്രദേശത്ത് ഡെലിവറി നിർത്താൻ നിർബന്ധിച്ചു. എൻവിഡിയ എഐ സർവറുകളുടെ നാല് ദക്ഷിണ-പൂർവേഷ്യ രാജ്യങ്ങളിലേക്കുള്ള ഷിപ്പ്മെന്റ് നിർത്തി. ഇത് കഴിഞ്ഞ ആഴ്ച പ്രാബല്യത്തിൽ വന്ന പുതിയ യു.എസ് എക്സ്പോർട്ട് നിയന്ത്രണങ്ങളാണ് കാരണം. ഇത് ആ രാജ്യങ്ങളിലെ വിദ്യാർത്ഥികളും സ്റ്റാർട്ടപ്പുകളും എഐ ഹാർഡ്വെയർ ലഭിക്കാൻ വൈകല്യത്തിന് കാരണമാകാം; അതിനാൽ മറ്റ് വിതരണക്കാരെ അന്വേഷിക്കേണ്ടി വരും.",
-  "ok": true,
-  "tags_en": [
-   "Nvidia",
-   "AI",
-   "SoutheastAsia",
-   "USrules",
-   "TechNews"
   ]
  }
 ]
