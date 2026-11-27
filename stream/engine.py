@@ -241,9 +241,11 @@ def slim_overlay(s, upnext, ad, path):
     t = TXT[LANG]
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(img)
     accent = COLOR.get(s.get("category", ""), "#4ee0d0")
-    d.rounded_rectangle([24, 20, 24 + tlen(d, t["live"], font(LANG, 24)) + 44, 56], 8, fill="#e10600")
-    d.ellipse([34, 32, 44, 42], fill="white")
-    put(d, (54, 22), t["live"], font(LANG, 24), "white")
+    lw = tlen(d, t["live"], font(LANG, 24)) + 44
+    x0, y0 = W - lw - 24, 22
+    d.rounded_rectangle([x0, y0, x0 + lw, y0 + 36], 8, fill="#e10600")
+    d.ellipse([x0 + 10, y0 + 12, x0 + 20, y0 + 22], fill="white")
+    put(d, (x0 + 30, y0 + 2), t["live"], font(LANG, 24), "white")
     d.rectangle([0, H - 72, W, H - 40], fill=(8, 10, 16, 210))
     put(d, (20, H - 70), t["next"] + ":", font(LANG, 20), accent)
     put(d, (20 + tlen(d, t["next"] + ":", font(LANG, 20)) + 10, H - 70), (upnext or "")[:90], font(LANG, 20, bold=False), "white")

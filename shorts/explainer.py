@@ -14,6 +14,7 @@ import render_v2 as v2
 
 COND = "/tmp/gph_Oswald.ttf"
 SAY_END = {"en": "Follow for more stories like this.", "ml": "ഇതുപോലുള്ള കൂടുതൽ കഥകൾക്ക് ഫോളോ ചെയ്യൂ."}
+HANDLE = {"en": "@genzpulsehubnews", "ml": "@genzpulsehubmalayalam"}
 END_T = {"en": ("FOLLOW FOR", "MORE"), "ml": ("FOLLOW FOR", "MORE")}
 
 
@@ -58,7 +59,7 @@ def _shadow_text(d, xy, text, f, fill):
     d.text(xy, text, font=f, fill=fill)
 
 
-def title_png(title, accent, col, W, H, path, cover=False, cat="", src=""):
+def title_png(title, accent, col, W, H, path, cover=False, cat="", src="", lang="en"):
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(img)
     vertical = H > W
     if title:
@@ -74,7 +75,7 @@ def title_png(title, accent, col, W, H, path, cover=False, cat="", src=""):
                 cur = t
         lines.append(cur)
         lh = int(size * 1.08)
-        y0 = int(H * (0.52 if cover else 0.27)) - len(lines) * lh // 2 if vertical else int(H * 0.30) - len(lines) * lh // 2
+        y0 = int(H * (0.38 if cover else 0.27)) - len(lines) * lh // 2 if vertical else int(H * 0.30) - len(lines) * lh // 2
         acc = accent.upper().strip(".?!,")
         for i, ln in enumerate(lines):
             x = (W - d.textlength(ln, font=f)) / 2 if not cover else W * 0.08
@@ -97,7 +98,8 @@ def title_png(title, accent, col, W, H, path, cover=False, cat="", src=""):
             tw = d.textlength(cat, font=sm)
             d.rounded_rectangle([W - 90 - tw, 76, W - 60, 122], 23, outline=col, width=3)
             d.text((W - 75 - tw, 80), cat, font=sm, fill=col)
-        d.text((W * 0.08, H * 0.52 + 200 if vertical else H * 0.72), "@genzpulsehubnews", font=sm, fill=(255, 255, 255, 220))
+        if title:
+            d.text((W * 0.08, ly + 18), HANDLE[lang], font=sm, fill=(255, 255, 255, 220))
     if src:
         tag = "SOURCE  " + src.upper()[:40]
         tf = cond(22 if vertical else 20)
@@ -132,13 +134,13 @@ def end_png(lang, col, W, H, path):
     for i, (t, c) in enumerate(((a, "white"), (b, col))):
         _shadow_text(d, ((W - d.textlength(t, font=f)) / 2, H * 0.40 + i * 150), t, f, c)
     sm = cond(40)
-    t = "@genzpulsehubnews" if lang == "en" else "@genzpulsehubmalayalam"
+    t = HANDLE[lang]
     d.text(((W - d.textlength(t, font=sm)) / 2, H * 0.40 + 330), t, font=sm, fill="white")
     img.save(path)
 
 
 def footage(q, need, W, H, tmp, i, fallback):
-    clips = v2.pixabay_clips([q, fallback], min(need, 7), os.path.join(tmp)) if v2.PIXABAY else []
+    clips = v2.pixabay_clips([q, " ".join(q.split()[:1]), fallback], min(need, 7), os.path.join(tmp)) if v2.PIXABAY else []
     out = os.path.join(tmp, f"scene{i}.mp4")
     grade = (f"scale={int(W*1.12)}:{int(H*1.12)}:force_original_aspect_ratio=increase,"
              f"crop={int(W*1.12)}:{int(H*1.12)},fps=30,"
@@ -169,7 +171,7 @@ def scene(i, b, lang, s, col, W, H, tmp, cover=None, end=False):
     bg = footage(b["query"], total, W, H, tmp, i, v2.FALLBACK_Q.get(s.get("category", ""), "city night"))
     tp = os.path.join(tmp, f"t{i}.png")
     if cover:
-        title_png(cover[0], cover[1], col, W, H, tp, cover=True, cat=(s.get("category") or "news").upper(), src=s.get("source", ""))
+        title_png(cover[0], cover[1], col, W, H, tp, cover=True, cat=(s.get("category") or "news").upper(), src=s.get("source", ""), lang=lang)
     else:
         title_png(b["title"], b["accent"], col, W, H, tp, src=s.get("source", "") if i == 1 else "")
     # subtitle phrases (3 words), timed to the voice
