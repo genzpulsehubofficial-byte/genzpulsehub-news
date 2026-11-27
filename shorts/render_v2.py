@@ -32,10 +32,10 @@ FALLBACK_Q = {"headlines": "city crowd", "jobs": "office work", "money": "money 
 
 
 # ---------- voice + word timings ----------
-async def _edge_words(text, voice, path, rate):
+async def _edge_words(text, voice, path, rate, pitch="+0Hz"):
     words = []
     try:
-        comm = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
+        comm = edge_tts.Communicate(text, voice, rate=rate, pitch=pitch, boundary="WordBoundary")
     except TypeError:  # older edge-tts
         comm = edge_tts.Communicate(text, voice, rate=rate)
     with open(path, "wb") as f:
@@ -68,13 +68,13 @@ def _silence(sec, path):
                     "-t", f"{sec:.2f}", "-c:a", "libmp3lame", "-b:a", "48k", path], check=True)
 
 
-def voice(text, lang, path):
+def voice(text, lang, path, pitch="+0Hz"):
     try:
         tmp = path + "_parts"; os.makedirs(tmp, exist_ok=True)
         files, words, t = [], [], 0.0
         for i, (chunk, gap) in enumerate(_chunks(text)):
             a = os.path.join(tmp, f"c{i}.mp3")
-            ws = asyncio.run(_edge_words(chunk, VOICE[lang], a, RATE[lang]))
+            ws = asyncio.run(_edge_words(chunk, VOICE[lang], a, RATE[lang], pitch))
             if os.path.getsize(a) < 500:
                 raise RuntimeError("empty chunk")
             d = dur(a)

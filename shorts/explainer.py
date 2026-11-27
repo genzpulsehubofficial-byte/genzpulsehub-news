@@ -163,10 +163,79 @@ def footage(q, need, W, H, tmp, i, fallback):
     return out
 
 
-def scene(i, b, lang, s, col, W, H, tmp, cover=None, end=False):
+# ---------- expressive Malayalam voice (Gemini TTS, free daily quota), edge-tts fallback ----------
+GEM_MODELS = ["gemini-3.1-flash-tts-preview", "gemini-2.5-flash-preview-tts"]
+STYLE = {"ml": ("You are a warm, expressive young Malayali storyteller on a popular Instagram explainer channel. "
+                "Read this in natural spoken Kerala Malayalam with real feeling: curious and dramatic on the opening "
+                "question, a playful pause before the twist, clear and friendly when explaining, warm at the end. "
+                "Pronounce English words the way young Malayalis say them. Pause at every full stop and comma.\n\n"),
+         "en": ("You are a warm, expressive young Indian storyteller on an explainer channel. Read with real feeling: "
+                "curious on the opening question, a playful pause before the twist, clear when explaining.\n\n")}
+
+
+def gemini_tts(text, lang, wav):
+    import base64, json as _j
+    key = os.environ.get("GEMINI_API_KEY", "")
+    if not key:
+        return False
+    body = _j.dumps({"contents": [{"parts": [{"text": STYLE[lang] + text}]}],
+                     "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": {
+                         "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": "Aoede"}}}}}).encode()
+    for m in GEM_MODELS:
+        try:
+            req = urllib.request.Request(f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={key}",
+                                         data=body, headers={"Content-Type": "application/json"})
+            r = _j.load(urllib.request.urlopen(req, timeout=180))
+            data = base64.b64decode(r["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
+            raw = wav + ".pcm"; open(raw, "wb").write(data)
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "s16le", "-ar", "24000", "-ac", "1", "-i", raw,
+                            "-af", "silenceremove=start_periods=1:start_threshold=-45dB", wav], check=True)
+            print("voice: gemini", m)
+            return dur(wav) > 3
+        except Exception as e:
+            print("gemini tts", m, str(e)[:120])
+    return False
+
+
+def _silences(wav):
+    out = subprocess.run(["ffmpeg", "-i", wav, "-af", "silencedetect=n=-38dB:d=0.18", "-f", "null", "-"],
+                         capture_output=True, text=True).stderr
+    st = [float(x) for x in re.findall(r"silence_start: ([\d.]+)", out)]
+    en = [float(x) for x in re.findall(r"silence_end: ([\d.]+)", out)]
+    return [(a + b) / 2 for a, b in zip(st, en)]
+
+
+def split_voice(beats, lang, tmp):
+    """One expressive take for the whole reel, cut at the pauses nearest each beat boundary."""
+    texts = [b["say"].strip() for b in beats]
+    texts[-1] += " " + SAY_END[lang]
+    wav = os.path.join(tmp, "all.wav")
+    if not gemini_tts("\n\n".join(texts), lang, wav):
+        return None
+    total = dur(wav); sil = _silences(wav)
+    lens = [len(t) for t in texts]; acc, cuts = 0, []
+    for L in lens[:-1]:
+        acc += L
+        want = total * acc / sum(lens)
+        near = min(sil, key=lambda x: abs(x - want)) if sil else want
+        cuts.append(near if abs(near - want) < 2.5 and (not cuts or near > cuts[-1] + 1) else want)
+    edges = [0] + cuts + [total]
+    out = []
+    for i in range(len(texts)):
+        p = os.path.join(tmp, f"v{i}.mp3")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", wav, "-ss", f"{edges[i]:.3f}", "-to", f"{edges[i+1]:.3f}",
+                        "-c:a", "libmp3lame", "-b:a", "128k", p], check=True)
+        out.append((p, v2.estimate(texts[i], dur(p))))
+    return out
+
+
+def scene(i, b, lang, s, col, W, H, tmp, cover=None, end=False, pre=None):
     say = b["say"].strip() + ((" " + SAY_END[lang]) if end else "")
-    mp3 = os.path.join(tmp, f"v{i}.mp3")
-    words = v2.voice(say, lang, mp3)
+    if pre:
+        mp3, words = pre
+    else:
+        mp3 = os.path.join(tmp, f"v{i}.mp3")
+        words = v2.voice(say, lang, mp3, pitch=("+5Hz" if i == 0 else "-2Hz" if end else "+0Hz"))
     total = dur(mp3) + 0.35
     bg = footage(b["query"], total, W, H, tmp, i, v2.FALLBACK_Q.get(s.get("category", ""), "city night"))
     tp = os.path.join(tmp, f"t{i}.png")
@@ -214,10 +283,17 @@ def build(lang, s, out, W=1080, H=1920, tmp=None):
     if not beats:
         raise RuntimeError("no beats")
     hook = cover or (s.get("headline") or "").upper()
+    pre = None
+    if lang == "ml" or os.environ.get("GEMINI_TTS_EN"):
+        try:
+            pre = split_voice(beats, lang, tmp)
+        except Exception as e:
+            print("expressive voice skipped:", str(e)[:100])
     parts = []
     for i, b in enumerate(beats):
         parts.append(scene(i, b, lang, s, col, W, H, tmp,
-                           cover=(hook if cover else "", cacc) if i == 0 else None, end=(i == len(beats) - 1)))
+                           cover=(hook if cover else "", cacc) if i == 0 else None, end=(i == len(beats) - 1),
+                           pre=pre[i] if pre else None))
     lst = os.path.join(tmp, "all.txt")
     open(lst, "w").write("".join(f"file '{p}'\n" for p in parts))
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst, "-c", "copy",
