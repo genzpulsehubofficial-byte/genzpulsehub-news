@@ -1,0 +1,92 @@
+{
+ "id": "f476d86bcc2e",
+ "created": "2026-11-28T05:06:56+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "The Times",
+ "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "New Drug Fights Pancreatic Cancer",
+  "hook": "A breakthrough drug is showing promise in treating pancreatic cancer",
+  "what": "A new drug has shown efficacy in treating metastatic pancreatic cancer when combined with chemotherapy. The drug has been found to make tumors disappear in some cases. It is a potential new tool for doctors to fight pancreatic cancer.",
+  "why": "This development matters to young Indians as it may offer new hope for patients with pancreatic cancer. However, the high price of the drug may be a barrier to access for some patients.",
+  "tags": [
+   "pancreatic cancer",
+   "new drug",
+   "cancer treatment",
+   "healthcare"
+  ]
+ },
+ "ml": {
+  "headline": "പാൻക്രിയാറ്റിക് ക്യാൻസർ ചികിത്സയ്ക്ക് പുതിയ മരുന്ന്",
+  "hook": "പാൻക്രിയാറ്റിക് ക്യാൻസർ ചികിത്സയിൽ പുതിയ മരുന്ന് പ്രത്യാശ നൽകുന്നു",
+  "what": "പാൻക്രിയാറ്റിക് ക്യാൻസർ ചികിത്സയിൽ കെമോതെറാപ്പിയുമായി ചേർന്ന് ഉപയോഗിക്കുമ്പോൾ പുതിയ മരുന്ന് ഫലപ്രദമാണെന്ന് കണ്ടിട്ടുണ്ട്. ചില കേസുകളിൽ ട്യൂമർ ഇല്ലാതാക്കുന്നതിൽ മരുന്ന് പ്രവർത്തിക്കുന്നു. ഡോക്ടർമാർക്ക് പാൻക്രിയാറ്റിക് ക്യാൻസർ ചികിത്സയ്ക്ക് പുതിയ ഉപകരണമാണ് ഈ മരുന്ന്.",
+  "why": "പാൻക്രിയാറ്റിക് ക്യാൻസർ രോഗികൾക്ക് ഈ വികസനം പ്രത്യാശ നൽകുന്നു, എന്നാൽ മരുന്നിന്റെ ഉയർന്ന വില ചില രോഗികൾക്ക് പ്രയോജനപ്പെടുത്തുന്നതിൽ തടസ്സമായി മാറും.",
+  "tags": [
+   "പാൻക്രിയാറ്റിക് ക്യാൻസർ",
+   "പുതിയ മരുന്ന്",
+   "ക്യാൻസർ ചികിത്സ",
+   "ആരോഗ്യ സംരക്ഷണം"
+  ],
+  "say": "പാൻക്രിയാറ്റിക് ക്യാൻസർ ചികിത്സയിൽ പുതിയ മരുന്ന് വന്നിരിക്കുന്നു. കെമോതെറാപ്പിയുമായി ചേർന്ന് ഉപയോഗിക്കുമ്പോൾ, ഈ മരുന്ന് ഫലപ്രദമാണ്. ചില കേസുകളിൽ ട്യൂമർ ഇല്ലാതാക്കാൻ ഇത് സഹായിക്കുന്നു. പാൻക്രിയാറ്റിക് ക്യാൻസർ രോഗികൾക്ക് പ്രത്യാശ നൽകുന്നു, പക്ഷേ ഉയർന്ന വില ഒരു പ്രശ്നമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "pancreatic cancer",
+   "new drug",
+   "cancer treatment",
+   "healthcare"
+  ]
+ },
+ "beats": {
+  "cover": "CANCER FIGHTING BREAKTHROUGH",
+  "cover_accent": "BREAKTHROUGH",
+  "beats": [
+   {
+    "title": "NEW CANCER DRUG",
+    "accent": "DRUG",
+    "query": "medical lab research",
+    "en": "A breakthrough drug is showing promise in treating pancreatic cancer. It's a potential game changer for patients.",
+    "ml": "Oru puthiya medicine pancreatic cancerine kurayunnu, athu roga kulayude jeevithathil oru potential game changer aanu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "doctor explaining to patient",
+    "en": "But actually, this drug is most effective when combined with chemotherapy. It's shown to make tumors disappear in some cases.",
+    "ml": "Pakshe, actually, chemotherapyyum koduthal mathram athu effective aanu, chila casesil tumors disappear aakunnathu."
+   },
+   {
+    "title": "HOW IT WORKS",
+    "accent": "WORKS",
+    "query": "animation of cancer cells",
+    "en": "The drug works by targeting the cancer cells and stopping their growth. This can lead to significant improvements in patient outcomes.",
+    "ml": "Athu cancer cellsine target cheythu, avayude growth stop cheyyunnu, athu patientine outcomesile significant improvement undakunnathu."
+   },
+   {
+    "title": "NEW HOPE FOR PATIENTS",
+    "accent": "PATIENTS",
+    "query": "patients in hospital",
+    "en": "This development offers new hope for patients with pancreatic cancer. It could be a lifesaver for many people.",
+    "ml": "Athu pancreatic cancerude patientsine new hope tharunnu, chila aalukalude jeevithathil oru lifesaver aanu."
+   },
+   {
+    "title": "BUT AT WHAT COST",
+    "accent": "COST",
+    "query": "price tag on medicine",
+    "en": "However, the high price of the drug may be a barrier to access for some patients. This could limit its impact in India.",
+    "ml": "Pakshe, athu drugine high price chila patientsine accessine barrier aanu, athu Indiaile impact limit cheyyum."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young Indians talking",
+    "en": "This breakthrough matters to young Indians as it may offer new hope for patients with pancreatic cancer. It's a step towards a healthier future.",
+    "ml": "Athu young Indiansine new hope tharunnu, pancreatic cancerude patientsine, athu oru healthier futureile step aanu."
+   }
+  ],
+  "ml_ok": false
+ }
+}

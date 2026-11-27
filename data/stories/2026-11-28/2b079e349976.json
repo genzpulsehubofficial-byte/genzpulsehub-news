@@ -1,0 +1,40 @@
+{
+ "id": "2b079e349976",
+ "created": "2026-11-28T05:07:47+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/axis-mutual-fund-launches-nifty-largemidcap-250-index-fund-nfo-open-until-december-11-11795803141906.html",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "New Index Fund Launched",
+  "hook": "Invest in large and mid-cap stocks with a single fund",
+  "what": "Axis Mutual Fund has launched a new index fund that invests in large-cap and mid-cap stocks. The fund allocates 50% to each type of stock. The minimum investment amount is set at a certain level.",
+  "why": "This fund matters to young investors as it provides an opportunity to diversify their portfolio. They can consider investing in this fund to gain exposure to different types of stocks",
+  "tags": [
+   "index fund",
+   "mutual fund",
+   "investment"
+  ]
+ },
+ "ml": {
+  "headline": "പുതിയ ഇൻഡെക്സ് ഫണ്ട് ആരംഭിച്ചു",
+  "hook": "ഒരു ഫണ്ടിൽ വൻ കമ്പനികളും മധ്യവർഗ കമ്പനികളും ഇനിവസ്റ്റ് ചെയ്യാം",
+  "what": "ആക്സിസ് മ്യൂച്വൽ ഫണ്ട് വൻ കമ്പനികളും മധ്യവർഗ കമ്പനികളും ഉൾപ്പെടുത്തുന്ന ഒരു പുതിയ ഇൻഡെക്സ് ഫണ്ട് ആരംഭിച്ചു. ഫണ്ടിൽ 50:50 എന്ന തോതിൽ ഓഹരി കൊടുക്കുന്നു. പരമാവധി നിക്ഷേപം നിശ്ചയിച്ചിരിക്കുന്നു.",
+  "why": "യുവ നിക്ഷേപകരെ സംബന്ധിച്ച് ഈ ഫണ്ട് പ്രധാനപ്പെട്ടതാണ്. ഇത് അവരുടെ പോർട്ട്ഫോളിയോയുടെ വൈവിധ്യം ലഭിക്കാൻ ഒരു അവസരം നൽകുന്നു. വ്യത്യസ്ത തരം ഓഹരികളിൽ നിക്ഷേപിക്കുന്നതിലൂടെ ലാഭം നേടാൻ അവർക്ക് ഈ ഫണ്ടിൽ നിക്ഷേപിക്കാം.",
+  "tags": [
+   "ഇൻഡെക്സ് ഫണ്ട്",
+   "മ്യൂച്വൽ ഫണ്ട്",
+   "നിക്ഷേപം"
+  ],
+  "say": "ഒരു ഫണ്ടിൽ വൻ കമ്പനികളും മധ്യവർഗ കമ്പനികളും ഇനിവസ്റ്റ് ചെയ്യാം. ആക്സിസ് മ്യൂച്വൽ ഫണ്ട് ഇതിനായി ഒരു പുതിയ ഇൻഡെക്സ് ഫണ്ട് ആരംഭിച്ചു. ഫണ്ടിൽ 50:50 എന്ന തോതിൽ ഓഹരി കൊടുക്കുന്നു. പരമാവധി നിക്ഷേപം നിശ്ചയിച്ചിരിക്കുന്നു. യുവ നിക്ഷേപകരെ സംബന്ധിച്ച് ഈ ഫണ്ട് പ്രധാനപ്പെട്ടതാണ്. ഇത് അവരുടെ പോർട്ട്ഫോളിയോയുടെ വൈവിധ്യം ലഭിക്കാൻ ഒരു അവസരം നൽകുന്നു. വ്യത്യസ്ത തരം ഓഹരികളിൽ നിക്ഷേപിക്കുന്നതിലൂടെ ലാഭം നേടാൻ അവർക്ക് ഈ ഫണ്ടിൽ നിക്ഷേപിക്കാം.",
+  "ok": true,
+  "tags_en": [
+   "index fund",
+   "mutual fund",
+   "investment"
+  ]
+ }
+}

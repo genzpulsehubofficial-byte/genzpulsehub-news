@@ -1,0 +1,85 @@
+{
+ "id": "a61053ae63fa",
+ "created": "2026-11-28T05:05:40+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Kolkata Civic Bodies Redrawn",
+  "hook": "Big changes coming to Kolkata and Howrah's civic bodies",
+  "what": "The government is redoing the civic body boundaries in Kolkata and Howrah, changing the number of wards. This move is facing opposition challenges. The change will affect a large population.",
+  "why": "This change matters because it will impact elections and the lives of many people. Young Indians should be aware of the developments in their city's governance",
+  "tags": [
+   "Kolkata",
+   "civic bodies",
+   "elections",
+   "governance"
+  ]
+ },
+ "ml": {
+  "headline": "കൊൽക്കത്ത നഗരസഭകൾ പുനർനിർണ്ണയിക്കുന്നു",
+  "hook": "കൊൽക്കത്തയിലെയും ഹൗറയിലെയും നഗരസഭകളിൽ വലിയ മാറ്റങ്ങൾ വരുന്നു",
+  "what": "കൊൽക്കത്തയിലെയും ഹൗറയിലെയും നഗരസഭാ അതിർത്തികൾ പുനർനിർണ്ണയിക്കുകയാണ് ഭരണകൂടം. ഈ നീക്കത്തിനെതിരെ പ്രതിപക്ഷം വിമർശിക്കുന്നു. ഒരു വലിയ ജനസംഖ്യയെ ഈ മാറ്റം ബാധിക്കും.",
+  "why": "തെരഞ്ഞെടുപ്പുകളെയും ധാരാളം ആളുകളുടെ ജീവിതത്തെയും ഈ മാറ്റം സ്വാധീനിക്കും. നഗരത്തിലെ ഭരണത്തിലെ മാറ്റങ്ങളെക്കുറിച്ച് യുവ ഇന്ത്യക്കാർ അറിഞ്ഞിരിക്കണം",
+  "tags": [
+   "കൊൽക്കത്ത",
+   "നഗരസഭ",
+   "തെരഞ്ഞെടുപ്പ്",
+   "ഭരണം"
+  ],
+  "say": "കൊൽക്കത്തയിലും ഹൗറയിലും നഗരസഭകളിൽ വലിയ മാറ്റങ്ങൾ വരുന്നു. ഭരണകൂടം അതിർത്തികൾ പുനർനിർണ്ണയിക്കുകയാണ്. പ്രതിപക്ഷം ഈ നീക്കത്തെ വിമർശിക്കുന്നു. ധാരാളം ആളുകളെ ഈ മാറ്റം ബാധിക്കും. തെരഞ്ഞെടുപ്പുകളും ജീവിതവും ഇത് സ്വാധീനിക്കും. നഗരഭരണത്തിലെ മാറ്റങ്ങൾ യുവാക്കൾക്ക് അറിയാം.",
+  "ok": true,
+  "tags_en": [
+   "Kolkata",
+   "civic bodies",
+   "elections",
+   "governance"
+  ]
+ },
+ "beats": {
+  "cover": "KOLKATA REDRAWN NOW",
+  "cover_accent": "KOLKATA",
+  "beats": [
+   {
+    "title": "BIG CHANGES",
+    "accent": "CHANGES",
+    "query": "city map redrawn",
+    "en": "Big changes are coming to Kolkata and Howrah's civic bodies. The government is redoing the civic body boundaries.",
+    "ml": "Kolkata, Howrah civic bodies-il big changes varunnu. Government civic body boundaries redo cheyyunnu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "protest march",
+    "en": "But actually, this move is facing opposition challenges. Many are against the new boundaries.",
+    "ml": "Pakshe, actually, opposition challenges varunnu. Puthiya boundaries-e many against aayi."
+   },
+   {
+    "title": "WHAT IS HAPPENING",
+    "accent": "HAPPENING",
+    "query": "city council meeting",
+    "en": "The civic body boundaries in Kolkata and Howrah are being redrawn, changing the number of wards.",
+    "ml": "Kolkata, Howrah civic body boundaries redo cheyyunnu, wards-uudey number change aavunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "voting booth",
+    "en": "This change will impact elections and the lives of many people, affecting a large population.",
+    "ml": "Large population-e affect cheyyum, elections-il impact undaakum, many people-uudey lives-il impact undaakum."
+   },
+   {
+    "title": "YOU SHOULD KNOW",
+    "accent": "KNOW",
+    "query": "young Indians discussing",
+    "en": "Young Indians should be aware of the developments in their city's governance.",
+    "ml": "Young Indians city-uudey governance-il developments-e aware aayi varanam."
+   }
+  ],
+  "ml_ok": false
+ }
+}

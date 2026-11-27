@@ -1,0 +1,95 @@
+{
+ "id": "eeb43ec3d292",
+ "created": "2026-11-28T05:04:49+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "The Washington Post",
+ "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFBJSlcySmFjbUdaNDJpYXUtX1N1ZXNtSFFWaEFpUkdIUms0ME1QSm8wV2Z0YWRoM0lYb2hITnpuTXMyMDVXVDVRQVd2RVhlYmljdWRGTVlpNTUzZmlGZHF6V2RVZ3E3ZkM0aV9vUldabDJJcDRxZ2dHcWRIVThpUG9KekI0bXFqWlpLVUNnVU8xaS1QYWtaSFRQRDdzVFFGTmRzYXh6Wl9NaHRpNFE?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "GTA VI launch triggers global PS5 shortage",
+  "hook": "Gamers are racing to find a PS5 after the new game drops.",
+  "what": "The release of GTA VI has caused PlayStation 5 consoles to sell out worldwide. Stores report empty shelves as demand spikes.",
+  "why": "Teens who want to play the latest title may have to wait or explore other platforms. Keep an eye on restocks and online listings.",
+  "tags": [
+   "gaming",
+   "PS5",
+   "GTA6",
+   "shortage",
+   "tech"
+  ]
+ },
+ "ml": {
+  "headline": "GTA VI റിലീസ് കൊണ്ട് PS5 ലോകവ്യാപകമായി തീർന്നു",
+  "hook": "പുതിയ ഗെയിം പുറത്തിറങ്ങിയതോടെ ഗെയിമർമാർ PS5 കണ്ടെത്താൻ തിരക്കിലാണു.",
+  "what": "GTA VI പുറത്തിറക്കിയതോടെ PlayStation 5 കൺസോളുകൾ ലോകമെമ്പാടും വേഗത്തിൽ തീർന്നു. കടകളിൽ ശൂന്യമായ ഷെൽഫുകൾ കാണാം.",
+  "why": "പുതിയ ഗെയിം കളിക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് കൺസോൾ ലഭിക്കാൻ കാത്തിരിക്കേണ്ടി വരാം, അല്ലെങ്കിൽ മറ്റെ പ്ലാറ്റ്ഫോം പരിഗണിക്കാം. റീസ്റ്റോക്കുകൾക്കും ഓൺലൈൻ ലിസ്റ്റിംഗുകൾക്കും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "ഗെയിമിംഗ്",
+   "PS5",
+   "GTA6",
+   "ഷോർട്ടേജ്",
+   "ടെക്"
+  ],
+  "say": "പുതിയ ഗെയിം പുറത്തിറങ്ങിയതോടെ, ഗെയിമർമാർ PS5 കണ്ടെത്താൻ തിരക്കിലാണു. GTA VI പുറത്തിറക്കിയതോടെ PlayStation 5 കൺസോളുകൾ ലോകമെമ്പാടും വേഗത്തിൽ തീർന്നു. കടകളിൽ ശൂന്യമായ ഷെൽഫുകൾ കാണാം. പുതിയ ഗെയിം കളിക്കാൻ ആഗ്രഹിക്കുന്ന യുവാക്കൾക്ക് കൺസോൾ കിട്ടാൻ കാത്തിരിക്കേണ്ടി വരാം, അല്ലെങ്കിൽ മറ്റെ പ്ലാറ്റ്ഫോം പരിഗണിക്കാം. റീസ്റ്റോക്കുകൾക്കും ഓൺലൈൻ ലിസ്റ്റിംഗുകൾക്കും ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "gaming",
+   "PS5",
+   "GTA6",
+   "shortage",
+   "tech"
+  ]
+ },
+ "beats": {
+  "cover": "PS5 VANISHES AFTER GTA VI",
+  "cover_accent": "PS5",
+  "beats": [
+   {
+    "title": "WHERE DID PS5 GO?",
+    "accent": "PS5",
+    "query": "empty store shelves",
+    "en": "Gamers are scrambling as PS5 consoles disappear from every store.",
+    "ml": "Gamers-um PS5-ഉം കടകളിൽ നിന്ന് അപ്രത്യക്ഷമായി, എല്ലാവരും തിരക്കിലാണ്."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "gta vi launch news",
+    "en": "But actually, the new GTA VI launch is the reason.",
+    "ml": "പക്ഷേ, യഥാർത്ഥത്തിൽ, പുതിയ GTA VI റിലീസ് ഇതിന്റെ കാരണമാണ്."
+   },
+   {
+    "title": "GTA VI TRIGGER",
+    "accent": "GTA",
+    "query": "gta vi game release crowd",
+    "en": "When GTA VI dropped, fans rushed to buy a PS5 to play it.",
+    "ml": "GTA VI പുറത്തിറങ്ങിയപ്പോൾ, ഫാൻമാർ അത് കളിക്കാൻ PS5 വാങ്ങാൻ തിരക്കിലായി."
+   },
+   {
+    "title": "GLOBAL SCRAMBLE",
+    "accent": "GLOBAL",
+    "query": "people online shopping consoles",
+    "en": "Stores worldwide reported empty shelves within hours.",
+    "ml": "ലോകമെമ്പാടുമുള്ള കടകൾ മണിക്കൂറുകൾക്കുള്ളിൽ ശൂന്യമായി."
+   },
+   {
+    "title": "WHAT TO DO?",
+    "accent": "DO",
+    "query": "restock alert phone",
+    "en": "If you’re waiting, set alerts, check online listings, or consider other platforms.",
+    "ml": "നിങ്ങൾ കാത്തിരിക്കുകയാണെങ്കിൽ, അലർട്ടുകൾ സജ്ജമാക്കുക, ഓൺലൈൻ ലിസ്റ്റുകൾ നോക്കുക, അല്ലെങ്കിൽ മറ്റൊരു പ്ലാറ്റ്ഫോം പരിഗണിക്കുക."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "teen gamer frustration",
+    "en": "Missing out means missing the hype, so stay sharp to grab your console.",
+    "ml": "മിസ്സ് ചെയ്താൽ ഹൈപ്പ് നഷ്ടമാകും, അതിനാൽ നിങ്ങളുടെ കൺസോൾ പിടിക്കാൻ ജാഗ്രതയോടെ ഇരിക്കുക."
+   }
+  ],
+  "ml_ok": true
+ }
+}

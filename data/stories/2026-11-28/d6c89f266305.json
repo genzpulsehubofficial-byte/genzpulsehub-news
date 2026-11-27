@@ -1,0 +1,88 @@
+{
+ "id": "d6c89f266305",
+ "created": "2026-11-28T05:06:16+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-khadi-mahotsav-begins-in-lucknow/article71752403.ece",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Khadi Festival Starts",
+  "hook": "Explore traditional Indian culture at Uttar Pradesh's Khadi Mahotsav",
+  "what": "The Khadi Mahotsav has begun in Lucknow with stalls set up by entrepreneurs and artisans. The festival showcases Khadi products from various districts. It is based on the theme of culture and progress through Khadi.",
+  "why": "This festival is a great opportunity for young Indians to learn about and experience traditional Indian culture. It also promotes Khadi and village industries.",
+  "tags": [
+   "Khadi",
+   "Festival",
+   "Culture",
+   "Tradition",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഖാദി മഹോത്സവം ആരംഭിച്ചു",
+  "hook": "ഉത്തരപ്രദേശിലെ ഖാദി മഹോത്സവത്തിൽ ഇന്ത്യൻ സംസ്കാരം പര്യവേക്ഷണം ചെയ്യൂ",
+  "what": "ലഖ്നൗവിൽ ഖാദി മഹോത്സവം ആരംഭിച്ചു. സംസ്ഥാനത്തിന്റെ വിവിധ ജില്ലകളിൽ നിന്നുള്ള സാഹചര്യങ്ങളും കരകൗശല വിദഗ്ധരും സ്ഥാപിച്ച സ്റ്റാളുകൾ ഇതിൽ ഉണ്ട്. ഖാദി വഴിയുള്ള സംസ്കാരവും പുരോഗതിയും എന്ന പ്രമേയത്തിൽ ഇത് അധിഷ്ഠിതമാണ്.",
+  "why": "പരമ്പരാഗത ഇന്ത്യൻ സംസ്കാരം പഠിക്കാനും അനുഭവിക്കാനും ഇത് യുവ ഇന്ത്യക്കാർക്ക് ഒരു മികച്ച അവസരമാണ്. ഇത് ഖാദിയും ഗ്രാമീണ വ്യവസായങ്ങളും പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "tags": [
+   "ഖാദി",
+   "ഫെസ്റ്റിവൽ",
+   "സംസ്കാരം",
+   "സമ്പ്രദായം",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഉത്തരപ്രദേശിൽ ഒരു പുതിയ മഹോത്സവം ആരംഭിച്ചു. ഇത് ഖാദി മഹോത്സവമാണ്. ലഖ്നൗവിലാണ് ഇത്. ഇവിടെ നിങ്ങൾക്ക് ഇന്ത്യൻ സംസ്കാരം പര്യവേക്ഷണം ചെയ്യാം. സംസ്ഥാനത്തിന്റെ വിവിധ ജില്ലകളിൽ നിന്നുള്ള സാഹചര്യങ്ങളും കരകൗശല വിദഗ്ധരും സ്ഥാപിച്ച സ്റ്റാളുകൾ കാണാം. ഖാദി വഴിയുള്ള സംസ്കാരവും പുരോഗതിയും എന്ന പ്രമേയത്തിൽ ഇത് അധിഷ്ഠിതമാണ്. പരമ്പരാഗത ഇന്ത്യൻ സംസ്കാരം പഠിക്കാനും അനുഭവിക്കാനും ഇത് യുവ ഇന്ത്യക്കാർക്ക് ഒരു മികച്ച അവസരമാണ്. ഇത് ഖാദിയും ഗ്രാമീണ വ്യവസായങ്ങളും പ്രോത്സാഹിപ്പിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "Khadi",
+   "Festival",
+   "Culture",
+   "Tradition",
+   "India"
+  ]
+ },
+ "beats": {
+  "cover": "DISCOVER KHAADI FEST",
+  "cover_accent": "KHAADI",
+  "beats": [
+   {
+    "title": "WHAT IS KHAADI",
+    "accent": "KHAADI",
+    "query": "traditional Indian clothing",
+    "en": "Khadi is a traditional Indian fabric, and now there's a whole festival dedicated to it. The Khadi Mahotsav has begun in Lucknow.",
+    "ml": "Khadi, Indian traditionale aanu, Lucknowil Khadi Mahotsav start aayirunnu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "stalls and artisans",
+    "en": "But actually, it's not just about the fabric, it's about the culture and progress that comes with it. The festival showcases Khadi products from various districts.",
+    "ml": "Pakshe, ithu fabricine kurichu thanne, cultureum progressum kurichu thanne, various districtsile Khadi products showcase cheyyunnu."
+   },
+   {
+    "title": "THE FESTIVAL",
+    "accent": "FESTIVAL",
+    "query": "aerial Lucknow cityscape",
+    "en": "The Khadi Mahotsav is based on the theme of culture and progress through Khadi, with stalls set up by entrepreneurs and artisans.",
+    "ml": "Khadi Mahotsav, cultureum progressum Khadi themeine adisthanam, entrepreneursum artisansum stalls setup cheyyunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students in India",
+    "en": "This festival is a great opportunity for young Indians to learn about and experience traditional Indian culture.",
+    "ml": "Ithu festival, young Indiansine traditional Indian cultureine kurichu, anubhavikkuvan ennora avasarmanu."
+   },
+   {
+    "title": "THE IMPACT",
+    "accent": "IMPACT",
+    "query": "village industries",
+    "en": "It also promotes Khadi and village industries, which is a big deal for the local community.",
+    "ml": "Ithu Khadiyume, village industriesum promote cheyyunnu, local communityine ennora prabhavamanu."
+   }
+  ],
+  "ml_ok": false
+ }
+}

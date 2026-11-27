@@ -1,5 +1,339 @@
 [
  {
+  "id": "eeb43ec3d292",
+  "created": "2026-11-28T05:04:49+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "The Washington Post",
+  "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFBJSlcySmFjbUdaNDJpYXUtX1N1ZXNtSFFWaEFpUkdIUms0ME1QSm8wV2Z0YWRoM0lYb2hITnpuTXMyMDVXVDVRQVd2RVhlYmljdWRGTVlpNTUzZmlGZHF6V2RVZ3E3ZkM0aV9vUldabDJJcDRxZ2dHcWRIVThpUG9KekI0bXFqWlpLVUNnVU8xaS1QYWtaSFRQRDdzVFFGTmRzYXh6Wl9NaHRpNFE?oc=5",
+  "headline": "GTA VI launch triggers global PS5 shortage",
+  "hook": "Gamers are racing to find a PS5 after the new game drops.",
+  "what": "The release of GTA VI has caused PlayStation 5 consoles to sell out worldwide. Stores report empty shelves as demand spikes.",
+  "why": "Teens who want to play the latest title may have to wait or explore other platforms. Keep an eye on restocks and online listings.",
+  "tags": [
+   "gaming",
+   "PS5",
+   "GTA6",
+   "shortage",
+   "tech"
+  ],
+  "beats": {
+   "cover": "PS5 VANISHES AFTER GTA VI",
+   "cover_accent": "PS5",
+   "beats": [
+    {
+     "title": "WHERE DID PS5 GO?",
+     "accent": "PS5",
+     "query": "empty store shelves",
+     "en": "Gamers are scrambling as PS5 consoles disappear from every store.",
+     "ml": "Gamers-um PS5-ഉം കടകളിൽ നിന്ന് അപ്രത്യക്ഷമായി, എല്ലാവരും തിരക്കിലാണ്."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "gta vi launch news",
+     "en": "But actually, the new GTA VI launch is the reason.",
+     "ml": "പക്ഷേ, യഥാർത്ഥത്തിൽ, പുതിയ GTA VI റിലീസ് ഇതിന്റെ കാരണമാണ്."
+    },
+    {
+     "title": "GTA VI TRIGGER",
+     "accent": "GTA",
+     "query": "gta vi game release crowd",
+     "en": "When GTA VI dropped, fans rushed to buy a PS5 to play it.",
+     "ml": "GTA VI പുറത്തിറങ്ങിയപ്പോൾ, ഫാൻമാർ അത് കളിക്കാൻ PS5 വാങ്ങാൻ തിരക്കിലായി."
+    },
+    {
+     "title": "GLOBAL SCRAMBLE",
+     "accent": "GLOBAL",
+     "query": "people online shopping consoles",
+     "en": "Stores worldwide reported empty shelves within hours.",
+     "ml": "ലോകമെമ്പാടുമുള്ള കടകൾ മണിക്കൂറുകൾക്കുള്ളിൽ ശൂന്യമായി."
+    },
+    {
+     "title": "WHAT TO DO?",
+     "accent": "DO",
+     "query": "restock alert phone",
+     "en": "If you’re waiting, set alerts, check online listings, or consider other platforms.",
+     "ml": "നിങ്ങൾ കാത്തിരിക്കുകയാണെങ്കിൽ, അലർട്ടുകൾ സജ്ജമാക്കുക, ഓൺലൈൻ ലിസ്റ്റുകൾ നോക്കുക, അല്ലെങ്കിൽ മറ്റൊരു പ്ലാറ്റ്ഫോം പരിഗണിക്കുക."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "teen gamer frustration",
+     "en": "Missing out means missing the hype, so stay sharp to grab your console.",
+     "ml": "മിസ്സ് ചെയ്താൽ ഹൈപ്പ് നഷ്ടമാകും, അതിനാൽ നിങ്ങളുടെ കൺസോൾ പിടിക്കാൻ ജാഗ്രതയോടെ ഇരിക്കുക."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "aaf4bbad5d71",
+  "created": "2026-11-28T05:04:58+05:30",
+  "category": "trending",
+  "breaking": false,
+  "source": "CNET",
+  "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+  "headline": "NYT Strands hits 1,000 puzzles with Friendsgiving Spangram",
+  "hook": "A fresh word‑puzzle drop for fans of brain teasers.",
+  "what": "The New York Times posted hints and answers for its 1,000th Strands puzzle, set for Nov 28. The round uses a Friendsgiving theme and includes a Spangram titled CHOSENFAMILY.",
+  "why": "Solving the puzzle can sharpen vocabulary and give a fun break from studies or scrolling. Use the hints to get ahead in the game.",
+  "tags": [
+   "NYTStrands",
+   "Spangram",
+   "WordPuzzle",
+   "Friendsgiving",
+   "Gaming"
+  ],
+  "beats": {
+   "cover": "PUZZLE LOVERS REJOICE",
+   "cover_accent": "REJOICE",
+   "beats": [
+    {
+     "title": "NEW PUZZLE ALERT",
+     "accent": "PUZZLE",
+     "query": "brain teaser puzzles",
+     "en": "Get ready for a brain-teasing challenge! The New York Times has just dropped its 1,000th Strands puzzle.",
+     "ml": "Oru puthiya brain teaser challenge aayittunde! New York Times 1000-amatha Strands puzzle publish cheythittundu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "calendar date",
+     "en": "But actually, this puzzle is special, with a Friendsgiving theme and a Spangram titled CHOSENFAMILY, set for November 28.",
+     "ml": "Pakshe, ithu puzzle special aanu, Friendsgiving theme um, CHOSENFAMILY enna Spangram um, November 28-nu vechathu."
+    },
+    {
+     "title": "HOW IT WORKS",
+     "accent": "WORKS",
+     "query": "person solving puzzle",
+     "en": "The New York Times has posted hints and answers to help you solve the puzzle and sharpen your vocabulary.",
+     "ml": "New York Times hints, answers post cheythittundu, puzzle solve cheyanaan, vocabulary sharpen cheyanaan."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students studying",
+     "en": "Solving this puzzle can give you a fun break from studies and scrolling, and improve your vocabulary.",
+     "ml": "Ithu puzzle solve cheythal, studies-il, scrolling-il ninnu oru fun break kittum, vocabulary improve aakkum."
+    },
+    {
+     "title": "GET AHEAD",
+     "accent": "AHEAD",
+     "query": "person using iPhone",
+     "en": "Use the hints to get ahead in the game and have fun with the 1,000th Strands puzzle!",
+     "ml": "Hints use cheythu, game-il ahead aakkaan, 1000-amatha Strands puzzle-il fun aakkoo!"
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "a61053ae63fa",
+  "created": "2026-11-28T05:05:40+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece",
+  "headline": "Kolkata Civic Bodies Redrawn",
+  "hook": "Big changes coming to Kolkata and Howrah's civic bodies",
+  "what": "The government is redoing the civic body boundaries in Kolkata and Howrah, changing the number of wards. This move is facing opposition challenges. The change will affect a large population.",
+  "why": "This change matters because it will impact elections and the lives of many people. Young Indians should be aware of the developments in their city's governance",
+  "tags": [
+   "Kolkata",
+   "civic bodies",
+   "elections",
+   "governance"
+  ],
+  "beats": {
+   "cover": "KOLKATA REDRAWN NOW",
+   "cover_accent": "KOLKATA",
+   "beats": [
+    {
+     "title": "BIG CHANGES",
+     "accent": "CHANGES",
+     "query": "city map redrawn",
+     "en": "Big changes are coming to Kolkata and Howrah's civic bodies. The government is redoing the civic body boundaries.",
+     "ml": "Kolkata, Howrah civic bodies-il big changes varunnu. Government civic body boundaries redo cheyyunnu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "protest march",
+     "en": "But actually, this move is facing opposition challenges. Many are against the new boundaries.",
+     "ml": "Pakshe, actually, opposition challenges varunnu. Puthiya boundaries-e many against aayi."
+    },
+    {
+     "title": "WHAT IS HAPPENING",
+     "accent": "HAPPENING",
+     "query": "city council meeting",
+     "en": "The civic body boundaries in Kolkata and Howrah are being redrawn, changing the number of wards.",
+     "ml": "Kolkata, Howrah civic body boundaries redo cheyyunnu, wards-uudey number change aavunnu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "voting booth",
+     "en": "This change will impact elections and the lives of many people, affecting a large population.",
+     "ml": "Large population-e affect cheyyum, elections-il impact undaakum, many people-uudey lives-il impact undaakum."
+    },
+    {
+     "title": "YOU SHOULD KNOW",
+     "accent": "KNOW",
+     "query": "young Indians discussing",
+     "en": "Young Indians should be aware of the developments in their city's governance.",
+     "ml": "Young Indians city-uudey governance-il developments-e aware aayi varanam."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "d6c89f266305",
+  "created": "2026-11-28T05:06:16+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-khadi-mahotsav-begins-in-lucknow/article71752403.ece",
+  "headline": "Khadi Festival Starts",
+  "hook": "Explore traditional Indian culture at Uttar Pradesh's Khadi Mahotsav",
+  "what": "The Khadi Mahotsav has begun in Lucknow with stalls set up by entrepreneurs and artisans. The festival showcases Khadi products from various districts. It is based on the theme of culture and progress through Khadi.",
+  "why": "This festival is a great opportunity for young Indians to learn about and experience traditional Indian culture. It also promotes Khadi and village industries.",
+  "tags": [
+   "Khadi",
+   "Festival",
+   "Culture",
+   "Tradition",
+   "India"
+  ],
+  "beats": {
+   "cover": "DISCOVER KHAADI FEST",
+   "cover_accent": "KHAADI",
+   "beats": [
+    {
+     "title": "WHAT IS KHAADI",
+     "accent": "KHAADI",
+     "query": "traditional Indian clothing",
+     "en": "Khadi is a traditional Indian fabric, and now there's a whole festival dedicated to it. The Khadi Mahotsav has begun in Lucknow.",
+     "ml": "Khadi, Indian traditionale aanu, Lucknowil Khadi Mahotsav start aayirunnu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "stalls and artisans",
+     "en": "But actually, it's not just about the fabric, it's about the culture and progress that comes with it. The festival showcases Khadi products from various districts.",
+     "ml": "Pakshe, ithu fabricine kurichu thanne, cultureum progressum kurichu thanne, various districtsile Khadi products showcase cheyyunnu."
+    },
+    {
+     "title": "THE FESTIVAL",
+     "accent": "FESTIVAL",
+     "query": "aerial Lucknow cityscape",
+     "en": "The Khadi Mahotsav is based on the theme of culture and progress through Khadi, with stalls set up by entrepreneurs and artisans.",
+     "ml": "Khadi Mahotsav, cultureum progressum Khadi themeine adisthanam, entrepreneursum artisansum stalls setup cheyyunnu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students in India",
+     "en": "This festival is a great opportunity for young Indians to learn about and experience traditional Indian culture.",
+     "ml": "Ithu festival, young Indiansine traditional Indian cultureine kurichu, anubhavikkuvan ennora avasarmanu."
+    },
+    {
+     "title": "THE IMPACT",
+     "accent": "IMPACT",
+     "query": "village industries",
+     "en": "It also promotes Khadi and village industries, which is a big deal for the local community.",
+     "ml": "Ithu Khadiyume, village industriesum promote cheyyunnu, local communityine ennora prabhavamanu."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "f476d86bcc2e",
+  "created": "2026-11-28T05:06:56+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "The Times",
+  "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0x6d1NVOE4tQ2k2TTl0WndNVXRuYUdvbE10UTNUenlBRmNqVXFCbnFBc2hLZ1htOUpiOFRxUnFZZ2cxbmRLZzZqUEYxemZudGZiTTRScDFxM3hsUnA3QW82Y2pUZkg4MldGRXlNVmJSRVJXLVkzWXViWW1jQjBMbENlMk9MNVBRdlZ2TDFrVmw0MGhLbnc?oc=5",
+  "headline": "New Drug Fights Pancreatic Cancer",
+  "hook": "A breakthrough drug is showing promise in treating pancreatic cancer",
+  "what": "A new drug has shown efficacy in treating metastatic pancreatic cancer when combined with chemotherapy. The drug has been found to make tumors disappear in some cases. It is a potential new tool for doctors to fight pancreatic cancer.",
+  "why": "This development matters to young Indians as it may offer new hope for patients with pancreatic cancer. However, the high price of the drug may be a barrier to access for some patients.",
+  "tags": [
+   "pancreatic cancer",
+   "new drug",
+   "cancer treatment",
+   "healthcare"
+  ],
+  "beats": {
+   "cover": "CANCER FIGHTING BREAKTHROUGH",
+   "cover_accent": "BREAKTHROUGH",
+   "beats": [
+    {
+     "title": "NEW CANCER DRUG",
+     "accent": "DRUG",
+     "query": "medical lab research",
+     "en": "A breakthrough drug is showing promise in treating pancreatic cancer. It's a potential game changer for patients.",
+     "ml": "Oru puthiya medicine pancreatic cancerine kurayunnu, athu roga kulayude jeevithathil oru potential game changer aanu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "doctor explaining to patient",
+     "en": "But actually, this drug is most effective when combined with chemotherapy. It's shown to make tumors disappear in some cases.",
+     "ml": "Pakshe, actually, chemotherapyyum koduthal mathram athu effective aanu, chila casesil tumors disappear aakunnathu."
+    },
+    {
+     "title": "HOW IT WORKS",
+     "accent": "WORKS",
+     "query": "animation of cancer cells",
+     "en": "The drug works by targeting the cancer cells and stopping their growth. This can lead to significant improvements in patient outcomes.",
+     "ml": "Athu cancer cellsine target cheythu, avayude growth stop cheyyunnu, athu patientine outcomesile significant improvement undakunnathu."
+    },
+    {
+     "title": "NEW HOPE FOR PATIENTS",
+     "accent": "PATIENTS",
+     "query": "patients in hospital",
+     "en": "This development offers new hope for patients with pancreatic cancer. It could be a lifesaver for many people.",
+     "ml": "Athu pancreatic cancerude patientsine new hope tharunnu, chila aalukalude jeevithathil oru lifesaver aanu."
+    },
+    {
+     "title": "BUT AT WHAT COST",
+     "accent": "COST",
+     "query": "price tag on medicine",
+     "en": "However, the high price of the drug may be a barrier to access for some patients. This could limit its impact in India.",
+     "ml": "Pakshe, athu drugine high price chila patientsine accessine barrier aanu, athu Indiaile impact limit cheyyum."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "young Indians talking",
+     "en": "This breakthrough matters to young Indians as it may offer new hope for patients with pancreatic cancer. It's a step towards a healthier future.",
+     "ml": "Athu young Indiansine new hope tharunnu, pancreatic cancerude patientsine, athu oru healthier futureile step aanu."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "2b079e349976",
+  "created": "2026-11-28T05:07:47+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/axis-mutual-fund-launches-nifty-largemidcap-250-index-fund-nfo-open-until-december-11-11795803141906.html",
+  "headline": "New Index Fund Launched",
+  "hook": "Invest in large and mid-cap stocks with a single fund",
+  "what": "Axis Mutual Fund has launched a new index fund that invests in large-cap and mid-cap stocks. The fund allocates 50% to each type of stock. The minimum investment amount is set at a certain level.",
+  "why": "This fund matters to young investors as it provides an opportunity to diversify their portfolio. They can consider investing in this fund to gain exposure to different types of stocks",
+  "tags": [
+   "index fund",
+   "mutual fund",
+   "investment"
+  ]
+ },
+ {
   "id": "c155e3bc3614",
   "created": "2026-11-28T04:10:40+05:30",
   "category": "headlines",
@@ -999,119 +1333,6 @@
    "Tripura",
    "FirstWomanATC",
    "KBCSeason18"
-  ]
- },
- {
-  "id": "2397d34f9062",
-  "created": "2026-11-26T17:45:49+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRXFVRk9NcUJpOWNEaldKLVA2RFFoMHRpY0loWkV2NWhEaG90WXVpSFg2YWJXYmVkMzhTaXg3TUpBcndBanZ2SzJ1M05SV25oeFEwaWd1WkZzSDJLNUx6RUpvNzJVbGJ2Mnh4S2dISy1FYUNIcEw1dS1FYWhadUNhejNYNzR3VWhheFZGWEoteEN1Wm1mZ3U2bjU1d3pQaUVvXzY0MjBDVkpSbGVwQy1IU3BDMmtFX0x4Q1p6WlFXRU9wSHFRcmJ3T25pUGY0WWVwcXRHbmR1WnI4akJFRk5nQTV2VWtVVHAyMnpTckFncEdtVlhQeHhEaWN3YW1QUEFEeWZjZFF5WUlEcGlpeW9yaNIBlgJBVV95cUxOaGJ3NWVLNWRQRmtpUGloOUZBczFTcWJMb28wc05BcldEXzE1N2wxTWVuMXI2UmlGemRBbVBLYzhCYzNyR1pDRGRtakdSeVJQaUUtM2FaVGhPMUlmNVlKTURUeW5taDB1VHNENTVublZrc0pMMEpLNWd1ODJOb0gwMmk2ZWwtWnRSZEpfQjdWbHdRT0FUQUlUWlZqVUdBeXBRRGNCeGhjY29UeHZUTlNrZWl5dk1mWGYwempMUmI5ckFuM1Uza1MyQjl5MU53akFtZzZMS3llU3RwZlhXUVRnUFUxSXZjMHhfbHpYNTA5aWRHQ0Y3cEUxSUVxOW5WNmRRV2xmY1RqSlJrM2hDeldON0FjX2dDZw?oc=5",
-  "headline": "SP pledges ₹40k yearly cash aid for UP’s BPL women, seniors",
-  "hook": "A new cash boost could hit millions of Uttar Pradesh families.",
-  "what": "The Samajwadi Party announced a scheme to give ₹40,000 per year to women, elderly and needy members of Below‑Poverty‑Line households in Uttar Pradesh. The payment is planned as an annual transfer under the party’s 2027 election agenda.",
-  "why": "If implemented, the benefit could support low‑income households and influence young voters concerned about financial security. Keep an eye on the policy details as the election approaches.",
-  "tags": [
-   "UP",
-   "cash",
-   "BPL",
-   "SP",
-   "youth"
-  ]
- },
- {
-  "id": "1501feff0ba5",
-  "created": "2026-11-26T17:45:57+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Cricbuzz",
-  "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQUVYVGV3UW5YUkFQVXRQejNtSG4zZ2xWbEhQY2hzOHlXaWFlOGZQSm4wdDUxQjJKWDBRNlZCeTBTdkt0bm83REcxTlVoZ0pYSEJsX3VxTG9FdVRQaUo1WVlaWkw0U1I5QkUyZ21pc25mUi1oT3JiSHBFR0lSUEFlckdIcERoMEVlSy1zNHdiUWZHZzdqSG1CbUFkQ1JRb2ZnNXhZ?oc=5",
-  "headline": "Ellyse Perry’s 84 leads Sixers to six‑wicket victory",
-  "hook": "A stellar knock turned the chase into a breeze for Sydney.",
-  "what": "In the 35th match of the 2026 Women’s Big Bash League, Ellyse Perry stayed unbeaten on 84 runs. Sydney Sixers chased down Melbourne Stars’ 161‑run target, winning by six wickets after early setbacks.",
-  "why": "The result shows how a big innings can decide a T20 game, encouraging young fans to watch the league and try cricket themselves.",
-  "tags": [
-   "WBBL",
-   "SydneySixers",
-   "MelbourneStars",
-   "Cricket",
-   "EllysePerry"
-  ]
- },
- {
-  "id": "8cbe4e11f034",
-  "created": "2026-11-26T16:39:55+05:30",
-  "category": "jobs",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/tamil-nadu-announces-15-days-paternity-leave-for-government-employees-12380098#publisher=newsstand",
-  "headline": "Tamil Nadu gives govt dads 15 days paternity leave",
-  "hook": "Dad duties just got official time off in TN",
-  "what": "The Tamil Nadu government approved a 15‑day paternity leave for its male staff. Female staff already receive a year of maternity leave.",
-  "why": "It helps new fathers balance work and family, setting a precedent for other states. Young workers can check their eligibility and plan accordingly.",
-  "tags": [
-   "TamilNadu",
-   "PaternityLeave",
-   "GovtJobs",
-   "WorkLifeBalance"
-  ]
- },
- {
-  "id": "8aa7a0b4afe8",
-  "created": "2026-11-26T16:40:00+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/3-bjp-rss-workers-get-life-imprisonment-for-cpm-leader-cv-dhanarajs-murder-in-kerala-12380161#publisher=newsstand",
-  "headline": "Three BJP-RSS members sentenced to life for Kerala leader killing",
-  "hook": "A court orders life terms in a high‑profile political murder.",
-  "what": "A court in Kerala handed life imprisonment to three individuals linked to the BJP and RSS for the murder of a Communist Party of India (Marxist) leader. The verdict concludes the trial over the killing.",
-  "why": "The ruling highlights the legal response to political violence, reminding young citizens that such acts carry serious consequences. Stay aware of local news and the rule of law.",
-  "tags": [
-   "Kerala",
-   "politics",
-   "court",
-   "life imprisonment",
-   "youth"
-  ]
- },
- {
-  "id": "a86d8d5f91b2",
-  "created": "2026-11-26T16:40:07+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Onmanorama",
-  "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmxxbEQxakp2RzVHdFJHbkt0dk9RVk02NnlNci1ZS2NmTE5YRktoTnJpN0FVZEtMZVRuM041dDJLNnlZbUZpQTFuc1lRVWUzbE54RHVUV1MtUmc5bXREbnVpbkc2bFI5S3hnQmd2U0d1NHAzam5TY0cwYlJhU1RmekpkbklHWXR5MC1Zay1TZ3k5VUFlM3M0S1NWZTVxQXc?oc=5",
-  "headline": "Heavy rain drenches Thiruvananthapuram, East Fort records 91 mm",
-  "hook": "Rain hammered the capital, prompting alerts across nine districts.",
-  "what": "Thiruvananthapuram experienced intense rainfall, with East Fort receiving 91 mm in just one hour. Meteorological officials issued a yellow alert covering nine districts in the state.",
-  "why": "The sudden downpour can cause waterlogging and disrupt travel, so students should stay updated on local advisories.",
-  "tags": [
-   "rain",
-   "Thiruvananthapuram",
-   "weather alert",
-   "Kerala",
-   "monsoon"
-  ]
- },
- {
-  "id": "ecd23d7dc01d",
-  "created": "2026-11-26T16:45:26+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/muslim-woman-translates-hindu-politician-bible-book-kerala-ptiljb2pjk5",
-  "headline": "Muslim translator renders Hindu leader’s Bible-inspired talks into English",
-  "hook": "A cross‑faith collaboration bridges Kerala’s political and religious worlds",
-  "what": "Muslim translator Rauf Rumi has translated the Bible‑inspired speeches of Kerala politician V D Satheesan into English. The translation makes the leader’s messages accessible to a wider audience.",
-  "why": "It highlights interfaith cooperation and shows young Indians that collaboration across religions is possible. Readers can appreciate the shared cultural fabric of Kerala.",
-  "tags": [
-   "religious harmony",
-   "Kerala",
-   "translation",
-   "interfaith",
-   "youth"
   ]
  }
 ]

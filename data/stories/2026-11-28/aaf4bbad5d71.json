@@ -1,0 +1,88 @@
+{
+ "id": "aaf4bbad5d71",
+ "created": "2026-11-28T05:04:58+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": false,
+ "source": "CNET",
+ "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2VtS3dmVmRyTTJuUjdBS0h1RVRZcE1kdzFjWlFyZ0hCTDRsWlZnbmNrc1lqRi1GbFFocVJIb084cHRvVGVxR2pRb2tMd1ZPUFZRbFpFTUFkN1hMTW5tTEpLYWdhN1hxQXFDNWF1Sm1BOWhBTVhDTFdqTndyTXB6SWtsSkNXbTNTaXRUamRudjNjSGptV1M4?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "NYT Strands hits 1,000 puzzles with Friendsgiving Spangram",
+  "hook": "A fresh word‑puzzle drop for fans of brain teasers.",
+  "what": "The New York Times posted hints and answers for its 1,000th Strands puzzle, set for Nov 28. The round uses a Friendsgiving theme and includes a Spangram titled CHOSENFAMILY.",
+  "why": "Solving the puzzle can sharpen vocabulary and give a fun break from studies or scrolling. Use the hints to get ahead in the game.",
+  "tags": [
+   "NYTStrands",
+   "Spangram",
+   "WordPuzzle",
+   "Friendsgiving",
+   "Gaming"
+  ]
+ },
+ "ml": {
+  "headline": "NYT Strands 1,000‑ാം പസിലിൽ Friendsgiving Spangram",
+  "hook": "വാക്ക്‌പസിലുകള്‍ ഇഷ്ടപ്പെടുന്നവരുടെ പുതിയ ചലഞ്ച്.",
+  "what": "The New York Times ന്റെ 1,000‑ാം Strands പസിലിന് Nov 28‑ന് ഹിന്റുകളും ഉത്തരങ്ങളും പുറത്തിറക്കി. Friendsgiving തീം ഉപയോഗിച്ച് CHOSENFAMILY എന്ന Spangram ഉൾപ്പെടുത്തിയിട്ടുണ്ട്.",
+  "why": "പസില്‍ പരിഹരിക്കുന്നത് വാക്കുകള്‍ മെച്ചപ്പെടുത്താനും, പഠനമോ സ്ക്രോള്‍ ചെയ്യുന്നതോ ഇടയില്‍ ഒരു രസകരമായ ഇടവേള നല്‍കാനും സഹായിക്കും. ഹിന്റുകള്‍ ഉപയോഗിച്ച് മുന്‍പേ തുടങ്ങൂ.",
+  "tags": [
+   "NYTStrands",
+   "Spangram",
+   "WordPuzzle",
+   "Friendsgiving",
+   "Gaming"
+  ],
+  "say": "വാക്ക്‌പസിലുകള്‍ ഇഷ്ടപ്പെടുന്നവരുടെ പുതിയ ചലഞ്ച്. The New York Times ന്റെ 1,000‑ാം Strands പസിലിന് Nov 28‑ന് ഹിന്റുകളും ഉത്തരങ്ങളും പുറത്തിറക്കി. Friendsgiving തീം ഉപയോഗിച്ച് CHOSENFAMILY എന്ന Spangram ഉൾപ്പെടുത്തിയിട്ടുണ്ട്. പസില്‍ പരിഹരിക്കുന്നത് വാക്കുകള്‍ മെച്ചപ്പെടുത്താനും, പഠനമോ സ്ക്രോള്‍ ചെയ്യുന്നതോ ഇടയില്‍ ഒരു രസകരമായ ഇടവേള നല്‍കാനും സഹായിക്കും. ഹിന്റുകള്‍ ഉപയോഗിച്ച് മുന്‍പേ തുടങ്ങൂ.",
+  "ok": true,
+  "tags_en": [
+   "NYTStrands",
+   "Spangram",
+   "WordPuzzle",
+   "Friendsgiving",
+   "Gaming"
+  ]
+ },
+ "beats": {
+  "cover": "PUZZLE LOVERS REJOICE",
+  "cover_accent": "REJOICE",
+  "beats": [
+   {
+    "title": "NEW PUZZLE ALERT",
+    "accent": "PUZZLE",
+    "query": "brain teaser puzzles",
+    "en": "Get ready for a brain-teasing challenge! The New York Times has just dropped its 1,000th Strands puzzle.",
+    "ml": "Oru puthiya brain teaser challenge aayittunde! New York Times 1000-amatha Strands puzzle publish cheythittundu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "calendar date",
+    "en": "But actually, this puzzle is special, with a Friendsgiving theme and a Spangram titled CHOSENFAMILY, set for November 28.",
+    "ml": "Pakshe, ithu puzzle special aanu, Friendsgiving theme um, CHOSENFAMILY enna Spangram um, November 28-nu vechathu."
+   },
+   {
+    "title": "HOW IT WORKS",
+    "accent": "WORKS",
+    "query": "person solving puzzle",
+    "en": "The New York Times has posted hints and answers to help you solve the puzzle and sharpen your vocabulary.",
+    "ml": "New York Times hints, answers post cheythittundu, puzzle solve cheyanaan, vocabulary sharpen cheyanaan."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students studying",
+    "en": "Solving this puzzle can give you a fun break from studies and scrolling, and improve your vocabulary.",
+    "ml": "Ithu puzzle solve cheythal, studies-il, scrolling-il ninnu oru fun break kittum, vocabulary improve aakkum."
+   },
+   {
+    "title": "GET AHEAD",
+    "accent": "AHEAD",
+    "query": "person using iPhone",
+    "en": "Use the hints to get ahead in the game and have fun with the 1,000th Strands puzzle!",
+    "ml": "Hints use cheythu, game-il ahead aakkaan, 1000-amatha Strands puzzle-il fun aakkoo!"
+   }
+  ],
+  "ml_ok": false
+ }
+}
