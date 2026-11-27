@@ -8,7 +8,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core libraqm0 >/dev/null
-      - run: pip install -q -U edge-tts gTTS requests pillow
+      - run: pip install -q -U edge-tts gTTS requests pillow feedparser
       - name: Render one EN + one ML (no posting)
         env:
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
