@@ -47,11 +47,46 @@ async def _edge_words(text, voice, path, rate):
     return words
 
 
+PAUSE = {".": 0.45, "?": 0.45, "!": 0.45, "।": 0.45, ":": 0.3, ";": 0.3, ",": 0.2, "-": 0.15}
+RATE = {"en": "+8%", "ml": "-6%"}   # Malayalam a little slower = clearer, more natural
+
+
+def _chunks(text):
+    """Split at punctuation so every comma / full stop gets a real pause."""
+    t = re.sub(r"(?<=\d)([.,])(?=\d)", lambda m: "\x00" if m.group(1) == "," else "\x01", text.replace(" - ", ", "))
+    parts = [p.replace("\x00", ",").replace("\x01", ".") for p in re.findall(r"[^.?!।:;,]+[.?!।:;,]*", t)]
+    out = []
+    for p in parts:
+        p = p.strip()
+        if p:
+            out.append((p, PAUSE.get(p[-1], 0.1)))
+    return out or [(text, 0.1)]
+
+
+def _silence(sec, path):
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono",
+                    "-t", f"{sec:.2f}", "-c:a", "libmp3lame", "-b:a", "48k", path], check=True)
+
+
 def voice(text, lang, path):
     try:
-        words = asyncio.run(_edge_words(text, VOICE[lang], path, "+8%" if lang == "en" else "+0%"))
+        tmp = path + "_parts"; os.makedirs(tmp, exist_ok=True)
+        files, words, t = [], [], 0.0
+        for i, (chunk, gap) in enumerate(_chunks(text)):
+            a = os.path.join(tmp, f"c{i}.mp3")
+            ws = asyncio.run(_edge_words(chunk, VOICE[lang], a, RATE[lang]))
+            if os.path.getsize(a) < 500:
+                raise RuntimeError("empty chunk")
+            d = dur(a)
+            words += [(t + s, t + e, w) for s, e, w in (ws or estimate(chunk, d))]
+            sp = os.path.join(tmp, f"s{i}.mp3"); _silence(gap, sp)
+            files += [a, sp]; t += d + gap
+        lst = os.path.join(tmp, "list.txt")
+        open(lst, "w").write("".join(f"file '{os.path.abspath(f)}'\n" for f in files))
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst,
+                        "-c:a", "libmp3lame", "-b:a", "96k", "-ar", "24000", "-ac", "1", path], check=True)
         if os.path.getsize(path) > 1000:
-            return words or estimate(text, dur(path))
+            return words
     except Exception as e:
         print("edge-tts failed:", str(e)[:80])
     from gtts import gTTS

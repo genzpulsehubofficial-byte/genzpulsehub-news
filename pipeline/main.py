@@ -50,9 +50,15 @@ TEXT: {text}
 ML_FIX = """You are a senior Malayalam news sub-editor. Fix this Malayalam news text written for teenagers in Kerala.
 1) Correct every spelling, grammar and chillu/conjunct error. Make it sound natural, like a Malayalam news anchor speaking to young people.
 2) Keep the same facts. Do not add anything.
-3) Also write "say": the full spoken script (hook + what + why) for a voice-over, where EVERY English word,
-   acronym and brand is written in Malayalam script the way Malayalis pronounce it (KSEB -> കെഎസ്ഇബി,
-   UPI -> യുപിഐ, app -> ആപ്പ്) and every number is written in Malayalam words.
+3) Also write "say": the spoken voice-over script (hook + what + why), written for the ear:
+   - Everyday spoken Malayalam (not bookish). Short sentences, one idea each. Use full stops and commas
+     wherever a news anchor would pause.
+   - Prefer the common Malayalam word when one exists (job -> ജോലി, exam -> പരീക്ഷ, price -> വില).
+   - When young Malayalis actually SAY the English word (phone, app, AI, UPI, Instagram, iPhone, cricket,
+     brand/company names, acronyms), keep it in ENGLISH letters exactly, e.g. "പുതിയ iPhone ഇറങ്ങി".
+     Never write those in Malayalam script (no ഐഫോൺ, no യുപിഐ) - the voice reads English letters naturally.
+   - If a difficult English term is needed, say it in English and explain it in a few simple Malayalam words once.
+   - Write numbers as digits (₹500, 2026, 10). Do not use symbols other than . , ? !
 Return ONLY valid JSON: {{"headline": "...", "hook": "...", "what": "...", "why": "...", "say": "..."}}
 
 TEXT:
@@ -76,8 +82,11 @@ def ml_ok(ml):
         if w[0] in _DEP or "\u0d4d\u0d4d" in w:
             return False
     say = ml.get("say", "")
-    if say and sum(1 for c in say if "a" <= c.lower() <= "z") > 8:   # spoken script should be all Malayalam
-        return False
+    if say:   # mostly Malayalam, English only for real loanwords/brands
+        lat = sum(1 for c in say if "a" <= c.lower() <= "z")
+        mls = sum(1 for c in say if 0x0D00 <= ord(c) <= 0x0D7F)
+        if mls == 0 or lat / (lat + mls) > 0.3:
+            return False
     return True
 
 
