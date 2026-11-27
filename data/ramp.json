@@ -1,25 +1,23 @@
 {
- "day": "2026-11-26",
+ "day": "2026-11-27",
  "counts": {
   "en": {
-   "facebook": 33,
-   "instagram": 20,
-   "youtube": 3
+   "youtube": 1,
+   "instagram": 2
   },
   "ml": {
-   "instagram": 38,
-   "facebook": 34,
-   "youtube": 3
+   "youtube": 1,
+   "instagram": 1
   }
  },
  "pause": {
   "ml:facebook": 1795751879.4645393,
   "en:facebook": 1795751844.8639362
  },
- "blocked_today": true,
+ "blocked_today": false,
  "last_yt": {
-  "en": 1795708389.3668976,
-  "ml": 1795705107.489303
+  "en": 1795742186.9746046,
+  "ml": 1795742263.676076
  },
- "cap": 50
+ "cap": 35
 }
