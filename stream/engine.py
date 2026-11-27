@@ -250,6 +250,8 @@ def slim_overlay(s, upnext, ad, path):
     put(d, (20, H - 70), t["next"] + ":", font(LANG, 20), accent)
     put(d, (20 + tlen(d, t["next"] + ":", font(LANG, 20)) + 10, H - 70), (upnext or "")[:90], font(LANG, 20, bold=False), "white")
     d.rectangle([0, H - 40, W, H], fill=accent)
+    import re as _re
+    ad = _re.sub(r"[^\w\s:/.\-₹@,()\u0D00-\u0D7F]", "", ad).replace("  ", " ")
     put(d, (20, H - 36), ad, font(LANG, 22), "#0b0b14")
     img.save(path)
 
