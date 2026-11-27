@@ -216,8 +216,13 @@ def main():
         for s in pick(lang, posted.get(lang, {})):
             try:
                 try:
-                    import render_v2
-                    p = render_v2.render(lang, s, os.path.join(OUT, lang))
+                    try:
+                        import explainer
+                        p = explainer.render(lang, s, os.path.join(OUT, lang))
+                    except Exception as e3:
+                        print("explainer failed, using v2:", str(e3)[:200], file=sys.stderr)
+                        import render_v2
+                        p = render_v2.render(lang, s, os.path.join(OUT, lang))
                 except Exception as e2:
                     print("v2 failed, using v1:", str(e2)[:200], file=sys.stderr)
                     p = render(lang, s, os.path.join(OUT, lang))

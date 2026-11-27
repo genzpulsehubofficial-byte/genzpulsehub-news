@@ -10,13 +10,30 @@ jobs:
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-noto-ui-core libraqm0 >/dev/null
       - run: pip install -q -U edge-tts gTTS requests pillow
       - name: Render one EN + one ML (no posting)
-        env: {PEXELS_API_KEY: "${{ secrets.PEXELS_API_KEY }}", PIXABAY_API_KEY: "${{ secrets.PIXABAY_API_KEY }}"}
+        env:
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           cd shorts && python - <<'P'
-          import json, render_v2, os
-          for lang in ("en","ml"):
-              s = json.load(open(f"../data/latest_{lang}.json"))[0]
-              print(lang, render_v2.render(lang, s, f"../out/preview/{lang}"))
+          import json, os, sys
+          sys.path.insert(0, "../pipeline")
+          import explainer, main as pl
+          en = json.load(open("../data/latest_en.json"))
+          ml = {x["id"]: x for x in json.load(open("../data/latest_ml.json"))}
+          s = next((x for x in en if x["id"] in ml), en[0])
+          bt = s.get("beats")
+          if not bt:
+              bt = pl.make_beats({"en": s}); print("beats:", json.dumps(bt, ensure_ascii=False)[:1500])
+          for lang in ("en", "ml"):
+              x = dict(ml.get(s["id"], s) if lang == "ml" else s)
+              if bt: x["beats"] = bt
+              print(lang, explainer.render(lang, x, f"../out/preview/{lang}"))
+          json.dump(bt, open("../out/beats.json", "w"))
           P
           for f in ../out/preview/*/*.mp4; do ffmpeg -loglevel error -y -ss 3 -i "$f" -frames:v 1 "${f%.mp4}_3s.jpg"; ffmpeg -loglevel error -y -sseof -1.5 -i "$f" -frames:v 1 "${f%.mp4}_end.jpg"; done
       - name: Render one LIVE segment per language (16:9)
@@ -29,8 +46,12 @@ jobs:
           sys.path.insert(0, "stream")
           import engine
           s = json.load(open(f"data/latest_{engine.LANG}.json"))[0]
-          say = s.get("say") or ". ".join(x for x in (s["headline"], s.get("what"), s.get("why")) if x)
-          engine.segment(s, say, "Next story headline here", engine.ad_text(), f"out/preview/live/{engine.LANG}.ts", 1.0)
+          try: s["beats"] = json.load(open("out/beats.json"))
+          except Exception: pass
+          if engine.LANG == "ml":
+              en0 = json.load(open("data/latest_en.json")); ml = {x["id"]: x for x in json.load(open("data/latest_ml.json"))}
+              s = dict(ml.get(next((x["id"] for x in en0 if x["id"] in ml), ""), s), beats=s.get("beats"))
+          engine.segment_explainer(s, "Next story headline here", engine.ad_text(), f"out/preview/live/{engine.LANG}.ts", 1.0)
           P
           ffmpeg -loglevel error -y -ss 4 -i out/preview/live/$L.ts -frames:v 1 out/preview/live/${L}_4s.jpg; done
       - uses: actions/upload-artifact@v4

@@ -102,6 +102,41 @@ def fix_ml(ml):
     return ml
 
 
+BEATS = """You turn a news story into a 45-60 second "explainer" reel for Indian teenagers, in the style of
+cinematic storytelling channels: open with a curiosity hook (a question or surprising claim), then a twist
+("But actually..."), then explain step by step, then end with why it matters to the viewer.
+Use ONLY the facts below. 5 or 6 beats. For each beat give:
+- "title": 2-4 word ENGLISH on-screen chapter title in CAPS (e.g. "WAS KERALA UNDER THE SEA?", "BUT ACTUALLY...", "WHY IT MATTERS")
+- "accent": the one word of the title to colour
+- "query": 2-3 word English stock-footage search for this beat (concrete visuals: "aerial coastline", "students exam hall")
+- "en": the English narration for this beat (1-2 short spoken sentences)
+- "ml": the same beat in natural spoken Malayalam. Short sentences, full stops and commas where an anchor pauses.
+  Use the common Malayalam word when one exists; keep words young Malayalis say in English (iPhone, UPI, app, AI,
+  brand names, acronyms) in ENGLISH letters; never transliterate them. Numbers as digits.
+Also "cover": a 3-6 word ENGLISH cover hook in CAPS and "cover_accent".
+Return ONLY JSON: {{"cover": "...", "cover_accent": "...", "beats": [{{"title": "...", "accent": "...", "query": "...", "en": "...", "ml": "..."}}]}}
+
+STORY:
+{text}
+"""
+
+
+def make_beats(st):
+    try:
+        raw, _ = ask(BEATS.format(text=json.dumps({k: st["en"].get(k, "") for k in ("headline", "hook", "what", "why")},
+                                                  ensure_ascii=False)))
+        b = parse_json(raw)
+        beats = [x for x in b.get("beats", []) if all(isinstance(x.get(k), str) and x[k].strip()
+                                                      for k in ("title", "query", "en", "ml"))]
+        if 3 <= len(beats) <= 8 and b.get("cover"):
+            ml_say = " ".join(x["ml"] for x in beats)
+            ok = ml_ok({"headline": ml_say, "what": "", "why": "", "say": ml_say})
+            return {"cover": b["cover"], "cover_accent": b.get("cover_accent", ""), "beats": beats, "ml_ok": ok}
+    except Exception as e:
+        print("beats skipped:", str(e)[:80])
+    return None
+
+
 _TW = None
 
 
@@ -281,6 +316,9 @@ def main():
             "source": it["source"], "source_url": it["link"], "source_count": it["sources"],
             "provider": prov, "en": s["en"], "ml": s["ml"],
         }
+        bt = make_beats(story)
+        if bt:
+            story["beats"] = bt
         save(os.path.join(DATA, "stories", now().astimezone(IST).strftime("%Y-%m-%d"), f"{sid}.json"), story)
         made.append(story)
         providers[prov] = providers.get(prov, 0) + 1
@@ -290,7 +328,8 @@ def main():
         path = os.path.join(DATA, f"latest_{lang}.json")
         cur = load(path, [])
         new = [{"id": s["id"], "created": s["created"], "category": s["category"], "breaking": s["breaking"],
-                "source": s["source"], "source_url": s["source_url"], **s[lang]}
+                "source": s["source"], "source_url": s["source_url"], **s[lang],
+                **({"beats": s["beats"]} if s.get("beats") and (lang == "en" or s["beats"].get("ml_ok")) else {})}
                for s in made if lang == "en" or (s["region"] in ("in", "kl", "world") and s["ml"].get("ok", True))]
         save(path, (new + [c for c in cur if c["id"] not in {n["id"] for n in new}])[:40])
 

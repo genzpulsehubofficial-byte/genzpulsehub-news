@@ -236,6 +236,41 @@ def segment(s, say, upnext, ad, out, offset):
         subprocess.run(["rm", "-rf", tmp])
 
 
+def slim_overlay(s, upnext, ad, path):
+    """Minimal live chrome on top of the explainer look: LIVE bug, brand, up-next + ad ticker."""
+    t = TXT[LANG]
+    img = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(img)
+    accent = COLOR.get(s.get("category", ""), "#4ee0d0")
+    d.rounded_rectangle([24, 20, 24 + tlen(d, t["live"], font(LANG, 24)) + 44, 56], 8, fill="#e10600")
+    d.ellipse([34, 32, 44, 42], fill="white")
+    put(d, (54, 22), t["live"], font(LANG, 24), "white")
+    d.rectangle([0, H - 72, W, H - 40], fill=(8, 10, 16, 210))
+    put(d, (20, H - 70), t["next"] + ":", font(LANG, 20), accent)
+    put(d, (20 + tlen(d, t["next"] + ":", font(LANG, 20)) + 10, H - 70), (upnext or "")[:90], font(LANG, 20, bold=False), "white")
+    d.rectangle([0, H - 40, W, H], fill=accent)
+    put(d, (20, H - 36), ad, font(LANG, 22), "#0b0b14")
+    img.save(path)
+
+
+def segment_explainer(s, upnext, ad, out, offset):
+    sys.path.insert(0, os.path.join(ROOT, "shorts"))
+    import explainer
+    tmp = tempfile.mkdtemp(dir=WORK)
+    try:
+        mp4 = explainer.build(LANG, s, os.path.join(tmp, "x.mp4"), W=W, H=H - 72, tmp=os.path.join(tmp, "w"))
+        ov = os.path.join(tmp, "ov.png"); slim_overlay(s, upnext, ad, ov)
+        fc = f"[0:v]pad={W}:{H}:0:0:black[p];[p][1:v]overlay=0:0[v]"
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", mp4, "-loop", "1", "-i", ov, "-filter_complex", fc,
+                        "-map", "[v]", "-map", "0:a", "-shortest",
+                        "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-r", "30", "-g", "60",
+                        "-b:v", "2500k", "-maxrate", "2500k", "-bufsize", "5000k",
+                        "-c:a", "aac", "-b:a", "128k", "-ar", "44100", "-ac", "2",
+                        "-output_ts_offset", f"{offset:.3f}", "-mpegts_flags", "+resend_headers", "-f", "mpegts", out],
+                       check=True)
+    finally:
+        subprocess.run(["rm", "-rf", tmp])
+
+
 def run_cycle(outs):
     fifo = os.path.join(WORK, "feed.ts")
     if os.path.exists(fifo):
@@ -260,7 +295,14 @@ def run_cycle(outs):
                 try:
                     say = s.get("_say") or s.get("say") or ". ".join(x for x in (s["headline"], s.get("what"), s.get("why")) if x)
                     nxt = seq[i + 1]["headline"] if i + 1 < len(seq) else (items[0]["headline"] if items else "")
-                    segment(s, say, nxt, ad, ts, offset)
+                    if s.get("_say"):
+                        segment(s, say, nxt, ad, ts, offset)
+                    else:
+                        try:
+                            segment_explainer(s, nxt, ad, ts, offset)
+                        except Exception as e:
+                            log("explainer failed, classic segment", e)
+                            segment(s, say, nxt, ad, ts, offset)
                     offset += dur(ts)
                     with open(ts, "rb") as f:
                         feed.write(f.read())
