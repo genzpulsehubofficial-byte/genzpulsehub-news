@@ -1,16 +1,17 @@
 {
  "en": {
-  "tech": 0.9,
-  "money": 0.904,
-  "headlines": 1.15,
-  "jobs": 0.907,
-  "entertainment": 0.9
+  "tech": 1.024,
+  "money": 0.828,
+  "headlines": 1.262,
+  "jobs": 0.83,
+  "entertainment": 0.872
  },
  "ml": {
-  "money": 1.021,
-  "kerala": 1.073,
-  "jobs": 0.928,
-  "entertainment": 1.099,
-  "tech": 0.9
+  "money": 0.916,
+  "kerala": 0.977,
+  "jobs": 0.846,
+  "entertainment": 1.224,
+  "tech": 0.917,
+  "headlines": 0.916
  }
 }
