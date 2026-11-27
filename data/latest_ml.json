@@ -1,5 +1,136 @@
 [
  {
+  "id": "5e8375a2ad93",
+  "created": "2026-11-28T03:08:17+05:30",
+  "category": "money",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/key-accused-vikas-agrawal-in-rs-1-280-crore-chhattisgarh-liquor-scam-brought-back-from-uae-12386873#publisher=newsstand",
+  "headline": "ചാത്തീസ്‌ഗഡ്‌ർ ലിക്വർ സ്കാമിലെ 1,280 കോടി കേസിലെ പ്രധാന സംശയിതൻ യു.എഇയിൽ നിന്ന് തിരികെ",
+  "hook": "CBI, ചാത്തീസ്‌ഗഡ്‌ർ ലിക്വർ കേസിലെ പ്രധാന സംശയിതനെ യു.എഇയിൽ നിന്ന് തിരികെ കൊണ്ടുവന്നതായി അറിയിച്ചു.",
+  "what": "കേന്ദ്ര അന്വേഷണ ബ്യൂറോ (CBI) പ്രകാരം, 1,280 കോടി രൂപ മൂല്യമുള്ള ചാത്തീസ്‌ഗഡ്‌ർ ലിക്വർ സ്കാമിൽ പ്രധാന സംശയിതനായ അഗ്രവാൽ യു.എഇയിൽ നിന്ന് തിരികെ കൊണ്ടുവന്നിട്ടുണ്ട്. അവൻ ഈ പദ്ധതി കേന്ദ്ര ധനകാര്യ ഏകോപകനായി പ്രവർത്തിച്ചെന്ന് ആരോപണം.",
+  "why": "ഇത്തരമൊരു വലിയ തട്ടിപ്പ് സംസ്ഥാന ലിക്വർ വിൽപ്പനയിലെ ദുരുപയോഗം കാണിക്കുന്നു, യുവാക്കൾക്ക് നിയമം പാലിക്കാനും അഴിമതി വിരുദ്ധ ചലനങ്ങളിൽ ശ്രദ്ധിക്കാനും പ്രാധാന്യം നൽകുന്നു. കേസിന്റെ പുരോഗതിയെക്കുറിച്ച് അപ്ഡേറ്റുകൾ പിന്തുടരുക.",
+  "tags": [
+   "Chhattisgarh",
+   "LiquorScam",
+   "CBI",
+   "UAE",
+   "Corruption"
+  ],
+  "say": "CBI പറഞ്ഞു, ചാത്തീസ്‌ഗഡ്‌ർ ലിക്വർ കേസിലെ പ്രധാന സംശയിതനെ യു.എഇയിൽ നിന്ന് തിരികെ കൊണ്ടുവന്നതായി. കേന്ദ്ര അന്വേഷണ ബ്യൂറോയുടെ വിവരമനുസരിച്ച്, 1,280 കോടി രൂപ മൂല്യമുള്ള ഈ സ്കാമിൽ അഗ്രവാൽ പ്രധാന സംശയിതനായിരുന്നു. അവൻ കേന്ദ്ര ധനകാര്യ ഏകോപകനായി പ്രവർത്തിച്ചെന്ന ആരോപണം ഉണ്ട്. ഇത്തരമൊരു വലിയ തട്ടിപ്പ് സംസ്ഥാന ലിക്വർ വിൽപ്പനയിലെ ദുരുപയോഗം കാണിക്കുന്നു. യുവാക്കൾക്ക് നിയമം പാലിക്കാനും അഴിമതി വിരുദ്ധ ചലനങ്ങളിൽ ശ്രദ്ധിക്കാനും ഇത് ഒരു മുന്നറിയിപ്പാണ്. കേസിന്റെ പുരോഗതിയെക്കുറിച്ച് അപ്ഡേറ്റുകൾ പിന്തുടരുക.",
+  "ok": true,
+  "tags_en": [
+   "Chhattisgarh",
+   "LiquorScam",
+   "CBI",
+   "UAE",
+   "Corruption"
+  ],
+  "beats": {
+   "cover": "LIQUOR SCAM EXPOSED",
+   "cover_accent": "EXPOSED",
+   "beats": [
+    {
+     "title": "BIG LIQUOR SCAM",
+     "accent": "SCAM",
+     "query": "aerial liquor factory",
+     "en": "A massive liquor scam worth Rs 1,280 crore has been uncovered in Chhattisgarh. The Central Bureau of Investigation is investigating the case.",
+     "ml": "1280 കോടി രൂപയുടെ ലിക്കർ കുംഭകോണം ചത്തീസ്ഗഢിൽ വെളിച്ചത്തുകൊണ്ടുവന്നിട്ടുണ്ട്. സിബിഐ ആണ് കേസ് അന്വേഷിക്കുന്നത്."
+    },
+    {
+     "title": "BUT ACTUALLY",
+     "accent": "ACTUALLY",
+     "query": "UAE cityscape",
+     "en": "But actually, the main suspect, Agrawal, was hiding in the United Arab Emirates. The CBI has flown him back to India.",
+     "ml": "എന്നാൽ യഥാർത്ഥത്തിൽ, പ്രധാന പ്രതി ആഗ്രവാൾ യുഎഇയിൽ ഒളിച്ചിരുന്നു. സിബിഐ അദ്ദേഹത്തെ ഇന്ത്യയിലേക്ക് കൊണ്ടുവന്നു."
+    },
+    {
+     "title": "WHO IS AGRawal",
+     "accent": "AGRAwal",
+     "query": "financial coordinator",
+     "en": "Agrawal is the central financial coordinator of the scam. He played a key role in the liquor scam.",
+     "ml": "ആഗ്രവാൾ കുംഭകോണത്തിന്റെ കേന്ദ്ര സാമ്പത്തിക കോർഡിനേറ്റർ ആണ്. അദ്ദേഹം ലിക്കർ കുംഭകോണത്തിൽ ഒരു പ്രധാന പങ്ക് വഹിച്ചു."
+    },
+    {
+     "title": "HOW IT WORKED",
+     "accent": "WORKED",
+     "query": "corruption scheme",
+     "en": "The scam involved corruption in state liquor sales, with officials and businessmen working together to cheat the system.",
+     "ml": "സംസ്ഥാന ലിക്കർ വിൽപ്പനയിൽ അഴിമതി ഉൾപ്പെടെയുള്ള കുംഭകോണമായിരുന്നു അത്, ഉദ്യോഗസ്ഥരും വ്യവസായികളും സിസ്റ്റം കബളിപ്പിക്കാൻ ഒരുമിച്ച് പ്രവർത്തിച്ചു."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students discussing news",
+     "en": "This case shows the scale of corruption in India and reminds us to stay alert about illegal financial activities.",
+     "ml": "ഇന്ത്യയിലെ അഴിമതിയുടെ വ്യാപ്തി ഈ കേസ് കാണിക്കുന്നു, നിയമവിരുദ്ധ സാമ്പത്തിക പ്രവർത്തനങ്ങളെക്കുറിച്ച് ശ്രദ്ധിക്കാൻ നമ്മളെ ഓർമ്മിപ്പിക്കുന്നു."
+    },
+    {
+     "title": "STAY INFORMED",
+     "accent": "INFORMED",
+     "query": "news updates",
+     "en": "Stay updated on this case and other important news to be aware of what's happening around you.",
+     "ml": "ഈ കേസും മറ്റ് പ്രധാന വാർത്തകളും ശ്രദ്ധിക്കുന്നതിലൂടെ നിങ്ങൾക്ക് ചുറ്റും എന്ത് നടക്കുന്നുണ്ടെന്ന് അറിയാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "6b44a69a7335",
+  "created": "2026-11-28T03:09:27+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Sheep Esports",
+  "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXNPV1V1MDVQTGRJcXdOSFo2N0pTYm1uMUhNSGNnR2Z6OTNaUG1OWlRnUWJ5T3JtN21RYXJjM2E0MDJjY1A1dU05d1JKaENVT3o4TWNveGNIT09uMjVvMHh3S1VtekpjM05XcjluQ3BUR0V5cDlEc0tuMEgwLWlENUhUMlZUQQ?oc=5",
+  "headline": "ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ്",
+  "hook": "ഇന്ത്യയ്ക്കായി വലിയ സ്പോർട്സ് ടൂർണമെന്റ് പ്രഖ്യാപിച്ചു",
+  "what": "2026-ൽ ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ് നടക്കും. ഷീപ്പ് സ്പോർട്സ് ഈ ഇവന്റിൽ പങ്കെടുക്കുന്നു. ഇന്ത്യയിൽ സ്പോർട്സ് പ്രോത്സാഹിപ്പിക്കുക എന്നതാണ് ചാമ്പ്യൻഷിപ്പിന്റെ ലക്ഷ്യം.",
+  "why": "ഇന്ത്യൻ ഗെയിമർമാർക്ക് തങ്ങളുടെ കഴിവുകൾ കാണിക്കാൻ ഒരു വേദി ലഭിക്കുന്നതിനാൽ ഈ ചാമ്പ്യൻഷിപ്പ് പ്രധാനപ്പെട്ടതാണ്. അവർക്ക് പങ്കെടുക്കാം, ഇവന്റ് കാണാം.",
+  "tags": [
+   "ഇസ്പോർട്സ്",
+   "ഗെയിമിംഗ്",
+   "ഇന്ത്യ",
+   "ചാമ്പ്യൻഷിപ്പ്",
+   "ടൂർണമെന്റ്"
+  ],
+  "say": "ഇന്ത്യയ്ക്കായി ഒരു വലിയ സ്പോർട്സ് ടൂർണമെന്റ് വന്നിരിക്കുന്നു. 2026-ൽ ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ് നടക്കും. ഷീപ്പ് സ്പോർട്സ് ഉൾപ്പെടെയുള്ള വിവിധ മത്സരങ്ങൾ ഉണ്ടായിരിക്കും. ഇന്ത്യയിൽ സ്പോർട്സ് പ്രോത്സാഹിപ്പിക്കുക എന്നതാണ് ലക്ഷ്യം. ഇന്ത്യൻ ഗെയിമർമാർക്ക് തങ്ങളുടെ കഴിവുകൾ കാണിക്കാൻ ഒരു വേദി ലഭിക്കും. അവർക്ക് പങ്കെടുക്കാം, ഇവന്റ് കാണാം.",
+  "ok": true,
+  "tags_en": [
+   "esports",
+   "gaming",
+   "India",
+   "championship",
+   "tournament"
+  ]
+ },
+ {
+  "id": "58625fbcb1b8",
+  "created": "2026-11-28T03:10:08+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Sheep Esports",
+  "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1FjeFlJa24wUWFLN2ZYM0RidWZxdW1UN2dxOGREdU5VZTNBVHpLcFdCUUFmSzJCbWJEaHIwTTJ5b3loWVQ1STNJc05mSUFPdXJhWVJ2Nm04anNwWDhXNk9tNjY3UkVUaWJ0bkktemRsdDFPcWZvR3JrdDRXc3NncFF1cGcxSGZra0E?oc=5",
+  "headline": "ഏഷ്യൻ ഗെയിംസ് യോഗ്യതാ മത്സരം",
+  "hook": "ഇന്ത്യൻ ഗെയ്മർമാർക്ക് അന്തർദേശീയ തലത്തിൽ മികവ് പുറത്തെടുക്കാനുള്ള വലിയ അവസരം",
+  "what": "2026-ലെ ഏഷ്യൻ ഗെയിംസിന്റെ യോഗ്യതാ മത്സരം ആരംഭിച്ചു. ഷീപ്പ് സ്പോർട്സ് പങ്കെടുക്കുന്നു. ടീമുകൾക്ക് അടുത്ത ഏഷ്യൻ ഗെയിംസിൽ ഒരു സ്ഥാനം ഉറപ്പിക്കാൻ ഈ ഇവന്റ് ഒരു അവസരമാണ്. ഈ മത്സരം ഏത് ടീമുകൾ മുന്നോട്ട് പോകുന്നുവെന്ന് നിർണ്ണയിക്കും.",
+  "why": "ഇന്ത്യൻ ഗെയ്മർമാർക്ക് ഇത് അന്താരാഷ്ട്ര തലത്തിൽ തങ്ങളുടെ രാജ്യത്തെ പ്രതിനിധീകരിക്കാനുള്ള അവസരമാണ്. അവർ ഈ ഇവന്റ് ഫോളോ ചെയ്ത് പുതിയ വികസനങ്ങളെക്കുറിച്ച് അപ്ഡേറ്റ് ആയിരിക്കണം.",
+  "tags": [
+   "ഏഷ്യൻ ഗെയിംസ്",
+   "ഗെയ്മിംഗ്",
+   "എസ്പോർട്സ്",
+   "യോഗ്യത"
+  ],
+  "say": "2026-ലെ ഏഷ്യൻ ഗെയിംസിന്റെ യോഗ്യതാ മത്സരം ആരംഭിച്ചു. ഇതിൽ ഷീപ്പ് സ്പോർട്സ് പങ്കെടുക്കുന്നു. ഇന്ത്യൻ ഗെയ്മർമാർക്ക് ഇത് അന്താരാഷ്ട്ര തലത്തിൽ മികവ് പുറത്തെടുക്കാനുള്ള അവസരമാണ്. അടുത്ത ഏഷ്യൻ ഗെയിംസിൽ ഒരു സ്ഥാനം ഉറപ്പിക്കാൻ ടീമുകൾക്ക് ഈ ഇവന്റ് സഹായിക്കും. അവർ ഈ ഇവന്റ് ഫോളോ ചെയ്ത് പുതിയ വികസനങ്ങളെക്കുറിച്ച് അപ്ഡേറ്റ് ആയിരിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Asian Games",
+   "Gaming",
+   "Esports",
+   "Qualifier"
+  ]
+ },
+ {
   "id": "324db666305c",
   "created": "2026-11-27T19:57:39+05:30",
   "category": "entertainment",
@@ -1021,88 +1152,6 @@
    "SoutheastAsia",
    "USrules",
    "TechNews"
-  ]
- },
- {
-  "id": "b17573344f81",
-  "created": "2026-11-26T15:35:16+05:30",
-  "category": "jobs",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece",
-  "headline": "തമിഴ്നാട് പതിനഞ്ച് ദിവസത്തെ പിതൃത്വ അവധി വിവാഹിത സര്‍ക്കാര്‍ ജീവനക്കാര്‍ക്ക്",
-  "hook": "കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ, രണ്ട് ആഴ്ചകളുടെ അവധി ഇപ്പോൾ ലഭിക്കും.",
-  "what": "സംസ്ഥാന സര്‍ക്കാര്‍ വിവാഹിത പുരുഷ ജീവനക്കാര്‍ക്ക് പതിനഞ്ച് ദിവസത്തെ അവധി, കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ ഉപയോഗിക്കാം. ഈ അവധി എല്ലാ യോഗ്യ ജീവനക്കാര്‍ക്കും ബാധകമാണ്.",
-  "why": "പുതിയ അച്ഛന്മാർക്ക് ജോലി‑കുടുംബം തമ്മില്‍ ബാലൻസ് ചെയ്യാന്‍ സഹായിച്ച്, കുട്ടി പരിപാലനത്തില്‍ പങ്കാളിത്തം വര്‍ദ്ധിപ്പിക്കും.",
-  "tags": [
-   "paternityleave",
-   "TamilNadu",
-   "govtjobs",
-   "worklife",
-   "families"
-  ],
-  "say": "കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ, രണ്ട് ആഴ്ചകളുടെ അവധി ഇപ്പോൾ ലഭിക്കും. സംസ്ഥാന സര്‍ക്കാര്‍ വിവാഹിത പുരുഷ ജീവനക്കാര്‍ക്ക് പതിനഞ്ച് ദിവസത്തെ അവധി, കുട്ടി ജനിക്കുന്നതിന് മുൻപോ, അല്ലെങ്കിൽ ജനനത്തിന് ശേഷം ആറുമാസത്തിനുള്ളിൽ ഉപയോഗിക്കാം. ഈ അവധി എല്ലാ യോഗ്യ ജീവനക്കാര്‍ക്കും ബാധകമാണ്. പുതിയ അച്ഛന്മാർക്ക് ജോലി‑കുടുംബം തമ്മില്‍ ബാലൻസ് ചെയ്യാന്‍ സഹായിച്ച്, കുട്ടി പരിപാലനത്തില്‍ പങ്കാളിത്തം വര്‍ദ്ധിപ്പിക്കും.",
-  "ok": true,
-  "tags_en": [
-   "paternityleave",
-   "TamilNadu",
-   "govtjobs",
-   "worklife",
-   "families"
-  ]
- },
- {
-  "id": "2fae2d5998a0",
-  "created": "2026-11-26T15:35:25+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "The Hindu",
-  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0FqdDVvOXhmc2IyY0UyV3hFMU5BdUYtRks0YURfeXVNYWhjS01YemQ1THBaRy1SMUVBZm45d2FpSXhrSWNXeUpYY0NLSzlsbkZ0MGRKbDhZbHZjM2k5QmJLN0VoN0Y1M2NMUEZpVnFvSldmakhpUUViRm91X0VYNy1Fd3JYa1gzNDF4TV93MDJCTThoZVBJazlsc3FVZHBlLTdaV0M0YWFTdjhVMkNHcEt5aExrcE3SAb4BQVVfeXFMUFhsM0g0TUwzUXBUZ0hQUHZRLS1PRmpkanpKQkJHaE9uLUNUYlJGdXpWNHpPdFdZa200V2hJNGtpTUZ5QmxjU1FHaXU5aVFjYnlBUWFneWtKSWpjX1pHWVF0Mm1rYTB4Z21fQ1dLZFM5LUNtRVhyUjhKYjYta081LXNOWnN1V3FEWU1wc2FiUy1pSTBYdlJFQXFsZC1QTDdDQUV1SE9nNnhoUGdQVk9FUGFSSy1xMlN2bktxUy1WZw?oc=5",
-  "headline": "ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ പാകിസ്താനി സീരീസ് നീക്കാൻ ആവശ്യപ്പെട്ടു",
-  "hook": "പാകിസ്താനി ഡ്രാമിനെ ഇന്ത്യയിൽ കാണാൻ നെറ്റ്ഫ്ലിക്സ്‌ക്ക് അനുമതി ഇല്ലെന്ന് സർക്കാർ പറയുന്നു.",
-  "what": "ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ 'ജോ ബാചേ ഹൈന്‍ സാംഗ് സമൈറ്റ് ലോ' എന്ന പാകിസ്താനി സീരീസ് ഇന്ത്യയിൽ സ്റ്റ്രീം ചെയ്യരുതെന്ന് ആവശ്യപ്പെട്ടു. പ്ലാറ്റ്ഫോം മുമ്പ് പാകിസ്താനി ഉള്ളടക്കം ഒഴിവാക്കുമെന്ന് നൽകിയ പ്രതിജ്ഞ പാലിക്കണം എന്ന് അധികാരികൾ പറഞ്ഞു.",
-  "why": "നെറ്റ്ഫ്ലിക്സ്‌ൽ കാണുന്ന വിനോദം യുവാക്കൾക്ക് പ്രധാനമായതിനാൽ, ഈ തീരുമാനം ആപ്പിലെ ഉള്ളടക്കത്തിൽ മാറ്റം വരുത്താം. അതിനാൽ, നിങ്ങളുടെ ലൈബ്രറി പരിശോധിക്കുക.",
-  "tags": [
-   "വിനോദം",
-   "Netflix",
-   "പാകിസ്താൻ",
-   "ഇന്ത്യ",
-   "സ്റ്റ്രീമിംഗ്"
-  ],
-  "say": "പാകിസ്താനി ഡ്രാമിനെ ഇന്ത്യയിൽ കാണാൻ നെറ്റ്ഫ്ലിക്സ്‌ക്ക് അനുമതി ഇല്ലെന്ന് സർക്കാർ പറയുന്നു. ഇന്ത്യ സർക്കാർ നെറ്റ്ഫ്ലിക്സ്‌നെ 'ജോ ബാചേ ഹൈന്‍ സാംഗ് സമൈറ്റ് ലോ' എന്ന പാകിസ്താനി സീരീസ് ഇന്ത്യയിൽ സ്റ്റ്രീം ചെയ്യരുതെന്ന് ആവശ്യപ്പെട്ടു. പ്ലാറ്റ്ഫോം മുമ്പ് പാകിസ്താനി ഉള്ളടക്കം ഒഴിവാക്കുമെന്ന് നൽകിയ പ്രതിജ്ഞ പാലിക്കണം എന്ന് അധികാരികൾ പറഞ്ഞു. നെറ്റ്ഫ്ലിക്സ്‌ൽ കാണുന്ന വിനോദം യുവാക്കൾക്ക് പ്രധാനമായതിനാൽ, ഈ തീരുമാനം ആപ്പിലെ ഉള്ളടക്കത്തിൽ മാറ്റം വരുത്താം. അതിനാൽ, നിങ്ങളുടെ ലൈബ്രറി പരിശോധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "entertainment",
-   "Netflix",
-   "Pakistan",
-   "India",
-   "streaming"
-  ]
- },
- {
-  "id": "d7a1b093890f",
-  "created": "2026-11-26T14:28:09+05:30",
-  "category": "entertainment",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/centre-asks-netflix-to-block-pakistani-content-in-india-honour-2025-commitment-amid-jo-bachay-hain-sang-samait-lo-row-sources-12379420#publisher=newsstand",
-  "headline": "ഇന്ത്യൻ നെറ്റ്ഫ്ലിക്സിന് പാകിസ്ഥാനി ഷോകൾ ബ്ലോക്ക് ചെയ്യാൻ പറഞ്ഞു",
-  "hook": "പ്രചാരം നേടിയ സീരീസിന്റെ ചർച്ചയിൽ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോം സർക്കാർ നിർദ്ദേശം നേരിടുന്നു.",
-  "what": "ഭാരത സർക്കാർ നെറ്റ്ഫ്ലിക്സിനെ എട്ട് മേയ് രണ്ടായിരത്തി ഇരുപത്തിഐഞ്ചിലെ ഉപദേശത്തെ പാലിച്ച് പാകിസ്ഥാനി ഉള്ളടക്കം നീക്കാൻ ആവശ്യപ്പെട്ടു. ഇത് “Jo Bachay…” സീരീസ് ചർച്ചയുടെ പശ്ചാത്തലത്തിലാണ്.",
-  "why": "യുവജനങ്ങൾക്ക് നെറ്റ്ഫ്ലിക്സിലെ പാകിസ്ഥാനി ഷോകൾ കുറയാം, അതിനാൽ പ്ലാറ്റ്ഫോം അപ്ഡേറ്റ് ചെയ്ത ലിസ്റ്റുകൾ പരിശോധിക്കുക.",
-  "tags": [
-   "Netflix",
-   "India",
-   "PakistaniContent",
-   "Streaming"
-  ],
-  "say": "പ്രചാരം നേടിയ സീരീസിന്റെ ചർച്ചയിൽ സ്ട്രീമിംഗ് പ്ലാറ്റ്ഫോം സർക്കാർ നിർദ്ദേശം നേരിടുന്നു. ഭാരത സർക്കാർ നെറ്റ്ഫ്ലിക്സിനെ എട്ട് മേയ് രണ്ടായിരത്തി ഇരുപത്തിഐഞ്ചിലെ ഉപദേശത്തെ പാലിച്ച് പാകിസ്ഥാനി ഉള്ളടക്കം നീക്കാൻ ആവശ്യപ്പെട്ടു. ഇത് “Jo Bachay…” സീരീസ് ചർച്ചയുടെ പശ്ചാത്തലത്തിലാണ്. യുവജനങ്ങൾക്ക് നെറ്റ്ഫ്ലിക്സിലെ പാകിസ്ഥാനി ഷോകൾ കുറയാം, അതിനാൽ പ്ലാറ്റ്ഫോം അപ്ഡേറ്റ് ചെയ്ത ലിസ്റ്റുകൾ പരിശോധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "Netflix",
-   "India",
-   "PakistaniContent",
-   "Streaming"
   ]
  }
 ]

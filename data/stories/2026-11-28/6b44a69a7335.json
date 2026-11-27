@@ -1,0 +1,88 @@
+{
+ "id": "6b44a69a7335",
+ "created": "2026-11-28T03:09:27+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Sheep Esports",
+ "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQXNPV1V1MDVQTGRJcXdOSFo2N0pTYm1uMUhNSGNnR2Z6OTNaUG1OWlRnUWJ5T3JtN21RYXJjM2E0MDJjY1A1dU05d1JKaENVT3o4TWNveGNIT09uMjVvMHh3S1VtekpjM05XcjluQ3BUR0V5cDlEc0tuMEgwLWlENUhUMlZUQQ?oc=5",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "India National Esports Championship",
+  "hook": "Big esports tournament announced for India",
+  "what": "The 2026 India National Esports Championship is happening. Sheep Esports is involved in the event. The championship aims to promote esports in India.",
+  "why": "This championship matters to young Indian gamers as it provides a platform to showcase their skills. They can look forward to participating or watching the event.",
+  "tags": [
+   "esports",
+   "gaming",
+   "India",
+   "championship",
+   "tournament"
+  ]
+ },
+ "ml": {
+  "headline": "ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ്",
+  "hook": "ഇന്ത്യയ്ക്കായി വലിയ സ്പോർട്സ് ടൂർണമെന്റ് പ്രഖ്യാപിച്ചു",
+  "what": "2026-ൽ ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ് നടക്കും. ഷീപ്പ് സ്പോർട്സ് ഈ ഇവന്റിൽ പങ്കെടുക്കുന്നു. ഇന്ത്യയിൽ സ്പോർട്സ് പ്രോത്സാഹിപ്പിക്കുക എന്നതാണ് ചാമ്പ്യൻഷിപ്പിന്റെ ലക്ഷ്യം.",
+  "why": "ഇന്ത്യൻ ഗെയിമർമാർക്ക് തങ്ങളുടെ കഴിവുകൾ കാണിക്കാൻ ഒരു വേദി ലഭിക്കുന്നതിനാൽ ഈ ചാമ്പ്യൻഷിപ്പ് പ്രധാനപ്പെട്ടതാണ്. അവർക്ക് പങ്കെടുക്കാം, ഇവന്റ് കാണാം.",
+  "tags": [
+   "ഇസ്പോർട്സ്",
+   "ഗെയിമിംഗ്",
+   "ഇന്ത്യ",
+   "ചാമ്പ്യൻഷിപ്പ്",
+   "ടൂർണമെന്റ്"
+  ],
+  "say": "ഇന്ത്യയ്ക്കായി ഒരു വലിയ സ്പോർട്സ് ടൂർണമെന്റ് വന്നിരിക്കുന്നു. 2026-ൽ ഇന്ത്യ നാഷണൽ സ്പോർട്സ് ചാമ്പ്യൻഷിപ്പ് നടക്കും. ഷീപ്പ് സ്പോർട്സ് ഉൾപ്പെടെയുള്ള വിവിധ മത്സരങ്ങൾ ഉണ്ടായിരിക്കും. ഇന്ത്യയിൽ സ്പോർട്സ് പ്രോത്സാഹിപ്പിക്കുക എന്നതാണ് ലക്ഷ്യം. ഇന്ത്യൻ ഗെയിമർമാർക്ക് തങ്ങളുടെ കഴിവുകൾ കാണിക്കാൻ ഒരു വേദി ലഭിക്കും. അവർക്ക് പങ്കെടുക്കാം, ഇവന്റ് കാണാം.",
+  "ok": true,
+  "tags_en": [
+   "esports",
+   "gaming",
+   "India",
+   "championship",
+   "tournament"
+  ]
+ },
+ "beats": {
+  "cover": "BIG ESPORTS TOURNAMENT",
+  "cover_accent": "ESPORTS",
+  "beats": [
+   {
+    "title": "BIG ESPORTS NEWS",
+    "accent": "ESPORTS",
+    "query": "gaming tournament",
+    "en": "A big esports tournament is coming to India, and it's going to be huge! The 2026 India National Esports Championship is happening.",
+    "ml": "Indiailekku oru vishal esports tournament varunnu, athu valiya oru event thanne."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "esports players competing",
+    "en": "But actually, this championship is not just about the tournament, it's about promoting esports in India.",
+    "ml": "Pakshe, ithu tournamentine kurichu illa, Indiaile esportsine pracharippikkana thanne."
+   },
+   {
+    "title": "WHO IS INVOLVED",
+    "accent": "INVOLVED",
+    "query": "gaming team logo",
+    "en": "Sheep Esports is one of the organizations involved in the event, bringing their expertise to the table.",
+    "ml": "Sheep Esports aanu eventil pekshikkunna sanghatanangalil oru organization, avare apatte prathibha kondu varunnu."
+   },
+   {
+    "title": "WHAT IT MEANS",
+    "accent": "MEANS",
+    "query": "young gamers playing",
+    "en": "This championship provides a platform for young Indian gamers to showcase their skills and compete with others.",
+    "ml": "Ithu championship young Indian gamersine apatte kaushalam ullu pradarshippikkanda oru vidhamana thanne, mattu cherukkarkkumodu matisheeduka."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students playing games",
+    "en": "So, why does it matter to you? It matters because you can participate or watch the event and be a part of the growing esports community in India.",
+    "ml": "Athanente, ithu enne kurichu? Ithu kurichu, ningal participate cheyyamella, athava event kandu, Indiaile vardhikkunna esports communityyude bhagavallavakakakum."
+   }
+  ],
+  "ml_ok": false
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "id": "58625fbcb1b8",
+ "created": "2026-11-28T03:10:08+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Sheep Esports",
+ "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1FjeFlJa24wUWFLN2ZYM0RidWZxdW1UN2dxOGREdU5VZTNBVHpLcFdCUUFmSzJCbWJEaHIwTTJ5b3loWVQ1STNJc05mSUFPdXJhWVJ2Nm04anNwWDhXNk9tNjY3UkVUaWJ0bkktemRsdDFPcWZvR3JrdDRXc3NncFF1cGcxSGZra0E?oc=5",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Asian Games Qualifier Begins",
+  "hook": "Big opportunity for Indian gamers to shine internationally",
+  "what": "The Asian Games 2026 Qualifier has started, with Sheep Esports participating. This event is a chance for teams to secure a spot in the upcoming Asian Games. The qualifier will determine which teams move forward.",
+  "why": "This matters to young Indian gamers as it's a chance to represent their country on a global stage. They should follow the event to stay updated on the latest developments.",
+  "tags": [
+   "Asian Games",
+   "Gaming",
+   "Esports",
+   "Qualifier"
+  ]
+ },
+ "ml": {
+  "headline": "ഏഷ്യൻ ഗെയിംസ് യോഗ്യതാ മത്സരം",
+  "hook": "ഇന്ത്യൻ ഗെയ്മർമാർക്ക് അന്തർദേശീയ തലത്തിൽ മികവ് പുറത്തെടുക്കാനുള്ള വലിയ അവസരം",
+  "what": "2026-ലെ ഏഷ്യൻ ഗെയിംസിന്റെ യോഗ്യതാ മത്സരം ആരംഭിച്ചു. ഷീപ്പ് സ്പോർട്സ് പങ്കെടുക്കുന്നു. ടീമുകൾക്ക് അടുത്ത ഏഷ്യൻ ഗെയിംസിൽ ഒരു സ്ഥാനം ഉറപ്പിക്കാൻ ഈ ഇവന്റ് ഒരു അവസരമാണ്. ഈ മത്സരം ഏത് ടീമുകൾ മുന്നോട്ട് പോകുന്നുവെന്ന് നിർണ്ണയിക്കും.",
+  "why": "ഇന്ത്യൻ ഗെയ്മർമാർക്ക് ഇത് അന്താരാഷ്ട്ര തലത്തിൽ തങ്ങളുടെ രാജ്യത്തെ പ്രതിനിധീകരിക്കാനുള്ള അവസരമാണ്. അവർ ഈ ഇവന്റ് ഫോളോ ചെയ്ത് പുതിയ വികസനങ്ങളെക്കുറിച്ച് അപ്ഡേറ്റ് ആയിരിക്കണം.",
+  "tags": [
+   "ഏഷ്യൻ ഗെയിംസ്",
+   "ഗെയ്മിംഗ്",
+   "എസ്പോർട്സ്",
+   "യോഗ്യത"
+  ],
+  "say": "2026-ലെ ഏഷ്യൻ ഗെയിംസിന്റെ യോഗ്യതാ മത്സരം ആരംഭിച്ചു. ഇതിൽ ഷീപ്പ് സ്പോർട്സ് പങ്കെടുക്കുന്നു. ഇന്ത്യൻ ഗെയ്മർമാർക്ക് ഇത് അന്താരാഷ്ട്ര തലത്തിൽ മികവ് പുറത്തെടുക്കാനുള്ള അവസരമാണ്. അടുത്ത ഏഷ്യൻ ഗെയിംസിൽ ഒരു സ്ഥാനം ഉറപ്പിക്കാൻ ടീമുകൾക്ക് ഈ ഇവന്റ് സഹായിക്കും. അവർ ഈ ഇവന്റ് ഫോളോ ചെയ്ത് പുതിയ വികസനങ്ങളെക്കുറിച്ച് അപ്ഡേറ്റ് ആയിരിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Asian Games",
+   "Gaming",
+   "Esports",
+   "Qualifier"
+  ]
+ },
+ "beats": {
+  "cover": "INDIA TAKES ON ASIA",
+  "cover_accent": "ASIA",
+  "beats": [
+   {
+    "title": "BIG OPPORTUNITY",
+    "accent": "OPPORTUNITY",
+    "query": "gamers playing",
+    "en": "A big opportunity has arrived for Indian gamers to shine internationally. The Asian Games 2026 Qualifier has started.",
+    "ml": "Indian gamers-kk, international level-il shine cheyyan ulla oru velaayittam nadakkunnu, Asian Games 2026 Qualifier start cheythittund."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "esports tournament",
+    "en": "But actually, this event is a chance for teams to secure a spot in the upcoming Asian Games.",
+    "ml": "Pakshe, Asian Games-il oru spot secure cheyyan ulla oru avasaravum aayittund."
+   },
+   {
+    "title": "HOW IT WORKS",
+    "accent": "WORKS",
+    "query": "teams competing",
+    "en": "The qualifier will determine which teams move forward, with Sheep Esports participating.",
+    "ml": "Qualifier, epadi teams forward-il poyi, Sheep Esports um participating aayirunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young gamers watching",
+    "en": "This matters to young Indian gamers as it's a chance to represent their country on a global stage.",
+    "ml": "Young Indian gamers-ne, ithu oru chance anu, global stage-il country-e represent cheyyan."
+   },
+   {
+    "title": "STAY UPDATED",
+    "accent": "UPDATED",
+    "query": "news on phone",
+    "en": "They should follow the event to stay updated on the latest developments.",
+    "ml": "Latest developments-ar um, event follow cheyth, updated aakkam."
+   }
+  ],
+  "ml_ok": false
+ }
+}
