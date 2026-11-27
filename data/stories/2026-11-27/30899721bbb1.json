@@ -1,0 +1,46 @@
+{
+ "id": "30899721bbb1",
+ "created": "2026-11-27T19:58:08+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/arikomban-memories-a-reservoir-escape-keralas-chakkakomban-leaves-forest-teams-chasing-again-orfaqr98",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Chakkakomban flees forest team, swims across Idukki reservoir",
+  "hook": "The famed elephant slipped away despite tranquiliser attempts.",
+  "what": "Kerala forest officials tried to tranquilise the elephant Chakkakomban with two darts, but it broke free and crossed the Anayirankal reservoir in Idukki.",
+  "why": "Its escape highlights challenges in handling human‑wildlife conflicts; teens should follow safety advice near forest zones.",
+  "tags": [
+   "Kerala",
+   "wildlife",
+   "elephant",
+   "forest",
+   "Idukki"
+  ]
+ },
+ "ml": {
+  "headline": "ചക്കകോമ്പൻ രക്ഷപ്പെട്ടു; ഇടുക്കിയിലെ തടാകം കടന്ന് ആന!",
+  "hook": "രണ്ട് ശാന്തമായ dart shots പരാജയപ്പെട്ടു, ആ ആന ഒളിഞ്ഞിരിക്കുകയാണ്.",
+  "what": "ചക്കകോമ്പൻ എന്ന ആനയെ പിടിക്കാൻ കേരള വനംവകുപ്പ് രണ്ട് dart shots ഉപയോഗിച്ച് ശ്രമിച്ചെങ്കിലും പരാജയപ്പെട്ടു. ആന അനായിരങ്കൽ തടാകം കടന്ന് രക്ഷപ്പെട്ടു.",
+  "why": "മനുഷ്യ-വന്യജീവി സംഘർഷം നിയന്ത്രിക്കാൻ ഇത് വലിയൊരു വെല്ലുവിളിയാണ്. വനപ്രദേശങ്ങളിലേക്ക് പോകുന്ന യുവാക്കൾ സുരക്ഷാ നിർദ്ദേശങ്ങൾ കൃത്യമായി പാലിക്കണം.",
+  "tags": [
+   "കേരളം",
+   "വന്യജീവി",
+   "ആന",
+   "ഇടുക്കി",
+   "തടാകം"
+  ],
+  "say": "ചക്കകോമ്പൻ രക്ഷപ്പെട്ടു! ഇടുക്കിയിലെ തടാകം കടന്ന് ആ ആന ഒളിഞ്ഞിരിക്കുകയാണ്. വനംവകുപ്പ് രണ്ട് dart shots ഉപയോഗിച്ച് ആനയെ പിടിക്കാൻ ശ്രമിച്ചിരുന്നു. പക്ഷേ പരാജയപ്പെട്ടു. ആന അനായിരങ്കൽ തടാകം കടന്ന് പോയി. മനുഷ്യരും വന്യമൃഗങ്ങളും തമ്മിലുള്ള പ്രശ്നങ്ങൾ പരിഹരിക്കാൻ ഇത് വലിയൊരു വെല്ലുവിളിയാണ്. അതുകൊണ്ട് വനപ്രദേശങ്ങളിലേക്ക് പോകുന്നവർ സുരക്ഷാ നിർദ്ദേശങ്ങൾ കൃത്യമായി പാലിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "wildlife",
+   "elephant",
+   "forest",
+   "Idukki"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "4e0e3d555651",
+ "created": "2026-11-27T19:57:49+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/seats-to-be-increased-by-50-will-remain-frozen-till-2051-centre-clears-amendments-to-delimitation-and-womens-quota-bill-12384204#publisher=newsstand",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Centre proposes 50% more seats after 25-year freeze",
+  "hook": "More lawmakers could reshape policies that affect your future",
+  "what": "The central government is pushing a delimitation plan that would raise the number of parliamentary seats by half, ending a 25‑year suspension. The move seeks to align representation with population while addressing states that have kept their populations stable.",
+  "why": "Changes in seat allocation can influence how resources and youth‑focused programs are distributed, so staying aware before the next elections matters.",
+  "tags": [
+   "politics",
+   "elections",
+   "youth",
+   "India",
+   "delimitation"
+  ]
+ },
+ "ml": {
+  "headline": "കേന്ദ്രം 25 വര്‍ഷത്തെ ഇടവേളയ്ക്ക് ശേഷം സീറ്റുകൾ 50% വർധിപ്പിക്കാൻ നിർദ്ദേശം",
+  "hook": "കൂടുതൽ നിയമനിർമ്മാതാക്കൾ നിങ്ങളുടെ ഭാവിയെ ബാധിക്കുന്ന നയങ്ങൾ മാറ്റാൻ കഴിയും",
+  "what": "കേന്ദ്രം 25 വര്‍ഷത്തെ ഇടവേളക്ക് ശേഷം, ജനസംഖ്യയെ അടിസ്ഥാനമാക്കി പാര്‍ലമെന്റ് സീറ്റുകൾ 50 ശതമാനം വർധിപ്പിക്കാൻ നിർദ്ദേശിച്ചു. ജനസംഖ്യാ സ്ഥിരത കൈവരിച്ച സംസ്ഥാനങ്ങളുടെ ആശങ്കകളും പരിഗണിച്ച് ഈ പദ്ധതി രൂപം കൊണ്ടു.",
+  "why": "സീറ്റ് വർധനവിലൂടെ വിഭവങ്ങളും യുവജന‑കേന്ദ്രിത പദ്ധതികളും എങ്ങനെ വിതരണം ചെയ്യപ്പെടും എന്നതിൽ മാറ്റം വരാം. അതിനാൽ അടുത്ത തിരഞ്ഞെടുപ്പിന് മുമ്പ് അറിവ് കൈവരിക്കുക പ്രധാനമാണ്.",
+  "tags": [
+   "രാജনীতি",
+   "തിരഞ്ഞെടുപ്പ്",
+   "യുവാക്കൾ",
+   "ഇന്ത്യ",
+   "വിതരണവ്യവസ്ഥ"
+  ],
+  "say": "കൂടുതൽ നിയമനിർമ്മാതാക്കൾ നിങ്ങളുടെ ഭാവിയെ ബാധിക്കുന്ന നയങ്ങൾ മാറ്റാൻ കഴിയും. കേന്ദ്രം 25 വര്‍ഷത്തെ ഇടവേളക്ക് ശേഷം, ജനസംഖ്യയെ അടിസ്ഥാനമാക്കി പാര്‍ലമെന്റ് സീറ്റുകൾ 50 ശതമാനം വർധിപ്പിക്കാൻ നിർദ്ദേശിച്ചു. ജനസംഖ്യാ സ്ഥിരത കൈവരിച്ച സംസ്ഥാനങ്ങളുടെ ആശങ്കകളും പരിഗണിച്ച് ഈ പദ്ധതി രൂപം കൊണ്ടു. സീറ്റ് വർധനവിലൂടെ വിഭവങ്ങളും യുവജന‑കേന്ദ്രിത പദ്ധതികളും എങ്ങനെ വിതരണം ചെയ്യപ്പെടും എന്നതിൽ മാറ്റം വരാം. അതിനാൽ അടുത്ത തിരഞ്ഞെടുപ്പിന് മുമ്പ് അറിവ് കൈവരിക്കുക പ്രധാനമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "politics",
+   "elections",
+   "youth",
+   "India",
+   "delimitation"
+  ]
+ }
+}

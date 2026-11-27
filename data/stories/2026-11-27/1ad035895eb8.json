@@ -1,0 +1,46 @@
+{
+ "id": "1ad035895eb8",
+ "created": "2026-11-27T19:57:57+05:30",
+ "category": "kerala",
+ "region": "in",
+ "breaking": false,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/kerala/kerala-hc-adjourns-pil-seeking-stay-on-mission-chakkakomban/article71750250.ece",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Kerala High Court Rejects PIL Against Mission Chakkakomban",
+  "hook": "Court says the petition was just a bid for personal publicity.",
+  "what": "The division bench of the Kerala High Court dismissed a public interest litigation that sought to halt the Mission Chakkakomban programme. The bench observed that the petitioner appeared motivated by a desire for media attention.",
+  "why": "The ruling lets the mission proceed and signals that courts will not entertain suits driven by self‑promotion. Young readers should note that legal challenges need genuine public interest to succeed.",
+  "tags": [
+   "Kerala",
+   "HighCourt",
+   "MissionChakkakomban",
+   "PIL",
+   "LegalNews"
+  ]
+ },
+ "ml": {
+  "headline": "കേരള ഹൈക്കോടതി മിഷന്‍ ചക്കക്കോമ്പന്‍ PIL നിരാകരിച്ചു",
+  "hook": "പിറ്റീഷണർ സ്വന്തം പ്രശസ്തി തേടിയതാണെന്ന് കോടതി പറഞ്ഞു.",
+  "what": "കേരള ഹൈക്കോടതിയുടെ ഡിവിഷന്‍ ബെഞ്ച് മിഷന്‍ ചക്കക്കോമ്പന്‍ പ്രോഗ്രാം നിർത്താൻ ലക്ഷ്യമിട്ട ഒരു പൊതുതാല്‍പര്യ കേസ് നിരസിച്ചു. കോടതി, അപേക്ഷകന്‍ വ്യക്തിപരമായ പ്രചാരം നേടാൻ ശ്രമിച്ചതായി കണ്ടെത്തി.",
+  "why": "ഇത് പദ്ധതിയുടെ നടപ്പാക്കലിന് തടസ്സമില്ലാതെ തുടരാൻ സഹായിക്കുന്നു, സ്വാര്‍ത്ഥ ലക്ഷ്യങ്ങളുള്ള നിയമവാദങ്ങൾ അംഗീകരിക്കില്ലെന്ന് കാണിക്കുന്നു. യുവാക്കൾക്ക് പൊതുവായ താൽപ്പര്യങ്ങളുള്ള കേസുകൾക്ക് മാത്രമേ പിന്തുണ ലഭിക്കും.",
+  "tags": [
+   "കേരളം",
+   "ഹൈക്കോടതി",
+   "മിഷൻചക്കക്കോമ്പൻ",
+   "PIL",
+   "നിയമം"
+  ],
+  "say": "പിറ്റീഷണർ സ്വന്തം പ്രശസ്തി തേടിയതാണെന്ന് കോടതി പറഞ്ഞു. കേരള ഹൈക്കോടതിയുടെ ഡിവിഷന്‍ ബെഞ്ച് മിഷന്‍ ചക്കക്കോമ്പന്‍ പ്രോഗ്രാം നിർത്താൻ ലക്ഷ്യമിട്ട ഒരു പൊതുതാല്‍പര്യ കേസ് നിരസിച്ചു. കോടതി, അപേക്ഷകന്‍ വ്യക്തിപരമായ പ്രചാരം നേടാൻ ശ്രമിച്ചതായി കണ്ടെത്തി. ഇതു പദ്ധതിയുടെ നടപ്പാക്കലിന് തടസ്സമില്ലാതെ തുടരാൻ സഹായിക്കും. സ്വാര്‍ത്ഥ ലക്ഷ്യങ്ങളുള്ള നിയമവാദങ്ങൾ അംഗീകരിക്കില്ലെന്ന് ഇത് കാണിക്കുന്നു. യുവാക്കൾക്ക് പൊതുവായ താൽപ്പര്യങ്ങളുള്ള കേസുകൾക്ക് മാത്രമേ പിന്തുണ ലഭിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "Kerala",
+   "HighCourt",
+   "MissionChakkakomban",
+   "PIL",
+   "LegalNews"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "457df8a4da9f",
+ "created": "2026-11-27T19:58:27+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/bought-gold-or-silver-at-peak-etfs-plunge-up-to-62-as-late-investors-bear-the-brunt-of-sharp-correction-11795782657816.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Gold and silver ETFs drop up to 62% after rally",
+  "hook": "Late buyers see big losses as prices tumble",
+  "what": "Gold and silver exchange‑traded funds fell as much as 62 per cent after a sharp price correction. Investors who entered after the recent rally are facing the biggest losses.",
+  "why": "The slump shows the risk of chasing hot assets; young investors should evaluate risk before buying.",
+  "tags": [
+   "gold",
+   "silver",
+   "ETFs",
+   "investment",
+   "risk"
+  ]
+ },
+ "ml": {
+  "headline": "സ്വർണം, വെള്ളി ETF‑കൾ 62% വരെ ഇടിഞ്ഞു",
+  "hook": "പിന്നീട് വാങ്ങിയവർക്ക് വലിയ നഷ്ടം",
+  "what": "സ്വർണം, വെള്ളി ETF‑കൾ കുത്തനെ വില കുറഞ്ഞതിനു ശേഷം 62% വരെ ഇടിഞ്ഞു. അടുത്ത കാലത്തെ ഉയർച്ചയ്ക്ക് ശേഷം പ്രവേശിച്ച നിക്ഷേപകർക്ക് ഏറ്റവും കൂടുതൽ നഷ്ടം.",
+  "why": "ഇത് ചൂടുള്ള ആസ്തികളിൽ അപ്രതീക്ഷിതമായി ചാടുന്നതിന്റെ അപകടം കാണിക്കുന്നു. യുവ നിക്ഷേപകർ അപകടം വിലയിരുത്തി വാങ്ങണം.",
+  "tags": [
+   "സ്വർണം",
+   "വെള്ളി",
+   "ETF",
+   "നിക്ഷേപം",
+   "അപായം"
+  ],
+  "say": "സ്വർണം, വെള്ളി ETF‑കൾ 62% വരെ ഇടിഞ്ഞു. പിന്നീട് വാങ്ങിയവർക്ക് വലിയ നഷ്ടം. അടുത്ത കാലത്തെ ഉയർച്ചയ്ക്ക് ശേഷം പ്രവേശിച്ച നിക്ഷേപകർക്ക് ഏറ്റവും കൂടുതൽ നഷ്ടം. ഇത് ചൂടുള്ള ആസ്തികളിൽ അപ്രതീക്ഷിതമായി ചാടുന്നതിന്റെ അപകടം കാണിക്കുന്നു. യുവ നിക്ഷേപകർ അപകടം വിലയിരുത്തി വാങ്ങണം. ETF എന്നത്, ഓഹരി കമ്പോളികളെ അടിസ്ഥാനമാക്കിയുള്ള നിക്ഷേപമാണ്. ഇത് ഒരു പ്രത്യേക തരം നിക്ഷേപമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "gold",
+   "silver",
+   "ETFs",
+   "investment",
+   "risk"
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "324db666305c",
+ "created": "2026-11-27T19:57:39+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "Business Standard",
+ "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2Rxa3ZhSURvcGpZQnp1R1VQRHMwQ05oc2cwSHRBQTNIZS14US1WcXh0R0xLWjVuU1FIRGZjV1lEVWRkV3hoUDh3QXEzMmsyV2VVSUFEVktERlE5ckp3VWV2LUF4NTZMam80OE1fd1hEaTcybGlEcXNYNUx5YU56MFlCc3ZJRUM0MFFrRTRDZDZDWXVIaG5lWWVKQjhJX1F2SnR1LVc5Qm4xa3NhZlJXM2VkQkNSajBaTFVVaEhwbmJVT3d1azZRNDc0bnA2NkhpWFMwTnB3MVFTZ9IB3wFBVV95cUxNdDZaQWV6ZjViQmE4OVk3NDVaY0xUcExUM3dmRnROTWR0SFNRbnFqaHZaVUl6QXpPZ1QwS3FXaGlQMUJxd2RFUnp2cXByUFpTLVRvTW9Ud2s0UXdxZXlORHVCUnM0cEd5OG1hVVZGdVg0VERPcFhEeUQ5R0U3RHlrZG9nejNKQ3lVUG9aX2kwc29Rd29uQXFzVTQ2M0p1eUlxbEVndkM1Xy16OUh3S0k5dVhNR3dMN0wxTkp5Ri1HSEg4U1pkQkp5Nm5tQzRLWVNIU2U5S0RDQkd4MDNhcVZz?oc=5",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "New OTT titles drop this week: Hanuman Ansh, Spider‑Man",
+  "hook": "Fresh streams to binge right now!",
+  "what": "This week’s online streaming line‑up includes the series Hanuman Ansh and a Spider‑Man release, among other titles. All are available on various OTT platforms.",
+  "why": "Young viewers can catch the latest releases without waiting for TV, adding fresh content for weekend binge‑watching.",
+  "tags": [
+   "OTT",
+   "newreleases",
+   "binge",
+   "streaming",
+   "GenZ"
+  ]
+ },
+ "ml": {
+  "headline": "ഈ ആഴ്ച OTT-യിൽ പുതിയ ഷോകൾ: ഹനുമാൻ അൻശ്, സ്പൈഡർമാൻ",
+  "hook": "ഇതാ, പുതിയ സീരീസുകൾ ഇപ്പോൾ തന്നെ കാണാം!",
+  "what": "ഈ ആഴ്ച OTT-യിൽ ഹനുമാൻ അൻശ്, സ്പൈഡർമാൻ ഉൾപ്പെടെ നിരവധി പുതിയ ഷോകൾ എത്തും. ഇവയെല്ലാം വിവിധ പ്ലാറ്റ്‌ഫോമുകളിൽ ലഭ്യമാണ്.",
+  "why": "Gen Z പ്രേക്ഷകർക്ക് പുതിയ content ഉടൻ തന്നെ ആസ്വദിക്കാൻ കഴിയും. ഈ weekend-ൽ binge-watch ചെയ്യാൻ പറ്റിയ മികച്ച അവസരമാണിത്.",
+  "tags": [
+   "OTT",
+   "പുതിയ റിലീസ്",
+   "ബിംജി",
+   "സ്റ്റ്രീമിംഗ്",
+   "GenZ"
+  ],
+  "say": "ഇതാ, പുതിയ സീരീസുകൾ ഇപ്പോൾ തന്നെ കാണാം. ഈ ആഴ്ച OTT-യിൽ ഹനുമാൻ അൻശ്, Spider-Man ഉൾപ്പെടെ നിരവധി പുതിയ ഷോകൾ എത്തുന്നുണ്ട്. വിവിധ പ്ലാറ്റ്‌ഫോമുകളിൽ ഇവ ലഭ്യമാണ്. Gen Z-ന് പുതിയ content ഉടൻ തന്നെ ആസ്വദിക്കാം. ഈ weekend-ൽ binge-watch ചെയ്യാൻ പറ്റിയ നല്ലൊരു അവസരമാണിത്.",
+  "ok": true,
+  "tags_en": [
+   "OTT",
+   "newreleases",
+   "binge",
+   "streaming",
+   "GenZ"
+  ]
+ }
+}
