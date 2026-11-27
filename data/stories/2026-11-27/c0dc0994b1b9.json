@@ -1,0 +1,46 @@
+{
+ "id": "c0dc0994b1b9",
+ "created": "2026-11-27T14:06:27+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Congress vows to battle delimitation bill in special session",
+  "hook": "Parliament meets on Nov 30, but not for women’s quota.",
+  "what": "The government has scheduled a special parliamentary sitting starting November 30 to discuss the delimitation bill. Congress says the meeting is about redrawing constituencies, not the women’s reservation proposal, and it will oppose the bill strongly.",
+  "why": "The outcome could reshape electoral boundaries, affecting future elections. Young voters should watch the debate as it may influence political representation.",
+  "tags": [
+   "delimitation",
+   "parliament",
+   "Congress",
+   "India",
+   "elections"
+  ]
+ },
+ "ml": {
+  "headline": "കോൺഗ്രസ് delimitation ബില്ലിനെതിരെ പ്രത്യേക സെഷനിൽ പോരാട്ടം പ്രഖ്യാപിച്ചു",
+  "hook": "പാർലമെന്റ് നവം 30 ന് യോഗം ചേരും, സ്ത്രീകളുടെ ക്വോട്ടയ്ക്കല്ല.",
+  "what": "സർക്കാർ നവം 30 മുതൽ delimitation ബിൽ ചർച്ച ചെയ്യാൻ ഒരു പ്രത്യേക സെഷൻ നടത്താൻ പദ്ധതിയിട്ടു. കോൺഗ്രസ് ഈ യോഗം തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ പുനർവിതരണം സംബന്ധിച്ചതാണെന്ന്, സ്ത്രീകളുടെ സംവരണവുമായി ബന്ധമില്ലെന്ന് പറയുന്നു, കൂടാതെ ബില്ലിനെ ശക്തമായി എതിർക്കും.",
+  "why": "ഇത് തിരഞ്ഞെടുപ്പ് അതിരുകൾ മാറ്റി ഭാവി തെരഞ്ഞെടുപ്പുകളിൽ സ്വാധീനം ചെലുത്താം. യുവവോട്ടർമാർ ഈ ചർച്ചകൾ ശ്രദ്ധിച്ച്, രാഷ്ട്രീയ പ്രതിനിധിത്വത്തെക്കുറിച്ച് അറിയണം.",
+  "tags": [
+   "വിതരണം",
+   "പാർലമെന്റ്",
+   "കോൺഗ്രസ്",
+   "ഇന്ത്യ",
+   "തിരഞ്ഞെടുപ്പ്"
+  ],
+  "say": "പാർലമെന്റ് നവം 30 ന് യോഗം ചേരും. സ്ത്രീകളുടെ ക്വോട്ടയ്ക്കല്ല. സർക്കാർ നവം 30 മുതൽ delimitation ബിൽ ചർച്ച ചെയ്യാൻ ഒരു പ്രത്യേക സെഷൻ നടത്താൻ പദ്ധതിയിട്ടു. കോൺഗ്രസ് പറയുന്നു, ഈ യോഗം തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ പുനർവിതരണം സംബന്ധിച്ചതാണ്. സ്ത്രീകളുടെ സംവരണവുമായി ഇതിന് ബന്ധമില്ല. അവർ ബില്ലിനെ ശക്തമായി എതിർക്കും. ഇത് തിരഞ്ഞെടുപ്പ് അതിരുകൾ മാറ്റി, ഭാവി തെരഞ്ഞെടുപ്പുകളിൽ സ്വാധീനം ചെലുത്താം. യുവവോട്ടർമാർ ഈ ചർച്ചകൾ ശ്രദ്ധിച്ച്, രാഷ്ട്രീയ പ്രതിനിധിത്വത്തെക്കുറിച്ച് അറിയണം.",
+  "ok": true,
+  "tags_en": [
+   "delimitation",
+   "parliament",
+   "Congress",
+   "India",
+   "elections"
+  ]
+ }
+}

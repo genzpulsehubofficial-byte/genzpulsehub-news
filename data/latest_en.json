@@ -1,5 +1,79 @@
 [
  {
+  "id": "c0dc0994b1b9",
+  "created": "2026-11-27T14:06:27+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece",
+  "headline": "Congress vows to battle delimitation bill in special session",
+  "hook": "Parliament meets on Nov 30, but not for women’s quota.",
+  "what": "The government has scheduled a special parliamentary sitting starting November 30 to discuss the delimitation bill. Congress says the meeting is about redrawing constituencies, not the women’s reservation proposal, and it will oppose the bill strongly.",
+  "why": "The outcome could reshape electoral boundaries, affecting future elections. Young voters should watch the debate as it may influence political representation.",
+  "tags": [
+   "delimitation",
+   "parliament",
+   "Congress",
+   "India",
+   "elections"
+  ]
+ },
+ {
+  "id": "eced41cd552e",
+  "created": "2026-11-27T14:06:33+05:30",
+  "category": "kerala",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/kerala/kpcc-chief-sunny-joseph-seeks-meeting-with-rahul-gandhi-kharge-amid-factional-rumblings-in-congress/article71749799.ece",
+  "headline": "KPCC chief seeks talk with Gandhi, Kharge amid Kerala party split",
+  "hook": "Congress’s Kerala head wants a sit‑down as factions clash.",
+  "what": "KPCC chief Sunny Joseph said he wants to meet Rahul Gandhi and Mallikarjun Kharge. He made the request as internal disagreements surface in the state Congress. He declined to comment on the ongoing war of words and the flex boards supporting different leaders.",
+  "why": "The meeting could shape the party’s stance in Kerala, affecting future elections and youth representation. Keep an eye on any shifts in strategy.",
+  "tags": [
+   "KeralaPolitics",
+   "Congress",
+   "KPCC",
+   "Youth"
+  ]
+ },
+ {
+  "id": "4c3e0b8350c7",
+  "created": "2026-11-27T14:06:38+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Onmanorama",
+  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1JVcEdKdjQ1bEdzdjVYZUNibVBpZ3A3bktJRjdPanRPZXUzV1dOM3ZkNnhqTHQwNjBwOEg1QVBwZXNlVS1pUG8xVGpBbHhLTnVIM3FwemktVFdaUWR3ZjVVNWV1ODZJUGtPMnZtRXhyeW5YU0lCUEUtTUk1NWdJSTEzU1JMRHktT29pQmFJNDlMczRlalJUV0p0SXc1eGtZVENjLVE1TFhnSmFmdGZ5VHpqSEtqcE5rTnNxcTd0NnV4RmZqTGZoQ2cyZ0U0Nk0?oc=5",
+  "headline": "Chirakkara Panchayat Launches Tourism Plan for Polachira Wetlands",
+  "hook": "Your next weekend getaway could be a newly promoted wetland spot!",
+  "what": "The local governing body of Chirakkara in Kollam announced a new tourism development project focused on the Polachira wetlands. The plan aims to improve visitor facilities and promote eco‑tourism.",
+  "why": "Young travelers can look forward to better amenities and nature experiences nearby. Keep an eye out for upcoming events or tours in the area.",
+  "tags": [
+   "Kollam",
+   "Polachira",
+   "EcoTourism",
+   "Travel",
+   "Kerala"
+  ]
+ },
+ {
+  "id": "e6e38c43bf04",
+  "created": "2026-11-27T14:17:37+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Rediff.com",
+  "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGs3NmJSR1FQS0pJc2thOTladUFadVQ1N0pfcEEyWHFqZWhwbjBUM3dTZVlKbVd2QmY0RjdVaktRWEFmN2YxVG1NQ19SdktKTGdZbFM0V3p1SXZWYmtyUFphdkk0X2ptNEM5a1YwVjR2ZUp2WmZNZjZuaUFRd292WV8tWHdlOXJtR19mbzE2dGk0TWVKQ21UelZYQWJTX1NOaXNwMUxFVTdUa1d2OXNN0gG0AUFVX3lxTE5zWmFyWkhhZl9QV0FTcl9PbUZ0MWk3bERrZFVvenplSnNOcXEwd09uamoyUGVINURmUEs3OWdmQldldGlTXzlSeWZxeWpJOG5ZeFVxbUtRTGFueWE2MjVvWi1nUUhjQnRTQi1pLUtlVk02M3RCX2twb3pRMHlfbG9idXlLdXI2SnRvWU1vRFZuYk1VTVFmSmMxbjY3bmNqQVBzRWJKZDdRM2tRRGdndFBlQklsbQ?oc=5",
+  "headline": "SC declines urgent listing in Ramayana film case",
+  "hook": "A new Ramayana adaptation sparked debate, and the Supreme Court made a comment.",
+  "what": "The Supreme Court did not hear an urgent plea about the Ramayana: Rise of a Legend film. The plea involved claims about facts in the film. The court also said that someone with a different view could make a film.",
+  "why": "It matters to young Indian viewers because it touches on storytelling and how sacred stories are shown. They can watch or talk about the film while the court matter continues.",
+  "tags": [
+   "Ramayana",
+   "SupremeCourt",
+   "FilmDebate",
+   "IndianCinema"
+  ]
+ },
+ {
   "id": "3dd6593d973e",
   "created": "2026-11-27T05:18:38+05:30",
   "category": "headlines",
@@ -675,82 +749,6 @@
    "youth health",
    "packaged foods",
    "SC order"
-  ]
- },
- {
-  "id": "c06e95418101",
-  "created": "2026-11-26T13:29:14+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/new-nfo-alert-invesco-india-financial-services-debt-fund-scheme-risk-full-offer-period-rs-1000-minimum-investment-amount-11795672291561.html",
-  "headline": "Invesco Launches India Financial Services Debt Fund",
-  "hook": "A new debt fund is now investing in financial services.",
-  "what": "Invesco Mutual Fund has started a new fund. The fund is an open-ended debt plan that invests in the financial services sector. It is marked as moderate risk.",
-  "why": "It gives a new option for people looking at debt funds. Young investors should check the offer period and minimum amount before investing.",
-  "tags": [
-   "Invesco",
-   "DebtFund",
-   "MutualFund",
-   "NFO",
-   "FinancialServices"
-  ]
- },
- {
-  "id": "67edaca4cfdf",
-  "created": "2026-11-26T13:29:22+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/mutual-fund-returns-fall-sip-exits-rise-study-explains-why-regular-plan-investors-hold-on-longer-than-direct-ones-11795674358082.html",
-  "headline": "Mutual fund returns dip, SIP withdrawals climb, study finds why",
-  "hook": "Regular‑plan savers are hanging on longer than direct‑plan peers.",
-  "what": "Recent data shows that overall mutual fund earnings have slipped while more investors are pulling out of systematic investment plans. Researchers compared how long people keep money in regular versus direct schemes and explored triggers for cashing out beyond just market swings.",
-  "why": "For young investors, understanding these patterns can help decide which fund type suits their risk appetite and long‑term goals. Consider reviewing your SIP commitments before exiting.",
-  "tags": [
-   "mutualfunds",
-   "SIP",
-   "investing",
-   "finance",
-   "youth"
-  ]
- },
- {
-  "id": "09a3116ba9d0",
-  "created": "2026-11-26T13:29:27+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-elephant-tranquilise-radio-collar-idukki-pti2b6pbjrz",
-  "headline": "Kerala plans new move to collar wild tusker Chakkakomban",
-  "hook": "Rain stopped the first tranquilising try, now a fresh plan is set.",
-  "what": "Forest officials in Kerala are devising a new approach to sedate the elephant named Chakkakomban and fit a radio collar. The earlier attempt was aborted because of bad weather.",
-  "why": "Tracking the tusker will help manage human‑elephant conflicts, a concern for nearby communities. Teens can stay informed about wildlife safety measures.",
-  "tags": [
-   "Kerala",
-   "wildlife",
-   "elephant",
-   "conservation",
-   "news"
-  ]
- },
- {
-  "id": "7842972261a1",
-  "created": "2026-11-26T11:56:34+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "NDTV",
-  "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVVuc2daMXo1d0FTbF9VeHFVMUhlMUJhUVFmWWZPN1l2bWVtUUp1OVlGQ0t1Z3RiTS1JN3ZVZzhBV0VKRWg3RzRXcnlydnNfanBmdUJWQTBmV3QwNVBYc2NzTGJHSnVTNG1HeHB1QXR5MFpDZkxOV1g4dVFDU0NCSWpwYW51bkZUTDJsSkVrZUpZRTV2Z1lyVElyQS14eU82LUxjeHhxVGNyZWs?oc=5",
-  "headline": "Tata Trusts to challenge Chandrasekaran’s reappointment in court",
-  "hook": "A major Tata board fight heads to Bombay High Court",
-  "what": "The Sir Dorabji Tata Trust said it will file a petition in the Bombay High Court to contest N Chandrasekaran’s reappointment as executive chairman of Tata Sons. The move follows a dispute with Noel Tata and other board members. The trust also seeks Rs 65 crore in damages.",
-  "why": "The case could affect leadership decisions in one of India’s biggest conglomerates, impacting jobs and investments. Keep an eye on the outcome.",
-  "tags": [
-   "Tata",
-   "Corporate",
-   "Legal",
-   "Business",
-   "India"
   ]
  }
 ]

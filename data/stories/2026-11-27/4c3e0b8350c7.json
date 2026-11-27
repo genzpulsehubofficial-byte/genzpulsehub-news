@@ -1,0 +1,46 @@
+{
+ "id": "4c3e0b8350c7",
+ "created": "2026-11-27T14:06:38+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Onmanorama",
+ "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1JVcEdKdjQ1bEdzdjVYZUNibVBpZ3A3bktJRjdPanRPZXUzV1dOM3ZkNnhqTHQwNjBwOEg1QVBwZXNlVS1pUG8xVGpBbHhLTnVIM3FwemktVFdaUWR3ZjVVNWV1ODZJUGtPMnZtRXhyeW5YU0lCUEUtTUk1NWdJSTEzU1JMRHktT29pQmFJNDlMczRlalJUV0p0SXc1eGtZVENjLVE1TFhnSmFmdGZ5VHpqSEtqcE5rTnNxcTd0NnV4RmZqTGZoQ2cyZ0U0Nk0?oc=5",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Chirakkara Panchayat Launches Tourism Plan for Polachira Wetlands",
+  "hook": "Your next weekend getaway could be a newly promoted wetland spot!",
+  "what": "The local governing body of Chirakkara in Kollam announced a new tourism development project focused on the Polachira wetlands. The plan aims to improve visitor facilities and promote eco‑tourism.",
+  "why": "Young travelers can look forward to better amenities and nature experiences nearby. Keep an eye out for upcoming events or tours in the area.",
+  "tags": [
+   "Kollam",
+   "Polachira",
+   "EcoTourism",
+   "Travel",
+   "Kerala"
+  ]
+ },
+ "ml": {
+  "headline": "ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ടൂറിസം പദ്ധതി പ്രഖ്യാപിച്ചു",
+  "hook": "നിങ്ങളുടെ അടുത്ത അവധി ദിനം പുതിയ പ്രകൃതിസൗന്ദര്യത്തിൽ ചെലവിടാം!",
+  "what": "ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ഒരു ടൂറിസം വികസന പദ്ധതി പ്രഖ്യാപിച്ചു. ഈ പദ്ധതിയിൽ സന്ദർശക സൗകര്യങ്ങൾ മെച്ചപ്പെടുത്തുകയും ഇക്കോ‑ടൂറിസം പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്നു.",
+  "why": "യുവാക്കൾക്ക് അടുത്തുള്ള പ്രകൃതിസുന്ദരമായ സ്ഥലങ്ങൾ കൂടുതൽ ആകർഷകമാകും. വരാനിരിക്കുന്ന ഇവന്റുകളും ടൂറുകളും ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "Kollam",
+   "Polachira",
+   "EcoTourism",
+   "Travel",
+   "Kerala"
+  ],
+  "say": "അടുത്ത അവധി ദിനം, പുതിയ പ്രകൃതിസൗന്ദര്യത്തിൽ ചെലവിടാം! ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ഒരു ടൂറിസം വികസന പദ്ധതി പ്രഖ്യാപിച്ചു. സന്ദർശക സൗകര്യങ്ങൾ മെച്ചപ്പെടുത്തും, ഇക്കോ‑ടൂറിസം പ്രോത്സാഹിപ്പിക്കും. ഇത് യുവാക്കൾക്ക് അടുത്തുള്ള മനോഹര സ്ഥലമായി മാറും. വരാനിരിക്കുന്ന ഇവന്റുകളും ടൂറുകളും ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "Kollam",
+   "Polachira",
+   "EcoTourism",
+   "Travel",
+   "Kerala"
+  ]
+ }
+}
