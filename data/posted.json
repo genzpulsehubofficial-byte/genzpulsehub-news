@@ -721,6 +721,18 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18048273206832649",
    "facebook": "fb:1666477291544034"
+  },
+  "eced41cd552e": {
+   "at": "2026-11-27 11:00",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18126258905075779",
+   "facebook": "fb:1504060041596888"
+  },
+  "c0dc0994b1b9": {
+   "at": "2026-11-27 11:00",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1732655218220065"
   }
  }
 }
