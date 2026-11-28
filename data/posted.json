@@ -395,6 +395,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1798147012317793"
+  },
+  "d6c89f266305": {
+   "at": "2026-11-28 00:51",
+   "youtube": "https://youtube.com/shorts/cRu5moaXV_I",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:4489452661198310"
   }
  },
  "ml": {
@@ -865,6 +871,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:18139662517676715",
    "facebook": "fb:28956008004094489"
+  },
+  "d6c89f266305": {
+   "at": "2026-11-28 00:52",
+   "youtube": "https://youtube.com/shorts/s8UCA9Ndaqs",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1642071784036204"
   }
  }
 }
