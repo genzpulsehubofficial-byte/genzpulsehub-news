@@ -509,6 +509,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1459463135655330"
+  },
+  "74c92809dbec": {
+   "at": "2026-11-28 16:53",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18507461764101334",
+   "facebook": "fb:1468782808677713"
+  },
+  "c9dd6dff817e": {
+   "at": "2026-11-28 16:54",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18108881036458738",
+   "facebook": "fb:3386662881725271"
+  },
+  "ec175934bd6b": {
+   "at": "2026-11-28 16:55",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1268252212191919"
   }
  },
  "ml": {
@@ -1105,6 +1123,24 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "ig:17996483277062690",
    "facebook": "fb:1681891786667485"
+  },
+  "74c92809dbec": {
+   "at": "2026-11-28 16:55",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:1149738274123060"
+  },
+  "c9dd6dff817e": {
+   "at": "2026-11-28 16:56",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18115902170603261",
+   "facebook": "fb:2033044148108327"
+  },
+  "ec175934bd6b": {
+   "at": "2026-11-28 16:57",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
+   "facebook": "fb:2079781692738625"
   }
  }
 }
