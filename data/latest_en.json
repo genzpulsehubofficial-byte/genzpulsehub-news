@@ -1,5 +1,85 @@
 [
  {
+  "id": "25ee423a2a5a",
+  "created": "2026-11-28T20:18:02+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/think-about-the-country-rahul-gandhi-on-dmks-support-for-delimitation-12389716#publisher=newsstand",
+  "headline": "Rahul Gandhi urges DMK to think about the country",
+  "hook": "A top Congress leader calls out a regional party on redrawing maps",
+  "what": "Rahul Gandhi said the DMK should consider the nation while supporting delimitation. He also pointed out that the Congress ally NCP (SP) has announced its backing for delimitation.",
+  "why": "Delimitation could reshape electoral boundaries, influencing future representation. Young voters should stay aware of how such changes may affect their votes.",
+  "tags": [
+   "politics",
+   "delimitation",
+   "youth",
+   "India",
+   "elections"
+  ],
+  "beats": {
+   "cover": "WHO REDEFINES INDIA'S MAP?",
+   "cover_accent": "MAP",
+   "beats": [
+    {
+     "title": "WHO REDEFINES MAPS?",
+     "accent": "MAPS",
+     "query": "political map",
+     "en": "Who decides the lines on India's electoral map?",
+     "ml": "India-ude election map-inde lines yaar decide cheyyunnu?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "congress leader speaking",
+     "en": "Actually, Congress leader Rahul Gandhi just challenged the DMK on this.",
+     "ml": "Vastavathil, Congress leader Rahul Gandhi DMK-ney redrawing maps-ine kurichu challenge cheythu."
+    },
+    {
+     "title": "GANDHI'S CALL",
+     "accent": "CALL",
+     "query": "rahul gandhi speech",
+     "en": "He urged the DMK to think about the nation, not just regional gains, while supporting delimitation.",
+     "ml": "Avan DMK-ney desham kurichu, regional benefit alla, delimitation support cheyyunna pole, think cheyyan request cheythu."
+    },
+    {
+     "title": "ALLIES BACKING",
+     "accent": "ALLIES",
+     "query": "ncp support",
+     "en": "Even the Congress ally NCP (SP) has announced its backing for delimitation.",
+     "ml": "Congress-ude ally NCP (SP) um delimitation-ine support cheyyunnu ennu announce cheythu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "young voters",
+     "en": "Delimitation can reshape constituencies, affecting who represents you—so stay aware of these changes.",
+     "ml": "Delimitation constituencies-ine reshape cheyyum, ningalude representation-ine affect cheyyum—athukondu ee changes kurichu aware aakuka."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "c8c6d056ceb0",
+  "created": "2026-11-28T20:18:18+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj?oc=5",
+  "headline": "Ramayana Part 1 Hits ₹1,800 cr, Sets $30 m NA Record",
+  "hook": "The epic is now India's third‑biggest film ever.",
+  "what": "On its 23rd day, the Ranbir Kapoor‑led ‘Ramayana Part 1’ grossed over ₹1,800 crore worldwide and earned $30 million in North America, a new record. It also surpassed the opening‑day earnings of ‘Yeh Prem Mol Liya’ and moved past Baahubali 2 to rank third among Indian movies.",
+  "why": "Crossing the ₹1,000 crore mark in India makes it the first non‑sequel to do so, showing huge teen interest in big‑budget mythological sagas; fans can expect more releases in the franchise.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "Record",
+   "Bollywood",
+   "TeenMovies"
+  ]
+ },
+ {
   "id": "a39e9ff54c81",
   "created": "2026-11-28T19:27:45+05:30",
   "category": "trending",
@@ -1612,43 +1692,6 @@
    "Elections",
    "Youth",
    "India"
-  ]
- },
- {
-  "id": "e3f45182cfb4",
-  "created": "2026-11-27T01:29:29+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/heavy-rains-cause-waterlogging-in-thiruvananthapuram-disrupt-traffic-pti8p2pme9t",
-  "headline": "Heavy rain floods Thiruvananthapuram, traffic snarls citywide",
-  "hook": "Rainwater turned streets into rivers, commuters stuck.",
-  "what": "Intense downpours drenched parts of Thiruvananthapuram, leading to deep water accumulation. Several roads became impassable, causing major traffic jams. Officials faced criticism for lack of readiness.",
-  "why": "Young commuters may need to plan alternate routes or use public transport. It highlights the need for better city drainage.",
-  "tags": [
-   "rain",
-   "traffic",
-   "Thiruvananthapuram",
-   "weather",
-   "commute"
-  ]
- },
- {
-  "id": "9ab1d867793f",
-  "created": "2026-11-27T01:35:28+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "TechCrunch",
-  "source_url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-  "headline": "X Adds Parental Controls for Teens After 20 Years",
-  "hook": "Parents can now oversee what teens see on X.",
-  "what": "The social media platform X, linked to Elon Musk, brought in parental controls for teenagers. Such controls are meant to let parents and guardians oversee what minors see. The update came after a 20-year gap.",
-  "why": "This could affect how young people use social media. Parents and guardians now have a way to guide what children view on X.",
-  "tags": [
-   "X",
-   "ParentalControls",
-   "SocialMedia",
-   "Teens"
   ]
  }
 ]

@@ -1,0 +1,45 @@
+{
+ "id": "c8c6d056ceb0",
+ "created": "2026-11-28T20:18:18+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj?oc=5",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Ramayana Part 1 Hits ₹1,800 cr, Sets $30 m NA Record",
+  "hook": "The epic is now India's third‑biggest film ever.",
+  "what": "On its 23rd day, the Ranbir Kapoor‑led ‘Ramayana Part 1’ grossed over ₹1,800 crore worldwide and earned $30 million in North America, a new record. It also surpassed the opening‑day earnings of ‘Yeh Prem Mol Liya’ and moved past Baahubali 2 to rank third among Indian movies.",
+  "why": "Crossing the ₹1,000 crore mark in India makes it the first non‑sequel to do so, showing huge teen interest in big‑budget mythological sagas; fans can expect more releases in the franchise.",
+  "tags": [
+   "Ramayana",
+   "BoxOffice",
+   "Record",
+   "Bollywood",
+   "TeenMovies"
+  ]
+ },
+ "ml": {
+  "headline": "റാമായണ part 1 ₹1,800 ക്രോഡ്, $30 മില്യൺ NA റെക്കോർഡ്",
+  "hook": "ഇത് ഇന്ത്യയിലെ മൂന്നാമത്തെ വലിയ സിനിമയായി.",
+  "what": "23‑ാം ദിവസത്തിൽ, രൺബിർ കപൂർ നയിച്ച ‘റാമായണ part 1’ ലോകവ്യാപകമായി ₹1,800 ക്രോഡിൽ കൂടുതൽ വരുമാനം നേടി, ഉത്തര അമേരിക്കയിൽ $30 മില്യൺ നേടി പുതിയ റെക്കോർഡ് സ്ഥാപിച്ചു. ‘Yeh Prem Mol Liya’യുടെ ആദ്യദിന വരുമാനം മറികടന്ന്, ബാഹുബലി 2‑നെക്കാൾ ഉയർന്നതോടെ ഇന്ത്യൻ സിനിമകളിൽ മൂന്നാമത്തെ സ്ഥാനത്ത് എത്തിയിരിക്കുന്നു.",
+  "why": "ഇന്ത്യയിൽ ₹1,000 ക്രോഡ് നെറ്റ് കടന്ന്, സീക്വൽ അല്ലാത്ത ആദ്യ സിനിമയായി, യുവജനങ്ങളിൽ വലിയ താല്പര്യം സൃഷ്ടിക്കുന്നു; ഫ്രാഞ്ചൈസി തുടർന്നുള്ള ഭാഗങ്ങൾക്കായി കാത്തിരിക്കുക.",
+  "tags": [
+   "റാമായണ",
+   "ബോക്സോഫീസ്",
+   "റെക്കോർഡ്",
+   "ബോളിവുഡ്",
+   "ടീൻ"
+  ],
+  "ok": true,
+  "tags_en": [
+   "Ramayana",
+   "BoxOffice",
+   "Record",
+   "Bollywood",
+   "TeenMovies"
+  ]
+ }
+}

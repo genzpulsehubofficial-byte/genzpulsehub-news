@@ -1,0 +1,88 @@
+{
+ "id": "25ee423a2a5a",
+ "created": "2026-11-28T20:18:02+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/think-about-the-country-rahul-gandhi-on-dmks-support-for-delimitation-12389716#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Rahul Gandhi urges DMK to think about the country",
+  "hook": "A top Congress leader calls out a regional party on redrawing maps",
+  "what": "Rahul Gandhi said the DMK should consider the nation while supporting delimitation. He also pointed out that the Congress ally NCP (SP) has announced its backing for delimitation.",
+  "why": "Delimitation could reshape electoral boundaries, influencing future representation. Young voters should stay aware of how such changes may affect their votes.",
+  "tags": [
+   "politics",
+   "delimitation",
+   "youth",
+   "India",
+   "elections"
+  ]
+ },
+ "ml": {
+  "headline": "രാജു ഗാന്ധി ഡിഎംകെയെ രാജ്യത്തെക്കുറിച്ച് ചിന്തിക്കാൻ ആഹ്വാനം ചെയ്തു",
+  "hook": "കംഗ്ലസ് നേതാവ് ഡിഎംകെയുടെ സീമാ പുനർവിതരണത്തെ ചോദ്യം ചെയ്തു",
+  "what": "രാജു ഗാന്ധി ഡിഎംകെയെ delimitation‑നെക്കുറിച്ച് രാജ്യത്തെക്കുറിച്ച് ചിന്തിക്കാൻ അഭ്യർത്ഥിച്ചു. അടുത്തുള്ള കൂട്ടുകാരനായ എൻ.സി.പി (എസ്.പി)യും delimitation‑നെ പിന്തുണയ്ക്കുന്നുവെന്ന് അദ്ദേഹം ചൂണ്ടിക്കാട്ടി.",
+  "why": "delimitation തിരഞ്ഞെടുപ്പുകളുടെ സീമകൾ മാറ്റാൻ സാധ്യതയുണ്ട്, ഇത് യുവജനങ്ങളുടെ പ്രതിനിധിത്വത്തെ ബാധിക്കും. അതിനാൽ യുവാക്കൾക്ക് ഇതിനെക്കുറിച്ച് അറിവ് കൈവരിക്കാൻ വേണ്ടിയാണ്.",
+  "tags": [
+   "politics",
+   "delimitation",
+   "youth",
+   "India",
+   "elections"
+  ],
+  "say": "കംഗ്ലസ് നേതാവ് ഡിഎംകെയുടെ സീമാ പുനർവിതരണത്തെ ചോദ്യം ചെയ്തു. രാജു ഗാന്ധി ഡിഎംകെയെ delimitation‑നെക്കുറിച്ച് രാജ്യത്തെക്കുറിച്ച് ചിന്തിക്കാൻ അഭ്യർത്ഥിച്ചു. അദ്ദേഹം എൻ.സി.പി (എസ്.പി)യും delimitation‑നെ പിന്തുണയ്ക്കുന്നുവെന്ന് ചൂണ്ടിക്കാട്ടി. delimitation തിരഞ്ഞെടുപ്പുകളുടെ സീമകൾ മാറ്റാൻ സാധ്യതയുണ്ട്, അതു യുവജനങ്ങളുടെ പ്രതിനിധിത്വത്തെ ബാധിക്കും. അതിനാൽ യുവാക്കൾക്ക് ഇതിനെക്കുറിച്ച് അറിവ് നേടണം.",
+  "ok": true,
+  "tags_en": [
+   "politics",
+   "delimitation",
+   "youth",
+   "India",
+   "elections"
+  ]
+ },
+ "beats": {
+  "cover": "WHO REDEFINES INDIA'S MAP?",
+  "cover_accent": "MAP",
+  "beats": [
+   {
+    "title": "WHO REDEFINES MAPS?",
+    "accent": "MAPS",
+    "query": "political map",
+    "en": "Who decides the lines on India's electoral map?",
+    "ml": "India-ude election map-inde lines yaar decide cheyyunnu?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "congress leader speaking",
+    "en": "Actually, Congress leader Rahul Gandhi just challenged the DMK on this.",
+    "ml": "Vastavathil, Congress leader Rahul Gandhi DMK-ney redrawing maps-ine kurichu challenge cheythu."
+   },
+   {
+    "title": "GANDHI'S CALL",
+    "accent": "CALL",
+    "query": "rahul gandhi speech",
+    "en": "He urged the DMK to think about the nation, not just regional gains, while supporting delimitation.",
+    "ml": "Avan DMK-ney desham kurichu, regional benefit alla, delimitation support cheyyunna pole, think cheyyan request cheythu."
+   },
+   {
+    "title": "ALLIES BACKING",
+    "accent": "ALLIES",
+    "query": "ncp support",
+    "en": "Even the Congress ally NCP (SP) has announced its backing for delimitation.",
+    "ml": "Congress-ude ally NCP (SP) um delimitation-ine support cheyyunnu ennu announce cheythu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young voters",
+    "en": "Delimitation can reshape constituencies, affecting who represents you—so stay aware of these changes.",
+    "ml": "Delimitation constituencies-ine reshape cheyyum, ningalude representation-ine affect cheyyum—athukondu ee changes kurichu aware aakuka."
+   }
+  ],
+  "ml_ok": false
+ }
+}
