@@ -1,0 +1,95 @@
+{
+ "id": "c68e7d69cdab",
+ "created": "2026-11-28T22:52:29+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+ "source_count": 4,
+ "provider": "groq",
+ "en": {
+  "headline": "Opposition urges parties to block delimitation bills, warns democracy at risk",
+  "hook": "Lok Sabha’s opposition chief calls the delimitation push a threat to democracy.",
+  "what": "The Leader of Opposition in the Lok Sabha addressed Gen Z, asking all parties, even those in the NDA, to oppose the Centre’s delimitation proposals. In a meeting, the opposition bloc also discussed the positions of NCP‑SP and DMK.",
+  "why": "Young voters need to understand how changes to constituency boundaries can affect representation, so staying informed and voicing opinions matters.",
+  "tags": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ]
+ },
+ "ml": {
+  "headline": "വിരുദ്ധം: delimitation ബില്ലുകൾ തടയാൻ പാർട്ടികളോട് ആഹ്വാനം, ജനാധിപത്യത്തെ ഭീഷണി",
+  "hook": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് delimitation പദ്ധതിയെ ജനാധിപത്യത്തിന് ഭീഷണിയെന്ന് വിളിച്ചു.",
+  "what": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് ജനറേഷൻ Z-നെ അഭിസംബോധന ചെയ്തു, NDAയിലെ എല്ലാ പാർട്ടികളോടും കേന്ദ്രത്തിന്റെ delimitation നിർദ്ദേശങ്ങൾക്കെതിരെ നിൽക്കാൻ അഭ്യർത്ഥിച്ചു. കൂടാതെ, വിരുദ്ധ സംഘം NCP‑SP, DMK എന്നിവരുടെ നിലപാട് ചർച്ച ചെയ്തു.",
+  "why": "യുവജനങ്ങൾ തിരഞ്ഞെടുപ്പ് മേഖലകളിലെ മാറ്റം പ്രതിനിധിത്വത്തെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയണം, അതിനാൽ വിവരങ്ങളോടെ ഇരിക്കുക, അഭിപ്രായം പ്രകടിപ്പിക്കുക പ്രധാനമാണ്.",
+  "tags": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ],
+  "say": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് delimitation പദ്ധതിയെ ജനാധിപത്യത്തിന് ഭീഷണിയെന്ന് വിളിച്ചു. അവൻ ജനറേഷൻ Z-നെ അഭിസംബോധന ചെയ്തു, NDAയിലെ എല്ലാ പാർട്ടികളോടും കേന്ദ്രത്തിന്റെ delimitation നിർദ്ദേശങ്ങൾക്കെതിരെ നിൽക്കാൻ ആഹ്വാനം ചെയ്തു. കൂടാതെ, NCP‑SP, DMK എന്നിവരുടെ നിലപാട് ചർച്ച ചെയ്തു. യുവജനങ്ങൾ തിരഞ്ഞെടുപ്പ് മേഖലകളിലെ മാറ്റം പ്രതിനിധിത്വത്തെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയണം. അതിനാൽ വിവരങ്ങളോടെ ഇരിക്കുക, അഭിപ്രായം പ്രകടിപ്പിക്കുക പ്രധാനമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ]
+ },
+ "beats": {
+  "cover": "YOUR VOTE IS AT STAKE",
+  "cover_accent": "VOTE",
+  "beats": [
+   {
+    "title": "DEMOCRACY AT RISK?",
+    "accent": "RISK",
+    "query": "parliament protest",
+    "en": "The opposition chief says the delimitation push could endanger our democracy.",
+    "ml": "Opposition chief പറയുന്നത് delimitation push നമ്മുടെ ജനാധിപത്യം അപകടത്തിലാക്കാമെന്ന്."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "political debate",
+    "en": "But actually, delimitation is just redrawing constituency maps, not a coup.",
+    "ml": "പക്ഷേ, delimitation എന്നത് constituency മാപ്പുകൾ പുനഃരേഖപ്പെടുത്തുന്നതാണ്, ഒരു കൂപ്പ് അല്ല."
+   },
+   {
+    "title": "WHAT IS DELIMITATION?",
+    "accent": "DELIMITATION",
+    "query": "map lines",
+    "en": "Delimitation means adjusting the boundaries of Lok Sabha seats based on population changes.",
+    "ml": "Delimitation എന്നത് ജനസംഖ്യ മാറ്റം അനുസരിച്ച് Lok Sabha സീറ്റുകളുടെ അതിർത്തികൾ പുനഃക്രമീകരിക്കുകയാണ്."
+   },
+   {
+    "title": "CALL TO GEN Z",
+    "accent": "GEN",
+    "query": "young voters",
+    "en": "The Leader of Opposition addressed Gen Z directly, urging every party, even those in the NDA, to vote against the bills.",
+    "ml": "Leader of Opposition Gen Z-നെ നേരിട്ട് അഭിസംബോധന ചെയ്തു, NDA-യിലുള്ള പാർട്ടികളുൾപ്പെടെ എല്ലാ പാർട്ടികളെയും ഈ ബില്ലുകൾക്കെതിരെ വോട്ട് ചെയ്യാൻ ആവശ്യപ്പെട്ടു."
+   },
+   {
+    "title": "PARTY STANCES",
+    "accent": "STANCES",
+    "query": "party meeting",
+    "en": "In the meeting they also mapped where NCP‑SP and DMK stand on the proposals.",
+    "ml": "അവരുടെ മീറ്റിംഗിൽ NCP‑SP, DMK എന്നിവയുടെ സ്ഥാനങ്ങൾ എവിടെയെന്ന് കൂടി ചർച്ച ചെയ്തു."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students discussion",
+    "en": "Because shifting boundaries can change who represents you, staying informed and speaking up is crucial for your future.",
+    "ml": "അതിർത്തികൾ മാറ്റുന്നത് നിങ്ങളുടെ പ്രതിനിധി ആരാകും എന്നത് മാറ്റാം, അതിനാൽ അറിയുകയും നിങ്ങളുടെ അഭിപ്രായം പറയുകയും ചെയ്യുന്നത് നിങ്ങളുടെ ഭാവിക്ക് അത്യാവശ്യമാണ്."
+   }
+  ],
+  "ml_ok": true
+ }
+}

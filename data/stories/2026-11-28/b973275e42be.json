@@ -1,0 +1,45 @@
+{
+ "id": "b973275e42be",
+ "created": "2026-11-28T22:52:41+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-accident-death-toll-updates/article71755407.ece",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Eight dead, including seven women, after vehicle plunges in Uttarakhand gorge",
+  "hook": "A tragic crash in the hills leaves eight dead, most of them women.",
+  "what": "A vehicle carrying twelve people fell into a 300‑metre gorge in Pauri, Uttarakhand. Eight people died, including seven women, and the driver was also among the dead. Police and SDRF teams have recovered the bodies and are conducting rescue operations.",
+  "why": "Travel in mountainous areas can be risky, especially during monsoon season. Stay updated on weather alerts and avoid risky routes.",
+  "tags": [
+   "Uttarakhand",
+   "gorge",
+   "accident",
+   "travelSafety",
+   "news"
+  ]
+ },
+ "ml": {
+  "headline": "ഉത്തരാഖണ്ഢിലെ ഗോർജിൽ വാഹനത്തിൽ വീഴ്ച, 8 മരണം, 7 സ്ത്രീകൾ",
+  "hook": "പൗരി ജില്ലയിൽ 300 മീറ്റർ ആഴമുള്ള ഗോർജിൽ വാഹനത്തിൽ വീഴ്ച, 8 പേർ മരണം, 7 സ്ത്രീകൾ.",
+  "what": "പൗരി, ഉത്തരാഖണ്ഢിലെ 300 മീറ്റർ ആഴമുള്ള ഗോർജിൽ 12 പേർ ഉള്ള ഒരു വാഹനത്തിൽ വീഴ്ച സംഭവിച്ചു. 8 പേർ, അതിൽ 7 സ്ത്രീകളും, ഡ്രൈവർ ഉൾപ്പെടെ, മരണമടഞ്ഞു. പോലീസ്, എസ്.ഡി.ആർ.എഫ് ടീമുകൾ ദേഹങ്ങൾ വീണ്ടെടുത്തു, രക്ഷാപ്രവർത്തനങ്ങൾ ആരംഭിച്ചു.",
+  "why": "മലപ്രദേശങ്ങളിലെ യാത്രകൾ അപകടകരമായിരിക്കാം, പ്രത്യേകിച്ച് മോൺസൂൺ കാലത്ത്. കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ പരിശോധിച്ച്, അപകടകരമായ വഴികളിൽ നിന്ന് ഒഴിവാക്കുക.",
+  "tags": [
+   "ഉത്തരാഖണ്ഢ്",
+   "ഗോർജ്",
+   "അപകടം",
+   "യാത്ര",
+   "വാർത്ത"
+  ],
+  "ok": true,
+  "tags_en": [
+   "Uttarakhand",
+   "gorge",
+   "accident",
+   "travelSafety",
+   "news"
+  ]
+ }
+}

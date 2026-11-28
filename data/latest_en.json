@@ -1,5 +1,92 @@
 [
  {
+  "id": "c68e7d69cdab",
+  "created": "2026-11-28T22:52:29+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+  "headline": "Opposition urges parties to block delimitation bills, warns democracy at risk",
+  "hook": "Lok Sabha’s opposition chief calls the delimitation push a threat to democracy.",
+  "what": "The Leader of Opposition in the Lok Sabha addressed Gen Z, asking all parties, even those in the NDA, to oppose the Centre’s delimitation proposals. In a meeting, the opposition bloc also discussed the positions of NCP‑SP and DMK.",
+  "why": "Young voters need to understand how changes to constituency boundaries can affect representation, so staying informed and voicing opinions matters.",
+  "tags": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ],
+  "beats": {
+   "cover": "YOUR VOTE IS AT STAKE",
+   "cover_accent": "VOTE",
+   "beats": [
+    {
+     "title": "DEMOCRACY AT RISK?",
+     "accent": "RISK",
+     "query": "parliament protest",
+     "en": "The opposition chief says the delimitation push could endanger our democracy.",
+     "ml": "Opposition chief പറയുന്നത് delimitation push നമ്മുടെ ജനാധിപത്യം അപകടത്തിലാക്കാമെന്ന്."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "political debate",
+     "en": "But actually, delimitation is just redrawing constituency maps, not a coup.",
+     "ml": "പക്ഷേ, delimitation എന്നത് constituency മാപ്പുകൾ പുനഃരേഖപ്പെടുത്തുന്നതാണ്, ഒരു കൂപ്പ് അല്ല."
+    },
+    {
+     "title": "WHAT IS DELIMITATION?",
+     "accent": "DELIMITATION",
+     "query": "map lines",
+     "en": "Delimitation means adjusting the boundaries of Lok Sabha seats based on population changes.",
+     "ml": "Delimitation എന്നത് ജനസംഖ്യ മാറ്റം അനുസരിച്ച് Lok Sabha സീറ്റുകളുടെ അതിർത്തികൾ പുനഃക്രമീകരിക്കുകയാണ്."
+    },
+    {
+     "title": "CALL TO GEN Z",
+     "accent": "GEN",
+     "query": "young voters",
+     "en": "The Leader of Opposition addressed Gen Z directly, urging every party, even those in the NDA, to vote against the bills.",
+     "ml": "Leader of Opposition Gen Z-നെ നേരിട്ട് അഭിസംബോധന ചെയ്തു, NDA-യിലുള്ള പാർട്ടികളുൾപ്പെടെ എല്ലാ പാർട്ടികളെയും ഈ ബില്ലുകൾക്കെതിരെ വോട്ട് ചെയ്യാൻ ആവശ്യപ്പെട്ടു."
+    },
+    {
+     "title": "PARTY STANCES",
+     "accent": "STANCES",
+     "query": "party meeting",
+     "en": "In the meeting they also mapped where NCP‑SP and DMK stand on the proposals.",
+     "ml": "അവരുടെ മീറ്റിംഗിൽ NCP‑SP, DMK എന്നിവയുടെ സ്ഥാനങ്ങൾ എവിടെയെന്ന് കൂടി ചർച്ച ചെയ്തു."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students discussion",
+     "en": "Because shifting boundaries can change who represents you, staying informed and speaking up is crucial for your future.",
+     "ml": "അതിർത്തികൾ മാറ്റുന്നത് നിങ്ങളുടെ പ്രതിനിധി ആരാകും എന്നത് മാറ്റാം, അതിനാൽ അറിയുകയും നിങ്ങളുടെ അഭിപ്രായം പറയുകയും ചെയ്യുന്നത് നിങ്ങളുടെ ഭാവിക്ക് അത്യാവശ്യമാണ്."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "b973275e42be",
+  "created": "2026-11-28T22:52:41+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-accident-death-toll-updates/article71755407.ece",
+  "headline": "Eight dead, including seven women, after vehicle plunges in Uttarakhand gorge",
+  "hook": "A tragic crash in the hills leaves eight dead, most of them women.",
+  "what": "A vehicle carrying twelve people fell into a 300‑metre gorge in Pauri, Uttarakhand. Eight people died, including seven women, and the driver was also among the dead. Police and SDRF teams have recovered the bodies and are conducting rescue operations.",
+  "why": "Travel in mountainous areas can be risky, especially during monsoon season. Stay updated on weather alerts and avoid risky routes.",
+  "tags": [
+   "Uttarakhand",
+   "gorge",
+   "accident",
+   "travelSafety",
+   "news"
+  ]
+ },
+ {
   "id": "8c21eac9b882",
   "created": "2026-11-28T22:00:34+05:30",
   "category": "headlines",
@@ -1925,43 +2012,6 @@
    "Congress",
    "India",
    "elections"
-  ]
- },
- {
-  "id": "eced41cd552e",
-  "created": "2026-11-27T14:06:33+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/kpcc-chief-sunny-joseph-seeks-meeting-with-rahul-gandhi-kharge-amid-factional-rumblings-in-congress/article71749799.ece",
-  "headline": "KPCC chief seeks talk with Gandhi, Kharge amid Kerala party split",
-  "hook": "Congress’s Kerala head wants a sit‑down as factions clash.",
-  "what": "KPCC chief Sunny Joseph said he wants to meet Rahul Gandhi and Mallikarjun Kharge. He made the request as internal disagreements surface in the state Congress. He declined to comment on the ongoing war of words and the flex boards supporting different leaders.",
-  "why": "The meeting could shape the party’s stance in Kerala, affecting future elections and youth representation. Keep an eye on any shifts in strategy.",
-  "tags": [
-   "KeralaPolitics",
-   "Congress",
-   "KPCC",
-   "Youth"
-  ]
- },
- {
-  "id": "4c3e0b8350c7",
-  "created": "2026-11-27T14:06:38+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Onmanorama",
-  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1JVcEdKdjQ1bEdzdjVYZUNibVBpZ3A3bktJRjdPanRPZXUzV1dOM3ZkNnhqTHQwNjBwOEg1QVBwZXNlVS1pUG8xVGpBbHhLTnVIM3FwemktVFdaUWR3ZjVVNWV1ODZJUGtPMnZtRXhyeW5YU0lCUEUtTUk1NWdJSTEzU1JMRHktT29pQmFJNDlMczRlalJUV0p0SXc1eGtZVENjLVE1TFhnSmFmdGZ5VHpqSEtqcE5rTnNxcTd0NnV4RmZqTGZoQ2cyZ0U0Nk0?oc=5",
-  "headline": "Chirakkara Panchayat Launches Tourism Plan for Polachira Wetlands",
-  "hook": "Your next weekend getaway could be a newly promoted wetland spot!",
-  "what": "The local governing body of Chirakkara in Kollam announced a new tourism development project focused on the Polachira wetlands. The plan aims to improve visitor facilities and promote eco‑tourism.",
-  "why": "Young travelers can look forward to better amenities and nature experiences nearby. Keep an eye out for upcoming events or tours in the area.",
-  "tags": [
-   "Kollam",
-   "Polachira",
-   "EcoTourism",
-   "Travel",
-   "Kerala"
   ]
  }
 ]

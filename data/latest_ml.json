@@ -1,5 +1,109 @@
 [
  {
+  "id": "c68e7d69cdab",
+  "created": "2026-11-28T22:52:29+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/india-bloc-decides-to-oppose-delimitation-bill-says-it-is-against-scssts-will-end-democracy/article71754026.ece",
+  "headline": "വിരുദ്ധം: delimitation ബില്ലുകൾ തടയാൻ പാർട്ടികളോട് ആഹ്വാനം, ജനാധിപത്യത്തെ ഭീഷണി",
+  "hook": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് delimitation പദ്ധതിയെ ജനാധിപത്യത്തിന് ഭീഷണിയെന്ന് വിളിച്ചു.",
+  "what": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് ജനറേഷൻ Z-നെ അഭിസംബോധന ചെയ്തു, NDAയിലെ എല്ലാ പാർട്ടികളോടും കേന്ദ്രത്തിന്റെ delimitation നിർദ്ദേശങ്ങൾക്കെതിരെ നിൽക്കാൻ അഭ്യർത്ഥിച്ചു. കൂടാതെ, വിരുദ്ധ സംഘം NCP‑SP, DMK എന്നിവരുടെ നിലപാട് ചർച്ച ചെയ്തു.",
+  "why": "യുവജനങ്ങൾ തിരഞ്ഞെടുപ്പ് മേഖലകളിലെ മാറ്റം പ്രതിനിധിത്വത്തെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയണം, അതിനാൽ വിവരങ്ങളോടെ ഇരിക്കുക, അഭിപ്രായം പ്രകടിപ്പിക്കുക പ്രധാനമാണ്.",
+  "tags": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ],
+  "say": "ലോക്ക്‌സഭയിലെ വിരുദ്ധ നേതാവ് delimitation പദ്ധതിയെ ജനാധിപത്യത്തിന് ഭീഷണിയെന്ന് വിളിച്ചു. അവൻ ജനറേഷൻ Z-നെ അഭിസംബോധന ചെയ്തു, NDAയിലെ എല്ലാ പാർട്ടികളോടും കേന്ദ്രത്തിന്റെ delimitation നിർദ്ദേശങ്ങൾക്കെതിരെ നിൽക്കാൻ ആഹ്വാനം ചെയ്തു. കൂടാതെ, NCP‑SP, DMK എന്നിവരുടെ നിലപാട് ചർച്ച ചെയ്തു. യുവജനങ്ങൾ തിരഞ്ഞെടുപ്പ് മേഖലകളിലെ മാറ്റം പ്രതിനിധിത്വത്തെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയണം. അതിനാൽ വിവരങ്ങളോടെ ഇരിക്കുക, അഭിപ്രായം പ്രകടിപ്പിക്കുക പ്രധാനമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "delimitation",
+   "opposition",
+   "democracy",
+   "genz",
+   "politics"
+  ],
+  "beats": {
+   "cover": "YOUR VOTE IS AT STAKE",
+   "cover_accent": "VOTE",
+   "beats": [
+    {
+     "title": "DEMOCRACY AT RISK?",
+     "accent": "RISK",
+     "query": "parliament protest",
+     "en": "The opposition chief says the delimitation push could endanger our democracy.",
+     "ml": "Opposition chief പറയുന്നത് delimitation push നമ്മുടെ ജനാധിപത്യം അപകടത്തിലാക്കാമെന്ന്."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "political debate",
+     "en": "But actually, delimitation is just redrawing constituency maps, not a coup.",
+     "ml": "പക്ഷേ, delimitation എന്നത് constituency മാപ്പുകൾ പുനഃരേഖപ്പെടുത്തുന്നതാണ്, ഒരു കൂപ്പ് അല്ല."
+    },
+    {
+     "title": "WHAT IS DELIMITATION?",
+     "accent": "DELIMITATION",
+     "query": "map lines",
+     "en": "Delimitation means adjusting the boundaries of Lok Sabha seats based on population changes.",
+     "ml": "Delimitation എന്നത് ജനസംഖ്യ മാറ്റം അനുസരിച്ച് Lok Sabha സീറ്റുകളുടെ അതിർത്തികൾ പുനഃക്രമീകരിക്കുകയാണ്."
+    },
+    {
+     "title": "CALL TO GEN Z",
+     "accent": "GEN",
+     "query": "young voters",
+     "en": "The Leader of Opposition addressed Gen Z directly, urging every party, even those in the NDA, to vote against the bills.",
+     "ml": "Leader of Opposition Gen Z-നെ നേരിട്ട് അഭിസംബോധന ചെയ്തു, NDA-യിലുള്ള പാർട്ടികളുൾപ്പെടെ എല്ലാ പാർട്ടികളെയും ഈ ബില്ലുകൾക്കെതിരെ വോട്ട് ചെയ്യാൻ ആവശ്യപ്പെട്ടു."
+    },
+    {
+     "title": "PARTY STANCES",
+     "accent": "STANCES",
+     "query": "party meeting",
+     "en": "In the meeting they also mapped where NCP‑SP and DMK stand on the proposals.",
+     "ml": "അവരുടെ മീറ്റിംഗിൽ NCP‑SP, DMK എന്നിവയുടെ സ്ഥാനങ്ങൾ എവിടെയെന്ന് കൂടി ചർച്ച ചെയ്തു."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students discussion",
+     "en": "Because shifting boundaries can change who represents you, staying informed and speaking up is crucial for your future.",
+     "ml": "അതിർത്തികൾ മാറ്റുന്നത് നിങ്ങളുടെ പ്രതിനിധി ആരാകും എന്നത് മാറ്റാം, അതിനാൽ അറിയുകയും നിങ്ങളുടെ അഭിപ്രായം പറയുകയും ചെയ്യുന്നത് നിങ്ങളുടെ ഭാവിക്ക് അത്യാവശ്യമാണ്."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "b973275e42be",
+  "created": "2026-11-28T22:52:41+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-accident-death-toll-updates/article71755407.ece",
+  "headline": "ഉത്തരാഖണ്ഢിലെ ഗോർജിൽ വാഹനത്തിൽ വീഴ്ച, 8 മരണം, 7 സ്ത്രീകൾ",
+  "hook": "പൗരി ജില്ലയിൽ 300 മീറ്റർ ആഴമുള്ള ഗോർജിൽ വാഹനത്തിൽ വീഴ്ച, 8 പേർ മരണം, 7 സ്ത്രീകൾ.",
+  "what": "പൗരി, ഉത്തരാഖണ്ഢിലെ 300 മീറ്റർ ആഴമുള്ള ഗോർജിൽ 12 പേർ ഉള്ള ഒരു വാഹനത്തിൽ വീഴ്ച സംഭവിച്ചു. 8 പേർ, അതിൽ 7 സ്ത്രീകളും, ഡ്രൈവർ ഉൾപ്പെടെ, മരണമടഞ്ഞു. പോലീസ്, എസ്.ഡി.ആർ.എഫ് ടീമുകൾ ദേഹങ്ങൾ വീണ്ടെടുത്തു, രക്ഷാപ്രവർത്തനങ്ങൾ ആരംഭിച്ചു.",
+  "why": "മലപ്രദേശങ്ങളിലെ യാത്രകൾ അപകടകരമായിരിക്കാം, പ്രത്യേകിച്ച് മോൺസൂൺ കാലത്ത്. കാലാവസ്ഥാ മുന്നറിയിപ്പുകൾ പരിശോധിച്ച്, അപകടകരമായ വഴികളിൽ നിന്ന് ഒഴിവാക്കുക.",
+  "tags": [
+   "ഉത്തരാഖണ്ഢ്",
+   "ഗോർജ്",
+   "അപകടം",
+   "യാത്ര",
+   "വാർത്ത"
+  ],
+  "ok": true,
+  "tags_en": [
+   "Uttarakhand",
+   "gorge",
+   "accident",
+   "travelSafety",
+   "news"
+  ]
+ },
+ {
   "id": "8c21eac9b882",
   "created": "2026-11-28T22:00:34+05:30",
   "category": "headlines",
@@ -1474,60 +1578,6 @@
    "Congress",
    "India",
    "elections"
-  ]
- },
- {
-  "id": "eced41cd552e",
-  "created": "2026-11-27T14:06:33+05:30",
-  "category": "kerala",
-  "breaking": true,
-  "source": "The Hindu",
-  "source_url": "https://www.thehindu.com/news/national/kerala/kpcc-chief-sunny-joseph-seeks-meeting-with-rahul-gandhi-kharge-amid-factional-rumblings-in-congress/article71749799.ece",
-  "headline": "KPCC ചീഫ് Sunny Joseph, Rahul Gandhi, Mallikarjun Khurja കാണാൻ ആഗ്രഹിക്കുന്നു, കേരളത്തിൽ പാർട്ടി വിഭജനം",
-  "hook": "കांग्रेसയിലെ ആഭ്യന്തര തർക്കം കൂടുമ്പോൾ, KPCC ചീഫ് ഒരു കൂടിക്കാഴ്ച ആവശ്യപ്പെടുന്നു.",
-  "what": "KPCC ചീഫ് Sunny Joseph, Rahul Gandhi, Mallikarjun Khurja എന്നിവരുമായി കൂടിക്കാഴ്ച ആഗ്രഹിക്കുന്നു. സംസ്ഥാനത്തെ പാർട്ടി സംഘർഷങ്ങൾ ഉയർന്നിരിക്കുകയാണ്. അദ്ദേഹം വാക്കു യുദ്ധം, നേതാക്കളെ പിന്തുണയ്ക്കുന്ന flex board‑കൾ എന്നിവയെക്കുറിച്ച് അഭിപ്രായം പറയാതെ നിൽക്കുന്നു.",
-  "why": "ഇത് കേരളത്തിലെ തെരഞ്ഞെടുപ്പുകളുടെ ദിശയെ ബാധിക്കാം, യുവജനങ്ങളുടെ രാഷ്ട്രീയ പങ്കാളിത്തം സ്വാധീനിക്കും. പുതിയ വികസനങ്ങളിലേക്കു ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "കേരളം",
-   "കോംഗ്രസ്",
-   "KPCC",
-   "യുവാക്കൾ"
-  ],
-  "say": "കांग्रेसയിലെ ആഭ്യന്തര തർക്കം കൂടുമ്പോൾ, KPCC ചീഫ് ഒരു കൂടിക്കാഴ്ച ആവശ്യപ്പെടുന്നു. KPCC ചീഫ് Sunny Joseph, Rahul Gandhi, Mallikarjun Khurja എന്നിവരുമായി കൂടാൻ ആഗ്രഹിക്കുന്നു. സംസ്ഥാനത്തെ പാർട്ടി സംഘർഷങ്ങൾ ഉയർന്നിരിക്കുകയാണ്. അദ്ദേഹം വാക്കു യുദ്ധം, നേതാക്കളെ പിന്തുണയ്ക്കുന്ന flex board‑കൾ എന്നിവയെക്കുറിച്ച് silence‑ൽ നിൽക്കുന്നു. ഇത് കേരളത്തിലെ തെരഞ്ഞെടുപ്പുകളുടെ ദിശയെ ബാധിക്കാം, യുവജനങ്ങളുടെ രാഷ്ട്രീയ പങ്കാളിത്തം സ്വാധീനിക്കും. പുതിയ വികസനങ്ങളിലേക്കു ശ്രദ്ധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "KeralaPolitics",
-   "Congress",
-   "KPCC",
-   "Youth"
-  ]
- },
- {
-  "id": "4c3e0b8350c7",
-  "created": "2026-11-27T14:06:38+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Onmanorama",
-  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1JVcEdKdjQ1bEdzdjVYZUNibVBpZ3A3bktJRjdPanRPZXUzV1dOM3ZkNnhqTHQwNjBwOEg1QVBwZXNlVS1pUG8xVGpBbHhLTnVIM3FwemktVFdaUWR3ZjVVNWV1ODZJUGtPMnZtRXhyeW5YU0lCUEUtTUk1NWdJSTEzU1JMRHktT29pQmFJNDlMczRlalJUV0p0SXc1eGtZVENjLVE1TFhnSmFmdGZ5VHpqSEtqcE5rTnNxcTd0NnV4RmZqTGZoQ2cyZ0U0Nk0?oc=5",
-  "headline": "ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ടൂറിസം പദ്ധതി പ്രഖ്യാപിച്ചു",
-  "hook": "നിങ്ങളുടെ അടുത്ത അവധി ദിനം പുതിയ പ്രകൃതിസൗന്ദര്യത്തിൽ ചെലവിടാം!",
-  "what": "ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ഒരു ടൂറിസം വികസന പദ്ധതി പ്രഖ്യാപിച്ചു. ഈ പദ്ധതിയിൽ സന്ദർശക സൗകര്യങ്ങൾ മെച്ചപ്പെടുത്തുകയും ഇക്കോ‑ടൂറിസം പ്രോത്സാഹിപ്പിക്കുകയും ചെയ്യുന്നു.",
-  "why": "യുവാക്കൾക്ക് അടുത്തുള്ള പ്രകൃതിസുന്ദരമായ സ്ഥലങ്ങൾ കൂടുതൽ ആകർഷകമാകും. വരാനിരിക്കുന്ന ഇവന്റുകളും ടൂറുകളും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Kollam",
-   "Polachira",
-   "EcoTourism",
-   "Travel",
-   "Kerala"
-  ],
-  "say": "അടുത്ത അവധി ദിനം, പുതിയ പ്രകൃതിസൗന്ദര്യത്തിൽ ചെലവിടാം! ചിറക്കര ഗ്രാമപഞ്ചായത്ത് പൊളാചിറ wetlands‑ക്ക് ഒരു ടൂറിസം വികസന പദ്ധതി പ്രഖ്യാപിച്ചു. സന്ദർശക സൗകര്യങ്ങൾ മെച്ചപ്പെടുത്തും, ഇക്കോ‑ടൂറിസം പ്രോത്സാഹിപ്പിക്കും. ഇത് യുവാക്കൾക്ക് അടുത്തുള്ള മനോഹര സ്ഥലമായി മാറും. വരാനിരിക്കുന്ന ഇവന്റുകളും ടൂറുകളും ശ്രദ്ധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "Kollam",
-   "Polachira",
-   "EcoTourism",
-   "Travel",
-   "Kerala"
   ]
  }
 ]
