@@ -1003,6 +1003,12 @@
    "youtube": "skipped (daily cap/pause)",
    "instagram": "error: upload {'debug_info': {'retriable': False, 'type': 'ProcessingFailedError', 'message': 'Request processing failed'}}",
    "facebook": "fb:1135788325719343"
+  },
+  "59d8e334e835": {
+   "at": "2026-11-28 10:53",
+   "youtube": "skipped (daily cap/pause)",
+   "instagram": "ig:18118246244015078",
+   "facebook": "fb:1037849056008255"
   }
  }
 }
