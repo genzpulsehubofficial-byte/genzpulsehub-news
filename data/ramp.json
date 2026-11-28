@@ -3,11 +3,13 @@
  "counts": {
   "en": {
    "youtube": 1,
-   "facebook": 1
+   "facebook": 2,
+   "instagram": 1
   },
   "ml": {
    "youtube": 1,
-   "facebook": 1
+   "facebook": 2,
+   "instagram": 1
   }
  },
  "pause": {
