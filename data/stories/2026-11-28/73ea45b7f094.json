@@ -1,0 +1,45 @@
+{
+ "id": "73ea45b7f094",
+ "created": "2026-11-28T22:00:53+05:30",
+ "category": "money",
+ "region": "in",
+ "breaking": false,
+ "source": "Livemint",
+ "source_url": "https://www.livemint.com/money/personal-finance/how-much-salary-hike-do-you-need-to-beat-inflation-in-india-what-it-means-for-your-savings-mf-sips-financial-goals-11795877535546.html",
+ "source_count": 1,
+ "provider": "groq",
+ "en": {
+  "headline": "Need 9‑10% raise to beat India’s inflation",
+  "hook": "Your next pay bump could decide if your savings grow or shrink",
+  "what": "Indian workers require roughly a 9‑10% yearly salary increase to keep up with rising prices. Higher living costs are eating into savings, so experts suggest directing part of any raise into mutual‑fund SIPs and long‑term goals.",
+  "why": "For young earners, investing the extra amount helps protect buying power. Instead of just spending the raise, consider feeding it into systematic investment plans.",
+  "tags": [
+   "salary",
+   "inflation",
+   "savings",
+   "investments",
+   "SIP"
+  ]
+ },
+ "ml": {
+  "headline": "വരുമാന വർധന 9‑10% ആവശ്യം, ഇൻഫ്ലേഷൻ മറികടക്കാൻ",
+  "hook": "നിങ്ങളുടെ അടുത്ത ശമ്പള വർധനം, സേവിംഗ്സ് വളരാൻ അല്ലെങ്കിൽ ചുരുങ്ങാൻ തീരുമാനിക്കും",
+  "what": "ഇന്ത്യൻ തൊഴിലാളികൾക്ക് വാർഷികം 9‑10% ശമ്പള വർധന വേണം ഇൻഫ്ലേഷൻക്ക് മുകളിൽ നിൽക്കാൻ. ചെലവുകൾ ഉയരുമ്പോൾ സേവിംഗ്സ് കുറയുന്നു, അതിനാൽ വർധനയുടെ ഒരു ഭാഗം മ്യൂച്വൽ ഫണ്ട് SIP-ലും ദീർഘകാല ലക്ഷ്യങ്ങളിലും നിക്ഷേപിക്കണം.",
+  "why": "യുവജനങ്ങൾക്ക് ഈ അധികം നിക്ഷേപിച്ച് വാങ്ങൽ ശേഷി സംരക്ഷിക്കാം. അധികം ചെലവഴിക്കാതെ, systematic investment plan-ലേക്ക് മാറ്റം ചെയ്യുക.",
+  "tags": [
+   "ശമ്പളം",
+   "ഇൻഫ്ലേഷൻ",
+   "സേവിംഗ്സ്",
+   "നിക്ഷേപം",
+   "SIP"
+  ],
+  "ok": true,
+  "tags_en": [
+   "salary",
+   "inflation",
+   "savings",
+   "investments",
+   "SIP"
+  ]
+ }
+}

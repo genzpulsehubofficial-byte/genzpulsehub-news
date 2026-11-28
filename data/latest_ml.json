@@ -1,5 +1,106 @@
 [
  {
+  "id": "8c21eac9b882",
+  "created": "2026-11-28T22:00:34+05:30",
+  "category": "headlines",
+  "breaking": false,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/cities/Coimbatore/we-the-leaders-welcomes-delimitation-proposal/article71755208.ece",
+  "headline": "‘We the Leaders’ delimitation പദ്ധതി അംഗീകരിച്ചു",
+  "hook": "യുവസംഘം പുതിയ സീമാ മാറ്റം സന്തോഷത്തോടെ സ്വീകരിച്ചു.",
+  "what": "‘We the Leaders’ എന്ന സംഘടന പുതിയ delimitation proposal‑നെ പിന്തുണക്കുന്നു. സീമാ പരിധി മാറ്റം സംബന്ധിച്ച ഈ തീരുമാനം അവർ അംഗീകരിച്ചു.",
+  "why": "ഇത് ഭാവി തിരഞ്ഞെടുപ്പുകളും പ്രതിനിധിത്വവും ബാധിക്കും, യുവജനങ്ങളുടെ സ്വരം ശക്തമാക്കാൻ സഹായിക്കും. പുതിയ സീമാ മാറ്റം നിങ്ങളുടെ വോട്ട് മേഖലയെ എങ്ങനെ ബാധിക്കും എന്ന് അറിയുക.",
+  "tags": [
+   "delimitation",
+   "യുവജന",
+   "ഇന്ത്യ"
+  ],
+  "say": "യുവസംഘം പുതിയ സീമാ മാറ്റം സന്തോഷത്തോടെ സ്വീകരിച്ചു. ‘We the Leaders’ എന്ന സംഘടന പുതിയ delimitation proposal‑നെ പിന്തുണക്കുന്നു, സീമാ പരിധി മാറ്റം സംബന്ധിച്ച തീരുമാനം അവർ അംഗീകരിച്ചു. ഈ മാറ്റം ഭാവി തിരഞ്ഞെടുപ്പുകളും പ്രതിനിധിത്വവും ബാധിക്കും, യുവജനങ്ങളുടെ സ്വരം ശക്തമാക്കും. നിങ്ങളുടെ വോട്ട് മേഖലയിൽ ഈ സീമാ മാറ്റം എങ്ങനെ ബാധിക്കും എന്ന് അറിയൂ.",
+  "ok": true,
+  "tags_en": [
+   "delimitation",
+   "youth",
+   "politics",
+   "India"
+  ],
+  "beats": {
+   "cover": "NEW BOUNDARIES, YOUTH POWER?",
+   "cover_accent": "POWER",
+   "beats": [
+    {
+     "title": "NEW MAP?",
+     "accent": "MAP",
+     "query": "political map animation",
+     "en": "A fresh electoral map is being drawn—what could it mean for India's youth?",
+     "ml": "ഒരു പുതിയ തിരഞ്ഞെടുപ്പ് മാപ്പ് വരയ്ക്കപ്പെടുന്നു—ഇത് നമ്മുടെ യുവജനങ്ങൾക്ക് എന്ത് അർത്ഥമാക്കും?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "youth rally cheering",
+     "en": "It’s not chaos; a youth group called ‘We the Leaders’ is actually cheering the change.",
+     "ml": "പോരാട്ടമല്ല, ‘We the Leaders’ എന്ന യുവസംഘം ഈ മാറ്റം ആഘോഷിക്കുന്നു."
+    },
+    {
+     "title": "GROUP SUPPORTS",
+     "accent": "SUPPORTS",
+     "query": "young activists meeting",
+     "en": "‘We the Leaders’ publicly backs the new delimitation plan, saying they welcome the redrawn boundaries.",
+     "ml": "‘We the Leaders’ ഔദ്യോഗികമായി പുതിയ ഡെലിമിറ്റേഷൻ പ്ലാനിനെ പിന്തുണക്കുന്നു, അതിന്റെ പരിധി മാറ്റങ്ങൾ സ്വാഗതം ചെയ്യുന്നു."
+    },
+    {
+     "title": "WHAT IS DELIM",
+     "accent": "DELIM",
+     "query": "electoral boundaries lines",
+     "en": "Delimitation means redefining constituency borders to balance population and representation.",
+     "ml": "ഡെലിമിറ്റേഷൻ എന്നത് തെരഞ്ഞെടുപ്പ് മേഖലയെ ജനസംഖ്യയും പ്രതിനിധിത്വവും അനുസരിച്ച് പുനർവിന്യാസം ചെയ്യുന്നതാണ്."
+    },
+    {
+     "title": "IMPACT ON VOTES",
+     "accent": "VOTES",
+     "query": "students voting booth",
+     "en": "These new borders could shift which candidates win, giving youth a stronger voice in parliament.",
+     "ml": "പുതിയ അതിർത്തികൾ തിരഞ്ഞെടുപ്പ് ഫലത്തെ മാറ്റി, യുവജനങ്ങളുടെ ശബ്ദം കൂടുതൽ ശക്തമാക്കാം."
+    },
+    {
+     "title": "WHY CARE?",
+     "accent": "CARE",
+     "query": "teenagers using phone",
+     "en": "Knowing the new map helps you see where your vote counts and how you can shape the future.",
+     "ml": "പുതിയ മാപ്പ് അറിയുന്നത് കൊണ്ട്, നിങ്ങളുടെ വോട്ട് എവിടെയാണു പ്രധാനമെന്ന് മനസിലാക്കാം, ഭാവി രൂപപ്പെടുത്താൻ കഴിയും."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "73ea45b7f094",
+  "created": "2026-11-28T22:00:53+05:30",
+  "category": "money",
+  "breaking": false,
+  "source": "Livemint",
+  "source_url": "https://www.livemint.com/money/personal-finance/how-much-salary-hike-do-you-need-to-beat-inflation-in-india-what-it-means-for-your-savings-mf-sips-financial-goals-11795877535546.html",
+  "headline": "വരുമാന വർധന 9‑10% ആവശ്യം, ഇൻഫ്ലേഷൻ മറികടക്കാൻ",
+  "hook": "നിങ്ങളുടെ അടുത്ത ശമ്പള വർധനം, സേവിംഗ്സ് വളരാൻ അല്ലെങ്കിൽ ചുരുങ്ങാൻ തീരുമാനിക്കും",
+  "what": "ഇന്ത്യൻ തൊഴിലാളികൾക്ക് വാർഷികം 9‑10% ശമ്പള വർധന വേണം ഇൻഫ്ലേഷൻക്ക് മുകളിൽ നിൽക്കാൻ. ചെലവുകൾ ഉയരുമ്പോൾ സേവിംഗ്സ് കുറയുന്നു, അതിനാൽ വർധനയുടെ ഒരു ഭാഗം മ്യൂച്വൽ ഫണ്ട് SIP-ലും ദീർഘകാല ലക്ഷ്യങ്ങളിലും നിക്ഷേപിക്കണം.",
+  "why": "യുവജനങ്ങൾക്ക് ഈ അധികം നിക്ഷേപിച്ച് വാങ്ങൽ ശേഷി സംരക്ഷിക്കാം. അധികം ചെലവഴിക്കാതെ, systematic investment plan-ലേക്ക് മാറ്റം ചെയ്യുക.",
+  "tags": [
+   "ശമ്പളം",
+   "ഇൻഫ്ലേഷൻ",
+   "സേവിംഗ്സ്",
+   "നിക്ഷേപം",
+   "SIP"
+  ],
+  "ok": true,
+  "tags_en": [
+   "salary",
+   "inflation",
+   "savings",
+   "investments",
+   "SIP"
+  ]
+ },
+ {
   "id": "74c92809dbec",
   "created": "2026-11-28T21:10:52+05:30",
   "category": "headlines",
@@ -1427,60 +1528,6 @@
    "EcoTourism",
    "Travel",
    "Kerala"
-  ]
- },
- {
-  "id": "e6e38c43bf04",
-  "created": "2026-11-27T14:17:37+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Rediff.com",
-  "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGs3NmJSR1FQS0pJc2thOTladUFadVQ1N0pfcEEyWHFqZWhwbjBUM3dTZVlKbVd2QmY0RjdVaktRWEFmN2YxVG1NQ19SdktKTGdZbFM0V3p1SXZWYmtyUFphdkk0X2ptNEM5a1YwVjR2ZUp2WmZNZjZuaUFRd292WV8tWHdlOXJtR19mbzE2dGk0TWVKQ21UelZYQWJTX1NOaXNwMUxFVTdUa1d2OXNN0gG0AUFVX3lxTE5zWmFyWkhhZl9QV0FTcl9PbUZ0MWk3bERrZFVvenplSnNOcXEwd09uamoyUGVINURmUEs3OWdmQldldGlTXzlSeWZxeWpJOG5ZeFVxbUtRTGFueWE2MjVvWi1nUUhjQnRTQi1pLUtlVk02M3RCX2twb3pRMHlfbG9idXlLdXI2SnRvWU1vRFZuYk1VTVFmSmMxbjY3bmNqQVBzRWJKZDdRM2tRRGdndFBlQklsbQ?oc=5",
-  "headline": "സുപ്രീം കോടതി റാമായണ സിനിമ കേസിൽ അടിയന്തര പട്ടിക ഒഴിവാക്കി",
-  "hook": "പുതിയ റാമായണ സിനിമയ്ക്ക് വിവാദമായി. സുപ്രീം കോടതി ഒരു അഭിപ്രായം പറഞ്ഞു.",
-  "what": "സുപ്രീം കോടതി റാമായണം. Life of Legend എന്ന സിനിമയെക്കുറിച്ചുള്ള അടിയന്തര വാദം കേൾക്കാതിരിച്ചു. സിനിമയെക്കുറിച്ചുള്ള വാദങ്ങളുണ്ടായിരുന്നു. മറ്റുള്ള കാഴ്ചപ്പാടുള്ളവർ സംസ്കരിച്ച സിനിമ Life of Legend എന്ന് സർക്കാർ പറഞ്ഞു.",
-  "why": "യുവയിരുള്ളർക്ക് ഇത് പ്രധാനമായും കഥയുടെ സംസ്കാരത്തെക്കുറിച്ചാണ്. സിനിമ കാണുകയോ ചർച്ച ചെയ്യുകയോ ചെയ്യാം.",
-  "tags": [
-   "Ramayana",
-   "SupremeCourt",
-   "FilmDebate",
-   "Malayalam"
-  ],
-  "say": "പുതിയ റാമായണ സിനിമയ്ക്ക് വിവാദമായി. സുപ്രീം കോടതി ഒരു അഭിപ്രായം പറഞ്ഞു. സുപ്രീം കോടതി റാമായണം. Life of Legend എന്ന സിനിമയെക്കുറിച്ചുള്ള അടിയന്തര വാദം കേൾക്കാതിരിച്ചു. സിനിമയെക്കുറിച്ചുള്ള വാദങ്ങളുണ്ടായിരുന്നു. മറ്റുള്ള കാഴ്ചപ്പാടുള്ളവർ സംസ്കരിച്ച സിനിമ Life of Legend എന്ന് സർക്കാർ പറഞ്ഞു. യുവയിരുള്ളർക്ക് ഇത് പ്രധാനമായും കഥയുടെ സംസ്കാരത്തെക്കുറിച്ചാണ്. സിനിമ കാണുകയോ ചർച്ച ചെയ്യുകയോ ചെയ്യാം.",
-  "ok": true,
-  "tags_en": [
-   "Ramayana",
-   "SupremeCourt",
-   "FilmDebate",
-   "IndianCinema"
-  ]
- },
- {
-  "id": "3dd6593d973e",
-  "created": "2026-11-27T05:18:38+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/world-news/2-italians-killed-in-drone-strike-in-kuwait-iran-denies-responsibility-12382629#publisher=newsstand",
-  "headline": "കുവൈറ്റിലെ ഡ്രോൺ ആക്രമണത്തിൽ രണ്ട് ഇറ്റാലിയൻ മരണം, ഇറാൻ നിരാകരിച്ചു",
-  "hook": "ഡ്രോൺ ആക്രമണം കുവൈറ്റിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാരെ കൊല്ലുകയും, ഇറാൻ കുറ്റം നിഷേധിച്ചു.",
-  "what": "കുവൈറ്റിൽ ഒരു ഡ്രോൺ ആക്രമണം നടന്നു, അതിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാർ മരിച്ചു. ഇറ്റലിയും കുവൈറ്റും ഈ സംഭവത്തെ ഇറാനോട് ബന്ധിപ്പിച്ചു, എന്നാൽ ഇറാൻ ഈ ആരോപണം നിരാകരിച്ചു.",
-  "why": "ഇറാൻ-പശ്ചാത്തലത്തിലുള്ള ഈ സംഘർഷം പ്രദേശിക സുരക്ഷയെ ബാധിക്കാം; യാത്രാ നിർദ്ദേശങ്ങളും വാർത്തകളും ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "കുവൈറ്റ്",
-   "ഇറ്റലി",
-   "ഡ്രോൺ",
-   "ഇറാൻ",
-   "വാർത്ത"
-  ],
-  "say": "ഡ്രോൺ ആക്രമണം കുവൈറ്റിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാരെ കൊല്ലുകയും, ഇറാൻ കുറ്റം നിഷേധിച്ചു. കുവൈറ്റിൽ ഒരു ഡ്രോൺ ആക്രമണം നടന്നു, അതിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാർ ചെയ്തു. ഇറ്റലിയും കുവൈറ്റും ഈ സംഭവത്തെ ഇറാനോട് ബന്ധിപ്പിച്ചു, എന്നാൽ ഇറാൻ ഈ ആരോപണം നിരാകരിച്ചു. ഇറാൻ-പശ്ചാത്തലത്തിലുള്ള ഈ സംഘർഷം പ്രദേശിക സുരക്ഷയെ ബാധിക്കാം; യാത്രാ നിർദ്ദേശങ്ങളും വാർത്തകളും ശ്രദ്ധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "Kuwait",
-   "Italy",
-   "drone",
-   "Iran",
-   "news"
   ]
  }
 ]
