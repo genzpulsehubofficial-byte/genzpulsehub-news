@@ -1,0 +1,88 @@
+{
+ "id": "ec175934bd6b",
+ "created": "2026-11-28T19:35:36+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/our-3-mps-will-vote-in-favour-brs-announces-support-for-delimitation-bill-12389126#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "BRS pledges support for delimitation bill with three Rajya Sabha votes",
+  "hook": "Three upper house MPs are set to back a key electoral reform.",
+  "what": "The Bharat Rashtra Samithi said its three members in the Rajya Sabha will vote in favour of the delimitation bill. The party has no members in the Lok Sabha.",
+  "why": "The vote could shape the outcome of the delimitation bill in Parliament. Young voters should keep an eye on its progress.",
+  "tags": [
+   "BRS",
+   "Delimitation",
+   "Politics",
+   "India",
+   "Youth"
+  ]
+ },
+ "ml": {
+  "headline": "BRS പ്രഖ്യാപിച്ചു, ഡെലിമിറ്റർ ബിൽ മൂന്ന് Rajya Sabha അംഗങ്ങൾ പിന്തുണ",
+  "hook": "മൂന്ന് Upper House MP അംഗങ്ങൾ പ്രധാന തിരഞ്ഞെടുപ്പ് നിയമം അംഗീകരിക്കാൻ തയ്യാറാണ്.",
+  "what": "BRS തന്റെ മൂന്ന് Rajya Sabha അംഗങ്ങളെ ഡെലിമിറ്റർ ബിൽ പിന്തുണ നൽകുമെന്ന് അറിയിച്ചു. പാർട്ടിക്ക് Lok Sabha അംഗങ്ങളില്ല.",
+  "why": "ഈ വോട്ട് ഡെലിമിറ്റർ ബിൽ ഫലത്തെ പാർലമെന്റിന് സ്വാധീനിക്കാം. യുവവോട്ടർമാരെ അതിന്റെ പുരോഗതി ശ്രദ്ധിക്കണം.",
+  "tags": [
+   "BRS",
+   "Delimitation",
+   "Politics",
+   "India",
+   "Youth"
+  ],
+  "say": "ഇന്ന് ഒരു പ്രഖ്യാപനം. BRS പ്രഖ്യാപിച്ചു. മൂന്ന് Upper House MP പിന്തുണ തയ്യാറാണ്. BRS തന്റെ മൂന്ന് Rajya Sabha അംഗങ്ങളെ ഡെലിമിറ്റർ ബിൽ പിന്തുണ നൽകുമെന്ന് അറിയിച്ചു. പാർട്ടിക്ക് Lok Sabha അംഗങ്ങളില്ല. ഈ വോട്ട് ഡെലിമിറ്റർ ബിൽ ഫലത്തെ പാർലമെന്റിന് സ്വാധീനം. യുവവോട്ടർമാരെ അതിന്റെ പുരോഗതി ശ്രദ്ധിക്കണം.",
+  "ok": true,
+  "tags_en": [
+   "BRS",
+   "Delimitation",
+   "Politics",
+   "India",
+   "Youth"
+  ]
+ },
+ "beats": {
+  "cover": "THREE VOTES THAT COULD REDRAW INDIA",
+  "cover_accent": "VOTES",
+  "beats": [
+   {
+    "title": "WHO WILL REDRAW?",
+    "accent": "REDRAW",
+    "query": "parliament interior",
+    "en": "Three upper‑house MPs could decide how India’s electoral map looks.",
+    "ml": "മൂന്ന് രാജ്യസഭാ എംപികളാണ് ഇന്ത്യയുടെ തിരഞ്ഞെടുപ്പ് മാപ്പ് എങ്ങനെ മാറും എന്ന് തീരുമാനിക്കാൻ കഴിയും."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "politicians handshake",
+    "en": "It’s not the big national parties – it’s the Bharat Rashtra Samithi, with just three Rajya Sabha seats.",
+    "ml": "വലിയ പാർട്ടികളല്ല, മൂന്ന് രാജ്യസഭാ സീറ്റുകൾ മാത്രം ഉള്ള ഭാരത് രാഷ്‌ട്ര സമിതി ആണ്."
+   },
+   {
+    "title": "BRS'S PLEDGE",
+    "accent": "PLEDGE",
+    "query": "BRS meeting",
+    "en": "BRS has publicly pledged that all three of its members will vote in favour of the delimitation bill.",
+    "ml": "ഭാരത് രാഷ്‌ട്ര സമിതി അവരുടെ മൂന്ന് അംഗങ്ങളും ഡെലിമിറ്റേഷൻ ബിൽക്ക് പിന്തുണ നൽകുമെന്ന് പ്രഖ്യാപിച്ചു."
+   },
+   {
+    "title": "NO LOK SABHA",
+    "accent": "LOK",
+    "query": "empty parliament",
+    "en": "The party has zero MPs in the Lok Sabha, so its influence rests entirely on those three upper‑house votes.",
+    "ml": "ഭാരത് രാഷ്‌ട്ര സമിതിക്ക് ലോക്ക് സഭയിൽ അംഗങ്ങളില്ല, അതിനാൽ അവരുടെ സ്വാധീനം മുഴുവൻ മൂന്ന് രാജ്യസഭാ വോട്ടുകളിലാണ്."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "teenagers phone",
+    "en": "For young voters, the delimitation bill will redraw constituency boundaries, affecting who represents you in the next elections.",
+    "ml": "യുവജനങ്ങൾക്ക്, ഡെലിമിറ്റേഷൻ ബിൽ തിരഞ്ഞെടുപ്പ് പ്രദേശങ്ങൾ പുനർവിന്യാസം ചെയ്യുന്നു, അതിനാൽ അടുത്ത തിരഞ്ഞെടുപ്പിൽ നിങ്ങളെ ആരാണ് പ്രതിനിധീകരിക്കുകയെന്ന് ഇത് ബാധിക്കും."
+   }
+  ],
+  "ml_ok": true
+ }
+}

@@ -1,5 +1,153 @@
 [
  {
+  "id": "a39e9ff54c81",
+  "created": "2026-11-28T19:27:45+05:30",
+  "category": "trending",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/in-supreme-court-appointed-judges-presence-deepam-lit-on-madurai-hilltop-pillar-12389046#publisher=newsstand",
+  "headline": "Supreme Court judges witness lamp lit on Madurai hilltop",
+  "hook": "A sacred flame was ignited on a hill as judges looked on",
+  "what": "In Madurai, a lamp was lit on the Deepathoon stone pillar atop a hill. The ceremony took place in the presence of judges appointed by the Supreme Court, with devotees chanting traditional slogans.",
+  "why": "The event showcases local cultural traditions and the judiciary’s role in community gatherings. Young people can learn about regional festivals and respect diverse practices.",
+  "tags": [
+   "madurai",
+   "culture",
+   "tradition",
+   "judiciary",
+   "festival"
+  ],
+  "beats": {
+   "cover": "SUPREME COURT ON A HILL",
+   "cover_accent": "COURT",
+   "beats": [
+    {
+     "title": "JUDGES ON HILL?",
+     "accent": "JUDGES",
+     "query": "madurai hill",
+     "en": "Did you know Supreme Court judges once watched a sacred flame being lit on a hilltop?",
+     "ml": "Supreme Court judges-um oru hilltop-il lamp lit cheyyunna ceremony kaanan pattiyirunnu ennariyamo?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "lamp ceremony",
+     "en": "But actually, it was a traditional ritual, not a courtroom event.",
+     "ml": "Pakshe, ithu oru court case alla – ithu oru paramparika pooja aanu."
+    },
+    {
+     "title": "DEEPATHOON PILLAR",
+     "accent": "DEEPATHOON",
+     "query": "stone pillar",
+     "en": "The lamp was placed on the Deepathoon stone pillar, a historic marker on the hill.",
+     "ml": "Lamp Deepathoon enna stone pillar-ilekku vechathu, athu hill-inde oru itihasa chihnam aanu."
+    },
+    {
+     "title": "JUDGES PRESENT",
+     "accent": "JUDGES",
+     "query": "judges watching",
+     "en": "Supreme Court judges were invited, showing respect for local customs.",
+     "ml": "Supreme Court judges-um ivide varichu, sthalika samskarangalude snehathode."
+    },
+    {
+     "title": "CHANTING DEVOTEES",
+     "accent": "CHANTING",
+     "query": "devotees chanting",
+     "en": "Devotees chanted traditional slogans, filling the air with devotion.",
+     "ml": "Devotees traditional slogans chant cheythu, aakasham snehathode nirayum."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "young people",
+     "en": "It reminds us that even the highest courts can honor cultural heritage, a lesson for every young Indian.",
+     "ml": "Ithu nammal ellam manasilakkanam – Supreme Court pole valiya institutions-um samskaram snehikkam, ithu nammalude future-ine affect cheyyum."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "ec175934bd6b",
+  "created": "2026-11-28T19:35:36+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/our-3-mps-will-vote-in-favour-brs-announces-support-for-delimitation-bill-12389126#publisher=newsstand",
+  "headline": "BRS pledges support for delimitation bill with three Rajya Sabha votes",
+  "hook": "Three upper house MPs are set to back a key electoral reform.",
+  "what": "The Bharat Rashtra Samithi said its three members in the Rajya Sabha will vote in favour of the delimitation bill. The party has no members in the Lok Sabha.",
+  "why": "The vote could shape the outcome of the delimitation bill in Parliament. Young voters should keep an eye on its progress.",
+  "tags": [
+   "BRS",
+   "Delimitation",
+   "Politics",
+   "India",
+   "Youth"
+  ],
+  "beats": {
+   "cover": "THREE VOTES THAT COULD REDRAW INDIA",
+   "cover_accent": "VOTES",
+   "beats": [
+    {
+     "title": "WHO WILL REDRAW?",
+     "accent": "REDRAW",
+     "query": "parliament interior",
+     "en": "Three upper‑house MPs could decide how India’s electoral map looks.",
+     "ml": "മൂന്ന് രാജ്യസഭാ എംപികളാണ് ഇന്ത്യയുടെ തിരഞ്ഞെടുപ്പ് മാപ്പ് എങ്ങനെ മാറും എന്ന് തീരുമാനിക്കാൻ കഴിയും."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "politicians handshake",
+     "en": "It’s not the big national parties – it’s the Bharat Rashtra Samithi, with just three Rajya Sabha seats.",
+     "ml": "വലിയ പാർട്ടികളല്ല, മൂന്ന് രാജ്യസഭാ സീറ്റുകൾ മാത്രം ഉള്ള ഭാരത് രാഷ്‌ട്ര സമിതി ആണ്."
+    },
+    {
+     "title": "BRS'S PLEDGE",
+     "accent": "PLEDGE",
+     "query": "BRS meeting",
+     "en": "BRS has publicly pledged that all three of its members will vote in favour of the delimitation bill.",
+     "ml": "ഭാരത് രാഷ്‌ട്ര സമിതി അവരുടെ മൂന്ന് അംഗങ്ങളും ഡെലിമിറ്റേഷൻ ബിൽക്ക് പിന്തുണ നൽകുമെന്ന് പ്രഖ്യാപിച്ചു."
+    },
+    {
+     "title": "NO LOK SABHA",
+     "accent": "LOK",
+     "query": "empty parliament",
+     "en": "The party has zero MPs in the Lok Sabha, so its influence rests entirely on those three upper‑house votes.",
+     "ml": "ഭാരത് രാഷ്‌ട്ര സമിതിക്ക് ലോക്ക് സഭയിൽ അംഗങ്ങളില്ല, അതിനാൽ അവരുടെ സ്വാധീനം മുഴുവൻ മൂന്ന് രാജ്യസഭാ വോട്ടുകളിലാണ്."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "teenagers phone",
+     "en": "For young voters, the delimitation bill will redraw constituency boundaries, affecting who represents you in the next elections.",
+     "ml": "യുവജനങ്ങൾക്ക്, ഡെലിമിറ്റേഷൻ ബിൽ തിരഞ്ഞെടുപ്പ് പ്രദേശങ്ങൾ പുനർവിന്യാസം ചെയ്യുന്നു, അതിനാൽ അടുത്ത തിരഞ്ഞെടുപ്പിൽ നിങ്ങളെ ആരാണ് പ്രതിനിധീകരിക്കുകയെന്ന് ഇത് ബാധിക്കും."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "c9dd6dff817e",
+  "created": "2026-11-28T19:35:47+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/games/features/gta-6-cheat-codes-for-ps5-and-xbox-series-x-s-all-working-cheats-how-to-unlock-and-use-them-12381206",
+  "headline": "GTA 6 cheat codes now available for PS5 and Xbox",
+  "hook": "Unlock hidden powers in the new GTA 6 on your console.",
+  "what": "A list of working cheat codes for GTA 6 on PlayStation 5 and Xbox Series X/S has been released. The codes can be used to unlock various in‑game features.",
+  "why": "Gamers can experiment with shortcuts and fun tricks, enhancing gameplay. Check the official guide to apply the codes safely.",
+  "tags": [
+   "GTA6",
+   "cheats",
+   "gaming",
+   "PS5",
+   "Xbox"
+  ]
+ },
+ {
   "id": "59d8e334e835",
   "created": "2026-11-28T13:45:42+05:30",
   "category": "headlines",
@@ -1501,63 +1649,6 @@
    "ParentalControls",
    "SocialMedia",
    "Teens"
-  ]
- },
- {
-  "id": "aa567504865c",
-  "created": "2026-11-26T21:13:53+05:30",
-  "category": "health",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/you-can-not-blackmail-any-government-karnataka-cm-shivakumar-to-protesting-asha-workers-101795701141596.html",
-  "headline": "Karnataka CM challenges ASHA workers' demand for state guarantee",
-  "hook": "The chief minister says asking the state for a letter is unfair.",
-  "what": "Karnataka Chief Minister Shivakumar responded to protesting ASHA workers. He asked why they wanted a written assurance from the state when their appointments came from the central government. He added that no government can be blackmailed.",
-  "why": "The dispute highlights how health‑worker job security can become a political issue. Young people should keep track of such policy debates that affect public health services.",
-  "tags": [
-   "health",
-   "Karnataka",
-   "ASHA",
-   "government",
-   "protest"
-  ]
- },
- {
-  "id": "46c44b0f170b",
-  "created": "2026-11-26T21:13:59+05:30",
-  "category": "money",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/missed-sip-installment-know-the-impact-on-your-bank-account-cibil-score-and-investments-11795705944352.html",
-  "headline": "Missed SIP payment won’t hurt CIBIL but may cost fees",
-  "hook": "Skip a SIP? Your credit stays safe, but your bank might charge.",
-  "what": "If a SIP debit fails, the mutual fund units stay unchanged and the CIBIL score is not affected. Banks can levy a return charge for the failed transaction, and repeated failures may lead to SIP cancellation.",
-  "why": "Young investors should keep an eye on their bank balance to avoid fees and ensure regular SIP payments so their investment plan stays on track.",
-  "tags": [
-   "finance",
-   "SIP",
-   "investments",
-   "banking",
-   "youth"
-  ]
- },
- {
-  "id": "34e941ef947a",
-  "created": "2026-11-26T21:14:15+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "News On AIR",
-  "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRkY1hNLUh0dE9TcHhjelo5eGtNa2xhZzJ3bmxTckF1bXRSNVNGS0xvMTRYUmtqcFhaX1RmazRvQ0JJNDlPRngzZjV2YmV3c0VIWThWRzZ6X1AwUjRYSFhHb0hKVGdFQmhwRk9VVXMtQjBMUlZvaVY0YkhReXBKbm5WTlNLV0FSLVlpWTVoT21BMDItSy1KOWRNbjFfSl9ZYkRpbTZsZ1lxd2xSM0FqRFZDTTFPV28?oc=5",
-  "headline": "Cabinet backs ₹11,000 crore plan for home-made construction gear",
-  "hook": "Big boost for Indian factories making building machines.",
-  "what": "The Union Cabinet gave the green light to a scheme worth ₹11,000 crore aimed at strengthening the domestic production of construction and infrastructure equipment. The program, called the CIE Manufacturing Ecosystem, will provide incentives to manufacturers across the country.",
-  "why": "It could create jobs and lower costs for building projects, which matters for young people looking for work or affordable housing. Companies may start hiring locally as they expand.",
-  "tags": [
-   "construction",
-   "manufacturing",
-   "jobs",
-   "india",
-   "cabinet"
   ]
  }
 ]

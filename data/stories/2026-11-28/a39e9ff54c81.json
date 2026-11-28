@@ -1,0 +1,95 @@
+{
+ "id": "a39e9ff54c81",
+ "created": "2026-11-28T19:27:45+05:30",
+ "category": "trending",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/in-supreme-court-appointed-judges-presence-deepam-lit-on-madurai-hilltop-pillar-12389046#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Supreme Court judges witness lamp lit on Madurai hilltop",
+  "hook": "A sacred flame was ignited on a hill as judges looked on",
+  "what": "In Madurai, a lamp was lit on the Deepathoon stone pillar atop a hill. The ceremony took place in the presence of judges appointed by the Supreme Court, with devotees chanting traditional slogans.",
+  "why": "The event showcases local cultural traditions and the judiciary’s role in community gatherings. Young people can learn about regional festivals and respect diverse practices.",
+  "tags": [
+   "madurai",
+   "culture",
+   "tradition",
+   "judiciary",
+   "festival"
+  ]
+ },
+ "ml": {
+  "headline": "സുപ്രീം കോടതി ജഡ്ജിമാര്‍ മദുരൈ മലമുകളില്‍ ദീപം തെളിച്ചു",
+  "hook": "ജഡ്ജിമാരുടെ സാന്നിധ്യത്തില്‍ ഒരു പവിത്ര ജ്വാല മലമുകളില്‍ തെളിഞ്ഞു",
+  "what": "മദുരൈയിലെ ഡീപത്തൂണില്‍ ഒരു കല്ലു സ്തംഭത്തില്‍ ദീപം തെളിയിച്ചു. സുപ്രീം കോടതി നിയോഗിച്ച ജഡ്ജിമാര്‍ അവിടെ ഉണ്ടായിരുന്നു, ആരാധകര്‍ 'വെട്രിവേല്‍ മുരുഗന്‍' പോലുള്ള ചൊല്ലുകള്‍ ചൊല്ലി.",
+  "why": "ഇത് പ്രദേശിക സാംസ്കാരിക ആചാരങ്ങളും സമൂഹത്തില്‍ കോടതിയുടെ പങ്കും കാണിക്കുന്നു. യുവാക്കള്‍ക്ക് പ്രദേശിക ഉത്സവങ്ങളെയും വൈവിധ്യത്തെയും മനസ്സിലാക്കാന്‍ സഹായിക്കും.",
+  "tags": [
+   "മദുരൈ",
+   "സംസ്‌കാരം",
+   "പാരമ്പര്യം",
+   "ന്യായവ്യവസ്ഥ",
+   "ഉത്സവം"
+  ],
+  "say": "ജഡ്ജിമാരുടെ സാന്നിധ്യത്തില്‍ ഒരു പവിത്ര ജ്വാല മലമുകളില്‍ തെളിഞ്ഞു. മദുരൈയിലെ ഡീപത്തൂണില്‍ ഒരു കല്ലു സ്തംഭത്തില്‍ ദീപം തെളിയിച്ചു. സുപ്രീം കോടതി നിയോഗിച്ച ജഡ്ജിമാര്‍ അവിടെ ഉണ്ടായിരുന്നു. ആരാധകര്‍ 'വെട്രിവേല്‍ മുരുഗന്‍' എന്ന ചൊല്ല് ചൊല്ലി. ഇത് പ്രദേശിക സാംസ്കാരിക ആചാരങ്ങളും സമൂഹത്തില്‍ കോടതിയുടെ പങ്കും കാണിക്കുന്നു. യുവാക്കള്‍ക്ക് പ്രദേശിക ഉത്സവങ്ങളെയും വൈവിധ്യത്തെയും മനസ്സിലാക്കാന്‍ ഇത് സഹായിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "madurai",
+   "culture",
+   "tradition",
+   "judiciary",
+   "festival"
+  ]
+ },
+ "beats": {
+  "cover": "SUPREME COURT ON A HILL",
+  "cover_accent": "COURT",
+  "beats": [
+   {
+    "title": "JUDGES ON HILL?",
+    "accent": "JUDGES",
+    "query": "madurai hill",
+    "en": "Did you know Supreme Court judges once watched a sacred flame being lit on a hilltop?",
+    "ml": "Supreme Court judges-um oru hilltop-il lamp lit cheyyunna ceremony kaanan pattiyirunnu ennariyamo?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "lamp ceremony",
+    "en": "But actually, it was a traditional ritual, not a courtroom event.",
+    "ml": "Pakshe, ithu oru court case alla – ithu oru paramparika pooja aanu."
+   },
+   {
+    "title": "DEEPATHOON PILLAR",
+    "accent": "DEEPATHOON",
+    "query": "stone pillar",
+    "en": "The lamp was placed on the Deepathoon stone pillar, a historic marker on the hill.",
+    "ml": "Lamp Deepathoon enna stone pillar-ilekku vechathu, athu hill-inde oru itihasa chihnam aanu."
+   },
+   {
+    "title": "JUDGES PRESENT",
+    "accent": "JUDGES",
+    "query": "judges watching",
+    "en": "Supreme Court judges were invited, showing respect for local customs.",
+    "ml": "Supreme Court judges-um ivide varichu, sthalika samskarangalude snehathode."
+   },
+   {
+    "title": "CHANTING DEVOTEES",
+    "accent": "CHANTING",
+    "query": "devotees chanting",
+    "en": "Devotees chanted traditional slogans, filling the air with devotion.",
+    "ml": "Devotees traditional slogans chant cheythu, aakasham snehathode nirayum."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young people",
+    "en": "It reminds us that even the highest courts can honor cultural heritage, a lesson for every young Indian.",
+    "ml": "Ithu nammal ellam manasilakkanam – Supreme Court pole valiya institutions-um samskaram snehikkam, ithu nammalude future-ine affect cheyyum."
+   }
+  ],
+  "ml_ok": false
+ }
+}
