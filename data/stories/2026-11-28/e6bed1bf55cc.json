@@ -1,0 +1,95 @@
+{
+ "id": "e6bed1bf55cc",
+ "created": "2026-11-28T21:11:29+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Opposition Bloc Calls Delimitation a Threat to Democracy",
+  "hook": "Senior opposition leader warns India may turn like China",
+  "what": "The INDIA bloc said it will fight the government's delimitation plan, labeling it a danger to democratic norms. Mallikarjun Kharge warned that the move could push India toward a China‑style model.",
+  "why": "Changing constituency boundaries can influence future elections and representation, so staying aware matters for young voters. Keep an eye on the debate and discuss it with peers.",
+  "tags": [
+   "democracy",
+   "delimitation",
+   "politics",
+   "youth",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "ഓപ്പോസിഷന്‍ ബ്ലോക്ക് ഡെലിമിറ്റേഷന്‍ ജനാധിപത്യത്തിന് ഭീഷണി",
+  "hook": "സീനിയർ നേതാവ്: ഇന്ത്യ ചൈന പോലെ മാറും",
+  "what": "ഇന്ത്യയിലെ ബ്ലോക്ക് സർക്കാരിന്റെ ഡെലിമിറ്റേഷൻ പദ്ധതിക്കെതിരെ പ്രതിഷേധം. ഇത് ജനാധിപത്യത്തെ അപകടത്തിലാക്കുമെന്ന് ആരോപണം. മല്ലികാർജുൻ ഖർഗെ ഇത് ഇന്ത്യയെ ചൈനയുടെ മാതൃകയിലേക്ക് നയിക്കുമെന്ന് മുന്നറിയിപ്പ് നൽകി",
+  "why": "വോട്ടർ പ്രദേശങ്ങളിലെ മാറ്റം ഭാവി തിരഞ്ഞെടുപ്പുകളെയും പ്രതിനിധിത്വത്തെയും സ്വാധീനിക്കും. അതിനാൽ നിങ്ങൾക്ക് വിവരങ്ങൾ അറിഞ്ഞിരിക്കേണ്ടത് പ്രധാനമാണ്. ചർച്ചകളിൽ പങ്കെടുക്കുക, നിങ്ങളുടെ അഭിപ്രായം പങ്കിടുക",
+  "tags": [
+   "ജനാധിപത്യം",
+   "ഡെലിമിറ്റേഷൻ",
+   "രാഷ്ട്രീയം",
+   "യുവാക്കൾ",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഇന്ത്യയിലെ ബ്ലോക്ക് സർക്കാർ ഒരു പുതിയ പദ്ധതി കൊണ്ടുവന്നിരിക്കുന്നു. അത് ഡെലിമിറ്റേഷൻ പദ്ധതി. ഇത് ജനാധിപത്�yത്തെ അപകടത്തിലാക്കുമെന്ന് പറയപ്പെടുന്നു. മല്ലികാർജുൻ ഖർഗെ ഇതെക്കുറിച്ച് സംസാരിക്കുന്നു. അദ്ദേഹം പറയുന്നത്, ഇത് ഇന്ത്യയെ ചൈനയുടെ മാതൃകയിലേക്ക് നയിക്കുമെന്നാണ്. നിങ്ങൾക്ക് ഇതെക്കുറിച്ച് അറിയാം. വോട്ടർ പ്രദേശങ്ങളിലെ മാറ്റം ഭാവിയിലെ തിരഞ്ഞെടുപ്പുകളെയും പ്രതിനിധിത്വത്തെയും ബാധിക്കും. അതിനാൽ, നിങ്ങൾ വിവരങ്ങളോടെ ഇരിക്കണം. ചർച്ചകളിൽ പങ്കെടുക്കണം. നിങ്ങളുടെ അഭിപ്രായം പങ്കിടണം.",
+  "ok": true,
+  "tags_en": [
+   "democracy",
+   "delimitation",
+   "politics",
+   "youth",
+   "India"
+  ]
+ },
+ "beats": {
+  "cover": "IS INDIA NEXT CHINA?",
+  "cover_accent": "CHINA",
+  "beats": [
+   {
+    "title": "DEMOCRACY UNDER THREAT",
+    "accent": "THREAT",
+    "query": "protest signs",
+    "en": "A senior opposition leader warns that India may turn into a China-style model, is this the end of democracy as we know it? The opposition bloc is fighting against the government's delimitation plan.",
+    "ml": "India, China model aayi, democracy umma nokkunnundu, ennu oru senior opposition leader warning kodukkunnu. Opposition bloc, governmentinte delimitation planne kurayunnu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "aerial map",
+    "en": "But actually, what does this delimitation plan mean? It's about changing constituency boundaries, which can influence future elections.",
+    "ml": "Pakshe, delimitation plan ennaanu? Constituency boundaries maathram kurikkal, future electionsine influence cheyyum."
+   },
+   {
+    "title": "WHAT IS DELIMITATION",
+    "accent": "DELIMITATION",
+    "query": "voting booth",
+    "en": "Delimitation is the process of redrawing electoral boundaries, which can affect the number of seats each party gets.",
+    "ml": "Delimitation, electoral boundaries kurikku saadhikkunnathu, partykalkkulla kitto seats varum."
+   },
+   {
+    "title": "IMPACT ON ELECTIONS",
+    "accent": "ELECTIONS",
+    "query": "election results",
+    "en": "This can change the outcome of future elections and representation in the government, so it's crucial to stay informed.",
+    "ml": "Future electionsile outcome, governmentile representation, ithu maathram kurikku shakthamilla, awareness undakkaam."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students discussion",
+    "en": "So, why does this matter to you? As a young voter, it's essential to keep an eye on this debate and discuss it with your peers.",
+    "ml": "Ningalkku ithu ennaanu? Young voter aayirunnu, debate kuraykka, peersodoppam sahaikkaam."
+   },
+   {
+    "title": "STAY AWARE",
+    "accent": "AWARE",
+    "query": "person reading news",
+    "en": "Stay aware, stay informed, and make your voice heard in the democratic process.",
+    "ml": "Awareness unda, informed aya, democratic processile shabdam ulla."
+   }
+  ],
+  "ml_ok": false
+ }
+}

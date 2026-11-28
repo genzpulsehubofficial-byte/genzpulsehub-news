@@ -1,5 +1,321 @@
 [
  {
+  "id": "74c92809dbec",
+  "created": "2026-11-28T21:10:52+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "The Hindu",
+  "source_url": "https://www.thehindu.com/news/national/delimitation-bill-fundamentally-against-minorities-says-up-forum/article71754948.ece",
+  "headline": "Forum says Delimitation Bill sidelines minorities in UP",
+  "hook": "A rights group warns the new bill could mute minority voices.",
+  "what": "India Against Unfair Delimitation claims the BJP plans to redraw constituency borders to fit a majoritarian agenda. The group says this could render minority votes ineffective in Uttar Pradesh and other regions.",
+  "why": "If true, the changes could affect how young voters from minority communities are represented. Stay informed and watch upcoming electoral reforms.",
+  "tags": [
+   "delimitation",
+   "UP",
+   "minorities",
+   "politics"
+  ],
+  "beats": {
+   "cover": "NEW BILL MAY SILENCE MINORITIES?",
+   "cover_accent": "SILENCE",
+   "beats": [
+    {
+     "title": "MINORITY VOICES?",
+     "accent": "VOICES",
+     "query": "protest rally",
+     "en": "Can a new bill really silence minority voters in Uttar Pradesh?",
+     "ml": "പുതിയ ബില്‍ യഥാര്‍ത്ഥത്തില്‍ ഉപ്പറ प्रदेशത്തിലെ ന്യൂനപക്ഷ വോട്ടർമാരുടെ ശബ്ദം മൌനം ആക്കുമോ?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "parliament session",
+     "en": "But actually, the Delimitation Bill is about redrawing constituency borders.",
+     "ml": "പക്ഷേ, യാഥാര്‍ത്ഥ്യം ഇതാണ് – ഡെലിമിറ്റേഷന്‍ ബില്‍ തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ അതിര്‍വരമ്പുകള്‍ പുനര്‍രേഖപ്പെടുത്തുന്നതാണ്."
+    },
+    {
+     "title": "MAJORITARIAN AGENDA?",
+     "accent": "MAJORITARIAN",
+     "query": "political map",
+     "en": "India Against Unfair Delimitation says the BJP wants the map to favour a majoritarian agenda.",
+     "ml": "ഇന്ത്യ അഗെയിന്‍സ് അണ്‍ഫെയര്‍ ഡെലിമിറ്റേഷന്‍ പറയുന്നു, ബി.ജെ.പി. മേജോറിറ്റേറിയന്‍ അജണ്ടയ്ക്കായി മാപ്പ് മാറ്റാന്‍ ശ്രമിക്കുന്നു."
+    },
+    {
+     "title": "MINORITY VOTES AT RISK",
+     "accent": "RISK",
+     "query": "young voters",
+     "en": "If the borders shift, minority votes could become ineffective in UP and nearby states.",
+     "ml": "അറ്റംമാറിയാല്‍, ന്യൂനപക്ഷ വോട്ടുകള്‍ ഉപ്പറ പ്രദേശത്തും ചുറ്റുമുള്ള സംസ്ഥാനങ്ങളിലും ഫലപ്രദമല്ലാതാകും."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "teenagers using phone",
+     "en": "For you, that means your voice might not count in the next election – stay informed.",
+     "ml": "ഇത് നിങ്ങള്‍ക്ക്‌ അര്‍ത്ഥമാക്കുന്നത്, അടുത്ത തിരഞ്ഞെടുപ്പില്‍ നിങ്ങളുടെ ശബ്ദം കണക്കാക്കപ്പെടാതെ പോകാം – വിവരത്തില്‍ നില്‍ക്കൂ."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "e6bed1bf55cc",
+  "created": "2026-11-28T21:11:29+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/threat-to-democracy-india-bloc-to-oppose-delimitation-move-12389694#publisher=newsstand",
+  "headline": "Opposition Bloc Calls Delimitation a Threat to Democracy",
+  "hook": "Senior opposition leader warns India may turn like China",
+  "what": "The INDIA bloc said it will fight the government's delimitation plan, labeling it a danger to democratic norms. Mallikarjun Kharge warned that the move could push India toward a China‑style model.",
+  "why": "Changing constituency boundaries can influence future elections and representation, so staying aware matters for young voters. Keep an eye on the debate and discuss it with peers.",
+  "tags": [
+   "democracy",
+   "delimitation",
+   "politics",
+   "youth",
+   "India"
+  ],
+  "beats": {
+   "cover": "IS INDIA NEXT CHINA?",
+   "cover_accent": "CHINA",
+   "beats": [
+    {
+     "title": "DEMOCRACY UNDER THREAT",
+     "accent": "THREAT",
+     "query": "protest signs",
+     "en": "A senior opposition leader warns that India may turn into a China-style model, is this the end of democracy as we know it? The opposition bloc is fighting against the government's delimitation plan.",
+     "ml": "India, China model aayi, democracy umma nokkunnundu, ennu oru senior opposition leader warning kodukkunnu. Opposition bloc, governmentinte delimitation planne kurayunnu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "aerial map",
+     "en": "But actually, what does this delimitation plan mean? It's about changing constituency boundaries, which can influence future elections.",
+     "ml": "Pakshe, delimitation plan ennaanu? Constituency boundaries maathram kurikkal, future electionsine influence cheyyum."
+    },
+    {
+     "title": "WHAT IS DELIMITATION",
+     "accent": "DELIMITATION",
+     "query": "voting booth",
+     "en": "Delimitation is the process of redrawing electoral boundaries, which can affect the number of seats each party gets.",
+     "ml": "Delimitation, electoral boundaries kurikku saadhikkunnathu, partykalkkulla kitto seats varum."
+    },
+    {
+     "title": "IMPACT ON ELECTIONS",
+     "accent": "ELECTIONS",
+     "query": "election results",
+     "en": "This can change the outcome of future elections and representation in the government, so it's crucial to stay informed.",
+     "ml": "Future electionsile outcome, governmentile representation, ithu maathram kurikku shakthamilla, awareness undakkaam."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students discussion",
+     "en": "So, why does this matter to you? As a young voter, it's essential to keep an eye on this debate and discuss it with your peers.",
+     "ml": "Ningalkku ithu ennaanu? Young voter aayirunnu, debate kuraykka, peersodoppam sahaikkaam."
+    },
+    {
+     "title": "STAY AWARE",
+     "accent": "AWARE",
+     "query": "person reading news",
+     "en": "Stay aware, stay informed, and make your voice heard in the democratic process.",
+     "ml": "Awareness unda, informed aya, democratic processile shabdam ulla."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "7cbd629489f1",
+  "created": "2026-11-28T21:12:17+05:30",
+  "category": "entertainment",
+  "breaking": false,
+  "source": "The Indian Express",
+  "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+  "headline": "Ramayana Film Hits Big Milestone",
+  "hook": "A Bollywood movie is breaking records worldwide",
+  "what": "A film based on Ramayana has crossed a major box office milestone. It has earned a significant amount in India and North America. The movie's collection is being compared to other big films",
+  "why": "This matters to young Indians who enjoy Bollywood movies and are interested in epic stories. They can check out the film's performance and compare it to other popular movies",
+  "tags": [
+   "Bollywood",
+   "Ramayana",
+   "Box Office",
+   "Movies",
+   "India"
+  ],
+  "beats": {
+   "cover": "BOLLYWOOD FILM RECORDS",
+   "cover_accent": "BOLLYWOOD",
+   "beats": [
+    {
+     "title": "BIG BOX OFFICE",
+     "accent": "BOX",
+     "query": "movie tickets counter",
+     "en": "A Bollywood movie is breaking records worldwide. It has earned a significant amount in India and North America.",
+     "ml": "Bollywood ile ett oru cinema, lokathinte record il break cheyyunnu. India, North America il ninnu ett oru amount kasu earn cheythittundu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "aerial map India North America",
+     "en": "But actually, it's a film based on Ramayana that has crossed a major box office milestone.",
+     "ml": "Pakshe, actualliy, Ramayana athinte adhipadethile ett cinema aye box office ile ett oru milestone cross cheythittundu."
+    },
+    {
+     "title": "WHY SO BIG",
+     "accent": "BIG",
+     "query": "students watching movie",
+     "en": "The movie's collection is being compared to other big films.",
+     "ml": "Cinemale ett oru collection undu, athine vere big films onnumay compare cheyyunnu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "young people watching Bollywood movie",
+     "en": "This matters to young Indians who enjoy Bollywood movies and are interested in epic stories.",
+     "ml": "Ett young Indians ine, Bollywood cinemal onnum ishtappeduthu, epic stories ine ishtappeduthu, avarelle ithu matter todu."
+    },
+    {
+     "title": "CHECK IT OUT",
+     "accent": "OUT",
+     "query": "iPhone showing movie ratings",
+     "en": "They can check out the film's performance and compare it to other popular movies.",
+     "ml": "Avare film ile performance check cheyyam, vere popular cinemal odum compare cheyyam."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "114dd5129b78",
+  "created": "2026-11-28T21:13:00+05:30",
+  "category": "sports",
+  "breaking": false,
+  "source": "Cricbuzz",
+  "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2Y1eXMzWXN1QXlMYzcxTmI2T2VQNWZ1OF9VbkNsYVROTk9xa2N4LUV0NklsZnBMQk5hNFdmMEt6S2l4VWpZQUdNdFd3MVowcG9oRHo3QXVYNVhDOFB3clo0LXlWak1Kcnp3MlNwaXB3dElwSHhnX0ZXZzFmMDc3U18wOGFOM2ly?oc=5",
+  "headline": "Desert Vipers vs MI Emirates",
+  "hook": "Catch the thrilling International League T20 match",
+  "what": "Desert Vipers are currently at 62/2 in 8 overs, while MI Emirates have scored 186/4. The match is underway with exciting moments.",
+  "why": "This match is a must-watch for young cricket fans in India, with top teams competing in the International League T20 2026.",
+  "tags": [
+   "International League T20",
+   "cricket",
+   "Desert Vipers",
+   "MI Emirates"
+  ],
+  "beats": {
+   "cover": "CRICKET THRILL AHEAD",
+   "cover_accent": "THRILL",
+   "beats": [
+    {
+     "title": "BIG MATCH",
+     "accent": "MATCH",
+     "query": "cricket stadium",
+     "en": "The Desert Vipers are taking on MI Emirates in a thrilling International League T20 match. The score is currently 62/2 in 8 overs for Desert Vipers.",
+     "ml": "Desert Vipers, MI Emirates ine Thrilling International League T20 match ile. Desert Vipers 8 overs il 62/2 aayi score undu."
+    },
+    {
+     "title": "BUT ACTUALLY",
+     "accent": "ACTUALLY",
+     "query": "scoreboard display",
+     "en": "But actually, MI Emirates are leading with a score of 186/4. The match is getting intense with exciting moments.",
+     "ml": "Pakshe, MI Emirates 186/4 enna score odittenne lead cheyyunnu. Match exciting moments odikkanam."
+    },
+    {
+     "title": "MATCH UPDATE",
+     "accent": "UPDATE",
+     "query": "cricket players playing",
+     "en": "The match is underway with both teams giving their best. The Desert Vipers are trying to catch up with MI Emirates' score.",
+     "ml": "Match underway aayi, randu teams um best performance kettitundu. Desert Vipers MI Emirates ine score pokkandaanu try cheyyunnu."
+    },
+    {
+     "title": "WHY WATCH",
+     "accent": "WATCH",
+     "query": "young cricket fans",
+     "en": "This match is a must-watch for young cricket fans in India, with top teams competing in the International League T20 2026.",
+     "ml": "India ile young cricket fans ine, top teams International League T20 2026 ile compete cheyyunnavarude match aayi, must-watch aanu."
+    },
+    {
+     "title": "FOLLOW LIVE",
+     "accent": "LIVE",
+     "query": "live cricket streaming",
+     "en": "So, follow the match live and catch all the exciting moments. Don't miss out on the thrill of the game!",
+     "ml": "Aa match live follow cheythu, exciting moments ellam pokku. Game ile thrill miss cheyyatha, athu kondu varan!"
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "3d87c5347fda",
+  "created": "2026-11-28T21:13:48+05:30",
+  "category": "health",
+  "breaking": false,
+  "source": "Inc42",
+  "source_url": "https://inc42.com/buzz/warning-labels-to-put-d2c-food-brands-healthier-pitch-to-the-test/",
+  "headline": "Warning Labels For Food Brands",
+  "hook": "Your 'healthy' snacks may not be so healthy after all",
+  "what": "Food brands marketing their products as 'healthier' may now have to display warning labels. This includes snacks that are high in salt or sugar. These labels will help consumers make informed choices.",
+  "why": "This move matters to young Indians as it affects the food they eat every day. It's essential to be aware of what they're consuming to make better choices.",
+  "tags": [
+   "food safety",
+   "healthier options",
+   "warning labels",
+   "consumer awareness"
+  ],
+  "beats": {
+   "cover": "IS YOUR SNACK HEALTHY?",
+   "cover_accent": "HEALTHY",
+   "beats": [
+    {
+     "title": "HEALTHY SNACKS?",
+     "accent": "HEALTHY",
+     "query": "packaged food aisle",
+     "en": "Your 'healthy' snacks may not be so healthy after all. Many food brands market their products as healthier options.",
+     "ml": "Ningalude 'healthy' snacks healthy alla, ennund. Chilavu food brands avare ethokke healthier option aayithu market cheyyunnu."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "sugar and salt packets",
+     "en": "But actually, some of these snacks are high in salt or sugar. This can be misleading for consumers.",
+     "ml": "Pakshe, ethokke snacks salt um sugar um kovila und. Ithu consumersne thallunu."
+    },
+    {
+     "title": "WARNING LABELS",
+     "accent": "WARNING",
+     "query": "warning label on packaging",
+     "en": "To address this issue, food brands may now have to display warning labels on their products.",
+     "ml": "Ithine samadhanam aayi, food brands avare warning labels display cheyyan pattum."
+    },
+    {
+     "title": "INFORMED CHOICES",
+     "accent": "INFORMED",
+     "query": "students reading food labels",
+     "en": "These labels will help consumers make informed choices about the food they eat.",
+     "ml": "Ithu labels consumersne food ethu eat cheyyunnu ennu informed choices edukkum."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "young indians eating snacks",
+     "en": "This move matters to young Indians as it affects the food they eat every day.",
+     "ml": "Ithu young Indiansne kurichu, ivalude daily food affect cheyyunnu."
+    },
+    {
+     "title": "MAKE BETTER CHOICES",
+     "accent": "BETTER",
+     "query": "person choosing healthy snack",
+     "en": "It's essential to be aware of what you're consuming to make better choices.",
+     "ml": "Ningal consume cheyyunna ethu aware aayi better choices edukkenda."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
   "id": "25ee423a2a5a",
   "created": "2026-11-28T20:18:02+05:30",
   "category": "headlines",
@@ -1597,101 +1913,6 @@
    "drone",
    "Iran",
    "news"
-  ]
- },
- {
-  "id": "2326ea0d314f",
-  "created": "2026-11-27T05:18:43+05:30",
-  "category": "headlines",
-  "breaking": false,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/delhi-government-to-open-kejriwal-s-sheesh-mahal-for-public-visits-tickets-likely-at-rs-20-101795733582678.html",
-  "headline": "Delhi to let public tour Kejriwal’s former ‘Sheesh Mahal’",
-  "hook": "Your next weekend outing could be inside a former chief minister’s house.",
-  "what": "The Delhi administration announced that the former residence of Arvind Kejriwal, called ‘Sheesh Mahal’, will be opened for media first, then for visitors. Access will be managed through a ticket system, with tickets expected to cost around ₹20.",
-  "why": "It offers a chance to see a political landmark at a low price, so students can plan a quick visit if interested.",
-  "tags": [
-   "Delhi",
-   "SheeshMahal",
-   "Ticket",
-   "Visit",
-   "Youth"
-  ]
- },
- {
-  "id": "6725a987a5ef",
-  "created": "2026-11-27T05:18:50+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "Mashable",
-  "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vNTVCUVNOZl9JOXprbE50NnlyMGU0ekZqODdIWHhFSU1lRlNIcFJfUzF6UFF4elhDeTh1eUQ1Njd4YTg1cno4MnctZmdvYmhuSzI4UGNsOHVWMEc4Rk9PUnNpR1Bpb2pJaF81aExLeWNNT2IxOFRTREh3?oc=5",
-  "headline": "Sony headphones hit record lows this Black Friday",
-  "hook": "Grab top‑tier sound without breaking your budget.",
-  "what": "Sony is offering deep discounts on several wireless headphones for Black Friday, including models priced under $50 and the WH‑1000XM6 at a historic low. The WH‑1000XM4C also dropped to $198, while the WH‑1000XM5 in Midnight Blue is $230 off.",
-  "why": "For Indian Gen Z, this is a rare chance to own premium audio gear at student‑friendly prices. Check the deals now and compare features before buying.",
-  "tags": [
-   "Sony",
-   "headphones",
-   "BlackFriday",
-   "deals",
-   "tech"
-  ]
- },
- {
-  "id": "6568e17cd3bb",
-  "created": "2026-11-27T05:25:52+05:30",
-  "category": "sports",
-  "breaking": false,
-  "source": "Chess.com",
-  "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYWlrSVVVa2J0T182ZWUyRkRldnBwcWlrdF92d3lKX3FUQnlWc2I5d0lOVHB6NXJ4bDJ0aGx4Sk5sRUpLOXlzS0pGS0xSZXpBMVQ2RVVhZnZvUUdFWWhONUd4VXBiWU5jcUV0SE1faEpROEN5a3Vzd2d4dWdKQQ?oc=5",
-  "headline": "Gukesh and Sindarov End Game 3 With Draw",
-  "hook": "Two chess stars could not score the win in Game 3.",
-  "what": "Game 3 of the FIDE World Chess Championship in Geneva did not produce a winner. Gukesh and Sindarov both tried to win. After three games, no difference was reported between them.",
-  "why": "For young Indian chess fans, the match is being followed closely. They may want to keep watching the next game.",
-  "tags": [
-   "chess",
-   "worldchampionship",
-   "gukesh",
-   "sindarov",
-   "game3"
-  ]
- },
- {
-  "id": "f6cf8418949e",
-  "created": "2026-11-27T01:29:18+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "Hindustan Times",
-  "source_url": "https://www.hindustantimes.com/india-news/judicial-member-must-for-ed-attachment-cases-sc-101795721259035.html",
-  "headline": "Supreme Court says legal expert needed for ED attachment orders",
-  "hook": "Big court rules you can't leave major money freezes to non‑lawyers.",
-  "what": "The Supreme Court ruled that decisions on Enforcement Directorate attachment cases must involve a judicial member. It said such important decisions cannot be made by a member lacking a legal background.",
-  "why": "This ensures legal expertise in cases that can affect businesses and individuals, protecting rights. Stay aware of legal processes that could impact your finances.",
-  "tags": [
-   "SupremeCourt",
-   "LegalNews",
-   "ED",
-   "IndiaLaw",
-   "Youth"
-  ]
- },
- {
-  "id": "d92bb2236ee9",
-  "created": "2026-11-27T01:29:24+05:30",
-  "category": "headlines",
-  "breaking": true,
-  "source": "NDTV",
-  "source_url": "https://www.ndtv.com/india-news/amid-delimitation-womens-quota-bill-buzz-centre-seeks-to-reconvene-parliament-from-november-30-12381318#publisher=newsstand",
-  "headline": "Parliament to meet from Nov 30 for major delimitation",
-  "hook": "A fresh electoral map could reshape future elections.",
-  "what": "The Lok Sabha will reconvene on November 30. The government plans a large‑scale delimitation exercise to redraw constituency boundaries.",
-  "why": "New constituency lines can affect representation and voting power, influencing policies that impact youth. Stay informed before the next elections.",
-  "tags": [
-   "Parliament",
-   "Delimitation",
-   "Elections",
-   "Youth",
-   "India"
   ]
  }
 ]

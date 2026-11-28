@@ -1,0 +1,85 @@
+{
+ "id": "74c92809dbec",
+ "created": "2026-11-28T21:10:52+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "The Hindu",
+ "source_url": "https://www.thehindu.com/news/national/delimitation-bill-fundamentally-against-minorities-says-up-forum/article71754948.ece",
+ "source_count": 2,
+ "provider": "groq",
+ "en": {
+  "headline": "Forum says Delimitation Bill sidelines minorities in UP",
+  "hook": "A rights group warns the new bill could mute minority voices.",
+  "what": "India Against Unfair Delimitation claims the BJP plans to redraw constituency borders to fit a majoritarian agenda. The group says this could render minority votes ineffective in Uttar Pradesh and other regions.",
+  "why": "If true, the changes could affect how young voters from minority communities are represented. Stay informed and watch upcoming electoral reforms.",
+  "tags": [
+   "delimitation",
+   "UP",
+   "minorities",
+   "politics"
+  ]
+ },
+ "ml": {
+  "headline": "ഫോറം പറയുന്നു delimitation ബില്‍‑ഉപ്പില്‍ ന്യൂനപക്ഷങ്ങളെ പിന്നില്‍ തള്ളുന്നു",
+  "hook": "ഒരു അവകാശ ഗ്രൂപ്പ്, പുതിയ delimitation ബില്‍ ന്യൂനപക്ഷങ്ങളുടെ ശബ്ദം മങ്ങിക്കൊള്ളാമെന്ന് മുന്നറിയിപ്പ് നല്‍കുന്നു.",
+  "what": "ഗ്രൂപ്പ് പറയുന്നു, BJP‑ന്‍റെ പ്രധാന മതപരമായ ലക്ഷ്യത്തിന് അനുസരിച്ച്, തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ അതിര്‍തിരിവുകള്‍ മാറ്റാന്‍ ഉദ്ദേശമുണ്ട്. ഇതു ഉത്തരപ്രദേശിലും മറ്റ് പ്രദേശങ്ങളിലും ന്യൂനപക്ഷ വോട്ടുകള്‍ പ്രാധാന്യമില്ലാതാക്കും.",
+  "why": "ഇത് സത്യമായാല്‍ യുവ ന്യൂനപക്ഷ വോട്ടർമാര്‍ക്ക് പ്രതിനിധിത്വത്തില്‍ പ്രശ്നമുണ്ടാകും. തിരഞ്ഞെടുപ്പ് പരിഷ്കാരങ്ങളെക്കുറിച്ച് അറിവ് നിലനിർത്തണം.",
+  "tags": [
+   "delimitation",
+   "UP",
+   "ന്യൂനപക്ഷം",
+   "രാഷ്ട്രീയം"
+  ],
+  "say": "ഒരു അവകാശ ഗ്രൂപ്പ് പുതിയ delimitation ബില്‍ ന്യൂനപക്ഷങ്ങളുടെ ശബ്ദം മങ്ങിക്കൊള്ളാമെന്ന് മുന്നറിയിപ്പ് നല്‍കുന്നു. ഗ്രൂപ്പ് പറയുന്നു, BJP‑ന്‍റെ പ്രധാന മതപരമായ ലക്ഷ്യത്തിന് അനുസരിച്ച്, തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ അതിര്‍തിരിവുകള്‍ മാറ്റാന്‍ ഉദ്ദേശമുണ്ട്. ഇതു ഉത്തരപ്രദേശിലും മറ്റ് പ്രദേശങ്ങളിലും ന്യൂനപക്ഷ വോട്ടുകള്‍ പ്രാധാന്യമില്ലാതാക്കും. ഇത് സത്യമായാല്‍ യുവ ന്യൂനപക്ഷ വോട്ടർമാര്‍ക്ക് പ്രതിനിധിത്വത്തില്‍ പ്രശ്നമുണ്ടാകും. തിരഞ്ഞെടുപ്പ് പരിഷ്കാരങ്ങളെക്കുറിച്ച് അറിവ് നിലനിർത്തണം.",
+  "ok": true,
+  "tags_en": [
+   "delimitation",
+   "UP",
+   "minorities",
+   "politics"
+  ]
+ },
+ "beats": {
+  "cover": "NEW BILL MAY SILENCE MINORITIES?",
+  "cover_accent": "SILENCE",
+  "beats": [
+   {
+    "title": "MINORITY VOICES?",
+    "accent": "VOICES",
+    "query": "protest rally",
+    "en": "Can a new bill really silence minority voters in Uttar Pradesh?",
+    "ml": "പുതിയ ബില്‍ യഥാര്‍ത്ഥത്തില്‍ ഉപ്പറ प्रदेशത്തിലെ ന്യൂനപക്ഷ വോട്ടർമാരുടെ ശബ്ദം മൌനം ആക്കുമോ?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "parliament session",
+    "en": "But actually, the Delimitation Bill is about redrawing constituency borders.",
+    "ml": "പക്ഷേ, യാഥാര്‍ത്ഥ്യം ഇതാണ് – ഡെലിമിറ്റേഷന്‍ ബില്‍ തിരഞ്ഞെടുപ്പ് മേഖലകളുടെ അതിര്‍വരമ്പുകള്‍ പുനര്‍രേഖപ്പെടുത്തുന്നതാണ്."
+   },
+   {
+    "title": "MAJORITARIAN AGENDA?",
+    "accent": "MAJORITARIAN",
+    "query": "political map",
+    "en": "India Against Unfair Delimitation says the BJP wants the map to favour a majoritarian agenda.",
+    "ml": "ഇന്ത്യ അഗെയിന്‍സ് അണ്‍ഫെയര്‍ ഡെലിമിറ്റേഷന്‍ പറയുന്നു, ബി.ജെ.പി. മേജോറിറ്റേറിയന്‍ അജണ്ടയ്ക്കായി മാപ്പ് മാറ്റാന്‍ ശ്രമിക്കുന്നു."
+   },
+   {
+    "title": "MINORITY VOTES AT RISK",
+    "accent": "RISK",
+    "query": "young voters",
+    "en": "If the borders shift, minority votes could become ineffective in UP and nearby states.",
+    "ml": "അറ്റംമാറിയാല്‍, ന്യൂനപക്ഷ വോട്ടുകള്‍ ഉപ്പറ പ്രദേശത്തും ചുറ്റുമുള്ള സംസ്ഥാനങ്ങളിലും ഫലപ്രദമല്ലാതാകും."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "teenagers using phone",
+    "en": "For you, that means your voice might not count in the next election – stay informed.",
+    "ml": "ഇത് നിങ്ങള്‍ക്ക്‌ അര്‍ത്ഥമാക്കുന്നത്, അടുത്ത തിരഞ്ഞെടുപ്പില്‍ നിങ്ങളുടെ ശബ്ദം കണക്കാക്കപ്പെടാതെ പോകാം – വിവരത്തില്‍ നില്‍ക്കൂ."
+   }
+  ],
+  "ml_ok": true
+ }
+}

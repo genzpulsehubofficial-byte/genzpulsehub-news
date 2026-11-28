@@ -1,0 +1,92 @@
+{
+ "id": "3d87c5347fda",
+ "created": "2026-11-28T21:13:48+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": false,
+ "source": "Inc42",
+ "source_url": "https://inc42.com/buzz/warning-labels-to-put-d2c-food-brands-healthier-pitch-to-the-test/",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Warning Labels For Food Brands",
+  "hook": "Your 'healthy' snacks may not be so healthy after all",
+  "what": "Food brands marketing their products as 'healthier' may now have to display warning labels. This includes snacks that are high in salt or sugar. These labels will help consumers make informed choices.",
+  "why": "This move matters to young Indians as it affects the food they eat every day. It's essential to be aware of what they're consuming to make better choices.",
+  "tags": [
+   "food safety",
+   "healthier options",
+   "warning labels",
+   "consumer awareness"
+  ]
+ },
+ "ml": {
+  "headline": "ഫുഡ് ബ്രാൻഡുകൾക്ക് മുന്നറിയിപ്പ് ലേബൽ",
+  "hook": "നിങ്ങളുടെ 'ആരോഗ്യകരമായ' സ്നാക്സുകൾ യഥാർത്തത്തിൽ ആരോഗ്യകരമല്ല എന്ന് തോന്നുന്നുണ്ടോ?",
+  "what": "തങ്ങളുടെ ഉത്പന്നങ്ങളെ 'ആരോഗ്യകരമായ'എന്ന് പ്രചരിപ്പിക്കുന്ന ഫുഡ് ബ്രാൻഡുകൾക്ക് ഇനി മുന്നറിയിപ്പ് ലേബൽ പ്രദർശിപ്പിക്കേണ്ടതായി വരും. ഉയർന്ന ഉപ്പ് അടങ്ങിയിരിക്കുന്ന സ്നാക്സുകൾ ഇതിൽ ഉൾപ്പെടുന്നു. ഈ ലേബൽ ഉപഭോക്താക്കളെ അറിവുള്ള തീരുമാനങ്ങൾ എടുക്കാൻ സഹായിക്കും.",
+  "why": "ഇന്ത്യൻ യുവാക്കൾക്ക് ഇത് പ്രസക്തമാണ്. കാരണം, ഇത് അവർ ദൈനംദിനം കഴിക്കുന്ന ഭക്ഷണത്തെ ബാധിക്കുന്നു. മെച്ചപ്പെട്ട തീരുമാനങ്ങൾ എടുക്കുന്നതിന് അവർ എന്താണ് കഴിക്കുന്നതെന്ന് ബോധവാന്മാരായിരിക്കേണ്ടത് പ്രധാനമാണ്.",
+  "tags": [
+   "ഭക്ഷ്യ സുരക്ഷ",
+   "ആരോഗ്യകരമായ ഓപ്ഷനുകൾ",
+   "മുന്നറിയിപ്പ് ലേബൽ",
+   "ഉപഭോക്തൃ ബോധവൽക്കരണം"
+  ],
+  "say": "നിങ്ങളുടെ ആരോഗ്യകരമായ സ്നാക്സുകൾ യഥാർത്തത്തിൽ ആരോഗ്യകരമാണോ എന്ന് ചിന്തിക്കുന്നുണ്ടോ. ഫുഡ് ബ്രാൻഡുകൾക്ക് ഇനി മുന്നറിയിപ്പ് ലേബൽ വേണം. ഉയർന്ന ഉപ്പ് അടങ്ങിയ സ്നാക്സുകളും ഇതിൽ പെടും. നിങ്ങൾക്ക് എന്താണ് കഴിക്കുന്നതെന്ന് അറിയാൻ ഈ ലേബൽ സഹായിക്കും. ഇന്ത്യൻ യുവാക്കൾക്ക് ഇത് പ്രധാനമാണ്. നിങ്ങൾ ദൈനംദിനം കഴിക്കുന്ന ഭക്ഷണത്തെ ഇത് ബാധിക്കുന്നു. നിങ്ങൾക്ക് എന്താണ് കഴിക്കുന്നതെന്ന് ബോധവാന്മാരായിരിക്കേണ്ടത് പ്രധാനമാണ്.",
+  "ok": true,
+  "tags_en": [
+   "food safety",
+   "healthier options",
+   "warning labels",
+   "consumer awareness"
+  ]
+ },
+ "beats": {
+  "cover": "IS YOUR SNACK HEALTHY?",
+  "cover_accent": "HEALTHY",
+  "beats": [
+   {
+    "title": "HEALTHY SNACKS?",
+    "accent": "HEALTHY",
+    "query": "packaged food aisle",
+    "en": "Your 'healthy' snacks may not be so healthy after all. Many food brands market their products as healthier options.",
+    "ml": "Ningalude 'healthy' snacks healthy alla, ennund. Chilavu food brands avare ethokke healthier option aayithu market cheyyunnu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "sugar and salt packets",
+    "en": "But actually, some of these snacks are high in salt or sugar. This can be misleading for consumers.",
+    "ml": "Pakshe, ethokke snacks salt um sugar um kovila und. Ithu consumersne thallunu."
+   },
+   {
+    "title": "WARNING LABELS",
+    "accent": "WARNING",
+    "query": "warning label on packaging",
+    "en": "To address this issue, food brands may now have to display warning labels on their products.",
+    "ml": "Ithine samadhanam aayi, food brands avare warning labels display cheyyan pattum."
+   },
+   {
+    "title": "INFORMED CHOICES",
+    "accent": "INFORMED",
+    "query": "students reading food labels",
+    "en": "These labels will help consumers make informed choices about the food they eat.",
+    "ml": "Ithu labels consumersne food ethu eat cheyyunnu ennu informed choices edukkum."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young indians eating snacks",
+    "en": "This move matters to young Indians as it affects the food they eat every day.",
+    "ml": "Ithu young Indiansne kurichu, ivalude daily food affect cheyyunnu."
+   },
+   {
+    "title": "MAKE BETTER CHOICES",
+    "accent": "BETTER",
+    "query": "person choosing healthy snack",
+    "en": "It's essential to be aware of what you're consuming to make better choices.",
+    "ml": "Ningal consume cheyyunna ethu aware aayi better choices edukkenda."
+   }
+  ],
+  "ml_ok": false
+ }
+}

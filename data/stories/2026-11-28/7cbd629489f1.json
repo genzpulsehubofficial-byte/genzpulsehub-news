@@ -1,0 +1,88 @@
+{
+ "id": "7cbd629489f1",
+ "created": "2026-11-28T21:12:17+05:30",
+ "category": "entertainment",
+ "region": "in",
+ "breaking": false,
+ "source": "The Indian Express",
+ "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTmo4MHJ6TmlDMXdlYTkzV1ZobXp3Y1FOaDZPNmNvRTJONUJ1QXgyYV9OQnhYU09VNDdXQVRmdTRaQzhZblBkMDhOeE0yRWFSMDNuY2djaUktWFpZdGNHNGtrbUJ3Uzl6clFqMkE1N1ZBVXZKNmtWa1gwMk01eFBoZDQ3U2lQbkZyUmxzTGs2UWJGS3hkX3lyaWNrRWxibkhuQ29GVXZpMTFIZkJTbGVjck02VklTeU1PWXVmOFRUc2dLZWN0ajdvQnd3a0x3bHAzdnRuT3BGZHVMSHhMU2Rj0gHmAUFVX3lxTE9XVkE1ZlprRjRCYU1HSWp1N3NrTDVGb1dPaUZfcmZwazBHUFF2dlNHdjBUbXQ4aUc1SWJqR1ZSNkRfZlFCS3kySVNrMDlpVUdBMnNZanFkaDVLTXdxMjNvY0R0WFQ5dnNNemp2b0ctWTViclZ5ZFY4RmpreElRak02UXhSd21tbE15dnFzWEhrdzRPRkNkWklEUlF3TkFEWkRUY1hkS1Z0ZHB6YzZpbGVZcVg1ZXFUR2duZGJfbkozZWJkenBnM3BMalozU1phMTNCdWJha3M2NnJBOXhWbGV0ZTVqWVJB?oc=5",
+ "source_count": 2,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Ramayana Film Hits Big Milestone",
+  "hook": "A Bollywood movie is breaking records worldwide",
+  "what": "A film based on Ramayana has crossed a major box office milestone. It has earned a significant amount in India and North America. The movie's collection is being compared to other big films",
+  "why": "This matters to young Indians who enjoy Bollywood movies and are interested in epic stories. They can check out the film's performance and compare it to other popular movies",
+  "tags": [
+   "Bollywood",
+   "Ramayana",
+   "Box Office",
+   "Movies",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "റാംമയണ ചിത്രം വലിയ മൈല്‌ക്കല്ല് കടന്നു",
+  "hook": "ഒരു ബോളിവുഡ് സിനിമ ലോകമെമ്പാടും റെക്കോർഡുകൾ തകർക്കുന്നു",
+  "what": "റാംമയണത്തെ അടിസ്ഥാനമാക്കിയുള്ള ഒരു ചിത്രം ഒരു വലിയ ബോക്സ് ഓഫീസ് മൈല്‌ക്കല്ല് കടന്നു. ഇന്ത്യയിലും വടക്കേ അമേരിക്കയിലും ഗണ്യമായ തുക സമ്പാദിച്ചു. സിനിമയുടെ ശേഖരം മറ്റ് വലിയ സിനിമകളുമായി താരതമ്യം ചെയ്യപ്പെടുന്നു",
+  "why": "ബോളിവുഡ് സിനിമകൾക്ക് ഇഷ്ടമുള്ള യുവ ഇന്ത്യക്കാർക്ക് ഇത് പ്രസക്തമാണ്. അവർക്ക് സിനിമയുടെ പ്രകടനം പരിശോധിക്കാം, മറ്റ് ജനപ്രിയ സിനിമകളുമായി താരതമ്യം ചെയ്യാം",
+  "tags": [
+   "ബോളിവുഡ്",
+   "റാംമയണ",
+   "ബോക്സ് ഓഫീസ്",
+   "സിനിമ",
+   "ഇന്ത്യ"
+  ],
+  "say": "ഒരു ബോളിവുഡ് സിനിമ ലോകമെമ്പാടും റെക്കോർഡുകൾ തകർക്കുന്നു. റാംമയണത്തെ അടിസ്ഥാനമാക്കിയുള്ള ഒരു ചിത്രം ഒരു വലിയ ബോക്സ് ഓഫീസ് മൈല്‌ക്കല്ല് കടന്നു. ഇന്ത്യയിലും വടക്കേ അമേരിക്കയിലും ഗണ്യമായ തുക സമ്പാദിച്ചു. ഇത് യുവ ഇന്ത്യക്കാർക്ക് പ്രസക്തമാണ്. കാരണം, ബോളിവുഡ് സിനിമകൾക്ക് ഇഷ്ടമുള്ളവർക്ക് സിനിമയുടെ പ്രകടനം പരിശോധിക്കാം, മറ്റ് ജനപ്രിയ സിനിമകളുമായി താരതമ്യം ചെയ്യാം.",
+  "ok": true,
+  "tags_en": [
+   "Bollywood",
+   "Ramayana",
+   "Box Office",
+   "Movies",
+   "India"
+  ]
+ },
+ "beats": {
+  "cover": "BOLLYWOOD FILM RECORDS",
+  "cover_accent": "BOLLYWOOD",
+  "beats": [
+   {
+    "title": "BIG BOX OFFICE",
+    "accent": "BOX",
+    "query": "movie tickets counter",
+    "en": "A Bollywood movie is breaking records worldwide. It has earned a significant amount in India and North America.",
+    "ml": "Bollywood ile ett oru cinema, lokathinte record il break cheyyunnu. India, North America il ninnu ett oru amount kasu earn cheythittundu."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "aerial map India North America",
+    "en": "But actually, it's a film based on Ramayana that has crossed a major box office milestone.",
+    "ml": "Pakshe, actualliy, Ramayana athinte adhipadethile ett cinema aye box office ile ett oru milestone cross cheythittundu."
+   },
+   {
+    "title": "WHY SO BIG",
+    "accent": "BIG",
+    "query": "students watching movie",
+    "en": "The movie's collection is being compared to other big films.",
+    "ml": "Cinemale ett oru collection undu, athine vere big films onnumay compare cheyyunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "young people watching Bollywood movie",
+    "en": "This matters to young Indians who enjoy Bollywood movies and are interested in epic stories.",
+    "ml": "Ett young Indians ine, Bollywood cinemal onnum ishtappeduthu, epic stories ine ishtappeduthu, avarelle ithu matter todu."
+   },
+   {
+    "title": "CHECK IT OUT",
+    "accent": "OUT",
+    "query": "iPhone showing movie ratings",
+    "en": "They can check out the film's performance and compare it to other popular movies.",
+    "ml": "Avare film ile performance check cheyyam, vere popular cinemal odum compare cheyyam."
+   }
+  ],
+  "ml_ok": false
+ }
+}

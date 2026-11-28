@@ -1,0 +1,85 @@
+{
+ "id": "114dd5129b78",
+ "created": "2026-11-28T21:13:00+05:30",
+ "category": "sports",
+ "region": "in",
+ "breaking": false,
+ "source": "Cricbuzz",
+ "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2Y1eXMzWXN1QXlMYzcxTmI2T2VQNWZ1OF9VbkNsYVROTk9xa2N4LUV0NklsZnBMQk5hNFdmMEt6S2l4VWpZQUdNdFd3MVowcG9oRHo3QXVYNVhDOFB3clo0LXlWak1Kcnp3MlNwaXB3dElwSHhnX0ZXZzFmMDc3U18wOGFOM2ly?oc=5",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Desert Vipers vs MI Emirates",
+  "hook": "Catch the thrilling International League T20 match",
+  "what": "Desert Vipers are currently at 62/2 in 8 overs, while MI Emirates have scored 186/4. The match is underway with exciting moments.",
+  "why": "This match is a must-watch for young cricket fans in India, with top teams competing in the International League T20 2026.",
+  "tags": [
+   "International League T20",
+   "cricket",
+   "Desert Vipers",
+   "MI Emirates"
+  ]
+ },
+ "ml": {
+  "headline": "ഡെസേർട്ട് വൈപ്പറുകൾ vs MI എമിറേറ്റ്സ്",
+  "hook": "അന്താരാഷ്ട്ര ലീഗ് T20 മത്സരം കാണാം",
+  "what": "ഡെസേർട്ട് വൈപ്പറുകൾ 8 ഓവറിൽ 62/2 എത്തിയിരിക്കുന്നു, എമിറേറ്റ്സ് 186/4 സ്കോർ ചെയ്തിട്ടുണ്ട്. മത്സരം തുടരുന്നു.",
+  "why": "ഇന്ത്യയിലെ യുവ ക്രിക്കറ്റ് ആരാധകർക്ക് ഇത് കാണാൻ തക്ക മത്സരമാണ്, അന്താരാഷ്ട്ര ലീഗ് T20 2026-ൽ മികച്ച ടീമുകൾ മത്സരിക്കുന്നു.",
+  "tags": [
+   "അന്താരാഷ്ട്ര ലീഗ് T20",
+   "ക്രിക്കറ്റ്",
+   "ഡെസേർട്ട് വൈപ്പറുകൾ",
+   "MI എമിറേറ്റ്സ്"
+  ],
+  "say": "ഡെസേർട്ട് വൈപ്പറുകൾക്കും MI എമിറേറ്റ്സിനും ഇടയിൽ ഒരു മത്സരം നടക്കുന്നു. ഡെസേർട്ട് വൈപ്പറുകൾ 8 ഓവറിൽ 62/2 എത്തിയിരിക്കുന്നു. എമിറേറ്റ്സ് 186/4 സ്കോർ ചെയ്തിട്ടുണ്ട്. ഇന്ത്യയിലെ യുവ ക്രിക്കറ്റ് ആരാധകർക്ക് ഇത് കാണാൻ തക്ക മത്സരമാണ്. 2026-ലെ അന്താരാഷ്ട്ര ലീഗ് T20-ൽ മികച്ച ടീമുകൾ മത്സരിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "International League T20",
+   "cricket",
+   "Desert Vipers",
+   "MI Emirates"
+  ]
+ },
+ "beats": {
+  "cover": "CRICKET THRILL AHEAD",
+  "cover_accent": "THRILL",
+  "beats": [
+   {
+    "title": "BIG MATCH",
+    "accent": "MATCH",
+    "query": "cricket stadium",
+    "en": "The Desert Vipers are taking on MI Emirates in a thrilling International League T20 match. The score is currently 62/2 in 8 overs for Desert Vipers.",
+    "ml": "Desert Vipers, MI Emirates ine Thrilling International League T20 match ile. Desert Vipers 8 overs il 62/2 aayi score undu."
+   },
+   {
+    "title": "BUT ACTUALLY",
+    "accent": "ACTUALLY",
+    "query": "scoreboard display",
+    "en": "But actually, MI Emirates are leading with a score of 186/4. The match is getting intense with exciting moments.",
+    "ml": "Pakshe, MI Emirates 186/4 enna score odittenne lead cheyyunnu. Match exciting moments odikkanam."
+   },
+   {
+    "title": "MATCH UPDATE",
+    "accent": "UPDATE",
+    "query": "cricket players playing",
+    "en": "The match is underway with both teams giving their best. The Desert Vipers are trying to catch up with MI Emirates' score.",
+    "ml": "Match underway aayi, randu teams um best performance kettitundu. Desert Vipers MI Emirates ine score pokkandaanu try cheyyunnu."
+   },
+   {
+    "title": "WHY WATCH",
+    "accent": "WATCH",
+    "query": "young cricket fans",
+    "en": "This match is a must-watch for young cricket fans in India, with top teams competing in the International League T20 2026.",
+    "ml": "India ile young cricket fans ine, top teams International League T20 2026 ile compete cheyyunnavarude match aayi, must-watch aanu."
+   },
+   {
+    "title": "FOLLOW LIVE",
+    "accent": "LIVE",
+    "query": "live cricket streaming",
+    "en": "So, follow the match live and catch all the exciting moments. Don't miss out on the thrill of the game!",
+    "ml": "Aa match live follow cheythu, exciting moments ellam pokku. Game ile thrill miss cheyyatha, athu kondu varan!"
+   }
+  ],
+  "ml_ok": false
+ }
+}
