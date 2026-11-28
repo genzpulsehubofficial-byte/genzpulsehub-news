@@ -2,13 +2,13 @@
  "day": "2026-11-28",
  "counts": {
   "en": {
-   "youtube": 2,
-   "facebook": 11,
+   "youtube": 3,
+   "facebook": 13,
    "instagram": 5
   },
   "ml": {
-   "youtube": 2,
-   "facebook": 13,
+   "youtube": 3,
+   "facebook": 15,
    "instagram": 7
   }
  },
@@ -18,8 +18,8 @@
  },
  "blocked_today": false,
  "last_yt": {
-  "en": 1795854088.1773179,
-  "ml": 1795854136.1133196
+  "en": 1795877667.5362496,
+  "ml": 1795877767.0361364
  },
  "cap": 24
 }
