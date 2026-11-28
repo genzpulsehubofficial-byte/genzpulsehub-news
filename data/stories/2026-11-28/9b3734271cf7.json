@@ -1,0 +1,89 @@
+{
+ "id": "9b3734271cf7",
+ "created": "2026-11-28T13:47:36+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-radio-collaring-operation-suspended-shibu-baby-john-ptinikik5gj",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "Chakkakomban Operation Halted",
+  "hook": "Forest operation sparks controversy in Kerala",
+  "what": "The Chakkakomban radio-collaring operation in Chinnakanal has been suspended after three days. The operation was defended by the Forest Minister. The radio-collaring was halted due to certain reasons.",
+  "why": "This development is important for young Indians to know about the conservation efforts in their country. It also highlights the role of government officials in such operations.",
+  "tags": [
+   "wildlife conservation",
+   "Kerala news",
+   "forest department"
+  ]
+ },
+ "ml": {
+  "headline": "ചക്കാക്കോമ്പൻ ഓപ്പറേഷൻ നിർത്തിയത്",
+  "hook": "കേരളത്തിൽ വന ഓപ്പറേഷൻ വിവാദത്തിലേക്ക്",
+  "what": "ചിന്നക്കനാലിലെ ചക്കാക്കോമ്പൻ റേഡിയോ കൊള്ള ഓപ്പറേഷൻ 3 ദിവസത്തിന് ശേഷം നിർത്തി. വനം വകുപ്പ് മന്ത്രി ഓപ്പറേഷനും ഉദ്യോഗസ്ഥരും ന്യായീകരിച്ചു. ചില കാരണങ്ങളാൽ റേഡിയോ കൊള്ള നിർത്തിയതാണ്.",
+  "why": "ഇന്ത്യയിലെ വന്യജീവി സംരക്ഷണ ശ്രമങ്ങളെ കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് അറിയേണ്ടത് ഈ വികസനം. അത്തരം ഓപ്പറേഷനുകളിൽ ഗവൺമെന്റ് ഉദ്യോഗസ്ഥരുടെ പങ്ക് എടുത്തുകാണിക്കുന്നു.",
+  "tags": [
+   "വന്യജീവി സംരക്ഷണം",
+   "കേരള വാർത്ത",
+   "വന വകുപ്പ്"
+  ],
+  "say": "കേരളത്തിൽ ഒരു വന ഓപ്പറേഷൻ വിവാദത്തിലേക്ക് കടന്നു. ചിന്നക്കനാലിലെ ചക്കാക്കോമ്പൻ റേഡിയോ കൊള്ള ഓപ്പറേഷൻ. 3 ദിവസത്തിന് ശേഷം ഇത് നിർത്തി. വനം വകുപ്പ് മന്ത്രി, ഓപ്പറേഷൻ, ഉദ്യോഗസ്ഥർ, എല്ലാം ന്യായീകരിച്ചു. ചില കാരണങ്ങളാൽ റേഡിയോ കൊള്ള നിർത്തിയതാണ്. ഇന്ത്യയിലെ വന്യജീവി സംരക്ഷണ ശ്രമങ്ങളെ കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് അറിയേണ്ടത്, ഈ വികസനം. ഗവൺമെന്റ് ഉദ്യോഗസ്ഥരുടെ പങ്ക് എടുത്തുകാണിക്കുന്നു, അത്തരം ഓപ്പറേഷനുകളിൽ.",
+  "ok": true,
+  "tags_en": [
+   "wildlife conservation",
+   "Kerala news",
+   "forest department"
+  ]
+ },
+ "beats": {
+  "cover": "KERALA WILDLIFE IN PERIL",
+  "cover_accent": "WILDLIFE",
+  "beats": [
+   {
+    "title": "WHAT HAPPENED",
+    "accent": "HAPPENED",
+    "query": "forest controversy",
+    "en": "A forest operation in Kerala has sparked controversy, but what's really going on? The Chakkakomban radio-collaring operation was suddenly halted.",
+    "ml": "Keralathil, oru forest operation controversy uyarthiya, ennal avarnanam. Chakkakomban radio-collaring operation kashtathe akramichu."
+   },
+   {
+    "title": "BUT ACTUALLY",
+    "accent": "ACTUALLY",
+    "query": "forest minister speaking",
+    "en": "But actually, the Forest Minister defended the operation, saying it was necessary for conservation efforts.",
+    "ml": "Pinne, Forest Minister avane operation ine samarthichu, ahathinnum conservation prayaasanam vendi ennu parayunnu."
+   },
+   {
+    "title": "THE OPERATION",
+    "accent": "OPERATION",
+    "query": "radio collaring wildlife",
+    "en": "The Chakkakomban radio-collaring operation in Chinnakanal was meant to track and study wildlife, but it was suspended after just three days.",
+    "ml": "Chinnakanalil, Chakkakomban radio-collaring operation jeevijalam track cheyyanum, padichu, 3 dinasathinu shesham, akramichu."
+   },
+   {
+    "title": "WHY IT STOPPED",
+    "accent": "STOPPED",
+    "query": "forest officials meeting",
+    "en": "The operation was halted due to certain reasons, which have not been fully disclosed yet.",
+    "ml": "Operation, oru karanam kooduthal, athu poornnamayi, ithuvarre ullu, ennu parayunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students learning conservation",
+    "en": "This development is important for young Indians to know about conservation efforts in their country and the role of government officials in such operations.",
+    "ml": "Ithu, yuvavargalke, desathil, conservation prayaasanangal, arinju, athil government udyogastharkude padhil ennu, ariyikkukayaanu."
+   },
+   {
+    "title": "STAY INFORMED",
+    "accent": "INFORMED",
+    "query": "news on iPhone",
+    "en": "Stay informed about what's happening in your country and the world, and be a part of the conversation.",
+    "ml": "Ningalde desathilum, lokathilum, nadtakam, arinjukayum, samvadathil bhagavallabhavum, aakanam."
+   }
+  ],
+  "ml_ok": false
+ }
+}

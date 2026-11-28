@@ -1,0 +1,82 @@
+{
+ "id": "053cc386d97e",
+ "created": "2026-11-28T13:46:58+05:30",
+ "category": "tech",
+ "region": "in",
+ "breaking": false,
+ "source": "Gadgets360",
+ "source_url": "https://www.gadgets360.com/apps/news/ai-meeting-note-taking-apps-hindi-and-english-transcription-12376523",
+ "source_count": 1,
+ "provider": "cloudflare",
+ "en": {
+  "headline": "AI Note Takers",
+  "hook": "Get meeting notes automatically with these apps",
+  "what": "Some apps can transcribe meetings in Hindi and English. They use AI to take notes. Otter.ai is one such app with a paid plan.",
+  "why": "These apps can be useful for students and professionals who want to focus on discussions without taking notes. They can help with organization and review.",
+  "tags": [
+   "AI apps",
+   "note taking",
+   "transcription"
+  ]
+ },
+ "ml": {
+  "headline": "AI ഉപയോഗിച്ചുള്ള കുറിപ്പെടുത്തൽ ആപ്പുകൾ",
+  "hook": "യോഗങ്ങളുടെ കുറിപ്പുകൾ സ്വയം എഴുതാൻ ഇവയുപയോഗിക്കൂ",
+  "what": "ചില ആപ്പുകൾക്ക് ഹിന്ദിയിലും, ഇംഗ്ലീഷിലും യോഗങ്ങൾ ട്രാൻസ്ക്രൈബ് ചെയ്യാനാകും. AI ഉപയോഗിച്ച് കുറിപ്പുകൾ എടുക്കാനും കഴിയും. Otter.ai പോലുള്ള ഒരു ആപ്പ് 10 ദിവസത്തേക്ക് സൗജന്യമായി ഉപയോഗിക്കാം, തുടർന്ന് പേയ്ഡ് പ്ലാൻ ഉണ്ട്.",
+  "why": "ചർച്ചകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ ആഗ്രഹിക്കുന്ന വിദ്യാർത്ഥികൾക്കും, പ്രൊഫഷണലുകൾക്കും ഈ ആപ്പുകൾ ഉപയോഗപ്രദമാണ്. സംഘടനയ്ക്കും, അവലോകനത്തിനും ഇവ സഹായിക്കും.",
+  "tags": [
+   "AI ആപ്പുകൾ",
+   "കുറിപ്പെടുത്തൽ",
+   "ട്രാൻസ്ക്രിപ്ഷൻ"
+  ],
+  "say": "യോഗങ്ങളുടെ കുറിപ്പുകൾ സ്വയം എഴുതാൻ നിങ്ങൾക്ക് ആപ്പുകൾ ഉപയോഗിക്കാം. ചില ആപ്പുകൾക്ക്, ഹിന്ദിയിലും ഇംഗ്ലീഷിലും യോഗങ്ങൾ ട്രാൻസ്ക്രൈബ് ചെയ്യാനും കഴിയും. AI എന്നത് കമ്പ്യൂട്ടറുകൾക്ക് മനുഷ്യരെപ്പോലെ ചിന്തിക്കാൻ സഹായിക്കുന്ന സാങ്കേതികവിദ്യ. ഇത് ഉപയോഗിച്ച് കുറിപ്പുകൾ എടുക്കാനും കഴിയും. Otter.ai പോലുള്ള ഒരു ആപ്പ് 10 ദിവസത്തേക്ക് സൗജന്യമായി ഉപയോഗിക്കാം, തുടർന്ന് പേയ്ഡ് പ്ലാൻ ഉണ്ട്. ചർച്ചകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ ആഗ്രഹിക്കുന്ന നിങ്ങൾക്ക്, ഈ ആപ്പുകൾ ഉപയോഗപ്രദമാണ്. സംഘടനയ്ക്കും, അവലോകനത്തിനും ഇവ സഹായിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "AI apps",
+   "note taking",
+   "transcription"
+  ]
+ },
+ "beats": {
+  "cover": "MEET AI NOTE TAKERS",
+  "cover_accent": "NOTE",
+  "beats": [
+   {
+    "title": "NO MORE NOTES",
+    "accent": "MORE",
+    "query": "students exam hall",
+    "en": "Are you tired of taking notes in class or meetings? Some apps can now do it for you.",
+    "ml": "Class-ilum note edukkenda, meeting-ilum note edukkenda ennu ninnu rasichath? Ippol some apps note edukkum."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "iPhone with app",
+    "en": "But actually, these apps use AI to transcribe meetings in Hindi and English.",
+    "ml": "Pakshe, actually, ithu pole ullappai, AI use cheyyunna apps meeting transcribe cheyyunnu, Hindi-ilum, English-ilum."
+   },
+   {
+    "title": "HOW IT WORKS",
+    "accent": "WORKS",
+    "query": "aerial coding",
+    "en": "One such app is Otter.ai, which has a paid plan to take notes using AI.",
+    "ml": "Ithu pole ullappai, Otter.ai enna app undu, paid plan undu, AI use cheyyunna note edukkum."
+   },
+   {
+    "title": "WHO BENEFITS",
+    "accent": "BENEFITS",
+    "query": "students discussing",
+    "en": "These apps can be useful for students and professionals who want to focus on discussions.",
+    "ml": "Ithu pole ullappai, students-um, professionals-um, discussion-il focus cheyyenda aakumpol ithu upayogichu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "UPI payment",
+    "en": "They can help with organization and review, saving you time and effort.",
+    "ml": "Ithu organization-um, review-um help cheyyum, ningalude samayam, shramam save aakum."
+   }
+  ],
+  "ml_ok": false
+ }
+}

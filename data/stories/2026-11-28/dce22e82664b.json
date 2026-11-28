@@ -1,0 +1,88 @@
+{
+ "id": "dce22e82664b",
+ "created": "2026-11-28T13:45:50+05:30",
+ "category": "health",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "Coliform detected in Bisleri water; regulator bans one batch",
+  "hook": "Your bottled water might not be as pure as you think",
+  "what": "A sample of Bisleri bottled water tested positive for coliform bacteria. The food safety regulator stopped the sale of the specific batch on August 12, 2026. Bisleri says its product remains safe for consumers.",
+  "why": "Contaminated water can cause health issues, so check batch numbers before buying. Stay informed and choose trusted sources.",
+  "tags": [
+   "water safety",
+   "bisleri",
+   "health",
+   "regulation",
+   "india"
+  ]
+ },
+ "ml": {
+  "headline": "Bisleri വെള്ളത്തിൽ കൊളിഫോം കണ്ടെത്തി; ഒരു ബാച്ച് നിരോധിച്ചു",
+  "hook": "നിങ്ങളുടെ ബോട്ടിലിലെ വെള്ളം ശുദ്ധമാണെന്ന് ഉറപ്പാണോ?",
+  "what": "Bisleriയുടെ ഒരു സാമ്പിൾ കൊളിഫോം ബാക്ടീരിയ ഉള്ളതായി കണ്ടെത്തി. ഭക്ഷ്യസുരക്ഷാ നിയന്ത്രണസംസ്ഥാനം 12 ഓഗസ്റ്റ് 2026 ന് ആ ബാച്ചിന്റെ വിൽപ്പന നിരോധിച്ചു. Bisleri ഉൽപ്പന്നം സുരക്ഷിതമാണെന്ന് പറയുന്നു.",
+  "why": "കൊളിഫോം ഉള്ള വെള്ളം ആരോഗ്യത്തിന് ഹാനികരമാണ്, അതിനാൽ ബാച്ച് നമ്പർ പരിശോധിക്കുക. വിശ്വസനീയ സ്രോതസ്സുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "വെള്ളസുരക്ഷ",
+   "ബിസ്ലെരി",
+   "ആരോഗ്യം",
+   "നിയന്ത്രണം",
+   "ഇന്ത്യ"
+  ],
+  "say": "നിങ്ങളുടെ ബോട്ടിലിലെ വെള്ളം ശുദ്ധമാണെന്ന് ഉറപ്പാണോ? Bisleriയുടെ ഒരു സാമ്പിൾ കൊളിഫോം ബാക്ടീരിയ ഉള്ളതായി കണ്ടെത്തി. ഭക്ഷ്യസുരക്ഷാ നിയന്ത്രണസംസ്ഥാനം 12 ഓഗസ്റ്റ് 2026 ന് ആ ബാച്ചിന്റെ വിൽപ്പന നിരോധിച്ചു. Bisleri ഉൽപ്പന്നം സുരക്ഷിതമാണെന്ന് പറയുന്നു. കൊളിഫോം ഉള്ള വെള്ളം ആരോഗ്യത്തിന് ഹാനികരമാണ്, അതിനാൽ ബാച്ച് നമ്പർ പരിശോധിക്കുക. വിശ്വസനീയ സ്രോതസ്സുകൾ തിരഞ്ഞെടുക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "water safety",
+   "bisleri",
+   "health",
+   "regulation",
+   "india"
+  ]
+ },
+ "beats": {
+  "cover": "YOUR BOTTLED WATER LIES?",
+  "cover_accent": "LIES",
+  "beats": [
+   {
+    "title": "IS WATER PURE?",
+    "accent": "PURE",
+    "query": "bottled water shelf",
+    "en": "Ever wondered if the water you sip from a bottle is truly pure?",
+    "ml": "നിങ്ങൾ കുടിക്കുന്ന ബോട്ടിൽ വെള്ളം യഥാർത്ഥത്തിൽ ശുദ്ധമാണോ എന്ന് നിങ്ങൾ ഒരിക്കൽ ചിന്തിച്ചിട്ടുണ്ടോ?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "lab test water",
+    "en": "A recent test found coliform bacteria in a Bisleri batch.",
+    "ml": "പുതുതായി നടത്തിയ പരിശോധനയിൽ ബിസ്ലേറിയുടെ ഒരു ബാച്ചിൽ കൊളിഫോം ബാക്ടീരിയ കണ്ടെത്തി."
+   },
+   {
+    "title": "WHAT IS COLIFORM?",
+    "accent": "COLIFORM",
+    "query": "microscopic bacteria",
+    "en": "Coliforms are indicator germs that signal possible contamination.",
+    "ml": "കൊളിഫോം ബാക്ടീരിയകൾ മലിനീകരണം സൂചിപ്പിക്കുന്ന സൂചനാ ജീർണങ്ങളാണ്."
+   },
+   {
+    "title": "REGULATOR STEPS IN",
+    "accent": "REGULATOR",
+    "query": "food safety office",
+    "en": "India’s food safety regulator halted sales of that batch on August 12, 2026.",
+    "ml": "ഇന്ത്യയുടെ ഫുഡ് സേഫ്റ്റി റെഗുലേറ്റർ ആ ബാച്ചിന്റെ വിൽപ്പന 12 ഓഗസ്റ്റ് 2026 ന് നിർത്തി."
+   },
+   {
+    "title": "WHAT TO DO?",
+    "accent": "DO",
+    "query": "checking bottle batch",
+    "en": "Check the batch number before buying, and stick to trusted brands.",
+    "ml": "വാങ്ങുന്നതിന് മുമ്പ് ബാച്ച് നമ്പർ പരിശോധിക്കുക, വിശ്വസനീയമായ ബ്രാൻഡുകൾ മാത്രം തിരഞ്ഞെടുക്കുക."
+   }
+  ],
+  "ml_ok": true
+ }
+}

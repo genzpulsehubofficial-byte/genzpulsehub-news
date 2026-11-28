@@ -1,0 +1,89 @@
+{
+ "id": "cf384ccc3cab",
+ "created": "2026-11-28T13:46:03+05:30",
+ "category": "kerala",
+ "region": "kl",
+ "breaking": false,
+ "source": "Mathrubhumi English",
+ "source_url": "https://english.mathrubhumi.com/news/crime/kozhikode-two-arrested-sexual-assault-woman-thamarassery-ptiyhnlqol5",
+ "source_count": 2,
+ "provider": "openrouter",
+ "en": {
+  "headline": "Two bus staff arrested for assaulting woman in Kozhikode",
+  "hook": "A serious crime has been reported in Thamarassery.",
+  "what": "Police in Kozhikode arrested two bus employees for the repeated sexual assault of a 20-year-old woman. The accused allegedly used drugs and blackmail to commit these acts.",
+  "why": "This incident highlights the importance of personal safety and awareness in public transport.",
+  "tags": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ]
+ },
+ "ml": {
+  "headline": "കോഴിക്കോട് യുവതിയെ പീഡിപ്പിച്ചതിന് ബസ് ജീവനക്കാരെ രണ്ടുപേർ അറസ്റ്റു ചെയ്തു",
+  "hook": "താമരശ്ശേരിയിൽ ഒരു ക്രൂര സംഭവം നടന്നു",
+  "what": "കോഴിക്കോട് താമരശ്ശേരിയിൽ 20 വയസ്സുള്ള ഒരു യുവതിയെ മയക്കുമരുന്ന് ഉപയോഗിച്ച് പീഡിപ്പിക്കുകയും ബ്ലാക്ക്മെയിൽ ചെയ്യുകയും ചെയ്തു. അതിനായി രണ്ട് ബസ് ജീവനക്കാരെ പോലീസ് അറസ്റ്റു ചെയ്തു",
+  "why": "പൊതുഗതാഗതത്തിൽ യാത്ര ചെയ്യുമ്പോൾ സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം. ഇതു നമ്മെ ഓർമ്മിപ്പിക്കുന്നു",
+  "tags": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ],
+  "say": "താമരശ്ശേരിയിൽ ഒരു ക്രൂര സംഭവം നടന്നു. 20 വയസ്സുള്ള ഒരു യുവതിയെ മയക്കുമരുന്ന് ഉപയോഗിച്ച് പീഡിപ്പിച്ചു, ബ്ലാക്ക്മെയിൽ ചെയ്തു. അതിനായി രണ്ട് ബസ് ജീവനക്കാരെ പോലീസ് അറസ്റ്റു ചെയ്തു. പൊതുഗതാഗതത്തിൽ യാത്ര ചെയ്യുമ്പോൾ സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം. ഇതു നമ്മെ ഓർമ്മിപ്പിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ]
+ },
+ "beats": {
+  "cover": "CRIME ON WHEELS",
+  "cover_accent": "WHEELS",
+  "beats": [
+   {
+    "title": "SERIOUS CRIME REPORTED",
+    "accent": "CRIME",
+    "query": "aerial cityscape",
+    "en": "A serious crime has been reported in Thamarassery. What could have happened?",
+    "ml": "Thamarasseryyil oru gauravamaya crime report aayi, engane nadannnu poyi."
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "police station exterior",
+    "en": "But actually, it's a shocking story of assault and blackmail. Two bus staff were arrested for their involvement.",
+    "ml": "Pakshe, oru shocking story aanu, assault um blackmail um. 2 bus staff arreested aayirunnu."
+   },
+   {
+    "title": "WHAT HAPPENED",
+    "accent": "HAPPENED",
+    "query": "bus interior",
+    "en": "The accused allegedly used drugs and blackmail to repeatedly assault a 20-year-old woman.",
+    "ml": "20 varsham prayaam oru penkuttiye repeated sexual assault cheythu, drugs um blackmail um use cheythu ennayirunnu."
+   },
+   {
+    "title": "POLICE ACTION",
+    "accent": "ACTION",
+    "query": "police arresting someone",
+    "en": "Police in Kozhikode took swift action and arrested the two bus employees.",
+    "ml": "Kozhikode police swift action eduthu 2 bus employees arreested aayirunnu."
+   },
+   {
+    "title": "WHY IT MATTERS",
+    "accent": "MATTERS",
+    "query": "students in public transport",
+    "en": "This incident highlights the importance of personal safety and awareness in public transport.",
+    "ml": "I incident ile personal safety um awareness ile importance prakasam aavunnu, public transport il."
+   },
+   {
+    "title": "STAY SAFE",
+    "accent": "SAFE",
+    "query": "young woman on bus",
+    "en": "So, let's be aware of our surroundings and stay safe, especially in public transport.",
+    "ml": "Angane, ningalde surroundings ine aware aayi, public transport il especially safe aayi irikkukkaam."
+   }
+  ],
+  "ml_ok": false
+ }
+}

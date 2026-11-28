@@ -1,5 +1,222 @@
 [
  {
+  "id": "59d8e334e835",
+  "created": "2026-11-28T13:45:42+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand",
+  "headline": "DMK ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ, 22 എംപികളോടെ സർക്കാരിന്റെ ശക്തി വർധിച്ചു",
+  "hook": "പുതിയ പിന്തുണ, സർക്കാർ കൂടുതൽ ശക്തി നേടി",
+  "what": "ഡ്രാവിഡാ മുന്നെത്ര കജനകം (DMK) ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി. അതിന്റെ 22 എംപികൾ ഇപ്പോൾ സർക്കാരിന്റെ കൂട്ടത്തിൽ ചേരുന്നു, പാർലമെന്റിലെ അംഗസംഖ്യ വർധിച്ചു.",
+  "why": "ഇത് സർക്കാർ വേഗത്തിൽ നയങ്ങൾ നടപ്പാക്കാൻ സഹായിക്കും, നമ്മുടെ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ],
+  "say": "പുതിയ പിന്തുണ, സർക്കാർ കൂടുതൽ ശക്തി നേടി. ഡ്രാവിഡാ മുന്നെത്ര കജനകം (DMK) ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി. അതിന്റെ 22 എംപികൾ ഇപ്പോൾ സർക്കാരിന്റെ കൂട്ടത്തിൽ ചേരുന്നു. പാർലമെന്റിലെ അംഗസംഖ്യ വർധിച്ചു. ഇതോടെ സർക്കാർ വേഗത്തിൽ നയങ്ങൾ നടപ്പാക്കാൻ കഴിയും. നമ്മുടെ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ],
+  "beats": {
+   "cover": "DMK'S SURPRISE POWER BOOST",
+   "cover_accent": "POWER",
+   "beats": [
+    {
+     "title": "SURPRISING SHIFT?",
+     "accent": "SHIFT",
+     "query": "parliament floor",
+     "en": "Did you know the opposition just switched sides in Parliament?",
+     "ml": "നിങ്ങൾക്ക് അറിയാമോ, എതിർ പാർട്ടി ഇപ്പോൾ പാർലമെന്റിൽ വശം മാറ്റിയിട്ടുണ്ടെന്ന്?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "politicians handshake",
+     "en": "But actually, the DMK has thrown its weight behind the Delimitation Bill.",
+     "ml": "പക്ഷേ, വാസ്തവത്തിൽ DMK ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി."
+    },
+    {
+     "title": "DMK SUPPORTS BILL",
+     "accent": "SUPPORTS",
+     "query": "DMK logo",
+     "en": "The Dravida Munnetra Kazhagam announced its support, adding 22 MPs to the ruling coalition.",
+     "ml": "ഡ്രാവിഡാ മുന്മെത്ര കജഗം (DMK) അവരുടെ പിന്തുണ പ്രഖ്യാപിച്ചു, 22 MPs-കളെയും സർക്കാർ കൂട്ടത്തിൽ ചേർത്തു."
+    },
+    {
+     "title": "22 NEW VOTES",
+     "accent": "NEW",
+     "query": "parliament seats",
+     "en": "Those 22 members will now vote with the government, boosting its numbers.",
+     "ml": "ഈ 22 അംഗങ്ങൾ ഇനി സർക്കാരിനൊപ്പം വോട്ട് ചെയ്യും, അതിനാൽ സർക്കാർ ശക്തി വർധിക്കും."
+    },
+    {
+     "title": "YOUTH IMPACT",
+     "accent": "IMPACT",
+     "query": "young people tech",
+     "en": "A stronger government can push reforms faster, shaping policies that affect your education, jobs, and tech future.",
+     "ml": "ശക്തി കൂടിയാൽ, സർക്കാർ റീഫോംസ് വേഗത്തിൽ നടപ്പാക്കാം, അത് നിങ്ങളുടെ വിദ്യാഭ്യാസം, ജോലി, AI ആപ്പുകൾ എന്നിവയെ ബാധിക്കും."
+    },
+    {
+     "title": "STAY ALERT",
+     "accent": "ALERT",
+     "query": "phone notification",
+     "en": "Keep an eye on upcoming legislative changes—they could change your daily life.",
+     "ml": "അതിനാൽ, വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങളെ ശ്രദ്ധിക്കുക—അത് നിങ്ങളുടെ ജീവിതത്തെ മാറ്റാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "dce22e82664b",
+  "created": "2026-11-28T13:45:50+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand",
+  "headline": "Bisleri വെള്ളത്തിൽ കൊളിഫോം കണ്ടെത്തി; ഒരു ബാച്ച് നിരോധിച്ചു",
+  "hook": "നിങ്ങളുടെ ബോട്ടിലിലെ വെള്ളം ശുദ്ധമാണെന്ന് ഉറപ്പാണോ?",
+  "what": "Bisleriയുടെ ഒരു സാമ്പിൾ കൊളിഫോം ബാക്ടീരിയ ഉള്ളതായി കണ്ടെത്തി. ഭക്ഷ്യസുരക്ഷാ നിയന്ത്രണസംസ്ഥാനം 12 ഓഗസ്റ്റ് 2026 ന് ആ ബാച്ചിന്റെ വിൽപ്പന നിരോധിച്ചു. Bisleri ഉൽപ്പന്നം സുരക്ഷിതമാണെന്ന് പറയുന്നു.",
+  "why": "കൊളിഫോം ഉള്ള വെള്ളം ആരോഗ്യത്തിന് ഹാനികരമാണ്, അതിനാൽ ബാച്ച് നമ്പർ പരിശോധിക്കുക. വിശ്വസനീയ സ്രോതസ്സുകൾ തിരഞ്ഞെടുക്കുക.",
+  "tags": [
+   "വെള്ളസുരക്ഷ",
+   "ബിസ്ലെരി",
+   "ആരോഗ്യം",
+   "നിയന്ത്രണം",
+   "ഇന്ത്യ"
+  ],
+  "say": "നിങ്ങളുടെ ബോട്ടിലിലെ വെള്ളം ശുദ്ധമാണെന്ന് ഉറപ്പാണോ? Bisleriയുടെ ഒരു സാമ്പിൾ കൊളിഫോം ബാക്ടീരിയ ഉള്ളതായി കണ്ടെത്തി. ഭക്ഷ്യസുരക്ഷാ നിയന്ത്രണസംസ്ഥാനം 12 ഓഗസ്റ്റ് 2026 ന് ആ ബാച്ചിന്റെ വിൽപ്പന നിരോധിച്ചു. Bisleri ഉൽപ്പന്നം സുരക്ഷിതമാണെന്ന് പറയുന്നു. കൊളിഫോം ഉള്ള വെള്ളം ആരോഗ്യത്തിന് ഹാനികരമാണ്, അതിനാൽ ബാച്ച് നമ്പർ പരിശോധിക്കുക. വിശ്വസനീയ സ്രോതസ്സുകൾ തിരഞ്ഞെടുക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "water safety",
+   "bisleri",
+   "health",
+   "regulation",
+   "india"
+  ],
+  "beats": {
+   "cover": "YOUR BOTTLED WATER LIES?",
+   "cover_accent": "LIES",
+   "beats": [
+    {
+     "title": "IS WATER PURE?",
+     "accent": "PURE",
+     "query": "bottled water shelf",
+     "en": "Ever wondered if the water you sip from a bottle is truly pure?",
+     "ml": "നിങ്ങൾ കുടിക്കുന്ന ബോട്ടിൽ വെള്ളം യഥാർത്ഥത്തിൽ ശുദ്ധമാണോ എന്ന് നിങ്ങൾ ഒരിക്കൽ ചിന്തിച്ചിട്ടുണ്ടോ?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "lab test water",
+     "en": "A recent test found coliform bacteria in a Bisleri batch.",
+     "ml": "പുതുതായി നടത്തിയ പരിശോധനയിൽ ബിസ്ലേറിയുടെ ഒരു ബാച്ചിൽ കൊളിഫോം ബാക്ടീരിയ കണ്ടെത്തി."
+    },
+    {
+     "title": "WHAT IS COLIFORM?",
+     "accent": "COLIFORM",
+     "query": "microscopic bacteria",
+     "en": "Coliforms are indicator germs that signal possible contamination.",
+     "ml": "കൊളിഫോം ബാക്ടീരിയകൾ മലിനീകരണം സൂചിപ്പിക്കുന്ന സൂചനാ ജീർണങ്ങളാണ്."
+    },
+    {
+     "title": "REGULATOR STEPS IN",
+     "accent": "REGULATOR",
+     "query": "food safety office",
+     "en": "India’s food safety regulator halted sales of that batch on August 12, 2026.",
+     "ml": "ഇന്ത്യയുടെ ഫുഡ് സേഫ്റ്റി റെഗുലേറ്റർ ആ ബാച്ചിന്റെ വിൽപ്പന 12 ഓഗസ്റ്റ് 2026 ന് നിർത്തി."
+    },
+    {
+     "title": "WHAT TO DO?",
+     "accent": "DO",
+     "query": "checking bottle batch",
+     "en": "Check the batch number before buying, and stick to trusted brands.",
+     "ml": "വാങ്ങുന്നതിന് മുമ്പ് ബാച്ച് നമ്പർ പരിശോധിക്കുക, വിശ്വസനീയമായ ബ്രാൻഡുകൾ മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "cf384ccc3cab",
+  "created": "2026-11-28T13:46:03+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/crime/kozhikode-two-arrested-sexual-assault-woman-thamarassery-ptiyhnlqol5",
+  "headline": "കോഴിക്കോട് യുവതിയെ പീഡിപ്പിച്ചതിന് ബസ് ജീവനക്കാരെ രണ്ടുപേർ അറസ്റ്റു ചെയ്തു",
+  "hook": "താമരശ്ശേരിയിൽ ഒരു ക്രൂര സംഭവം നടന്നു",
+  "what": "കോഴിക്കോട് താമരശ്ശേരിയിൽ 20 വയസ്സുള്ള ഒരു യുവതിയെ മയക്കുമരുന്ന് ഉപയോഗിച്ച് പീഡിപ്പിക്കുകയും ബ്ലാക്ക്മെയിൽ ചെയ്യുകയും ചെയ്തു. അതിനായി രണ്ട് ബസ് ജീവനക്കാരെ പോലീസ് അറസ്റ്റു ചെയ്തു",
+  "why": "പൊതുഗതാഗതത്തിൽ യാത്ര ചെയ്യുമ്പോൾ സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം. ഇതു നമ്മെ ഓർമ്മിപ്പിക്കുന്നു",
+  "tags": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ],
+  "say": "താമരശ്ശേരിയിൽ ഒരു ക്രൂര സംഭവം നടന്നു. 20 വയസ്സുള്ള ഒരു യുവതിയെ മയക്കുമരുന്ന് ഉപയോഗിച്ച് പീഡിപ്പിച്ചു, ബ്ലാക്ക്മെയിൽ ചെയ്തു. അതിനായി രണ്ട് ബസ് ജീവനക്കാരെ പോലീസ് അറസ്റ്റു ചെയ്തു. പൊതുഗതാഗതത്തിൽ യാത്ര ചെയ്യുമ്പോൾ സുരക്ഷയെക്കുറിച്ച് ജാഗ്രത പാലിക്കണം. ഇതു നമ്മെ ഓർമ്മിപ്പിക്കുന്നു.",
+  "ok": true,
+  "tags_en": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ]
+ },
+ {
+  "id": "053cc386d97e",
+  "created": "2026-11-28T13:46:58+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/ai-meeting-note-taking-apps-hindi-and-english-transcription-12376523",
+  "headline": "AI ഉപയോഗിച്ചുള്ള കുറിപ്പെടുത്തൽ ആപ്പുകൾ",
+  "hook": "യോഗങ്ങളുടെ കുറിപ്പുകൾ സ്വയം എഴുതാൻ ഇവയുപയോഗിക്കൂ",
+  "what": "ചില ആപ്പുകൾക്ക് ഹിന്ദിയിലും, ഇംഗ്ലീഷിലും യോഗങ്ങൾ ട്രാൻസ്ക്രൈബ് ചെയ്യാനാകും. AI ഉപയോഗിച്ച് കുറിപ്പുകൾ എടുക്കാനും കഴിയും. Otter.ai പോലുള്ള ഒരു ആപ്പ് 10 ദിവസത്തേക്ക് സൗജന്യമായി ഉപയോഗിക്കാം, തുടർന്ന് പേയ്ഡ് പ്ലാൻ ഉണ്ട്.",
+  "why": "ചർച്ചകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ ആഗ്രഹിക്കുന്ന വിദ്യാർത്ഥികൾക്കും, പ്രൊഫഷണലുകൾക്കും ഈ ആപ്പുകൾ ഉപയോഗപ്രദമാണ്. സംഘടനയ്ക്കും, അവലോകനത്തിനും ഇവ സഹായിക്കും.",
+  "tags": [
+   "AI ആപ്പുകൾ",
+   "കുറിപ്പെടുത്തൽ",
+   "ട്രാൻസ്ക്രിപ്ഷൻ"
+  ],
+  "say": "യോഗങ്ങളുടെ കുറിപ്പുകൾ സ്വയം എഴുതാൻ നിങ്ങൾക്ക് ആപ്പുകൾ ഉപയോഗിക്കാം. ചില ആപ്പുകൾക്ക്, ഹിന്ദിയിലും ഇംഗ്ലീഷിലും യോഗങ്ങൾ ട്രാൻസ്ക്രൈബ് ചെയ്യാനും കഴിയും. AI എന്നത് കമ്പ്യൂട്ടറുകൾക്ക് മനുഷ്യരെപ്പോലെ ചിന്തിക്കാൻ സഹായിക്കുന്ന സാങ്കേതികവിദ്യ. ഇത് ഉപയോഗിച്ച് കുറിപ്പുകൾ എടുക്കാനും കഴിയും. Otter.ai പോലുള്ള ഒരു ആപ്പ് 10 ദിവസത്തേക്ക് സൗജന്യമായി ഉപയോഗിക്കാം, തുടർന്ന് പേയ്ഡ് പ്ലാൻ ഉണ്ട്. ചർച്ചകളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ ആഗ്രഹിക്കുന്ന നിങ്ങൾക്ക്, ഈ ആപ്പുകൾ ഉപയോഗപ്രദമാണ്. സംഘടനയ്ക്കും, അവലോകനത്തിനും ഇവ സഹായിക്കും.",
+  "ok": true,
+  "tags_en": [
+   "AI apps",
+   "note taking",
+   "transcription"
+  ]
+ },
+ {
+  "id": "9b3734271cf7",
+  "created": "2026-11-28T13:47:36+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-radio-collaring-operation-suspended-shibu-baby-john-ptinikik5gj",
+  "headline": "ചക്കാക്കോമ്പൻ ഓപ്പറേഷൻ നിർത്തിയത്",
+  "hook": "കേരളത്തിൽ വന ഓപ്പറേഷൻ വിവാദത്തിലേക്ക്",
+  "what": "ചിന്നക്കനാലിലെ ചക്കാക്കോമ്പൻ റേഡിയോ കൊള്ള ഓപ്പറേഷൻ 3 ദിവസത്തിന് ശേഷം നിർത്തി. വനം വകുപ്പ് മന്ത്രി ഓപ്പറേഷനും ഉദ്യോഗസ്ഥരും ന്യായീകരിച്ചു. ചില കാരണങ്ങളാൽ റേഡിയോ കൊള്ള നിർത്തിയതാണ്.",
+  "why": "ഇന്ത്യയിലെ വന്യജീവി സംരക്ഷണ ശ്രമങ്ങളെ കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് അറിയേണ്ടത് ഈ വികസനം. അത്തരം ഓപ്പറേഷനുകളിൽ ഗവൺമെന്റ് ഉദ്യോഗസ്ഥരുടെ പങ്ക് എടുത്തുകാണിക്കുന്നു.",
+  "tags": [
+   "വന്യജീവി സംരക്ഷണം",
+   "കേരള വാർത്ത",
+   "വന വകുപ്പ്"
+  ],
+  "say": "കേരളത്തിൽ ഒരു വന ഓപ്പറേഷൻ വിവാദത്തിലേക്ക് കടന്നു. ചിന്നക്കനാലിലെ ചക്കാക്കോമ്പൻ റേഡിയോ കൊള്ള ഓപ്പറേഷൻ. 3 ദിവസത്തിന് ശേഷം ഇത് നിർത്തി. വനം വകുപ്പ് മന്ത്രി, ഓപ്പറേഷൻ, ഉദ്യോഗസ്ഥർ, എല്ലാം ന്യായീകരിച്ചു. ചില കാരണങ്ങളാൽ റേഡിയോ കൊള്ള നിർത്തിയതാണ്. ഇന്ത്യയിലെ വന്യജീവി സംരക്ഷണ ശ്രമങ്ങളെ കുറിച്ച് യുവ ഇന്ത്യക്കാർക്ക് അറിയേണ്ടത്, ഈ വികസനം. ഗവൺമെന്റ് ഉദ്യോഗസ്ഥരുടെ പങ്ക് എടുത്തുകാണിക്കുന്നു, അത്തരം ഓപ്പറേഷനുകളിൽ.",
+  "ok": true,
+  "tags_en": [
+   "wildlife conservation",
+   "Kerala news",
+   "forest department"
+  ]
+ },
+ {
   "id": "eeb43ec3d292",
   "created": "2026-11-28T05:04:49+05:30",
   "category": "tech",
@@ -1186,144 +1403,6 @@
    "jobs",
    "india",
    "cabinet"
-  ]
- },
- {
-  "id": "67a28dd035c6",
-  "created": "2026-11-26T21:14:59+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/vd-satheesan-claims-phone-tapped-under-constant-surveillance-ptimirv5qi7",
-  "headline": "കേരള നേതാവിനെ ഫോൺ ടാപ്പിംഗ്: വി ഡി സതീശൻ",
-  "hook": "തന്റെ ഫോൺ ടാപ്പ് ചെയ്യപ്പെടുന്നുവെന്ന് കേരള നേതാവ് ആരോപിക്കുന്നു",
-  "what": "കേരളത്തിലെ ഒരു പ്രമുഖ നേതാവ് തന്റെ ഫോൺ ടാപ്പ് ചെയ്യപ്പെടുന്നുവെന്നും തുടർച്ചയായി നിരീക്ഷണത്തിലായിരിക്കുന്നുവെന്നും ആരോപിക്കുന്നു. നിരീക്ഷകരെ തട്ടിക്കൊണ്ട് തെറ്റായ വിവരങ്ങൾ നൽകുന്നുവെന്ന് അദ്ദേഹം അവകാശപ്പെടുന്നു.",
-  "why": "സംസ്ഥാനത്തെ സ്വകാര്യതയും നിരീക്ഷണവും സംബന്ധിച്ചുള്ള ആശങ്കകൾ ഈ കാര്യം ഉയർത്തുന്നു. ഫോൺ ടാപ്പിംഗ് ചുറ്റുമുള്ള നിയമങ്ങളും അവകാശങ്ങളും കുറിച്ച് യുവ ഇന്ത്യക്കാർ ബോധവാന്മാരായിരിക്കണം.",
-  "tags": [
-   "കേരളം",
-   "ഫോൺ ടാപ്പിംഗ്",
-   "നിരീക്ഷണം",
-   "സ്വകാര്യത"
-  ],
-  "say": "ഒരു പ്രമുഖ കേരള നേതാവായ വി ഡി സതീശനെ ഫോൺ ടാപ്പ് ചെയ്യുന്നുവെന്ന് ആരോപിക്കപ്പെടുന്നു. ഇത് അദ്ദേഹത്തിന്റെ സ്വകാര്യതയെ ബാധിക്കുന്നു. പത്തൊൻപത് വയസ്സുള്ള യുവാക്കൾക്ക് ഇത് ഒരു പ്രധാന വിഷയമാണ്. നിങ്ങളുടെ ഫോൺ ടാപ്പ് ചെയ്യപ്പെടുന്നുവെന്ന് നിങ്ങൾക്ക് തോന്നുന്നുവെങ്കിൽ, നിയമപരമായ നടപടി എടുക്കണം. നിങ്ങളുടെ സ്വകാര്യത സംരക്ഷിക്കുന്നതിന് യുപിഐ പണമടയ്ക്കൽ ആപ്പുകൾ ഉപയോഗിക്കുമ്പോൾ ശ്രദ്ധിക്കണം. കെഎസ്ഇബി ബില്ലുകൾ നൽകുമ്പോൾ നിങ്ങളുടെ വിവരങ്ങൾ സംരക്ഷിക്കണം. നിങ്ങളുടെ സ്വകാര്യതയും നിരീക്ഷണവും സംബന്ധിച്ചുള്ള നിയമങ്ങൾ മനസ്സിലാക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "Kerala",
-   "Phone Tapping",
-   "Surveillance",
-   "Privacy"
-  ]
- },
- {
-  "id": "5be9afe72a3f",
-  "created": "2026-11-26T17:44:07+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-update-da-hike-announced-what-central-and-state-employees-can-expect-11795690487940.html",
-  "headline": "കേന്ദ്രം ഡിഎ 63% ആക്കി, സംസ്ഥാനങ്ങളും കൂട്ടി",
-  "hook": "ഇപ്പോൾ നിങ്ങളുടെ ശമ്പളത്തിൽ ഉടൻ വർധനവുണ്ടാകാം",
-  "what": "മന്ത്രിസഭ ഡിയർനെസ് അലവൻസ്, ഡിയർനെസ് റിലീഫ് എന്നിവ 3% വർധിപ്പിച്ച് 63% ആക്കി. പല സംസ്ഥാനങ്ങളും സമാനമായ വർധന പ്രഖ്യാപിച്ചു. 8‑ാം പേ കമ്മീഷൻ മേയ് 2027 വരെ അന്തിമ ശുപാർശകൾ നൽകും.",
-  "why": "ഡിഎ ഉയർന്നതോടെ സർക്കാർ ജീവനക്കാരുടെ കൈവശം കൂടുതൽ വരുമാനം ലഭിക്കും, കൂടാതെ കമ്മീഷന്റെ റിപ്പോർട്ട് ശമ്പളവും പെൻഷനും മാറ്റം വരുത്തും. വരാനിരിക്കുന്ന മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കണം.",
-  "tags": [
-   "ഡിഎ",
-   "പേകമ്മീഷൻ",
-   "സർക്കാർജോലികൾ",
-   "ശമ്പളമാറ്റം",
-   "ഇന്ത്യ"
-  ],
-  "say": "ഇപ്പോൾ നിങ്ങളുടെ ശമ്പളത്തിൽ ഉടൻ വർധനവുണ്ടാകാം. മന്ത്രിസഭ ഡിയർനെസ് അലവൻസ്, ഡിയർനെസ് റിലീഫ് എന്നിവ മൂന്ന് ശതമാനം വർധിപ്പിച്ച് അറുപത്തിമൂന്ന് ശതമാനം ആക്കി. പല സംസ്ഥാനങ്ങളും സമാനമായ വർധന പ്രഖ്യാപിച്ചു. എട്ടാം പേ കമ്മീഷന്‍ മേയ് ഇരുപത്തിഒന്‍പത് വരെ അന്തിമ ശുപാർശകള്‍ നല്‍കും. ഡിഎ ഉയർന്നതോടെ സർക്കാർ ജീവനക്കാരുടെ കൈവശം കൂടുതൽ വരുമാനം ലഭിക്കും, കൂടാതെ കമ്മീഷന്റെ റിപ്പോർട്ട് ശമ്പളവും പെന്‍ഷനും മാറ്റം വരുത്തും. വരാനിരിക്കുന്ന മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കണം.",
-  "ok": true,
-  "tags_en": [
-   "DA",
-   "PayCommission",
-   "GovtJobs",
-   "SalaryUpdate",
-   "India"
-  ]
- },
- {
-  "id": "116081bfd5c5",
-  "created": "2026-11-26T17:44:13+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Utkarsh Classes",
-  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNklFNDJYalZ1aGFTSS14Z09ZOUI3c2dKbUJINTZsNkRNSHhDOGNJbElETFQxODVkM0M2cW5IT1pDblZYOFptckhDNjZ2Y01Lby1xZ0VtOWhNQVFjcTUzUkdSMUdyM3JrNTR5UTQ0VlJDVXk5UVlXN0R6bU9pTTZJeVNpOGoyTFNnRFlIc1J2Q2VzSHY3c2VuZ0tlamJtLTFEMGpQUWR5RnlHV0JRMjB4RFVXeGJFMDY1UEhVSHlzbnhwRU1mMUFST1NhOF9qWUU?oc=5",
-  "headline": "എസ്‌ബിഐ തുറന്നു ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾ",
-  "hook": "ബാങ്ക് ജോലികളുടെ അലർട്ട്, പുതിയ ഗ്രാജുവേറ്റുകൾക്ക്!",
-  "what": "സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾക്കായി റിക്രൂട്ട്മെന്റ് പ്രഖ്യാപിച്ചു. ഈ ഒഴിവുകളുടെ വിശദാംശങ്ങൾ പൊതുവായി പങ്കുവെച്ചു.",
-  "why": "ബാങ്കിംഗ് ജോലികൾ പല യുവാക്കൾക്കും ആദ്യത്തെ കരിയർ വഴിയാണ്. ഔദ്യോഗിക എസ്‌ബിഐ പോർട്ടലിൽ അപേക്ഷയുടെ നടപടികൾ പരിശോധിക്കുക.",
-  "tags": [
-   "SBI",
-   "ബാങ്കിംഗ്",
-   "ജോലികൾ",
-   "കരിയർ",
-   "റിക്രൂട്ട്‌മെന്റ്"
-  ],
-  "say": "ബാങ്ക് ജോലികളുടെ അലർട്ട്, പുതിയ ഗ്രാജുവേറ്റുകൾക്ക്! സ്റ്റേറ്റ് ബാങ്ക് ഓഫ് ഇന്ത്യ ഒന്ന് ആയിരം അഞ്ച് നൂറ്റി നാല്പത് ജൂനിയർ അസോസിയേറ്റ് സ്ഥാനങ്ങൾക്കായി റിക്രൂട്ട്മെന്റ് പ്രഖ്യാപിച്ചു. ഈ ഒഴിവുകളുടെ വിശദാംശങ്ങൾ പൊതുവായി പങ്കുവെച്ചു. ബാങ്കിംഗ് ജോലികൾ പല യുവാക്കൾക്കും ആദ്യത്തെ കരിയർ വഴിയാണ്. ഔദ്യോഗിക എസ്‌ബിഐ പോർട്ടലിൽ അപേക്ഷയുടെ നടപടികൾ പരിശോധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "SBI",
-   "banking",
-   "jobs",
-   "career",
-   "recruitment"
-  ]
- },
- {
-  "id": "1c6abd316e9e",
-  "created": "2026-11-26T17:44:20+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
-  "headline": "വാൻസ്‌ പർഡൺ നിരസിച്ചു, ചൈന ചിപ്പ് പരിശോധന ഉയരുമ്പോൾ ഹുവാവേ ലൈവ്",
-  "hook": "എൻവീഡിയയുടെ സിഇഒയുടെ ലൈവ് ചർച്ചയിൽ പർഡൺ ഇല്ലെന്ന് വാൻസ് ഉറപ്പിച്ചു.",
-  "what": "ലൈവ് സെഷനിൽ, എൻവീഡിയയുടെ സിഇഒ ജെൻസൻ ഹുവാവേ പങ്കെടുത്തു, വാൻസ് പർഡൺ നൽകില്ലെന്ന് പറഞ്ഞു. ചൈനയുടെ ചിപ്പ് പ്രവർത്തനങ്ങളിലെ പരിശോധന വർധിക്കുന്നു.",
-  "why": "ഇന്ത്യൻ ടെക് യുവാക്കൾക്ക് ഇത് ജിയോപൊളിറ്റിക്കൽ സമ്മർദ്ദം സൂചിപ്പിക്കുന്നു, ഇത് ചിപ്പ് ലഭ്യതയും എഐ പദ്ധതികളും ബാധിക്കാം. നയ മാറ്റങ്ങളിലെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "tags": [
-   "Nvidia",
-   "China",
-   "chips",
-   "policy",
-   "AI"
-  ],
-  "say": "എൻവീഡിയയുടെ സിഇഒയുടെ ലൈവ് ചർച്ചയിൽ പർഡൺ ഇല്ലെന്ന് വാൻസ് ഉറപ്പിച്ചു. ലൈവ് സെഷനിൽ, എൻവീഡിയയുടെ സിഇഒ ജെൻസൻ ഹുവാവേ പങ്കെടുത്തു, വാൻസ് പർഡൺ നൽകില്ലെന്ന് പറഞ്ഞു. ചൈനയുടെ ചിപ്പ് പ്രവർത്തനങ്ങളിലെ പരിശോധന വർധിക്കുന്നു. ഇന്ത്യൻ ടെക് യുവാക്കൾക്ക് ഇത് ജിയോപൊളിറ്റിക്കൽ സമ്മർദ്ദം സൂചിപ്പിക്കുന്നു, ഇത് ചിപ്പ് ലഭ്യതയും എഐ പദ്ധതികളും ബാധിക്കാം. നയ മാറ്റങ്ങളിലെ അപ്ഡേറ്റുകൾ ശ്രദ്ധിക്കുക.",
-  "ok": true,
-  "tags_en": [
-   "Nvidia",
-   "China",
-   "chips",
-   "policy",
-   "AI"
-  ]
- },
- {
-  "id": "fc2abd7f47c3",
-  "created": "2026-11-26T17:45:43+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Northeast Today",
-  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnQxcDNaOVhvOU5rb0pKZHhzZlJ2akstaWo0bmVzeFB1RDBMVTVINGlOYUxFcWRSU3hqaVZBSzFZLUlFM3YzRTlhWWwxekpJVGt4RFl4c0ozOVhvbkxXZG5CNWdYNkpQbDVDd3ZTWlZUaXBfZ0QzZ0lzN083cGt1NDVYVUxFRTlkZTYyLXVPRXlhcjVQczhGay1CVWlNQXVBS29lLXBHdDBvQUNpMktoMWNqRGdEaXpuT1FnQ1hWOURaRU0ySUpGUg?oc=5",
-  "headline": "ത്രിപുരയിലെ ആദ്യ സ്ത്രീ വിമാന നിയന്ത്രകൻ ബിപഷ ഹ്രാങ്കവൽ കെബിസി സീസൺ പതിനെട്ടിൽ",
-  "hook": "വിമാന നിയന്ത്രണം ചെയ്യുന്ന സ്ത്രീ ത്രിപുരയിൽ നിന്നാണ് കെബിസി സീസൺ പതിനെട്ടിൽ",
-  "what": "ബിപഷ ഹ്രാങ്കവൽ ത്രിപുരയിലെ ആദ്യ വനിതാ വിമാന നിയന്ത്രകനാണ്. അവർ കെബിസി സീസൺ പതിനെട്ടിൽ പങ്കെടുത്തു.",
-  "why": "ഇത് പ്രധാന ടെലിവിഷൻ ക്വിസ് ഷോയിൽ ത്രിപുരയിലെ സ്ത്രീയുടെ വിജയത്തെക്കുറിച്ചുള്ള വാർത്തയാണ്. യുവതികൾക്ക് ഇത് പ്രചോദനമാകും.",
-  "tags": [
-   "BipashaHrangkhawl",
-   "KBC18",
-   "Tripura",
-   "FirstWomanATC",
-   "KBCSeason18"
-  ],
-  "say": "വിമാന നിയന്ത്രണം ചെയ്യുന്ന സ്ത്രീ ത്രിപുരയിൽ നിന്നാണ് കെബിസി സീസൺ പതിനെട്ടിൽ. ബിപഷ ഹ്രാങ്കവൽ ത്രിപുരയിലെ ആദ്യ വനിതാ വിമാന നിയന്ത്രകനാണ്. അവർ കെബിസി സീസൺ പതിനെട്ടിൽ പങ്കെടുത്തു. ഇത് പ്രധാന ടെലിവിഷൻ ക്വിസ് ഷോയിൽ ത്രിപുരയിലെ സ്ത്രീയുടെ വിജയത്തെക്കുറിച്ചുള്ള വാർത്തയാണ്. യുവതികൾക്ക് ഇത് പ്രചോദനമാകും.",
-  "ok": true,
-  "tags_en": [
-   "BipashaHrangkhawl",
-   "KBC18",
-   "Tripura",
-   "FirstWomanATC",
-   "KBCSeason18"
   ]
  }
 ]

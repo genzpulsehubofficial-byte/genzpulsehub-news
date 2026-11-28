@@ -1,5 +1,324 @@
 [
  {
+  "id": "59d8e334e835",
+  "created": "2026-11-28T13:45:42+05:30",
+  "category": "headlines",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand",
+  "headline": "DMK backs Delimitation Bill, adds 22 MPs to govt side",
+  "hook": "The ruling coalition gets a fresh boost in Parliament.",
+  "what": "The Dravida Munnetra Kazhagam announced its support for the Delimitation Bill. Its 22 members of Parliament will now vote with the ruling alliance, increasing its strength.",
+  "why": "A stronger government may push reforms faster, affecting policies that impact youth. Keep an eye on upcoming legislative changes.",
+  "tags": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ],
+  "beats": {
+   "cover": "DMK'S SURPRISE POWER BOOST",
+   "cover_accent": "POWER",
+   "beats": [
+    {
+     "title": "SURPRISING SHIFT?",
+     "accent": "SHIFT",
+     "query": "parliament floor",
+     "en": "Did you know the opposition just switched sides in Parliament?",
+     "ml": "നിങ്ങൾക്ക് അറിയാമോ, എതിർ പാർട്ടി ഇപ്പോൾ പാർലമെന്റിൽ വശം മാറ്റിയിട്ടുണ്ടെന്ന്?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "politicians handshake",
+     "en": "But actually, the DMK has thrown its weight behind the Delimitation Bill.",
+     "ml": "പക്ഷേ, വാസ്തവത്തിൽ DMK ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി."
+    },
+    {
+     "title": "DMK SUPPORTS BILL",
+     "accent": "SUPPORTS",
+     "query": "DMK logo",
+     "en": "The Dravida Munnetra Kazhagam announced its support, adding 22 MPs to the ruling coalition.",
+     "ml": "ഡ്രാവിഡാ മുന്മെത്ര കജഗം (DMK) അവരുടെ പിന്തുണ പ്രഖ്യാപിച്ചു, 22 MPs-കളെയും സർക്കാർ കൂട്ടത്തിൽ ചേർത്തു."
+    },
+    {
+     "title": "22 NEW VOTES",
+     "accent": "NEW",
+     "query": "parliament seats",
+     "en": "Those 22 members will now vote with the government, boosting its numbers.",
+     "ml": "ഈ 22 അംഗങ്ങൾ ഇനി സർക്കാരിനൊപ്പം വോട്ട് ചെയ്യും, അതിനാൽ സർക്കാർ ശക്തി വർധിക്കും."
+    },
+    {
+     "title": "YOUTH IMPACT",
+     "accent": "IMPACT",
+     "query": "young people tech",
+     "en": "A stronger government can push reforms faster, shaping policies that affect your education, jobs, and tech future.",
+     "ml": "ശക്തി കൂടിയാൽ, സർക്കാർ റീഫോംസ് വേഗത്തിൽ നടപ്പാക്കാം, അത് നിങ്ങളുടെ വിദ്യാഭ്യാസം, ജോലി, AI ആപ്പുകൾ എന്നിവയെ ബാധിക്കും."
+    },
+    {
+     "title": "STAY ALERT",
+     "accent": "ALERT",
+     "query": "phone notification",
+     "en": "Keep an eye on upcoming legislative changes—they could change your daily life.",
+     "ml": "അതിനാൽ, വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങളെ ശ്രദ്ധിക്കുക—അത് നിങ്ങളുടെ ജീവിതത്തെ മാറ്റാം."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "dce22e82664b",
+  "created": "2026-11-28T13:45:50+05:30",
+  "category": "health",
+  "breaking": true,
+  "source": "NDTV",
+  "source_url": "https://www.ndtv.com/india-news/bisleri-water-fails-lab-tests-coliform-bacteria-found-in-one-sample-report-12386738#publisher=newsstand",
+  "headline": "Coliform detected in Bisleri water; regulator bans one batch",
+  "hook": "Your bottled water might not be as pure as you think",
+  "what": "A sample of Bisleri bottled water tested positive for coliform bacteria. The food safety regulator stopped the sale of the specific batch on August 12, 2026. Bisleri says its product remains safe for consumers.",
+  "why": "Contaminated water can cause health issues, so check batch numbers before buying. Stay informed and choose trusted sources.",
+  "tags": [
+   "water safety",
+   "bisleri",
+   "health",
+   "regulation",
+   "india"
+  ],
+  "beats": {
+   "cover": "YOUR BOTTLED WATER LIES?",
+   "cover_accent": "LIES",
+   "beats": [
+    {
+     "title": "IS WATER PURE?",
+     "accent": "PURE",
+     "query": "bottled water shelf",
+     "en": "Ever wondered if the water you sip from a bottle is truly pure?",
+     "ml": "നിങ്ങൾ കുടിക്കുന്ന ബോട്ടിൽ വെള്ളം യഥാർത്ഥത്തിൽ ശുദ്ധമാണോ എന്ന് നിങ്ങൾ ഒരിക്കൽ ചിന്തിച്ചിട്ടുണ്ടോ?"
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "lab test water",
+     "en": "A recent test found coliform bacteria in a Bisleri batch.",
+     "ml": "പുതുതായി നടത്തിയ പരിശോധനയിൽ ബിസ്ലേറിയുടെ ഒരു ബാച്ചിൽ കൊളിഫോം ബാക്ടീരിയ കണ്ടെത്തി."
+    },
+    {
+     "title": "WHAT IS COLIFORM?",
+     "accent": "COLIFORM",
+     "query": "microscopic bacteria",
+     "en": "Coliforms are indicator germs that signal possible contamination.",
+     "ml": "കൊളിഫോം ബാക്ടീരിയകൾ മലിനീകരണം സൂചിപ്പിക്കുന്ന സൂചനാ ജീർണങ്ങളാണ്."
+    },
+    {
+     "title": "REGULATOR STEPS IN",
+     "accent": "REGULATOR",
+     "query": "food safety office",
+     "en": "India’s food safety regulator halted sales of that batch on August 12, 2026.",
+     "ml": "ഇന്ത്യയുടെ ഫുഡ് സേഫ്റ്റി റെഗുലേറ്റർ ആ ബാച്ചിന്റെ വിൽപ്പന 12 ഓഗസ്റ്റ് 2026 ന് നിർത്തി."
+    },
+    {
+     "title": "WHAT TO DO?",
+     "accent": "DO",
+     "query": "checking bottle batch",
+     "en": "Check the batch number before buying, and stick to trusted brands.",
+     "ml": "വാങ്ങുന്നതിന് മുമ്പ് ബാച്ച് നമ്പർ പരിശോധിക്കുക, വിശ്വസനീയമായ ബ്രാൻഡുകൾ മാത്രം തിരഞ്ഞെടുക്കുക."
+    }
+   ],
+   "ml_ok": true
+  }
+ },
+ {
+  "id": "cf384ccc3cab",
+  "created": "2026-11-28T13:46:03+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/crime/kozhikode-two-arrested-sexual-assault-woman-thamarassery-ptiyhnlqol5",
+  "headline": "Two bus staff arrested for assaulting woman in Kozhikode",
+  "hook": "A serious crime has been reported in Thamarassery.",
+  "what": "Police in Kozhikode arrested two bus employees for the repeated sexual assault of a 20-year-old woman. The accused allegedly used drugs and blackmail to commit these acts.",
+  "why": "This incident highlights the importance of personal safety and awareness in public transport.",
+  "tags": [
+   "kozhikode",
+   "kerala news",
+   "safety awareness"
+  ],
+  "beats": {
+   "cover": "CRIME ON WHEELS",
+   "cover_accent": "WHEELS",
+   "beats": [
+    {
+     "title": "SERIOUS CRIME REPORTED",
+     "accent": "CRIME",
+     "query": "aerial cityscape",
+     "en": "A serious crime has been reported in Thamarassery. What could have happened?",
+     "ml": "Thamarasseryyil oru gauravamaya crime report aayi, engane nadannnu poyi."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "police station exterior",
+     "en": "But actually, it's a shocking story of assault and blackmail. Two bus staff were arrested for their involvement.",
+     "ml": "Pakshe, oru shocking story aanu, assault um blackmail um. 2 bus staff arreested aayirunnu."
+    },
+    {
+     "title": "WHAT HAPPENED",
+     "accent": "HAPPENED",
+     "query": "bus interior",
+     "en": "The accused allegedly used drugs and blackmail to repeatedly assault a 20-year-old woman.",
+     "ml": "20 varsham prayaam oru penkuttiye repeated sexual assault cheythu, drugs um blackmail um use cheythu ennayirunnu."
+    },
+    {
+     "title": "POLICE ACTION",
+     "accent": "ACTION",
+     "query": "police arresting someone",
+     "en": "Police in Kozhikode took swift action and arrested the two bus employees.",
+     "ml": "Kozhikode police swift action eduthu 2 bus employees arreested aayirunnu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students in public transport",
+     "en": "This incident highlights the importance of personal safety and awareness in public transport.",
+     "ml": "I incident ile personal safety um awareness ile importance prakasam aavunnu, public transport il."
+    },
+    {
+     "title": "STAY SAFE",
+     "accent": "SAFE",
+     "query": "young woman on bus",
+     "en": "So, let's be aware of our surroundings and stay safe, especially in public transport.",
+     "ml": "Angane, ningalde surroundings ine aware aayi, public transport il especially safe aayi irikkukkaam."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "053cc386d97e",
+  "created": "2026-11-28T13:46:58+05:30",
+  "category": "tech",
+  "breaking": false,
+  "source": "Gadgets360",
+  "source_url": "https://www.gadgets360.com/apps/news/ai-meeting-note-taking-apps-hindi-and-english-transcription-12376523",
+  "headline": "AI Note Takers",
+  "hook": "Get meeting notes automatically with these apps",
+  "what": "Some apps can transcribe meetings in Hindi and English. They use AI to take notes. Otter.ai is one such app with a paid plan.",
+  "why": "These apps can be useful for students and professionals who want to focus on discussions without taking notes. They can help with organization and review.",
+  "tags": [
+   "AI apps",
+   "note taking",
+   "transcription"
+  ],
+  "beats": {
+   "cover": "MEET AI NOTE TAKERS",
+   "cover_accent": "NOTE",
+   "beats": [
+    {
+     "title": "NO MORE NOTES",
+     "accent": "MORE",
+     "query": "students exam hall",
+     "en": "Are you tired of taking notes in class or meetings? Some apps can now do it for you.",
+     "ml": "Class-ilum note edukkenda, meeting-ilum note edukkenda ennu ninnu rasichath? Ippol some apps note edukkum."
+    },
+    {
+     "title": "BUT ACTUALLY...",
+     "accent": "ACTUALLY",
+     "query": "iPhone with app",
+     "en": "But actually, these apps use AI to transcribe meetings in Hindi and English.",
+     "ml": "Pakshe, actually, ithu pole ullappai, AI use cheyyunna apps meeting transcribe cheyyunnu, Hindi-ilum, English-ilum."
+    },
+    {
+     "title": "HOW IT WORKS",
+     "accent": "WORKS",
+     "query": "aerial coding",
+     "en": "One such app is Otter.ai, which has a paid plan to take notes using AI.",
+     "ml": "Ithu pole ullappai, Otter.ai enna app undu, paid plan undu, AI use cheyyunna note edukkum."
+    },
+    {
+     "title": "WHO BENEFITS",
+     "accent": "BENEFITS",
+     "query": "students discussing",
+     "en": "These apps can be useful for students and professionals who want to focus on discussions.",
+     "ml": "Ithu pole ullappai, students-um, professionals-um, discussion-il focus cheyyenda aakumpol ithu upayogichu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "UPI payment",
+     "en": "They can help with organization and review, saving you time and effort.",
+     "ml": "Ithu organization-um, review-um help cheyyum, ningalude samayam, shramam save aakum."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
+  "id": "9b3734271cf7",
+  "created": "2026-11-28T13:47:36+05:30",
+  "category": "kerala",
+  "breaking": false,
+  "source": "Mathrubhumi English",
+  "source_url": "https://english.mathrubhumi.com/news/kerala/chakkakomban-radio-collaring-operation-suspended-shibu-baby-john-ptinikik5gj",
+  "headline": "Chakkakomban Operation Halted",
+  "hook": "Forest operation sparks controversy in Kerala",
+  "what": "The Chakkakomban radio-collaring operation in Chinnakanal has been suspended after three days. The operation was defended by the Forest Minister. The radio-collaring was halted due to certain reasons.",
+  "why": "This development is important for young Indians to know about the conservation efforts in their country. It also highlights the role of government officials in such operations.",
+  "tags": [
+   "wildlife conservation",
+   "Kerala news",
+   "forest department"
+  ],
+  "beats": {
+   "cover": "KERALA WILDLIFE IN PERIL",
+   "cover_accent": "WILDLIFE",
+   "beats": [
+    {
+     "title": "WHAT HAPPENED",
+     "accent": "HAPPENED",
+     "query": "forest controversy",
+     "en": "A forest operation in Kerala has sparked controversy, but what's really going on? The Chakkakomban radio-collaring operation was suddenly halted.",
+     "ml": "Keralathil, oru forest operation controversy uyarthiya, ennal avarnanam. Chakkakomban radio-collaring operation kashtathe akramichu."
+    },
+    {
+     "title": "BUT ACTUALLY",
+     "accent": "ACTUALLY",
+     "query": "forest minister speaking",
+     "en": "But actually, the Forest Minister defended the operation, saying it was necessary for conservation efforts.",
+     "ml": "Pinne, Forest Minister avane operation ine samarthichu, ahathinnum conservation prayaasanam vendi ennu parayunnu."
+    },
+    {
+     "title": "THE OPERATION",
+     "accent": "OPERATION",
+     "query": "radio collaring wildlife",
+     "en": "The Chakkakomban radio-collaring operation in Chinnakanal was meant to track and study wildlife, but it was suspended after just three days.",
+     "ml": "Chinnakanalil, Chakkakomban radio-collaring operation jeevijalam track cheyyanum, padichu, 3 dinasathinu shesham, akramichu."
+    },
+    {
+     "title": "WHY IT STOPPED",
+     "accent": "STOPPED",
+     "query": "forest officials meeting",
+     "en": "The operation was halted due to certain reasons, which have not been fully disclosed yet.",
+     "ml": "Operation, oru karanam kooduthal, athu poornnamayi, ithuvarre ullu, ennu parayunnu."
+    },
+    {
+     "title": "WHY IT MATTERS",
+     "accent": "MATTERS",
+     "query": "students learning conservation",
+     "en": "This development is important for young Indians to know about conservation efforts in their country and the role of government officials in such operations.",
+     "ml": "Ithu, yuvavargalke, desathil, conservation prayaasanangal, arinju, athil government udyogastharkude padhil ennu, ariyikkukayaanu."
+    },
+    {
+     "title": "STAY INFORMED",
+     "accent": "INFORMED",
+     "query": "news on iPhone",
+     "en": "Stay informed about what's happening in your country and the world, and be a part of the conversation.",
+     "ml": "Ningalde desathilum, lokathilum, nadtakam, arinjukayum, samvadathil bhagavallabhavum, aakanam."
+    }
+   ],
+   "ml_ok": false
+  }
+ },
+ {
   "id": "eeb43ec3d292",
   "created": "2026-11-28T05:04:49+05:30",
   "category": "tech",
@@ -1239,100 +1558,6 @@
    "jobs",
    "india",
    "cabinet"
-  ]
- },
- {
-  "id": "67a28dd035c6",
-  "created": "2026-11-26T21:14:59+05:30",
-  "category": "kerala",
-  "breaking": false,
-  "source": "Mathrubhumi English",
-  "source_url": "https://english.mathrubhumi.com/news/kerala/vd-satheesan-claims-phone-tapped-under-constant-surveillance-ptimirv5qi7",
-  "headline": "Kerala Leader Claims Phone Tapping",
-  "hook": "A top Kerala leader says his phone is being tapped",
-  "what": "A Kerala leader has claimed that his phone is being tapped and he is under constant surveillance. He admits to giving wrong information to mislead those listening. This is allegedly done to counter the surveillance.",
-  "why": "This matter raises concerns about privacy and surveillance in the state. Young Indians should be aware of their rights and the laws surrounding phone tapping.",
-  "tags": [
-   "Kerala",
-   "Phone Tapping",
-   "Surveillance",
-   "Privacy"
-  ]
- },
- {
-  "id": "5be9afe72a3f",
-  "created": "2026-11-26T17:44:07+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Livemint",
-  "source_url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-update-da-hike-announced-what-central-and-state-employees-can-expect-11795690487940.html",
-  "headline": "Central DA rises to 63%, states follow suit",
-  "hook": "Your take‑home could jump after the latest allowance hike.",
-  "what": "The government lifted Dearness Allowance and Dearness Relief by three points, setting the combined rate at 63%. Several state governments have announced comparable increases. The 8th Pay Commission is expected to hand in its final report by May 2027.",
-  "why": "Higher DA means more immediate cash for government staff, while the pending commission report will shape future salary structures and pensions. Employees should stay updated for upcoming changes.",
-  "tags": [
-   "DA",
-   "PayCommission",
-   "GovtJobs",
-   "SalaryUpdate",
-   "India"
-  ]
- },
- {
-  "id": "116081bfd5c5",
-  "created": "2026-11-26T17:44:13+05:30",
-  "category": "jobs",
-  "breaking": false,
-  "source": "Utkarsh Classes",
-  "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNklFNDJYalZ1aGFTSS14Z09ZOUI3c2dKbUJINTZsNkRNSHhDOGNJbElETFQxODVkM0M2cW5IT1pDblZYOFptckhDNjZ2Y01Lby1xZ0VtOWhNQVFjcTUzUkdSMUdyM3JrNTR5UTQ0VlJDVXk5UVlXN0R6bU9pTTZJeVNpOGoyTFNnRFlIc1J2Q2VzSHY3c2VuZ0tlamJtLTFEMGpQUWR5RnlHV0JRMjB4RFVXeGJFMDY1UEhVSHlzbnhwRU1mMUFST1NhOF9qWUU?oc=5",
-  "headline": "SBI opens 1,540 Junior Associate positions",
-  "hook": "Bank jobs alert for fresh grads!",
-  "what": "State Bank of India announced hiring for 1,540 junior associate roles. The vacancy details were shared publicly.",
-  "why": "Bank jobs are a popular entry point for many youngsters. Keep an eye on the official SBI portal for application steps.",
-  "tags": [
-   "SBI",
-   "banking",
-   "jobs",
-   "career",
-   "recruitment"
-  ]
- },
- {
-  "id": "1c6abd316e9e",
-  "created": "2026-11-26T17:44:20+05:30",
-  "category": "tech",
-  "breaking": false,
-  "source": "The Indian Express",
-  "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ?oc=5",
-  "headline": "Vance denies pardon amid rising China chip scrutiny, Huang live",
-  "hook": "A live chat with Nvidia’s boss meets a firm stance on pardons.",
-  "what": "During a live session, Nvidia CEO Jensen Huang appeared as Vance said there will be no pardon. The discussion comes as scrutiny over Chinese chip activities intensifies.",
-  "why": "For Indian tech‑savvy youth, it signals ongoing geopolitical tension that could affect chip availability and AI projects. Stay informed on policy shifts that may impact tech careers.",
-  "tags": [
-   "Nvidia",
-   "China",
-   "chips",
-   "policy",
-   "AI"
-  ]
- },
- {
-  "id": "fc2abd7f47c3",
-  "created": "2026-11-26T17:45:43+05:30",
-  "category": "entertainment",
-  "breaking": false,
-  "source": "Northeast Today",
-  "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMnQxcDNaOVhvOU5rb0pKZHhzZlJ2akstaWo0bmVzeFB1RDBMVTVINGlOYUxFcWRSU3hqaVZBSzFZLUlFM3YzRTlhWWwxekpJVGt4RFl4c0ozOVhvbkxXZG5CNWdYNkpQbDVDd3ZTWlZUaXBfZ0QzZ0lzN083cGt1NDVYVUxFRTlkZTYyLXVPRXlhcjVQczhGay1CVWlNQXVBS29lLXBHdDBvQUNpMktoMWNqRGdEaXpuT1FnQ1hWOURaRU0ySUpGUg?oc=5",
-  "headline": "Tripura’s First Woman ATC Bipasha Hrangkhawl in KBC",
-  "hook": "The woman who handles plane traffic from Tripura is now on KBC.",
-  "what": "Bipasha Hrangkhawl is Tripura’s first woman air traffic controller. She took part in KBC Season 18.",
-  "why": "It matters because a woman from Tripura took part in a national TV quiz show. It can be a talking point for young viewers.",
-  "tags": [
-   "BipashaHrangkhawl",
-   "KBC18",
-   "Tripura",
-   "FirstWomanATC",
-   "KBCSeason18"
   ]
  }
 ]

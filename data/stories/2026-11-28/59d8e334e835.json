@@ -1,0 +1,92 @@
+{
+ "id": "59d8e334e835",
+ "created": "2026-11-28T13:45:42+05:30",
+ "category": "headlines",
+ "region": "in",
+ "breaking": true,
+ "source": "NDTV",
+ "source_url": "https://www.ndtv.com/india-news/parliament-special-session-boost-to-centre-as-dmk-declares-support-for-delimitation-bill-12387945#publisher=newsstand",
+ "source_count": 3,
+ "provider": "groq",
+ "en": {
+  "headline": "DMK backs Delimitation Bill, adds 22 MPs to govt side",
+  "hook": "The ruling coalition gets a fresh boost in Parliament.",
+  "what": "The Dravida Munnetra Kazhagam announced its support for the Delimitation Bill. Its 22 members of Parliament will now vote with the ruling alliance, increasing its strength.",
+  "why": "A stronger government may push reforms faster, affecting policies that impact youth. Keep an eye on upcoming legislative changes.",
+  "tags": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ]
+ },
+ "ml": {
+  "headline": "DMK ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ, 22 എംപികളോടെ സർക്കാരിന്റെ ശക്തി വർധിച്ചു",
+  "hook": "പുതിയ പിന്തുണ, സർക്കാർ കൂടുതൽ ശക്തി നേടി",
+  "what": "ഡ്രാവിഡാ മുന്നെത്ര കജനകം (DMK) ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി. അതിന്റെ 22 എംപികൾ ഇപ്പോൾ സർക്കാരിന്റെ കൂട്ടത്തിൽ ചേരുന്നു, പാർലമെന്റിലെ അംഗസംഖ്യ വർധിച്ചു.",
+  "why": "ഇത് സർക്കാർ വേഗത്തിൽ നയങ്ങൾ നടപ്പാക്കാൻ സഹായിക്കും, നമ്മുടെ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കുക.",
+  "tags": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ],
+  "say": "പുതിയ പിന്തുണ, സർക്കാർ കൂടുതൽ ശക്തി നേടി. ഡ്രാവിഡാ മുന്നെത്ര കജനകം (DMK) ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി. അതിന്റെ 22 എംപികൾ ഇപ്പോൾ സർക്കാരിന്റെ കൂട്ടത്തിൽ ചേരുന്നു. പാർലമെന്റിലെ അംഗസംഖ്യ വർധിച്ചു. ഇതോടെ സർക്കാർ വേഗത്തിൽ നയങ്ങൾ നടപ്പാക്കാൻ കഴിയും. നമ്മുടെ ജീവിതത്തെ നേരിട്ട് ബാധിക്കും. വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങൾക്ക് ശ്രദ്ധിക്കുക.",
+  "ok": true,
+  "tags_en": [
+   "DMK",
+   "Delimitation",
+   "Parliament",
+   "India"
+  ]
+ },
+ "beats": {
+  "cover": "DMK'S SURPRISE POWER BOOST",
+  "cover_accent": "POWER",
+  "beats": [
+   {
+    "title": "SURPRISING SHIFT?",
+    "accent": "SHIFT",
+    "query": "parliament floor",
+    "en": "Did you know the opposition just switched sides in Parliament?",
+    "ml": "നിങ്ങൾക്ക് അറിയാമോ, എതിർ പാർട്ടി ഇപ്പോൾ പാർലമെന്റിൽ വശം മാറ്റിയിട്ടുണ്ടെന്ന്?"
+   },
+   {
+    "title": "BUT ACTUALLY...",
+    "accent": "ACTUALLY",
+    "query": "politicians handshake",
+    "en": "But actually, the DMK has thrown its weight behind the Delimitation Bill.",
+    "ml": "പക്ഷേ, വാസ്തവത്തിൽ DMK ഡെലിമിറ്റേഷൻ ബില്ലിന് പിന്തുണ നൽകി."
+   },
+   {
+    "title": "DMK SUPPORTS BILL",
+    "accent": "SUPPORTS",
+    "query": "DMK logo",
+    "en": "The Dravida Munnetra Kazhagam announced its support, adding 22 MPs to the ruling coalition.",
+    "ml": "ഡ്രാവിഡാ മുന്മെത്ര കജഗം (DMK) അവരുടെ പിന്തുണ പ്രഖ്യാപിച്ചു, 22 MPs-കളെയും സർക്കാർ കൂട്ടത്തിൽ ചേർത്തു."
+   },
+   {
+    "title": "22 NEW VOTES",
+    "accent": "NEW",
+    "query": "parliament seats",
+    "en": "Those 22 members will now vote with the government, boosting its numbers.",
+    "ml": "ഈ 22 അംഗങ്ങൾ ഇനി സർക്കാരിനൊപ്പം വോട്ട് ചെയ്യും, അതിനാൽ സർക്കാർ ശക്തി വർധിക്കും."
+   },
+   {
+    "title": "YOUTH IMPACT",
+    "accent": "IMPACT",
+    "query": "young people tech",
+    "en": "A stronger government can push reforms faster, shaping policies that affect your education, jobs, and tech future.",
+    "ml": "ശക്തി കൂടിയാൽ, സർക്കാർ റീഫോംസ് വേഗത്തിൽ നടപ്പാക്കാം, അത് നിങ്ങളുടെ വിദ്യാഭ്യാസം, ജോലി, AI ആപ്പുകൾ എന്നിവയെ ബാധിക്കും."
+   },
+   {
+    "title": "STAY ALERT",
+    "accent": "ALERT",
+    "query": "phone notification",
+    "en": "Keep an eye on upcoming legislative changes—they could change your daily life.",
+    "ml": "അതിനാൽ, വരാനിരിക്കുന്ന നിയമ മാറ്റങ്ങളെ ശ്രദ്ധിക്കുക—അത് നിങ്ങളുടെ ജീവിതത്തെ മാറ്റാം."
+   }
+  ],
+  "ml_ok": true
+ }
+}
